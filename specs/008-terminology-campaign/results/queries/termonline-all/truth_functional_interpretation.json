@@ -1,0 +1,692 @@
+{
+ "key": "truth-functional interpretation",
+ "term": "Truth-Functional Interpretation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:15:32+00:00",
+ "status": "ok",
+ "note": "variant=Truth-Functional Interpretation; 审定公布名词库=2554; 海峡两岸名词对照库=613; 其他来源数据库=88; 预公布名词数据库=97; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "source": "数学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.120",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于一定规则为概念、符号、对象等赋予意义的过程。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像中获取所摄对象语义信息的基本过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "心理学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师依据某一理论或个人经验，对当事人的问题、反应进行因果说明的一种咨询技术。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.128",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "对遥感影像的解释，或识别的过程，即进行分类的过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "数学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0100",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "逐条翻译和执行每一条程序语句的计算机程序。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "source": "世界历史名词",
+   "wordNumber": "05.0108",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "十二月党人的纲领，1821-1823年制定。主要主张包括：废除农奴制和等级制，建立共和国，把土地分给农民等。"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "source": "数学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "source": "数学名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "电子学名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻真实与真相",
+   "en": "truthfulness of news and truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "一对不同领域对事实反映的概念。新闻作品凸显的是事实中具有新闻价值的部分，与对事实的全面记录、反映有所不同。关于某一事实的真相可能表现为几十万字的记录或几十小时的音像，而新闻报道可能仅表现为几百字的文字"
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "释梦",
+   "en": "dream interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地震解释",
+   "en": "seismic interpretation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工判读",
+   "en": "manual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "影像判读",
+   "en": "image interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "map interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "函数式编程",
+   "en": "functional programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "对心理问题进行剖析的咨询技巧。在学校心理咨询中，咨询者依据心理学理论、知识或人生经验，分析、说明求咨者心理问题的成因和性质，使对方有所领悟，为随后的指导及求咨者的思维、情绪、行为转变奠定基础。"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具解释分数或分数变化内涵的程度的测量性能。"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "巫师或当事人根据自然界出现的某些异常现象而探知事物所要出现的结果。在现实生活中，最常见的征兆是天象兆，另外还有植物兆、动物兆、人体兆、梦兆。"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "揭示文化符号性与解释性的文化人类学（民族学）分支。解释人类学由美国人类学家格尔兹（Clifford Geertz）开创，格尔茨强调人类文化的符号性和阐释性，认为人类是被自身编织的意义之网所束缚的动物，"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "source": "马克思主义",
+   "wordNumber": "05.0125",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，法国著名的马克思主义经济学家，国际马克思大会主席热拉尔·迪梅尼尔（Gérard Duménil）提出关于价值转型问题的所谓“新解释”。认为总产品的总生产价格一般不等于总价值。而且可"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张文化分析是寻求意义系统的解释科学。由美国人类学家格尔茨(C.Geertz）于20世纪70年代提出，认为人是由其自身编织的意义之网所支撑的动物，而文化就是这种意义之网。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

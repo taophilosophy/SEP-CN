@@ -1,0 +1,222 @@
+{
+ "key": "monotonicity",
+ "term": "monotonicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:19:10+00:00",
+ "status": "ok",
+ "note": "variant=monotonicity; 审定公布名词库=18; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "纠缠单调列",
+   "en": "entanglement monotone",
+   "source": "物理学名词",
+   "wordNumber": "06.0754",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0097",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "在一个推理系统中，得出的结论不会随推理前提条件的增加而改变。"
+  },
+  {
+   "cn": "单调线路",
+   "en": "monotone circuit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0426",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在其中没有否定门出现的线路。"
+  },
+  {
+   "cn": "单音喇叭",
+   "en": "monotone horn",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.054",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车电器",
+   "subjectName": "汽车电器",
+   "publishYear": "2013",
+   "definition": "只具有一个音调的喇叭。"
+  },
+  {
+   "cn": "单调加载",
+   "en": "monotonic loading",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调函数",
+   "en": "monotone function",
+   "source": "数学名词",
+   "wordNumber": "05.0052",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调算子",
+   "en": "monotone operator",
+   "source": "数学名词",
+   "wordNumber": "07.0336",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调类",
+   "en": "monotone class",
+   "source": "数学名词",
+   "wordNumber": "09.0026",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非单调逻辑",
+   "en": "non-monotonic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0004",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "前提的集合和结论的推导关系不具有单调性的形式逻辑。也就是前提集合的增大不意味着结论集合的增大，某些原来成立的结论可能因为增加了新的前提而不再成立。"
+  },
+  {
+   "cn": "单调差分格式",
+   "en": "monotone difference scheme",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调收敛定理",
+   "en": "monotone convergence theorem",
+   "source": "数学名词",
+   "wordNumber": "05.0217",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调似然比",
+   "en": "monotone likelihood ratio",
+   "source": "数学名词",
+   "wordNumber": "09.0624",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调差分格式",
+   "en": "monotone difference scheme",
+   "source": "数学名词",
+   "wordNumber": "010.0561",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极大单调算子",
+   "en": "maximal monotone operator",
+   "source": "数学名词",
+   "wordNumber": "07.0337",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "保单调差分格式",
+   "en": "monotonicity preserving difference scheme",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "保单调差分格式",
+   "en": "monotonicity preserving difference scheme",
+   "source": "数学名词",
+   "wordNumber": "010.0562",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单调阻尼稳定点",
+   "en": "monotonically damped stable point",
+   "source": "生态学名词",
+   "wordNumber": "05.106",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "具时滞的逻辑斯谛产生振荡，在某一条件下，种群动态单调地趋向一个平衡水平，这个平衡水平称为单调阻尼稳定点。"
+  },
+  {
+   "cn": "二阶单调随机占优",
+   "en": "second degree stochastic monotonic dominance",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0065",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "对于风险资产A与B，如果所有风险厌恶的并且永不满足的个体都更加倾向于A，则称A二阶单调随机占优于B。"
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单优种浮游生物群落",
+   "en": "monotone plankton community",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单调曲率螺线",
+   "en": "monotone curvature spiral",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

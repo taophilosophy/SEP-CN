@@ -1,0 +1,42 @@
+{
+ "key": "nominalist",
+ "term": "nominalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:13:01+00:00",
+ "status": "ok",
+ "note": "variant=nominalist; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "货币名目论",
+   "en": "nominalism",
+   "source": "经济学名词",
+   "wordNumber": "14.080",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "同货币金属论相对应的一种货币学说。这一学说认为货币只是计量商品价值的一种符号或票证，货币的价值只是一种名目，和货币材料的价值无关，货币也无需要有内在的实质性价值，强调含金银量不足的铸币和无价值的票券也"
+  },
+  {
+   "cn": "社会唯名论",
+   "en": "social nominalism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会作为共相只是一个名称而不具有客观实在性﹐社会后于个体（殊相）﹐只有个别的感性个体才是真实存在的社会理论。与“社会唯实论”相对。原本是欧洲中世纪经验哲学非正统派的唯名论概念，后为现代社会理论"
+  },
+  {
+   "cn": "概念唯名论",
+   "en": "conceptual nominalism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是人为构建出来的，在现实中并没有对应的存在物，是一种名义上的存在物的学说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

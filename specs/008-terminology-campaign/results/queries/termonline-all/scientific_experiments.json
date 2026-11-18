@@ -1,0 +1,742 @@
+{
+ "key": "scientific experiments",
+ "term": "scientific experiments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:15:28+00:00",
+ "status": "ok",
+ "note": "variant=scientific experiments; 审定公布名词库=579; 海峡两岸名词对照库=111; 其他来源数据库=53; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "科学实验",
+   "en": "scientific experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在人工控制的条件下，运用一定的仪器设备，观察研究自然现象及其规律性的特殊的社会实践形式。是获取经验事实和检验科学假说、理论真理性的根本途径。与实验观察相近。"
+  },
+  {
+   "cn": "科学经验",
+   "en": "scientific experience",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中在受控条件下通过观察和实验等取得的可靠数据等研究资料。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "风景园林名词",
+   "wordNumber": "10.0049",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括材料与构造、模型、土壤、气象等。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "农学名词",
+   "wordNumber": "18.003",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "通过实际操作来探究自然或社会规律的过程。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "试验",
+   "en": "experiment",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0717",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "按照程序确定一个或多个特性的方法。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "行为医学名词",
+   "wordNumber": "2.137",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "（1）由实践得来的知识或技能。（2）个体在某一时刻所具有的主观精神世界。是一种对客观事物和可以意识到的机体内部过程的态度。是“自我实现理论”的概念之一。"
+  },
+  {
+   "cn": "假想实验",
+   "en": "thought experiment,gedanken experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "综合试验",
+   "en": "integrated experiment,complex experiment",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "科学规划",
+   "en": "scientific planning",
+   "source": "风景园林名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "以科学的思维方式，科学的分析手段与方法，按照科学的规划程序进行的符合客观实际的规划活动。"
+  },
+  {
+   "cn": "科学分类",
+   "en": "scientific classification",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "按照一定的标准，根据各门科学的区别和联系，依据事物的矛盾和运动形式的特殊性，确定每门科学在科学总联系中的地位，揭示整个科学的内部联系和层次结构，从而把科学区分成不同的门类。"
+  },
+  {
+   "cn": "科研规范",
+   "en": "scientific norm",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "约束科学研究人员的规范、准则。包括科研人员的道德规范、科研成果的评价规范、科研的技术规范等。科研规范的内容渗入科研全过程，对参与其中的人员形成道德和学术上的约束，是科学研究能够良好进行的重要保证。"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为科学理论不断逼近客观真理，它们假设的不可观察实体也真实存在。"
+  },
+  {
+   "cn": "科学进步",
+   "en": "scientific progress",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学研究向某一个特定的方向发展。如不断逼近真理或解决问题的能力提升。"
+  },
+  {
+   "cn": "科学变迁",
+   "en": "scientific change",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.030",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学在发展历程中，其理论、概念、方法等都可能发生的变化。"
+  },
+  {
+   "cn": "科学推理",
+   "en": "scientific reasoning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.076",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在科学实践中通过概括与抽象得出规律。"
+  },
+  {
+   "cn": "科学合理性",
+   "en": "scientific rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学符合严格程序（如逻辑方法）或具有实现目标（如带近真理或解决问题）的有效性。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "科学研究",
+   "en": "scientific research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "旨在发现新事实和新理论知识的认识活动。运用严密系统的科学方法，以认识世界、探索真理为目标的活动过程。"
+  },
+  {
+   "cn": "科学方法",
+   "en": "scientific method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.006",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究的方法或科学认识的方法，是人们进行研究活动的程序、方式、手段和规则。"
+  },
+  {
+   "cn": "前科学",
+   "en": "pre-scientific",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "学名",
+   "en": "scientific name",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "交叉试验",
+   "en": "crossover experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值实验",
+   "en": "numerical experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工程实验",
+   "en": "engineering experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型试验",
+   "en": "prototype experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "现场实验",
+   "en": "field experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然实验",
+   "en": "natural experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类比实验,模拟实验",
+   "en": "analogue experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "田间试验",
+   "en": "field experiment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水文实验",
+   "en": "hydrological experiment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "船模试验",
+   "en": "tank experiment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "顿悟经验",
+   "en": "“Aha” experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "用户体验",
+   "en": "user experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科学可视化",
+   "en": "scientific visualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据",
+   "en": "scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学发现",
+   "en": "scientific discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学计算",
+   "en": "scientific computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据库",
+   "en": "scientific databases",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学大数据",
+   "en": "Scientific Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科研众筹",
+   "en": "scientific research crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国科学数据》",
+   "en": "China Scientific Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "学会",
+   "en": "scientific society",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "从事某一学科的人组成的、便于进行学术交流，开展学术活动和进行友好交往的群众性学术研究团体。"
+  },
+  {
+   "cn": "科学争论",
+   "en": "scientific debate",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.13",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因概念、方法、解释和应用等方面出现分歧而发生的论争，是科学知识集体生产的一个重要组成部分，也是科学发展最重要的创造性因素之一。"
+  },
+  {
+   "cn": "科学激励",
+   "en": "scientific inspiration",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.16",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "促成科学的兴起与发展的重要因素之一，分为外在因素和内在因素：前者包括社会经济、军事等实用的需要以及宗教、文化等价值因素；后者指科学的内在激励方式，比如对科学发现优先权的竞争。"
+  },
+  {
+   "cn": "科学范式",
+   "en": "scientific paradigm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "某一段时期内公认的科学模型或模式，并在此期间为实践共同体提供了典型问题和解答。通常表现为处于该模型或模式下的研究者都承诺同样的规则和标准来从事科学实践。"
+  },
+  {
+   "cn": "科学生产率",
+   "en": "scientific productivity",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "描述科学家的科学成果的产出率的指标。"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "科学共同体做出的一系列新的承诺或共识，并建立一个科学实践的新基础，即科学共同体专业承诺发生了转移，打破了传统的活动，实现从一个范式到另一个范式的转变过程。"
+  },
+  {
+   "cn": "科学必然性",
+   "en": "scientific inevitability",
+   "source": "马克思主义",
+   "wordNumber": "01.0054",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与哲学必然性相区别。是科学研究的对象。是指事物内部、现象背后的不依赖于人的意识而存在的事物联系与发展过程的本质，是自然、社会和人类思维所固有的客观规律性。科学的任务就是要透过复杂的偶然现象来揭露事物发"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "科学革命",
+   "en": "scientific revolution",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "大多数科学家们放弃旧范式而接受新方案时，实现范式转换的过程。在这一过程中，往往社会性因素起主要作用，而非遵守普遍适用的合理性规则。"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体为提高自身的道德水平，在道德实践中根据一定的理论、原则和规范，自觉地进行自我培养的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "科学研究纲领",
+   "en": "scientific research program",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "典型的描述重大科学成就的单位，由硬核、与之相关的由辅助假说构成的“保护带”和启发法构成。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

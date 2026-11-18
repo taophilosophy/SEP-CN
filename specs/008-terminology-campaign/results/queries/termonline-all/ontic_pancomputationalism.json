@@ -1,0 +1,432 @@
+{
+ "key": "ontic pancomputationalism",
+ "term": "ontic pancomputationalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:09:15+00:00",
+ "status": "ok",
+ "note": "variant=ontic pancomputationalism; 审定公布名词库=294; 海峡两岸名词对照库=89; 其他来源数据库=2; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "视沟",
+   "en": "optic groove,optic sulcus",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "30.001",
+   "subjectFullName": "组织学与胚胎学_胚胎学_眼和耳的发生",
+   "subjectName": "眼和耳的发生",
+   "publishYear": "2014",
+   "definition": "神经管头端尚未闭合前，在左右神经褶内面各出现的一浅沟。是眼的发生部位。"
+  },
+  {
+   "cn": "视沟",
+   "en": "optic groove;optic sulcus",
+   "source": "兽医学名词",
+   "wordNumber": "07.237",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "胚胎发育过程中，神经管前端尚未闭合之前，在左右神经褶内面各出现的一浅沟。"
+  },
+  {
+   "cn": "光–电–光转换",
+   "en": "optic-electrical-optic conversion",
+   "source": "光学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "光学_光电检测与光学传感器",
+   "subjectName": "光电检测与光学传感器",
+   "publishYear": "2021",
+   "definition": "先将输入的光信号转换为电信号，然后对电信号进行交换和处理，再转换为光信号，从而实现对光信号处理的过程。"
+  },
+  {
+   "cn": "视神经",
+   "en": "optic nerve",
+   "source": "神经外科学名词",
+   "wordNumber": "2.147",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_传导束",
+   "subjectName": "传导束",
+   "publishYear": "2026",
+   "definition": "第Ⅱ对脑神经。为感觉性脑神经。由间脑的底部发出，末端分布于视网膜。能把视觉的刺激信息传递到大脑皮质的视觉中枢。"
+  },
+  {
+   "cn": "视神经",
+   "en": "optic nerve",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.1.5.5",
+   "subjectFullName": "鼻科_鼻解剖",
+   "subjectName": "鼻解剖",
+   "publishYear": "2025",
+   "definition": "第Ⅱ对脑神经。为特殊躯体感觉神经，传导视觉冲动，其纤维始于视网膜的节细胞。节细胞的轴突于视网膜后部汇成视神经盘后穿过巩膜，构成视神经。视神经外面包有3层被膜，分别与相应的3层脑膜相延续。全长4.2～4"
+  },
+  {
+   "cn": "视交叉",
+   "en": "optic chiasm",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.1.5.6",
+   "subjectFullName": "鼻科_鼻解剖",
+   "subjectName": "鼻解剖",
+   "publishYear": "2025",
+   "definition": "由双侧视神经纤维进颅后交叉而成的结构。位于蝶骨体的视交叉沟上。"
+  },
+  {
+   "cn": "视神经管",
+   "en": "optic canal",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "鼻科_鼻解剖",
+   "subjectName": "鼻解剖",
+   "publishYear": "2025",
+   "definition": "由蝶骨小翼和蝶骨体构成，位于蝶窦外、上侧壁的圆形骨性管道。"
+  },
+  {
+   "cn": "视神经",
+   "en": "optic nerve",
+   "source": "麻醉学名词",
+   "wordNumber": "01.309",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_周围神经系统解剖",
+   "subjectName": "周围神经系统解剖",
+   "publishYear": "2024",
+   "definition": "第二对脑神经。为感觉性脑神经，由视网膜节细胞的轴突在视神经盘处汇聚后穿经巩膜而成，传导视觉冲动。"
+  },
+  {
+   "cn": "视泡",
+   "en": "optic vesicle",
+   "source": "兽医学名词",
+   "wordNumber": "07.238",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "神经管前端闭合成前脑泡时，视沟向外侧膨出形成的一对泡状结构。视泡腔与脑室腔相通，视泡的外侧为表面外胚层。"
+  },
+  {
+   "cn": "视杯",
+   "en": "optic cup",
+   "source": "兽医学名词",
+   "wordNumber": "07.239",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "视泡与表面外胚层一起向视泡腔内陷形成的双层杯状结构。其外层的细胞产生色素，发育为色素视网膜；内层为神经上皮层，发育成节细胞、视锥细胞、视杆细胞、双极细胞等。"
+  },
+  {
+   "cn": "视柄",
+   "en": "optic stalk",
+   "source": "兽医学名词",
+   "wordNumber": "07.240",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "连接视泡近端与间脑的索状结构。将发育为视神经。"
+  },
+  {
+   "cn": "视泡",
+   "en": "optic vesicle",
+   "source": "动物学名词",
+   "wordNumber": "4.0435",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "当神经管后端完成封闭后，前脑两侧向左右各伸出的一个膨大泡状结构。是眼球的原基。"
+  },
+  {
+   "cn": "视杯",
+   "en": "optic cup",
+   "source": "动物学名词",
+   "wordNumber": "4.0436",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "视泡远端的壁膨大并向内凹陷形成的双层壁的杯状结构。"
+  },
+  {
+   "cn": "视柄",
+   "en": "optic stalk",
+   "source": "动物学名词",
+   "wordNumber": "4.0437",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "视泡近端，即与间脑相连的地方变细变成管状的部分。"
+  },
+  {
+   "cn": "视腺",
+   "en": "optic gland",
+   "source": "动物学名词",
+   "wordNumber": "5.1805",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "头足类软体动物蛸（章鱼）和乌贼脑附近的1对内分泌腺。产生与性成熟和衰老有关的物质。"
+  },
+  {
+   "cn": "视神经节",
+   "en": "optic ganglion",
+   "source": "动物学名词",
+   "wordNumber": "5.1822",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "从脑发出的神经到达眼球内侧膨大成的结节状构造。头足类软体动物（如乌贼）眼的构造已相当复杂，有发达的视神经节。"
+  },
+  {
+   "cn": "眼囊",
+   "en": "optic capsule",
+   "source": "动物学名词",
+   "wordNumber": "6.0417",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_骨骼系统",
+   "subjectName": "骨骼系统",
+   "publishYear": "2021",
+   "definition": "胚胎头骨内形成的包围着眼的软骨囊。是位于鼻囊后方的凹窝。"
+  },
+  {
+   "cn": "视神经",
+   "en": "optic nerve",
+   "source": "动物学名词",
+   "wordNumber": "6.1213",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "由间脑发出的第二对脑神经。从眼后方的视网膜向脑传递冲动。"
+  },
+  {
+   "cn": "视交叉",
+   "en": "optic chiasma",
+   "source": "动物学名词",
+   "wordNumber": "6.1237",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "两条视神经在脑下面的交叉点形成的一个X状结构。"
+  },
+  {
+   "cn": "视隐窝",
+   "en": "optic recess",
+   "source": "动物学名词",
+   "wordNumber": "6.1253",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_感觉器官",
+   "subjectName": "感觉器官",
+   "publishYear": "2021",
+   "definition": "第三脑室向脑底面突出形成的隐窝。位于终板与视交叉之间。"
+  },
+  {
+   "cn": "视沟",
+   "en": "optic groove\",\"optic sulcus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视交叉",
+   "en": "optic chiasma\",\"optic chiasm",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视板",
+   "en": "optic placode\",\"optic plate",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "视叶",
+   "en": "optic lobe\",\"optic tract",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "视神经节(=视叶)",
+   "en": "optic ganglion(=optic lobe)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "视板",
+   "en": "optic plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视杯",
+   "en": "optic cup",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视柄",
+   "en": "optic stalk",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视放射，视辐射",
+   "en": "optic radiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视辐射（=视放射）",
+   "en": "optic radiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视觉器官",
+   "en": "optic organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视盘",
+   "en": "optic disc",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视泡",
+   "en": "optic vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视神经",
+   "en": "optic nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视神经管",
+   "en": "optic canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视神经节",
+   "en": "optic ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视束",
+   "en": "optic tract",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视叶",
+   "en": "optic lobe",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视隐窝",
+   "en": "optic recess",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视原基",
+   "en": "optic rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视神经萎缩",
+   "en": "optic atrophy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.6.23",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "甲醇食物中毒的主要特征之一，为视网膜节细胞及其轴突发生的病变，一般发生于视网膜至外侧膝状体之间的神经节细胞轴突变性。"
+  },
+  {
+   "cn": "放射性视神经损伤",
+   "en": "radiation induced optic nerve injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "电离辐射照射超过剂量阈值（分次照射累积剂量大于55Gy，一次或等效一次照射剂量大于7Gy）而引起的视神经损伤。临床主要表现为其所支配部位的疼痛和功能障碍（包括视力障碍及视野变化）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

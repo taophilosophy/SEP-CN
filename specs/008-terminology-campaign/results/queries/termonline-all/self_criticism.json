@@ -1,0 +1,682 @@
+{
+ "key": "self-criticism",
+ "term": "self-criticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:19:51+00:00",
+ "status": "ok",
+ "note": "variant=self-criticism; 审定公布名词库=1717; 海峡两岸名词对照库=652; 其他来源数据库=92; 预公布名词数据库=119; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "自组织临界性",
+   "en": "self-organized criticality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.766",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "关于具有时空自由度的复杂动力学系统的时空演化特征的一个概念。指系统能够自发演化到自组织系统的临界状态，达到这样的状态以后，系统的时空动力学行为不再具有特征时间和特征空间尺度，因而表现出覆盖整个系统的具"
+  },
+  {
+   "cn": "自组织临界性",
+   "en": "self-organized criticality",
+   "source": "物理学名词",
+   "wordNumber": "11.0712",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "危害度",
+   "en": "criticality",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.156",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "农学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一植株上的同一朵花的花粉传播到同朵花的雌蕊柱头上，或由同株的花粉传播到同株的雌蕊柱头上的受精过程。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "水产名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "雌雄同体生物的自体受精。"
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region/critical section",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0421",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "并发程序中访问临界资源的代码段。不允许多个进程并发执行。"
+  },
+  {
+   "cn": "临界状态",
+   "en": "critical state,critical condition",
+   "source": "建筑学名词",
+   "wordNumber": "14.1075",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "物质处于气态和液态平衡共存、液体密度与饱和蒸汽密度相同、气液界面消失时的边界状态。临界状态下的温度、压力、密度分别称为物质的临界温度、临界压力、临界密度。"
+  },
+  {
+   "cn": "媒体批评",
+   "en": "media criticism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.089",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "对媒介生产过程、内容、形式、传播伦理、影响、媒介文化等进行的专业分析与评论。"
+  },
+  {
+   "cn": "修辞批评",
+   "en": "rhetoric criticism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.042",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "针对修辞本身——包括口头或文字形式，以及过程——借助现代传播手段所进行的信息性或说服性文本所作的批判性分析、解释以及评价。作为一种质化研究方法，修辞批评系统考察和解释象征性行为及人工制品，有助于深入分"
+  },
+  {
+   "cn": "校勘",
+   "en": "textual criticism",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.291",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "将同一种书的不同版本和有关资料加以比较、考校异同的工作。旨在订正谬误，以保存同一种书不同版本的异文资料或恢复古籍的原貌。"
+  },
+  {
+   "cn": "自交不育",
+   "en": "self-infertility,self-sterility",
+   "source": "水产名词",
+   "wordNumber": "05.075",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "自交不能产生子代的现象。"
+  },
+  {
+   "cn": "自我剪接",
+   "en": "self-splicing;self-cleaving",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.144",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由RNA分子自身催化的剪接方式。"
+  },
+  {
+   "cn": "临界浓度",
+   "en": "critical concentration",
+   "source": "地质学名词",
+   "wordNumber": "18.04.042",
+   "subjectFullName": "地质学_环境地质学_环境污染",
+   "subjectName": "环境污染",
+   "publishYear": "2026",
+   "definition": "为保证环境安全，某种有害物质在环境中允许浓度的上限。"
+  },
+  {
+   "cn": "临界状态",
+   "en": "critical state",
+   "source": "地质学名词",
+   "wordNumber": "13.05.043",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "物质的液相与其饱和气两相之间的差别全部消失的状态。是物质的气态和液态平衡共存时的一个边缘状态。在此状态时，饱和液体与饱和蒸汽的热力状态参数相同，气液之间的分界面消失。"
+  },
+  {
+   "cn": "临界湿度",
+   "en": "critical humidity",
+   "source": "农学名词",
+   "wordNumber": "13.064",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "使农业植物、动物和微生物的生长发育或其初级农产品所处的状态发生显著变化的空气相对湿度阈值。"
+  },
+  {
+   "cn": "急危重患者",
+   "en": "critical patient",
+   "source": "急救医学名词",
+   "wordNumber": "01.054",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医疗安全",
+   "subjectName": "医疗安全",
+   "publishYear": "2025",
+   "definition": "符合国家卫生健康委《需要紧急救治的急危重伤病标准及诊疗规范》中规定的条件，伤病情况严重、需要紧急救治的人。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "批判实在论",
+   "en": "critical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.788",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一种研究世界、人类行为者以及二者之间相互作用的实在论学说。主张社会整体性存在的本体论地位，以实现人类自由解放作为社会科学的认识旨趣。"
+  },
+  {
+   "cn": "批判理论",
+   "en": "critical theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.789",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "国外马克思主义特别是法兰克福学派的学说。认为压迫性的意识形态产生于扭曲的因果关系，而实现从压迫下的解放意味着对权力关系作出因果解释，破除意识形态的合理性外观。主要代表人物有M. 霍克海默（M. Hor"
+  },
+  {
+   "cn": "临界倾角",
+   "en": "critical inclination",
+   "source": "天文学名词",
+   "wordNumber": "03.088",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "取值为 63°26' 或 116°34'的人造地球卫星轨道倾角，此时卫星拱线无长期运动。"
+  },
+  {
+   "cn": "自我批评",
+   "en": "self criticism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关键程度",
+   "en": "criticality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical phase\",\"critical period",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临界区",
+   "en": "critical region\",\"critical section",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自交不育性",
+   "en": "self-sterility\",\"self-infertility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自固化",
+   "en": "self-cure\",\"self-curing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实［自］我，现实［自］我，实际［自］我",
+   "en": "real self\",\"actual self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我评价",
+   "en": "self assessment\",\"self evaluation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临界光周期",
+   "en": "critical photoperiod",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界期",
+   "en": "critical period",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界质壁分离",
+   "en": "critical plasmolysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界波长",
+   "en": "critical wavelength",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界层",
+   "en": "critical layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界高度",
+   "en": "critical height",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界流量",
+   "en": "critical discharge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界速度",
+   "en": "critical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界梯度",
+   "en": "critical gradient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界纬度",
+   "en": "critical latitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原型批评",
+   "en": "archetypal criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0233",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪五六十年代流行于西方的一个十分重要的批评流派，主要创始人是加拿大文学批评家弗莱（Northrop Frye）。原型批评从人类学立场出发，把文学作为文明的一种象征形式，作为人类整体技艺活动中的"
+  },
+  {
+   "cn": "文化批评",
+   "en": "cultural criticism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.062",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "西方人类学在20 世纪60 年代以后已开始出现对本土社会文化的研究，出现了“后现代人类学”和文化批评的研究倾向。文化批评的两种基本类型：一是哲学上的认识论批评；二是经验主义色彩的研究，对社会构造、文化"
+  },
+  {
+   "cn": "高度危险性物品",
+   "en": "critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入人体无菌组织、器官、脉管系统，或有无菌体液从中流过的物品或接触破损皮肤、破损黏膜的物品。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "意外发生的自持或发散的中子链式反应所造成的能量和放射性释放事件。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "批判实务",
+   "en": "critical practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "在服务过程中重视语言、社会文化环境、意识形态、价值观念、宗教信仰和权力关系对实际工作开展的影响，并通过重构权力和话语以实现助人解放目标的社会工作实务。"
+  },
+  {
+   "cn": "批判主义方法论",
+   "en": "critical methodology",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "起源于马克思主义的研究方法论。其主张明确的价值立场，站在受压迫或弱势群体的立场上进行研究，并将研究活动本身作为促成人们解放及社会公平进步的过程。"
+  },
+  {
+   "cn": "批判理性主义",
+   "en": "critical rationalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学方法就是猜测—反驳方法。科学沿着“问题（P1）—假说（TT）—证伪（EE）—问题（P2）”四段图式不断演进，逐渐向高证伪度和高逼真度接近。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "含易裂变材料的系统由于某种意外原因引起的非预计的能量和放射性释放事件。"
+  },
+  {
+   "cn": "极期",
+   "en": "critical phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病各种临床表现明显出现并达到顶峰的阶段。治疗不力者多死亡于此期，主要死亡原因是造血功能衰竭引起的感染和出血。在此期，急性放射病的典型症状均可出现，如患者全身状况变差、严重的出血和感染，等。"
+  },
+  {
+   "cn": "关键限值",
+   "en": "critical limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.7",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "区分食品安全可接受或不可接受的判定标准。该值的确定应该合理、适宜、可操作性强、实用。如果确定过严，会造成即使没有发生影响食品安全的危害，也要采取纠偏措施；如果过松，又会产生不安全的食品。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  },
+  {
+   "cn": "自检",
+   "en": "self-inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业根据产品执行标准对所生产的消毒产品自行检验的过程。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "自屏蔽",
+   "en": "self-shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.11",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "源物质本身及其结构材料对源辐射的屏蔽。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不存在外部因素的控制、管理和引导，系统按照相互默契的某种规则，各尽其责而又协调地自动地形成有序结构的过程。艾什比(W.R.Ashby）首先提出自组织概念，之后学者将之应用于社会组织分析。与“他组织”相"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

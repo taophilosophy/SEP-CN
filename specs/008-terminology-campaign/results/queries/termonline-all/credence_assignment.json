@@ -1,0 +1,562 @@
+{
+ "key": "credence assignment",
+ "term": "credence assignment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:25+00:00",
+ "status": "ok",
+ "note": "variant=credence assignment; 审定公布名词库=227; 海峡两岸名词对照库=95; 其他来源数据库=14; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "采写任务",
+   "en": "assignment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.048",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "编辑部给记者分派的采访报道任务。"
+  },
+  {
+   "cn": "分配问题",
+   "en": "assignment problem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.191",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "一类基本的组合优化问题。对于多项任务和多个执行者（二者数量可以不同），假设可以分配任一执行者来执行任一任务，但不同的任务-执行者分配具有不同的成本；要求寻找分配方案，以最小的总成本执行尽可能多的任务，"
+  },
+  {
+   "cn": "采写任务",
+   "en": "reporting assignment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.037",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "为获取新闻素材而进行的发现线索、收集资料、联络采访对象、进行采访及写稿构思与文字表达等一系列采访编写工作任务。"
+  },
+  {
+   "cn": "区域定位",
+   "en": "regional assignment",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.112",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "将某一基因定位于某一染色体后，利用染色体结构的改变（如缺失、易位等）确定其在染色体上具体位置的方法。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0200",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "赋给变量一个具体的确定值的语句。"
+  },
+  {
+   "cn": "设备分配",
+   "en": "machine assignment",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0980",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "在制订生产计划或执行工作过程中将工作任务分配给设备的活动。"
+  },
+  {
+   "cn": "资源调配",
+   "en": "resource assignment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0676",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "根据突发事件的情况以及预测的结果，对应急资源进行合理分配的过程。"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0509",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "经有批准权的政府部门核准，在用地单位缴纳补偿、安置等费用后将土地交付其使用，或无偿交付其使用的行为。"
+  },
+  {
+   "cn": "见习计划",
+   "en": "understudy assignment",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0586",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "开发个人的能力以填补一项特定的职位。"
+  },
+  {
+   "cn": "土地划拨",
+   "en": "land assignment",
+   "source": "建筑学名词",
+   "wordNumber": "07.0368",
+   "subjectFullName": "建筑学_城乡规划_城乡规划管理",
+   "subjectName": "城乡规划管理",
+   "publishYear": "2014",
+   "definition": "政府依法将国有土地无偿交给全民所有制单位、集体所有制单位或个人使用的措施，是土地使用权转移的一种形式，不涉及土地所有权的变化。包括国有土地的划拨和集体土地的划拨。"
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.070",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "把无线电频率或频道核准给无线电台在规定的条件下使用的过程。"
+  },
+  {
+   "cn": "交通[量]分配",
+   "en": "traffic assignment",
+   "source": "土木工程名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "土木工程_城市道路工程_道路交通",
+   "subjectName": "道路交通",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计划任务书",
+   "en": "planning assignment",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.041",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "指派问题",
+   "en": "assignment problem",
+   "source": "数学名词",
+   "wordNumber": "011.0160",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "按需分配",
+   "en": "demand assignment",
+   "source": "电子学名词",
+   "wordNumber": "21.226",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极点配置",
+   "en": "pole assignment",
+   "source": "自动化名词",
+   "wordNumber": "02.242",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "对病因概率的新的称谓。2003年，美国国立癌症研究所(NCI)等机构对放射流行病学表进行了修订，考虑到病因概率(PC)不是严格意义上的概率，把病因概率改为归因份额。"
+  },
+  {
+   "cn": "指配频率",
+   "en": "assigned frequency",
+   "source": "航海科技名词",
+   "wordNumber": "14.0264",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "转包",
+   "en": "assignment of contract,assign a contract",
+   "source": "土木工程名词",
+   "wordNumber": "13.023",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赋值",
+   "en": "assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机分配，随机分派",
+   "en": "random assignment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销的转让",
+   "en": "irrevocable assignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定转让",
+   "en": "legal assignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有条件合同转让",
+   "en": "conditional assignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专利权转让",
+   "en": "patent assignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "按需分发",
+   "en": "demand assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设备指派",
+   "en": "device assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时延分配",
+   "en": "delay assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信道指配",
+   "en": "channel assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引脚分配",
+   "en": "pin assignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率指配",
+   "en": "frequency assignment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可转让票据",
+   "en": "assignable instrument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可转让信用证",
+   "en": "assignable credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指派优先级",
+   "en": "assigned priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指配频率",
+   "en": "assigned frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指配信道",
+   "en": "assigned channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指配频率",
+   "en": "assigned frequency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指定泳道",
+   "en": "lanes assignment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互联网名称与数字地址分配机构",
+   "en": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "节奏",
+   "en": "cadence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节奏",
+   "en": "cadence\",\"rhythm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在索引",
+   "en": "presence index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟在场",
+   "en": "virtual presence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "队列",
+   "en": "alignment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步频",
+   "en": "cadence\",\"stride rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨频",
+   "en": "cadence\",\"stroke rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "沉郁顿挫",
+   "en": "Pensiveness and Cadence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "节奏",
+   "en": "cadence\",\"pace\",\"stride rate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨频",
+   "en": "cadence\",\"stroke rate\",\"strokes per minute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share，AS",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "2003年，美国国立癌症研究所（NCI）等机构对放射流行病学表进行了修订，考虑到病因概率（PC）不是严格意义上的概率，故改为归因份额。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,482 @@
+{
+ "key": "securitism",
+ "term": "Securitism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:19:22+00:00",
+ "status": "ok",
+ "note": "variant=Securitism; 审定公布名词库=25; 海峡两岸名词对照库=19; 其他来源数据库=8; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "贷款证券化",
+   "en": "load securitization",
+   "source": "经济学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "银行和储蓄机构的贷款资产被转变成可转让证券的过程。"
+  },
+  {
+   "cn": "资产证券化",
+   "en": "assets securitization",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0351",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "将缺乏流动性的资产，转换为在金融市场上可以自由买卖的证券的过程。"
+  },
+  {
+   "cn": "夹层贷款证券化",
+   "en": "mezzanine loan securitization",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0493",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "夹层贷款作为抵押资产池的主要组成部分，依此发行各种优先级证券在资本市场上出售的行为。是由次级优先偿付债务组成的一种混合型的产品。包括期权或权证、附固定收益的权益投资(PIKs)等收益增级工具。"
+  },
+  {
+   "cn": "证券",
+   "en": "securities,bond",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0026",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "各种符合法律法规规范的财产所有权或债权凭证。"
+  },
+  {
+   "cn": "有价证券",
+   "en": "marketable securities",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0350",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "持有人向发行人要求未来现金流支付的权利凭证。"
+  },
+  {
+   "cn": "证券组合",
+   "en": "securities portfolio",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0348",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "投资者对各种证券资产的选择而形成的投资组合。"
+  },
+  {
+   "cn": "证券公司",
+   "en": "securities company",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0742",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "依照公司法的规定，经国务院证券监督管理机构审查批准，从事证券经营业务的有限责任公司或者股份有限公司。是非银行金融机构的一种，专门为客户买卖证券提供服务，但没有融资功能。"
+  },
+  {
+   "cn": "阿罗证券",
+   "en": "Arrow securities",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0095",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "承诺在一特定状态支付一单位购买力，一旦此状态达到，这一购买权即转化为在现货市场上的实际购买力。"
+  },
+  {
+   "cn": "或有证券",
+   "en": "contingent securities",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0094",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在资产交易中，触发某种条件时支付一个单位固定收益的合同。"
+  },
+  {
+   "cn": "冗余证券",
+   "en": "redundant securities",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0097",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "其支付可以表示成其他证券支付的线性组合的证券。"
+  },
+  {
+   "cn": "证券信用交易",
+   "en": "securities financing",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0187",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在委托有效期内，投资者在缺乏足够的资金以支付购买证券所需的价款，或没有足够的证券可供卖出，按规定的保证金比率向经纪商缴纳保证金，其余款项(或证券)由经纪商垫付，而买进或者卖出证券的非现金交易或由有关机"
+  },
+  {
+   "cn": "证券指数基金",
+   "en": "securities index fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0378",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "按照某种指数构成的标准购买该指数包含的全部或者一部分证券的基金，其目的在于达到与该指数同样的收益水平。"
+  },
+  {
+   "cn": "证券特征线",
+   "en": "securities characteristic line,SCL",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0102",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "把单个证券或投资组合超额收益与市场超额收益回归构成的线性函数的图形，该函数描述了个股或组合的超额收益与市场组合超额收益的关系。"
+  },
+  {
+   "cn": "抵押支持证券",
+   "en": "mortgage-backed securities,MBS",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0505",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以基础性抵押的投资组合偿付额为基础向证券持有者提供收益的一种证券类型。"
+  },
+  {
+   "cn": "资产支持证券",
+   "en": "asset-backed securities,ABS",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0494",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "由一定资产未来现金流作为抵押而集中发行的债券和票据。该资产可以为任何一种较好定义的资源(如信用卡回收，汽车贷款回收等)。"
+  },
+  {
+   "cn": "商业按揭支持证券",
+   "en": "commercial mortgage-backed securities,CMBS",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0498",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "将商业房屋作为主要抵押物形成资产池，承诺其收入现金流用于偿付本息，经过担保和信用加强而发行的证券。"
+  },
+  {
+   "cn": "住房抵押贷款支持证券",
+   "en": "residential mortgage-backed securities,RMBS",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0497",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "发放住房抵押贷款的金融机构将持有的抵押贷款，汇集重组成为资产池，经过担保和信用加强而发行的证券。"
+  },
+  {
+   "cn": "债权类金融产品",
+   "en": "bonds financial products,debt securities",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "用以记载和表明债务人责任的各种凭证。如债券、汇票、支票、借条、商业票据等。"
+  },
+  {
+   "cn": "证券发行核准制",
+   "en": "approval for issue of securities",
+   "source": "经济学名词",
+   "wordNumber": "12.175",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "发行人发行证券，不仅要公开全部的可以供投资人判断的材料，还要符合证券发行的实质性条件，证券主管机关有权依照公司法、证券交易法的规定，对发行人提出的申请以及有关材料，进行实质性审查，发行人得到批准以后，"
+  },
+  {
+   "cn": "证券发行注册制",
+   "en": "registration for issue of securities",
+   "source": "经济学名词",
+   "wordNumber": "12.176",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "政府对发行人发行证券，事先不作实质性审查，仅对申请文件进行形式审查，发行者在申报申请文件以后的一定时期以内，若没有被政府否定，即可以发行证券。"
+  },
+  {
+   "cn": "有价证券信托",
+   "en": "securities trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券账户",
+   "en": "securities account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券准备金",
+   "en": "securities reserve",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券发行",
+   "en": "securities issue",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券公司",
+   "en": "securities company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券价格",
+   "en": "securities price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券交易",
+   "en": "securities transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券融资",
+   "en": "securities financing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券市场",
+   "en": "securities market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券投资",
+   "en": "securities investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托有价证券",
+   "en": "securities in trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券管理信托",
+   "en": "securities administration trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券担保放款",
+   "en": "securities collateral loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券交易税",
+   "en": "securities exchange tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券交易税",
+   "en": "securities transaction tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券投资信托",
+   "en": "securities investment trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际证券管理组织",
+   "en": "International Securities Regulatory Organization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证券信托银行",
+   "en": "securities trust management bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "短期可交割证券",
+   "en": "securities realizable at short notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碳资产证券化",
+   "en": "carbon asset securitization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色信贷资产证券化",
+   "en": "securitization of green credit assets",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "零售类贷款信贷资产证券化",
+   "en": "securitization of credit asset for retail loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国证券监督管理委员会",
+   "en": "China Securities Regulatory Commission (CSRC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际证监会组织",
+   "en": "International Organization of Securities Commissions (IOSCO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JR/T 0022-2014 证券交易数据交换协议》",
+   "en": "JR/T 0022-2014 Securities trading exchange protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编造并传播证券、期货交易虚假信息罪",
+   "en": "crime of fabricating and disseminating false information about securities and futures trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诱骗投资者买卖证券、期货合约罪",
+   "en": "crime of inveigling investors into buying and selling securities and futures contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

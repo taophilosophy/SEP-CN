@@ -1,0 +1,752 @@
+{
+ "key": "analytical behaviorism",
+ "term": "analytical behaviorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:07:46+00:00",
+ "status": "ok",
+ "note": "variant=analytical behaviorism; 审定公布名词库=788; 海峡两岸名词对照库=275; 其他来源数据库=30; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "source": "物理学名词",
+   "wordNumber": "01.0461",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "source": "化学名词",
+   "wordNumber": "03.0085",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "分析过程中所涉及的含待测组分的物质。"
+  },
+  {
+   "cn": "解析性",
+   "en": "analyticity",
+   "source": "数学名词",
+   "wordNumber": "05.0377",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解析延拓",
+   "en": "analytic prolongation,analytic continuation",
+   "source": "数学名词",
+   "wordNumber": "05.0448",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.510",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张应当仅通过对客观可观察与可测量的行为事件的检验与分析，而非通过内省的方式研究心理现象的观点。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "行为医学名词",
+   "wordNumber": "2.037",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "西方现代心理学主要学术流派之一。主张摒弃意识、意象等主观意识，研究客观的、可观察到的行为。认为一切行为都是刺激与反应的联结，通过研究刺激与反应之间的规律性联系，达到预测和控制行为的目的。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.017",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "认为人的一切行为的产生与改变都是由刺激与反应之间的联结关系所决定。现代心理学分支之一。由美国心理学家约翰•华生(John B.Watson)于20世纪初所创立。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "心理学名词",
+   "wordNumber": "04.130",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为主观的心理不可捉摸、难以理解，应直接研究纯客观、可观察的人类行为的研究取向。"
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "教育学名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "美国心理学家华生创立的一种关于学习的理论。认为学习是刺激与反应之间的联结，行为是学习者对环境刺激所做出的反应，所有行为都是习得的；教师应当掌握塑造和矫正学生行为的基本方法，强化学生的适宜行为，消除不适"
+  },
+  {
+   "cn": "解析构造学",
+   "en": "analytical tectonics",
+   "source": "地质学名词",
+   "wordNumber": "09.01.005",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "用构造解析方法对地质构造进行多尺度、多层次、多体制、多因素、多世代、全方位动态综合分析的构造地质学分支学科。包括几何学、运动学与动力学解析3个主要方面。"
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "分析样品",
+   "en": "analytical sample ",
+   "source": "草学名词",
+   "wordNumber": "6.0351",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "解析摄影测量",
+   "en": "analytical photogrammetry",
+   "source": "测绘学名词",
+   "wordNumber": "03.283",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "依据像片像点与相应地面点的数学关系，借助计算机用数学解算方法进行的摄影测量。"
+  },
+  {
+   "cn": "解析定向",
+   "en": "analytical orientation",
+   "source": "测绘学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "利用计算机通过数学关系解算各定向元素的作业过程。"
+  },
+  {
+   "cn": "解析纠正",
+   "en": "analytical rectification",
+   "source": "测绘学名词",
+   "wordNumber": "03.311",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "根据像片断面数据或数字高程模型，用解析方法在正射投影仪上实现的微分纠正。"
+  },
+  {
+   "cn": "解析测图",
+   "en": "analytical mapping",
+   "source": "测绘学名词",
+   "wordNumber": "03.313",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "由立体坐标量测仪采集像点，根据像点坐标与目标点坐标间的数字投影关系，通过计算机解析计算获得目标点三维坐标，据此进行立体量测和测图的方法。"
+  },
+  {
+   "cn": "解析测图仪",
+   "en": "analytical plotter",
+   "source": "测绘学名词",
+   "wordNumber": "03.315",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "由计算机实时解析计算，伺服反馈系统实时控制像片盘运动，建立像点坐标与模型点坐标的数字投影关系，据此进行立体量测和测图，其图形数据可被记录、存储、处理或绘图输出的精密立体测图仪。"
+  },
+  {
+   "cn": "分析地图",
+   "en": "analytical map",
+   "source": "测绘学名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在专题地图上，以分析对象的具体指标显示某一方面性质或特性的地图。"
+  },
+  {
+   "cn": "分析检测",
+   "en": "analytical testing",
+   "source": "运动医学名词",
+   "wordNumber": "09.048",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "兴奋剂管制程序的一部分，包括自收到样品起实验室对样品的处置、分析和结果报告。"
+  },
+  {
+   "cn": "分析流行病学",
+   "en": "analytical epidemiology",
+   "source": "计划生育名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "用于探讨疾病或事件的危险因素，检验所假设的危险因素与疾病或事件关系的学科。"
+  },
+  {
+   "cn": "分析物",
+   "en": "analyte",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解析空中三角测量",
+   "en": "analytical aerotriangulation\",\"analytical phototriangulation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "解析法",
+   "en": "analytical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分析天平",
+   "en": "analytical balance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分析蒸馏",
+   "en": "analytical distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分析性心理治疗",
+   "en": "analytical psychotherapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析裂解",
+   "en": "analytical pyrolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分析天平",
+   "en": "analytical balance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分析方法",
+   "en": "analytical method",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分析设备",
+   "en": "analytical equipment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "解析模式， 分析模型",
+   "en": "analytical model",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分析超离心",
+   "en": "analytical ultracentrifugation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分析电泳",
+   "en": "analytical electrophoresis",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分析细胞学",
+   "en": "analytical cytology",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "解析测图仪",
+   "en": "analytical plotter",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行为",
+   "en": "behavior",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据分析",
+   "en": "Big Data Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可视化分析",
+   "en": "Data Visualization Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交媒体分析",
+   "en": "Social Media Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享行为",
+   "en": "sharing behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为生物识别技术",
+   "en": "behavioral biometrics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络行为",
+   "en": "Internet Behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约行为",
+   "en": "contractual behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为检测",
+   "en": "behavior detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据运筹",
+   "en": "Data and Decision Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据统计分析",
+   "en": "Big Data Statistical Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本大数据分析",
+   "en": "Text Big Data Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义",
+   "en": "behaviorism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "西方现代心理学主要流派之一，代表人物有华生(John Broadus Watson）、斯金纳(Burrhus Frederic Skinner）等。认为心理学的研究对象应是可直接观察和测量的行为，而非"
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0078",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在英美等国兴起的具有较大影响的马克思主义研究学派。其特点是将现代数学、数理逻辑和模型分析等分析哲学的研究方法与研究路向应用到重新理解与解读马克思主义。"
+  },
+  {
+   "cn": "分析纯",
+   "en": "analytical reagent, AR",
+   "source": "消毒学",
+   "wordNumber": "6.1.3.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化学试剂的纯度规格，属于二级品，标签颜色为金光红，分析纯试剂主成分含量很高，纯度较高。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "层次分析法",
+   "en": "analytic hierarchy process",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0652",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "从人类学视角来看，层次分析法是指从低层次到高层次、依次展示人类学从宏观、中观到微观等不同层面的研究思路和方法。"
+  },
+  {
+   "cn": "健康行为",
+   "en": "health behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "有利于促进和保持健康的积极行为方式，包括均衡饮食、规律运动、充足睡眠、戒烟限酒等。"
+  },
+  {
+   "cn": "危险行为",
+   "en": "risk behaviors",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "对个人、他人或社会造成潜在危害的行为，通常涉及对健康、安全或公共秩序的威胁，包括吸烟、酗酒、药物滥用、危险驾驶等。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "多数人公认和遵守的楷模行为指标和规则化的行为体系，是一种社会制约手段。"
+  },
+  {
+   "cn": "法律行为",
+   "en": "legal behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "能够产生法律效力的行为。"
+  },
+  {
+   "cn": "患病行为",
+   "en": "illness behavior",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "当一个人感到生病时，为了达到确认疾病存在和寻求减轻疾病痛苦的目的而主动采取的行动。它受到内在的对躯体状况的主观感受，以及外在的社会文化、医疗服务体系等多种因素的复杂影响。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.9",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一切有益于他人和社会的行为，如助人、分享、谦让、合作、自我牺牲等。"
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.10",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "亲社会行为的一种，指一切帮助他人的行为，可以是无偿的，也可以是有偿的。"
+  },
+  {
+   "cn": "医生行为",
+   "en": "physician behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医生行为",
+   "subjectName": "医生行为",
+   "publishYear": "2025",
+   "definition": "经济学视角下能为医生带来最大收益的行为。"
+  },
+  {
+   "cn": "医院行为",
+   "en": "hospital behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医院作为医疗服务提供者，在运营和管理过程中所采取的一系列行动和决策，涵盖医疗服务的提供、资源分配、财务管理、质量控制、患者关系管理以及应对政策和市场环境变化的策略。"
+  },
+  {
+   "cn": "亲社会行为",
+   "en": "prosocial behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.12.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "任何对他人有利的行为。如同他人共患难，帮助或援助他人，合作，安慰他人等。"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruistic behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自发形成的、把帮助他人当作唯一目的，不期望日后任何酬赏和报答，出于完全自愿的一种社会行为。如援助、救助、捐赠等。"
+  },
+  {
+   "cn": "行为评定",
+   "en": "behavior rating",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "通过观察、检查、量表等方法对个体行为问题作出评价的过程。"
+  },
+  {
+   "cn": "饮食行为",
+   "en": "dietary behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体在日常生活中受有关食物和健康观念支配，选择、准备和摄取食物的行为。包括摄入食物的种类、数量、频率、方式以及选择、购买、食用地点等。"
+  },
+  {
+   "cn": "戒除行为",
+   "en": "abstinence behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "戒除不良嗜好的行为，如戒烟等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

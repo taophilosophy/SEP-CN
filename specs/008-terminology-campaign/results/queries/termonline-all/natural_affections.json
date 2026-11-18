@@ -1,0 +1,752 @@
+{
+ "key": "natural affections",
+ "term": "natural affections",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:21+00:00",
+ "status": "ok",
+ "note": "variant=natural affections; 审定公布名词库=2602; 海峡两岸名词对照库=879; 其他来源数据库=128; 预公布名词数据库=99; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.191",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物是否满足自己的需要而产生的态度体验。是与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "行为医学名词",
+   "wordNumber": "4.067",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "一种和人的社会需要相联系的主观体验。具有较大的稳定性、深刻性和持续性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "精神医学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "与人的社会性需要相联系的主观体验。是较短暂的一种心理状态。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "心理学名词",
+   "wordNumber": "02.727",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affect",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.191",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体对客观事物态度的体验，与态度中的内向感受、意向具有协调一致性。态度在生理上是一种较复杂而又稳定的生理评价和体验。包括道德感和价值感两个方面。具体表现为爱情、幸福、仇恨、厌恶、美感等。情绪倾向于个体"
+  },
+  {
+   "cn": "情感需求",
+   "en": "affection needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.098",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。沟通者对自我与他人的态度与价值体验的需要或缺乏。"
+  },
+  {
+   "cn": "冒暑",
+   "en": "summerheat affection",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0197",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "夏季感受暑邪，以发热恶寒，头痛无汗，身形拘急，脘痞心烦，苔薄腻;或头晕，寒热汗出，咳嗽，苔薄微腻等为常见症的暑病。"
+  },
+  {
+   "cn": "新感",
+   "en": "new affection",
+   "source": "中医药学名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "感邪即发病的温病发病类型。"
+  },
+  {
+   "cn": "情感失禁",
+   "en": "affective incontinence",
+   "source": "神经外科学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "情绪和表情完全失去控制能力的表现。情绪不稳，激惹性增高，微不足道的诱因会引发哭泣或大笑。"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.107",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "情感活动异常，波动幅度过长、时间过长，反应与刺激的性质不协调的现象。可分为情感性质改变、情感波动性改变和情感协调性改变。"
+  },
+  {
+   "cn": "情感迟钝",
+   "en": "affective blunting",
+   "source": "行为医学名词",
+   "wordNumber": "16.109",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对外界刺激的内心情感体验强度和情感反应强度下降的情绪状态。"
+  },
+  {
+   "cn": "情感平淡",
+   "en": "affective flattening",
+   "source": "行为医学名词",
+   "wordNumber": "16.11",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对外界刺激缺乏相应情感体验或情感反应的精神病理状态。外在表现为音调平淡、面部表情或肢体语言缺乏变化或呆板。"
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "source": "医学遗传学名词",
+   "wordNumber": "6.13",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一组以情感活动过度高涨或低落为基本症状的精神病。呈多基因遗传。临床特征为躁狂或抑郁反复发作，或交替发作。两次发作之间有明显的间歇期，此时精神活动完全正常。"
+  },
+  {
+   "cn": "情感性攻击",
+   "en": "affective aggression",
+   "source": "生理学名词",
+   "wordNumber": "03.662",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "生理学名词",
+   "wordNumber": "03.770",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病理性激情",
+   "en": "pathological affect",
+   "source": "精神医学名词",
+   "wordNumber": "02.219",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "伴有明显意识障碍的激情发作。一般都存在脑器质性损害的证据。常在刺激下突然发生暴怒情绪和兴奋、冲动行为，伴有自主神经功能紊乱。一般发作数分钟到数小时，很快终止后有体力和精神活动耗竭的表现，如无力、入睡等"
+  },
+  {
+   "cn": "情感平淡",
+   "en": "affective flattening",
+   "source": "精神医学名词",
+   "wordNumber": "02.224",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "对外界刺激缺乏相应的情感体验或反应的一种精神病理状态。外在表现为音调平淡、面部表情或肢体语言缺乏变化或呆板。"
+  },
+  {
+   "cn": "情感麻木",
+   "en": "affective paralysis",
+   "source": "精神医学名词",
+   "wordNumber": "02.227",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "强烈的精神刺激导致情感反应出现暂时的抑制状态。见于急性应激障碍和游离转换障碍受检者。"
+  },
+  {
+   "cn": "情感迟钝",
+   "en": "affective blunting",
+   "source": "精神医学名词",
+   "wordNumber": "02.223",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "对外界刺激的内心情感体验强度及情感反应强度下降的情绪状态。"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.148",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "以显著而持久的情感和心境异常改变为基本临床特征，并伴有相应的思维和行为改变的一组精神障碍。临床上，有躁狂和抑郁两种基本表现形式，分别以心境的持续性高涨或低落为主要表现。这种心境改变一般伴有整体活动水平"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向情感",
+   "en": "positive affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感神经科学",
+   "en": "affective neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负面情感",
+   "en": "negative affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性预测",
+   "en": "affective forecasting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性特质",
+   "en": "affective trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感成分",
+   "en": "affective component",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情意测验",
+   "en": "affective test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "还原记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒-情感模型",
+   "en": "arousal affect model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盐渍土壤",
+   "en": "salt-affected soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "热影响区",
+   "en": "heat-affected zone",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "归化,自然化",
+   "en": "naturalization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然化",
+   "en": "naturalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "疫区",
+   "en": "affected area",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "飘逸",
+   "en": "Natural Grace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然梯度",
+   "en": "natural gradient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然技术",
+   "en": "natural technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天然障碍",
+   "en": "natural obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天然障碍",
+   "en": "natural obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据界",
+   "en": "data nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "妙造自然",
+   "en": "Perfect Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感反应",
+   "en": "affection reflection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者把求咨者表现出来的言语与体语情感信息以言语或体语方式反馈给对方的一种咨询技术。"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著而持久的情感和心境异常改变为基本临床特征，并伴有相应的思维和行为改变的一组精神障碍。临床上，有躁狂和抑郁两种基本表现形式，分别以心境的持续性高涨或低落为主要表现。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "受人口流动影响的儿童",
+   "en": "children affected by migration",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "由于人口流动造成家庭结构或家庭处境特殊的儿童。在中国，如农村进城务工人员的未成年子女（流动儿童），及留守儿童和流浪儿童。"
+  },
+  {
+   "cn": "受艾滋病影响儿童",
+   "en": "children affected by AIDS",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "因父母或本人感染艾滋病病毒而受到不利影响的儿童，特别是父母因艾滋病离世的孤儿。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "天然反应堆",
+   "en": "natural reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "自然界发生自持式裂变反应的地理区域，如加蓬共和国的奥克洛铀矿裂变区。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "自然规律",
+   "en": "natural law",
+   "source": "马克思主义",
+   "wordNumber": "01.0140",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界内在固有的本质联系，具有不以人的意志为转移的客观必然性。自然规律在一定条件下具有可重复性，只要条件具备，合乎规律的现象必然重复出现。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "自然经济",
+   "en": "natural economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0322",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以自给自足为特征的经济形式。生产是为了直接满足生产者个人或经济单位的需要，而不是为了交换的经济形式。它没有社会分工，每一个生产者或经济单位，不但生产自己需要的农产品，而且直接生产自己需要的大部分的手工"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

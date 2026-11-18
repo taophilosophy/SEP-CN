@@ -1,0 +1,802 @@
+{
+ "key": "considerations on representative government",
+ "term": "Considerations on Representative Government",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:09:19+00:00",
+ "status": "ok",
+ "note": "variant=Considerations on Representative Government; 审定公布名词库=2194; 海峡两岸名词对照库=596; 其他来源数据库=560; 预公布名词数据库=295; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "政书",
+   "en": "book on government",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.040",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "中国古代专门记述典章制度沿革变化的图书。"
+  },
+  {
+   "cn": "较大事故",
+   "en": "considerable accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.109",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "造成3人以上（含3人）10人以下死亡，或者10人以上（含10人）50人以下重伤（包括急性工业中毒），或者1000万元以上（含1000万元）5000万元以下直接经济损失的事故。"
+  },
+  {
+   "cn": "地域代表性",
+   "en": "regional representative",
+   "source": "风景园林名词",
+   "wordNumber": "04.0012",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "风景资源在区域范围内具有象征意义。"
+  },
+  {
+   "cn": "国家代表性",
+   "en": "nationally representative",
+   "source": "风景园林名词",
+   "wordNumber": "04.0011",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "风景资源具有国家象征意义。"
+  },
+  {
+   "cn": "代表性传承人",
+   "en": "representative inheritor",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_名城名镇名村保护规划",
+   "subjectName": "名城名镇名村保护规划",
+   "publishYear": "2021",
+   "definition": "文化主管部门认定的已批准公布的非遗代表性项目中的传承人。"
+  },
+  {
+   "cn": "代表作",
+   "en": "representative work",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.054",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "最能显示作者素养、造诣、水准和个人风格的作品。"
+  },
+  {
+   "cn": "代表点",
+   "en": "representative point",
+   "source": "物理学名词",
+   "wordNumber": "05.0513",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "代表性启发法",
+   "en": "representative heuristics",
+   "source": "心理学名词",
+   "wordNumber": "02.158",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据一个业已存在的分类或信息组合来评估整件事的可能性的方法。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.320",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "在受照人群中接受剂量较高的有代表性的个人。国际放射防护委员会(ICRP)在101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念仍然"
+  },
+  {
+   "cn": "代表种",
+   "en": "representative species",
+   "source": "水产名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "群落中典型性或地理域中具代表性的物种。"
+  },
+  {
+   "cn": "代表性过电压",
+   "en": "representative overvoltage",
+   "source": "电气工程名词",
+   "wordNumber": "12.010",
+   "subjectFullName": "电气工程_绝缘配合和高电压试验技术",
+   "subjectName": "绝缘配合和高电压试验技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "代表流域",
+   "en": "representative basin",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "水利科学技术_水文、水资源_应用水文学（水利）",
+   "subjectName": "应用水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在一个自然地理条件和水文特征近似而难以普遍布设水文测站的较广地区内，选定代表性强、面积较小的流域进行系统的水文观测，为研究本地区各流域水文情况提供观测资料，这个流域称代表流域。"
+  },
+  {
+   "cn": "矿样代表性",
+   "en": "sample representativeness",
+   "source": "冶金学名词",
+   "wordNumber": "03.0747",
+   "subjectFullName": "冶金学_选矿_辅助设施及检测",
+   "subjectName": "辅助设施及检测",
+   "publishYear": "2019",
+   "definition": "所采集的矿样对原矿或物料性质的符合程度。"
+  },
+  {
+   "cn": "代表性偏误",
+   "en": "representativeness heuristics",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0147",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在不确定条件下，会抓住问题的某个特征(先验信息)直接推断结果，而不考虑这种特征出现的真实概率以及与特征有关的其他因素。"
+  },
+  {
+   "cn": "施工规费",
+   "en": "government fees on construction",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.154",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "按政府及有关权力部门规定，施工企业必须缴纳或计取的费用。包括社会保险费、住房公积金、工程排污费等。"
+  },
+  {
+   "cn": "政府采购协议",
+   "en": "Agreement on Government Procurement",
+   "source": "经济学名词",
+   "wordNumber": "13.181",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "于东京回合达成的旨在促使各成员国对外开放政府采购市场，实现政府采购国际化和自由化的世界贸易组织单项协议。协议规定了适用范围；政府采购的规则、程序和措施；成员国的义务等内容。协议强调两个原则：国民待遇和"
+  },
+  {
+   "cn": "较大安全事故",
+   "en": "considerable safety accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "造成3人以上10人以下死亡，或者10人以上50人以下重伤，或者1000万元以上5000万元以下直接经济损失的生产安全事故。"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "较大突发环境事件",
+   "en": "considerable environmental accident",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.524",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "凡符合下列情形之一的，为较大突发环境事件：①因环境污染直接导致3人以上10人以下死亡或10人以上50人以下中毒或重伤的；②因环境污染疏散、转移人员5000人以上1万人以下的；③因环境污染造成直接经济损"
+  },
+  {
+   "cn": "政府",
+   "en": "government",
+   "source": "经济学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "公共部门中以谋取公共利益为行动动机，不从事商品或者劳务的生产经营，以税收等公共收入为主要收入来源，免费或部分免费地向公众提供商品和劳务的行为主体的总和。"
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非法报酬",
+   "en": "illegal consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代表性样本",
+   "en": "representative sample",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代表货币",
+   "en": "representative money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法定代理人",
+   "en": "legal representative",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代表性启发法",
+   "en": "representativeness heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "即期现金报酬",
+   "en": "immediate cash consideration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代表汇率",
+   "en": "representative rate of exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贷款",
+   "en": "government loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贸易",
+   "en": "government trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府许可证",
+   "en": "government license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government paper",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债务",
+   "en": "government debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "digital government",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缔约国政府",
+   "en": "contract government",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "政务电报",
+   "en": "government telegram",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "控制方程",
+   "en": "governing equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "链上治理",
+   "en": "on-chain governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为政以德",
+   "en": "Governance Based on Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恕",
+   "en": "Being Considerate / Forgiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一网通办",
+   "en": "all-in-one government services platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“最多跑一次”改革",
+   "en": "reform towards one-stop government services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世卫组织驻华代表处",
+   "en": "WHO China Representative Office",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电子政务",
+   "en": "e-government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据",
+   "en": "government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府信息",
+   "en": "government information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无缝隙政府",
+   "en": "seamless government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "Digital Government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧政府",
+   "en": "smart government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟政府",
+   "en": "virtual government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台政府",
+   "en": "platform government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云端政府",
+   "en": "cloud government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代表性",
+   "en": "representativeness",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.59",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "样本能够代表总体的程度。会影响运用统计学推论总体特征所具有的信心的范围和程度。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "代表性土壤样品",
+   "en": "representative soil samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤采集中所获得的一定量的土壤样品，它与被取样的总体在性质与特点上完全相同。"
+  },
+  {
+   "cn": "广义政府卫生支出",
+   "en": "general government expenditure on health",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "狭义政府卫生支出和社会保障卫生支出。也称一般政府卫生支出（世界卫生组织口径中，一般政府卫生支出还包括外援卫生支出）。它是目前卫生总费用国际分类的指标，反映政府组织和机构作为筹资主体在卫生筹资中所发挥的"
+  },
+  {
+   "cn": "狭义政府卫生支出",
+   "en": "territorial government expenditure on health",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "但不包括对其他筹资部门的转移支付，如对各类医疗保险项目的补助。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "三大规律",
+   "en": "three basic laws on governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0640",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党第十五届六中会议首次提出，要不断深化对共产党执政规律、社会主义建设规律和人类社会发展规律的认识。共产党执政规律指处于执政地位的共产党活动和建设的规律；社会主义建设规律指什么是社会主义和怎样建"
+  },
+  {
+   "cn": "党代表制度",
+   "en": "system of Party representatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0407",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党为确保对人民军队实行绝对领导的一项重要政治工作制度。1927年三湾改编时，毛泽东提出在营、连以上设立党代表，从此，在军队中设立党代表正式成为一项制度。"
+  },
+  {
+   "cn": "统筹兼顾适当安排",
+   "en": "overall consideration and proper arrangement",
+   "source": "马克思主义",
+   "wordNumber": "02.0381",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》中提出的方针。要求作计划、办事、想问题都要从国情出发。解决各种矛盾要从对全体人民的统筹兼顾这个观点出发,就当时当地的实际可能条件,同各方面的人协商,作出各种适"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  },
+  {
+   "cn": "政府购买",
+   "en": "government purchase",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.26",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "政府向社会组织或其他组织支付资金，并由其来完成某些服务活动的做法，包括分购买项目和购买岗位两种基本形式。一般是由政府将其原来直接提供的公共服务事项，通过直接拨款或公开招标的方式，交给具有资质的社会服务"
+  },
+  {
+   "cn": "廉价政府",
+   "en": "cheap government",
+   "source": "马克思主义",
+   "wordNumber": "03.0109",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“廉价政府”最初是资产阶级革命提出的口号。马克思在总结巴黎公社的经验时赞扬公社真正实现了廉价政府的目标，因为它取消了常备军和官吏两项最大的开支。巴黎公社废除了官吏的高新和特权，所有公职人员领取相当于工"
+  },
+  {
+   "cn": "服务型政府",
+   "en": "serviceoriented government",
+   "source": "马克思主义",
+   "wordNumber": "03.0685",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十六届六中全会提出的强化社会管理和公共管理任务之一。是遵循社会公正和民主，按公共参与和共同治理的法定机制和程序而组建起来的，为公民提供满意服务并承担相应责任的政府。"
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府使用预算安排资金进行固定资产投资建设以影响卫生服务市场行为的活动。分为直接投资和间接投资两大类。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "依法执政",
+   "en": "lawbased governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0677",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党坚持依法治国的基本方略，领导人民制定法律，自觉带头遵守法律，采取措施保证法律的实施，不断推进国家经济、政治、文化、社会生活的法制化、规范化，以法治的理念、法治的体制、法治的程序保证党领导人民有效治理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

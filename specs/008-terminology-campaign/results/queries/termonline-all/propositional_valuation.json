@@ -1,0 +1,772 @@
+{
+ "key": "propositional valuation",
+ "term": "propositional valuation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:10:40+00:00",
+ "status": "ok",
+ "note": "variant=propositional valuation; 审定公布名词库=1131; 海峡两岸名词对照库=245; 其他来源数据库=51; 预公布名词数据库=150; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "估值",
+   "en": "valuation",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0012",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "评定资产当时价值的过程。"
+  },
+  {
+   "cn": "赋值",
+   "en": "valuation",
+   "source": "数学名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "赋值",
+   "en": "valuation",
+   "source": "数学名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "指数赋值",
+   "en": "exponential valuation,Krull valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0467",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "评价装置",
+   "en": "valuation device",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.068",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用于完成对研究对象的评比和筛选工作的装置。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[海运保险中的]船舶双重估值",
+   "en": "dual valuation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[资产]估价利润",
+   "en": "valuation profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双重价额条款",
+   "en": "dual valuation clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权估值",
+   "en": "valuation of SDR",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券估价",
+   "en": "valuation of security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权估值",
+   "en": "valuation of special drawing rights (=valuation of SDR)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制器",
+   "en": "proportional controller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例控制",
+   "en": "proportional control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正比计数器",
+   "en": "proportional counter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例度",
+   "en": "proportional band",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例增益",
+   "en": "proportional gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例灵敏度",
+   "en": "proportional sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例元件",
+   "en": "proportional element",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "比例作用",
+   "en": "proportional action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均衡凝固",
+   "en": "proportional solidification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "评分表",
+   "en": "evaluation table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"judge\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病毒变异",
+   "en": "virus variation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节奏变化",
+   "en": "pace variation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机性能评估",
+   "en": "computer performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化过程评估",
+   "en": "standardization process evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RPO评价标准",
+   "en": "RPO evaluation criteria",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "银行绿色评价机制",
+   "en": "green bank evaluation mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色信贷业绩评价",
+   "en": "green credit performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化评估改进",
+   "en": "standardization evaluation and improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性及安全性评测",
+   "en": "reliability and security evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第三方评估机制",
+   "en": "third party evaluation mechanism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "条件价值评估法",
+   "en": "contingent valuation approach,CVA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "通过假定一个特定的情景和描述可能的情况，来询问受试者的最大支付意愿或最小接收意愿的一种为商品或服务估算价值的方法"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "运用科学的研究方法和技术，系统地评价社会工作的介入结果。通过总结整个介入过程，以考察社会工作是否有效，是否达到了预期目的、目标。"
+  },
+  {
+   "cn": "撤离",
+   "en": "evacuation",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "将人员从受辐射影响的地区紧急转移，以避免或减少来自烟羽或高水平放射性沉积物引起大剂量照射的紧急防护行动。在预计的某一有限时间内人员可返回原住地。"
+  },
+  {
+   "cn": "确认",
+   "en": "validation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "获得证据，证明危害分析与关键控制点（HACCP）的各要素是有效的过程。"
+  },
+  {
+   "cn": "变异",
+   "en": "variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0077",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言在共时状态下存在的地域差异或社会差异。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对用人单位工作场所职业病危害因素及其接触水平、职业病防护设施及其他职业病防护措施与效果、职业病危害因素对劳动者的健康影响情况等进行的综合评价。"
+  },
+  {
+   "cn": "评估研究",
+   "en": "evaluation research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为确定一项计划、一种产品、一个组织、一种干预或变革努力的效果而进行的系统的、以数据为基础的研究。"
+  },
+  {
+   "cn": "过程评估",
+   "en": "process evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "监测整个介入过程，对工作过程的每一步骤、每一个阶段分别作出评估。其关心的重点是工作中的各种步骤和程序怎样促成了最终的介入结果，方法是通过了解和描述介入活动的内容来回答服务过程中发生了什么，以及为什么发"
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "评估的方式方法",
+   "en": "evaluation method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对社会工作服务进行评估所采用的主要方式和具体方法。一般来说，个案工作者有以下几种可能的评估方式：1.与案主一起对服务的效果和效率进行评估；2.与同事一起对服务提供联合评估；3.利用原定计划表进行评估。"
+  },
+  {
+   "cn": "诊断性评估",
+   "en": "diagnostic evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "了解学生实习的起点、特点及实习上的困难，以便有针对性地进行实习教学，通常在实习开始前与有实习困难时进行的活动。"
+  },
+  {
+   "cn": "总结性评估",
+   "en": "summative evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "按照一定的价值及技术标准对一个行动方案或具体行动的结果所做出判断。在社会工作中即是对实习效果的评估。"
+  },
+  {
+   "cn": "自我评价",
+   "en": "self-evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的想法、期望、行为及人格特征的判断与评估。"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门按照一定的标准和程序,对学校突发公共卫生事件现场调查处理、患者救治、所采取的措施效果进行综合评估的活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "causal direction",
+ "term": "Causal direction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:08:05+00:00",
+ "status": "ok",
+ "note": "variant=Causal direction; 审定公布名词库=3552; 海峡两岸名词对照库=1057; 其他来源数据库=123; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果推论",
+   "en": "causal inference",
+   "source": "心理学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据实验设计中关于自变量、因变量的界定，采用统计方法对变量间的因果关系进行分析的过程。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "地理学名词",
+   "wordNumber": "21.021",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "反映x和y两个变量之间非对应关系的一种数学模型，在旅游学中有比较广泛的运用。如旅游者行为研究、目的地选择、居民对旅游发展的态度和旅游者目的地服务的感知等。"
+  },
+  {
+   "cn": "因果子波",
+   "en": "causal wavelet",
+   "source": "石油名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "电子学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冗余因果性",
+   "en": "redundant causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "某事件的发生存在多个原因，但其中某些原因即使不发生，该事件也可能发生。"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国经济学家，2003年诺贝尔经济学奖获得者格兰杰(C. Granger)提出的一种确定某一时间序列是否能预测另一时间序列的统计假设检验。即如果时间序列X与时间序列Y之间存在格兰杰因果关系，那么X值可"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0637",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "一个变量信息的加入对另一变量具有预测作用的一种关系。最早由格兰杰(Clive W. J. Granger)于1969年提出。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果分析系统",
+   "en": "causal analysis system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果消息日志",
+   "en": "causal message logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果批判",
+   "en": "criticism of causality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "cause and effect relationship\",\"causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定向仪",
+   "en": "direction finder",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方向错觉",
+   "en": "direction illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "晶向",
+   "en": "crystal direction",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直刺",
+   "en": "direct hit\",\"direct thrust\",\"straight thrust",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击方向",
+   "en": "direction of shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击方向",
+   "en": "direction of shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "儿童死因链",
+   "en": "causal chain of child mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的5岁以下儿童死因之间，以及这些死因与5岁以下儿童死亡事件之间的关系。"
+  },
+  {
+   "cn": "孕产妇死因链",
+   "en": "causal chain of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的孕产妇死因之间，以及这些死因与孕产妇死亡事件之间的关系。"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "定向剂量当量",
+   "en": "directional dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "在相应扩展场中，ICRU球内的特定方向Ω的半径上，深度为d处的剂量当量。符号H'(d,Ω)。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。对弱贯穿辐射，推荐d=0.07 mm。作为皮肤中当量剂量的"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "expressive associations",
+ "term": "Expressive associations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:58+00:00",
+ "status": "ok",
+ "note": "variant=Expressive associations; 审定公布名词库=1005; 海峡两岸名词对照库=301; 其他来源数据库=74; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.011",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "运用语言符号或非语言符号进行的意义呈现。"
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "行为医学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情绪情感产生时身体各部分的动作量化形式。包括面部表情、姿态表情和语调表情等。"
+  },
+  {
+   "cn": "内容表达",
+   "en": "expression",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.362",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "通过数字、文字、音乐、声音、图像、动作等或这些形式的组合对智慧或艺术作品的展现。例如用文字方式体现一个作品时所用的那些词语、句子、段落等就是一种内容表达。"
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "化学工程名词",
+   "wordNumber": "03.758",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "[表达]式",
+   "en": "expression",
+   "source": "数学名词",
+   "wordNumber": "01.0041",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.163",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "善于运用语言和非语言讯息，通过让他人容易理解与倾听的方式，展示出来的沟通表现力。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.35",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "具有相同基因型的不同个体间性状或遗传病表现的程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "遗传学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "具相同基因型的个体间基因表达的变化程度。"
+  },
+  {
+   "cn": "表现度",
+   "en": "expressivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.053",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0123",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "两个或两个以上相同或不同的化学本体之间通过可逆连接而形成复杂物质的过程。"
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.217",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在认识活动中由一事物而想起相关的其他事物，从而深化认识、获得新知的一种创造性思维方法。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "植物学名词",
+   "wordNumber": "13.0386",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "不同学派有不同的理解。在中国，群丛为植被分类的最基本单位，指凡是物种组成基本相同，且层片结构和各层片的优势种或共优种(或标志种)相同，群落结构和动态特征(包括相同的季相变化规律和演替阶段等)以及生境相"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0319",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个关系。即这些类的对象实例集合的笛卡儿积的一个子集合，其中的元素提供了应用领域中一组有意义的信息。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "林学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "具有相似种类组成、优势种、结构和外貌的同类群落的集合。是植物群落的基本分类单‍位。"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0578",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "人们为了某种共同目的组成一定形式的社会组织。是人类在通过个人和家庭不能满足个人或社会需要后的产物。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0232",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的相互作用与相互依存的对应关系。"
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0393",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "一种现象的出现引出另一些现象出现的心理过程。"
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "心理学名词",
+   "wordNumber": "02.575",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由一事物想到另一事物的心理过程。"
+  },
+  {
+   "cn": "群集",
+   "en": "association",
+   "source": "古生物学名词",
+   "wordNumber": "01.0225",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "特定环境下生活在一起的生物联合，暂时不清楚其时空分布范围。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "遗传学名词",
+   "wordNumber": "04.216",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "染色体在有丝分裂时的配对行为。"
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表达能力",
+   "en": "expressiveness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现度,表达度",
+   "en": "expressivity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达度, 表现度",
+   "en": "expressivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "演替群丛",
+   "en": "associes",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达性失语症",
+   "en": "expressive aphasia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现特质",
+   "en": "expressive trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表达盒（=表达组件）",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达载体",
+   "en": "expression vector",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表达组件，表达盒",
+   "en": "expression cassette",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短暂表达（=瞬时表达）",
+   "en": "transient expression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辞达",
+   "en": "Expressiveness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表现力",
+   "en": "expressiveness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邮政特快专递",
+   "en": "express mail service",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中欧班列",
+   "en": "China Railway Express",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用保障极速贷",
+   "en": "credit-guaranteed express loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐而不淫，哀而不伤",
+   "en": "Express Enjoyment Without Indulgence and Express Grief Without Excessive Distress",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际女子职业网球协会",
+   "en": "Women's Tennis Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "明示同意",
+   "en": "express consent",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.051",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "实际上的、明确表示了的同意。就器官捐献而言，指器官供体或器官受体应该在充分知情的条件下，经深思熟虑后，自愿明确表达愿意捐献其器官或者接受器官移植手术。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "书写表达障碍",
+   "en": "written expression disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以拼写准确性，语法、标点准确性，和书面表达清晰度或条理性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "人文表述危机",
+   "en": "crisis of expression",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0616",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代至90 年代，人类学家对传统民族志的书写方式和解释权威产生质疑和无所适从的现象。"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "医疗相关感染",
+   "en": "healthcare associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在接受治疗过程中获得的感染，或医务人员在医疗环境中履行职责时获得的感染。"
+  },
+  {
+   "cn": "器械相关感染",
+   "en": "device-associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在使用某种器械期间或其停止使用某种器械（如呼吸机、导尿管、血管导管等）48小时内出现的与该器械相关的感染。如果停止使用相关器械时间超过48小时后出现了相关感染，应有证据表明此感染与该器械使用有关，"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

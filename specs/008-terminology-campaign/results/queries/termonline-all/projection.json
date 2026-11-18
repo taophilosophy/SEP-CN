@@ -1,0 +1,702 @@
+{
+ "key": "projection",
+ "term": "projection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:21:22+00:00",
+ "status": "ok",
+ "note": "variant=projection; 审定公布名词库=2743; 海峡两岸名词对照库=538; 其他来源数据库=191; 预公布名词数据库=241; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "投射",
+   "en": "project,projection",
+   "source": "数学名词",
+   "wordNumber": "08.0339",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "预测",
+   "en": "projection",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.154",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在掌握现有信息的基础上，依照一定的方法和规律对未来的事情进行测算的行为，以预先了解事情发展的过程与结果。"
+  },
+  {
+   "cn": "投射",
+   "en": "projection",
+   "source": "行为医学名词",
+   "wordNumber": "10.071",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "把自己不喜欢或不能接受的冲动、欲望、观念，无意识地转移到外部世界或他人身上的一种应对反应或自我防御机制。"
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0206",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据投影法所得到的图形。"
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.109",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "一束X射线经由被照体衰减后投射到探测器平面。"
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "物理学名词",
+   "wordNumber": "04.0671",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "核医学名词",
+   "wordNumber": "03.0388",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "(1)对沿某一方向并穿过某一空间区域的所有平行线进行探测计数的过程。(2)按照选定关系函数，将两个图像像素对应变换，实现两个图像间点对点数字投射的图像学方法。"
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0180",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定集合 A 和关系 R ，如果 A ={ x｜(<img src='/root/syzx/static/spz/jsjkx3.02.0180.001.png'/>y)R(x,y) }，则称集合 A "
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "建筑学名词",
+   "wordNumber": "09.0090",
+   "subjectFullName": "建筑学_建筑设计_建筑表现与识图",
+   "subjectName": "建筑表现与识图",
+   "publishYear": "2014",
+   "definition": "一个物体在平行光线的照射下，在其背后与光线垂直的面上形成的图像。"
+  },
+  {
+   "cn": "投射",
+   "en": "projection",
+   "source": "心理学名词",
+   "wordNumber": "15.021",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体将自己不能接受的冲动、欲望或观念无意识地加于他人，认为系他人所有的一种自我防御机制。"
+  },
+  {
+   "cn": "投射",
+   "en": "projection",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.266",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "自我防御机制的一种。把自己不能接受的冲动、欲望和思想在潜意识中转移到他人或周围事物上，使之脱离自我，以减轻内心的焦虑，避免痛苦而求得心灵安慰。"
+  },
+  {
+   "cn": "预测",
+   "en": "forecast,projection",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.222",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "对事物未来的动态和发展趋势作出估计和评价。"
+  },
+  {
+   "cn": "156项工程",
+   "en": "156 projects",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.239",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "中国第一个五年计划时期从苏联与东欧国家引进的156项重点工矿业基本建设项目。奠定了中国初步工业化的部门经济基础。以这些项目为核心，以900余个限额以上大中型项目配套为重点，初步建起了工业经济体系。国家"
+  },
+  {
+   "cn": "投影",
+   "en": "project",
+   "source": "光学名词",
+   "wordNumber": "16.050",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "将成幅的图像尺寸放大投射到屏幕上的过程。"
+  },
+  {
+   "cn": "项目",
+   "en": "project",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "01.003",
+   "subjectFullName": "化工（五）_通类",
+   "subjectName": "通类",
+   "publishYear": "2021",
+   "definition": "为制造特定产品、服务或成果而进行的工作。是人类社会特有的一类经济、社会活动形式，是为创造特定的产品或服务而进行的一次性活动，必须在特定的时间、预算、资源限定范围内依据规范完成。"
+  },
+  {
+   "cn": "投影",
+   "en": "project",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0130",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "从指定关系中找出满足条件的列的集合的一种关系代数运算。"
+  },
+  {
+   "cn": "211工程",
+   "en": "Project 211",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0517",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "中国政府面向21世纪，重点建设100所左右的高等学校和重点学科、专业的建设工程。"
+  },
+  {
+   "cn": "985工程",
+   "en": "Project 985",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0484",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_宏观科技",
+   "subjectName": "宏观科技",
+   "publishYear": "2016",
+   "definition": "1998年5月，中国教育部决定重点支持国内部分高校创建世界一流大学和高水平大学的项目。"
+  },
+  {
+   "cn": "项目",
+   "en": "project",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0003",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在时间、成本和资源等约束下，具有明确目标的一次性任务。"
+  },
+  {
+   "cn": "2061计划",
+   "en": "project 2061",
+   "source": "教育学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "教育学_比较教育_美国教育",
+   "subjectName": "美国教育",
+   "publishYear": "2013",
+   "definition": "1989年由美国促进科学协会制定的美国从20世纪80年代中期至21世纪初在基础教育阶段科学、数学和技术教育改革的三步设想。目的是使美国儿童适应2061年彗星再次临近地球时科学技术和社会生活的发展变化。"
+  },
+  {
+   "cn": "投射",
+   "en": "projection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "投影",
+   "en": "projection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "project",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工程",
+   "en": "project",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "投影",
+   "en": "project",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "project",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "投影变换",
+   "en": "projection change\",\"projection alteration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "任意投影",
+   "en": "compromise projection\",\"arbitrary projection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "投射神经纤维",
+   "en": "projection neurofiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "投射纤维",
+   "en": "projection fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "凸焊",
+   "en": "projection welding",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "投影式",
+   "en": "projection formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投影变形",
+   "en": "projection distortion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "投影转换",
+   "en": "projection transformation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "渐长区间",
+   "en": "projection interval",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投影变换",
+   "en": "projection transformation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投影方程",
+   "en": "projection equation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投影晒印",
+   "en": "projection printing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投影电视",
+   "en": "projection TV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "投影管",
+   "en": "projection tube",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Phoenix项目",
+   "en": "Phoenix Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Impala项目",
+   "en": "Impala Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护工程",
+   "en": "biodiversity protection project",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "软件项目管理",
+   "en": "software project management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谷歌气球",
+   "en": "Project Loon (Google)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人脑计划",
+   "en": "Human Brain Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Apache Mahout项目",
+   "en": "Apache Mahout project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国“地球立方体”项目",
+   "en": "EarthCube Project (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字素养项目",
+   "en": "Digital Literacy Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会设计",
+   "en": "social projection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "按照任务的目的和要求，事先对所要从事的社会事业或社会改革（包括制造社会性产品）绘制蓝图，制定行动计划、方案和步骤的过程。人类活动的主观能动性的体现。"
+  },
+  {
+   "cn": "投影法",
+   "en": "projective test",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "利用漫画组图、抽象图案、不完整的句子、符号等不明确的、非结构的刺激测试受试者反应的心理学实验方法。注重对这些反应进行分析，以确定潜在的人格特征、感觉和态度。"
+  },
+  {
+   "cn": "福克斯计划",
+   "en": "Fox Project",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0123",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对美国衣阿华州塔马（Tama）地区福克斯印第安人的研究。福克斯计划把福克斯人的问题看作主要是文化上的问题，因此，特定的处理方法也在文化方面、并没有把重点放在物质和经济发展上。"
+  },
+  {
+   "cn": "预期剂量",
+   "en": "projected dose",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在没有采取计划防护行动的情况下预期将受到的剂量。"
+  },
+  {
+   "cn": "曼哈顿计划",
+   "en": "Manhattan Project",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "1942年8月美国政府决定将研制原子弹工作统一管理，在纽约曼哈顿地区建立“曼哈顿工程管理区”，研制原子弹计划的代号，其中有16个分计划，包括建立原子反应堆、分离技术，并成立洛斯-阿拉莫斯国家实验室等。"
+  },
+  {
+   "cn": "项目组",
+   "en": "project team",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了完成某个特定的任务而把一群不同背景、不同技能和来自不同部门的人组织在一起的组织形式。如组织中的技术革新小组、电影摄制组、横纵向课题联合组等。"
+  },
+  {
+   "cn": "维柯斯计划",
+   "en": "Vicos Project",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0122",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由美国康奈尔大学（Cornell University）指导并实施的拉丁美洲农村社会变迁计划。维柯斯计划的目的是双重的：在理论上，参加该项目研究的成员打算对这一社区的变迁历程进行实验性的研究；在实践上"
+  },
+  {
+   "cn": "放射建设项目",
+   "en": "radiation construction project",
+   "source": "放射卫生学",
+   "wordNumber": "8.3",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "可能产生放射性职业病危害的新建、扩建、改建、技术改造和技术引进项目。"
+  },
+  {
+   "cn": "福利彩票事业",
+   "en": "welfare lottery project",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家以“扶老助残，济困救孤”为宗旨，通过彩票筹集社会福利资金，兴办残疾人、老年人、孤儿福利事业，以帮助有困难的人为目标的社会福利事业。"
+  },
+  {
+   "cn": "国家大豆行动计划",
+   "en": "national soybean project",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以改善中小学生营养状况为突破口，利用传统大豆加工技术，制作并廉价供给中小学生豆奶及其他豆制品，以有效改善中小学生特别是农村和贫困地区中小学生的营养状况，促进当地大豆及系列化制品加工业的发展的行动计划。"
+  },
+  {
+   "cn": "卫生项目评价",
+   "en": "health project evaluation",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "根据特定标准对卫生项目或政策的运作过程及其结果进行系统评估，判断其价值、质量、效果、效率、相关性、可持续性及其影响因素，为项目改进、推广或终止提供科学依据。"
+  },
+  {
+   "cn": "专项监测",
+   "en": "specific project monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对我国近期发生的某些重大食品安全事件机器对我国某些特殊低质结构区域、污染区域中指示性食品开展的监测"
+  },
+  {
+   "cn": "相乘危险预测模型",
+   "en": "multiplicative risk projection model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "辐射危险估计的一种模型，假定受照射人群的癌症发病或死亡危险等于辐射导致的癌症发病或死亡相对危险与基线（正常）发病或死亡率之积。"
+  },
+  {
+   "cn": "相加危险预测模型",
+   "en": "additive risk projection model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "辐射危险估计的一种模型，假定辐射导致的超额危险与基线危险无关。受照射人群的癌症发病或死亡危险等于基线（正常）发病或死亡危险与辐射导致的额外的癌症发病或死亡危险之和。"
+  },
+  {
+   "cn": "社会服务项目",
+   "en": "social service program/project",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "有明确时间期限和任务目标，面向特定人群社会生活需要方面的服务项目，其可由不同主体在一定时间内实施。"
+  },
+  {
+   "cn": "放射诊疗许可项目",
+   "en": "radiodiagnosis and radiotherapy license project",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "按照诊疗风险和难易程度，对许可的放射诊疗活动进行分类，分为放射治疗、核医学、介入放射学和X射线影像诊断项目。"
+  },
+  {
+   "cn": "学校建设项目设计审查",
+   "en": "school building projects design review",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "依据建设单位提交的设计图纸及有关文字说明，对学校建筑项目选址、用地、用房、布局和配置等设计是否符合学校卫生要求情况进行审阅并提出指导意见的过程。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "国家免费孕前优生健康检查项目",
+   "en": "national free preconception checkup project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.13",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "为计划怀孕夫妇提供优生健康教育、体格检查、临床实验室检查等免费孕期优生健康检查的卫生项目。2010年启动，2019年起纳入国家基本公共卫生服务项目。"
+  },
+  {
+   "cn": "妇幼卫生项目",
+   "en": "woman and child health project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "以促进妇幼健康为目的，在一定的时间和资源范围内开展的一次性任务。是妇幼卫生经常性工作的必要补充。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

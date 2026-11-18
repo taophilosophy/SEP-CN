@@ -1,0 +1,282 @@
+{
+ "key": "experientialism",
+ "term": "experientialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:24:42+00:00",
+ "status": "ok",
+ "note": "variant=experientialism; 审定公布名词库=25; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "体验农业",
+   "en": "experiential agriculture",
+   "source": "风景园林名词",
+   "wordNumber": "05.0264",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "体验者亲自动手，参与某种或多种农产品种植养殖工艺、或非物质文化遗产、或农业产出物加工等劳动。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "experiential formula",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学实验和生产实践中，从数据出发由拟合得到的近似表达式。通常缺少完整的理论推导过程。"
+  },
+  {
+   "cn": "经验常数",
+   "en": "experiential constant",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.029",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中由科学实验或观察数据导出的，以常数表达的不同现象之间的稳定关联。"
+  },
+  {
+   "cn": "经验定律",
+   "en": "experiential law",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在实验或观察的基础上由归纳及类比等方法得出的现象之间的稳定关联。"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们通过知觉获得的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "体验式采访",
+   "en": "experiential interview",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.056",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者为了准确了解和反映某一领域或某一类人的真实生活，在一段时间内亲身参与其中，以亲身体验获取新闻素材的一种采访方式。"
+  },
+  {
+   "cn": "体验营销",
+   "en": "experiential marketing",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.197",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "通过看、听、用、参与的手段，充分刺激和调动消费者的感官、情感、思考、行动、联想等感性因素和理性因素，重新定义、设计的一种思考方式的营销方法。"
+  },
+  {
+   "cn": "亲验式学习",
+   "en": "experiential learning",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0550",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "以受训者为主体，运用体验、分享、共识和行动来亲身体验学习的过程。"
+  },
+  {
+   "cn": "经验知识",
+   "en": "experiential knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0719",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人类在实践过程中，通过感觉和体验所获得的已发生事件的事实知识、原理知识、技能知识和人力知识。"
+  },
+  {
+   "cn": "体验式营销",
+   "en": "experiential marketing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0123",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "企业从感官、情感、思考、行动和联想诸方面设计营销理念，以产品或服务为道具，激发并满足顾客体验需求，从而达到企业目标的营销模式。"
+  },
+  {
+   "cn": "体验广告",
+   "en": "experiential advertising",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0621",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "通过将使用某产品的真实感觉信息传递给消费者进行的广告。"
+  },
+  {
+   "cn": "经验智力",
+   "en": "experiential intelligence",
+   "source": "心理学名词",
+   "wordNumber": "02.771",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "斯腾伯格智力三元论的一个组成，运用经验处理新任务和新情境的能力及信息加工自动化的能力。"
+  },
+  {
+   "cn": "体验性学习",
+   "en": "experiential learning",
+   "source": "心理学名词",
+   "wordNumber": "15.073",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "认知与情感体验并重的学习。"
+  },
+  {
+   "cn": "体验式培训",
+   "en": "experiential training",
+   "source": "教育学名词",
+   "wordNumber": "12.109",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "组织内个人通过参与户外拓展训练、沙盘模拟、行动学习等活动获得初步体验，在培训师指导下，与团队成员共同交流、分享体验，从而提升认识并应用于实践的培训方式。"
+  },
+  {
+   "cn": "经验课程",
+   "en": "experiential curriculum",
+   "source": "教育学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "古德拉德提出的五种课程类型之一。学生实际体验到的课程。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "experiential model",
+   "source": "地理学名词",
+   "wordNumber": "25.057",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "根据经验数据归纳特别是统计得到的模型。"
+  },
+  {
+   "cn": "经验动态模型",
+   "en": "experiential dynamic model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "以过程实测数据为依据，着眼于输入-输出关系而不管过程机理而建立的描述过程动态特性的数学方程（组）及边界条件。"
+  },
+  {
+   "cn": "经验动态模型建模",
+   "en": "experiential dynamic modeling",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "依据输入输出数据来建立经验动态模型。包括确定合适的模型结构、选择适宜的方法和输入信号、求取模型参数（即参数估计）和验证模型的精确性。"
+  },
+  {
+   "cn": "经验式家庭治疗",
+   "en": "experiential family therapy",
+   "source": "行为医学名词",
+   "wordNumber": "20.075",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "由多个分支组成的行为治疗理论流派，认为促进个人成长和家庭凝聚力的方法是释放伪装和内在动力，强调家庭成员之间的良好沟通和个人自我表达的行为治疗方法。"
+  },
+  {
+   "cn": "体验性感觉症状",
+   "en": "experiential sensory symptom",
+   "source": "神经病学名词",
+   "wordNumber": "12.045",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "主要表现为高级皮质功能障碍的感觉症状。包括记忆障碍，如陌生感、似曾相识感、过去经历景象回闪等；知觉障碍，如梦样状态、时间或空间感觉异常、一侧忽视等；情感障碍，如恐惧、生气、抑郁、躁怒、欣快等；以及人格"
+  },
+  {
+   "cn": "经验疗法",
+   "en": "experiential therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验智力",
+   "en": "experiential intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "体验性学习",
+   "en": "experiential learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "experiential model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经验家庭疗法",
+   "en": "experiential family therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知经验自我理论",
+   "en": "cognitive experiential self theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验知识",
+   "en": "empirical knowledge\",\"experiential know ledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

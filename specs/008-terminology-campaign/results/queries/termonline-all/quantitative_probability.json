@@ -1,0 +1,692 @@
+{
+ "key": "quantitative probability",
+ "term": "quantitative probability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:18:19+00:00",
+ "status": "ok",
+ "note": "variant=quantitative probability; 审定公布名词库=510; 海峡两岸名词对照库=213; 其他来源数据库=14; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "定量的",
+   "en": "quantitative",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.128",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "描述事物的动态和趋势，而且指出事物在发展的各个阶段上产生的有关量值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative character,quantitative trait",
+   "source": "植物学名词",
+   "wordNumber": "10.0141",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "由多基因控制、易受环境影响、呈现连续变异的性状。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative character,quantitative trait",
+   "source": "遗传学名词",
+   "wordNumber": "06.066",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "由多基因控制、易受环境影响、呈现连续变异的性状。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative character;quantitative trait",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.118",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "由微效多基因控制、不遵循孟德尔遗传定律、易受环境影响、表型呈连续变异的性状。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative trait;quantitative character",
+   "source": "行为医学名词",
+   "wordNumber": "3.162",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "遗传上由多基因控制、易受环境影响、呈现连续变异的性状。"
+  },
+  {
+   "cn": "概率流",
+   "en": "probability current,probability flux",
+   "source": "物理学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "矿床定量过程模式",
+   "en": "quantitative model",
+   "source": "地质学名词",
+   "wordNumber": "14.02.069",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "通过对某类矿床的地质、地球物理、地球化学等多种信息和成岩成矿实验数据的综合分析，力图定量描述其形成过程中，主要成矿要素(成矿组分、成矿介质、物理化学条件等)变化规律的矿床成因模式。"
+  },
+  {
+   "cn": "定量地层学",
+   "en": "quantitative stratigraphy",
+   "source": "地质学名词",
+   "wordNumber": "07.01.021",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "利用计算机技术对地层中的各种信息数据进行处理，建立和运用数学模型，用以优化地层划分对比的地层学分支学科。"
+  },
+  {
+   "cn": "数量遗传学",
+   "en": "quantitative genetics",
+   "source": "农学名词",
+   "wordNumber": "15.029",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "研究生物群体数量性状遗传变异规律的遗传学分支学科。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative trait",
+   "source": "农学名词",
+   "wordNumber": "06.069",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，易受环境影响，个体间表现的差异只能用数量来区别，呈现连续变异的性状。"
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "农学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由多个微效基因控制，表现为连续分布性状的遗传模式。"
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0144",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "个体间表现的差异只能用数量来区别，变异呈连续性的性状。"
+  },
+  {
+   "cn": "定量分析",
+   "en": "quantitative analysis",
+   "source": "农学名词",
+   "wordNumber": "18.031",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "测定被分析物质的质量或质量分数的分析方法。"
+  },
+  {
+   "cn": "定量的",
+   "en": "quantitative",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定量的",
+   "en": "quantitative",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative character\",\"quantitative trait",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数量性状",
+   "en": "quantitative character\",\"quantitative trait",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定量测定",
+   "en": "quantitative determination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "定量检查",
+   "en": "quantitative examination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "定量细胞光度术",
+   "en": "quantitative cytophotometry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "定量显像",
+   "en": "quantitative imagery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "定量组织化学",
+   "en": "quantitative histochemistry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传",
+   "en": "quantitative inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "定量预报",
+   "en": "quantitative forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "定量分析",
+   "en": "quantitative analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数量变量",
+   "en": "quantitative variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定量金相",
+   "en": "quantitative metallography",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量化宽松",
+   "en": "Quantitative Easing",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算可移植性",
+   "en": "computational portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云应用可移植性",
+   "en": "cloud application portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云数据可移植性",
+   "en": "cloud data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准可移植性",
+   "en": "portability of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据可携权",
+   "en": "right to data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 19941-2017 信息技术 云计算 互操作性和可移植性》",
+   "en": "BS ISO/IEC 19941:2017 Information technology — Cloud computing — Interoperability and portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以活菌计数或病毒滴度测量值为结果判定标准的试验方法。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "通过观测或实验从总体中收集数值型数据，运用统计方法研究总体的数量特征的研究方式。"
+  },
+  {
+   "cn": "定量数据",
+   "en": "quantitative data",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某一数值量度上，由测量得到的研究资料。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0654",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "确定事物某方面量的规定性的科学研究，将问题与现象用数量来表示，进而去分析、考验、解释，从而获得意义的研究方法和过程。定量，就是以数字化符号为基础去测量。定量研究通过对研究对象的特征按某种标准作量的比较"
+  },
+  {
+   "cn": "量的标准",
+   "en": "quantitative standards",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0512",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "德奥传播学派代表人物格累布奈尔（Robert Fritz Graebner）为确定文化圈的发源地和传播路线与区域而提出的鉴别“文化亲缘关系”的两条标准之一。所谓“量的标准”，指的是品质上类似点的数量的"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "通过收集和分析数值数据来研究现象的方法。其侧重于对研究对象进行量化测量和统计分析，以揭示事物之间的关系和规律。例如：收集人群发生某种事件的数量指标，通过统计分析探讨各种因素与疾病和健康的数量依存关系。"
+  },
+  {
+   "cn": "定量方法",
+   "en": "quantitative method",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.42",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "测定被分析物的质量或质量分数的分析方法，可用适当单位的数值表示。"
+  },
+  {
+   "cn": "量变",
+   "en": "quantitive change",
+   "source": "马克思主义",
+   "wordNumber": "01.0082",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质变”相对。事物在数量上的增加或减少，场所改变等方面的变化。是事物运动的基本状态之一。量变的形式是多样的，可以概括为两个基本形式：一是数量上的增减；二是构成事物的要素在排列次序和结构形式上的改变。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "定量数据分析",
+   "en": "quantitative data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "应用统计理论和统计模型，从调查数据中发现有效信息，以便获取研究发现，支持决策制定的过程。"
+  },
+  {
+   "cn": "定量调查方法",
+   "en": "quantitative survey method",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "使用事先设计的调查问卷及相关的测量工具对调查对象进行询问、测量等方式收集定量研究资料的过程。"
+  },
+  {
+   "cn": "定量风险评估",
+   "en": "quantitative risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "基于充足的数据支持，通过统计分析和数学建模等方法对风险的概率和影响程度进行数值量化评估。"
+  },
+  {
+   "cn": "定量风险特征描述",
+   "en": "quantitative risk characterization",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种因素对特定生物、系统或（亚人群）在确定的暴露情形下所产生的已知或潜在不良健康影响的可能性及其相关的不确定性进行定量的描述"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "悬液定量杀菌试验",
+   "en": "suspension quantitative germicidal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将悬浮于液体中的试验菌与消毒因子作用，以作用前后试验菌减少的数量来评价杀灭效果的试验方法。"
+  },
+  {
+   "cn": "悬液定量灭活试验",
+   "en": "suspension quantitative inactivation test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.12",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验病毒悬浮于液体介质中，以灭活率或灭活对数值来评价消毒因子对试验病毒杀灭效果的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

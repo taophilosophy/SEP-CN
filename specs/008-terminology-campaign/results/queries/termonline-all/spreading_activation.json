@@ -1,0 +1,742 @@
+{
+ "key": "spreading activation",
+ "term": "spreading activation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:26:12+00:00",
+ "status": "ok",
+ "note": "variant=spreading activation; 审定公布名词库=2452; 海峡两岸名词对照库=813; 其他来源数据库=61; 预公布名词数据库=170; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "激活扩散模型",
+   "en": "spreading activation model",
+   "source": "心理学名词",
+   "wordNumber": "02.537",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个概念节点被加工或受到刺激时，该节点被激活，并沿与其他节点的连线向四周扩散并逐渐减弱的理论模型。"
+  },
+  {
+   "cn": "铺展",
+   "en": "spreading",
+   "source": "精细化工名词",
+   "wordNumber": "06.0119",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "以固-液界面取代固-气界面，同时液体表面扩展的过程。"
+  },
+  {
+   "cn": "扩张",
+   "en": "spreading",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0104",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "岩石层板块的生长。 "
+  },
+  {
+   "cn": "展宽",
+   "en": "spreading",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.157",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2021",
+   "definition": "轧制时，变形区出口的轧件宽度大于入口的宽度的现象。根据轧辊孔型对展宽作用不同分为自由展宽、限制展宽及强迫展宽。"
+  },
+  {
+   "cn": "铺展",
+   "en": "spreading",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0092",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "液体在另外一种不互溶的液体表面自动展开成膜的过程。母液极性大，子液极性小，子液中混入活性剂，均有利于铺展。"
+  },
+  {
+   "cn": "铺展",
+   "en": "spreading",
+   "source": "化学名词",
+   "wordNumber": "04.1651",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "一种液体在另一种与其不相混溶的液体表面或固体表面上展开的过程。"
+  },
+  {
+   "cn": "撒布",
+   "en": "spreading",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.445",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "跨版广告",
+   "en": "spread",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.082",
+   "subjectFullName": "新闻学与传播学_广告_广告媒介",
+   "subjectName": "广告媒介",
+   "publishYear": "2022",
+   "definition": "将一个广告作品刊登在两个或两个以上的版面上。一般有全页跨版、半页跨版、大四分之一跨版等几种形式。"
+  },
+  {
+   "cn": "宽展",
+   "en": "spread",
+   "source": "冶金学名词",
+   "wordNumber": "09.0323",
+   "subjectFullName": "冶金学_金属加工_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "轧件在轧制前和轧制后的宽度变化量。"
+  },
+  {
+   "cn": "扩散",
+   "en": "spread",
+   "source": "林学名词",
+   "wordNumber": "07.211",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "有害生物地理分布的扩展过程。"
+  },
+  {
+   "cn": "宽展",
+   "en": "spread",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1180",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "轧件在轧制前和轧制后的宽度变化量。"
+  },
+  {
+   "cn": "[检波器]排列",
+   "en": "spread",
+   "source": "石油名词",
+   "wordNumber": "03.0499",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "零散",
+   "en": "spread",
+   "source": "电子学名词",
+   "wordNumber": "11.077",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[检波器]排列",
+   "en": "spread",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_应用地球物理学",
+   "subjectName": "应用地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "播散",
+   "en": "spreading,dissemination",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.317",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "扩展速率",
+   "en": "spreading rate",
+   "source": "地质学名词",
+   "wordNumber": "10.01.023",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "随洋中脊持续扩张，新生洋壳向两侧对称扩展的速率之和。而从一侧测算出的数据则称为半扩张速率。"
+  },
+  {
+   "cn": "扩张极",
+   "en": "spreading pole",
+   "source": "地质学名词",
+   "wordNumber": "10.01.034",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "板块在地球表面的运动遵循欧拉定律，是环绕某根通过地心的轴的旋转运动，旋转轴(或称扩张轴)与地面的交点称为扩张极。"
+  },
+  {
+   "cn": "展膜油剂",
+   "en": "spreading oil",
+   "source": "精细化工名词",
+   "wordNumber": "03.0118",
+   "subjectFullName": "精细化工_农药_原料加工与过程装备",
+   "subjectName": "原料加工与过程装备",
+   "publishYear": "2025",
+   "definition": "用于水面形成油膜的制剂。"
+  },
+  {
+   "cn": "涂布率",
+   "en": "spreading rate",
+   "source": "精细化工名词",
+   "wordNumber": "05.0368",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "由给定数量的涂料制备要求厚度的干漆膜所能覆盖的表面面积。单位为m²/L或m²/kg。"
+  },
+  {
+   "cn": "铺展能力",
+   "en": "spreading ability",
+   "source": "精细化工名词",
+   "wordNumber": "08.0719",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "液体（特别是表面活性剂溶液）能自发地覆盖于另一种液体或固体表面上的能力。"
+  },
+  {
+   "cn": "激活扩散",
+   "en": "spreading activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激活扩散模型",
+   "en": "spreading activation model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扩张",
+   "en": "spreading",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "宽展",
+   "en": "spread",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "零散",
+   "en": "spread",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角展宽",
+   "en": "angular spreading",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水流扩展",
+   "en": "water spreading",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涂胶压延机",
+   "en": "spreading calender",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扩展电阻",
+   "en": "spreading resistance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "涂布率",
+   "en": "spreading rate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "加宽函数",
+   "en": "spreading function",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "区带扩展",
+   "en": "zone spreading",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海底扩张",
+   "en": "seafloor spreading",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "快速扩张",
+   "en": "fast spreading",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩张脊",
+   "en": "spreading ridge",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩张裂谷",
+   "en": "spreading rift",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩张速率",
+   "en": "spreading rate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩张中心",
+   "en": "spreading center",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩张轴",
+   "en": "spreading axis",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "慢速扩张",
+   "en": "slow spreading",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伸展障碍",
+   "en": "spread obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展障碍",
+   "en": "spread obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病毒的蔓延",
+   "en": "spread of a virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据自激活",
+   "en": "data self-activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "戊二醛活化",
+   "en": "glutaraldehyde activation",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在灭菌前，戊二醛水溶液中加入碱或表面活性剂将其碱化的过程，以提高灭菌效果。"
+  },
+  {
+   "cn": "活化探测器",
+   "en": "activation detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "利用辐射产生的感生放射性确定粒子注量率或粒子注量的辐射探测器。"
+  },
+  {
+   "cn": "活化箔",
+   "en": "activation foil",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "用于活化探测器的各种“薄片”（激活片）。多为金属片，如金、铟、铜、镍材料薄片，视金属性能和要求采用多次压延法制备，也有用喷涂法制成。一般测热中子的箔片常要求很薄以减少自身屏蔽效应。"
+  },
+  {
+   "cn": "活化分析",
+   "en": "activation analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "通过测量经辐射活化产生的放射性核素的辐射特征实现元素、核素的定性或定量分析的方法。"
+  },
+  {
+   "cn": "中子活化",
+   "en": "neutron activation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.20",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "由中子源产生的中子照射物品，使物品中的稳定原子核转变为不稳定的放射性原子核的过程。"
+  },
+  {
+   "cn": "自动活化",
+   "en": "self-activation",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.5.4.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "在一定的条件下，神经性毒剂中毒后形成的膦酰化酶可以通过水解而发生脱膦酰基反应恢复催化乙酰胆碱水解功能的过程。"
+  },
+  {
+   "cn": "脂肪酶活动度",
+   "en": "lipase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.7",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "一定量试样中的脂肪酶与纯油脂作用所生成的游离脂肪酸的量，用中和1 克试样（干基）中生成的游离脂肪酸所消耗的氢氧化钾的毫克数表示。"
+  },
+  {
+   "cn": "淀粉酶活性",
+   "en": "diastase activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.25",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "淀粉酶催化淀粉水解成糖的能力，即1 克蜂蜜所含的淀粉酶在40℃、1 小时内转化1%淀粉溶液的毫升数。酶值的高低与蜂蜜的新鲜程度、成熟度、加工工艺、储藏时间有关。"
+  },
+  {
+   "cn": "酶活力",
+   "en": "enzyme activity",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶在一定条件下催化某一特定反应的能力，是表达酶制剂产品的一个特征性专属指标"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "radioactive activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内放射性核素发生核衰变的总数。符号为A。SI单位：贝可[勒尔]，记作Bq。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "活度浓度",
+   "en": "activity concentration",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.5",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位体积的放射性活度。SI单位为贝可每立方米，记作Bq·m-3；或贝可每升，记作Bq·L-1。"
+  },
+  {
+   "cn": "可活化示踪剂",
+   "en": "activable tracer",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.17",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "采用核活化分析，可在很低浓度下对其进行测量的非放射性示踪剂。"
+  },
+  {
+   "cn": "核活动",
+   "en": "nuclear activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "任何研究、生产、提取、加工、处理、应用、搬运、贮存或处置放射性物质或核材料的活动，以及在陆上、水上或空中交通线上运输放射性物质或核材料的活动，或任何其他转移或使用放射性物质或核材料的活动。"
+  },
+  {
+   "cn": "危险活度",
+   "en": "dangerous activity",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "特定放射源的核素在设定的多种照射情景条件下足以引起人体严重有害的组织反应的最小活度估算值。"
+  },
+  {
+   "cn": "验收活动",
+   "en": "acceptance activity",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对可能产生职业病危害的建设项目在施工完成后，建设单位对职业病防护设施进行的自我评价，合格后该项目方可投入生产和使用。"
+  },
+  {
+   "cn": "活动记录",
+   "en": "activity record",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析一个行动中在时间和空间上各个动作发生顺序和关系的图表，例如一次手术的各个动作和环节。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

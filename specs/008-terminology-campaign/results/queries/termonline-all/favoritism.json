@@ -1,0 +1,52 @@
+{
+ "key": "favoritism",
+ "term": "favoritism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:55+00:00",
+ "status": "ok",
+ "note": "variant=favoritism; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "内群体偏爱",
+   "en": "ingroup favoritism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宠姬",
+   "en": "Favorite\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "得意技",
+   "en": "favorite technique\",\"main technique\",\"tokui-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选体",
+   "en": "Xuanti Poetry / Poetry in Prince Zhaoming’s Favorite Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "relation ranking",
+ "term": "relation ranking",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:06:51+00:00",
+ "status": "ok",
+ "note": "variant=relation ranking; 审定公布名词库=4887; 海峡两岸名词对照库=1661; 其他来源数据库=232; 预公布名词数据库=259; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "排序",
+   "en": "ranking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0484",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据之间的内部关系，决定它们的先后次序。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "动物学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "秩次",
+   "en": "rank",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.127",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "变量值按照从小到大顺序所编的秩序号。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "植物学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据种系发生关系决定分类单位在分类系统中的位置。"
+  },
+  {
+   "cn": "职级",
+   "en": "rank",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0353",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "难易程度、责任轻重、所需资格条件及工作性质相同或充分相似的职位集合。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "微生物学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "根据系统发育关系决定分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "品级",
+   "en": "Rank",
+   "source": "世界历史名词",
+   "wordNumber": "05.0022",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "18世纪初至20世纪初，按照官阶表制定的帝俄官员等级，共14等，最高为第1等。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "昆虫学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "根据系统发育关系决定的分类单元在分类系统中的位置。"
+  },
+  {
+   "cn": "嗜食性分级",
+   "en": "preference ranking ",
+   "source": "草学名词",
+   "wordNumber": "2.0283",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "排序报告",
+   "en": "ranking report",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.157",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "反映某一行业在某一领域市场表现的企业排名报告。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "标记序学习",
+   "en": "label ranking",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0224",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "每个样本属于多个标记，标记之间存在序关系，学习的目的是学习一个预测函数，使得对于任何一个样本，对其预测的标记序与它真实的标记序尽可能一致。"
+  },
+  {
+   "cn": "可靠性顺序",
+   "en": "reliability ranking",
+   "source": "化学名词",
+   "wordNumber": "03.2367",
+   "subjectFullName": "化学_分析化学_仪器分析_质谱分析",
+   "subjectName": "质谱分析",
+   "publishYear": "2016",
+   "definition": "使用概率法匹配系统解析质谱结果时，对多个可能的结果按其置信度所排的顺序。"
+  },
+  {
+   "cn": "偏好排序",
+   "en": "preference ranking",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0463",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "个人或群体根据其偏好，对若干个决策方案进行选择，排列出先后顺序。"
+  },
+  {
+   "cn": "等级[排列]法",
+   "en": "ranking method",
+   "source": "心理学名词",
+   "wordNumber": "02.049",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "按一定标准对多个刺激进行排序来制作心理顺序量表的方法。"
+  },
+  {
+   "cn": "学术排行榜",
+   "en": "academic ranking",
+   "source": "教育学名词",
+   "wordNumber": "08.121",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "主要以学术产出的数量和质量作为指标对大学进行评价，并根据评价结果排序而形成的榜单。"
+  },
+  {
+   "cn": "大学排行榜",
+   "en": "university ranking",
+   "source": "教育学名词",
+   "wordNumber": "08.120",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "根据一定的评价指标和权重对大学进行综合评价，并根据评价结果进行排序而形成的榜单。"
+  },
+  {
+   "cn": "煤阶",
+   "en": "coal rank",
+   "source": "地质学名词",
+   "wordNumber": "14.06.062",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "煤化作用深浅程度的等级，也用以表示煤变质程度。通常借助于煤化作用参数(或称煤级参数)综合确定。"
+  },
+  {
+   "cn": "社群地位",
+   "en": "social rank",
+   "source": "畜牧学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "畜牧学_繁殖_繁殖生理",
+   "subjectName": "繁殖生理",
+   "publishYear": "2020",
+   "definition": "对于放牧配种的家畜，公畜保留野生动物的某些群体习性。通过争斗确定其在群体中的地位。"
+  },
+  {
+   "cn": "煤阶",
+   "en": "coal rank",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "03.0027",
+   "subjectFullName": "化工（一）_煤制油及天然气_煤制油",
+   "subjectName": "煤制油",
+   "publishYear": "2017",
+   "definition": "反映煤化作用深浅程度的等级。"
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "管列",
+   "en": "rank",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "秩",
+   "en": "rank",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "等级［排列］法",
+   "en": "ranking method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性顺序",
+   "en": "reliability ranking",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分支排列",
+   "en": "cladistic ranking",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "秩相关，等级相关",
+   "en": "rank correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交替排序法",
+   "en": "alternation ranking method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工作评定法",
+   "en": "job ranking method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个别排序法",
+   "en": "individual ranking method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分布式定序算法",
+   "en": "distributed ranking algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "百分等级",
+   "en": "percentile rank\",\"PR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "秩和检验",
+   "en": "rank-sum test",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级规模法则",
+   "en": "rank-size rule",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "秩亏平差",
+   "en": "rank defect adjustment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系亲缘",
+   "en": "floral relation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名赛",
+   "en": "ranking round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名表",
+   "en": "ranking list\",\"biography",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界杯排名",
+   "en": "World Cup Ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排序学习",
+   "en": "learning to rank",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"placing\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线排序学习",
+   "en": "online learning to rank",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "rank",
+   "source": "马克思主义",
+   "wordNumber": "03.0048",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会为了维护少数统治阶级的特权而形成的等级森严的阶层。不同的等级之间，乃至同一阶级、阶层之间也存在着不同的特权差异，并且其间壁垒森严。"
+  },
+  {
+   "cn": "风险分级",
+   "en": "risk ranking",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据对目标人群健康造成不良影响的可能性和严重性，对食源性危害和/或食品的公共健康风险进行系统分析并排序的过程"
+  },
+  {
+   "cn": "市民等级",
+   "en": "civil rank",
+   "source": "马克思主义",
+   "wordNumber": "03.0176",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西欧中世纪封建城市的居民，主要指手工业者和商人。他们受到封建领主的司法和行政管辖，担负赋税和劳役。13—14世纪以后，该等级开始分化，一些大行东逐渐演变为剥削雇佣工人的资本家，成为市民阶级，而一些小行"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "风险分级管理",
+   "en": "risk ranking management",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "以风险分析为基础，结合食品生产经营者的食品类别、经营业态及生产经营规模、食品安全管理能力和监督管理记录情况，按照风险评价指标，划分食品生产经营者风险等级，并结合当地监管资源和监管能力，对食品生产经营者"
+  },
+  {
+   "cn": "等级评价",
+   "en": "rank value method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "应用离差法原理，根据符合正态分布的计量资料的均值、标准差和位置的远近，划分成5、7或9个等级，建立某指标（如身高、体重）正常值的方法。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

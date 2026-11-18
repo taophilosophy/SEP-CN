@@ -1,0 +1,742 @@
+{
+ "key": "non-logical terminology",
+ "term": "non-logical terminology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:18:16+00:00",
+ "status": "ok",
+ "note": "variant=non-logical terminology; 审定公布名词库=3719; 海峡两岸名词对照库=1251; 其他来源数据库=203; 预公布名词数据库=155; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "非逻辑思维",
+   "en": "non-logical thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.205",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "没有固定的逻辑规则，不采取形式逻辑推理的、带有灵活性的思维活动方式。"
+  },
+  {
+   "cn": "非单调逻辑",
+   "en": "non-monotonic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0004",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "前提的集合和结论的推导关系不具有单调性的形式逻辑。也就是前提集合的增大不意味着结论集合的增大，某些原来成立的结论可能因为增加了新的前提而不再成立。"
+  },
+  {
+   "cn": "非经典逻辑",
+   "en": "non-classical logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0003",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指与经典逻辑不同的逻辑系统。早期这类系统的发展是源自使逻辑更接近自然语言的需要，或者是使某些哲学概念更为精确而提出的。"
+  },
+  {
+   "cn": "非逻辑思维",
+   "en": "non-logic thinking",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0392",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "不受固定的逻辑规则约束，直接根据事物所提供的信息进行综合判断的一种思维方式。"
+  },
+  {
+   "cn": "术语",
+   "en": "term,terminology",
+   "source": "语言学名词",
+   "wordNumber": "05.232",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各门学科的专门用语，在专业范围内表示单一的专门概念，如语言学术语“主语”、哲学术语“物质”、政治经济学术语“商品”等。在一定条件下，某些术语可由专门意义引申出一般的意义，从而获得全民性，成为一般词语。"
+  },
+  {
+   "cn": "地层术语",
+   "en": "stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.023",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "各地层类别中使用的地层单位术语。可分为正式地层术语和非正式地层术语两类。"
+  },
+  {
+   "cn": "图书馆术语",
+   "en": "library terminology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "图书馆及相关领域用来表示概念的词或短语的集合。用来正确标记图书馆及其相关领域中的事物、现象、特性、关系和过程，具有专业性、系统性、单义性和科学性的特点。"
+  },
+  {
+   "cn": "术语服务",
+   "en": "terminology service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对词表元数据和词表内容以及其他知识组织资源（如规范文档、分类表等）进行浏览、查询、应用等各种万维网服务的统称。术语服务通过万维网应用程序接口（API）支持计算机对词表及其内容的访问和调用，是在网络环境"
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0250",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "信息抽取研究领域的一部分。目的是从给定语料中抽取出有关术语（表达概念的词语）及其定义。"
+  },
+  {
+   "cn": "术语标准",
+   "en": "terminology standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0893",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "以各种专用术语为对象所制定的标准。包括术语、定义(或解释性说明)和外文对应的词等。"
+  },
+  {
+   "cn": "术语库",
+   "en": "terminology bank",
+   "source": "语言学名词",
+   "wordNumber": "11.275",
+   "subjectFullName": "语言学_计算语言学_语言资源",
+   "subjectName": "语言资源",
+   "publishYear": "2011",
+   "definition": "存储专业术语的数据库。数据库中的每条记录是一个专业术语和与该术语有关的各种信息。例如，注释、类别、出处、语言学特征、其他语种的译名等。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.018",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "非阈逻辑",
+   "en": "non-threshold logic,NTL",
+   "source": "电子学名词",
+   "wordNumber": "14.151",
+   "subjectFullName": "电子学_半导体器件与集成电路",
+   "subjectName": "半导体器件与集成电路",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典",
+   "en": "terminological dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.166",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。汇集某一学科或专业门类术语，并给出定义的词典。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正式地层术语",
+   "en": "formal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.024",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "根据地层规范，给予恰当定义和命名的地层单位术语。"
+  },
+  {
+   "cn": "非正式地层术语",
+   "en": "informal stratigraphic terminology",
+   "source": "地质学名词",
+   "wordNumber": "07.01.025",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "仅作为普通名称使用，而不属于已明确定义的地层单位术语。如砂质组、笔石带等。非正式地层单位术语不必给予地理专名。"
+  },
+  {
+   "cn": "统一名词术语",
+   "en": "unification of terminology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.020",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对稿件的名词术语进行核对，使之符合规范的编辑加工活动。"
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“和”的运算。表示一篇文献只要含有A、B两项中的任何一项即可命中，通常用算符“或”或“OR”表示多个文件集并列的关系。"
+  },
+  {
+   "cn": "移植命名学",
+   "en": "transplantation terminology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "术语抽取",
+   "en": "terminology extraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非阈逻辑",
+   "en": "non-threshold logic，NTL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语[数据]库，专业词库",
+   "en": "terminological database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典，专业词典",
+   "en": "terminological dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地名术语",
+   "en": "terminology of geographical names",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑查询",
+   "en": "logical query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑单元",
+   "en": "logical unit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑关系",
+   "en": "logical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logical design",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑算子",
+   "en": "logical operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标准术语",
+   "en": "Standard Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人术语",
+   "en": "Robot Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网术语",
+   "en": "IoT Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据术语",
+   "en": "Big Data Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算术语",
+   "en": "Cloud Computing Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据术语标准",
+   "en": "data terminology standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理术语",
+   "en": "unstructured data management terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲属称谓",
+   "en": "kinship terminology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "用于指称各类亲属的称谓制度。在一些民族中有对称和引称的区分。"
+  },
+  {
+   "cn": "默多克亲属制度分类法",
+   "en": "Murdock kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0405",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家默多克（George Peter Murdock）将世界所有的亲属称谓制度归纳为六类。①夏威夷式：夏威夷型的称谓只用性别和辈份来区分亲属，即同性别同辈分是一种称谓，同性别不同辈分或同辈分不"
+  },
+  {
+   "cn": "摩尔根亲属制度",
+   "en": "Morgan kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0403",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国民族学家摩尔根（Lewis Henry Morgan）是亲属制度的创始者，他先后在《人类家庭的血亲和姻亲制度》《古代社会》等名著中介绍和阐述了人类历史上存在过的三种亲属制度：马来亚式、图兰尼亚式和"
+  },
+  {
+   "cn": "罗维亲属制度",
+   "en": "Lowio kinship terminology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0404",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家（Robert Lowie）以尊一辈的血亲为基础，辅以支系、旁系之别，提出“四分法”。①行辈型：把旁系的亲属称谓依辈分全部纳入直系的亲属称谓体系中。②二分合并式：把旁系的亲属称谓一分为二，"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  },
+  {
+   "cn": "非焚烧处理",
+   "en": "Non-incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "除传统焚烧处理以外的处理，如高温蒸汽处理、高温干热处理、化学法处理、微波处理等。"
+  },
+  {
+   "cn": "非电离辐射",
+   "en": "non-ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.3",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "不引起物质原子和分子电离、只引起其振动、转动或电子能级改变的辐射。如紫外线、可见光、红外线、微波和高频电磁场。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

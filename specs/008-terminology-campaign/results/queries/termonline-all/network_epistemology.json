@@ -1,0 +1,732 @@
+{
+ "key": "network epistemology",
+ "term": "network epistemology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:04+00:00",
+ "status": "ok",
+ "note": "variant=network epistemology; 审定公布名词库=1330; 海峡两岸名词对照库=481; 其他来源数据库=254; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "技术认识论",
+   "en": "epistemology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探究技术知识、技术发明、技术变迁的解释，创造人工物过程中设计的逻辑，技术问题的来源及类型，技术传统，技术设计的层级结构，技术思维等的理论。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "由节点和连线构成且使其信息相互联系，代表信息传输、接收、共享的虚拟系统。它借助文字阅读、图片查看、影音播放、下载传输、游戏聊天等，形成了不同于现实世界的虚拟世界。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "电力名词",
+   "wordNumber": "01.238",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "网络拓扑学中,将理想电路元件及其相互连接作为整体看待的集。"
+  },
+  {
+   "cn": "∏形网络",
+   "en": "∏-network",
+   "source": "电力名词",
+   "wordNumber": "01.255",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由三条串联支路构成的二端对网络,每个端对由两头的支路之一的两节点构成,最头上的两个节点连接成一等位点。<img src='/root/syzx/static/spz/dianli3.01.255.01"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "物理学名词",
+   "wordNumber": "03.0321",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "化学名词",
+   "wordNumber": "05.0727",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "组成单元或链段间通过许多插入的键相互连接，并使高分子整体扩展到微相边界的一种高度分枝聚合物结构。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.661",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "由相互连接的节点和弧段组成的系统结构。"
+  },
+  {
+   "cn": "网[络]",
+   "en": "network",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.022",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在物理上或/和逻辑上,按一定拓扑结构连接在一起的多个节点和链路的集合。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "地理学名词",
+   "wordNumber": "25.038",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "由具有无结构性质的节点与相互作用关系构成的体系。"
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "电气工程名词",
+   "wordNumber": "01.456",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0029",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网[络]",
+   "en": "network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连网",
+   "en": "networking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络-网络接口",
+   "en": "network-network interface\",\"NNI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络",
+   "en": "network\",\"net",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "胞内网",
+   "en": "intracellular network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "毛细血管网",
+   "en": "capillary network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弹性网",
+   "en": "elastic network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞外网",
+   "en": "extracellular network",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育网络",
+   "en": "developmental network",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "河网，水系",
+   "en": "stream network",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂网络",
+   "en": "complex network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机网",
+   "en": "Computer Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络时延",
+   "en": "network delay",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络拥塞",
+   "en": "network congestion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络协议",
+   "en": "network protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络工程",
+   "en": "network engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先进网络",
+   "en": "Advanced Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络体系结构",
+   "en": "network architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "确定性网络",
+   "en": "deterministic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据网",
+   "en": "data network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络虚拟化",
+   "en": "network virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "组织网络",
+   "en": "organizational network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "广义指一些相关企业借助于现代信息技术，通过长期契约和股权的形式，为达到共享技术，分摊费用以及满足市场需求等目标而联结起来的一种合作性企业组织群体。狭义指企业中的多个部门组合成相互合作的网络，各网络结点"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各种可利用的人际沟通渠道所结成的构架。人际沟通常常受到可利用的沟通渠道的限制，这些渠道所构成的不同结构和不同性质的沟通网络，决定着信息交流的取向和质量。"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "研究者基于分析的方便对社会网络的范围做出的人为限定。有些社会网络本身具有明显的边界，比如与世隔绝的村落中的人际关系网；然而绝大部分现实生活中的社会网络不具有明确边界，研究者一般根据关系类型、交往内容、"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "一定网络边界内的社会关系的总和。多用于分析具有相对明确范围的社会网络，比如村落共同体、工作组织，或学校班级内的关系网络。整体网是与个体网相对的概念，是以网络内全体成员间关系为分析对象，其结构形态是分析"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络社会",
+   "en": "network society",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.45",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由新技术变革引发的一种全新的社会结构。这一社会结构源于数字信息和通信技术所构成的技术模式与社会组织以及社会的变化之间的相互作用，其基本特征包括基于创新、全球化与分散性集中的资本主义经济；强调适应性和弹"
+  },
+  {
+   "cn": "网络反腐",
+   "en": "network anticorruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0781",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以网络为平台，通过网络舆论、网络举报而对国家工作人员进行监督的行为，是反腐败斗争的新方式。网络作为一种工具，具有快捷、低成本、低风险的技术优势，但也存在信息失真、扩散的问题，网络反腐的有序进行必须依靠"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络分析法",
+   "en": "network analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0104",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从个人的活动追溯其全面的社会关系的方法。都市人类学家用网络分析法揭示了都市居民组织、经济、政治、亲属等关系的目的和过程，及这些社会关系的结构和功能。"
+  },
+  {
+   "cn": "事件流网络",
+   "en": "event flow network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现在某一期间或某一过程中研究对象所经历的各个具体事件及其相互关联的一种图表。"
+  },
+  {
+   "cn": "事件状态网络",
+   "en": "event-state network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的顺序表现个案所经历的各种状态以及状态间关系的图表。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

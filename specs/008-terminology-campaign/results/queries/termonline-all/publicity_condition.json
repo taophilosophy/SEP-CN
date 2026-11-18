@@ -1,0 +1,712 @@
+{
+ "key": "publicity condition",
+ "term": "publicity condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:10:00+00:00",
+ "status": "ok",
+ "note": "variant=publicity condition; 审定公布名词库=1864; 海峡两岸名词对照库=374; 其他来源数据库=153; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "宣传",
+   "en": "publicity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "运用各种符号传播一定的观点以影响和引导人们的态度及行为的一种社会性传播活动。"
+  },
+  {
+   "cn": "公众",
+   "en": "publics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.196",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "形成和维持公共性的行动主体。它是复数的，具有交错的身份和能动形式；也是流动的，可能在特定时刻为特定项目而聚集。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.197",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "人们在其个体或社群实践活动中形成的相互需要、彼此依存的社会属性及其利益相关的普遍状态。它所指称的概念，既是描述性的，也是规范性的，同时具备意识形态含义，常被用以标识与公共利益相关的人、空间以及制度，同"
+  },
+  {
+   "cn": "出版物",
+   "en": "publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.001",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "以知识信息为内容，以一定的物质形态为载体，通过复制而传播的文化产品。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.175",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "与私密性相对的概念。（1）能够联系或影响到所有个体或某些团体的特性。（2）为公众开放或共享的状态。（3）受政府或个体捐赠资助的非营利特性。"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0131",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "与组织具有现实或潜在利益关系或者影响一个组织实现其目标能力的任何群体。通常的七种类型公众包括融资公众、媒体公众、政府公众、市民团体、本地公众、一般公众、内部公众。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "吐沙",
+   "en": "conditioning",
+   "source": "水产名词",
+   "wordNumber": "08.472",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "将活的贝类放在盛有清洁海水的容器中，以除去其体内的沙子和泥土。"
+  },
+  {
+   "cn": "条件处理",
+   "en": "conditioning",
+   "source": "电气工程名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "净化",
+   "en": "conditioning",
+   "source": "石油名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "石油_油气收集与储运工程_气田集输及输气管道",
+   "subjectName": "气田集输及输气管道",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "宣传型公共关系",
+   "en": "publicity type public relations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.026",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系类型与形态",
+   "subjectName": "公共关系类型与形态",
+   "publishYear": "2022",
+   "definition": "运用大众传播媒介和内部沟通方法开展宣传工作，树立良好组织形象的公共关系活动模式。目的是广泛发布和传播信息，让公众了解组织，以获得更多的支持。"
+  },
+  {
+   "cn": "融合出版",
+   "en": "integrated publication;convergence publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.048",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "将出版业务与新兴技术、管理创新融为一体的新型出版形态。"
+  },
+  {
+   "cn": "公开发行",
+   "en": "public distribution;public circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.053",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "对出版物发行地区和读者对象不做限定的发行方式。"
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "公有土地",
+   "en": "public land\",\"public domain",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "合格发表",
+   "en": "valid publication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有效发表",
+   "en": "effective publication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公共市场",
+   "en": "public market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共投资",
+   "en": "public investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信贷",
+   "en": "public credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公开投标",
+   "en": "public tender",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有链",
+   "en": "public blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据",
+   "en": "public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共充权",
+   "en": "public empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "公众成员所受到的来自计划照射情况、应急照射情况和现存照射情况中的辐射源的照射。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "城市中向公众开放的场所。如街道、广场、公园、图书馆等，可以供人们聚会、交往、休闲娱乐等。"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "由中央或地方政府投资兴建，并以较低租金提供给低收入群体的住房形式。各国实行的方式不同，有的国家允许相当比例的非盈利性社会组织参与融资、兴建、供给或管理，而被称为“社会住房”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "一种介于国家与社会之间并具有自治性的公共空间，是公民个体参与公共事务的媒介。与“私人领域”相对。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "甘斯提出的概念，指参与到特定趣味文化中的社会群体。这些群体通常是自发聚集起来的，并不属于特定阶层，是一个分散性的社会阶层。"
+  },
+  {
+   "cn": "公共宗教",
+   "en": "public religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.8",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "共和国的公民信仰形式，或宗教信仰的公共表达形式。亦指现代社会中宗教在公共领域发挥影响。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "公学",
+   "en": "public school",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.7",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "英、法等国为贵族和资产阶级子女特别开设的独立中等学校，具有培养精英的功能。中国在清末也出现了旨在培养近代商务政务人才的私立学校，如南洋公学。"
+  },
+  {
+   "cn": "公害",
+   "en": "public nuisance",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.4",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动污染和破坏环境，对公众的健康、安全、生命、公私财产及生活舒适性等造成的危害。"
+  },
+  {
+   "cn": "公共工程",
+   "en": "public utility",
+   "source": "马克思主义",
+   "wordNumber": "03.0058",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为促进就业和经济社会发展而主要由国家兴办的建设项目。如在亚洲，气候和土地条件需要中央集权的政府兴办水利灌溉等公共工程，以履行行政之外的经济职能。而在法国路易·拿破仑·波拿巴（Louis-Napoléo"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "马克思主义",
+   "wordNumber": "03.0059",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会公众的、与公众有关的，主要由政府提供的公用的、公共的利益。资产阶级和以往国家的统治者都声称，其政府和统治是为了全社会各阶层的公共利益，以掩盖其少数剥削者的特殊权益。"
+  },
+  {
+   "cn": "社会舆论",
+   "en": "public opinion",
+   "source": "马克思主义",
+   "wordNumber": "03.0168",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会中多数成员基于一定需要和利益，通过言语、非言语形式，对社会生活中有争议的事件公开表达的态度、意见、要求、情绪，通过一定的传播途径，进行交流、碰撞、感染，整合而成的、具有强烈实践意向的表层集合意识，"
+  },
+  {
+   "cn": "公开选拔",
+   "en": "public election",
+   "source": "马克思主义",
+   "wordNumber": "03.0745",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "面向社会选择地方党政机关工作部门、工作机构的领导成员或者其人选的行为。党政机关工作部门、工作机构的副调研员以上及其他相当层次的非领导职务出现空缺，也可以公开选拔。从职务层次看，公开选拔适用于厅局级正职"
+  },
+  {
+   "cn": "公益性",
+   "en": "public welfare",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的特点。一个项目或者一个团体具有非营利性和社会效益性，其行动要遵循社会大众的共同利益，最终的结果要符合绝大多数人的利益。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

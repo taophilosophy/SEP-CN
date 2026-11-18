@@ -1,0 +1,772 @@
+{
+ "key": "personal explanation",
+ "term": "Personal explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:10:07+00:00",
+ "status": "ok",
+ "note": "variant=Personal explanation; 审定公布名词库=932; 海峡两岸名词对照库=226; 其他来源数据库=100; 预公布名词数据库=96; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "个人层级解释",
+   "en": "personal level of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.509",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "心理学解释的一种倾向。主张存在个人层级解释和亚人层级解释的区分。个人层级解释是使用常识心理学观念，以个体的人与环境交互作用表现出的欲望、动机、目的与信念、行为之间的关系给出心理过程的解释。"
+  },
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "当事人",
+   "en": "person",
+   "source": "运动医学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "相关的自然人、组织或其他实体。"
+  },
+  {
+   "cn": "人称",
+   "en": "person",
+   "source": "语言学名词",
+   "wordNumber": "04.242",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "一种语法范畴。由动词的词形变化所表示的行为动作之所属——属于说话一方的，是第一人称；属于听话一方的，是第二人称；属于说话人与听话人之外第三方的，是第三人称。有些语言里，谓语动词的词形变化要与代词、名词"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人化",
+   "en": "personalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人差",
+   "en": "personal error\",\"personal equation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "叫人电话",
+   "en": "person-to-person call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人格结构，人格架构",
+   "en": "personality structure\",\"personality architecture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基于解释[的]学习",
+   "en": "explanation-based learning\",\"EBL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人差方程",
+   "en": "personal equation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人空间",
+   "en": "personal space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人归因",
+   "en": "personal attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体无意识",
+   "en": "personal unconscious",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人距离",
+   "en": "personal distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人建构",
+   "en": "personal construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人契约",
+   "en": "personal contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "个人投资",
+   "en": "personal investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "个人信贷",
+   "en": "personal credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "personal saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人支票",
+   "en": "personal cheque",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人资本",
+   "en": "personal capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "个人地理数据库",
+   "en": "personal geodatabase",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "假面状花冠",
+   "en": "personate corolla",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人身权",
+   "en": "personal right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人同意",
+   "en": "personal consent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "侵人犯规",
+   "en": "personal foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侵人犯规",
+   "en": "personal foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "personal contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个性化定制",
+   "en": "personalized customization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个性化服务",
+   "en": "personalized services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0069999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体稳定表现的心理特质，由遗传与环境因素共同决定。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "用来防御物理、化学、生物等有害因素可能对人体造成伤害的措施。"
+  },
+  {
+   "cn": "个人剂量",
+   "en": "personal dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.3.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_新的实用量",
+   "subjectName": "新的实用量",
+   "publishYear": "2025",
+   "definition": "参考体模在旋转和各向同性宽射束均匀平行照射场景下有效剂量。SI单位为焦耳每千克，专有名称希沃特，记作Sv。"
+  },
+  {
+   "cn": "个人剂量计",
+   "en": "personal dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "放射工作人员佩戴的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "个人监测",
+   "en": "personal monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为提供工作人员个人所接受的辐射水平而进行的辐射监测。"
+  },
+  {
+   "cn": "私人空间",
+   "en": "personal space",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在公共场合，个体认为属于自己，因而在一般情况下不愿意他者进入的空间范围。其大体范围在60厘米至150厘米之间。广义上除上述情形外，还包括房间、日记、内在状态等。"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "个人价值",
+   "en": "personal value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会中的个体所持有的价值观。就社会工作者而言，既持有专业价值，作为普通人也还有其特定的价值观。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "个人为避免或减轻核武器的伤害所采取的防护措施。主要有及时正确用防护器材，借地形地物做正确防护动作，服用预防药，避免或缩短与放射性灰尘接触，严格遵守沾染区行动规定。"
+  },
+  {
+   "cn": "个人剂量仪",
+   "en": "personal dosimeter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.21.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "电离辐射职业人员佩带的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.1",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一种人格类型，包含如下特征：在性格上极为保守，思想封闭，观念狭窄；崇尚权威，重视权力和地位，对上低声下气，卑躬屈膝；对下作威作福，盛气凌人；对同僚刚愎自用，绝不容忍通融。"
+  },
+  {
+   "cn": "个性发展",
+   "en": "personality development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体的人格特征和经验积累随年龄增长的发展变化过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

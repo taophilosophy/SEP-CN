@@ -1,0 +1,502 @@
+{
+ "key": "obligations",
+ "term": "obligations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:10:48+00:00",
+ "status": "ok",
+ "note": "variant=obligations; 审定公布名词库=33; 海峡两岸名词对照库=22; 其他来源数据库=0; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "专一宿主寄生虫",
+   "en": "obligation parasite",
+   "source": "兽医学名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "只寄生于一种特定的宿主，对宿主有严格选择性的寄生虫。"
+  },
+  {
+   "cn": "告知义务",
+   "en": "inform obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.021",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "在医疗活动中，医疗机构及其医务人员如实告知患者的病情、医疗措施、医疗风险，并及时解答患者或监护人咨询的义务。"
+  },
+  {
+   "cn": "智能体的义务",
+   "en": "agent obligation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0171",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的一种社会意识层面思维属性，是一个智能体对另一个智能体承担的不索取回报的任务。"
+  },
+  {
+   "cn": "合同义务",
+   "en": "contractual obligation",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0566",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "合同法律关系主体必须按法律规定所承担的责任。"
+  },
+  {
+   "cn": "教师义务",
+   "en": "teacher obligation",
+   "source": "教育学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在从事教育教学活动中必须做出或禁止做出的行为规定。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite",
+   "source": "农学名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "在自然条件下必须寄生在活的寄主植物上才能生长发育，离开寄主植物活体就不能生长繁殖，甚至不能存活的寄生物。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite ",
+   "source": "草学名词",
+   "wordNumber": "7.0353",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "专性厌氧菌",
+   "en": "obligate anaerobe",
+   "source": "感染病学名词",
+   "wordNumber": "03.0756",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "在无氧环境中才能生长繁殖的细菌。缺乏完善的呼吸酶系统，只能进行无氧发酵，不但不能利用分子氧，而且游离氧对其还有毒性作用。如破伤风梭菌、脆弱拟杆菌和产黑素普雷沃菌。"
+  },
+  {
+   "cn": "专性无融合生殖",
+   "en": "obligate apomixis",
+   "source": "植物学名词",
+   "wordNumber": "08.0034",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "一种植物或其某种类群不能完成有性生殖，完全以无融合生殖方式繁殖的方式。"
+  },
+  {
+   "cn": "强制保养",
+   "en": "obliged maintenance",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0617",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "为确保设备正常运转，每隔一定周期进行的需要占用机械设备的运转时间的保养。"
+  },
+  {
+   "cn": "被迫体位",
+   "en": "obliged position",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "全科医学与社区卫生_社区护理",
+   "subjectName": "社区护理",
+   "publishYear": "2014",
+   "definition": "患者有更换体位的能力，但由于疾病、治疗或检查的需要，只能被迫采取的某种体位。"
+  },
+  {
+   "cn": "专性寄生物",
+   "en": "obligate parasite",
+   "source": "微生物学名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "离开活体寄主无法生存的生物。"
+  },
+  {
+   "cn": "专性病原体",
+   "en": "obligate pathogen",
+   "source": "昆虫学名词",
+   "wordNumber": "10.025",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "只存在于活宿主体内，不能培养的一类病原微生物。"
+  },
+  {
+   "cn": "专性孤雌生殖",
+   "en": "obligate parthenogenesis",
+   "source": "昆虫学名词",
+   "wordNumber": "05.109",
+   "subjectFullName": "昆虫学_昆虫发育与生活史",
+   "subjectName": "昆虫发育与生活史",
+   "publishYear": "2000",
+   "definition": "所有的卵都未经受精而发育成新个体的生殖方式。"
+  },
+  {
+   "cn": "绝对短日植物",
+   "en": "obligate short-day plant,obligate SDP",
+   "source": "植物学名词",
+   "wordNumber": "11.0577",
+   "subjectFullName": "植物学_植物生理学_植物成花生理",
+   "subjectName": "植物成花生理",
+   "publishYear": "2019",
+   "definition": "有明确(或严格)的短日照时数要求，长于这个日照时数就不能开花的植物。"
+  },
+  {
+   "cn": "绝对长日植物",
+   "en": "obligate long-day plant,obligate LDP",
+   "source": "植物学名词",
+   "wordNumber": "11.0574",
+   "subjectFullName": "植物学_植物生理学_植物成花生理",
+   "subjectName": "植物成花生理",
+   "publishYear": "2019",
+   "definition": "有明确(或严格)的日长时数要求，短于这个日照时数就不能开花的植物。"
+  },
+  {
+   "cn": "一般债券",
+   "en": "general obligation bond",
+   "source": "农学名词",
+   "wordNumber": "19.270",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "地方政府为缓解资金紧张或解决临时经费不足而发行的，以地方税收收入作保证的政府债券。"
+  },
+  {
+   "cn": "医者义务",
+   "en": "obligation of doctor",
+   "source": "行为医学名词",
+   "wordNumber": "9.02",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生对患者、社会所负有的法律和道德职责。"
+  },
+  {
+   "cn": "求得承诺义务",
+   "en": "obtain commitment obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.022",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "取得责任方或权利方有效承诺和说明的义务。"
+  },
+  {
+   "cn": "保护隐私义务",
+   "en": "privacy protection obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生为患者隐私保密的义务。"
+  },
+  {
+   "cn": "义务",
+   "en": "obligation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不可分割的债务",
+   "en": "indivisible obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际债务",
+   "en": "international obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国库债务",
+   "en": "treasury obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期债务",
+   "en": "demand obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强制仲裁",
+   "en": "obligation arbitration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "替代公债",
+   "en": "substitution obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "法律责任",
+   "en": "legal obligation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "专性无融合生殖",
+   "en": "obligate apomixis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专性互利共生",
+   "en": "obligate mutualism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "专性共生物",
+   "en": "obligate symbiont",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "专性病原体",
+   "en": "obligate pathogen",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "专性孤雌生殖",
+   "en": "obligate parthenogenesis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "专性需氧菌",
+   "en": "obligate aerobe\",\"obligate aerobic bacteria",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对长日植物",
+   "en": "obligate long-day plant\",\"obligate LDP",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对短日植物",
+   "en": "obligate short-day plant\",\"obligate SDP",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "契约抵押，债权抵押",
+   "en": "pledge of obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有担保抵押债务",
+   "en": "collateralized mortgage obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "债务免除",
+   "en": "waiver of obligation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专性病原性细菌",
+   "en": "obligate pathogenic bacteria",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "义务",
+   "en": "obligation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.122",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体或组织对他人、集体和社会应尽的道德责任或使命。它体现着个人或组织依据一定的道德要求对待他人和社会利益的积极态度，集中表现为个人或组织自觉自愿地为他人和社会服务的道德信念。"
+  },
+  {
+   "cn": "患者义务",
+   "en": "patient obligation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.034",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体患病期间应当承担的社会和法律要求的责任。"
+  },
+  {
+   "cn": "尊重医务人员义务",
+   "en": "obligation to respect medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.037",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在就医过程中，患者应当履行的尊重医务人员的辛勤劳动和人格尊严，维护医务人员的人身安全，不得侮辱、诽谤、威胁、殴打医师或者侵犯医务人员人身自由、干扰医疗正常工作、生活等的责任。"
+  },
+  {
+   "cn": "缴纳医疗费用义务",
+   "en": "obligation to pay medical expense",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.038",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者应当履行的医保承担范围之外应缴纳医学诊查、疾病治疗、处方开具、药品药械、手术处置、住院等各项医疗费用的责任。患者不应将治疗是否有效或是否成功作为缴纳医疗费用的前提，应当避免恶意的医疗逃费或欠费现象"
+  },
+  {
+   "cn": "增进健康义务",
+   "en": "the obligation to promote health",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.039",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者应当履行的树立正确的健康理念、提升健康素养、养成健康生活方式、患病及时就医、主动接受诊疗、保持自身健康且不危害他人健康、预防疾病的责任。"
+  },
+  {
+   "cn": "遵守医院规定义务",
+   "en": "obligation to comply with hospital regulation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0360000000000005",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中，应当遵守国家法律法规、医院管理制度，维护医疗工作秩序和医疗活动正常进行的责任。"
+  },
+  {
+   "cn": "权利义务对等原则",
+   "en": "reciprocity principle of right and obligation",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "是否缴纳法定的社会保险税费以及缴纳数额的多少决定被保险人能否享受某项社会保险待遇以及享受待遇的程度。只有履行缴纳社会保险的义务，才拥有享受社会保险待遇的权利，多缴多得。 是社会保险原则之一。"
+  },
+  {
+   "cn": "配合医学诊疗义务",
+   "en": "obligation to co- operate with medical treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.035",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中应当履行的如实陈述病史病情、遵照医嘱进行诊疗、愈后及时出院、协助医院开展随访等方面的责任。"
+  },
+  {
+   "cn": "苏维埃公民的权利和义务",
+   "en": "citizens civil rights and civil obligations in Soviet",
+   "source": "马克思主义",
+   "wordNumber": "03.0291",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联1936年和1977年宪法对此均有专章予以规定，但后者比前者在条款的数量和内容上都有较大发展。1977年宪法规定了公民在经济、政治、文化、个人的权利和自由等领域享有的诸项权利，规定了公民具有劳动和"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

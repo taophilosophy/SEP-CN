@@ -1,0 +1,772 @@
+{
+ "key": "fact-like entities",
+ "term": "fact-like entities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:19:00+00:00",
+ "status": "ok",
+ "note": "variant=fact-like entities; 审定公布名词库=4636; 海峡两岸名词对照库=1483; 其他来源数据库=397; 预公布名词数据库=221; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "对所要考察实体的数据的一个数值度量。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "能够独立存在的、作为一切具体事物和现象最后根源的载体的东西。唯物主义认为实体是常驻不变的、时空上无限的物质，唯心主义则把它作为精神、神和观念来理解。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.022",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医学数字成像和通信标准（DICOM）中，表示一个或一类有相同特性个体的应用对象。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.358",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "书目记录使用者关注的主要对象。包括具有单一与自我独立特征的某些事物；一种抽象的观念、思想的概念、思考的客体，或先验的对象。在书目记录的功能需求（FRBR）中，实体类型的实例包括：知识或艺术创作的产品、"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "客观世界中存在的可互相区分的客观对象或抽象概念。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0925",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "具有法律地位的个人、合伙人、组织或企业。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0150",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "客观存在并可独立处理的元素。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.454",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "地理学名词",
+   "wordNumber": "30.026",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "具有相同属性描述的对象(人、地点、事物)的集合。"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中发现的真实可靠的现象或现象之间的关系。"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们通过知觉获得的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由理论推导得出的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "来自“实验室研究”的一个重要概念。布鲁诺·拉图尔（Bruno Latour）和史蒂夫·伍尔加（Steve Woolgar）发现实验室就像一个庞大的“文学铭写”系统，实验室中到处都是“铭写装置”（ins"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.184",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "新闻记者和编辑对搜集到的新闻素材进行确认和修订，以确保写入新闻报道的事实准确无误。这是新闻生产流程中必不可少的一个环节。"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）以客观事实为检索对象，查找某一事件发生的时间、地点及过程的一种检索方法。其检索结果主要是客观事实或为说明事实而提供的相关资料。完成事实型信息检索主要借助于各种指南数据库和全文数据库。（2）对数据"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0428",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "包含业务过程中的事实和度量信息的表。"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0364",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "用来存储事实的度量值及指向各个维表的外键值的数据表。"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "自动化名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "①具备新闻价值的事实、事件和现象。②经由新闻报道呈现和描述的事实。"
+  },
+  {
+   "cn": "点赞",
+   "en": "like",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.153",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "社交媒体用户采取的一个动作，单击“赞”按钮作为表达自己赞同的快捷方式，而不是留言或发帖。"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对等[层]实体",
+   "en": "peer entities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子实体",
+   "en": "molecular entity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理实体",
+   "en": "geographic entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图实体",
+   "en": "drawing entity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体超类",
+   "en": "entity supertype",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体点",
+   "en": "entity point",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体对象",
+   "en": "entity object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体分类",
+   "en": "entity classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体集",
+   "en": "entity set",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类",
+   "en": "entity class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体类型",
+   "en": "entity type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实体标识",
+   "en": "entity identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上善若水",
+   "en": "Great Virtue Is Like Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随物赋形",
+   "en": "Writing That Flows like Water",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“绣花功夫”",
+   "en": "“being meticulous like doing embroidery”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以武为植，以文为种",
+   "en": "Military Action Is like Planting; Good Rule Is like the Seed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实行封闭式管控",
+   "en": "to exercise management by sealing off entities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治大国若烹小鲜",
+   "en": "Governing a Big Country Is Like Cooking Small Fish.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵形象水",
+   "en": "Troop Should Charge Forward Like the Flow of Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“双随机一公开”监管平台",
+   "en": "platform for oversight through random selection of both inspectors and entities and public release of results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文武之道，一张一弛",
+   "en": "The Rules of King Wen and King Wu Are Like Slack and Taut Bowstrings.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好战必亡，忘战必危",
+   "en": "Those Who Like to Go to War Will Perish; Those Who Forget War Will Be in Danger.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.12",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "事情的真实情况。指已被正确认识到的客观事物、事件、现象、关系、属性、本质及规律性，是客观存在的事物、现象、关系被人的感觉和思维如实反映，并作为人们进一步认识和行动的依据。作为元伦理范畴，事实与价值对立"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "超越于个人并能从外部给予个人以约束的一切社会事物（社会文化环境、结构、关系等），或普遍存在于社会各处的富有意义和影响的社会现象，具有客观性、强制性和普遍性。由涂尔干提出。"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "没有配偶的男女未进行结婚登记便以夫妻关系同居生活，社会也认为是夫妻关系的两性结合。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0525",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）在《社会学方法的准则》中首次提出，指普遍存在于社会各处并具有其固有存在的行为方式。社会事实有三个特征：外在性、强制性、普遍性。"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.37",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "标有食品能量和营养成分名称、含量及其占营养素参考值百分比的规范性表格。"
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "面具脸",
+   "en": "mask-like face",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "系统性硬化症患者皮肤受累后出现的特征性面容改变，表现为面部皮肤变紧、皮纹减少至消失，表情减少并僵硬。"
+  },
+  {
+   "cn": "狼疮样综合征",
+   "en": "lupus-like syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "ANA阳性且具有至少一种系统性红斑狼疮典型临床表现如发热、肌痛、皮疹、关节炎、浆膜炎和抗组蛋白抗体阳性，且不符合系统性红斑狼疮分类诊断标准的疾病，需排除其他疾病。可由多种原因引起尤其是药物因素（如普鲁"
+  },
+  {
+   "cn": "家庭化分娩",
+   "en": "home-like delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在环境布置既符合产科要求又具家庭氛围的场所中完成分娩的过程，允许家属在旁陪伴及协助，能使产妇获得心理和情感支持，减轻传统医院分娩环境使产妇感到陌生、紧张、恐惧、孤立等心理压力，从而有利于促进正常分娩。"
+  },
+  {
+   "cn": "霉变粒",
+   "en": "mouldy-like grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.31",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粒面明显生霉并伤及胚或胚乳或子叶、无食用价值的颗粒。"
+  },
+  {
+   "cn": "消毒产品责任单位",
+   "en": "responsibility entity for disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "依法承担因消毒产品缺陷而致他人人身伤害或财产损失的赔偿责任的个人、法人及其他组织。消毒产品委托生产加工时，特指委托方，进口消毒产品的责任单位为在华责任单位。"
+  },
+  {
+   "cn": "Toll样受体",
+   "en": "Toll-like receptor， TLR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.40",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "一组哺乳动物受体分子，包括一个富含亮氨酸重复序列片段的细胞外结构域。胞质内结构域包含一个与果蝇Toll受体同源的片段，因此称为Toll样受体。它们作为多种微生物来源分子的模式识别受体，刺激对表达这些分"
+  },
+  {
+   "cn": "免疫球蛋白样转录物",
+   "en": "immunoglobulin-like transcript，ILT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.41",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "LIR）。属IgSF，成员包括：①ILT2、ILT3、ILT4、ILT5和LIR8，分子胞质区含2～4个ITIM，可传递抑制性信号；②ILT1、LIR6a、ILT7、ILT8、ILT11，可与FcRγ"
+  },
+  {
+   "cn": "二噁英样多氯联苯",
+   "en": "dioxin-like polychlorinated biphenyls",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.35",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "具有与二噁英类似毒性效应的12种多氯代二联苯的统称。以往是具有多种用途的化工产品的成分，目前已经在全球停止生产，属于持久性有机污染物，膳食是一般人群摄入这类物质的主要途径。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "家族性白塞样自身炎症反应综合征",
+   "en": "Familial Behcet's like autoinflammatory response syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "由肿瘤坏死因子α诱导蛋白3基因功能突变导致的一种罕见的早发性自身炎症性疾病，为常染色体显性遗传性疾病，主要临床表现为主要包括发热、皮疹、反复口腔和/或外阴溃疡，可出现关节炎、眼部受累和消化道受累的表现"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

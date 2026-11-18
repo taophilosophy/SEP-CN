@@ -1,0 +1,792 @@
+{
+ "key": "simple propositions",
+ "term": "simple propositions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:10+00:00",
+ "status": "ok",
+ "note": "variant=simple propositions; 审定公布名词库=2378; 海峡两岸名词对照库=574; 其他来源数据库=66; 预公布名词数据库=81; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "命题代数",
+   "en": "algebra of propositions",
+   "source": "数学名词",
+   "wordNumber": "02.0023",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "USP理论",
+   "en": "unique selling proposition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.036",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "广告大师罗塞·里夫斯(Rosser Reeves)在20世纪50年代首创。一个广告中必须包含一个向消费者提出的销售主张，这个主张须要具备三个要点：一是利益承诺；二是独特；三是强而有力。"
+  },
+  {
+   "cn": "形式不可判定命题",
+   "en": "formal undecidable proposition",
+   "source": "数学名词",
+   "wordNumber": "02.0145",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆否命题",
+   "en": "converse-negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0017",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题编码理论",
+   "en": "propositional code theory",
+   "source": "心理学名词",
+   "wordNumber": "02.541",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆中只有一种编码形式的理论。即只有命题形式的、语义的、抽象的表征。"
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单关节",
+   "en": "simple joint",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单腺",
+   "en": "simple gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单小叶",
+   "en": "simple lobule",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单瓣花",
+   "en": "simple flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单穿孔",
+   "en": "simple perforation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单雌蕊",
+   "en": "simple pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花被",
+   "en": "simple perianth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单毛",
+   "en": "simple hair",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单纹孔",
+   "en": "simple pit",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单叶",
+   "en": "simple leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单子房",
+   "en": "simple ovary",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单多胚[现象]",
+   "en": "simple polyembryony",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单花序",
+   "en": "simple inflorescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单扩散",
+   "en": "simple diffusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单木脂素",
+   "en": "simple lignan",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单香豆素",
+   "en": "simple coumarin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单瑞士式",
+   "en": "simple Swiss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单荷兰式",
+   "en": "simple Hollander",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单动作",
+   "en": "simple action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单防守",
+   "en": "simple parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单进攻",
+   "en": "simple attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接的简单还击",
+   "en": "simple indirect riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接的简单还击",
+   "en": "simple direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简易换腿",
+   "en": "simple change of legs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "萧散简远",
+   "en": "Natural, Leisurely, Simple yet Profound",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "木讷",
+   "en": "Simple and Sparing of Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大巧若拙",
+   "en": "Exquisite Skill Looks Simple and Clumsy.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跑步中简易换腿",
+   "en": "simple change of legs at canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安贫乐道",
+   "en": "Be Content with a Simple but Virtuous Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单劳动",
+   "en": "simple labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0054",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "没有任何专长的普通人的机体平均具有的简单劳动力的耗费，即在一定的社会条件下一般劳动者都能胜任，无需特别的技术专长、知识和技能训练的劳动。简单劳动在教育和科技不断发展的社会中会有变化，它与复杂劳动相对应"
+  },
+  {
+   "cn": "简单再生产",
+   "en": "simple reproductoin",
+   "source": "马克思主义",
+   "wordNumber": "02.0153",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产过程在原有规模上的重复进行。在资本主义生产方式下，如果资本家把榨取的剩余价值完全用于他们的个人消费，没有资本积累，生产规模不扩大，那么，在其他条件不变的情况下，这就是资本主义的简单再生产。"
+  },
+  {
+   "cn": "单纯性近视",
+   "en": "simple myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼球在发育期发展形成的近视，发育停止后近视也趋于稳定，屈光度数一般在﹣6.00D之内。其中绝大多数眼底无病理变化，用适当光学镜片即可将视力矫正至正常。"
+  },
+  {
+   "cn": "简单社会",
+   "en": "simple society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工简单，人口规模较小的社会组织形态，与复杂社会相对。简单社会的规模相对较小，其人数由相应狭小地域内的各社会政治单位组合在一起，一般以血缘为基础、以家庭为纽带、以个人为中心。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "单一型香辛料调味品",
+   "en": "simple spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.11",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由单一香辛料制成的调味品。"
+  },
+  {
+   "cn": "简易厕坑",
+   "en": "simple pit latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在一般应超过1.5 米的较大深度厕沟基础上，沿沟缘地面修筑一定高度的完全或不完全围护及开孔顶覆结构，形成的坐式或蹲式厕所。可供较长时间连续使用。"
+  },
+  {
+   "cn": "反应时",
+   "en": "simple reaction time",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "机体从接受刺激到做出反应动作所需的时间，即从刺激到反应的时距。主要反映人体神经于肌肉系统的协调性和快速反应能力。"
+  },
+  {
+   "cn": "简易防护器材",
+   "en": "simple protective equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "利用就便材料制作的一类个人防护器材，包括简易呼吸道和皮肤防护器材两类，如泳镜、雨衣和雨靴等。"
+  },
+  {
+   "cn": "简单的价值形式",
+   "en": "simple form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0061",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的原始阶段。一商品的价值偶然地以另一不同种商品来表现的价值形式。它与原始社会后期原始公社之间偶然地、间或地物物交换阶段相一致。在简单价值形式中，价值形式两极的对立很不固定。"
+  },
+  {
+   "cn": "简单收益率法",
+   "en": "simple rate of return method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "以达到设计产量的年份(即正常年度)所取得的现金净流量与原投资额之比，来确定方案是否可行的决策分析法"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "消毒学",
+   "wordNumber": "1.8.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "用以代表总体的少量个体。"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从总体中选取的、加以观察或试验的一部分个体。"
+  },
+  {
+   "cn": "采样",
+   "en": "sample collection",
+   "source": "消毒学",
+   "wordNumber": "5.2.14.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "从大量同类消毒产品实物中抽取一部分作为样品的过程。"
+  },
+  {
+   "cn": "标准样品",
+   "en": "standard sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.9",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "足够均匀，具有一个或多个精确特性量值，可作为其他测量值是否准确的参照标准的样品。"
+  },
+  {
+   "cn": "空白样品",
+   "en": "blank sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.10",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "不含（被）分析物的样品。在分析时，常作为样品中分析物检测时的零基准。"
+  },
+  {
+   "cn": "模拟样品",
+   "en": "simulated sample",
+   "source": "消毒学",
+   "wordNumber": "6.1.11",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "对真实样品的模仿，能表现其关键特性，对真实样品具有代表性的用于试验的样品。"
+  },
+  {
+   "cn": "金属试样",
+   "en": "metal sample",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "大小、厚薄等规格一致并符合相关要求的试验用金属和合金的样片。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

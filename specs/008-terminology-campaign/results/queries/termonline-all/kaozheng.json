@@ -1,0 +1,32 @@
+{
+ "key": "kaozheng",
+ "term": "kǎozhèng",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:20:16+00:00",
+ "status": "ok",
+ "note": "variant=kǎozhèng; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "NG2蛋白聚糖",
+   "en": "neuron-glial antigen 2 proteoglycan;NG2 proteoglycan",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0302",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "具有最大核心蛋白质的跨膜蛋白聚糖。主要存在于神经元细胞中，在发育的间质细胞和人黑色素瘤细胞中也有。其细胞外结构域上连接着2～3条硫酸软骨素链。"
+  },
+  {
+   "cn": "NG2 蛋白聚糖",
+   "en": "NG2 proteoglycan",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

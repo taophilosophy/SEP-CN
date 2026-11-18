@@ -1,0 +1,752 @@
+{
+ "key": "derivation structure",
+ "term": "derivation structure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:12:33+00:00",
+ "status": "ok",
+ "note": "variant=derivation structure; 审定公布名词库=2952; 海峡两岸名词对照库=712; 其他来源数据库=76; 预公布名词数据库=106; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "衍生结构",
+   "en": "derived structure",
+   "source": "地质学名词",
+   "wordNumber": "02.00.168",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "一些在几何上和原子(离子)连接形式上与某典型结构近似的晶体结构，可以用此典型结构来描述的晶体结构。"
+  },
+  {
+   "cn": "[睡眠监测]导联",
+   "en": "derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.129",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "实现睡眠监测过程中传感器采集的某一信号经放大器整合并显示记录数据的整个系统。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0484",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "根据文法 G的产生式，从G的一个句型推演出另一个句型，称为G的一步推导。对文法G 的一个推导过程是从初始句型S（初始符）推导出一个全部由终极符组成的串（即句子）。"
+  },
+  {
+   "cn": "孳乳",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "10.047",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "在词的派生推动下，由记录源词的字分化出新字的现象。例如“正”孳乳出“政”。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "经过一系列合乎逻辑的运算步骤，从一个结果到达另一个结果的过程。推导也指根据短语结构语法，应用重写规则替换一个语法符号串中的某些（某个）语法符号，产生新的语法符号串的过程。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "生成音系学中，施用一系列音系规则将一个相对比较抽象的音系表达式转换成一个相对比较具体、更加接近语音实际的音系表达式的过程。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "母体化合物的基本骨架不变，只是其分子中侧链、官能团中的原子或原子团被其他原子或原子团取代所形成的一类新化合物。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "化学名词",
+   "wordNumber": "02.0004",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "保留了母体化合物的基本骨架，只在侧链、官能团或取代基上发生变化的一类新化合物称为原母体化合物的衍生物。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "由词根和词缀构成的合成词。例如“第一”“老鼠”“帽子”“巴不得”。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "与“原形词”相对。由词根词素和词缀词素组合而成的词。"
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "数学名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可导的",
+   "en": "derivable",
+   "source": "数学名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "参考导联",
+   "en": "referential derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.13",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由一个探测电极和一个参考电极组成的导联。如脑电图C4～M1导联。"
+  },
+  {
+   "cn": "双极导联",
+   "en": "bipolar derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.131",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由两个探测电极组成并彼此互为参考的导联。如胫骨前肌肌电导联。"
+  },
+  {
+   "cn": "推导树",
+   "en": "derivation tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0485",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "用来表示上下文无关文法的推导过程的一种树形结构。树的非叶结点都用变量标注（其中根结点用初始符S标注），叶结点用终极符（或空串等）标注；每个非叶结点的标注同它的各个子结点的标注形成的字符串对应于文法的一"
+  },
+  {
+   "cn": "最左推导",
+   "en": "leftmost derivation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0510",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "在推导的任何一步都是对句型中最左非终极符进行替换的推导过程。"
+  },
+  {
+   "cn": "内导子",
+   "en": "inner derivation",
+   "source": "数学名词",
+   "wordNumber": "04.1514",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斜导算子",
+   "en": "skew-derivation",
+   "source": "数学名词",
+   "wordNumber": "08.1073",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "导子代数",
+   "en": "derivation algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1515",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "导出树",
+   "en": "derivation tree",
+   "source": "自动化名词",
+   "wordNumber": "05.018",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "衍生细胞",
+   "en": "derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派生产品",
+   "en": "derivatives",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "最右派生",
+   "en": "rightmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最左派生",
+   "en": "leftmost derivation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推导树",
+   "en": "derivation tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外胚层衍生物",
+   "en": "ectodermal derivative",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "葑烷衍生物",
+   "en": "fenchane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莰烷衍生物",
+   "en": "camphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒎烷衍生物",
+   "en": "pinane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异莰烷衍生物",
+   "en": "isocamphane derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局部导数",
+   "en": "local derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏微商",
+   "en": "partial derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间导数",
+   "en": "time derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全导数",
+   "en": "total derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "天气衍生品",
+   "en": "weather derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构",
+   "en": "Data Structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储结构",
+   "en": "storage structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性结构",
+   "en": "nonlinear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图结构",
+   "en": "graph structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化数据",
+   "en": "structured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "结构化",
+   "en": "structuration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "主张社会结构与行动具有相互构成的性质，而居于二者之间的个人则成为克服这种对立的一种手段。"
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "由法国人类学家列维-斯特劳斯(C.Lévi-Strauss）在乔姆斯基(A.N.Chomsky）语言学的基础上发展并加以运用的结构分析理论及方法。这一流派认为，一旦文化的各个不同方面被还原成它们的结构"
+  },
+  {
+   "cn": "结构过程",
+   "en": "structuring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0211",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家萧凤霞（Helen Siu）、中国历史学家刘志伟提出的概念，即个人透过他们有目的的行动，织造了关系和意义（结构）的网络，这一网络又进一步帮助或限制他们作出某些行动，这是一个永无止境的过程。"
+  },
+  {
+   "cn": "导出干预水平",
+   "en": "derived intervention level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "与干预水平相对应的环境中放射性活度水平或剂量率，可直接与实际监测结果相比较的量。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "组织结构",
+   "en": "organizational structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各组成部分之间关系的稳定形态及结合方式，可达成组织职能和权力的配置，主要包括职位、目标、权威和角色等四大要素。可分为正式结构和非正式结构。"
+  },
+  {
+   "cn": "垂直结构",
+   "en": "vertical structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.14",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "某种集权组织结构形式，自上而下形成垂直的易于控制的领导系统，信息纵向流通快，管理成本低，效率较高，但下级的权限和自主性较低。"
+  },
+  {
+   "cn": "扁平结构",
+   "en": "flat structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.15",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "管理层次少而管理幅度大的一种组织结构形态，有利于缩短上下级距离，被管理者有较大的自主性、积极性和满足感，但由于管理幅度较宽，权力分散，不易实施严密控制，加重了对下属组织及人员进行协调的负担。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.7",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员的构成及其相互关系状态形成的稳定模式。包含家庭的代数结构和人口结构两个方面，涉及家庭成员及其数量、家庭成员间的代际和亲属关系等内容。"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "市场中生产者重复生产其行动的社会结构。怀特(Harrison C.White）认为市场是生产的市场，不是交换意义上的市场。在生产决策过程中，生产者相互观察了解彼此的差异，据此进行产量和价格决策，一旦生"
+  },
+  {
+   "cn": "深层结构",
+   "en": "deep structure",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.18",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "隐藏在社会或文化表层关系背后，不被该社会成员所观察到的“无意识”模式。是与句子的表意结构相对而言，必须通过文化人类学家建立的分析模型才能认识的意识结构。"
+  },
+  {
+   "cn": "经济结构",
+   "en": "economic structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0016",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国民经济中各个方面的内部构成，反映经济系统中各要素之间互相关联、互相结合的内在联系及相应数量对比关系。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0160",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会各基本组成要素按照一定的方式所构成的相对稳定、持久的网络。在社会活动中，人与自然之间、人与人之间、人与团体之间、团体与团体之间不断相互作用，形成了相对固定的各种关系，这些社会关系按照一定的方式组合"
+  },
+  {
+   "cn": "阶级结构",
+   "en": "class structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0311",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "通常反映有阶级社会的社会各阶级的区别及其相互关系。阶级结构由私有制和生产方式所决定和变化。"
+  },
+  {
+   "cn": "性格结构",
+   "en": "character structure",
+   "source": "马克思主义",
+   "wordNumber": "05.0047",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "弗洛伊德主义的马克思主义用来指人在日常生活和工作中表现出来的习惯行为的内在范型，与弗洛伊德不同的是，赖希（Wilhelm Reich）与弗洛姆注重性格结构形成中的社会因素。"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "某一市场中各种要素之间的内在联系方式及其特征。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "家庭组成和类型及各成员间的相互关系。包括外部结构和内部结构两部分。可影响到家族经济负担、人际关系、家庭资源、家庭功能及疾病传播等。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会体系各组成部分或诸要素之间比较持久、稳定的相互联系模式。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会医学名词",
+   "wordNumber": "3.4",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点。如阶级或阶层结构、社会的组织结构、权力结构等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

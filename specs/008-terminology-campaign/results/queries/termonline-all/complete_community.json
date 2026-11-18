@@ -1,0 +1,732 @@
+{
+ "key": "complete community",
+ "term": "complete community",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:52+00:00",
+ "status": "ok",
+ "note": "variant=complete community; 审定公布名词库=2911; 海峡两岸名词对照库=1030; 其他来源数据库=178; 预公布名词数据库=387; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0956",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统的一种性质：语义上为真的推论都可以用推理规则在语法上推导出来。"
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完备化",
+   "en": "completion",
+   "source": "数学名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "水下完井",
+   "en": "subsea completion,underwater  completion",
+   "source": "石油名词",
+   "wordNumber": "08.0431",
+   "subjectFullName": "石油_海洋石油技术_海上钻井工程",
+   "subjectName": "海上钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "完全性再生",
+   "en": "complete regeneration",
+   "source": "普通外科学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "组织缺损后，能够通过原组织的再生恢复原来的结构与功能的过程。"
+  },
+  {
+   "cn": "完全型尿道上裂",
+   "en": "complete epispadias",
+   "source": "整形外科名词",
+   "wordNumber": "20.027",
+   "subjectFullName": "整形外科_会阴部整形_男性会阴与外生殖器畸形",
+   "subjectName": "男性会阴与外生殖器畸形",
+   "publishYear": "2026",
+   "definition": "尿道上裂中最为严重的类型。特点是尿道口位于膀胱颈部位，形成漏斗状，伴有尿失禁，常合并耻骨联合分离或膀胱外翻，需要更复杂的手术治疗。男性患者还可能有阴茎短小、阴茎向背侧弯曲等畸形，以及性功能障碍和尿路感"
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "农学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂合子中显性基因在表型中完全表现，杂合子的表型与显性基因纯合子表型相同的现象。"
+  },
+  {
+   "cn": "完全骨折",
+   "en": "complete fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.479",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨的完整性或连续性全部破坏或中断的一类骨折。管状骨多见。根据X线片上骨折线的方向可分为横行骨折、斜行骨折、螺旋形骨折、粉碎性骨折、嵌插骨折、压缩骨折及骨骺分离。"
+  },
+  {
+   "cn": "完全流产",
+   "en": "complete abortion",
+   "source": "急救医学名词",
+   "wordNumber": "03.632",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_流产",
+   "subjectName": "流产",
+   "publishYear": "2025",
+   "definition": "妊娠物已全部排出，阴道出血逐渐停止，腹痛消失，妇科检查时可见宫颈口关闭，子宫迅速复旧，子宫大小正常的临床表现。"
+  },
+  {
+   "cn": "完全重振",
+   "en": "complete recruitment",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1.42.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "相同强度的声刺激时，听力损失耳的纯音响度与听力正常耳纯音响度相等的现象。此时双耳的听阈差不复存在。"
+  },
+  {
+   "cn": "完全流产",
+   "en": "complete abortion",
+   "source": "妇产科学名词",
+   "wordNumber": "13.016",
+   "subjectFullName": "妊娠并发症_自然流产",
+   "subjectName": "自然流产",
+   "publishYear": "2025",
+   "definition": "未经人为方法干预，宫腔内妊娠物已全部排出的自然流产。"
+  },
+  {
+   "cn": "全集",
+   "en": "complete works",
+   "source": "档案学名词",
+   "wordNumber": "04.03.018",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "一位作者或多位作者各种体裁作品的全部汇集。档案文献编纂中，指一位或多位作者档案类作品的全部汇集。"
+  },
+  {
+   "cn": "完全信息",
+   "en": "complete information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.667",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在经济学与博弈论中，指参与者在经济和博弈行为中，完全了解并可共享全部市场或博弈规制（包括所有参与者采取的策略）以及其他参与者的收益等知识时所获得的完备而准确的信息。"
+  },
+  {
+   "cn": "完全归纳",
+   "en": "complete induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据某类事物中的每一事物都具有某一属性，推出该类全部事物都具有该属性的归纳推理。"
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全叶",
+   "en": "complete leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全熔合反应",
+   "en": "complete fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全吞噬",
+   "en": "complete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全外显率",
+   "en": "complete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全选择",
+   "en": "complete selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全连锁",
+   "en": "complete linkage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全集",
+   "en": "complete set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全进位",
+   "en": "complete carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全图",
+   "en": "complete graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全问题",
+   "en": "complete problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全变态",
+   "en": "complete metamorphosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "完全燃烧",
+   "en": "complete combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "完全蛋白质",
+   "en": "complete protein",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "全变态",
+   "en": "complete metamorphosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据群落",
+   "en": "data community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社区",
+   "en": "blockchain community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Apache社区",
+   "en": "Apache community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社群",
+   "en": "Network Community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线社区",
+   "en": "online community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "社区营养",
+   "en": "community nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.16",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "在社区范围内，运用营养科学理论、技术及社会性措施，系统性地研究并解决社区人群的膳食结构、营养需求、饮食行为及相关健康问题，通过营养教育、政策干预、环境支持等手段，改善居民营养状况，预防营养性疾病，提升"
+  },
+  {
+   "cn": "地方共同社会",
+   "en": "rural community",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "围绕农业生产所构成的各社会组织及共同的社区生活。杨开道将美国社会学家麦基弗(R.M.Maclver）的社区概念引入农村社会学研究中，提出这个概念，认为中国农村是一种地方共同社会。对这种社会的分析，应从"
+  },
+  {
+   "cn": "城市社区",
+   "en": "urban community",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在一定的城市地域范围内生活的人们所组成的社会生活共同体。"
+  },
+  {
+   "cn": "社区居委会",
+   "en": "community council",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.11",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "中国城市街道、行政建制镇的分区，即“社区”的主要社会组织机构。又称“城市居民委员会”。地位相当于农村地区的村民委员会。管辖对象以城市、镇的非农业居民为主，也包括辖区单位，是居民自我管理、自我教育、自我"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

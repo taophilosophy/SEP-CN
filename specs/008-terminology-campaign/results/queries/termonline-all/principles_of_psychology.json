@@ -1,0 +1,702 @@
+{
+ "key": "principles of psychology",
+ "term": "Principles of Psychology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:14:17+00:00",
+ "status": "ok",
+ "note": "variant=Principles of Psychology; 审定公布名词库=10000; 海峡两岸名词对照库=7587; 其他来源数据库=1862; 预公布名词数据库=2762; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "性心理学",
+   "en": "psychology of sex,sexual psychology",
+   "source": "计划生育名词",
+   "wordNumber": "08.003",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "研究人类的性心理活动及其规律的学科。是心理学的一个分支。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "aging psychology,psychology of aging",
+   "source": "心理学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "发展心理学的一个分支。研究老年期(60岁以上)个体的心理活动及变化规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "发现的心理学",
+   "en": "psychology of discovery",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "科学发现不遵从普遍适用的合理性规则，因而不是逻辑学而只能是心理学的研究对象。"
+  },
+  {
+   "cn": "工程心理学",
+   "en": "psychology of engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "工业心理学分支学科。主要研究人-机-环境系统中人的行为以及人与机器、环境之间的相互作用规律。"
+  },
+  {
+   "cn": "广告心理学",
+   "en": "psychology of advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.014",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "应用心理学在广告学方面的一个分支。研究广告对于消费者和潜在消费者的购买决策的动机的影响。"
+  },
+  {
+   "cn": "自杀心理学",
+   "en": "psychology of suicide",
+   "source": "行为医学名词",
+   "wordNumber": "13.04",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "研究自杀心理现象发生、发展和活动规律的学科。是心理学的一个分支学科。"
+  },
+  {
+   "cn": "恋爱心理",
+   "en": "psychology of love",
+   "source": "计划生育名词",
+   "wordNumber": "04.077",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "恋爱过程中的心理现象和心理活动规律。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "psychology of aging",
+   "source": "老年医学名词",
+   "wordNumber": "10.002",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "专门研究人的老年期心理发展的特点和规律以及如何增进老年人心理健康的学科。是个体发展心理学的一个分支。"
+  },
+  {
+   "cn": "法律心理学",
+   "en": "psychology of law",
+   "source": "心理学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究立法、执法、守法、违法以及法制宣传教育活动过程中人的心理活动及其规律的分支学科。"
+  },
+  {
+   "cn": "心理学体系",
+   "en": "systems of psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.023",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "心理学流派或学者联盟在科学观、方法论等学科基本问题上所具有的系统、独特、一致的理论观点。"
+  },
+  {
+   "cn": "学习心理学",
+   "en": "psychology of learning",
+   "source": "心理学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "教育心理学的一个分支。研究学习的实质、类型和规律。"
+  },
+  {
+   "cn": "供述心理学",
+   "en": "psychology of confession",
+   "source": "心理学名词",
+   "wordNumber": "13.007",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "研究犯罪嫌疑人、被告人在刑事诉讼过程中作有罪供述和无罪、罪轻辩解的心理活动及其规律的分支学科。"
+  },
+  {
+   "cn": "证言心理学",
+   "en": "psychology of testimony",
+   "source": "心理学名词",
+   "wordNumber": "13.008",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "研究影响证人证言形成的心理及其规律，为证人证言可信性判断提供心理科学依据和方法的分支学科。"
+  },
+  {
+   "cn": "侦查心理学",
+   "en": "psychology of investigation",
+   "source": "心理学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "研究刑事案件侦查过程中侦查人员、犯罪嫌疑人及其他与案件有关人的心理活动规律与心理对策的分支学科。"
+  },
+  {
+   "cn": "审讯心理学",
+   "en": "psychology of interrogation",
+   "source": "心理学名词",
+   "wordNumber": "13.004",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "研究审讯过程中审讯人员与犯罪嫌疑人及其他有关人员的心理活动、心理规律及心理对策的分支学科。"
+  },
+  {
+   "cn": "受害人心理学",
+   "en": "psychology of victim",
+   "source": "心理学名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "研究受害人及受害过程的心理现象及其规律的分支学科。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "psychology of aging\",\"aging psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造心理学",
+   "en": "creative psychology\",\"psychology of creative",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习心理学",
+   "en": "psychology of learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律心理学",
+   "en": "psychology of law",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建构主义原则",
+   "en": "principles of structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似原则",
+   "en": "principle of similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等势原理",
+   "en": "principle of equipotentiality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "接近原则",
+   "en": "principle of proximity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "微观可逆性原理",
+   "en": "principle of microreversibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配原则",
+   "en": "principle of allocation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互惠原则",
+   "en": "principle of reciprocity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "女性心理学，妇女心理学",
+   "en": "women psychology\",\"female psychology\",\"feminine psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我心理学",
+   "en": "ego psychology\",\"self psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "咨询心理学",
+   "en": "counseling psychology\",\"consulting psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "气候心理学",
+   "en": "climatic psychology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谦抑性",
+   "en": "principle of restraint",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of non-maleficence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准编制原则",
+   "en": "principle of standards compilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小节",
+   "en": "Minor Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统类",
+   "en": "Universal Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理咨询原则",
+   "en": "principle of psychological consultation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "为保护求咨者利益并使得咨询取得最优效果，在进行学生心理健康咨询时应遵循的法则或标准，包括：保密、限时、自愿、情感自限、延期决定、遵守伦理规范。"
+  },
+  {
+   "cn": "宗教心理学",
+   "en": "psychology of religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "将宗教现象当作研究对象加以描述、进而以心理学理论与原则加以解释的研究领域。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "psychology of aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "研究老年期个体和群体在与环境相互作用过程中各个阶段心理的发生、发展和变化过程中的制约因素、特点和规律的科学。"
+  },
+  {
+   "cn": "发现的心理学",
+   "en": "psychology of discovery",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学发现不遵从普遍适用的合理性规则，因而不是逻辑学而只能是心理学的研究对象。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  },
+  {
+   "cn": "洗消原则",
+   "en": "principle of decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在洗消处理过程中应遵循的准则。包括以下内容：将洗消与封锁自净紧密结合，对具有重要军事、经济意义以及与人员生活密切相关的污染地区和场所立即进行洗消处理，其他地区和场所则尽量采取封锁自净的处理。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "尊重原则",
+   "en": "principle of respect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0060000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员尊重患者及其家属的人格、尊严、隐私和自主选择权的根本性道德要求。"
+  },
+  {
+   "cn": "效用原则",
+   "en": "principle of utility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以促进个体或集体福祉最大化为目的的公共卫生伦理原则。"
+  },
+  {
+   "cn": "允许原则",
+   "en": "principle of permission",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "美国生命伦理学家H.T.恩格尔哈特（H.Tristram. Engelhard）提出的生命伦理学首要原则。认为在价值多元化社会中，涉及他人的行动必须得到他人的允许，不经他人允许就对他人采取行动是不具备"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  },
+  {
+   "cn": "有利原则",
+   "en": "principle of beneficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.023",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求实施有益于行为对象的行为。医务人员在医学实践中应该切实维护患者或研究参与者的合法权益，促进其减轻病痛、疾病康复、提高生命质量。"
+  },
+  {
+   "cn": "公正原则",
+   "en": "principle of justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0260000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "平等地对待每一个人，不偏不倚。医疗公正指在医学活动中，每一个患者或研究参与者都应享有平等对待的权利，有权利获得所需要卫生资源的机会。"
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of nonmaleficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.017",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员在医学实践中坚决杜绝有意伤害，把不可避免但可控的伤害控制在最低限度内，不使患者或研究参与者受到不应有医疗伤害的伦理原则。"
+  },
+  {
+   "cn": "文化社会心理学",
+   "en": "social psychology of culture",
+   "source": "社会学名词",
+   "wordNumber": "4.1.1.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学学科分支",
+   "subjectName": "社会心理学学科分支",
+   "publishYear": "2025",
+   "definition": "以特定文化背景下的个体心理与社会生活为研究对象，从社会心理学的角度研究文化与社会心理的关系，进而解释具有文化特性的人类社会认知与社会行为的学科。"
+  },
+  {
+   "cn": "法西斯主义群众心理学",
+   "en": "mass psychology of fascism",
+   "source": "马克思主义",
+   "wordNumber": "05.0048",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "赖希受精神分析中“施虐—受虐狂”的启示，认为法西斯主义的心理基础就在于小资产阶级所特有的对权威的含糊态度，即他们要求权威，又要反抗权威。"
+  },
+  {
+   "cn": "语言社会心理学",
+   "en": "social psychology of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0019",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究不同的社会群体对使用某些语言的态度及个人在言语交际活动中的心理机制的学问。"
+  },
+  {
+   "cn": "危机心理干预",
+   "en": "psychological intervention of crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "从心理上解决迫在眉睫的危机，使症状得到立刻缓解和持久的消失，使心理功能恢复到危机前水平，并获得新的应付技能，以预防将来心理危机的发生。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

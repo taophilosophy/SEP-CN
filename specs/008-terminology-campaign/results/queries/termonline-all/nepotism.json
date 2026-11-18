@@ -1,0 +1,72 @@
+{
+ "key": "nepotism",
+ "term": "nepotism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:15:54+00:00",
+ "status": "ok",
+ "note": "variant=nepotism; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "任人唯亲作风",
+   "en": "nepotism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0887",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "优先雇用自己的亲属而不是其他更有能力的候选人的行事方式。"
+  },
+  {
+   "cn": "专制主义",
+   "en": "despotism",
+   "source": "世界历史名词",
+   "wordNumber": "02.0075",
+   "subjectFullName": "世界历史_古代中世纪_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "一种国家政治体制，其核心是专制君主在全国范围内居于至高无上的权威地位，独揽国家一切大权。"
+  },
+  {
+   "cn": "开明专制",
+   "en": "Enlightened Despotism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0575",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "18世纪下半叶，普鲁士、奥地利、法国和俄国等封建专制君主为巩固统治，装扮“开明”，宣称进行自上而下的改革而得名。"
+  },
+  {
+   "cn": "役生",
+   "en": "helotism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism\",\"egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐自我主义",
+   "en": "implicit egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

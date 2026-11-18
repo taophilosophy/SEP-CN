@@ -1,0 +1,192 @@
+{
+ "key": "membership",
+ "term": "membership",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:24:28+00:00",
+ "status": "ok",
+ "note": "variant=membership; 审定公布名词库=13; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "隶属度",
+   "en": "membership",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "若对于论域（研究范围）U中的任一元素x，都有一个数A(x)∈[0, 1]与之对应，则称A(x)为x对A的隶属度。"
+  },
+  {
+   "cn": "隶属度",
+   "en": "membership",
+   "source": "化学名词",
+   "wordNumber": "03.0329",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在模糊数学中，用来描述论域(所讨论的全体对象)X中任一元素(<img src='/root/syzx/static/spz/huaxue2.03.0329.1.png'/>)隶属于论域X的1个模糊子集"
+  },
+  {
+   "cn": "隶属度",
+   "en": "membership",
+   "source": "语言学名词",
+   "wordNumber": "11.142",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "在模糊集理论中，一个元素属于某一模糊集的程度的数字量度。"
+  },
+  {
+   "cn": "隶属关系",
+   "en": "membership",
+   "source": "数学名词",
+   "wordNumber": "02.0170",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隶属度函数",
+   "en": "membership function",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.092",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "若对于论域（研究的范围）U中的任一元素x，都有一个数A(x)∈[0, 1]与之对应，当x在U中变动时，A(x)就是一个函数，称为A的隶属度函数。"
+  },
+  {
+   "cn": "成员问题",
+   "en": "membership problem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0155",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "（1）判定是否一个对象属于某个集合的问题。（2）特指判定是否一个字符串是某个语言的语句的问题。"
+  },
+  {
+   "cn": "隶属函数",
+   "en": "membership function",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0260",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "用于表示集合及模糊集合的一种方法，说明论域中任意元素隶属于某个模糊集合程度。"
+  },
+  {
+   "cn": "成员群体",
+   "en": "membership group",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0184",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "一个人所归属的对其行为产生直接影响的群体。包括主要群体和次要群体。"
+  },
+  {
+   "cn": "自行成员[性]",
+   "en": "proper motion membership",
+   "source": "天文学名词",
+   "wordNumber": "08.645",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "用成员概率来表征视场中的恒星属于星团自行成员的可能性大小。"
+  },
+  {
+   "cn": "最大隶属度原则",
+   "en": "maximum membership principle",
+   "source": "化学名词",
+   "wordNumber": "03.0330",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在模糊聚类和模糊模式识别时，判别论域X中任一元素x隶属于论域X的n个模糊子集<img src='/root/syzx/static/spz/huaxue2.03.0330.1.png'/>中哪一个模糊"
+  },
+  {
+   "cn": "成员馆",
+   "en": "membership library,member library",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.055",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2019",
+   "definition": "泛指各类图书馆集合体中的独立图书馆个体。"
+  },
+  {
+   "cn": "地貌类型隶属函数",
+   "en": "membership function of geomorphic types",
+   "source": "地理学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "用数学函数的形式来反映地貌类型特征，刻画该地貌实体属于那一个地貌类型。一般采用模糊数学方法来反映属于该类型的程度。"
+  },
+  {
+   "cn": "交易所会员管理制度",
+   "en": "membership regulatory system of stock exchange",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0783",
+   "subjectFullName": "管理科学技术_金融工程_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "会员制证券交易所对会员实施管理的制度和办法。"
+  },
+  {
+   "cn": "成员问题，隶属关系问题",
+   "en": "membership problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行成员",
+   "en": "proper motion membership",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "语言成员证明系统",
+   "en": "language membership proof system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地貌类型隶属函数",
+   "en": "membership function of geomorphic types",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "成员身份",
+   "en": "group membership",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "个体因在社会中属于不同的群体而获得的相应的群体成员身份。可分为先赋的和自致的两种。前者是人们一出生就具备的，如年龄、性别、家庭出生、种族背景；后者则是人们通过后天努力而获得的，比如教育程度、职业。各种"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

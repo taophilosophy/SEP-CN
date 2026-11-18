@@ -1,0 +1,462 @@
+{
+ "key": "antagonisms",
+ "term": "antagonisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:24:38+00:00",
+ "status": "ok",
+ "note": "variant=antagonisms; 审定公布名词库=91; 海峡两岸名词对照库=41; 其他来源数据库=1; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "拮抗",
+   "en": "antagonism",
+   "source": "农学名词",
+   "wordNumber": "10.059",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "一种生物或其代谢产物对其他生物的生长发育具有抑制作用的现象。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0231",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "一种物质的作用被同时存在的另一种物质所抵消的现象。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "麻醉学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "两种或两种以上的药物合用时引起的药效降低的现象。"
+  },
+  {
+   "cn": "拮抗［作用］",
+   "en": "antagonism ",
+   "source": "草学名词",
+   "wordNumber": "7.036",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0334",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "两种或两种以上毒物同时（或先后）作用于机体所产生的毒作用低于各种化学物质单独对机体产生的毒性效应的总和。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "感染病学名词",
+   "wordNumber": "01.0647",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "两药合用使原有效应减弱的现象。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "结核病学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "两种药物联合使用时，产生的效应小于单独应用一种药物的效应。"
+  },
+  {
+   "cn": "拮抗",
+   "en": "antagonism",
+   "source": "药学名词",
+   "wordNumber": "07.133",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "两种化学药剂作用于生物机体时，一种化学药剂干扰另一种药剂的毒效，或彼此互相干扰对方的毒效，使总体毒效下降的现象。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "微生物学名词",
+   "wordNumber": "07.121",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "(1)由某种生物所产生的特定代谢产物可抑制它种生物的生长发育甚至致其死亡的现象。(2)两种或多种抗生素混合使用时，其抗菌作用低于各自单独使用时的现象。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "生态学名词",
+   "wordNumber": "14.249",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "一种污染物因另一种污染物的存在而使其毒性减少的作用。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "土木工程名词",
+   "wordNumber": "11.247",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "昆虫学名词",
+   "wordNumber": "09.057",
+   "subjectFullName": "昆虫学_昆虫毒理与药理",
+   "subjectName": "昆虫毒理与药理",
+   "publishYear": "2000",
+   "definition": "两种化学药剂作用于生物机体时，一种化学药剂干扰另一种药剂的毒效，或彼此互相干扰对方的毒效，使总体毒效下降的现象。"
+  },
+  {
+   "cn": "[生物]拮抗现象",
+   "en": "antagonism",
+   "source": "土壤学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "一种生物产生抗性物质能杀害或抑制另一种或多种生物生长的现象。"
+  },
+  {
+   "cn": "相反",
+   "en": "clashing,antagonism",
+   "source": "中医药学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "两种药物合用，能产生或增强毒性反应或副作用的配伍关系。"
+  },
+  {
+   "cn": "拮抗参数",
+   "en": "antagonism parameter",
+   "source": "麻醉学名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "当有一定浓度的拮抗剂存在时，激动剂浓度增加2倍才能达到原来效应，此时拮抗剂摩尔浓度的负对数。符号为pA2。"
+  },
+  {
+   "cn": "相反",
+   "en": "clashing;antagonism",
+   "source": "兽医学名词",
+   "wordNumber": "19.303",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "两种药物配合应用，能产生毒性反应或副作用的配伍关系。"
+  },
+  {
+   "cn": "离子拮抗作用",
+   "en": "ion antagonism",
+   "source": "植物学名词",
+   "wordNumber": "11.0118",
+   "subjectFullName": "植物学_植物生理学_植物矿质营养",
+   "subjectName": "植物矿质营养",
+   "publishYear": "2019",
+   "definition": "在单一的盐溶液中加入少量其他盐，就可消除单盐对植物毒害作用的现象。"
+  },
+  {
+   "cn": "离子拮抗",
+   "en": "ion antagonism",
+   "source": "林学名词",
+   "wordNumber": "02.382",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "在发生单盐毒害的溶液中加入少量价数不同的其他金属离子，即能减轻或消除这种单盐毒害的离子间的作用。"
+  },
+  {
+   "cn": "化学性拮抗",
+   "en": "chemical antagonism",
+   "source": "药学名词",
+   "wordNumber": "07.183",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "对组织或受体具有激动作用的一种药物因与另一种药物发生化学反应，形成一种新复合物，该复合物已不再具有对组织或受体的激动作用。"
+  },
+  {
+   "cn": "药动学拮抗",
+   "en": "pharmacokinetic antagonism",
+   "source": "药学名词",
+   "wordNumber": "07.186",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "拮抗剂的药物可以有效地降低作用部位活性药物浓度的情况。"
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "离子拮抗作用",
+   "en": "ion antagonism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "元素拮抗作用",
+   "en": "element antagonism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互抗",
+   "en": "mutual antagonism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "①相反 ②拮抗",
+   "en": "antagonism（= clashing）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "化学性拮抗",
+   "en": "chemical antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "竞争性拮抗",
+   "en": "competitive antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生理性拮抗",
+   "en": "physiological antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "药动学拮抗",
+   "en": "pharmacokinetic antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗作用",
+   "en": "antagonism\",\"antagonistic action",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非可逆性竞争性拮抗",
+   "en": "irreversible competitive antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性竞争性拮抗",
+   "en": "reversible competitive antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非平衡性拮抗",
+   "en": "non-equilibrium competitive antagonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗物",
+   "en": "antagonist",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗剂",
+   "en": "antagonist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗剂",
+   "en": "antagonist",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗剂",
+   "en": "antagonist",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拮抗药，拮抗剂",
+   "en": "antagonist",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对抗",
+   "en": "antagonism",
+   "source": "马克思主义",
+   "wordNumber": "04.0067",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以剧烈的外部冲突为特征的一种矛盾斗争形式。对抗是矛盾斗争的一种形式，而不是矛盾斗争的一切形式。对抗有时也指矛盾的性质，如对抗性矛盾与非对抗性矛盾。"
+  },
+  {
+   "cn": "阶级对立",
+   "en": "class antagonism",
+   "source": "马克思主义",
+   "wordNumber": "03.0093",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展到阶级社会阶段时，不同阶级之间由于利益差别和利益诉求的矛盾而引发的对立和冲突。阶级对立主要发生在利益直接对抗的阶级之间。在共产主义社会，阶级的对立将随阶级的消灭而不再存在。"
+  },
+  {
+   "cn": "城乡对立",
+   "en": "antagonism between town and country",
+   "source": "马克思主义",
+   "wordNumber": "03.0046",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类阶级社会因为分工引起城乡的分离而造成城乡之间利益的对立和冲突。一个民族内部的分工，首先引起工商业同农业的分离，从而也引起城乡的分离和城乡利益的对立。"
+  },
+  {
+   "cn": "IL-1受体拮抗剂缺乏症",
+   "en": "deficiency of interleukin -one receptor antagonist，DIRA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "因IL-1受体拮抗剂缺乏所致的常染色体隐性遗传性疾病。临床表现为无菌性脓疱、红斑和鳞状皮损，无菌性多灶性骨髓炎，骨膜炎，可以出现多种自身抗体。"
+  },
+  {
+   "cn": "IL-36受体拮抗剂缺乏症",
+   "en": "deficiency of interleukin -thirty-six receptor antagonist，DITRA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.16",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "由白细胞介素36受体基因突变引起的常染色体隐性遗传性疾病。主要表现为泛发性脓疱性银屑病并伴有发热及其他全身炎症症状，如肝功损害、葡萄膜炎和肾功能损害等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

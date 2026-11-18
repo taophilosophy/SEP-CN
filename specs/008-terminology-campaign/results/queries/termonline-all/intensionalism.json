@@ -1,0 +1,52 @@
+{
+ "key": "intensionalism",
+ "term": "intensionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:17:18+00:00",
+ "status": "ok",
+ "note": "variant=intensionalism; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "内涵逻辑",
+   "en": "intensional logic",
+   "source": "语言学名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种逻辑系统。应用内涵和外延算子将一个词项与它在上下文中的具体意义加以区别。"
+  },
+  {
+   "cn": "内涵释义",
+   "en": "intensional definition",
+   "source": "语言学名词",
+   "wordNumber": "06.303",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。通过描述语词指称物所具有的属性集来解释语词含义，揭示并表述出被释义词的概念特征，即对概念内涵的描述。内涵分为主观内涵、客观内涵和约定内涵三种类型。"
+  },
+  {
+   "cn": "意向论",
+   "en": "intentionalism",
+   "source": "心理学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "胡塞尔(E. Husserl)提出的一种心理学理论。认为意向性是意识的本质特征，意识总是某个对象的意识，总是指向某个意识之外的客体。"
+  },
+  {
+   "cn": "内涵数据库",
+   "en": "intensional database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,412 @@
+{
+ "key": "isomerism",
+ "term": "isomerism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:14:13+00:00",
+ "status": "ok",
+ "note": "variant=isomerism; 审定公布名词库=85; 海峡两岸名词对照库=44; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "异构",
+   "en": "isomerism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0193",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "两种或多种化学组成相同即分子式相同的化合物，但结构和性质不同的现象。主要是由分子中原子成键的顺序不同和空间排列方式不同而引起。"
+  },
+  {
+   "cn": "异构性",
+   "en": "isomerism",
+   "source": "物理学名词",
+   "wordNumber": "08.2979",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "异构[现象]",
+   "en": "isomerism",
+   "source": "化学名词",
+   "wordNumber": "02.0791",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "存在于异构体之间的相互转化关系。"
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0213",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "改变化合物的结构而不改变其组成和分子量的过程。一般指有机化合物分子中原子或基团的位置的改变。"
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0553",
+   "subjectFullName": "化工（一）_加工工艺_异构化",
+   "subjectName": "异构化",
+   "publishYear": "2017",
+   "definition": "在一定的反应条件和催化剂作用下，有机化合物分子重新排成相应异构体，而不改变其组成和相对分子质量的过程。"
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "药学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "改变化合物的结构而不改变其组成和分子量的过程。一般指有机化合物分子中原子或基团的位置的改变。"
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "石油名词",
+   "wordNumber": "06.0077",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "结构异构",
+   "en": "structural isomerism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0194",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有相同分子式分子中因原子相互连接的顺序不同所产生的异构现象。"
+  },
+  {
+   "cn": "旋光异构",
+   "en": "optical isomerism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0197",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "手性化合物与其镜像不能相互重叠，并能使偏振光发生不同方向偏转的异构现象。"
+  },
+  {
+   "cn": "构象异构",
+   "en": "conformational isomerism",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0198",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "有机分子中由于碳-碳单键的旋转或扭曲（不是把键断开）而使得分子各原子或原子团在空间产生不同的排列方式的一种立体异构现象。"
+  },
+  {
+   "cn": "配位异构",
+   "en": "coordination isomerism",
+   "source": "物理学名词",
+   "wordNumber": "08.2476",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多面体异构",
+   "en": "polytopal isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0547",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "组成和配位数都相同的配合物中，配位原子在中心原子周围的排列方式不同而产生的不同配位多面体的现象。如平面四方形和四面体、八面体和三棱柱等。"
+  },
+  {
+   "cn": "价态异构",
+   "en": "valence isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0549",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "配合物组成、结构相同而中心原子价态不同所产生的异构现象。"
+  },
+  {
+   "cn": "溶剂合异构",
+   "en": "solvate isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0548",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "溶剂分子取代不同数目的内界配体产生的异构现象。溶剂分子为水时称为水合异构。"
+  },
+  {
+   "cn": "电离异构",
+   "en": "ionization isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0542",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "组成相同的配合物在溶液中产生不同离子的异构现象。"
+  },
+  {
+   "cn": "旋光异构",
+   "en": "optical isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0544",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "手性配合物与其镜像不能相互重叠，并能使偏振光发生不同方向偏转的异构现象。"
+  },
+  {
+   "cn": "键合异构",
+   "en": "linkage isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0543",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "配体能以两种或两种以上方式与中心原子键合的现象。"
+  },
+  {
+   "cn": "几何异构",
+   "en": "geometrical isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0541",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "配合物中，配体相同但空间排布方式不同而产生的异构现象。"
+  },
+  {
+   "cn": "配位异构",
+   "en": "coordination isomerism",
+   "source": "化学名词",
+   "wordNumber": "01.0540",
+   "subjectFullName": "化学_无机化学_配位化学",
+   "subjectName": "配位化学",
+   "publishYear": "2016",
+   "definition": "配合物的异构现象之一。由配阴离子和配阳离子组成的配合物，相互交换两者各自配体的异构现象。"
+  },
+  {
+   "cn": "几何异构",
+   "en": "geometrical isomerism",
+   "source": "药学名词",
+   "wordNumber": "03.069",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在有双键或环状结构的分子中，由于分子中与双键或环相连接的原子或基团的自由旋转受阻碍，存在不同的空间排列而产生的立体异构现象。"
+  },
+  {
+   "cn": "异构[现象]",
+   "en": "isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "异构现象",
+   "en": "isomerism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "异构化作用",
+   "en": "isomerization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "异构化",
+   "en": "isomerization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电离异构",
+   "en": "ionization isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多面体异构",
+   "en": "polytopal isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "几何异构",
+   "en": "geometrical isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "价态异构",
+   "en": "valence isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "键合异构",
+   "en": "linkage isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "配位异构",
+   "en": "coordination isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂合异构",
+   "en": "solvate isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "旋光异构",
+   "en": "optical isomerism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反式异构",
+   "en": "trans-isomerism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺式异构",
+   "en": "cis-isomerism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "旋光异构",
+   "en": "optical isomerism",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "构象异构",
+   "en": "conformational isomerism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "几何异构",
+   "en": "geometrical isomerism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

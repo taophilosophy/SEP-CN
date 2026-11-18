@@ -1,0 +1,392 @@
+{
+ "key": "privilege",
+ "term": "privilège",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:16:13+00:00",
+ "status": "ok",
+ "note": "variant=privilège; 审定公布名词库=28; 海峡两岸名词对照库=15; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Si₁₋ₓGeₓ/Si异质结构材料",
+   "en": "Si₁₋ₓGeₓ/Si heterojunction materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0405",
+   "subjectFullName": "材料科学技术_半导体材料_硅基半导体材料",
+   "subjectName": "硅基半导体材料",
+   "publishYear": "2011",
+   "definition": "由硅 - 锗合金和硅构成的Si₁₋ₓGeₓ/Si异质结构的材料。其性能优异并具有重要的应用价值，被认为是“第二代硅”材料。"
+  },
+  {
+   "cn": "用户权限",
+   "en": "user privilege",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.102",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "对用户在信息系统中能够使用的资源的限定。由系统管理员根据系统设置的安全规则或者安全策略给用户设置权限，用户可以访问而且只能访问自己被授权的功能和访问数据。"
+  },
+  {
+   "cn": "记者特权",
+   "en": "journalists' privilege",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.085",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "根据宪法和有关制定法，新闻工作者享有的免于被迫做证，拒绝向陪审团等审判、质询机关提供秘密消息或消息来源的权利。中国现行法律没有关于记者特权的规定。"
+  },
+  {
+   "cn": "出版者特权",
+   "en": "publisher's privilege",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.086",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "出版者如果在出版物中对执行公务的国家公务员或政府雇员的行为进行正当的评论，可享有免于受到“诽谤”指控的权利。但如果有证据表明该出版材料含有“实际恶意”，则出版者无论是明知或出于过失而刊登了不实之内容，"
+  },
+  {
+   "cn": "最小特权",
+   "en": "minimum privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0181",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "主体的访问权限的最低限度。即执行授权活动所必需的那些权利。"
+  },
+  {
+   "cn": "访问特权",
+   "en": "access privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0223",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "授予用户的访问数据库的权限。"
+  },
+  {
+   "cn": "特权令",
+   "en": "Privilege Order",
+   "source": "世界历史名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "1213年8月25日在圣保罗教堂召开的贵族会议上，坎特伯雷大主教斯提芬·郎顿宣读的亨利一世加冕时颁布的缓和教俗矛盾的敕令。"
+  },
+  {
+   "cn": "借阅权限",
+   "en": "borrowing privileges",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.125",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "图书馆对读者借阅册数与借阅期限的规定。"
+  },
+  {
+   "cn": "特权模式",
+   "en": "privileged mode",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0160",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "操作系统或控制系统的一种状态。在该状态下可以执行特权操作。"
+  },
+  {
+   "cn": "特权指令",
+   "en": "privileged instruction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0684",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "由处理器提供的只能在特权态执行的指令。通常用于读写计算机系统的硬件状态。"
+  },
+  {
+   "cn": "科希策特权法",
+   "en": "Privilege of Koszyce",
+   "source": "世界历史名词",
+   "wordNumber": "02.0895",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1374年9月17日，波兰国王路易一世的文告，在同意国王女儿继承王位的条件下，授予贵族免除土地税的特权。"
+  },
+  {
+   "cn": "最小特权原则",
+   "en": "principle of least privilege",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0206",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在系统中的每个主体都只具有合法任务所需的最严格的权限集或最低许可。"
+  },
+  {
+   "cn": "奥托特权",
+   "en": "Privilege by Otto I",
+   "source": "世界历史名词",
+   "wordNumber": "02.0598",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "德意志国王奥托一世(912-973)剥夺巴伐利亚公爵对主教的任职权，自己任命巴伐利亚主教，归还部分已经还俗的教产，并授予原属公爵的司法权，史称“奥托特权”。"
+  },
+  {
+   "cn": "免疫豁免部位",
+   "en": "immunological privileged site",
+   "source": "器官移植学名词",
+   "wordNumber": "02.072",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "机体某些特定部位，其在解剖上与免疫细胞隔绝或在局部微环境中存在抑制免疫应答的机制，从而一般不对外来抗原(包括移植物抗原)产生应答。"
+  },
+  {
+   "cn": "免疫豁免部位",
+   "en": "immunological privileged site",
+   "source": "免疫学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "机体某些特定部位，其在解剖上与免疫细胞隔绝或在局部微环境中存在抑制免疫应答的机制，从而一般不对外来抗原(包括移植物抗原)产生应答。"
+  },
+  {
+   "cn": "免疫特惠器官",
+   "en": "immunologically privileged organ",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.242",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "免疫特惠区",
+   "en": "immunologically privileged site",
+   "source": "医学名词 第六分册",
+   "wordNumber": "09.243",
+   "subjectFullName": "医学_器官移植学",
+   "subjectName": "器官移植学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "肝免疫特惠现象",
+   "en": "immune privilege of the liver",
+   "source": "肝病学名词",
+   "wordNumber": "15.3.1.2",
+   "subjectFullName": "肝病学_肝移植_肝移植术后管理",
+   "subjectName": "肝移植术后管理",
+   "publishYear": "2024",
+   "definition": "移植肝达到移植术后操作性耐受，在未应用免疫抑制剂治疗的情况下，移植肝功能正常，组织学未观察到排斥反应，同时对其他抗原刺激（如感染等）的免疫应答功能正常的现象。"
+  },
+  {
+   "cn": "门荫",
+   "en": "men yin;family privilege sys-tem",
+   "source": "中国古代史名词",
+   "wordNumber": "5.126",
+   "subjectFullName": "中国古代史_隋唐五代_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "官员贵族子孙据父祖官爵入仕并获得相应优待的制度。历代有之，隋唐以来除少数显贵子弟可直接出任官职外，绝大部分仅凭父祖官爵只能获得散官品级，须在相应官府服役执事满一定期限后，再通过铨选任以职事官。不过其另"
+  },
+  {
+   "cn": "形势户",
+   "en": "xing shi hu;privileged household",
+   "source": "中国古代史名词",
+   "wordNumber": "6.234",
+   "subjectFullName": "中国古代史_两宋_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "唐宋家有官吏及在地方有权势的人户。历代其名不一，唐始称此。宋朝指官户和充当州县公吏、乡里基层头目的部分上户。"
+  },
+  {
+   "cn": "特权，使用权",
+   "en": "privilege",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特权",
+   "en": "privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最小特权",
+   "en": "minimum privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存取特权，访问特权",
+   "en": "access privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特惠进口",
+   "en": "privileged import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许债券",
+   "en": "bond privileged",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应优先偿还的债务",
+   "en": "privileged debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特权方式",
+   "en": "privileged mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特权命令",
+   "en": "privileged command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特权指令",
+   "en": "privileged instruction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免疫豁免区",
+   "en": "immune privilege site",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最小特权原则",
+   "en": "principle of least privilege",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假脱机操作员特权级别",
+   "en": "spooling operator privilege class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免疫豁免部位， 免疫特惠区",
+   "en": "immunological privileged site",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海关提供的特惠措施",
+   "en": "special customs-privileged facility",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特权滥用",
+   "en": "privilege abuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权管理基础设施",
+   "en": "privilege management infrastructure (PMI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最小化授予原则",
+   "en": "principle of least privilege (POLP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

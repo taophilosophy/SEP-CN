@@ -1,0 +1,582 @@
+{
+ "key": "realists",
+ "term": "realists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:20:24+00:00",
+ "status": "ok",
+ "note": "variant=realists; 审定公布名词库=76; 海峡两岸名词对照库=23; 其他来源数据库=10; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "现实价值",
+   "en": "realistic value",
+   "source": "档案学名词",
+   "wordNumber": "01.03.008",
+   "subjectFullName": "档案学_总论_档案价值",
+   "subjectName": "档案价值",
+   "publishYear": "2024",
+   "definition": "档案对现实的社会实践活动所具有的有用性。"
+  },
+  {
+   "cn": "真实感绘制",
+   "en": "realistic rendering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0688",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "基于光在场景中传播的物理规律，计算景物表面的光亮度，生成其真实感图形的过程。"
+  },
+  {
+   "cn": "唯实主义教育",
+   "en": "realistic education",
+   "source": "教育学名词",
+   "wordNumber": "04.083",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "产生于文艺复兴后期的一种强调知识在现实生活中的实用价值，主张应培养掌握实用知识和技能的实业家和事业家的教育思想。"
+  },
+  {
+   "cn": "真实地球模型",
+   "en": "realistic Earth model",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0893",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "体现地球内部性质和结构真实情况的模型。 "
+  },
+  {
+   "cn": "现实工作预览",
+   "en": "realistic job preview",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0465",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在招聘过程中，组织向应聘者提供正面与负面信息，展示组织和职位情况的方法。"
+  },
+  {
+   "cn": "生物真实性神经元模型",
+   "en": "biologically realistic neuron model",
+   "source": "生物物理学名词",
+   "wordNumber": "07.052",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "考虑了生物神经元膜上离子通道等内部机制的一种神经元模型。"
+  },
+  {
+   "cn": "量子力学的实在论诠释",
+   "en": "realist interpretation of quantum mechanics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.366",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "试图为量子测量过程提供一种决定论的因果性理解的各条进路。主要包括非定域的实在论进路（如玻姆的隐变量解释）、定域的实在论进路（如多世界解释）以及量子-逻辑的实在论进路等。"
+  },
+  {
+   "cn": "生物真实性神经网络模型",
+   "en": "biologically realistic neural network model",
+   "source": "生物物理学名词",
+   "wordNumber": "07.053",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "前提假设必须有充分的神经生物学根据，而其目的是阐明相应神经回路工作机制的一种神经网络模型。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "心理学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种哲学理论。既承认外部世界的客观实在性，也把感觉、观念等看作客观实在，否认精神是物质发展的产物。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "心理学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "哲学中指客观存在的实体。现代心理学曾认为情绪、人格等均为实在，但受到后现代心理学的挑战。"
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "语言学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。主张不要为了维护一种假定、一种原则、一种方法而抛掉某些极其重要的语言事实。即当运用某些结构主义方法不能说明事实的时候，可以不受某一种方法的拘束。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "利用计算机模拟产生一个虚拟的三维空间的技术。让使用者的感官置身于一个现实中不存在的三维世界之中。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "一种将虚拟信息实时投射在现实影像中的技术。将真实世界信息和虚拟世界信息“无缝”集成并实现互动。"
+  },
+  {
+   "cn": "客观实在",
+   "en": "objective reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "独立于人的意识，不以人的意识为转移又能为人的意识所反映的、具有多样性的客观物质世界或自然界。认为客观实在性是物质的唯一特性，是物质确实存在着的客观标志。"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为科学理论不断逼近客观真理，它们假设的不可观察实体也真实存在。"
+  },
+  {
+   "cn": "外部实在论",
+   "en": "external realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.004",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为外部世界独立于心灵、语言和理论，真理是语言与世界之间的符合，理想理论也有可能是错误的。"
+  },
+  {
+   "cn": "内在实在论",
+   "en": "internal realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.005",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为真理总是在认识上受到限制，是相对于概念体系的，没有“上帝之眼”。"
+  },
+  {
+   "cn": "形而上学实在论",
+   "en": "metaphysical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.006",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为世界独立于人类或其他认知主体而存在，世界的对象及其属性决定了世界的本质。"
+  },
+  {
+   "cn": "建构实在论",
+   "en": "constructive realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "试图既保持科学知识的实在性，又承认相对主义的合理性，主张客观实在是人类进行认识建构的结果。"
+  },
+  {
+   "cn": "现实工作演习",
+   "en": "realistic job preview\",\"RJP",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "真实感显示",
+   "en": "realism display，realism rendering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实原则",
+   "en": "reality principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验真实性",
+   "en": "experimental realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会现实",
+   "en": "social reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据真实性",
+   "en": "data reality",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工现实",
+   "en": "artificial reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实技术",
+   "en": "virtual reality technology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实核心",
+   "en": "heart of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现实世界模式化",
+   "en": "modelization of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求真务实",
+   "en": "be realistic and pragmatic",
+   "source": "马克思主义",
+   "wordNumber": "03.0681",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "追求真理，把握规律，真抓实干，务求实效，是党的思想路线的核心内容，也是党的优良传统和共产党人应该具备的政治品格。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

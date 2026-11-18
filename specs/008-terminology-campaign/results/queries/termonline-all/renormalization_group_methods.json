@@ -1,0 +1,692 @@
+{
+ "key": "renormalization group methods",
+ "term": "Renormalization group methods",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:18:49+00:00",
+ "status": "ok",
+ "note": "variant=Renormalization group methods; 审定公布名词库=5278; 海峡两岸名词对照库=1263; 其他来源数据库=149; 预公布名词数据库=326; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "重正化群",
+   "en": "renormalization group",
+   "source": "物理学名词",
+   "wordNumber": "05.1076",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重正化",
+   "en": "renormalization",
+   "source": "物理学名词",
+   "wordNumber": "09.1422",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费根鲍姆[重正化群]方程",
+   "en": "Feigenbaum's [renormalization group] equation",
+   "source": "物理学名词",
+   "wordNumber": "11.0528",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重正化方案",
+   "en": "renormalization scheme",
+   "source": "物理学名词",
+   "wordNumber": "05.1078",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重正化标度",
+   "en": "renormalization scale",
+   "source": "物理学名词",
+   "wordNumber": "05.1083",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电荷重正化",
+   "en": "charge renormalization",
+   "source": "物理学名词",
+   "wordNumber": "09.1347",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重正化规则",
+   "en": "renormalization rule",
+   "source": "物理学名词",
+   "wordNumber": "05.1077",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重正化质量",
+   "en": "renormalized mass",
+   "source": "物理学名词",
+   "wordNumber": "09.1566",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自洽重正化",
+   "en": "self-consistent renormalization",
+   "source": "物理学名词",
+   "wordNumber": "05.1081",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "基团贡献法",
+   "en": "group contribution method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "把单质和化合物的物理化学性质看成是构成它们的基团对物理化学性质贡献的加和，通过基团的体积参数、表面积参数以及基团之间的交互作用参数来计算活度系数。"
+  },
+  {
+   "cn": "成组试验法",
+   "en": "group test method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0131",
+   "subjectFullName": "机械工程（一）_机械强度_结构疲劳",
+   "subjectName": "结构疲劳",
+   "publishYear": "2021",
+   "definition": "在每个应力水平下用一组试样进行试验的方法，以提高精确度。"
+  },
+  {
+   "cn": "分组实验法",
+   "en": "grouping experimental method",
+   "source": "教育学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "20世纪20年代在苏联学校流行的一种根据道尔顿制教学法原则而确定的教学组织形式。"
+  },
+  {
+   "cn": "重正化微扰展开",
+   "en": "renormalized perturbation expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.1082",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耦合强度重正化",
+   "en": "renormalization of coupling strength",
+   "source": "物理学名词",
+   "wordNumber": "09.1565",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多群扩散法",
+   "en": "multi-group diffusion method",
+   "source": "电力名词",
+   "wordNumber": "17.077",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "将能量分群法用于中子扩散方程,得到一个由n(能群数)个中子扩散方程的联立方程组,能群间通过中子迁移截面耦合,成为求解可以认为中子迁移与方向无关的大型反应堆堆芯中子空间分布最常用的近似方法。"
+  },
+  {
+   "cn": "群学习预测方法",
+   "en": "group learning forecasting method",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0427",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "利用群体学习算法进行预测的一类方法。"
+  },
+  {
+   "cn": "[中子]能量分群法",
+   "en": "neutron energy grouping method",
+   "source": "电力名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "将中子能量范围分成n个相连的能群,每群中子假定具有单一能量,采用一些称为群常数的平均量表述该群中子特性,使中子运动方程简化成n个只出现空间变量的联立运动方程组,实现能量与控件变量分离的近似方法。"
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "地质学名词",
+   "wordNumber": "07.01.100",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "比“ 组” 高一级的正式岩石地层单位。两个或两个以上相邻“组”的组合或一套还没有做过深入研究，很可能划分为若干“组”的岩系。通常用地名加“群”来命名。"
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "核医学名词",
+   "wordNumber": "01.0035",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "根据某种规则对群体对象进行分类的过程或结果。"
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "化学名词",
+   "wordNumber": "01.0135",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "化合物中以共价键与其他组分相结合的中性原子团。"
+  },
+  {
+   "cn": "再归一化",
+   "en": "renormalization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "再规一化",
+   "en": "renormalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群体,团体",
+   "en": "group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类群",
+   "en": "group",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "基团［贡献］解析法",
+   "en": "analytical solution of group contribution method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并系[类]群，偏系群",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏系群（=并系[类]群）",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "端基",
+   "en": "end group\",\"terminal group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基节板群",
+   "en": "coxal group\",\"epimeron group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "团体规范化",
+   "en": "group normalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度系数通用准化功能团贡献法",
+   "en": "universal quasi-chemical functional group activity coefficient method\",\"UNIFAC  method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "族",
+   "en": "family\",\"group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同源细胞群",
+   "en": "isogenous group",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单系[类]群",
+   "en": "monophyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多系[类]群（=复系[类]群）",
+   "en": "polyphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辅基",
+   "en": "prosthetic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "Group",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "grouping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了一定的目的组织起来共同行动的团体。在我国多指企业集团、公司集团或多个公司为达成某种特定目标而在业务、流通、生产等方面联系紧密，从而聚集在一起形成的公司（或者企业）联盟。"
+  },
+  {
+   "cn": "小组",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作服务的对象单位，由数个至十数个个人组成。小组的特征包括：有两个或两个以上的人；感到有整体意识且会维持一段时间；互相影响；有控制其成员相互影响的明确规范；有一套角色。"
+  },
+  {
+   "cn": "民俗集团",
+   "en": "folklore group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0029",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民族内部的文化分支，即分布有某些文化特征的地方集团，具有强烈的民族自我意识。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "焦点小组",
+   "en": "focus group",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "组织一小群研究主体进行讨论的访谈方法。"
+  },
+  {
+   "cn": "社会群体",
+   "en": "social group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "介于个人与组织之间的人群结合体，通过一定的社会关系，由具有一定的共同信仰、理想、目标、兴趣、爱好或情感而结合起来进行共同活动的集体。"
+  },
+  {
+   "cn": "小群体",
+   "en": "small group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "规模较小，并且成员在共同认可的群体规范下，能够面对面直接互动并产生相互作用、相互影响以保持其完整性的社会群体。"
+  },
+  {
+   "cn": "内群体",
+   "en": "in-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员经常参与其间的活动，对其有团结、忠心、亲密及合作感觉，在心理上自觉认同并归属于其中的群体。与“外群体”相对。"
+  },
+  {
+   "cn": "外群体",
+   "en": "out-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员未参加，对其在心理上无任何归属感，由他人结合而成的群体。与“内群体”相对。"
+  },
+  {
+   "cn": "正式群体",
+   "en": "formal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度高，有一定的目标，其成员间的互动采取制度化、规范化的方式，成员彼此间的权利、义务关系都有明确的且常常是书面形式的规定。与“非正式群体”相对。"
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度低，其成员间的互动以个人好恶、兴趣等为基础自发形成，多采取随意的、常规的方式，成员的权利、义务及彼此的关系没有明确的尤其是成文的规定。与“正式群体”相对。"
+  },
+  {
+   "cn": "首属群体",
+   "en": "primary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "个人最初加入的首先接受社会化的群体，其成员间相互熟悉、了解，因而以感情为基础结成具有亲密的、面对面交往与合作特征的社会群体。最早由美国社会学家库利(Charles Horton Cooley）在《社会"
+  },
+  {
+   "cn": "次属群体",
+   "en": "secondary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员为了某种特定的目标集合在一起，不一定有面对面接触，可以某些沟通工具为媒介，通过明确的规章制度结成正式关系的社会群体。与“首属群体”相对。"
+  },
+  {
+   "cn": "相遇群体",
+   "en": "encounter group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "在特定情景下人们偶然相遇所形成的、没有很强我群意识的、具有不稳定性质的群体，但特殊的境遇促成其成员心理上比较接近，易于随意交流，彼此倾吐，沟通心声，借以达到精神上的安慰。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "利益群体",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们在社会生产过程中，基于某种共同价值、共同态度、共同社会地位或者共同职业，因利益一致或基本一致，并为实现利益联系在一起的、以争取群体及其成员利益、影响公共政策的共同体。"
+  },
+  {
+   "cn": "压力团体",
+   "en": "pressure group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "由关切某些方面的公共利益而组成的团体，其中有领导者和代言人，由他们提出明确的需要和要求，以迫使别的团体或该团体所隶属的组织改变其政策。"
+  },
+  {
+   "cn": "志趣小组",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间相同或相近的兴趣、爱好、志向等而形成的社会群体。"
+  },
+  {
+   "cn": "血缘群体",
+   "en": "consanguinity group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间血统或生理联系为基础和纽带而形成的社会群体，其历史最为悠久，是个体学习、参与社会生活的出发点。"
+  },
+  {
+   "cn": "地缘群体",
+   "en": "territorial group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间空间或地理位置关系而形成的社会群体，其中比较稳定的、牢固的地缘群体是人类采取定居形式后的产物，因其地缘历史性关系，易于在此基础上形成同乡会等其他社会群体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

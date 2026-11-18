@@ -1,0 +1,662 @@
+{
+ "key": "professionalism",
+ "term": "professionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:15+00:00",
+ "status": "ok",
+ "note": "variant=professionalism; 审定公布名词库=97; 海峡两岸名词对照库=5; 其他来源数据库=21; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "专业主义",
+   "en": "professionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "随着现代科学、技术的发展，学科的不断分化，生产领域分工特别是现代企业个别分工的细化与深化，企业与部门目标的实现与竞争力的提升最终诉诸组织所雇佣人员的专业化程度，相信团队成员越是专业化水平高、知识结构合"
+  },
+  {
+   "cn": "专业技术人才",
+   "en": "professional",
+   "source": "教育学名词",
+   "wordNumber": "11.093",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "受过精深的专门教育或特别培训，从事高度专业化的操作、管理及咨询工作的人。"
+  },
+  {
+   "cn": "医学职业精神",
+   "en": "medical professionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.112",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "医生将其知识、技能和判断力用于为有需要的人提供优质的医疗保健，保护和恢复人类健康。是社会和公众对医生及其职业保持信任的基础。"
+  },
+  {
+   "cn": "新闻专业主义",
+   "en": "journalistic professionalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "将新闻从业活动视为一种专业的理念。该理念起源于19世纪30年代大众报刊兴起时期。当时大量脱离政党独立运营的报刊形成了独立办报的思想，如公正、客观地报道新闻事件，以及一系列新闻职业道德与规范。20世纪4"
+  },
+  {
+   "cn": "教师专业性",
+   "en": "teacher professionalism",
+   "source": "教育学名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "教师在具体教学实践中所表现出的在观念、态度、知识和行为上的一些典型特征。"
+  },
+  {
+   "cn": "专业阅读",
+   "en": "professional reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.055",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "专业人士对特定专业领域的阅读行为。专业阅读往往遵循一定的专业规范与专业逻辑，并在阅读中思考和推进相应专业问题。"
+  },
+  {
+   "cn": "专业网点",
+   "en": "professional outlet",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.02.018",
+   "subjectFullName": "编辑与出版学_发行与经营_发行者",
+   "subjectName": "发行者",
+   "publishYear": "2022",
+   "definition": "经营某种或某几种类型出版物的发行网点。"
+  },
+  {
+   "cn": "专业类图书",
+   "en": "professional book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.076",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "内容涉及行业、职业和专业学科领域的图书。"
+  },
+  {
+   "cn": "专业报",
+   "en": "professional newspaper",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.010",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "以传播特定专业领域信息为主要内容的报纸。"
+  },
+  {
+   "cn": "专业性刊物",
+   "en": "professional journal",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.034",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "由某一社会专业团体或专业机关主办的以报道本专业的业务活动信息为主的刊物。"
+  },
+  {
+   "cn": "专业期刊",
+   "en": "professional periodical",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.055",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "某个专业领域的期刊。"
+  },
+  {
+   "cn": "专业咨询",
+   "en": "professional consultation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.044",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "在规划编制过程中，组建由不同领域专家组成的规划专业委员会，广泛听取专业委员会意见的过程。"
+  },
+  {
+   "cn": "专业馆员",
+   "en": "professional librarian",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.214",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "具有学科知识或专业背景，受过系统的图书馆学专业训练，专门从事图书馆业务工作的馆员。"
+  },
+  {
+   "cn": "信息专业人员",
+   "en": "information professional",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.220",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "以某一领域的信息工作为专业或职业，专门从事信息搜集、组织、存储、管理、检索和分配的信息工作者。包括图书馆员、档案人员、博物馆员及其他信息管理人员。"
+  },
+  {
+   "cn": "专业化服务",
+   "en": "professional service",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0029",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "需要专门培训以获得知识或技能，并具有高度的客户交互的一种服务类型。"
+  },
+  {
+   "cn": "职业协会",
+   "en": "professional association",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0562",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "以职业为纽带，以权益维护与发展为宗旨，按照自愿原则组建的专业组织。"
+  },
+  {
+   "cn": "职业道德",
+   "en": "professional ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0589",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "同职业活动紧密联系的符合职业特点所要求的道德准则、道德情操与道德品质的总和。"
+  },
+  {
+   "cn": "职业资格证书",
+   "en": "professional certification",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0567",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "政府认定的考核鉴定机构所授予的有关职业技能水平或职业资格的评价和鉴定结果证明文件。"
+  },
+  {
+   "cn": "专业负责人",
+   "en": "professional leader",
+   "source": "建筑学名词",
+   "wordNumber": "06.0021",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计机构及内部级别",
+   "subjectName": "设计机构及内部级别",
+   "publishYear": "2014",
+   "definition": "承担项目的各工种专业设计负责人。主要职责包括：贯彻执行工程设计政策、法规、标准、公司管理体系文件；负责提出先进合理的专业设计方案，拟定专业的主要设计原则和技术措施，编写施工图设计开工报告；负责专业内、"
+  },
+  {
+   "cn": "医技人员",
+   "en": "health professional",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "放射医学与防护_医用放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "按照国家规定的程序被正式认可的从事某种与医疗保健相关职业(例如，内科、牙科、医学物理、医学放射技术、放射药剂、职业卫生等)的人员。"
+  },
+  {
+   "cn": "专职吞噬细胞",
+   "en": "professional phagocyte",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专职操作员",
+   "en": "professional operator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "称职",
+   "en": "professional competence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "专职性抗原提呈细胞",
+   "en": "professional antigen presenting cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "职业精神",
+   "en": "professionalism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "当行",
+   "en": "Professionalism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗从业者",
+   "en": "medical practitioner; health professional",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_职业群体",
+   "subjectName": "职业群体",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专业生产内容盈利模式",
+   "en": "professionally generated content (PGC) profit model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权自律",
+   "en": "Self-Regulation and Professional Ethics for Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感染控制和流行病学专业人员协会",
+   "en": "Association for Professionals in Infection Control and Epidemiology (APIC)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《中国互联网行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Internet Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the AI Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国大数据行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Big Data Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中国数据中心行业自律公约》",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for China’s Data Center Industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网终端安全服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Terminal Security Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《移动通信转售企业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Mobile Communication Resale Enterprises (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网搜索引擎服务自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Internet Search Engine Services (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中关村大数据产业联盟行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for Zhongguancun Big Data Industry Alliance (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《线下大数据行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the Offline Big Data Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据与信息化安全自律标准化文件》（中国）",
+   "en": "Standardization Document of Self-Regulation and Professional Ethics for Big Data and Informatization Security (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据流通行业自律公约》（中国）",
+   "en": "Public Pledge of Self-Regulation and Professional Ethics for the Data Transfer Service Industry (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络营销与互联网用户数据保护自律宣言》（中国）",
+   "en": "Declaration of Self-Regulation and Professional Ethics for Online Marketing and Internet User Data Protection (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业精神",
+   "en": "professionalism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.051",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在专业的发展过程中形成的适应专业发展需要的责任意识、价值理念、心理状态和行为规范等精神理念。"
+  },
+  {
+   "cn": "专业（性）",
+   "en": "professional(ism)",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "从事一项活动体现出的系统知识和专精品质。在社会工作实践中指具有系统的理论、专业权威、社会认可、道德行为守则和专业文化。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "过度专业化",
+   "en": "over-professionalization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "专业的职业活动过于强调细致分工，形成活动领域过分细碎分割的情形；或是只偏重技术运用，而忽视专业宗旨的倾向。在社会工作领域表现为社会工作者过于强调社会工作的专业性，在工作中较少地关注理念，而过于重视科学"
+  },
+  {
+   "cn": "专业价值",
+   "en": "professional value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会工作专业共同体所持有的特定价值观。"
+  },
+  {
+   "cn": "职业荣誉",
+   "en": "professional honor",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0490000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对某一职业类型和职业行为的肯定性评价。作为从事该职业的个人因这种肯定性评价而产生自豪感。"
+  },
+  {
+   "cn": "职业纪律",
+   "en": "professional discipline",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.047",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从事职业活动所必须遵守的具有一定强制性的行为准则和规范。包括劳动纪律、组织纪律、财经纪律、安全纪律、保密纪律等。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "职业行话",
+   "en": "professional jargon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0063",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "各行工匠为了本行业的技术保密、内部交换想法或其他特殊需要而创造、传承的一种同行用语，外行人很难明白其中含义；可细分为姓氏行话、称谓行话、工具名称行话、生产行话和日常生活行话等。"
+  },
+  {
+   "cn": "职业习惯",
+   "en": "professional habits",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.046",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在职业活动中形成的稳定的职业行为方式。包括个人职业习惯和社会职业习惯，是调节人们职业行为的标准和方式。"
+  },
+  {
+   "cn": "职业良心",
+   "en": "professional conscience",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.048",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在职业活动中形成的职业责任感和自我评价能力。是从业人员道德认知、情感和意志的综合体现，在职业行为前具有选择检查作用，在行为中具有监督调整作用，在行为后具有评价作用。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "职业道德",
+   "en": "professional ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.044",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在职业活动中应该遵循的道德规范和要求，是一般社会道德在职业活动中的体现。"
+  },
+  {
+   "cn": "职业责任",
+   "en": "professional responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.052",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "与职业或岗位相应的义务，包括法定职业责任和道德职业责任。"
+  },
+  {
+   "cn": "专业体育集训",
+   "en": "professional sports training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "集中起来、反复进行的有目的和针对性的并持续较长时间的体育培训活动。"
+  },
+  {
+   "cn": "社会工作专业化",
+   "en": "professionalization of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "社会工作职业活动愈益具备专业特质或属性的过程，或是社会工作职业取得专业地位的过程。一般认为，专业化是专业的不断发展的动态过程，是一个由在经验指导下的个人行为的集合向由一套系统的理论指导下的从业人员的群"
+  },
+  {
+   "cn": "自决专业关系",
+   "en": "self-determination professional relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程中，为了专业服务的目的，社会工作者与案主之间建立的充分尊重案主自我选择和自我决定的权利的关系。"
+  },
+  {
+   "cn": "社会工作专业人才",
+   "en": "professional social work personnel",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.98",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "社会工作专业人才是具有一定社会工作专业知识和技能，在社会福利、社会救助、慈善事业、社区建设、婚姻家庭、精神卫生、残障康复、教育辅导、就业援助、职工帮扶、犯罪预防、禁毒戒毒、矫治帮教、人口计生、纠纷调解"
+  },
+  {
+   "cn": "社会工作专业教育",
+   "en": "professional social work education",
+   "source": "社会学名词",
+   "wordNumber": "4.4.10.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作教育",
+   "subjectName": "社会工作教育",
+   "publishYear": "2025",
+   "definition": "高等学校开展的以社会工作为专业门类的教育。"
+  },
+  {
+   "cn": "行业定价",
+   "en": "professional organization's price",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "行业组织对全行业提供的商品或服务做出的统一定价。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

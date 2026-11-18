@@ -1,0 +1,642 @@
+{
+ "key": "aggregation theorem",
+ "term": "aggregation theorem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:06:03+00:00",
+ "status": "ok",
+ "note": "variant=aggregation theorem; 审定公布名词库=2426; 海峡两岸名词对照库=838; 其他来源数据库=149; 预公布名词数据库=255; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.010",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "高于文件对象层级的任一文件实体的集合。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "动物学名词",
+   "wordNumber": "7.042",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "受环境资源吸引而形成的个体聚群现象。但同种个体暂时性地聚合在一起，其行动并无组织，也无协作的特点。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0093",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "固体表面的液体膜流动聚合形成微小液滴的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "生理学名词",
+   "wordNumber": "02.167",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "物理学名词",
+   "wordNumber": "08.2537",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0552",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "小尺度的粒子相互接触时，在弱的物理作用力下，使得接触面粘在一起，形成更大的团簇粒子。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0119",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据抽象方法的基本概念之一。设有 n个对象<img src='/root/syzx/static/spz/jsjkx3.07.0119.001.png'/>，i =1，2,…，n ，其笛卡儿积<img"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0322",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个二元关系，表示一个类的某些对象实例所描述的事物可作为另一个类的某些对象实例所描述的事物的组成部分。在统一建模语言（UML）中被视为关联的一种特殊情况。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "化学名词",
+   "wordNumber": "04.1513",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "分散系统中的分散相的粒子以某种方式集合在一起的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0233",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的整体与部分的关联关系，A聚合B表示A由B组成，但B可以脱离A独立存在(在某些问题域中这个类的存在有意义)。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "药学名词",
+   "wordNumber": "05.244",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "悬浮在气体或液体中的固体或液体微粒，由于布朗运动、涡流、热效应或声波等的作用，相互碰撞而团聚成较大颗粒的过程。"
+  },
+  {
+   "cn": "群聚",
+   "en": "aggregation",
+   "source": "古生物学名词",
+   "wordNumber": "05.0067",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "因相同或相似生态要求而聚居在一起的各类生物。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "大气科学名词",
+   "wordNumber": "03.091",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "雪晶在降落时由于碰撞而聚集成块的过程。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "生态学名词",
+   "wordNumber": "06.314",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "由于受环境资源吸引而形成的个体聚群现象。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "昆虫学名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "同种个体暂时性地聚合在一起，但其行动无组织，也无协作的特点。"
+  },
+  {
+   "cn": "团聚[作用]",
+   "en": "aggregation",
+   "source": "土壤学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "由于各种力的作用使土粒团聚在一起的过程。"
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "石油名词",
+   "wordNumber": "05.0219",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "集结",
+   "en": "aggregation",
+   "source": "自动化名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "内容聚合者",
+   "en": "aggregator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.148",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "聚合来自多个在线源的特定类型信息的网站或软件，收集相关内容项并显示它们，或者链接到它们。"
+  },
+  {
+   "cn": "聚合器",
+   "en": "aggregator",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "一个独立实体，它把若干用户集合在一起组成一个群使能获得较低费率的长途业务。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集[作用]",
+   "en": "aggregation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群聚，聚集",
+   "en": "aggregation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚合体",
+   "en": "aggregate",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "细胞聚集",
+   "en": "cell aggregation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "通量聚集，通量聚合",
+   "en": "flux aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集数",
+   "en": "aggregation number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集信息素",
+   "en": "aggregation pheromone",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全局逼近定理",
+   "en": "universal approximation theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集汇聚",
+   "en": "data acquisition and aggregation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会集合",
+   "en": "social aggregation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会成员在时空上形成非整合性、非系统性、非组织性和非协作性的毗邻或群居。深层次上反映出人们彼此之间在社会-文化上尚未达到逻辑和意义上的统一。"
+  },
+  {
+   "cn": "家族聚集性",
+   "en": "familial aggregation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "某一或某些生长发育特征在家族成员中出现的概率或在家族成员间的相关性高于全人群的现象。"
+  },
+  {
+   "cn": "总体工人",
+   "en": "aggregate workers",
+   "source": "马克思主义",
+   "wordNumber": "02.0124",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为生产共同产品直接生产工人，以及非直接生产工人（科技人员、管理人员）的总体。有两个含义：一是指工场手工业时期所特有的局部工人组成的全体生产者。二是包括物质生产领域中直接和间接参加生产某种商品的全体劳动"
+  },
+  {
+   "cn": "总供给",
+   "en": "aggregate supply",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内（通常为1年）由社会生产活动实际可以提供给市场的可供最终使用的卫生服务产品的种类和服务总量。"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "集合暴露",
+   "en": "aggregate exposure，combined exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单个化学物通过多种途径（进口、经皮、吸入）和多种方式（食物、饮水和居住环境）的联合暴露情形。"
+  },
+  {
+   "cn": "短期供给曲线",
+   "en": "short-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映短期中总供给与价格关系的一条曲线。在短期内，总供给量与价格水平呈同方向变动，总供给曲线是一条向右上方倾斜的线。"
+  },
+  {
+   "cn": "长期供给曲线",
+   "en": "long-run aggregate supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "反映长期内总供给与价格的关系的曲线。"
+  },
+  {
+   "cn": "社会隔离",
+   "en": "segregation",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "社会中的某些群体遭到社会歧视或排斥而在居住方面与其他群体分开的现象。表现在某些群体在居住方面被迫与其他群体分开，形成自己的聚集区。"
+  },
+  {
+   "cn": "职业的性别隔离",
+   "en": "gender segregation of occupation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "劳动者因性别原因被分割或集中于不同行业、职业或职位、岗位，从而形成劳动力市场上的男性职业和女性职业的现象。可分为横向隔离和纵向隔离，前者指某类行业、职业对某一性别的排斥，后者指某类职位或岗位对某一性别"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

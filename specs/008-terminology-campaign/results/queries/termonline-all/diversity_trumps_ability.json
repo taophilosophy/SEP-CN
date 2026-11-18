@@ -1,0 +1,752 @@
+{
+ "key": "diversity trumps ability",
+ "term": "diversity trumps ability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:01+00:00",
+ "status": "ok",
+ "note": "variant=diversity trumps ability; 审定公布名词库=1698; 海峡两岸名词对照库=601; 其他来源数据库=78; 预公布名词数据库=94; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "多样",
+   "en": "diversity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.118",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "媒介体系中不同观点与意见的呈现程度。"
+  },
+  {
+   "cn": "物种多样性 species",
+   "en": "diversity",
+   "source": "动物学名词",
+   "wordNumber": "7.0599",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "一定时间一定空间中全部生物或某一生物类群的物种数目与各个物种的个体分布状况。一般是指物种丰富度和物种均匀度。"
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "电力名词",
+   "wordNumber": "17.736",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "为执行某一确定功能,设置两个或多个采用不同的工作原理、处于不同的工作环境、取自不同的生产制造厂的多重部件或系统,从而减少共因故障的可能性。"
+  },
+  {
+   "cn": "多元性",
+   "en": "diversity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0649",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统的组成部分各自具有不同的性质、特点、目的和行为，因而相互区别所形成的系统特性。"
+  },
+  {
+   "cn": "分集",
+   "en": "diversity",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.590",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "由两个或更多部件或媒体组成时所涉及的性质。"
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "生态学名词",
+   "wordNumber": "13.008",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "种类、特征、性状和实体数目存在的各种类型。"
+  },
+  {
+   "cn": "分集",
+   "en": "diversity",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.684",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分集",
+   "en": "diversity",
+   "source": "电子学名词",
+   "wordNumber": "21.249",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "自动化名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "改航",
+   "en": "diversion",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.006",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "改变原飞行计划，使航空器飞到非预定点或备降机场的航行措施。"
+  },
+  {
+   "cn": "α多样性",
+   "en": "alpha diversity,α-diversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0618",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "群落或生境内物种的多度。"
+  },
+  {
+   "cn": "γ多样性",
+   "en": "gamma diversity,γ-diversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0620",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "区域或大陆尺度的物种数量。即在一个区域内，一系列生境中的物种多度。是α多样性和β多样性的结合。"
+  },
+  {
+   "cn": "β多样性",
+   "en": "beta diversity,β-diversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0619",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "在一个环境梯度上，从一个生境到另一个生境之间发生的物种多度变化速率和范围。"
+  },
+  {
+   "cn": "地区多样性",
+   "en": "regional diversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0150",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "一个地理区域中的物种数目或其他分类单元数目。"
+  },
+  {
+   "cn": "景观多样性",
+   "en": "landscape diversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0108",
+   "subjectFullName": "风景园林_风景园林生态_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2025",
+   "definition": "与环境和植被动态相联系的景观斑块的空间分布特征。从原理上讲，景观多样性包括了所有其他层次的多样性。"
+  },
+  {
+   "cn": "多样性中心",
+   "en": "diversity center",
+   "source": "农学名词",
+   "wordNumber": "06.006",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "植物遗传变异最丰富的地区。"
+  },
+  {
+   "cn": "生态系统多样性",
+   "en": "ecosystem diversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0084",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "生物圈内生物群落的多样化以及生态系统内栖息环境的差异、生态过程变化的多样性，导致生态系统多样化的现象。"
+  },
+  {
+   "cn": "生态多样性",
+   "en": "ecological diversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0149",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "物种生态特征的多样性。"
+  },
+  {
+   "cn": "生境多样性",
+   "en": "habitat diversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0144",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "生物生存环境的多样性。由于生境是特定生物的生存环境，因此一个区域的生境多样性是指容纳各种生物的各类生境的总体丰富性量度。"
+  },
+  {
+   "cn": "文化多元",
+   "en": "cultural diversity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.039",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "人类社会交往文化的多样性。①多种文化或不同文化之间的交往、交流与共存。②不同文化间对彼此差异的相互尊重与对话。"
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分集",
+   "en": "diversity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多样性",
+   "en": "diversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "α多样性",
+   "en": "α-diversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "β多样性",
+   "en": "β-diversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "γ多样性",
+   "en": "γ-diversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "α多样性",
+   "en": "alpha diversity\",\"α-diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "β多样性",
+   "en": "beta diversity\",\"β-diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "γ多样性",
+   "en": "gamma diversity\",\"γ-diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多样性指数",
+   "en": "diversity index\",\"diversity indices",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域多样性（=γ多样性）",
+   "en": "regional diversity (=gamma diversity)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多样性指数",
+   "en": "index of diversity\",\"diversity index,diversity indices",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多样性比",
+   "en": "diversity ratio",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多样性梯度",
+   "en": "diversity gradient",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因多样性",
+   "en": "gene diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "景观多样性",
+   "en": "landscape diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克隆多样性",
+   "en": "clonal diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "和而不同",
+   "en": "harmony in diversity",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不学《诗》，无以言",
+   "en": "You Won’t Be Able to Talk Properly with Others Without Studying The Book of Songs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "游泳裤",
+   "en": "trunks",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动短裤",
+   "en": "trunks",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷性",
+   "en": "agility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短裤",
+   "en": "shorts\",\"trunks",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创新敏捷化",
+   "en": "innovation agility",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拳击短裤",
+   "en": "boxing trunks\",\"shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获胜",
+   "en": "win\",\"triumph\",\"victory",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "source": "消毒学",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "生物体及其所生活的生态系统的多种变化。包括不同物种的多样性（物种多样性），物种内部基因的多样性（基因多样性），生态系统内和生态系统间相互作用的多样性（生态系统多样性）。"
+  },
+  {
+   "cn": "文化多样性",
+   "en": "cultural diversity",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "不同文化呈现的不同形式和形态，反映了人类群体生活方式的多元性和丰富性。由“生态多样性”演变而来。与“文化单一性”相对。"
+  },
+  {
+   "cn": "文化多样性",
+   "en": "cultural diversity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0029",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "各群体和社会借以表现其文化的多种不同形式，这些表现形式在他们内部及其间传承。文化多样性是人类社会的基本特征，也是人类文明进步的重要动力。"
+  },
+  {
+   "cn": "和而不同",
+   "en": "harmony in diversity",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "能够包容差异性、使差异性共存的一种意识形态。语出《论语·子路》中“君子和而不同，小人同而不和”。 “和”意为协调、调和相互矛盾对立的事物，能够包含差异性。“同”意为简单的同一，形式无差别。此句常引申出"
+  },
+  {
+   "cn": "质的多样性",
+   "en": "diversity of quanlity",
+   "source": "马克思主义",
+   "wordNumber": "01.0078",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部的特殊矛盾所决定的事物多方面、多层级的质。正因为世界上万事万物具有质的多样性，人们才能认识和区分事物。"
+  },
+  {
+   "cn": "量的多样性",
+   "en": "diversity of quantity",
+   "source": "马克思主义",
+   "wordNumber": "01.0081",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在事物存在与发展过程中，其规模、程度、速度以及构成事物的成分在空间的排列次序等量的规定性是多样的，不同事物的量的表现也不同，如事物的大小、运动的快慢等。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "diversity-orderly structure",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0633",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、人类学家、民族学家费孝通提出的一个概念，旨在描述亲疏远近的人际格局。中国乡土社会以宗法群体为本位，人与人之间的关系，是以亲属关系为主轴的网络关系，是一种差序格局。在差序格局下，每个人都以"
+  },
+  {
+   "cn": "引水节",
+   "en": "Water Diversion Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0192",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于新疆塔什库尔干塔吉克自治县塔吉克族的农事节日，在塔吉克族春月（公历3 月22日至4 月22 日）间；是当春季来临之时，需要砸开冰块，引水入渠，灌溉耕地，为此而欢庆的节日。"
+  },
+  {
+   "cn": "动作能力",
+   "en": "motor ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体对基本运动技能的熟练掌握度以及完成各种运动任务的协调与物体控制能力。"
+  },
+  {
+   "cn": "思维能力",
+   "en": "thinking ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工的能力。"
+  },
+  {
+   "cn": "世界多样性",
+   "en": "diversity of the world",
+   "source": "马克思主义",
+   "wordNumber": "04.0193",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我们党在世界多极化全球化趋势下提出来的政治理论新思维。它不仅形成了我们党和国家在新时期的国际战略构想,而且发展创新了马克思主义世界观方法论,已经成为党在新时期制定方针政策，建设有中国特色社会主义伟大事"
+  },
+  {
+   "cn": "核材料转用",
+   "en": "diversion of nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "将处于保障监督下的核材料在有关核保障协定禁止的范围内的使用。"
+  },
+  {
+   "cn": "生物多样性公约",
+   "en": "Convention on Biological Diversity(CBD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.15",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "一项保护地球生物资源的国际性公约，于1992年6月1日由联合国环境规划署发起的政府间谈判委员会第七次会议在内罗毕通过，1992年6月5日，由签约国在巴西里约热内卢举行的联合国环境与发展大会上签署，19"
+  },
+  {
+   "cn": "世界的统一性和多样性",
+   "en": "unity and diversity of world",
+   "source": "马克思主义",
+   "wordNumber": "01.0194",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界的统一性指的是世界具有共同的本质。世界的多样性指的是客观存在着的事物的形态和性质是无限多样的，是相互差别的。世界是统一的，本质只有一个，即物质；世界又是多样的，千差万别的事物及其形态都是物质的具体"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "自理能力",
+   "en": "self-care ability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "个体照料和管理自己的日常生活的能力，包括懂得生活常识，比较熟练地解决生活中所遇到的困难，掌握基本的生活技能和劳动技能的能力，是一个人适应自然、适应社会的表现。"
+  },
+  {
+   "cn": "定力",
+   "en": "ability to concentrate",
+   "source": "马克思主义",
+   "wordNumber": "01.0255",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "意指正念坚固，是人们在改造客观世界和主观世界过程中，所表现出来的一种坚强意志、执着信念和道德操守。党的十八大以来，习近平从政治、经济、文化、改革、法治等多个方面，赋予定力新的内涵，形成了关于政治定力、"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "脑力工作能力",
+   "en": "mental work ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "反映大脑工作速度快慢及其准确性的大脑皮质功能状态，是影响学习效率和成绩的关键因素。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

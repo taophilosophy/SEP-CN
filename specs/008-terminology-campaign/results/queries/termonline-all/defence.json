@@ -1,0 +1,812 @@
+{
+ "key": "defence",
+ "term": "Defence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:21:32+00:00",
+ "status": "ok",
+ "note": "variant=Defence; 审定公布名词库=528; 海峡两岸名词对照库=97; 其他来源数据库=99; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "防区",
+   "en": "defence area",
+   "source": "建筑学名词",
+   "wordNumber": "14.0639",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "利用探测器(包括紧急报警装置)对防护对象实施防护，并在控制设备上能明确显示报警部位的区域。"
+  },
+  {
+   "cn": "性防卫",
+   "en": "sexual defence",
+   "source": "计划生育名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "保护自己免受性侵害的行为和措施。"
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.053",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "动物保卫其所占领域免遭同种或他种个体侵犯的行为。"
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "昆虫学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "社会性昆虫中职虫聚集围歼入侵者或修补被损窝巢的行为。"
+  },
+  {
+   "cn": "免疫防御",
+   "en": "immune defence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.388",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "海岸防护工程",
+   "en": "coastal defences",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0002",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋工程",
+   "subjectName": "海洋工程",
+   "publishYear": "2007",
+   "definition": "保护海岸、抵御海岸动力侵蚀的设施的总称。"
+  },
+  {
+   "cn": "答辩",
+   "en": "defense;defence;plea",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.049",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "被告针对原告的指控和诉讼请求而提出免责或减责的己方主张。在新闻侵权诉讼中，作为被告的新闻机构和新闻记者经常通过抗辩对抗原告的诉请或阻止其请求权效力。"
+  },
+  {
+   "cn": "[网络]纵深防御",
+   "en": "defence in depth",
+   "source": "电力名词",
+   "wordNumber": "06.172",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "基于任何一个防护点都可以而且几乎肯定会被击破这一概念的安全体系。这意味着多层次的安全防护和检测,即使在单一系统上也是如此。该体系提供以下特性:①使攻击者面临必须在不被察觉的条件下突破旁路每一层安全防护"
+  },
+  {
+   "cn": "抗辩事由",
+   "en": "rationale for defence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.05",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "被告针对原告的诉讼请求而提出的证明原告的诉讼请求不成立或不完全成立的事实。在新闻侵权诉讼中，新闻机构和新闻记者针对原告的控诉和请求，为免除或者减轻民事责任，提出的证明原告侵权诉讼不成立或不完全成立的事"
+  },
+  {
+   "cn": "抗辩权",
+   "en": "right to defence",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0587",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "在双方合同的履行中，双方都应当履行自己的债务。一方不履行或者有可能不履行时，另一方具有拒绝对方履行要求的权利。"
+  },
+  {
+   "cn": "人防口部",
+   "en": "air defence gateway",
+   "source": "建筑学名词",
+   "wordNumber": "11.0144",
+   "subjectFullName": "建筑学_建筑防护_防空",
+   "subjectName": "防空",
+   "publishYear": "2014",
+   "definition": "防空地下室的主体与地表面，或与其他地下建筑的连接部分。对于有防毒要求的防空地下室，其口部指最里面一道密闭门以外的部分，如扩散室、密闭通道、防毒通道、洗消间、除尘室，滤毒室和竖井、防护密闭门以外的通道等"
+  },
+  {
+   "cn": "国防军",
+   "en": "National Defence Army",
+   "source": "世界历史名词",
+   "wordNumber": "03.0653",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1919-1935年德国军队的名称，1935年，纳粹德国将它改为“德国防卫军”。"
+  },
+  {
+   "cn": "国防计量[学]",
+   "en": "national defence metrology",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.003",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "国防公路",
+   "en": "national defence highway",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.345",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "防冲击波闸门",
+   "en": "defence shock wave gate",
+   "source": "建筑学名词",
+   "wordNumber": "11.0149",
+   "subjectFullName": "建筑学_建筑防护_防空",
+   "subjectName": "防空",
+   "publishYear": "2014",
+   "definition": "防止冲击波由管道进入工程内部的闸门。"
+  },
+  {
+   "cn": "人民防空工程",
+   "en": "civil air defence project",
+   "source": "建筑学名词",
+   "wordNumber": "11.0138",
+   "subjectFullName": "建筑学_建筑防护_防空",
+   "subjectName": "防空",
+   "publishYear": "2014",
+   "definition": "为保障人民防空指挥、通信、掩蔽等需要而建造的防护建筑。分为单建掘开式工程、坑道工程、地道工程和防空地下室。"
+  },
+  {
+   "cn": "国防政府",
+   "en": "Government of National Defence",
+   "source": "世界历史名词",
+   "wordNumber": "03.0529",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1870年9月4日至1871年2月13日法兰西第三共和国的临时政府。"
+  },
+  {
+   "cn": "弹道导弹防御系统",
+   "en": "Ballistic Missile Defence System",
+   "source": "世界历史名词",
+   "wordNumber": "01.0794",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "用以拦截在飞行轨道上的弹道导弹或其组成部分的武器系统。它包括弹道导弹预警系统、目标识别系统、反弹道导弹导弹、引导系统和指挥控制通信系统等。"
+  },
+  {
+   "cn": "人防工程",
+   "en": "civil air defence works",
+   "source": "土木工程名词",
+   "wordNumber": "09.021",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道与地下工程分类",
+   "subjectName": "隧道与地下工程分类",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人防围护结构",
+   "en": "surrounding structure for air defence",
+   "source": "建筑学名词",
+   "wordNumber": "11.0143",
+   "subjectFullName": "建筑学_建筑防护_防空",
+   "subjectName": "防空",
+   "publishYear": "2014",
+   "definition": "防空地下室中承受空气冲击波或土中压缩波直接作用的顶板、墙体和底板的总称。"
+  },
+  {
+   "cn": "结群防卫",
+   "en": "group defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "领域防御",
+   "en": "territory defence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "定位格网",
+   "en": "harbor defence grid",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "防御",
+   "en": "defense",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "推迟",
+   "en": "deference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺陷",
+   "en": "defect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缺陷",
+   "en": "defect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防卫反应，防御反应",
+   "en": "defense reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防御反应（=防卫反应）",
+   "en": "defense reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知觉防御",
+   "en": "perceptual defense",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我防御",
+   "en": "ego defense",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "防御机制",
+   "en": "defense mechanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诱导防卫",
+   "en": "induced defense",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "集体防御,结群防卫",
+   "en": "group defense",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化学防御,化学防卫",
+   "en": "chemical defense",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海岸防护",
+   "en": "coast defense",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫防御",
+   "en": "immune defense",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "防御适应",
+   "en": "defense adaptation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "本征缺陷",
+   "en": "intrinsic defect\",\"native defect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杂质缺陷",
+   "en": "extrinsic defect\",\"impurity defect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defense\",\"defend",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defend\",\"defense\",\"guarding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守",
+   "en": "defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守队员",
+   "en": "defender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守方",
+   "en": "defender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守队员",
+   "en": "defender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守队员",
+   "en": "defender",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守动作",
+   "en": "defense\",\"defensive action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人防守",
+   "en": "defense\",\"guard\",\"mark\",\"shadow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "食品防护",
+   "en": "food defence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为防范与消除以危害和破坏为目的的食品蓄意污染和破坏以及食品犯罪和恐怖主义等而实施的保护行为。"
+  },
+  {
+   "cn": "积极防御巩固国防",
+   "en": "active defenseing and strengthening national defence",
+   "source": "马克思主义",
+   "wordNumber": "04.0161",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国当前反侵略战争所采取的方针。积极防御本身不只是防御，防御中有进攻，本身就包括持久作战。"
+  },
+  {
+   "cn": "斯大林格勒保卫战",
+   "en": "battle for the defence of Stalingrad",
+   "source": "马克思主义",
+   "wordNumber": "04.0245",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联卫国战争中的决定性战役，第二次世界大战的转折点。1942年，德军集中了150万人的兵力，继续大举进攻苏联。7月17日，迫近斯大林格勒，双方展开激战。9月13日，德军窜入市内，双方展开巷战。斯大林发"
+  },
+  {
+   "cn": "纵深防御",
+   "en": "defense in depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.4",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "针对给定的安全目标运用多种防护措施，使得即使其中某一种防护措施失效，仍能达到该安全目标。"
+  },
+  {
+   "cn": "食品防护计划",
+   "en": "food defense plan",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.68",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为确保食品生产和供应过程的安全，通过进行食品防护评估、实施食品防护措施等，最大限度降低食品受到生物、化学、物理等因素故意污染或蓄意破坏风险的方法和程序。"
+  },
+  {
+   "cn": "严重缺陷",
+   "en": "critical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.17",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "可导致食品安全卫生危害的缺陷。如霉烂、腐败、变质、农兽药残留超标、被有毒有害物质污染等。"
+  },
+  {
+   "cn": "出生缺陷",
+   "en": "birth defect",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.7",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "婴儿出生前发生的身体结构、功能或代谢异常。出生缺陷可由染色体畸变、基因突变等遗传因素或环境因素引起,也可由这两种因素交互作用或其他不明原因所致，通常包括先天畸形、染色体异常、遗传代谢性疾病、功能异常（"
+  },
+  {
+   "cn": "一般缺陷",
+   "en": "general defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.18",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "仅与原辅材料的质量指标不符或其他对罐头食品质量有影响的缺陷，不影响食品安全卫生。"
+  },
+  {
+   "cn": "出生缺陷",
+   "en": "birth defect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "婴儿出生前即已形成的发育障碍，包括畸形和功能缺陷。"
+  },
+  {
+   "cn": "内部损伤",
+   "en": "internal defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.16",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果或蔬菜沿切线纵向或横向切割后，检查出的果肉损伤。"
+  },
+  {
+   "cn": "电离辐射国防应用",
+   "en": "national defense uses of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "2.15",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "核能和/或电离辐射技术在国家为防备和抵抗侵略，制止武装颠覆和分裂，保卫国家主权、统一、领土完整、安全和发展利益所进行的军事活动中应用的统称。"
+  },
+  {
+   "cn": "网络攻防武器",
+   "en": "network attack and defense weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "在网络空间中用于攻击和防御的武器系统。通常基于计算机和网络技术，通过利用漏洞、病毒、恶意软件等手段来攻击敌方的信息系统和网络，或者进行防御和防护。"
+  },
+  {
+   "cn": "全国边防工作会议",
+   "en": "National Border Defense Work Conference",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0056",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央1979 年4 月25 至5 月10 日于北京召开的讨论改革开放时期民族工作任务的重要会议。会议讨论了这一时期边防和民族工作任务、认真落实党的民族政策、加速边疆民族地区的社会主义建设等内容。会"
+  },
+  {
+   "cn": "出生缺陷监测",
+   "en": "birth defect surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在全国或某一地区选择有代表性的医院或人群，长期持续地动态观察出生缺陷的发生，收集出生缺陷发生率及相关资料，分析其消长原因，并反馈信息、应用于致畸因素识别和出生缺陷预防的过程。"
+  },
+  {
+   "cn": "单发出生缺陷",
+   "en": "isolated birth defect",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "同一个体中仅发生在单一器官或单一组织的出生缺陷。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "出生缺陷综合征",
+   "en": "birth defect syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.11",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知病因、自然史或复发风险的，由单一原因导致的病理生理相关的多个出生缺陷或先天畸形的组合或症候群，构成明确的疾病诊断。"
+  },
+  {
+   "cn": "水果机械损伤",
+   "en": "fruit mechanical defect",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.17",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果与外界尖锐、钝头或有穿透性的物体接触而导致的损伤。"
+  },
+  {
+   "cn": "四个服从",
+   "en": "Four Principles of Deference",
+   "source": "马克思主义",
+   "wordNumber": "03.0812",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党员个人服从党的组织，少数服从多数，下级组织服从上级组织，全党各个组织和全体党员服从党的全国代表大会和中央委员会。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

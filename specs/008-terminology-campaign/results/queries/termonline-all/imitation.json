@@ -1,0 +1,642 @@
+{
+ "key": "imitation",
+ "term": "imitation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:26:06+00:00",
+ "status": "ok",
+ "note": "variant=imitation; 审定公布名词库=615; 海峡两岸名词对照库=252; 其他来源数据库=9; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "模仿",
+   "en": "imitation",
+   "source": "行为医学名词",
+   "wordNumber": "5.014",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "社会学习的一种方式。个体在社会生活中主动仿效他人言行的社会心理现象。"
+  },
+  {
+   "cn": "模仿",
+   "en": "imitation",
+   "source": "动物学名词",
+   "wordNumber": "7.0242",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物自觉或不自觉地重复其他个体行为的过程。是社会学习的重要形式之一。"
+  },
+  {
+   "cn": "模仿",
+   "en": "imitation",
+   "source": "物理学名词",
+   "wordNumber": "01.0114",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模仿论",
+   "en": "imitation theory",
+   "source": "行为医学名词",
+   "wordNumber": "14.024",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "认为社会生活的重要行为与现象均是由模仿而引起的理论。包括距离法则、上至下法则、取代法则等。"
+  },
+  {
+   "cn": "仿制战略",
+   "en": "imitation strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0312",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "通过仿制、以较低成本开拓市场的技术创新战略。"
+  },
+  {
+   "cn": "模仿学习",
+   "en": "imitation learning",
+   "source": "心理学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "个体模仿榜样的特定动作或行为模式的学习方式。"
+  },
+  {
+   "cn": "模拟海蜇皮",
+   "en": "imitation jellyfish",
+   "source": "水产名词",
+   "wordNumber": "08.407",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "以海藻胶为主要原料制成口感和外观与海蜇皮近似的食品。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical imitation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据模型与原型之间在数学形式方面的某些相似来进行的模拟。"
+  },
+  {
+   "cn": "模仿型创业",
+   "en": "entrepreneurial imitation",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0793",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "创业者有可以学习的对象，通过同行或系统的创业管理培训获取相关行业经验，创建新企业的创业类型。"
+  },
+  {
+   "cn": "延迟模仿",
+   "en": "deferred imitation",
+   "source": "心理学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "在感知到被模仿者的某行为后经过一段时间的间隔才重复出现该行为的现象。"
+  },
+  {
+   "cn": "模拟实验",
+   "en": "imitative experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.085",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "用模型模拟自然条件下的原型，并通过模型研究原型的实验。作为一种间接实验方法，主要作用表现为弥补直接实验的不足。"
+  },
+  {
+   "cn": "模仿能力",
+   "en": "imitative ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.111",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体通过观察别人的行为、活动来学习各种知识，并以相同的方式做出反应的能力。"
+  },
+  {
+   "cn": "模仿创新",
+   "en": "imitative innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0278",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "通过模仿而进行创新的模式。有两种方式：一种是完全模仿创新，即对现有市场上产品的完全仿制；另一种是改进式的模仿，通过改进被模仿对象的某些特征或技术性能而进行创新。"
+  },
+  {
+   "cn": "模仿战略",
+   "en": "imitating strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0858",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "新创企业进入其他企业已成熟的产品或服务市场，提供与大企业有差异的、可相互替代而非全然不同的产品或服务的竞争战略。"
+  },
+  {
+   "cn": "模仿性联带运动",
+   "en": "imitative synkinesia",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.171",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "技术模仿",
+   "en": "technology imitator",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0251",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "以行业领先技术为目标，通过模仿、改进等手段，不断发展本组织技术能力的过程。"
+  },
+  {
+   "cn": "仿电镀涂料",
+   "en": "imitation electroplating coating",
+   "source": "精细化工名词",
+   "wordNumber": "05.0124",
+   "subjectFullName": "精细化工_涂料_通用涂料",
+   "subjectName": "通用涂料",
+   "publishYear": "2025",
+   "definition": "以金属铝粉为颜料制成的，涂膜外观酷似电镀铬表面的一种极高光泽的装饰性涂料。是替代电镀产品的环保型涂料。"
+  },
+  {
+   "cn": "摹色",
+   "en": "imitation of colour",
+   "source": "语言学名词",
+   "wordNumber": "08.199",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "摹绘的一种。运用色彩词描摹客观事物的色彩和情韵。例如，“雪野中有血红的宝珠山茶。”"
+  },
+  {
+   "cn": "摹味",
+   "en": "imitation of smell",
+   "source": "语言学名词",
+   "wordNumber": "08.201",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "摹绘的一种。运用形容气味的词语及其附加音节描摹事物的气味或味道以及由此产生的心理感受。例如，“这甘草甜丝丝的。”"
+  },
+  {
+   "cn": "模拟蟹肉",
+   "en": "imitation crab meat",
+   "source": "水产名词",
+   "wordNumber": "08.354",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "以鱼糜为主要原料，加入蟹提取物和香精制成风味和外观类似蟹腿肉的食品。"
+  },
+  {
+   "cn": "模仿",
+   "en": "imitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模仿",
+   "en": "imitation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模仿学习",
+   "en": "imitation learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "延迟模仿",
+   "en": "deferred imitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动作模仿",
+   "en": "action imitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模仿与口授",
+   "en": "imitation and oral instruction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胺化［作用］",
+   "en": "amination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刺激",
+   "en": "irritation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化",
+   "en": "amination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引发",
+   "en": "initiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氨基化, 胺化",
+   "en": "amination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "起始",
+   "en": "initiation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "突变",
+   "en": "mutation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拟物立象",
+   "en": "<div> Create Images Through Object Imitation</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "挑引",
+   "en": "invitation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病毒突变",
+   "en": "virus mutation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "喷水装置",
+   "en": "mechanical surface agitation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "限制利用",
+   "en": "limitations in the utilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用标准",
+   "en": "scientific data citation standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "活动受限",
+   "en": "activity limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "日常生活活动能力因为健康问题而受到的限制。包括躯体活动如屈体、弯腰等受限、迁移受限和自我照顾能力下降三个层次。"
+  },
+  {
+   "cn": "角色受限",
+   "en": "role limitation",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "角色功能因为健康问题而受到的限制。包括主要角色活动的数量受限、角色紧张和角色冲突等。"
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因组突变",
+   "en": "genomic mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.4",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因组中染色体数目的改变。"
+  },
+  {
+   "cn": "皮肤刺激试验",
+   "en": "skin irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "涂敷受试物于实验动物的皮肤，以观察是否产生皮肤刺激性的试验。"
+  },
+  {
+   "cn": "开奶",
+   "en": "initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "分娩后第一次给新生儿喂哺人乳的时机，一般以新生儿开始吸吮母亲包括乳头和乳晕在内的乳房为标志。"
+  },
+  {
+   "cn": "急性眼刺激试验",
+   "en": "acute eye irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.19",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "检测受试物对实验动物眼睛急性刺激和腐蚀作用的试验。"
+  },
+  {
+   "cn": "阴道黏膜刺激试验",
+   "en": "vaginal mucosal irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.20",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "检测受试物对实验动物阴道黏膜刺激作用和强度的试验。"
+  },
+  {
+   "cn": "早开奶率",
+   "en": "early initiation of breastfeeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "出生后一小时内接触母亲乳房的2岁以下儿童数占年龄段儿童总数的百分比。"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  },
+  {
+   "cn": "一次完整皮肤刺激试验",
+   "en": "one integral skin irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "单次刺激完好的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点来评定受试物对皮肤刺激强度级别的试验。"
+  },
+  {
+   "cn": "一次破损皮肤刺激试验",
+   "en": "one damaged skin irritation test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "单次刺激破损的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点来评定受试物对破损皮肤刺激强度级别的试验。"
+  },
+  {
+   "cn": "多次完整皮肤刺激试验",
+   "en": "multiple integral skin irritation tests",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "多次刺激完整的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点的试验。"
+  },
+  {
+   "cn": "流产后立即开始避孕",
+   "en": "instant initiation of contraception after abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "流产女性在人工流产手术前通过咨询指导，知情选择避孕方法，并在人流术后当天立即落实适宜避孕措施的做法，如人流术后即时放置宫内节育器、开始口服短效避孕药等，以降低术后短期内再次妊娠和重复流产的风险，保障女"
+  },
+  {
+   "cn": "限制反弹道导弹系统条约",
+   "en": "Treaty on the Limitation of Anti-Ballistic Missile System，ABM",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.3",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1972年5月由苏联和美国签署的一项双边条约。条约规定双方保证不研制、试验或部署以海洋、空中、空间为基地和机动的反弹道导弹系统。目前有32个裁军和核不扩散国际条约与这一条约挂钩。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

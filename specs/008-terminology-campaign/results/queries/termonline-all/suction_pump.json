@@ -1,0 +1,742 @@
+{
+ "key": "suction pump",
+ "term": "Suction pump",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:27:51+00:00",
+ "status": "ok",
+ "note": "variant=Suction pump; 审定公布名词库=5841; 海峡两岸名词对照库=1510; 其他来源数据库=227; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "泵吸模式",
+   "en": "suction pump",
+   "source": "地质学名词",
+   "wordNumber": "14.02.077",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "在深度5km以浅的地壳浅部脆性构造活动区域，由于断裂活动使断裂构造产生瞬间的极低压力，将断裂周围的热液吸入其中，类似水泵工作原理的一种热液运移与断裂构造关系模式。断裂活动是主动因素，热液流体受断裂活动"
+  },
+  {
+   "cn": "单吸泵",
+   "en": "single-suction pump",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0168",
+   "subjectFullName": "化工（八）_化工机器_化工用泵",
+   "subjectName": "化工用泵",
+   "publishYear": "2021",
+   "definition": "叶轮单侧有吸入口的离心泵。"
+  },
+  {
+   "cn": "双吸泵",
+   "en": "double-suction pump",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0169",
+   "subjectFullName": "化工（八）_化工机器_化工用泵",
+   "subjectName": "化工用泵",
+   "publishYear": "2021",
+   "definition": "液体从叶轮两侧对称地流入的离心泵。"
+  },
+  {
+   "cn": "单吸泵",
+   "en": "single-suction pump",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "07.0052",
+   "subjectFullName": "机械工程_流体机械_泵_回转动力式泵",
+   "subjectName": "回转动力式泵",
+   "publishYear": "2013",
+   "definition": "叶轮仅一侧有吸入口的泵。"
+  },
+  {
+   "cn": "双吸泵",
+   "en": "double-suction pump",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "07.0053",
+   "subjectFullName": "机械工程_流体机械_泵_回转动力式泵",
+   "subjectName": "回转动力式泵",
+   "publishYear": "2013",
+   "definition": "叶轮两侧都有吸入口或装入两个单吸叶轮(背靠背)的泵。对于多级泵，只要第一级叶轮双吸就是双吸泵。"
+  },
+  {
+   "cn": "吸扬式挖泥船",
+   "en": "pump dredger,suction dredger",
+   "source": "航海科技名词",
+   "wordNumber": "08.0113",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "吸力",
+   "en": "suction",
+   "source": "土木工程名词",
+   "wordNumber": "03.108",
+   "subjectFullName": "土木工程_土力学与地基基础_土的物理性质",
+   "subjectName": "土的物理性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸出",
+   "en": "suction",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真空吸渣法",
+   "en": "slag suction with vacuum-pumping",
+   "source": "冶金学名词",
+   "wordNumber": "05.1307",
+   "subjectFullName": "冶金学_钢铁冶金_炉外精炼",
+   "subjectName": "炉外精炼",
+   "publishYear": "2019",
+   "definition": "苏打系列熔剂预处理渣熔点低，流动性好，可以利用真空吸管将渣从铁水面上吸走的方法。"
+  },
+  {
+   "cn": "液体分离器",
+   "en": "suction trap,suction accumulator",
+   "source": "水产名词",
+   "wordNumber": "09.422",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "制冷系统中设置在蒸发器与制冷压缩机之间吸入管路上用以分离蒸发器尚未蒸发的液体，防止其进入制冷压缩机的装置。"
+  },
+  {
+   "cn": "吸入空气包",
+   "en": "suction dampener,suction desurger",
+   "source": "石油名词",
+   "wordNumber": "12.0244",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "进水池",
+   "en": "suction sump",
+   "source": "水利科学技术名词",
+   "wordNumber": "11.277",
+   "subjectFullName": "水利科学技术_灌溉与排水_机电排灌",
+   "subjectName": "机电排灌",
+   "publishYear": "1997",
+   "definition": "为水泵或水泵进水管道提供良好进水流态的工程设施。"
+  },
+  {
+   "cn": "抽气罐",
+   "en": "suction cup",
+   "source": "中医药学名词",
+   "wordNumber": "08.693",
+   "subjectFullName": "中医药学_针灸学_针灸疗法及其他",
+   "subjectName": "针灸疗法及其他",
+   "publishYear": "2004",
+   "definition": "罐底有橡皮活塞，可接通吸引器造成负压的拔罐用具。"
+  },
+  {
+   "cn": "蓄能泵吸入高度",
+   "en": "static suction head of storage pump",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0204",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "在蓄能泵第一级叶轮中所规定的空化基准面与进口侧自由水面的高差。"
+  },
+  {
+   "cn": "蓄能泵吸入扬程损失",
+   "en": "suction head loss of storage pump",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0205",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "自蓄能泵的进口侧自由水面至第一级叶轮进口之间的扬程损失。"
+  },
+  {
+   "cn": "吸引[术]",
+   "en": "suction,aspiration",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.551",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "吸引管",
+   "en": "suction catheter",
+   "source": "急救医学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救常用仪器设备",
+   "subjectName": "急救常用仪器设备",
+   "publishYear": "2025",
+   "definition": "管体头端部分有孔，两侧可有四个侧孔，呈透明或半透明，粗细均匀，内外表面及洞口边缘光滑的软管。外径不能超过气管导管内径的1/2～2/3，用于吸引稀薄的分泌物。"
+  },
+  {
+   "cn": "右心吸引管",
+   "en": "cardiotomy suction",
+   "source": "麻醉学名词",
+   "wordNumber": "04.122",
+   "subjectFullName": "麻醉学_专科麻醉_管道和插管",
+   "subjectName": "管道和插管",
+   "publishYear": "2024",
+   "definition": "连接手术台上右心吸引头与负压吸引泵管和储血滤血器之间的管道。作用是将手术野、心脏内外出血和渗血回收至人工心肺机，经滤过氧合后再重新进入体外循环。"
+  },
+  {
+   "cn": "板片吸力",
+   "en": "slab suction",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "大俯冲角情况下的俯冲板片插入地幔时，会带动其上下两侧的地幔物质形成地幔流，板片上方的地幔流会驱动其上覆的大陆板块向海沟方向运动的作用。 "
+  },
+  {
+   "cn": "吸油压力",
+   "en": "suction pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0870",
+   "subjectFullName": "机械工程（一）_传动_液压传动_压力",
+   "subjectName": "压力",
+   "publishYear": "2021",
+   "definition": "泵进口处流体的绝对压力。"
+  },
+  {
+   "cn": "抽水泵",
+   "en": "suction pump",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸吮式",
+   "en": "suctioning",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "吸水力",
+   "en": "suction force\",\"suction tension",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抽吸涡旋",
+   "en": "suction vortices\",\"suction vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "毛细抽吸",
+   "en": "capillary suction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸入压头",
+   "en": "suction head",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸入压力",
+   "en": "suction pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸引升液器",
+   "en": "suction lift",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸引管线",
+   "en": "suction line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸入速度",
+   "en": "suction velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸滤器",
+   "en": "suction filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸力锚",
+   "en": "suction anchor",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "岸吸",
+   "en": "bank suction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "失吸现象",
+   "en": "suction loss",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸井",
+   "en": "suction well",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸气行程",
+   "en": "suction stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸入流",
+   "en": "suction current",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸入压头",
+   "en": "suction head",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "进气行程",
+   "en": "suction stroke",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸泥管",
+   "en": "suction pipe",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气筒",
+   "en": "pump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打气筒",
+   "en": "bicycle pump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跳传",
+   "en": "jump dump pass\",\"jump pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滞空",
+   "en": "jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起",
+   "en": "jump",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸液量",
+   "en": "suction capacity",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.19",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "卫生巾、纸尿裤等吸收性卫生用品一定时间吸收测试溶液的量。"
+  },
+  {
+   "cn": "吸奶困难",
+   "en": "pumping difficulty",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.12",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "由于婴儿不能正常吸吮母乳或未进行有效的吸吮，而吃不到足够母乳的现象。常见原因包括早产儿吸吮力低下，母亲乳头扁平/凹陷等，婴儿罹患疾病如鼻塞、鹅口疮，以及口腔、咽部、食管、胃肠道发育不良或疾病等。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "普米族",
+   "en": "Pumi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0463",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省。人口4.50 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。普米语属汉藏语系藏缅语族羌语支。通用汉文。普米族先民原是青海、甘肃、四川边沿的游牧部落，13 世"
+  },
+  {
+   "cn": "剖宫产术",
+   "en": "cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.17.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经腹部和子宫切口娩出胎儿的一种外科手术方式。按手术时机分为择期剖宫产和急诊剖宫产两种。"
+  },
+  {
+   "cn": "行动",
+   "en": "action",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.1",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "具有个人主观意义的、有别于本能反应的行为,是社会学分析的最基本单位。"
+  },
+  {
+   "cn": "水牛背",
+   "en": "buffalo hump",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "颈后部突出、背部肌肉明显凸起的体征。呈半月形，通常与各种原因所致皮质醇增多症相关。"
+  },
+  {
+   "cn": "反应截面",
+   "en": "reaction cross section",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.35",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "入射粒子和靶核之间发生特定核反应的概率。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "八分体系",
+   "en": "eight-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在四分法原有区分基础上再加一层亚半族区分（半族、亚半族和代别），由此构成部落社会外婚规则的八个类别，其中包含一整套类别间通婚和继嗣规则。用以协调和指导部落内半族和亚半族间的平代通婚。"
+  },
+  {
+   "cn": "剖宫产率",
+   "en": "cesarean section rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区采用剖宫产手术分娩的活产数，与同期当地活产数之比。"
+  },
+  {
+   "cn": "紧急剖宫产",
+   "en": "emergency cesarean section",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.10",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产妇在发生先兆临产前、后进行的计划外剖宫产术，是快速终止妊娠、挽救孕产妇和胎儿生命的有效手段。"
+  },
+  {
+   "cn": "洗消站",
+   "en": "decontamination station",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.8",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "对受到污染的人员、车辆、装备、服装等进行彻底洗消的场所。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

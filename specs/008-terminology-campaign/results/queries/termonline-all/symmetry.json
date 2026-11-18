@@ -1,0 +1,472 @@
+{
+ "key": "symmetry",
+ "term": "symmetry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:10:44+00:00",
+ "status": "ok",
+ "note": "variant=symmetry; 审定公布名词库=288; 海峡两岸名词对照库=62; 其他来源数据库=5; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "地质学名词",
+   "wordNumber": "02.00.027",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "物体(或图形)相同部分之间凭借某种变换条件（点、线、面）呈现规律性重复的现象，即在一定变换条件下的不变现象。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "风景园林名词",
+   "wordNumber": "07.0099",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "建筑物的局部以某种中轴形式为基础，在大小、形状和排列上具有相同但方向相反的序列组合。其构图形式通常呈一主两从的关系，形成主从关系异常分明的有机统一整体。"
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "神经病学名词",
+   "wordNumber": "05.324",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "用于描述脑波的分布方式。大脑半球各对应区域脑电活动的波形、频率和波幅大致相同的现象。反之为不对称。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.091",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "对解剖结构的上下或左右相近情况的描 述。"
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "物理学名词",
+   "wordNumber": "01.0165",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "生物物理学名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "自然界中物质所具有的协调、完美比例和平衡的特性。几何学上是指一幅图形或物体的周边相对于一条线(对称轴)或一个平面(镜面)互为映像的性质；生物学上是指动物、植物、器官和生物分子的各部分的重复；化学上是指"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "药学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子结构中在分界线、面或关于中心或中轴的对立两侧存在形式与构造布局的完全对应。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0019",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "数学名词",
+   "wordNumber": "01.0122",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "地质学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "左右对称",
+   "en": "bilateral symmetry,eudipleural symmetry",
+   "source": "植物学名词",
+   "wordNumber": "03.0369",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "通过花的中心面能分成左右相互对称的现象。如角茴香属植物。"
+  },
+  {
+   "cn": "C 对称性",
+   "en": "C-symmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1306",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "P 对称性",
+   "en": "P-symmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1310",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "T 对称性",
+   "en": "T-symmetry",
+   "source": "物理学名词",
+   "wordNumber": "09.1309",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对称操作",
+   "en": "symmetry operation",
+   "source": "地质学名词",
+   "wordNumber": "02.00.029",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "借助一些几何图形(点、线、面)使对称图形中相同部分重复的操作。"
+  },
+  {
+   "cn": "对称要素",
+   "en": "symmetry element",
+   "source": "地质学名词",
+   "wordNumber": "02.00.030",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在进行对称操作时所凭借的几何要素。所凭借的点、线和面分别称为对称中心、对称轴和对称面。"
+  },
+  {
+   "cn": "对称中心",
+   "en": "symmetry center",
+   "source": "地质学名词",
+   "wordNumber": "02.00.031",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "对称要素之一。物体或图形中的一假想的定点，通过该点的任意直线上的两边等距处，对应出现相同部分。借助于对称中心的倒反作用使相同部分相互重复。通常以C表示。"
+  },
+  {
+   "cn": "对称面",
+   "en": "symmetry plane",
+   "source": "地质学名词",
+   "wordNumber": "02.00.032",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "对称要素之一。物体或图形中的一假想平面，将物体或图形平分为互成镜像的两部分。通常以P表示。"
+  },
+  {
+   "cn": "对称轴",
+   "en": "symmetry axis",
+   "source": "地质学名词",
+   "wordNumber": "02.00.033",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "对称要素之一。物体或图形中的一假想直线，绕此线旋转可使相同部分呈规律性重复出现。通常以Ln表示。"
+  },
+  {
+   "cn": "对称型",
+   "en": "symmetry class",
+   "source": "地质学名词",
+   "wordNumber": "02.00.040",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "一个宏观晶体中的全部对称要素的集合。一切可能的对称型共32 种，根据对称特点划分为7个晶系。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称[性]",
+   "en": "symmetry",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对称中心",
+   "en": "symmetry center",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称性启发法",
+   "en": "symmetry heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对称因素",
+   "en": "symmetry element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对称因素",
+   "en": "symmetry factor",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分子对称性",
+   "en": "molecular symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向对称",
+   "en": "axial symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镜面对称",
+   "en": "mirror symmetry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐射对称",
+   "en": "radial symmetry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "两侧对称",
+   "en": "bilateral symmetry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "辐射对称",
+   "en": "radial symmetry",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "晶体的对称性",
+   "en": "symmetry of crystal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称禁阻反应",
+   "en": "symmetry forbidden reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "左右对称",
+   "en": "left-right symmetry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称轴",
+   "en": "axis of symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称面",
+   "en": "plane of symmetry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码",
+   "en": "symmetric cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在相同深度下对称于辐射束轴的任意两点的吸收剂量的比值。通常会限定在辐射野的均整区域内。"
+  },
+  {
+   "cn": "生长发育匀称度评价",
+   "en": "growth and developmental symmetry appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "生长发育的综合评价指标。将两个和多个生长发育指标联系起来用数学公式表示人体各部分之间的比例和相互关系，从而判断儿童匀称度。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "体能发育不均衡性",
+   "en": "asymmetry in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "儿童少年体能指标在不同年龄的发育速度有快有慢的特点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

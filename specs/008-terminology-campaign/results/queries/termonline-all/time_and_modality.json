@@ -1,0 +1,812 @@
+{
+ "key": "time and modality",
+ "term": "Time and Modality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:11:22+00:00",
+ "status": "ok",
+ "note": "variant=Time and Modality; 审定公布名词库=10000; 海峡两岸名词对照库=3090; 其他来源数据库=1534; 预公布名词数据库=1182; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "常态嗓音",
+   "en": "modal voice",
+   "source": "语言学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "一种发声类型。发声时，声门作为一个单一的整体起作用，声带有规律地振动，并且每个周期都完全闭合，没有任何摩擦噪声。"
+  },
+  {
+   "cn": "能愿动词",
+   "en": "modal verb",
+   "source": "语言学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示行为或状况的可能、必要或意愿的动词。例如“能”“愿意”“应该”。用在动词、形容词前边。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时空尺度",
+   "en": "time and space scale",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工时学",
+   "en": "time and motion study",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "时间动作研究",
+   "en": "time and action study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动作与时间研究",
+   "en": "motion and time study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时空预算",
+   "en": "time and space budgets",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "时间动作研究",
+   "en": "time and motion studies",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时频发播",
+   "en": "time and frequency dissemination\",\"TFD",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时值",
+   "en": "time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时刻",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时空连续性",
+   "en": "time and space continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌握时机",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "马克思主义",
+   "wordNumber": "01.0027",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的持续性、顺序性和间隔性，时间具有一维性，即不可逆性。"
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个体在面对不同时间点的收益或损失时，倾向于高估近期收益、低估远期收益的现状，适用于疾病经济负担评估中一些时间跨度长的评估。"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.19",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用辐照的方式进行消毒的作用时间。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  },
+  {
+   "cn": "崩解时间",
+   "en": "disintegration time",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "崩解试验时，固体消毒剂裂碎成细小颗粒且完全溶解所需的时间。"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "死时间",
+   "en": "dead time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，两个相继出现，并能被分辨开的脉冲或电离事件之间的最小时间间隔(τ)。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "时间防护",
+   "en": "time protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "缩短接触电离辐射的时间以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "加载时间",
+   "en": "loading time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.44",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "将阳极输入功率加于X射线管的时间。"
+  },
+  {
+   "cn": "照射时间",
+   "en": "irradiation time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.45",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "照射持续时间，通常是辐射量率超过某一规定水平的时间。"
+  },
+  {
+   "cn": "定时开关",
+   "en": "time switch",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "预置照射时间的一种装置。当照射到达预置时间时给出停止照射的信号并终止照射。"
+  },
+  {
+   "cn": "劳动时间",
+   "en": "labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0193",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "计量生产商品所耗费的劳动量的单位。劳动本身的量则用劳动的持续时间来计量。一定的时间单位，如小时、日是劳动时间的尺度。劳动时间有个别劳动时间和社会必要劳动时间之别。"
+  },
+  {
+   "cn": "周转时间",
+   "en": "turnover time",
+   "source": "马克思主义",
+   "wordNumber": "02.0199",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "预付资本价值经历一次循环或再生产过程所持续的时间。或者说，它是从资本价值以一定的形式预付时起，到处在过程中的资本价值回到同一形式上的一段时间。它等于资本的生产时间和流通时间之和。"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "视屏时间",
+   "en": "screen time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "观看电视，使用电脑、手机等类电子产品的时间。"
+  },
+  {
+   "cn": "自由支配时间",
+   "en": "free time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "可依据个人意愿或喜好自行支配的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

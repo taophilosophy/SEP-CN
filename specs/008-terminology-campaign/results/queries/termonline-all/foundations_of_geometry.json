@@ -1,0 +1,742 @@
+{
+ "key": "foundations of geometry",
+ "term": "Foundations of Geometry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:14:50+00:00",
+ "status": "ok",
+ "note": "variant=Foundations of Geometry; 审定公布名词库=10000; 海峡两岸名词对照库=7460; 其他来源数据库=1824; 预公布名词数据库=2688; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数的几何",
+   "en": "geometry of numbers",
+   "source": "数学名词",
+   "wordNumber": "04.0185",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "粉底",
+   "en": "foundation",
+   "source": "精细化工名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "涂敷于面部，具有遮盖皮肤瑕疵或修饰肤色等作用，以粉质原料、颜料均匀地分散或悬浮于基质中制成的产品。"
+  },
+  {
+   "cn": "巢础",
+   "en": "foundation",
+   "source": "畜牧学名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "人工制造的蜜蜂巢房房基。一般采用蜂蜡或无毒塑料制成。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "01.737",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "直接支承建筑物重量的地层部位,它是由岩土体构成。"
+  },
+  {
+   "cn": "杆塔基础",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "22.158",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "埋设在地下,与杆塔底部连接,稳定承受所作用荷载的一种结构。"
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0554",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "根据《基金管理办法》，基金会是指对国内外社会团体和其他组织以及个人自愿捐赠资金进行管理的民间非营利性组织，是社会团体法人。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "建筑学名词",
+   "wordNumber": "13.0292",
+   "subjectFullName": "建筑学_建筑结构_地基与基础",
+   "subjectName": "地?基与基础",
+   "publishYear": "2014",
+   "definition": "将建筑物承受的各种作用传递到地基上的结构组成部分。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.132",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.188",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩土工程（水利）",
+   "subjectName": "岩土工程（水利）",
+   "publishYear": "1997",
+   "definition": "承受结构物荷载的岩体、土体。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "地质学名词",
+   "wordNumber": "09.015",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation bed;foundation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.195",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "承担建筑物全部载荷，受建筑物影响的岩土体。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.240",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究数学是不是一门可靠的科学以及它为什么是可靠的学科。活跃于这一领域的大多数是数理逻辑学家。数学基础与数学哲学的界限有时是模糊的，它可以看作用严格数学的手段处理关于数学的哲学问题的努力。"
+  },
+  {
+   "cn": "基础立柱",
+   "en": "chimney [of foundation]",
+   "source": "电力名词",
+   "wordNumber": "22.163",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "基础的收缩部分。杆塔的插入式主材与地脚螺栓埋设其中。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何学",
+   "en": "structural geometry",
+   "source": "地质学名词",
+   "wordNumber": "09.01.003",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究不同尺度构造的形状、产状、方位、大小，以及各构造要素之间和相关构造之间的几何和空间关系的构造地质学分支学科。是构造运动学和动力学分析的基础。"
+  },
+  {
+   "cn": "射线几何学",
+   "en": "ray geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波传播过程中从源到达接收点的射线的几何学。 "
+  },
+  {
+   "cn": "分形几何学",
+   "en": "fractal geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2247",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以不规则几何形态为研究对象的几何学。 "
+  },
+  {
+   "cn": "旁线装置",
+   "en": "broadside geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0201",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "当发射与接收两线圈一起移动逐点观测时，称为动源系统、动源式装置，其中收发线圈分别在测线与旁线上称为旁线装置。 "
+  },
+  {
+   "cn": "成像几何",
+   "en": "imaging geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述图像与物体投影关系的几何模型。"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基本音音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水力几何形态",
+   "en": "hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欧几里得几何学",
+   "en": "Euclidean geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行星几何学",
+   "en": "planetary geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参数几何",
+   "en": "parametric geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何",
+   "en": "constructive geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何[学]",
+   "en": "computational geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子几何[结构]",
+   "en": "molecular geometry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "桩基",
+   "en": "pile foundation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民惟邦本",
+   "en": "People Are the Foundation of the State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家科学基金网",
+   "en": "National Science Foundation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据基础类标准",
+   "en": "foundation standard for big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国红十字基金会",
+   "en": "Chinese Red Cross Foundation (CRCF)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民心惟本",
+   "en": "The People’s Will Is the Foundation of the State.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点顺序",
+   "en": "order of arrival\",\"order of finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺少练习",
+   "en": "lack of practice\",\"lack of training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "利用国内外自然人、法人或者其他组织捐赠的资金，以推进科学研究、文化教育、社会福利和其他公益事业发展为目的成立的民间非营利性组织。"
+  },
+  {
+   "cn": "社会工作的理论基础",
+   "en": "the theoretical foundation of",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "支撑社会工作实践的基础性理论部分。主要包括社会学、经济学、心理学等学科领域中对社会工作具有重要或直接影响的一些理论、学说。"
+  },
+  {
+   "cn": "社会主义的经济基础",
+   "en": "economic foundation of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0317",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家建立的以生产资料公有制为基础和主体的社会主义生产关系各个方面的总和。"
+  },
+  {
+   "cn": "党的阶级基础",
+   "en": "class foundation of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0715",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "任何政党都是阶级的政党，都代表一定的阶级意志和利益，都有其阶级基础。超阶级的政党在现实社会生活中是不存在的。中国工人阶级是中国革命和建设事业的领导阶级，是中国共产党的阶级基础。"
+  },
+  {
+   "cn": "公募基金会",
+   "en": "public raising foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "面向公众募捐的基金会。按照募捐的地域范围，分为全国性公募基金会和地方性公募基金会。全国性公募基金会的公开募捐活动可以在全国范围内开展，地方性公募基金会的公开募捐活动只能在登记注册地行政区域内开展。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "资助型基金会",
+   "en": "funding-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "主要通过与其他服务机构合作、资助其开展服务项目以实现自身宗旨目的公益基金会。"
+  },
+  {
+   "cn": "非公募基金会",
+   "en": "non-public raising foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "不可以直接面向公众募捐的基金会。一般由企业或个人出资或筹募资金来成立和运作。"
+  },
+  {
+   "cn": "[日本]放射线影响研究所",
+   "en": "Radiation Effects Research Foundation，RERF",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.15",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "ABCC）”。位于日本广岛（本部）和长崎（分部）的日本政府与美国政府共同设立的研究原子弹爆炸幸存者健康效应的机构。不应译为放射影响研究基金会。其前身为1947年成立的原爆伤害调查委员会，1975年4月"
+  },
+  {
+   "cn": "农业是工业发展的基础",
+   "en": "agriculture is the foundation for the development of industry",
+   "source": "马克思主义",
+   "wordNumber": "04.0096",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "把发展农业放在首要地位，正确地处理工业和农业关系的发展国民经济的方针。因为农业是生活资料的主要来源，生活资料又是人类生存和一切生产最先决的条件。农业为工业、为整个国民经济提供粮食、副食品、原料、劳动力"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "source": "马克思主义",
+   "wordNumber": "05.0306",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1993年10月22日成立。该党宣称是苏联的摩尔达维亚苏维埃社会主义共和国共产党的继承党。该党以马克思、恩格斯、列宁、布哈林、葛兰西等理论家所阐释的马克思主义为指导思想。致力于恢复摩尔多瓦的经济、巩固"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "source": "马克思主义",
+   "wordNumber": "05.0310",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "南斯拉夫社会主义时期执政党，前身为1919年成立的南斯拉夫共产党，1952年改称为“南斯拉夫共产主义者联盟”。在铁托领导下坚持社会主义自治制度和不结盟外交政策。1990年南共联盟宣告解散。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

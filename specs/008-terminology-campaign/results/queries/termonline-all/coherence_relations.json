@@ -1,0 +1,702 @@
+{
+ "key": "coherence relations",
+ "term": "coherence relations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:09:42+00:00",
+ "status": "ok",
+ "note": "variant=coherence relations; 审定公布名词库=1103; 海峡两岸名词对照库=231; 其他来源数据库=82; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "横向相干性",
+   "en": "lateral coherence,transverse coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1271",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干加强",
+   "en": "coherence emphasis; coherence enhancement",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "叠加后根据相似性突出有效波、削弱干扰波的一种处理程序。通常是根据相邻记录道之间波形的相似性，用相关函数来衡量两个以上记录道时间序列的相似程度，并按相似程度的大小对记录进行加权，使相似性高的波得到加强，"
+  },
+  {
+   "cn": "要闻集录",
+   "en": "Relation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "世界报业学会认定的第一份现代报纸。1605年，由德国出版商约翰·卡罗勒斯(Johann Carolus)在斯特拉斯堡出版。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "具有相同属性集的元组的集合。一个关系对应一个二维表。"
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "数学名词",
+   "wordNumber": "01.0036",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相干滤波",
+   "en": "coherence filtering",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2586",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "基于地震相干处理技术，滤除两个信号中的相干噪声以增强相干信号、压制相干噪声和随机噪声的滤波方法。 "
+  },
+  {
+   "cn": "相干函数",
+   "en": "coherence function",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2649",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "描述相干性的函数。 "
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherence stack",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0460",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "如果两波频率相等，在观察时间内波动不中断，而且在相遇处振动方向几乎沿着同一直线，它们叠加后产生的合振动加强，两波相干，这样的叠加称为相干叠加。 "
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分同调",
+   "en": "partial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间相干",
+   "en": "temporal coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干谱",
+   "en": "coherence spectrum",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干元素",
+   "en": "coherence element",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相位同调",
+   "en": "phase coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关效应",
+   "en": "coherence effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高速缓存一致性",
+   "en": "cache coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间相干",
+   "en": "spatial coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率相干",
+   "en": "frequency coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干带宽",
+   "en": "coherence bandwidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干调制",
+   "en": "coherence modulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干长度",
+   "en": "coherence length",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系数据库",
+   "en": "relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系羊群",
+   "en": "relational herding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络公关",
+   "en": "online public relations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法条关联",
+   "en": "Related Legal Provisions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0156",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在共同的社会实践活动中结成的相互关系。人的本质是由他的社会关系决定的。人类社会最主要的社会关系是生产关系，它是形成其他社会关系和阶级关系的基础。"
+  },
+  {
+   "cn": "宗法关系",
+   "en": "patriarchal relations",
+   "source": "马克思主义",
+   "wordNumber": "04.0024",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由氏族社会父系家长制演变而成的以血缘为基础的宗族统治关系。宗法关系辈分森严、尊卑显别，通过逐级分封，形成宝塔式的等级统治体系，不仅全族系属分明，权势、亲疏亦随之有别。这就有力地维护了贵族、地主的世袭统"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  },
+  {
+   "cn": "生产关系",
+   "en": "relations of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0004",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在物质资料生产和再生产过程中形成的社会经济关系。包括：作为其基础的生产资料所有制形式，生产资料和劳动力的结合方式，直接生产过程中的关系（狭义生产关系），产品分配关系，交换关系等。"
+  },
+  {
+   "cn": "社会主义民族关系",
+   "en": "socialist ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0398",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义制度下建立起来的新型民族关系。其基本特征是：各民族地位平等、团结、互助、和谐。毛泽东在《论十大关系》《关于正确处理人民内部矛盾的问题》中多次强调克服大汉族主义、地方民族主义。"
+  },
+  {
+   "cn": "新型民族关系",
+   "en": "new ethnic relations",
+   "source": "马克思主义",
+   "wordNumber": "03.0607",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "平等、团结、互助、和谐是中国社会主义民族关系的基本特征。民族平等、民族团结、各民族共同繁荣是中国处理民族关系的基本原则。民族平等是民族团结的政治基础，民族平等和民族团结是各民族共同繁荣的前提条件，共同"
+  },
+  {
+   "cn": "代际关系",
+   "en": "relation between generations",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.2",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "不同代际人群通过资源的分配与共享、感情的交流与沟通以及道德义务的意识与承担等发生这样或那样的交往关系。广义指社会上因地缘、业缘和其他关系产生的不同代际之间的交往关系。狭义的指家庭内因血缘和姻缘产生的交"
+  },
+  {
+   "cn": "医学道德关系",
+   "en": "medical moral relation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.225",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究对象",
+   "subjectName": "医学伦理学研究对象",
+   "publishYear": "2025",
+   "definition": "人们在医学活动中所结成的人与人、人与环境、人与社会等不同要素之间的关系。主要包括医患道德关系、医际道德关系和医社道德关系等。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "工伤",
+   "en": "work-related injury",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "劳动者在从事生产劳动或职业活动或者与职业活动有关活动时受到的伤害，既包括意外事故导致的伤害，也包括职业病。为“职业性伤害”的简称。"
+  },
+  {
+   "cn": "健康相关行为",
+   "en": "health-related behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "一切与个体、群体的健康和疾病有关的行为，一般分为健康促进行为和健康危险行为。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体存在亲属关系的器官供体。包括器官受体的配偶、直系血亲或者三代以内的旁系血亲。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

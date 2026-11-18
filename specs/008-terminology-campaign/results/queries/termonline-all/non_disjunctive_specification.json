@@ -1,0 +1,732 @@
+{
+ "key": "non-disjunctive specification",
+ "term": "Non-disjunctive specification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:16:04+00:00",
+ "status": "ok",
+ "note": "variant=Non-disjunctive specification; 审定公布名词库=3756; 海峡两岸名词对照库=1227; 其他来源数据库=231; 预公布名词数据库=174; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "染色体不分离",
+   "en": "chromosome non-disjunction",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.455",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "细胞分裂进入中、后期时，两条同源染色体或姐妹染色单体未分别向两极移动，而是进入同一子细胞中，造成子细胞之一因染色体增加而成为超二倍体，另一个子细胞则由于染色体减少而成为亚二倍体的现象。"
+  },
+  {
+   "cn": "染色体不分离",
+   "en": "chromosome non-disjunction",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.116",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "减数分裂时成对染色体未分开的现象。"
+  },
+  {
+   "cn": "析取",
+   "en": "disjunction",
+   "source": "语言学名词",
+   "wordNumber": "11.138",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "一种逻辑联结词。通常记作∨。设P、Q为两个命题，复合命题“P∨Q”称作P与Q的析取式，该析取式表达的逻辑关系是P与Q两个命题至少有一个成立。"
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction",
+   "source": "古生物学名词",
+   "wordNumber": "01.0234",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "同类生物分布于两个或更多相互分离的区域，其间被高山、海洋等地理障碍所隔离。"
+  },
+  {
+   "cn": "析取[词]",
+   "en": "disjunction",
+   "source": "数学名词",
+   "wordNumber": "02.0031",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "析取项",
+   "en": "disjunct",
+   "source": "数学名词",
+   "wordNumber": "02.0032",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性感染",
+   "en": "non-specific infection",
+   "source": "普通外科学名词",
+   "wordNumber": "11.017",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "由金黄色葡萄球菌、大肠埃希菌、铜绿假单胞菌、链球菌等病原微生物引起的化脓性感染。"
+  },
+  {
+   "cn": "非特异性外阴炎",
+   "en": "non-specific vulvitis",
+   "source": "妇产科学名词",
+   "wordNumber": "3.002",
+   "subjectFullName": "妇科感染性疾病_外阴及阴道炎症",
+   "subjectName": "外阴及阴道炎症",
+   "publishYear": "2025",
+   "definition": "由物理、化学等非病原体因素所致的外阴皮肤或黏膜炎症。表现为外阴皮肤黏膜瘙痒、疼痛、烧灼感，于活动、性交、排尿及排便时加重。"
+  },
+  {
+   "cn": "非专性吸附",
+   "en": "non-specific adsorption",
+   "source": "农学名词",
+   "wordNumber": "09.098",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "由胶体表面静电作用引起的吸附现象。"
+  },
+  {
+   "cn": "非特异性抑制",
+   "en": "non-specific inhibition",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0085",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "不涉及影响酶和底物结合的抑制作用。"
+  },
+  {
+   "cn": "非特异性抑制剂",
+   "en": "non-specific inhibitor",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0086",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "能对酶产生非特异性抑制作用的物质。"
+  },
+  {
+   "cn": "非特异性外阴炎",
+   "en": "non-specific vulvitis",
+   "source": "生殖医学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "生殖医学_生殖系统疾病_女性生殖系统疾病",
+   "subjectName": "女性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "因葡萄球菌、大肠埃希菌、链球菌等一般性细菌感染，以及粪便、阴道分泌物或其他物理和化学因素刺激，外阴部发生的皮肤或黏膜炎症。"
+  },
+  {
+   "cn": "非特异性食管炎",
+   "en": "non-specific esophagitis",
+   "source": "消化病学名词",
+   "wordNumber": "2.057",
+   "subjectFullName": "消化病_食管_食管疾病",
+   "subjectName": "食管疾病",
+   "publishYear": "2022",
+   "definition": "病因不明的食管炎。病理学改变无特异性，可见黏膜层血管充血、水肿，炎症细胞浸润等改变，肌层一般无明显改变。部分患者可表现为胸骨后烧灼感，吞咽时胸骨后不适感、胸骨后疼痛、梗阻感或吞咽困难等。"
+  },
+  {
+   "cn": "非特异性免疫",
+   "en": "non-specific immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0250",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "机体对侵入病原体的一种清除机制。非针对某一特殊病原体，亦不牵涉对抗原的识别和二次免疫应答的增强。"
+  },
+  {
+   "cn": "非特异性反应",
+   "en": "non-specific reaction",
+   "source": "感染病学名词",
+   "wordNumber": "01.0517",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "抗原和抗体反应过程中由于非特异性因子所形成的反应。如凝集反应中的盐凝集及酸凝集等现象。"
+  },
+  {
+   "cn": "非特异性结合",
+   "en": "non-specific binding",
+   "source": "核医学名词",
+   "wordNumber": "02.0360",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "某种配体与其相对应的特异性结构位点外其他无关物质(如非特异性蛋白质、容器、分离材料等)的结合。其特点是亲和力低而结合容量大。"
+  },
+  {
+   "cn": "析取规划",
+   "en": "disjunctive programming",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "以线性和非线性约束的合取和析取描述的逻辑系统为约束的数学规划，已成为整数规划问题的一种核心求解技术。"
+  },
+  {
+   "cn": "间断共生",
+   "en": "disjunctive symbiosis ",
+   "source": "草学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "析取概念",
+   "en": "disjunctive concept",
+   "source": "心理学名词",
+   "wordNumber": "02.619",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据不同的标准，由单个或多个属性相结合而形成的概念。这些属性在概念中不必同时存在。"
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosomal disjunction",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.336",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "减数分裂中，成对的同源染色体彼此分开的过程。导致每个配子只获得各对同源染色体中的一条。"
+  },
+  {
+   "cn": "染色体不分离",
+   "en": "chromosome non-disjunction",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性抑制",
+   "en": "non-specific inhibition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性抑制剂",
+   "en": "non-specific inhibitor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性免疫",
+   "en": "non-specific immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性免疫",
+   "en": "non-specific immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非专一性配对",
+   "en": "non-specific pairing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "间断共生",
+   "en": "disjunctive symbiosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "岛状间断分布",
+   "en": "island disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛北极间断分布",
+   "en": "holarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛南极间断分布",
+   "en": "holantarctic disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古热带间断分布",
+   "en": "paleotropical disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环极间断分布",
+   "en": "circumpolar disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "洲际间断分布",
+   "en": "intercontinental disjunction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分布区间断",
+   "en": "areal disjunction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "染色体分离",
+   "en": "chromosome disjunction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "跳进",
+   "en": "disjunct motion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非组织特异性抗原",
+   "en": "non-tissue specific antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "析取范式",
+   "en": "disjunctive normal form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布",
+   "en": "disjunction\",\"discontinuous distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原发性非特异性免疫缺陷病",
+   "en": "primary non-specific immunodeficiency disease",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特效药",
+   "en": "specific medicine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_药品名称",
+   "subjectName": "药品名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特异性抗体",
+   "en": "specific antibody",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特定传染病",
+   "en": "specific infectious disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非特异性中毒反应",
+   "en": "non-specific poisoning reaction",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.2.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "机体暴露于化学物质、生物毒素等毒物后，因毒物的直接损伤、全身应激或多因素协同作用，引发的无明确靶器官选择性、临床表现缺乏特征性的毒性效应。"
+  },
+  {
+   "cn": "规范",
+   "en": "specification",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.10",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "规定产品、过程或服务应满足的技术要求以及用于判定其要求是否得到满足的证实方法的标准。"
+  },
+  {
+   "cn": "规格",
+   "en": "specification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.10",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "针对生产的成品或所使用的原材料等规定的质量标准，足以反映供消费者选择食品产品品质用的主要指标，如成分、含量、纯度、性能、容量等。如同一预包装内含有多件预包装食品时，对净含量和内含件数关系的表述。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "媒体规范",
+   "en": "media specification",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.6",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "媒体行业各成员共有的行为准则和道德标准，是大众传媒为约束自身行为所确立起来的各种规定和守则。"
+  },
+  {
+   "cn": "比活度",
+   "en": "specific activity",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "单位质量的放射性活度。SI单位为贝可每千克，记作Bq·kg-1。"
+  },
+  {
+   "cn": "比能",
+   "en": "specific energy",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.15",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "在一小体积元中单次或多次能量沉积事件的授予能与该体积元质量的比值。是属于微剂量学的随机量。符号为z。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "资产专用性",
+   "en": "assets specificity",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.24",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "某种资产只有当和某项特殊用途结合在一起时才更有价值的性质。若改作他用，其价值基本体现不出来，或者即使有价值，但与为了获得这项资产所进行的投入相比，资产所有者也损失较大。资产专用性越高，资产所有者在与需"
+  },
+  {
+   "cn": "特异性抗原",
+   "en": "specific antigen",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "被淋巴细胞抗原受体所识别的特定抗原。"
+  },
+  {
+   "cn": "特异性中毒",
+   "en": "specific poisoning",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.1.2.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "机体暴露于特定毒物后，因毒物本身的化学结构、代谢特性或作用机制，对特定靶器官、组织或细胞产生选择性损伤，进而引发具有特征性临床表现或病理改变的毒性效应。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject specific counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业心理健康机构，针对公众所关心的、较为普遍的学生心理健康问题，在报刊、电台、互联网等大众传播媒介进行专题讲座和答疑。"
+  },
+  {
+   "cn": "专项监测",
+   "en": "specific project monitoring",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对我国近期发生的某些重大食品安全事件机器对我国某些特殊低质结构区域、污染区域中指示性食品开展的监测"
+  },
+  {
+   "cn": "比生长速率",
+   "en": "specific growth rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.104",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单位质量菌体在单位时间内所增加的菌体量，是表征微生物生长速率的一个参数。可以通过微生物生长曲线拐点所画的切线斜率来估计。"
+  },
+  {
+   "cn": "年龄相关发病率",
+   "en": "age-specific incidence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.16",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区某年龄段人口中患某类疾病的人数所占比例。"
+  },
+  {
+   "cn": "疾病特异型量表",
+   "en": "disease-specific measure",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "适用于特定疾病患者生命质量测定的量表。体现特定疾病患者特征及其所关注的问题。较通用型量表敏感。"
+  },
+  {
+   "cn": "特定婚配",
+   "en": "specific marriage matches",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0356",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由社会习俗所指定、鼓励、允许或优先结为夫妻的婚姻形式。特定婚配的类型最常见的为姑舅表婚。在传统社会中，违反特定婚配的习俗常常会招致非议。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

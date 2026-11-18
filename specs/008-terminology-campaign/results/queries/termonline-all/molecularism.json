@@ -1,0 +1,482 @@
+{
+ "key": "molecularism",
+ "term": "molecularism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:05:25+00:00",
+ "status": "ok",
+ "note": "variant=molecularism; 审定公布名词库=575; 海峡两岸名词对照库=263; 其他来源数据库=11; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "反应分子数",
+   "en": "molecularity",
+   "source": "化学名词",
+   "wordNumber": "04.0266",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "基元反应中反应级数之和。"
+  },
+  {
+   "cn": "分子模拟",
+   "en": "molecular simulation,molecular modeling",
+   "source": "化学名词",
+   "wordNumber": "04.1157",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "根据理论化学原理，借助于计算机的计算能力和图形技术，计算分子的结构或分子体系性质的研究领域。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular chronometer,molecular clock",
+   "source": "微生物学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "蛋白质、DNA、RNA等生物大分子以相对恒定的速率发生替换，其替换速率与分子进化的时间成正相关，因此被作为推断进化事件发生时间的依据而视为一种计时器。"
+  },
+  {
+   "cn": "分子键",
+   "en": "molecular bond",
+   "source": "地质学名词",
+   "wordNumber": "13.01.077",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "气体、液体或分子型晶体中分子之间的结合力。"
+  },
+  {
+   "cn": "分子地层学",
+   "en": "molecular stratigraphy",
+   "source": "地质学名词",
+   "wordNumber": "07.01.018",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以生物分子化石为依据探讨地层的特征和属性，并进行地层划分、对比的地层学分支学科。"
+  },
+  {
+   "cn": "分子内分泌学",
+   "en": "molecular endocrinology",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "利用分子生物学技术，分析筛选激素或受体的基因突变，探讨激素作用机制以及内分泌系统疾病发病机制的学科。"
+  },
+  {
+   "cn": "分子驯化",
+   "en": "molecular domestication",
+   "source": "农学名词",
+   "wordNumber": "06.016",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "基因或基因调控元件发生序列或结构上的变化，产生更加适应的或新的功能的过程。"
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "农学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "在进化过程中因突变、重组、转位和染色体结构重排而引起的基因或基因组序列不断变化的过程。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "农学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据拟转座子长末端重复序列LTR（long terminal repeat）和基因序列变化，估算发育树中分支发生年代的测量系统。常用百万年表示。"
+  },
+  {
+   "cn": "分子系统发生学",
+   "en": "molecular phylogenetics",
+   "source": "农学名词",
+   "wordNumber": "06.019",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "基于DNA等分子序列相似程度（同源性）建立物种间进化关系的学科。"
+  },
+  {
+   "cn": "分子农场",
+   "en": "molecular farming",
+   "source": "农学名词",
+   "wordNumber": "15.202",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "以植物作为生物反应器，利用分子生物学手段，生产具有医学或工业价值的蛋白质或其他代谢物的方法。其目标产品是植物生产出的蛋白质或代谢物，而不是植物本身。"
+  },
+  {
+   "cn": "分子设计",
+   "en": "molecular design",
+   "source": "农学名词",
+   "wordNumber": "15.219",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "在理论指导下，设计出的具有预期性能的新生物大分子。设计的内容包括序列、结构、特性和合成方法。"
+  },
+  {
+   "cn": "分子特征",
+   "en": "molecular characteristic",
+   "source": "农学名词",
+   "wordNumber": "15.351",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "细胞或组织基于核酸和蛋白质等生物大分子水平所表现出的特征。"
+  },
+  {
+   "cn": "分子标记",
+   "en": "molecular marker",
+   "source": "农学名词",
+   "wordNumber": "06.441",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "以个体间DNA链上核苷酸序列变异为基础的标记。"
+  },
+  {
+   "cn": "分子标记",
+   "en": "molecular marker",
+   "source": "风景园林名词",
+   "wordNumber": "09.0210",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "反映植物个体或种群间基因组中某种差异的特异性DNA片段。"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "source": "农学名词",
+   "wordNumber": "17.074",
+   "subjectFullName": "农产品贮运与加工_加工通用名词",
+   "subjectName": "加工通用名词",
+   "publishYear": "2025",
+   "definition": "在高真空下依据不同物质分子运动平均自由程的差异，实现物质分离的方法。"
+  },
+  {
+   "cn": "分子伴侣",
+   "en": "molecular chaperone",
+   "source": "农学名词",
+   "wordNumber": "07.208",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "细胞内负责调节其他蛋白质折叠和组装的一类特殊蛋白质。通过与目标蛋白结合，来协助这些蛋白质完成正确的折叠、组装和转运等生物功能。"
+  },
+  {
+   "cn": "分子育种",
+   "en": "molecular breeding",
+   "source": "风景园林名词",
+   "wordNumber": "09.0207",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "运用分子生物学技术，将目的基因或DNA片段通过载体或直接导入受体细胞，使遗传物质重新组合，经细胞复制增殖，新的基因在受体细胞中表达，最后从转化细胞中筛选有价值的新类型构成工程植株，从而创造新品种的一种"
+  },
+  {
+   "cn": "分子云",
+   "en": "molecular cloud",
+   "source": "天文学名词",
+   "wordNumber": "08.565",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "星际空间某些化学分子聚集的区域。"
+  },
+  {
+   "cn": "分子筛",
+   "en": "molecular sieve",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0157",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "具网状结构的天然或人工合成的化学物质。如交联葡聚糖、沸石等，当作为层析介质时，可按分子大小对混合物进行分级分离。"
+  },
+  {
+   "cn": "反应分子数",
+   "en": "molecularity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应分子数",
+   "en": "molecularity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock\",\"molecular chronometer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子层",
+   "en": "molecular layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子胚胎学",
+   "en": "molecular embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子筛",
+   "en": "molecular sieve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子杂交",
+   "en": "molecular hybridization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子分类学",
+   "en": "molecular taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子进化",
+   "en": "molecular evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子适应",
+   "en": "molecular adaptation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子系统学",
+   "en": "molecular systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子植物学",
+   "en": "molecular botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子耗散",
+   "en": "molecular dissipation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子黏性",
+   "en": "molecular viscosity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子散射",
+   "en": "molecular scattering",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子重排",
+   "en": "molecular rearrangement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究生命现象物质基础的学科。研究细胞成分的物理、化学的性质和变化以及这些性质和变化与生命现象的关系，如遗传信息的传递，基因的结构、复制、转录、翻译、表达调控和表达产物的生理功能，以及细胞信"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "在高真空下依据不同物质分子运动平均自由程的差异而实现物质分离的方法"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究电离辐射所致核酸、蛋白质等生物大分子的结构、功能、生物合成和代谢等变化来阐明电离辐射生物效应及其机制的学科。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "病原体分子分型",
+   "en": "pathogen molecular subtyping",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "利用分子生物学技术，在DNA, RNA,蛋白质等生物大分子水平上对病原体进行精细区分和分类的方法。它不同于形态、生化反应、血清型等传统表型分型方法，能够从遗传本质上识别和区分不同来源的菌株或病毒株。"
+  },
+  {
+   "cn": "食源性致病菌分子溯源",
+   "en": "foodborne pathogen molecular tracing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对病人和食品中食源性致病菌分离株进行分子分型和聚类分析，识别聚集性病例，指导病因性食品的溯源调查的监测过程。"
+  },
+  {
+   "cn": "分子起始事件",
+   "en": "molecular initiating event, MIE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物与生物体接触，在分子水平上产生的能引起下游事件并导致有害结局所必需的分子间相互作用的原初事件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "special intention",
+ "term": "special intention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:19:03+00:00",
+ "status": "ok",
+ "note": "variant=special intention; 审定公布名词库=4008; 海峡两岸名词对照库=1277; 其他来源数据库=177; 预公布名词数据库=641; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "意图",
+   "en": "intent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "比较清楚地意识到要争取实现的目标和方法的需要。通常以仅仅设想而未付诸行动的企图、愿望、幻想、理想等方式存在。是作为动机推动人去行动的现实力量。人在清醒的状态中，绝大部分的活动都是有意图的。常基于某个目"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "肝病学名词",
+   "wordNumber": "8.8.2.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化其他并发症",
+   "subjectName": "肝硬化其他并发症",
+   "publishYear": "2024",
+   "definition": "出现于随意运动时的震颤。特点是在随意运动中或将要接近目标时震颤最为明显，主要见于小脑及其传出通路病变时。"
+  },
+  {
+   "cn": "目的合理性",
+   "en": "intention rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "实现某种目的的工具、手段的合理性，是可以达到预期目的，可经验实证的合理性。"
+  },
+  {
+   "cn": "行为意向",
+   "en": "behavioral intention",
+   "source": "行为医学名词",
+   "wordNumber": "2.079",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "影响行为发生转变的动机和意愿。是行为改变的直接决定力量，决定是否采取行动。受到行为信念、行为态度、个人规范、他人规范信念和顺从动机等多因素影响。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "生理学名词",
+   "wordNumber": "03.622",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "神经病学名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "神经病学_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2020",
+   "definition": "肢体活动时出现，接近目标时更显著，频率和幅度通常不规则的震颤。常见于小脑及其联系纤维病变。"
+  },
+  {
+   "cn": "智能体的意图",
+   "en": "agent intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0165",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体从多个愿望中选定的、经过承诺准备付诸实施的目标。"
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0254",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "在多层数据库结构中表示事务在较低层持有锁的一种标记。假设事务在数据库的某一层持有读锁，则其双亲层便具有意向读锁标记。"
+  },
+  {
+   "cn": "群体意图",
+   "en": "group intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0166",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体在合作求解过程中通过一致的、成功的行为所表现出来的整体意图。"
+  },
+  {
+   "cn": "意图复议",
+   "en": "intention reconsideration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0168",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "当环境与智能体原意图出现偏差时，智能体更新和修改原意图，从而实现既定目标的一种策略。"
+  },
+  {
+   "cn": "联合意图",
+   "en": "joint intention",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0167",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "多个智能体为了实现共同目标的行为选择，这些行为保持可满足性、持续性和一致性。"
+  },
+  {
+   "cn": "故意纵火",
+   "en": "intention fire",
+   "source": "林学名词",
+   "wordNumber": "07.278",
+   "subjectFullName": "林学_森林保护_森林防火",
+   "subjectName": "森林防火",
+   "publishYear": "2016",
+   "definition": "有些人为了达到某种目的故意放火而引发森林着火的行为。"
+  },
+  {
+   "cn": "创业意向",
+   "en": "entrepreneurial intention",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0118",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "潜在创业者是否从事创业活动的主观态度倾向。"
+  },
+  {
+   "cn": "意向状态",
+   "en": "intentional state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有意向性的心理状态，即指向世界中的对象的心理状态。如相信、认为、判断、意见、意欲、愿望、恐惧等。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "麻醉学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "当肢体有目的地接近某个目标时，在运动过程中出现的震颤。越接近目标，震颤越明显，达到目标并保持姿势时，震颤有时仍能持续存在。多见于小脑病变，丘脑、红核病变时也可出现。"
+  },
+  {
+   "cn": "有意漏气",
+   "en": "intentional leak",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.068",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "通过呼吸机面罩上的排气孔把富含二氧化碳的呼出气排出，以减少二氧化碳重复吸入的过程。"
+  },
+  {
+   "cn": "故意伤害",
+   "en": "intentional injury",
+   "source": "行为医学名词",
+   "wordNumber": "7.06",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "有目的、有计划地加害于他人并造成伤害。"
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "心理学名词",
+   "wordNumber": "02.549",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对记忆任务的要求和目的明确，可运用记忆的策略，注意力专注在刺激材料上的识记过程。"
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预向动作",
+   "en": "intention movement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资意向",
+   "en": "investment intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预期动作",
+   "en": "intention movement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向系统",
+   "en": "intentional system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特化，专化",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专化（=特化）",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "专业化",
+   "en": "specialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "statement of intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "letter of intent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特殊函数",
+   "en": "special function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特种黏合剂",
+   "en": "special adhesive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特殊能力倾向",
+   "en": "special aptitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特种铸造",
+   "en": "special casting",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "特种陶瓷",
+   "en": "special ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "特种冶金",
+   "en": "special metallurgy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权",
+   "en": "Special Drawing Rights",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专用计算机",
+   "en": "special-purpose computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  特殊报销政策",
+   "en": "special reimbursement rules",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赛马特别大奖赛",
+   "en": "Grand Prix Special",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全扩展要求",
+   "en": "special requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分工型金融监管体制",
+   "en": "specialized financial regulatory system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专项扶贫",
+   "en": "poverty alleviation by special programs",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "特殊监测",
+   "en": "special monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "旨在调查工作场所中某一特定情况进行的监测。当现有信息不足以证明对该情况有充分控制时，通过监测为阐明存在的问题和确定未来的操作程序提供更详细的信息。通常应在新设施运行阶段、设施或程序发生了重大变更后，或"
+  },
+  {
+   "cn": "特殊染色检查",
+   "en": "special stain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.30",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "显示与确定组织或细胞中的正常结构或病理过程中出现的异常物质、病变及病原体等的多种染色技术的总称。"
+  },
+  {
+   "cn": "专项预案",
+   "en": "special plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校某一类突发公共卫生事件的预防和控制而制定的、包含具体工作程序和措施的计划和实施方案的文件。"
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "special child",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "需要给予特殊帮助、特殊教育才能发展的儿童。"
+  },
+  {
+   "cn": "特殊喂养",
+   "en": "Special feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "早产儿、低出生体重儿和其他患病婴儿，或哺乳母亲患病，以及在自然的或人为的紧急情况(如地震、海啸、洪水、干旱、风暴、工业事故、恐怖暴力事件等)时的喂养。"
+  },
+  {
+   "cn": "特殊食品",
+   "en": "special food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "依据《中国人民共和国食品安全法》规定需要进行特殊监督管理的食品，包括保健食品、特殊医学用途配方食品和婴幼儿配方食品。"
+  },
+  {
+   "cn": "专间",
+   "en": "special room",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为防止食品受到污染，以分隔方式设置的清洁程度要求较高的加工直接入口食品的专用操作间。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "特殊检查",
+   "en": "special inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于常规检查而言，针对某个器官或者某种功能进行的专项检查。因可能具有一定危险性或产生不良后果，通常需要在专业医师对疾病的严格评估后，进行常规检查的筛查及特殊病情或脏器功能损伤的程度评估。"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "反对特殊化",
+   "en": "opposing specialization",
+   "source": "马克思主义",
+   "wordNumber": "04.0154",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "反对干部生活待遇特殊化。干部搞特殊化必然脱离群众。邓小平认为，干部如果对个人的、家庭的利益关心得太多了，就没有多大的心思和精力去关心群众了。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "为诊治各类专科疾病设置的医院，如妇产医院、儿童医院、口腔医院、传染病医院等。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "专门针对某一类疾病或特定人群提供诊疗服务的医疗机构，如口腔医院、眼耳鼻喉科医院、肿瘤医院、精神病医院等。"
+  },
+  {
+   "cn": "民族特需商品",
+   "en": "ethnic special products/ethnic special commodities/ethnic special goods",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0054",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中央和地方政府设立少数民族用品生产基地，在资金、设备、原材料等方面予以积极支持，实行就地取材，就地生产，就地供应。对少数民族地区没条件生产或暂时不能生产的产品，由政府组织其它地区的工厂、企业定点定量生"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

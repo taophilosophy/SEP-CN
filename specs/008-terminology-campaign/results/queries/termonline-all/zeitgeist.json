@@ -1,0 +1,42 @@
+{
+ "key": "zeitgeist",
+ "term": "zeitgeist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:20:48+00:00",
+ "status": "ok",
+ "note": "variant=zeitgeist; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "时代精神",
+   "en": "Zeitgeist",
+   "source": "心理学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "特定时代的文化气氛或思想模式。作为社会文化条件阻碍或促进着心理学的发展。"
+  },
+  {
+   "cn": "时代精神",
+   "en": "Zeitgeist",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "世界精神",
+   "en": "weltgeist",
+   "source": "马克思主义",
+   "wordNumber": "04.0020",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪德国古典哲学家黑格尔在其历史哲学中使用的一个概念。世界精神指宇宙整体的本质。黑格尔把它看作是决定一切社会现象和人类历史过程的东西，是人类社会历史发展的基础和决定力量，人类历史则是世界精神借以揭"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "resourcism",
+ "term": "resourcism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:21:15+00:00",
+ "status": "ok",
+ "note": "variant=resourcism; 审定公布名词库=1953; 海峡两岸名词对照库=228; 其他来源数据库=70; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "资源",
+   "en": "resources ",
+   "source": "草学名词",
+   "wordNumber": "2.0386",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "资源量",
+   "en": "resources",
+   "source": "冶金学名词",
+   "wordNumber": "02.0124",
+   "subjectFullName": "冶金学_采矿_矿山地质",
+   "subjectName": "矿山地质",
+   "publishYear": "2019",
+   "definition": "查明矿产资源的一部分和潜在矿产资源。"
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0633",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织所控制或拥有的有效因素的总和。"
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "资源科学技术_资源科学总论",
+   "subjectName": "资源科学总论",
+   "publishYear": "2008",
+   "definition": "“资财之源”，是创造人类社会财富的源泉。马克思认为创造社会财富的源泉是自然资源和劳动力资源。"
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "地质学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "资源",
+   "en": "resource",
+   "source": "计划生育名词",
+   "wordNumber": "01.160",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "自然界和人类社会一切有价值的物质。包括自然资源、资本资源和人力资源。"
+  },
+  {
+   "cn": "资源",
+   "en": "resource",
+   "source": "植物学名词",
+   "wordNumber": "13.0002",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "可被植物消耗的环境要素。如空间、光量子、二氧化碳、水分、养分和食物等。"
+  },
+  {
+   "cn": "生物资源",
+   "en": "living resources,biological resources",
+   "source": "林学名词",
+   "wordNumber": "03.383",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_自然保护区",
+   "subjectName": "自然保护区",
+   "publishYear": "2016",
+   "definition": "有生命的自然资源。包括生长在自然界中的能够直接或间接被人类利用的动物、植物、微生物及其他各种类型的生命形式。"
+  },
+  {
+   "cn": "非再生资源",
+   "en": "nonrenewable resources,unrenewable resources",
+   "source": "生态学名词",
+   "wordNumber": "13.102",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "为地球演化的一定阶段形成的一类自然资源，其数量有限，资源蕴藏量保持不变、不再增加，在开发利用后，其储量逐渐减少不会自我恢复。"
+  },
+  {
+   "cn": "预测资源量",
+   "en": "prognostic resources,predicted resources",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "02.188",
+   "subjectFullName": "煤炭科学技术_煤田地质与勘探_煤田地质勘探",
+   "subjectName": "煤田地质勘探",
+   "publishYear": "1996",
+   "definition": "煤田预测时所估算的煤炭资源量。"
+  },
+  {
+   "cn": "矿产[资源]",
+   "en": "mineral resources",
+   "source": "地质学名词",
+   "wordNumber": "14.01.009",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "自然资源的一种。自然界中由地质作用形成的，能被开发利用的天然物质的总称。既包括在当前的技术经济条件下可以开发利用的物质，也包括在未来的条件下具有潜在价值的物质。可呈固态、气态和液态。按其特点和用途分为"
+  },
+  {
+   "cn": "地热资源",
+   "en": "geothermal resources",
+   "source": "地质学名词",
+   "wordNumber": "15.01.019",
+   "subjectFullName": "地质学_地热地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地热能、地热流体及其有用组分的统称。"
+  },
+  {
+   "cn": "岩热型地热资源",
+   "en": "petrothermal resources",
+   "source": "地质学名词",
+   "wordNumber": "15.02.015",
+   "subjectFullName": "地质学_地热地质学_地热带与地热田",
+   "subjectName": "地热带与地热田",
+   "publishYear": "2026",
+   "definition": "泛指赋存于固体岩石中的地热资源。"
+  },
+  {
+   "cn": "地下水资源",
+   "en": "groundwater resources",
+   "source": "地质学名词",
+   "wordNumber": "16.02.013",
+   "subjectFullName": "地质学_水文地质学_地下水资源",
+   "subjectName": "地下水资源",
+   "publishYear": "2026",
+   "definition": "赋存于地下岩土介质中，具有开发利用价值的水。是全球水资源的一部分，并且与大气水资源和地表水资源密切联系、互相转化，既有一定的地下储存空间，又参加自然界水循环，具有流动性和可恢复性的特点。地下水利用价值"
+  },
+  {
+   "cn": "农业资源",
+   "en": "agricultural resources",
+   "source": "农学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "总论_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "人们从事农业生产或农业经济活动时所利用的自然、环境、经济资源的总称。"
+  },
+  {
+   "cn": "资源化利用",
+   "en": "resources utilization",
+   "source": "农学名词",
+   "wordNumber": "11.092",
+   "subjectFullName": "农业环境保护_生态循环农业",
+   "subjectName": "生态循环农业",
+   "publishYear": "2025",
+   "definition": "采用适当措施实现农牧业废弃物中的物质和能量等资源循环利用的过程。农牧业废弃物作为原料可直接进行利用，也可对其进行转化后再利用。"
+  },
+  {
+   "cn": "气候资源",
+   "en": "climatic resources",
+   "source": "农学名词",
+   "wordNumber": "13.118",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "人类和一切生物生存所依赖的，社会发展可能开发利用的气候要素中，物质、能量和条件气候现象的统称。"
+  },
+  {
+   "cn": "农业气候资源",
+   "en": "agroclimatic resources",
+   "source": "农学名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "对农业生产可能提供物质和能量的光、热、水、风等气候要素的数量、组合及分配状况。由光资源、热量资源、水分资源、大气资源和风资源组成。表示一定区域气候条件对发展农业生产的潜力。"
+  },
+  {
+   "cn": "光资源",
+   "en": "light resources",
+   "source": "农学名词",
+   "wordNumber": "13.120",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "农业生产可利用的太阳辐射能。是一种主要的农业气候资源。主要包括光合有效辐射、太阳红外辐射和太阳紫外辐射。通常用年或作物生长季的太阳总辐射与日照时数等指标衡量。"
+  },
+  {
+   "cn": "热量资源",
+   "en": "heat resources",
+   "source": "农学名词",
+   "wordNumber": "13.121",
+   "subjectFullName": "农业气象_农业气候",
+   "subjectName": "农业气候",
+   "publishYear": "2025",
+   "definition": "农业生产可以利用的热量条件。通常用一段时期的气温、积温和无霜期等指标来衡量。"
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "资源",
+   "en": "resources",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "资源",
+   "en": "resource",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光资源",
+   "en": "light resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空气资源",
+   "en": "air resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农业气候资源",
+   "en": "agroclimatic resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候资源",
+   "en": "climate resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水资源",
+   "en": "water resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资源成本",
+   "en": "resources cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原油资源",
+   "en": "crude resources",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矿物资源",
+   "en": "mineral resources",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可再生资源",
+   "en": "renewable resources",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自然资源",
+   "en": "natural resources",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经济资源",
+   "en": "economic resources",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非再生资源,不可更新资源",
+   "en": "nonrenewable resources",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不可更新资源（=非再生资源）",
+   "en": "nonrenewable resources",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自然资源",
+   "en": "natural resources",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "港口资源",
+   "en": "port resources",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海底资源",
+   "en": "submarine resources",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源",
+   "en": "data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型资源",
+   "en": "shared resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资源",
+   "en": "idle resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源池化",
+   "en": "resource pooling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源目录",
+   "en": "resource directory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源数字化",
+   "en": "digitization of resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息资源标准",
+   "en": "information resources standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共池塘资源",
+   "en": "common-pool resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水资源利用",
+   "en": "water resources utilization",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源池",
+   "en": "data resource pool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源平台",
+   "en": "data resource platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源管理框架",
+   "en": "resource management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源交换域",
+   "en": "resource exchange domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息资源共享",
+   "en": "information resource sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储资源代理",
+   "en": "Storage Resource Broker (SRB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化资源",
+   "en": "cultural resources",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.12",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "泛指一切可供利用的文化形式和物品，包括各种思想、风俗习惯、文学、艺术和科学等形式的精神和物质文化。"
+  },
+  {
+   "cn": "卫生资源",
+   "en": "health resources",
+   "source": "社会医学名词",
+   "wordNumber": "8.11",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "社会在提供卫生服务的过程中占用或消耗的各种生产要素的总称，包括卫生人力资源、卫生费用、卫生设施设备、药品和卫生信息资源等。"
+  },
+  {
+   "cn": "社会资源",
+   "en": "social resources",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "存在于社会关系网络和社会结构中，能够被个体或群体调动以实现特定目标的各类有形和无形要素的总和。在生命质量评价中反映人际关系充足度。"
+  },
+  {
+   "cn": "卫生资源",
+   "en": "health resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "广义上是人类在一切卫生保健活动中所使用的社会资源。狭义上是在一定社会经济条件下，社会投入到卫生服务中的各类资源的总称，包括卫生人力资源、物力资源、财力资源、技术和信息资源等。"
+  },
+  {
+   "cn": "卫生资源",
+   "en": "health resource",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.012",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "社会用于维护和改善人群健康的所有人力、物力、财力、技术和信息等资源的总和。"
+  },
+  {
+   "cn": "卫生信息资源",
+   "en": "health information resources",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "卫生系统中用于支持疾病监测、预防、诊断、治疗、康复及健康促进等活动的相关数据、信息和技术手段的集合，旨在提高卫生服务水平和管理决策能力。"
+  },
+  {
+   "cn": "社会资源理论",
+   "en": "social resources theory",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "美籍华裔学者林南提出的一种社会资本理论。认为那些不被个人直接占有、而嵌入于个人的社会关系网络的资源，如权力、财富、声望等，有助于个体的工具性目标和表意性目标的达成。社会资源理论包含地位强度假设、弱关系"
+  },
+  {
+   "cn": "人员保障",
+   "en": "human resources assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门按照“平战结合、因地制宜，分类管理、分级负责，统一管理、协调运转”的原则建立的突发公共卫生事件应急处理队伍，并加强管理和培训，支持应急处置工作的活动。"
+  },
+  {
+   "cn": "民俗应用资源",
+   "en": "folklore application resources",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0466",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "某种民俗作为文化资源，在景物、食品、工艺、信仰等方面的应用价值和继续认识、不断开发的巨大潜能。"
+  },
+  {
+   "cn": "资源依附理论",
+   "en": "resource dependence theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.20",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "强调组织与环境之间的资源关系的理论。认为一个组织最重要的存活目标是要想办法减低对外部关键资源供应组织的依赖程度，并寻求可以稳定影响这些供应组织的关键资源的方法。"
+  },
+  {
+   "cn": "资源获取模式",
+   "en": "resource acquisition model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "社会服务活动所需经费、物料等资源的来源途径与取得方式。"
+  },
+  {
+   "cn": "资源稀缺性",
+   "en": "scarcity of resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "相对于人们的需要，资源是稀缺的。"
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "一个国家或区域内，将筹集到的卫生资源在卫生行业（或部门）内分配和转移的过程。主要包括构成卫生资源的诸要素，如卫生机构、人力、物力、财力资源以及卫生管理资源等，如何分配、分配的数量以及结构和布局等。"
+  },
+  {
+   "cn": "资金统筹",
+   "en": "pooling of resource",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "通过较大范围人群中的资金积累和管理 ，当群体中部分人需要利用卫生服务时，其所发生的财务风险可以被这一群体的所有筹资者所分摊的一种功能。"
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.3.3",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "依据健康需求和公平效率原则，对卫生人力、资金、设施等进行科学分配，提升资源利用效率与服务公平性。"
+  },
+  {
+   "cn": "卫生资源配置",
+   "en": "health resource allocation",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.013",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "通过政府干预或市场调节的手段使社会获得的卫生资源公平且有效率地在不同的领域、地区、部门、项目、人群中进行分配，以实现卫生资源的社会和经济效益最大化的措施。包括卫生资源的增量配置与卫生资源的存量调整两个"
+  },
+  {
+   "cn": "政府政策资源",
+   "en": "government policies and resources",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "各级政府以建设健康促进学校为目的而制定的政策及相应的投资。"
+  },
+  {
+   "cn": "学校政策资源",
+   "en": "school policies and resources",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "以健康促进为目的而制定的全校性政策及相应投资。"
+  },
+  {
+   "cn": "卫生物力资源",
+   "en": "material resources for health",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "提供卫生服务过程中必需的物质资源，包括药品、试剂、专用仪器设备、通用设备、办公用品、低值易耗品和燃料等。"
+  },
+  {
+   "cn": "卫生人力资源",
+   "en": "human resources for health",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "所有经过卫生职业培训，在卫生领域从事健康促进、疾病预防、治疗及康复等医疗卫生服务，从而促进、保护、改善人口健康的人员统称。包括医生、护士、公共卫生专业人员等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

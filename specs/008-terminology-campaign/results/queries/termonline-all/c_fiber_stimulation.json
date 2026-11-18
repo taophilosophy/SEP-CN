@@ -1,0 +1,692 @@
+{
+ "key": "c-fiber stimulation",
+ "term": "C-fiber stimulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:06:17+00:00",
+ "status": "ok",
+ "note": "variant=C-fiber stimulation; 审定公布名词库=2607; 海峡两岸名词对照库=1032; 其他来源数据库=52; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "C纤维",
+   "en": "C-fiber",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "无髓鞘的躯体传入纤维和自主神经的节后纤维。在呼吸系统中，C纤维分布于肺泡壁与支气管壁上，其支配的感受器为化学敏感性感受器。"
+  },
+  {
+   "cn": "支气管C纤维",
+   "en": "bronchial C-fiber",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.048",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "血供来源于体循环的C纤维。其支配的感受器为化学敏感性感受器。"
+  },
+  {
+   "cn": "肺C纤维",
+   "en": "pulmonary C-fiber",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "血供来源于肺循环的C纤维。其支配的感受器为化学敏感性感受器。"
+  },
+  {
+   "cn": "刺激[作用]",
+   "en": "stimulation",
+   "source": "生理学名词",
+   "wordNumber": "02.304",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激励式仿真系统",
+   "en": "stimulative stimulation system",
+   "source": "电力名词",
+   "wordNumber": "12.220",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在仿真系统中采用了与参考机组相同的全部或部分实际控制设备的仿真系统。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "兽医学名词",
+   "wordNumber": "17.041",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "能使机体器官、组织的生理、生化功能增强的药物。"
+  },
+  {
+   "cn": "中枢兴奋剂",
+   "en": "stimulant",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.152",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_药物治疗",
+   "subjectName": "药物治疗",
+   "publishYear": "2022",
+   "definition": "一类具有中枢刺激作用的药物。能够暂时驱走睡意并恢复精力，用以治疗嗜睡、维持警觉状态。"
+  },
+  {
+   "cn": "激醒",
+   "en": "stimulate",
+   "source": "行为医学名词",
+   "wordNumber": "11.121",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_激醒",
+   "subjectName": "激醒",
+   "publishYear": "2022",
+   "definition": "用兴奋性物质使机体清醒或激动。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "精神医学名词",
+   "wordNumber": "03.066",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "一种增加有机体或有机体某一部分功能活性的制剂。可按照躯体系统、功用或涉及的制剂分类。中枢神经系统兴奋剂包括回苏剂(如士的宁、印防己毒素)和拟交感胺类(如苯丙胺、可卡因)。"
+  },
+  {
+   "cn": "兴奋剂",
+   "en": "stimulant",
+   "source": "药学名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "能提高运动员运动成绩而服用的对人体有害的，国际禁用的药物。"
+  },
+  {
+   "cn": "细编穿刺碳-碳",
+   "en": "fine weaving pierced fiber carbon,FWFC-C/C",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.016",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "炭/炭复合材料",
+   "en": "C/C composite",
+   "source": "冶金学名词",
+   "wordNumber": "05.0394",
+   "subjectFullName": "冶金学_钢铁冶金_炭材料",
+   "subjectName": "炭材料",
+   "publishYear": "2019",
+   "definition": "用炭纤维增强基体炭所形成的复合材料。"
+  },
+  {
+   "cn": "三向碳-碳",
+   "en": "3-directional C/C",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.026",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "四向碳-碳",
+   "en": "4-directional C/C",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.027",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分3",
+   "en": "C3",
+   "source": "免疫学名词",
+   "wordNumber": "2.361",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "参与3条补体活化途径的固有成分，为血浆含量最高的补体成分。补体活化时，C3可被C3转化酶裂解为小片段C3a和大片段C3b：C3a游离于液相，具有过敏毒素活性；C3b是3条激活途径C5转化酶和旁路途径C"
+  },
+  {
+   "cn": "补体成分4",
+   "en": "C4",
+   "source": "免疫学名词",
+   "wordNumber": "2.362",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "补体经典激活途径的固有成分，在Mg²⁺存在下，可被活化的C1s裂解为小片段C4a和大片段C4b。C4b能与C2b结合而形成C3转化酶；与免疫复合物、微生物、高分子物质或细胞膜结合，介导调理作用和免疫黏"
+  },
+  {
+   "cn": "补体成分5",
+   "en": "C5",
+   "source": "免疫学名词",
+   "wordNumber": "2.363",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "参与3条补体活化途径的固有成分，可被C5转化酶裂解为小片段C5a和大片段C5b：C5a游离于液相，具有过敏毒素、趋化因子等活性；C5b可与C6结合为稳定的C5b6复合物，继而自发与C7、C8、C9结合"
+  },
+  {
+   "cn": "补体成分1",
+   "en": "C1",
+   "source": "免疫学名词",
+   "wordNumber": "2.359",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "补体经典激活途径的固有成分，包括C1q、C1r和C1s三个亚单位，在钙离子存在下按1:2:2组成五聚体大分子复合物(C1qC1r2C1s2)。C1q通过其胶原样区与其他激活剂结合；C1s为丝氨酸蛋白酶"
+  },
+  {
+   "cn": "补体成分2",
+   "en": "C2",
+   "source": "免疫学名词",
+   "wordNumber": "2.36",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "补体经典激活途径的固有成分，属丝氨酸蛋白酶原。在补体经典激活途径中，C2被C1s丝氨酸蛋白酶裂解，生成大片段C2b和小片段C2a。C2b含酶催化部位，可与C4b/C3b片段结合，形成C3转化酶和C5转"
+  },
+  {
+   "cn": "补体成分6",
+   "en": "C6",
+   "source": "免疫学名词",
+   "wordNumber": "2.364",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "补体活化共同末端效应的组分，可与C5b结合为C5b6，继而与C7、C8、C9结合为C5b～9复合物。"
+  },
+  {
+   "cn": "刺激作用",
+   "en": "stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋",
+   "en": "stimulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "C语言",
+   "en": "C",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分1",
+   "en": "C1",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分2",
+   "en": "C2",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分3",
+   "en": "C3",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分4",
+   "en": "C4",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分5",
+   "en": "C5",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分6",
+   "en": "C6",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分7",
+   "en": "C7",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分8",
+   "en": "C8",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体成分9",
+   "en": "C9",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "控制刺激",
+   "en": "controlled stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我刺激",
+   "en": "self stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "远端刺激",
+   "en": "distal stimulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激单性结实",
+   "en": "stimulative parthenocarpy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刺激因子",
+   "en": "stimulating factor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "激流装置",
+   "en": "turbulence stimulator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "受激发射",
+   "en": "stimulated emission",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "受激辐射",
+   "en": "stimulated radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "C组难度",
+   "en": "C difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "C 阶段",
+   "en": "phase C",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流回旋双人划艇",
+   "en": "slalom C2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超级信用证",
+   "en": "super L/C",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单人划艇",
+   "en": "Canadian single\",\"C1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漂流竞速双人划艇",
+   "en": "wildwater racing C2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静水双人划艇比赛",
+   "en": "flatwater race C2",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漂流竞速单人划艇",
+   "en": "wildwater racing C1",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古典理论和相关思想",
+   "en": "c",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学",
+   "subjectName": "环境社会学",
+   "publishYear": "2025",
+   "definition": "3.14.1.1  地理决定论  geographical determinism"
+  },
+  {
+   "cn": "C波段紫外线",
+   "en": "ultraviolet C, UV-C",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "波长范围为100nm～280nm的紫外线。"
+  },
+  {
+   "cn": "中枢兴奋剂",
+   "en": "central nervous system stimulant",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.9.1.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "能提高或易化跨突触的冲动传递，引起过度的神经活动的一类化学物质。"
+  },
+  {
+   "cn": "C-反应蛋白",
+   "en": "C-reactive protein, CRP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "机体受到微生物入侵或组织损伤等炎症性刺激时在血浆中急剧上升的、由肝细胞合成的一种蛋白质。可作为炎症标志物。1930年由蒂耶（Tillet）和弗朗西斯（Francis）发现。"
+  },
+  {
+   "cn": "C",
+   "en": "class C food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会认为在食品中使用不安全，或者仅可在特定用途范围内严格控制使用的食品添加剂"
+  },
+  {
+   "cn": "丙类传染病",
+   "en": "category C infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "依据《中华人民共和国传染病防治法》，按国务院卫生行政部门规定的监测管理方法进行管理的传染病。国务院卫生行政部门根据传染病暴发、流行情况和危害程度对该类型所属传染病病种进行增加、减少或调整。"
+  },
+  {
+   "cn": "C2",
+   "en": "class C2 food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.13",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会认为应在特定用途范围内严格控制使用的食品添加剂"
+  },
+  {
+   "cn": "C1",
+   "en": "class C1 food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.12",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "联合国粮农组织和世界卫生组织食品添加剂联合专家委员会根据毒理学资料认为在食品中使用不安全的食品添加剂"
+  },
+  {
+   "cn": "光激发光剂量计",
+   "en": "optically stimulated luminescence dosimeter，OSLD",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "基于光激发光技术的一种个人剂量计。光激发光（OSL）过程可以选择激发光的波长来释放一般热释光过程无法释放的被较深的电子陷阱俘获的电子，可通过选择不同激发光的波长实现对剂量计的多次测量。"
+  },
+  {
+   "cn": "钳刮术",
+   "en": "dilation and curettage, D&C",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "用钳夹与负压吸引结合的方法人工终止妊娠10-14周的手术。"
+  },
+  {
+   "cn": "冲击-反应模式",
+   "en": "the pattern of stimulation and response",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "美国学者费正清（J.K.Fairbank）提出的关于中国现代化发展路径的理论。该理论认为中国社会内部缺乏突破传统、走向现代的动力，在西方的现代文明的冲击下，中国社会内部才发生变动，因而中国的现代化是一"
+  },
+  {
+   "cn": "巨噬细胞集落刺激因子",
+   "en": "macrophage colony-stimulating factor,M-CSF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.13",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "由巨噬细胞、中性粒细胞、内皮细胞、成纤维细胞及活化T细胞和B细胞产生的一种蛋白质因子。可促进骨髓造血前体细胞增殖分化为单核/巨噬细胞，并可激活成熟单核/巨噬细胞。"
+  },
+  {
+   "cn": "粒细胞集落刺激因子",
+   "en": "granulocyte colony-stimulating factor，G-CSF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.15",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "由成纤维细胞、单核细胞和巨噬细胞产生的调节造血的糖蛋白因子。可刺激骨髓中性粒前体细胞增殖及分化，并可促进成熟中性粒细胞的功能。"
+  },
+  {
+   "cn": "粒细胞-巨噬细胞集落刺激因子",
+   "en": "granulocyte-macrophage colony stimulating factor， GM-CSF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "可刺激粒细胞和巨噬细胞形成集落，促进骨髓中的粒细胞分化、增殖和成熟，并释放至血液以提高其数量与功能的因子。"
+  },
+  {
+   "cn": "A群C群脑膜炎球菌多糖疫苗",
+   "en": "Group A and C meningococcal polysaccharide vaccine, MPSV-AC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.5.11",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "预防流行性脑脊髓膜炎的免疫接种生物制剂，由A群和C群脑膜炎奈瑟氏菌株制成。"
+  },
+  {
+   "cn": "婴儿起病的干扰素基因刺激蛋白相关血管病",
+   "en": "stimulator of interferon genes associated vasculopathy with onset in infancy，SAVI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "一种由TMEMl73基因突变所致的I型干扰素通路疾病，表现为发热、皮疹、关节炎、肢端坏疽和肺间质改变"
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "一种运用计算机技术，依据理论模型模仿系统的运作方式，以获取科学知识或建构虚拟世界的方法。"
+  },
+  {
+   "cn": "掩盖",
+   "en": "concealment, simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.34",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在加工过程中通过添加化学物质或其他手段，使原本含有的有害成分被隐蔽或降低的食品欺诈行为。"
+  },
+  {
+   "cn": "仿真体模",
+   "en": "simulation phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由人体组织等效（对电离辐射的吸收和/或散射作用与人体组织基本相同）材料构成的物体，既可代表整个人体，也可代表特定的人体局部。在各种辐射测量中，仿真体模可用于模拟人体实际情况。"
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

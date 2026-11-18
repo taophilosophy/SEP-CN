@@ -1,0 +1,712 @@
+{
+ "key": "intervention",
+ "term": "intervention",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:07:42+00:00",
+ "status": "ok",
+ "note": "variant=intervention; 审定公布名词库=218; 海峡两岸名词对照库=44; 其他来源数据库=10; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "经济学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "资本主义制度中，与自由放任相对立的一种经济政策。在资本主义生产资料私有制条件下，生产经营管理权属于私人资本家手中，资产阶级国家不具有直接管理经济的职能，只能通过一些间接的手段来影响私人资本的活动。这种"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "电力名词",
+   "wordNumber": "17.829",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "任何旨在减小或避免不属于受控实践的或因事故而失控的辐射源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "核医学名词",
+   "wordNumber": "02.0542",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "任何旨在减小或避免非受控实践或因事故而失控的辐射或辐射可能性风险所采取的有意识的阻止或变更的行为。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "任何意在减少或避免来自不属于受控实践的、或因事故而失控的源所致的照射或可能受照而采取的行动。"
+  },
+  {
+   "cn": "干预措施",
+   "en": "intervention",
+   "source": "教育学名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "有计划地提高组织和个人的绩效水平的方法与活动。分为知识技能和组织环境两大类，用于解决信息和知识的缺乏或组织环境因素导致的绩效问题。"
+  },
+  {
+   "cn": "干预研究",
+   "en": "intervention study",
+   "source": "急救医学名词",
+   "wordNumber": "03.892",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "以人群为试验对象，采用试验法而非观察法，按严格的科研设计进行的研究。包括临床试验、现场试验和社区试验。设计方法主要有随机化对照试验和类实验。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "核医学名词",
+   "wordNumber": "02.0539",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "由审管部门规定的，启动某项辐射防护干预行动所需的条件指标阈值。条件指标一般是辐射防护相关的可测量值，如有效剂量、摄入量或单位面积(体积)的污染水平等。"
+  },
+  {
+   "cn": "干预研究",
+   "en": "intervention study",
+   "source": "老年医学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "以人群为试验对象、采用试验法而非观察法、按严格的科研设计进行的研究。包括临床试验、现场试验和社区试验。设计方法主要有随机化对照试验和类实验。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "针对应急照射情况或持续照射情况，预先制定的可防止的剂量水平。达到或超过这一水平时，则应采取相应的防护行动或补救行 动。"
+  },
+  {
+   "cn": "介入材料",
+   "en": "intervention materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0183",
+   "subjectFullName": "材料科学技术_生物材料_介入器材",
+   "subjectName": "介入器材",
+   "publishYear": "2011",
+   "definition": "介入诊断和治疗中的配件、导管、导丝以及植入人体管腔内的专用器械。"
+  },
+  {
+   "cn": "介入神经外科学",
+   "en": "interventional neurosurgery",
+   "source": "神经外科学名词",
+   "wordNumber": "1.011",
+   "subjectFullName": "医学_神经外科学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "利用血管内导管操作技术，在计算机控制的数字减影血管造影系统的支持下，对人体神经系统内血管及其供血相关病变进行诊断和治疗，研究其技术改进和提高疗效技术的一门临床医学学科。"
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "神经外科学名词",
+   "wordNumber": "16.364",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "在X射线、超声、计算机体层成像或磁共振成像等技术引导下，利用导管、导丝等器材，通过经皮穿刺或通过人体原有管道如尿道、血管等自然腔隙抵达病变部位进行诊断及治疗，以及在此基础上研究其技术原理和向临床转化的"
+  },
+  {
+   "cn": "介入治疗",
+   "en": "interventional therapy",
+   "source": "麻醉学名词",
+   "wordNumber": "07.133",
+   "subjectFullName": "麻醉学_疼痛诊疗_癌痛治疗",
+   "subjectName": "癌痛治疗",
+   "publishYear": "2024",
+   "definition": "以神经阻滞技术和放射诊断学为基础，以治疗疼痛为目的，通过皮肤微小切口或穿刺技术，在影像设备（血管造影机、透视机、CT、MRI、B超）的引导下对病灶局部进行的微创治疗。"
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "医学影像技术学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "医学影像技术学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在医学影像技术（如X射线摄影、超声、计算机体层成像、磁共振成像）的引导下，通过经皮穿刺途径或人体原有孔道，将特制的导管或器械插至病变部位进行诊断性造影和治疗的学科。"
+  },
+  {
+   "cn": "介入[性]超声",
+   "en": "interventional ultrasound",
+   "source": "器官移植学名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "在超声引导下，经皮肤对各脏器超声下可见病变进行穿刺活检或治疗的诊疗方法。是一项影像与病理相结合、诊断与治疗相结合的技术。"
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "器官移植学名词",
+   "wordNumber": "07.036",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "以影像诊断为基础，并在影像设备的导向下，将特定的诊疗器械导入病变的相关部位，进行非手术的治疗或取得病原学、病理学等诊断材料的学科。具有创伤性小、疗效高、诊疗相结合等优点。"
+  },
+  {
+   "cn": "介入治疗",
+   "en": "interventional therapy",
+   "source": "结核病学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "结核病学_结核病治疗_治疗方法",
+   "subjectName": "治疗方法",
+   "publishYear": "2019",
+   "definition": "在皮肤上做微小通道或经人体原有的管道，在支气管镜、影像设备等的引导下对病灶进行治疗的一种方法。介于外科、内科治疗之间的新型治疗方法。按介入系统分为呼吸介入治疗、心血管介入治疗等。按介入手段分为放射介入"
+  },
+  {
+   "cn": "介入放射治疗",
+   "en": "interventional radiotherapy",
+   "source": "生物物理学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射应用",
+   "subjectName": "辐射应用",
+   "publishYear": "2018",
+   "definition": "在影像设备的监视下，通过经皮穿刺或某种原有体内通道插入特制的导管、导丝等器械，将放射性材料或药物输送至人体病变区实施治疗的一种微创技术。"
+  },
+  {
+   "cn": "介入治疗",
+   "en": "interventional treatment",
+   "source": "呼吸病学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "呼吸病学_诊断与治疗_治疗方法",
+   "subjectName": "治疗方法",
+   "publishYear": "2018",
+   "definition": "不开刀达到暴露病灶的目的，在血管、皮肤上做直径几毫米的微小通道，或经人体生理管道，在影像设备(血管造影机、透视机、CT、B超)的引导下对病灶局部进行治疗的创伤较小的治疗方法。是介于外科、内科治疗之间的"
+  },
+  {
+   "cn": "介入试验",
+   "en": "interventional test",
+   "source": "核医学名词",
+   "wordNumber": "04.0881",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统疾病诊疗技术",
+   "subjectName": "神经系统疾病诊疗技术",
+   "publishYear": "2018",
+   "definition": "在常规试验的条件下，通过药物或生理刺激等方法增加对某个脏器的功能刺激或负荷，观察脏器或组织对刺激的反应能力，以判断病变组织的血流灌注储备功能情况，并增加正常组织与病变组织之间的放射性分布差别，提高显像"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "介入材料",
+   "en": "intervention materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表象调节",
+   "en": "imagery intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机干预",
+   "en": "crisis intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭干预",
+   "en": "family intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人工干预",
+   "en": "manual intervention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参与承兑汇票",
+   "en": "intervention for honour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多种货币干预",
+   "en": "multi-currency intervention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术转让的政府干预",
+   "en": "government intervention in technology transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际干预公海油污事故公约",
+   "en": "International Convention Relating to Intervention on the High Seas in Case of Oil Pollution Casualties",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "干预公海非油类物质污染议定书",
+   "en": "Protocol Relating to Intervention on the High Seas in Case of Pollution by Substances other than Oil",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "截留",
+   "en": "interception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交集",
+   "en": "intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交会",
+   "en": "intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "腱划",
+   "en": "tendinous intersection",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "冠层截留",
+   "en": "canopy interception",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位错交割",
+   "en": "dislocation intersection",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "线段交叉",
+   "en": "line intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "栅格交集",
+   "en": "raster intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合性非药物性干预措施",
+   "en": "comprehensive non-pharmaceutical interventions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险预警干预机制",
+   "en": "financial risk early warning and intervention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept the ball\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept the ball\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦截防守反击",
+   "en": "stop hit with interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融可疑交易自动化拦截",
+   "en": "automatic interception of suspicious financial  transactions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "任何旨在减少或避免不属于受控实践的或因事故而失控的源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.16",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "目的在于减少事实上业已存在的照射（例如事故照射）的任何行动，包括变更已存在的照射原因，限定已存在的照射途径，以及改变人们的习惯、行动和生活环境，以防止其受到照射。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "介入方案",
+   "en": "intervention plan/",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作介入服务对象的需要与问题所制定的具体方案，其侧重于改变服务对象态度和行为的一系列方法及其运用。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "干预原则",
+   "en": "intervention principle",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "在核事故状态下,对公众等实施干预所必须遵循的基本原则,包括干预的正当化,干预最优化以及干预应首先着眼于避免严重的确定性效应的发生。"
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "放射卫生学",
+   "wordNumber": "2.11.4",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "在放射医学影像系统监视引导下，经皮针穿刺或引入导管做抽吸注射、引流或对管腔、血管等做成型、灌注、栓塞等，以诊断与治疗疾病的技术。"
+  },
+  {
+   "cn": "介入治疗",
+   "en": "interventional therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.14",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "在皮肤上作微小通道或经人体原有的管道，在支气管镜、影像设备等引导下对病灶局部进行治疗的技术。按介入系统分为呼吸介入、心血管介入治疗等；按介入手段分为放射介入、支气管镜下介入治疗等。"
+  },
+  {
+   "cn": "国家干预",
+   "en": "state intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.61",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在以市场机制为基础的市场经济条件下，为了克服市场失灵，国家运用管制和宏观调控等手段规范市场主体行为，校正、补充市场缺陷的活动的总称。"
+  },
+  {
+   "cn": "社会干预",
+   "en": "social intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "负有保护责任的机关、组织或者公民，为了被保护人的合法权益而以自己的名义提起民事诉讼的活动。例如工会、妇女联合会、共青团等组织为保护其所属成员的合法权益即可向法院提起诉讼。"
+  },
+  {
+   "cn": "综合介入",
+   "en": "comprehensive intervention",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "关注“人与环境”两者间的互动关系与介入策略，体现社会综合治理理念，包含直接服务和间接服务在内的介入行动。"
+  },
+  {
+   "cn": "主动干预",
+   "en": "active intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过激发内因（如主动选择安全设备，或采取健康行为方式等）来影响人们的行为。"
+  },
+  {
+   "cn": "被动干预",
+   "en": "passive intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过外因改变（如改善外界环境因素）来影响人们的行为。"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过改革工艺、设备（或技术）革新等工程条件的改善来影响人们的行为。"
+  },
+  {
+   "cn": "经济干预",
+   "en": "economic intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过经济鼓励手段或罚款来影响人们的行为。"
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过法律和法规措施影响人们的行为。"
+  },
+  {
+   "cn": "教育干预",
+   "en": "educational intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过普及安全知识影响人们行为的过程。"
+  },
+  {
+   "cn": "营养干预",
+   "en": "nutrition intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "针对人群中与营养有关的健康问题采取相应对策进行改善的行为，旨在解决具体营养问题，改善高危人群的营养状况。"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过影响媒介及物理环境，减少和消除伤害发生危险的干预措施。"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在心理学理论指导下，有计划、按步骤地对一定对象的心理活动、个性特征或行为问题施加影响，使之发生朝向预期目标变化的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

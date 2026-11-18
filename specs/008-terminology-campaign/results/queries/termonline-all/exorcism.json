@@ -1,0 +1,672 @@
+{
+ "key": "exorcism",
+ "term": "exorcism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:08:19+00:00",
+ "status": "ok",
+ "note": "variant=exorcism; 审定公布名词库=250; 海峡两岸名词对照库=8; 其他来源数据库=26; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "咒禁博士",
+   "en": "erudite for exorcism",
+   "source": "中医药学名词",
+   "wordNumber": "02.189",
+   "subjectFullName": "中医药学_医史文献_医史文献其他",
+   "subjectName": "医史文献其他",
+   "publishYear": "2004",
+   "definition": "古代唐太医署职称，主要负责讲授用祷告、符咒等迷信或心理疗法治病。"
+  },
+  {
+   "cn": "运动",
+   "en": "exercise",
+   "source": "运动医学名词",
+   "wordNumber": "07.071",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指物体的各种物理性活动。在运动医学的范畴特指人体有特定目标的各种躯体活动。运动与力学中的作用力和反作用力紧密关联。"
+  },
+  {
+   "cn": "练习",
+   "en": "exercise",
+   "source": "心理学名词",
+   "wordNumber": "02.702",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过多次重复的控制调节，逐步学会一定技能或完成特定任务的过程。"
+  },
+  {
+   "cn": "多因素分级系统",
+   "en": "body mass index,obstruction,dyspnea,exercise,BODE",
+   "source": "呼吸病学名词",
+   "wordNumber": "08.063",
+   "subjectFullName": "呼吸病学_呼吸系统疾病_下呼吸道疾病",
+   "subjectName": "下呼吸道疾病",
+   "publishYear": "2018",
+   "definition": "分别将体重指数、第1秒用力呼气容积、呼吸困难、6min步行距离作为反映营养状况、气流阻塞、症状、运动耐力的指标，将这四方面因素综合考虑建立的分级系统。被认为可比第1秒用力呼气容积更好地反映慢性阻塞性肺"
+  },
+  {
+   "cn": "运动疗法",
+   "en": "therapeutic exercise,exercise therapy,kinesiotherapy",
+   "source": "运动医学名词",
+   "wordNumber": "07.074",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "以运动学、生物力学和神经发育学为基础，以改善躯体、生理、心理和精神功能障碍为主要目标，以作用力和反作用力为治疗因子，通过改善、代偿和替代的途径，改善运动组织(肌肉、骨关节、韧带等)的血液循环和代谢，促"
+  },
+  {
+   "cn": "运动处方",
+   "en": "exercise prescription",
+   "source": "普通外科学名词",
+   "wordNumber": "26.066",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "根据患者年龄、性别、健康状况、身体锻炼经历和心肺或运动器官的功能水平等，用处方形式制订的系统化、个体化的运动方案。"
+  },
+  {
+   "cn": "有氧运动",
+   "en": "aerobic exercise",
+   "source": "普通外科学名词",
+   "wordNumber": "26.067",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "以有氧代谢提供运动中所需能量的运动方式。运动负荷与耗氧量呈线性关系。"
+  },
+  {
+   "cn": "桌面演练",
+   "en": "tabletop exercise",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.286",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "针对事先假定的演练情景，利用地理信息系统技术、电子沙盘等辅助手段，讨论和推演应急决策及现场处置的过程。"
+  },
+  {
+   "cn": "呼吸运动",
+   "en": "breathing exercise",
+   "source": "麻醉学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统生理学",
+   "subjectName": "呼吸系统生理学",
+   "publishYear": "2024",
+   "definition": "呼吸肌收缩和舒张引起的胸廓节律性扩大与缩小。"
+  },
+  {
+   "cn": "凯格尔运动",
+   "en": "Kegel exercise",
+   "source": "男科及性医学名词",
+   "wordNumber": "21.009",
+   "subjectFullName": "男科及性医学_女性性功能障碍",
+   "subjectName": "女性性功能障碍",
+   "publishYear": "2023",
+   "definition": "可恢复或增强盆底肌的张力，增加生殖器部位的血流，从而改善性功能的一种盆底肌训练。女性还可以改善尿失禁和阴道润滑，增强性高潮的感受。"
+  },
+  {
+   "cn": "适量运动",
+   "en": "proper exercise",
+   "source": "行为医学名词",
+   "wordNumber": "1.077",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "运动者根据自身的身体状况、场地、器材和气候条件，选择适当的运动项目，使运动负荷不超过人体的承受能力，在运动后感觉舒服，不会造成过度疲劳的运动量。"
+  },
+  {
+   "cn": "伸展运动",
+   "en": "extensional exercise",
+   "source": "行为医学名词",
+   "wordNumber": "3.207",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "一种被动的、非用力的锻炼形式。使身体处于关节运动所可能达到的适度体位，能解除慢性紧张和僵硬。"
+  },
+  {
+   "cn": "有氧运动",
+   "en": "aerobic exercise",
+   "source": "行为医学名词",
+   "wordNumber": "3.208",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "以有氧代谢提供运动中所需能量的运动方式。运动负荷与耗氧量呈线性关系。"
+  },
+  {
+   "cn": "无氧运动",
+   "en": "anaerobic exercise",
+   "source": "行为医学名词",
+   "wordNumber": "3.213",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "主要以无氧代谢提供运动中所需能量的运动方式。"
+  },
+  {
+   "cn": "等速运动",
+   "en": "isokinetic exercise",
+   "source": "手外科学名词",
+   "wordNumber": "06.0092",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "借助特定的仪器，使肌肉收缩时，阻力变化与收缩力成正比，角速度保持恒定的运动方式。"
+  },
+  {
+   "cn": "治疗性运动",
+   "en": "therapeutic exercise",
+   "source": "手外科学名词",
+   "wordNumber": "06.0084",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "具有明确治疗目的并经过设计和选择的躯体活动、姿势摆放或体育锻炼。其计划由物理治疗师根据每个患者的具体需求进行个性化制定。通过治疗性锻炼可以治疗或预防损伤；改善、促进或恢复机体功能；预防或减轻健康相关的"
+  },
+  {
+   "cn": "等长运动",
+   "en": "isometric exercise",
+   "source": "手外科学名词",
+   "wordNumber": "06.0091",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "肌肉收缩时肌纤维的长度不变，张力增加，关节角度不变的运动方式。用于肌力训练，特别是可以在关节固定时进行肌肉收缩训练，也可以用于避免关节疼痛点的肌力训 练。"
+  },
+  {
+   "cn": "等张运动",
+   "en": "isotonic exercise",
+   "source": "手外科学名词",
+   "wordNumber": "06.0094",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "肌肉收缩时肌纤维长度缩短或延长，张力基本保持不变，关节角度变化的运动方式。如助力运动、主动运动和抗阻运动。包括向心收缩和离心收缩。"
+  },
+  {
+   "cn": "锻炼剂量",
+   "en": "exercise dosage",
+   "source": "手外科学名词",
+   "wordNumber": "06.0100",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "在控制下施加应力的总量。应力的总量是强度、时间和频率的乘积。"
+  },
+  {
+   "cn": "主动运动",
+   "en": "active exercise",
+   "source": "手外科学名词",
+   "wordNumber": "06.0102",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "患者在无外力作用的情况下主动独立完成运动的训练方式。以增强肌力和耐力、改善关节功能、心肺功能和全身状况。可作为肌力3级患者的肌力训练。"
+  },
+  {
+   "cn": "技术练习",
+   "en": "exercise",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "练习",
+   "en": "exercise",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "练习曲",
+   "en": "exercise\",\"study",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "锻炼成瘾,运动成瘾",
+   "en": "exercise addiction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "锻炼坚持性",
+   "en": "exercise adherence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演习区",
+   "en": "exercise area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "练习律",
+   "en": "law of exercise",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演习区",
+   "en": "practice area\",\"exercise area",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "练习",
+   "en": "exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "optional exercise\",\"voluntary exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊环动作",
+   "en": "exercise on rings\",\"rings exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定动作",
+   "en": "compulsory exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集体动作",
+   "en": "group exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由体操项目",
+   "en": "floor exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由体操",
+   "en": "floor exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由体操场地",
+   "en": "floor exercise area\",\"floor exercise mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element\",\"movement\",\"exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单杠动作",
+   "en": "horizontal bar exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平衡木动作",
+   "en": "balance beam exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带操",
+   "en": "exercise with ribbon",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绳操",
+   "en": "exercise with rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圈操",
+   "en": "exercise with hoop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "美国“网络风暴”演习",
+   "en": "Cyber Storm exercise (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟“网络欧洲”演习",
+   "en": "Cyber Europe exercise (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "北约“锁定盾牌”演习",
+   "en": "Locked Shield exercise (NATO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高低杠动作",
+   "en": "exercise on asymmetric bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辟邪",
+   "en": "exorcise evil",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0313",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "驱除邪恶、辟除邪祟邪说。在中国民俗中，广义的辟邪指一种行为、一种实物工具，以及它所引起的仪式；民间认为辟邪之物有貔貅、辟邪宝剑、茅山玉佩、辟邪枕等。"
+  },
+  {
+   "cn": "应急演习",
+   "en": "emergency exercise",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.14",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为检验应急计划的有效性、应急准备的完善性、应急能力的适应性和应急人员的协同性所进行的一种模拟应急响应的实践活动。"
+  },
+  {
+   "cn": "体育锻炼",
+   "en": "physical exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "以身体练习和运动负荷为手段 ,以健身健美、娱乐休闲、保健康复、心理智能锻炼为活动内容 ,为增强体质、增进身心健康 ,提高和保持机体能力而进行的一类体育运动。"
+  },
+  {
+   "cn": "运动能力",
+   "en": "exercise capacity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "体能、技战术能力和心理能力等在身体活动中的综合表现，是人类身体活动的基础。"
+  },
+  {
+   "cn": "运动强度",
+   "en": "exercise intensity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "反映机体在运动过程中用力的大小和机体紧张度的一个指标。是决定运动量的主要因素，是运动处方的核心部分。"
+  },
+  {
+   "cn": "运动负荷",
+   "en": "exercise load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在生理运动测试中，用于评估个体病理生理变化的一个量化指标。"
+  },
+  {
+   "cn": "运动频率",
+   "en": "exercise frequency",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "单位时间内运动的次数。通常是指每周运动的次数。"
+  },
+  {
+   "cn": "有氧运动",
+   "en": "aerobic exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "以有氧代谢提供运动中所需能量的运动方式。运动负荷与耗氧量呈线性关系。"
+  },
+  {
+   "cn": "抗阻运动",
+   "en": "resistance exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "肌肉在收缩时人为地给予一定的外加阻力，使运动时肌肉张力达到较高的程度，以提高肌力和肌肉耐力的运动方式。"
+  },
+  {
+   "cn": "课间操",
+   "en": "break exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在上午第2、3节课间进行的体操活动。是学校体育教育的一部分，旨在通过短暂的体育活动提高学生注意力，促进身体健康。"
+  },
+  {
+   "cn": "大课间体育活动",
+   "en": "recess exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在大课间时在校内进行的，以健身活动、保健操为主要内容，以班级为基本组织单位的体育锻炼活动。"
+  },
+  {
+   "cn": "运动成瘾",
+   "en": "exercise addiction",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.1.5",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "个体对运动产生不健康的依赖和强迫性行为，表现为对运动的过度追求和控制，即使面临身体或心理上的负面影响也难以停止。"
+  },
+  {
+   "cn": "桌面演练",
+   "en": "table-top exercise",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.35",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "参演人员利用地图、沙盘、流程图、计算机模拟、视频会议等辅助手段，针对事先假定的演练情景，讨论和推演应急决策及现场处置的过程。"
+  },
+  {
+   "cn": "运动负荷监测",
+   "en": "exercise load monitoring",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "主动采集学生运动负荷数据并分析结果,从而精准分析和评价学生运动能力的方法。"
+  },
+  {
+   "cn": "运动量",
+   "en": "amount of exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "强度、时间与频率三个变量相乘的结果。反映了人体在体育活动中所承受的生理和心理负荷量，以及消耗的热量。"
+  },
+  {
+   "cn": "运动类型",
+   "en": "type of exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "运动中采用的具体形式或选择的运动项目，作为对运动活动进行分类的一种方式。"
+  },
+  {
+   "cn": "耐热锻炼",
+   "en": "heat tolerance exercise",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "寒区、温区人员进驻热区之前，或热区人员开展的耐受热环境的锻炼。"
+  },
+  {
+   "cn": "体育锻炼卫生",
+   "en": "school physical exercise hygiene",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在体育锻炼过程中应采取的卫生措施，运用各种体育手段，结合日光、空气、水等自然力和卫生措施，以发展身体，增进健康，增强体质，娱乐身心为目的的身体活动过程，是儿童少年主要体力活动的形式。"
+  },
+  {
+   "cn": "产后盆底肌锻炼",
+   "en": "postpartum pelvic floor exercise",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "女性产后盆底康复的主要方法，遵循力量训练的原则，通过自行适应性盆底肌肉训练来促进产后盆底功能恢复，包括手法按摩疗法和凯格尔训练法。"
+  },
+  {
+   "cn": "体力活动与体育锻炼",
+   "en": "physical activity and physical exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "有计划的、结构化的、重复性的由骨骼肌收缩产生需要能量消耗的身体运动。目的是改善或维持一种或多种身体部分的体能。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

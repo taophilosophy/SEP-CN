@@ -1,0 +1,782 @@
+{
+ "key": "intentional description",
+ "term": "intentional description",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:09:45+00:00",
+ "status": "ok",
+ "note": "variant=intentional description; 审定公布名词库=1248; 海峡两岸名词对照库=660; 其他来源数据库=199; 预公布名词数据库=107; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "意图",
+   "en": "intent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "比较清楚地意识到要争取实现的目标和方法的需要。通常以仅仅设想而未付诸行动的企图、愿望、幻想、理想等方式存在。是作为动机推动人去行动的现实力量。人在清醒的状态中，绝大部分的活动都是有意图的。常基于某个目"
+  },
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "摹状[词]",
+   "en": "description",
+   "source": "数学名词",
+   "wordNumber": "02.0020",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "意向状态",
+   "en": "intentional state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有意向性的心理状态，即指向世界中的对象的心理状态。如相信、认为、判断、意见、意欲、愿望、恐惧等。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "麻醉学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "当肢体有目的地接近某个目标时，在运动过程中出现的震颤。越接近目标，震颤越明显，达到目标并保持姿势时，震颤有时仍能持续存在。多见于小脑病变，丘脑、红核病变时也可出现。"
+  },
+  {
+   "cn": "有意漏气",
+   "en": "intentional leak",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.068",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "通过呼吸机面罩上的排气孔把富含二氧化碳的呼出气排出，以减少二氧化碳重复吸入的过程。"
+  },
+  {
+   "cn": "故意伤害",
+   "en": "intentional injury",
+   "source": "行为医学名词",
+   "wordNumber": "7.06",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "有目的、有计划地加害于他人并造成伤害。"
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "心理学名词",
+   "wordNumber": "02.549",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对记忆任务的要求和目的明确，可运用记忆的策略，注意力专注在刺激材料上的识记过程。"
+  },
+  {
+   "cn": "运动性震颤",
+   "en": "intentional tremor",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.049",
+   "subjectFullName": "物理医学与康复_康复功能评定_运动功能评定",
+   "subjectName": "运动功能评定",
+   "publishYear": "2014",
+   "definition": "出现于随意运动时的震颤。常在肢体开始运动时或运动中出现，快接近目标时明显。主要见于小脑及其传出通路的病变，可以不伴肌张力的降低，只在肢体运动时才出现。与静止性震颤相比，其呈现无节律、振幅大、受情绪影响"
+  },
+  {
+   "cn": "曲解",
+   "en": "intentional misinterpretation",
+   "source": "语言学名词",
+   "wordNumber": "08.209",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。故意对别人的话语进行歪曲的理解，以造成言语的幽默感，常用于相声或喜剧作品中。例如，（相声）甲：“你能背着把《三国》写下来，真是高人。”乙：“不高，一米七。”"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.184",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意向系统",
+   "en": "intentional system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预向动作",
+   "en": "intention movement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资意向",
+   "en": "investment intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预期动作",
+   "en": "intention movement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "数据库描述",
+   "en": "database description",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像描述",
+   "en": "image description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "土地标定",
+   "en": "land description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "作业描述",
+   "en": "job description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性描述",
+   "en": "qualitative description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式描述",
+   "en": "pattern description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域描述，区域描绘",
+   "en": "region description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设备描述",
+   "en": "device description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件描述",
+   "en": "event description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时描述",
+   "en": "instantaneous description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式描述",
+   "en": "formal description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形状描述",
+   "en": "shape description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源描述框架",
+   "en": "Data Resource Description Framework (RDF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34945-2017 信息技术 数据溯源描述模型》",
+   "en": "GB/T 34945-2017 Information technology — Data provenance descriptive model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 32627-2016 信息技术 地址数据描述要求》",
+   "en": "GB/T 32627-2016 Information technology — Description requirement for address data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190910-T-469 信息安全技术 网络安全漏洞标识与描述规范》",
+   "en": "20190910-T-469 Information security technology — Vulnerability identification and description specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 28517-2012 网络安全事件描述和交换格式》",
+   "en": "GB/T 28517-2012 Network incident object description and exchange format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "处方审核",
+   "en": "prescription review",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "对开方医生的资质、药品处方是否符合相关规定的审核。"
+  },
+  {
+   "cn": "电子处方",
+   "en": "electronic prescription",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "由注册的执业医师和执业助理医师在诊疗活动中为患者开具的、由取得药学专业技术职务任职资格的药学专业技术人员审核、调配、核对，并作为患者用药凭证的电子医疗文书。"
+  },
+  {
+   "cn": "大处方",
+   "en": "extraordinary prescription",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.098",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "单张处方总药费超过规定数额。临床常表现为无适应证用药、无正当理由开具高价药、为同一患者同时开具两种以上药理作用相同药物的处方等。"
+  },
+  {
+   "cn": "健康处方",
+   "en": "health prescription",
+   "source": "社会医学名词",
+   "wordNumber": "7.14",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康处方",
+   "publishYear": "2025",
+   "definition": "以医嘱的形式对服务对象的行为和生活方式给予的指导，主要是针对其健康问题进行有关疾病防治知识、用药知识及生活方式等方面的宣传指导，是健康教育的一种方式。"
+  },
+  {
+   "cn": "社会卫生处方",
+   "en": "social health prescription",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "在对社会卫生问题作出社会诊断的基础上，找出产生社会卫生问题的原因，提出改善社会卫生状况，提高人群健康水平的社会卫生策略和措施。"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

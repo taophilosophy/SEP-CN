@@ -1,0 +1,512 @@
+{
+ "key": "confirmation",
+ "term": "confirmation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:21:18+00:00",
+ "status": "ok",
+ "note": "variant=confirmation; 审定公布名词库=78; 海峡两岸名词对照库=63; 其他来源数据库=6; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "可验证性",
+   "en": "confirmability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "认为一个陈述有认知意义，当且仅当这个陈述和其他辅助假说合取时，能够推导出观察命题，并且这些观察命题不能由辅助假说单独推出。"
+  },
+  {
+   "cn": "确证程序",
+   "en": "confirmation procedure",
+   "source": "运动医学名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "一种分析检测过程，旨在确定样品中一种或多种特定禁用物质、禁用物质的代谢物、使用禁用物质的标志物的浓度或禁用方法是否存在的分析检测过程。确证程序还可显示某种禁用物质的含量高于检测限和确定样品中某种禁用物"
+  },
+  {
+   "cn": "证真偏差",
+   "en": "confirmation bias",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们希望去寻找与他们持有观点相一致信息的现象，任何与其观点相冲突的信息会被忽略掉，而一致的信息则会被高估。"
+  },
+  {
+   "cn": "积极式函证",
+   "en": "positive confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者直接向审计师回复，表明是否同意询证函所列示的信息，或填列所要求的信息的询证方式。"
+  },
+  {
+   "cn": "消极式函证",
+   "en": "negative confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0386",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "要求被询证者只有在不同意询证函所列示的信息时才直接向审计师回复的询证方式。"
+  },
+  {
+   "cn": "审计函证",
+   "en": "audit confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师直接从被询证的第三方获取书面答复作为审计证据的过程。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0622",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为确保测量设备符合预期使用要求所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "计量学名词",
+   "wordNumber": "01.203",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "为确保测量设备处于满足预期使用要求的状态所需要的一组操作。"
+  },
+  {
+   "cn": "计量确认",
+   "en": "metrological confirmation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.008",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "确认性评价",
+   "en": "confirmative evaluation",
+   "source": "教育学名词",
+   "wordNumber": "13.070",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "确定学习者是否还维持他们的能力水平、教学材料是否仍然有效、机构的问题是否解决的过程。一般在形成性评价和总结性评价完成一段时间以后进行。"
+  },
+  {
+   "cn": "确诊鼠疫",
+   "en": "confirmed plague",
+   "source": "地方病学名词",
+   "wordNumber": "07.209",
+   "subjectFullName": "地方病学_鼠疫_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "根据鼠疫诊断标准(WS 279-2008)确定为鼠疫的患者。当患者被确诊为鼠疫时，必须按照鼠疫控制应急预案，采取鼠疫控制措 施。"
+  },
+  {
+   "cn": "贝叶斯验证理论",
+   "en": "Bayesian confirmation theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.211",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "利用贝叶斯定律比较在获得证据之后的后验概率与先验概率。如果后验概率Pi(H/E)大于先验概率Pi(H)，那么证据E验证假说H，如果小于，那么证据E反证假说H。"
+  },
+  {
+   "cn": "爆炸验证信号",
+   "en": "confirm time break",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0072",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_安全",
+   "subjectName": "安全",
+   "publishYear": "2022",
+   "definition": "作为计算地震波传播时间零点的地震记录上，指示爆炸的瞬间亦即开始发生地震波的时刻的标志。 "
+  },
+  {
+   "cn": "确诊肺结核病例",
+   "en": "confirmed pulmonary tuberculosis",
+   "source": "结核病学名词",
+   "wordNumber": "03.011",
+   "subjectFullName": "结核病学_结核病诊断_结核病分类_肺结核",
+   "subjectName": "肺结核",
+   "publishYear": "2019",
+   "definition": "存在病原学依据诊断的肺结核病例。包括涂阳肺结核、仅培阳肺结核和肺部病变标本病理学诊断为结核病变者三类。"
+  },
+  {
+   "cn": "风险确定",
+   "en": "risk confirmation;risk identification",
+   "source": "兽医学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "识别存在的风险并认定其特性的过程。"
+  },
+  {
+   "cn": "鼠疫应急反应确认部门",
+   "en": "plague emergency confirmation department",
+   "source": "地方病学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "确认不同等级鼠疫疫情的各级部门。特别重大鼠疫疫情(Ⅰ级)由国家卫生计生委确认；重大鼠疫疫情(Ⅱ级)由省级以上卫生行政部门确认；较大鼠疫疫情(Ⅲ级)由地(市)级以上卫生行政部门确认；一般鼠疫疫情(Ⅳ级)"
+  },
+  {
+   "cn": "中期验收",
+   "en": "confirm in middle period",
+   "source": "风景园林名词",
+   "wordNumber": "03.0226",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "在工程实施期间，由建设方、设计师、工程监理、施工负责人参与，对已完成工程内容进行阶段性验收，并在质量报告书上签字确认的工作。"
+  },
+  {
+   "cn": "布鲁氏菌病确诊病例",
+   "en": "confirmed cases of brucellosis",
+   "source": "地方病学名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "地方病学_布鲁菌病_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "有明确的流行病学接触史、临床症状、体征，且布鲁氏菌血清学确证试验阳性反应，或者培养物中分离出布鲁氏菌的病例。"
+  },
+  {
+   "cn": "构象",
+   "en": "conformation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子通过单键旋转形成的各原子或原子团的空间排列。构象不同的化合物可以通过单键旋转互变，一般不能分离。"
+  },
+  {
+   "cn": "构象",
+   "en": "conformation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0216",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "分子中由于共价单键的旋转所表现出的原子或基团的不同空间排列。其改变不涉及共价键的断裂和重新组成，也无光学活性的变化。"
+  },
+  {
+   "cn": "验证性偏倚",
+   "en": "confirmation bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保兑手续费",
+   "en": "confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购货确认书",
+   "en": "purchase confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投递证实",
+   "en": "delivery confirmation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保兑银行",
+   "en": "confirming bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付商行",
+   "en": "confirming house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保付书",
+   "en": "confirming order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "订单确认书",
+   "en": "confirmation of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "发盘确认书",
+   "en": "confirmation of offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "接收证实",
+   "en": "confirmation of receipt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫证实信号",
+   "en": "call-confirmation signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保兑信用证",
+   "en": "confirmed L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "confirmed irrevocable credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信用证确认手续费",
+   "en": "L/C confirmation commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不可撤销保兑信用证",
+   "en": "irrevocable and confirmed credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确认议付信用证",
+   "en": "confirmed negotiation L/C",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "○1authentication\",\"verification○2 confirm\",\"certify",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认议付信用证",
+   "en": "confirmed negotiation letter of credit (=confirmed negotiation L/C)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产确权",
+   "en": "data asset confirmation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保兑仓融资",
+   "en": "confirming warehouse financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应收尽收",
+   "en": "All suspected and confirmed patients should be admitted to the hospital. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确诊病例",
+   "en": "confirmed case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，具有某种疾病的临床症状体征以及实验室诊断证据的病例。"
+  },
+  {
+   "cn": "确诊病例数",
+   "en": "confirmed cases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "经过流行病学资料、临床表现和实验室检查后确诊患某种疾病的人数。"
+  },
+  {
+   "cn": "食源性疾病确诊病例",
+   "en": "confirmed cases of foodborne disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "符合《食源性疾病监测报告工作规范（试行）》附录“食源性疾病报告名录”中食源性疾病判定标准的病例。"
+  },
+  {
+   "cn": "没收官僚资本",
+   "en": "confiscation of bureaucratcapital",
+   "source": "马克思主义",
+   "wordNumber": "02.0339",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国新民主主义革命的三大经济纲领之一。在新民主主义革命的后期，中国共产党在已解放的城市中开展了没收以蒋、宋、孔、陈为首的官僚资本。新中国成立后，人民政府迅速没收了原来属于国民党政府和官僚资产阶级的一切"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

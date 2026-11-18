@@ -1,0 +1,32 @@
+{
+ "key": "ostracism",
+ "term": "ostracism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:09:22+00:00",
+ "status": "ok",
+ "note": "variant=ostracism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "陶片放逐法",
+   "en": "Ostracism",
+   "source": "世界历史名词",
+   "wordNumber": "02.0305",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "雅典克利斯提尼建立的一种防止僭主制的措施，因遭受放逐的公民的名字写在贝壳或陶片上而得名。"
+  },
+  {
+   "cn": "壳层",
+   "en": "ostracum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

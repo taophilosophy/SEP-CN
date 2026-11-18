@@ -1,0 +1,252 @@
+{
+ "key": "museum",
+ "term": "Muséum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:16:52+00:00",
+ "status": "ok",
+ "note": "variant=Muséum; 审定公布名词库=31; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "博物馆",
+   "en": "museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0248",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "为研究、教育和欣赏的目的，收藏、保护、传播并展示人类及人类环境的见证物，向公众开放的非营利性的、永久性的社会服务机构所用的公共建筑。"
+  },
+  {
+   "cn": "单味觉",
+   "en": "gustum",
+   "source": "心理学名词",
+   "wordNumber": "02.318",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对咸、甜、酸、苦四味之一的基本感觉。"
+  },
+  {
+   "cn": "数字博物馆",
+   "en": "digital museum",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.012",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "运用数字网络技术，将实体博物馆的藏品以数字化方式完整呈现于网络上的博物馆。"
+  },
+  {
+   "cn": "数字博物馆",
+   "en": "digital museum",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0185",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "利用信息技术将传统的实体博物馆的功能以数字化的形式表现，并在互联网上实现文物的资源共享。"
+  },
+  {
+   "cn": "综合性博物馆",
+   "en": "comprehensive museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "收藏、保护、传播并展示多种类型藏品的博物馆。"
+  },
+  {
+   "cn": "专门性博物馆",
+   "en": "specialized museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0250",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "收藏、保护、传播并展示某种专门学科领域的藏品的博物馆。包括社会历史博物馆、文化艺术博物馆、科学技术博物馆、自然博物馆等。"
+  },
+  {
+   "cn": "纪念馆",
+   "en": "memorial museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0251",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "为纪念某一历史事件、遗迹、史迹、人物而设立的博物馆。"
+  },
+  {
+   "cn": "美术馆",
+   "en": "art museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0252",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "为收藏、研究、展示艺术藏品的艺术和美学价值而设立的艺术类博物馆。"
+  },
+  {
+   "cn": "博物馆教育",
+   "en": "museum education",
+   "source": "教育学名词",
+   "wordNumber": "12.106",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "利用博物馆（科技馆、美术馆等）资源面向全体民众展开的一种社会教育活动。"
+  },
+  {
+   "cn": "海洋馆",
+   "en": "marine museum",
+   "source": "资源科学技术名词",
+   "wordNumber": "17.209",
+   "subjectFullName": "资源科学技术_海洋资源学",
+   "subjectName": "海洋资源学",
+   "publishYear": "2008",
+   "definition": "利用海洋生物活体、标本及其影像、图片和文字说明向游人普及海洋科学知识，提供游人观光、游览、学习的场所。"
+  },
+  {
+   "cn": "专门性美术馆",
+   "en": "specialized art museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0254",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "对某类特定美术作品进行收藏、研究、展示的美术馆。"
+  },
+  {
+   "cn": "综合性美术馆",
+   "en": "general art museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0253",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "综合地收藏、研究、展示各类美术作品的美术馆。"
+  },
+  {
+   "cn": "自然博物馆",
+   "en": "natural history museum",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.096",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "收藏、制作和陈列天文、地质、动物、植物、古生物和人类等方面具有历史意义的标本，供科学研究和文化教育的机构。"
+  },
+  {
+   "cn": "御药院",
+   "en": "Royal Drug Museum",
+   "source": "中医药学名词",
+   "wordNumber": "02.194",
+   "subjectFullName": "中医药学_医史文献_医史文献其他",
+   "subjectName": "医史文献其他",
+   "publishYear": "2004",
+   "definition": "元代设置的宫廷医药组织，接受各路乡贡和各国进献的药品。"
+  },
+  {
+   "cn": "穆斯林公社",
+   "en": "Muslim Community",
+   "source": "世界历史名词",
+   "wordNumber": "02.0974",
+   "subjectFullName": "世界历史_古代中世纪_中世纪西亚",
+   "subjectName": "中世纪西亚",
+   "publishYear": "2012",
+   "definition": "622-632年，穆罕默德在麦地那建立了一个政教合一的新国家，因凡是穆斯林都是公社成员、都以兄弟姐妹相称，故得名。"
+  },
+  {
+   "cn": "穆斯林世界",
+   "en": "Muslim World",
+   "source": "世界历史名词",
+   "wordNumber": "01.0640",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "泛指信奉伊斯兰教的民族、国家和地区。"
+  },
+  {
+   "cn": "湖北革命实录馆",
+   "en": "Hubei Revolutionary Records Museum",
+   "source": "档案学名词",
+   "wordNumber": "08.04.068",
+   "subjectFullName": "档案学_中国档案事业史_文档机构",
+   "subjectName": "文档机构",
+   "publishYear": "2024",
+   "definition": "湖北军政府收集、编纂辛亥革命档案及其他史料的机构。收集公私文牍、战事日记、革命团体和机关的历史沿革、办事章则、大事记以及革命党人事略等多种档案史料。1912年6月在汉口成立，1913年8月撤销。设总纂"
+  },
+  {
+   "cn": "科[学]技[术]馆",
+   "en": "science and technology museum",
+   "source": "建筑学名词",
+   "wordNumber": "02.0256",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "以展示教育为主要功能，通过观摩、体验、互动性的展品及辅助性展示手段，以激发科学兴趣、启迪科学观念为目的，对公众进行公益性科普教育的机构所在的公共建筑。"
+  },
+  {
+   "cn": "[博物馆]消毒室",
+   "en": "disinfection room [of museum]",
+   "source": "建筑学名词",
+   "wordNumber": "02.0289",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "用化学或物理方法对藏品进行杀虫、灭菌的专设房间。包括低温灭菌室、低氧灭菌室、熏蒸室等。"
+  },
+  {
+   "cn": "巴基斯坦穆斯林联盟",
+   "en": "Muslim League,Pakistan",
+   "source": "世界历史名词",
+   "wordNumber": "04.0139",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "巴基斯坦的主要政党，1947年12月由全印穆斯林联盟的主要部分组成。"
+  },
+  {
+   "cn": "御药院",
+   "en": "Royal Drug Museum",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "累积和图",
+   "en": "cumulative sum chart\",\"cusum chart",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字博物馆",
+   "en": "digital museum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "博物馆",
+   "en": "museum",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0318",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "陈列、研究、保藏物质文化实物以及自然标本的一种文化教育机构。博物馆的类型，主要可分为革命、军事、民族、历史、地志、民俗、自然、艺术、医学、科技等，还有一些特殊物品的专业博物馆。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

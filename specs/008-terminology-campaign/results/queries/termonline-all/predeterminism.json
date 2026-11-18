@@ -1,0 +1,152 @@
+{
+ "key": "predeterminism",
+ "term": "predeterminism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:18:56+00:00",
+ "status": "ok",
+ "note": "variant=predeterminism; 审定公布名词库=11; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "先决变量",
+   "en": "predetermined variable",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0589",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "当期之前就决定的变量，包括外生变量与滞后内生变量。"
+  },
+  {
+   "cn": "预定标准",
+   "en": "predetermined criteria",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0364",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "投资管理人为进行业绩评估而用来对比的资产组合的收益。"
+  },
+  {
+   "cn": "预定层站",
+   "en": "predetermined landing",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "06.0028",
+   "subjectFullName": "机械工程_物料搬运机械_电梯、自动扶梯、自动人行道",
+   "subjectName": "电梯、自动扶梯、自动人行道",
+   "publishYear": "2013",
+   "definition": "并联或群控控制的电梯轿厢无运行指令时，指定停靠待命运行的层站。"
+  },
+  {
+   "cn": "预定动作时间",
+   "en": "predetermined motion time",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1117",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "分析各种作业中的共同动作，选定最基本的动作，以动作的距离、动作的难易程度、类型、负荷的大小、运动的状态等作为衡量指标，在此前提下确定的作业时间。"
+  },
+  {
+   "cn": "预分奖金",
+   "en": "predetermined allocation bonus",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0759",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "基于事先设计好的规则和利润收入进行的奖金分配方式。"
+  },
+  {
+   "cn": "预定动作时间标准法",
+   "en": "predetermined time standard,PTS",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1128",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "利用预先为各种动作制定的时间标准来确定进行各种操作所需要时间的方法，而不是通过直接观察和测定得到。"
+  },
+  {
+   "cn": "定检时间",
+   "en": "time between predetermined repairs",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0259",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "预定动作时间系统",
+   "en": "predetermined motion time system,PMTS",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1118",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "由信息、程序、技术和研究中涉及的动作时间以及对人工工作单元的评价所构成的组织机体。该系统由已使用的动作、动作的一般和特殊的属性、动作发生的条件以及预先确定的绩效时间术语来表示。"
+  },
+  {
+   "cn": "模特排时法",
+   "en": "modular arrangement of predetermined time standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1131",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "通过确定21种人体基本动作的标准时间来测算作业单元的标准时间的测时方法。"
+  },
+  {
+   "cn": "机车预期牵引特性曲线",
+   "en": "predetermined tractive characteris- tic curve of locomotive",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0081",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "模特法",
+   "en": "model method,modular arrangement of predetermined time standard",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1129",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "在人机工程学实验的基础上，以手指的动作时间为动作时间单位，根据操作时人体动作的部位、动作距离和工作物的重量等，通过分析计算，确定标准操作方法的技术，从属于预定动作时间法。"
+  },
+  {
+   "cn": "预决定",
+   "en": "predetermination",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "预决定",
+   "en": "predetermination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "预定预算",
+   "en": "predetermined budget",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者根据卫生服务提供者的工作量以及往年预算的执行情况等综合因素对卫生服务提供者预先设定的预算。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

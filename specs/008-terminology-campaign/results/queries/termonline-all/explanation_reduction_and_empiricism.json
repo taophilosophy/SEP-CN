@@ -1,0 +1,792 @@
+{
+ "key": "explanation reduction and empiricism",
+ "term": "Explanation Reduction and Empiricism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:54+00:00",
+ "status": "ok",
+ "note": "variant=Explanation Reduction and Empiricism; 审定公布名词库=10000; 海峡两岸名词对照库=2813; 其他来源数据库=1344; 预公布名词数据库=1325; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "经验主义",
+   "en": "empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与理性主义相对。一切知识来源于感觉经验，感觉经验如实记录和反映了客观世界。"
+  },
+  {
+   "cn": "经验主义",
+   "en": "empiricism",
+   "source": "语言学名词",
+   "wordNumber": "01.184",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“理性主义”相对。一种哲学方法。认为人类的想法来源于经验，所以除了数学以外的知识可能主要来源于经验。"
+  },
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "建构经验论",
+   "en": "constructive empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的一种反实在论。认为科学理论应具有经验适当性，接受一个科学理论并不需要承诺其为真。"
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "主张逻辑与经验是人类知识的来源。主要代表是维也纳学派与柏林学派。"
+  },
+  {
+   "cn": "后经验主义",
+   "en": "post empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "经验主义的发展形式，经验不是理论的附属物，而是被理论所决定，其基础包括现象学、释义学、社会建构论等。"
+  },
+  {
+   "cn": "英国经验主义",
+   "en": "British empiricism",
+   "source": "心理学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "肯定感性认识的可靠性，贬低理性的作用，提倡观察、分析及实验的归纳法。以洛克(J. Locke)等为代表。"
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "经验主义,经验论",
+   "en": "empiricism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后经验主义",
+   "en": "post empiricism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于解释[的]学习",
+   "en": "explanation-based learning\",\"EBL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原反应",
+   "en": "reduction reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "疝复位",
+   "en": "hernia reduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双减数分裂",
+   "en": "double reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "硝酸盐还原作用",
+   "en": "nitrate reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亚硝酸盐还原作用",
+   "en": "nitrite reduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "订正因子",
+   "en": "reduction factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方差降低",
+   "en": "variance reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[海平面]气压换算",
+   "en": "pressure reduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曳力降低",
+   "en": "drag reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原电位",
+   "en": "reduction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原值",
+   "en": "reduction value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "破碎比",
+   "en": "reduction ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "直接还原",
+   "en": "direct reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减贫交流合作平台",
+   "en": "exchange and cooperation platform for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫项目援助",
+   "en": "poverty reduction aid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中非合作论坛—减贫与发展会议",
+   "en": "FOCAC Africa-China Poverty Reduction and Development Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫合作",
+   "en": "Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发式减贫",
+   "en": "development-oriented poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作减贫框架",
+   "en": "cooperative poverty reduction framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国—东盟社会发展与减贫论坛",
+   "en": "China-ASEAN Forum on Social Development and Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“一带一路”减贫国际合作论坛",
+   "en": "Belt and Road Forum for International Cooperation in Poverty Reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构性减税和普遍性降费",
+   "en": "make structural tax reductions and cut fees across the board",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "数字减贫",
+   "en": "Poverty Reduction Through Digital Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国扶贫国际论坛",
+   "en": "China Poverty Reduction International Forum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减贫援外培训",
+   "en": "foreign aid training for poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反对经验主义",
+   "en": "oppose empiricism",
+   "source": "马克思主义",
+   "wordNumber": "03.0347",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经验主义是主观主义的一种表现形式。特点是轻视理论、夸大感性经验，把局部的、个别的、片面的经验误认为普遍的真理。毛泽东在《整顿党的作风》一文中指出，经验主义和教条主义的表现形式虽然不同，但同样违背了主观"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  },
+  {
+   "cn": "氧化还原滴定法",
+   "en": "oxidation-reduction titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于氧化还原反应的滴定分析法。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "肥胖、减脂手术全营养配方食品",
+   "en": "nutritionally complete formula foods for obesity and fat reduction surgery",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.28",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为适应肥胖、减脂手术病人因代谢紊乱导致的蛋白质和微量营养素摄入不足的情况，在保证较低能量摄入配方的基础上调整蛋白质和微量营养素的比例，使其能作为单一营养来源满足肥胖、减脂手术患者营养需求的配方食品。"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "舰艇部队战斗减员",
+   "en": "personnel reduction from sea warfare",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.2.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "海上作战中，舰艇成员阵亡（直接战斗行动死于战位、溺死或负伤后在到达医院船、码头救护所以前死亡）、失踪、被俘、投敌或因伤病失战斗执勤能力，经舰救护所救治仍无法返岗，需送医院船等上级救护机构治疗的情况。"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "二五减租",
+   "en": "reduction of land rent by  per cent",
+   "source": "马克思主义",
+   "wordNumber": "02.0338",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "减租减息的主要内容。第一次国内革命战争时期，中国共产党曾促使国民政府在其“政纲”中作出了“减轻佃农田租百分之二十五”的规定。但为地主阶级所反对，未能实行。抗日战争时期，中国共产党在抗日根据地实行了二五"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "士大夫",
+   "en": "literati and officialdom",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "在中国古代封建制度下介乎庶人与卿大夫之间的一个阶级。其中一种是帮助卿大夫佐治政事的有官禄的小吏，另一种是无官禄的“士民”，与农工商同列“四民”。封建解体后，士阶层兴起，成为秦以后中国文化和知识主要担纲"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

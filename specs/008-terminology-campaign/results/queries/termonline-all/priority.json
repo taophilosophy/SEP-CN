@@ -1,0 +1,582 @@
+{
+ "key": "priority",
+ "term": "priority",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:24:18+00:00",
+ "status": "ok",
+ "note": "variant=priority; 审定公布名词库=104; 海峡两岸名词对照库=78; 其他来源数据库=5; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家取得同行关于其首次做出某项科学发现的承认。是科学家从发现中能得到的唯一所有权。科学家只有得到承认才能确立其在科学共同体中的地位，从而获得科学研究所需的重要资源。"
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0387",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在资源分配和调度算法中，表示一个对象被优先选择的顺序。与优先数的大小一致或相反。"
+  },
+  {
+   "cn": "优先律",
+   "en": "priority",
+   "source": "微生物学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "命名法规中以发表时间的先后来确定分类单元名称正确使用的规定。"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "数学名词",
+   "wordNumber": "011.0500",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "电子学名词",
+   "wordNumber": "21.393",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先性",
+   "en": "priority",
+   "source": "自动化名词",
+   "wordNumber": "03.237",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "优先效应",
+   "en": "priority effect",
+   "source": "农学名词",
+   "wordNumber": "15.270",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "先到达的物种影响后到达物种的定殖，最终影响群落构建的现象。"
+  },
+  {
+   "cn": "优先数",
+   "en": "priority number",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0388",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "通常是一个整数。表示一个对象被优先选择的顺序。"
+  },
+  {
+   "cn": "优先级继承",
+   "en": "priority inheritance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0390",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "解决优先级反转问题的一种措施。当低优先级进程占用共享资源时，可以临时获得等待该资源的进程的优先级，以便尽快被调度执行并释放资源，执行结束后恢复其原有优先级。"
+  },
+  {
+   "cn": "优先队列",
+   "en": "priority queue",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "不同于先进先出队列的另一种队列，每次从队列中取出的是具有最高优先权的元素。"
+  },
+  {
+   "cn": "优先级反转",
+   "en": "priority inversion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0389",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "进程调度过程中的一种特殊现象。高优先级进程因为所需资源被低优先级进程占用而被阻塞，占用该资源的低优先级进程因其优先级低于其他进程也无法执行而释放资源，造成最高优先级进程反而在一段时间内无法执行，系统性"
+  },
+  {
+   "cn": "优先级调度",
+   "en": "priority scheduling",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0372",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种进程调度策略。根据进程优先级选择下一个要占用处理器的就绪进程。"
+  },
+  {
+   "cn": "优先权计划",
+   "en": "priority planning",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0424",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "确定各种物料何时需要，从而得出一定的优先权安排。产品出产计划和物料需求计划确定物料的完工期限。"
+  },
+  {
+   "cn": "优先规则",
+   "en": "priority rule",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0423",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "用于排程或调度活动中确定哪道工序优先安排的一些基本规则。"
+  },
+  {
+   "cn": "优先级控制",
+   "en": "priority control",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0425",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "按优先权执行计划，将开始时间和完工时间均传达给制造部门的过程。"
+  },
+  {
+   "cn": "重点污染物",
+   "en": "priority pollutant",
+   "source": "土木工程名词",
+   "wordNumber": "11.118",
+   "subjectFullName": "土木工程_给水与排水工程_取水与水质",
+   "subjectName": "取水与水质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行车道",
+   "en": "priority lane",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.189",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "重点货物",
+   "en": "priority goods",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "优先[方]法",
+   "en": "priority method",
+   "source": "数学名词",
+   "wordNumber": "02.0278",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先排队",
+   "en": "priority queues",
+   "source": "数学名词",
+   "wordNumber": "011.0503",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先律，优先权",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权（=优先律）",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "优先队列",
+   "en": "priority queue",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级表",
+   "en": "priority list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级调度",
+   "en": "priority scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级调整",
+   "en": "priority adjustment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级选择",
+   "en": "priority selection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级中断",
+   "en": "priority interrupt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先级作业",
+   "en": "priority job",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先数",
+   "en": "priority number",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进口优先权",
+   "en": "import priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉优先级",
+   "en": "snapping priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图优先级",
+   "en": "drawing priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "作业优先级",
+   "en": "job priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序优先级",
+   "en": "program priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "战略优先领域",
+   "en": "strategic priorities",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "根据战略目标、环境、资源能力和竞争态势，确定需优先投入资源、重点关注的战略方向。对食品安全未来发展进行系统研究基础上，充分权衡食品安全发展趋势、国家发展目标以及社会经济和科技资源限制等因素后确立的未来"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "流动和留守儿童优先策略",
+   "en": "priority strategy for migrant and left-behind children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_流动儿童和留守儿童健康促进",
+   "subjectName": "流动儿童和留守儿童健康促进",
+   "publishYear": "2025",
+   "definition": "通过确定流动和留守儿童公共卫生问题和需优先解决的问题，设计并实行干预的策略。"
+  },
+  {
+   "cn": "优先发展重工业",
+   "en": "give priority to the development of heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "03.0312",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "联共（布）中央为实现苏联社会主义工业化而提出的发展国民经济的重要指导方针。1925年联共（布）第十四次代表大会提出：“优先发展重工业是实现社会主义工业化的实质和关键。”"
+  },
+  {
+   "cn": "效率优先兼顾公平",
+   "en": "giving priority to efficiency with due consideration to fairness",
+   "source": "马克思主义",
+   "wordNumber": "02.0406",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1993年11月中国共产党第十四届中央委员会第三次全体会议通过的《中共中央关于建立社会主义市场经济体制若干问题的决定》中所确立的社会主义初级阶段的收入分配原则。坚持效率优先就要以承认一定差别为前提提高"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "以农轻重为序安排国民经济",
+   "en": "arranging national economy in the priority order of agriculture light industry and heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0373",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的原则和方法。制订国民经济和社会发展计划，必须首先安排好农业的发展速度和生产规模，安排好农业内部的生产，安排好各业的结构和比例关系；其次安排好轻工业的发展速度和生产规模及其"
+  },
+  {
+   "cn": "党执政兴国的第一要务",
+   "en": "It is essential for the Party to give top priority to development in governing and rejuvenating the country",
+   "source": "马克思主义",
+   "wordNumber": "03.0627",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "所谓“第一要务”，是相对于其他各种要务而言的。把发展作为党执政兴国的第一要务，是由我们党的宗旨和根本任务所规定的，说明在党面临的各种繁重任务中，发展始终是第一位的任务、根本的任务、中心的任务。"
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

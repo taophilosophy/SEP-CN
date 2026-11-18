@@ -1,0 +1,442 @@
+{
+ "key": "estudios filosoficos",
+ "term": "Estudios filosóficos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:17:36+00:00",
+ "status": "ok",
+ "note": "variant=Estudios filosóficos; 审定公布名词库=103; 海峡两岸名词对照库=12; 其他来源数据库=9; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "演播室",
+   "en": "studio",
+   "source": "建筑学名词",
+   "wordNumber": "02.0821",
+   "subjectFullName": "建筑学_建筑类型及组成_邮电媒体建筑",
+   "subjectName": "邮电媒体建筑",
+   "publishYear": "2014",
+   "definition": "进行广播、电视节目制作的房间。"
+  },
+  {
+   "cn": "演播室",
+   "en": "studio",
+   "source": "电子学名词",
+   "wordNumber": "22.056",
+   "subjectFullName": "电子学_广播电视",
+   "subjectName": "广播电视",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "交叉学科",
+   "en": "interdisciplinary studies",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "具有两种含义：一是指包括众多交叉学科在内的新兴学科群；二是指一门以学科交叉现象、方法、趋势作为研究对象的高层次科学。在后一种意义上又称为“科学交叉学”或“跨学科科学”。"
+  },
+  {
+   "cn": "媒介研究",
+   "en": "media studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.074",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "英国对传播研究的总称。泛指对以传媒为中心的社会传播系统的研究。"
+  },
+  {
+   "cn": "出版学",
+   "en": "publishing studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.002",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究出版活动性质、任务、作用及其客观规律的学科。"
+  },
+  {
+   "cn": "发行学",
+   "en": "distribution studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.003",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究出版物销售及服务规律的出版学分支学科。"
+  },
+  {
+   "cn": "读者学",
+   "en": "reader studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.004",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究读者阅读、消费心理、消费行为及其与出版发行活动相关的学科。"
+  },
+  {
+   "cn": "阅读学",
+   "en": "reading studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.005",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究阅读的目的、方法、过程和其间心理、思想、智慧活动规律的学科。"
+  },
+  {
+   "cn": "新闻学",
+   "en": "journalism studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.014",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究新闻传播现象和规律的学科。"
+  },
+  {
+   "cn": "传播学",
+   "en": "communication studies",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.015",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究人类信息传播活动及其社会影响的学科。"
+  },
+  {
+   "cn": "文化研究",
+   "en": "cultural studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.119",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "大众传播学研究的一个流派。其特征是注重通俗文化及受众研究，强调文化的重要性，重视文本和受众分析，拒绝学科化，提倡跨学科研究，具有强烈的批判及人文主义色彩。其源头是英国伯明翰大学当代文化研究中心。"
+  },
+  {
+   "cn": "传播学",
+   "en": "communication studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.138",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "一个跨学科的研究领域。运用多学科理论、方法与视角，以传播、媒介、信息、关系、知识等为核心概念，研究人类在不同文化、社会、网络、个体环境下的信息交流与关系交往行为，考察媒介的使用与理解，媒体的结构、作用"
+  },
+  {
+   "cn": "新闻学",
+   "en": "journalism studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.002",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "以新闻传播现象和新闻传播的主要载体为研究对象的一门学科。传统研究领域包括新闻史、新闻理论和新闻业务三大内容板块。互联网条件下，这一学科的研究对象已经扩展到新闻传播的更广阔的领域和更多的传播介质形态。"
+  },
+  {
+   "cn": "宣传学",
+   "en": "publicity studies",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "对各种宣传现象的研究。研究内容包括宣传目标、宣传机构、宣传对象、宣传内容和方法、宣传的载体、宣传效果的检验，以及反宣传等。19世纪末以来这方面的论著已具一定规模，但其是否构成一门独立的学科，存在不同看"
+  },
+  {
+   "cn": "图书学",
+   "en": "book studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "研究图书自身内容、形式等各种现象及其发生、发展规律的学科。"
+  },
+  {
+   "cn": "读者学",
+   "en": "reader studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "关于读者工作理论的一门图书馆学分支学科。诞生于20世纪80年代初，与社会学、心理学、教育学、阅读学和大众传播学有紧密的联系。主要研究图书馆读者的特征、构成、活动规律以及读者服务理论。广义读者学的研究对"
+  },
+  {
+   "cn": "文献研究",
+   "en": "document studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对文献的类型及其特征、文献内容、文献与文献之间的联系等进行分析研究的工作。"
+  },
+  {
+   "cn": "双语学",
+   "en": "bilingual studies",
+   "source": "语言学名词",
+   "wordNumber": "12.006",
+   "subjectFullName": "语言学_社会语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "研究言语社区内使用的不同语言或方言间关系的学问。"
+  },
+  {
+   "cn": "语汇学",
+   "en": "lexis studies",
+   "source": "语言学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "语言学_语义学、词汇学_词汇学",
+   "subjectName": "词汇学",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。主要研究语汇。传统上将“语”包括在词汇之中，现在有人主张将“语”与“词”分开，建立独立的语汇学。主要研究语的性质与分类、结构规律、表意功能、使用特点、历史来源等。"
+  },
+  {
+   "cn": "中试",
+   "en": "pilot studies",
+   "source": "土木工程名词",
+   "wordNumber": "11.171",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "演播室",
+   "en": "studio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超级练习曲",
+   "en": "Transcendental Studies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "比较研究",
+   "en": "comparative studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感知研究",
+   "en": "perceptual studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域研究",
+   "en": "regional studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "播音室",
+   "en": "broadcast studio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电视演播室",
+   "en": "television studio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "录音工作室",
+   "en": "recording studio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气候影响研究",
+   "en": "climate impact studies",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地域研究传统",
+   "en": "area studies tradition",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后殖民研究",
+   "en": "post-colonial studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "时间动作研究",
+   "en": "time and motion studies",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效性和安全性研究",
+   "en": "safety and efficacy studies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“两学一做,，学习教育",
+   "en": "the “Two Studies and One Action” Education Campaign",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "历史溯源法",
+   "en": "longitudinal studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0665",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在某一社区建立固定调查点，对于一个群体进行有间隔性的长期持续不断的观察，以研究这一群体在总体上或局部上发生的演变，从中发现历史演变的特点、原因和规律。"
+  },
+  {
+   "cn": "女性研究",
+   "en": "women’s studies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "诞生于20世纪70年代西方女性主义运动的一个跨学科研究领域，倡导女性的主体地位以及社会性别视角。最初旨在揭示女性受压迫状况和性别不平等的根源，后转为批判学术界以及知识领域的性别主义倾向，试图建构女性主"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience studies",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "对大众媒介的传播对象的研究。通过社会调查或社会科学的各种统计和分析技术把握大众传播对象的各项特征，如年龄、性别、教育程度、心理特点等，了解传播信息对接受者的影响和接受程度，以便改善和提升传播效果。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "青年研究",
+   "en": "youth studies",
+   "source": "社会学名词",
+   "wordNumber": "3.16.2.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年研究",
+   "subjectName": "青年研究",
+   "publishYear": "2025",
+   "definition": "关注青年的发展、历史、文化、心理和政治的跨学科研究领域。不仅研究具体的青年文化，也研究青年在所处社会中的关系、角色和责任，研究者来自社会学、教育学、文学、历史、政治学、宗教学等人文社会科学学科。"
+  },
+  {
+   "cn": "双语学",
+   "en": "bilingual studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究言语社区内使用的两种或多种语言或方言间关系的学问。"
+  },
+  {
+   "cn": "城市社区研究",
+   "en": "urban community studies",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "一种城市社会学的研究方法。以某个城市地域为研究单位，对其整个社会生活或某一群体（主要是低收入者、工人阶级或少数族裔）的某一方面做深入细致的实地调查，以探究其组织结构或文化与行为特征。"
+  },
+  {
+   "cn": "科学的社会研究",
+   "en": "social studies of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一个多学科交叉的领域，依其历史脉络，可以分为以实证主义传统为准则的科学社会学、以“强纲领”为核心的科学知识社会学和以常人方法论为基础的田野式科学研究。"
+  },
+  {
+   "cn": "两学一做学习教育",
+   "en": "Two Studies and One Action Learning Education",
+   "source": "马克思主义",
+   "wordNumber": "04.0279",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年2月，中共中央办公厅印发了《关于在全体党员中开展“学党章党规、学系列讲话，做合格党员”学习教育方案》，并发出通知，要求各地区各部门认真贯彻执行。开展“两学一做”学习教育，是面向全体党员深化党"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

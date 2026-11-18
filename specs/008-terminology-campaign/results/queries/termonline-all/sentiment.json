@@ -1,0 +1,522 @@
+{
+ "key": "sentiment",
+ "term": "sentiment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:25:08+00:00",
+ "status": "ok",
+ "note": "variant=sentiment; 审定公布名词库=152; 海峡两岸名词对照库=63; 其他来源数据库=8; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0585",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自动判定文本中观点持有者对某一话题所表现出的态度或情绪倾向性的过程、技术和方法。例如对文本或句子的褒贬性做出判断。"
+  },
+  {
+   "cn": "情操美",
+   "en": "sentiment beauty",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "情感与节操的高度统一之美。"
+  },
+  {
+   "cn": "情操教育",
+   "en": "sentimental education",
+   "source": "教育学名词",
+   "wordNumber": "01.246",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "培养以某种思想和社会价值观念为中心的情感和操守的教育。主要包括求知、审美、道德、信仰等方面。"
+  },
+  {
+   "cn": "网络舆情",
+   "en": "internet mediated public sentiment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.192",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "公众通过互联网表达和传播的与公共事务相关的态度、意见和情绪的总和。网络中表现出来的社情民意。网络舆情通过文字、图像、音频、视频等多种形式从论坛、即时通信、博客、社交网络服务(SNS)、微博、微信等多种"
+  },
+  {
+   "cn": "舆情",
+   "en": "public opinion;public sentiment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "公众情绪。19世纪末电报在中国出现后，一度比较集中使用该词，基本等同于“舆论”。进入21世纪以来，在调控互联网的政策下再度集中使用。主要指互联网各种传播形态里呈现的意见、情绪、倾向等有可能形成舆论的苗"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "地质学名词",
+   "wordNumber": "05.01.002",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "沉积在陆地或盆地中的松散矿物质颗粒或有机物。如砾石、砂、黏土、灰泥、生物残骸等。其主要来源是母岩风化的产物，其次是火山喷发物、有机物、宇宙物质等。"
+  },
+  {
+   "cn": "泥沙",
+   "en": "sediment",
+   "source": "林学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "林学_水土保持与荒漠化防治_水土保持",
+   "subjectName": "水土保持",
+   "publishYear": "2016",
+   "definition": "流域内岩土类物质经各种侵蚀营力作用、搬运进入河流后的物质。"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1185",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "从水体向水底沉降的各种颗粒物。"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "地理学名词",
+   "wordNumber": "09.071",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "沉降到水体底部的固体颗粒，通常是不溶的。"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "水产名词",
+   "wordNumber": "11.038",
+   "subjectFullName": "水产_渔业环境保护",
+   "subjectName": "渔业环境保护",
+   "publishYear": "2002",
+   "definition": "沉积在水体底部的松散矿物颗粒、生物碎屑和有机物质。"
+  },
+  {
+   "cn": "泥沙",
+   "en": "sediment",
+   "source": "土壤学名词",
+   "wordNumber": "08.200",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "流域内岩土类物质经各种侵蚀营力作用、搬运进入河流后的物质。"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "化学工程名词",
+   "wordNumber": "03.720",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "石油名词",
+   "wordNumber": "02.0162",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地沉积学",
+   "subjectName": "含油气盆地沉积学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "地质学名词",
+   "wordNumber": "05.222",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment,deposit",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1102",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "任何由流体流动而移动的微粒，并最终成为在水或其他液体底层的固体微粒。"
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment,deposit",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变余沉积",
+   "en": "palimpsest sediment,metarelict sediment",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1227",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "被改造过的残留沉积物,但仍保留残留沉积主要特点的残留沉积和现代沉积间的过渡类型。"
+  },
+  {
+   "cn": "输沙率",
+   "en": "sediment transport rate,sediment discharge",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_河流动力学（水利）",
+   "subjectName": "河流动力学（水利）",
+   "publishYear": "1997",
+   "definition": "单位时间(秒)水流输移的泥沙颗粒量(重量或体积)。"
+  },
+  {
+   "cn": "胶体沉积物",
+   "en": "colloidal sediment",
+   "source": "地质学名词",
+   "wordNumber": "05.01.053",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "胶体溶液中的胶体质点电荷在某些因素的影响下被中和，其间的相互排斥力消失，导致凝聚形成较大粒子，并在重力影响下聚沉形成的沉积物。"
+  },
+  {
+   "cn": "沉积物越过作用",
+   "en": "sediment bypassing",
+   "source": "地质学名词",
+   "wordNumber": "05.02.004",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积成岩作用",
+   "subjectName": "沉积成岩作用",
+   "publishYear": "2026",
+   "definition": "当沉积基准面与地表重合时，沉积物继续向盆地搬运的作用。既不发生沉积作用，也不发生对下伏地层的侵蚀作用。"
+  },
+  {
+   "cn": "自我情操",
+   "en": "self sentiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉淀物",
+   "en": "sediment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物",
+   "en": "sediment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "沉淀",
+   "en": "sediment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "渣滓",
+   "en": "sediment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "变余沉积， 准残留沉积",
+   "en": "palimpsest sediment\",\"metarelict sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物分级",
+   "en": "sediment grading",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物输送量",
+   "en": "sediment yield",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物污染",
+   "en": "sediment pollution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海底沉积物",
+   "en": "submarine sediment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有机沉积物",
+   "en": "organic sediment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表层沉积物",
+   "en": "epigenic sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "残留沉积[物]",
+   "en": "relict sediment",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积动力学",
+   "en": "sediment dynamics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物捕获器",
+   "en": "sediment trap",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物通量",
+   "en": "sediment flux",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "防沙堤， 拦沙堤",
+   "en": "sediment barrier",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情景",
+   "en": "Sentiment and Scenery",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思与境偕",
+   "en": "Blend Sentiment with Scenery",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有心之器",
+   "en": "Objects of Intelligence and Sentiment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唯乐不可以为伪",
+   "en": "Music Allows No Expression of False Sentiment.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "雕琢情性，组织辞令",
+   "en": "Ennoble One’s Sentiment to Produce Fine Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情采芬芳，比类寓意",
+   "en": "Use Analogy and Metaphor to Imply Sentiment and Meaning, and Let Passion and Style Bask in Each Other’s Fragrance and Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情操",
+   "en": "sentiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.099",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "以某一或某类事物为中心的持续稳定的情感倾向和操守。"
+  },
+  {
+   "cn": "民族感情",
+   "en": "national sentiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.004",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族成员是民族集体自我意识的表现形式，是对本民族的历史、生计方式、社会生活、文化艺术、风俗习惯和民族利益认同感的心理反映，是维系民族认同的心理纽带，伴随着民族现象的整个历史过程。民族感情应该受到尊重，"
+  },
+  {
+   "cn": "油脂沉淀物",
+   "en": "sediment in crude fat and oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.16",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "原油脂中的可用离心法进行分离的不溶性物质，离心后离心管底部收集的不透明层物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "ecological fitness",
+ "term": "ecological fitness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:06:13+00:00",
+ "status": "ok",
+ "note": "variant=ecological fitness; 审定公布名词库=1545; 海峡两岸名词对照库=619; 其他来源数据库=58; 预公布名词数据库=163; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "农学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "衡量单个昆虫种群存活和繁殖成功概率的一种尺度。包括生存能力、繁殖能力和子代生存能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.435",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。是衡量个体存活和生殖机会的尺度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "动物学名词",
+   "wordNumber": "2.0285",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "密合性",
+   "en": "fitness",
+   "source": "结核病学名词",
+   "wordNumber": "05.108",
+   "subjectFullName": "结核病学_结核病预防与控制_感染控制",
+   "subjectName": "感染控制",
+   "publishYear": "2019",
+   "definition": "口罩周边与佩戴者面部的密合程度。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "植物学名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "某个基因型的个体与其他基因型个体相比时，能够存活并保留下后代的能力。是衡量某一基因型个体后代衍续能力的常用指标。适合度越高，生物对环境的适应能力越强。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "遗传学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "生态学名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "在某种环境条件下，某已知基因型的个体将其基因传递到其后代基因库中的相对能力，是衡量个体存活和生殖机会的尺度。适合度越大，存活和生殖机会越高。"
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.854",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "fit",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0339",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "基本尺寸相同的，相互结合的孔和轴公差带之间的关系，用以表达结合松紧程度的功能要求。"
+  },
+  {
+   "cn": "金具",
+   "en": "fitting",
+   "source": "电力名词",
+   "wordNumber": "22.171",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "连接和组合电力系统中各类装置,以传递机械、电气负荷或起某种防护作用的金属附件。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "生物物理学名词",
+   "wordNumber": "02.421",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "将高分辨的密度分布图与低分辨的密度分布图进行匹配的操作。常用于在低分辨的密度分布图中获取高分辨信息。"
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "数学名词",
+   "wordNumber": "010.0138",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0005",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "20世纪中期对环境危机反思而生，主张转变人类与自然的关系，强调自然的限度、挑战人类中心主义的价值观，呼吁进行广泛的改革措施。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "风景园林名词",
+   "wordNumber": "01.0152",
+   "subjectFullName": "风景园林_总论_风景园林相关学科",
+   "subjectName": "风景园林相关学科",
+   "publishYear": "2025",
+   "definition": "研究生命系统与其环境之间相互关系的一门学科。"
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以注重生态系统整体和谐稳定为首要价值及以人类尊重自然生态规律为行为规范的思想范式。是秉持生态环保观念和自然价值的社会有识之士在20世纪60～70年代倡导的、寻求解决区域及全球生态环境问题的观念架构及思"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "计划生育名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "研究生命系统内及其与环境之间相互关系的科学。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "大气科学名词",
+   "wordNumber": "08.139",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "研究生物之间及生物与非生物环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究生命系统与其环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "水产名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "研究生物与其周围环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.080",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适合度",
+   "en": "fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "非特",
+   "en": "fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拟合",
+   "en": "fitting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热装",
+   "en": "shrinkage fitting\",\"shrinkage fit",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传适合度",
+   "en": "genetic fitness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "广义适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内在适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平均适合度",
+   "en": "mean fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "达尔文适合度",
+   "en": "Darwinian fitness",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "总体适合度",
+   "en": "inclusive fitness",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态农业",
+   "en": "ecological agriculture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态文化",
+   "en": "ecological culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "套缰绳",
+   "en": "fit the bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态安全体系与生态屏障",
+   "en": "ecological security system and ecological barriers",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市生态安全",
+   "en": "urban ecological security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态保护红线",
+   "en": "ecological red lines",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态环境与保护",
+   "en": "marine ecological environment protection",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字生态环境",
+   "en": "digital ecology and environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态扶贫",
+   "en": "poverty alleviation through ecological conservation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "生物在一定的自然环境下生存和发展的状态，也指生物的生理特性和生活习性。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "代谢适能",
+   "en": "metabolism fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体有效地通过新陈代谢从食物和环境中获得营养供应，满足生物合成需求以及为生命活动提供能量，不出现代谢异常的能力。"
+  },
+  {
+   "cn": "体力适度",
+   "en": "physical fitness",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体在日常活动中表现出的疲劳感、无力和虚弱感。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "体能发育",
+   "en": "physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体生理功能和运动能力随年龄而发生的变化。"
+  },
+  {
+   "cn": "体能测试",
+   "en": "physical fitness test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "采用医学手段对机体日常体力活动或运动中的功能进行测试。一般包括身体成分、心肺耐力、肌力肌耐力和柔韧性四个方面的测试。"
+  },
+  {
+   "cn": "体质健康",
+   "en": "physical fitness health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种完好的身体、心理和社会适应的状态，而不仅仅是没有疾病或虚弱。包括身体形态、感觉敏锐度、对疾病的易感性、身体机能、恢复能力和执行某些任务的能力。"
+  },
+  {
+   "cn": "骨骼肌肉适能",
+   "en": "muscular-skeletal fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "由骨骼强韧度、肌肉力量、肌肉耐力、爆发力和柔韧性所反映的体质健康状态。"
+  },
+  {
+   "cn": "体质监测",
+   "en": "physical fitness surveillance",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.12",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "为系统掌握国民体质状况，以抽样调查的方式，在全国范围内对监测对象进行统一体质测试和对监测数据进行分析研究的工作。"
+  },
+  {
+   "cn": "体能训练",
+   "en": "physical fitness training",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.10",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "为促进身体发育、增强力量和耐力、提高速度和灵敏性、增加柔韧性、促进各部位协调等人体的运动能力而进行的训练活动。"
+  },
+  {
+   "cn": "生态恢复",
+   "en": "ecological restoration",
+   "source": "消毒学",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "恢复被损害的生态系统到接近于被损害前的自然状况的过程，即重建该系统干扰前的结构与功能及有关的物理、化学和生物学特征的过程。"
+  },
+  {
+   "cn": "生态修复",
+   "en": "ecological remediation",
+   "source": "消毒学",
+   "wordNumber": "7.1.12",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "对生态系统停止人为干扰，以减轻负荷压力，依靠其自我调节能力与自我组织能力向有序的方向进行演化，或者利用其自我恢复能力，辅以人工措施，使遭到破坏的生态系统逐步恢复或使生态系统向良性循环方向发展。"
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于生态学研究以各个不同情况的个体“集合”而成的群体（组）为观察和分析的单位，以及存在的混杂因素等原因而造成研究结果与真实情况不符的现象。"
+  },
+  {
+   "cn": "生态谬误",
+   "en": "ecological fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据较高层次上分析单位的研究结论推论较低层次上分析单位的特征所产生的推理错误。"
+  },
+  {
+   "cn": "生态效度",
+   "en": "ecological validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估在特定环境下（实验室环境）使用的测量工具能否刻画其他环境条件（日常环境或自然环境）下个体的认知过程的量度。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "将人文理念、生态意识和对资本主义的分析批判结合起来，重新认识资本主义和生态的冲突的理论。是面对日趋严重的全球生态危机，思考生态问题产生原因和寻求人类自身发展出路的的重要理论之一。"
+  },
+  {
+   "cn": "生态非理性",
+   "en": "ecological irrationality",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.11",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "“理性的强化”在自然范畴的应用，我们越想依照严格计算的原则办事，就越有可能为蜂拥而来的负面意外打开大门，表现为由技术灾难所带来的各种各样的破坏性后果。"
+  },
+  {
+   "cn": "生态现代化",
+   "en": "ecological modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.7",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种针对环境危害的新的发展理念。以发挥生态优势推进现代化进程，实现经济发展和环境保护的双赢，加快推进发展模式由先污染后治理向生态亲和型转变，决不能以牺牲环境为代价换取一时的发展。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

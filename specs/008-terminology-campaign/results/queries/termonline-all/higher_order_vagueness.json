@@ -1,0 +1,762 @@
+{
+ "key": "higher-order vagueness",
+ "term": "higher-order vagueness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:23:12+00:00",
+ "status": "ok",
+ "note": "variant=higher-order vagueness; 审定公布名词库=3010; 海峡两岸名词对照库=980; 其他来源数据库=201; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "高阶像差",
+   "en": "higher-order aberration",
+   "source": "光学名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "光学相位误差中除去倾斜、离焦、像散等空间频率较低的低阶像差部分外的其他空间频率较高的像差。高阶像差的每阶各包括许多项，其中的每一项又代表不同的内容。例如，高阶像差第三阶包括彗差、三叶草样散光等四项内容"
+  },
+  {
+   "cn": "高阶模",
+   "en": "higher-order mode",
+   "source": "物理学名词",
+   "wordNumber": "04.2088",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "上位功能",
+   "en": "higher order function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0708",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "基本功能存在所要满足的特殊需求。"
+  },
+  {
+   "cn": "高次模",
+   "en": "higher-order mode",
+   "source": "计量学名词",
+   "wordNumber": "11.030",
+   "subjectFullName": "计量学_无线电_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "除基模外的所有色散波型的模式的统称。"
+  },
+  {
+   "cn": "再次条件反射",
+   "en": "higher order conditioning",
+   "source": "心理学名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在经典条件反射中，把一个被习得的条件刺激当作无条件刺激那样用于进一步强化学习的过程。"
+  },
+  {
+   "cn": "高阶差分",
+   "en": "difference of higher order,higher difference",
+   "source": "数学名词",
+   "wordNumber": "010.0200",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶导数",
+   "en": "derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0086",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分",
+   "en": "differential of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模糊性",
+   "en": "vagueness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.285",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指可能出现边界情形的事物分类，或对事物分类的语言描述。比如“高个子”“成人”等。表达模糊性的逻辑理论包括多值逻辑、超赋值主义、语境主义等。"
+  },
+  {
+   "cn": "高级丁铎尔谱",
+   "en": "higher order Tyndall spectra,HOTS",
+   "source": "化学名词",
+   "wordNumber": "04.1543",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "由被照射的分散体的不同角度的散射光组成的光谱。对于在白光照射下的粒子大小与波长相近的单分散胶体，高级丁铎尔谱常常是彩色谱。"
+  },
+  {
+   "cn": "意识的高阶理论",
+   "en": "higher order theories of consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.570",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种关于意识本质的学说。主张心理状态只有经比它高阶的知觉或思维的表征才是有意识的。"
+  },
+  {
+   "cn": "高阶速度分析",
+   "en": "higher-order velo-city analysis",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0359",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "采用包含偏移距平方项和四次方项计算时差的速度分析。 "
+  },
+  {
+   "cn": "高阶等差数列",
+   "en": "arithmetic progression of higher order",
+   "source": "数学名词",
+   "wordNumber": "04.0140",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶偏导数",
+   "en": "partial derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0099",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分方程",
+   "en": "differential equation of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0038",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶奇点",
+   "en": "singular point of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0094",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve，nervus vagus(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.437",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "第十对脑神经。由延髓侧面出脑，经颈静脉孔或破裂孔（马）出颅，为发布最广、行程最长的脑神经。内含特殊内脏运动纤维、一般躯体感觉纤维、一般内脏感觉纤维和副交感节前纤维。特殊内脏运动纤维分布于咽肌和喉肌，一"
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "神经外科学名词",
+   "wordNumber": "2.157",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_传导束",
+   "subjectName": "传导束",
+   "publishYear": "2026",
+   "definition": "第Ⅹ对脑神经。为混合性脑神经。是脑神经中最长、分布最广的一对脑神经，含有躯体感觉纤维、内脏感觉纤维、躯体运动纤维和内脏运动纤维四种纤维成分。属于副交感神经系统，与交感神经系统相互拮抗，共同调节人体的心"
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "普通外科学名词",
+   "wordNumber": "17.055",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "第X对脑神经。为行程最长、分布最广的混合性脑神经，由5种纤维成分组成。"
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "麻醉学名词",
+   "wordNumber": "01.320",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_周围神经系统解剖",
+   "subjectName": "周围神经系统解剖",
+   "publishYear": "2024",
+   "definition": "第十对脑神经。为行程最长、分布最广的混合性脑神经，由5种纤维成分组成。"
+  },
+  {
+   "cn": "高阶闭合",
+   "en": "higher-order closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高阶光孤子",
+   "en": "higher-order soliton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高阶逻辑",
+   "en": "higher order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迷走神经",
+   "en": "vagus nerve",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "高等植物",
+   "en": "higher plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordering",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高高潮",
+   "en": "higher high water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有胚植物（=高等植物）",
+   "en": "embryophyte (=higher plant)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高核簇",
+   "en": "higher nuclearity cluster",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "舵令",
+   "en": "helm order\",\"steering orders",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance order\",\"rank order",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "字序",
+   "en": "Hanzi order\",\"character order",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字秩序",
+   "en": "digital order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "competitive order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跑顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克勋章",
+   "en": "Olympic Order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球顺序",
+   "en": "batting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序",
+   "en": "rotation order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "含3 个及以上碳原子醇类的总称，是酒类发酵过程中产生的主要副产物，包括正丙醇、正丁醇、异丁醇、异戊醇等。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "上访",
+   "en": "appeal to the higher authorities",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "公民或组织以书信、电子邮件、走访等形式向各级人民政府、县级以上人民政府工作部门反映问题、寻求解决办法的活动。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "问题医嘱",
+   "en": "problematic doctor's order",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.019",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "存在错误或违反卫生法律法规、规章或者诊疗技术规范，可能给病人造成损害甚至酿成严重后果的医嘱。"
+  },
+  {
+   "cn": "国际经济新秩序",
+   "en": "new international economic order",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "发展中国家为抵制对其不利的国际经济旧秩序而提出的政治经济主张。主要包括每个国家都有平等地参与世界经济问题的权利,每个国家都对其自然资源和经济活动拥有充分主权,每个国家都有权选择适合自身发展的制度等。"
+  },
+  {
+   "cn": "执行医嘱",
+   "en": "carry out doctor's order",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.017",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "医护人员根据医师开具的医疗指令（医嘱），准确、及时、规范地实施诊断、治疗、护理等医疗行为的过程。"
+  },
+  {
+   "cn": "拨乱反正",
+   "en": "bring order out of chaos",
+   "source": "马克思主义",
+   "wordNumber": "04.0134",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在粉碎“四人帮”后，中国共产党重新恢复党的实事求是的思想路线，纠正“文化大革命”错误，彻底扭转十年内乱造成的严重局势，实现吧工作着重点转移到社会主义现代化建设上来的一系列重大举措。“拨乱反正”，是从1"
+  },
+  {
+   "cn": "下级服从上级",
+   "en": "lower level is subordinate to the higher level",
+   "source": "马克思主义",
+   "wordNumber": "04.0173",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的下级组织服从上级组织。它是民主集中制的基本要求，是处理党的上下级组织之间相互关系的原则。其具体要求是：党的下级组织要服从上级组织的领导，要结合本地区、本部门的实际情况，贯彻执行上级组织的决定，如上"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "解释王朝历史兴衰更替的中国传统史观。由孟子最早提出的一种学说，认为“天下之生久矣，一治一乱”，是对春秋战国历史演变的总结。后世演变成中国传统史观，用以考察历史上朝代更迭形成的一治一乱的循环进程。这种史"
+  },
+  {
+   "cn": "国际政治经济新秩序",
+   "en": "new international political and economic order",
+   "source": "马克思主义",
+   "wordNumber": "03.0555",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国际经济新秩序和国际政治新秩序的合称，发展中国家为改变现存的不合理的国际经济旧秩序而提出来的。战后广大亚非拉国家纷纷获得政治上的独立和解放，但经济上并未得到彻底的独立和解放，在国际经济中处于依附和无权"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0308",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清乾隆帝论述喇嘛教宗旨及清廷对该教所持政策之文。撰于乾隆五十七年（1792），对喇嘛教在蒙、藏地区之活动与发展具有重大影响。此文刻于石碑，立于雍和宫。"
+  },
+  {
+   "cn": "加工订货统购包销",
+   "en": "processing orders unified purchase and sale",
+   "source": "马克思主义",
+   "wordNumber": "02.0358",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对资本主义工业实行社会主义改造所采取的国家资本主义的初级形式。加工是国营商业对私营工厂供给原材料或半成品，委托私营工厂进行生产，私营工厂按期完成加工任务，国营商业付给加工费。订货是国营商业通过订立合同"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

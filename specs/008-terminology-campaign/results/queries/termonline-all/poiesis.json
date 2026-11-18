@@ -1,0 +1,32 @@
+{
+ "key": "poiesis",
+ "term": "poíêsis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:24:31+00:00",
+ "status": "ok",
+ "note": "variant=poíêsis; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "骨痂形成",
+   "en": "porosis,bone callus formation",
+   "source": "手外科学名词",
+   "wordNumber": "05.0487",
+   "subjectFullName": "手外科学_手外科学分论_上肢骨关节",
+   "subjectName": "上肢骨关节",
+   "publishYear": "2020",
+   "definition": "骨折时在组织损伤等多种因素刺激下发生多种细胞增殖而形成新生组织连接断端的过程。"
+  },
+  {
+   "cn": "骨痂形成",
+   "en": "porosis,bone callus formation",
+   "source": "显微外科学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "显微外科学_骨瓣_骨生理",
+   "subjectName": "骨生理",
+   "publishYear": "2016",
+   "definition": "骨折时在组织损伤等多种因素刺激下发生多种细胞增殖而形成新生组织连接断端的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

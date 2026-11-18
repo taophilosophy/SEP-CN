@@ -1,0 +1,752 @@
+{
+ "key": "divinity school address",
+ "term": "Divinity School Address",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:22:24+00:00",
+ "status": "ok",
+ "note": "variant=Divinity School Address; 审定公布名词库=916; 海峡两岸名词对照库=224; 其他来源数据库=61; 预公布名词数据库=210; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "数学学派",
+   "en": "quantitative school,mathematical school",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0441",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "管理丛林学派之一，使用数学模型和程序研究管理，在运筹学方面提供了大量实用方法。"
+  },
+  {
+   "cn": "小学",
+   "en": "elementary school,primary school",
+   "source": "教育学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "对学龄儿童实施初等教育的学校。"
+  },
+  {
+   "cn": "国民学校",
+   "en": "folk school,compulsory school",
+   "source": "教育学名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "近代德国建立的为公民子弟提供免费、普及、义务教育的初等教育机构。"
+  },
+  {
+   "cn": "实科中学",
+   "en": "intermediate school,real school",
+   "source": "教育学名词",
+   "wordNumber": "05.136",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "在基础学校或定向阶段之上，提供至第10年级普通和职业基础教育，为学生接受专科高中或双元制职业教育作一般准备的一种德国中等学校类型。"
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0492",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "用来标识寄存器、存储器单元或输入输出设备的实际位置的编号或名字。"
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.159",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "标识一寄存器、存储器特定部分或其他一些数据来源或目的地的一个或一组字符，用来指定一设备或一个数据项。"
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.092",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "通信中，信息的源和目的地的编码表示。"
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0900",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "收报人名址",
+   "en": "address",
+   "source": "航海科技名词",
+   "wordNumber": "14.0129",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "占候",
+   "en": "zhan hou;divine and observe",
+   "source": "中国古代史名词",
+   "wordNumber": "1.493",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察天象以推测自然及人事变化的知识、技术。占指预测，候指观察。相传尧舜时已设专官掌之，商周为史官之职，秦汉以来从属于天人关系理论而发展出一系列数术，基此观察认识天文、气候、光影物象，以预测其趋势，占示"
+  },
+  {
+   "cn": "神州",
+   "en": "Shen Zhou;the Divine Land",
+   "source": "中国古代史名词",
+   "wordNumber": "1.552",
+   "subjectFullName": "中国古代史_通论_历史地理_总体名词",
+   "subjectName": "总体名词",
+   "publishYear": "2022",
+   "definition": "大九州理论中的中国之称。战国邹衍始名儒家所称的“中国”为“赤县神州”，秦汉以来仍沿此称，而“中国”范围已广及统一王朝治下各地。"
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "维也纳学派",
+   "en": "Viennese school\",\"Vienna school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地址",
+   "en": "address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收报人名址",
+   "en": "address",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "寻址",
+   "en": "find addresses\",\"addressing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "编址，寻址",
+   "en": "addressing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学校心理学",
+   "en": "school psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知学派",
+   "en": "cognitive school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥地利学派",
+   "en": "Austrian school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "哥伦比亚学派",
+   "en": "Columbia school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "皮亚杰学派",
+   "en": "Piagetian school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "曼海姆乐派",
+   "en": "Mannheim School",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "那不勒斯乐派",
+   "en": "Neapolitan School",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "日内瓦学派",
+   "en": "Geneva school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学校恐惧症",
+   "en": "school phobia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "芝加哥学派",
+   "en": "Chicago school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体论学派",
+   "en": "individualistic school",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "巴萨基学派",
+   "en": "Passarge school",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "调教",
+   "en": "school\",\"schooling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "室内驯马场",
+   "en": "indoor school",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级骑术学校",
+   "en": "high school",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "驯马场",
+   "en": "riding school",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "室外驯马场",
+   "en": "outdoor school",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调教步法",
+   "en": "school pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号主义学派",
+   "en": "school of symbolicism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接主义学派",
+   "en": "school of connectionism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为主义学派",
+   "en": "school of actionism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "婉约派",
+   "en": "The Wanyue School / The Graceful and Restrained School",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桐城派",
+   "en": "The Tongcheng School of Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "江西诗派",
+   "en": "The Jiangxi School of Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  缓解用工荒",
+   "en": "to address labor shortage ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "学校选址与用地卫生",
+   "en": "hygiene of school address' selection and school site",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "学校卫生监督的范畴。《学校卫生工作条例》要求，在新建、改建、扩建一所学校时，卫生行政部门首先要依照国家有关法律、法规、条例、规范和卫生标准，对学校的选址和建筑设计实行预防性卫生监督。"
+  },
+  {
+   "cn": "学校",
+   "en": "school",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家有计划、有目的、有组织地通过一定的系统的教育措施，培养适应一定社会需要的人才的主要场所和机构。职能是按照一定的社会要求，遵循学生身心发展的规律，向学生的身心施加有目的、有计划、有组织的教育，把人类"
+  },
+  {
+   "cn": "芝加哥学派",
+   "en": "Chicago school",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "20世纪上半叶，围绕美国芝加哥大学社会学系而形成的学科派别。在领军人物托马斯（W.I.Thomas）、派克（Robert E.Park）等带领下，师生们理论研究同实地调查相结合，产出了一大批有关贫穷、"
+  },
+  {
+   "cn": "公学",
+   "en": "public school",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.7",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "英、法等国为贵族和资产阶级子女特别开设的独立中等学校，具有培养精英的功能。中国在清末也出现了旨在培养近代商务政务人才的私立学校，如南洋公学。"
+  },
+  {
+   "cn": "社学",
+   "en": "community school",
+   "source": "社会学名词",
+   "wordNumber": "3.12.9.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "中国古代地方官奉朝廷诏令在乡村设立的“教童蒙始学”的学校。"
+  },
+  {
+   "cn": "霸凌",
+   "en": "school bullying",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.27",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "通常发生在力量不对称的学生之间的有意图的攻击性行为。源自于英文  bully（欺侮）的音译。大致可区分为关系霸凌、肢体霸凌、性霸凌、反极性霸凌、网络霸凌等5大类。"
+  },
+  {
+   "cn": "学院督导",
+   "en": "school supervisor",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "由社会工作实习生所在高校的院系人员对社会工作实习生进行的督导。"
+  },
+  {
+   "cn": "德波林学派",
+   "en": "Deborin school",
+   "source": "马克思主义",
+   "wordNumber": "04.0360",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以苏联科学院院士、哲学家德波林（Abram Moiseevich Deborin）为代表的哲学学派。1916年发表代表作《辩证唯物主义哲学导论》。该学派曾参加过反对马赫主义和新康德主义的斗争，十月革命"
+  },
+  {
+   "cn": "法兰克福学派",
+   "en": "Frankfurt School",
+   "source": "马克思主义",
+   "wordNumber": "05.0011",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "以批判的社会理论著称，以德国法兰克福大学的“社会研究中心”为中心的一群社会科学学者所组成的学术社群。由法兰克福社会研究所的领导成员在20世纪30—40年代初发展起来，代表为霍克海默（M. Max Ho"
+  },
+  {
+   "cn": "调节学派",
+   "en": "regulation school",
+   "source": "马克思主义",
+   "wordNumber": "05.0155",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在法国兴起强调资本主义须由国家调节的理论。认为无调节的积累和制度之间矛盾的激化导致了资本主义的危机，福特主义积累体制是美国战后扩张的中心环节，而70年代的滞涨是福特主义发展潜力被耗尽的"
+  },
+  {
+   "cn": "讲座派",
+   "en": "koza school",
+   "source": "马克思主义",
+   "wordNumber": "05.0158",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪30年代产生于日本的早期马克思主义经济学派的一支。主张“二阶段革命论”，即经过资产阶级民主主义革命后实现社会主义革命，与劳农派展开论战而形成。因《日本资本主义发达史讲座》一书而称为讲座派。代表"
+  },
+  {
+   "cn": "劳农派",
+   "en": "rono school",
+   "source": "马克思主义",
+   "wordNumber": "05.0159",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪30年代在关于日本资本主义的论战中，主张要重视明治维新的资产阶级革命性，提出直接进行社会主义革命的“一阶段革命论”战略、与讲座派的认识尖锐对立的学者由于大多在《劳农》上发表文章，因此被称为“劳"
+  },
+  {
+   "cn": "正统学派",
+   "en": "orthodox school",
+   "source": "马克思主义",
+   "wordNumber": "05.0162",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "日本马克思主义经济学最大的学派通常被称为正统派，多数与日本共产党关系紧密，代表杂志是《经济》，代表性学会是“政治经济学·经济史学会”“经济理论学会”。该学派以井村喜代子为代表对现代资本主义的变化、危机"
+  },
+  {
+   "cn": "宇野学派",
+   "en": "Uno school",
+   "source": "马克思主义",
+   "wordNumber": "05.0166",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪30年代日本马克思经济学界在讲座派与劳农派论战之际，专注于《资本论》研究的日本著名马克思主义经济学家宇野弘藏提出了不同于两派的观点。宇野提出马克思经济学要有“原理论”“阶段论”和“现状分析论”"
+  },
+  {
+   "cn": "学校卫生",
+   "en": "school health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "儿少与学校卫生学名词_儿少与学校卫生学",
+   "subjectName": "儿少与学校卫生学",
+   "publishYear": "2025",
+   "definition": "以学生为服务对象、学校为服务场所，研究并提供卫生健康服务工作模式、方法和评价标准，以及监测、监督的应用科学。"
+  },
+  {
+   "cn": "校园欺凌",
+   "en": "school bullying",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在校园内外学生之间，一方单次或多次，蓄意或恶意通过肢体、语言及网络等手段实施欺负、侮辱，造成另一方身体伤害、财产损失或者精神损害的行为。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

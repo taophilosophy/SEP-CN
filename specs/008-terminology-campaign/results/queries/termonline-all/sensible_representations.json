@@ -1,0 +1,582 @@
+{
+ "key": "sensible representations",
+ "term": "sensible representations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:13:12+00:00",
+ "status": "ok",
+ "note": "variant=sensible representations; 审定公布名词库=408; 海峡两岸名词对照库=83; 其他来源数据库=10; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "兽医学名词",
+   "wordNumber": "04.443",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "水分从汗腺分泌的汗液中蒸发的现象。汗液可被机体感觉到。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature ",
+   "source": "草学名词",
+   "wordNumber": "3.0624",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat ",
+   "source": "草学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.358",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜禽产生的经传导、对流、辐射散发到环境中的热量。能引起空气温度变化。"
+  },
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "生理学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "建筑学名词",
+   "wordNumber": "10.0335",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "在物质的吸热或放热过程中，能使其温度发生变化的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "大气科学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在不伴随水的相变的情况下，有温差存在时物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "大气科学名词",
+   "wordNumber": "08.211",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "在不同气温、湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不同气温，湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.213",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.191",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "人与环境间通过对流、辐射和传导途径交换的热量，即非蒸发性散热。"
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "航海科技名词",
+   "wordNumber": "02.0100",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "农学名词",
+   "wordNumber": "13.021",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "近地层中因空气湍流运动引起的地表面和空气间的热量输送。"
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "林学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "由于温度变化而引起的大气与下垫面之间发生的湍流形式的热流通量。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可感热",
+   "en": "sensible heat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感热通量",
+   "en": "sensible heat flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍沃思表达式",
+   "en": "Haworth representation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感性",
+   "en": "sensibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0177",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人通过感觉器官感知外在对象而产生感觉、知觉和表象等直观形式的认识能力和感知方式，是认识活动的初级形式，它只能认识对象的表面现象和外部特征，形成对对象的形象、直观、生动的认识。（2）情绪和情感统称"
+  },
+  {
+   "cn": "新感性",
+   "en": "new sensibility",
+   "source": "马克思主义",
+   "wordNumber": "05.0034",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞提出的艺术乌托邦中的一个重要概念。他认为，当人的爱欲获得了解决，人就不再受工具理性的统治，人就是自由的、快乐的人。在新感性降临的社会，人与自然和谐一体，人与人和平相处，人在生活中体验着美妙、安"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "老年性阴道炎",
+   "en": "senile vaginitis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_老年期保健",
+   "subjectName": "老年期保健",
+   "publishYear": "2025",
+   "definition": "阴道炎的一种。因老年女性卵巢功能衰退，雌激素水平降低导致阴道黏膜萎缩变薄，局部抵抗力下降而细菌入侵引起的阴道炎症。"
+  },
+  {
+   "cn": "党代表制度",
+   "en": "system of Party representatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0407",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党为确保对人民军队实行绝对领导的一项重要政治工作制度。1927年三湾改编时，毛泽东提出在营、连以上设立党代表，从此，在军队中设立党代表正式成为一项制度。"
+  },
+  {
+   "cn": "可行的社会主义经济模式",
+   "en": "economic model of feasible socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0174",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "英国亚历克·诺夫（Alec Nove）在《可行的社会主义经济》中提出。主张以国有为主体的混合经济模式；有限制的市场机制，国家以经济手段为主，以行政、法律手段为辅的多种方法对经济加以调控；实行经济民主，"
+  },
+  {
+   "cn": "老龄问题",
+   "en": "senile problem，issue of ageing",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "由个体老龄化和人口群体的老龄化引起的个体问题与经济社会问题。"
+  },
+  {
+   "cn": "全俄工兵代表苏维埃第二次代表大会",
+   "en": "Second Congress of the All Russian Soviet Union of Engineers and Soldiers Representatives",
+   "source": "马克思主义",
+   "wordNumber": "04.0500",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917年11月7—9日(俄历10月25—27日)在彼得格勒举行。出席大会的布尔什维克党、社会革命党、孟什维克党及国际主义者等代表约600余人。大会分两次进行：7日晚至次日凌晨，大会宣告资产阶级临时政"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

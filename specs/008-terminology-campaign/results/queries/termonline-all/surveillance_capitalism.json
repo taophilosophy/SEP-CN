@@ -1,0 +1,762 @@
+{
+ "key": "surveillance capitalism",
+ "term": "surveillance capitalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:11:02+00:00",
+ "status": "ok",
+ "note": "variant=surveillance capitalism; 审定公布名词库=430; 海峡两岸名词对照库=257; 其他来源数据库=27; 预公布名词数据库=163; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "监测",
+   "en": "surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "按计划或有关规定，对某一动物群体持续进行一种或几种疫病发生情况的调查和检测。为发生或可能发生疫病的防控提供依据。"
+  },
+  {
+   "cn": "监测",
+   "en": "surveillance",
+   "source": "计划生育名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "一个长期的收集、分析、解释和利用数据的过程。当前的自愿报告数据收集机制是监测系统的主要组成部分。"
+  },
+  {
+   "cn": "监理",
+   "en": "surveillance",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0786",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "有关执行者，根据一定的行为准则，对某些行为进行监督管理，使这些行为符合准则要求，并协助行为主体实现行为目的。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "initiative surveillance,active surveillance",
+   "source": "地方病学名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "地方病学_总论_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "根据特殊需要，上级单位亲自调查收集或者要求下级单位严格按照规定收集资料的过程。"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "经济学名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "以资本家占有生产资料为基础，剥削雇佣劳动为特征的社会经济制度及其上层建筑。它的主要特征是资产阶级占有生产资料，并用以剥削雇佣劳动；一切都以商品形式出现，劳动力也成为商品；生产的目的是剥削剩余价值；以社"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0657",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "以资本剥削雇佣劳动为特征的社会经济制度。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "经济学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "能够带来剩余价值的价值。生产资料和货币本身不是资本，只有在一定历史条件下，劳动力成为商品，生产资料和货币被用作剥削雇佣工人的手段时，才成为资本。"
+  },
+  {
+   "cn": "资本化",
+   "en": "capitalization",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0211",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "将与购置或建造资产直接相关的费用计入该项资产成本，并纳入当期资产负债表进行反映的会计处理方法。"
+  },
+  {
+   "cn": "按人头付费",
+   "en": "capitation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.132",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "根据合同规定的时间(年、季度或月)，由保险机构依据医疗服务提供者服务的人口数和规定的人均定额标准，预先向服务提供者支付的固定费用。许多国家对全科医疗服务多采用这种预付方法。"
+  },
+  {
+   "cn": "柱头",
+   "en": "capital",
+   "source": "建筑学名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古典式柱或其他柱子上经过特殊处理的顶端结束部，冠于柱身之上并承受檐部或额枋的重量。"
+  },
+  {
+   "cn": "柱帽",
+   "en": "capital",
+   "source": "土木工程名词",
+   "wordNumber": "05.152",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "监控摄像机",
+   "en": "surveillance camera",
+   "source": "风景园林名词",
+   "wordNumber": "08.0838",
+   "subjectFullName": "风景园林_风景园林工程_风景园林弱电",
+   "subjectName": "风景园林弱电",
+   "publishYear": "2025",
+   "definition": "用于获取监视现场图像的前端设备。其以面阵感光耦合组件图像传感器为核心部件，外加同步信号产生电路、视频信号处理电路及电源等。"
+  },
+  {
+   "cn": "疾病监测",
+   "en": "disease surveillance",
+   "source": "急救医学名词",
+   "wordNumber": "03.891",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "在现况调查的基础上，对其中部分有价值的疾病或项目的分布和影响因素进行长期、系统、全面的动态观察，从而发现某些疾病的发展趋势和分布的变化，以不断修改和完善对疾病的防治策略和措施。"
+  },
+  {
+   "cn": "胎儿检测",
+   "en": "fetus surveillance",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.142",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "在女性怀孕期间，医师利用各种非侵入性诊断和监测技术参数，以评估发育中的胎儿的生长和健康，以及胎儿承受怀孕、分娩和分娩压力能力的检测。保障胎儿在子宫内茁壮成长和顺利娩出。"
+  },
+  {
+   "cn": "免疫监测",
+   "en": "immune surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "02.072",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "利用血清学方法，对某些疫（菌）苗免疫动物在免疫接种前后的抗体跟踪监测，以确定接种时间和免疫效果。"
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immunological surveillance",
+   "source": "兽医学名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "动物机体识别和清除体内肿瘤细胞的能力。"
+  },
+  {
+   "cn": "监测环境功能",
+   "en": "surveillance function",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.005",
+   "subjectFullName": "新闻学与传播学_大众传播_大众传播的结构与功能",
+   "subjectName": "大众传播的结构与功能",
+   "publishYear": "2022",
+   "definition": "大众传播具有帮助社会团体或个人收集信息，以判断、了解和应对周围自然环境与社会环境状况及其变化的社会效能。美国学者哈罗德·拉斯韦尔(Harold Lasswell)1948年提出的大众传播的三大社会功能"
+  },
+  {
+   "cn": "大规模监视",
+   "en": "mass surveillance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.13",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对整个或相当大一部分人口进行的复杂监视，通常由政府或政府组织进行，但也可由公司代表政府或主动进行。根据每个国家的法律和司法制度，从事大规模监视所需的合法性和许可权各有不同。它通常不同于定向监视。大规模"
+  },
+  {
+   "cn": "监视社会",
+   "en": "surveillance society",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.131",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种通过监视方能部分运转的社会，个人和群体生活中的信息被广泛收集、记录、存储、分析和应用。"
+  },
+  {
+   "cn": "监视国家",
+   "en": "surveillance state",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.083",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "由政府或政府所属的情报机构执行，对行政区域内全体或大多数社会成员实施大规模监控的国家。大规模监控常以打击恐怖主义、避免社会动乱、维护国家安全、打击儿童色情以及保护儿童等理由被提出，并使用“无所隐瞒论”"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境监视",
+   "en": "environmental surveillance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immune surveillance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫监视",
+   "en": "immune surveillance",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电子监视",
+   "en": "electronic surveillance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海洋监视",
+   "en": "marine surveillance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "监督",
+   "en": "surveillance (=supervision)",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发达资本主义",
+   "en": "advanced capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工业资本主义",
+   "en": "industrial capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "解组式资本主义",
+   "en": "disorganised capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "垄断资本主义",
+   "en": "monopoly capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "企业资本主义",
+   "en": "corporate capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球资本主义",
+   "en": "global capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "晚期资本主义",
+   "en": "late capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "组织化资本主义",
+   "en": "organized capitalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "头状骨",
+   "en": "capitate bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "流动资金",
+   "en": "working capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "投资资本",
+   "en": "investment capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定资本",
+   "en": "fixed capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "资本所得",
+   "en": "capital gain",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本论",
+   "en": "Data Capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本主义",
+   "en": "data capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "都",
+   "en": "Capital/ Metropolis",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本",
+   "en": "Data Capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本化",
+   "en": "data capitalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜计划",
+   "en": "PRISM Surveillance Program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风投创投网络",
+   "en": "venture capital network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资本充足性监管",
+   "en": "capital adequacy supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安防监控系统",
+   "en": "security surveillance and control system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线安防探测系统",
+   "en": "wireless security and surveillance system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本时代",
+   "en": "era of data capitalism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "京（京师）",
+   "en": "Capital of a Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资本金融化",
+   "en": "financialization of human capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府性创业投资基金",
+   "en": "government-sponsored venture capital fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监控",
+   "en": "surveillance",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.34",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "关于规训、越轨、制度性实践的一种广泛设定，它们共同强调的是社会限制、人格成长、教育后果的特定见解；它除了包含警察、监狱、军队、收容所、宗教、学校、精神病院、社会工作组织等正式的组织实践，还包括公共场所"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.14",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种由私人占有生产资料、高度集中的资本用以创造和积累利润、雇佣为获取工资而出卖劳动力的自由劳动者的经济制度，引申为一种与社会主义相对的社会经济制度。"
+  },
+  {
+   "cn": "资本主义",
+   "en": "capitalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0228",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展史上最后一个人剥削人的社会形态，是以社会化大生产为物质条件，以生产资料资本家私人占有制为基础、以资本剥削雇佣劳动为主要特征并由资产阶级掌握国家政权的社会经济制度及其上层建筑的社会制度。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0088",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "能够带来剩余价值的价值。资本可以表现为生产要素，而本质是经济活动中人与人之间的关系。私人企业的资本是靠剥削雇佣劳动而带来私人剩余价值的价值。社会主义国有资本和集体资本等公有资本则可以带来公有剩余价值，"
+  },
+  {
+   "cn": "资本化",
+   "en": "capitalization",
+   "source": "马克思主义",
+   "wordNumber": "02.0239",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生息资本的形成造成每一个确定的和有规则的货币收入都比拟为一个资本的利息，而不论其是否由资本生出。资本化就是将这一收入算作是按平均利息率贷出的一个资本会提供的收益，这样这个收入就资本化了。"
+  },
+  {
+   "cn": "按人头付费",
+   "en": "capitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.11",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "根据合同规定的时间(年、季度或月)，由保险机构依据医疗服务提供者服务的人口数和规定的人均定额标准，预先向服务提供者支付的固定费用。许多国家对全科医疗服务多采用这种预付方法。"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0624",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。资本是指对自己和他人未来施加控制的能力，是一种权力的形式，包含四种形态：经济资本——以财产权的形式被制度化，文化资本——以教育资格的形"
+  },
+  {
+   "cn": "核监测",
+   "en": "nuclear surveillance",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "通过各种技术手段对核活动进行侦测。包括卫星侦察，地震、次声、水声、放射性核素以及电磁辐射等指标的监测活动。以一个国家或全球设立若干监测站，形成网络，有统一的通信和数据传输系统和信息分析中心。"
+  },
+  {
+   "cn": "监测场所",
+   "en": "surveillance area",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "在校内或特定的健康人群体检场所，设有学生集合场地、大于等于20平方米的室内候诊区、男女分开的内科、外科检查室、眼科、耳鼻喉科、口腔科检查室、化验室、消毒供应室、男、女卫生间，能满足健康检查要求的场地。"
+  },
+  {
+   "cn": "监测方法学",
+   "en": "surveillance methodology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "研究人群健康相关问题监测思维和工作方法的一门综合性学科。"
+  },
+  {
+   "cn": "监测方法",
+   "en": "surveillance approach",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测方法”。又称“妇幼健康监测方法”。可满足不同监测目标的一套监测思维和工作方法。主要包括主动、被动、人群和医院监测。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "根据疾病预防控制的需要，由上级单位主动采取额外的措施收集健康数据并确认疾病诊断的一种监测方式。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由下级监测单位常规地向上级机构报告健康数据，而上级单位被动接受的一种监测方式。"
+  },
+  {
+   "cn": "监测评价",
+   "en": "surveillance evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测评价”。又称“妇幼健康监测评价”。根据监测信息，系统、有效的评估监测目标进展、干预措施效果等，并不断优化监测系统，以确保完成监测目标的过程。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "基层机构或个体报告食源性疾病事件，上级单位接受报告资料"
+  },
+  {
+   "cn": "症状监测",
+   "en": "symptom surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "长期、连续、系统收集特定临床症候群及与疾病相关表现的发生情况。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对特定病原体的监测，为食源性疾病诊断提供病原学确证，并结合流行病学调查，掌握重要食源性疾病的发病基线"
+  },
+  {
+   "cn": "流行病学监测",
+   "en": "epidemiological surveillance",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "长期地、连续地收集、核对、分析目标区域疾病的动态分布和影响因素资料，并将资料信息及时和反馈，以便及时采取干预措施或用于生物安全风险评估的过程。"
+  },
+  {
+   "cn": "理性资本主义",
+   "en": "rational capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会以理性原则建立的资本主义贸易、生产和金融模式。存在的前提条件包括市场的交易自由、发达的货币经济、劳动力的商品化、诸如簿记制度等理性技术的运用，经营组织与家产分离或产权的明晰化、法律保障、经济生"
+  },
+  {
+   "cn": "政治资本主义",
+   "en": "political capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.10",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "依赖于政治权威的支持，或以其他方式与政府相关联以实现私人经济利益的资本主义模式。马克斯•韦伯根据创造利益的关键因素的不同和赢利模式的不同提出的资本主义理想类型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "second-level function",
+ "term": "second-level function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:17:29+00:00",
+ "status": "ok",
+ "note": "variant=second-level function; 审定公布名词库=5148; 海峡两岸名词对照库=1403; 其他来源数据库=242; 预公布名词数据库=233; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "二级高速缓存",
+   "en": "second level cache",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0392",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "中央处理器（CPU）与内存之间的第二级高速缓存，它的速度比第一级高速缓存慢，但容量比第一级高速缓存大。"
+  },
+  {
+   "cn": "秒",
+   "en": "second",
+   "source": "计量学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "计量学_时间、频率_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "国际单位制中的时间单位，符号s。当铯频率<img src='/root/syzx/static/spz/miao1.png'/>，也就是铯133原子不受干扰的基态超精细跃迁频率，以单位Hz即<img "
+  },
+  {
+   "cn": "职能[层]战略",
+   "en": "functional-level strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0677",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "在公司层战略的指导下，为了保证公司层战略和业务层战略的贯彻实施而在企业特定管理领域由中层管理人员参与制定的具体战略。"
+  },
+  {
+   "cn": "鼠疫疫情Ⅱ级预警",
+   "en": "second level of plague early-warning",
+   "source": "地方病学名词",
+   "wordNumber": "07.306",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "发生较大鼠疫疫情(Ⅲ级疫情)时的预警级别。"
+  },
+  {
+   "cn": "二次花",
+   "en": "second flowering,second bloom",
+   "source": "林学名词",
+   "wordNumber": "05.255",
+   "subjectFullName": "林学_森林培育_经济林",
+   "subjectName": "经济林",
+   "publishYear": "2016",
+   "definition": "在副梢上的芽当年萌发并开放的花。"
+  },
+  {
+   "cn": "二副",
+   "en": "second officer,second mate",
+   "source": "航海科技名词",
+   "wordNumber": "13.0355",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "风景园林名词",
+   "wordNumber": "08.0018",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "根据水准测量原理测量地面两点间高差的仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "地球物理学_地球重力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "根据水准测量原理，建立水平视线测定地面两点间高差的仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "光学名词",
+   "wordNumber": "19.015",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "测量地面上两点间高度差的光学仪器。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "测绘学名词",
+   "wordNumber": "02.421",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "根据水准测量原理测量地面两点间高差的仪器。"
+  },
+  {
+   "cn": "阶段",
+   "en": "level",
+   "source": "冶金学名词",
+   "wordNumber": "02.0730",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "沿矿体的垂直方向按一定高度将矿体划分成具有走向全长的矿段。该矿段的下端水平层称为阶段水平，一般担负运输、通风、排水等功能。"
+  },
+  {
+   "cn": "级别",
+   "en": "level",
+   "source": "物理学名词",
+   "wordNumber": "01.0300",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "level",
+   "source": "计量学名词",
+   "wordNumber": "08.021",
+   "subjectFullName": "计量学_声学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "声学中一个量与同类基准量之比的对数。"
+  },
+  {
+   "cn": "级",
+   "en": "level",
+   "source": "建筑学名词",
+   "wordNumber": "10.0192",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "在声学中一个量与同类基准量之比的对数。"
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.320",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "一个时间变量，如功率或场量，在特定的时间间隔内以特定方式计算的均值或加权值。其单位可以用相对于基准值的对数形式表示，例如“分贝”。"
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.234",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_水准仪",
+   "subjectName": "水准仪",
+   "publishYear": "2003",
+   "definition": "测量地面两点间高差的仪器。一般由望远镜、管状水准器或补偿器、竖轴、基座等组成。"
+  },
+  {
+   "cn": "水平仪",
+   "en": "level",
+   "source": "土木工程名词",
+   "wordNumber": "15.038",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测检测仪器",
+   "subjectName": "土木工程检测检测仪器",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0030",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "水平",
+   "en": "level",
+   "source": "数学名词",
+   "wordNumber": "09.0717",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "电子学名词",
+   "wordNumber": "03.289",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二级高速缓存",
+   "en": "second-level cache",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二等水准测量",
+   "en": "second order leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "二度",
+   "en": "second",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "二副",
+   "en": "second officer\",\"second mote",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水准",
+   "en": "level",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "层次",
+   "en": "level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "水准仪",
+   "en": "level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电平",
+   "en": "level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二语言",
+   "en": "second language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第二转位",
+   "en": "second inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第二信使",
+   "en": "second messenger",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "次生相",
+   "en": "second phase",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光秒",
+   "en": "light second",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "历书秒",
+   "en": "ephemeris second",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闰秒",
+   "en": "leap second",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "食既",
+   "en": "second contact",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "原子时秒",
+   "en": "atomic second",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "第二抵押",
+   "en": "second mortgage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二受益人",
+   "en": "second beneficiary",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "助手",
+   "en": "second",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二姿势",
+   "en": "seconde",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二姿势防守",
+   "en": "seconde",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half\",\"second period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举枪瞄准",
+   "en": "level",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二回合!",
+   "en": "Second round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二助手",
+   "en": "assistant second",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下半场",
+   "en": "second half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二节",
+   "en": "second quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二局！",
+   "en": "Second round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二腾空",
+   "en": "second flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二套比赛服",
+   "en": "second suit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球",
+   "en": "second serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球",
+   "en": "second service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球队员",
+   "en": "second server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二发球!",
+   "en": "Second service!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二垒手",
+   "en": "second baseman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二性",
+   "en": "second sex",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "源自法国哲学家、女权主义先驱者西蒙·波伏娃在20世纪中叶出版的同名著作，用于描述妇女作为“他者”在社会和文化中所处的生存处境和附属地位的著名概念。与作为第一性和主体的男性相比，妇女只是被动的第二性。"
+  },
+  {
+   "cn": "第二条战线",
+   "en": "second front",
+   "source": "马克思主义",
+   "wordNumber": "03.0367",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争时期国民党统治区广大爱国学生、工人、市民及其它阶层人民，在中国共产党领导下，反对美军暴行，反对蒋介石政权的内战、独裁、卖国政策的爱国民主运动。相对于中国共产党领导的军事斗争，称第二条战线。"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第二语言",
+   "en": "second language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0182",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第一语言”相对。双语人或多语人第一语言以外的其他语言。也指使用除母语外的第二种语言。"
+  },
+  {
+   "cn": "苏联第二个五年计划",
+   "en": "second fiveyear plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0307",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联1933—1937年的国民经济发展计划。1934年1月联共（布）第十七次代表大会通过。1936年第二个五年计划提前完成，1937年该计划超额完成。"
+  },
+  {
+   "cn": "第二国际左派",
+   "en": "Second International Left",
+   "source": "马克思主义",
+   "wordNumber": "04.0402",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末在国际工人运动中出现的同爱德华·伯恩斯坦（Eduard Bernstein）等右派相对立的马克思主义派别。随着19世纪末伯恩斯坦公开举起了修正主义的旗帜，在德国社会民主党内部，倍倍尔（Aug"
+  },
+  {
+   "cn": "第二产程延长",
+   "en": "protracted second stage",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "初产妇从宫口开全到胎儿娩出>3小时，经产妇>2小时（硬膜外麻醉镇痛分娩时，初产妇>4小时，经产妇>3小时），产程（胎头下降和旋转）无进展的状况。"
+  },
+  {
+   "cn": "第二次民族大调查",
+   "en": "second ethnic survey",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0419",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "进入改革开放和中国特色社会主义现代化建设时期，为了对少数民族在改革开放中面临的问题形成准确认识并提出建议，以1992 年中央民族工作会议精神为遵循，中国社会科学院实施了“中国少数民族现状与发展调查项目"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "安静水平",
+   "en": "quiet level",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.1.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "舰船的噪声强度控制到使舰员感到安静的水平，以保证舰员清晰的语言交谈，最好控制在低于56dBA。"
+  },
+  {
+   "cn": "消毒水平",
+   "en": "disinfection level",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过消毒处理所体现出对微生物杀灭能力的强度。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "记录水平",
+   "en": "recording level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.11",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。当工作人员接受的剂量或摄入量达到或超过这一数值时，则应记入他们的个人受照记录。"
+  },
+  {
+   "cn": "调查水平",
+   "en": "investigation level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "审管部门所规定的剂量或摄入量的一个数值。达到或超过这一数值时应进行调查。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  },
+  {
+   "cn": "解控水平",
+   "en": "clearance level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.4",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度表示的值，在等于或低于该值时，在已通知或授权实践中的辐射源可以解除监管控制。"
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为对核或辐射紧急情况的应急准备和响应进行优化而建立的一种分类方案，以求与威胁评估中所确立的危险的可能大小和性质相适应。威胁分为五种类型，I类到Ⅲ类按威胁水平逐次降低，Ⅳ类是在任何地区都可能存在的威胁和"
+  },
+  {
+   "cn": "行动水平",
+   "en": "action level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "在持续照射情况或应急照射情况下，应考虑采取补救行动或防护行动的剂量率水平或活度浓度水平。"
+  },
+  {
+   "cn": "测量层次",
+   "en": "measurement level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "社会测量中由对测量对象数量化程度的高低决定的测量水平。依数量化程度由低到高的顺序，可将测量分为定类测量、定序测量、定距测量和定比测量4个层次。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

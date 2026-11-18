@@ -1,0 +1,782 @@
+{
+ "key": "expansion",
+ "term": "expansion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:28:07+00:00",
+ "status": "ok",
+ "note": "variant=expansion; 审定公布名词库=940; 海峡两岸名词对照库=202; 其他来源数据库=26; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "物理学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "扩展",
+   "en": "expansion",
+   "source": "语言学名词",
+   "wordNumber": "04.261",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语法分析术语。指某语法形式由简单变为复杂。如“白马”到“白的马”，“看小说”到“看侦探小说”，“学英语”到“学会英语”，在语法上都叫扩展。"
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1307",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_塑性加工技术",
+   "subjectName": "塑性加工技术",
+   "publishYear": "2011",
+   "definition": "使空心坯料或管状坯料的端部径向尺寸向外扩大的成形方法。"
+  },
+  {
+   "cn": "扩充",
+   "en": "expansion",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.256",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "把已压缩信号恢复成原状的操作。"
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.296",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "数学名词",
+   "wordNumber": "02.0084",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀",
+   "en": "expansion",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀率",
+   "en": "expansivity",
+   "source": "物理学名词",
+   "wordNumber": "05.0092",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint,expansion piece,expansion pipe",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0451",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_管道系统和附件",
+   "subjectName": "管道系统和附件",
+   "publishYear": "2013",
+   "definition": "在烟、风管道和风粉管道(或设备)中，能补偿两固定端之间的冷/热胀差并使接点自由移动的装置。"
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint,expansion piece",
+   "source": "电力名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在管道(烟、风管道)中间设置的、能补偿管道长度方向上的热胀冷缩量并保持管道密封性的连接件。"
+  },
+  {
+   "cn": "膨胀水箱",
+   "en": "expansion tank,expansion drum",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1030",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "透平膨胀机",
+   "en": "expansion turbine,turbo- expander",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0135",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷机",
+   "subjectName": "制冷机",
+   "publishYear": "2013",
+   "definition": "将高压制冷剂通过叶轮旋转而膨胀成低温、低压状态，并输出外功的机械。其主要零件有轴、叶轮、喷嘴和蜗壳等。"
+  },
+  {
+   "cn": "透平膨胀机",
+   "en": "expansion turbine,turbo- expander",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0135",
+   "subjectFullName": "机械工程_流体机械_气体分离设备_透平膨胀机",
+   "subjectName": "透平膨胀机",
+   "publishYear": "2013",
+   "definition": "通过流体在喷嘴和工作轮中的膨胀使工作轮旋转，对外做功而降低流体出口温度的机械。"
+  },
+  {
+   "cn": "胀缝",
+   "en": "expansion joint",
+   "source": "风景园林名词",
+   "wordNumber": "08.0466",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "为使路面在温度升高时能自由伸展，在路面板上设置的缝隙。"
+  },
+  {
+   "cn": "膨胀干燥机",
+   "en": "expansion dryer",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0962",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "利用剪切、挤压、压差作用进行橡胶干燥的一种机器。由主电机、液力耦合器、齿轮减速器、主螺杆、螺套、机筒、剪切螺钉和模板组成。"
+  },
+  {
+   "cn": "胀大型",
+   "en": "expansion type",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0139",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "一种喷丝状态。纺丝原液从喷丝板中挤出，由于高聚物流体的弹性作用，纺丝流体在孔口发生胀大，但不黏附于喷丝板表面，只要胀大比控制在适当范围内，则原液细流保持连续稳定。"
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0111",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "设置在容器壳体或管道上，能有效地起到补偿因温度差与机械振动引起的轴向变形作用的挠性元件。"
+  },
+  {
+   "cn": "膨胀阀",
+   "en": "expansion valve",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0164",
+   "subjectFullName": "化工（八）_管道_阀门",
+   "subjectName": "阀门",
+   "publishYear": "2021",
+   "definition": "使中温高压的液体制冷剂通过其节流成为低温低压的湿蒸汽的阀门。是制冷系统中的一个重要部件。"
+  },
+  {
+   "cn": "冷装",
+   "en": "expansion fitting",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "16.010",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_钳工及装配工具_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "具有过盈量配合的两个零件，装配时先将被包容件用冷却剂冷却，使其尺寸收缩，再装入包容件使其达到配合位置的过程。"
+  },
+  {
+   "cn": "胀圈",
+   "en": "expansion ring",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0365",
+   "subjectFullName": "机械工程（一）_机械零件_离合器_离合器主要零部件",
+   "subjectName": "离合器主要零部件",
+   "publishYear": "2021",
+   "definition": "依靠其开胀弹性产生摩擦力以传递动力或运动的、带有缺口的金属圈。"
+  },
+  {
+   "cn": "expansion",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扩口",
+   "en": "expansion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "伸展组织",
+   "en": "expansion tissue",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀因子",
+   "en": "expansion factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "expansion coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀节",
+   "en": "expansion joint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀功",
+   "en": "expansion work",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀环",
+   "en": "expansion loop",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀损失",
+   "en": "expansion loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "发泡成型",
+   "en": "expansion molding",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "扩张因子",
+   "en": "expansion factor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀年龄",
+   "en": "expansion age",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扩张因子",
+   "en": "expansion factor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资扩张",
+   "en": "expansion investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀系数",
+   "en": "expansion coefficient",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩展扩散",
+   "en": "expansion diffusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扩充槽",
+   "en": "expansion slot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扩张规则",
+   "en": "expansion rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀比",
+   "en": "expansion ratio",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀柜",
+   "en": "expansion tank",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多种方式扩大产能和增加产量",
+   "en": "to expand capacity and increase output in a variety of ways",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据爆炸",
+   "en": "data explosion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "枪托延伸部",
+   "en": "butt extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展不完全",
+   "en": "uneven extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退区域",
+   "en": "extension\",\"retreat zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "车把手杆",
+   "en": "handlebar extension\",\"stem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "服务化延伸",
+   "en": "service-oriented extension",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"suspend\",\"expulsion\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "扩大再生产",
+   "en": "expanded reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0209",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "相对于简单再生产而言的另一种再生产的形式，生产过程在扩大规模上的重复进行。主要有两种形式或方式：外延的扩大再生产和内含的扩大再生产。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "扩大的价值形式",
+   "en": "total or expanded form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0062",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第二阶段。一种商品的价值以一系列其他商品来表现的价值形式。从简单价值形式发展到总和的或扩大的价值形式表明商品交换关系的发展与扩大。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "大气层核爆炸",
+   "en": "atmospheric nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以上的核爆炸。包括地（水）面核爆炸和爆炸高度在海拔30km以下的空中核爆炸。有利于对核爆炸产生的力学、光学、核辐射、电磁脉冲和放射性沾染等效应进行观测和研究，为核防护和核武器使用提供数据。"
+  },
+  {
+   "cn": "地下核爆炸",
+   "en": "underground nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "地面以下一定深度的核爆炸。按比深不同可分为浅层地下核爆炸和封闭式地下核爆炸。"
+  },
+  {
+   "cn": "水下核爆炸",
+   "en": "underwater nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器在水面以下的爆炸。用于破坏水下、水面舰艇和水中设施。爆炸会造成局部水域严重放射性污染。水下核爆炸火球比空爆小，爆心附近水域被火球照亮，形成明亮发光区；爆心上面的水被掀起可形成不同高度的中空水柱，"
+  },
+  {
+   "cn": "核爆炸装置",
+   "en": "nuclear explosion device",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "具有核爆炸功能的裂变装置或聚变装置，是原子弹或氢弹的核心组成部分。核装置用于各种目的的核试验时，可以只是一种物理装置，而不是武器。按照核武器作战使用目的而设计制造的核装置，加上引爆控制系统和相应的结构"
+  },
+  {
+   "cn": "核爆炸方式",
+   "en": "types of nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核武器或核装置在不同介质、不同高度爆炸的类型。分为高空核爆炸、大气层核爆炸、地下核爆炸和水下核爆炸四类。"
+  },
+  {
+   "cn": "高空核爆炸",
+   "en": "high-altitude nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "高度在海拔30km以上的核爆炸。包括外层空间核爆炸。爆心海拔80km以下的高空核爆炸与空中核爆炸特征相似；爆心距地面60km～80km处，可能形成厚度10 km～15km的饼状火球。80km以上高空核"
+  },
+  {
+   "cn": "宫内节育器脱落",
+   "en": "expulsion of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器置入宫腔后，逐渐移位到宫颈管或宫颈外口的（部分脱落），或移位到阴道或体外（完全脱落）的现象。根据脱落程度会引起出血、腹痛，带器妊娠或意外妊娠。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury from nuclear explosion",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "核武器爆炸时人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。核爆炸光辐射、冲击波、早期核辐射和放射性沾染可同时对人体造成烧伤、冲击伤和放射性损伤等多种损伤。"
+  },
+  {
+   "cn": "和平利用地下核爆炸条约",
+   "en": "Peaceful Nuclear Explosion Treaty，PNET",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1974年《限制地下核武器试验条约》规定在缔约国管辖的任何地方禁止进行超过150kt的地下核试验。为了区分试验的目的，1974年10月美、苏开始《和平利用地下核爆炸条约》的谈判，1976年5月签署了该"
+  },
+  {
+   "cn": "核爆炸复合伤",
+   "en": "combined injury of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸时人员同时或相继受到光辐射、冲击波、早期核辐射和放射性沾染4种杀伤因素中的两种或两种以上杀伤因素共同作用引起的损伤。"
+  },
+  {
+   "cn": "核爆炸光辐射",
+   "en": "optical radiation of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.52",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间产生的几千万度的高温火球，向四周辐射的光和热。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

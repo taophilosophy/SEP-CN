@@ -1,0 +1,792 @@
+{
+ "key": "risk function",
+ "term": "risk function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:15:57+00:00",
+ "status": "ok",
+ "note": "variant=risk function; 审定公布名词库=3981; 海峡两岸名词对照库=1005; 其他来源数据库=199; 预公布名词数据库=259; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "风险函数",
+   "en": "risk function",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0204",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "损失函数对后果的期望值。"
+  },
+  {
+   "cn": "风险函数",
+   "en": "risk function",
+   "source": "数学名词",
+   "wordNumber": "09.0524",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "后验风险[函数]",
+   "en": "posterior risk [function]",
+   "source": "数学名词",
+   "wordNumber": "09.0539",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "农学名词",
+   "wordNumber": "18.139",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "将对人类和动植物的健康或环境产生不良效应的可能性和严重性。这种不良效应是由农产品中的某种危害所引起的。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "发生某一特定危险情况的可能性和后果的结合。"
+  },
+  {
+   "cn": "［疫病］风险",
+   "en": "risk",
+   "source": "兽医学名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "在进口动物检疫物时某种疫病传入的概率及其危害。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "经济学名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在未来可能发生的且可以通过保险和预见等方式加以排除的事件。风险可以通过保险和预见等方式加以排除的原因在于，经济主体虽然不能确定某种经济事件在未来产生的结果，但是经济主体可以根据经验和其他信息来确定经济"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "某一特定危险情况发生的可能性与后果的组合。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "计划生育名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "某一事件产生不利结果的可能性。包括发生的可能性及产生不良后果的严重程度两方面，具有客观性、永恒性、不确定性和危害性。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0135",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "决策结果低于预期或损失可能性的分布表达。"
+  },
+  {
+   "cn": "金融风险",
+   "en": "risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0024",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "损失与收益的不确定性，实际损益与预期损益之间存在的相对差异。即包括发生与否的不确定性、发生时间的不确定性、发生的状况及其结果的不确定性。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.051",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "在决策过程中，由于各种不确定性因素的作用，使决策方案在一定时间内出现不利结果的可能性以及可能损失的程度。"
+  },
+  {
+   "cn": "危险",
+   "en": "risk",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "用于表述与照射或潜在照射有关的危害、危险或损害、伤害后果发生概率的多属性量。它与可能发生特定有害后果的概率及这种后果的严重程度和特性等量有关。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "地理学名词",
+   "wordNumber": "25.028",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "不确定性的一种。但已知不确定状态服从某种概率分布。"
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.259",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "危险性",
+   "en": "risk",
+   "source": "电气工程名词",
+   "wordNumber": "29.042",
+   "subjectFullName": "电气工程_电气安全",
+   "subjectName": "电气安全",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "数学名词",
+   "wordNumber": "011.0593",
+   "subjectFullName": "数学_运筹学_决策论·价值论",
+   "subjectName": "决策论?价值论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非系统性风险",
+   "en": "unsystematic risk,diversifiable risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0553",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "某些特定因素给单个资产带来价格波动的风险。可以通过投资组合予以降低或消除。"
+  },
+  {
+   "cn": "地震危险性",
+   "en": "seismic risk,earthquake risk",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "风险确定",
+   "en": "risk confirmation;risk identification",
+   "source": "兽医学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "识别存在的风险并认定其特性的过程。"
+  },
+  {
+   "cn": "风险函数",
+   "en": "risk function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "风险",
+   "en": "risk",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "气候风险",
+   "en": "climatic risk",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险因子",
+   "en": "risk factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知觉风险",
+   "en": "perceived risk",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会风险",
+   "en": "social risk",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理风险",
+   "en": "psychological risk",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "风险分析",
+   "en": "risk analysis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "捕食风险",
+   "en": "predation risk",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "风险管理",
+   "en": "risk management",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险升水",
+   "en": "risk premium",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险套利",
+   "en": "risk arbitrage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险投资",
+   "en": "risk investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险厌恶",
+   "en": "risk aversion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险因素",
+   "en": "risk element",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险资本",
+   "en": "risk capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附加险",
+   "en": "accessory risk",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "港口险",
+   "en": "harbor risk",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "惊险性",
+   "en": "risk\",\"R",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风险管理",
+   "en": "risk management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用风险",
+   "en": "credit risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场风险",
+   "en": "market risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作风险",
+   "en": "operational risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政策风险",
+   "en": "political risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管理风险",
+   "en": "management risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清算风险",
+   "en": "settlement risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据风险",
+   "en": "data risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "税务风险",
+   "en": "taxation risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "货币风险",
+   "en": "currency risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权益风险",
+   "en": "equity risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汇率风险",
+   "en": "exchange risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术风险",
+   "en": "technical risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律风险",
+   "en": "legal risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合规风险",
+   "en": "compliance risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战略风险",
+   "en": "strategic risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流动性风险",
+   "en": "liquidity risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "对整个系统或市场造成广泛影响和损失的风险。在食品安全领域着重于由结构缺陷、管理漏洞或外部冲击引起的广泛性、连锁性危害，可能导致重大公共卫生事件、经济冲击和社会信任危机。这类风险具有跨区域、跨环节、跨主"
+  },
+  {
+   "cn": "风险评估",
+   "en": "risk assessment",
+   "source": "消毒学",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "通过风险分析预测风险发生的概率及损失程度，并结合其他因素评估风险发生的可能性及其危害程度，决定是否需要采取相应措施的过程。"
+  },
+  {
+   "cn": "超额危险",
+   "en": "excess risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "有时指人群超额率，有时指危险之差。前者指暴露组人群的某一疾病率与非暴露组人群该疾病率的差值，它是对人群暴露于某危险因素所致疾病危险的量度。后者指两个危险的绝对差值。"
+  },
+  {
+   "cn": "绝对危险",
+   "en": "absolute risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "研究人群中某事件的观察或计算得出的发生概率。偶指归因分数、超额危险、率差等。"
+  },
+  {
+   "cn": "终生危险",
+   "en": "lifetime risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.14",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露后，一个人在任意时间发生某效应的危险。"
+  },
+  {
+   "cn": "辐射危险",
+   "en": "radiation risk",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.1.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护基本概念",
+   "subjectName": "放射防护基本概念",
+   "publishYear": "2025",
+   "definition": "用于表述与照射或潜在照射有关的危害、危险或损害、伤害后果发生概率的多重属性量。它与可能发生特定有害后果的概率及这种后果的严重程度和特性等量有关。"
+  },
+  {
+   "cn": "危险约束",
+   "en": "risk constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "一个预测的和源相关的个人危险值，在计划照射情况下，作为该源防护和安全最优化的参数，并用作最优化中方案选择范围的一个边界。"
+  },
+  {
+   "cn": "风险系数",
+   "en": "risk coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.5",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "假设的因暴露于单位当量剂量或有效剂量而导致的终生风险或辐射损害。"
+  },
+  {
+   "cn": "风险沟通",
+   "en": "risk communication",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在突发事件发生之前（作为准备活动的一部分）、期间和之后采取的一种干预措施，旨在使处于危险中的每个人都能够做出明智的决定，以保护自己、家人和社区免受生存、健康和福祉的威胁。"
+  },
+  {
+   "cn": "风险社会",
+   "en": "risk society",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "现代化导致的负面影响，风险和危险作为现代化的一部分产生，社会需要防止、最小化这些风险和危险，意味着我们正在从利益分配的冲突转移到损失分配的冲突。具体表现为高度发展的技术风险、生态风险、个体风险和全球风"
+  },
+  {
+   "cn": "风险机制",
+   "en": "risk mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.4",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在利益的诱惑下，风险作为一种外在压力与竞争及供求共同作用于市场主体，共同调节市场运行的一种约束机制。"
+  },
+  {
+   "cn": "风险补贴",
+   "en": "risk subsidy",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.3.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金统筹",
+   "subjectName": "卫生资金统筹",
+   "publishYear": "2025",
+   "definition": "对医疗风险低风险者对高风险者的交叉补贴。"
+  },
+  {
+   "cn": "疾病风险",
+   "en": "disease risk",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "人身罹患各类疾病的可能性，包括疾病发生的概率及疾病发生后的预期损失严重程度两方面。"
+  },
+  {
+   "cn": "健康风险",
+   "en": "health risk",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "直接作用于人的身体、影响人体健康的一种风险，包括因自然、社会和人自身发展的诸多因素，导致人出现疾病、伤残以及造成健康损失的可能性。"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "风险中立",
+   "en": "risk neutrality",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险既不规避也不追求的一种态度。选择资产的唯一标准是预期收益的大小，而不管风险状况如何，是因为所有预期收益相同的资产将带来同样的效用"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "共担风险",
+   "en": "risk-sharing",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "参保者和保险机构共同承担参保者接受卫生服务所带来的费用或成本消耗"
+  },
+  {
+   "cn": "风险调整",
+   "en": "risk adjustment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医保部门通过分析不同区域、不同基金的参保人群健康风险和疾病经济负担，在进行基金分配、支付和管理时进行优化，以调节不同区域、人群、医疗机构面临的风险差异。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

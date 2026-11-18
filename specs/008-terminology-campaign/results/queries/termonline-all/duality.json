@@ -1,0 +1,702 @@
+{
+ "key": "duality",
+ "term": "duality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:27:29+00:00",
+ "status": "ok",
+ "note": "variant=duality; 审定公布名词库=1271; 海峡两岸名词对照库=270; 其他来源数据库=58; 预公布名词数据库=107; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "经济学名词",
+   "wordNumber": "10.152",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "线性规划中存在的一种特性，即任何一个求解极大化的线性规划问题都有一个与之匹配的求解极小化的线性规划问题。例如，求解利润最大化问题与求解成本最小化问题对偶。Min{b′y∣A′y≤c, y≥0}称为问题"
+  },
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "物理学名词",
+   "wordNumber": "05.1060",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "化学工程名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "对偶性",
+   "en": "duality",
+   "source": "数学名词",
+   "wordNumber": "011.0110",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "电子学名词",
+   "wordNumber": "03.329",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]映射",
+   "en": "duality mapping",
+   "source": "数学名词",
+   "wordNumber": "07.0329",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶原理",
+   "en": "duality principle",
+   "source": "数学名词",
+   "wordNumber": "08.0344",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶定理",
+   "en": "duality theorem",
+   "source": "数学名词",
+   "wordNumber": "011.0117",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶间隙",
+   "en": "duality gap",
+   "source": "数学名词",
+   "wordNumber": "011.0116",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶理论",
+   "en": "duality theory",
+   "source": "数学名词",
+   "wordNumber": "011.0111",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶原理",
+   "en": "duality principle",
+   "source": "数学名词",
+   "wordNumber": "08.0344",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自对偶性",
+   "en": "self-duality",
+   "source": "物理学名词",
+   "wordNumber": "11.0716",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "斯通对偶",
+   "en": "Stone duality",
+   "source": "数学名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "塞尔对偶",
+   "en": "Serre duality",
+   "source": "数学名词",
+   "wordNumber": "04.1158",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "亚历山大对偶",
+   "en": "Alexander duality",
+   "source": "数学名词",
+   "wordNumber": "08.0758",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "凸对偶",
+   "en": "convex duality",
+   "source": "数学名词",
+   "wordNumber": "011.0115",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拉格朗日对偶[性]",
+   "en": "Lagrange duality",
+   "source": "自动化名词",
+   "wordNumber": "03.168",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱对偶",
+   "en": "Poincare&1& duality",
+   "source": "数学名词",
+   "wordNumber": "08.0757",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "波粒二象性",
+   "en": "wave-particle duality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.368",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "微观粒子在一定条件下具有粒子性，而在另一些条件下具有波动性。微观粒子的波粒二象性也构成波粒佯谬。"
+  },
+  {
+   "cn": "波粒二象性",
+   "en": "wave-particle duality",
+   "source": "光学名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "电磁波(包括光)和粒子在运动或传播时所显示出的波动性和粒子性的双重性质。"
+  },
+  {
+   "cn": "对偶［性］",
+   "en": "duality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对偶[性]",
+   "en": "duality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶原理",
+   "en": "duality principle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重循环",
+   "en": "dual recirculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双重人格",
+   "en": "dual personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重态度",
+   "en": "dual attitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重关系",
+   "en": "dual relationship",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[海运保险中的]船舶双重估值",
+   "en": "dual valuation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双轨银行业务",
+   "en": "dual banking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双重关税",
+   "en": "dual duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "二元结构",
+   "en": "dual-texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "双识别",
+   "en": "dual recognition",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对偶码",
+   "en": "dual code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶网络",
+   "en": "dual network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶运算",
+   "en": "dual operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双处理器",
+   "en": "dual processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双份编码",
+   "en": "dual coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双极化",
+   "en": "dual polarization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双方责任",
+   "en": "dual responsibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双目标",
+   "en": "dual objectives",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "双重产权",
+   "en": "dual property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双重网络嵌入",
+   "en": "Dual GEnerative Network Embedding (DGENE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双线多头监管体制",
+   "en": "dual regulation systems with multiple regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等",
+   "en": "Equality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "获得参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "达到参赛资格",
+   "en": "qualify",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劳动二重性",
+   "en": "duality of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0043",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产商品的同一劳动同时具有的具体劳动和抽象劳动的属性或规定性。具体劳动生产商品的使用价值，抽象劳动生产商品的价值，是同一劳动过程形成的相互联系又对立的两个方面。马克思创立的劳动二重性学说，批判地继承了"
+  },
+  {
+   "cn": "双重测度",
+   "en": "dual scaling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.52",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "按照相关比最大的原则，对原始类别数据运用方差分析方法计算变量权重的分析方法。"
+  },
+  {
+   "cn": "双向转诊",
+   "en": "dual referral",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "一种为优化医疗资源配置规范基层医疗机构与大中型医疗机构、专科医院之间患者有序流动的政策。"
+  },
+  {
+   "cn": "对偶婚",
+   "en": "dual marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0351",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "原始社会时期，不同氏族的成年男女双方，在或长或短的时间内实行由一男一女组成配偶，以女子或男子为中心，婚姻关系不稳固的一种婚姻形式。对偶婚为一种两厢情愿、不受约束而稍有固定的成对同居形式，其形式有走婚，"
+  },
+  {
+   "cn": "双向转诊",
+   "en": "dual referral service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.9",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "在基层医疗机构与上级医疗机构之间，基于患者病情需要和医疗资源优化配置原则，建立的 “基层首诊、上级医疗机构转诊、康复回基层”的有序医疗服务衔接模式。其核心目标是实现“小病在基层、大病到医院、康复回社区"
+  },
+  {
+   "cn": "双轨政治",
+   "en": "dual-track politics",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统政治结构中连接中央和地方政治的两条轨道。，一条是中央依靠行政、司法等手段，将政令下达到地方；另一条是从县以下，政令与人民的接触转入了自下而上的轨道，即由地方的绅士通过他的社会关系网，把民间的政"
+  },
+  {
+   "cn": "分质供水",
+   "en": "dual water supply",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督",
+   "subjectName": "学校饮用水卫生监督",
+   "publishYear": "2025",
+   "definition": "利用过滤、吸附、氧化、消毒等装置对需要改善水质的集中式供水（或其他水源水）作进一步的净化处理，通过独立封闭的循环管道输送，供直接饮用的水。"
+  },
+  {
+   "cn": "双城市假设",
+   "en": "the dual-city hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "后工业时代社会两极化在城市的空间体现。一方面是高速的经济发展和迅速增长的金融业、高科技行业及公司服务业。另一方面是传统工业以及受工会保护的技术工作的减少，在产业转型的过程中越发加深了社会的贫富差距。"
+  },
+  {
+   "cn": "城乡二元结构",
+   "en": "urban-rural dual system",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "以社会化生产为主要特点的城市经济和以小生产为主要特点的农村经济并存的经济结构。在我国特指在计划经济时期，为集中力量优先发展城市，实现工业现代化，在城市和农村实行两种不同的社会经济制度。"
+  },
+  {
+   "cn": "避孕方法双重保护作用",
+   "en": "dual protection of contraceptive",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.8",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "避孕措施既具有避免妊娠的作用，还具有预防性传播感染或疾病的作用。最常见的方法是男用避孕套和女用避孕套。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "资本主义的双重危机理论",
+   "en": "dual crisis theory of capitalism",
+   "source": "马克思主义",
+   "wordNumber": "05.0187",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国新马克思主义经济学家詹姆斯·奥康纳（James O'Connor）在《自然的理由》中认为，资本主义具有生产力与生产关系、生产的无限性与生产条件的有限性之间的双重矛盾，第一重矛盾导致了资本主义生产过"
+  },
+  {
+   "cn": "民族资产阶级两重性",
+   "en": "dual character of the national bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0374",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族资产阶级在民主革命时期，一方面，因受帝国主义压迫和封建主义束缚，具有反帝反封建的革命性；另一方面，由于经济政治力量弱小，与帝国主义和封建主义有千丝万缕的联系，反帝反封建不彻底，具有妥协性。在社会主"
+  },
+  {
+   "cn": "药品“双通道”管理机制",
+   "en": "dual-channel management mechanism for drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.3.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "通过定点医疗机构和定点零售药店两个渠道，满足药品供应保障、临床使用等方面的合理需求，并同步纳入医保支付的机制。"
+  },
+  {
+   "cn": "双能X射线骨密度测量",
+   "en": "bone densitometry with dual-energy X-ray absorptiometry",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用两种不同能量的X射线通过人体组织时衰减系数的差异来测定骨密度的技术。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "马克思主义",
+   "wordNumber": "01.0088",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "认为世界有两种各自独立、性质不同的本原，即思维和物质两个实体的哲学学说。它坚持意识离开物质而独立存在，其实质是唯心主义哲学观。。哲学史上二元论的著名代表人物之一是法国笛卡儿。"
+  },
+  {
+   "cn": "平等",
+   "en": "equality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.125",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间在经济、政治、文化等方面处于同等地位，具有同等发展机会，享有同等的权利。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将事物划分为两种具有独立性且相互对立的根本属性的理论或方法。通常用于解释物质与精神、身体与意识等不同层面之间的关系。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

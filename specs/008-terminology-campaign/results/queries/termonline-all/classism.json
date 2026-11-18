@@ -1,0 +1,432 @@
+{
+ "key": "classism",
+ "term": "classism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-18T21:20:20+00:00",
+ "status": "ok",
+ "note": "variant=classism; 审定公布名词库=101; 海峡两岸名词对照库=7; 其他来源数据库=13; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "古典学",
+   "en": "Classics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "专门研究公元前2000年至6世纪希腊罗马文明的一门学问。"
+  },
+  {
+   "cn": "底盘",
+   "en": "chassis",
+   "source": "生物物理学名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "机体或者系统的内在支撑框架。"
+  },
+  {
+   "cn": "车架",
+   "en": "chassis",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "05.0023",
+   "subjectFullName": "机械工程_物料搬运机械_机动工业车辆",
+   "subjectName": "机动工业车辆",
+   "publishYear": "2013",
+   "definition": "固定车辆各部件即发动机、变速箱、起升装置的主要框架构件。"
+  },
+  {
+   "cn": "台车",
+   "en": "chassis",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "14.0120",
+   "subjectFullName": "机械工程_工程机械_土方机械_装载机",
+   "subjectName": "装载机",
+   "publishYear": "2013",
+   "definition": "由车架、弹簧、碰头和轮对等组成的耙斗装岩机的底盘。"
+  },
+  {
+   "cn": "机箱",
+   "en": "cabinet,case,chassis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1016",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程制造",
+   "subjectName": "计算机工程制造",
+   "publishYear": "2018",
+   "definition": "一般是冷轧钢板或合金制作的用来装载计算机及相关设备的箱体。"
+  },
+  {
+   "cn": "同级类",
+   "en": "same level classes,collateral classes",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.207",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "在文献分类表中，按一定分类标准由不同类目划分出的分类等级相同的类目。同级类的各个类目可以不同属于一个上位类。"
+  },
+  {
+   "cn": "底盘细胞",
+   "en": "chassis cell",
+   "source": "农学名词",
+   "wordNumber": "15.094",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "合成生物学中，具备基本的自我复制和代谢能力，用于大规模生产特定代谢物质的细胞体系。"
+  },
+  {
+   "cn": "香气类别",
+   "en": "fragrance classes",
+   "source": "精细化工名词",
+   "wordNumber": "08.0761",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "用来描述某种日用香精香气的类型。"
+  },
+  {
+   "cn": "经典型半乳糖血症",
+   "en": "classic galactosemia",
+   "source": "肝病学名词",
+   "wordNumber": "7.3.2.1",
+   "subjectFullName": "肝病学_遗传代谢性肝病_糖代谢障碍性肝病",
+   "subjectName": "糖代谢障碍性肝病",
+   "publishYear": "2024",
+   "definition": "一种罕见的常染色体隐性遗传病。因半乳糖-1-磷酸尿苷酰转移酶基因突变导致前体半乳糖-1-磷酸堆积，可出现腹泻、呕吐、低血糖、肝损伤、出血、黄疸、白内障等。"
+  },
+  {
+   "cn": "经典阅读",
+   "en": "classic reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.006",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "对本民族或本国家公认的具有较高文化价值、历史价值的文学作品、美术作品、艺术作品等的阅读。"
+  },
+  {
+   "cn": "典籍",
+   "en": "classic work",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.002",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "经典文献的总称。"
+  },
+  {
+   "cn": "经典半乳糖血症",
+   "en": "classic galactosemia",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.037",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由半乳糖-1-磷酸尿苷酰转移酶（galactose-1-phosphate uridylyltransferase）缺陷导致尿苷二磷酸（UDP）半乳糖合成减少及半乳糖和半乳糖-1-磷酸堆积的一种常染色"
+  },
+  {
+   "cn": "底盘生物",
+   "en": "chassis organism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.076",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "具备基本的生长与代谢功能及标准化基因线路接口的生物。可嵌合功能化的合成生物系统。"
+  },
+  {
+   "cn": "同位类",
+   "en": "coordinate classes",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "在文献分类表中，按一定分类标准由一个类目直接划分出来的具有相互排斥、彼此无从属关系、处于同等地位的并列关系的类目。它们共同隶属于同一个上位类。"
+  },
+  {
+   "cn": "匿名经典",
+   "en": "anonymous classic",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.067",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "佚名文献中广为流传的名著。一般有多种版本传世，如注释本、校本和译本等，著录时须以统一题名作标目，以便集中不同版本。"
+  },
+  {
+   "cn": "刀片箱",
+   "en": "blade chassis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1065",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程制造",
+   "subjectName": "计算机工程制造",
+   "publishYear": "2018",
+   "definition": "刀片服务器的专用机箱。可集成多个系统主板及供电、散热、网络、光驱、键盘、显示器和鼠标等功能模块和接口。"
+  },
+  {
+   "cn": "撒布机底盘",
+   "en": "spreader chassis",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "15.0111",
+   "subjectFullName": "机械工程_工程机械_道路施工与养护机械及压实机械_石屑撒布机",
+   "subjectName": "石屑撒布机",
+   "publishYear": "2013",
+   "definition": "可以安装整套撒布机部件并提供撒布作业所需动力的载货汽车或半挂车底盘。"
+  },
+  {
+   "cn": "铰接式底盘",
+   "en": "articulated chassis",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0256",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_零部件与机构",
+   "subjectName": "零部件与机构",
+   "publishYear": "2013",
+   "definition": "由前后两底盘铰接在一起底盘。"
+  },
+  {
+   "cn": "整体式底盘",
+   "en": "integral chassis",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0257",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_零部件与机构",
+   "subjectName": "零部件与机构",
+   "publishYear": "2013",
+   "definition": "由整体构件组成的底盘。"
+  },
+  {
+   "cn": "底盘测功机",
+   "en": "chassis dynamometer",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0980",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_试验和标准",
+   "subjectName": "试验和标准",
+   "publishYear": "2013",
+   "definition": "能模拟车辆道路行驶工况的实验室设备。这种测功器具有模拟作用在行驶车辆上的惯性力、摩擦力和风阻力的能力。"
+  },
+  {
+   "cn": "分支理论",
+   "en": "cladism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "底盘",
+   "en": "chassis",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辐射等级",
+   "en": "radiation classes",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帕斯奎尔稳定度分类",
+   "en": "Pasquill stability classes",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "汽车大梁钢",
+   "en": "car chassis steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "星经",
+   "en": "Classic of the Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图比例尺分类",
+   "en": "classes of map scale",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "经典",
+   "en": "Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五经",
+   "en": "Five Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经学",
+   "en": "Classics Scholarship",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统防守姿势",
+   "en": "classic guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精英赛",
+   "en": "classic event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三玄",
+   "en": "Three Metaphysical Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"placing\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "六经皆史",
+   "en": "The Six Confucian Classics Are All About History.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经世致用",
+   "en": "Study of Ancient Classics Should Meet Present Needs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别婚",
+   "en": "marriage of classes",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.035",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个部落划分为若干婚姻级，严格按照一定的规例通婚，通婚级别以外的性关系受到禁止。其作用在于进一步阻止近亲婚配。根据这种婚姻规例，一个部落的男子到远方的部落去，可以同属于自己的通婚级别的女子有性关系，而"
+  },
+  {
+   "cn": "课间休息",
+   "en": "recess between classes",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "学校的教学安排中，两节课之间的间隔时间。是供学生放松、休息的时间。"
+  },
+  {
+   "cn": "新疆、西藏内地高中班",
+   "en": "mainland high school classes in Xin'jiang and Xi'zang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0086",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "为了改善西藏和新疆教育资源薄弱的情况、帮助当地培养基础性人才，党和国家在内地发达地区开办的特殊办学形式。内地新疆高中班始于2000年，内地西藏高中班始于1984年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
