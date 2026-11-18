@@ -69,7 +69,8 @@
 | `spec_index.py` | 生成 `specs/README.md` 索引（ADR-0067，生成物不手改）；`--check` 只校验一致性（CI 可用） |
 | `indep_review.py` | 形态横向清账扫描器（ADR-0047，s3 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
-| `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
+| `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改）；含二维账（骨架/有正文 × 账内/账外）与“账实不符”行，后者引用 `check_taskfile_invariant` 判据 |
+| `check_taskfile_invariant.py` | 任务账本↔译文一致性（specs/051，**告警级**，`--strict` 升硬）：I1 清账不变量（`state=cleared` ⟹ 译文仅 H1，因 `clear()` 的语义就是置空）、I2 过程记录不变量（有正文 ⟹ journal 至少一个 `pass`）；另单列 `zh-doc-missing` 与 `maintenance-doc-missing`（维护任务的登记册缺失不属译文账外） |
 | `summary_sync.py` | SUMMARY/mu-lu-s 目录同步与 intake（`apply-add` 为新词条接入唯一入口，职责权属见 specs/001 cli.md；report/apply-add/remove） |
 | `sync_guard.py` | 双机同步护栏：`pull`（fetch＋rebase＋判弃自检实拦，ADR-0028）与 `status`（未推送自查；收工核对 `git log origin/main..main` 为空，ADR-0059） |
 | `rebuild_dir.py` | 上游同构重建（ADR-0007 立项）：现役面＝`check` 镜像覆盖核验（rules/06 结构改动 done 判据）；`toletters` 为 ADR-0009 一次性迁移；rebuild/stubs/yuanwen 遗留废弃（specs/040 F-26） |

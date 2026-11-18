@@ -73,5 +73,64 @@ class TestLoadJournal(unittest.TestCase):
         self.assertEqual(passed["x-mixed"], {"draft"})
 
 
+class TestCountSkeletons(unittest.TestCase):
+    """账背面统计：内容状态（骨架／有正文）× 是否在账（有 journal）。
+
+    动机：进度五项的分母是 journal 词条，而 SUMMARY 声明的重译对象是全库正式
+    词条；差额（仅标题骨架）此前不出现在任何一行，完成度易被误读为占全库比例。
+    """
+
+    def setUp(self):
+        self._dir = tempfile.TemporaryDirectory()
+        root = self._dir.name
+        lines = ["# SUMMARY", "", "## a", ""]
+        # 四类：骨架在账内、骨架在账外、有正文、别名与占位（不计入 formal）
+        cases = [("a-inledger-skel", False, "linked"),
+                 ("a-offledger-skel", False, "linked"),
+                 ("a-with-body", True, "linked"),
+                 ("a-alias", True, "alias"),
+                 ("a-mother", True, "mother")]
+        for slug, has_body, kind in cases:
+            sub = os.path.join(root, "a")
+            os.makedirs(sub, exist_ok=True)
+            body = ("# 标题 Title (Author)\n\n"
+                    + ("哲学论证的内容段落，足够长以过阈值，" * 12 if has_body else ""))
+            with open(os.path.join(sub, slug + ".md"), "w",
+                      encoding="utf-8", newline="\n") as f:
+                f.write(body)
+            if kind == "linked":
+                lines.append("* [标题 Title (Author)](a/%s.md)" % slug)
+            elif kind == "alias":
+                lines.append("* \\*标题——见别处 (X — see Y)")
+            else:
+                lines.append("* \\*分类名")
+        with open(os.path.join(root, "SUMMARY.md"), "w",
+                  encoding="utf-8", newline="\n") as f:
+            f.write("\n".join(lines) + "\n")
+
+    def tearDown(self):
+        self._dir.cleanup()
+
+    def test_only_linked_nonalias_counted(self):
+        s = progress.count_skeletons(journal_slugs=set(), root=self._dir.name)
+        self.assertEqual(s["formal"], 3)   # 别名与占位母行不入 formal
+
+    def test_skeleton_and_body_split(self):
+        s = progress.count_skeletons(journal_slugs=set(), root=self._dir.name)
+        self.assertEqual(s["skeleton"], 2)
+        self.assertEqual(s["body"], 1)
+
+    def test_onledger_offledger_split(self):
+        s = progress.count_skeletons(journal_slugs={"a-inledger-skel"},
+                                     root=self._dir.name)
+        self.assertEqual(s["skeleton_onledger"], 1)
+        self.assertEqual(s["skeleton_offledger"], 1)
+
+    def test_identity_sum(self):
+        s = progress.count_skeletons(journal_slugs=set(), root=self._dir.name)
+        self.assertEqual(s["skeleton"], s["skeleton_onledger"] + s["skeleton_offledger"])
+        self.assertEqual(s["formal"], s["skeleton"] + s["body"])
+
+
 if __name__ == "__main__":
     unittest.main()

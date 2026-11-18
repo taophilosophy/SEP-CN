@@ -100,6 +100,65 @@ def check(pipe):
     lax = [n["id"] for n in nodes if n.get("type") == "review" and n["id"] not in mand]
     rec("S4", "review 必属强制", not lax, "非强制=%s" % (lax or "无"))
 
+    # ---- S5 判据承载体（2026-11-18 补：判据名 ≠ 工具名的情形须显式登记）----
+    # 动机：`errata_check` 曾是 check_pairs 的一个轴、`markdownlint` 是 CI 外部工具、
+    # `ci_all` 是聚合门禁——三者都不存在同名 tools/*.py，S2 却只查"登记双向一致"，
+    # 于是"登记完备"与"有真实承载体"被混为一谈，判据可悬空登记而全绿通过。
+    carriers = {k: v for k, v in pipe.get("criteria_carrier", {}).items() if k != "note"}
+
+    def _carrier_ok(name):
+        """返回 (resolved, detail)：承载体能否落到真实文件/规则。"""
+        c = carriers.get(name)
+        if c is None:
+            # 缺省承载体＝同名本地工具
+            path = os.path.join(ROOT, "tools", "%s.py" % name)
+            return (os.path.exists(path),
+                    "tools/%s.py%s" % (name, "" if os.path.exists(path) else "（不存在）"))
+        kind = c.get("kind")
+        if kind == "axis":
+            host = c.get("of")
+            path = os.path.join(ROOT, "tools", "%s.py" % host)
+            if not os.path.exists(path):
+                return (False, "轴宿主 tools/%s.py 不存在" % host)
+            # 规则名须真出现在宿主源码里（防"登记了一个不存在的轴"）
+            try:
+                with open(path, encoding="utf-8") as fh:
+                    src = fh.read()
+            except OSError:
+                return (False, "轴宿主不可读")
+            rule = c.get("rule") or ""
+            return (bool(rule) and rule in src,
+                    "%s#%s%s" % (host, rule, "" if rule in src else "（宿主内无此规则）"))
+        if kind == "external":
+            cfg = c.get("config")
+            wf = c.get("workflow")
+            miss = [x for x in (cfg, wf) if x and not os.path.exists(os.path.join(ROOT, x))]
+            return (not miss, "external:%s%s" % (cfg or wf,
+                                                 "" if not miss else "（缺 %s）" % ",".join(miss)))
+        if kind == "aggregate":
+            host = c.get("of")
+            path = os.path.join(ROOT, "tools", "%s.py" % host)
+            return (os.path.exists(path), "aggregate:%s" % host)
+        return (False, "未知 carrier kind=%s" % kind)
+
+    dangling_carrier = []
+    for g in sorted(owner):
+        ok, detail = _carrier_ok(g)
+        if not ok:
+            dangling_carrier.append("%s->%s" % (g, detail))
+    rec("S5", "判据承载体可解析", not dangling_carrier,
+        "悬挂=%s" % (dangling_carrier or "无"))
+
+    # 硬拦级判据不得由告警级承载体承担（"声明硬拦、实际不拦"）
+    level_bad = []
+    hard_gates = {g for n in nodes if n.get("gate_owner") for g in n.get("criteria", [])}
+    for g in sorted(hard_gates):
+        c = carriers.get(g)
+        lvl = (c or {}).get("level", "hard")
+        if lvl != "hard":
+            level_bad.append("%s（硬拦位，承载体 level=%s）" % (g, lvl))
+    rec("S5", "硬拦判据不由告警级承载", not level_bad, "不符=%s" % (level_bad or "无"))
+
     return hits
 
 

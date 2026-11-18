@@ -162,6 +162,70 @@ def load_journal(journal_dir=JOURNAL):
     return passed, node_count
 
 
+def count_skeletons(journal_slugs=None, summary_paths=None, root=ROOT):
+    """按 SUMMARY 正式词条面统计「内容状态 × 是否有 journal」二维账。
+
+    返回 dict：
+      formal              SUMMARY 正式词条（重译对象）数
+      skeleton            仅标题骨架（H1 之外汉字 <50）件数
+      body                有正文件数
+      skeleton_offledger  骨架且无 journal（账外）
+      skeleton_onledger   骨架但有 journal（已建任务、尚未开工为主）
+
+    为何需要（2026-11-18 补）：进度读数五项的分母是 journal 词条（有任务者），
+    而 SUMMARY 声明的重译对象是全库正式词条，两者不等。差额是 `rules/01` 允许的
+    "未翻译条目为仅含 H1 的骨架"（不建任务、无 journal）。不显式列出，读者会把
+    完成度误读为占全库的比例；只列"账外"不列"账内骨架"，又会漏掉同一现象的另一面
+    （骨架页同样已上站、同样对读者不可读）。
+
+    口径：SUMMARY 中带链接、标题非别名（— see / ——见）、非占位母行（* 前缀）者，
+    与 load_summary 计入 formal 的是同一集合。root 与 journal_slugs 可注入供单测。
+    """
+    if summary_paths is None:
+        summary_paths = []
+        with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
+            for line in f:
+                m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
+                if not m:
+                    continue
+                title, path = unescape(m.group(1)), m.group(2)
+                top = path.split('/')[0]
+                if top not in 'abcdefghijklmnopqrstuvwxyz0123456789':
+                    continue
+                if '— see' in title or '——见' in title or title.lstrip().startswith('*'):
+                    continue
+                summary_paths.append(path)
+    if journal_slugs is None:
+        journal_slugs = set()
+        jdir = os.path.join(root, 'journal')
+        for dirpath, _, filenames in os.walk(jdir):
+            for fn in filenames:
+                if fn.endswith('.ndjson'):
+                    journal_slugs.add(fn[:-7])
+    skel = body = skel_off = skel_on = 0
+    for path in summary_paths:
+        fp = os.path.join(root, path.replace('/', os.sep))
+        try:
+            with open(fp, encoding='utf-8') as fh:
+                text = fh.read()
+        except OSError:
+            continue
+        text = re.sub(r'(?s)<!--.*?-->', '', text)
+        rest = re.sub(r'^#\s+.*$', '', text, count=1, flags=re.M)
+        is_skel = len(re.findall(r'[\u4e00-\u9fff]', rest)) < 50
+        slug = os.path.basename(path)[:-3]
+        if is_skel:
+            skel += 1
+            if slug in journal_slugs:
+                skel_on += 1
+            else:
+                skel_off += 1
+        else:
+            body += 1
+    return {"formal": len(summary_paths), "skeleton": skel, "body": body,
+            "skeleton_offledger": skel_off, "skeleton_onledger": skel_on}
+
+
 def main():
     per_letter, total_alias = load_summary()
     baseline = load_baseline()
@@ -190,6 +254,19 @@ def main():
     blocked = [t for t in tasks if t.get('blockers')]
     total_formal = sum(v[0] for v in per_letter.values())
     full = nodes | mand
+    skel_stat = count_skeletons(journal_slugs=set(passed))
+    # 账实一致性（specs/051）：清账不变量与过程记录不变量的违例数。只读引用
+    # check_taskfile_invariant.check，不重复实现判据；异常时降级为 None，
+    # 不让进度生成本身因判官故障而失败。
+    try:
+        if ROOT not in sys.path:
+            sys.path.insert(0, ROOT)
+        from tools.check_taskfile_invariant import check as _chk_invariant
+        inv = _chk_invariant(ROOT)
+        inv_by = Counter(x["rule"] for x in inv)
+    except Exception:            # noqa: BLE001 —— 视图层不承担判据失败
+        inv, inv_by = None, None
+    untracked = total_formal - len(passed)   # 全库正式词条中无 journal 记录者
 
     lines = [
         '# 项目进度',
@@ -208,12 +285,27 @@ def main():
         '|已建英文基线|%d|' % len(baseline),
         '|已建任务（journal 词条）|%d|' % len(passed),
         '|例行/维护任务（不计状态机）|%d|' % len(routine),
+        '|**账外词条（无 journal，未建任务）**|**%d**|' % untracked,
+        '|全库仅标题骨架（H1 之外无正文）|%d|' % skel_stat['skeleton'],
+        '|其中：骨架且在账内（有任务未开工）|%d|' % skel_stat['skeleton_onledger'],
+        '|其中：骨架且在账外（无任务）|%d|' % skel_stat['skeleton_offledger'],
+        '|全库有正文（已译出内容）|%d|' % skel_stat['body'],
+        '|**账实不符（cleared 有正文／有正文零过程记录）**|**%s**|'
+        % (len(inv) if inv is not None else '判据未跑'),
         '|核心段完成（draft..R3 七节点）|%d|' % len(core_done),
         '|强制集完成（s0/s2.4/global/R1/R2/R3）|%d|' % mand_ok,
         '|完整饱和（16 节点全过）|%d|' % saturate,
         '|在途（已开工未走完核心段）|%d|' % len(wip_slugs),
-        '|未开工（无 pass 事件）|%d|' % not_started,
+        '|未开工（journal 内无 pass 事件）|%d|' % not_started,
         '|阻塞（调度侧，journal 未迁移）|%d|' % len(blocked),
+        '',
+        '> **分母口径**：完成／强制集／饱和／在途／未开工五项的分母是 **journal 词条 %d 件**，'
+        '不是全库正式词条 %d 件。差额 %d 件无 journal 记录（全部为仅标题骨架，'
+        '`rules/01` 约定未翻译条目为仅含 H1 的骨架）；骨架合计 %d 件（账内 %d ＋ 账外 %d），'
+        '这些页已随 SUMMARY 上站但对读者为空。要把账外件计入进度，须先建任务'
+        '（`task_ops.py create`）。'
+        % (len(passed), total_formal, untracked, skel_stat['skeleton'],
+           skel_stat['skeleton_onledger'], skel_stat['skeleton_offledger']),
         '',
         '## 节点通过数（journal 口径，共 %d 节点）' % len(full),
         '',

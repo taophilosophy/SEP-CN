@@ -1,0 +1,104 @@
+{
+ "schema": "sep-cn-para-align-full/2",
+ "scope": "SUMMARY 正式词条中有正文者（骨架页排除）",
+ "entries": 432,
+ "aligned": 432,
+ "no_yuanwen": 0,
+ "errors": 0,
+ "en_blocks_total": 77585,
+ "en_leftover_raw": 20743,
+ "footnote_realigned": 19987,
+ "footnote_keymap_realigned": 336,
+ "en_leftover_total": 420,
+ "entries_with_en_leftover": 9,
+ "leftover_rate": 0.00541,
+ "top_losses": [
+  {
+   "slug": "haecceitism",
+   "en_leftover": 199,
+   "en_blocks": 249,
+   "samples": [
+    "1.2. Haecceitism and Modal Realism",
+    "While ersatzist views identify possible worlds with abstract",
+    "Within Lewisian modal realism, *de re* modality is analyzed "
+   ]
+  },
+  {
+   "slug": "hamann",
+   "en_leftover": 195,
+   "en_blocks": 263,
+   "samples": [
+    "1. Life",
+    "Johann Georg Hamann was born in Königsberg in 1730, the son ",
+    "He returned to the House of Berens in Riga, where they evide"
+   ]
+  },
+  {
+   "slug": "antonio-rosmini",
+   "en_leftover": 12,
+   "en_blocks": 111,
+   "samples": [
+    "Secondary Works",
+    "- Bergamaschi, Cirillo, 2001, *Grande dizionario antologico ",
+    "Academic Tools"
+   ]
+  },
+  {
+   "slug": "axiom-choice",
+   "en_leftover": 4,
+   "en_blocks": 282,
+   "samples": [
+    "For a complete specification of the operations and rules of ",
+    "See §4.",
+    "It is interesting to note that Ramsey 1926 also asserted the"
+   ]
+  },
+  {
+   "slug": "hume-moral",
+   "en_leftover": 3,
+   "en_blocks": 190,
+   "samples": [
+    "- [The Hume Society](http://www.humesociety.org/) - “[Moral ",
+    "Related Entries",
+    "Hume, David | property and ownership"
+   ]
+  },
+  {
+   "slug": "tarski-truth",
+   "en_leftover": 3,
+   "en_blocks": 101,
+   "samples": [
+    "[Please contact the author with suggestions.]",
+    "Related Entries",
+    "compositionality | logic: and games | logic: dependence | lo"
+   ]
+  },
+  {
+   "slug": "geometry-19th",
+   "en_leftover": 2,
+   "en_blocks": 122,
+   "samples": [
+    "(a) Let **M** be a set of points. Pick a collection of parti",
+    "The pair (**M**,**A**) is an *n*-manifold."
+   ]
+  },
+  {
+   "slug": "hutcheson",
+   "en_leftover": 1,
+   "en_blocks": 218,
+   "samples": [
+    "[^note-2005]: Note that there is not currently scholarly agr"
+   ]
+  },
+  {
+   "slug": "ingarden",
+   "en_leftover": 1,
+   "en_blocks": 147,
+   "samples": [
+    "Thanks to Ira Richardson for research assistance with the 20"
+   ]
+  }
+ ],
+ "no_yuanwen_slugs": [],
+ "error_slugs": []
+}

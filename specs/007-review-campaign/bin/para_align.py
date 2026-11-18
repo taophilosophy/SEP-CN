@@ -205,7 +205,21 @@ def main():
         ['spacetime-holearg', 's/spacetime-holearg.md', 'yuanwen/s/spacetime-holearg.md',
          'en/spacetime-holearg/notes.html'],
     ]
-    out_path = repo_path('specs', '007-review-campaign', 'results', 'para-align.jsonl')
+    total_entries = len(entries)
+    # 子集选择（2026-11-18 修）：此前无论传什么都跑全清单并 `w` 覆盖全量凭证——
+    # 一次试跑即把既有 16 件账抹成同样 16 件但内容可能不同，等于静默毁账。
+    # 现按 argv slug 过滤，且**非全量运行只写 -partial 文件**，主凭证仅全量可写。
+    want = [a for a in sys.argv[1:] if not a.startswith("-")]
+    if want:
+        entries = [e for e in entries if e[0] in want or e[0].split('/')[0] in want]
+        if not entries:
+            print("argv slug 不在内置条目表内（本工具只跑登记表内词条）：%s" % want,
+                  file=sys.stderr)
+            return 2
+    full_run = len(entries) == total_entries
+    stem = 'para-align' if full_run else 'para-align-partial'
+    out_path = repo_path('specs', '007-review-campaign', 'results', stem + '.jsonl')
+    sp = repo_path('specs', '007-review-campaign', 'results', stem + '-summary.json')
     summary = []
     with open(out_path, 'w', encoding='utf-8', newline=chr(10)) as f:
         for slug, zh_path, html_rel, notes_rel in entries:
@@ -236,7 +250,6 @@ def main():
                             'pairs': len(pairs),
                             'en_leftover': [b['text'][:50] for b in en_left],
                             'zh_leftover': [b['text'][:50] for b in zh_left]})
-    sp = repo_path('specs', '007-review-campaign', 'results', 'para-align-summary.json')
     with open(sp, 'w', encoding='utf-8', newline=chr(10)) as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
     print('凭证:', os.path.relpath(out_path, repo_path('.')), '+', os.path.relpath(sp, repo_path('.')))
