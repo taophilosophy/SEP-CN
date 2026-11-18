@@ -44,7 +44,7 @@ def main(argv=None):
     else:
         ts = utcnow_iso().replace(":", "").replace("-", "")
         raw_path = repo_path("en", "_catalog", "%s-contents.html" % ts)
-        status, data = fetch.get(CATALOG_URL, dest=raw_path, delay=fetch.MIN_DELAY)
+        status, data = fetch.get(CATALOG_URL, dest=raw_path)
         if status != 200:
             print(json.dumps({"error": "contents.html HTTP %s" % status}, ensure_ascii=False))
             return 1

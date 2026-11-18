@@ -12,7 +12,7 @@
 
 对全库词条按**网页 A–Z 顺序**逐个执行三步审阅，并对目录层（SUMMARY.md、mu-lu-s.md）与上游目录快照比对：
 
-1. **抓取**：在线抓取词条最新 HTML（`compare.py` 内建礼貌 5 秒，快照落 `script/tmp/`（gitignore），不覆盖 `en/` 不可变基线）。
+1. **抓取**：在线抓取词条最新 HTML（`compare.py`，快照落 `script/tmp/`（gitignore），不覆盖 `en/` 不可变基线；无最小请求间隔，ADR-0069）。
 2. **比较本地HTML**：与基线 `en/<slug>/index.html` 逐节逐段比对；有变更由 `compare.py` 自动落盘持久变更文件 `specs/001-sep-sync-pipeline/compare/<slug>.json`（update 任务 `changes:` 证据的引用载体）。
 3. **复核英语markdown**：`en_integrity.py`（en/ 包深度审计：页面真实性、引用闭包、数学形态、游离件）+ `check_math.py`（yuanwen md 公式保真）+ 收尾 `yuanwen.py --all-baselined` 确定性重转换比对（字节一致 = 转换器与产物无漂移）。
 
@@ -26,7 +26,7 @@
 ## 用户裁定（授权记录）
 
 * **批准批量比较**（2026-10-28 用户指令）：全库批量执行 `compare.py`，无需逐条请示。
-* **不计成本**：时长/算力不设限；仍守宪法礼貌抓取约束。
+* **不计成本**：时长/算力不设限；仍守宪法抓取失败显式化约束（退避重试、留痕、禁静默跳过；请求间隔规则已废，ADR-0069）。
 * **并行配置先例**：`fetch_all.py` 配置 A=16路×5秒、B=64路×10秒 系用户先前指定并实测未触发限流（见 contracts/cli.md）。本战役取**8 路×5 秒**保守执行 compare 抓取。
 
 ## 已知例外（预期非失败）

@@ -40,7 +40,7 @@
 
 ## 三、边界与异常
 
-* [ ] Check 29: 连续抓取任意两请求间隔 ≥5 秒（读 script/http-log.jsonl 相邻时间戳差值最小值验证）（来源：FR-004、宪法 V、T004）
+* [ ] Check 29: 抓取留痕完整且无静默跳过——script/http-log.jsonl 中每次请求均有记录（成功与失败），失败重试耗尽以 FetchError 显式结束（来源：FR-004、宪法 V；原“相邻请求间隔 ≥5 秒”判据已于 2026-11-18 废除，ADR-0069）
 * [ ] Check 30: 断网/超时模拟下 fetch_entry 对同一词条重试 ≤3 次后以退出码 1 结束且 failures[] 有原因，不产生空词条包（来源：FR-004、Edge cases）
 * [ ] Check 31: 别名词条（如 akrasia）在 fetch_catalog 清单中 alias_of 非空，不建翻译任务（来源：Edge cases、T013）
 * [ ] Check 32: 构造 contents.html 中存在而基线缺失的词条场景，fetch_catalog diff 的 added 列表含之（rename/removed 同理可测）（来源：FR-007、Edge cases）

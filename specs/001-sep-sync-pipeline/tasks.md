@@ -47,7 +47,7 @@ description: "Task list for SEP 同步管线 feature"
 * [x] T001 建 `tools/`、`tools/tests/`、`en/`、`en/_catalog/`、`baseline/`、`baseline/changes/`、`tasks/` 目录骨架，并写 `tools/__init__.py`
 * [x] T002 [P] 建 `en/.gitkeep` 确认 `.gitignore` 现行规则已覆盖 `en/`、`/script`（只核对不修改——AGENTS.md/.gitignore 归其他会话）
 * [x] T003 [P] 写 `tools/common.py`：UTF-8 无 BOM 读写、LF 规范化、仓库根定位、写后读回自校验的 `write_json_verified()`（防假成功写入，见 plan.md 环境补充约束）
-* [x] T004 [P] 写 `tools/fetch.py`：urllib 封装——UA 标识、相邻请求 ≥5 秒（宪法 V）、429/5xx/超时指数退避重试 ≤3 次、每次请求记录 `{url, status, bytes, sha256, at}` 日志至 `script/http-log.jsonl`（演示轮 1 修订：原命名 `http.py` 遮蔽标准库 `http` 包，已改名）
+* [x] T004 [P] 写 `tools/fetch.py`：urllib 封装——UA 标识、相邻请求 ≥5 秒（宪法 V）、429/5xx/超时指数退避重试 ≤3 次、每次请求记录 `{url, status, bytes, sha256, at}` 日志至 `script/http-log.jsonl`（演示轮 1 修订：原命名 `http.py` 遮蔽标准库 `http` 包，已改名）（间隔部分已于 2026-11-18 废除，ADR-0069；本条为历史记录不重写）
 * [x] T005 [P] 从抽样复制 9 个金样本到 `tools/tests/fixtures/`（set-theory/logic-classical/bayes-theorem/bell-theorem/ibn-sina/consciousness/quine/aristotle-logic/arch-anaxagoras + archinfo 输出）
 
 ## Phase 2: Foundational（阻塞所有用户故事）

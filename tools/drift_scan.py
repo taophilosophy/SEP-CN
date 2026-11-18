@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""全量回源 sha 核对（ADR-0045 跟进项，用户 2026-11-15 批准；一次性豁免令见
-specs/001 spec.md Assumptions：允许绕过 5 秒间隔，采用已验证的并发配置）。
+"""全量回源 sha 核对（ADR-0045 跟进项，用户 2026-11-15 批准）。
 
 对 baseline/entries.json 全部词条抓取 live index.html，sha256 与原始网页钉
 （files[].sha256）比对——只读审计：不写 en/、不动台账、不登记分歧；
@@ -8,8 +7,7 @@ specs/001 spec.md Assumptions：允许绕过 5 秒间隔，采用已验证的并
 /archives/）单列跳过；retired 词条照抓，软 404 如实分类。
 
 用法:
-  python tools/drift_scan.py [--limit N] [--only slug...] [--channels 64]
-                             [--period 10] [--report]
+  python tools/drift_scan.py [--limit N] [--only slug...] [--channels 64] [--report]
 输出: stdout JSON 汇总（scanned/unchanged/changed/soft404/http_404/failures/…）；
       --report 另落盘 specs/001-sep-sync-pipeline/results/drift-scan-<ts>.json
       （write_json_verified）。
@@ -34,11 +32,11 @@ if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 
-def scan_one(slug, pin, pacer):
+def scan_one(slug, pin):
     """抓 live 主文件并与钉比对 → (slug, 分类, 详情)。"""
     url = ENTRY_URL % slug
     try:
-        status, data = fetch.get(url, pacer=pacer)
+        status, data = fetch.get(url)
     except fetch.FetchError as e:
         return slug, "failure", {"slug": slug, "error": str(e)}
     if status == 200:
@@ -58,9 +56,7 @@ def main(argv=None):
     ap.add_argument("--limit", type=int, help="只扫前 N 条（试金石）")
     ap.add_argument("--only", nargs="+", help="只扫指定 slug")
     ap.add_argument("--channels", type=int, default=64,
-                    help="并发通道数（默认 64，已验证不触发限流的配置 B）")
-    ap.add_argument("--period", type=float, default=10.0,
-                    help="每通道节拍秒（默认 10，配置 B）")
+                    help="并发通道数（默认 64）")
     ap.add_argument("--report", action="store_true", help="报告落盘 results/drift-scan-<ts>.json")
     args = ap.parse_args(argv)
 
@@ -80,15 +76,14 @@ def main(argv=None):
         items = items[:args.limit]
 
     total = len(items)
-    sys.stderr.write("[drift_scan] %d 词条，%d 路 × %ss 节拍（豁免令见 spec Assumptions）\n"
-                     % (total, args.channels, args.period))
-    pacers = [fetch.Pacer(args.period) for _ in range(args.channels)]
+    sys.stderr.write("[drift_scan] %d 词条，%d 路并发\n"
+                     % (total, args.channels))
     counts = {"unchanged": 0, "changed": 0, "soft404": 0, "http_404": 0,
               "http_error": 0, "failure": 0}
     changed, soft404, http_404, http_error, failures = [], [], [], [], []
     done = 0
     with ThreadPoolExecutor(max_workers=args.channels) as pool:
-        futs = [pool.submit(scan_one, slug, pin, pacers[i % args.channels])
+        futs = [pool.submit(scan_one, slug, pin)
                 for i, (slug, pin) in enumerate(items)]
         for fut in futs:
             slug, kind, detail = fut.result()
@@ -109,7 +104,7 @@ def main(argv=None):
                                  % (done, total, counts["changed"], counts["failure"]))
 
     out = {"at": utcnow_iso(), "scope": "main index.html vs files[].sha256 原始钉",
-           "channels": args.channels, "period_s": args.period, "total": total,
+           "channels": args.channels, "total": total,
            **counts,
            "changed": sorted(changed, key=lambda x: x["slug"]),
            "soft404": sorted(soft404, key=lambda x: x["slug"]),

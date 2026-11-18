@@ -7,7 +7,7 @@
   2. en/ 包深度复核：tools/en_integrity.py <slug>（页面真实性/引用闭包/数学形态/游离件）；
   3. 英语markdown复核：tools/check_math.py <slug>（yuanwen md 公式保真）。
 
-礼貌抓取：对齐 fetch_all.py 路通道语义（Pacer），每路通道两次抓取间隔 ≥5 秒；
+请求节奏：本工具自有每路通道最小间隔（CHANNEL_GAP，≥5 秒；与已废除的礼貌抓取规则无关，ADR-0069）；
 默认 8 路（配置 A=16路×5秒 的用户先例之内，本战役取保守半速）。
 
 凭证：
@@ -43,7 +43,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirna
 from tools.common import load_json, repo_path, utcnow_iso
 
 RESULTS = ("specs", "007-review-campaign", "results")
-CHANNEL_GAP = 5.0  # 每路通道最小间隔（秒），对齐 fetch.MIN_DELAY
+CHANNEL_GAP = 5.0  # 每路通道最小间隔（秒），本工具自有参数（与已废除的礼貌抓取规则无关，ADR-0069）
 POLITE_SLEEP_BEFORE_FIRST = False  # 首请求不等待（Pacer 语义：last=0 直接放行）
 
 WITHDRAWN = {"continental-rationalism", "pineal-gland", "qm-action-distance",

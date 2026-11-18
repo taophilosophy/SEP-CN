@@ -3,8 +3,8 @@ r"""019 上游子页抓取（notes/补篇/其他非 index html，禁抽样要求
 
 对 en/<slug>/<name>.html（name≠index.html 且含公式）抓
 https://plato.stanford.edu/entries/<slug>/<name>，落
-state/mathval/upstream/<slug>/<name>。礼仪同 upstream_fetch.py
-（tools/fetch.get，≥5s Pacer，4xx 显式登记，断点续跑）。
+state/mathval/upstream/<slug>/<name>。纪律同 upstream_fetch.py
+（tools/fetch.get，4xx 显式登记，断点续跑）。
 
 用法: python -I specs/021-math-formula-audit/bin/fetch_subpages.py
 """
@@ -41,7 +41,6 @@ def main():
                 except ValueError:
                     continue
                 seen[rec.get('rel')] = rec.get('status')
-    pacer = tf.Pacer(5.0)
     n_new = n_ok = n_4xx = n_err = 0
     with open(LOG, 'a', encoding='utf-8') as logf:
         for rel in sorted(rels):
@@ -54,7 +53,7 @@ def main():
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             rec = {'rel': rel, 'url': url}
             try:
-                status, _ = tf.get(url, dest=dest, pacer=pacer)
+                status, _ = tf.get(url, dest=dest)
                 if status == 200 and os.path.exists(dest) and os.path.getsize(dest) > 1000:
                     rec['status'] = 'ok'
                     rec['bytes'] = os.path.getsize(dest)

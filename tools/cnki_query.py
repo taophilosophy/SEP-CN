@@ -18,8 +18,8 @@ key="_11111000001111@" iv="@11111000001001_"），须先解密成明文 JWT 再�
 X-Access-Token 头。明文 token 经 --token <jwt> 或环境变量 TERMONLINE_TOKEN 传入
 （不落盘）；解密辅助见 tools/termonline_token.py（粘贴 localStorage 密文 → 明文）。
 
-礼貌抓取：相邻请求 ≥5 秒（--interval 可调，仅限本地测试调小）；
-失败退避重试 3 次（15/30/60s），仍失败记 error，禁止静默跳过。
+失败退避重试 3 次（15/30/60s），仍失败记 error，禁止静默跳过
+（2026-11-18 废除礼貌抓取间隔规则，ADR-0069：不再有最小请求间隔）。
 凭证落 specs/008-terminology-campaign/results/queries/<provider>/<键>.json；
 --resume（默认开）跳过已有凭证。查证结果只是证据，裁定仍走登记流程。
 
@@ -213,32 +213,16 @@ PROVIDERS = {
 }
 
 
-class Pacer:
-    """相邻请求最小间隔（宪法 V 礼貌抓取同标准）。"""
-
-    def __init__(self, interval):
-        self.interval = max(0.0, interval)
-        self._last = 0.0
-
-    def wait(self):
-        now = time.monotonic()
-        delta = now - self._last
-        if delta < self.interval:
-            time.sleep(self.interval - delta)
-        self._last = time.monotonic()
-
-
 def query_once(provider, term, timeout=30):
     data = provider['fetch'](term, timeout)
     hits, note = provider['parse'](data)
     return data, hits, note
 
 
-def query_with_retry(provider, term, pacer, retries=(15, 30, 60), timeout=30):
+def query_with_retry(provider, term, retries=(15, 30, 60), timeout=30):
     """退避重试；返回 (status, hits, note, raw, error)。"""
     note, err = '', None
     for attempt in range(1 + len(retries)):
-        pacer.wait()
         try:
             data, hits, note = query_once(provider, term, timeout)
             status = 'ok' if hits else 'empty'
@@ -279,7 +263,7 @@ def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     args = type('Args', (), {'from_registry': False, 'pool': False,
                              'terms': [], 'provider': 'termonline-standard',
-                             'interval': 5.0, 'force': False, 'token': None})()
+                             'force': False, 'token': None})()
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -295,8 +279,6 @@ def main(argv=None):
             continue
         elif a == '--provider':
             args.provider, i = argv[i + 1], i + 1
-        elif a == '--interval':
-            args.interval, i = float(argv[i + 1]), i + 1
         elif a == '--token':
             args.token, i = argv[i + 1], i + 1
         elif a == '--force':
@@ -323,14 +305,13 @@ def main(argv=None):
 
     outdir = os.path.join(OUTDIR, args.provider)
     os.makedirs(outdir, exist_ok=True)
-    pacer = Pacer(args.interval)
     stat = {'ok': 0, 'empty': 0, 'error': 0, 'skip': 0}
     for key, display in collect_terms(args):
         path = os.path.join(outdir, safe_key(key) + '.json')
         if os.path.exists(path) and not args.force:
             stat['skip'] += 1
             continue
-        status, hits, note, raw, err = query_with_retry(prov, display, pacer)
+        status, hits, note, raw, err = query_with_retry(prov, display)
         record = {
             'key': key, 'term': display, 'provider': args.provider,
             'queried_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),

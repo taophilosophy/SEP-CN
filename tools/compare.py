@@ -9,7 +9,7 @@ files[].sha256 一致直接用；有批准分歧（baseline/divergences.json）�
 
 流程（FR-007/US-3）：
   1. 读 baseline 记录（zh_doc 映射与 files[].sha256 原始钉）；
-  2. 抓取最新 HTML 到 script/tmp/compare-<slug>.html（礼貌 5 秒，不覆盖基线）；
+  2. 抓取最新 HTML 到 script/tmp/compare-<slug>.html（不覆盖基线）；
   3. 节级拆分（h2 锚 id + 标题；首 h2 前为"导言"伪节）→ 段落规范化文本；
   4. 节集合 diff：added / removed / moved（同标题异锚）→ modified（同锚内容变）；
      modified 节内做段落级 diff（difflib，附原文摘录）；
@@ -217,7 +217,7 @@ def compare_slug(slug, new_html_path=None):
         os.makedirs(repo_path("script", "tmp"), exist_ok=True)
         tmp = repo_path("script", "tmp", "compare-%s.html" % slug)
         url = fetch.BASE + "/entries/%s/" % slug
-        status, data = fetch.get(url, dest=tmp, delay=fetch.MIN_DELAY)
+        status, data = fetch.get(url, dest=tmp)
         if status != 200:
             return {"slug": slug, "error": "抓取 HTTP %s" % status}, 2
     # 快速「无变更」判定用原始网页钉（ADR-0045：files[].sha256 只记上游字节，

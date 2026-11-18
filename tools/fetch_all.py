@@ -2,13 +2,12 @@
 """全量抓取+原文镜像驱动器（用户 2026-10-27 指令：把所有原文按目录抓取到 yuanwen/）。
 
 对 baseline/catalog.json 中全部非别名词条（alias_of 为空）执行：
-  fetch_entry.fetch_one（并发节拍）→ upsert_baseline → yuanwen.convert_entry
+  fetch_entry.fetch_one（并发）→ upsert_baseline → yuanwen.convert_entry
 并逐 slug 留痕 script/fetch-all-log.jsonl，每 25 条写检查点
 script/fetch-all-status.json（可中断续跑：--resume 跳过已登记且文件齐全者）。
 
-并发配置（用户 2026-10-27 指定，script/probe_concurrency.py 实测均无限流）：
-  A = 16 路 × 每 5 秒一请求（≈3.2 req/s）
-  B = 64 路 × 每 10 秒一请求（≈6.4 req/s，默认）
+并发配置（路数即线程数；2026-11-18 废除礼貌抓取间隔后不再设节拍，
+ADR-0069）：A = 16 路；B = 64 路（默认）。
 
 用法: python tools/fetch_all.py [--config A|B] [--limit N] [--only slug...]
                                 [--resume] [--no-convert] [--status-every N]
@@ -29,7 +28,7 @@ from tools.common import (  # noqa: E402
     ensure_dirs, load_json, repo_path, utcnow_iso, write_json_verified)
 from tools.fetch_entry import fetch_one, upsert_baseline  # noqa: E402
 
-CONFIGS = {"A": (16, 5.0), "B": (64, 10.0)}
+CONFIGS = {"A": 16, "B": 64}
 
 _log_lock = threading.Lock()
 _stop = threading.Event()
@@ -45,7 +44,7 @@ def _checkpoint(done, failed, total, cfg):
     # 多 worker 同时到检查点会互撞（Windows 替换窗口），与日志共用一把锁
     with _log_lock:
         write_json_verified(repo_path("script", "fetch-all-status.json"), {
-            "at": utcnow_iso(), "config": {"channels": cfg[0], "period_s": cfg[1]},
+            "at": utcnow_iso(), "config": {"channels": cfg},
             "done": done, "failed": failed, "total": total,
             "remaining": total - done - failed,
         })
@@ -74,9 +73,7 @@ def load_slugs(args):
     return slugs
 
 
-def worker(q, cfg, flags, stats):
-    channels, period = cfg
-    pacer = fetch.Pacer(period)
+def worker(q, channels, flags, stats):
     while not _stop.is_set():
         try:
             slug = q.get_nowait()
@@ -84,7 +81,7 @@ def worker(q, cfg, flags, stats):
             return
         rec = {"at": utcnow_iso(), "slug": slug}
         try:
-            r = fetch_one(slug, fetch.MIN_DELAY, False, pacer=pacer)
+            r = fetch_one(slug, False)
             if "error" in r:
                 rec.update(ok=False, stage="fetch", error=r["error"])
                 stats["fail"].append(rec)
@@ -136,7 +133,7 @@ def main(argv=None):
     argv = list(sys.argv[1:] if argv is None else argv)
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default="B", choices=sorted(CONFIGS),
-                    help="A=16路×5s；B=64路×10s（默认，实测无限流）")
+                    help="A=16 路；B=64 路（默认）")
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--only", nargs="*", default=None)
     ap.add_argument("--resume", action="store_true",
@@ -151,8 +148,8 @@ def main(argv=None):
     if not total:
         print(json.dumps({"error": "无待处理词条"}, ensure_ascii=False))
         return 0
-    sys.stderr.write("[fetch_all] 配置 %s：%d 路 × 每 %g 秒，共 %d 词条\n"
-                     % (args.config, cfg[0], cfg[1], total))
+    sys.stderr.write("[fetch_all] 配置 %s：%d 路，共 %d 词条\n"
+                     % (args.config, cfg, total))
 
     stats = {"done": 0, "failed": 0, "fetched": 0, "converted": 0,
              "fail": [], "conv_fail": [], "total": total}

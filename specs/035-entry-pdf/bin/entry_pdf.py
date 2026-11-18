@@ -13,7 +13,7 @@
 依赖: pandoc 在 PATH;typst/pymupdf 由 uv --with 注入(非标准库,不入 tools/)。
 自举: 霞鹜文楷屏幕阅读版与主仓 Medium 经 gh release download 下载到
   script/tmp/sep-pdf/fonts/(本地缓存,不入库);SEP 标志取
-  plato.stanford.edu/symbols/sepman-red.png(单请求,礼貌抓取)并转黑。
+  plato.stanford.edu/symbols/sepman-red.png(单请求抓取)并转黑。
 
 约定: 失败显式化、禁止静默跳过(specs/035 spec.md)。
 退出码: 0 成功;1 输入/解析错;2 依赖或自举失败;3 编译失败。

@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 r"""019 上游公式联网比对抓取器：对含公式的 en/ 词条抓当前上游页快照。
 
-礼仪（rules/05）：复用 tools/fetch.get（项目 UA、串行 Pacer ≥5s、指数退避
-重试、4xx 返回码显式登记、FetchError 显式化）；逐条 JSONL 留痕
+抓取纪律：复用 tools/fetch.get（项目 UA、指数退避
+重试、4xx 返回码显式登记、FetchError 显式化；2026-11-18 起无最小请求
+间隔，ADR-0069）；逐条 JSONL 留痕
 results/upstream-fetch.jsonl；断点续跑以日志为准（ok/4xx 均不重抓）。
 快照落 state/mathval/upstream/（gitignore 不入库）。
 
@@ -40,7 +41,6 @@ def main():
                 except ValueError:
                     continue
                 seen[rec.get('slug')] = rec.get('status')
-    pacer = tf.Pacer(5.0)
     n_new = n_ok = n_4xx = n_err = 0
     with open(LOG, 'a', encoding='utf-8') as logf:
         for slug in slugs:
@@ -53,7 +53,7 @@ def main():
             url = f'https://plato.stanford.edu/entries/{slug}/'
             rec = {'slug': slug, 'url': url}
             try:
-                status, _ = tf.get(url, dest=dest, pacer=pacer)
+                status, _ = tf.get(url, dest=dest)
                 if status == 200 and os.path.exists(dest) and os.path.getsize(dest) > 1000:
                     rec['status'] = 'ok'
                     rec['bytes'] = os.path.getsize(dest)

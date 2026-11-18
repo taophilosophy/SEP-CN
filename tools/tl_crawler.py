@@ -212,7 +212,8 @@ class Crawler:
         for it in items:
             self._cool()
             # 主动续窗：距上次激活超过 warm_every 就补一次（TTL≈120s，提前续窗防降级）；
-            # 激活后隔 ≥5s 再发查询（礼貌抓取 ≥5s）。
+            # 激活后隔 ≥5s 再发查询（本工具自有降级节流，按术语在线实测限流校准；
+            # 与已废除的礼貌抓取间隔规则无关，ADR-0069）。
             if self.warm_every and time.time() - self.last_activate > self.warm_every:
                 self.activate(token)
                 time.sleep(5)

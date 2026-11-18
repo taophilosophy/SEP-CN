@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """抓取词条完整词条包：正文 + 脚注 + 补充材料 + 图片 + 元数据（FR-001…005）。
 
-用法: python tools/fetch_entry.py <slug>... [--force] [--delay N]
+用法: python tools/fetch_entry.py <slug>... [--force]
 输出: stdout JSON {fetched: [...], failures: [...]}
 登记: baseline/entries.json（slug 主键 upsert，写后读回自校验）
 落盘: en/<slug>/index.html、notes.html、<补充>.html、<图片>（不可变原始副本）
@@ -63,14 +63,14 @@ def entry_base(slug, archive_edition=None):
     return ENTRY_URL % slug
 
 
-def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
+def fetch_one(slug, force, archive_edition=None):
     base = entry_base(slug, archive_edition)
     rec = {"slug": slug, "fetched_at": utcnow_iso(), "source_url": base}
     edir = repo_path("en", slug)
     os.makedirs(edir, exist_ok=True)
     files, missing = [], []
 
-    status, data = fetch.get(base, delay=delay, pacer=pacer)
+    status, data = fetch.get(base)
     if status != 200:
         return {"slug": slug, "error": "index.html HTTP %s" % status}
     if is_soft404(data[:4096].decode("utf-8", "replace")):
@@ -116,7 +116,7 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
 
     # 脚注：正文有引用才抓（spec：404 为显式缺省件）
     if entry["notes_refs"]:
-        st, notes = fetch.get(base + "notes.html", delay=delay, pacer=pacer)
+        st, notes = fetch.get(base + "notes.html")
         if st == 200:
             files.append(dict(save("notes.html", notes), kind="notes"))
         else:
@@ -124,7 +124,7 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
 
     # 补充材料：正文相对链接
     for supp in entry["supplements"]:
-        st, body = fetch.get(base + supp, delay=delay, pacer=pacer)
+        st, body = fetch.get(base + supp)
         if st == 200:
             files.append(dict(save(supp, body), kind="supplement"))
         else:
@@ -136,7 +136,7 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
         rel = src.split("?")[0]
         if rel.startswith(("../", "http:", "https:", "/")):
             continue
-        st, body = fetch.get(base + rel, delay=delay, pacer=pacer)
+        st, body = fetch.get(base + rel)
         if st == 200:
             files.append(dict(save(rel, body), kind="image"))
         else:
@@ -149,14 +149,14 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
         rel = m.group(1)
         if rel in {f["path"].split("/")[-1] for f in files}:
             continue
-        st, body = fetch.get(base + rel, delay=delay, pacer=pacer)
+        st, body = fetch.get(base + rel)
         if st == 200:
             files.append(dict(save(rel, body), kind="script"))
         else:
             missing.append({"expected": rel, "http_status": st})
 
     # archinfo：权威版本核对（FR-003/008）
-    st, ai = fetch.get(ARCHINFO % slug, delay=delay, pacer=pacer)
+    st, ai = fetch.get(ARCHINFO % slug)
     rec["archinfo"] = parser.parse_archinfo(ai.decode("utf-8", "replace")) if st == 200 else {
         "error": "HTTP %s" % st}
     rec["archive_edition"] = archive_edition or rec["archinfo"].get("latest_edition")
@@ -189,7 +189,6 @@ def main(argv=None):
     ap.add_argument("--archive-edition", dest="archive_edition",
                     help="撤稿词条归档版抓取：从 /archives/<ed>/entries/<slug>/ 抓取"
                          "（如 spr2017；本批所有 slug 共用同一版本）")
-    ap.add_argument("--delay", type=float, default=fetch.MIN_DELAY)
     args = ap.parse_args(argv)
     ensure_dirs()
 
@@ -197,7 +196,7 @@ def main(argv=None):
     for slug in args.slugs:
         sys.stderr.write("[fetch_entry] %s ...\n" % slug)
         try:
-            rec = fetch_one(slug, args.delay, args.force,
+            rec = fetch_one(slug, args.force,
                             archive_edition=args.archive_edition)
         except fetch.FetchError as e:
             failures.append({"slug": slug, "error": str(e)})

@@ -9,7 +9,7 @@
      词内混入数字/等号（`Cambridh=ge`、`3s` 型）、重复词、异常标点串；
   3. 死链：页内锚点（href="#X" → id/name=X）、站内词条链接（/entries/<slug>/
      须在 baseline/entries.json 目录中）、外链盘点；--net 活体检查
-     （礼貌抓取 ≥5s 间隔＋退避＋state/link_cache.json URL 级缓存）；
+     （退避重试＋state/link_cache.json URL 级缓存）；
   4. 图片：包内资产存在性（硬）、alt 缺失（告警）；
   5. 公式：\\(…\\)/\\[…\\] 定界符配对（硬）、TeX 花括号平衡（硬）、
      \\unicode/\\char 已知渲染问题族（告警，ADR-0049）；
@@ -59,7 +59,6 @@ TAG_RE = re.compile(r"<[^>]+>")
 HEADING_RE = re.compile(r"<h([1-6])\b", re.I)
 TABLE_RE = re.compile(r"<table\b.*?</table>", re.S | re.I)
 EMPTY_P_RE = re.compile(r"<p>(?:\s|&nbsp;|&#160;)*</p>", re.I)
-NET_GAP_S = 5  # 礼貌抓取下限（rules/05）
 CACHE_PATH = None  # 惰性初始化：state/link_cache.json
 
 
@@ -220,7 +219,7 @@ def _check_links(raw, slug, ids, out, catalog):
 
 
 def _net_check(external, out, refresh=False):
-    """外链活体检查：URL 级缓存＋礼貌间隔＋退避。死链 warn（登记不修）。"""
+    """外链活体检查：URL 级缓存＋退避。死链 warn（登记不修）。"""
     global CACHE_PATH
     if CACHE_PATH is None:
         CACHE_PATH = repo_path("state", "link_cache.json")
@@ -232,8 +231,6 @@ def _net_check(external, out, refresh=False):
         if rec and not refresh:
             status = rec.get("status")
         else:
-            if checked:
-                time.sleep(NET_GAP_S)
             status = None
             for attempt in range(3):
                 try:
@@ -397,7 +394,7 @@ def main(argv=None):
     ap.add_argument("slugs", nargs="*")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--out")
-    ap.add_argument("--net", action="store_true", help="外链活体检查（礼貌抓取）")
+    ap.add_argument("--net", action="store_true", help="外链活体检查")
     ap.add_argument("--net-refresh", action="store_true", help="忽略缓存重检")
     args = ap.parse_args(argv if argv is not None else sys.argv[1:])
     if args.all:

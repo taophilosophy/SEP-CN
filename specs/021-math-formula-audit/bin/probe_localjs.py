@@ -14,7 +14,6 @@ from tools import fetch as tf  # noqa: E402
 
 DEST = os.path.join(REPO, 'state', 'mathval', 'js')
 os.makedirs(DEST, exist_ok=True)
-pacer = tf.Pacer(5.0)
 targets = [
     'https://plato.stanford.edu/entries/actualism-possibilism-ethics/local.js',
     'https://plato.stanford.edu/MathJax/config/TeX-MML-AM_CHTML.js',
@@ -23,7 +22,7 @@ targets = [
 for url in targets:
     name = url.replace('https://plato.stanford.edu/', '').replace('/', '__')
     try:
-        st, data = tf.get(url, dest=os.path.join(DEST, name), pacer=pacer)
+        st, data = tf.get(url, dest=os.path.join(DEST, name))
         print(st, len(data or b''), name)
     except tf.FetchError as exc:
         print('ERR', getattr(exc, 'status', None), name)

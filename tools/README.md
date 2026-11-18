@@ -7,7 +7,7 @@
 | 模块 | 职责 |
 | ---- | ---- |
 | `common.py` | 公共件：路径解析、JSON 读写校验、时间戳 |
-| `fetch.py` | 礼貌抓取层：相邻请求 ≥5 秒（宪法 V）、退避重试、逐请求留痕 |
+| `fetch.py` | 抓取层：退避重试、逐请求留痕、失败显式化（请求间隔规则已于 2026-11-18 废除，ADR-0069） |
 | `fetch_catalog.py` | 全目录抓取（contents.html）与结构解析 |
 | `fetch_entry.py` | 单词条包抓取：正文、脚注、补充材料、图片、pubinfo |
 | `extract_text.py` / `parser.py` | 原始 HTML → 提取文本（含数学与上下标实体解码） |

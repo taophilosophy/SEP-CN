@@ -22,9 +22,9 @@
 
 **Project Type**: 内容仓库 + 管线脚本集（无服务、无前端）
 
-**Performance Goals**: 全库基线抓取一轮 ≤4 小时（约 1800 词条 × 5 秒间隔）；每日增量更新检测 ≤5 分钟；单词条比较 ≤2 秒
+**Performance Goals**: 全库基线抓取一轮 ≤4 小时（约 1800 词条，按 fetch_all 并发路数配置；请求间隔规则已废，ADR-0069）；每日增量更新检测 ≤5 分钟；单词条比较 ≤2 秒
 
-**Constraints**: 相邻请求 ≥5 秒（宪法 V）；缺省件显式登记；Windows 大小写不敏感陷阱（图片引用名必须与磁盘逐字符一致，否则 Linux CI 404）；正文清空必须先有该词条可信基线（宪法附加约束）
+**Constraints**: 缺省件显式登记；Windows 大小写不敏感陷阱（图片引用名必须与磁盘逐字符一致，否则 Linux CI 404）；正文清空必须先有该词条可信基线（宪法附加约束）
 
 **Scale/Scope**: 约 1800 个词条（SUMMARY.md 全目录），全量重译战役 + 常态更新运维
 
@@ -38,7 +38,7 @@
 | II. 可追溯 | 通过——SHA-256 + 抓取时间 + 源 URL 登记（FR-002/017）；原始物存 `en/` 不可变 |
 | III. 单一事实源 | 通过——结构以 SUMMARY.md 为准（比较映射源）；术语以 yi-zhe-shuo-ming.md 为准；元数据清单 `baseline/` 为版本事实源 |
 | IV. 流程先行 | 通过——本 feature 即流程文档；演示→纠偏循环为 User Story 5 |
-| V. 礼貌抓取 | 通过——≥5 秒间隔、显式失败、缺省件登记（FR-004/005） |
+| V. 抓取失败显式化 | 通过——退避重试、显式失败、缺省件登记（FR-004/005；请求间隔规则已废，ADR-0069） |
 | VI. 体例即契约 | 通过——三校步骤绑定检查脚本（FR-015/016）；`tools/check_style.py` 弥补本仓库无引号/空格检查脚本的空缺（research D9） |
 
 Phase 1 设计后复查：**通过**（无违宪项，Complexity Tracking 留空）。
@@ -78,7 +78,7 @@ tools/                    # 管线脚本（本计划裁定：入版本库；⚠�
 ├── task_ops.py           # 文档任务状态机操作（建/查/推进/签字）
 ├── check_style.py        # 体例检查（引号/加粗空格/CJK 空格/HTML 残留）
 ├── baseline_audit.py     # 基线完整性审计（哈希复算、缺省件核对）
-├── fetch.py              # 礼貌抓取层（≥5s 间隔、退避重试、http-log.jsonl）
+├── fetch.py              # 抓取层（退避重试、逐请求留痕 http-log.jsonl；间隔规则已废，ADR-0069）
 ├── common.py             # UTF-8 无 BOM 读写、写后读回自校验
 ├── parser.py             # 标记契约解析器（spec"网站结构事实基础"）
 └── tests/                # unittest 金样本测试（26 例，fixtures 取自抽样）

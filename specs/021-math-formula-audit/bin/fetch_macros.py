@@ -6,7 +6,7 @@ SEP 页头 <script src="local.js"> 内的 window.MathJax.TeX.Macros 定义该词
 公式正文里的 \lamp \rO \at \bA \osim 等未定义于 MathJax 标准包，缺此表即
 红字。本脚本为 019 校验与修复提供权威宏字典。
 
-礼仪同 upstream_fetch.py（tools/fetch.get、≥5s Pacer、4xx 显式登记、
+纪律同 upstream_fetch.py（tools/fetch.get、4xx 显式登记、
 断点续跑）。落 state/mathval/macros/<slug>.js（gitignore），日志
 results/macro-fetch.jsonl。
 
@@ -46,7 +46,6 @@ def main():
                 except ValueError:
                     continue
                 seen[rec.get('slug')] = rec.get('status')
-    pacer = tf.Pacer(5.0)
     n_new = n_ok = n_4xx = n_err = 0
     with open(LOG, 'a', encoding='utf-8') as logf:
         for slug in slugs:
@@ -56,7 +55,7 @@ def main():
             dest = os.path.join(DEST, slug + '.js')
             rec = {'slug': slug, 'url': url}
             try:
-                status, data = tf.get(url, dest=dest, pacer=pacer)
+                status, data = tf.get(url, dest=dest)
                 if status == 200:
                     rec['status'] = 'ok'
                     rec['bytes'] = len(data or b'')

@@ -21,7 +21,7 @@
 - 页头：红 SEP 标志＋站名＋导航栏（搜索框）；本站对应 VitePress 顶栏换肤。
 - 题区：entry 标题下作者行（逗号分列；`baseline/entries.json` 的 `authors` 字段已有）、`#article-banner` 信息横幅、`#pubinfo` 斜体行（First published …; substantive revision …）。
 - 页脚：菜单块分栏（About/Community/Tools/Support 式）＋镜像选择器＋版权行；本站 VersionPin 信息迁入 SEP 式页脚块，信息不减。
-- 设计令牌从 SEP `css/style.css`、`entry.css` 礼貌抓取取证（凭证存 specs/037/results/）。
+- 设计令牌从 SEP `css/style.css`、`entry.css` 抓取取证（凭证存 specs/037/results/；无最小请求间隔，ADR-0069）。
 
 ## 4. 功能零回退清单（基线=2026-11-15 现状）
 

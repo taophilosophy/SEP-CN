@@ -33,8 +33,8 @@
 
 | 工具 | 用途 |
 | ---- | ---- |
-| `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；串行默认 ≥5 秒间隔，失败显式化；并发模式间隔按 2026-10-27 用户裁定，见 specs/001 Assumptions） |
-| `fetch_all.py` | 全量抓取+原文镜像驱动器（并发节拍 A=16 路×5s / B=64 路×10s，实测均无限流；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
+| `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；退避重试与失败显式化；2026-11-18 起无最小请求间隔，ADR-0069） |
+| `fetch_all.py` | 全量抓取+原文镜像驱动器（并发路数 A=16 / B=64（默认），不设节拍；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
 | `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性）；双账感知（ADR-0046）：已登记分歧且账目相符者计入 `divergent_registered` 不作 `hash_fail` |
 | `divergence.py` | 原始物分歧账门禁（ADR-0045）：`verify` 三账一致（台账原始钉 ↔ 现文件 ↔ 登记；未登记的静默改 `en/` 即退出码 1，CI 经 check_all 覆盖）；`--deep` 加核 `base_commit` 的 git blob（本地，需完整历史）；`register`/`carry`（三方合并逆向补丁随迁，冲突退出码 3 转人工，`--merged` 复跑，随迁即归档新上游快照并前移钉）/`unregister`/`patch`/`list` |

@@ -80,8 +80,7 @@ def audit_slug(slug, fix=False):
     for rel in missing:
         # 缺省件判定：抓一次，404 = 上游本就没有（显式缺省）
         os.makedirs(d, exist_ok=True)
-        status, _data = fetch.get(url_base + rel, dest=os.path.join(d, rel),
-                                  delay=fetch.MIN_DELAY)
+        status, _data = fetch.get(url_base + rel, dest=os.path.join(d, rel))
         if status == 200:
             fixed.append(rel)
         elif status == 404:

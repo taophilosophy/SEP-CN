@@ -47,7 +47,7 @@ class CnkiQueryTests(unittest.TestCase):
             raise IOError('disconnected')
         prov = {'fetch': boom, 'parse': cq._tl_standard_parse, 'enabled': True}
         status, hits, note, raw, err = cq.query_with_retry(
-            prov, 'test', cq.Pacer(0), retries=(), timeout=1)
+            prov, 'test', retries=(), timeout=1)
         self.assertEqual(status, 'error')
         self.assertIn('disconnected', err)
 
