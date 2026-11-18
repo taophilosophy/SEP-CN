@@ -28,6 +28,8 @@ def main(argv=None):
     ap.add_argument("--reparse", action="store_true",
                     help="离线重建：用 en/_catalog 最新快照重新解析并写 baseline/catalog.json，"
                          "不联网（解析器修复后使快照与解析结果重新一致）")
+    ap.add_argument("--reparse-snap", default=None,
+                    help="specs/054：--reparse 指定快照文件名（默认取最新），供跨时点账重建")
     args = ap.parse_args(argv)
     ensure_dirs()
 
@@ -37,7 +39,11 @@ def main(argv=None):
         if not snaps:
             print(json.dumps({"error": "en/_catalog 无快照"}, ensure_ascii=False))
             return 1
-        raw_path = repo_path("en", "_catalog", snaps[-1])
+        raw_name = args.reparse_snap if args.reparse_snap else snaps[-1]
+        if args.reparse_snap and args.reparse_snap not in snaps:
+            print(json.dumps({"error": "快照不存在: %s" % args.reparse_snap}, ensure_ascii=False))
+            return 1
+        raw_path = repo_path("en", "_catalog", raw_name)
         m = re.match(r"(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z-", snaps[-1])
         fetched_at = ("%s-%s-%sT%s:%s:%sZ" % m.groups()) if m else utcnow_iso()
         data = open(raw_path, "rb").read()
@@ -50,8 +56,12 @@ def main(argv=None):
             return 1
         fetched_at = utcnow_iso()
 
-    items = parser.parse_catalog(data.decode("utf-8", "replace"))
-    catalog = {"fetched_at": fetched_at, "source": raw_path, "items": items}
+    full = parser.parse_catalog_full(data.decode("utf-8", "replace"))
+    # items 保持旧账的 slug 排序（页序由 doc_order 字段承载，specs/054 A1）
+    items = sorted(full["items"], key=lambda x: x["slug"])
+    catalog = {"fetched_at": fetched_at, "source": raw_path, "items": items,
+               "alias_rows": sorted(full["alias_rows"], key=lambda x: x["doc_order"]),
+               "cluster_mothers": sorted(full["cluster_mothers"], key=lambda x: x["doc_order"])}
     write_json_verified(repo_path("baseline", "catalog.json"), catalog)
 
     # 与上次目录对比（无上次则全部视为 added 之外保持空 diff）
@@ -74,8 +84,7 @@ def main(argv=None):
                 diff["alias_changed"].append(slug)
 
     summary = {"fetched_at": catalog["fetched_at"], "entries": len(items),
-               "aliases": sum(len(i.get("aliases", [])) for i in items)
-                          + len([i for i in items if i["alias_of"]]),
+               "aliases": len(catalog["alias_rows"]),
                "raw": raw_path,
                "reparse": bool(args.reparse),
                "new_vs_baseline": diff}

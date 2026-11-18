@@ -192,6 +192,9 @@ class _CatalogHTMLParser(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.items = []
+        self.alias_rows = []        # specs/054：别名行族 {slug,label,href_text,level,doc_order}
+        self.cluster_mothers = []   # specs/054：纯文本簇母行 {label,level,doc_order}
+        self._doc_seq = 0           # specs/054：页序计数（按 <li> 关闭顺序，含母行）
         self.depth = 0
         self.stack = []
 
@@ -201,9 +204,11 @@ class _CatalogHTMLParser(HTMLParser):
             if self.stack:
                 self.stack[-1]["frozen"] = True
         elif tag == "li":
+            self._doc_seq += 1
             self.stack.append({"frozen": False, "slug": None, "strong": [],
                                "linktext": [], "post": [], "raw": [],
-                               "in_a": False, "in_strong": False})
+                               "in_a": False, "in_strong": False,
+                               "doc_order": self._doc_seq - 1})
         elif tag == "a" and self.stack and not self.stack[-1]["frozen"]:
             fr = self.stack[-1]
             if fr["slug"] is None:
@@ -245,7 +250,12 @@ class _CatalogHTMLParser(HTMLParser):
             self._finish(self.stack.pop())
 
     def _finish(self, fr):
+        doc_order = fr["doc_order"]
         if fr["slug"] is None:
+            label = "".join(fr["raw"]).strip()
+            if label:
+                self.cluster_mothers.append(
+                    {"label": label, "level": self.depth, "doc_order": doc_order})
             return
         raw = "".join(fr["raw"])
         title = "".join(fr["strong"]).strip() or "".join(fr["linktext"]).strip()
@@ -253,18 +263,34 @@ class _CatalogHTMLParser(HTMLParser):
             low = raw.lower()
             i = low.find("see")
             before = raw[:i].strip().rstrip("—–- ") if i >= 0 else title
-            self.items.append({"slug": fr["slug"], "title": before or title,
-                               "authors": [], "alias_of": fr["slug"],
-                               "level": self.depth})
+            self.alias_rows.append({"slug": fr["slug"], "label": before or title,
+                                    "href_text": "".join(fr["linktext"]).strip(),
+                                    "level": self.depth, "doc_order": doc_order})
         else:
             authors = "".join(fr["post"]).strip().strip("() ").strip()
             self.items.append({"slug": fr["slug"], "title": title,
                                "authors": authors or [], "alias_of": None,
-                               "level": self.depth})
+                               "level": self.depth,
+                               "doc_order": doc_order,
+                               "has_children": fr["frozen"]})
+
+
+def parse_catalog_full(html_text):
+    """解析 contents.html → {items, alias_rows, cluster_mothers}（specs/054 账升级）。
+
+    items＝正典条目（解析序＝页序；每条含 doc_order/has_children）；
+    alias_rows＝别名行族全量（重复 slug 各占一行）；
+    cluster_mothers＝纯文本簇母行。
+    """
+    p = _CatalogHTMLParser()
+    p.feed(html_text)
+    p.close()
+    return {"items": p.items, "alias_rows": p.alias_rows,
+            "cluster_mothers": p.cluster_mothers}
 
 
 def parse_catalog(html_text):
-    """解析 contents.html → [{slug,title,authors,alias_of,level}]。
+    """解析 contents.html → [{slug,title,authors,alias_of,level}]（旧接口，行为不变）。
 
     实测格式（2026-10-26 快照）：
       正常词条: <li> <a href="entries/slug/"><strong>title</strong></a> (Author) </li>
@@ -273,23 +299,23 @@ def parse_catalog(html_text):
 
     两遍归并：正常词条按 slug 占键；别名词并入目标记录的 aliases；
     无正常词条对应的别名独立成条（如 recursion — see recursion 的梗词条）。
+    输出按 slug 排序（页序见 parse_catalog_full 的 doc_order）。
     """
-    p = _CatalogHTMLParser()
-    p.feed(html_text)
-    p.close()
+    full = parse_catalog_full(html_text)
     by_slug = {}
-    for it in p.items:
+    for it in full["items"]:
         if not it["alias_of"]:
             by_slug[it["slug"]] = it
     standalone = {}
-    for it in p.items:
-        if it["alias_of"]:
-            tgt = it["alias_of"]
-            rec = by_slug.get(tgt)
-            if rec is not None:
-                rec.setdefault("aliases", []).append(it["title"])
-            else:
-                standalone.setdefault(tgt, it)
+    for ar in full["alias_rows"]:
+        tgt = ar["slug"]
+        rec = by_slug.get(tgt)
+        if rec is not None:
+            rec.setdefault("aliases", []).append(ar["label"])
+        else:
+            if tgt not in standalone:
+                standalone[tgt] = {"slug": tgt, "title": ar["label"], "authors": [],
+                                   "alias_of": tgt, "level": ar["level"]}
     out = list(by_slug.values()) + list(standalone.values())
     out.sort(key=lambda x: x["slug"])
     return out

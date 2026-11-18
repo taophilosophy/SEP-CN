@@ -2,6 +2,7 @@
 """金样本测试：common 写后自校验、parser 标记契约、extract 确定性。"""
 import json
 import os
+import re
 import sys
 import tempfile
 import unittest
@@ -159,6 +160,62 @@ class TestCatalog(unittest.TestCase):
         self.assertEqual(by["ghost-target"]["title"], "ghost")
         # 正常词条数 = 4（parent、parent-first、parent-second、solo）
         self.assertEqual(len([i for i in items if not i["alias_of"]]), 4)
+
+    def test_catalog_full_doc_order(self):
+        """specs/054：parse_catalog_full 三族账——doc_order=li 开始序（页序）、
+        别名/母行独立成族、has_children 对应嵌套 ul。"""
+        html = ('<ul>'
+                '<li> mother-label'
+                ' <ul>'
+                ' <li> <a href="entries/child/"><strong>child</strong></a> (C Author) </li>'
+                ' </ul></li>'
+                '<li> <a href="entries/cluster-head/"><strong>cluster head</strong></a> (H Author)'
+                ' <ul>'
+                ' <li> <a href="entries/sub/"><strong>sub</strong></a> </li>'
+                ' </ul></li>'
+                '<li> old-name &mdash; see <a href="entries/child/"><strong>child</strong></a> </li>'
+                '<li> <a href="entries/tail/"><strong>tail</strong></a> (T Author) </li>'
+                '</ul>')
+        full = parser.parse_catalog_full(html)
+        # items 的 list 序＝li 关闭序（嵌套时子条目先收口）；页序以 doc_order（li 开始序）为准
+        by_doc = sorted(full["items"], key=lambda x: x["doc_order"])
+        self.assertEqual([i["slug"] for i in by_doc], ["child", "cluster-head", "sub", "tail"])
+        self.assertEqual([i["doc_order"] for i in by_doc], [1, 2, 3, 5])
+        self.assertFalse(by_doc[0]["has_children"])
+        self.assertTrue(by_doc[1]["has_children"], "带嵌套 ul 的正典条目应标记 has_children")
+        self.assertFalse(by_doc[3]["has_children"])
+        self.assertEqual(full["cluster_mothers"],
+                         [{"label": "mother-label", "level": 1, "doc_order": 0}])
+        self.assertEqual(len(full["alias_rows"]), 1)
+        ar = full["alias_rows"][0]
+        self.assertEqual(ar["slug"], "child")
+        self.assertEqual(ar["label"], "old-name")
+        self.assertEqual(ar["href_text"], "child")
+        self.assertEqual(ar["doc_order"], 4)
+        # 旧接口行为不变：aliases 并入 + slug 排序输出
+        legacy = parser.parse_catalog(html)
+        by = {i["slug"]: i for i in legacy}
+        self.assertIn("old-name", by["child"].get("aliases", []))
+
+    def test_catalog_full_page_order_real(self):
+        """specs/054 A1：真实快照上 doc_order 序 ≡ 页面正典行序；alias_rows 行数 ≡ 页面别名行数。"""
+        import glob
+        cats = sorted(glob.glob(os.path.join(REPO, "en", "_catalog", "*-contents.html")))
+        if not cats:
+            self.skipTest("no catalog snapshot")
+        with open(cats[-1], "rb") as f:
+            html = f.read().decode("utf-8", "replace")
+        lines = html.split("\n")
+        full = parser.parse_catalog_full(html)
+        page_seq = [m.group(1) for l in lines
+                    for m in [re.search(r'href="entries/([^"]+)/">', l)]
+                    if m and "<strong>" in l and " &mdash; see " not in l]
+        acc_seq = [i["slug"] for i in sorted(full["items"], key=lambda x: x["doc_order"])]
+        self.assertEqual(acc_seq, page_seq)
+        page_alias = sum(1 for l in lines
+                         if (" &mdash; see " in l or " &ndash; see " in l)
+                         and 'href="entries/' in l)
+        self.assertEqual(len(full["alias_rows"]), page_alias)
 
 
 class TestZhDocFromLines(unittest.TestCase):
