@@ -173,3 +173,9 @@
 * **中文文字变动＝勘误表＋译注**：全局勘误表（`specs/001-sep-sync-pipeline/results/en-errata.md`，§一至九）登记全部缺陷与参考读法；读者可见处中文加译注（本日：xenophanes B14/B16、xenocrates Calchi/Fleischer/重复条目四处），其余按表排队。
 * **规则清扫**：AGENTS.md、rules/04（s0 处置出口＋s2.5 修复路径）、rules/README 判例、adr/README 索引、specs/001 contracts/cli.md、三个工具 docstring 统一改指 ADR-0062；check_quotes 直角引号存量（并行会话 ADR“”）一并归一清零。
 * 教训：ADR-0038 的“已核实四类就地改正”边界靠人判不可靠（当日复审即见 yorck 贵族介词姓被当手误改、015 线 `Gijs van de Kuilen` 等存疑改正）；冻结＋补丁＋译注三层把“改原文”的冲动全部转为“登记＋承载”，零信任的源真相面恢复。
+
+## 2026-11-18 术语在线解禁重抓开线与 A 档凭证续抓（ADR-0074）
+
+* 开线（早前会话，凭提交账）：ADR-0074 解禁术语在线（CNKI 翻译助手维持不新增）；`tools/tl_jwt_crawl.py` JWT 直连（无浏览器 profile、激活窗主动续期、断点续抓、维基源过滤、`--repair` 修错），A 档候选 12,721 条开抓，首批 ~940＋续 260，累计 1,200（ok 全绿、error 已 repair 清零）。
+* 本段：续抓 +260（ok 260／empty 0／error 0，4.11s/词），断点推进至 1,460/12,721；顺带以 `--repair` 补抓浏览器通道遗留 error 45/47 件全转 ok（余 2 件 hunayn／kepler 系旧 ingest 变体键名孤儿件——主键凭证已在位〔ishaq_ibn_hunayn=empty、johannes_kepler=ok〕，降级形态本不作证据，留原样不删）；`term_audit` 四态 1334/783/79/8773 与晨间持平（A 档候选凭证属登记前证据池，不触登记册行状态）；`check_terms` 绿（仅既有人名籍属告警）。凭证 306 件提交 55152ba5f。
+* 口径与余量：凭证只作证据，登记仍走人工 A/B/C 裁定（ADR-0070 机检为筛人审为判；ADR-0048 禁机械替换）；命中含跨学科噪音（paralogisms→种内同源基因、Humeanism→人文主义 等）属预期，裁定阶段逐条判读；余 11,261 条按 4.1s/词约 12.8 小时，多会话断点续抓，勿并行双爬虫。
