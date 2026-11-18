@@ -28,7 +28,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import load_json, repo_path
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 LEDGER = repo_path("specs", "005-translation-campaign", "ledger.json")
 PHASES = ["pending", "intake", "fetch", "convert", "translate", "done"]

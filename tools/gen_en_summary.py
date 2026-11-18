@@ -31,7 +31,7 @@ import re
 import sys
 
 try:  # 单测批量导入时 stdout 可能已被前序用例的重包 GC 关掉，此时保持原样
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 except (AttributeError, ValueError, OSError):
     pass
 

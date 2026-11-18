@@ -28,7 +28,7 @@ from tools import fetch
 from tools.common import load_json, repo_path, utcnow_iso
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 ASSET_RE = re.compile(r'(?:src|href)="([^"]+)"')
 HTML_RE = re.compile(r"<h2|<html|<body|<!DOCTYPE", re.I)

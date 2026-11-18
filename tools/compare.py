@@ -40,7 +40,7 @@ from tools.divergence import load_divergences
 
 # stdout 重包守卫：CI/unittest 下可能已是被别的模块重包过的流，重复包会关闭底层 buffer
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 SECTION_RE = re.compile(r'<h2[^>]*>\s*<a[^>]*\bid="([^"]*)"[^>]*>(.*?)</a>\s*</h2>', re.S | re.I)
 TAG_RE = re.compile(r"<[^>]+>")

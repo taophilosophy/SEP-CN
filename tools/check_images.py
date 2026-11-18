@@ -24,9 +24,11 @@ import os
 import re
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8') if (
-    getattr(sys.stdout, 'encoding', '').lower().replace('-', '') != 'utf8'
-    and hasattr(sys.stdout, 'buffer')) else sys.stdout
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SKIP_DIRS = {'.git', '.gitbook', 'node_modules', 'script', 'state', '.zcode',

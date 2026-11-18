@@ -47,7 +47,7 @@ from tools.common import (BASELINE_LOCK, load_json, repo_path, sha256_bytes,
 
 # stdout 重包守卫：CI/unittest 下可能已是被别的模块重包过的流，重复包会关闭底层 buffer
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 DIV_PATH = ("baseline", "divergences.json")
 SNAP_DIR = ("specs", "001-sep-sync-pipeline", "results", "upstream-snapshots")

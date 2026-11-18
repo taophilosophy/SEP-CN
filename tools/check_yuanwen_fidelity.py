@@ -108,7 +108,8 @@ def iter_entries(only=None, letter=None, limit=None):
     root = repo_path("yuanwen")
     out = []
     for d in sorted(os.listdir(root)):
-        if len(d) != 1 or not d.isalpha() or not d.islower():
+        # 目录名：单字母（a-z 小写）或单数字（数字开头词条，如 18thGerman-preKant 在 yuanwen/1/）
+        if len(d) != 1 or not (d.isdigit() or (d.isalpha() and d.islower())):
             continue
         if letter and d != letter:
             continue
@@ -194,17 +195,25 @@ def _html_stream(path):
     return _stream_from_text(read_text(path))
 
 
-def html_text(slug):
+def html_text(slug, apply_patches=False):
     """主文＝index.html 正文区；Notes 段来自 notes.html，一并入源流（ADR-0062 包内件）。
 
     图 alt 说明文是 md 侧可见文本（ADR-0037 图注体例），故把 alt 属性并入源流，
     与 md 的 `![说明](…)` 保 alt 处理对称。返回 (text, math_stats)。
+
+    求值视图（specs/044 §1）：apply_patches=True 时先对 index.html 应用格式补丁
+    （ADR-0062 apply_en_patches），使词元流源与转换器 yuanwen.convert_entry（先补丁
+    后解析）同源；默认 False 保持 fidelity 门禁原行为不变。notes.html 补丁另议
+    （当前池仅有 index.html 缺空格补丁）。
     """
     base = repo_path("en", slug)
     idx = os.path.join(base, "index.html")
     if not os.path.exists(idx):
         return None
     raw = read_text(idx)
+    if apply_patches:
+        from tools.yuanwen import apply_en_patches
+        raw = apply_en_patches(slug, raw)
     m, e = HEAD_RE.search(raw), TAIL_RE.search(raw)
     region = raw[m.end():e.start()] if (m and e) else raw
     # 注释区不入流（与 _stream_from_text 同口径）：SEP 图常有旧的 <!-- <img alt…> -->

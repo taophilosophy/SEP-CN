@@ -90,11 +90,22 @@ def b0_predicates(html):
 
 
 def b0_ok(slug):
-    """读 en/<slug>/index.html 求 B0。"""
+    """读 en/<slug>/index.html，在**转换输入视图**（en ⊕ patches）求 B0。
+
+    求值视图：先 apply_en_patches（ADR-0062），再跑十谓词——与 yuanwen.convert_entry
+    同源。补丁池修的正是"使 HTML 可解析"的格式层缺陷；在原始字节上判会把已热修的
+    缺陷误报为失败。无补丁件 apply_en_patches 原样返回，行为等同原始视图。
+    """
     idx = repo_path("en", slug, "index.html")
     if not os.path.exists(idx):
         return {"slug": slug, "b0": False, "error": "no en snapshot"}
-    preds = b0_predicates(read_text(idx))
+    raw = read_text(idx)
+    try:
+        from tools.yuanwen import apply_en_patches
+        patched = apply_en_patches(slug, raw)
+    except Exception as ex:  # 补丁失配＝上游漂移，B0 判失败并记录
+        return {"slug": slug, "b0": False, "error": "patch mismatch: %s" % ex}
+    preds = b0_predicates(patched)
     return {"slug": slug, "b0": all(preds.values()), "predicates": preds,
             "failed": [k for k, v in preds.items() if not v]}
 
@@ -108,7 +119,7 @@ def b1_ok(slug):
     baseline = load_baseline()
     pins = check_pins(slug, relpath, baseline)
     pin_bad = [i for i in pins if i.get("rule") in ("md-hand-edited", "source-drift")]
-    a = html_text(slug)
+    a = html_text(slug, apply_patches=True)
     if a is None:
         return {"slug": slug, "b1": False, "error": "no en snapshot for token stream"}
     toks_a, st_a = a

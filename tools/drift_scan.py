@@ -29,7 +29,7 @@ from tools.fetch_entry import ENTRY_URL, is_soft404
 
 # stdout 重包守卫：CI/unittest 下可能已是被别的模块重包过的流，重复包会关闭底层 buffer
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 
 def scan_one(slug, pin):

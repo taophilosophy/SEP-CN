@@ -27,7 +27,7 @@ sys.path.insert(0, ROOT)
 
 if (getattr(sys.stdout, "encoding", "") or "").lower().replace("-", "") != "utf8":
     try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+        sys.stdout.reconfigure(encoding="utf-8")
     except (AttributeError, ValueError):
         pass
 

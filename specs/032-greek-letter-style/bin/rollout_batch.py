@@ -19,7 +19,7 @@ import re
 import subprocess
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.stdout.reconfigure(encoding="utf-8")
 
 DRY = "--dry-run" in sys.argv
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".."))

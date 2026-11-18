@@ -27,7 +27,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools.common import load_json, repo_path, utcnow_iso  # noqa: E402
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
 H2_RE = re.compile(r"<h2[^>]*>(.*?)</h2>", re.S | re.I)
 TAG_RE = re.compile(r"<[^>]+>")

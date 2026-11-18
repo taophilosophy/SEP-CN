@@ -1,5 +1,5 @@
 import os, re, sys, io, json
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # 2026-11-07 裁定（ADR-0024）：H1 与 SUMMARY 条目文字必须一致；CI 只校验不写回，

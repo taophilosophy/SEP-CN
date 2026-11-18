@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
 
 SIG_PUB = re.compile(r'^\*\* 首次发表于[^\n]*\*\*\s*\S')
 SIG_PAIR = re.compile(r'\*\*[^*\n]+?\*\*\s+\*\*[^*\n]+?\*\*')

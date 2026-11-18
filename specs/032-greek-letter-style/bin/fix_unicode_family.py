@@ -22,7 +22,7 @@ import re
 import subprocess
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+sys.stdout.reconfigure(encoding="utf-8")
 
 DRY = "--dry-run" in sys.argv
 LEDGER = "specs/032-greek-letter-style/results/unicode-ledger.json"

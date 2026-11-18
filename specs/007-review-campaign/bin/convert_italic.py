@@ -9,7 +9,7 @@ import io
 import re
 import sys
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
 CJK = r'[\u4e00-\u9fff]'
 FILES = sys.argv[1:] if len(sys.argv) > 1 else [
     'a/abduction.md', 'a/abelard.md', 'a/abhidharma.md',
