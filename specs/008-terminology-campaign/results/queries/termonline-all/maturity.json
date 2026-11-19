@@ -1,0 +1,582 @@
+{
+ "key": "maturity",
+ "term": "maturity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:10:44+00:00",
+ "status": "ok",
+ "note": "variant=maturity; 审定公布名词库=185; 海峡两岸名词对照库=68; 其他来源数据库=10; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "成熟度",
+   "en": "maturity",
+   "source": "地质学名词",
+   "wordNumber": "05.03.138",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "碎屑物质在风化、搬运过程中，被改造趋向于最终产物的程度。可分为成分成熟度和结构成熟度两种。一般随着搬运次数和距离的增加，成熟度逐渐提高。"
+  },
+  {
+   "cn": "成熟度",
+   "en": "maturity",
+   "source": "农学名词",
+   "wordNumber": "17.007",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "农产品在成熟阶段根据重量、大小、风味、色泽和质地等品质特征而划分的成熟情况。"
+  },
+  {
+   "cn": "熟性",
+   "en": "maturity ",
+   "source": "草学名词",
+   "wordNumber": "6.0083",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生理成熟度",
+   "en": "maturity",
+   "source": "畜牧学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "胴体骨骼、软骨、肌肉生理发育的程度。"
+  },
+  {
+   "cn": "成熟",
+   "en": "maturity",
+   "source": "教育学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "个体的身体发育和心理发展达到完备和完善的状态。"
+  },
+  {
+   "cn": "性成熟度",
+   "en": "maturity",
+   "source": "水产名词",
+   "wordNumber": "01.082",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "根据性腺外表性状和性细胞发育程度划分的性腺发育阶段。"
+  },
+  {
+   "cn": "成熟度",
+   "en": "maturity",
+   "source": "地质学名词",
+   "wordNumber": "06.376",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "熟化",
+   "en": "maturing",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0418",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "沉积有机质在较高温度和压强条件下发生化学分解演化的过程。 "
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "动物学名词",
+   "wordNumber": "1.0246",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "动物生殖系统的完全长成并能繁殖后代的现象。"
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0607",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "果蔬产品发育的一个阶段，表现出特有的色、香、味，达到适于食用的状态的过程。"
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "运动医学名词",
+   "wordNumber": "06.081",
+   "subjectFullName": "运动医学_医务监督_运动卫生",
+   "subjectName": "运动卫生",
+   "publishYear": "2019",
+   "definition": "机体在形态和机能等方面达到成人水平的阶段。表现为身高、体重达到一定水平，各系统功能基本完善，骨骼与牙齿的钙化基本完成，性器官具有繁殖子代的能力等。人体进入成熟期意味着生长发育的结束。"
+  },
+  {
+   "cn": "成熟作用",
+   "en": "maturation",
+   "source": "石油名词",
+   "wordNumber": "02.0402",
+   "subjectFullName": "石油_油气地质勘探_油气成因",
+   "subjectName": "油气成因",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "性成熟",
+   "en": "sexual maturation;sex maturity",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "人类获得完全的性及生育能力的阶段。人类用青春期描述性成熟过程。"
+  },
+  {
+   "cn": "成熟度等级",
+   "en": "maturity level",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0449",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "对一个企业或其他组织在管理与技术等方面的成熟程度所划分的等级。包括初始级、可重复级、定义级、定量管理级和优化级等级别。"
+  },
+  {
+   "cn": "期限匹配策略",
+   "en": "maturity strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0069",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "通过将资产负债期限相匹配，以期降低利率风险的风险管理策略。"
+  },
+  {
+   "cn": "期权到期日",
+   "en": "maturity date",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0572",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "期权有效期的最后一日。对于欧式期权是买方唯一可以行使权利的一天；对于美式期权，则是买方可以行使权利的最后一日。"
+  },
+  {
+   "cn": "成分成熟度",
+   "en": "compositional maturity",
+   "source": "地质学名词",
+   "wordNumber": "05.03.140",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "沉积物中碎屑组分在风化、搬运、沉积作用的改造下接近最稳定的终极产物的程度。通常用稳定组分在沉积物中的相对丰度来表达，稳定组分(如石英)占比越高，其成分成熟度越高。是物源区地质条件、风化程度和搬运距离远"
+  },
+  {
+   "cn": "结构成熟度",
+   "en": "textural maturity",
+   "source": "地质学名词",
+   "wordNumber": "05.03.141",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "碎屑沉积物在其风化、搬运和沉积作用的改造下接近终极结构特征的程度。通常用碎屑分选程度、磨圆度及黏土(杂基)含量等来衡量。碎屑分选越好、磨圆度越高，杂基含量越少，则结构成熟度越高。"
+  },
+  {
+   "cn": "堆肥腐熟度",
+   "en": "compost maturity",
+   "source": "农学名词",
+   "wordNumber": "11.100",
+   "subjectFullName": "农业环境保护_生态循环农业",
+   "subjectName": "生态循环农业",
+   "publishYear": "2025",
+   "definition": "表征堆肥产品腐熟程度的指标。经过发酵腐熟的堆肥产品对种子发芽和幼苗生长无影响，一般分为物理学指标、化学指标和生物学指标。"
+  },
+  {
+   "cn": "棉纤维成熟度",
+   "en": "cotton maturity",
+   "source": "农学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉纤维胞壁相对发育程度。"
+  },
+  {
+   "cn": "成熟度",
+   "en": "maturity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "成熟期",
+   "en": "maturation phase\",\"maturation period",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟节片",
+   "en": "mature segment\",\"mature proglottid",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "到期值",
+   "en": "maturity value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[票据]到期日",
+   "en": "maturity date",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地形成熟期",
+   "en": "topographic maturity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "成熟面",
+   "en": "maturing face",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "将到期负债",
+   "en": "maturing liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "成熟分裂",
+   "en": "maturation division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟细胞",
+   "en": "maturation cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟群落",
+   "en": "mature community",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成熟组织",
+   "en": "mature tissue",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成熟材",
+   "en": "mature wood",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "到期负债",
+   "en": "matured liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "到期票据",
+   "en": "matured bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "到期票据",
+   "en": "matured note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "到期债券",
+   "en": "matured bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "到期支票",
+   "en": "matured cheque",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "成熟土壤",
+   "en": "mature soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "期限错配",
+   "en": "maturity mismatch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全成熟度模型",
+   "en": "security maturity model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全能力成熟度",
+   "en": "data security capability maturity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36073-2018 数据管理能力成熟度评估模型》",
+   "en": "GB/T 36073-2018 Data management capability maturity assessment model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37988-2019 信息安全技术 数据安全能力成熟度模型》",
+   "en": "GB/T 37988-2019 Information security technology — Data security capability maturity model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 33136-2016 信息技术服务 数据中心服务能力成熟度模型》",
+   "en": "GB/T 33136-2016 Information technology service — Service capability maturity model of data center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多数裁判员判定",
+   "en": "majority decision",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三者合议取多数规则",
+   "en": "majority of three rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成熟",
+   "en": "maturation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "生长和发育达到一个相对完备的阶段，标志着个体在形态、生理功能、心理素质等方面都已达到成人水平，具备独立生活和生殖养育下一代的能力。"
+  },
+  {
+   "cn": "水果成熟度",
+   "en": "degree of fruit maturity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.21",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "对水果在自然生长和发育过程中所达到的状态，可定性或定量的评价。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "为保障女性劳动者在生育期间的基本生活和医疗需求，维护劳动力再生产，国家和社会通过立法为怀孕、分娩的女性劳动者提供医疗费用补偿、生育津贴及产假保障的社会保险制度。"
+  },
+  {
+   "cn": "生育津贴",
+   "en": "maternity allowance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "女职工按照国家规定享受产假或计划生育手术休假期间获得的工资性补偿。"
+  },
+  {
+   "cn": "产假",
+   "en": "maternity leave",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "国家为了保障母婴安全、促进顺利分娩及产后母体组织器官的恢复和乳汁分泌，在女职工产前和产后期间规定的休假待遇。通常女职工生育应享有至少98天的基本休假。"
+  },
+  {
+   "cn": "孕产妇保健",
+   "en": "maternity care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.5",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "为保证和维护孕产妇健康所提供的服务，包括产前、围生期、产后照顾、育儿和基本避孕等服务。"
+  },
+  {
+   "cn": "多数人语言",
+   "en": "majority language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0131",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“少数民族语言”相对。一个国家中人口占多数的民族使用的语言。例如中国的汉语。"
+  },
+  {
+   "cn": "生育医疗费",
+   "en": "maternity medical expense",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "怀孕期间的检查、接生、手术、住院和药品等与生育相关的费用，计划生育手术发生的医疗费用，法律、法规规定的应当由生育保险基金支付的其他项目费用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

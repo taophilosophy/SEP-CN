@@ -1,0 +1,32 @@
+{
+ "key": "trimsikabhasya",
+ "term": "Triṃśikābhāṣya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:13:28+00:00",
+ "status": "ok",
+ "note": "variant=Triṃśikābhāṣya; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "TRI球形填料",
+   "en": "TRI spherical packing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.089",
+   "subjectFullName": "化工（八）_化工设备_塔设备",
+   "subjectName": "塔设备",
+   "publishYear": "2021",
+   "definition": "由许多格栅状的枝条棒组成一个空心球体的球形填料。"
+  },
+  {
+   "cn": "BH结构域",
+   "en": "Bcl-2 homology domain;BH domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "Bcl-2家族促凋亡蛋白质和抗凋亡蛋白质所特有的结构域。按其结构与功能的不同分为BH1、BH2、BH3和BH4四种，分别介导蛋白质的同源或异源二聚化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

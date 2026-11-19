@@ -1,0 +1,772 @@
+{
+ "key": "connection of denoted meanings",
+ "term": "connection of denoted meanings",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:13:03+00:00",
+ "status": "ok",
+ "note": "variant=connection of denoted meanings; 审定公布名词库=10000; 海峡两岸名词对照库=8195; 其他来源数据库=1906; 预公布名词数据库=2753; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "引申义",
+   "en": "extensional meaning,denotative meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.146",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "从词本义繁衍派生而来的意义，是词义发展的基本形式。根据词义引申的途径，可分为相关引申和相似引申；根据词义引申的类型，可分为辐射式引申和链条式引申；根据词义引申的结果，可分为扩大引申和缩小引申；根据词义"
+  },
+  {
+   "cn": "外延",
+   "en": "denotation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.204",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "与内涵相对，一个符号所指涉的思维对象的具体现象。"
+  },
+  {
+   "cn": "义列",
+   "en": "extensional meaning series,denotative meaning series",
+   "source": "语言学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "词在引申过程中形成的意义系列。包括依托于同一词形的多义词的各个义项和同根的派生词这两种引申的结果。"
+  },
+  {
+   "cn": "指称语义",
+   "en": "denotational semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0887",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由克里斯托弗·斯特雷奇（Christopher Strachey）和达纳·斯科特（Dana Scott）在20世纪60年代开创的形式语义学，用与程序执行效果相对应的数学对象（称为指称）来描述程序结构含"
+  },
+  {
+   "cn": "义通",
+   "en": "meaning or semantic association,meaning connection",
+   "source": "语言学名词",
+   "wordNumber": "05.174",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "几个词的意义有共同特征且互为渗透、印证的意义关联现象。古代训诂学家很重视“义通”现象，目的是探寻古汉语词义系统和探寻语源。例如，古人往往认为“大”“远”“张”“厚”义相通。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "建筑学名词",
+   "wordNumber": "13.0056",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "构件间以某种方式的结合。能传递竖向力和水平力而不能传递弯矩的构件相互连接方式称为铰接；能传递竖向力和水平力，又能传递弯矩的构件相互连接方式称为刚接；能传递竖向力、水平力和部分弯矩且容许有一定变形的构件"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，为传送信号在功能单元之间建立的关联。"
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "土木工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "联结",
+   "en": "connection",
+   "source": "电气工程名词",
+   "wordNumber": "01.622",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0116",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "联络",
+   "en": "connection",
+   "source": "数学名词",
+   "wordNumber": "08.1014",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "电子学名词",
+   "wordNumber": "21.093",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联号",
+   "en": "connective",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.298",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "表示不同标引词之间在同一文献中联系程度强弱的一种专用标引符号。它揭示标引词之间是否具有逻辑组配关系，防止出现假联系和错误组配，提高系统的查准率。使用联号的结果类似于标引词分组。"
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "植物学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "雄蕊中介于花粉囊之间花药的部分。"
+  },
+  {
+   "cn": "联结词",
+   "en": "connective",
+   "source": "数学名词",
+   "wordNumber": "02.0026",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联络系数",
+   "en": "coefficients of connection",
+   "source": "数学名词",
+   "wordNumber": "08.1063",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源信息外延开发",
+   "en": "denotation development of human resource information",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.191",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "主要是指通过提高信息的被利用率和利用效果来进一步挖掘信息的价值。"
+  },
+  {
+   "cn": "连",
+   "en": "connect",
+   "source": "风景园林名词",
+   "wordNumber": "08.0731",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "山石与山石之间水平方向的相互搭接。连石要根据山石的自然轮廓、并注意连石之间的大小同、连缝或紧或疏以形成岩石自然风化后的节理。"
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.724",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "拓扑学中的基本概念。若X中除了空集和X本身外没有别的既开又闭的子集，则称拓扑空间X具有连通性。"
+  },
+  {
+   "cn": "连接度",
+   "en": "connectivity",
+   "source": "植物学名词",
+   "wordNumber": "13.0587",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "从生态功能和过程上描述景观中各单元之间相互联系的程度。是测定景观的功能特征。"
+  },
+  {
+   "cn": "指称语义学",
+   "en": "denotational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "药隔",
+   "en": "connective",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联系性",
+   "en": "connectivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连通性",
+   "en": "connectivity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "含义地图",
+   "en": "Maps of Meaning",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逃生方法",
+   "en": "means of escape",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平均数",
+   "en": "mean",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结缔组织束",
+   "en": "fasciculus of connective tissue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平位置",
+   "en": "mean position\",\"mean place",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "释意",
+   "en": "paraphrasing\",\"reflection of meaning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection\",\"link",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁状联合",
+   "en": "clamp connection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法兰连接",
+   "en": "flange connection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抑制性联结",
+   "en": "inhibitory connection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "轨迹连接",
+   "en": "tracking connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文件夹连接",
+   "en": "folder connection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接",
+   "en": "connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设施联通",
+   "en": "connectivity of infrastructure",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技巧连接动作",
+   "en": "acrobatic connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接动作",
+   "en": "connecting move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接导线",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接电缆",
+   "en": "connecting wire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《连通2020目标议程》",
+   "en": "Connect 2020 Agenda",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧互通",
+   "en": "Intelligent Connectivity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施互联互通",
+   "en": "infrastructure connectivity",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "格义",
+   "en": "Matching Meanings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0062",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学语境下，“关系”同“联系”。关系反映事物与事物、本质与本质、现象与现象、本质与现象之间相互联系的哲学范畴，是事物相互联系的必要因素。辩证唯物主义认为，关系是客观的，它存在于事物之间。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "符号在表达系统里的价值。与符号构成人类学解读文化的一种范式。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0042",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一般指语言形式（语音）所承载和传达的信息或说话者的意图。在不同的理论中，内涵有所不同。"
+  },
+  {
+   "cn": "流通手段",
+   "en": "means of circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0073",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一，指货币在商品流通中充当交换媒介的职能。货币流通手段职能以货币价值尺度的职能为前提。"
+  },
+  {
+   "cn": "贮藏手段",
+   "en": "means of hoarding",
+   "source": "马克思主义",
+   "wordNumber": "02.0084",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一。货币退出流通领域，被人们当作独立的价值形态和社会财富的一般代表保存起来的职能。只有贵金属即金属铸币、金银条块以及它的可靠代表才能执行贮藏手段或货币贮藏职能。"
+  },
+  {
+   "cn": "支付手段",
+   "en": "means of payment",
+   "source": "马克思主义",
+   "wordNumber": "02.0085",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一。货币用于清偿债务、支付租金、赋税、利息、工资等的职能。从货币作为支付手段的职能中直接产生了信用货币，表现了货币对商品生产和商品交换的适应。"
+  },
+  {
+   "cn": "劳动资料",
+   "en": "means of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0102",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者在生产过程中用于改造或影响劳动对象的一切物质资料和物质条件。生产工具（特别是机械性的生产工具，比那些只是充当劳动对象容器的劳动资料例如管、桶、篮、罐等，更能显示一个社会生产时代具有决定意义的特征"
+  },
+  {
+   "cn": "生产资料",
+   "en": "means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0103",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们从事物质资料生产所必需的一切物质条件。是社会生产力中物的要素，即人们在生产过程中所使用的劳动资料和劳动对象的总和。劳动者只有和生产资料相结合，才能进行生产、创造物质财富。二者的结合方式强烈地反映与"
+  },
+  {
+   "cn": "生活资料",
+   "en": "means of subsistence",
+   "source": "马克思主义",
+   "wordNumber": "02.0210",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用来满足人们物质和文化生活需要的那部分社会产品。生活资料是维持人类生存和发展的基本条件。"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在某一规定时间间隔内，一个量的所有瞬时值或其绝对值的算术平均计值"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "货币的社会意义",
+   "en": "social meaning of money",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.39",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "货币所具有的文化内涵。泽利泽认为，传统的将货币视为非人格化的一般等价物的关于货币的一元认知是不正确的，实际上货币被人们创造性地应用于诸如亲属关系、友谊关系以及其他社会关系中，制造着适用于这些不同社会关"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "外在联系",
+   "en": "external connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0072",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内在联系”相对。这种关系不是原有的，属于非本质、非必然关系，对事物性质没有决定性的影响。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "结缔组织",
+   "en": "connective tissue",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.1.1",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_基本组织",
+   "subjectName": "基本组织",
+   "publishYear": "2025",
+   "definition": "由细胞和大量细胞外基质构成的一种基本组织。不同类型结缔组织所含细胞数量、形态结构和功能不同。狭义上指固有结缔组织，包括疏松结缔组织、致密结缔组织、脂肪组织和网状组织。广义上还包括血液、淋巴、软骨和骨组"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "一个人口所有成员年龄的算术平均数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,252 @@
+{
+ "key": "reverberation",
+ "term": "reverberation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:13:16+00:00",
+ "status": "ok",
+ "note": "variant=reverberation; 审定公布名词库=28; 海峡两岸名词对照库=4; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "交混回响",
+   "en": "reverberation",
+   "source": "地球物理学名词",
+   "wordNumber": "09.0048",
+   "subjectFullName": "地球物理学_海洋地球物理学_海洋地震探测",
+   "subjectName": "海洋地震探测",
+   "publishYear": "2022",
+   "definition": "在地震记录上以不同振幅多次出现的地震波在水层中多次反射造成的一种干扰。 "
+  },
+  {
+   "cn": "混响",
+   "en": "reverberation",
+   "source": "建筑学名词",
+   "wordNumber": "10.0226",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "声源停止发声后，声音由于多次反射或散射而延续的现象。"
+  },
+  {
+   "cn": "交混回响",
+   "en": "reverberation",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0823",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋观测技术",
+   "subjectName": "海洋观测技术",
+   "publishYear": "2007",
+   "definition": "地震波在水层中多次反射造成的一种干扰，在地震记录上以不同振幅多次出现。"
+  },
+  {
+   "cn": "[交]混[回]响",
+   "en": "reverberation",
+   "source": "水产名词",
+   "wordNumber": "09.494",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "探鱼仪发射声波后从海底、海面和水体中散射返回接收系统的那部分声波。"
+  },
+  {
+   "cn": "混响",
+   "en": "reverberation",
+   "source": "电气工程名词",
+   "wordNumber": "27.105",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "回响",
+   "en": "reverberation",
+   "source": "自动化名词",
+   "wordNumber": "06.107",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_生物控制论",
+   "subjectName": "生物控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "鸣震",
+   "en": "ringing,reverberation",
+   "source": "石油名词",
+   "wordNumber": "03.0374",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "反响映射",
+   "en": "reverberation mapping",
+   "source": "天文学名词",
+   "wordNumber": "07.193",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "测量活动星系核或类星体宽线区结构的一种技术。主要通过宽发射线的轮廓对中心紫外辐射光变的响应来估计宽线区尺度、结构和云团分布，并进而用来估计中心黑洞的质量。"
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation chamber",
+   "source": "计量学名词",
+   "wordNumber": "11.314",
+   "subjectFullName": "计量学_无线电_电磁兼容性",
+   "subjectName": "电磁兼容性",
+   "publishYear": "2015",
+   "definition": "装有旋转搅拌器的屏蔽室。如果尺寸、形状与位置合适，则室内任意位置的能量密度在相位、幅度与极化方向都可按照一个恒定的统计分布规律随机地变化。"
+  },
+  {
+   "cn": "混响时间",
+   "en": "reverberation time",
+   "source": "计量学名词",
+   "wordNumber": "08.062",
+   "subjectFullName": "计量学_声学_电声",
+   "subjectName": "电声",
+   "publishYear": "2015",
+   "definition": "声音已达到稳态后停止声源，平均声能密度自稳态值衰变到其百万分之一所需要的时间。"
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation room",
+   "source": "计量学名词",
+   "wordNumber": "11.314",
+   "subjectFullName": "计量学_声学_电声",
+   "subjectName": "电声",
+   "publishYear": "2015",
+   "definition": "混响时间长，使声场尽量扩散的房间。"
+  },
+  {
+   "cn": "混响时间",
+   "en": "reverberation time",
+   "source": "建筑学名词",
+   "wordNumber": "10.0228",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "声音已达到稳态后声源停止发声，声压级自原始值衰变60dB所需要的时间。符号为T₆₀，单位为s(秒)。"
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation chamber",
+   "source": "建筑学名词",
+   "wordNumber": "02.0223",
+   "subjectFullName": "建筑学_建筑类型及组成_科技实验建筑",
+   "subjectName": "科技实验建筑",
+   "publishYear": "2014",
+   "definition": "测试或调整混响时间的专用房间。"
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation chamber",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.327",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "混响场",
+   "en": "reverberation field",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.318",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "混响试验",
+   "en": "reverberation test",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.325",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation room",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.284",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_噪声测量仪器_噪声测量仪器测试方法",
+   "subjectName": "噪声测量仪器测试方法",
+   "publishYear": "2003",
+   "definition": "能使声波尽可能扩散且混响时间足够长的房间。"
+  },
+  {
+   "cn": "混响时间",
+   "en": "reverberation time",
+   "source": "电气工程名词",
+   "wordNumber": "27.106",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation room",
+   "source": "电子学名词",
+   "wordNumber": "22.054",
+   "subjectFullName": "电子学_广播电视",
+   "subjectName": "广播电视",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "海洋混响",
+   "en": "marine reverberation",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0326",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋物理学",
+   "subjectName": "海洋物理学",
+   "publishYear": "2007",
+   "definition": "声波传播过程中，在起伏海面、不平整海底及海水介质内部随机不均匀体上反向散射在接收点所产生的信号。"
+  },
+  {
+   "cn": "交混回响",
+   "en": "reverberation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "混响室",
+   "en": "reverberation room",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "声混响",
+   "en": "acoustic reverberation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋混响",
+   "en": "marine reverberation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

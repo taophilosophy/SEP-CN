@@ -1,0 +1,712 @@
+{
+ "key": "leibniz's mill argument",
+ "term": "Leibniz’s Mill Argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:11:30+00:00",
+ "status": "ok",
+ "note": "variant=Leibniz’s Mill Argument; 审定公布名词库=1162; 海峡两岸名词对照库=538; 其他来源数据库=64; 预公布名词数据库=75; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "铣背",
+   "en": "milling",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.027",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "将配好的书帖的折叠处铣磨成散页状，以便涂胶时胶液渗透在页间的加工方法。"
+  },
+  {
+   "cn": "炼胶",
+   "en": "milling",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0905",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "将生胶或胶料通过加工机械设备进行捏炼（剪切、混合）的操作。通常包括塑炼与混炼。"
+  },
+  {
+   "cn": "铣削",
+   "en": "milling",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.078",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法",
+   "subjectName": "切削加工方法",
+   "publishYear": "2021",
+   "definition": "使用多刃旋转刀具切削工件的工艺方法。"
+  },
+  {
+   "cn": "研磨",
+   "en": "milling",
+   "source": "冶金学名词",
+   "wordNumber": "08.0183",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "将粉末进行粉碎性机械处理的一种方法。目的在于：①改变粒度或形状(粉碎，消除结团等)；②充分混合；③一种组分的颗粒被另一种组分包覆。"
+  },
+  {
+   "cn": "摔纹",
+   "en": "milling",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0494",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "利用皮革在转鼓中干摔时所产生的对皮革的重复弯折作用，从而在皮革表面产生比较自然的皱纹的操作。"
+  },
+  {
+   "cn": "铣削",
+   "en": "milling",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.105",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "立辊轧机",
+   "en": "edging mill,vertical mill",
+   "source": "冶金学名词",
+   "wordNumber": "09.1294",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "轧辊垂直放置的轧机。"
+  },
+  {
+   "cn": "Y型轧机",
+   "en": "Y-mill,kocks mill",
+   "source": "冶金学名词",
+   "wordNumber": "09.1236",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "由3个互成120°角的盘状轧辊组成，好似英文字母Y的轧机。"
+  },
+  {
+   "cn": "减径机",
+   "en": "reducing mill,sinking mill",
+   "source": "冶金学名词",
+   "wordNumber": "09.1312",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "将轧管机生产的大直径管材轧制成具有一定精度和椭圆度要求的小直径成品管的多机架二辊或三辊连轧机。"
+  },
+  {
+   "cn": "锤击磨煤机",
+   "en": "hammer mill,impact mill",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0336",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_制粉及燃烧系统设备",
+   "subjectName": "制粉及燃烧系统设备",
+   "publishYear": "2013",
+   "definition": "利用高速旋转锤头的动能把煤击碎的磨煤机。"
+  },
+  {
+   "cn": "开炼机",
+   "en": "open mill,mixing mill",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1219",
+   "subjectFullName": "材料科学技术_高分子材料_高分子加工_加工设备",
+   "subjectName": "加工设备",
+   "publishYear": "2011",
+   "definition": "主要由两个平行排列辊筒构成的开放式塑胶间歇混炼设备。根据用途不同又分为塑炼机、热炼机等。"
+  },
+  {
+   "cn": "逆铣",
+   "en": "up-milling,conventional milling",
+   "source": "林学名词",
+   "wordNumber": "11.300",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "刀具刃口选定点切削速度方向与进给速度方向相反或接近相反的铣削。"
+  },
+  {
+   "cn": "顺铣",
+   "en": "down-milling,climb milling",
+   "source": "林学名词",
+   "wordNumber": "11.299",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "刀具刃口选定点切削速度方向与进给速度方向相同或接近相同的铣削。"
+  },
+  {
+   "cn": "仿形铣削",
+   "en": "copy milling,profile milling",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.106",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "米尔征",
+   "en": "Mill sign",
+   "source": "急救医学名词",
+   "wordNumber": "03.438",
+   "subjectFullName": "急救医学_日常医学急救_外科学_运动系统体征",
+   "subjectName": "运动系统体征",
+   "publishYear": "2025",
+   "definition": "检查肱骨外上髁炎患者时出现的疼痛反应。肘关节伸直、前臂旋前、腕关节被动屈曲，引起肱骨外上髁处疼痛即为阳性。"
+  },
+  {
+   "cn": "返料炼胶机",
+   "en": "blanket mill",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0807",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "带有返料装置的开放式炼胶机，两辊间漏下的胶料落到胶带上，由胶带送回两辊上的设备。"
+  },
+  {
+   "cn": "摔纹",
+   "en": "milling",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开炼机",
+   "en": "open mill\",\"mixing mill",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "研磨能力",
+   "en": "milling capacity\",\"mill capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "捣磨机",
+   "en": "stamp mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "砂磨",
+   "en": "sand mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "管磨机",
+   "en": "tube mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滚磨机",
+   "en": "tumbling mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锤［式］磨［碎］机",
+   "en": "hammer mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "研磨辊",
+   "en": "mill roller",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "球磨机",
+   "en": "ball mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离心碾磨机",
+   "en": "centrifugal mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "桶磨机",
+   "en": "barrel mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碗形磨",
+   "en": "bowl mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碾磨机",
+   "en": "attrition mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分散磨",
+   "en": "dispersion mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［辊］轧机",
+   "en": "rolling mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "揉捏机",
+   "en": "pug mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "橡胶磨",
+   "en": "rubber mill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使满帆",
+   "en": "fill",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意志学说",
+   "en": "will theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "海里",
+   "en": "nautical mile",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "AA制付款",
+   "en": "split-the-bill",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "填写分数",
+   "en": "fill the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣杀",
+   "en": "kill\",\"kill shot\",\"overhead\",\"put away\",\"slam\",\"smash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖延时间",
+   "en": "kill time\",\"waste time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣球",
+   "en": "dunk\",\"jam\",\"kill\",\"slam\",\"smash\",\"stuff\",\"spike\",\"kill shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铀水冶厂",
+   "en": "uranium mill",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "以铀矿石为原料，采用湿法冶金工艺，生产铀化学浓缩物或核纯铀化合物的生产企业，以及以铀化学浓缩物为原料进行铀的纯化和精制，最后获得核纯铀化合物的企业。"
+  },
+  {
+   "cn": "铀矿石选冶",
+   "en": "uranium ore milling",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过物理或化学方法对铀矿石进行加工，尤其是通过破碎或研磨以减少其粒度的过程。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "铀矿冶废物",
+   "en": "wastes from mining and milling of uranium ore",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "来自铀矿开采和铀矿石的加工、精制过程中产生的放射性废物。"
+  },
+  {
+   "cn": "奶类",
+   "en": "milk and milk products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "哺乳动物分娩后由乳腺分泌的一种白色或微黄色的不透明液体及其以乳类作为主要原料制作的食品或食品辅料。"
+  },
+  {
+   "cn": "液态乳",
+   "en": "liquid milk",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.6",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "以合格的新鲜牛乳为原料，经离心静乳、标准化、均质、巴氏杀菌、冷却和灌装，直接供给消费者饮用的商品乳。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "国家意志",
+   "en": "state will",
+   "source": "马克思主义",
+   "wordNumber": "03.0082",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映统治阶级的经济统治和政治统治的利益诉求。在阶级社会中，统治阶级将自己的根本利益和集体诉求上升为国家意志，并通过国家这一统治阶级的联合力量和强制机关加以实现。"
+  },
+  {
+   "cn": "人民意志",
+   "en": "peoples will",
+   "source": "马克思主义",
+   "wordNumber": "03.0147",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广大人民群众的利益、愿望和要求。民主是人民意志的一种实现形式。但在奴隶社会、封建社会和资本主义社会生产资料私有制占统治地位和少数人成为统治阶级的时代，人民的意志并无法以“真正民主”或“实质民主”的形态"
+  },
+  {
+   "cn": "低度近视",
+   "en": "mild myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "屈光度（等效球镜）>-3.00D的近视程度。"
+  },
+  {
+   "cn": "窗台",
+   "en": "window-sill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "建筑物的窗户内侧下部的台面。"
+  },
+  {
+   "cn": "母乳",
+   "en": "breast milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "人类母亲用于哺喂婴儿的乳腺分泌液。"
+  },
+  {
+   "cn": "乳汁淤滞",
+   "en": "milk stasis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.14",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "某根乳腺管阻塞或者乳房排乳不平衡，乳汁因局部积聚在周围的乳腺小叶内形成可扪及的包块，伴触痛和烧灼感。"
+  },
+  {
+   "cn": "人工配方乳",
+   "en": "formula milk",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "将兽乳改造为宏量营养素(蛋白质、脂肪、乳糖)成分尽量“接近”人乳的乳配方制品，如降低其酪蛋白、无机盐的含量；添加一些重要的营养素，强化婴儿生长所需要的维生素、微量营养素。改造后的配方乳，应按年龄选用。"
+  },
+  {
+   "cn": "轻症中暑",
+   "en": "mild heatstroke",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.3.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "先兆中暑患者处理不当或病情继续发展，中暑先兆的症状进一步加重，同时出现面色潮红、大量出汗、脉搏加速等症状。体温一般升高至38.5℃以上。"
+  },
+  {
+   "cn": "奶糖糖果",
+   "en": "milk candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.2",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以食糖、糖浆、甜味剂及乳制品等为主要原料加工制成具有乳香味的糖果。"
+  },
+  {
+   "cn": "乳类卫生",
+   "en": "milk hygiene",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.1",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "乳类食品在生产、加工、储藏、运输与销售过程中的卫生问题及卫生管理。"
+  },
+  {
+   "cn": "牛奶巧克力",
+   "en": "milk chocolate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.14",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "在巧克力中添加乳制品，呈棕色或浅棕色，具有可可和乳脂风味的巧克力。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "希尔模型",
+   "en": "Hill model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.81",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一类经典的响应变量模型。常用于描述剂量-反应关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

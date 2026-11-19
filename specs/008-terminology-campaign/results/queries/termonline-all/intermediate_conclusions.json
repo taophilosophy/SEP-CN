@@ -1,0 +1,642 @@
+{
+ "key": "intermediate conclusions",
+ "term": "intermediate conclusions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:11:24+00:00",
+ "status": "ok",
+ "note": "variant=intermediate conclusions; 审定公布名词库=371; 海峡两岸名词对照库=169; 其他来源数据库=19; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "结论",
+   "en": "conclusion",
+   "source": "数学名词",
+   "wordNumber": "01.0010",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实验结论",
+   "en": "experimental conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.082",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "在整理、分析实验结果的基础上推导、总结出的某种假设或者推论。"
+  },
+  {
+   "cn": "设计总结",
+   "en": "design conclusion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.131",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "工程设计结束后，设计人员对自身设计工作所做的总结。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "林学名词",
+   "wordNumber": "06.388",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "考虑了审核目的和所有审核发现后得出的审核结果。"
+  },
+  {
+   "cn": "审核结论",
+   "en": "audit conclusion",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0808",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核组考虑了审核目标和所有审核发现后得出的最终审核结果。"
+  },
+  {
+   "cn": "中间体",
+   "en": "intermediate",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "在串联反应中既是上游反应的产物，又是下游反应的反应物的物质。"
+  },
+  {
+   "cn": "中间体",
+   "en": "intermediate",
+   "source": "化学名词",
+   "wordNumber": "02.0928",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "在化学反应中由反应物所形成并继续反应(直接或间接)生成产物的、具有比分子振动时间明显要长的寿命的分子实体。参见下图。图中，A为反应物，TS为过渡态，B为中间体，C为产物。<img src='/root"
+  },
+  {
+   "cn": "中间体",
+   "en": "intermediate",
+   "source": "药学名词",
+   "wordNumber": "03.226",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "生产某些产品的中间产物。"
+  },
+  {
+   "cn": "中位-中位链",
+   "en": "intermediate-intermediate link",
+   "source": "生态学名词",
+   "wordNumber": "07.118",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "联系中位种和中位种的链。"
+  },
+  {
+   "cn": "中性岩",
+   "en": "intermediate rock",
+   "source": "地质学名词",
+   "wordNumber": "04.01.115",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "化学成分中SiO₂含量为52%~63%，介于基性岩和酸性岩之间的一类岩石。其矿物成分以斜长石和/或碱性长石为主，镁铁矿物为角闪石、黑云母和辉石，常含有石英。"
+  },
+  {
+   "cn": "中级晶族",
+   "en": "intermediate category",
+   "source": "地质学名词",
+   "wordNumber": "02.00.043",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "对称特点是只有1个高次轴的晶族。包括六方晶系、四方晶系和三方晶系。"
+  },
+  {
+   "cn": "中间相",
+   "en": "intermediate phase",
+   "source": "地质学名词",
+   "wordNumber": "02.00.191",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "固溶体出溶过程中析出的准稳定相。其化学组成和晶体结构均介于主晶相与稳定出溶相之间。"
+  },
+  {
+   "cn": "染料中间体",
+   "en": "dye intermediate",
+   "source": "精细化工名词",
+   "wordNumber": "04.0066",
+   "subjectFullName": "精细化工_染料与颜料",
+   "subjectName": "染料与颜料",
+   "publishYear": "2025",
+   "definition": "直接用于染料合成，由基本有机原料（苯、萘、蒽及其衍生物）经过多步单元反应所生成的有机化合物。"
+  },
+  {
+   "cn": "金檩",
+   "en": "intermediate purlin",
+   "source": "风景园林名词",
+   "wordNumber": "07.0214",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "在檐檩与脊檩之间的檩的统称。有上中下之分。"
+  },
+  {
+   "cn": "中间神经",
+   "en": "intermediate nerve",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.5.10.11",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "位于小脑脑桥角处、面神经与听神经之间的神经。由面神经的感觉纤维和副交感纤维组成。司外耳道皮肤感觉等。"
+  },
+  {
+   "cn": "清粉",
+   "en": "intermediate stock",
+   "source": "农学名词",
+   "wordNumber": "17.099",
+   "subjectFullName": "农产品贮运与加工_粮食加工",
+   "subjectName": "粮食加工",
+   "publishYear": "2025",
+   "definition": "利用清粉机将平筛分离出来的麦渣和麦心进一步提纯的工序。"
+  },
+  {
+   "cn": "中间片",
+   "en": "intermediate sheet",
+   "source": "精细化工名词",
+   "wordNumber": "08.1227",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "电影拷贝制作过程中处于原底片和发行拷贝之间的半成品。"
+  },
+  {
+   "cn": "期间核查",
+   "en": "intermediate check",
+   "source": "农学名词",
+   "wordNumber": "18.078",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "根据规定程序，为了确定计量标准、标准物质或其他测量仪器是否保持其原有状态而进行的操作。"
+  },
+  {
+   "cn": "平均汇率",
+   "en": "intermediate rate",
+   "source": "农学名词",
+   "wordNumber": "19.276",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "一定周期（如天、周、月或年）内的全部即时汇率记载的算数平均数。比如日平均汇率、旬平均汇率和年平均汇率。"
+  },
+  {
+   "cn": "中介子系",
+   "en": "intermediate component",
+   "source": "天文学名词",
+   "wordNumber": "08.740",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "空间分布和运动特性介于扁平子系和球状子系之间的一类银河系子系。"
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中间体",
+   "en": "intermediate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中间体",
+   "en": "intermediate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中间体，中间物",
+   "en": "intermediate",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中位-中位链",
+   "en": "intermediate-intermediate link",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "间介中胚层",
+   "en": "intermediate mesoderm",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[手]中间鞘",
+   "en": "intermediate compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间层",
+   "en": "intermediate layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间腱",
+   "en": "intermediate tendon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间连接",
+   "en": "intermediate junction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间卵裂",
+   "en": "intermediate cleavage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间神经",
+   "en": "intermediate nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间神经节",
+   "en": "intermediate ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间胎盘",
+   "en": "intermediate placenta",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间线",
+   "en": "intermediate line",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间型",
+   "en": "intermediate type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间型精原细胞",
+   "en": "intermediate spermatogonium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间支",
+   "en": "intermediate branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间丝（=中间纤维）",
+   "en": "intermediate filament",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中间纤维，中间丝",
+   "en": "intermediate filament",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小收煞",
+   "en": "Midpoint Conclusion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中间宿主",
+   "en": "intermediate host",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚摆",
+   "en": "intermediate swing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段成绩",
+   "en": "intermediate time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中途段",
+   "en": "intermediate passage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中途冲刺",
+   "en": "intermediate sprint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间直体跳",
+   "en": "intermediate straight jumps",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段计时",
+   "en": "intermediate time\",\"split time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效分",
+   "en": "intermediate score\",\"middle score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段成绩",
+   "en": "intermediate time\",\"lap time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段成绩",
+   "en": "intermediate time\",\"lap time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段成绩",
+   "en": "intermediate time\",\"partial time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "共享中间成本",
+   "en": "intermediate cost in sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融中介",
+   "en": "financial intermediary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中间商",
+   "en": "data intermediary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络借贷信息中介机构",
+   "en": "online lending information intermediary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上中介服务超市",
+   "en": "online supermarket for intermediary services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中间型气质",
+   "en": "intermediate temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "介于容易型和困难型之间的气质特征。"
+  },
+  {
+   "cn": "中间决定因素",
+   "en": "intermediate determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的物质环境、心理社会环境、行为和／或生物因素，以及卫生系统本身。"
+  },
+  {
+   "cn": "离岗时检查结论",
+   "en": "examination conclusion when leaving the post",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.23",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "主检医师依据离岗时职业健康检查结果，对受检者提出的意见：包括可以离岗或转相关医疗机构进一步检查。"
+  },
+  {
+   "cn": "中水平消毒",
+   "en": "intermediate level disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "杀灭除细菌芽孢以外的各种微生物，达到消毒合格要求所进行的消毒。"
+  },
+  {
+   "cn": "中能中子",
+   "en": "intermediate energy neutron",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "能量介于快慢中子之间的中子，从几百eV到几百keV。"
+  },
+  {
+   "cn": "卫生筹资中间目标",
+   "en": "intermediate objective of health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生筹资的公平，效率，风险共担，可持续性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

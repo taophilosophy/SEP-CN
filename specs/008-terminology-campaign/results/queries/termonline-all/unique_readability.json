@@ -1,0 +1,662 @@
+{
+ "key": "unique readability",
+ "term": "unique readability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:14:54+00:00",
+ "status": "ok",
+ "note": "variant=unique readability; 审定公布名词库=265; 海峡两岸名词对照库=83; 其他来源数据库=13; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "可读性",
+   "en": "readability",
+   "source": "档案学名词",
+   "wordNumber": "06.01.021",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件经过存储、传输、压缩、解压缩、加密、解密、载体转换、系统迁移等处理后能够以人可以识读、可以理解的方式输出，并保持其内容的真实性。"
+  },
+  {
+   "cn": "可读性",
+   "en": "readability",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.063",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "易于阅读理解、吸引阅读的性能。"
+  },
+  {
+   "cn": "易读性",
+   "en": "readability",
+   "source": "自动化名词",
+   "wordNumber": "04.322",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "独创性",
+   "en": "uniqueness",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.017",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "作品经独立创作产生而具有的非模仿性（非抄袭性）和差异性。构成受著作权保护的基本要件之一。作品只要是作者独立构思的产物，在表现形式上与已有作品存在差异，就可以视为具有独创性。"
+  },
+  {
+   "cn": "单值性",
+   "en": "uniqueness",
+   "source": "物理学名词",
+   "wordNumber": "01.0410",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "唯一性",
+   "en": "uniqueness",
+   "source": "物理学名词",
+   "wordNumber": "01.0394",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "唯一[性]",
+   "en": "uniqueness",
+   "source": "数学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独特变星",
+   "en": "unique variable",
+   "source": "天文学名词",
+   "wordNumber": "08.443",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "不能列入目前变星分类中任何一种类型的待分类的变星。"
+  },
+  {
+   "cn": "单一序列",
+   "en": "unique sequence",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.219",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "在基因组中只含有一个拷贝的DNA序列。"
+  },
+  {
+   "cn": "个别元素",
+   "en": "unique element",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.878",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "仅适用于某一类对象资源，由使用者自行定义，可不用于交换的元数据元素。"
+  },
+  {
+   "cn": "孤本",
+   "en": "unique copy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "世间仅留存一部的书本。仅存的某一刻本、未刻的稿本、碑已不存而仅见旧拓本，都可称为孤本。全中国仅存一部的称“海内孤本”。"
+  },
+  {
+   "cn": "单一序列",
+   "en": "unique sequence",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.123",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "在基因组中只含有一个的序列。一般为具有编码功能的基因。"
+  },
+  {
+   "cn": "单一序列",
+   "en": "unique sequence",
+   "source": "遗传学名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "在基因组中只含有一个拷贝的DNA序列。"
+  },
+  {
+   "cn": "唯一可译性",
+   "en": "unique decodability",
+   "source": "数学名词",
+   "wordNumber": "012.0128",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "唯一遍历",
+   "en": "uniquely ergodic",
+   "source": "数学名词",
+   "wordNumber": "07.0426",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "唯一性定理",
+   "en": "uniqueness theorem",
+   "source": "物理学名词",
+   "wordNumber": "03.0169",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "产品独特性",
+   "en": "product uniqueness",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0822",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "能够吸引顾客的，使产品的服务性能高于其他竞争产品的独特个性特征和设计理念。"
+  },
+  {
+   "cn": "机读档案",
+   "en": "machine readable archives",
+   "source": "档案学名词",
+   "wordNumber": "01.02.022",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "用机器设备识读的档案。"
+  },
+  {
+   "cn": "机读文件",
+   "en": "machine readable records",
+   "source": "档案学名词",
+   "wordNumber": "06.04.002",
+   "subjectFullName": "档案学_电子文件管理_档案计算机管理",
+   "subjectName": "档案计算机管理",
+   "publishYear": "2024",
+   "definition": "以代码形式记录于磁盘、磁带、穿孔卡片等载体之上，必须通过计算机或其他设备的转换才能识读的文件。电子文件管理早期阶段使用的术语。"
+  },
+  {
+   "cn": "机读叙词表",
+   "en": "machine-readable thesaurus",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.322",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "能由计算机自动进行词的转换和更换工作，在标引、查找和词汇管理方面提供有用的统计资料的叙词表。计算机用一定程序对叙词表进行加工、编辑、组织和输出，自动编制参照项，检查遗漏参照并确保格式的一致性。"
+  },
+  {
+   "cn": "易读性",
+   "en": "readability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独特变星",
+   "en": "unique variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列",
+   "en": "unique sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列",
+   "en": "unique sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "唯一解",
+   "en": "unique solution",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "单一稳态",
+   "en": "unique steady state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单一［序列］DNA",
+   "en": "unique ［sequence］ DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列DNA",
+   "en": "unique sequence DNA",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单一序列DNA",
+   "en": "unique-sequence DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图易读性",
+   "en": "map readability\",\"map legilicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "双语机器可读词典",
+   "en": "bilingual machine readable dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组织唯一标识符",
+   "en": "organization unique identifier\",\"OUI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳态唯一性",
+   "en": "uniqueness of steady state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非重复DNA(=单一［序列］DNA)",
+   "en": "nonrepetitive DNA(=unique ［sequence］ DNA)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单拷贝DNA(=单一［序列］DNA)",
+   "en": "single-copy DNA(=unique ［sequence］ DNA)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单总线",
+   "en": "unibus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团集",
+   "en": "clique",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "reliability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "焊接性",
+   "en": "weldability",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 29161-2016 信息技术 数据结构 物联网的唯一标识》",
+   "en": "BS ISO/IEC 29161:2016 Information technology — Data structure — Unique identification for the Internet of Things",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-2-2018 信息技术 自动识别和数据捕获技术 唯一标识 第2部分：登记程序》",
+   "en": "JIS X0532-2:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 2: Registration procedures",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-3-2018 信息技术 自动识别和数据捕获技术 唯一标识 第3部分：通用规则》",
+   "en": "JIS X0532-3:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 3: Common rules",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-1-2018 信息技术 自动识别和数据捕获技术 唯一标识 第1部分：个别运输单位》",
+   "en": "JIS X0532-1:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 1: Individual transport units",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-4-2018 信息技术 自动识别和数据捕获技术 唯一标识 第4部分：单个产品和产品包》",
+   "en": "JIS X0532-4:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 4: Individual products and product packages",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-5-2018 信息技术 自动识别和数据捕获技术 唯一识别 第5部分：个人可退回运输物品》",
+   "en": "JIS X0532-5:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 5: Individual returnable transport items (RTIs)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统可靠性",
+   "en": "computer system reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机硬件可靠性",
+   "en": "computer hardware reliability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性及安全性评测",
+   "en": "reliability and security evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群而不党",
+   "en": "Be Sociable but Never Form a Clique",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一种评估测量程序的可重复性、稳定性的量度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "研究所得结果的可靠程度。通过测量结果的稳定性及一致性来判断，通常用信度系数来评价。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由多位不同评分者分别独立评阅同一份测验问卷，再估计所给分数的一致性的量度。"
+  },
+  {
+   "cn": "再测信度",
+   "en": "test-retest reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以评估回答人在不同时点上对同一个测量的反应的稳定或不稳定程度的量度。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.73",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "将所有问题按性质、难度排队，编好单双数，在单数题目的回答结果与双数题目的回答之间求相关性的量度。"
+  },
+  {
+   "cn": "评价者间信度",
+   "en": "inter-rater reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "由多位不同的评定者分别采用同一问卷对相同研究对象进行评定，判断评定结果的一致程度。"
+  },
+  {
+   "cn": "复测信度",
+   "en": "test-retest reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用同一问卷在不同时间对同一研究对象进行重复测量，分析两次测量结果之间的一致性程度判断调查结果的可信度。"
+  },
+  {
+   "cn": "折半信度",
+   "en": "split-half reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "将一个问卷按照奇数条目和偶数条目分拆为两半，根据奇数条目项与偶数条目项回答的一致性程度判断的信度。"
+  },
+  {
+   "cn": "团结教育知识分子",
+   "en": "unite and educate intellectuals",
+   "source": "马克思主义",
+   "wordNumber": "03.0467",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1939年为中共中央起草的关于大量吸收知识分子的决定中提出的，是中国共产党在民主革命时期和建国初期对知识分子的一项政策。"
+  },
+  {
+   "cn": "托陈取消派",
+   "en": "Trotskyite Chen Duxiu Liquidationist Clique",
+   "source": "马克思主义",
+   "wordNumber": "04.0377",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "从中国共产党中分化出来的中国托洛茨基派别组织，是托洛茨基主义同陈独秀右倾投降主义合流的产物。1928年12月，从苏联归国的托派分子梁干乔等人在上海成立“中国布尔什维克列宁主义反对派”。1931年5月1"
+  },
+  {
+   "cn": "团结教育改造民族资产阶级",
+   "en": "unite educate and transform the national bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0386",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东根据民族资产阶级的两面性特点，在《论人民民主专政》等文中提出的，在人民民主专政条件下中国共产党对民族资产阶级的基本政策，是中国共产党统一战线工作的主要任务。毛泽东还提出改造企业和改造人相结合的具"
+  },
+  {
+   "cn": "又联合又斗争",
+   "en": "unite with them and at the same time struggle against them",
+   "source": "马克思主义",
+   "wordNumber": "03.0433",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党在抗日民族统一战线中正确处理国共两党关系的原则，其实质是坚持共产党在统一战线中的领导权。在本着有利于巩固统一战线的前提下，对国民党实行既团结又斗争的方针，以达到保持阵地和发展阵地"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

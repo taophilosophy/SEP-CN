@@ -1,0 +1,742 @@
+{
+ "key": "finality",
+ "term": "finality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:12:09+00:00",
+ "status": "ok",
+ "note": "variant=finality; 审定公布名词库=229; 海峡两岸名词对照库=72; 其他来源数据库=69; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "韵母",
+   "en": "final",
+   "source": "语言学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "音节中声母之后的部分。包括韵头、韵腹和韵尾。"
+  },
+  {
+   "cn": "韵母",
+   "en": "final",
+   "source": "语言学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "语言学_语音学_汉语语音学",
+   "subjectName": "汉语语音学",
+   "publishYear": "2011",
+   "definition": "汉语音节结构中声母之后的所有音段成分。可以分为单韵母和复合韵母。"
+  },
+  {
+   "cn": "书稿",
+   "en": "final version;final text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.020",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "在原稿基础上，编辑加工后拟发排、出版的定稿。"
+  },
+  {
+   "cn": "施工决算",
+   "en": "final settlement,final account",
+   "source": "土木工程名词",
+   "wordNumber": "13.049",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定苗",
+   "en": "final singling",
+   "source": "农学名词",
+   "wordNumber": "08.063",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "按预订的株距和行距保留幼苗并去除多余幼苗的过程。"
+  },
+  {
+   "cn": "辉锅",
+   "en": "final panning",
+   "source": "农学名词",
+   "wordNumber": "17.255",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "青锅叶经冷却回潮后，在锅中受热充分干燥，并进行压扁和定形的过程。"
+  },
+  {
+   "cn": "提花",
+   "en": "final scenting",
+   "source": "农学名词",
+   "wordNumber": "17.288",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "最后一次用少量优质鲜花窨制，以提高花茶香气鲜灵度的过程。"
+  },
+  {
+   "cn": "决算",
+   "en": "final account",
+   "source": "农学名词",
+   "wordNumber": "19.268",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "根据年度预算执行结果而编制的年度会计报告。是预算执行的总结，也是预算管理的最终环节。"
+  },
+  {
+   "cn": "目的因",
+   "en": "final cause",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "事物存在及其运动朝向的目标，有其特定目的和理由。是事物“最善的终结”，乃终极原因。说明为什么事物要运动。可追溯到巴门尼德的“存在”和阿那克萨戈拉的“理性”。"
+  },
+  {
+   "cn": "最后诊断",
+   "en": "final diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.322",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "经过全面检查，排除类似疾病，并通过治疗验证之后做出的诊断。"
+  },
+  {
+   "cn": "清样",
+   "en": "final proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.25",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "小样、大样经过校对修改后打印出的样张。"
+  },
+  {
+   "cn": "终审",
+   "en": "final review",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.03.009",
+   "subjectFullName": "编辑与出版学_编辑_审稿",
+   "subjectName": "审稿",
+   "publishYear": "2022",
+   "definition": "三级审稿责任制度的最终一级审稿工作，由总编辑（副总编辑）或由其委托的具有高级职称的人员，在初审、复审的基础上进行审读，对稿件能否采用做出决定。"
+  },
+  {
+   "cn": "定稿",
+   "en": "finalized manuscript",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.026",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "最后修改审定的稿件。"
+  },
+  {
+   "cn": "终刊号",
+   "en": "final issue",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.030",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "永久性停止出版的报刊的最后一期。"
+  },
+  {
+   "cn": "终炼",
+   "en": "final mixing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0689",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "用密炼机混炼胶料的最后一道工序，即密炼胶料排胶后，再用开放式炼胶机压片、加硫、翻炼，起补充精炼作用。"
+  },
+  {
+   "cn": "最终应力",
+   "en": "final stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1498",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "地震发生后分布在震源区的或地震断层面上的应力。 "
+  },
+  {
+   "cn": "最终付款",
+   "en": "final payment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.561",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "采购的设备、材料到达现场验收合格后，向卖方支付的剩余的设备材料款。"
+  },
+  {
+   "cn": "终拧",
+   "en": "final tightening",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.739",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "高强度螺栓在初拧和复拧的基础上，依据标准规范计算出的最终拧紧扭矩值进行螺栓紧固的行为。"
+  },
+  {
+   "cn": "定型设计",
+   "en": "final design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0042",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计流程",
+   "subjectName": "设计流程",
+   "publishYear": "2021",
+   "definition": "根据批量试产中所出现的问题，对设计作相应修改，最终固化成可供正式生产使用的设计。"
+  },
+  {
+   "cn": "最终产品",
+   "en": "final product",
+   "source": "经济学名词",
+   "wordNumber": "10.135",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "一般指当年不再进一步加工，用于固定资产更新、大修理的产品，以及用于积累和消费的产品。"
+  },
+  {
+   "cn": "目的论",
+   "en": "finality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "终乐章",
+   "en": "final",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "终曲",
+   "en": "final",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "终止音",
+   "en": "final",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "终场",
+   "en": "final",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最终加词",
+   "en": "final epithet",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最终澄清器",
+   "en": "final clarifier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最终状态",
+   "en": "final state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "终轨",
+   "en": "final orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "终降",
+   "en": "final decline",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "终升",
+   "en": "final rise",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "终了温度",
+   "en": "final temperature",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "终宿主",
+   "en": "final host",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "末期相",
+   "en": "final phase",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最后结余",
+   "en": "final balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最后确认",
+   "en": "final confirmation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最终裁决",
+   "en": "final award",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最终价格",
+   "en": "final price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出版原图",
+   "en": "final original",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最终检查，终检",
+   "en": "final inspection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛",
+   "en": "final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛成绩",
+   "en": "final time\",\"final result",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四分之一决赛",
+   "en": "quarter finals\",\"quarter-final",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛阶段",
+   "en": "final contest\",\"final heat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终末漂洗",
+   "en": "final rinsing",
+   "source": "消毒学",
+   "wordNumber": "4.6.23.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对化学消毒灭菌后的内镜进行最终漂洗的过程。"
+  },
+  {
+   "cn": "最终处置",
+   "en": "final disposal",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.3",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "医疗废物处置单位将经无害化处置后的医疗废物进行安全填埋处理的过程。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "终末漂洗水",
+   "en": "final rinsing water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11.4.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "诊疗器械、器具和物品经化学消毒剂消毒处理后，为去除残留其表面的化学消毒剂所用的水。一般应使用纯化水。"
+  },
+  {
+   "cn": "预算决算",
+   "en": "budget and final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "用货币的形式来反映医疗卫生机构未来某一特定期间的有关现金收支、资金需求、资金融通、业务收入、成本及财务状况和经营成果等方面的详细计划，并将执行结果编制的年度会计报告制度。"
+  },
+  {
+   "cn": "卫生筹资最终目标",
+   "en": "final objective of health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "健康状况的改善、筹资的风险保障、患者满意度的提高。"
+  },
+  {
+   "cn": "职业性放射性疾病诊断最终鉴定",
+   "en": "final verification of diagnosis of occupational radiation disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "当事人对设区的市级职业病鉴定结论有不服的，可以在接到职业病诊断鉴定书之日起十五日内，向原鉴定组织所在地省级卫生健康主管部门申请再鉴定，省级鉴定为最终鉴定。"
+  },
+  {
+   "cn": "病死率",
+   "en": "fatality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某患病人群在某限定时间内死于该种疾病的概率，分子为某限定时间内死于某疾病的人数，分母为该限定时间内患有该病的病例数"
+  },
+  {
+   "cn": "语言活力",
+   "en": "language vitality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0172",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社会交际的领域、状态、频率和程度。通过既定的指标和权重加以计量和分级。"
+  },
+  {
+   "cn": "充满活力",
+   "en": "full of vitality",
+   "source": "马克思主义",
+   "wordNumber": "04.0200",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使一切有利于社会进步的创造愿望得到尊重，创造活动得到支持，创造才能得到发挥，创造成果得到肯定。"
+  },
+  {
+   "cn": "致死率",
+   "en": "case fatality ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定时间内因某病死亡者占该病患病者的比例。"
+  },
+  {
+   "cn": "病死率",
+   "en": "case fatality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.5",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "一定期间内某病死亡病例数占该病全部病例数的比例。反映疾病的严重程度，以及医疗卫生机构的医疗服务水平和质量。"
+  },
+  {
+   "cn": "增强企业活力",
+   "en": "enhance the vitality of enterprises",
+   "source": "马克思主义",
+   "wordNumber": "02.0408",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "企业作为自主经营、自负盈亏的商品生产者和经营者，遵循客观经济规律要求，使各种生产要素充分发挥作用，使企业自身在市场竞争中呈现出良好的自我发展状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

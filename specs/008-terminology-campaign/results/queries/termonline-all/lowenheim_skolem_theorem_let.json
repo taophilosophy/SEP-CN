@@ -1,0 +1,682 @@
+{
+ "key": "lowenheim-skolem theorem let",
+ "term": "Löwenheim-Skolem Theorem Let",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:14:50+00:00",
+ "status": "ok",
+ "note": "variant=Löwenheim-Skolem Theorem Let; 审定公布名词库=3116; 海峡两岸名词对照库=1110; 其他来源数据库=247; 预公布名词数据库=266; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "降L-S定理",
+   "en": "downward Loewenheim-Skolem theorem",
+   "source": "数学名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "let记号",
+   "en": "let-notation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0922",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "函数式语言中一种描述函数（或语句）中变量取值的符号体系。"
+  },
+  {
+   "cn": "斯科伦壳",
+   "en": "Skolem hull",
+   "source": "数学名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦佯谬",
+   "en": "Skolem paradox",
+   "source": "数学名词",
+   "wordNumber": "02.0087",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦函数",
+   "en": "Skolem function",
+   "source": "数学名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "斯科伦悖论",
+   "en": "Skolem’s paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.298",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "根据勒文海姆-斯科伦定理，假设公理集合论系统是一致的，则它有可数传递模型M，自M内部观之，有些集合是不可数的，但自M外观之，M中的所有集合都是可数的。这不是真正的悖论，而是说明类似于“可数”这样的性质"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "物理学名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "数学名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "任何一个由n个有量纲的物理量参与的物理过程中的函数关系都可以转换成由n-k个这些物理量组成的无量纲量Πi之间的函数关系，其中k是具有独立量纲的物理量的数。由于这些无量纲量是以不同的Πi数来表示的，"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "土木工程名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测实验力学",
+   "subjectName": "土木工程检测实验力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "导开装置",
+   "en": "let-off unit",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.2064",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "按要求将材料从卷轴或筒子上导出的装置。"
+  },
+  {
+   "cn": "低传能线密度辐射",
+   "en": "low LET radiation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.115",
+   "subjectFullName": "放射医学与防护_放射物理学_电离辐射及其与物质相互作用",
+   "subjectName": "电离辐射及其与物质相互作用",
+   "publishYear": "2014",
+   "definition": "在水中的传能线密度较小的辐射。一般指X射线、γ射线等辐射。"
+  },
+  {
+   "cn": "高传能线密度辐射",
+   "en": "high LET radiation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.116",
+   "subjectFullName": "放射医学与防护_放射物理学_电离辐射及其与物质相互作用",
+   "subjectName": "电离辐射及其与物质相互作用",
+   "publishYear": "2014",
+   "definition": "在水中的传能线密度较大的辐射。一般指α射线、中子等辐射。"
+  },
+  {
+   "cn": "允通火花放电",
+   "en": "let-through sparkover",
+   "source": "电气工程名词",
+   "wordNumber": "13.031",
+   "subjectFullName": "电气工程_避雷器",
+   "subjectName": "避雷器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "抛锚",
+   "en": "let go anchor",
+   "source": "航海科技名词",
+   "wordNumber": "08.0342",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "放血疗法",
+   "en": "blood-letting therapy",
+   "source": "整形外科名词",
+   "wordNumber": "5.049",
+   "subjectFullName": "整形外科_显微外科_显微外科围手术期处理",
+   "subjectName": "显微外科围手术期处理",
+   "publishYear": "2026",
+   "definition": "肢（指）体再植后静脉回流不通畅，危及成活，通过在肢（指）体末端适量放血，缓解血液淤滞，部分替代静脉回流，争取时间建立侧支循环，期望再植肢（指）体成活的一种治疗方法。"
+  },
+  {
+   "cn": "放血疗法",
+   "en": "blood-letting therapy",
+   "source": "手外科学名词",
+   "wordNumber": "05.0111",
+   "subjectFullName": "手外科学_手外科学分论_肢体再植再造",
+   "subjectName": "肢体再植再造",
+   "publishYear": "2020",
+   "definition": "肢/指体再植后由于静脉回流不通畅而危及成活时，通过在肢/指体末端适量放血，改善再植后静脉回流不畅的状态，缓解血液淤滞，以便争取时间建立侧支循环，利于再植肢/指体成活的一种治疗方法。"
+  },
+  {
+   "cn": "放血疗法",
+   "en": "blood-letting therapy",
+   "source": "显微外科学名词",
+   "wordNumber": "01.136",
+   "subjectFullName": "显微外科学_总论_麻醉及围手术期处理",
+   "subjectName": "麻醉及围手术期处理",
+   "publishYear": "2016",
+   "definition": "肢(指)体再植后静脉回流不通畅，危及成活，通过在肢(指)体末端适量放血，缓解血液淤滞部分替代静脉回流，争取时间建立侧支循环，期望再植肢(指)体成活的一种治疗方法。"
+  },
+  {
+   "cn": "放血疗法",
+   "en": "blood letting therapy",
+   "source": "中医药学名词",
+   "wordNumber": "05.364",
+   "subjectFullName": "中医药学_治疗学_外治法",
+   "subjectName": "外治法",
+   "publishYear": "2004",
+   "definition": "用针具或刀具刺破或划破人体特定腧穴或一定部位，放出少量血液，以治疗高热、神昏、中暑、感冒、各种疼痛、风眩、急惊风、中毒、毒蛇咬伤等病证的方法。"
+  },
+  {
+   "cn": "勒文海姆-斯科伦定理",
+   "en": "L鰓enheim-Skolem theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抛锚",
+   "en": "let go anchor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环流定理",
+   "en": "circulation theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡诺定理",
+   "en": "Carnot theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文定理",
+   "en": "Kelvin theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瑞利定理",
+   "en": "Rayleigh theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "斯托克斯定理",
+   "en": "Stokes theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泰勒定理",
+   "en": "Taylor theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刘维定理",
+   "en": "Liouville theorem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位力定理",
+   "en": "virial theorem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "卡诺定理",
+   "en": "Carnot theorem",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杜安定理",
+   "en": "Duhem theorem",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "加性定律",
+   "en": "additive theorem",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes' theorem",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayes' theorem",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "克莱罗定理",
+   "en": "Clairaut theorem",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发！",
+   "en": "Let!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重发球",
+   "en": "let",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重发球！",
+   "en": "Let!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let\",\"let service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杠铃脱落",
+   "en": "let drop the bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全局逼近定理",
+   "en": "universal approximation theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "射线粒子在单位长度运动径迹上损失的平均能量。单位为千电子伏特每毫米，记作keV·mm-1。其大小取决于粒子所载电荷和粒子质量。"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "百花齐放百家争鸣",
+   "en": "let a hundred flowers blossom and a hundred schools of thought contend",
+   "source": "马克思主义",
+   "wordNumber": "03.0458",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在中国生产资料私有制的社会主义改造基本完成后提出的发展、繁荣科学、文化、艺术事业的基本方针。百花齐放是一种发展艺术的方法，百家争鸣是一种发展自然科学和社会科学的方法。其着重点是发扬社会主义的艺术"
+  },
+  {
+   "cn": "左派共产主义者",
+   "en": "Left Communists",
+   "source": "马克思主义",
+   "wordNumber": "04.0366",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1918年初由于反对同德国缔结《布列斯特和约》而形成的以尼古拉·伊万诺维奇·布哈林、叶甫盖尼·阿列克谢耶维奇·普列奥布拉任斯基和卡尔·伯恩哈多维奇·拉狄克等人为代表的“左”倾机会主义集团。该集团反对苏"
+  },
+  {
+   "cn": "左倾关门主义",
+   "en": "Left closeddoorism",
+   "source": "马克思主义",
+   "wordNumber": "04.0381",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种“左”倾错误思想的表现。通常是指无产阶级政党中,某些人反对建立广泛的统一战线,拒绝团结一切可以团结的力量参加革命。关门主义的主要表现是主张革命的力量纯粹又纯粹,认为革命的道路笔直又笔直。只讲斗争,"
+  },
+  {
+   "cn": "新左派",
+   "en": "New Left",
+   "source": "马克思主义",
+   "wordNumber": "05.0275",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "20世纪50年代后期，欧洲一些国家的青年学生和知识分子组成许多小的集团和流派，批判资本主义制度，积极寻求改变现状的道路，被称为区别于老左派（社会民主党、共产党）的新左派。由身份不同的人组成，强调民权、"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "留守妇女",
+   "en": "left-behind wives",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "丈夫长期外出务工，独自或与其他家庭成员一同留在家庭所在地的已婚妇女。一方面，其承担了所有或大部分的生产劳动、家庭抚养以及赡养责任；另一方面，其本身也面临着一系列社会心理问题。"
+  },
+  {
+   "cn": "留守儿童",
+   "en": "left-behind children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "父母双方或一方长期外出务工，留在户籍所在地而不能和其父母一方或双方共同生活的儿童。这是中国特有的社会现象，通常指农村家庭中因父母长期外出务工，被留在家乡缺乏照料的儿童。"
+  },
+  {
+   "cn": "第二国际左派",
+   "en": "Second International Left",
+   "source": "马克思主义",
+   "wordNumber": "04.0402",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末在国际工人运动中出现的同爱德华·伯恩斯坦（Eduard Bernstein）等右派相对立的马克思主义派别。随着19世纪末伯恩斯坦公开举起了修正主义的旗帜，在德国社会民主党内部，倍倍尔（Aug"
+  },
+  {
+   "cn": "全球左翼论坛",
+   "en": "global left forum",
+   "source": "马克思主义",
+   "wordNumber": "05.0279",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "2004年由“世界社会主义学者大会”分化而来，是其中稍微偏左的一支，组委会成员仍来自原“世界社会主义学者大会”。论坛每年邀请世界各国专家、学者以及社会活动分子与会，围绕当代世界面临的紧迫问题交流观点。"
+  },
+  {
+   "cn": "欧洲左翼党",
+   "en": "European left party",
+   "source": "马克思主义",
+   "wordNumber": "05.0283",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "2004年成立的一个跨国党，是欧洲左翼政党的上层组织，旨在成为影响欧洲政策的政治力量。主张与工会和社会运动联合起来摆脱新自由主义，实现社会变革。公开表明其成员不仅限于欧洲层面，而且体现泛欧洲原则。目前"
+  },
+  {
+   "cn": "身材匀称",
+   "en": "trunk-leg ratio",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "身体上部（顶臀长、坐高）与身长（高）的比值，反映下肢的生长情况。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "狼疮带试验",
+   "en": "lupus band test, LBT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "通过直接免疫荧光技术，在SLE患者外观正常皮肤或受损皮肤的真皮与表皮交界处（DEJ）检测免疫球蛋白或/和补体沉积的一种方法。荧光显微镜下DEJ显示明亮、连续的、线状细颗粒或点状排列苹果绿荧光为LBT阳"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

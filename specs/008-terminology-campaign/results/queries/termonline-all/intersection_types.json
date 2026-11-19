@@ -1,0 +1,662 @@
+{
+ "key": "intersection types",
+ "term": "intersection types",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:15:02+00:00",
+ "status": "ok",
+ "note": "variant=intersection types; 审定公布名词库=3812; 海峡两岸名词对照库=721; 其他来源数据库=68; 预公布名词数据库=150; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "交通流线节点",
+   "en": "intersection",
+   "source": "建筑学名词",
+   "wordNumber": "09.0415",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "导向系统中导向路线与其他路径的交汇处或行进方向的变更处。"
+  },
+  {
+   "cn": "交",
+   "en": "intersection",
+   "source": "数学名词",
+   "wordNumber": "01.0085",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "错位交叉",
+   "en": "staggered intersection,offset intersection",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "交岔点",
+   "en": "intersection,junction",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷工程设计",
+   "subjectName": "井巷工程设计",
+   "publishYear": "1996",
+   "definition": "巷道的交叉或分岔处。"
+  },
+  {
+   "cn": "交面线理",
+   "en": "intersection lineation",
+   "source": "地质学名词",
+   "wordNumber": "09.05.064",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "两组面理相交或面理与层理相交形成的线理。常平行于同期褶皱的枢纽方向，为一种b型线理。"
+  },
+  {
+   "cn": "概念相交组配",
+   "en": "conceptual intersection",
+   "source": "档案学名词",
+   "wordNumber": "03.04.048",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "用两个或两个以上具有概念交叉关系的同级主题词组配表达其相应的下位概念。"
+  },
+  {
+   "cn": "交会角",
+   "en": "intersection angle",
+   "source": "光学名词",
+   "wordNumber": "15.211",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "立体成像时，两个投影中心与同一地面点连线的夹角。"
+  },
+  {
+   "cn": "求交运算",
+   "en": "intersection operation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0266",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "由两个实体特征的共有部分或重合部分得到新实体的运算。"
+  },
+  {
+   "cn": "空间前方交会",
+   "en": "space intersection",
+   "source": "测绘学名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "由立体像对两像片的内、外方位元素和观测的像点坐标来确定该点的物方坐标。"
+  },
+  {
+   "cn": "前方交会",
+   "en": "forward intersection",
+   "source": "测绘学名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "在两个已知点上分别架设仪器对待定点进行水平角观测，并根据已知点的坐标及观测角值计算出待定点坐标的方法。"
+  },
+  {
+   "cn": "侧方交会",
+   "en": "side intersection",
+   "source": "测绘学名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "在一个已知点和一个待定点上分别架设仪器对另一个已知点进行水平角观测，并根据已知点的坐标及观测角值计算出待定点坐标的方法。"
+  },
+  {
+   "cn": "边交会法",
+   "en": "linear intersection",
+   "source": "测绘学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "在两个及以上已知点上分别架设仪器对待定点进行距离观测，并根据已知点的坐标及观测的距离计算出待定点坐标的方法。"
+  },
+  {
+   "cn": "交叉综合征",
+   "en": "intersection syndrome",
+   "source": "手外科学名词",
+   "wordNumber": "05.1297",
+   "subjectFullName": "手外科学_手外科学分论_其他上肢疾病",
+   "subjectName": "其他上肢疾病",
+   "publishYear": "2020",
+   "definition": "拇长伸肌腱的走行与其他肌腱有交叉，相互摩擦导致滑囊炎造成的腕背疼痛。"
+  },
+  {
+   "cn": "交叉组配",
+   "en": "intersection coordination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.077",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用两个或多个具有交叉关系的叙词进行组配的标引方法。所表达的概念就是两个或多个概念的交叉部分，是参与组配概念的种概念。"
+  },
+  {
+   "cn": "交叉关系",
+   "en": "intersection relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.287",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "外延部分重合的两个概念之间的关系。具有交叉关系的概念一般不能并列使用。"
+  },
+  {
+   "cn": "曲面求交",
+   "en": "surface intersection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0533",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "求解曲面和曲面之间的相交区域（通常是曲线）的方法。"
+  },
+  {
+   "cn": "曲线求交",
+   "en": "curve intersection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0532",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "求解曲线和曲线之间的相交部分。"
+  },
+  {
+   "cn": "腱划",
+   "en": "tendinous intersection",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.1387",
+   "subjectFullName": "人体解剖学_运动系统_肌",
+   "subjectName": "肌",
+   "publishYear": "2014",
+   "definition": "腹直肌前面3～4条横行的腱性组织。由结缔组织构成，是肌节愈合的痕迹。"
+  },
+  {
+   "cn": "线段交叉",
+   "en": "line intersection",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.575",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "线段的公共交叉点。"
+  },
+  {
+   "cn": "交会测量",
+   "en": "intersection measurement",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.328",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "交集",
+   "en": "intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交会",
+   "en": "intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "相交",
+   "en": "intersect",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "腱划",
+   "en": "tendinous intersection",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "位错交割",
+   "en": "dislocation intersection",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "线段交叉",
+   "en": "line intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "栅格交集",
+   "en": "raster intersection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "边交会法",
+   "en": "linear intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "侧方交会",
+   "en": "side intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交会点",
+   "en": "intersection station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交会法[曲线测设]",
+   "en": "intersection method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "角度交会法",
+   "en": "angular intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "空间前方交会",
+   "en": "space intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "前方交会",
+   "en": "[forward] intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交叉搜索",
+   "en": "intersection search",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲面求交",
+   "en": "surface intersection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自相交",
+   "en": "self-intersection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边角交会法",
+   "en": "linear-angular intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "后方交会法",
+   "en": "radial intersection method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "交点",
+   "en": "point of intersection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "种类法定",
+   "en": "statutory types",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型",
+   "en": "data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂数据类型",
+   "en": "complex data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交叉点综合征",
+   "en": "intersection syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "背侧腕伸肌第一腔室的拇短伸肌腱和第二腔室的桡侧腕短伸肌腱、桡侧腕长伸肌腱因走行上存在交叉，在交界处反复摩擦从而导致腱鞘炎引起腕背疼痛的综合征，疼痛通常位于桡骨茎突的近端和背侧。与局部反复的屈伸活动有关"
+  },
+  {
+   "cn": "交叉性分析",
+   "en": "intersectional analysis",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "后现代女性主义、特别是黑人女性主义提出的一种分析模式，强调社会性别不是唯一有效的分析范畴，不存在抽象的、大一统的所谓女性，因此要考虑到女性主体的多元化、女性生活的多样化，必须将性别与诸如阶级、种族、文"
+  },
+  {
+   "cn": "型式检验",
+   "en": "type inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品各项指标的全面检验，以评定产品质量是否全部符合标准和达到安全性、有效性要求。"
+  },
+  {
+   "cn": "文化类型",
+   "en": "culture type",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "在文化分类中，一种由经过选择的、相同整合程度的各文化核心特征丛(constellations of core features）所合成的文化结构或文化系统形式。美国人类学家林顿(R.Linton）等人"
+  },
+  {
+   "cn": "组织类型",
+   "en": "organizational type",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.7.1  营利组织  for-profit organization"
+  },
+  {
+   "cn": "Ⅰ型超敏反应",
+   "en": "type Ⅰhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "已致敏的机体再次接触相同抗原后在数分钟内所发生的超敏反应。"
+  },
+  {
+   "cn": "II型超敏反应",
+   "en": "type Ⅱhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "IgG或IgM类抗体与细胞表面相应抗原或基质抗原结合，激活补体系统并在巨噬细胞和中性粒细胞参与下，造成组织损伤的超敏反应。"
+  },
+  {
+   "cn": "气质类型",
+   "en": "temperament type",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对气质按照体液、体型、血型、神经活动类型等来进行的分类。"
+  },
+  {
+   "cn": "模式株",
+   "en": "type strain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.52",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "至少定义到属或种水平的菌株。按期特征进行分类和描述，有明确的的来源"
+  },
+  {
+   "cn": "故事类型",
+   "en": "tales type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0446",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "世界通行的一种民间故事研究方法，指民间故事中重复出现的情节模式，包含了民间故事在相当广阔的地域中经过相当长时间的流传而形成的不同异文，这些异文虽在细节上有各种不同的表述，但主题和基本情节始终一致。一个"
+  },
+  {
+   "cn": "社会类型",
+   "en": "social type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0526",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）所提出的概念，他按各个社会的不同复杂程度来区分，游牧群体是最简单的社会，所有的社会类型都是基本类型的复杂形式。任何社会都是由简单社会单位的相加构成，不"
+  },
+  {
+   "cn": "文化类型",
+   "en": "cultural type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0579",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian H. Steward）在《文化变迁理论》一书中提出的概念。他认为文化类型是核心特征的群集，这些特征产生自环境适应，而且体现社会文化整合的水平。"
+  },
+  {
+   "cn": "健康型",
+   "en": "healthy type",
+   "source": "社会医学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "当个体的评价年龄小于实际年龄时的评价类型，说明个体危险因素低于人群平均水平，预期健康状况良好。"
+  },
+  {
+   "cn": "III型超敏反应",
+   "en": "type Ⅲ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.18",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "游离抗原与相应抗体结合为循环免疫复合物，未被及时清除的免疫复合物沉积于毛细血管基底膜等部位，通过激活补体，并在血小板、中性粒细胞等参与下，引起血管及其周围组织炎症，导致组织损伤的超敏反应。"
+  },
+  {
+   "cn": "Ⅳ型超敏反应",
+   "en": "type Ⅳ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.19",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "由特异性致敏T细胞介导的细胞免疫应答的一种超敏反应。该型反应均在接触抗原24小时后才出现临床表现。"
+  },
+  {
+   "cn": "越轨者类型论",
+   "en": "types of deviance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0529",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）关于犯罪者类型的理论。他将越轨者分为3 种类型：①生物越轨者：指由于个人的生物或生理差异而产生越轨行为的人。②功能造反者：指在真正的集体意识的形成过程"
+  },
+  {
+   "cn": "关系类型",
+   "en": "type of relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "社会交往的内容特征，包括关系的强度、关系的种类、交往的内容等。"
+  },
+  {
+   "cn": "国家发展类型",
+   "en": "national development type",
+   "source": "社会学名词",
+   "wordNumber": "2.9.10.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_国家发展类型",
+   "subjectName": "国家发展类型",
+   "publishYear": "2025",
+   "definition": "根据世界上不同国家的经济社会发展水平、工业化程度等标准划分的国家类别。代表性的国家发展类型有发达国家与发展中国家、工业化国家与新兴工业化国家等。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "资助型基金会",
+   "en": "funding-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "主要通过与其他服务机构合作、资助其开展服务项目以实现自身宗旨目的公益基金会。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

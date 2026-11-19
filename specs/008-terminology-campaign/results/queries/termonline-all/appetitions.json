@@ -1,0 +1,252 @@
+{
+ "key": "appetitions",
+ "term": "appetitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:11:27+00:00",
+ "status": "ok",
+ "note": "variant=appetitions; 审定公布名词库=15; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "食欲",
+   "en": "appetite",
+   "source": "畜牧学名词",
+   "wordNumber": "07.263",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_消化吸收",
+   "subjectName": "消化吸收",
+   "publishYear": "2020",
+   "definition": "一种想要进食的生理需求。"
+  },
+  {
+   "cn": "食欲",
+   "en": "appetite",
+   "source": "生理学名词",
+   "wordNumber": "03.633",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "食欲",
+   "en": "appetite",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "肠外肠内营养学_基础营养_能量",
+   "subjectName": "能量",
+   "publishYear": "2019",
+   "definition": "人想要进食的生理需求。是人由于文化背景不同而对食物有所偏好的一种生理现象。伴有或者不伴有饥饿感。"
+  },
+  {
+   "cn": "食欲调节",
+   "en": "appetite regulation",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "09.030",
+   "subjectFullName": "脂质代谢性疾病_肥胖_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "人体通过从中枢到消化器官之间的神经、内分泌及营养等多个环节，调节食欲和进食行为的心理生理过程。正常情况下，食欲受到食欲中枢的调节。食欲中枢位于下丘脑，与大脑皮质有广泛的联系。下丘脑的摄食中枢、胃肠道及"
+  },
+  {
+   "cn": "食欲反常",
+   "en": "abnormal appetite",
+   "source": "消化病学名词",
+   "wordNumber": "1.077",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "精神心理因素所致的进食障碍。包括神经性畏食、神经性贪食和神经性厌食。"
+  },
+  {
+   "cn": "欲望行为",
+   "en": "appetitive behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "个体为满足某种需求而积极寻找和探索的行为。如觅食行为、求偶行为等。"
+  },
+  {
+   "cn": "纳差",
+   "en": "poor appetite",
+   "source": "结核病学名词",
+   "wordNumber": "03.417",
+   "subjectFullName": "结核病学_结核病诊断_症状和体征",
+   "subjectName": "症状和体征",
+   "publishYear": "2019",
+   "definition": "由于各种原因导致的食欲不振。"
+  },
+  {
+   "cn": "欲望行为",
+   "en": "appetitive behavior",
+   "source": "心理学名词",
+   "wordNumber": "05.198",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "动物为了满足某种需求而积极寻找和探索的行为。如觅食行为、求偶行为等。"
+  },
+  {
+   "cn": "欲求行为",
+   "en": "appetitive behavior",
+   "source": "生态学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "一个复杂的行为通常分为两个阶段，欲求行为是第一个阶段，如取食行为的寻找食物阶段和生殖行为的求偶阶段，直到找到了食物或配偶，此阶段才算完成并过渡到第二阶段。"
+  },
+  {
+   "cn": "纳谷不香",
+   "en": "poor appetite",
+   "source": "中医药学名词",
+   "wordNumber": "04.430",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "缺乏食欲，饮食无味的表现。"
+  },
+  {
+   "cn": "食欲抑制因子",
+   "en": "appetite suppression factor",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "脂质代谢性疾病_肥胖_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "由下丘脑和胃肠道细胞等分泌的抑制食欲的激素和因子的总称。"
+  },
+  {
+   "cn": "食欲缺乏",
+   "en": "loss of appetite",
+   "source": "消化病学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "缺乏进食欲望。是许多疾病的伴发症状。可由消化系统疾病、全身性疾病、药物及精神心理因素等引起。"
+  },
+  {
+   "cn": "除中",
+   "en": "pseudo good appetite",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0754",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "重病之后，胃气败绝，以当不能食而反能食为主要表现的危重疾病。"
+  },
+  {
+   "cn": "琐飞",
+   "en": "appetitive flight,trivial flight",
+   "source": "昆虫学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "因觅食、求偶、避敌等活动而进行的短距离频繁飞行。"
+  },
+  {
+   "cn": "信访工作",
+   "en": "work for handling petitions via letters and visits",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0027",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "社会组织管理者受理社会成员来信、接待社会成员来访工作的总称。"
+  },
+  {
+   "cn": "食欲",
+   "en": "appetite",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "食欲",
+   "en": "appetite",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "欲望学习",
+   "en": "appetitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "食欲抑制剂",
+   "en": "appetite suppressant",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "食欲制约作用",
+   "en": "appetitive conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "欲求行为",
+   "en": "appetitive behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "食欲抑制药",
+   "en": "appetite suppressant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "琐飞",
+   "en": "appetitive flight\",\"trivial flight",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "纳差",
+   "en": "poor appetite",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.2.7",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "人体进入高原（通常海拔3000 米以上）后，因低氧、低气压、寒冷等环境因素刺激，导致食欲显著减退、进食量减少的生理或病理表现。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

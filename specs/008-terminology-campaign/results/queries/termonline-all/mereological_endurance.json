@@ -1,0 +1,812 @@
+{
+ "key": "mereological endurance",
+ "term": "Mereological endurance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:13:59+00:00",
+ "status": "ok",
+ "note": "variant=Mereological endurance; 审定公布名词库=261; 海峡两岸名词对照库=152; 其他来源数据库=24; 预公布名词数据库=92; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "续航时间",
+   "en": "endurance",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "航空器耗尽其可用燃料所能持续飞行的时间。"
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance",
+   "source": "水产名词",
+   "wordNumber": "09.104",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "船舶一次装足燃油、滑油和淡水等，在正常装载和海况条件下航行的最大距离。"
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance",
+   "source": "船舶工程名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船舶一次装足燃油、滑油和淡水等，按规定的装载和海况条件，以规定航速航行所能达到的最大距离。"
+  },
+  {
+   "cn": "耐久能力",
+   "en": "endurance",
+   "source": "电气工程名词",
+   "wordNumber": "24.052",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "行为医学名词",
+   "wordNumber": "20.101",
+   "subjectFullName": "行为医学_行为干预与治疗_行为康复训练",
+   "subjectName": "行为康复训练",
+   "publishYear": "2022",
+   "definition": "对某项活动或运动耐久能力的训练。"
+  },
+  {
+   "cn": "耐振试验",
+   "en": "endurance test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0126",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为检验产品在规定的振动条件下的动强度、疲劳性能及工作性能所做的试验。"
+  },
+  {
+   "cn": "肌肉耐力",
+   "en": "muscular endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无氧耐力",
+   "en": "anaerobic endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.081",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有氧耐力",
+   "en": "aerobic endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.085",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触点耐久性",
+   "en": "contact endurance",
+   "source": "电力名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "在规定条件下,触点能可靠循环(闭合与断开)的次数(或时间)。"
+  },
+  {
+   "cn": "有氧耐力",
+   "en": "aerobic endurance",
+   "source": "运动医学名词",
+   "wordNumber": "02.150",
+   "subjectFullName": "运动医学_运动生理_有氧、无氧工作能力",
+   "subjectName": "有氧、无氧工作能力",
+   "publishYear": "2019",
+   "definition": "机体利用有氧代谢供能，进行长时间工作的能力。"
+  },
+  {
+   "cn": "无氧耐力",
+   "en": "anaerobic endurance",
+   "source": "运动医学名词",
+   "wordNumber": "02.160",
+   "subjectFullName": "运动医学_运动生理_有氧、无氧工作能力",
+   "subjectName": "有氧、无氧工作能力",
+   "publishYear": "2019",
+   "definition": "机体利用无氧代谢提供的能量维持较长时间工作的能力。"
+  },
+  {
+   "cn": "肌肉耐力",
+   "en": "muscle endurance",
+   "source": "运动医学名词",
+   "wordNumber": "06.029",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "肌肉在一段时间内连续收缩产生力的能力。常用肌肉克服某一固定负荷的最多次数(动力性运动)或最长时间(静力性运动)来表示。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.339",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "长时间进行肌肉活动的能力，即对抗疲劳的能力。"
+  },
+  {
+   "cn": "耐折度",
+   "en": "folding endurance",
+   "source": "林学名词",
+   "wordNumber": "12.278",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "在一定张力下纸或纸板所能承受往复折叠直至断裂的次数。"
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "心理学名词",
+   "wordNumber": "16.040",
+   "subjectFullName": "心理学_军事心理学",
+   "subjectName": "军事心理学",
+   "publishYear": "2014",
+   "definition": "通过近似实战的演习和模拟战场情景，加大军人心理负荷，提高其承受高强度和持久刺激能力的训练。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "物理医学与康复_康复功能评定_运动功能评定",
+   "subjectName": "运动功能评定",
+   "publishYear": "2014",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "耐久性试验",
+   "en": "endurance test",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.124",
+   "subjectFullName": "机械工程_汽车_发动机_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "使发动机按国家标准规定工况长时间运转，以考核其零部件的可靠性、耐久性及其动力性和经济性指标稳定性的试验。"
+  },
+  {
+   "cn": "耐久性试验",
+   "en": "endurance test",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.178",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耐久性试验",
+   "en": "endurance test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疲劳极限",
+   "en": "endurance limit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐久[性]试验",
+   "en": "endurance test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水下逗留时间",
+   "en": "submerged endurance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance\",\"cruising radius",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance\",\"cruising ability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "纸张耐折度",
+   "en": "paper folding endurance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "耐阴植物",
+   "en": "shade-enduring plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat resistance\",\"thermal endurance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分部[研究]法",
+   "en": "merological approach",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "高空图表",
+   "en": "aerological diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "血清学决定簇",
+   "en": "serological determinant",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进流段",
+   "en": "entrance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测风经纬仪",
+   "en": "aerological theodolite\",\"balloon theodolite",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保险承诺书",
+   "en": "insurance binder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险代理人",
+   "en": "insurance agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险公司",
+   "en": "insurance company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险价值",
+   "en": "insurance value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险凭证",
+   "en": "insurance certificate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力赛",
+   "en": "endurance competition\",\"endurance test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保证保险",
+   "en": "guaranteed insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网保险",
+   "en": "IoT insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网保险",
+   "en": "Internet insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色保险",
+   "en": "green insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巨灾保险",
+   "en": "catastrophe insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技保险",
+   "en": "technology insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上参保证明",
+   "en": "online insurance certificate",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "再上场",
+   "en": "re-entrance\",\"re-entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网上社会保险服务",
+   "en": "online social insurance service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病人专用通道",
+   "en": "entrance/corridor for patients  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医保智能监控",
+   "en": "intelligent monitoring for medical insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医护人员专用通道",
+   "en": "entrance/corridor for medical staff ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际保险监督官协会",
+   "en": "International Association of Insurance Supervisors (IAIS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社保制度",
+   "en": "social insurance system; social security system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全民参保精准识别",
+   "en": "accurate identification for universal social insurance coverage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗保险和医疗救助脱贫",
+   "en": "poverty alleviation by providing medical insurance and aid",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "心肺耐力",
+   "en": "cardiorespiratory fitness, cardiorespiratory endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在较长时间的体力活动中，心血管系统（心脏和血管）和呼吸系统（肺和气道），为工作的肌肉和器官提供氧气的能力。通常表示为测量或估计的最大摄氧量。"
+  },
+  {
+   "cn": "量值溯源性",
+   "en": "metrological traceability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过具备证明文件的不间断的校准链，将测量结果与参照对象联系起来的测量结果的特性，校准链中的每项校准都会引人测量不确定度。"
+  },
+  {
+   "cn": "血清学鉴定",
+   "en": "serological identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.56",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "用已知抗体（或抗原）鉴定对应抗原（或抗体）的试验。"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "商业保险",
+   "en": "commercial insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "保险机构依合同约定，向投保人收取保险费，建立保险基金，在被保险人死亡、伤残、患病、或达到约定的年龄期限以及其他合同约定的事故造成损失时，承担给付保险金责任的一种保险制度。是补充保障的重要组成部分。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "保险垄断",
+   "en": "insurance monopoly",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场中保险机构作为服务供方通过药物目录、支付方式、定点政策等手段和控制权所形成的垄断性。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "medical insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过多方筹集资金建立基金池，对被保险人在因疾病或意外伤害所发生的医疗费用给予偿付的制度安排"
+  },
+  {
+   "cn": "共付保险",
+   "en": "co-insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按照一定比例共同支付医疗费用"
+  },
+  {
+   "cn": "保险因子",
+   "en": "insurance factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险赔付率（补偿比）对医疗服务利用、医疗费用变化的影响程度。"
+  },
+  {
+   "cn": "强制参保",
+   "en": "mandatory insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "按照强制性社会保险原则，医疗保险通过国家立法提出符合条件的单位和个人必须参加医疗保险的条款。"
+  },
+  {
+   "cn": "自愿参保",
+   "en": "voluntary insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "投保人和保险公司在平等互利、等价有偿的原则基础上，通过协商一致，双方完全自愿订立保险合同建立保险关系的行为。"
+  },
+  {
+   "cn": "保险欺诈",
+   "en": "insurance fraud",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "假借保险名义或利用保险合同谋取非法利益的行为，主要包括保险金诈骗类欺诈行为、非法经营保险业务类欺诈行为和保险合同诈骗类欺诈行为等。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生筹资",
+   "subjectName": "妇幼卫生筹资",
+   "publishYear": "2025",
+   "definition": "为保障女性劳动者在生育期间的基本生活和医疗需求，维护劳动力再生产，国家和社会通过立法为怀孕、分娩的女性劳动者提供医疗费用补偿、生育津贴及产假保障的社会保险制度。"
+  },
+  {
+   "cn": "健康保险",
+   "en": "health insurance",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.06",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以人的身体为对象，保证被保险人在疾病或意外事故所致伤害时的费用或损失获得补偿的一种保险。包括疾病保险、医疗保险、失能收入损失保险、护理保险及医疗意外保险等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

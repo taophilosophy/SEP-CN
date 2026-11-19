@@ -1,0 +1,622 @@
+{
+ "key": "absorption",
+ "term": "absorption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:12:56+00:00",
+ "status": "ok",
+ "note": "variant=absorption; 审定公布名词库=1079; 海峡两岸名词对照库=418; 其他来源数据库=4; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "吸收[性]",
+   "en": "absorption,absorptivity",
+   "source": "地质学名词",
+   "wordNumber": "04.196",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "［食物］吸收",
+   "en": "absorption",
+   "source": "兽医学名词",
+   "wordNumber": "04.302",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "食物经过消化道消化后的产物，通过消化道黏膜上皮细胞进入血液或淋巴的生理过程。"
+  },
+  {
+   "cn": "［药物］吸收",
+   "en": "absorption",
+   "source": "兽医学名词",
+   "wordNumber": "17.062",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "药物从给药部位进入血液循环的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "消化病学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "消化病_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2022",
+   "definition": "消化后的小分子物质及水、无机盐和维生素通过消化道黏膜进入血液和淋巴循环的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "生理学名词",
+   "wordNumber": "07.143",
+   "subjectFullName": "生理学_胃肠生理学",
+   "subjectName": "胃肠生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[病毒]吸附",
+   "en": "absorption",
+   "source": "感染病学名词",
+   "wordNumber": "03.0172",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "病毒附着于敏感细胞表面的现象。是感染的起始阶段。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "物理学名词",
+   "wordNumber": "04.1591",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "人体从环境中摄取营养素到体内的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0683",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "根据混合气体中不同组分在液体中溶解度的差异，令气液充分接触，使其中某些组分转移到溶液中，从而实现气体组分分离的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "核医学名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "射线与物质相互作用，射线能量转移给物质，自身能量损失或消失的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "计量学名词",
+   "wordNumber": "13.012",
+   "subjectFullName": "计量学_光学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "辐射能与物质相互作用而转换为其他能量形式的现象。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "建筑学名词",
+   "wordNumber": "11.0226",
+   "subjectFullName": "建筑学_建筑防护_防电磁辐射",
+   "subjectName": "防电磁辐射",
+   "publishYear": "2014",
+   "definition": "当电磁波与某种介质相互作用时，电磁波能量不可逆转地向另一种形式的能量转换的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "放射医学与防护_放射毒理学_代谢",
+   "subjectName": "代谢",
+   "publishYear": "2014",
+   "definition": "放射性核素经不同摄入途径进入到体液的过程。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.080",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0041",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "电气工程名词",
+   "wordNumber": "22.012",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "化学工程名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_吸收",
+   "subjectName": "吸收",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "电子学名词",
+   "wordNumber": "12.171",
+   "subjectFullName": "电子学_电子光学与真空技术",
+   "subjectName": "电子光学与真空技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "吸收[作用]",
+   "en": "absorption",
+   "source": "地质学名词",
+   "wordNumber": "05.228",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "uptake,absorption",
+   "source": "地理学名词",
+   "wordNumber": "09.052",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "物质从一种介质相进入另一种介质相的现象。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸收[作用]",
+   "en": "absorption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吸收作用",
+   "en": "absorption",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸收比",
+   "en": "absorptance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorptivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorptivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸光系数",
+   "en": "absorptivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorptance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorptivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "吸光性",
+   "en": "absorptivity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "吸热率",
+   "en": "absorptivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸收率, 吸收性, 吸收力",
+   "en": "absorptivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆流吸收",
+   "en": "absorption countercurrent\",\"countercurrent absorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "uptake\",\"absorption",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "吸收陷窝",
+   "en": "absorption lacuna",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "风险损失吸收机制",
+   "en": "risk loss absorption mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "外源化学物从机体的接触部位透过生物膜屏障进入血液的过程。主要发生在胃肠道、呼吸道和皮肤。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物从机体的接触部位透过生物膜进入血液的过程。主要发生在胃肠道、呼吸道和皮肤"
+  },
+  {
+   "cn": "吸收屏障",
+   "en": "absorption barrier",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.31",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "可以延缓外源化学物渗透到人体内速度的界面。包括皮肤、呼吸道内壁和胃肠道壁等。"
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorption rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物被机体吸收的量与摄入总量的比值。"
+  },
+  {
+   "cn": "阻吸收药",
+   "en": "absorption inhibitor",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.6.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器损伤救治",
+   "subjectName": "核武器损伤救治",
+   "publishYear": "2025",
+   "definition": "能够有选择性地阻止或减少放射性核素（碘、锶、铯、钡、镭、氚等）吸收，减轻其进入机体组织器官后引起的急性内照射，降低对机体损害的药物。"
+  },
+  {
+   "cn": "中子吸收",
+   "en": "neutron absorption",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.33",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与原子核反应后被吸收，不再作为自由中子存在的现象。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "能量吸收",
+   "en": "energy absorption",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "入射辐射能量的全部或一部分传递给所穿过的物质的现象。伴随有能量损耗的散射（如康普顿散射和中子减速）也视为能量吸收。"
+  },
+  {
+   "cn": "阻吸收",
+   "en": "prevent absorption",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性核素内污染治疗中的一种医学处理方式，应用药物与放射性核素螯合、形成难溶性化合物或在胃肠道内壁形成保护膜，阻止胃肠道吸收。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "皮肤吸收",
+   "en": "absorption via the skin",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.28",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经皮肤进入体液的过程。"
+  },
+  {
+   "cn": "伤口吸收",
+   "en": "absorption via the wound",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.29",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经伤口进入体液的过程。"
+  },
+  {
+   "cn": "原子吸收分光光度法",
+   "en": "atomic absorption spectrophotometry, AAS",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于被测元素的基态原子对特征辐射的吸收程度进行定量分析的方法。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  },
+  {
+   "cn": "质能吸收系数",
+   "en": "mass energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位质量厚度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为平方米每千克，记作m2·kg-1。"
+  },
+  {
+   "cn": "放射性核素阻吸收",
+   "en": "preventive absorption for radionuclide",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能阻止放射性核素由进入部位吸收入血的措施。非特异性措施有催吐、洗胃和缓泻，特异性措施只对特定放射性核素有阻吸收作用的医学措施。"
+  },
+  {
+   "cn": "呼吸道吸收",
+   "en": "absorption from the respiratory tract",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经呼吸道进入体液的过程。"
+  },
+  {
+   "cn": "胃肠道吸收",
+   "en": "absorption from the gastro-intestinal tract",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.16",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经胃肠道进入到体液的过程。"
+  },
+  {
+   "cn": "核素全吸收峰探测效率",
+   "en": "total absorption detection efficiency for nuclide",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "对于给定的测量条件以及该核素所发射的能量为Eγ的特征γ辐射，探测到的全吸收峰内的净计数与同一时间间隔内辐射源中该核素的衰变总数的比值。"
+  },
+  {
+   "cn": "γ射线全吸收峰探测效率",
+   "en": "total absorption detection efficiency for gamma ray",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "对于给定的测量条件和γ射线能量，探测到的全吸收峰内的净计数与同一时间间隔内辐射源发射的该能量的γ射线总数的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

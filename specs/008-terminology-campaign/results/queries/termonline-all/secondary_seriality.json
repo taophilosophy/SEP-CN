@@ -1,0 +1,672 @@
+{
+ "key": "secondary seriality",
+ "term": "secondary seriality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:15:34+00:00",
+ "status": "ok",
+ "note": "variant=secondary seriality; 审定公布名词库=1161; 海峡两岸名词对照库=411; 其他来源数据库=18; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "连载",
+   "en": "serialization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.092",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "分多次连续登载一部作品的出版形式。"
+  },
+  {
+   "cn": "连续出版物",
+   "en": "serial",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "具有统一题名，定期或不定期以连续分册形式计划无限期出版，有卷期或年月标识的出版物。分印刷或非印刷形式，包括期刊、报纸、年度出版物（年鉴、年刊等），以及成系列的报告、学会会刊、会议录和专著丛刊，但并不包"
+  },
+  {
+   "cn": "序列化",
+   "en": "serialization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0147",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种将对象的状态信息转换为可存储、可传输形式的过程。用于保存对象的当前状态，并支持对对象状态的重建。"
+  },
+  {
+   "cn": "系列遗产",
+   "en": "serial properties,serial heritage",
+   "source": "建筑学名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "由几个相关部分组成的遗产。这些组成部分属于同一历史文化群体；具有某一地域特征的同一类型遗产；同一地质、地形构造，同一生物地理亚区，或同类生态系统；同时，作为一个整体(而不是其中个别部分)必须具有突出的"
+  },
+  {
+   "cn": "连峰",
+   "en": "serial peaks",
+   "source": "风景园林名词",
+   "wordNumber": "04.0052",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "多座山峰连续排列形成的景观。"
+  },
+  {
+   "cn": "串行处理",
+   "en": "serial processing",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.602",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "多个任务、进程在处理器上按分配的时间片交替投入运行的过程。"
+  },
+  {
+   "cn": "连续出版物",
+   "en": "serial publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.009",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "有固定名称，连续地分期或分册、分部出版的出版物。通常具有编号，无预定结束日期。包括期刊、年度出版物、报纸和丛刊等。"
+  },
+  {
+   "cn": "串扫",
+   "en": "serial scanning",
+   "source": "光学名词",
+   "wordNumber": "15.173",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "采用多元列阵或扫积型探测器在沿着探测器排列方向进行光机扫描的行扫描方式。"
+  },
+  {
+   "cn": "系列同源性",
+   "en": "serial homology",
+   "source": "动物学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "同一生物体上有相同来源的不同结构之间的同源性。"
+  },
+  {
+   "cn": "序列视景",
+   "en": "serial vision",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.350",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "沿一定空间路径运动时通过一系列观察点所见的一组画面。是客观景物在时空维度上的有序展开。"
+  },
+  {
+   "cn": "系列化设计",
+   "en": "serial design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0101",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "通过对同一类产品发展规律分析与技术经济比较，对产品的主要参数、型式、尺寸、基本结构等做出合理安排与计划的设计方法。"
+  },
+  {
+   "cn": "串联突触",
+   "en": "serial synapse",
+   "source": "生理学名词",
+   "wordNumber": "03.066",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "经济学名词",
+   "wordNumber": "10.106",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "当回归分析中因变量 Y 的各个观测值<img src='/root/syzx/static/spz/jingjixue1.10.106.01.png'/>之间存在相互影响时，称出现序列相关。"
+  },
+  {
+   "cn": "连续出版物采访",
+   "en": "serial acquisition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.336",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "以印刷或非印刷形式的连续出版物为对象的文献觅求、选择和采集过程。在采访经费允许的情况下，满足两个基本要求：一是完整连续，保证入藏刊物首尾相连并无缺漏；二是前后复本数基本保持一致。"
+  },
+  {
+   "cn": "连续出版物编目",
+   "en": "serial cataloging",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.389",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对连续出版物特征进行分析、选择和记录，组织成目录并进行维护的过程。"
+  },
+  {
+   "cn": "连续出版物记录",
+   "en": "serial record",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.394",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "文献信息机构为馆藏连续出版物建立的记录。反映每种连续出版物的馆藏卷期、订购日期及来源、出版编辑事项、付款记录、合订情况、复本数等。"
+  },
+  {
+   "cn": "丛刊索引",
+   "en": "serial index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.130",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "将丛刊中具有检索意义的项目分别摘录，按一定方式编排，并标明出处，以便查阅丛刊的检索工具书。"
+  },
+  {
+   "cn": "连续出版物收藏",
+   "en": "serial holding",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.489",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆收藏的以报刊及其他定期或不定期发行的连续出版物为主要内容的文献集合。"
+  },
+  {
+   "cn": "定期出版书目",
+   "en": "serial bibliography",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.352",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "定期连续出版的书目，通常仅限于特定的专业研究领域。"
+  },
+  {
+   "cn": "系列衰变",
+   "en": "serial decay",
+   "source": "物理学名词",
+   "wordNumber": "09.0163",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "序列主义",
+   "en": "serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列化",
+   "en": "serialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "串行化",
+   "en": "serialization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串化器，并串行转换器",
+   "en": "serializer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体序列主义",
+   "en": "total serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续切片",
+   "en": "serial section",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "连续突触",
+   "en": "serial synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "系列同源性",
+   "en": "serial homology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串行通信",
+   "en": "serial communications",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串行过程",
+   "en": "serial process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列搜索,系列搜索",
+   "en": "serial search",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列扫描",
+   "en": "serial scan",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列技术",
+   "en": "serial technique",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列学习,系列学习",
+   "en": "serial learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列音乐",
+   "en": "serial music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列回忆,系列回忆",
+   "en": "serial recall",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列加工,系列加工",
+   "en": "serial processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续切片",
+   "en": "serial section",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串行化文件",
+   "en": "serialization file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串行通信",
+   "en": "serial communication",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二级传播（继发性传播）",
+   "en": "secondary transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外围场地",
+   "en": "secondary court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用串行总线",
+   "en": "universal serial bus (USB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络二次创作",
+   "en": "online secondary creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四抗二平衡：“四抗”，第一是抗病毒；第二是抗休克；第三是抗低氧血症；第四是抗继发感染。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“二平衡”，即维持水电解质、酸碱平衡以及维持微生态平衡。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.155",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个时间序列过程的接续的值有非零的协方差时的相关关系。"
+  },
+  {
+   "cn": "系列遗产",
+   "en": "serial cultural heritage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0062",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "拥有两个或两个以上具有明确关联的组成部分的遗产。系列遗产的各组成部分应反映一段时间里文化、社会或功能方面的联系，这些联系在相关领域提供了景观、生态、进化或生境的连通性。"
+  },
+  {
+   "cn": "次级限值",
+   "en": "secondary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要所规定的相应于有效剂量限值的某一限值。例如，内照射的次级限值是年摄入量限值。"
+  },
+  {
+   "cn": "副屏蔽",
+   "en": "secondary shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.37",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用于屏蔽泄漏辐射和散射辐射的屏蔽体。"
+  },
+  {
+   "cn": "次级辐射",
+   "en": "secondary radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由初级辐射与物质相互作用而产生的电离辐射。"
+  },
+  {
+   "cn": "次属群体",
+   "en": "secondary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员为了某种特定的目标集合在一起，不一定有面对面接触，可以某些沟通工具为媒介，通过明确的规章制度结成正式关系的社会群体。与“首属群体”相对。"
+  },
+  {
+   "cn": "二级医院",
+   "en": "secondary hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.3.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "向含有多个社区的地区（人口一般在数十万左右）提供医疗服务，并开展预防、保健和康复医疗服务，承担一定教学培训和科研任务的地区性医疗机构。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "二次葬",
+   "en": "secondary burial",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0274",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "原始社会曾经普遍存在过的一种葬俗，其显著特征是将死者的尸骨进行两次和两次以上的埋葬。由于埋葬的一般都是没有皮肉的骨骼，且多数是易地安葬。"
+  },
+  {
+   "cn": "再生云团",
+   "en": "secondary cloud",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.5.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "从液态毒剂染毒的地面、物体表面蒸发形成的次生染毒云团，具有毒剂初始浓度低、持续时间长、危害纵深近、杀伤作用小的特点。"
+  },
+  {
+   "cn": "二级模型",
+   "en": "secondary model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.94",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "预测微生物学经典分类方法中用于描述一级模型参数与环境条件之间的函数关系的模型。"
+  },
+  {
+   "cn": "次级宇宙射线",
+   "en": "secondary cosmic rays",
+   "source": "放射卫生学",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "初级宇宙射线进入大气层与空气中原子核发生反应产生的次级电离辐射，包括中子、质子、π介子和K介子等。"
+  },
+  {
+   "cn": "再次免疫应答",
+   "en": "secondary immune response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.11",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对感染病原的首次入侵产生记忆作用，在相同病原体再次入侵时产生的更快、更强的免疫应答。其抗体为高特异性抗体，以IgG为主，潜伏期短、抗体量多、维持时间长。"
+  },
+  {
+   "cn": "第二性征",
+   "en": "secondary sexual characteristics",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "男女两性在生殖器官以外的身体结构和功能方面所显示出来的差异。"
+  },
+  {
+   "cn": "次级骨化中心",
+   "en": "secondary ossification center",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "长骨骨化过程后期，在两端的软骨中央出现的骨化中心。将发育形成骨骺（长骨两端膨大的部分）。"
+  },
+  {
+   "cn": "二级采样方案",
+   "en": "secondary sampling scheme",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.75",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种在食品安全和品质监控中常用的抽样检验方法。为某个微生物指标设定两个阈值限值，并根据样本的检测结果，在“接受”和“拒绝”两个判定之外，引入了一个“中间待定区”，需通过加大抽样来做出最终判定。"
+  },
+  {
+   "cn": "二次大气污染物",
+   "en": "secondary air pollutants",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "排入大气的污染物在物理、化学等因素的作用下发生变化，或与环境中的其他物质发生反应，所形成的理化性质不同于一次污染物的新的污染物。"
+  },
+  {
+   "cn": "继发性乳糖酶缺乏",
+   "en": "secondary lactase deficiency",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种乳糖酶缺乏的疾病。多由胃肠道疾病导致小肠吸收表面损伤而引起，包括腹腔疾病、克罗恩病、小肠细菌过度生长、肠道感染和放化疗肠炎等。"
+  },
+  {
+   "cn": "次级直接食品添加剂",
+   "en": "secondary direct food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "在食品生产和加工过程中加入的，但在终产品中不发挥任何功能作用的食品添加剂"
+  },
+  {
+   "cn": "电离辐射继发作用",
+   "en": "secondary effect of ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "在电离辐射造成细胞损伤的基础上，引起各种组织、器官、系统的变化导致临床症状出现的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

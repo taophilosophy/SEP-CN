@@ -1,0 +1,432 @@
+{
+ "key": "modifications",
+ "term": "modifications",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:11:34+00:00",
+ "status": "ok",
+ "note": "variant=modifications; 审定公布名词库=159; 海峡两岸名词对照库=61; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "修饰作用",
+   "en": "modification",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.008",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "DNA及其他生物大分子合成之后对其进行的化学修饰。对其功能发挥具有重要作用。包括磷酸化、糖酰基化、乙酰化和甲基化等方 式。"
+  },
+  {
+   "cn": "变质处理",
+   "en": "modification",
+   "source": "冶金学名词",
+   "wordNumber": "07.0212",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "向合金液中加入某种用于控制合金相生长形态的微量元素的熔体处理工艺方法。"
+  },
+  {
+   "cn": "修饰",
+   "en": "modification",
+   "source": "核医学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "通过化学或生化方法向有机分子引入某一个基团或去除某一基团的方法。用于改变该分子的某些化学或生物学特性。"
+  },
+  {
+   "cn": "修饰",
+   "en": "modification",
+   "source": "药学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "对于生物指受其活动和环境的影响而产生的非遗传性的改变；常指用化学或酶的手段对蛋白质、核酸这样的大分子进行有限的改变，被修饰的分子常产生性质和生理学作用的改变。"
+  },
+  {
+   "cn": "变质处理",
+   "en": "modification",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1047",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "向合金液中加入某种用于控制合金相或非金属夹杂物生长形态的微量元素的熔体处理工艺方法。"
+  },
+  {
+   "cn": "改性",
+   "en": "modification",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1457",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_表面改性和涂层技术",
+   "subjectName": "表面改性和涂层技术",
+   "publishYear": "2011",
+   "definition": "通过物理和化学手段改变材料物质形态或性质的方法。"
+  },
+  {
+   "cn": "改装",
+   "en": "modification,retrofit",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.019",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "为改进装备性能、扩大功能、提高可靠性安全因素，或适应任务要求而对原装备加以更改、改进或加装的工程项目。"
+  },
+  {
+   "cn": "同质多象变体",
+   "en": "polymorphic modification",
+   "source": "地质学名词",
+   "wordNumber": "02.00.193",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "成分相同而结构不同的晶体。根据变体数有同质二象、同质三象等。"
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "农学名词",
+   "wordNumber": "15.023",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在细胞核DNA序列不发生改变的情况下，基因功能可逆的且可遗传的改变。包括DNA甲基化修饰、RNA甲基化修饰和组蛋白修饰等。"
+  },
+  {
+   "cn": "组蛋白修饰",
+   "en": "histone modification",
+   "source": "农学名词",
+   "wordNumber": "15.026",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "组蛋白N-末端氨基酸残基的甲基化、乙酰化、磷酸化、腺苷酸化、泛素化和ADP核糖基化等共价修饰的动态变化过程。"
+  },
+  {
+   "cn": "化学修饰",
+   "en": "chemical modification",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.01",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "通常指添加或去除蛋白质（酶）或核酸等分子上的某些功能基团而改变蛋白质（酶）或核酸活性的过程。"
+  },
+  {
+   "cn": "修饰酶",
+   "en": "modification enzyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0745",
+   "subjectFullName": "生物化学与分子生物学_酶_核酶及其他_易位酶",
+   "subjectName": "易位酶",
+   "publishYear": "2024",
+   "definition": "能催化稀有碱基参入RNA或DNA，或对原有碱基进行修饰的酶。以防止限制性内切酶的破坏。"
+  },
+  {
+   "cn": "DNA修饰",
+   "en": "DNA modification",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0509",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在DNA分子的核苷酸上通过共价键连接化学基团的过程。如DNA甲基化。"
+  },
+  {
+   "cn": "组蛋白修饰",
+   "en": "histone modification",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "组蛋白在相关酶作用下发生甲基化、乙酰化、磷酸化、腺苷酸化、泛素化、糖基化等修饰的过程。"
+  },
+  {
+   "cn": "组蛋白修饰",
+   "en": "histone modification",
+   "source": "生殖医学名词",
+   "wordNumber": "10.19",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "组蛋白在相关酶作用下发生甲基化、乙酰化、磷酸化、腺苷酸化、泛素化、ADP核糖基化等修饰的过程。"
+  },
+  {
+   "cn": "聚合物改性",
+   "en": "polymer modification",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "1.0059",
+   "subjectFullName": "化工（七）_通类",
+   "subjectName": "通类",
+   "publishYear": "2022",
+   "definition": "通过物理共混、化学反应、辐照等方法对高分子材料进行处理，以改善其性能的过程。"
+  },
+  {
+   "cn": "表面修饰",
+   "en": "surface modification",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0172",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "在保持材料或制品原性能的前提下，赋予其表面亲水性、生物相容性、抗静电性能、易染色等新性能的过程。"
+  },
+  {
+   "cn": "内容加工",
+   "en": "content modification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.098",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "编辑人员对作品内容进行规范化处理的过程。"
+  },
+  {
+   "cn": "共混改性",
+   "en": "blending modification",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0875",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "将两种或两种以上聚合物及相关助剂混合后，改变原有单一树脂特性的一种材料制备方法。"
+  },
+  {
+   "cn": "等离子体改性",
+   "en": "plasma modification",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0895",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "利用等离子体产生的活性粒子（如电子、离子、亚稳态原子和分子、自由基、紫外光子等）对材料表面进行处理的方法。"
+  },
+  {
+   "cn": "变质处理",
+   "en": "modification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "修饰",
+   "en": "modification",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "修饰",
+   "en": "modification",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因修饰",
+   "en": "gene modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生境饰变",
+   "en": "habital modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA修饰",
+   "en": "DNA modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组蛋白修饰",
+   "en": "histone modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工影响气候",
+   "en": "climate modification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工影响天气",
+   "en": "weather modification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "云人工影响",
+   "en": "cloud modification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表面改性",
+   "en": "surface modification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "行为矫正",
+   "en": "behavior modification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表面改性",
+   "en": "surface modification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "木材功能性改良",
+   "en": "wood modification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辐射改性",
+   "en": "radiation modification",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "化学修饰",
+   "en": "chemical modification",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "DNA修饰",
+   "en": "DNA modification",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "化学修饰",
+   "en": "chemical modification",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA修饰",
+   "en": "DNA modification",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "伪",
+   "en": "Human Modification; Artifice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行为治疗模式",
+   "en": "behavior modification model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "专注于问题行为的测量和行为矫正，对于帮助人们改变各种各样的行为问题效果明显。在特殊教育、康复治疗、临床心理学、儿童管理、自我管理、商业及工业等不同领域都有着非常广泛的应用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

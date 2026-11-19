@@ -1,0 +1,792 @@
+{
+ "key": "positive topology",
+ "term": "positive topology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:15:06+00:00",
+ "status": "ok",
+ "note": "variant=positive topology; 审定公布名词库=1505; 海峡两岸名词对照库=502; 其他来源数据库=146; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "物理学名词",
+   "wordNumber": "08.0514",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0127",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在网络中结点和通信介质的连接与分布形式。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.649",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "近代发展起来的一个研究连续性现象的数学分支。研究拓扑空间在拓扑变换下的不变性质和不变量。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "数学名词",
+   "wordNumber": "08.0440",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map,topological map",
+   "source": "地理学名词",
+   "wordNumber": "27.030",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "以结点、弧段和多边形表示制图对象之间连通、邻接、关联、包含等图形拓扑关系及数量对比的一种简单图形，不涉及其地图量度。"
+  },
+  {
+   "cn": "膜拓扑学",
+   "en": "membrane topology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0066",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "研究膜蛋白质在膜内外排列分布的学科领域。主要研究哪一部分氨基酸序列位于包围其脂双层的平面内，而哪一部分突出于脂双层两侧的水相环境中。"
+  },
+  {
+   "cn": "流程拓扑",
+   "en": "flowsheet topology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "将过程中的各设备单元及其关系抽象成节点与节点间的关系，形成有向图表示的流程网络结构。"
+  },
+  {
+   "cn": "DNA拓扑学",
+   "en": "DNA topology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0174",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "研究DNA在变形后仍然保留下来的结构特征，涉及DNA可能的缠绕或变形及从属于其数学问题的学科领域。其研究对复制、转录和重组，包括对许多病毒生活周期非常重要的重组事件都很重要。拓扑异构酶可以改变DNA的"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.102",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "对网络的分支和节点的系统性进行安排。可以是物理的或逻辑的。"
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "电力名词",
+   "wordNumber": "12.183",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "网络的物理构型。通常可分为总线型、星型、环型及自由拓扑结构(任意组合)。网络拓扑结构需要有对应的物理媒体和物理层通信协议的支持。"
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0128",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络结点通过信道连接起来所具有的结构形式。"
+  },
+  {
+   "cn": "环形拓扑",
+   "en": "ring topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0131",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "由传输链路把一系列结点彼此连接起来建立一个封闭环所形成的拓扑。"
+  },
+  {
+   "cn": "网拓扑",
+   "en": "net topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0612",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "通用网论的一个分支。把拓扑结构引入网系统，建立适用于网系统的拓扑概念并讨论相关性质。"
+  },
+  {
+   "cn": "网状拓扑",
+   "en": "mesh topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0132",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "各个结点通过信道互相连接并且每个结点至少有两条信道与其他结点相连所形成的状如具有可变大小的孔洞的渔网的拓扑。"
+  },
+  {
+   "cn": "树状拓扑",
+   "en": "tree topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0133",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "互连多个LAN所形成的带有分支但没有回路的树形LAN拓扑。"
+  },
+  {
+   "cn": "总线拓扑",
+   "en": "bus topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0129",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "不使用中间连接设备由单个线缆连接网络上的所有结点的拓扑。"
+  },
+  {
+   "cn": "星形拓扑",
+   "en": "star topology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0130",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络上的每个结点都连接到一个中心设备的拓扑。"
+  },
+  {
+   "cn": "分子拓扑",
+   "en": "molecular topology",
+   "source": "药学名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "蕴含在分子图形中的全部信息。"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.666",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "构成网络的成员间特定的物理、或者逻辑排列方式。两个网络的连接结构相同意味着它们的网络拓扑相同，尽管它们各自内部的物理连接、节点间距离可能会有不同。"
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "对网络的分支和节点的系统性安排。拓扑可以是物理的或逻辑的。"
+  },
+  {
+   "cn": "拓扑[学]",
+   "en": "topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑",
+   "en": "topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑地图",
+   "en": "topologic map\",\"topological map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑[结构]",
+   "en": "network topology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "膜拓扑学",
+   "en": "membrane topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA拓扑学",
+   "en": "DNA topology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初始拓扑",
+   "en": "preliminary topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图拓扑",
+   "en": "map topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "交互式拓扑处理",
+   "en": "interactive topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矢量拓扑",
+   "en": "vector topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑方位",
+   "en": "topology fix",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑规则",
+   "en": "topology rule",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑缓存",
+   "en": "topology cache",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电路拓扑[学]",
+   "en": "circuit topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辐射式拓扑",
+   "en": "hub topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环形拓扑",
+   "en": "ring topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络拓扑",
+   "en": "network topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网拓扑",
+   "en": "net topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网状拓扑",
+   "en": "mesh topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跪撑开始姿势!",
+   "en": "Position!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子计算",
+   "en": "topological quantum computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "standing position\",\"upright position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蹲踞姿势",
+   "en": "squat position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团身姿势",
+   "en": "C position\",\"tuck position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体姿势",
+   "en": "B position\",\"pike position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "A position\",\"straight position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正面启发法",
+   "en": "positive heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学家通过研究纲领发展理论与设计实验，主动解决问题或预测现象。"
+  },
+  {
+   "cn": "正外部效应",
+   "en": "positive externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且有益的影响。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "阶级位置",
+   "en": "class position",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "特定阶级在社会分层系统中所处的位置，主要由市场状态、工作状态和身份状态所决定。是新韦伯主义阶级理论中的一个重要概念，由英国社会学家洛克伍德(David Lockwood）提出，是新韦伯主义阶级理论家进"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "阵地战",
+   "en": "positional war",
+   "source": "马克思主义",
+   "wordNumber": "05.0008",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西主张在共产党领导的“总体革命”中，无产阶级及其政党在文化领导权的获取方式上应当采用的，是不同于俄国十月革命的“运动战”，即采取暴力夺权的那种方式，而是应当在市民社会领域对资产阶级的思想阵地不断实"
+  },
+  {
+   "cn": "无条件积极关注",
+   "en": "unconditional positive regard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者做的所有事情都给予积极关注，即使客观上消极的行为也要接受的态度。在学校心理咨询中，指咨询者对求咨者的优点和进步保持高度敏感，用积极的眼光去看待求咨者在咨询室里的变化，尊重、理解对方。"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "党员主体地位",
+   "en": "Partys principal position",
+   "source": "马克思主义",
+   "wordNumber": "03.0775",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "广大党员是党的一切活动的主体，在党内生活和党的建设实践中居于自主、积极、主动的地位。这主要表现在：广大党员有明确的主体意识，具备较高的参政议政素质和能力，能够积极参与党内事务，认真履行义务，积极行使权"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "社会经济地位",
+   "en": "social economic position",
+   "source": "社会医学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人在社会体系中所处的位置，由性别、年龄、种族、教育、职业、收入等社会特征共同决定。"
+  },
+  {
+   "cn": "患者定位装置",
+   "en": "patient positioning device",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗时用来固定患者体位的辅助工具，通常包括定位板、托架、热塑膜、负压袋等。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阳性型）",
+   "en": "polyarticular JIA, RF positive",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阳性。约占JIA的10%。大小关节均可受累，关节症状较重。"
+  },
+  {
+   "cn": "现代社会的实证法",
+   "en": "positive law in modern society",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应现代社会的法律。通过特定决定创设法律，法律的有效性基础来自于决定本身，而不是更高的规范。"
+  },
+  {
+   "cn": "党的历史方位",
+   "en": "historical position of the party",
+   "source": "马克思主义",
+   "wordNumber": "03.0641",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在十六大提出的科学概念，指党在时代和历史发展中所处的位置。认清党的历史方位，是党制定正确的理论、路线、方针、政策的根本前提，关系到党的事业的兴衰成败。中国共产党自身建设的全部历史经验证明，党的建设的"
+  },
+  {
+   "cn": "IgG4 阳性浆细胞浸润",
+   "en": "immunoglobulin G4 positive plasma cell infiltration",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.10.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_IgG4相关疾病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "IgG4 相关疾病患者IgG4 阳性浆细胞弥漫性浸润的免疫病理学表现。偶有淋巴滤泡形成，浸润的浆细胞呈多克隆性，有时可见浆母细胞。"
+  },
+  {
+   "cn": "灾难性卫生支出相对差距",
+   "en": "mean catastrophic health payment positive gap",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "发生灾难性卫生支出家庭自付费用占家庭收入的百分比，与贫困线标准的差距之和，除以发生灾难性卫生支出家庭数。"
+  },
+  {
+   "cn": "抗日游击战争的战略地位",
+   "en": "strategic position of antiJapanese guerrilla warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0427",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中指出：抗日战争中，游击战辅助了正规战，把自己也变为正规战。在整个抗日战争中，尤其是在战略相持阶段，游击战是主要的战争形式。忽视抗日游击战争的战略地位"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

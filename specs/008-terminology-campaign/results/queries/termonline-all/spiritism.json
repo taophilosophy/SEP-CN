@@ -1,0 +1,712 @@
+{
+ "key": "spiritism",
+ "term": "spiritism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:10:34+00:00",
+ "status": "ok",
+ "note": "variant=spiritism; 审定公布名词库=76; 海峡两岸名词对照库=10; 其他来源数据库=60; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "勇气号火星巡视器",
+   "en": "Spirit",
+   "source": "天文学名词",
+   "wordNumber": "06.561",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "美国2003年6月发射的火星巡视器。2004年1月着陆在古谢夫撞击坑，持续工作到2011年。"
+  },
+  {
+   "cn": "醑剂",
+   "en": "spirit",
+   "source": "药学名词",
+   "wordNumber": "02.314",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "挥发性药物的浓乙醇溶液。"
+  },
+  {
+   "cn": "工程精神",
+   "en": "engineering spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "遵循相关程序和标准，力求创造性地谋划并高质量地完成工程任务的精神气质。"
+  },
+  {
+   "cn": "工匠精神",
+   "en": "artisan spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.018",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "在工程活动中精雕细琢、精益求精，无止境地追求完美的职业精神。"
+  },
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "科学精神",
+   "en": "scientific spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.294",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "科学主体在长期的科学实践活动中形成的信念、价值标准和行为规范的总和。包括自由探索、求实、理性、批判、创新、平等、合作、谦逊、宽容等精神，其中，求实精神和理性精神构成科学精神的两大支柱。"
+  },
+  {
+   "cn": "水泡水平仪",
+   "en": "spirit level",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.123",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量仪",
+   "subjectName": "量仪",
+   "publishYear": "2021",
+   "definition": "以液面作为水平基准，以此来测定被测面倾角的测量仪器。"
+  },
+  {
+   "cn": "白酒",
+   "en": "Chinese spirit",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "05.009",
+   "subjectFullName": "化工（六）_生物化工工艺及产品_食品发酵工程_酿造工业",
+   "subjectName": "酿造工业",
+   "publishYear": "2021",
+   "definition": "以粮谷为主要原料，以大曲、小曲或麸曲及酵母等为糖化发酵剂，经蒸煮、糖化、固态发酵或半固态发酵、蒸馏等过程制成的蒸馏酒。酒质无色（或微黄）透明，乙醇含量较高，香型包括酱香型、浓香型、清香型、米香型、兼香"
+  },
+  {
+   "cn": "基酒",
+   "en": "base spirit",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1404",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "作为配制酒调配的基础酒。"
+  },
+  {
+   "cn": "精灵附体",
+   "en": "spirit possession",
+   "source": "精神医学名词",
+   "wordNumber": "02.243",
+   "subjectFullName": "精神医学_症状与体征_游离转换症状",
+   "subjectName": "游离转换症状",
+   "publishYear": "2019",
+   "definition": "一种与个体文化-宗教背景有关的构想。附体状态表现为个人的心灵或灵魂被精灵所占 据。"
+  },
+  {
+   "cn": "[气泡]水平仪",
+   "en": "spirit level",
+   "source": "物理学名词",
+   "wordNumber": "02.0888",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "团队精神",
+   "en": "team spirit",
+   "source": "心理学名词",
+   "wordNumber": "16.010",
+   "subjectFullName": "心理学_军事心理学",
+   "subjectName": "军事心理学",
+   "publishYear": "2014",
+   "definition": "团队成员对团队感到满意与认同而相互支持的特征。"
+  },
+  {
+   "cn": "神道",
+   "en": "spirit road",
+   "source": "建筑学名词",
+   "wordNumber": "03.0202",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "陵墓前的礼仪性通道。古代神道两侧通常布置有阙门、石象生等元素，以创造出丰富的空间变化。"
+  },
+  {
+   "cn": "神光",
+   "en": "spirit light",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "04.019",
+   "subjectFullName": "中医药学_眼科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "目中自然能视之精华。"
+  },
+  {
+   "cn": "元神",
+   "en": "primordial spirit",
+   "source": "中医药学名词",
+   "wordNumber": "03.398",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "人神志活动的原动力，禀受先天精气而产生，为生命之根本。"
+  },
+  {
+   "cn": "魄",
+   "en": "inferior spirit",
+   "source": "中医药学名词",
+   "wordNumber": "03.400",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "不受意识所支配，属于人体本能的感觉和动作。"
+  },
+  {
+   "cn": "舌神",
+   "en": "tongue spirit",
+   "source": "中医药学名词",
+   "wordNumber": "04.169",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "舌的神气，可由舌质的荣与枯反映出来。"
+  },
+  {
+   "cn": "气泡式水准仪",
+   "en": "spirit level",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.238",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_大地测量仪器_水准仪",
+   "subjectName": "水准仪",
+   "publishYear": "2003",
+   "definition": "用管状水准器来安平的水准仪。"
+  },
+  {
+   "cn": "心藏神",
+   "en": "heart storing spirit",
+   "source": "兽医学名词",
+   "wordNumber": "19.058",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "心脏是一切精神活动的主宰。具有主宰五脏六腑、形体官窍的一切生理活动的作用。"
+  },
+  {
+   "cn": "示",
+   "en": "shi;spirit tablet",
+   "source": "中国古代史名词",
+   "wordNumber": "2.448",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "神主。殷墟甲骨文中有大示、小示、上示、下示、它示、伊示等名目，指各先王、旧臣神主。后世泛指各类神灵及其牌位。"
+  },
+  {
+   "cn": "酒精",
+   "en": "spirit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "醑剂",
+   "en": "spirit",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "醇质清漆",
+   "en": "spirit varnish",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "团队精神",
+   "en": "team spirit",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "液体罗盘",
+   "en": "spirit compass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "隔室式水准器",
+   "en": "level chambered spirit",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平放水准器",
+   "en": "block spirit level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "气室水准器",
+   "en": "chambered spirit level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变性酒精",
+   "en": "denatured alcohol\",\"methylated spirit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "木精",
+   "en": "wood alcohol\",\"wood spirit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浩然之气",
+   "en": "Noble Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国精神",
+   "en": "Chinese spirit",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "拼搏精神",
+   "en": "fighting spirit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神",
+   "en": "Shen (Spirit / Spiritual)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形神",
+   "en": "Form and Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作主义",
+   "en": "spirit of cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国精神",
+   "en": "the Chinese Spirit",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上海精神",
+   "en": "the Shanghai spirit",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体育精神",
+   "en": "sporting spirit\",\"sportsmanship",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疏野",
+   "en": "Unrestrained and Ingenuous Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "南泥湾精神",
+   "en": "the spirit of Nanniwan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "西柏坡精神",
+   "en": "the spirit of Xibaipo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吕梁精神",
+   "en": "the spirit of Lvliang",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大庆精神",
+   "en": "the spirit of Daqing",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塞罕坝精神",
+   "en": "the spirit of Saihanba",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱国主义精神",
+   "en": "the spirit of patriotism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "钉钉子精神",
+   "en": "the spirit of perseverance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "企业家精神",
+   "en": "the spirit of entrepreneurship",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小岗精神",
+   "en": "the spirit of Xiaogang",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工匠精神",
+   "en": "the spirit of craftsmanship",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精神",
+   "en": "spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0186",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在改造世界的社会实践活动中产生的思维、意志、情感等意识活动和无意识活动及一般心理状态的总称。它是特殊物质人脑的机能和产物。精神不可能脱离物质，但又具有极大的能动性，通过实践，精神的东西可以转化为物"
+  },
+  {
+   "cn": "企业家精神",
+   "en": "entrepreneur spirit",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.17",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "企业家能够从事“创新性破坏”工作所依赖的品质。包括建立自己拥有最高权威的私人王国的欲望、总是渴求胜利、以创造为喜悦、并具有坚强的意志等。由熊彼特(Joseph Schumpeter)提出。"
+  },
+  {
+   "cn": "绝对精神",
+   "en": "absolute spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0114",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔哲学用语。绝对精神与广义的绝对理念互用，指万物的本原与本质。绝对理念经过逻辑学、自然哲学、精神哲学的否定之否定发展，最后返回自身达到绝对精神，即思与在的绝对同一。"
+  },
+  {
+   "cn": "客观精神",
+   "en": "objective spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0167",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观唯心主义的用语。是脱离物质、脱离现实个人而独立存在精神实体。客观唯心主义把它作为世界本原和万物的创造者。如朱熹的“理”，黑格尔的“绝对观念”。"
+  },
+  {
+   "cn": "党性",
+   "en": "party spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0263",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "政党的阶级本性最高最集中的表现。不同阶级的政党代表着各自的阶级利益、意志和要求，具有不同的党性。无产阶级政党代表无产阶级和广大劳动人民的利益、意志和要求，其党性是无产阶级阶级特性的集中表现，要求把党和"
+  },
+  {
+   "cn": "南泥湾精神",
+   "en": "Nanniwan spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0451",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争进入相持阶段后，国民党顽固派对陕甘宁边区进行军事包围和经济封锁，八路军三五九旅响应中共中央关于大生产运动的号召，进入南泥湾垦荒。他们自力更生、艰苦奋斗，自己动手、丰衣足食的革命精神被誉为南泥湾"
+  },
+  {
+   "cn": "民族精神",
+   "en": "national spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0636",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个民族在延续发展过程中所逐渐形成的，为本民族大多数成员所认同的，带有广泛性和普遍性的精神追求。一般说来，它是指民族性格中的优点部分，或民族道德与民族文化中的精华部分，是一个民族赖以生存和发展的精神支"
+  },
+  {
+   "cn": "校风",
+   "en": "school spirit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校心理社会环境",
+   "subjectName": "学校心理社会环境",
+   "publishYear": "2025",
+   "definition": "学校师生在教育教学与管理实践中逐步积淀形成的相对稳定的校园文化氛围。"
+  },
+  {
+   "cn": "白酒",
+   "en": "baijiu, chinese spirit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.1",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以粮谷为主要原料，以大曲、小曲、麸曲、酶制剂及酵母等为糖化发酵剂，经蒸煮、糖化、发酵、蒸馏而成的蒸馏酒。"
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  },
+  {
+   "cn": "人民精神",
+   "en": "spirit of people",
+   "source": "马克思主义",
+   "wordNumber": "03.0145",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民精神即人民理性、人民意识、人民意志和人民的呼声，它是客观理性在人民身上的体现。“人民精神”是马克思在《莱茵报》期间经常使用的一个概念。当资产阶级政府和议会用军队的刺刀来反对人民意志的时候，它在人民"
+  },
+  {
+   "cn": "鲁迅精神",
+   "en": "Lu Xuns spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0453",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东推崇鲁迅一有政治的远见，二有斗争的精神，三有牺牲的精神，将这三点概括为“鲁迅精神”。"
+  },
+  {
+   "cn": "医学人文精神",
+   "en": "medical humanistic spirit",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.199",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "医学领域以人为本的精神理念。强调把人的生命健康置于核心地位，维护人的尊严和权利，要尊重和关爱患者，人的生命价值至上。"
+  },
+  {
+   "cn": "鬼主",
+   "en": "Spirit Chief; Guizhu",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0251",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "唐宋史籍对分布于今滇东、黔西、川南一带西爨白蛮、东爨乌蛮首领之称谓；为政治、军事、宗教三位一体之首领。因辖区与势力大小不同，有鬼主、大鬼主、都鬼主之分；相互间大多无隶属关系。"
+  },
+  {
+   "cn": "中华民族精神",
+   "en": "Chinese Nation spirit",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0114",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国人民在长期奋斗中培育、继承、发展起来的伟大民族精神，包括伟大创造精神、伟大奋斗精神、伟大团结精神和伟大梦想精神。爱国主义是中华民族精神的核心，中华民族精神为中国发展和人类文明进步提供了强大精神动力"
+  },
+  {
+   "cn": "水果蒸馏酒",
+   "en": "distilled fruit spirit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.8",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以水果或果汁（浆）为原料，经发酵、蒸馏而成的蒸馏酒。"
+  },
+  {
+   "cn": "蒸馏型奶酒",
+   "en": "distilled milk spirit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以动物乳、乳清或乳清粉等为主要原料，经发酵、蒸馏等工艺酿制而成的蒸馏酒。"
+  },
+  {
+   "cn": "资本主义精神",
+   "en": "the spirit of capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "促动资本主义经济发生的精神因素。包括生活的意义主要在于努力工作、永无止境地追逐利润、精于计算、讲求高效、进行精确记录、将利润用于再投资而非消费、珍惜时间等等。由马克斯•韦伯(Max Weber)提出。"
+  },
+  {
+   "cn": "艰苦奋斗精神",
+   "en": "spirit of hard struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0558",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党及其人民军队在长期革命斗争中倡导和培育的，以自力更生、奋发图强、不怕困难、不畏艰险以及生活上勤俭节约为主要内容的意识、行为和作风。"
+  },
+  {
+   "cn": "建党精神",
+   "en": "spirit of party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0806",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在庆祝中国共产党成立100周年大会上的讲话中提出：一百年前，中国共产党的先驱们创建了中国共产党，形成了坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民的伟大建党精神"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

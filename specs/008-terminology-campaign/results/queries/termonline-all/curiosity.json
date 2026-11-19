@@ -1,0 +1,32 @@
+{
+ "key": "curiosity",
+ "term": "curiosity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:12:23+00:00",
+ "status": "ok",
+ "note": "variant=curiosity; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "好奇号火星巡视器",
+   "en": "Curiosity",
+   "source": "天文学名词",
+   "wordNumber": "06.580",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "2012年在火星南极区盖尔撞击坑登陆的美国火星巡视器。由2011年发射的专用飞行器“火星科学实验室号”携带释放，针对火星的可居住性等开展研究，为载人登陆火星准备科学数据。"
+  },
+  {
+   "cn": "好奇心",
+   "en": "curiosity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "个体认知、探究及寻求新奇的、有挑战性的信息和体验的心理倾向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

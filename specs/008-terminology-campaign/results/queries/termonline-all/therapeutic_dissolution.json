@@ -1,0 +1,442 @@
+{
+ "key": "therapeutic dissolution",
+ "term": "therapeutic dissolution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:10:27+00:00",
+ "status": "ok",
+ "note": "variant=therapeutic dissolution; 审定公布名词库=154; 海峡两岸名词对照库=21; 其他来源数据库=2; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "溶解作用",
+   "en": "dissolution",
+   "source": "地质学名词",
+   "wordNumber": "05.01.031",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩石中的可溶物质(如碳酸盐矿物、硫酸盐矿物等)在水或者酸、碱溶液作用下被溶解的作用。"
+  },
+  {
+   "cn": "溶解",
+   "en": "dissolution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.123",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "（1）广义上指超过两种以上物质混合成为一个分子状态的均匀相的过程。（2）狭义上指一种液体对于固体、液体或气体产生化学反应使其成为分子状态的均匀相的过程。"
+  },
+  {
+   "cn": "溶解作用",
+   "en": "dissolution",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0150",
+   "subjectFullName": "地球物理学_地壳流体科学_水化学性质",
+   "subjectName": "水化学性质",
+   "publishYear": "2022",
+   "definition": "在一定物理、化学条件下，固相物质分解进入溶液的过程。 "
+  },
+  {
+   "cn": "溶解",
+   "en": "dissolution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0433",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "一种物质（溶质）分散于另一种物质（溶剂）中而成为一个分子混合状态的溶液的过程。"
+  },
+  {
+   "cn": "溶解",
+   "en": "dissolution",
+   "source": "计量学名词",
+   "wordNumber": "15.283",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "一种物质(溶质)均匀地分散在另一种物质(溶剂)中形成溶液的过程。"
+  },
+  {
+   "cn": "溶出度",
+   "en": "dissolution",
+   "source": "药学名词",
+   "wordNumber": "06.522",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "药物从片剂或胶囊剂等固体制剂在规定溶剂中溶出的速度和程度。"
+  },
+  {
+   "cn": "溶解作用",
+   "en": "dissolution",
+   "source": "石油名词",
+   "wordNumber": "02.0540",
+   "subjectFullName": "石油_油气地质勘探_油气储集层",
+   "subjectName": "油气储集层",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "治疗",
+   "en": "therapeutic",
+   "source": "运动医学名词",
+   "wordNumber": "09.077",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "针对某种医学状况，通过补充物质的方法进行的处置；或采取其他措施进行的辅助治疗。"
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning,therapeutic clone",
+   "source": "畜牧学名词",
+   "wordNumber": "05.479",
+   "subjectFullName": "畜牧学_繁殖_胚胎移植",
+   "subjectName": "胚胎移植",
+   "publishYear": "2020",
+   "definition": "将体细胞核转移到去核卵母细胞中以建立克隆囊胚，继而形成自体组织细胞用于疾病治疗的技术。"
+  },
+  {
+   "cn": "溶解蠕变",
+   "en": "dissolution creep",
+   "source": "地质学名词",
+   "wordNumber": "09.06.089",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "当有流体存在时，岩石或矿物在应力作用下，在压缩方向的高应力部位溶解，并通过间隙流体扩散，在拉伸方向的低应力部位结晶、沉淀的作用。也称压溶作用。"
+  },
+  {
+   "cn": "溶解动力学",
+   "en": "dissolution kinetics",
+   "source": "地质学名词",
+   "wordNumber": "13.01.055",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "表征天然物质在不同流体介质中的溶解机理和溶解速率与自然因素关系的模型与方法。"
+  },
+  {
+   "cn": "浸蚀结构",
+   "en": "dissolution texture",
+   "source": "地质学名词",
+   "wordNumber": "14.03.103",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "晚期生成矿物(交代矿物)沿早期矿物(被交代矿物)的边缘、解理、裂隙等部位进行较轻度交代而形成的结构。其特点是交代矿物常呈尖楔状侵入被交代矿物中，或呈星散状分布于被交代矿物中。"
+  },
+  {
+   "cn": "溶滤作用",
+   "en": "leaching;dissolution",
+   "source": "地质学名词",
+   "wordNumber": "16.04.065",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "地下水与岩土相互作用,岩土中一部分物质转入地下水中的作用。分为溶解作用和水解作用。是地下水化学成分形成的主要作用之一。"
+  },
+  {
+   "cn": "沉淀-溶解",
+   "en": "precipitation-dissolution",
+   "source": "核科学技术名词",
+   "wordNumber": "2.31",
+   "subjectFullName": "核科学技术_核化学与放射化学_环境放射化学",
+   "subjectName": "环境放射化学",
+   "publishYear": "2024",
+   "definition": "当水与固体表面接触时，同时发生固体的风化和溶解的过程。在溶液中，固体矿物质被不断溶解直到达到平衡或者所有的矿物质被消耗，随后将导致矿物质的沉淀。矿物质的沉淀和溶解与溶液的温度、压力、盐度和酸度密切相关"
+  },
+  {
+   "cn": "胶原酶溶解术",
+   "en": "collagenase dissolution",
+   "source": "麻醉学名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "麻醉学_疼痛诊疗_慢性疼痛诊疗_微创治疗",
+   "subjectName": "微创治疗",
+   "publishYear": "2024",
+   "definition": "将胶原酶注入病变的椎间盘内或突出物的周围，依靠胶原酶分解胶原纤维的药理作用来溶解胶原组织，使突出物减小或消失，以缓解或消除其对神经组织的压迫，从而使患者的临床症状得到改善的一种技术。"
+  },
+  {
+   "cn": "关系解体",
+   "en": "relationship dissolution",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.052",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "因双方的交往行为出现差错而使人际关系走到终点的一种交往形态。"
+  },
+  {
+   "cn": "溶解动力学",
+   "en": "dissolution kinetics",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0151",
+   "subjectFullName": "地球物理学_地壳流体科学_水化学性质",
+   "subjectName": "水化学性质",
+   "publishYear": "2022",
+   "definition": "化学中，研究物质溶解的化学动力学过程的分支学科。 "
+  },
+  {
+   "cn": "阳极溶解",
+   "en": "anodic dissolution",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0006",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "金属作为阳极发生氧化反应的电极过程。"
+  },
+  {
+   "cn": "优先溶解",
+   "en": "preferred dissolution",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0029",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "多元合金在腐蚀过程中，只有电位较低的金属或相发生腐蚀或其腐蚀速率较大的现象。"
+  },
+  {
+   "cn": "电解造液",
+   "en": "electrolysis dissolution",
+   "source": "冶金学名词",
+   "wordNumber": "06.0635",
+   "subjectFullName": "冶金学_有色金属冶金_重有色金属冶金",
+   "subjectName": "重有色金属冶金",
+   "publishYear": "2019",
+   "definition": "控制电化学反应，使阳极金属溶解而阴极只析出氢，增加电解液中金属离子浓度的作业。"
+  },
+  {
+   "cn": "溶解",
+   "en": "dissolution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶解[作用]",
+   "en": "dissolution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "溶出度",
+   "en": "dissolution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "择优溶解",
+   "en": "preferred dissolution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "阳极溶解",
+   "en": "anodic dissolution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "溶解动力学",
+   "en": "dissolution kinetics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "溶解率",
+   "en": "dissolution rate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "溶解效应",
+   "en": "dissolution effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性克隆",
+   "en": "therapeutic cloning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "治疗景观",
+   "en": "therapeutic landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性抗血清",
+   "en": "therapeutic antiserum",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "治疗窗",
+   "en": "therapeutic window",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性配伍禁忌",
+   "en": "therapeutic incompatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗指数",
+   "en": "therapeutic index",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗作用",
+   "en": "therapeutic action",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共同治疗因素",
+   "en": "common therapeutic factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "透皮治疗系统",
+   "en": "transdermal therapeutic system",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗药物监测",
+   "en": "therapeutic drug monitoring",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重结晶氧化铝陶瓷",
+   "en": "dissolution-precipitation alumina ceramics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "药房和治疗委员会，药事委员会",
+   "en": "pharmacy and therapeutics committee",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性照射",
+   "en": "therapeutic exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射_医疗照射",
+   "subjectName": "医疗照射",
+   "publishYear": "2025",
+   "definition": "患者在治疗过程中所受到的照射。"
+  },
+  {
+   "cn": "治疗伦理",
+   "en": "therapeutic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.033",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床治疗过程中涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "治疗性沟通",
+   "en": "therapeutic communication",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在医务人员与患者及其家属之间，围绕患者的诊疗问题而进行的信息传递和交流过程。具有明确的目的性和专业性，其沟通内容是与疾病、健康有关的专业性知识及决策选择。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

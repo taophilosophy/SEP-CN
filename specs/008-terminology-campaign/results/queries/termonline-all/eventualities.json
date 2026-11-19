@@ -1,0 +1,42 @@
+{
+ "key": "eventualities",
+ "term": "eventualities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:14:25+00:00",
+ "status": "ok",
+ "note": "variant=eventualities; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "最终一致性",
+   "en": "eventual consistency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0090",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "复制型数据库中的一种弱一致性。只要求一个对象的全部副本的最后结果是相同的和正确的，而不要求其中间状态是一致的。"
+  },
+  {
+   "cn": "BASE理论",
+   "en": "BASE (basically available, soft state, eventual consistency) theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身与时舛，志共道申",
+   "en": "Although They Were out of Tune with the Times, Their Aspirations Were Eventually Made Known.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
