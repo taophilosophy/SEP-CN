@@ -18,6 +18,7 @@
 """
 import difflib
 import hashlib
+import html as htmllib
 import io
 import json
 import os
@@ -34,6 +35,7 @@ BLOCK_TAGS = ("h1|h2|h3|h4|h5|h6|p|ul|ol|li|div|blockquote|table|tr|td|th|"
               "caption|pre|figure|dl|dt|dd")
 BLK_RE = re.compile(r"</?(?:%s)\b[^>]*>" % BLOCK_TAGS)
 TOKEN_RE = re.compile(r"<!--.*?-->|<[^>]*>|[^<]+", re.S)
+WS_SPLIT_RE = re.compile(r"\s+|[^\s]+")
 WS_RE = re.compile(r"\s+")
 
 
@@ -68,36 +70,187 @@ def segments(s):
 
 
 def plain(text):
-    """文字段的无空白字符流（去标签、去空白与 &nbsp;，其余实体保留原形）。"""
-    t = re.sub(r"<[^>]*>", "", text)
-    t = t.replace("&nbsp;", "")
-    return WS_RE.sub("", t)
+    """文字段的无空白字符流（去标签、去空白，实体保留原形）。
+
+    &nbsp; 保留原形（6 字符计入坐标）：layout_items 的 piece 累计与
+    ent_spans 的 pos 必须同一坐标系，否则 tx 切片越界（98 件
+    "tx out of range" 判例）。&nbsp; 的空白语义由 _ws_decoded（unkey/
+    ent 等值判定）承载。"""
+    return WS_RE.sub("", re.sub(r"<[^>]*>", "", text))
 
 
 def ukey(text):
-    return plain(text)
+    """对齐键：剥标签＋解实体＋去空白（实体形态差不影响对齐）。"""
+    return WS_RE.sub("", htmllib.unescape(re.sub(r"<[^>]*>", "", text)))
+
+
+def _ws_decoded(s):
+    """解码实体并折叠空白（排版空白不算文字：&thinsp; 与空格视同等值）。
+
+    aesthetics-of-everyday 判例：H0 `&ldquo;&thinsp;&lsquo;` 对装配侧
+    `&ldquo; &lsquo;`——C 把 &thinsp; 折成空格，属格式层差，可入池。"""
+    return WS_RE.sub("", htmllib.unescape(s))
+
+
+ENT_TOK_RE = re.compile(r"&[A-Za-z#0-9]+;|[\s\S]")
 
 
 def seg_sha(s):
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:16]
 
 
-def layout_items(text):
-    """文字段布局：拆成 mk/tx 项，tx 以装配侧字符流的 [起,长] 引用。"""
+def _tok_spans(s):
+    """实体为原子 token 的 (起, 止, 文) 序列——字符级 diff 会把 `&thinsp;`
+    错切到分号外（`;&thinsp` 对 `` 判不等），实体原子化后不会。"""
+    return [(m.start(), m.end(), m.group(0))
+            for m in ENT_TOK_RE.finditer(s)]
+
+
+def ent_spans(raw_a, raw_b):
+    """两段原文的实体形态差 → [[pos, 原形, 新形]]（解码后等值才可入账）。
+
+    返回 None 表示差值含真实文字（不可入池）。空白类差（&thinsp; 等）按
+    排版空白等值处理，记入补丁由装配侧回写。"""
+    if raw_a == raw_b:
+        return []
+    if _ws_decoded(raw_a) != _ws_decoded(raw_b):
+        return None
+    ta, tb = _tok_spans(raw_a), _tok_spans(raw_b)
+    ka = [x[2] for x in ta]
+    kb = [x[2] for x in tb]
+    sm = difflib.SequenceMatcher(None, ka, kb, autojunk=False)
+    out = []
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == "equal":
+            continue
+        pos = ta[i1][0] if i1 < len(ta) else len(raw_a)
+        before = raw_a[ta[i1][0]:ta[i2 - 1][1]] if i2 > i1 else ""
+        after = raw_b[tb[j1][0]:tb[j2 - 1][1]] if j2 > j1 else ""
+        if _ws_decoded(before) != _ws_decoded(after):
+            return None
+        out.append([pos, before, after])
+    return out
+
+
+def _ent_marks(es):
+    """实体差 → b 流区间表 [(b_start, b_end, a_pos, len_before, after)]。"""
+    marks, acc = [], 0
+    for pos, before, after in sorted(es or [], key=lambda e: e[0]):
+        b_start = pos + acc
+        marks.append((b_start, b_start + len(after), pos, len(before), after))
+        acc += len(after) - len(before)
+    return marks
+
+
+def _b_to_a(y, marks):
+    """b 流坐标 → a 流（装配侧 plain）坐标；插入段内部映射到插入点。"""
+    x = y
+    for b_start, b_end, a_pos, lb, _a in marks:
+        if y < b_start:
+            break
+        if y < b_end:
+            return a_pos
+        x -= (b_end - b_start) - lb
+    return x
+
+
+def layout_items(text, es=None):
+    """文字段布局：mk（标记、空白、实体差异片段）＋ tx（引装配侧 plain 流切片）。
+
+    实体形态差按 b 流区间切开：after 片段直接以 mk 落地，被 before 覆盖的
+    a 侧片段自然不被任何 tx 引用。"""
+    marks = _ent_marks(es)
     items, pos = [], 0
     for m in TOKEN_RE.finditer(text):
         tk = m.group(0)
         if tk.startswith("<"):
             items.append(["mk", tk])
             continue
-        n = len(WS_RE.sub("", tk))
-        items.append(["tx", pos, n])
-        pos += n
+        for sm in WS_SPLIT_RE.finditer(tk):
+            piece = sm.group(0)
+            if piece.isspace():
+                # 空白是布局不是文字（H0 的段间空行、缩进、词间空格形态）
+                items.append(["mk", piece])
+                continue
+            y0, y1 = pos, pos + len(piece)
+            y = y0
+            for b_start, b_end, a_pos, lb, after in marks:
+                if b_end <= y:
+                    continue
+                if b_start >= y1:
+                    break
+                seg_end = min(b_start, y1)
+                if seg_end > y:
+                    a0, a1 = _b_to_a(y, marks), _b_to_a(seg_end, marks)
+                    if a1 > a0:
+                        items.append(["tx", a0, a1 - a0])
+                items.append(["mk", after])
+                y = max(y, b_end)
+            if y < y1:
+                a0, a1 = _b_to_a(y, marks), _b_to_a(y1, marks)
+                if a1 > a0:
+                    items.append(["tx", a0, a1 - a0])
+            pos = y1
     return items
 
 
+def _sub_diff(A, B, offA, a_lo, a_hi, b_lo, b_hi, patches):
+    """区间内二级对齐：raw 段键 difflib → 非 equal 块生成 u/r 补丁。
+
+    区间内文字流已对齐（token 级相同），块级键流检查仍按 ukey 硬校验；
+    返回 False 即文字层差异（拒录）。"""
+    ka = [(k, t) for k, t in A[a_lo:a_hi]]
+    kb = [(k, t) for k, t in B[b_lo:b_hi]]
+    sm = difflib.SequenceMatcher(None, ka, kb, autojunk=len(ka) > 4000)
+    ops = list(sm.get_opcodes())
+    i = 0
+    while i < len(ops):
+        tag, i1, i2, j1, j2 = ops[i]
+        if tag == "equal":
+            i += 1
+            continue
+        ai1, ai2 = a_lo + i1, a_lo + i2
+        bj1, bj2 = b_lo + j1, b_lo + j2
+        # 贪心合并：raw 段键对齐会把“A 一段 = B 多段”切成半截（c14 判例），
+        # 块内 ukey 流不等时向后吞并相邻块（含 equal），直到文字流相等
+        while True:
+            ua = "".join(ukey(t) for k, t in A[ai1:ai2] if k == "u")
+            ub = "".join(ukey(t) for k, t in B[bj1:bj2] if k == "u")
+            if ua == ub:
+                break
+            i += 1
+            if i >= len(ops):
+                return False
+            ai2 = a_lo + ops[i][2]
+            bj2 = b_lo + ops[i][4]
+        a_txt = "".join(t for _, t in A[ai1:ai2])
+        b_txt = "".join(t for _, t in B[bj1:bj2])
+        i += 1
+        if a_txt == b_txt:
+            continue
+        start = offA[ai1] if ai1 < len(A) else offA[-1] + len(A[-1][1])
+        if not ua:
+            patches.append({"r": start, "len": len(a_txt),
+                            "sha": seg_sha(a_txt), "after": b_txt})
+            continue
+        es = ent_spans(plain(a_txt), plain(b_txt))
+        if es is None:
+            return False
+        patches.append({"u": start, "len": len(a_txt), "sha": seg_sha(a_txt),
+                        "items": layout_items(b_txt, es)})
+    return True
+
+
 def diff_page(assembled, target):
-    """→ (patches, gap)；gap 非空＝文字层差异（不可入池）。"""
+    """→ (patches, gap)；gap 非空＝文字层差异（不可入池）。
+
+    段对齐模型（P1 的区间形态）：
+    ① 段数相同时逐段比较（绝大多数件，O(n)）：m 段原文替换、u 段按 ukey
+       等值 + 实体差入账；某对文字不等即整页回退到 ②。
+    ② 整页 raw 段键 difflib：非 equal 块整段替换，块内 ukey 流不等时贪心
+       向后吞并相邻块（段落分合、松散列表 <li><p>、dl、多段合并等边界错位），
+       文字流相等才入池；纯布局差走 r 补丁。区间按段索引顺序推进，互不
+       重叠（重叠会让先应用的补丁改动后续区间，sha 失配）。"""
     A = segments(assembled)
     B = segments(target)
     offA = []
@@ -105,93 +258,75 @@ def diff_page(assembled, target):
     for _, t in A:
         offA.append(acc)
         acc += len(t)
-    ia = [i for i, (k, _) in enumerate(A) if k == "u"]
-    ib = [i for i, (k, _) in enumerate(B) if k == "u"]
-    ka = [ukey(A[i][1]) for i in ia]
-    kb = [ukey(B[i][1]) for i in ib]
     patches = []
-    if ka == kb:
-        # 快路：文字键序列完全相同（绝大多数件）——无需序列对齐
-        for d in range(len(ia)):
-            a_at, b_at = ia[d], ib[d]
-            ta, tb = A[a_at][1], B[b_at][1]
+    if len(A) == len(B):
+        ok = True
+        for i in range(len(A)):
+            (ka_, ta), (kb_, tb) = A[i], B[i]
             if ta == tb:
                 continue
-            patches.append({"u": offA[a_at], "len": len(ta),
-                            "sha": seg_sha(ta), "items": layout_items(tb)})
-        if len(A) == len(B):
-            for i in range(len(A)):
-                if A[i][0] == "m" and B[i][0] == "m" and A[i][1] != B[i][1]:
-                    patches.append({"m": offA[i], "len": len(A[i][1]),
-                                    "sha": seg_sha(A[i][1]), "after": B[i][1]})
+            if ka_ == "m" and kb_ == "m":
+                patches.append({"m": offA[i], "len": len(ta),
+                                "sha": seg_sha(ta), "after": tb})
+                continue
+            if ka_ != "u" or kb_ != "u" or ukey(ta) != ukey(tb):
+                ok = False
+                break
+            es = ent_spans(plain(ta), plain(tb))
+            if es is None:
+                ok = False
+                break
+            patches.append({"u": offA[i], "len": len(ta),
+                            "sha": seg_sha(ta),
+                            "items": layout_items(tb, es)})
+        if ok:
+            return patches, None
+        patches = []
+    if _sub_diff(A, B, offA, 0, len(A), 0, len(B), patches):
         return patches, None
-    sm = difflib.SequenceMatcher(None, ka, kb, autojunk=len(ka) > 2000)
-    for tag, i1, i2, j1, j2 in sm.get_opcodes():
-        if tag == "equal":
-            for d in range(i2 - i1):
-                a_at, b_at = ia[i1 + d], ib[j1 + d]
-                ta, tb = A[a_at][1], B[b_at][1]
-                if ta == tb:
-                    continue
-                if plain(ta) != plain(tb):
-                    return None, {"why": "unit text mismatch",
-                                  "asm": ta[:220], "tgt": tb[:220]}
-                patches.append({"u": offA[a_at], "len": len(ta),
-                                "sha": seg_sha(ta),
-                                "items": layout_items(tb)})
+    return None, {"why": "unaligned text units", "asm": assembled[:220],
+                  "tgt": target[:220]}
+
+
+def _rebuild(items, base):
+    """按布局项重建文字段：mk 原样，tx 引 base（装配侧 plain 流）切片。
+
+    实体形态差已由 layout_items 折进 mk（after 片段）与 tx 的 a 侧区间
+    选择，故此层无额外状态；切片越界即补丁与文字流不符，报 PatchMiss。"""
+    out = []
+    for it in items:
+        if it[0] == "mk":
+            out.append(it[1])
             continue
-        a_lo = ia[i1 - 1] + 1 if i1 > 0 else 0
-        a_hi = ia[i2] if i2 < len(ia) else len(A)
-        b_lo = ib[j1 - 1] + 1 if j1 > 0 else 0
-        b_hi = ib[j2] if j2 < len(ib) else len(B)
-        if any(ka[i1:i2]) or any(kb[j1:j2]):
-            return None, {"why": "unaligned text units (%d/%d)" % (
-                i2 - i1, j2 - j1),
-                "asm": "".join(x for _, x in A[a_lo:a_hi])[:220],
-                "tgt": "".join(x for _, x in B[b_lo:b_hi])[:220]}
-        a_txt = "".join(x for _, x in A[a_lo:a_hi])
-        b_txt = "".join(x for _, x in B[b_lo:b_hi])
-        patches.append({"r": offA[a_lo] if a_lo < len(A) else len(assembled),
-                        "len": len(a_txt), "sha": seg_sha(a_txt),
-                        "after": b_txt})
-    if len(A) == len(B):
-        for i in range(len(A)):
-            if A[i][0] == "m" and B[i][0] == "m" and A[i][1] != B[i][1]:
-                patches.append({"m": offA[i], "len": len(A[i][1]),
-                                "sha": seg_sha(A[i][1]), "after": B[i][1]})
-    return patches, None
+        st, ln = it[1], it[2]
+        if st < 0 or st + ln > len(base):
+            raise PatchMiss("tx out of range")
+        out.append(base[st:st + ln])
+    return "".join(out)
 
 
 def apply_patches(text, patches):
-    segs = segments(text)
-    for p in sorted([x for x in patches if "r" in x], key=lambda x: -x["r"]):
-        i, n = p["r"], p["n"]
-        if i > len(segs) or i + n > len(segs):
-            raise PatchMiss("r out of range")
-        if seg_sha("".join(x for _, x in segs[i:i + n])) != p["sha"]:
-            raise PatchMiss("r segment hash mismatch at %d" % i)
-        segs[i:i + n] = [("m", p["after"])]
+    """补丁一律按**字符偏移**降序应用（位移安全，m/u/r 同模型）。
+
+    旧实现混用段索引与字符偏移，且 r 分支取 p["n"]（补丁里根本没有该键）
+    ——r 与 m/u 并存时必错位。现统一：每补丁记 [偏移, 长度, 原形哈希]，
+    校验哈希后整段替换。u 补丁的覆盖区间可跨标记段（松散列表、多段合并
+    等布局族），前提是区间文字键流拼接相等（P1 的区间形态）。"""
+    ops = []
     for p in patches:
-        if "m" in p:
-            i = p["m"]
-            if i >= len(segs) or segs[i][0] != "m" or \
-                    seg_sha(segs[i][1]) != p["sha"]:
-                raise PatchMiss("m slot %d mismatch" % i)
-            segs[i] = ("m", p["after"])
-        elif "u" in p:
-            i = p["u"]
-            if i >= len(segs) or segs[i][0] != "u" or \
-                    seg_sha(segs[i][1]) != p["sha"]:
-                raise PatchMiss("u slot %d mismatch" % i)
-            base = plain(segs[i][1])
-            out = []
-            for it in p["items"]:
-                if it[0] == "mk":
-                    out.append(it[1])
-                else:
-                    out.append(base[it[1]:it[1] + it[2]])
-            segs[i] = ("u", "".join(out))
-    return "".join(x for _, x in segs)
+        key = "u" if "u" in p else ("r" if "r" in p else "m")
+        ops.append((p[key], key, p))
+    for start, key, p in sorted(ops, key=lambda x: -x[0]):
+        ln = p.get("len", 0)
+        if start < 0 or start + ln > len(text):
+            raise PatchMiss("%s out of range at %d" % (key, start))
+        seg = text[start:start + ln]
+        if seg_sha(seg) != p["sha"]:
+            raise PatchMiss("%s segment hash mismatch at %d" % (key, start))
+        new = (_rebuild(p["items"], plain(seg))
+               if key == "u" else p["after"])
+        text = text[:start] + new + text[start + ln:]
+    return text
 
 
 def pool_path(slug):

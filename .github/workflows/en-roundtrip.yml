@@ -67,6 +67,16 @@ jobs:
             | tail -n 40 | tee "$RUNNER_TEMP/assembly.log" || true
           test -f "$RUNNER_TEMP/assembly-scan.json" && echo "ok=1" >> "$GITHUB_OUTPUT" || echo "ok=0" >> "$GITHUB_OUTPUT"
 
+      - name: ③′ B3.2 页面级判定（只读判官，约 10 分钟）
+        id: page
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python -u specs/053-en-template-audit/bin/page_assemble.py --all \
+            --out "$RUNNER_TEMP/page-scan.json" 2>&1 \
+            | tail -n 20 | tee "$RUNNER_TEMP/page.log" || true
+          test -f "$RUNNER_TEMP/page-scan.json" && echo "ok=1" >> "$GITHUB_OUTPUT" || echo "ok=0" >> "$GITHUB_OUTPUT"
+
       - name: ④ 与基线对比（变动＝差集）
         id: drift
         if: always() && steps.assemble.outputs.ok == '1'
@@ -77,6 +87,8 @@ jobs:
             --baseline specs/053-en-template-audit/results/assembly-scan-all.json \
             --divergence "$RUNNER_TEMP/divergence.json" \
             --fidelity "${{ steps.fidelity.outputs.code }}" \
+            --page "$RUNNER_TEMP/page-scan.json" \
+            --page-baseline specs/053-en-template-audit/results/page-scan-all.json \
             --json "$RUNNER_TEMP/drift.json" --md "$RUNNER_TEMP/drift.md" --quiet
 
       - name: 归档报告
@@ -91,6 +103,8 @@ jobs:
             ${{ runner.temp }}/fidelity.txt
             ${{ runner.temp }}/assembly.log
             ${{ runner.temp }}/assembly-scan.json
+            ${{ runner.temp }}/page.log
+            ${{ runner.temp }}/page-scan.json
           if-no-files-found: ignore
 
       - name: 有变动时创建或更新 Issue
@@ -107,11 +121,11 @@ jobs:
                  --json number --jq '.[0].number' 2>/dev/null || true)
           {
             echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
-            echo "核验链：en 钉（divergence verify）→ I2 正向重放（fidelity --gate）→ B3.1 逆向装配（reassemble --all）"
+            echo "核验链：en 钉（divergence verify）→ I2 正向重放（fidelity --gate）→ B3.1 逆向装配（reassemble --all）→ B3.2 页面判定（page_assemble --all）"
             echo
             if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无对比报告）"; fi
             echo
-            echo "**口径**：变动＝与 `specs/053-en-template-audit/results/assembly-scan-all.json`（基线）的差集；已知残差不重复报告。"
+            echo "**口径**：变动＝与 `specs/053-en-template-audit/results/assembly-scan-all.json`（B3.1 基线）与 `results/page-scan-all.json`（B3.2 基线）的差集；已知残差不重复报告。"
             echo "**只读原则**：本工作流不写 baseline、不改 en//yuanwen/；落地由本地会话按 specs/053 W7–W12 与四出口处理。"
           } > "$RUNNER_TEMP/issue-body.md"
           if [ -n "$NUM" ]; then

@@ -92,7 +92,9 @@ def assemble(lib, slug):
     md0 = io.open(md_path, encoding="utf-8").read().rstrip("\n")
     authors = [ra.html_unescape(a) for a in (rec.get("meta_authors") or [])]
     _t, flat = ra.reassemble_article(md0, authors, led.get("entities"),
-                                     led.get("links"), led.get("greek"))
+                                     led.get("links"), led.get("greek"),
+                                     led.get("italics"), led.get("greek_form"),
+                                     led.get("note_forms"))
     miss = ra.link_misses()
     art = AB.build(flat, led)
     if art is None:
@@ -166,6 +168,15 @@ def build_pool(lib, slug, dry=False):
                 "sample": {"asm": (gap.get("asm") or "")[:240],
                            "tgt": (gap.get("tgt") or "")[:240]}}
     pb = POOL.pool_bytes(good)
+    # 自洽门：补丁必须能就地再生 H0（写坏池前拦下；judge 侧另有同式校验）
+    try:
+        if POOL.apply_patches(page, good) != h0:
+            return {"slug": slug, "status": "gap", "why": "apply verify failed",
+                    "page_len": len(h0),
+                    "sample": {"asm": page[:240], "tgt": h0[:240]}}
+    except POOL.PatchMiss as ex:
+        return {"slug": slug, "status": "gap",
+                "why": "patch miss: %s" % ex, "page_len": len(h0)}
     if not dry:
         POOL.write_pool(slug, good, {
             "page_bytes": len(page), "pool_bytes": pb,

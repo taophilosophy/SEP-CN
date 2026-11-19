@@ -123,24 +123,75 @@ def _cut_region(s, start_pat, end_pat):
     return s[:m1.start()] + s[m1.end() + (m2.end() if m2 else 0):]
 
 
-def extract_links(art_inner):
-    """C 丢弃的内部链接（跨词条 `../slug/`、页内 `#anchor`），文档序。
+def _count_word(text, needle):
+    """同 R 侧一致的出现计数（词界判定），用于定义“第 n 次出现”。"""
+    if not needle:
+        return 0
+    pat = "(?<![A-Za-z0-9])" + re.escape(needle) + "(?![A-Za-z0-9])"
+    return len(re.findall(pat, text))
 
-    扫描域＝正文区（剔 TOC／学术工具／相关条目三块——它们各有专用账）。"""
+
+def extract_links(art_inner):
+    """C 丢弃的内部链接（跨词条 ../slug/、页内 #anchor），文档序＋出现序。
+
+    扫描域＝正文区（剔 TOC／学术工具／相关条目三块——它们各有专用账）。
+    nth＝该锚文在本文可见文字流中的第几次出现（0 基），R 按此定位，
+    避免同文多处时把链接挂错位置（advance-directives 判例）。"""
     s = art_inner
-    s = _cut_region(s, r'<div id="toc"', r'</div>\s*(?=<div id="main-text">)')
-    s = _cut_region(s, r'<div id="academic-tools"', r'</div>')
-    s = _cut_region(s, r'<div id="related-entries"', r'</div>')
+    s = _cut_region(s, '<div id="toc"', '</div>' + chr(92) + 's*(?=<div id="main-text">)')
+    s = _cut_region(s, '<div id="academic-tools"', '</div>')
+    s = _cut_region(s, '<div id="related-entries"', '</div>')
     out = []
-    for m in re.finditer(r'<a href="([^"]*)">(.*?)</a>', s, re.S):
+    for m in re.finditer('<a href="([^"]*)">(.*?)</a>', s, re.S):
         href, inner = m.group(1), m.group(2)
         if href.startswith(("http://", "https://", "notes.html#")):
             continue
         if not (href.startswith("../") or href.startswith("#")):
             continue
-        text = htmllib.unescape(re.sub(r"<[^>]*>", "", inner)).strip()
-        if text:
-            out.append({"text": text, "href": href})
+        text = htmllib.unescape(re.sub("<[^>]*>", "", inner)).strip()
+        if not text:
+            continue
+        prefix = htmllib.unescape(re.sub("<[^>]*>", "", s[:m.start()]))
+        out.append({"text": text, "href": href, "nth": _count_word(prefix, text)})
+    return out
+
+
+def extract_italics(art_inner):
+    """按件斜体标签形：H0 全用 <i> 时记 "i"（C 把 <em>/<i> 同归一为 *…*）。"""
+    BS = chr(92)
+    n_i = len(re.findall("<i[" + BS + "s>]", art_inner))
+    n_em = len(re.findall("<em[" + BS + "s>]", art_inner))
+    return "i" if n_i and not n_em else None
+
+
+def extract_greek_form(art_inner):
+    """按件希腊字形态：H0 用 <em>&alpha;</em> 而非宏时记 "em"。"""
+    BS = chr(92)
+    rng = "[" + chr(0x370) + "-" + chr(0x3ff) + "]"
+    n_ent = len(re.findall("<em>" + BS + "s*&[A-Za-z]+;" + BS + "s*</em>", art_inner))
+    n_uni = len(re.findall("<em>" + BS + "s*" + rng + BS + "s*</em>", art_inner))
+    n_macro = len(re.findall("[(]" + BS + BS + "[A-Za-z]+[)]", art_inner))
+    return "em" if (n_ent or n_uni) and not n_macro else None
+
+
+def extract_note_forms(art_inner):
+    """脚注引用形账：H0 全部 `notes.html#note-N` 引用按**文档序**记列表。
+
+    同一 note 键可既有规范脚注又有散文原形（agent-modeling 判例），且 md
+    的 `[^note-N]` 出现序＝H0 引用序（C 保序），故全量记账、R 侧游标逐个
+    消费：规范形记 form=None（R 出默认 sup 形），散文原形记原片段。
+    规范形判据：前缀 `<sup>[` 且锚文＝N（带 id 属性亦算规范，属性差由
+    标记层补丁吸收）。"""
+    out = []
+    for m in re.finditer(
+            r'<a href="notes\.html#note-([^"]+)"[^>]*>(.*?)</a>', art_inner,
+            re.S):
+        n, inner = m.group(1), m.group(2)
+        pre = art_inner[max(0, m.start() - 40):m.start()]
+        if re.search(r"<sup>\[$", pre) and inner.strip() == n:
+            out.append({"n": n, "form": None})
+        else:
+            out.append({"n": n, "form": m.group(0)})
     return out
 
 
@@ -156,8 +207,12 @@ SUB_MAP = getattr(__import__("yuanwen"), "SUB_MAP", {})
 
 
 def norm_md(s):
-    """md 定义行 → 可见文（去链接包裹/星号/上下标字形）。"""
-    t = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\([^)]*\)", r"\1", s)
+    """md 定义行 → 可见文（去链接包裹/星号/上下标字形）。
+
+    URL 可含一级圆括号（`ERInt.2013(1(2)).pdf` 实证，al-farabi-logic 文献
+    条目匹配失败判例），故 URL 组允许括号对。"""
+    t = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
+               r"\(((?:[^()\s]|\([^()]*\))*)\)", r"\1", s)
     t = t.replace("*", "")
     rev = {v: k for k, v in list(SUP_MAP.items()) + list(SUB_MAP.items())}
     if rev:
@@ -232,7 +287,7 @@ def scan_bib(region):
 def _tree_nodes(inner, md_plain, used):
     """ul 内层 → [{i, u, c}] 节点表（i＝md 定义序，u＝子 ul 属性，c＝子节点）。
 
-    父项匹配用「剥净嵌套 ul 后的本层文字」——否则子项文字混入父项可见文。"""
+    父项匹配用“剥净嵌套 ul 后的本层文字”——否则子项文字混入父项可见文。"""
     nodes = []
     for attrs, sub in split_items(inner):
         kids = []
@@ -479,20 +534,31 @@ def extract(art_inner, md=None):
     # 相关条目
     rel = re.search(r'<div id="related-entries">.*?<p>(.*?)</p>', art_inner, re.S)
     if rel:
-        links = []
-        for m in re.finditer(
-                r'<!--<a href="([^"]*)">-->(.*?)<!--</a>-->|<a href="([^"]*)">(.*?)</a>',
-                rel.group(1)):
-            if m.group(1) is not None:
-                links.append({"href": m.group(1),
-                              "text": htmllib.unescape(m.group(2)),
-                              "dead": True})
-            else:
-                links.append({"href": m.group(3),
+        items = []
+        for part in re.split(r"\s*\|\s*", rel.group(1)):
+            part = part.strip()
+            if not part:
+                continue
+            m = re.match(r'<!--<a href="([^"]*)">-->(.*?)<!--</a>-->',
+                         part, re.S)
+            if m:
+                items.append({"kind": "dead", "href": m.group(1),
                               "text": htmllib.unescape(
-                                  re.sub(r"<[^>]*>", "", m.group(4))),
-                              "dead": False})
-        led["rel_links"] = links
+                                  re.sub(r"<[^>]*>", "", m.group(2)))})
+                continue
+            m = re.match(r'<a href="([^"]*)"[^>]*>(.*?)</a>', part, re.S)
+            if m:
+                items.append({"kind": "a", "href": m.group(1),
+                              "text": htmllib.unescape(
+                                  re.sub(r"<[^>]*>", "", m.group(2)))})
+                continue
+            # 无链接项（上游本就未链接的关注条目，aesthetics-race 实证七处）
+            items.append({"kind": "text",
+                          "text": htmllib.unescape(
+                              re.sub(r"<[^>]*>", "", part))})
+        led["rel_items"] = items
+        # 尾随竖线（aesthetics-race 判例：H0 末项后仍有 ` |`）
+        led["rel_trailing"] = bool(re.search(r"\|\s*$", rel.group(1)))
     # 学术工具图标
     acad = re.search(r'<table class="vert-top">(.*?)</table>', art_inner, re.S)
     if acad:
@@ -510,6 +576,15 @@ def extract(art_inner, md=None):
         led["greek"] = gk
     led["entities"] = extract_entities(art_inner)
     led["links"] = extract_links(art_inner)
+    it = extract_italics(art_inner)
+    if it:
+        led["italics"] = it
+    gf = extract_greek_form(art_inner)
+    if gf:
+        led["greek_form"] = gf
+    nf = extract_note_forms(art_inner)
+    if nf:
+        led["note_forms"] = nf
     toc = extract_toc(art_inner)
     if toc:
         led["toc_block"] = toc
@@ -544,7 +619,7 @@ def main(argv=None):
             if os.path.exists(mp):
                 md = io.open(mp, encoding="utf-8").read()
         led = extract(inner_article(t), md)
-        if not led.get("bib_groups") and not led.get("rel_links"):
+        if not led.get("bib_groups") and not led.get("rel_items"):
             n_no += 1
         entries[d] = led
     sys.stderr.write("[ledger] %d 件；缺区段 %d\n" % (len(entries), n_no))

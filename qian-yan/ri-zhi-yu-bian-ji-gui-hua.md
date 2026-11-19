@@ -248,3 +248,10 @@
 * **清洗执行**（批量改写纪律全走）：先 JWT 补爬 6 行仅 standard 凭证的人名（Thomas of Erfurt／Tuck, Eve／Turner, Dale／Watsuji Tetsurō／William of Champeaux／Yang, Wayne，ok 6／error 0，命中全噪音维持查无）→ `script/tmp/clean_pending_basis.py` 逐行删除 stale 子句（子句级，其余文字不动）＋按 audit 状态追加实测结论（查无→“审定库无相关命中（termonline-all 凭证 <date>）”／一致→一致／不一致→不一致）→ 前置门（凭证在位且状态相容、行内身份核对、清理后无 stale、全局残余扫描）197/197 过零失败才写回 → 追加边界尾随空格瑕疵 manifest 驱动二次修复（197 行，主脚本 rstrip 修正供复用）。manifest 落 `results/basis-cleanup-2026-11-20.json`（每行新旧依据对照）。
 * **验证**：残余复扫 0；四态不变 1984/948/8838（依据列编辑不入四态）；check_terms 硬错误 0；check_all 17 项全绿；提交 5b0d37e54 推送一次落地。
 * **口径沉淀**：查无主体是合规终态（审定库未收录哲学术语/人名属预期，依据档位②③在案），不可为归零而清洗——清洗的判据是**依据列与凭证事实不符**（stale 标记），不是查无状态本身。
+## 2026-11-20 B3.2 第二批：区间补丁模型落地（specs/053，用户“批准继续”续批）
+
+* **引擎升级**：判定从“单元一一对应”改**区间补丁模型**——段落分合、松散列表 `<li><p>`、`dl`、引块内 `p` 等边界错位不再整块拒录：块内文字键流（ukey 拼接）相等即生成区间 `u` 补丁（文字全取装配侧流、布局照目标重建，A5 谓词的区间形态）。对齐域改 raw 段键 difflib＋块内贪心合并（向后吞到文字流相等）；补丁应用统一**字符偏移降序**（旧 r 分支取不存在的 `p["n"]` 键，从未触发即错位的隐患被拔掉）；`--build` 写盘前就地应用补丁核对逐字节再生（自洽门）。
+* **R／账新规则（判例驱动）**：图片逆写 `![alt](../assets/…)`→`<img src alt />`；词内开星（`P*hilosophy of History and Action*`）与 `(*)` 记号星不开星／`[*'Uyūn* 604f]` 照常开星；内部链接改文档序游标（旧 nth 语义遇嵌套锚文重叠插出 `<a>[Section 3](#Or</a>igSyllArts)`）；脚注引用形账 note_forms 全量记账＋游标消费（同一键既有规范 sup 又有 `footnote 14` 散文形）；rel_items 含无链接纯文字项＋尾随竖线；表位形与 R 格位一一消费（空位占一个 cell 位，此前 `<th>High</th>` 被挤掉）；norm_md 支持 URL 一级圆括号（`ERInt.2013(1(2)).pdf` 使条目定位失败整条被吞）；账内定位失败按“前一索引＋1”兜底。
+* **实测**：chrome 1,873/1,873 不变；页面级 **池 878（46.9%）／缺口 995**，池占页 **20.80%**（T7：规则承载 79.2% 字节，大头是区间补丁的标签＋空白布局，按 ADR-0077 决策 5 如实同报）。缺口 995 全部为 unaligned text units（真文字差或合并至末尾仍不等），逐族处置转后续批。**judge 全库复扫 878/0 stale**（判定与建池完全一致，P2/P3 全过）。B3.1 回归 **1,435/1,873（76.6%）**（此前 1,240，＋195，无回退）。
+* **坐标系统一教训**：plain() 剥 `&nbsp;` 而 layout_items 的 piece 累计不剥，坐标系差一处即 98 件 `tx out of range`——修法是 plain 保留实体原形；试金石先行（11 个合成用例覆盖段分合／thinsp／括号星／dl↔ul／真文字差拒录）再上全库，省掉三轮全库返工。
+* **CI**：B3.2 判定（judge 只读）挂 en-roundtrip.yml ③′ 步，roundtrip_drift.py 升 v2（--page/--page-baseline 差集：页面转差／转好／增删并入同一 issue），基线 `results/page-scan-all.json` 提交；rules/05/ci-workflows.md 同步。

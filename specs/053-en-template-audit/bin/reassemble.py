@@ -68,7 +68,14 @@ _EM = None  # 按件实体策略（codepoint → 实体串）；reassemble_artic
 _GREEK = None  # 按件希腊宏账（同形字 phi/varphi 按出现序），入口设置
 _GREEK_IDX = {}
 _LINKS = None  # 按件内部链接账（[{text,href}]，文档序）；C 丢弃的内部链接由此还原
-_LINKS_USED = None  # 已消费计数（按 text 出现序）
+_LINKS_USED = None  # 已消费标记
+_LINK_SEEN = None  # 各锚文已过历的词界出现次数（旧 nth 定位，已弃用）
+_LINK_IDX = None  # 文档序游标：下一条待消费的链接账条目
+_ITAL = "em"  # 按件斜体标签名（em/i）
+_GREEK_FORM = None  # 按件希腊字形态："em" 表示 <em>&alpha;</em> 而非宏
+_NOTE_FORMS = None  # 按件非规范脚注引用形（文档序列表 [{n, form}]）
+_NOTE_IDX = [0]  # note_forms 消费游标（跨行持续；reassemble_article 重置）
+_NOTE_SEEN = {}  # 已按规范形输出的键计数（游标跳过判据）
 
 
 def _stripped_map(s):
@@ -94,45 +101,52 @@ def _stripped_map(s):
     return "".join(out), pos
 
 
+def _occ_positions(flat, t):
+    pat = "(?<![A-Za-z0-9])" + re.escape(t) + "(?![A-Za-z0-9])"
+    return [m.start() for m in re.finditer(pat, flat)]
+
+
 def restore_links(line):
-    """在 md 行内按账还原内部链接：把第 n 次出现的锚文包成 [text](href)。"""
+    """按账还原内部链接：**文档序游标**（账序＝H0 文档序）。
+
+    旧法按“锚文第 nth 次词界出现”定位，遇嵌套锚文会重叠插入：H0 三处
+    链接 `Section 3`／`Section 3`／`Section 3 above` 而 md 三处可见文皆
+    为 `Section 3 above`，旧法把第 1 处同时判给前两条，产出
+    `<a>[Section 3](#Or</a>igSyllArts)`（al-farabi-logic 判例）。改为顺序
+    推进：每条从本行已消费位置之后取首个词界出现，账序与文序同时对位。
+    """
+    global _LINK_IDX
     if not _LINKS:
         return line
-    for li, lk in enumerate(_LINKS):
+    flat, pos = _stripped_map(line)
+    picks = []
+    ceiling = 0
+    j = _LINK_IDX or 0
+    while j < len(_LINKS):
+        lk = _LINKS[j]
         t = lk.get("text") or ""
-        if not t or li in _LINKS_USED:
+        if not t:
+            j += 1
             continue
-        flat, pos = _stripped_map(line)
-        nth = _LINKS_USED.get(("n", t), 0)
-        k = -1
-        for _ in range(nth + 1):
-            k = flat.find(t, k + 1)
-            if k < 0:
+        st = None
+        for cand in _occ_positions(flat, t):
+            if cand >= ceiling:
+                st = cand
                 break
-        if k < 0:
-            continue
-        a, b = pos[k], pos[k + len(t) - 1] + 1
-        line = line[:a] + "[%s](%s)" % (line[a:b], lk["href"]) + line[b:]
-        _LINKS_USED[li] = True
-        _LINKS_USED[("n", t)] = nth + 1
+        if st is None:
+            break  # 本条不在本行（或在已消费区之前）——留待后续行
+        picks.append((st, st + len(t), j, lk))
+        ceiling = st + len(t)
+        j += 1
+    _LINK_IDX = j
+    for st, en, idx, lk in sorted(picks, key=lambda x: -x[0]):
+        a, b = pos[st], pos[en - 1] + 1
+        # 锚文里的字面星须转义：H0 有锚文 `(*)`／`(*) in Section 5 above`
+        # （al-farabi-logic 判例），裸星会被星解析器当强调吃掉
+        seg = line[a:b].replace("*", "\\*")
+        line = line[:a] + "[" + seg + "](" + lk["href"] + ")" + line[b:]
+        _LINKS_USED[idx] = True
     return line
-
-
-def encode_outside_math(s, policy):
-    """文本层非 ASCII 字符按件内实体形态回写；`\\(…\\)`/`\\[…\\]` 段原样保留。"""
-    if not policy:
-        return s
-    keep = []
-
-    def st(m):
-        keep.append(m.group(0))
-        return "\x03%d\x03" % (len(keep) - 1)
-
-    s = re.sub(r"\\\([^)]*\\\)|\\\[[^\]]*\\\]|\x02\d+\x02", st, s)
-    s = "".join(policy.get(c, c) for c in s)
-    for i, v in enumerate(keep):
-        s = s.replace("\x03%d\x03" % i, v)
-    return s
 
 
 def _unsubsup(s, rev, tag):
@@ -145,11 +159,23 @@ def _unsubsup(s, rev, tag):
         return "<%s>%s</%s>" % (tag, "".join(rev[c] for c in m.group(0)), tag)
     return re.sub("[%s]+" % cls, rep, s)
 
-FIXED_NOTE = ("原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，"
-              "完整条目见本文末脚注定义。")
 
+def encode_outside_math(s, policy):
+    """文本层非 ASCII 字符按件内实体形态回写；数学段与占位公式原样保留。"""
+    if not policy:
+        return s
+    keep = []
 
-# ------------------------------------------------------------ inline 逆写 --
+    def st(m):
+        keep.append(m.group(0))
+        return chr(3) + str(len(keep) - 1) + chr(3)
+
+    s = re.sub(r"""\\\([^)]*\\\)|\\\[[^\]]*\\\]|\d+""", st, s)
+    s = "".join(policy.get(c, c) for c in s)
+    for i, v in enumerate(keep):
+        s = s.replace(chr(3) + str(i) + chr(3), v)
+    return s
+
 
 def _inline_md_to_html(text):
     """md 行内 → 行内 HTML（inline_to_md 的右逆；只覆盖 C 像内出现的形）。"""
@@ -160,14 +186,45 @@ def _inline_md_to_html(text):
     # 字面转义星（\*）占位保护——必须在强调解析前隔离，否则 *H\** 会被
     # 拆成 *H** 破配对（bayes-theorem 判例）；解析后还原为裸 *
     s = s.replace("\\*", "\x01")
+    # 图片（C 的 _image 像：`![alt](../assets/<slug>/<file>)`）→ <img>。
+    # 先占位后还原：alt 是属性文字，不得经受星/上下标/数学规则
+    # （action-perception 的长 alt 含 `[` 与 `]`，须容一级方括号）
+    img_store = []
+
+    def _stash_img(m):
+        alt, url = m.group(1), m.group(2)
+        m2 = re.fullmatch(
+            r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
+        src = m2.group(1) if m2 else url
+        img_store.append('<img src="%s" alt="%s" />' % (src, alt))
+        return "\x03%d\x03" % (len(img_store) - 1)
+
+    s = re.sub(r"!\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)\s]+)\)",
+               _stash_img, s)
     # 引注标记剥除——link_citations 确定性重生成（keys 同源）
     s = re.sub(r"\[\^(?!note-)[^\]\s]+\]", "", s)
     # 注释引用 → 锚链接（NOTE_REF_RE 可匹配的两种 href 形任选其一）
     # 注释引用 → 站点原始形（<sup>[<a href="notes.html#note-N">N</a>]</sup>；
-    # 方括号在 sup 内——C 侧 NOTE_REF_RE 的规范形）
-    s = re.sub(r"\[\^note-([^\]\s]+)\]",
-               lambda m: '<sup>[<a href="notes.html#note-%s">%s</a>]</sup>'
-               % (m.group(1), m.group(1)), s)
+    # 方括号在 sup 内——C 侧 NOTE_REF_RE 的规范形）；非规范形（H0 直接写
+    # `see <a href="notes.html#note-14">footnote 14</a>`，agent-modeling
+    # 判例）由按件账 note_forms 给原形——账按文档序存列表，游标逐个消费
+    # （同一键可既有规范脚注又有散文原形，按键记字典会互相覆盖）
+    def _note_ref(nm):
+        n = nm.group(1)
+        forms = _NOTE_FORMS or []
+        k = _NOTE_IDX[0]
+        if k < len(forms) and forms[k]["n"] == n:
+            _NOTE_IDX[0] = k + 1
+            f = forms[k]["form"]
+            if f:
+                return f
+        else:
+            # 账/文序不一致：前进一格保后续对齐，本处仍出规范形
+            _NOTE_IDX[0] = k + 1 if k < len(forms) else k
+        return ('<sup>[<a href="notes.html#note-%s">%s</a>]</sup>'
+                % (n, n))
+
+    s = re.sub(r"\[\^note-([^\]\s]+)\]", _note_ref, s)
     # 数学先占位——TeX 内的 _{x}/^{x} 不得被下面的 sub/sup 规则改写
     # （dutch-book 判例：$\pr_{t}$ 曾变 $\pr<sub>t</sub>$ → C 出 ₜ）
     math_store = []
@@ -198,8 +255,9 @@ def _inline_md_to_html(text):
             return '<a href="%s">%s</a>' % (url, t)
         return t  # 其他页内／index.html 链接——C 原样丢链接保文本
     # 链接文字可含一级方括号（书目形 `[Ervin 1997 [2016] available online](url)`），
-    # 但不得吞掉外层字面括号（`[[text](url)]` 取内层）
-    s = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)\s]+)\)", _link, s)
+    # 但不得吞掉外层字面括号（`[[text](url)]` 取内层）；URL 可含一级圆括号
+    s = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
+               r"\(((?:[^()\s]|\([^()]*\))*)\)", _link, s)
     # 行内代码
     s = re.sub(r"`([^`]*)`", r"<code>\1</code>", s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
@@ -225,6 +283,9 @@ def _inline_md_to_html(text):
         s = s.replace("\x02%d\x02" % idx, rep)
     # 字面星还原（占位符 \x01 → 裸 *，在 HTML 文本层即普通字符）
     s = s.replace("\x01", "*")
+    # 图片占位还原（alt 内已有文本层转义，不再加工）
+    for idx, tag in enumerate(img_store):
+        s = s.replace("\x03%d\x03" % idx, tag)
     return s
 
 
@@ -240,9 +301,11 @@ def _em(inner):
     fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
     m = re.fullmatch(r"([A-Za-zα-ωΑ-Ω]+)", inner)
     if m and m.group(0) in GREEK_REV and m.group(0) not in GREEK_C_DEFER:
+        if _GREEK_FORM == "em":
+            return "<%s>%s</%s>" % (_ITAL, inner, _ITAL)
         name = _greek_next(m.group(0))
         return r"\(\%s\)" % name
-    return "<em>%s</em>" % inner
+    return "<%s>%s</%s>" % (_ITAL, inner, _ITAL)
 
 
 def _greek_next(cp):
@@ -254,6 +317,30 @@ def _greek_next(cp):
             _GREEK_IDX[cp] = i + 1
             return seq[i]
     return GREEK_REV.get(cp)
+
+
+def _intra_word_open(parts, i):
+    """词内开星判据（`P*hilosophy of History and Action*` 判例）。
+
+    上游偶有 em 从中词起排（H0: `P<em>hilosophy of History and Action</em>`），
+    C 忠实转出后左邻是字母，按“左邻字母数字不开星”会漏成可见星。判据：向
+    后找第一个单星闭星（左紧、右邻非字母数字），其间文字含空白——即
+    `*多词强调*` 形态；乘法星（10 * Prob、10*Prob）无成对闭星或不含空白，
+    仍按字面。存疑一律字面（不动点优先）。"""
+    text = [parts[i + 1]]
+    k = i + 2
+    while k < len(parts):
+        run = parts[k]
+        before = parts[k - 1]
+        after = parts[k + 1] if k + 1 < len(parts) else ""
+        if (len(run) == 1 and before and not before[-1:].isspace()
+                and not after[:1].isalnum()):
+            return " " in "".join(text).strip()
+        text.append(run)
+        if k + 1 < len(parts):
+            text.append(parts[k + 1])
+        k += 2
+    return False
 
 
 def _star_parse(s):
@@ -276,10 +363,14 @@ def _star_parse(s):
         prev_tight = bool(before) and not before[-1:].isspace()
         next_tight = bool(after) and not after[:1].isspace()
         # 开星要求左邻非字母数字（(G*1) 类记号星、A* 类字面星不误开）；
-        # 但“左紧右非字母数字”仍是合法开星（Düring 判例：`Animalium*: Critical`
-        # 上游 em 在冒号处另起一段强调）；存疑一律按字面
+        # 星后紧跟闭括号则视为记号星（`(*)`／`(**)`／`(3*)` 的注解记号，
+        # al-farabi-logic 判例：md 原生字面星，配对会吃掉括号）；但
+        # 方括号内的真强调（`[*‘Uyūn* 604f]`）内容首字符不是闭括号，
+        # 照常开星。“左紧右非字母数字”仍是合法开星（Düring 判例：
+        # `Animalium*: Critical` 上游 em 在冒号处另起一段强调）
         prev_alnum = bool(before) and before[-1:].isalnum()
         next_alnum = bool(after) and after[:1].isalnum()
+        next_close = bool(after) and after[:1] in ")]}"
         L = len(run)
         want = ["strong", "em"] if L >= 3 else (["strong"] if L == 2 else ["em"])
         if all(k in marks for k in want) and prev_tight:
@@ -288,13 +379,15 @@ def _star_parse(s):
             del out[start:]
             if len(want) == 2:
                 out.append("<strong>%s</strong>"
-                           % ("<em>%s</em>" % content.strip()))
+                           % ("<%s>%s</%s>" % (_ITAL, content.strip(), _ITAL)))
             elif want[0] == "em":
                 out.append(_em(content.strip()))
             else:
                 out.append("<strong>%s</strong>" % content)
         elif (not any(k in marks for k in want) and next_tight
-              and not (prev_alnum and next_alnum)):
+              and not next_close
+              and (not (prev_alnum and next_alnum)
+                   or (L == 1 and _intra_word_open(parts, i)))):
             slot = len(out)
             for k in want:
                 marks[k] = slot
@@ -316,19 +409,28 @@ def _td(cell):
 
 # ------------------------------------------------------------ 块级逆写 ----
 
-def reassemble_article(md, authors, entity_map=None, links=None, greek=None):
+def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
+                       italics=None, greek_form=None, note_forms=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
     links：内部链接账（C 丢弃的 `../slug/` 与 `#anchor` 链接），按文档序还原；
            未消费条目经 LINK_MISSES 暴露给判官（账/文不一致即红）。
     greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
-    global _EM, _LINKS, _LINKS_USED, _GREEK, _GREEK_IDX
+    global _EM, _LINKS, _LINKS_USED, _LINK_SEEN, _LINK_IDX, _GREEK, _GREEK_IDX
+    global _ITAL, _GREEK_FORM, _NOTE_FORMS
     _GREEK = greek
     _GREEK_IDX = {}
     _EM = entity_map
+    _NOTE_FORMS = note_forms
     _LINKS = links or []
     _LINKS_USED = {}
+    _LINK_SEEN = {}
+    _LINK_IDX = 0
+    _NOTE_IDX[0] = 0
+    _NOTE_SEEN.clear()
+    _ITAL = italics or "em"
+    _GREEK_FORM = greek_form
     lines = md.split("\n")
     if _LINKS:
         infence = False

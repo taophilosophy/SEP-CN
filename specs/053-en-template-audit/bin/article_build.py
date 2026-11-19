@@ -125,9 +125,13 @@ def wrap_html(s, width):
 
 
 def wrap_article(html, width):
-    """只折 <p>/<li> 文本层（表格、标题、列表结构不动）。"""
+    """只折 <p>/<li> 文本层（表格、标题、列表结构不动）；相关条目区不折
+    （该区一件一条链接，上游从不折行）。"""
     if not width:
         return html
+    cut = html.find('<div id="related-entries">')
+    if cut > 0:
+        return wrap_article(html[:cut], width) + html[cut:]
     html = re.sub(r"<p>\n?(.*?)</p>",
                   lambda m: "<p>\n%s</p>" % wrap_html(m.group(1), width),
                   html, flags=re.S)
@@ -161,6 +165,10 @@ def render_tables(html, ledger):
         idx[0] += 1
         cells = re.findall("<t[hd][^>]*>(.*?)</t[hd]>", m.group(1), re.S)
         ci = 0
+        # 格位对齐：R 侧格数与账里位形数相同 ⇒ 按序一一消费（空格 x 也占
+        # 一个 cell 位，此前 x 不消费导致整行错位一格——agent-modeling 表头
+        # `<th>High</th>` 被挤掉判例）；数目不符（rowspan 缩并等）则按旧法
+        aligned = len(cells) == sum(len(r) for r in spec.get("rows", []))
         out = ["<table%s>\n" % spec.get("attrs", "")]
         th_rows = spec.get("thead_rows", 0)
         for ri, row in enumerate(spec.get("rows", [])):
@@ -172,11 +180,17 @@ def render_tables(html, ledger):
                 out.append("<tbody>\n")
             cs = []
             for kind in row:
-                if kind == "x":
+                if aligned:
+                    c = cells[ci] if ci < len(cells) else ""
+                    ci += 1
+                    if kind == "x":
+                        c = ""
+                elif kind == "x":
                     cs.append("<td></td>")
                     continue
-                c = cells[ci] if ci < len(cells) else ""
-                ci += 1
+                else:
+                    c = cells[ci] if ci < len(cells) else ""
+                    ci += 1
                 tag = "th" if kind == "h" else "td"
                 cs.append("<%s>%s</%s>" % (tag, c, tag))
             out.append("<tr>%s</tr>\n" % "".join(cs))
@@ -335,20 +349,33 @@ def _render_bib(bib, hid_map, ledger):
     def ul(chunk):
         ids = ledger.get("bib_ids") or {}
         lis = []
+        prev = -1
         for j, c in chunk:
+            if j is None:
+                # 账内定位失败的条目按顺序兜底（H0 顺序＝md 定义序）
+                j = prev + 1
+            prev = j
             lid = ids.get(str(j))
             lis.append('<li id="%s">%s</li>' % (lid, c) if lid
                        else "<li>%s</li>" % c)
         return '<ul class="hanging">\n\n%s\n</ul>\n\n' % "\n\n".join(lis)
 
+    cursor = [-1]
+
     def nodes_html(nodes):
-        """按嵌套结构账渲染条目树（子 ul 属性、缩进与 li 包裹按账）。"""
+        """按嵌套结构账渲染条目树（子 ul 属性、缩进与 li 包裹按账）。
+
+        账内 i 缺失（抽取时可见文与 md 定义行不等，如 URL 含括号）时按
+        “前一索引 + 1”兜底，避免整条文献被吞（al-farabi-logic Rauf 判例）。"""
         ids = ledger.get("bib_ids") or {}
         out = []
         for nd in nodes:
             j = nd.get("i")
-            content = items[j] if isinstance(j, int) and j < len(items) else ""
-            lid = ids.get(str(j)) if isinstance(j, int) else None
+            if not isinstance(j, int):
+                j = cursor[0] + 1
+            cursor[0] = j
+            content = items[j] if j < len(items) else ""
+            lid = ids.get(str(j))
             head = ('<li id="%s">%s' % (lid, content) if lid
                     else "<li>%s" % content)
             if nd.get("c"):
@@ -453,19 +480,22 @@ def _render_rel(rel, hid_map, ledger):
     body = "\n".join(rel[1:])
     m = re.search(r"<p>(.*?)</p>", body, re.S)
     inner = m.group(1) if m else body
-    links = (ledger or {}).get("rel_links")
-    if links:
+    items = (ledger or {}).get("rel_items")
+    if items:
+        trailing = bool((ledger or {}).get("rel_trailing"))
         lines = []
-        for i, lk in enumerate(links):
-            txt = _enc(lk["text"], ledger)
-            if lk.get("dead"):
+        for i, it in enumerate(items):
+            txt = _enc(it["text"], ledger)
+            sep = " |" if (i < len(items) - 1 or trailing) else ""
+            kind = it.get("kind")
+            if kind == "dead":
                 lines.append(' <!--<a href="%s">-->%s<!--</a>-->%s'
-                             % (lk["href"], txt,
-                                " |" if i < len(links) - 1 else ""))
-            else:
+                             % (it["href"], txt, sep))
+            elif kind == "a":
                 lines.append(' <a href="%s">%s</a>%s'
-                             % (lk["href"], txt,
-                                " |" if i < len(links) - 1 else ""))
+                             % (it["href"], txt, sep))
+            else:  # 纯文字项（上游未链接）——原样，无前导空格
+                lines.append("%s%s" % (txt, sep))
         para = "\n".join(lines)
     else:
         para = inner.strip()

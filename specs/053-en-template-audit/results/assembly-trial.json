@@ -14,7 +14,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.027
+   "sec": 0.038
   },
   {
    "slug": "david",
@@ -24,7 +24,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.019
+   "sec": 0.023
   },
   {
    "slug": "elias",
@@ -34,7 +34,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.017
+   "sec": 0.024
   },
   {
    "slug": "peirce-benjamin",
@@ -44,7 +44,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.025
+   "sec": 0.032
   },
   {
    "slug": "evolution",
@@ -54,7 +54,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.021
+   "sec": 0.027
   },
   {
    "slug": "reism",
@@ -64,7 +64,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.039
+   "sec": 0.051
   },
   {
    "slug": "holes",
@@ -74,7 +74,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.05
+   "sec": 0.066
   },
   {
    "slug": "lady-masham",
@@ -84,7 +84,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.041
+   "sec": 0.055
   },
   {
    "slug": "richard-sophister",
@@ -94,7 +94,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.036
+   "sec": 0.047
   },
   {
    "slug": "cockburn",
@@ -104,7 +104,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.034
+   "sec": 0.046
   },
   {
    "slug": "penbygull",
@@ -114,7 +114,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.03
+   "sec": 0.033
   },
   {
    "slug": "crathorn",
@@ -124,7 +124,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.035
+   "sec": 0.055
   },
   {
    "slug": "incommensurability",
@@ -134,7 +134,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.138
+   "sec": 0.18
   },
   {
    "slug": "abelard",
@@ -144,7 +144,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.146
+   "sec": 0.189
   },
   {
    "slug": "bayes-theorem",
@@ -159,7 +159,7 @@
     "md": "*(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay",
     "asm": "*Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q\\*\\*\\*P_{*E*}(*H*) + (1 −*q)P*_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay"
    },
-   "sec": 0.132
+   "sec": 0.158
   }
  ]
 }

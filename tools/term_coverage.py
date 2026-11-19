@@ -17,12 +17,11 @@ import os
 import re
 import sys
 
-_enc = getattr(sys.stdout, 'encoding', None)
-if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
-    try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    except (AttributeError, ValueError):
-        pass
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
