@@ -1,0 +1,2252 @@
+{
+ "date": "2026-11-19",
+ "rows": [
+  {
+   "en": "actual infinity",
+   "zh": "实无穷",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "actuality",
+   "zh": "现实性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（哲学通行现实性（亚里士多德 energeia/virtus 潜能对偶）；审定「现实」义近；abrabanel/adorno 等语境）；审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证，审定作「现实」）"
+  },
+  {
+   "en": "adaptation",
+   "zh": "适应",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·总论·自然图景，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "aesthetic enjoyment",
+   "zh": "审美享受",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学美学与美容医学·美容医学心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "aesthetic perception",
+   "zh": "审美知觉",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学美学与美容医学·美容医学心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "affine connection",
+   "zh": "仿射联络",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "algebraic geometry",
+   "zh": "代数几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（条目语境与既有 absolute geometry=绝对几何 同族去「学」缀）；审定名词库（termonline-all·数学·代数学·代数几何学·代数几何学，2026-11-18 JWT 直连凭证，审定作「代数几何学」）"
+  },
+  {
+   "en": "analogical inference",
+   "zh": "类比推理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·人工智能·自动推理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Anti-essentialism",
+   "zh": "反本质主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（哲学通行反本质主义（与 essentialism=本质主义 同族）；审定「反本质论」留亦作）；审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证，审定作「反本质论」）"
+  },
+  {
+   "en": "argumentation",
+   "zh": "论证",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·通类·物理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "asceticism",
+   "zh": "禁欲主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "assertion",
+   "zh": "断言",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·人工智能·自动推理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "attention",
+   "zh": "注意",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为的心理学基础·心理与行为，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "authoritarianism",
+   "zh": "权威主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·社会心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "authority",
+   "zh": "权威",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·组织传播·组织传播权力与领导，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "backward induction",
+   "zh": "逆向归纳",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Bayesian inference",
+   "zh": "贝叶斯推理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·智能化工制造系统，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "big science",
+   "zh": "大科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学、技术与社会·科学与社会，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "binary operation",
+   "zh": "二元运算",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（条目语境（代数/逻辑）通行二元运算；审定「二进制操作」为计算机硬件义不采）；审定名词库（termonline-all·计算机科学技术·计算机体系结构·处理系统，2026-11-18 JWT 直连凭证，审定作「二进制操作」）"
+  },
+  {
+   "en": "binary relation",
+   "zh": "二元关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·信息科学技术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "biological evolution",
+   "zh": "生物进化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（条目语境通行生物进化（进化论义作生物进化论）；审定学科标签为心理学）；审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证，审定作「生物进化论」）"
+  },
+  {
+   "en": "boundary conditions",
+   "zh": "边界条件",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·大气科学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "built environment",
+   "zh": "建成环境",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·城乡规划学·城乡规划总述·城乡规划及相关规划，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "categorical proposition",
+   "zh": "直言命题",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·人工智能·自动推理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Catholicism",
+   "zh": "天主教",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（取通行主形；审定括注「=罗马天主教」不入主译）；审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证，审定作「天主教（=罗马天主教）」）"
+  },
+  {
+   "en": "Causal Decision Theory",
+   "zh": "因果决策论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "causal inference",
+   "zh": "因果推断",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（条目语境（causal-models/algorithmic-fairness 统计／AI）通行因果推断；审定「因果推论」留亦作）；审定名词库（termonline-all·心理学·心理统计与测量，2026-11-18 JWT 直连凭证，审定作「因果推论」）"
+  },
+  {
+   "en": "cell division",
+   "zh": "细胞分裂",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·植物学·植物细胞生物学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "chauvinism",
+   "zh": "沙文主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "chemical combination",
+   "zh": "化合",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化学·无机化学·一般化学反应及无机化学反应，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "chemical composition",
+   "zh": "化学成分",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地球物理学·地壳流体科学·水化学性质，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Civil Rights Movement",
+   "zh": "民权运动",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·近现代美国、加拿大、欧洲·美国，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "class consciousness",
+   "zh": "阶级意识",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会分层·阶级，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "classical liberalism",
+   "zh": "古典自由主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·经济思想史，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "classical probability",
+   "zh": "古典概率",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·概率论·数理统计·概率空间，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cognition",
+   "zh": "认知",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学·神经外科学·神经外科病理生理·脑静脉系统，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cognitive ability",
+   "zh": "认知能力",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为的心理学基础·人格与行为，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cognitive development",
+   "zh": "认知发展",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·发展心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cognitive neuroscience",
+   "zh": "认知神经科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·总论·行为医学分支学科，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "collectivism",
+   "zh": "集体主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·制度经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "communism",
+   "zh": "共产主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·科学社会主义·马克思恩格斯时期，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "compactness",
+   "zh": "紧致性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（逻辑语境通行紧致性（与 Barwise 紧致性定理 同族）；审定「紧凑化」为冶金义不采）；审定名词库（termonline-all·冶金学·钢铁冶金·冶金流程工程学，2026-11-18 JWT 直连凭证，审定作「紧凑化」）"
+  },
+  {
+   "en": "comparative psychology",
+   "zh": "比较心理学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·生理心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "complexity class",
+   "zh": "复杂性类",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "computability theory",
+   "zh": "可计算性理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "computable function",
+   "zh": "可计算函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "computational complexity theory",
+   "zh": "计算复杂性理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·其他，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Computational neuroscience",
+   "zh": "计算神经科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生物物理学·生物控制论·计算神经科学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "concept acquisition",
+   "zh": "概念习得",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·认知与实验心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "conclusion",
+   "zh": "结论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数学通类，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "conclusive evidence",
+   "zh": "决定性证据",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（哲学/法律语境通行决定性证据；审定「确定证据」为航海义不采）；审定名词库（termonline-all·航海科学技术，2026-11-18 JWT 直连凭证，审定作「确定证据」）"
+  },
+  {
+   "en": "conditional probability",
+   "zh": "条件概率",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地球物理学·地震科学·震源，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "confidence interval",
+   "zh": "置信区间",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·通论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "configuration space",
+   "zh": "位形空间",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·热学、统计物理学·统计物理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "confirmation bias",
+   "zh": "确认偏误",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（心理学/哲学通行确认偏误；审定「证真偏差」非通行形）；审定名词库（termonline-all·管理科学技术·金融工程·原理，2026-11-18 JWT 直连凭证，审定作「证真偏差」）"
+  },
+  {
+   "en": "conjunction",
+   "zh": "合取",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（逻辑固定词（abelard/connectives 语境）；审定「合」为天文学义不采）；审定名词库（termonline-all·天文学·天体力学，2026-11-18 JWT 直连凭证，审定作「合」）"
+  },
+  {
+   "en": "constant function",
+   "zh": "常函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "context dependence",
+   "zh": "语境依赖",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·跨文化传播·跨文化传播理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "contextual definition",
+   "zh": "语境定义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（definitions 词条语境通行语境定义；审定「语境释义法」为辞书义）；审定名词库（termonline-all·语言学·辞书学·辞书释义，2026-11-18 JWT 直连凭证，审定作「语境释义法」）"
+  },
+  {
+   "en": "continuity",
+   "zh": "连续性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（形上学/数学哲学通行连续性；审定「地层连续」为地质义不采）；审定名词库（termonline-all·地质学·地史学与地层学·总论，2026-11-18 JWT 直连凭证，审定作「地层连续」）"
+  },
+  {
+   "en": "continuous function",
+   "zh": "连续函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·分析学·分析学基础·实分析，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "contradiction",
+   "zh": "矛盾",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数学通类，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "convergent evolution",
+   "zh": "趋同进化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Creationism",
+   "zh": "神创论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·原始社会，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "criminal punishment",
+   "zh": "刑事处罚",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·攻击行为与暴力行为·暴力行为，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "criminal responsibility",
+   "zh": "刑事责任",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（法哲学术语为刑事责任（能力义为刑事责任能力）；审定学科标签精神病学）；审定名词库（termonline-all·医学·精神病学，2026-11-18 JWT 直连凭证，审定作「刑事责任能力」）"
+  },
+  {
+   "en": "crucial experiment",
+   "zh": "判决性实验",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学技术方法论·实验与检验，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cultural diversity",
+   "zh": "文化多样性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（通行文化多样性；审定「文化多元」为传播学义）；审定名词库（termonline-all·新闻学与传播学·人际沟通·人际沟通基础，2026-11-18 JWT 直连凭证，审定作「文化多元」）"
+  },
+  {
+   "en": "cultural identity",
+   "zh": "文化认同",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·文化与文明·文化的结构与功能，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "cultural imperialism",
+   "zh": "文化帝国主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·跨文化传播·跨文化传播基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "data collection",
+   "zh": "数据采集",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·信息基础设施，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "data protection",
+   "zh": "数据保护",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·计算机应用·信息系统与信息化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "decision procedure",
+   "zh": "判定程序",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（可判定性语境通行判定程序（church-turing/algebra-logic 语境）；审定「决策程序」为管理义不采）；审定名词库（termonline-all·管理科学技术·一般管理理论·基本概念，2026-11-18 JWT 直连凭证，审定作「决策程序」）"
+  },
+  {
+   "en": "decision rule",
+   "zh": "决策规则",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·运筹与管理·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "deconstruction",
+   "zh": "解构",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "deduction",
+   "zh": "演绎",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（逻辑核心词（abduction 三分语境）；审定「扣除」为核医学义不采）；审定名词库（termonline-all·核医学·核医学设备与操作·图像分析技术，2026-11-18 JWT 直连凭证，审定作「扣除」）"
+  },
+  {
+   "en": "deductive inference",
+   "zh": "演绎推理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·认知与实验心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "definition",
+   "zh": "定义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（definitions 词条核心词；审定「清晰度」为影像义不采）；审定名词库（termonline-all·医学影像技术学·普通X射线成像技术·普通X射线成像基础，2026-11-18 JWT 直连凭证，审定作「清晰度」）"
+  },
+  {
+   "en": "democracy",
+   "zh": "民主",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·科学社会主义·马克思恩格斯时期，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "democratic governance",
+   "zh": "民主治理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（政治哲学通行民主治理；审定「民主执政」为中国化马克思主义学科义）；审定名词库（termonline-all·马克思主义·科学社会主义·中国化的马克思主义时期，2026-11-18 JWT 直连凭证，审定作「民主执政」）"
+  },
+  {
+   "en": "democratic socialism",
+   "zh": "民主社会主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·附录·国外社会主义运动·国外社会主义思想流派，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "denotation",
+   "zh": "外延",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·传播总论·模式与方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "density function",
+   "zh": "密度函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·数量经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "dependent origination",
+   "zh": "缘起",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "despotism",
+   "zh": "专制主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·北非，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "developmental plasticity",
+   "zh": "发育可塑性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·植物学·植物生殖与发育生物学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "developmental psychology",
+   "zh": "发展心理学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Dialectic of Enlightenment",
+   "zh": "《启蒙辩证法》",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（通行书名形（上海人民社译本传统）；审定「启蒙的辩证法」留亦作）；审定名词库（termonline-all·马克思主义·附录·国外马克思主义哲学，2026-11-18 JWT 直连凭证，审定作「启蒙的辩证法」）"
+  },
+  {
+   "en": "differential equation",
+   "zh": "微分方程",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·微分方程·积分方程·常微分方程，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "differential geometry",
+   "zh": "微分几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与 algebraic geometry=代数几何 同族去「学」缀）；审定名词库（termonline-all·数学·几何学·拓扑学·微分几何学，2026-11-18 JWT 直连凭证，审定作「微分几何学」）"
+  },
+  {
+   "en": "differential treatment",
+   "zh": "差别对待",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（伦理学/公平语境通行差别对待；审定「差别待遇」为经贸义）；审定名词库（termonline-all·经贸，2026-11-18 JWT 直连凭证，审定作「差别待遇」）"
+  },
+  {
+   "en": "diminishing marginal utility",
+   "zh": "边际效用递减",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（通行边际效用递减；审定「边际效应递减规律」读法误置（效应≠效用））；审定名词库（termonline-all·资源科学技术·资源经济学，2026-11-18 JWT 直连凭证，审定作「边际效应递减规律」）"
+  },
+  {
+   "en": "direct perception",
+   "zh": "直接知觉",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Discourse Representation Theory",
+   "zh": "话语表现理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·语言学·理论语言学·理论与方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "discrimination",
+   "zh": "歧视",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理·职业道德与报道伦理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "DNA replication",
+   "zh": "DNA复制",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生物化学与分子生物学·遗传信息传递与基因表达调控·复制·损伤与修复·复制，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "DNA sequence",
+   "zh": "DNA序列",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·放射医学与防护·放射生物学·放射分子生物学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "domestic violence",
+   "zh": "家庭暴力",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "domination",
+   "zh": "支配",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·分支社会学·政治社会学·权力与支配，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "dynamical evolution",
+   "zh": "动力学演化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·天文学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "effective calculability",
+   "zh": "能行可计算性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数理逻辑·数学基础·递归论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "electromagnetic radiation",
+   "zh": "电磁辐射",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·核科学技术·辐射物理·一般性术语，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "electromagnetism",
+   "zh": "电磁学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地球物理学·地球电磁学·地球电磁学总论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "emotional experience",
+   "zh": "情绪体验",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·妇幼卫生学名词·儿童保健·儿童生长发育，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "empirical evidence",
+   "zh": "经验证据",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为的生物学基础·遗传学基础·行为进化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "empiricist",
+   "zh": "经验论者（亦作“经验主义者”）",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "energy density",
+   "zh": "能量密度",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学·普通外科学·代谢与营养，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "entity",
+   "zh": "实体",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "enumerative induction",
+   "zh": "枚举归纳",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学技术方法论·分析与推理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "environmentalism",
+   "zh": "环保主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（语境为环境保育运动（conservation-biology/ethics-environmental）；审定「环境决定论」系 environmental determinism 误置）；审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证，审定作「环境决定论」）"
+  },
+  {
+   "en": "equality",
+   "zh": "平等",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（政治哲学核心词（equality 词条）；审定「等式」为数学义不采）；审定名词库（termonline-all·数学·数学通类，2026-11-18 JWT 直连凭证，审定作「等式」）"
+  },
+  {
+   "en": "ethical naturalism",
+   "zh": "伦理自然主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（元伦理学通行伦理自然主义（moore 语境）；审定「自然主义伦理学」留亦作）；审定名词库（termonline-all·医学伦理学·伦理学与医学伦理学的学科界定·伦理学流派，2026-11-18 JWT 直连凭证，审定作「自然主义伦理学」）"
+  },
+  {
+   "en": "Euclidean geometry",
+   "zh": "欧几里得几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与代数几何/微分几何同族去「学」缀；欧氏几何亦通行）；审定名词库（termonline-all·数学·几何学·拓扑学·欧几里得几何学，2026-11-18 JWT 直连凭证，审定作「欧几里得几何学」）"
+  },
+  {
+   "en": "evolutionism",
+   "zh": "进化论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "exceptionalism",
+   "zh": "例外论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "exclusive disjunction",
+   "zh": "互斥析取",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数理逻辑·数学基础·模型论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "magnetism",
+   "zh": "磁性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地质学·矿物学·总论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "majority decision",
+   "zh": "多数决",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（社会选择理论通行多数决；审定「多数裁判员判定」为柔道义）；审定名词库（termonline-all·奥运体育项目名词·柔道名词，2026-11-18 JWT 直连凭证，审定作「多数裁判员判定」）"
+  },
+  {
+   "en": "manipulation",
+   "zh": "操纵",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（批判理论/行动哲学语境操纵（阿多诺文化工业、操纵论证）；审定「手法」为中医骨伤义不采）；审定名词库（termonline-all·中医药学·骨伤科学·治疗，2026-11-18 JWT 直连凭证，审定作「手法」）"
+  },
+  {
+   "en": "marginal utility",
+   "zh": "边际效用",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·风景园林·风景园林管理·行业和部门管理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "market economy",
+   "zh": "市场经济",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·发展经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Marxist theory",
+   "zh": "马克思主义理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·跨学科社会学·社会工作·社会工作理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "mass-energy equivalence",
+   "zh": "质能等价性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "mathematical induction",
+   "zh": "数学归纳法",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "maximal element",
+   "zh": "极大元",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·组合学·一般数学系统·序·格·一般数学系统，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "maximality thesis",
+   "zh": "极大性论题",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·信息哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement",
+   "zh": "测量",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·化学产品工程与分子系统工程，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement error",
+   "zh": "测量误差",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·机械工程（一）·机械测量与控制·机械测量，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement process",
+   "zh": "测量过程",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·生产运作管理与工业工程·质量管理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement result",
+   "zh": "测量结果",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·电力·电测与计量，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement standard",
+   "zh": "测量标准",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·农产品质量安全·农产品质量安全监测，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measurement theory",
+   "zh": "测量理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学理论与方法·社会学研究方法·数据收集，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "measuring instrument",
+   "zh": "测量仪器",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（科学哲学通行测量仪器；审定「计量仪器」为计量学义）；审定名词库（termonline-all·机械工程（二）·机械制造工艺与设备·量具与量仪·量仪，2026-11-18 JWT 直连凭证，审定作「计量仪器」）"
+  },
+  {
+   "en": "meditation",
+   "zh": "冥想",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·睡眠医学·睡眠疾病治疗学·认知行为治疗，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "mental activity",
+   "zh": "心理活动",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "mental illness",
+   "zh": "精神疾病",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（精神病学哲学通行精神疾病（与 mental disorder=精神障碍 同族）；审定学科心理学）；审定名词库（termonline-all·心理学·医学心理学，2026-11-18 JWT 直连凭证，审定作「心理疾病」）"
+  },
+  {
+   "en": "mentalism",
+   "zh": "心灵主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（语言哲学意义内在论；避让 psychologism=心理主义）；审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证，审定作「心理主义」）"
+  },
+  {
+   "en": "metabolism",
+   "zh": "代谢",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学·普通外科学·代谢与营养，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "methodology",
+   "zh": "方法论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学技术方法论·方法与工具，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "militarism",
+   "zh": "军国主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "minimalism",
+   "zh": "极简主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·风景园林·风景园林设计·设计理论方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Modality",
+   "zh": "模态",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生物物理学·神经生物物理学·多模态感觉信息加工，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "modern science",
+   "zh": "近代科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·总论·科学观，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "modernism",
+   "zh": "现代主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Modernity",
+   "zh": "现代性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·社会科学哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "molecular evolution",
+   "zh": "分子进化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·作物基因组学与遗传育种·作物起源进化与多样性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "monism",
+   "zh": "一元论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral cognition",
+   "zh": "道德认知",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（道德心理学通行道德认知；审定「道德认识」为教育学义）；审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证，审定作「道德认识」）"
+  },
+  {
+   "en": "moral community",
+   "zh": "道德共同体",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·附录·国外马克思主义哲学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral cultivation",
+   "zh": "道德修养（修身）",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（儒家哲学通行道德修养/修身；审定「风教」为文艺教化义不采）；审定名词库（termonline-all·文艺，2026-11-18 JWT 直连凭证，审定作「风教」）"
+  },
+  {
+   "en": "moral development",
+   "zh": "道德发展",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral education",
+   "zh": "道德教育",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral emotion",
+   "zh": "道德情感",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学伦理学·伦理学与医学伦理学的学科界定·伦理学范畴，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral evaluation",
+   "zh": "道德评价",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "moral experience",
+   "zh": "道德经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与经验哲学词族一致（杜威 experience=经验）；审定「道德体验」留亦作）；审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证，审定作「道德体验」）"
+  },
+  {
+   "en": "moral judgment",
+   "zh": "道德判断",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "morality",
+   "zh": "道德",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·制度经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "morality system",
+   "zh": "道德体系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "motivation",
+   "zh": "动机",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·睡眠医学·睡眠生理与心理基础·睡眠心理基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "multiplication",
+   "zh": "乘法",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·代数学·代数几何学·算术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "narcissism",
+   "zh": "自恋",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "national identity",
+   "zh": "国家认同",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（公民哲学通行国家认同（民族认同义随文）；审定「国族认同」为台湾学界形）；审定名词库（termonline-all·民族学与文化学·民族理论·基本概念，2026-11-18 JWT 直连凭证，审定作「国族认同」）"
+  },
+  {
+   "en": "naturalness",
+   "zh": "自然性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（形上学/政治哲学通行自然性（审定库哲学门类）；审定「自然」过简）；审定名词库（termonline-all·哲学，2026-11-18 JWT 直连凭证，审定作「自然」）"
+  },
+  {
+   "en": "Negation",
+   "zh": "否定",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（逻辑/辩证法固定词（否定操作义；「否定词」为词项义留词条特判））；审定名词库（termonline-all·数学·数理逻辑·数学基础·模型论，2026-11-18 JWT 直连凭证，审定作「否定词」）"
+  },
+  {
+   "en": "neo-positivism",
+   "zh": "新实证主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Neoliberalism",
+   "zh": "新自由主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·附录·国外经济学理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "nepotism",
+   "zh": "任人唯亲",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（应用伦理学通行任人唯亲；审定「任人唯亲作风」冗缀）；审定名词库（termonline-all·管理科学技术·一般管理理论·创业管理，2026-11-18 JWT 直连凭证，审定作「任人唯亲作风」）"
+  },
+  {
+   "en": "non-Euclidean geometry",
+   "zh": "非欧几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与代数几何/微分几何同族去「学」缀）；审定名词库（termonline-all·数学·几何学·拓扑学·射影几何学·仿射几何学   ，2026-11-18 JWT 直连凭证，审定作「非欧几何学」）"
+  },
+  {
+   "en": "normal function",
+   "zh": "正常功能",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（布尔斯健康哲学核心词（biomedicine 语境内orthy 定义）；审定「正规函数」为复分析义不采）；审定名词库（termonline-all·数学·分析学·复分析，2026-11-18 JWT 直连凭证，审定作「正规函数」）"
+  },
+  {
+   "en": "objective reality",
+   "zh": "客观实在",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "objectivism",
+   "zh": "客观主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·马克思主义新闻思想·术语观点，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "organism",
+   "zh": "生物体",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与 living organism=生物体 同族；有机体留亦作）；审定名词库（termonline-all·化学工程，2026-11-18 JWT 直连凭证，审定作「生物」）"
+  },
+  {
+   "en": "pattern formation",
+   "zh": "模式形成",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物胚胎学·细胞分化与发育，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "peaceful coexistence",
+   "zh": "和平共处",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "perceptual cognition",
+   "zh": "知觉认知",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（印度认识论语境（pratyakṣa 传统）；审定「感性认识」为马克思主义义）；审定名词库（termonline-all·马克思主义·哲学·中国化的马克思主义时期，2026-11-18 JWT 直连凭证，审定作「感性认识」）"
+  },
+  {
+   "en": "personal responsibility",
+   "zh": "个人责任",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与 collective responsibility 对偶；审定「公共部门个人职责」为公共管理义不采）；审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证，审定作「公共部门个人职责」）"
+  },
+  {
+   "en": "personality",
+   "zh": "人格",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·睡眠医学·睡眠生理与心理基础·睡眠心理基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Phenotypic plasticity",
+   "zh": "表型可塑性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "phenotypic variation",
+   "zh": "表型变异",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为的生物学基础·遗传学基础·遗传和环境变异，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "philosophical psychology",
+   "zh": "哲学心理学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "plagiarism",
+   "zh": "剽窃",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·编辑与出版学·著作权·著作权限制与著作权保护，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "polytheism",
+   "zh": "多神教",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与一神教对偶通行；审定「多神论」留亦作）；审定名词库（termonline-all·民族学与文化学·民族学・人类学·分支学科与研究领域，2026-11-18 JWT 直连凭证，审定作「多神论」）"
+  },
+  {
+   "en": "population health",
+   "zh": "群体健康",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会医学概述，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "populism",
+   "zh": "民粹主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·政治传播·政治传播基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "positive correlation",
+   "zh": "正相关",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化学·分析化学·化学计量学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "posterior probability",
+   "zh": "后验概率",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物进化与系统学·系统发生分析，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Postmodernism",
+   "zh": "后现代主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·风景园林·风景园林设计·设计理论方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "practical rationality",
+   "zh": "实践合理性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（当代行动哲学通行实践合理性（实践理性留亦作）；审定「实用理性」系李泽厚专名义不采）；审定名词库（termonline-all·自然辩证法·科学、技术与社会·科学技术文化，2026-11-18 JWT 直连凭证，审定作「实用理性」）"
+  },
+  {
+   "en": "preference ordering",
+   "zh": "偏好排序",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（社会选择理论通行偏好排序；审定「偏爱序」非通行形）；审定名词库（termonline-all·数学·运筹学·多目标规划，2026-11-18 JWT 直连凭证，审定作「偏爱序」）"
+  },
+  {
+   "en": "preference relation",
+   "zh": "偏好关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·运筹与管理·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "prescriptivism",
+   "zh": "规定主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·语言学·理论语言学·理论与方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "prima facie evidence",
+   "zh": "初步证据",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·航海科学技术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "primitive recursive function",
+   "zh": "原始递归函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "prior probability",
+   "zh": "先验概率",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物进化与系统学·系统发生分析，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "priority rule",
+   "zh": "优先规则",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·生产运作管理与工业工程·生产运作管理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "private information",
+   "zh": "私人信息",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（博弈论通行私人信息；审定「私有信息」为电力市场义）；审定名词库（termonline-all·电力·调度与通信、电力市场，2026-11-18 JWT 直连凭证，审定作「私有信息」）"
+  },
+  {
+   "en": "probability density",
+   "zh": "概率密度",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地球物理学·地震科学·震源，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "probability distribution",
+   "zh": "概率分布",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·畜牧学·遗传育种·生物统计学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "probability function",
+   "zh": "概率函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·概率论·数理统计·随机变量，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Probability Logic",
+   "zh": "概率逻辑",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数理逻辑·数学基础·非经典逻辑，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "probability measure",
+   "zh": "概率测度",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·概率论·数理统计·概率空间，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "probability model",
+   "zh": "概率模型",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地理学·数量地理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "probability space",
+   "zh": "概率空间",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·概率论·数理统计·概率空间，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "professionalism",
+   "zh": "专业主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学、技术与社会·工程与社会，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "projection",
+   "zh": "投射",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（心灵/美学语境投射（阿多诺虚假投射、表达投射说）；审定「预测」为传媒预测义不采）；审定名词库（termonline-all·新闻学与传播学·传媒经济·传媒经济研究，2026-11-18 JWT 直连凭证，审定作「预测」）"
+  },
+  {
+   "en": "Protestantism",
+   "zh": "新教",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "psychological mechanism",
+   "zh": "心理机制",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "public education",
+   "zh": "公共教育",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Punishment",
+   "zh": "惩罚",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为干预与治疗·行为治疗，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Quantum measurement",
+   "zh": "量子测量",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·计算机交叉学科·量子计算与量子信息学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "quantum probability",
+   "zh": "量子概率",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·概率论·数理统计·概率空间，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "radicalism",
+   "zh": "激进主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·其他部分·主要思想流派·马克思恩格斯时期，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "random sequence",
+   "zh": "随机序列",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·信息科学技术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Rationalist",
+   "zh": "理性主义者",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "real-valued function",
+   "zh": "实值函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·分析学·分析学基础·实分析，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reality",
+   "zh": "实在",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Recursion Theorem",
+   "zh": "递归定理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "recursion theory",
+   "zh": "递归论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数理逻辑·数学基础·递归论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "recursive definition",
+   "zh": "递归定义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·语言学·计算语言学·形式化方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "recursive function",
+   "zh": "递归函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reduction",
+   "zh": "还原",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·化学产品工程与分子系统工程，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reference frame",
+   "zh": "参考系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·通类·物理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reference sequence",
+   "zh": "参照序列",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生物物理学·生物信息学·遗传与表观遗传数据分析，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reformism",
+   "zh": "改良主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·综合·国际共产主义运动，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "relation",
+   "zh": "关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·数据库·数据库管理系统及其实现技术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "reliability",
+   "zh": "可靠性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（可靠主义词族（epistemic reliability 认知可靠性）；审定「信度」为心理测量义不采）；审定名词库（termonline-all·行为医学·行为心理评估·行为心理测量学·测量，2026-11-18 JWT 直连凭证，审定作「信度」）"
+  },
+  {
+   "en": "religious community",
+   "zh": "宗教共同体",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·分支社会学·宗教社会学·宗教组织形式，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Renaissance",
+   "zh": "文艺复兴",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "renormalization group",
+   "zh": "重正化群",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·热学、统计物理学·统计物理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "resource allocation",
+   "zh": "资源配置",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·总论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Revisionism",
+   "zh": "修正主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·综合·国际共产主义运动，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Riemannian geometry",
+   "zh": "黎曼几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与代数/微分几何同族去「学」缀）；审定名词库（termonline-all·数学·几何学·拓扑学·微分几何学，2026-11-18 JWT 直连凭证，审定作「黎曼几何学」）"
+  },
+  {
+   "en": "risk function",
+   "zh": "风险函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·运筹与管理·决策理论与方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "rule utilitarianism",
+   "zh": "规则功利主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与功利主义词族一致；审定「规则功利论」留亦作）；审定名词库（termonline-all·医学伦理学·医学伦理学的基本理论与基本观点，2026-11-18 JWT 直连凭证，审定作「规则功利论」）"
+  },
+  {
+   "en": "satisfiability problem",
+   "zh": "可满足性问题",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·信息科学技术，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "scholasticism",
+   "zh": "经院哲学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·世界历史·古代中世纪·西欧文化、文艺复兴与宗教改革，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "science education",
+   "zh": "科学教育",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "scientific community",
+   "zh": "科学共同体",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学、技术与社会·科学技术文化，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "scientific experience",
+   "zh": "科学经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·科学技术方法论·方法与工具，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "selection function",
+   "zh": "选择函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·天文学·星系和宇宙学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "selection theory",
+   "zh": "选择理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（与 theory=理论 词族一致（kin selection 亲属选择理论）；审定「选择学说」留亦作）；审定名词库（termonline-all·遗传学，2026-11-18 JWT 直连凭证，审定作「选择学说」）"
+  },
+  {
+   "en": "selective attention",
+   "zh": "选择性注意",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生理学·神经生理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "semantic interpretation",
+   "zh": "语义解释",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·人工智能·计算语言学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Sensation",
+   "zh": "感觉",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·急救医学·日常医学急救·内科学·神经系统，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sensory modality",
+   "zh": "感觉模态",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生理学·神经生理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sensory perception",
+   "zh": "感知觉",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·男科及性医学·性心理、性取向与性行为，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sentiment",
+   "zh": "情感",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（道德感主义词族（sentiment=情感，与 emotion=情绪 分义）；情操留亦作）；审定名词库（termonline-all·医学伦理学·伦理学与医学伦理学的学科界定·伦理学范畴，2026-11-18 JWT 直连凭证，审定作「情操」）"
+  },
+  {
+   "en": "Separation Axiom",
+   "zh": "分离公理",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（集合论通行分离公理（Aussonderung）；审定「分离性公理」为拓扑义形）；审定名词库（termonline-all·数学·几何学·拓扑学·一般拓扑学，2026-11-18 JWT 直连凭证，审定作「分离性公理」）"
+  },
+  {
+   "en": "sequential decision",
+   "zh": "序贯决策",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·运筹学·决策论·价值论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sex discrimination",
+   "zh": "性别歧视",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sexual activity",
+   "zh": "性活动",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·医学·泌尿外科学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sexual harassment",
+   "zh": "性骚扰",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·性行为及其障碍·性功能障碍，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sexual orientation",
+   "zh": "性取向",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·生殖医学·性与性功能障碍，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sexual reproduction",
+   "zh": "有性繁殖",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·作物基因组学与遗传育种·作物遗传改良，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sexual violence",
+   "zh": "性暴力",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "similarity",
+   "zh": "相似性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·动物学·动物生态学·群落生态学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "simulation",
+   "zh": "模拟",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·通论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "Social Cognition",
+   "zh": "社会认知",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social cohesion",
+   "zh": "社会凝聚力",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·社会心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social conventions",
+   "zh": "社会约定",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（刘易斯约定语境（analytic-synthetic 语境）；审定「社会习俗」为 custom 义）；审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证，审定作「社会习俗」）"
+  },
+  {
+   "en": "social cooperation",
+   "zh": "社会合作",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·行为的生物学基础·遗传学基础·社会遗传学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social democracy",
+   "zh": "社会民主主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social formation",
+   "zh": "社会形态",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会·社会形态，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social function",
+   "zh": "社会功能",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会·社会存在，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social identity",
+   "zh": "社会认同",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·人际沟通·人际沟通意图，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social inequality",
+   "zh": "社会不平等",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会分层·社会不平等，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social institution",
+   "zh": "社会制度",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·制度经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social integration",
+   "zh": "社会整合",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social interaction",
+   "zh": "社会交往",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·睡眠医学·睡眠生理与心理基础·睡眠心理基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social movement",
+   "zh": "社会运动",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·政治传播·公民社会与政治传播，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social organization",
+   "zh": "社会组织",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·公共关系·公共关系构成，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social psychology",
+   "zh": "社会心理学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·睡眠医学·睡眠生理与心理基础·睡眠心理基础，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social recognition",
+   "zh": "社会承认",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会·社会生活，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social relation",
+   "zh": "社会关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social reproduction",
+   "zh": "社会再生产",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·政治经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social responsibility",
+   "zh": "社会责任",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·一般管理理论·基本概念，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social science",
+   "zh": "社会科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·总论·科学观，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social security",
+   "zh": "社会保障",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·劳动经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social situation",
+   "zh": "社会情境",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·行为医学·健康相关行为·健康促进行为·预防与干预，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social solidarity",
+   "zh": "社会团结",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·跨学科社会学·社会政策·社会政策基础概念及问题，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social transformation",
+   "zh": "社会转型",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·社会学一般概念·社会·社会活动，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "social welfare function",
+   "zh": "社会福利函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·数量经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "soft information",
+   "zh": "软信息",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·图书馆·情报与文献学·情报分析与研究·竞争情报，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "spacetime geometry",
+   "zh": "时空几何",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "species richness",
+   "zh": "物种丰富度",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·植物学·植物生态学·植物多样性与保护，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "species selection",
+   "zh": "物种选择",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·古生物学·总论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "speciesism",
+   "zh": "物种主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·分支社会学·环境社会学·现代环境社会学理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "speech perception",
+   "zh": "言语知觉",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学·认知与实验心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "speech production",
+   "zh": "言语生成",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·咽喉-头颈外科·咽喉–头颈生理，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "spreading activation",
+   "zh": "激活扩散",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "state intervention",
+   "zh": "国家干预",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·分支社会学·经济社会学·新经济社会学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "statistical inference",
+   "zh": "统计推断",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·数量经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "statistical significance",
+   "zh": "统计显著性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·肠外肠内营养学·基础研究与临床研究·临床研究，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "stipulative definition",
+   "zh": "规定性定义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（definitions 词条通行规定性定义；审定「规定性释义」为辞书义）；审定名词库（termonline-all·语言学·辞书学·辞书释义，2026-11-18 JWT 直连凭证，审定作「规定性释义」）"
+  },
+  {
+   "en": "strict preference",
+   "zh": "严格偏好",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（偏好词族统一（与个体偏好/偏好排序一致）；审定「严格偏爱」同义）；审定名词库（termonline-all·数学·运筹学·多目标规划，2026-11-18 JWT 直连凭证，审定作「严格偏爱」）"
+  },
+  {
+   "en": "structural equation",
+   "zh": "结构方程",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·管理科学技术·运筹与管理·数量经济的理论与方法，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "structural relations",
+   "zh": "结构关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·语言学·语法学·句法篇章，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "subjectivity",
+   "zh": "主体性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·新闻学与传播学·政治传播·媒体新媒体与政治传播，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "successor function",
+   "zh": "后继函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "sufficient condition",
+   "zh": "充分条件",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·数学通类，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "symbolic representation",
+   "zh": "符号表征",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "symmetry",
+   "zh": "对称",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·地质学·结晶学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "symmetry group",
+   "zh": "对称群",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（数学通行对称群；审定「对称性群」冗缀）；审定名词库（termonline-all·物理学·通类·数学，2026-11-18 JWT 直连凭证，审定作「对称性群」）"
+  },
+  {
+   "en": "Theology",
+   "zh": "神学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·马克思主义·其他部分·基本词汇·马克思恩格斯时期，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "theoretical science",
+   "zh": "理论科学",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·自然辩证法·总论·科学观，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "thought insertion",
+   "zh": "思维插入",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·精神医学·症状与体征·思维障碍症状，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "total utility",
+   "zh": "总效用",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·卫生经济学名词·卫生服务需求·卫生服务消费者行为，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "totality",
+   "zh": "总体性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（批判理论/辩证法通行总体性（阿多诺）；审定「整体性」留亦作）；审定名词库（termonline-all·地理学，2026-11-18 JWT 直连凭证，审定作「整体性」）"
+  },
+  {
+   "en": "transcendence",
+   "zh": "超越",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "truth function",
+   "zh": "真值函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（逻辑通行真值函数；审定「真假值函数」非通行形）；审定名词库（termonline-all·数学·数理逻辑·数学基础·模型论，2026-11-18 JWT 直连凭证，审定作「真假值函数」）"
+  },
+  {
+   "en": "uncertainty relation",
+   "zh": "不确定性关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（物理学通行不确定性关系（测不准关系留亦作）；审定「不确定度关系」为计量义）；审定名词库（termonline-all·物理学·相对论、量子理论·量子理论，2026-11-18 JWT 直连凭证，审定作「不确定度关系」）"
+  },
+  {
+   "en": "Uniqueness",
+   "zh": "唯一性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（限定摹状词语境唯一性（Lewis 语境）；审定「独创性」为著作权义不采）；审定名词库（termonline-all·编辑与出版学·著作权·综述，2026-11-18 JWT 直连凭证，审定作「独创性」）"
+  },
+  {
+   "en": "unitary evolution",
+   "zh": "幺正演化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·相对论、量子理论·量子理论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "universal gravitation",
+   "zh": "万有引力",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "universalism",
+   "zh": "普遍主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（伦理学/美学通行普遍主义（与相对主义对偶）；审定「普适主义」留亦作）；审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证，审定作「普适主义」）"
+  },
+  {
+   "en": "universality",
+   "zh": "普遍性",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "条目语境研判（形上学/美学通行普遍性（阿贝尔ARD 语义普遍性语境）；审定「普适性」为统计物理义）；审定名词库（termonline-all·物理学·热学、统计物理学·统计物理学，2026-11-18 JWT 直连凭证，审定作「普适性」）"
+  },
+  {
+   "en": "utility",
+   "zh": "效用",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "utility function",
+   "zh": "效用函数",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "utility maximization",
+   "zh": "效用最大化",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "utility theory",
+   "zh": "效用理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·数学·运筹学·决策论·价值论，2026-11-18 JWT 直连凭证）"
+  },
+  {
+   "en": "utopianism",
+   "zh": "乌托邦思想",
+   "table": "term",
+   "first_seen": "语料回收（specs/050 候选池）",
+   "basis": "审定名词库（termonline-all·社会学名词·跨学科社会学·社会工作·社会工作的价值观，2026-11-18 JWT 直连凭证）"
+  }
+ ]
+}
