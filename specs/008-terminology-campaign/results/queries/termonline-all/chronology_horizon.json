@@ -1,0 +1,462 @@
+{
+ "key": "chronology horizon",
+ "term": "chronology horizon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:56:21+00:00",
+ "status": "ok",
+ "note": "variant=chronology horizon; 审定公布名词库=239; 海峡两岸名词对照库=98; 其他来源数据库=9; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "年代学",
+   "en": "chronology",
+   "source": "物理学名词",
+   "wordNumber": "09.0850",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "层位",
+   "en": "horizon",
+   "source": "地质学名词",
+   "wordNumber": "07.01.048",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地层层序中某一特定位置。"
+  },
+  {
+   "cn": "地平圈",
+   "en": "horizon",
+   "source": "天文学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "过天球中心且与铅垂线相垂直的平面与天球所交的大圆。"
+  },
+  {
+   "cn": "视界",
+   "en": "horizon",
+   "source": "天文学名词",
+   "wordNumber": "04.333",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "(1)因光速有限或光子传播时间有限，光子传播所及的有限范围，包括粒子视界和事件视界等。(2)黑洞因有强引力场而存在事件视界，使光或任何其他粒子无法从其内部逃逸。"
+  },
+  {
+   "cn": "水平线",
+   "en": "horizon",
+   "source": "物理学名词",
+   "wordNumber": "06.0296",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阶段",
+   "en": "horizon",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.044",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "沿一定标高划分的一部分井田。"
+  },
+  {
+   "cn": "地平",
+   "en": "horizon",
+   "source": "航海科技名词",
+   "wordNumber": "02.0098",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "层面",
+   "en": "horizon",
+   "source": "石油名词",
+   "wordNumber": "03.0829",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "时界",
+   "en": "horizon",
+   "source": "数学名词",
+   "wordNumber": "011.0342",
+   "subjectFullName": "数学_运筹学_动态规划",
+   "subjectName": "动态规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "层位",
+   "en": "horizon",
+   "source": "地质学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环境年代学",
+   "en": "environmental chronology",
+   "source": "地质学名词",
+   "wordNumber": "18.01.063",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究和测定自然环境中各种物质形成时间的各项工作。"
+  },
+  {
+   "cn": "纹理年代学",
+   "en": "varve chronology",
+   "source": "地质学名词",
+   "wordNumber": "13.03.114",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "研究树木年轮、冰川纹泥和近代湖泊中的韵律沉积纹理等与年和季节性的变化关系，进行地质年龄测定的方法。"
+  },
+  {
+   "cn": "考古年代学",
+   "en": "archaeological chronology",
+   "source": "地质学名词",
+   "wordNumber": "08.01.012",
+   "subjectFullName": "地质学_第四纪地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "利用考古学研究求证或检测古代遗迹和遗物年代的方法。包括相对年代和绝对年代。前者指不同的考古学文化和遗存在时间上的相对早晚关系，但具体早(或晚)多少年并不清楚，如仰韶文化早于龙山文化。后者则以确切的纪年"
+  },
+  {
+   "cn": "纹泥年代学",
+   "en": "varve chronology",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0268",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "利用某些湖中比较常见的沉积构造纹泥，进行高分辨率定年的年代学分支学科。 "
+  },
+  {
+   "cn": "编时条件",
+   "en": "chronology condition",
+   "source": "物理学名词",
+   "wordNumber": "06.0276",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "放射性碳年代学",
+   "en": "radiocarbon chronology",
+   "source": "化学名词",
+   "wordNumber": "06.0757",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "以样品中放射性碳-14含量以及放射性衰变规律为基础，测定各种考古学、气象学以及地质学等样品年龄、研究其演化历史的一门学科。"
+  },
+  {
+   "cn": "纹理年代学",
+   "en": "varve chronology",
+   "source": "地质学名词",
+   "wordNumber": "06.100",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环境年代学",
+   "en": "environmental chronology",
+   "source": "地质学名词",
+   "wordNumber": "06.177",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地磁年代学",
+   "en": "geomagnetic chronology",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "发生层分化",
+   "en": "horizon differentiation,horizonation",
+   "source": "土壤学名词",
+   "wordNumber": "02.105",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "成土母质在土壤形成过程中形成一系列发生层的作用。"
+  },
+  {
+   "cn": "年代学，年表",
+   "en": "chronology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "年代学",
+   "en": "chronology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "年代学",
+   "en": "chronology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地平圈(1)",
+   "en": "horizon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "视界",
+   "en": "horizon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "层位",
+   "en": "horizon",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地平线",
+   "en": "horizon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地平圈",
+   "en": "horizon",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地平",
+   "en": "horizon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "放射性碳年代学",
+   "en": "radiocarbon chronology",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冰川年代学",
+   "en": "glacier chronology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地磁年代学",
+   "en": "geomagnetic chronology",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "年代种",
+   "en": "chronological species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地心地平",
+   "en": "geocentric horizon\",\"rational horizon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "放射性同位素年代学",
+   "en": "radioactive isotope chronology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "尘层顶",
+   "en": "dust horizon",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达地平[线]",
+   "en": "radar horizon",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无线电地平[线]",
+   "en": "radio horizon",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "烟雾层顶，烟雾高度",
+   "en": "smog horizon",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地平俯角",
+   "en": "horizon dip",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "即时统计",
+   "en": "chronological running summary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "欧洲地平线行动计划",
+   "en": "Horizon Europe Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字素养：NMC地平线项目战略简报》",
+   "en": "Digital Literacy: An NMC Horizon Project Strategic Brief",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "生理年龄",
+   "en": "chronological age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "个体生理成熟程度对应于群体平均水平所在年龄。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

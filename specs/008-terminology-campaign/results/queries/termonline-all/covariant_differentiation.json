@@ -1,0 +1,612 @@
+{
+ "key": "covariant differentiation",
+ "term": "covariant differentiation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:59:05+00:00",
+ "status": "ok",
+ "note": "variant=covariant differentiation; 审定公布名词库=1488; 海峡两岸名词对照库=368; 其他来源数据库=21; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "协变微分",
+   "en": "covariant differential",
+   "source": "物理学名词",
+   "wordNumber": "06.0256",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "共变微分",
+   "en": "covariant differential",
+   "source": "数学名词",
+   "wordNumber": "08.1072",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "协变的",
+   "en": "covariant",
+   "source": "天文学名词",
+   "wordNumber": "07.603",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "(1)方程形式不随坐标的选取而变。(2)张量的分量变换方式与余矢量相同。"
+  },
+  {
+   "cn": "共变",
+   "en": "covariant",
+   "source": "数学名词",
+   "wordNumber": "08.1022",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1899",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "描述不同参量扰动之间的相关性的参量。 "
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0343",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "两个随机变量相互依赖性的度量。它是两个随机变量各自的误差之积的期望。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "测绘学名词",
+   "wordNumber": "02.390",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "两个随机变量与其各自数学期望的偏离值乘积的数学期望。用于反映随机变量之间统计相关程度。"
+  },
+  {
+   "cn": "协变量",
+   "en": "covariate",
+   "source": "畜牧学名词",
+   "wordNumber": "04.674",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "对所研究的变量变异可产生影响的辅助性变量。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.675",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "度量两个随机变量间协同变化程度的方差。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "物理学名词",
+   "wordNumber": "01.0549",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0026",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "E[(X-E(X))(Y-E(Y))]称为随机变量X及Y的协方差，其中E为随机变量的数学期望。"
+  },
+  {
+   "cn": "协变性",
+   "en": "covariance",
+   "source": "物理学名词",
+   "wordNumber": "06.0183",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "化学名词",
+   "wordNumber": "03.0197",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "描述两个随机变量X、Y相关程度的1个参数。是X、Y与各自的数学期望之差乘积的数学期望。<img src='/root/syzx/static/spz/huaxue2.03.0197.1.png'/>"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.415",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "两个随机变量(X, Y)各自减去数学期望后之积的数学期望，即：<img src='/root/syzx/static/spz/fangshefanghu1.04.415.png'/> 。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "大气科学名词",
+   "wordNumber": "07.204",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "变量xk和xl如果均取n个样本，则它们的协方差定义为，这里分别表示两变量系列的平均值。协方差可记为两个变量距平向量的内积，它反映两气象要素异常关系的平均状况。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "遗传学名词",
+   "wordNumber": "06.228",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "度量两个随机变量协同变化程度的方差。"
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "化学工程名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "数学名词",
+   "wordNumber": "09.0121",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "共变异",
+   "en": "covariation",
+   "source": "植物学名词",
+   "wordNumber": "02.0290",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "两个或多个相关的性状中，当一个性状发生变异时其他性状也随之发生变化的现象。"
+  },
+  {
+   "cn": "相关变异",
+   "en": "covariation",
+   "source": "遗传学名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "由于遗传或环境的原因造成的性状间的协同变异。"
+  },
+  {
+   "cn": "协变量",
+   "en": "covariate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协方差",
+   "en": "covariance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "共变异，相关变异",
+   "en": "covariation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相关变异（=共变异）",
+   "en": "covariation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协变［量］",
+   "en": "covariation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相关变异",
+   "en": "covariation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协方差[矩]阵",
+   "en": "covariance matrix",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境协方差",
+   "en": "environmental covariance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传协方差",
+   "en": "genetic covariance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协方差函数",
+   "en": "covariance function",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "协方差矩阵",
+   "en": "covariance matrix",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "样本协方差",
+   "en": "sample covariance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协变原则",
+   "en": "covariation principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分化",
+   "en": "differentiation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨体",
+   "en": "Style Differentiation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据差异化",
+   "en": "data differentiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融监管差异化激励机制",
+   "en": "differential incentive mechanism for financial supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协方差分析",
+   "en": "analysis of covariance，ancova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "检验两组或多组修正均数之间有无差异时，消除混杂因素（协变量）对于分析指标影响的一种多变量统计分析方法。其中，协变量是指会对因变量产生影响，但是却不被研究者关心的变量。"
+  },
+  {
+   "cn": "性别分化",
+   "en": "differentiation of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "不同性别之间在生存状况、发展条件、社会地位等方面差异性的增加和差距的扩大。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量条目在不同群组的功能表现不一致的现象。其结果是具有相同潜在特质的个体因为属于不同群组（如种族、性别等）对测量条目产生不同反应。"
+  },
+  {
+   "cn": "区别对待分化瓦解",
+   "en": "differentiate the enemies and make them disintegrate",
+   "source": "马克思主义",
+   "wordNumber": "03.0441",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1940年的《论政策》提出的中国共产党在民主革命时期的对敌斗争策略之一。强调根据敌对势力内部在对待反共和抗日问题上不一致的态度，加以区别，利用各派别之间的矛盾，采取不同政策，以达到分化、瓦解敌"
+  },
+  {
+   "cn": "急慢分治",
+   "en": "differentiate treatments for acute and chronic disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据急性、慢性疾病各自的特点，分流患者到适合的医疗机构就诊，提高不同类别医疗机构使用效率的分级诊疗模式。"
+  },
+  {
+   "cn": "分化群",
+   "en": "cluster of diferentiation, CD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.34",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "白细胞分化抗原的归类及命名系统，借助单克隆抗体鉴定为主的聚类分析法，将来自不同实验室单克隆抗体所识别的同一白细胞分化抗原归为同一个分化群。相关抗原统称为“CD抗原(CD antigen)”或“分化抗原"
+  },
+  {
+   "cn": "卵巢储备功能",
+   "en": "ovarian reserve",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "卵巢皮质内含有的未生长或静息状态的原始卵泡数量，反映卵泡生长、发育、形成可受精卵母细胞的能力。"
+  },
+  {
+   "cn": "卵巢移植",
+   "en": "ovarian transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.019",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，摘取器官供体具有生理功能的单侧或双侧卵巢，将其植入器官受体以代替其病损卵巢的技术。"
+  },
+  {
+   "cn": "卵巢功能衰退",
+   "en": "ovarian function decline",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期妇女卵巢内卵泡数明显减少，且易发生卵泡发育不全的一种生理现象。临床以月经模式变化为主要衡量依据。"
+  },
+  {
+   "cn": "卵巢功能衰竭",
+   "en": "ovarian function failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "卵巢内卵泡自然耗竭或剩余的卵泡对垂体促性腺激素丧失反应造成的一种生理现象。"
+  },
+  {
+   "cn": "卵巢性排卵障碍",
+   "en": "ovarian ovulation disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.5.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_女性不孕",
+   "subjectName": "女性不孕",
+   "publishYear": "2025",
+   "definition": "卵巢出现器质性病变或功能失调，导致的排卵障碍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

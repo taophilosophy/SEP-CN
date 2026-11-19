@@ -1,0 +1,632 @@
+{
+ "key": "sense enumeration",
+ "term": "sense enumeration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:00:04+00:00",
+ "status": "ok",
+ "note": "variant=sense enumeration; 审定公布名词库=553; 海峡两岸名词对照库=195; 其他来源数据库=27; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "source": "数学名词",
+   "wordNumber": "02.0264",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐式枚举",
+   "en": "implicit enumeration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "整数规划问题的一种求解思想。根据求解过程中获得的可行性和目标函数的相关信息，不需要枚举所有的整数解即可得到最优解。通常认为该思想等同于分支定界，但与其早期版本有区别。"
+  },
+  {
+   "cn": "枚举定理",
+   "en": "enumeration theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0162",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如下定理：存在一个部分可计算二元函数  ，使对一切 e,x ，有φ (e,x)=<img src='/root/syzx/static/spz/jsjkx3.02.0161.001.png'/>(x)"
+  },
+  {
+   "cn": "能行枚举",
+   "en": "effective enumeration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0178",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "枚举一个集合的算法执行过程。"
+  },
+  {
+   "cn": "计数资料",
+   "en": "enumeration data",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "用定性的方法对观察单位进行测量得到的资料。"
+  },
+  {
+   "cn": "枚举法",
+   "en": "enumeration algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "计数问题",
+   "en": "enumeration problem",
+   "source": "数学名词",
+   "wordNumber": "03.0010",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "重量枚举器",
+   "en": "weight enumerator",
+   "source": "电子学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相对化枚举定理",
+   "en": "relativized enumeration theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "全体一元谕示图灵机可以由一个谕示图灵机来枚举。即存在一个 z ，使得对一切自然数集 A 和自然数 x,y ，<img src='/root/syzx/static/spz/jsjkx3.02.0208"
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "化学工程名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "波利亚计数定理",
+   "en": "Polya enumeration theorem",
+   "source": "数学名词",
+   "wordNumber": "03.0192",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "数学名词",
+   "wordNumber": "011.0179",
+   "subjectFullName": "数学_运筹学_线性规划",
+   "subjectName": "线性规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.182",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础的。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.054",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能为人的沟通交往提供感知信息的一种生理感官能力。如人的视觉、听觉、味觉、嗅觉和触觉。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "核医学名词",
+   "wordNumber": "04.0772",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础。"
+  },
+  {
+   "cn": "义项",
+   "en": "sense",
+   "source": "语言学名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "按一个词目或字头、词头的不同含义分列的释义项目。由语词实际使用所体现的若干义点抽象概括而成。"
+  },
+  {
+   "cn": "递归可枚举集合",
+   "en": "recursively enumerable set",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0158",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机接受的集合，即存在一个算法来枚举其成员的集合。"
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0157",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵机接受的语言，即存在一个算法来枚举其成员的语言。"
+  },
+  {
+   "cn": "递归可枚举集",
+   "en": "recursively enumerable set",
+   "source": "数学名词",
+   "wordNumber": "02.0240",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "义项划分",
+   "en": "sense discrimination,sense distinction",
+   "source": "语言学名词",
+   "wordNumber": "06.283",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "对多义词头不同意义的区分与编排。每一义项除用序号标志外，还根据实际需要配有区别符、引导词和注释等。"
+  },
+  {
+   "cn": "枚举",
+   "en": "enumeration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枚举法",
+   "en": "enumeration method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重量枚举器",
+   "en": "weight enumerator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐枚举法",
+   "en": "implicit enumeration method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归可枚举语言",
+   "en": "recursively enumerable language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sense\",\"sensus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "本体感觉",
+   "en": "proprioceptive sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光觉",
+   "en": "photic sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味觉",
+   "en": "taste sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有义RNA（=正义RNA）",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正义RNA，有义RNA",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "色觉",
+   "en": "color sense",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辨向天线",
+   "en": "sense antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "读出电路",
+   "en": "sense circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穷举法",
+   "en": "enumeration method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧感知",
+   "en": "intelligent sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能传感产业",
+   "en": "intelligent sensing industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识感知技术",
+   "en": "tag sensing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市智能感知",
+   "en": "urban smart sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感测量技术",
+   "en": "sensing and measurement technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遥感图像识别",
+   "en": "remote sensing image recognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见闻之知",
+   "en": "Knowledge from One’s Senses",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行己有耻",
+   "en": "Conduct Oneself with a Sense of Shame",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宜民",
+   "en": "Nurture a Sense of Contentment Among the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中华民族共同体意识",
+   "en": "the sense of community for the Chinese nation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36962-2018 传感数据分类与代码》",
+   "en": "GB/T 36962-2018 Classification and codes for sensing data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "让人民群众有更多获得感",
+   "en": "Enabling the people to have a greater sense of fulfillment.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社区意识",
+   "en": "sense of community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "社区成员基于社区场域空间所具有的一种归属感和认同感、一种认识到成员之间以及对于整个群体而言都很重要的感觉。并且是一种对通过彼此承诺来满足成员需求的共识。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "民族认同感",
+   "en": "sense of ethnic identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0485",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同一民族的人之间存在着一种族属亲近感、文化认同感。"
+  },
+  {
+   "cn": "生物战剂袭击侦检",
+   "en": "sense surveillance of biological attack",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用技术手段开展生物战剂气溶胶监测和针对外环境样本进行生物战剂检测的过程。"
+  },
+  {
+   "cn": "中华民族共同体意识",
+   "en": "sense of Chinese Nation as one united community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0107",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族共同体这一历史客观存在在人们头脑中的反映，是在中华民族共同体建设过程中形成的中华民族共同心理意识，即对中华民族的最高认同及由此产生的对中华民族的使命感、归属感、荣誉感。它是国家层面最高的社会归"
+  },
+  {
+   "cn": "铸牢中华民族共同体意识",
+   "en": "forging a strong sense of community for the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0108",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "就是要引导各族人民牢固树立休戚与共、荣辱与共、生死与共、命运与共的共同体理念，推动各民族树立正确的国家观、历史观、民族观、文化观、宗教观，增强国家意识、公民意识、法治意识，坚定对伟大祖国、中华民族、中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

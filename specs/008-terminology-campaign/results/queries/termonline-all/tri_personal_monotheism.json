@@ -1,0 +1,772 @@
+{
+ "key": "tri-personal monotheism",
+ "term": "Tri-personal Monotheism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:57:09+00:00",
+ "status": "ok",
+ "note": "variant=Tri-personal Monotheism; 审定公布名词库=1074; 海峡两岸名词对照库=283; 其他来源数据库=117; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "TRI球形填料",
+   "en": "TRI spherical packing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.089",
+   "subjectFullName": "化工（八）_化工设备_塔设备",
+   "subjectName": "塔设备",
+   "publishYear": "2021",
+   "definition": "由许多格栅状的枝条棒组成一个空心球体的球形填料。"
+  },
+  {
+   "cn": "三致性",
+   "en": "tri-pathogenicity",
+   "source": "精细化工名词",
+   "wordNumber": "03.0206",
+   "subjectFullName": "精细化工_农药_毒性与毒理",
+   "subjectName": "毒性与毒理",
+   "publishYear": "2025",
+   "definition": "致癌性、致畸性、致突变性的总称。"
+  },
+  {
+   "cn": "三枝蕨类",
+   "en": "trimerophytophytes,tri-merophytes",
+   "source": "植物学名词",
+   "wordNumber": "14.0081",
+   "subjectFullName": "植物学_古植物学",
+   "subjectName": "古植物学",
+   "publishYear": "2019",
+   "definition": "早期陆地植物。植物茎轴无叶，二叉分枝或假单轴分枝，孢子囊顶生，初生木质部为心始式。生存于泥盆纪。"
+  },
+  {
+   "cn": "三凹征",
+   "en": "tri-retraction sign",
+   "source": "麻醉学名词",
+   "wordNumber": "03.725",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_气道管理",
+   "subjectName": "气道管理",
+   "publishYear": "2024",
+   "definition": "吸气时胸骨上窝、锁骨上窝、肋间隙出现明显凹陷的现象。是由于上气道部分梗阻所致吸气性呼吸困难。常见于气管异物、喉水肿、白喉等。"
+  },
+  {
+   "cn": "三螺杆挤出机",
+   "en": "tri-screw extruder",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1376",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "通过三根螺杆在机筒内转动，将物料与添加剂、填充物等输送、塑化、熔融、混炼、排气的挤出机。三根螺杆可以三角形排列或水平排列。"
+  },
+  {
+   "cn": "三网融合",
+   "en": "tri-network convergence",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.550",
+   "subjectFullName": "城乡规划学_城乡规划与设计_工程规划",
+   "subjectName": "工程规划",
+   "publishYear": "2021",
+   "definition": "电信网、有线广播电视网、互联网在向宽带通信网、数字电视网、下一代互联网演进的过程中，通过技术改造，实现网络互联互通的功能和业务范围的融合。"
+  },
+  {
+   "cn": "三流水力旋流器",
+   "en": "tri-flow hydrocyclone",
+   "source": "冶金学名词",
+   "wordNumber": "03.0350",
+   "subjectFullName": "冶金学_选矿_破碎、筛分及分级",
+   "subjectName": "破碎、筛分及分级",
+   "publishYear": "2019",
+   "definition": "有三个流的水力旋流器。它是在传统旋流器的溢流管中同心插入另一根提供第二种溢流的溢流管改进而成。"
+  },
+  {
+   "cn": "三态门",
+   "en": "tri-state gate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0071",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "一类输出除了高电平、低电平外，还有称为“高阻抗”的第三种状态的逻辑门，经常用于总线接口电路。"
+  },
+  {
+   "cn": "三关现象",
+   "en": "tri-risk phenomenon",
+   "source": "地方病学名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "地方病学_克山病_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "北方病区急型克山病多发生在冬季的\"头场雪\"\"三九天\"和\"过小年\"三个时段的现象。"
+  },
+  {
+   "cn": "三相弹",
+   "en": "tri-phase bomb",
+   "source": "放射医学与防护名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "放射医学与防护_核武器损伤_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2014",
+   "definition": "外壳加上一层<img src='/root/syzx/static/spz/fangshefanghu1.09.006.png'/>金属外层的氢弹。使爆炸威力增大，其威力从几百万吨到几千万吨梯恩梯当量"
+  },
+  {
+   "cn": "三字组",
+   "en": "tri syllabic form",
+   "source": "语言学名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "汉语方言中由三个音节构成的音节组合。多用于考察三音节成分的连读变调形式和规律。"
+  },
+  {
+   "cn": "三电极测深",
+   "en": "tri-electrode sounding",
+   "source": "石油名词",
+   "wordNumber": "03.0215",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "当事人",
+   "en": "person",
+   "source": "运动医学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "相关的自然人、组织或其他实体。"
+  },
+  {
+   "cn": "人称",
+   "en": "person",
+   "source": "语言学名词",
+   "wordNumber": "04.242",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "一种语法范畴。由动词的词形变化所表示的行为动作之所属——属于说话一方的，是第一人称；属于听话一方的，是第二人称；属于说话人与听话人之外第三方的，是第三人称。有些语言里，谓语动词的词形变化要与代词、名词"
+  },
+  {
+   "cn": "三羟甲基氨基甲烷",
+   "en": "trihydroxymethyl aminomethane;Tris",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.102",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_常用试剂_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "广泛用做生物缓冲液成分的化合物。缓冲pH范围7～9，pKa（20℃）=8.3，pKa（37℃）= 7.82。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.198",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体内在的心理生理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "个性化",
+   "en": "personalization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.144",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "包括定制服务或产品以适应特定的个人和群体。各种各样的组织使用个性化来提高客户满意度，转化数字销售，提升营销结果，加强品牌，改进网站指标以及广告。个性化是社交媒体和推荐系统中的关键要素。"
+  },
+  {
+   "cn": "个人化",
+   "en": "personalization",
+   "source": "行为医学名词",
+   "wordNumber": "2.114",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "把自己当作整个世界，认为世界上的一切或多或少地都和自己有关。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "行为医学名词",
+   "wordNumber": "4.104",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "精神医学名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "一个人独特生活风格和适应模式的、根深蒂固的思维、认知、情感和行为模式。是体质因素、发育和社会经验的结果。"
+  },
+  {
+   "cn": "三列杂交",
+   "en": "tri-allel cross",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "三物镜摄影",
+   "en": "tri-metrogon photography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "三态门",
+   "en": "tri-state gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三[层]金属轴承",
+   "en": "tri-metal bearing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人化",
+   "en": "personalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人差",
+   "en": "personal error\",\"personal equation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "叫人电话",
+   "en": "person-to-person call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人格结构，人格架构",
+   "en": "personality structure\",\"personality architecture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三物镜航空摄影测量",
+   "en": "tri-metrogon aerial photogrammetry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "人差方程",
+   "en": "personal equation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人空间",
+   "en": "personal space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人归因",
+   "en": "personal attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体无意识",
+   "en": "personal unconscious",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人距离",
+   "en": "personal distance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人建构",
+   "en": "personal construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人契约",
+   "en": "personal contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "个人投资",
+   "en": "personal investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "个人信贷",
+   "en": "personal credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "personal saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人特点",
+   "en": "personality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人计算机",
+   "en": "Personal Computer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人身权",
+   "en": "personal right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人同意",
+   "en": "personal consent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "侵人犯规",
+   "en": "personal foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侵人犯规",
+   "en": "personal foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "personal contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法人",
+   "en": "legal person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟人格",
+   "en": "virtual personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格数据化",
+   "en": "personality datamation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个性化定制",
+   "en": "personalized customization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个性化服务",
+   "en": "personalized services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律人格",
+   "en": "legal personality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一神论",
+   "en": "monotheism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0307",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "信奉绝对一神的信仰或信念体系，如犹太教、伊斯兰教和基督教。"
+  },
+  {
+   "cn": "个性",
+   "en": "personality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "一组在不同环境中显现并影响个体的外显和内隐行为模式与相对稳定心理特征的总和。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0069999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个体内在生理心理系统的动力组织和由此决定的独特的思维、情感和行为模式。"
+  },
+  {
+   "cn": "人格",
+   "en": "personality",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体稳定表现的心理特质，由遗传与环境因素共同决定。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "用来防御物理、化学、生物等有害因素可能对人体造成伤害的措施。"
+  },
+  {
+   "cn": "个人剂量",
+   "en": "personal dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.3.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_新的实用量",
+   "subjectName": "新的实用量",
+   "publishYear": "2025",
+   "definition": "参考体模在旋转和各向同性宽射束均匀平行照射场景下有效剂量。SI单位为焦耳每千克，专有名称希沃特，记作Sv。"
+  },
+  {
+   "cn": "个人剂量计",
+   "en": "personal dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "放射工作人员佩戴的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "个人监测",
+   "en": "personal monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为提供工作人员个人所接受的辐射水平而进行的辐射监测。"
+  },
+  {
+   "cn": "私人空间",
+   "en": "personal space",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "在公共场合，个体认为属于自己，因而在一般情况下不愿意他者进入的空间范围。其大体范围在60厘米至150厘米之间。广义上除上述情形外，还包括房间、日记、内在状态等。"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "个人认同",
+   "en": "personal identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个体对其所拥有的，能够将其与他人区分开来的独特特征与品质的确认。"
+  },
+  {
+   "cn": "个人价值",
+   "en": "personal value",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "社会中的个体所持有的价值观。就社会工作者而言，既持有专业价值，作为普通人也还有其特定的价值观。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "个人防护",
+   "en": "personal protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射防护",
+   "subjectName": "核辐射防护",
+   "publishYear": "2025",
+   "definition": "个人为避免或减轻核武器的伤害所采取的防护措施。主要有及时正确用防护器材，借地形地物做正确防护动作，服用预防药，避免或缩短与放射性灰尘接触，严格遵守沾染区行动规定。"
+  },
+  {
+   "cn": "个人剂量仪",
+   "en": "personal dosimeter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.21.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "电离辐射职业人员佩带的，用以监测个人剂量的剂量计。"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "人知觉",
+   "en": "person perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "个体根据有限的信息形成了对他人各种印象，随后对这些印象进行调整与整合，从而形成对他人一般印象的过程。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "权威人格",
+   "en": "authoritarian personality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.1",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "一种人格类型，包含如下特征：在性格上极为保守，思想封闭，观念狭窄；崇尚权威，重视权力和地位，对上低声下气，卑躬屈膝；对下作威作福，盛气凌人；对同僚刚愎自用，绝不容忍通融。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

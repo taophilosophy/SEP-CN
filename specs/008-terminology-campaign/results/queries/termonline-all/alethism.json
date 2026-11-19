@@ -1,0 +1,22 @@
+{
+ "key": "alethism",
+ "term": "alethism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:57:26+00:00",
+ "status": "ok",
+ "note": "variant=alethism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "双面真理论",
+   "en": "dialethism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.299",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一种试图解决说谎者悖论等语义悖论的语义学。在这种语义学的解释下，句子的语义值有三个，真、假、既真又假。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "foundations of ethics",
+ "term": "Foundations of Ethics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:58:43+00:00",
+ "status": "ok",
+ "note": "variant=Foundations of Ethics; 审定公布名词库=10000; 海峡两岸名词对照库=7418; 其他来源数据库=1836; 预公布名词数据库=2916; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "粉底",
+   "en": "foundation",
+   "source": "精细化工名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "涂敷于面部，具有遮盖皮肤瑕疵或修饰肤色等作用，以粉质原料、颜料均匀地分散或悬浮于基质中制成的产品。"
+  },
+  {
+   "cn": "巢础",
+   "en": "foundation",
+   "source": "畜牧学名词",
+   "wordNumber": "09.122",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "人工制造的蜜蜂巢房房基。一般采用蜂蜡或无毒塑料制成。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "01.737",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "直接支承建筑物重量的地层部位,它是由岩土体构成。"
+  },
+  {
+   "cn": "杆塔基础",
+   "en": "foundation",
+   "source": "电力名词",
+   "wordNumber": "22.158",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "埋设在地下,与杆塔底部连接,稳定承受所作用荷载的一种结构。"
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0554",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "根据《基金管理办法》，基金会是指对国内外社会团体和其他组织以及个人自愿捐赠资金进行管理的民间非营利性组织，是社会团体法人。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "建筑学名词",
+   "wordNumber": "13.0292",
+   "subjectFullName": "建筑学_建筑结构_地基与基础",
+   "subjectName": "地?基与基础",
+   "publishYear": "2014",
+   "definition": "将建筑物承受的各种作用传递到地基上的结构组成部分。"
+  },
+  {
+   "cn": "基础",
+   "en": "foundation",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.132",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.188",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_岩土工程（水利）",
+   "subjectName": "岩土工程（水利）",
+   "publishYear": "1997",
+   "definition": "承受结构物荷载的岩体、土体。"
+  },
+  {
+   "cn": "地基",
+   "en": "foundation",
+   "source": "地质学名词",
+   "wordNumber": "09.015",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地基",
+   "en": "foundation bed;foundation",
+   "source": "地质学名词",
+   "wordNumber": "17.04.195",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "承担建筑物全部载荷，受建筑物影响的岩土体。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.240",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究数学是不是一门可靠的科学以及它为什么是可靠的学科。活跃于这一领域的大多数是数理逻辑学家。数学基础与数学哲学的界限有时是模糊的，它可以看作用严格数学的手段处理关于数学的哲学问题的努力。"
+  },
+  {
+   "cn": "基础立柱",
+   "en": "chimney [of foundation]",
+   "source": "电力名词",
+   "wordNumber": "22.163",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "基础的收缩部分。杆塔的插入式主材与地脚螺栓埋设其中。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethics of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.206",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "研究科学与伦理道德的相互关系、相互作用的规律，为科研工作提供道德审查。"
+  },
+  {
+   "cn": "技术伦理学",
+   "en": "ethics of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探讨技术发展带来的社会问题的学科。探讨人类的技术活动所引起的社会与自然的变化，协调技术与自然和社会的关系，调节人类技术活动的行为规范和道德准则，促进技术与自然及社会持续健康发展。"
+  },
+  {
+   "cn": "战争伦理",
+   "en": "ethics of war",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.400",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "关于战争和武装冲突的伦理原则和伦理规范。狭义的战争伦理是关于战争或武装冲突的开始与结束，战争期间交战国之间、交战国与中立国或非交战国之间关系的原则和规则。广义的战争伦理除包括上面提及的内容外，还包括维"
+  },
+  {
+   "cn": "基本音音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本音栓",
+   "en": "foundation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "桩基",
+   "en": "pile foundation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "天线基座",
+   "en": "antenna foundation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基床",
+   "en": "foundation bed\",\"bedding",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重力式基础",
+   "en": "gravity type foundation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Java基础类[库]",
+   "en": "Java foundation class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉座",
+   "en": "boiler foundation\",\"boiler bearer",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "主机基座",
+   "en": "main engine foundation\",\"main engine bed",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "动量矩守恒原理",
+   "en": "principle of conservation of moment of momentum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支调整机制",
+   "en": "mechanism of adjustment of balance of payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "耳轮脚沟",
+   "en": "sulcus of crus of helix\",\"groove of crus of helix",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "耳轮切迹肌",
+   "en": "muscle of notch of helix\",\"muscle of incisure of helix",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "Of型星",
+   "en": "Of star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定形",
+   "en": "setting of",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "股骨头韧带",
+   "en": "ligament of head of femur",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全基础",
+   "en": "Security Foundation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民惟邦本",
+   "en": "People Are the Foundation of the State",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家科学基金网",
+   "en": "National Science Foundation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据基础类标准",
+   "en": "foundation standard for big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国红十字基金会",
+   "en": "Chinese Red Cross Foundation (CRCF)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互联网行业职业道德建设",
+   "en": "development of professional ethics in the Internet industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的作风建设",
+   "en": "promoting ethical standards within the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民心惟本",
+   "en": "The People’s Will Is the Foundation of the State.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基金会",
+   "en": "foundation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "利用国内外自然人、法人或者其他组织捐赠的资金，以推进科学研究、文化教育、社会福利和其他公益事业发展为目的成立的民间非营利性组织。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "性伦理",
+   "en": "ethics of sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.7.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性伦理",
+   "subjectName": "性伦理",
+   "publishYear": "2025",
+   "definition": "调节性关系和交往活动中的道德规范。用于规范性行为的对象、方式、观念等。"
+  },
+  {
+   "cn": "意志主义伦理学",
+   "en": "ethics of voluntarism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.139",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从意志主义出发说明道德现象的非理性主义伦理学理论。是近代伦理学从理性主义转向非理性主义的标志。"
+  },
+  {
+   "cn": "精神分析伦理学",
+   "en": "ethics of psychoanalysis",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1420000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "从西格蒙德·弗洛伊德（SigmundFreud）精神分析学出发说明道德现象的伦理学理论。"
+  },
+  {
+   "cn": "伦理守则",
+   "en": "code of ethic",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "明确制定出来以规范群体成员相关行为的准则。在社会工作领域，职业相关团体组织定期发布该类守则，如中国民政部发布的《社会工作者职业道德规范》。"
+  },
+  {
+   "cn": "社会工作的理论基础",
+   "en": "the theoretical foundation of",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "支撑社会工作实践的基础性理论部分。主要包括社会学、经济学、心理学等学科领域中对社会工作具有重要或直接影响的一些理论、学说。"
+  },
+  {
+   "cn": "社会主义的经济基础",
+   "en": "economic foundation of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0317",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家建立的以生产资料公有制为基础和主体的社会主义生产关系各个方面的总和。"
+  },
+  {
+   "cn": "社会工作伦理",
+   "en": "ethics of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "规范社会工作者从事职业活动的道德准则。一般依据社会工作专业价值观，由专业共同体所制定，主要包括：保护隐私、受助者的自我决定、对机构的忠诚等。"
+  },
+  {
+   "cn": "全美社会工作者协会伦理守则",
+   "en": "NASW Code of Ethics",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "全美社会工作者协会（NASW）通过会员大会制定和发布的、供社会工作者遵行的伦理守则。被全美社会工作者协会及社会工作者个人、机构、组织和单位采用或作为参考构架，包括了对案主、对同事、对机构、对社会工作专"
+  },
+  {
+   "cn": "麻醉科伦理",
+   "en": "ethics of anesthesia department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.07",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "围麻醉期和手术麻醉时涉及的伦理问题及应遵循的伦理规范。包括常规检查麻醉机和监护仪器的性能；术前选择最佳的麻醉方法，取得患者知情同意；麻醉期间坚守岗位，做好麻醉记录；术中冷静处理麻醉意外，术后做好交接与"
+  },
+  {
+   "cn": "癌症治疗伦理",
+   "en": "ethics of cancer treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.053999999999999",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医务人员对癌症患者进行治疗和照护过程中涉及的伦理问题和应遵循的伦理规范。"
+  },
+  {
+   "cn": "老年病科伦理",
+   "en": "ethics of geriatric department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.072",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在诊治老年患者的过程中涉及的伦理问题及应遵循的伦理规范。包括尊重老人，服务周到；诊疗细心，格外重视；关注心理，加强沟通等。"
+  },
+  {
+   "cn": "手术治疗伦理",
+   "en": "ethics of surgical treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.0569999999999995",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医疗手术过程中涉及的伦理问题及应遵循的伦理规范。包括术前严格掌握手术适应证、帮助患者调节术前心态、方案优化、知情同意；术中严谨审慎、全神贯注，团结协作、密切配合；术后密切观察、加强监护，防止并发症发生"
+  },
+  {
+   "cn": "灾害救治伦理",
+   "en": "ethics of disaster treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.204",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在重大灾害救治过程中，医务人员及其他有关人员或组织、机构应当遵守的伦理规范和要求。"
+  },
+  {
+   "cn": "精神科伦理",
+   "en": "ethics of psychiatry department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.067",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "预防和诊治精神疾患过程涉及的伦理问题及应遵循的伦理规范。包括尊重患者，极端负责；正直无私，恪守审慎；规范强迫性治疗，严防滥施强制性措施；恰当对待异性患者等。"
+  },
+  {
+   "cn": "放射科伦理",
+   "en": "ethics of radiology department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.071000000000001",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "运用放射技术为患者进行诊疗时涉及的伦理问题及应遵循的伦理规范。包括一丝不苟，防止遗漏；加强防护，降低损伤；举止端庄，尊重人格；加强设备管理，保护环境等。"
+  },
+  {
+   "cn": "自我实现伦理学",
+   "en": "ethics of self-actualization",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1440000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "把道德活动的根本目的看作是个人实现自己的“内在自我”的伦理学理论。认为个人道德上的自我实现是真正的善，或者最高的善，是完善或者改变社会生活的基本途径。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

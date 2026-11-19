@@ -1,0 +1,752 @@
+{
+ "key": "accidental sameness",
+ "term": "accidental sameness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:57:05+00:00",
+ "status": "ok",
+ "note": "variant=accidental sameness; 审定公布名词库=667; 海峡两岸名词对照库=48; 其他来源数据库=19; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "意外低体温",
+   "en": "accidental hypothermia",
+   "source": "急救医学名词",
+   "wordNumber": "05.087",
+   "subjectFullName": "急救医学_灾难医学_灾难损伤_常见损伤",
+   "subjectName": "常见损伤",
+   "publishYear": "2025",
+   "definition": "寒冷环境引起体核温度无意识地（非人为因素）降低到35℃以下而造成人体多系统受损。有别于用于治疗目的的诱导低温。严重低温（体核温度＜28℃）会导致循环抑制、免疫功能紊乱、凝血功能障碍、神经功能缺失，最终"
+  },
+  {
+   "cn": "意外低温",
+   "en": "accidental hypothermia",
+   "source": "麻醉学名词",
+   "wordNumber": "04.134",
+   "subjectFullName": "麻醉学_专科麻醉_其他",
+   "subjectName": "其他",
+   "publishYear": "2024",
+   "definition": "寒冷环境引起体温过低，从而引起以神经和心血管系统损伤为主的严重的全身性疾病。"
+  },
+  {
+   "cn": "偶然性沟通",
+   "en": "accidental communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.071",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "沟通双方没有明确目标与对象的，非确定性发生与随机性的交流与互动。这是一种难以预期的，沟通过程中不存在深层次交流与反馈的交往行为。"
+  },
+  {
+   "cn": "偶见种",
+   "en": "accidental species ",
+   "source": "草学名词",
+   "wordNumber": "2.0136",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "意外伤害",
+   "en": "accidental injury",
+   "source": "行为医学名词",
+   "wordNumber": "7.064",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "外来、突发、非本意的事件使机体生理和（或）心理受到损害。"
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accidental error",
+   "source": "冶金学名词",
+   "wordNumber": "04.0697",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "由于偶然或不确定因素造成的同一测量量的多次重复测量中，各次观测值的无规则变化(涨落)的误差。"
+  },
+  {
+   "cn": "偶然符合",
+   "en": "accidental coincidence",
+   "source": "物理学名词",
+   "wordNumber": "01.0258",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "随机精度",
+   "en": "accidental accuracy",
+   "source": "物理学名词",
+   "wordNumber": "01.0215",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偶然简并性",
+   "en": "accidental degeneracy",
+   "source": "物理学名词",
+   "wordNumber": "08.1276",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accidental error",
+   "source": "物理学名词",
+   "wordNumber": "01.0224",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0321",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "使系统状态发生偶然性非授权改变的行为。"
+  },
+  {
+   "cn": "随机符合",
+   "en": "accidental coincidence",
+   "source": "核医学名词",
+   "wordNumber": "03.0313",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "符合探测到的两个光子分别来自于几乎同时发生的两个独立的湮灭事件。不含任何定位信息。"
+  },
+  {
+   "cn": "偶然宿主",
+   "en": "accidental host",
+   "source": "地方病学名词",
+   "wordNumber": "01.023",
+   "subjectFullName": "地方病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "偶然性地参与了疾病流行的宿主。既不会对疾病总体的流行强度产生明显的影响，更不会对病原体的保存起到实质性的作用。"
+  },
+  {
+   "cn": "偶然寄生虫",
+   "en": "accidental parasite",
+   "source": "地方病学名词",
+   "wordNumber": "09.017",
+   "subjectFullName": "地方病学_寄生虫病_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "因偶然机会进入非正常宿主体内寄生的寄生虫。"
+  },
+  {
+   "cn": "事故照射",
+   "en": "accidental exposure",
+   "source": "化学名词",
+   "wordNumber": "06.0456",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "在事故情况下受到的一种异常照射。专指非自愿的意外照射，不同于应急照射。"
+  },
+  {
+   "cn": "外伤性文身",
+   "en": "accidental tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "外伤致体外有色粉尘微粒机械性侵入皮内使其形成不规则的着色。它常见于烟花和化学物质的爆炸及皮肤碾挫伤等。"
+  },
+  {
+   "cn": "爆炸性粉粒沉着症",
+   "en": "accidental tattoos",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "医学美学与美容医学_美容皮肤科学",
+   "subjectName": "美容皮肤科学",
+   "publishYear": "2015",
+   "definition": "因职业、工种、战争及各种意外事件，使某些不能吸收的粉粒异物随外伤进入皮肤和黏膜而引起的各种色素沉着。"
+  },
+  {
+   "cn": "偶然作用",
+   "en": "accidental action",
+   "source": "建筑学名词",
+   "wordNumber": "13.0078",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "在设计使用年限内不一定出现，而一旦出现其量值很大，且持续期很短的作用。例如爆炸力、撞击力等。"
+  },
+  {
+   "cn": "偶遇抽样",
+   "en": "accidental sampling",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "调查者根据实际情况使用对自己最为便利的方式选取样本的方法。可以抽取偶然遇到的人或者选择那些最容易找到的人作为调查对象。"
+  },
+  {
+   "cn": "意外危机",
+   "en": "accidental crisis",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.102",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_心理影响和干预",
+   "subjectName": "心理影响和干预",
+   "publishYear": "2014",
+   "definition": "因意外事故所形成的心理危机。如因亲友意外亡故，意外伤害、经济破产、职位丧失等不期而至事故的打击，常使当事者无法承受过大的压力，而陷入心理崩溃的边缘。"
+  },
+  {
+   "cn": "临时记号",
+   "en": "accidental",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偶见寄主",
+   "en": "accidental host",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accidental error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accidental error",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偶然误差",
+   "en": "accidental error",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "事故照射",
+   "en": "accidental exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偶见寄主",
+   "en": "accidental host",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "事故污染， 意外污染",
+   "en": "accidental pollution",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意外泄漏",
+   "en": "accidental spillage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事故污染",
+   "en": "accidental pollution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "偶见宿主",
+   "en": "accidental host",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "偶然失效期",
+   "en": "accidental failure period",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偶见宿主",
+   "en": "accidental host\",\"incidental host",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "偶然符合",
+   "en": "random coincidence\",\"accidental coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偶然寄生虫",
+   "en": "accidental parasite\",\"occasional parasite",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "偶见种，偶遇种",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶遇种（=偶见种）",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "safeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配乐",
+   "en": "incidental music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意外换舷",
+   "en": "accidental gybe",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身若伏波，与子同海，若为落木，与子同枝，若为兰草，与子同室。（援助意大利，源自古罗马则学家塞涅卡）",
+   "en": "We are waves of the same sea, leaves of the same tree, flowers of the same garden.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同胞",
+   "en": "Brothers and Sisters of the Same Parents; Compatriots",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吴越同舟",
+   "en": "People of Wu and Yue Are in the Same Boat.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上下同欲者胜",
+   "en": "Triumph Comes When Leaders and Followers Share the Same Goal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山川异域，风月同天。",
+   "en": "While mountains and rivers separate us, we enjoy the same moonlight under the same sky.或Miles apart but close at heart.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“两岸一家亲”",
+   "en": "People on both sides of the Taiwan Straits are of the same family.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二人同心，其利断金",
+   "en": "If Two People Are of the Same Mind, Their Combined Strength Can  Break Metal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "厉与西施，道通为一",
+   "en": "A Scabby Person and the Beautiful Lady Xishi Are the Same in the Eyes of Dao.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事故",
+   "en": "accident",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圣",
+   "en": "Sage / Sageness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非故意接触",
+   "en": "incidental contact\",\"occasional touching",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本末",
+   "en": "Ben and Mo (The Fundamental and the Incidental)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同线同标同质",
+   "en": "same line same standard same quality，3S",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.20",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "出口企业的内外销产品在同一生产链条、按相同的标准生产，从而达到相同的质量水平。"
+  },
+  {
+   "cn": "事故照射",
+   "en": "accidental exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "在事故情况下受到的非自愿的、意外的照射。"
+  },
+  {
+   "cn": "偶遇抽样",
+   "en": "accidental sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.54",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一组乐于接受调查的个人组成的样本的一种非概率抽样设计。"
+  },
+  {
+   "cn": "意外死亡",
+   "en": "accidental death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.01",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "因无法预料的、非故意或过失的事件或行为所造成的死亡。"
+  },
+  {
+   "cn": "宗亲",
+   "en": "relatives of the same clan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以姓氏为区分的同宗亲属，是以父系血缘为纽带的，以得姓始祖为主根的传承支系关系家族。"
+  },
+  {
+   "cn": "男女同龄退休",
+   "en": "retirement in the same age for man and woman",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "主张男女两性应在相同年龄退休的政策建议。这一观点还存在争议。目前尚在执行的主要是男女退休年龄差别化政策，即中华人民共和国成立后国家以保护妇女为出发点而实行的女职工较男职工提前5年退休的政策规定。"
+  },
+  {
+   "cn": "又联合又斗争",
+   "en": "unite with them and at the same time struggle against them",
+   "source": "马克思主义",
+   "wordNumber": "03.0433",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党在抗日民族统一战线中正确处理国共两党关系的原则，其实质是坚持共产党在统一战线中的领导权。在本着有利于巩固统一战线的前提下，对国民党实行既团结又斗争的方针，以达到保持阵地和发展阵地"
+  },
+  {
+   "cn": "航海作业事故",
+   "en": "maritime accidents",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "船员航海作业中发生创伤、溺水、触电等，导致机体受损甚至死亡的事故。"
+  },
+  {
+   "cn": "事故剂量",
+   "en": "accident dosimetry",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "因事故造成的、且大于0.1Gy的剂量，用深部吸收剂量Dp(10)表示。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident potential",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.22",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "可能导致事故发生的物的危险状态、人的不安全行为及管理上的缺陷。"
+  },
+  {
+   "cn": "事故预防",
+   "en": "accident prevention",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "为保证设备或系统正常运行，防止或及时发现和纠正对正常运行的偏离，特别是防止严重的偏离发展成为事故而采取的措施。"
+  },
+  {
+   "cn": "核事故",
+   "en": "nuclear accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "核电厂或其他核设施中发生的严重偏离运行工况的状态。在这种状态下，放射性物质的释放可能或已经失去应有的控制，达到不可接受的水平。"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "意外发生的自持或发散的中子链式反应所造成的能量和放射性释放事件。"
+  },
+  {
+   "cn": "放射事故",
+   "en": "radiological accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "因放射源丢失、被盗、失控，或因放射性同位素和射线装置的设备故障或操作失误导致人员受到异常照射的意外事件。"
+  },
+  {
+   "cn": "重大事故",
+   "en": "serious accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "放射性物质向环境释放，等效放射性物质量达到1015Bq～1016Bq131I的情况。需要采取全面的场外应急响应以限制对人群健康的严重影响。"
+  },
+  {
+   "cn": "特大事故",
+   "en": "major accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "大型核设施（如动力反应堆）放射性物质向环境大量释放，包括短寿命和长寿命放射性裂变产物的混合物，等效放射性物质量超过1016Bq131I的情况。可能导致严重的健康影响，可能涉及到多个国家，具有长期的环境"
+  },
+  {
+   "cn": "临界事故",
+   "en": "critical accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "含易裂变材料的系统由于某种意外原因引起的非预计的能量和放射性释放事件。"
+  },
+  {
+   "cn": "核事故",
+   "en": "nuclear accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.1",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "核设施或核活动中发生意外事件导致放射性物质外泄，造成人员损伤、环境污染等危害的事故。"
+  },
+  {
+   "cn": "潜艇事故",
+   "en": "submarine accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.7",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "潜艇在航行过程中，由于指挥操纵和航行作业错误、机械装置故障、恶劣海况，或其他人为的、设备的、自然的及不明的等原因造成的损害。"
+  },
+  {
+   "cn": "航天意外事故",
+   "en": "space accident",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.9",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "在载人航天的各个阶段中，由于不可抗或不可预见因素导致的损害。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

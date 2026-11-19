@@ -1,0 +1,712 @@
+{
+ "key": "realizability model",
+ "term": "realizability model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:58:13+00:00",
+ "status": "ok",
+ "note": "variant=realizability model; 审定公布名词库=3597; 海峡两岸名词对照库=1144; 其他来源数据库=169; 预公布名词数据库=216; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "数学名词",
+   "wordNumber": "012.0478",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "自动化名词",
+   "wordNumber": "02.250",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "实现",
+   "en": "realization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0236",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的不继承结构、只继承行为的一种特殊的泛化关系。多数是用来表达接口类和实现(接口的)类之间的关系。"
+  },
+  {
+   "cn": "多重实现性",
+   "en": "multiple realizability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.500",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张一类心理状态（属性或事件）可被多种不同物理状态（属性或事件）所实现，即心灵可被多种不同类型的物理载体所实现的观点。"
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche ",
+   "source": "草学名词",
+   "wordNumber": "2.0261",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "动物学名词",
+   "wordNumber": "7.047",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在生物群落中，当有竞争者存在时，物种仅占据基础生态位的一部分，即实际占有的这部分生态位。"
+  },
+  {
+   "cn": "实现遗传力",
+   "en": "realized heritability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.383",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在一个表型选择试验中获得的累积选择反应与选择差的比值。"
+  },
+  {
+   "cn": "实现价差",
+   "en": "realized spread",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0213",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "衡量委托执行价格和委托执行后一段时间的买卖报价中点之间的差额。其反映委托执行后的市场影响成本。"
+  },
+  {
+   "cn": "实现遗传率",
+   "en": "realized heritability",
+   "source": "遗传学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在一个群体中实施表型选择时获得的实际选择反应与选择差的比率。"
+  },
+  {
+   "cn": "几何实现",
+   "en": "geometric realization",
+   "source": "数学名词",
+   "wordNumber": "08.0713",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "数学名词",
+   "wordNumber": "012.0477",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现理论",
+   "en": "realization theory",
+   "source": "数学名词",
+   "wordNumber": "012.0476",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "自动化名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.388",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "分别在两个群体中对两个不同的性状实施表型选择，根据获得的实际直接选择反应和间接选择反应所计算的性状间的相关。"
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在正常生产经营过程中，以资产预计售价减去进一步加工成本和预计销售费用以及相关税费后的净值。"
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "分别在两个群体中对两种数量性状实施表型选择，根据所获得的实际直接选择反应和间接选择反应计算出性状间的相关。"
+  },
+  {
+   "cn": "过程的实现",
+   "en": "realization of process",
+   "source": "数学名词",
+   "wordNumber": "09.0193",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "已实现收益率",
+   "en": "realized yield,horizon yield",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0337",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "债券从购买到提前赎回或债券到期所发生的实际利息率。"
+  },
+  {
+   "cn": "自我实现人假设",
+   "en": "self-realization person assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0170",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "人都需要发挥自己的潜力，表现自己的才能；只有人的潜力充分发挥出来，人的才能充分表现出来，人才会感到最大的满足。"
+  },
+  {
+   "cn": "温标的实现",
+   "en": "realization of temperature scale",
+   "source": "计量学名词",
+   "wordNumber": "09.011",
+   "subjectFullName": "计量学_温度_温度和温标",
+   "subjectName": "温度和温标",
+   "publishYear": "2015",
+   "definition": "按温标定义为获得温标而进行的一组操作。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可变现价值",
+   "en": "realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可变现资产",
+   "en": "realizable asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可实现的收入",
+   "en": "realizable income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现价格，实际价格",
+   "en": "realized price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现利润",
+   "en": "realized profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现收益",
+   "en": "realized income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现投资",
+   "en": "realized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传率,实现遗传力",
+   "en": "realized heritability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "实际出生率",
+   "en": "realized natality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "现实生态位",
+   "en": "realized niche",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生态死亡率,实际死亡率",
+   "en": "ecological mortality\",\"realized mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态出生率,实际出生率",
+   "en": "ecological natality\",\"realized natality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模型论",
+   "en": "model theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "KANO模型",
+   "en": "KANO model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网状模型",
+   "en": "network model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系模型",
+   "en": "relationship model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "公有制实现形式",
+   "en": "realization form of public ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0415",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全民所有制和集体所有制通过公有制以控股的形式建立股份制企业来实现自身的一种方式，是我国公有制企业的一种所有制形式和经营形式的统称。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "“社会—心理”模式",
+   "en": "psychosocial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "最具社会工作特点的一种治疗模式，也是个案工作中经常采用的传统治疗模式之一，与行为矫正模式、人本治疗模式一起并称为“当代三大个案工作治疗模式”。借助“人在情境中”的基本原理将心理和社会因素结合起来，强调"
+  },
+  {
+   "cn": "治疗模式",
+   "en": "remedial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "将小组工作与个案工作有机结合起来的一种小组工作方法模式或类型。通过提供服务给具有不同需要的个体，利用小组的经验来克服组员的个人心理、社会与文化的适应问题等，协助个人康复，获得最佳的社会功能。"
+  },
+  {
+   "cn": "互动模式",
+   "en": "reciprocal model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "强调小组成员的相互关系和满足组员需要的小组工作模式，代表人物是施瓦茨(H.Schwarz）。该模式关注个人与社会之间的关系，强调小组工作者运用小组来克服危机和压力，促成社会功能的实现，进而使个人获得“"
+  },
+  {
+   "cn": "折中模式",
+   "en": "eclectic model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "主张多重目标的小组工作模式。其认为任何小组工作的实施，不可能只靠单一方法就能达到目标，而是要灵活地运用不同的方法。在小组中，社会工作者应给予小组成员较大的行动空间和相对大的自由与民主，小组则应该提供更"
+  },
+  {
+   "cn": "学徒模式",
+   "en": "apprenticeship model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "一种全面的、综合的学习方式。强调提供实践机会、示范学习的社会工作督导模式。认为学习是一种“干中学”，好的实务来自于不断重复的学习，在干中不断提高。基于行为理论，强调过程与结果并重。其显著的特点在于督导"
+  },
+  {
+   "cn": "管理模式",
+   "en": "management model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调督导对被督导者负有行政管理和督促检查职责的督导模式。其按机构计划安排的工作任务进行督导，即是否能完成工作任务是督导最关注部分，并且是以技术为本的。督导是“问题—解决”取向的，着重帮助被督导者解决完"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

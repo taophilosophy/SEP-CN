@@ -1,0 +1,412 @@
+{
+ "key": "risalah fi'l-wujud",
+ "term": "Risālah fi’l-wujūd",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:58:28+00:00",
+ "status": "ok",
+ "note": "variant=Risālah fi’l-wujūd; 审定公布名词库=96; 海峡两岸名词对照库=16; 其他来源数据库=5; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "填方",
+   "en": "fill",
+   "source": "风景园林名词",
+   "wordNumber": "08.0069",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "施工中设计标高高于原地形标高时，从原地面填筑至完成面标高所需的土石方体积。"
+  },
+  {
+   "cn": "装粉量",
+   "en": "fill",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.091",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形",
+   "subjectName": "压制及成形",
+   "publishYear": "2021",
+   "definition": "装入阴模所需要的粉末量。"
+  },
+  {
+   "cn": "装料",
+   "en": "fill",
+   "source": "计量学名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "计量学_质量、密度、衡器_衡器",
+   "subjectName": "衡器",
+   "publishYear": "2015",
+   "definition": "一个或多个载荷装入一个容器，以构成预定的质量。"
+  },
+  {
+   "cn": "乱纹",
+   "en": "fill",
+   "source": "语言学名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "在宽带语图上表现出来的一片杂乱的状似雨潲的纹样。乱纹是擦音和送气在语图上的典型特征。"
+  },
+  {
+   "cn": "填土",
+   "en": "fill",
+   "source": "土木工程名词",
+   "wordNumber": "14.028",
+   "subjectFullName": "土木工程_土木工程勘察与测量_岩土成因分类",
+   "subjectName": "岩土成因分类",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "填方",
+   "en": "fill",
+   "source": "土木工程名词",
+   "wordNumber": "07.181",
+   "subjectFullName": "土木工程_城市道路工程_路基路面",
+   "subjectName": "路基路面",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "填方",
+   "en": "fill",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.288",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "冲填土",
+   "en": "hydraulic fill,dredger fill",
+   "source": "土木工程名词",
+   "wordNumber": "14.031",
+   "subjectFullName": "土木工程_土木工程勘察与测量_岩土成因分类",
+   "subjectName": "岩土成因分类",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路堤",
+   "en": "embankment,fill",
+   "source": "土木工程名词",
+   "wordNumber": "08.285",
+   "subjectFullName": "土木工程_铁路工程_铁路路基",
+   "subjectName": "铁路路基",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路堤",
+   "en": "embankment,fill",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "沉积阶地",
+   "en": "fill terrace",
+   "source": "地质学名词",
+   "wordNumber": "05.05.053",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "由冲积物组成的阶地。是河谷被侵蚀成宽广谷地，并被冲积物堆积，其后由于地壳抬升或气候变迁，下切作用强烈而成。根据河流下切程度，可分为上叠阶地和内叠阶地。上叠阶地是指新阶地叠置在老阶地之上，内叠阶地是指新"
+  },
+  {
+   "cn": "人工填土",
+   "en": "artificial fill",
+   "source": "地质学名词",
+   "wordNumber": "17.02.055",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "由于人类活动而形成的堆积土。一般物质成分较杂乱，均匀性差，根据组成物质或堆积方式，又可分为素填土(碎石、沙土、黏性土等)、杂填土(含大量建筑垃圾及工业、生活废料)、冲填土(水力充填)、压实填土等。"
+  },
+  {
+   "cn": "装填系数",
+   "en": "fill factor",
+   "source": "冶金学名词",
+   "wordNumber": "08.0195",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "粉末充填模具的高度与脱模后压坯高度之比。"
+  },
+  {
+   "cn": "成交率",
+   "en": "fill rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0217",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "提交的委托在该市场实际得到执行的比率。"
+  },
+  {
+   "cn": "填方",
+   "en": "fill work",
+   "source": "建筑学名词",
+   "wordNumber": "09.0071",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地表面高于原地面时，从原地面填筑至设计场地表面部分的土石体积。"
+  },
+  {
+   "cn": "最低装量",
+   "en": "minimum fill",
+   "source": "药学名词",
+   "wordNumber": "06.132",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "除制剂通则中规定检查装量差异的制剂及放射性药品外，对固体、半固体和液体制剂采用重量法或容量法进行装量检测的一项药典法定规定。"
+  },
+  {
+   "cn": "装填系数",
+   "en": "fill factor",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1743",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_粉体制备技术",
+   "subjectName": "粉体制备技术",
+   "publishYear": "2011",
+   "definition": "粉末充填模具的高度与脱模后压坯高度之比。"
+  },
+  {
+   "cn": "被动充填",
+   "en": "passive fill",
+   "source": "古生物学名词",
+   "wordNumber": "05.0162",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_遗迹学",
+   "subjectName": "遗迹学",
+   "publishYear": "2009",
+   "definition": "充填物由重力作用而进入到敞开的生物潜穴中的一种物理沉积过程。"
+  },
+  {
+   "cn": "主动充填",
+   "en": "active fill",
+   "source": "古生物学名词",
+   "wordNumber": "05.0163",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_遗迹学",
+   "subjectName": "遗迹学",
+   "publishYear": "2009",
+   "definition": "直接由造穴生物活动产生的潜穴充填过程。"
+  },
+  {
+   "cn": "回填",
+   "en": "back fill",
+   "source": "古生物学名词",
+   "wordNumber": "05.0164",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_遗迹学",
+   "subjectName": "遗迹学",
+   "publishYear": "2009",
+   "definition": "当动物向前运动穿过沉积物时，主动充填其后部空隙的过程。"
+  },
+  {
+   "cn": "填充",
+   "en": "fill",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "填充",
+   "en": "fill\",\"filling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装填系数",
+   "en": "fill factor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "峡谷淤积",
+   "en": "canyon fill",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填充图像",
+   "en": "picture fill",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "道路填方",
+   "en": "road fill",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "填充区",
+   "en": "fill area",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "填充因数",
+   "en": "fill factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最低装量",
+   "en": "minimum fill",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "冲淤",
+   "en": "cut-and-fill",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填方收缩",
+   "en": "shrinkage of fill",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "帧间时间填充",
+   "en": "interframe time fill",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "种子填充算法",
+   "en": "seed fill algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半挖半填斜坡",
+   "en": "cut and fill slop",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "毛卷层云",
+   "en": "cirrostratus filosus\",\"Cs fil",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "使满帆",
+   "en": "fill",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "填写分数",
+   "en": "fill the score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补位",
+   "en": "cover a position\",\"fill a gap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效地填补供需缺口",
+   "en": "to effectively fill the gap between supply and demand  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "lesser aggression",
+ "term": "lesser aggression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:58:57+00:00",
+ "status": "ok",
+ "note": "variant=lesser aggression; 审定公布名词库=1214; 海峡两岸名词对照库=506; 其他来源数据库=53; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "普通外科学名词",
+   "wordNumber": "17.077",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "连于膈、肝静脉韧带裂和肝门与胃小弯、十二指肠上部之间的双层腹膜结构。"
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "消化病学名词",
+   "wordNumber": "9.003",
+   "subjectFullName": "消化病_网膜_网膜解剖",
+   "subjectName": "网膜解剖",
+   "publishYear": "2022",
+   "definition": "连接于膈、肝静脉韧带裂和肝门与胃小弯和十二指肠上部之间的双层腹膜。左侧部从膈、肝静脉韧带裂连于胃小弯，称肝胃韧带；右侧部从肝门连于十二指肠上部，称肝十二指肠韧带。"
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "动物学名词",
+   "wordNumber": "6.0903",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2021",
+   "definition": "把一部分胃和十二指肠连接到肝脏的腹膜褶。"
+  },
+  {
+   "cn": "小骨盆",
+   "en": "lesser pelvis",
+   "source": "运动医学名词",
+   "wordNumber": "01.259",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "位于界线的下方，由骶骨、尾骨、髂骨、坐骨及耻骨构成的结构。可分为骨盆上口、骨盆腔及骨盆下口。"
+  },
+  {
+   "cn": "小结节",
+   "en": "lesser tubercle",
+   "source": "运动医学名词",
+   "wordNumber": "01.119",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "肱骨头下前方的隆起。"
+  },
+  {
+   "cn": "小转子",
+   "en": "lesser trochanter",
+   "source": "运动医学名词",
+   "wordNumber": "01.170",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "股骨颈和股骨体连接处内下方的一个较小的圆锥形隆起。腰大肌附着处。"
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "核医学名词",
+   "wordNumber": "04.1515",
+   "subjectFullName": "核医学_临床核医学_消化系统核医学_消化系统解剖生理基础",
+   "subjectName": "消化系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "从肝门下缘延伸到胃小弯和十二指肠上部的双层腹膜结构。"
+  },
+  {
+   "cn": "小结节",
+   "en": "lesser tubercle",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0577",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "位于肱骨上端前方的结节。较大结节小，但很显著。"
+  },
+  {
+   "cn": "小骨盆",
+   "en": "lesser pelvis",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0720",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "位于界线的下方，由骶骨、尾骨、髂骨、坐骨及耻骨构成的结构。可分为骨盆上口、骨盆腔及骨盆下口。"
+  },
+  {
+   "cn": "小转子",
+   "en": "lesser trochanter",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0740",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "股骨颈和股骨体连接处的内下方一个较小的圆锥形隆起。为腰大肌附着处。"
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0982",
+   "subjectFullName": "人体解剖学_内脏学_腹膜及其延伸结构",
+   "subjectName": "腹膜及其延伸结构",
+   "publishYear": "2014",
+   "definition": "连于膈、肝静脉韧带裂和肝门与胃小弯、十二指肠上部之间的双层腹膜结构。"
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "26.020",
+   "subjectFullName": "组织学与胚胎学_胚胎学_体腔和系膜的发生",
+   "subjectName": "体腔和系膜的发生",
+   "publishYear": "2014",
+   "definition": "位于肝和胃、十二指肠之间的系膜。"
+  },
+  {
+   "cn": "小暑",
+   "en": "Lesser Heat",
+   "source": "大气科学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第十一节气，在7月7日或8日；表示开始炎热。"
+  },
+  {
+   "cn": "小满",
+   "en": "Lesser Fullness",
+   "source": "大气科学名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第八节气，在5月21日或22日；表示麦类作物籽粒开始饱满。"
+  },
+  {
+   "cn": "小寒",
+   "en": "Lesser Cold",
+   "source": "大气科学名词",
+   "wordNumber": "08.086",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第二十三节气，在1月5日或6日；表示天气开始寒冷，且越来越冷。"
+  },
+  {
+   "cn": "侵犯",
+   "en": "aggression",
+   "source": "心理学名词",
+   "wordNumber": "07.106",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "有意伤害别人且不为社会规范所许可的行为。"
+  },
+  {
+   "cn": "进攻性",
+   "en": "aggressiveness",
+   "source": "动物学名词",
+   "wordNumber": "7.029",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "对其他个体发起的明显具有毁坏或对社群关系不好的行为倾向。"
+  },
+  {
+   "cn": "侵染力",
+   "en": "aggressiveness",
+   "source": "林学名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "林学_森林保护_森林病理",
+   "subjectName": "森林病理",
+   "publishYear": "2016",
+   "definition": "病原物具有的与致病力有关的生长和繁殖能力。"
+  },
+  {
+   "cn": "侵蚀",
+   "en": "aggressiveness",
+   "source": "土木工程名词",
+   "wordNumber": "11.138",
+   "subjectFullName": "土木工程_给水与排水工程_取水与水质",
+   "subjectName": "取水与水质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "枕小神经",
+   "en": "lesser occipital nerve",
+   "source": "普通外科学名词",
+   "wordNumber": "14.066",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "颈丛的皮支。沿胸锁乳突肌后缘上行，分布于耳廓背面上部及枕部皮肤。"
+  },
+  {
+   "cn": "小骨盆",
+   "en": "lesser pelvis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小角",
+   "en": "lesser horn",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小结节",
+   "en": "lesser tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小网膜囊",
+   "en": "lesser sac",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小翼",
+   "en": "lesser wing",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小转子",
+   "en": "lesser trochanter",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小网膜",
+   "en": "lesser omentum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "较强涨潮（一日中）",
+   "en": "lesser flood",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "较弱落潮（一日中）",
+   "en": "lesser ebb",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨小切迹",
+   "en": "lesser sciatic notch\",\"lesser ischiadic notch\",\"lesser ischiadic incisure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨小孔",
+   "en": "lesser sciatic foramen\",\"lesser ischiadic foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腭小动脉",
+   "en": "lesser palatine artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腭小管",
+   "en": "lesser palatine canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腭小孔",
+   "en": "lesser palatine foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腭小神经",
+   "en": "lesser palatine nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鼓小棘",
+   "en": "lesser tympanic spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内脏小神经",
+   "en": "lesser splanchnic nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前庭小腺",
+   "en": "lesser vestibular gland",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锁骨上小窝",
+   "en": "lesser supraclavicular fossa",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侵犯行为",
+   "en": "aggression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小篆",
+   "en": "<div> Lesser Seal Script / Small Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "片面抗战",
+   "en": "partial resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "抗日民族统一战线",
+   "en": "Chinese united front against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间敌对行动和侵略行径",
+   "en": "hostilities and acts of aggression in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全国抗战",
+   "en": "nationwide war of resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "局部抗战",
+   "en": "regional war of resistance against Japanese aggression",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "呼吁采取紧急的、积极的行动",
+   "en": "to call for urgent and aggressive action",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面全民族抗战",
+   "en": "total resistance against Japanese aggression by the whole nation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "抗大精神",
+   "en": "the spirit of the Military and Political University of Resistance Against Japanese Aggression",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争（简称：抗日战争、抗战）",
+   "en": "the Chinese People’s War of Resistance against Japanese Aggression (the War of Resistance)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争胜利纪念日",
+   "en": "the Victory Day of the Chinese People,s War of Resistance Against Japanese Aggression",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国人民抗日战争胜利纪念日",
+   "en": "Victory Memorial Day for the Chinese People’s War of Resistance against Japanese Aggression (VM Day)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "领先艇",
+   "en": "leader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吻钮",
+   "en": "kisser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "攻击",
+   "en": "aggression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.8",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "旨在对他人产生伤害和痛苦的有意识行为。"
+  },
+  {
+   "cn": "文化侵略",
+   "en": "cultural aggression",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "通过鼓吹自身文化上的优势，并采用文化渗透、文化同化等间接方式而对其他民族、国家或地区的征服、控制。与其他侵略方式相比，这一方式不大容易引起被征服地的反抗，是一种逐渐“软化”从而达到驯服的过程。"
+  },
+  {
+   "cn": "攻击行为",
+   "en": "aggressive behavior",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.1.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童欲求得不到满足时故意采取有害他人或毁物的行为，包括敌视、语言攻击、身体侵犯、伤害和破坏性行为等。"
+  },
+  {
+   "cn": "抗美援朝战争",
+   "en": "War to Resist U S Aggression and Aid Korea",
+   "source": "马克思主义",
+   "wordNumber": "04.0263",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国人民解放军为援助朝鲜人民抵抗美帝国主义武装、保卫中国安全而进行的战争。从1950年10月19日志愿军入朝开始，到1953年7月27日交战双方签订停战协定结束。抗美援朝提高了新中国的国际威望，增强了"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在掌握大量观察数据的基础上，以回归方程式来描述自变量与因变量之间关系的统计分析方法。"
+  },
+  {
+   "cn": "线性回归",
+   "en": "linear regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.83",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用回归方程表现一个随机变量的条件均值（因变量）同一个或多个解释变量（自变量）的对应值之间关系的统计分析方法。"
+  },
+  {
+   "cn": "多元回归",
+   "en": "multiple regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.84",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一组自变量同单一因变量间关系的一组广泛的统计分析方法。"
+  },
+  {
+   "cn": "逻辑斯蒂回归",
+   "en": "logistic regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.104",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为某个事件的对数发生比为因变量，其他变量作为自变量的一种定类数据分析模型。"
+  },
+  {
+   "cn": "泊松回归",
+   "en": "poisson regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.105",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为计数形式，并假设因变量服从泊松分布，将因变量的期望值的对数描述作一组自变量的线性组合的回归分析。"
+  },
+  {
+   "cn": "泊松回归模型",
+   "en": "Poisson regression model",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.20",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "一种回归分析模型，其因变量是符合泊松分布的随机事件发生的期望值。癌症队列研究中分组资料分析常采用此回归模型。"
+  },
+  {
+   "cn": "抗力测试仪",
+   "en": "resistance tester",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于测定试验微生物抗力，鉴定生物指示物和化学指示物并对温度、浓度、压力及其作用时间均有严格规定的专用设备。如压力蒸汽灭菌指示物抗力测定仪、环氧乙烷灭菌指示物抗力测定仪和过氧化氢气体灭菌指示物抗力测定仪"
+  },
+  {
+   "cn": "无产阶级领袖",
+   "en": "proletarian leader",
+   "source": "马克思主义",
+   "wordNumber": "04.0110",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党内最有威信、最有影响和最有经验并被选为担任最重要职务的人们所组成的比较稳定的集体。历史唯物主义认为人民群众是历史的创造者，同时充分肯定无产阶级领袖在历史上的重大作用。既要维护一切代表党和人"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "归元-赋权-控制模式",
+   "en": "multiplicity and regression-empowerment-control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.2.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "依据健康促进多元化理论设想，健康促进工作分三部分：一是将项目各项工作分解“回归”对应单位；二是按项目多元分工，赋予相关部门责、权、利，由其依自身规律安排工作；三是实施单极化管理。"
+  },
+  {
+   "cn": "甲状腺功能测定仪",
+   "en": "thyroid function tester",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "通过服用放射药物后测量甲状腺的放射性计数来评价甲状腺功能的仪器。"
+  },
+  {
+   "cn": "微波漏能测试仪",
+   "en": "microwave energy leakage tester",
+   "source": "消毒学",
+   "wordNumber": "2.2.4.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "用于测定微波设备泄漏量的专用仪器。"
+  },
+  {
+   "cn": "血管导管相关感染",
+   "en": "vessel catheter associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "留置血管导管期间及拔除血管导管后48小时内发生的原发性且与其他部位感染无关的感染，包括血管导管相关局部感染和血流感染。"
+  },
+  {
+   "cn": "反应堆压力容器",
+   "en": "reactor pressure vessel，RPV",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.11",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "用于包容和支承堆芯核燃料组件、控制组件、堆内构件和反应堆冷却剂的钢制承压部件。"
+  },
+  {
+   "cn": "大众意见领袖理论",
+   "en": "popular opinion leader theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "假设受众行为通常受到通过社会网络传播的意见领袖选择的影响的理论，通常认为信息传播模式为两步模式，即大众传播到意见领袖，再到般受众的过程。"
+  },
+  {
+   "cn": "三会一课",
+   "en": "three meetings and a lesson",
+   "source": "马克思主义",
+   "wordNumber": "03.0750",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "定期召开支部党员大会、支部委员会、党小组会，按时上好党课的制度。三会一课制度是党的基层支部长期坚持的重要制度，也是健全党的组织生活，严格党员管理，加强党员教育的重要制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

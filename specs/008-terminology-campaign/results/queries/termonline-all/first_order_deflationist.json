@@ -1,0 +1,792 @@
+{
+ "key": "first-order deflationist",
+ "term": "first-order deflationist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:57:19+00:00",
+ "status": "ok",
+ "note": "variant=first-order deflationist; 审定公布名词库=1233; 海峡两岸名词对照库=403; 其他来源数据库=152; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "一级速率过程",
+   "en": "first order process",
+   "source": "麻醉学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "单位时间内消除的药物量与血浆药物浓度成正比，血浆药物浓度高时，单位时间内消除的药物多，血浆药物浓度降低时，单位时间内消除的药物也相应降低的过程。"
+  },
+  {
+   "cn": "一阶应力",
+   "en": "first-order stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0512",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "宏观尺度的应力。 "
+  },
+  {
+   "cn": "一阶电路",
+   "en": "first order circuit",
+   "source": "电力名词",
+   "wordNumber": "01.281",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "用一阶微分方程描述的动态电路。"
+  },
+  {
+   "cn": "一级反应",
+   "en": "first order reaction",
+   "source": "冶金学名词",
+   "wordNumber": "04.0225",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "反应速率只与反应物浓度的一次方成正比的反应。"
+  },
+  {
+   "cn": "一级相变",
+   "en": "first-order transformation",
+   "source": "冶金学名词",
+   "wordNumber": "07.0255",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "系统自由能函数对某些约束变量的一阶偏导数在相变点出现不连续性的转变。"
+  },
+  {
+   "cn": "一级像差",
+   "en": "first-order aberration",
+   "source": "物理学名词",
+   "wordNumber": "04.0494",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一阶保持器",
+   "en": "first-order hold",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0964",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "在信号传递过程中，两个相邻采样点之间的信号是一阶函数，起点和终点的值分别等于前后两个采样点的值。"
+  },
+  {
+   "cn": "一级速率过程",
+   "en": "first order processes",
+   "source": "老年医学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "老年医学_老年人合理用药",
+   "subjectName": "老年人合理用药",
+   "publishYear": "2017",
+   "definition": "单位时间内消除的药物量与血浆药物浓度成正比，血浆药物浓度高，单位时间内消除的药物多，血浆药物浓度降低时，单位时间内消除的药物也相应降低的过程。"
+  },
+  {
+   "cn": "一级反应",
+   "en": "first order reaction",
+   "source": "化学名词",
+   "wordNumber": "04.0262",
+   "subjectFullName": "化学_物理化学_化学动力学",
+   "subjectName": "化学动力学",
+   "publishYear": "2016",
+   "definition": "反应级数为1的反应。"
+  },
+  {
+   "cn": "一级图谱",
+   "en": "first order spectrum",
+   "source": "化学名词",
+   "wordNumber": "03.2235",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "在自旋耦合系统中，两核间化学位移差以Hz计，与其之间的耦合常数之比大得多(比如6)时产生的图谱称为一级图谱。其谱峰的裂分遵循2nI+1规则I为(该同位素)的自旋量子数，其自旋系统为简单耦合系统。"
+  },
+  {
+   "cn": "一阶电路",
+   "en": "first order circuit",
+   "source": "计量学名词",
+   "wordNumber": "10.117",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "以一阶微分方程描述的电路。仅含有一个独立电感或一个独立电容元件的电路都是一阶电路。"
+  },
+  {
+   "cn": "一级动力学",
+   "en": "first-order kinetics",
+   "source": "药学名词",
+   "wordNumber": "07.067",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "药物在某房室或某部位转运速率(dc/dt)与该房室或该部位药量或浓度的一次方成正比的药物转运随时间变化的动力学特性称为一级动力学。"
+  },
+  {
+   "cn": "一级反应",
+   "en": "first-order reaction",
+   "source": "药学名词",
+   "wordNumber": "02.216",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "反应速率与反应物浓度的一次方相关的反应。"
+  },
+  {
+   "cn": "一级河流",
+   "en": "first-order stream",
+   "source": "生态学名词",
+   "wordNumber": "16.038",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "无支流流入的河流，一般指河流源头小河沟。"
+  },
+  {
+   "cn": "一阶逻辑",
+   "en": "first-order logic",
+   "source": "数学名词",
+   "wordNumber": "02.0047",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一阶理论",
+   "en": "first-order theory",
+   "source": "数学名词",
+   "wordNumber": "02.0074",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一阶效率",
+   "en": "first-order efficiency",
+   "source": "数学名词",
+   "wordNumber": "09.0590",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一阶系统",
+   "en": "first-order system",
+   "source": "电子学名词",
+   "wordNumber": "23.073",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "一阶迎风格式",
+   "en": "first order upwind scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "因对流造成界面上的物理量值被认为等于上游节点的物理量，即恒取上游节点值的离散格式。"
+  },
+  {
+   "cn": "一阶必要条件",
+   "en": "first-order necessary condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.145",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题的局部最优解必然满足的涉及优化模型的一阶导数的条件。在有约束优化中即指库恩-塔克条件。"
+  },
+  {
+   "cn": "一级反应",
+   "en": "first-order reactions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一级过程",
+   "en": "first-order process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一阶系统",
+   "en": "first-order system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级落后",
+   "en": "first-order lag",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级动力学",
+   "en": "first order kinetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级应答",
+   "en": "first-order response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级反应",
+   "en": "first order reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级反应",
+   "en": "first order reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一级图谱",
+   "en": "first order spectrum",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一等导线测量",
+   "en": "first order traverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "一等三角测量",
+   "en": "first order triangulation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "一等水准测量",
+   "en": "first order leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "一阶理论",
+   "en": "first-order theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一阶逻辑",
+   "en": "first-order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一阶系统",
+   "en": "first-order system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一级动力学",
+   "en": "first order kinetics",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一级相变",
+   "en": "first-order phase transformation\",\"first-order phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "一级控制系统",
+   "en": "first-order control system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级转变温度",
+   "en": "first-order transition temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一级相变",
+   "en": "first order phase transition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half\",\"first period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一回合!",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一节",
+   "en": "first quarter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一局！",
+   "en": "First round!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一腾空",
+   "en": "first flight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试跳（投、掷）",
+   "en": "first trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first serve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球队员",
+   "en": "first server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一发球",
+   "en": "first service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一垒手",
+   "en": "first baseman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一次试举",
+   "en": "first attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首发队员",
+   "en": "first team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上半场",
+   "en": "first half",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一语言",
+   "en": "first language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0181",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“第二语言”相对。人在幼儿时期最早自然习得的语言，通常是母语。第一语言强调的是最早习得的语言，母语强调的是认同的所属族群的语言，所以二者也可以不一致。"
+  },
+  {
+   "cn": "最初响应人员",
+   "en": "first responder",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "第一批在核或辐射紧急情况下在现场做出响应的应急救援人员。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "预防为主",
+   "en": "prevention first",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.006",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "主动采取积极行动将卫生健康服务的重心由治疗转向预防，促进疾病的早发现、早报告、早诊断、早治疗，以提高医疗卫生资源的使用效率，维护和改善人民健康的卫生策略。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "首过效应",
+   "en": "first-pass effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "一些放射性核素尤其是难溶性或颗粒状核素常在最先进入或排出机体部位滞留或沉积较长时间，引起明显的局部损伤。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "putting people first",
+   "source": "马克思主义",
+   "wordNumber": "01.0252",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心，指始终把实现好、维护好、发展好最广大人民根本利益作为党和国家一切工作的出发点和落脚点，尊重人民首创精神，保障人民各项权益，做到发展成果由人民共享，促进人的全面发展。"
+  },
+  {
+   "cn": "苏联第一个五年计划",
+   "en": "First FiveYear Plan",
+   "source": "马克思主义",
+   "wordNumber": "03.0306",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联1928—1932年的国民经济发展计划。1929年4月联共（布）第十六次代表会议通过。第一个五年计划的完成，使苏联建立了社会主义经济的坚固基础。"
+  },
+  {
+   "cn": "应急救护培训",
+   "en": "first aid training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_校园基础急诊医疗服务",
+   "subjectName": "校园基础急诊医疗服务",
+   "publishYear": "2025",
+   "definition": "根据应急救护工作的需要，对管理人员或专业人员进行应急救护教学与训练，使其在意外伤害或危重急症发生时，获得专业医疗救助之前，在事发现场实施及时有效的初步救助措施。"
+  },
+  {
+   "cn": "健康至上原则",
+   "en": "health first principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.072000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在实施人体器官移植的过程中，医务人员应该把器官供体和器官受体的生命安全和身体健康置于首位，以确保健康利益最大化、健康风险最小化的伦理原则。"
+  },
+  {
+   "cn": "第一次民族大调查",
+   "en": "first ethnic survey",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0417",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "1954 年至1964 年，中国历史上第一次有组织有计划的进行了全国少数民族社会历史调查。中华人民共和国成立后，1950 年至1952 年，中央人民政府先后派出学家和专业人员进行4 个民族的调查工作，"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

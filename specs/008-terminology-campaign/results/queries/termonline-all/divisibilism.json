@@ -1,0 +1,62 @@
+{
+ "key": "divisibilism",
+ "term": "divisibilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:00:01+00:00",
+ "status": "ok",
+ "note": "variant=divisibilism; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "可分性",
+   "en": "divisibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物本身具有内在结构可以区分为组成部分或子系统的属性。是事物的结构性与结构层次性的基础。其侧重于能被区分，而“可分离性”侧重于能被分离。"
+  },
+  {
+   "cn": "整除性",
+   "en": "divisibility",
+   "source": "数学名词",
+   "wordNumber": "04.0948",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可分性",
+   "en": "separability,divisibility",
+   "source": "自动化名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "效用的不可分割性",
+   "en": "non-divisibility",
+   "source": "经济学名词",
+   "wordNumber": "09.011",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "公共物品或劳务是向整个社会共同提供的，整个社会成员共同享用公共物品或劳务的效应，而不能将其分割为若干部分，分别归属于某些厂商或个人享用。或者说不能按照谁付款谁受益的原则，限定为之付款的个体所享用。"
+  },
+  {
+   "cn": "创新可分性",
+   "en": "divisibility of innovation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0220",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "创新产品在一定的限制条件下可以被试用的程度。可分性越强，创新产品被采用的速度越快。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

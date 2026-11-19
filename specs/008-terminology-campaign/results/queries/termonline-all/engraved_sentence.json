@@ -1,0 +1,522 @@
+{
+ "key": "engraved sentence",
+ "term": "engraved sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:56:04+00:00",
+ "status": "ok",
+ "note": "variant=engraved sentence; 审定公布名词库=613; 海峡两岸名词对照库=346; 其他来源数据库=11; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "镂雕",
+   "en": "engraved carving",
+   "source": "风景园林名词",
+   "wordNumber": "11.0226",
+   "subjectFullName": "风景园林_风景园林艺术_雕刻艺术",
+   "subjectName": "雕刻艺术",
+   "publishYear": "2025",
+   "definition": "镂穿雕体的某部位以增强立体效果的圆雕技法。"
+  },
+  {
+   "cn": "激光雕刻机",
+   "en": "laser engraver",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.041",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "通过成像装置，用激光在印版滚筒表面直接烧蚀出凹版网穴或柔性版网点，或烧蚀掉掩膜的设备。"
+  },
+  {
+   "cn": "电子刻图机",
+   "en": "electronic engraver",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.125",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "软包装凹版印刷制版的主要工具。"
+  },
+  {
+   "cn": "雕刻作品",
+   "en": "engrave work;work of engraving",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.010",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "属美术作品，受著作权法保护。"
+  },
+  {
+   "cn": "冰雕雪塑",
+   "en": "ice engraving",
+   "source": "风景园林名词",
+   "wordNumber": "04.0033",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "用冰雪雕刻塑形而成的人文景观，由冰灯、冰花演化而来。"
+  },
+  {
+   "cn": "凹版雕刻机",
+   "en": "engraving machine",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.037",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "采用机械、激光、电子束等技术雕刻制作凹印印版的设备。"
+  },
+  {
+   "cn": "电子雕刻",
+   "en": "electrographic engraving",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.038",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "利用机械和电子方法在凸印或凹印版材上产生图像和非图像区域。"
+  },
+  {
+   "cn": "激光雕刻",
+   "en": "laser engraving",
+   "source": "光学名词",
+   "wordNumber": "26.024",
+   "subjectFullName": "光学_激光加工技术",
+   "subjectName": "激光加工技术",
+   "publishYear": "2021",
+   "definition": "利用激光束对材料表面层或内部局部烧蚀或者气化实现的一种雕刻工艺。可对玻璃、陶瓷、金属等各种材料进行雕刻。"
+  },
+  {
+   "cn": "刻划花",
+   "en": "engraved,incising decoration",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0188",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "在半成品上直接刻划纹样的装饰。"
+  },
+  {
+   "cn": "雕版印刷术",
+   "en": "engraved block printing ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.041",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "中国古代的一项伟大发明，是一种在版料上雕刻图文进行印刷的技术。主要包括版料制作、写样、上版、雕刻、锯边、刷印、校对等工序。起于隋繁于唐宋盛于明清，19世纪为西方机器印刷逐步取代。"
+  },
+  {
+   "cn": "电子雕刻凹版",
+   "en": "electronic engraving printing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.035",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "运用电子、激光等先进技术雕刻制成的凹印印版。"
+  },
+  {
+   "cn": "电子雕刻机",
+   "en": "electronic engraving machine",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.03.039",
+   "subjectFullName": "编辑与出版学_印刷_制版",
+   "subjectName": "制版",
+   "publishYear": "2022",
+   "definition": "利用机械和电子方法在凸印或凹印版材上产生图像和非图像区域的设备。"
+  },
+  {
+   "cn": "气动雕刻机",
+   "en": "pneumatic engraving tool",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0111",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_气动工具",
+   "subjectName": "气动工具",
+   "publishYear": "2013",
+   "definition": "雕刻用的气动工具。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "线雕凹印",
+   "en": "line engraving intaglio printing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.072",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "在刚性平板或卷筒板上，图像区域被雕刻成低于非图像区域的线条，将油墨从线条中直接传递到承印物上的凹版印刷方式。"
+  },
+  {
+   "cn": "冲击式气动雕刻机",
+   "en": "percussive pneumatic engraving tool",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0112",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_气动工具",
+   "subjectName": "气动工具",
+   "publishYear": "2013",
+   "definition": "以冲击方式进行雕刻的气动雕刻机。"
+  },
+  {
+   "cn": "回转式气动雕刻机",
+   "en": "rotary pneumatic engraving tool",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "21.0113",
+   "subjectFullName": "机械工程_工程机械_凿岩机械与气动工具_气动工具",
+   "subjectName": "气动工具",
+   "publishYear": "2013",
+   "definition": "以回转方式进行雕刻的气动雕刻机。"
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电子刻图机",
+   "en": "electronic engraver",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "激光刻蚀",
+   "en": "laser engraving",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "雕刻版",
+   "en": "engraving plate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "刻图桌",
+   "en": "engraving table",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电子雕刻凹版印刷",
+   "en": "electronic engraved gravure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "雕刻铜版",
+   "en": "engraved copper plate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "蜡刻版",
+   "en": "wax engraved plate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "刻划花",
+   "en": "engraving\",\"incising decoration",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "花园路径句子",
+   "en": "garden path sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误句概率",
+   "en": "sentence error probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句型",
+   "en": "sentential form\",\"sentence pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "悲慨",
+   "en": "<div> Depressed and Enraged</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,522 @@
+{
+ "key": "enfranchisement lottery",
+ "term": "enfranchisement lottery",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:58:54+00:00",
+ "status": "ok",
+ "note": "variant=enfranchisement lottery; 审定公布名词库=266; 海峡两岸名词对照库=218; 其他来源数据库=9; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "彩票",
+   "en": "lottery",
+   "source": "经济学名词",
+   "wordNumber": "09.052",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "一种以抽签给奖方式进行筹款或敛财所发行的凭证。国家发行彩票的目的是筹集社会公众资金，资助福利、体育等社会公众事业发展。"
+  },
+  {
+   "cn": "抽奖",
+   "en": "lottery",
+   "source": "数学名词",
+   "wordNumber": "011.0594",
+   "subjectFullName": "数学_运筹学_决策论·价值论",
+   "subjectName": "决策论?价值论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "抽彩悖论",
+   "en": "lottery paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "抽彩票游戏中，先设定一个阈值，如果认为任买一号彩票不中奖的概率都大于这一阈值，就合理地接受“这一号彩票不会中奖”，因此“没有彩票会中奖”就是合理的，这就与“有一张彩票会中奖”这个命题相矛盾。"
+  },
+  {
+   "cn": "抽彩式竞争",
+   "en": "lottery competition",
+   "source": "生态学名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "一个物种的个体先于另一个物种到达空斑块或萌发会造成先到达个体在以后的竞争中占据非常有利的位置，使得谁先到谁就可以占据空斑块。"
+  },
+  {
+   "cn": "抽奖促销",
+   "en": "lottery promotion,sweepstakes",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0650",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "奖品完全凭机会或运气决定的一种竞争性促销形式。"
+  },
+  {
+   "cn": "黑陶",
+   "en": "carbonized pottery,black pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0179",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "新石器时代的一种黑色素胎陶质器皿。有夹碳黑陶和渗碳黑陶。典型产品薄如蛋壳，表面光亮润滑，胎的断面里外墨黑。还有一种黑皮陶或黑衣陶，其胎呈灰色或红色仅胎的表面呈黑色。"
+  },
+  {
+   "cn": "陶器",
+   "en": "pottery,earthenware",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0125",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "胎体在800~1000℃高温下焙烧而成的制品，气孔率较高、有不同程度渗水性，机械强度低、断面粗糙无光泽的制品，但有耐火、抗氧化、不易腐蚀等优点，分粗陶和精陶。"
+  },
+  {
+   "cn": "陶符",
+   "en": "pottery symbol",
+   "source": "语言学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "在汉字体系形成的早期阶段，刻划在陶质、石质等器物上的几何形或象实物之形的符号。中国仰韶、良渚、大汶口、龙山等新石器文化遗址所出遗物上多有发现，是研究汉字起源的重要资料。"
+  },
+  {
+   "cn": "彩陶",
+   "en": "faience pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0119",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "以彩绘作为装饰的陶器。"
+  },
+  {
+   "cn": "精陶",
+   "en": "fine pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "白色胎或浅色胎上施釉的一类陶器，一般工艺先将坯胎高温素烧，然后施釉后再烧釉。"
+  },
+  {
+   "cn": "粗陶",
+   "en": "crude pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0126",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "胎体不致密、吸水率较大、不施釉、制作粗糙的一类陶器。"
+  },
+  {
+   "cn": "细陶器",
+   "en": "fine pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0129",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "胎体颗粒细、气孔率小、结构均匀、制作精细、施釉或不施釉的陶瓷制品。"
+  },
+  {
+   "cn": "陶文",
+   "en": "pottery inscription",
+   "source": "语言学名词",
+   "wordNumber": "02.116",
+   "subjectFullName": "语言学_文字学_汉字的形体",
+   "subjectName": "汉字的形体",
+   "publishYear": "2011",
+   "definition": "先秦时期刻写、模印在陶器上的汉字。"
+  },
+  {
+   "cn": "陶罐",
+   "en": "pottery cup",
+   "source": "中医药学名词",
+   "wordNumber": "08.690",
+   "subjectFullName": "中医药学_针灸学_针灸疗法及其他",
+   "subjectName": "针灸疗法及其他",
+   "publishYear": "2004",
+   "definition": "用陶制成的拔罐用具。"
+  },
+  {
+   "cn": "测图仪",
+   "en": "plotter",
+   "source": "光学名词",
+   "wordNumber": "19.064",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "根据摄影相片测制地表形貌的仪器。"
+  },
+  {
+   "cn": "绘图机",
+   "en": "plotter",
+   "source": "测绘学名词",
+   "wordNumber": "04.329",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将经过处理和加工的信息，以图解形式转换和绘制在介质上的图形输出设备。"
+  },
+  {
+   "cn": "绘图机",
+   "en": "plotter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0602",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "一种计算机图形输出设备。早期的绘图仪是笔式绘图仪，现在已被宽幅印刷机所取代。"
+  },
+  {
+   "cn": "蓄电池",
+   "en": "battery",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "01.112",
+   "subjectFullName": "机械工程_汽车_一般名词_燃料、燃料电池和储能装置",
+   "subjectName": "燃料、燃料电池和储能装置",
+   "publishYear": "2013",
+   "definition": "能将所获得的电能以化学能的形式储存并可以将化学能转变为电能的一种电化学装置。它可以重复充电和放电。"
+  },
+  {
+   "cn": "电池组",
+   "en": "battery",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "蓄电池",
+   "en": "storage battery,secondary battery",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.013",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "抽彩式竞争",
+   "en": "lottery competition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "彩票理论",
+   "en": "lottery theory",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黑陶",
+   "en": "black pottery\",\"carbonized pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "陶器",
+   "en": "earthenware\",\"pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "细陶器",
+   "en": "fine pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "精陶",
+   "en": "fine pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "彩陶",
+   "en": "faience pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "粗陶",
+   "en": "crude pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "绘图仪",
+   "en": "plotter",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图机",
+   "en": "plotter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "绘图机",
+   "en": "plotter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓄电池",
+   "en": "storage battery\",\"secondary battery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陶土",
+   "en": "pottery clay\",\"syderolite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "凋落物，枯枝落叶",
+   "en": "litter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "枯枝落叶（=凋落物）",
+   "en": "litter",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凋落物,枯枝落叶",
+   "en": "litter",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "枯枝落叶",
+   "en": "litter",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "铅字",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "担架",
+   "en": "litter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "投接手组",
+   "en": "battery",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "福利彩票事业",
+   "en": "welfare lottery project",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家以“扶老助残，济困救孤”为宗旨，通过彩票筹集社会福利资金，兴办残疾人、老年人、孤儿福利事业，以帮助有困难的人为目标的社会福利事业。"
+  },
+  {
+   "cn": "滑竿",
+   "en": "litter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.009",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国旧式载人交通工具；用两根粗长竹竿绑扎成担架状，中间坐人部位用绳索结成坐兜或设一凉椅，前垂踏脚板，前后各用一人扛抬；主要流行于西南山区（一说仅流行于西南山区）。"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "阿斯塔纳彩俑",
+   "en": "Astana Coloured Pottery Figurines",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0619",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "历史文物，出土于新疆吐鲁番市东约40 公里晋唐时期的阿斯塔那古墓群，保存较为完整的有数百件，均为彩绘木雕泥塑俑，是在这一时期发达的佛教彩塑艺术基础上派生出的独具地方特色的艺术杰作。"
+  },
+  {
+   "cn": "三书六礼",
+   "en": "three letters and six etiquettes in wedding ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0251",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统婚俗的基本规矩。所谓“三书”是奉行“六礼”应具备的文书，是古时保障婚姻有效的文字记录，分别指：聘书（订亲之文书）、礼书（过大礼时所用文书，列明过大礼物品和数量）、迎书（迎娶新娘之文书）。所谓“"
+  },
+  {
+   "cn": "党的信访工作",
+   "en": "Partys works of handling peoples complaints expressed in letters or visits",
+   "source": "马克思主义",
+   "wordNumber": "03.0732",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的信访工作是党的工作的重要组成部分，是指各级党组织及其部门依据党的路线、方针、政策和有关规定，受理和解决党员、干部、群众或者有关组织通过书信、走访、电话、电子邮件、传真等形式提出或反映的有关问题所进"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

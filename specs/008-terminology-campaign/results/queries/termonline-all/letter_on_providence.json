@@ -1,0 +1,772 @@
+{
+ "key": "letter on providence",
+ "term": "Letter on Providence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:56:18+00:00",
+ "status": "ok",
+ "note": "variant=Letter on Providence; 审定公布名词库=3414; 海峡两岸名词对照库=1154; 其他来源数据库=561; 预公布名词数据库=238; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "书札",
+   "en": "letter",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.265",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "“书信”的书面语。在纸张尚未发明和应用之前，一般把文字都记录在竹木片上，写字用的小木片叫“札”。纸张出现以后，“札”渐渐被纸所替代，而“札”字则沿用至今。"
+  },
+  {
+   "cn": "在线服务提供者",
+   "en": "on-line service provider,OSP",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.060",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "通过调制解调器或网络提供在线链接服务的运营商。"
+  },
+  {
+   "cn": "通排法",
+   "en": "letter-by-letter arrangement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以字母为单位，逐个字母排比次序而不考虑字面成族要求的排列方法。"
+  },
+  {
+   "cn": "地图注记",
+   "en": "lettering annotation,map lettering",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.112",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地图上文字和数字的通称。由字体、字大(字级)、字隔、位置、排列方向及色彩等因素构成。"
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.056",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "大数据参考体系结构中的一种逻辑功能构件，其作用是将新的数据或信息引入大数据系统。"
+  },
+  {
+   "cn": "信息提供者",
+   "en": "information provider",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.226",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "直接向信息用户提供信息商品及相应服务的个体商户或企业。"
+  },
+  {
+   "cn": "提供方前缀",
+   "en": "provider prefix",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0628",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在CIDR中分配给因特网服务提供方的网络地址前缀。"
+  },
+  {
+   "cn": "服务提供方",
+   "en": "service provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "OSI参考模型中，在一个层次上合作运行的对等实体对向它提供服务的相邻下层的称谓；在更广泛的意义上，它指为用户和其他提供方提供服务的组织。"
+  },
+  {
+   "cn": "信息提供方",
+   "en": "information provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0696",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "为用户收集并提供信息的组织。信息可以直接提供给用户，也可以通过内容提供方或接入提供方提供。"
+  },
+  {
+   "cn": "接入提供方",
+   "en": "access provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0054",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "提供对一个网络的接入的组织。"
+  },
+  {
+   "cn": "内容提供方",
+   "en": "content provider",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0697",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "建立并维护数据库的组织。数据库包含信息提供方所提供的信息，内容提供方和信息提供方也可以是同一个组织。"
+  },
+  {
+   "cn": "知识供应者",
+   "en": "knowledge provider",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0806",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "向知识需求方提供知识、知识服务的个人或机构。"
+  },
+  {
+   "cn": "服务提供者",
+   "en": "service provider",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0407",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "一项核心服务的主要提供者。例如服务员、医师、大学教师等。"
+  },
+  {
+   "cn": "函",
+   "en": "official letter",
+   "source": "档案学名词",
+   "wordNumber": "02.01.065",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "商洽性文件的一种。适用于不相隶属机关之间商洽工作、询问和答复问题、请求批准和答复审批事项。"
+  },
+  {
+   "cn": "字母流畅性",
+   "en": "letter fluency",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "被试者在特定时间内（一般为1 min）说出的以某一特定字母开头的单词个数。作为个体词汇选择时流畅程度的指标。"
+  },
+  {
+   "cn": "铅字质量",
+   "en": "letter quality",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0646",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "打印机输出的达到铅字印刷的效果。"
+  },
+  {
+   "cn": "盘符",
+   "en": "drive letter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0415",
+   "subjectFullName": "计算机科学技术_计算机体系结构_存储系统",
+   "subjectName": "存储系统",
+   "publishYear": "2018",
+   "definition": "Windows系统为磁盘分区、物理盘或虚拟盘设置的标识符。"
+  },
+  {
+   "cn": "业务约定书",
+   "en": "engagement letter",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0390",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "会计师事务所与被审计单位签订的，用以记录和确认审计业务的委托与受托关系、审计目标和范围、双方的责任以及报告的格式等事项的书面协议。"
+  },
+  {
+   "cn": "文字符号",
+   "en": "letter symbol",
+   "source": "建筑学名词",
+   "wordNumber": "09.0417",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "由字母、数字、汉字或其组合形成的符号。"
+  },
+  {
+   "cn": "转诊信",
+   "en": "referral letter",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.091",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "将患者转给另一位医师时，书写的介绍其病情的有关信件。"
+  },
+  {
+   "cn": "铅字",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非注册股票",
+   "en": "letter stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "留置权证书",
+   "en": "lien letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书面合同",
+   "en": "letter contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "书信协议",
+   "en": "letter agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信汇",
+   "en": "letter transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "链式邮件",
+   "en": "chain letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铅字质量",
+   "en": "letter quality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式信件",
+   "en": "form letter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成交函",
+   "en": "fixing letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "区号",
+   "en": "zone letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "巷号",
+   "en": "lane letter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "字母拼读法",
+   "en": "letter pronunciation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地图注记",
+   "en": "map lettering",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图注记",
+   "en": "map lettering",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "信用证汇票",
+   "en": "bill drawn on a letter of credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商务访问提供者",
+   "en": "commercial access provider",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间段提供者",
+   "en": "space segment provider",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据提供者",
+   "en": "data provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字服务公司",
+   "en": "digital service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务提供者",
+   "en": "cloud service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务提供域",
+   "en": "service provider domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息服务提供商",
+   "en": "financial information service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为老服务商",
+   "en": "elderly care service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据应用提供者",
+   "en": "big data application provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据框架提供者",
+   "en": "big data framework provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云服务商选择",
+   "en": "cloud service provider selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子支付服务提供者",
+   "en": "e-payment service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网信息服务提供者",
+   "en": "Internet information service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网接入服务提供者",
+   "en": "Internet access service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律电商服务",
+   "en": "online legal service provider",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提供者",
+   "en": "provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "提供卫生服务的组织和个人，如卫生服务机构、卫生技术人员、药品企业等。"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "healthcare providers",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.3",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "依法设立并具备专业资质，向公众提供疾病预防、诊断、治疗、康复等服务的组织或单位，包括医院、基层卫生机构、专科门诊、社区健康中心等。"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "卫生服务提供机构",
+   "en": "health care providers",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "在卫生费用核算范围内，通过开展或预期开展卫生服务活动而获得资金交换的各级各类卫生机构。"
+  },
+  {
+   "cn": "服务购买者与提供者分离",
+   "en": "purchaser-provider split",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "由制度上独立的购买机构（如医疗保险基金或专设政府机构）代表全体或特定群体向公立或私立服务提供者购买卫生服务的模式。"
+  },
+  {
+   "cn": "提供心理支持",
+   "en": "providing psychological support",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学生心理健康咨询中，咨询者给予求咨者的实质性帮助。通过向学生揭示问题本质，使其注意那些从未意识到的问题，获得专业支持，掌握自己解决问题的途径。并帮助求咨者增强自身对适应性行为的体验。"
+  },
+  {
+   "cn": "卫生服务提供方",
+   "en": "health service provider",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "具备提供卫生服务的意愿和能力，并拥有相关服务人员及必要设施和条件的机构或组织。"
+  },
+  {
+   "cn": "餐饮服务提供者",
+   "en": "food service provider",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.23",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "通过即时制作加工、商业销售和服务性劳动等，向消费者提供食品和消费场所及设施的服务活动的单位。"
+  },
+  {
+   "cn": "营利性医疗卫生机构",
+   "en": "for-profit health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医疗服务所得收益可用于投资者经济回报的医疗机构。"
+  },
+  {
+   "cn": "社区卫生服务人员",
+   "en": "community health service provider",
+   "source": "社会医学名词",
+   "wordNumber": "11.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务人员",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "卫生费用分配总额",
+   "en": "total health expenditure by provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.6",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内，从全社会筹集到的卫生资金在各级各类卫生机构分配的总额，它反映了卫生资金在不同部门、不同领域和不同层次的分配。"
+  },
+  {
+   "cn": "机构法卫生费用核算",
+   "en": "national health accounts by provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算方法",
+   "subjectName": "卫生费用核算方法",
+   "publishYear": "2025",
+   "definition": "一个国家或地区一定时期内（一般指一年），从全社会筹集到的卫生资金在各级各类卫生机构分配的总额，反映了卫生资金在不同部门、不同领域和不同层次的分配。"
+  },
+  {
+   "cn": "卫生服务供给者行为",
+   "en": "behavior of health service provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的主体是提供卫生服务的人和组织，主要指医疗机构提供卫生服务的行为方式。"
+  },
+  {
+   "cn": "定点机构管理",
+   "en": "management of contracted health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险管理部门对医疗机构与零售药店在定点申请、专业评估、定点确定、协商谈判、协议订立、协议履行、协议解除等环节进行监督和管理的方式，以保证定点机构遵守医疗保障法律、法规、规章及有关政策，按照规定向参"
+  },
+  {
+   "cn": "非营利医疗卫生机构",
+   "en": "non-for-profit health provider",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "为社会公众利益服务而设立和运营的医疗机构，其收入用于弥补医疗服务成本，实际运营中的收支结余只能用于自身的发展。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "卫生服务供方支付制度",
+   "en": "provider payment system of health care",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "资金从所有者或具有配置权力的主体（政府、第三方支付者或患者）转移到卫生服务提供者的支付体系，包括支付方式及其支持体系，如签约、问责机制和管理信息系统等。"
+  },
+  {
+   "cn": "计划生育技术服务人员",
+   "en": "technical service provider of family planning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.1.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "从事计划生育技术服务的医务人员、非医学背景的宣教专业人员等。两者均需接受相关专业培训，前者更需依法依规取得相应提供服务的资质，持证上岗。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

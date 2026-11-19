@@ -1,0 +1,642 @@
+{
+ "key": "nagarjuna's fundamental",
+ "term": "Nāgārjuna’s Fundamental",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:57:49+00:00",
+ "status": "ok",
+ "note": "variant=Nāgārjuna’s Fundamental; 审定公布名词库=137; 海峡两岸名词对照库=42; 其他来源数据库=17; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "基音",
+   "en": "fundamental",
+   "source": "语言学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "与 “泛音”相对。周期性复合音（例如元音）中频率最低的振动所形成的声音。"
+  },
+  {
+   "cn": "基音",
+   "en": "fundamental tone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.19",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "由物体整体振动所产生的复合音中频率最低的音。决定复合音的音高。"
+  },
+  {
+   "cn": "基频",
+   "en": "fundamental frequency",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.48.6",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "声带振动的最低固有频率，决定音调感知特性。"
+  },
+  {
+   "cn": "基础科学",
+   "en": "fundamental science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "以自然界某种特定的物质形态及其运动形式为研究对象，探索和揭示自然界物质运动形式基本规律的科学。它的任务是探索新领域，发现新原理，并为技术科学、应用科学和社会生产提供理论指导和开拓美好的前景。"
+  },
+  {
+   "cn": "基本天文学",
+   "en": "fundamental astronomy",
+   "source": "天文学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "研究天体的位置和运动的学科，主要内容为天文参考系和天体轨道动力学。"
+  },
+  {
+   "cn": "基本天体测量学",
+   "en": "fundamental astrometry",
+   "source": "天文学名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "方位天文学的分支。主要内容是利地面或空间光学仪器测定天体的位置和运动，综合编制基本星表的学科。"
+  },
+  {
+   "cn": "基本星表",
+   "en": "fundamental catalogue",
+   "source": "天文学名词",
+   "wordNumber": "02.246",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "综合多本绝对星表编制而成的高精度恒星位置和自行表，用以体现恒星参考系。"
+  },
+  {
+   "cn": "基本面",
+   "en": "fundamental plane",
+   "source": "天文学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "早型星系在三维参数空间中呈现的一种二维聚类分布。"
+  },
+  {
+   "cn": "基阶振型",
+   "en": "fundamental mode",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0997",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "最低阶的振型。 "
+  },
+  {
+   "cn": "基础生态位",
+   "en": "fundamental niche",
+   "source": "动物学名词",
+   "wordNumber": "7.0469",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在生物群落中，在没有竞争的前提下，一个物种所栖息的理论上最大的生态位。英国学者哈钦森（G. E. Hutchinson）1958年首先使用这术语，认为基础生态位实际上只是一种理论上的生态位，并用其来假"
+  },
+  {
+   "cn": "基模",
+   "en": "fundamental mode",
+   "source": "光学名词",
+   "wordNumber": "08.116",
+   "subjectFullName": "光学_光纤光学与导波光学",
+   "subjectName": "光纤光学与导波光学",
+   "publishYear": "2021",
+   "definition": "光波导中不会因波长变长而截止的特定模式。通常，它携带了光波的绝大部分能量(少量例外)。通过求解波动方程，可得到其电磁场横向分布[以直角坐标系下的厄米–高斯函数<img src='/root/syzx/"
+  },
+  {
+   "cn": "基础研究",
+   "en": "fundamental research",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.047",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "为了取得关于现象和可观察的事实的基本原理的新知识，并不以任何特定的或具体的应用为目的而开展的实证性工作或理论性工作。"
+  },
+  {
+   "cn": "基本振型",
+   "en": "fundamental mode",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0101",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "振动系统在最低固有频率时的振型。"
+  },
+  {
+   "cn": "基本偏差",
+   "en": "fundamental deviation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0338",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "用以确定公差带相对于零线位置的上偏差或下偏差。一般指靠近零线的那个偏差。"
+  },
+  {
+   "cn": "原始三角形",
+   "en": "fundamental triangle",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0030",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_螺纹",
+   "subjectName": "螺纹",
+   "publishYear": "2021",
+   "definition": "形成螺纹牙型的三角形，其底边平行于螺纹的轴线。"
+  },
+  {
+   "cn": "基本回路",
+   "en": "fundamental loop",
+   "source": "电力名词",
+   "wordNumber": "01.265",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "组成回路且仅含给定余树的一条连支的诸支路的集合。"
+  },
+  {
+   "cn": "基波",
+   "en": "fundamental wave",
+   "source": "电力名词",
+   "wordNumber": "01.342",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在将非正弦周期信号f(t)展成傅里叶级数时,频率与f(t)的频率相同的正弦量。"
+  },
+  {
+   "cn": "基频",
+   "en": "fundamental frequency",
+   "source": "电力名词",
+   "wordNumber": "01.347",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "将非正弦周期信号f(t)展成傅里叶级数时,原信号f(t)的频率。"
+  },
+  {
+   "cn": "基波功率",
+   "en": "fundamental power",
+   "source": "电力名词",
+   "wordNumber": "01.348",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由电压和电流的基波分量所决定的功率。"
+  },
+  {
+   "cn": "基波因数",
+   "en": "fundamental factor",
+   "source": "电力名词",
+   "wordNumber": "01.349",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "基波分量的有效值与交变量的有效值之比。"
+  },
+  {
+   "cn": "基本教义主义",
+   "en": "fundamentalisms",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基本呼吸",
+   "en": "fundamental respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基本单位",
+   "en": "fundamental unit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基本原理",
+   "en": "fundamental principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基本音不协和和弦",
+   "en": "fundamental discord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本天体测量",
+   "en": "fundamental astrometry",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本天文学",
+   "en": "fundamental astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本星",
+   "en": "fundamental star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基频",
+   "en": "fundamental frequency",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基圈",
+   "en": "fundamental circle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基础生态位",
+   "en": "fundamental niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "根本性逆差",
+   "en": "fundamental deficit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基本圈",
+   "en": "fundamental circle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基本星表",
+   "en": "Fundamental Catalogue",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基本模式，基模",
+   "en": "fundamental mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基波",
+   "en": "fundamental wave",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础生态位",
+   "en": "fundamental niche",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基频",
+   "en": "fundamental frequency",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基础生态位",
+   "en": "fundamental niche",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "基本星表",
+   "en": "Fundamental Catalogue\",\"Fundamental Katalog\",\"FK",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本打法",
+   "en": "fundamentals",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大衍",
+   "en": "The Fundamental Calculation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正自然体",
+   "en": "natural fundamental posture\",\"shizen-hontai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "元气",
+   "en": "Yuanqi / Fundamental Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一物两体",
+   "en": "One Thing in Two Fundamental States",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇本息末",
+   "en": "Revere the Fundamental and Dismiss the Specific",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一以贯之",
+   "en": "Observe a Fundamental Principle Throughout One’s Pursuit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本末",
+   "en": "Ben and Mo (The Fundamental and the Incidental)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇本举末",
+   "en": "Revere the Fundamental and Keep the Specific Unchanged",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.1-2000 信息技术 词汇 第1部分：基本术语》",
+   "en": "GB/T 5271.1-2000 Information technology — Vocabulary — Part 1: Fundamental terms",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道不欲杂",
+   "en": "The Fundamental Principle Should Not Be a Mixture of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/INCITS/ISO/IEC 29500-1-2009 信息技术 文档描述和处理语言 办公开放XML文档格式 第1部分：基本知识和标记语言参照》",
+   "en": "ANSI/INCITS/ISO/IEC 29500-1:2009 Information technology — Document description and processing languages — Office open XML file formats — Part 1: Fundamentals and markup language reference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原教旨主义",
+   "en": "fundamentalism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.15",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "严格遵从特定神学教义、以回到最初的信仰为号召的倾向，在基督教、伊斯兰教与印度教中均存在。"
+  },
+  {
+   "cn": "基本归因错误",
+   "en": "fundamental attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "在考察他人行为的原因时，人们通常会有一种高估行为者个人内部特质影响，而低估情景性因素影响的普遍倾向。"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "基本运动技能",
+   "en": "fundamental movement skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_身体素养",
+   "subjectName": "身体素养",
+   "publishYear": "2025",
+   "definition": "人体非自然发生的基础运动学习模式。是进行复杂体力活动的基础，分为移动技能（例如：跑、单脚跳、双脚跳等）、物体控制技能（例如：投掷、踢球、拍球等）和稳定性技能（例如：平衡、旋转等）。"
+  },
+  {
+   "cn": "社会主义的根本任务",
+   "en": "fundamental task of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0586",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放和发展生产力是社会主义的根本任务，是解决当代中国一切问题的关键。我国底子薄、社会主义初级阶段要求发展生产力，增强国家实力、提高人民生活水平需要发展生产力。"
+  },
+  {
+   "cn": "社会主义的根本原则",
+   "en": "fundamental principle of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0587",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放初期，邓小平多次指出：一个公有制占主体，一个共同富裕，这是必须坚持的社会主义根本原则。后一方面提出了社会主义的根本目标，前一方面提出了实现发展目标的制度保证。"
+  },
+  {
+   "cn": "辐射防护基础",
+   "en": "fundamentals of radiation protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "预防和减少辐射对人体和环境的危害的基本措施和方法，包括对辐射的理解、辐射防护的体系和标准、监测、控制以及个人和环境的防护等。"
+  },
+  {
+   "cn": "中国革命战争的根本规律",
+   "en": "fundamental law of Chinas revolutionary war",
+   "source": "马克思主义",
+   "wordNumber": "03.0400",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《中国革命战争的战略问题》一文中指出，经过了一次大革命的政治经济不平衡的半殖民地的大国，强大的敌人，弱小的红军，土地革命，这四个特点规定了中国红军的可能发展和可能战胜其敌人，规定了中国红军的不"
+  },
+  {
+   "cn": "新民主主义文化和旧民主主义文化的根本区别",
+   "en": "fundamental difference between the newdemocratic culture and the olddemocratic culture",
+   "source": "马克思主义",
+   "wordNumber": "03.0350",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "是否以共产主义思想为指导，是新民主主义文化同旧民主主义文化相区别的重要标志。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
