@@ -1,0 +1,165 @@
+{
+ "schema": "sep-cn-b31-assembly/1",
+ "generated_by": "specs/053 bin/reassemble.py",
+ "total": 15,
+ "ok": 14,
+ "fail": 1,
+ "skipped": 0,
+ "entries": [
+  {
+   "slug": "leucippus",
+   "ok": true,
+   "md_len": 10988,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.056
+  },
+  {
+   "slug": "david",
+   "ok": true,
+   "md_len": 13176,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.051
+  },
+  {
+   "slug": "elias",
+   "ok": true,
+   "md_len": 13358,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.017
+  },
+  {
+   "slug": "peirce-benjamin",
+   "ok": true,
+   "md_len": 14683,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.054
+  },
+  {
+   "slug": "evolution",
+   "ok": true,
+   "md_len": 19016,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.03
+  },
+  {
+   "slug": "reism",
+   "ok": true,
+   "md_len": 22737,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.061
+  },
+  {
+   "slug": "holes",
+   "ok": true,
+   "md_len": 23749,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.084
+  },
+  {
+   "slug": "lady-masham",
+   "ok": true,
+   "md_len": 24122,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.074
+  },
+  {
+   "slug": "richard-sophister",
+   "ok": true,
+   "md_len": 24222,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.058
+  },
+  {
+   "slug": "cockburn",
+   "ok": true,
+   "md_len": 24250,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.054
+  },
+  {
+   "slug": "penbygull",
+   "ok": true,
+   "md_len": 24701,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.047
+  },
+  {
+   "slug": "crathorn",
+   "ok": true,
+   "md_len": 25495,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.056
+  },
+  {
+   "slug": "incommensurability",
+   "ok": true,
+   "md_len": 101840,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.219
+  },
+  {
+   "slug": "abelard",
+   "ok": true,
+   "md_len": 94112,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.252
+  },
+  {
+   "slug": "bayes-theorem",
+   "ok": false,
+   "md_len": 69262,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "first_diff": {
+    "op": "replace",
+    "md": "/)\n\n## Related Entries\n\nepistemology: Bayesian | probability, interpretations of\n\n## Notes（原文脚注）\n\n[^note-1]: Though one can view conditional",
+    "asm": "factor of [**Q**(*H*)**/****Q**(~ *H*)]**/**[**P**(*H*)**/** **P**(~*H*)] apart.\n\n## Notes（原文脚注）\n\n[^note-1]: Though one can view conditional"
+   },
+   "sec": 0.233
+  }
+ ]
+}

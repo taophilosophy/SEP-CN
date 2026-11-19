@@ -26,7 +26,8 @@ baseline/
 ## 2. P1 结构反向核验（实施 specs/047，判官只读）——B2 已实施（2026-11-19）
 
 - **已完成**：`specs/047-structural-reverse-check/bin/verify_structure.py`（v1.6）五维判定器＋全库首跑（1,872 件＝1,706 过／166 候选）＋负向 selftest 3/3＋补丁可逆性单测（A6，tools/tests/test_en_patch_reverse.py）。候选族分解与 W1–W6 登记见 047 execution-log（figures 64 真丢文候选、logical-constants −27 账差等）。
-- **待续（B3.1）**：逆向装配器 `R`（md⊕模板→规范化 HTML）＋规则闭合率＋残差分型；B3.2 建池批次紧随（每件装配残差补丁/策略参数→冻结→sha 全等验收线）。
+- **B3.1 已实施（2026-11-19）**：`bin/reassemble.py`（R 装配器，同源求值闭环）＋试金石 15 件 14 过＋全库首跑 **1,240 不动点／632 残差（规则闭合率 66.2%）**＋负向 selftest 绿。残差族与 W7–W12 登记见 execution-log.md（最大族＝文献分节作者键重建 W8 ≈396 件）。
+- **待续（B3.2）**：残差池 `baseline/en-template/assembly-patches/`（一补丁一文件＋INDEX＋命中计数硬校验＋冻结）→ `unpatch(R(md))⊕pool ≡ H0` sha 全等验收线。
 - 边界：与 ADR-0063 §7 LaTeX 否决不冲突（stdlib `html.parser`＋自有 md 解析，无派生层）。
 
 ## 3. P2 B0 判据增强＋例外登记册（归属 specs/044 后续，specs/053 消费）

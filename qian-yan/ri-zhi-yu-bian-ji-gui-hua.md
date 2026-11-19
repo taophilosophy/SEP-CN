@@ -201,3 +201,10 @@
 * 047 verify_structure.py 实施（v1.0→v1.6 六轮试金石迭代，11 词条校准）：五维判定器（分节/脚注/图表公式/列表/引用），分节走原文正则（parse_entry 漏 div 内嵌 h2）、notes.html 三代锚形态适配、标题两侧同源归一化（数学定界符/花括号/上下标）、md 脚注键放宽非 ASCII（phil-bio 46“缺口”系测量假象，教训⑨再证）、ledger 赤字硬判＋富余登记（T7 语义）。
 * 全库首跑：**1,872 件＝1,706 过／166 候选**。真候选族：figures 64（md 图片缺失——action-perception 3 图全丢实证，转换器丢图候选）、ledger deficit 3（**logical-constants −27** 文献账差为人审重点）、sections 33（数学进标题残差＋augustine h4）、pairing/ids 21＋17。surplus ~493（拆条/子注合法族）转登记面。
 * 配套：补丁可逆性单测（A6）3 项绿（unpatch∘patch=id＋与生产链同源对照）；047 spec 升 v1.1 已实施＋execution-log.md（W1–W6 登记）；053 §2 P1 状态更新。check_all 16 项全绿（新单测入 unittest 门）。B3.1 装配器与 B3.2 建池批次待续。
+
+## 2026-11-19 B3.1 逆向装配器实施（specs/053，用户“批准继续，加强复核”）
+
+* `bin/reassemble.py`：R 装配器（收缩对右逆 C∘R=id_md，specs/053 §9）。同源求值——装配 HTML 交 yuanwen 生产函数原件（render_blocks/build_cite_keys/link_citations/convert_notes/apply_en_patches）闭环，R 只做 md→HTML 逆写（ADR-0073 同源对照条）。判官只读；负向 selftest（删段必破）绿。
+* 规则迭代四轮（全库每轮复跑）：v1.0 1,058（56.5%）→ v1.6 **1,240／1,872（66.2%）**，净增 182。五修：希腊字母逆映射补反斜杠（*ψ*→\(\psi\)，C 侧 fullmatch 识别）、表题 caption 装配（***X*** 紧贴表）、文献区散文段先于 ul（bib_entries 次序＝文档序）、数学占位先于 sub/sup（$\pr_{t}$ 不被改写）、松散列表边界（项间空行即边界）。
+* 残差 632 分型：文献分节作者键重建 ≈396（最大族 W8——md 尾 defs 与 References 区 h3 无法对位，year-first 条目键依赖 section author）、有序列表起始号 W9、乘法星邻接 W10、引块表 W7、图片 passthrough W11、行内数学残留 W12。全部登记 execution-log，B3.2 池输入。
+* 加强复核四件套（ADR-0067）：守恒（parse_entry 零异常＋B0 抽检）／同源（生产函数原件）／负向（selftest）／交集（补丁件 incommensurability 全绿）。教训：单件转绿≠族转绿（caption 只影响 1 件，希腊反斜杠影响约 400）；stderr 须 flush（管道缓冲致日志空，曾误判挂死）。
