@@ -1,0 +1,442 @@
+{
+ "key": "konigshausen neumann",
+ "term": "Königshausen Neumann",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:14:27+00:00",
+ "status": "ok",
+ "note": "variant=Königshausen Neumann; 审定公布名词库=46; 海峡两岸名词对照库=25; 其他来源数据库=5; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "诺依曼线",
+   "en": "Neumann line",
+   "source": "地质学名词",
+   "wordNumber": "13.07.054",
+   "subjectFullName": "地质学_地球化学_天体与宇宙化学",
+   "subjectName": "天体与宇宙化学",
+   "publishYear": "2026",
+   "definition": "方陨铁和大多数八面陨铁蚀面上微细的平行线。以德国矿物学家诺依曼的名字命名。"
+  },
+  {
+   "cn": "第二类边界条件",
+   "en": "Neumann condition",
+   "source": "地质学名词",
+   "wordNumber": "16.05.117",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "在边界上给出的未知函数沿边界外法线方向的导数。"
+  },
+  {
+   "cn": "诺伊曼级数",
+   "en": "Neumann series",
+   "source": "数学名词",
+   "wordNumber": "06.0552",
+   "subjectFullName": "数学_微分方程_积分方程_积分方程",
+   "subjectName": "积分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "诺伊曼法",
+   "en": "Neumann method",
+   "source": "数学名词",
+   "wordNumber": "06.0313",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "诺伊曼问题",
+   "en": "Neumann problem",
+   "source": "数学名词",
+   "wordNumber": "06.0300",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "诺依曼线",
+   "en": "Neumann line",
+   "source": "地质学名词",
+   "wordNumber": "06.350",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "δ-诺伊曼问题",
+   "en": "δ-Neumann problem,delta- -Neumann problem",
+   "source": "数学名词",
+   "wordNumber": "06.0342",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺依曼机",
+   "en": "von Neumann machine",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.609",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "根据冯·诺依曼提出的原理制成，由存储器、运算器、控制器、输入设备和输出设备组成，采用二进制算法，内部程序顺序执行的计算机。"
+  },
+  {
+   "cn": "冯·诺依曼机",
+   "en": "von Neumann machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "计算机科学技术_通论_计算机系统类型",
+   "subjectName": "计算机系统类型",
+   "publishYear": "2018",
+   "definition": "根据冯·诺依曼提出的存储程序概念设计的计算机。主要特征是：指令与数据都以二进制形式储存在存储器里；指令根据其储存的顺序执行。"
+  },
+  {
+   "cn": "冯·诺依曼熵",
+   "en": "von Neumann entropy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0085",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "量子态的一个统计量。对于量子态 ρ ，冯·诺依曼熵定义为： S(ρ )=-tr( ρ ln ρ) 。 "
+  },
+  {
+   "cn": "冯·诺依曼体系结构",
+   "en": "von Neumann architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0086",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "由冯·诺依曼等人于1946年提出的一种以存储程序、指令驱动、运算器为中心、集中控制的计算机体系结构，由运算器、控制器、存储器、输入设备和输出设备五大部件组成。"
+  },
+  {
+   "cn": "冯·诺伊曼条件",
+   "en": "von Neumann condition",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺伊曼判据",
+   "en": "von Neumann criterion",
+   "source": "数学名词",
+   "wordNumber": "06.0502",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺伊曼代数",
+   "en": "von Neumann algebra",
+   "source": "数学名词",
+   "wordNumber": "07.0278",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺伊曼条件",
+   "en": "von Neumann condition",
+   "source": "数学名词",
+   "wordNumber": "010.0525",
+   "subjectFullName": "数学_数值分析_偏微分方程数值解",
+   "subjectName": "偏微分方程数值解",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鼠疫耶尔森菌",
+   "en": "Yersinia pestis Lehmann & Neumann",
+   "source": "地方病学名词",
+   "wordNumber": "07.147",
+   "subjectFullName": "地方病学_鼠疫_鼠疫病原学",
+   "subjectName": "鼠疫病原学",
+   "publishYear": "2016",
+   "definition": "分类为肠杆菌目(Enterobacteriale)、肠杆菌科(Enterobacteriaceae)、耶尔森菌属(Yersinia)、鼠疫耶尔森菌种(Yersinia pestis)。特性为革兰阴性、"
+  },
+  {
+   "cn": "冯·诺伊曼-莫根施特恩解",
+   "en": "von Neumann-Morgenstern solution",
+   "source": "数学名词",
+   "wordNumber": "011.0424",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因子",
+   "en": "factor of von Neumann algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0950",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "迹",
+   "en": "trace of von Neumann algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0414",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冯· 诺依曼投影公设",
+   "en": "von Neumann's projection postulate",
+   "source": "物理学名词",
+   "wordNumber": "06.0782",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "诺伊曼，维尔纳",
+   "en": "Neumann\",\"Werner(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺伊曼条件",
+   "en": "Von Neumann condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冯•诺依曼[计算]机",
+   "en": "von Neumann machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冯•诺依曼体系结构",
+   "en": "von Neumann architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诺伊曼，瓦茨拉夫",
+   "en": "Neumann\",\"Václav(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诺依曼细胞",
+   "en": "Neumann’s cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诺依曼常数",
+   "en": "Neumann's number",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诺依曼牙本质鞘",
+   "en": "Neumann’s sheath\",\"dentinal sheath of Neumann",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "纽曼投影式",
+   "en": "Newman projection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奈曼分布",
+   "en": "Neyman distribution",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "莱曼法",
+   "en": "Lehmanns method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝特",
+   "en": "Abert\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普赖",
+   "en": "Prey\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "舍尔申",
+   "en": "Scherchen\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雷曼，洛特",
+   "en": "Lehmann\",\"Lotte(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "戈茨",
+   "en": "Goetz\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "施略德",
+   "en": "Schröder\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雷曼，莉莉",
+   "en": "Lehmann\",\"Lilli(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "尼曼",
+   "en": "Niemann\",\"Albert(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贝克，赫尔曼",
+   "en": "Beck\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冯·诺依曼架构",
+   "en": "von Neumann architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非冯·诺依曼架构",
+   "en": "non-von Neumann architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停！",
+   "en": "End! Guman! Keuman! Stop!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

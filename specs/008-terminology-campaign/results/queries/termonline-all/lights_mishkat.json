@@ -1,0 +1,792 @@
+{
+ "key": "lights mishkat",
+ "term": "Lights Mishkāt",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:10:00+00:00",
+ "status": "ok",
+ "note": "variant=Lights Mishkāt; 审定公布名词库=2538; 海峡两岸名词对照库=841; 其他来源数据库=290; 预公布名词数据库=100; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "光学名词",
+   "wordNumber": "01.194",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "特定波段(通常广义地取紫外线+可见光+红外线波段)的电磁波。它的波长范围为10 nm～几百微米(即10 nm～400 nm～7600 nm～几百微米)。"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "物理学名词",
+   "wordNumber": "04.0001",
+   "subjectFullName": "物理学_光学、声学",
+   "subjectName": "光学、声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "计量学名词",
+   "wordNumber": "13.068",
+   "subjectFullName": "计量学_光学_光度",
+   "subjectName": "光度",
+   "publishYear": "2015",
+   "definition": "人眼可以看见的一系列电磁波，波长在 380~780nm 范围。“被知觉的光(perceived light)”是人的视觉系统特有的所有知觉和感觉的普遍和基本的属性；进入眼睛并引起光感觉的可见辐射称为“"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "建筑学名词",
+   "wordNumber": "10.0002",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "能刺激视网膜引起视觉的辐射能。"
+  },
+  {
+   "cn": "光",
+   "en": "light",
+   "source": "电气工程名词",
+   "wordNumber": "22.001",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "号灯",
+   "en": "light",
+   "source": "航海科技名词",
+   "wordNumber": "09.0209",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "明度",
+   "en": "lightness",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.012",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "物体表面相对明暗的特性。颜色的三属性之一。"
+  },
+  {
+   "cn": "明度",
+   "en": "lightness",
+   "source": "光学名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "描述物体或光源表面相对明暗特性的一个参量。它是在颜色系统中、同样的照明条件下，以白板作为基准，对物体表面的视知觉特性给予的分度。是颜色的三属性之一。"
+  },
+  {
+   "cn": "亮度",
+   "en": "lightness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.042",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "颜色的相对明暗程度。"
+  },
+  {
+   "cn": "明度",
+   "en": "lightness",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.125",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "色彩的明暗、深浅、浓淡的程度。在同一色系里色彩也是有深有浅的，浅的是指色彩明度高，深的是指色彩明度低。物体表面对光的反射越高，其明度越高，白色明度最高，黄色其次，黑色明度最低。"
+  },
+  {
+   "cn": "明度",
+   "en": "lightness",
+   "source": "电气工程名词",
+   "wordNumber": "22.116",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "照明",
+   "en": "lighting",
+   "source": "电气工程名词",
+   "wordNumber": "22.243",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "过驳",
+   "en": "lighting",
+   "source": "航海科技名词",
+   "wordNumber": "11.0085",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "照明",
+   "en": "lighting",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.455",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "轻烧",
+   "en": "light calcining,light burning",
+   "source": "冶金学名词",
+   "wordNumber": "05.0352",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "在较低的温度下煅烧原料，使其完成部分物理化学变化并使原料活化的一种工艺方法。"
+  },
+  {
+   "cn": "非偏振光",
+   "en": "nonpolarized light,unpolarized light",
+   "source": "物理学名词",
+   "wordNumber": "04.1106",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "杂光",
+   "en": "parasitic light,stray light",
+   "source": "物理学名词",
+   "wordNumber": "04.0786",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "杂色光",
+   "en": "heterochromatic light,heterogeneous-light",
+   "source": "物理学名词",
+   "wordNumber": "04.0854",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "溢散光",
+   "en": "spill light,spray light",
+   "source": "建筑学名词",
+   "wordNumber": "10.0022",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "照明装置发出的光线中照射到被照目标范围外的那部分光线。"
+  },
+  {
+   "cn": "航行灯",
+   "en": "navigation light,running light",
+   "source": "船舶工程名词",
+   "wordNumber": "07.137",
+   "subjectFullName": "船舶工程_船舶电气",
+   "subjectName": "船舶电气",
+   "publishYear": "1998",
+   "definition": "海上避碰规则等规定的船舶在航行时必须点亮的号灯。"
+  },
+  {
+   "cn": "号灯",
+   "en": "lights",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "偏振光",
+   "en": "polarization light\",\"polarized light",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光透射",
+   "en": "light penetration\",\"light transmission",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "灯船",
+   "en": "light vessel\",\"light ship",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "航行灯",
+   "en": "running light\",\"navigation light",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "故障灯",
+   "en": "breakdown lights",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "光学显微镜术",
+   "en": "light microscopy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亮细胞",
+   "en": "light cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "明区",
+   "en": "light region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光饱和[现象]",
+   "en": "light saturation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光强度",
+   "en": "light intensity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光信号转导",
+   "en": "light signalling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照强度",
+   "en": "light intensity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照[射]量",
+   "en": "light exposure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光资源",
+   "en": "light resources",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "1级风，软风",
+   "en": "light air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "2级风，轻风",
+   "en": "light breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可见光",
+   "en": "visible light",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轻离子",
+   "en": "light ion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信号灯",
+   "en": "light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灯光",
+   "en": "lighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻次中量级",
+   "en": "light welterweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "次重量级",
+   "en": "light heavyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻中量级",
+   "en": "light middleweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "次蝇量级",
+   "en": "light flyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄灯",
+   "en": "amber light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1级风",
+   "en": "light air",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "2级风",
+   "en": "light breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄灯",
+   "en": "yellow light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红灯",
+   "en": "red light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绿灯",
+   "en": "green light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白灯",
+   "en": "white light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白灯",
+   "en": "white light",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "某些电离辐射剂量计在辐照前后，表征辐射效应的某个量在光照（可见光或紫外光）作用下发生变化（增多或减少）的特性。这种特性多存在于一些无源剂量计，如热释光剂量计、化学剂量计等。"
+  },
+  {
+   "cn": "坑道照明",
+   "en": "tunnel lighting",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种光源使照度满足坑道内人员工作、生活等的需求。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "光野指示器",
+   "en": "light field indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线设备中，通过可见光反映出照射野范围的装置。"
+  },
+  {
+   "cn": "κ轻链",
+   "en": "kappa light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.37",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "免疫球蛋白轻链的一种类型。根据免疫原性不同将免疫球蛋白轻链分为两型，但每个免疫球蛋白分子上只有一个型别的轻链。人体内κ轻链多肽基因家族位于2号染色体，正常人血清中κ型轻链免疫球蛋白约占65%。"
+  },
+  {
+   "cn": "λ轻链",
+   "en": "lambda light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "免疫球蛋白轻链的一种类型。根据免疫原性不同将免疫球蛋白轻链分为两型，但每个免疫球蛋白分子上只有一个型别的轻链。人体内λ轻链多肽基因家族位于22号染色体，正常人血清中λ型轻链免疫球蛋白约占35%。"
+  },
+  {
+   "cn": "游离轻链",
+   "en": "free light chain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.39",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "血清中未与重链结合的轻链。包括游离κ轻链和游离λ轻链。正常人血清中游离κ轻链和λ轻链的比值为0.26～1.65。当肾功能受损时，游离轻链显著增加；当患有浆细胞病时，会出现免疫球蛋白单克隆异常增殖，游离"
+  },
+  {
+   "cn": "偏振光显微镜检查",
+   "en": "polarized light microscopy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一项用偏振光显微镜进行晶体检查的方法。常用于检查关节滑液或尿液等样本中是否有尿酸单钠晶体、双水焦磷酸钙晶体、草酸钙结晶等。"
+  },
+  {
+   "cn": "生抽",
+   "en": "light soy sauce",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.28",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以大豆、小麦、盐水等为原料，天然露晒、发酵而得的色泽较浅的酱油，呈红褐色，滋味鲜美协调，豉味浓郁，体态清澈透明，风味独特，多用于一般的炒菜或凉菜烹调调味。"
+  },
+  {
+   "cn": "嫩杀",
+   "en": "light de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.18",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "轻度杀青，青叶失水少，减重率为30%，杀青叶含水率为62%~64%。"
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "采光效果",
+   "en": "natural lighting effect",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "通过门窗进行自然采光的程度。"
+  },
+  {
+   "cn": "教室照明",
+   "en": "lighting of classroom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "利用各种光源照亮教室的措施。"
+  },
+  {
+   "cn": "声光警示装置",
+   "en": "sound and light alarm device",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.15",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "能同时发出声响和灯光信号的一种报警信号装置。"
+  },
+  {
+   "cn": "轻链沉积病",
+   "en": "light chain deposition disease ， LCDD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一组由于单克隆免疫球蛋白轻链异常产生、并以非纤维样沉积于脏器、刚果红染色阴性为特点的疾病。轻链可沉积于肾脏、心脏、肝、脾脏、神经系统、胰腺、胃肠道、皮肤及肌肉等部位，并引起相应的症状。多为特发性，亦常"
+  },
+  {
+   "cn": "发光二极管紫外线消毒灯",
+   "en": "light emitting diode ultraviolet disinfection lamp",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.2.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "由可发出波长约260nm～280nm紫外线的发光二极管（LED）制成的体积小、转化效率高、寿命长的紫外线消毒灯。"
+  },
+  {
+   "cn": "重工业和轻工业农业的关系",
+   "en": "relationship between heavy industry light industry and agriculture",
+   "source": "马克思主义",
+   "wordNumber": "02.0372",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国民经济中的主要比例关系,中国工业化道路的核心问题。毛泽东提出，在优先发展重工业的同时，不能忽视农业和轻工业的发展，发展工业必须和发展农业同时并举，用多发展一些农业和轻工业的办法，来促进重工业的发展。"
+  },
+  {
+   "cn": "以农轻重为序安排国民经济",
+   "en": "arranging national economy in the priority order of agriculture light industry and heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0373",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的原则和方法。制订国民经济和社会发展计划，必须首先安排好农业的发展速度和生产规模，安排好农业内部的生产，安排好各业的结构和比例关系；其次安排好轻工业的发展速度和生产规模及其"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

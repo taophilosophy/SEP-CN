@@ -1,0 +1,692 @@
+{
+ "key": "dialectic kitab",
+ "term": "Dialectic Kitāb",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:09:31+00:00",
+ "status": "ok",
+ "note": "variant=Dialectic Kitāb; 审定公布名词库=506; 海峡两岸名词对照库=62; 其他来源数据库=13; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0013",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一个特定环境中某种语言的变体。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "语言学名词",
+   "wordNumber": "07.002",
+   "subjectFullName": "语言学_方言学_方言学通论",
+   "subjectName": "方言学通论",
+   "publishYear": "2011",
+   "definition": "一个语言的地域性变体，是相对于共同语或标准语而言的。方言自身有自成系统的语音特征、词汇特征和语法特征。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "地理学名词",
+   "wordNumber": "24.099",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "同一语言中因地理区域不同而表现出不同的发音与日常用语。"
+  },
+  {
+   "cn": "方言化",
+   "en": "dialectalization",
+   "source": "语言学名词",
+   "wordNumber": "12.162",
+   "subjectFullName": "语言学_社会语言学_语言接触与双语",
+   "subjectName": "语言接触与双语",
+   "publishYear": "2011",
+   "definition": "一种语言分化为几个地区方言或各个方言之间差异扩大的现象。"
+  },
+  {
+   "cn": "辩证过程",
+   "en": "dialectic process",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "世界是永恒运动、变化、转化和发展的过程。黑格尔认为世界是“绝对精神”的辩证过程，马克思、恩格斯则认为是唯物辩证的过程。"
+  },
+  {
+   "cn": "方言分类",
+   "en": "dialectal classification",
+   "source": "语言学名词",
+   "wordNumber": "07.032",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "根据方言的语音、词汇、语法等特征，对各方言进行类型上的区分和分类。例如根据有无入声调类，可以划分为有入声方言和无入声方言。"
+  },
+  {
+   "cn": "方言词",
+   "en": "dialectal word",
+   "source": "语言学名词",
+   "wordNumber": "05.108",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "只在方言里使用，在共同语里不使用或者尚未吸收使用的词语。例如粤方言的“睇”（看）。"
+  },
+  {
+   "cn": "方言层级",
+   "en": "dialectal stratification",
+   "source": "语言学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "方言分区中的层次体系。不同的层次往往有不同的称谓，如方言区、方言片、方言点等。"
+  },
+  {
+   "cn": "方言字",
+   "en": "dialectal character",
+   "source": "语言学名词",
+   "wordNumber": "07.103",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "方言区的人根据使用需要创造并长期使用的带有特定方言特点的汉字形式。例如粤方言的否定词“唔”，意思是“不”。"
+  },
+  {
+   "cn": "方言分区",
+   "en": "dialectal division",
+   "source": "语言学名词",
+   "wordNumber": "07.029",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "根据语言特征的异同、地理分布的大小远近等因素，把方言划分为不同区域。分区有时也适当考虑历史、文化、通行区域大小、人口多少等因素。"
+  },
+  {
+   "cn": "方言系属",
+   "en": "dialectal belongings",
+   "source": "语言学名词",
+   "wordNumber": "07.030",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "根据方言分区的标准或方言分类的标准所确定的归属、地位。在方言地图上往往用不同的图示表示不同系属的方言区划。"
+  },
+  {
+   "cn": "方言音系",
+   "en": "dialectal phonology",
+   "source": "语言学名词",
+   "wordNumber": "07.024",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "方言自身的语音系统。一般由声韵调系统（声母、韵母、声调）、音变系统（连调、语流音变、变音等），以及其他相关语音子系统构成。"
+  },
+  {
+   "cn": "方言词汇",
+   "en": "dialectal lexicon",
+   "source": "语言学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "一个方言实际使用的词汇。也指方言中与共同语词汇存在语音、意义、语法等显著差异的部分词语。"
+  },
+  {
+   "cn": "方言词典",
+   "en": "dialectal dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.214",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "以方言词汇为收集对象并用共同语加以解释的词典。一般主要收录那些在形式、意义或使用方面跟共同语有差异的方言词语。"
+  },
+  {
+   "cn": "方言语法",
+   "en": "dialectal grammar",
+   "source": "语言学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "方言自身的语法系统及其内部语法规则的子系统。一般多指那些在形式、功能和使用方面跟共同语有差异的语法现象。"
+  },
+  {
+   "cn": "方言亲疏",
+   "en": "dialectal distance",
+   "source": "语言学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "语言学_方言学_方言学通论",
+   "subjectName": "方言学通论",
+   "publishYear": "2011",
+   "definition": "根据方言对应关系，对方言语音、词汇或语法等项目分别进行对比统计分析，计算出的对应成分之间的远近关系。"
+  },
+  {
+   "cn": "方言特征",
+   "en": "dialectal characteristics",
+   "source": "语言学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "语言学_方言学_方言学通论",
+   "subjectName": "方言学通论",
+   "publishYear": "2011",
+   "definition": "能够用来区分不同方言区的语言特征。往往具有对外排他性、对内一致性的主要特点。根据语言内部的结构，可以分为方言语音特征、词汇特征和语法特征等。"
+  },
+  {
+   "cn": "隐语",
+   "en": "secret dialect",
+   "source": "语言学名词",
+   "wordNumber": "12.046",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "集团内部为保守秘密而造出的词语。"
+  },
+  {
+   "cn": "军话",
+   "en": "military dialect",
+   "source": "语言学名词",
+   "wordNumber": "07.038",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "一种汉语方言岛。主要零星分布于中国南方，具有北方话音系特征。根据当地传说或者历史文献记录，这些方言很有可能来源于古代驻军，并在长期发展中逐步形成。"
+  },
+  {
+   "cn": "站话",
+   "en": "station dialect",
+   "source": "语言学名词",
+   "wordNumber": "07.039",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "一种汉语方言。主要分布于黑龙江西部漠河、新立屯、科洛、肇州等地的古代驿站附近。"
+  },
+  {
+   "cn": "辩证法",
+   "en": "dialectic method\",\"dialectics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "尺度辯证法",
+   "en": "scale dialectics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "尺度逻辑,比例尺逻辑",
+   "en": "dialectics of scales",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "鸟类方言",
+   "en": "dialects in birds",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辩证行为疗法",
+   "en": "dialectical behavior therapy\",\"DBT",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "介电体",
+   "en": "dielectric",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "介电体",
+   "en": "dielectric",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "[电]介质",
+   "en": "dielectric",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介质强度试验",
+   "en": "dielectric test\",\"dielectric strength test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "介电函数",
+   "en": "dielectric function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "介电因子",
+   "en": "dielectric factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辩证法",
+   "en": "dialectics",
+   "source": "马克思主义",
+   "wordNumber": "01.0036",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学中，辩证法是指与形而上学相对立的世界观和方法论，是关于普遍联系和永恒发展的学说，是用联系、发展、全面的观点看待世界的辩证思维方式，它强调事物内在矛盾是事物发展的动力。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0065",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "通常指一个语言的地域性变体，是相对于共同语或标准语而言的。方言自身有自成系统的语音特征、词汇特征和语法特征。社会语言学认为语言的社会性变体也会形成方言现象。"
+  },
+  {
+   "cn": "唯物辩证法",
+   "en": "materialistic dialectic",
+   "source": "马克思主义",
+   "wordNumber": "01.0030",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯在批判地继承人类优秀文化遗产、尤其是黑格尔唯心主义辩证法“合理内核”与费尔巴哈人本学唯物主义“基本内核”基础上创立的关于自然、社会和思维发展普遍规律的哲学，是唯物主义与辩证法的统一、革命"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "医学辩证法",
+   "en": "medical dialectics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.175",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用辩证法的基本观点，研究生命、健康、疾病与死亡发生发展、运动变化中的本质和一般规律的学科。"
+  },
+  {
+   "cn": "辩证唯物主义",
+   "en": "dialectical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0006",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的唯物主义和辩证法相统一的无产阶级的世界观和方法论，揭示了世界的本质及自然界、人类社会和思维发展的最一般规律的科学，是唯物主义的最高形式。"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "辩证思维",
+   "en": "dialectical thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0041",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以变化发展视角认识事物的思维方式。在唯物辩证法中，辩证思维是指人们对客观事物辩证发展过程进行正确反映的思维方法。实质就是按照唯物辩证法的原则，在联系和发展中把握认识对象，在对立统一中认识事物。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "隐语",
+   "en": "secret dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "集团内部为保守秘密而造出的词语。"
+  },
+  {
+   "cn": "社会方言",
+   "en": "social dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0087",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与语言群体的年龄、性别、职业、教育程度等社会身份有关的语言变体。"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "启蒙的辩证法",
+   "en": "dialectic of enlightenment",
+   "source": "马克思主义",
+   "wordNumber": "05.0026",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马克斯·霍克海默（M. Max Horkheime）与西奥多·阿多诺（Theodore Adorno）《启蒙辩证法》书中提出的概念。认为启蒙的根本目标就是要使人们摆脱恐惧，树立自主，但是，被彻底启蒙的"
+  },
+  {
+   "cn": "历史人学人学辩证法",
+   "en": "historical anthropology humanism dialectic",
+   "source": "马克思主义",
+   "wordNumber": "05.0060",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特认为马克思主义有“忽视人”的缺陷，这种缺陷成为存在主义复活的源泉。存在主义从马克思主义那里获得了生命的营养和历史条件，这种新生具体体现在历史人学或者说人学辩证法上。人类主体从集合到群体的演变构成为"
+  },
+  {
+   "cn": "期望破灭的辩证法",
+   "en": "dialectic of shattered expectations",
+   "source": "马克思主义",
+   "wordNumber": "05.0081",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "本·阿格尔（Ben Ager）在《西方马克思主义概论》中认为，在资本主义制度下，资本家无限追求利润以及异化消费的出现，必然导致资源浪费、过度开发、环境破坏，爆发生态危机，使人们无限获取商品的期望的破灭"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

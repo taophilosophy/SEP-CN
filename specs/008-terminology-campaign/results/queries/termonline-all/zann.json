@@ -1,0 +1,172 @@
+{
+ "key": "zann",
+ "term": "ẓann",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:09:24+00:00",
+ "status": "ok",
+ "note": "variant=ẓann; 审定公布名词库=12; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "[人工]神经网络",
+   "en": "[artificial]neural network,ANN",
+   "source": "化学工程名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network,ANN",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.134",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "用大量的简单计算单元构成的非线性系统，在一定程度上可以模仿人脑神经系统的信息处理、存储及检索功能，具有学习、记忆和计算等智能处理功能。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network,ANN",
+   "source": "冶金学名词",
+   "wordNumber": "04.0792",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "不需要预先规定函数的形式，以科学技术应用中大量需要处理的问题作为神经元，广泛相互连接构成人工神经网络，连接关系引起神经元的不同兴奋状态且能大规模并行处理，最终输出优化的信息参数的网络。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural net,artificial neural network,ANN",
+   "source": "电子学名词",
+   "wordNumber": "03.450",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "曼氏试验",
+   "en": "Mann test",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.3.6.1.2",
+   "subjectFullName": "耳科_耳检查法",
+   "subjectName": "耳检查法",
+   "publishYear": "2025",
+   "definition": "受试者一足在前、另一足在后，前足跟与后足尖相触，闭目站立，观察其是否可以保持平衡的检查方法。"
+  },
+  {
+   "cn": "曼－肯德尔算法",
+   "en": "Mann-Kendall method",
+   "source": "地理学名词",
+   "wordNumber": "25.120",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "分析数据序列突变的典型的统计算法。"
+  },
+  {
+   "cn": "安娜堡分期",
+   "en": "Ann Arbor stage",
+   "source": "血液学名词",
+   "wordNumber": "8.117",
+   "subjectFullName": "血液学_淋系肿瘤_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "目前公认的淋巴瘤临床分期系统。由1971年安娜堡会议提出。根据淋巴结和结外器官受累范围分为Ⅰ～Ⅳ期，又根据有无系统性症状（发热、盗汗、消瘦）分为A、B两组。"
+  },
+  {
+   "cn": "盖尔曼-西岛关系式",
+   "en": "Gell-Mann-Nishijima relation",
+   "source": "物理学名词",
+   "wordNumber": "09.1475",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "曼-惠特尼U检验",
+   "en": "Mann-Whitney U test",
+   "source": "心理学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "运用秩次之和比较两个独立样本的差异的一种非参数检验方法。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network; ANN",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2642",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "由大量简单的处理单元广泛连接组成的模拟人类大脑神经系统结构和功能的网络。 "
+  },
+  {
+   "cn": "模拟退火静校正",
+   "en": "simulated ann-ealing static",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0261",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "利用模拟退火算法进行的静校正。 "
+  },
+  {
+   "cn": "约化理论",
+   "en": "reduction theory [of von Neu- mann algebra]",
+   "source": "数学名词",
+   "wordNumber": "07.0281",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "［人工］神经网络",
+   "en": "artificial neural network\",\"ANN",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "汉恩窗口",
+   "en": "Hann window",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曼－肯德尔算法",
+   "en": "Mann-Kendall method",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural net\",\"artificial neural network，ANN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

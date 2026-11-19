@@ -1,0 +1,712 @@
+{
+ "key": "includes fung",
+ "term": "includes Fung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:14:24+00:00",
+ "status": "ok",
+ "note": "variant=includes Fung; 审定公布名词库=934; 海峡两岸名词对照库=180; 其他来源数据库=35; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "包含",
+   "en": "inclusion,include",
+   "source": "数学名词",
+   "wordNumber": "01.0081",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "夹角",
+   "en": "included angle",
+   "source": "物理学名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内函韧皮部",
+   "en": "included phloem",
+   "source": "植物学名词",
+   "wordNumber": "03.1012",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "包裹在次生木质部内面的次生韧皮部。如藜科和白木香等一些双子叶植物。"
+  },
+  {
+   "cn": "夹角",
+   "en": "included angle",
+   "source": "数学名词",
+   "wordNumber": "08.0239",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "刀尖角",
+   "en": "tool included angle",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.079",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具要素",
+   "subjectName": "刀具要素",
+   "publishYear": "2021",
+   "definition": "主切削平面与副切削平面间的夹角。在基面中测量。"
+  },
+  {
+   "cn": "内函纹孔口",
+   "en": "included pit aperture",
+   "source": "植物学名词",
+   "wordNumber": "03.0922",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "从纹孔表面观上看，外缘不超过纹孔缘的纹孔内口。"
+  },
+  {
+   "cn": "溶剂型环氧树脂",
+   "en": "solvent included epoxy resin",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0692",
+   "subjectFullName": "化工（七）_合成树脂_环氧树脂",
+   "subjectName": "环氧树脂",
+   "publishYear": "2022",
+   "definition": "必须加入溶剂使之能够满足使用要求的环氧树脂混合物。如环氧树脂地坪胶。常用的溶剂有乙酸乙酯、乙酸丁酯、甲基乙基酮和环己酮等。"
+  },
+  {
+   "cn": "SCI条件",
+   "en": "specular component included condition",
+   "source": "光学名词",
+   "wordNumber": "05.113",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "只关注颜色测量中所包含的镜面光，而不关心颜色所附着的样品表面光泽度的一种测量方式。出现在8°观察角的照明条件中。"
+  },
+  {
+   "cn": "容斥原理",
+   "en": "including-excluding principle,cross classification",
+   "source": "数学名词",
+   "wordNumber": "04.0151",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "媵",
+   "en": "ying;dowry that includes servants and movable wealth",
+   "source": "中国古代史名词",
+   "wordNumber": "2.255",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "以女子、臣妾、器物陪嫁的礼俗。周天子及诸侯嫁女，依俗须由其兄弟之女及该女之妹随嫁，故有“诸侯一聘九女”“诸侯不再娶”之说，同时陪嫁的还有男女奴仆、车马、青铜器及玉器等物，以巩固婚姻之国的相互关系。后世"
+  },
+  {
+   "cn": "侄娣",
+   "en": "zhi di;women included as part of a dowry",
+   "source": "中国古代史名词",
+   "wordNumber": "2.257",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "贵族嫁女时所陪嫁的女子。起源甚早，周代称此，侄指所嫁女子的兄弟之女，娣指所嫁女子之妹。后世渐不以此陪嫁，随同嫁来的女子多为婢妾。"
+  },
+  {
+   "cn": "媵臣",
+   "en": "ying chen;ying servants;servants included as part of a dowry",
+   "source": "中国古代史名词",
+   "wordNumber": "2.256",
+   "subjectFullName": "中国古代史_先秦_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "跟随贵族女子陪嫁的奴仆。相传伊尹即为有莘氏女嫁给商汤为妃时陪嫁的师仆，后世不少著名人物早年亦为媵臣，如春秋秦国的百里奚。"
+  },
+  {
+   "cn": "因山借水",
+   "en": "yin shan jie shui;principle of design following the natural topography-including mountain and river",
+   "source": "风景园林名词",
+   "wordNumber": "02.0087",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "唐代因循地利、融合山水环境修治宫室的皇家园林营建理念与方法。"
+  },
+  {
+   "cn": "奉",
+   "en": "feng",
+   "source": "档案学名词",
+   "wordNumber": "07.02.053",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书引述词。公文引叙来文要先交代来文衙门，在来文衙门之上，要冠一特定词汇，上级来文用“蒙”“奉”，平级来文用“准”，下级来文用“据”。“奉”，即捧，是对收受上级事物表示尊敬的说法。与“开”形成“奉……"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "麻醉学名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。上端称肺尖，下端称肺底，内侧称纵隔面，外侧称肋面。右肺三叶，左肺二叶，外被胸膜，以叶间裂相隔，每叶肺又依支气管和血管的分支再分为肺段。"
+  },
+  {
+   "cn": "禽畜排泄物",
+   "en": "dung",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0157",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用作肥料和土壤调理剂的家禽或家畜的半固态粪便。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "兽医学名词",
+   "wordNumber": "19.061",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，上连气道，其主要生理功能是主气、司呼吸、主宣发肃降、通调水道，并与鼻窍、皮毛密切相关。"
+  },
+  {
+   "cn": "螯牙",
+   "en": "fang",
+   "source": "动物学名词",
+   "wordNumber": "5.2158",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_螯肢动物亚门",
+   "subjectName": "螯肢动物亚门",
+   "publishYear": "2021",
+   "definition": "螯肢端部特化的一节。呈爪状，坚硬，弯而尖，末端常有毒液的开口，具有捕获和杀死猎物的作用。"
+  },
+  {
+   "cn": "毒牙",
+   "en": "fang",
+   "source": "动物学名词",
+   "wordNumber": "6.0929",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2021",
+   "definition": "毒蛇着生在上颌骨上的长而中空或有沟，与毒腺连通的牙齿。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "动物学名词",
+   "wordNumber": "6.0993",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "陆生脊椎动物特有的呼吸器官。位于胸腔内，分为左肺和右肺。低等种类只呈囊状构造，内部只有具有血管的皱襞；但在高等种类为海绵状结构。鸟类的肺主要是由大量的三级支气管组成。哺乳动物的肺是由许多微细支气管和肺"
+  },
+  {
+   "cn": "内函韧皮部",
+   "en": "included phloem",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内函小脉",
+   "en": "included veinlet",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内函韧皮部",
+   "en": "included phloem",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内函纹孔口",
+   "en": "included pit aperture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "含佣金价格",
+   "en": "price including commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "词语文本",
+   "en": "text including words and phrases",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "壁孔",
+   "en": "cinclides",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "真菌",
+   "en": "fungi",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "毒牙",
+   "en": "fang",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "半知菌类，不完全菌类",
+   "en": "deuteromycetes\",\"imperfect fungi\",\"fungi imperfecti",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全菌类（=半知菌类）",
+   "en": "deuteromycetes\",\"imperfect fungi\",\"fungi imperfecti",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肺芽",
+   "en": "lung bud",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "左肺",
+   "en": "left lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "风云卫星",
+   "en": "Feng Yun",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "桐油",
+   "en": "tung oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "芽殖真菌",
+   "en": "budding fungi",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偿债基金",
+   "en": "sinking fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST ISO/IEC 15424-2018 信息技术 自动识别和数据捕获技术 数据载体标识符（包括符号系统标识符）》",
+   "en": "GOST ISO/IEC 15424:2018 Information technology — Automatic identification and data capture techniques — Data carrier identifiers (including symbology identifiers)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳基金",
+   "en": "carbon fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "肺脓肿",
+   "en": "lung abscess",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币基金 组织",
+   "en": "International Monetary Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易型开放式指数基金",
+   "en": "Exchange Traded Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基金中基金",
+   "en": "Fund of Funds",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丝路基金",
+   "en": "Silk Road Fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网基金销售",
+   "en": "Internet fund sales",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "里坊制",
+   "en": "fang",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "中国古代城市的居住街坊。自春秋时期称“里”，到隋初正式改“里”为“坊”，四周有墙及门。自宋代开始，随着商品经济的发展，坊巷呈开放形态，有利于人口与商品的交流。"
+  },
+  {
+   "cn": "公益基金",
+   "en": "non-profit fund，special fund",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "为了特定公益目的，通过捐赠等筹资方法筹集资金、在公募基金会设立的专门基金。一般由各类公益机构和捐赠方共同管理，用于从事某种特定的公益活动。"
+  },
+  {
+   "cn": "住房公积金",
+   "en": "housing fund",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "职工所在单位以及职工个人分别按照职工工资的一定比例逐月强制缴存一定金额的储蓄金，专门用于支付职工住房等所需费用，是国家法律规定的一种住房保障制度。"
+  },
+  {
+   "cn": "劳动基金",
+   "en": "labor fund",
+   "source": "马克思主义",
+   "wordNumber": "02.0155",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会形态下，工人为维持他们的生存和生活所必需的消费资料或其货币形式，是为了维持他们的劳动力生产和再生产所必须的生活资料的基金。马克思认为，它在一切社会生产制度下，都始终必须由劳动者本身来生产和再生"
+  },
+  {
+   "cn": "基金社会主义",
+   "en": "fund socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0234",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "继职能社会主义后瑞典社会民主党提出的又一种理论主张。强调在现存体制内，通过工人集体控制企业利润和股份，进而逐步控制资本所有权，扩大投资，增加就业和福利，实现经济民主，最后进入社会主义。20世纪90年代"
+  },
+  {
+   "cn": "卫生资金",
+   "en": "health fund",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "卫生资源的货币表现"
+  },
+  {
+   "cn": "基金结余",
+   "en": "fund balance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "基金收支相抵后的期末余额"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "桐油",
+   "en": "tung oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.19",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为桐树果实榨出的油，外观、味道与一般食用植物油相似。"
+  },
+  {
+   "cn": "真菌培养基",
+   "en": "fungi culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "适合真菌生长繁殖或代谢物产生的混合营养基质。"
+  },
+  {
+   "cn": "卫生资金分配",
+   "en": "health fund allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.4",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金分配",
+   "subjectName": "卫生资金分配",
+   "publishYear": "2025",
+   "definition": "一个国家和地区通过政府宏观调控和市场调节，优化资金分配结构，选择最适宜的资金投入方式和支付方式，将从全社会筹集到的资金在各区域，各级各类医疗机构，各类患者之间进行分配的过程。"
+  },
+  {
+   "cn": "卫生资金使用",
+   "en": "health fund utilization",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.5",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金使用",
+   "subjectName": "卫生资金使用",
+   "publishYear": "2025",
+   "definition": "卫生服务的各个领域将分配到的资金合理运用到各个项目上，追求以最小的成本达到最大和最优的卫生服务产出的过程。"
+  },
+  {
+   "cn": "医疗保险基金",
+   "en": "medical insurance fund",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "为补偿参保者医疗卫生保健支出，以各种方式建立起来、用于特定目的基金池"
+  },
+  {
+   "cn": "桐油中毒",
+   "en": "tung oil poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.21",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用桐油或混有桐油的食用油及其制品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "止贡替寺",
+   "en": "Vbri gung this dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0567",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派寺院。位于西藏自治区墨竹工卡县东北部。1179 年由喇嘛教噶举派止贡支系创始人止贡巴·仁饮贝主持兴建，是噶举派止贡支系的主要寺院。"
+  },
+  {
+   "cn": "放射致肺癌",
+   "en": "radiation induced lung cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。常有区域性淋巴转移和血行播散，临床表现咳嗽、咯血，后期出现胸痛、胸闷、呼吸困难及远处转移征象。其病程进展速度与细胞生物学特征有关。"
+  },
+  {
+   "cn": "萎缩肺综合征",
+   "en": "shrinking lung syndrome，SLS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.25",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为呼吸困难、胸膜炎性胸痛等，肺功能提示肺容积进行性降低，胸部CT无明显肺间质或胸膜病变的综合征。发病机制尚不明确，可能与膈肌病变、膈神经病变、胸廓扩张异常等有关。可发生于1～6%的SLE患者中。"
+  },
+  {
+   "cn": "风险储备金",
+   "en": "reserve fund，risk reserve",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "为应付超常风险或由费率预测的误差原因造成保险基金出现赤字而在纯保费之外筹集的专用后备基金"
+  },
+  {
+   "cn": "医疗保险基金分配",
+   "en": "medical insurance fund allocation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险基金在不同用途、不同领域之间的分配"
+  },
+  {
+   "cn": "外照射致肺癌",
+   "en": "lung cancer from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "来自体外的电离辐射照射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

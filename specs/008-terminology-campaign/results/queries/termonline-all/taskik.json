@@ -1,0 +1,602 @@
+{
+ "key": "taskik",
+ "term": "taskīk",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:06:49+00:00",
+ "status": "ok",
+ "note": "variant=taskīk; 审定公布名词库=83; 海峡两岸名词对照库=68; 其他来源数据库=7; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "任务",
+   "en": "task",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0405",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一个可被操作系统管理、调度和分配资源的程序执行单位。通常可以是一个进程或线程。"
+  },
+  {
+   "cn": "工作任务",
+   "en": "task",
+   "source": "教育学名词",
+   "wordNumber": "11.073",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "个人职业活动中能独立执行的最小单元。通常有固定的目的并包含若干逻辑的步骤。"
+  },
+  {
+   "cn": "双任务",
+   "en": "dual tasks",
+   "source": "生物物理学名词",
+   "wordNumber": "04.262",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "评估同时执行的两个任务间相互影响程度的实验模式中的同时执行的两个明显不同的任务。"
+  },
+  {
+   "cn": "任务管理程序",
+   "en": "task manager,task supervisor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0428",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统中负责管理任务的启动、执行、终止等过程的程序。"
+  },
+  {
+   "cn": "终止任务",
+   "en": "terminate task",
+   "source": "急救医学名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "急救人员已经接到出车任务，但因某种原因，调度员通知急救人员结束执行任务的行为。"
+  },
+  {
+   "cn": "任务信息",
+   "en": "task information",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.062",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播信息类型",
+   "subjectName": "组织传播信息类型",
+   "publishYear": "2022",
+   "definition": "对组织成员工作职责、完成期限、目标要求等具体内容的口头阐述或文件规定。"
+  },
+  {
+   "cn": "任务导向",
+   "en": "task oriented",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.09",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "管理者关注于任务，依赖奖励、威胁等法定权力因素影响下属的行为和工作业绩。"
+  },
+  {
+   "cn": "任务规划",
+   "en": "task planning",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0507",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "通过生成由子任务和运动组成的任务序列来解决要完成的任务的过程。"
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0534",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "为定义机器人或机器人系统特定的任务所编制的运动和辅助功能的指令集。"
+  },
+  {
+   "cn": "任务编程",
+   "en": "task programming",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0536",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "编制任务程序的行为。"
+  },
+  {
+   "cn": "任务管理",
+   "en": "task management",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0424",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_溯源与预警",
+   "subjectName": "溯源与预警",
+   "publishYear": "2020",
+   "definition": "通过任务的周期来管理任务的过程。它涉及规划、测试、跟踪和报告。"
+  },
+  {
+   "cn": "任务卷入",
+   "en": "task involvement",
+   "source": "精神医学名词",
+   "wordNumber": "03.401",
+   "subjectFullName": "精神医学_诊断分类_儿童情绪与行为障碍",
+   "subjectName": "儿童情绪与行为障碍",
+   "publishYear": "2019",
+   "definition": "对某项活动保持注意并继续坚持直到某种程度完成的过程。"
+  },
+  {
+   "cn": "任务本体",
+   "en": "task ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "提供在同一领域或非同一领域的特定任务的解决方法的系统性的语句。以可共享的问题求解方法为研究对象。描述的要素包括任务目标、任务数据、执行状态等。具体的研究主题包括通用任务、与任务相关的体系结构、任务方法"
+  },
+  {
+   "cn": "任务分析",
+   "en": "task analysis",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.197",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "对某项具体工作任务进行细致研究，将其分解成各项子任务，确定完成任务所必需的知识、技能等要素，并规定子任务质与量标准的分析过程。"
+  },
+  {
+   "cn": "串行任务",
+   "en": "serial task",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0434",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "顺序执行的任务。一个任务必须在另一个任务结束之后才能开始执行。"
+  },
+  {
+   "cn": "任务对换",
+   "en": "task swapping",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0430",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把内存中暂时不执行的任务交换到外存中，以便释放更多的内存来执行其他任务。"
+  },
+  {
+   "cn": "任务管理",
+   "en": "task management",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0437",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "对任务的创建、启动、终止、调度执行等的操作。实现任务正确、高效地完成。"
+  },
+  {
+   "cn": "任务切换",
+   "en": "task switching",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0431",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "把当前执行的任务上下文保存起来，并改变其状态；恢复另一个任务的上下文，使其在处理器上运行。"
+  },
+  {
+   "cn": "任务处理",
+   "en": "task processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0312",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "对任务进行创建、调度、执行、终止等处理的过程。"
+  },
+  {
+   "cn": "任务终止",
+   "en": "task termination",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0432",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "停止任务在处理器上的运行，并释放其占用的所有资源。"
+  },
+  {
+   "cn": "任务",
+   "en": "task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任务管理程序",
+   "en": "task supervisor\",\"task manager",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任务分析",
+   "en": "task analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "任务绩效",
+   "en": "task performance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "任务定向",
+   "en": "task orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发展任务",
+   "en": "developmental task",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加和性任务",
+   "en": "additive task",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "任务参与",
+   "en": "task involvement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "当前任务",
+   "en": "current task",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[阅]读任务",
+   "en": "reading task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行任务",
+   "en": "parallel task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试任务",
+   "en": "test task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "串行任务",
+   "en": "serial task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定时任务",
+   "en": "timed task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助任务",
+   "en": "secondary task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加任务",
+   "en": "appendage task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后台任务",
+   "en": "background task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "监控任务",
+   "en": "monitor task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前台任务",
+   "en": "foreground task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任务池",
+   "en": "task pool",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底线任务",
+   "en": "bottom-line tasks",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "任务调度",
+   "en": "task scheduling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任务程序",
+   "en": "task program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际互联网工程任务组",
+   "en": "Internet Engineering Task Force (IETF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网研究专门工作组",
+   "en": "Internet Research Task Force (IRTF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱金融行动特别工作组",
+   "en": "Financial Action Task Force on Money Laundering (FATF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "source": "马克思主义",
+   "wordNumber": "03.0105",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展进程中需要完成的、具有重大现实作用和历史进步意义的使命或工作。历史任务通常是事关全局的，具有战略意义的重大任务。如无产阶级肩负着消灭阶级剥削和压迫、实现共产主义、解放全人类的历史使命。"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "source": "马克思主义",
+   "wordNumber": "03.0824",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。发展是党执政兴国的第一要务。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "任务中心模式",
+   "en": "task-centered model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "针对传统治疗模式费时较长、效率低下而发展出的一种有时间限制、主要适用于处理生活问题的个案工作和心理辅导模式。它希望在有限的时间范围内，达成由当事人自己选择的、明确具体而有限的目标，提高个案工作的效率。"
+  },
+  {
+   "cn": "最大的政治",
+   "en": "biggest political task",
+   "source": "马克思主义",
+   "wordNumber": "04.0182",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个政党当前及今后相当长一个历史时期的主要任务。对于执政的中国共产党来说，社会主义现代化建设是当前最大的政治，因为它代表着人民最大的利益、最根本的利益；决定着国家的前途、民族的命运。"
+  },
+  {
+   "cn": "社会主义的根本任务",
+   "en": "fundamental task of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0586",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放和发展生产力是社会主义的根本任务，是解决当代中国一切问题的关键。我国底子薄、社会主义初级阶段要求发展生产力，增强国家实力、提高人民生活水平需要发展生产力。"
+  },
+  {
+   "cn": "党的历史任务",
+   "en": "historical task of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0716",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党在特定历史时期的奋斗目标。在新的世纪，继续推动社会主义现代化建设，完成祖国统一大业，维护世界和平与促进共同发展，是中国共产党肩负的重要历史任务。"
+  },
+  {
+   "cn": "民族工作主线",
+   "en": "central task in ethnic work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0155",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是新时代党的民族工作的主线，是民族地区各项工作的主线，是边疆民族地区工作的主线。"
+  },
+  {
+   "cn": "人民军队的三大任务",
+   "en": "three major tasks of the peoples army",
+   "source": "马克思主义",
+   "wordNumber": "03.0409",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "打仗、做群众工作、生产三项任务，是毛泽东关于军队建设的重要指导思想。毛泽东早在红军时期就提出这一思想，其具体内容在各个历史时期有所变化。"
+  },
+  {
+   "cn": "党的建设两大历史性课题",
+   "en": "two major historical tasks of the Party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0626",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不断提高领导水平和执政水平，不断提高拒腐防变和抵御风险的能力。由以江泽民为核心的党的第三代中央领导集体提出。2002年11月8日，“进一步解决提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力这两"
+  },
+  {
+   "cn": "一个中心两个基本点",
+   "en": "one central task and two basic points",
+   "source": "马克思主义",
+   "wordNumber": "03.0610",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义初级阶段基本路线的核心内容。一个中心指以经济建设为中心；两个基本点指坚持四项基本原则，坚持改革开放。1987年中国共产党第十三次全国代表大会作出这一概括。"
+  },
+  {
+   "cn": "以经济建设为中心",
+   "en": "take economic development as the central task",
+   "source": "马克思主义",
+   "wordNumber": "03.0612",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党十一届三中全会决定把党和国家的工作重点转移到社会主义现代化建设上来，把发展生产力作为压倒一切的中心任务。这是党在总结历史经验基础上作出的战略决策，是实现党的历史性转折的一个根本性标志。"
+  },
+  {
+   "cn": "中国共产党的中心任务",
+   "en": "central task of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0823",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，从现在起，中国共产党的中心任务就是团结带领全国各族人民全面建成社会主义现代化强国、实现第二个百年奋斗目标，以中国式现代化全面推进中华民族伟大复兴。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

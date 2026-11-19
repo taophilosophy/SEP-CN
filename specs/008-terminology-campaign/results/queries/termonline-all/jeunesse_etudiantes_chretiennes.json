@@ -1,0 +1,42 @@
+{
+ "key": "jeunesse etudiantes chretiennes",
+ "term": "Jeunesse étudiantes chrétiennes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:14:14+00:00",
+ "status": "ok",
+ "note": "variant=Jeunesse étudiantes chrétiennes; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新青年",
+   "en": "La Jeunesse",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.103",
+   "subjectFullName": "新闻学与传播学_新闻史_现代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "五四时期一份有影响力的杂志。1915年由陈独秀等人在上海创刊，1922年停刊。"
+  },
+  {
+   "cn": "田纳西河流域的综合开发与治理",
+   "en": "Tennesse valley comprehensive development and management",
+   "source": "经济学名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "由美国田纳西流域管理局对田纳西流域进行统一规划，并实施的综合治理与开发工作。该开发战略的指导思想是，流域内所有自然资源必须统一协调开发，不应只满足某些部门或社会集团的利益，应寻求流域优势的全面充分发挥"
+  },
+  {
+   "cn": "海格立斯的青春",
+   "en": "La Jeunesse d’Hercule",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Saint-Saëns, Camille"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

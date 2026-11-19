@@ -1,0 +1,32 @@
+{
+ "key": "agreable",
+ "term": "agréable",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:04:44+00:00",
+ "status": "ok",
+ "note": "variant=agréable; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "耕地红线",
+   "en": "arable land red line",
+   "source": "农学名词",
+   "wordNumber": "01.226",
+   "subjectFullName": "总论_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为保障粮食及主要农产品安全供给而确定的耕地面积最低保有量和区域耕地质量平均等级极限。"
+  },
+  {
+   "cn": "耕地",
+   "en": "arable land; cultivated land",
+   "source": "农学名词",
+   "wordNumber": "19.056",
+   "subjectFullName": "农业经济与管理_农业产业经济",
+   "subjectName": "农业产业经济",
+   "publishYear": "2025",
+   "definition": "专门用于种植农作物的土地。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

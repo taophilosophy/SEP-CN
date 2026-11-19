@@ -1,0 +1,742 @@
+{
+ "key": "regionalism",
+ "term": "Regionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:21:02+00:00",
+ "status": "ok",
+ "note": "variant=Regionalism; 审定公布名词库=1045; 海峡两岸名词对照库=523; 其他来源数据库=42; 预公布名词数据库=42; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "区域主义",
+   "en": "regionalism",
+   "source": "建筑学名词",
+   "wordNumber": "07.0064",
+   "subjectFullName": "建筑学_城乡规划_区域规划",
+   "subjectName": "区域规划",
+   "publishYear": "2014",
+   "definition": "提倡地方跨越行政边界，在更大的区域范围有效解决交通、空气质量、经济发展等共同问题，建设更宜居的社区的理念。新区域主义思潮强调更应关注城市设计、物质规划、场所创造、公平，整合物质规划、城市设计、社会平等"
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "（1）用某项指标或某几个特定指标的结合，在地球表面划分出的连续空间范围。（2）地球表面上占有一定空间的、以不同的物质与非物质要素所组成的地域范围。"
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "经济学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "由人的经济活动所形成的，具有特定的地域构成要素的经济社会综合体。包括综合经济区和部门经济区，也可按照经济发展水平分为发达区域、次发达区域和不发达区域。"
+  },
+  {
+   "cn": "区",
+   "en": "region",
+   "source": "植物学名词",
+   "wordNumber": "02.0400",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "用某项指标或某几个特定指标的结合，在地球表面划分出具有一定范围的连续而不分离的单位。"
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "地理学名词",
+   "wordNumber": "01.154",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "用某项指标或某几个特定指标的结合，在地球表面划分出具有一定范围的连续而不分离的单位。"
+  },
+  {
+   "cn": "区划",
+   "en": "regionalization",
+   "source": "地理学名词",
+   "wordNumber": "01.146",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "区域的划分。在全球、国家或地区范围内，根据其地域差异性划分成不同区域。有自然区划、经济区划、部门地理区划、综合区划等。在国家范围内为了行政管理需要进行行政区划。"
+  },
+  {
+   "cn": "间隔区",
+   "en": "space region;spacer region",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.305",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "两个转录单位之间的非转录序列，或两个tRNA（或rRNA）基因之间在转录后将被剪切的序列。"
+  },
+  {
+   "cn": "动物地理区",
+   "en": "faunal region;zoogeographic region",
+   "source": "动物学名词",
+   "wordNumber": "2.0385",
+   "subjectFullName": "动物学_动物进化与系统学_动物地理",
+   "subjectName": "动物地理",
+   "publishYear": "2021",
+   "definition": "地球表面包含特定动物区系的地理区域。分区单位自高至低有界、亚界、区、亚区、省等。"
+  },
+  {
+   "cn": "可变区",
+   "en": "variable region,V region",
+   "source": "免疫学名词",
+   "wordNumber": "2.213",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "位于T细胞受体和B细胞受体远膜端，以及免疫球蛋白重链和轻链N端的结构域。其氨基酸序列随特异性不同而有所变化，是与抗原(表位)特异性结合的结构基础。"
+  },
+  {
+   "cn": "恒定区",
+   "en": "constant region,C region",
+   "source": "免疫学名词",
+   "wordNumber": "2.215",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "T细胞受体、B细胞受体的近膜端和免疫球蛋白重链和轻链C端结构域，其氨基酸序列相对恒定。"
+  },
+  {
+   "cn": "间隔区",
+   "en": "space region,spacer region",
+   "source": "遗传学名词",
+   "wordNumber": "03.247",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "两个转录单位之间的非转录序列，或两个tRNA(或rRNA)基因之间在转录后将被剪切的序列。"
+  },
+  {
+   "cn": "新区域主义",
+   "en": "new regionalism",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "以提高区域的全球竞争力为目标，通过区域治理的方式来实现区域经济、社会、文化、环境等多元目标的一种理念。"
+  },
+  {
+   "cn": "批判的地域主义",
+   "en": "critical regionalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0364",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "产生于20世纪80年代的建筑观念。主要针对现代建筑缺失场所感及意义的问题。与地域主义建筑强调过去、单独地对应乡土的方式不同，在表现现代建筑普遍进步价值的同时，通过关注文脉来获得场所感和意义。在认识和美"
+  },
+  {
+   "cn": "微血管区域性",
+   "en": "microvascular regionality",
+   "source": "消化内镜学名词",
+   "wordNumber": "15.128",
+   "subjectFullName": "消化内镜学_胃疾病_胃肿瘤和肿瘤样疾病",
+   "subjectName": "胃肿瘤和肿瘤样疾病",
+   "publishYear": "2021",
+   "definition": "病变区域内的微血管与周边区域的微血管存在明显边界的现象。"
+  },
+  {
+   "cn": "区域环境",
+   "en": "regional environment",
+   "source": "地质学名词",
+   "wordNumber": "18.01.010",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "特定地域单元空间的自然环境和社会环境及其相互关系的总和。由自然界区域差异性及社会经济发展的区域差异性而形成。分为自然区域环境(如海洋、陆地、森林、湖泊、草原等)和社会区域环境(如农业区域环境、城市区域"
+  },
+  {
+   "cn": "环境区划",
+   "en": "environmental regionalization",
+   "source": "地质学名词",
+   "wordNumber": "18.01.041",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以保护和改善环境为目标，对某区域内各种资源和环境条件进行的综合评价。并依此提出改善措施等，是制定区域经济发展和建设规划的重要基础。"
+  },
+  {
+   "cn": "区域岩石学",
+   "en": "regional petrology",
+   "source": "地质学名词",
+   "wordNumber": "04.01.010",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "主要研究不同地区发育的岩石类型的岩相学特征、分布及岩石组合规律，探讨岩石类型与区域地质构造背景和成矿作用关系等的岩石学分支学科。"
+  },
+  {
+   "cn": "胸锁乳突肌区",
+   "en": "sternocleidomastoid region",
+   "source": "普通外科学名词",
+   "wordNumber": "14.008",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "颈分区之一。胸锁乳突肌在颈部的区域。其胸骨头起自胸骨柄前面，锁骨头起自锁骨内1/3上缘。两头间的三角形间隙适在胸锁关节上方，在体表即锁骨上小窝。该肌行向上后外方，止于乳突外面及上项线外侧1/3。"
+  },
+  {
+   "cn": "地洼区",
+   "en": "diwa region",
+   "source": "地质学名词",
+   "wordNumber": "10.03.069",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "与地台区性质对立，与地槽区有别的一种新型活动区。是与该二者并列的一级构造单元，通常称第三构造类型。"
+  },
+  {
+   "cn": "无震区",
+   "en": "aseismic region",
+   "source": "地质学名词",
+   "wordNumber": "11.01.026",
+   "subjectFullName": "地质学_地震地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "相对于地震区来说，地壳稳定、不易发生地震的地区。"
+  },
+  {
+   "cn": "区域主义",
+   "en": "regionalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区",
+   "en": "region",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区［域］",
+   "en": "region",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域化,区划",
+   "en": "regionalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "区域",
+   "en": "region",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跟区",
+   "en": "calcaneal region\",\"heel region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "地植物学区划（=植被区划）",
+   "en": "geobotanical regionalization (=vegetation regionalization)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因间区",
+   "en": "intergenic region\",\"IG region",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定区域",
+   "en": "stability region\",\"stable region",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物地理区",
+   "en": "zoogeographical region\",\"faunal region",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "恒定区",
+   "en": "constant region， C region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因间区",
+   "en": "intergenic region\",\"IG region",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可变区",
+   "en": "variable region， V region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "间隔区",
+   "en": "space region\",\"spacer region",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "背区",
+   "en": "back region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鼻区",
+   "en": "nasal region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "耻区",
+   "en": "pubic region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "赤道区",
+   "en": "equator region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "九州",
+   "en": "Nine Zhou (Regions)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域减贫",
+   "en": "regional poverty reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域性整体贫困",
+   "en": "overall regional poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域全面经济伙伴关系协定",
+   "en": "Regional Comprehensive Economic Partnership",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技区域合作框架",
+   "en": "Fintech regional cooperation framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解决区域性整体贫困",
+   "en": "eliminating overall regional poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域公共卫生应急联络机制",
+   "en": "regional emergency liaison mechanisms",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情高发区",
+   "en": "severely-hit regions (areas); areas (regions) with high infection rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域性标准化协作机制",
+   "en": "regional coordination mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非洲地区标准化组织",
+   "en": "African Regional Standards Organization (ARSO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地区性互联网注册管理机构",
+   "en": "regional Internet registry (RIR) system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区域协调发展战略",
+   "en": "the Coordinated Regional Development Strategy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中亚区域经济合作",
+   "en": "Central Asia Regional Economic Cooperation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地方菜系",
+   "en": "regional cuisine",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0105",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "长期以来在某一地区由于地理环境、气候物产、文化传统以及民族习俗等因素的影响，形成有一定亲缘承袭关系、菜点风味相近，知名度较高，并为部分群众喜爱的地方风味著名流派。在中国，鲁菜、川菜、苏菜和粤菜、湘菜、"
+  },
+  {
+   "cn": "区域民俗",
+   "en": "regional folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民俗的一个子项，指特定区域内由于自然状况与人文地理的原因而形成的具有共同特点的民间文化事象。"
+  },
+  {
+   "cn": "靶部位",
+   "en": "target region",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.5",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在人体摄入放射性物质后，吸收辐射能量的体内的一个解剖学部位。该部位可能是一个器官或某一特定组织，例如胃肠道、膀胱、骨骼和呼吸道。"
+  },
+  {
+   "cn": "区域标准",
+   "en": "regional standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由区域标准化组织或区域标准组织通过并公开发布的标准。"
+  },
+  {
+   "cn": "地域变体",
+   "en": "regional variety",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0083",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "因地域不同而产生的语言变体。不同地区的方言即为语言的地域变体。"
+  },
+  {
+   "cn": "区域性变异",
+   "en": "regional variation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0079",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "来自不同区域的说话者所显现出的语音、词汇或语法等方面的变异。是语言的一种共时变异现象。"
+  },
+  {
+   "cn": "区域发展",
+   "en": "regional development",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0121",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定的时空范围内以资源开发、产业组织、结构优化为主要中心的一系列经济社会活动。"
+  },
+  {
+   "cn": "西域",
+   "en": "Western Regions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "古地理名称。其范围有广、狭二义之分。广义的西域包括今新疆及其以西的中亚、北非、地中海东岸以及印度北部地方；狭义的西域是指玉门关、阳关以西，巴尔喀什湖以东以南，葱岭以东，亦即今天新疆地区。"
+  },
+  {
+   "cn": "区域卫生规划",
+   "en": "regional health planning",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.091000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在一定区域内，依据社会、经济、文化、自然条件及卫生状况等综合因素，针对区域内的主要卫生问题，制定和实施的卫生发展计划。其目的是合理配置和优化区域内卫生资源，建立与当地社会经济发展相适应的、能够有效提供"
+  },
+  {
+   "cn": "区域比较法",
+   "en": "regional comparison method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0519",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "为了使比较深入而采用的方法。它将比较的范围限制在一定的区域内，由此出发将这一区域的特殊民俗事象加以比较，区别类型，然后再和民俗学总的分类发生联系，进行比较。"
+  },
+  {
+   "cn": "源部位",
+   "en": "source region，rS ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "通过放射性物质摄入，使体内或参考模体内含有放射性核素的一个解剖学部位。该部位可能是一个器官、一个组织、胃肠道或膀胱的内含物、或骨骼中组织的表面、消化道和呼吸道。"
+  },
+  {
+   "cn": "特别行政区",
+   "en": "special administrative region",
+   "source": "马克思主义",
+   "wordNumber": "04.0167",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府为实现祖国统一，根据“一国两制”原则，在香港、澳门实行的在政治、经济上不同于一般行政区域的一种制度。它属一级地方政权，直接隶属于中央人民政府领导，享有高度的自治权力，但它继续实行资本主义制度。"
+  },
+  {
+   "cn": "区域间流动",
+   "en": "inter-regional flow",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.4.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "卫生人员在地区间的流入或流出，包括城乡流动。"
+  },
+  {
+   "cn": "区域卫生规划",
+   "en": "regional health planning",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.3.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "地方依据区域特征制定的卫生发展规划，旨在优化资源配置、完善服务体系、促进区域健康公平与可持续发展。"
+  },
+  {
+   "cn": "历史民族区",
+   "en": "history-ethnic region",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.063",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "苏联民族学中苏维埃学派的核心概念之一。在某些具体特定的区域内，各民族长期互相交往，并具有共同历史命运，从而形成了一定的文化共同体，这些区域即为历史民族区。"
+  },
+  {
+   "cn": "区域卫生规划",
+   "en": "regional health planning,RHP",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_区域卫生规划",
+   "subjectName": "区域卫生规划",
+   "publishYear": "2025",
+   "definition": "根据社会经济、居民健康状况和卫生服务需求等因素，以满足居民卫生服务需求、保护和增进健康为目的，确定一定区域内卫生发展的目标、模式和规模，统筹规划、合理配置卫生资源的过程。"
+  },
+  {
+   "cn": "西域长史",
+   "en": "administrator of Western Regions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0589",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "东汉时统领西域诸国的长官。公元83 年，东汉以班超为西域将兵长史。西域长史驻地不一，长史府下设有军队，除屯田外，还负责维护社会治安，西域长史行政机构的组织形式和职能完备，对治地实行有效的控制和管理。"
+  },
+  {
+   "cn": "西域百戏",
+   "en": "Western Region 100 Opera （plays）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0643",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代西域乐舞杂技、幻术、武术表演的总称。西域音乐、祝术、杂戏、截舌、抽肠、走绳等，均通过西域传入中原，与传统的角抵戏、蚩尤戏等结合，从而发展演变为名目繁多，包罗万象的“百戏”。"
+  },
+  {
+   "cn": "民族区域自治制度",
+   "en": "regional autonomy for ethnic minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0068",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国共产党运用马克思列宁主义解决国内民族问题的基本政策，是中华人民共和国的一项基本政治制度，是中国特色解决民族问题正确道路的重要内容和制度保障。民族区域自治具有民族因素和区域因素、政治因素和经济因素相"
+  },
+  {
+   "cn": "《钦定皇舆西域图志》",
+   "en": "Western Region Chart and Record",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0272",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "历史地理著作名。清代新疆第一部官修地方志。傅恒等纂。乾隆四十七年（1782）成书。所记为东起嘉峪关，西含新疆全境之自然地理、建置沿革、风俗物产等内容；并辑录有清高宗关于平定西域之题咏。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

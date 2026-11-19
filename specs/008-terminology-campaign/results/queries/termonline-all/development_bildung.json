@@ -1,0 +1,742 @@
+{
+ "key": "development bildung",
+ "term": "development Bildung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:04:12+00:00",
+ "status": "ok",
+ "note": "variant=development Bildung; 审定公布名词库=1683; 海峡两岸名词对照库=431; 其他来源数据库=208; 预公布名词数据库=259; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "急救医学名词",
+   "wordNumber": "03.746",
+   "subjectFullName": "急救医学_日常医学急救_儿科学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "细胞、组织、器官的分化与功能成熟。"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.107",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "使呈色剂转移到潜像对应区域并转换成可视图像的过程。"
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "1986年，联合国通过了《发展权利宣言》，定义发展为“经济、社会、文化和政治的全面进程”。其目的是在所有人积极、自由的且有意义的参与发展的基础上，在公平分配所有利益的基础上，不断改善全体人民和所有个人"
+  },
+  {
+   "cn": "发育",
+   "en": "development ",
+   "source": "草学名词",
+   "wordNumber": "6.0238",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "光学名词",
+   "wordNumber": "15.037",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "经过摄像的照相胶片在显影液中按光照强弱而溶解显示影像的过程。"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "动物学名词",
+   "wordNumber": "4.0007",
+   "subjectFullName": "动物学_动物胚胎学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "从受精到个体产出或孵出，直至成熟的变化，是生物有机体的自我构建和自我组织的过程。"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.190",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_X射线照片冲洗与增感屏",
+   "subjectName": "X射线照片冲洗与增感屏",
+   "publishYear": "2020",
+   "definition": "将胶片感光后形成的潜影转换成可见银影的化学反应过程。"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "运动医学名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "运动医学_医务监督_运动卫生",
+   "subjectName": "运动卫生",
+   "publishYear": "2019",
+   "definition": "人体随着年龄的增长，各器官系统的功能不断分化和完善，心理、智力持续发展，运动技能不断获得和提高的过程。"
+  },
+  {
+   "cn": "采准",
+   "en": "development",
+   "source": "冶金学名词",
+   "wordNumber": "02.0757",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "在开拓完毕的阶段和盘区中为切割和回采而进行的巷道掘进及有关设施的安装等工作。"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "植物学名词",
+   "wordNumber": "08.0359",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "一个有机体从其生命开始到成熟的自我构建、自我组织过程。常指植物从单细胞受精卵到成体所经历的一系列有序的细胞、组织和器官分化、形态建成的过程。"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "物理学名词",
+   "wordNumber": "04.0804",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "展开",
+   "en": "development",
+   "source": "化学名词",
+   "wordNumber": "03.1879",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "平面色谱的分离过程。即在点样后的薄层板或色谱纸上引入展开剂，带动样品组分在固定相上移动，由于各组分具有不同的移动速率，最终得以分离的过程。"
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0074",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "运用科学知识对基本思想、基本原理作进一步的发展，以产生一种新的物质形态或改进一种事物的过程。"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "遗传学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "多细胞生物从单细胞受精卵到成体经历的一系列有序的发展变化过程。"
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "电子学名词",
+   "wordNumber": "15.197",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "显影液",
+   "en": "developer",
+   "source": "精细化工名词",
+   "wordNumber": "08.1097",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "相片显影时使用的化学药剂。"
+  },
+  {
+   "cn": "显影",
+   "en": "developing",
+   "source": "测绘学名词",
+   "wordNumber": "03.057",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "使已曝光的感光材料显出可见影像的过程。"
+  },
+  {
+   "cn": "显影剂",
+   "en": "developer",
+   "source": "物理学名词",
+   "wordNumber": "04.0805",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "显示剂",
+   "en": "developer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.138",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_渗透探伤机",
+   "subjectName": "渗透探伤机",
+   "publishYear": "2003",
+   "definition": "能加速吸出渗入到试件表面缺陷中的渗透液，并增强显示衬度的一种物质。"
+  },
+  {
+   "cn": "平硐开拓",
+   "en": "adit development,drift development",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.041",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "用主平硐的开拓方式。"
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "展开部",
+   "en": "development",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "展开",
+   "en": "development",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "显影",
+   "en": "development",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发育",
+   "en": "development",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "显影剂",
+   "en": "developer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "显影",
+   "en": "developing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "开发者",
+   "en": "developer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动发育",
+   "en": "dependent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "出生后发育",
+   "en": "postnatal development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "个体发育",
+   "en": "individual development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚前发育",
+   "en": "preembryonic development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎发育",
+   "en": "embryonic development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "调整型发育",
+   "en": "regulatory development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "镶嵌型发育",
+   "en": "mosaic development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "早期发育",
+   "en": "early development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "早熟发育",
+   "en": "precocious development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步刺",
+   "en": "development",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据开发",
+   "en": "data development",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新发展",
+   "en": "innovative development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "协调发展",
+   "en": "coordinated development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色发展",
+   "en": "green development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开放发展",
+   "en": "open development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共享发展",
+   "en": "shared development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绿色发展",
+   "en": "green development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "循环发展",
+   "en": "circular development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "永续发展",
+   "en": "sustainable development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "研究与开发",
+   "en": "Research and Development",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独化",
+   "en": "Self-driven Development",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发展",
+   "en": "development",
+   "source": "马克思主义",
+   "wordNumber": "01.0091",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在其规模、结构、性质等方面发生的由低级向高级，由旧质向新质变化的哲学范畴。发展既有量的变化，又有质的变化，是对事物不可逆转的上升的运动变化的反映和概括。唯物辩证法认为，事物发展的本质是新事物产生旧"
+  },
+  {
+   "cn": "社会发展",
+   "en": "social development",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "社会有规律的升华和变迁。即整体社会或某种社会事物由小到大、由简单到复杂、由浅入深、由低级到高级或由传统到现代的变化。"
+  },
+  {
+   "cn": "组织发展",
+   "en": "organizational development",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "组织在变动不居的环境中，能够适应外部环境的变化，达到更新组织结构、改进组织效能和实现组织目标的变迁过程。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "内生式发展",
+   "en": "endogenous development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "主张主要由发展地区内部的力量来推动和参与、充分利用发展地区自身的力量和资源、尊重自身的价值与制度、探索适合自身的发展道路，不照搬西方发达国家发展模式的发展理论。"
+  },
+  {
+   "cn": "参与式发展",
+   "en": "participatory development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.4.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_其他发展理论",
+   "subjectName": "其他发展理论",
+   "publishYear": "2025",
+   "definition": "通过与发展地区的民众协商、沟通，向他们赋权，鼓励他们积极参与到影响他们生产生活的发展过程或发展项目中去，调动本土的力量为实现他们的发展愿望而采取相应措施的发展理论模式。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.13",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "既满足当代人的需求，又不损害后代人满足其需求的能力的发展方式。是一种注重长远发展的经济增长模式，最初于1972年6月5日联合国在斯德哥尔摩召开的“人类环境会议”中提出。"
+  },
+  {
+   "cn": "社区发展",
+   "en": "community development",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.3",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "在地方社区的层面上致力于减少贫困、增进团结和深化民主的一系列价值理念和多方参与的实践活动。"
+  },
+  {
+   "cn": "和谐发展",
+   "en": "harmonious development",
+   "source": "马克思主义",
+   "wordNumber": "03.0671",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "关注民生，促进社会公平正义，让全体人民共享改革发展成果的发展方式。追求的是人与人、人与社会、人与自然的和谐，是科学发展观以人为本理念的集中体现。"
+  },
+  {
+   "cn": "可持续发展",
+   "en": "sustainable development",
+   "source": "马克思主义",
+   "wordNumber": "03.0682",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在对待资源、环境、人口的开发和利用方面，既满足当代人的需求，又不对后代人满足其需求的能力构成危害的发展，是科学发展观的基本要求之一。"
+  },
+  {
+   "cn": "全面发展",
+   "en": "wellrounded development",
+   "source": "马克思主义",
+   "wordNumber": "03.0683",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按照中国特色社会主义事业总体布局，以经济建设为中心，全面推进中国特色社会主义经济、政治、文化、社会、生态文明建设。"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "视觉发育",
+   "en": "visual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "将视觉信息传入大脑，理解周围世界，获取周围环境的信息能力随年龄增长的发展变化过程。视觉系统功能出生后3年内基本发育成熟。"
+  },
+  {
+   "cn": "听觉发育",
+   "en": "auditory development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "声波作用于听觉器官，使其感受细胞兴奋，并通过听神经发放冲动，经各级听觉中枢分析后引起的感觉能力随年龄增长的发展变化过程。2岁内是最关键的时期。"
+  },
+  {
+   "cn": "嗅觉发育",
+   "en": "olfactory development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由发散于空气中的物质微粒作用于上鼻道嗅上皮中的嗅细胞产生神经冲动传至神经中枢，引起的嗅觉灵敏性随年龄增长的发展变化过程。2岁左右已经能很好地辨别各种气味。"
+  },
+  {
+   "cn": "味觉发育",
+   "en": "taste development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "有味物质刺激口腔内味觉感受体(如味蕾等)诱发神经冲动传入中枢引发的感觉随年龄增长的发展变化过程。6个月至1岁是味觉发展最敏感阶段。"
+  },
+  {
+   "cn": "触觉发育",
+   "en": "tactile development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "刺激物直接接触皮肤表面所产生的感觉随年龄增长的发展变化过程。新生儿对触觉刺激最为敏感的部位是嘴唇、手掌、脚掌、前额和眼睑。"
+  },
+  {
+   "cn": "知觉发育",
+   "en": "perceptual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对感觉信息的加工和解释能力随年龄增长的发展变化过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

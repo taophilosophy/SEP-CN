@@ -1,0 +1,82 @@
+{
+ "key": "bildende nachahmung",
+ "term": "bildende Nachahmung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:04:54+00:00",
+ "status": "ok",
+ "note": "variant=bildende Nachahmung; 审定公布名词库=3; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "闪锌矿",
+   "en": "sphalerite,zinc blende",
+   "source": "化学名词",
+   "wordNumber": "01.0317",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "硫化物矿，化学式为ZnS。立方晶系。是锌的主要矿物。"
+  },
+  {
+   "cn": "闪锌矿",
+   "en": "sphalerite;zinc blende",
+   "source": "地质学名词",
+   "wordNumber": "03.03.015",
+   "subjectFullName": "地质学_矿物学_硫硒碲砷化合物矿物",
+   "subjectName": "硫硒碲砷化合物矿物",
+   "publishYear": "2026",
+   "definition": "硫化物矿物。成分ZnS。等轴晶系，呈四面体、菱形十二面体晶形或粒状集合体。浅黄、棕褐或黑色，条痕白色至褐色，透明至半透明，金刚光泽或半金属光泽。解理{110}完全。硬度3~4。密度3.9～4.2g/c"
+  },
+  {
+   "cn": "闪锌矿晶格结构",
+   "en": "zinc  blende lattice  structure",
+   "source": "电子学名词",
+   "wordNumber": "13.040",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闪锌矿",
+   "en": "zinc blende",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闪锌矿",
+   "en": "sphalerite\",\"zinc blende",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闪锌矿型结构",
+   "en": "zinc blende structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "闪锌矿晶格结构",
+   "en": "zinc blende lattice structure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

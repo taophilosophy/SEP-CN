@@ -1,0 +1,482 @@
+{
+ "key": "masdar",
+ "term": "maṣdar",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:07:39+00:00",
+ "status": "ok",
+ "note": "variant=maṣdar; 审定公布名词库=347; 海峡两岸名词对照库=298; 其他来源数据库=7; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "MA型显示",
+   "en": "MA-display",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.205",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_超声检测仪",
+   "subjectName": "超声检测仪",
+   "publishYear": "2003",
+   "definition": "在探头扫查过程中，把所得到的A型显示图形连续叠加的显示。"
+  },
+  {
+   "cn": "马道",
+   "en": "madao",
+   "source": "建筑学名词",
+   "wordNumber": "03.0159",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "位于城墙内侧，采用礓蹉依城而建的坡道。具有提供马匹上城以输送粮食、传递消息和调度兵源的功能。此外，在屋顶内或房屋高处为施工、维修所设的便道亦称为马道。"
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.282",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "利用电磁波探测目标的电子设备。它能发射电磁波到目标并接收其回波，由此获得目标至电磁波发射点的距离、距离变化率(径向速度)、方位、高度等信息。"
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.333",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "电子学名词",
+   "wordNumber": "19.001",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "气象雷达",
+   "en": "meteorological radar,weather radar",
+   "source": "电子学名词",
+   "wordNumber": "19.121",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "雷达显示器",
+   "en": "radar indicator,radar scope",
+   "source": "电子学名词",
+   "wordNumber": "19.159",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "雷达中继",
+   "en": "radar link,radar relay",
+   "source": "电子学名词",
+   "wordNumber": "19.078",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加达漂移",
+   "en": "Gardar excursion",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0108",
+   "subjectFullName": "地球物理学_地球电磁学_古地磁学",
+   "subjectName": "古地磁学",
+   "publishYear": "2022",
+   "definition": "首次在冰岛盆地加达熔岩流中发现的松山反极性时内的地磁漂移事件。距今约 148万～149万年。 "
+  },
+  {
+   "cn": "连续波雷达",
+   "en": "continuous-wave radar,CW radar",
+   "source": "大气科学名词",
+   "wordNumber": "02.228",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "用发射连续波代替发射脉冲的一类雷达。这类雷达通过观测接收信号的多普勒频移而识别运动目标。"
+  },
+  {
+   "cn": "相对运动雷达",
+   "en": "relative motion radar,RM radar",
+   "source": "航海科技名词",
+   "wordNumber": "06.0299",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "真运动雷达",
+   "en": "true motion radar,TM radar",
+   "source": "航海科技名词",
+   "wordNumber": "06.0298",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "连续波雷达",
+   "en": "continuous wave radar,CW radar",
+   "source": "电子学名词",
+   "wordNumber": "19.082",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲多普勒雷达",
+   "en": "pulse Doppler radar,PD radar",
+   "source": "电子学名词",
+   "wordNumber": "19.088",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "雷达天文学",
+   "en": "radar astronomy",
+   "source": "天文学名词",
+   "wordNumber": "04.425",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "应用雷达技术研究天体的一门学科，为射电天文学的一个分支。通过主动向天体(或人造天体)发射电磁波，处理回波信号，提取有关天体信息，研究其物理性质和几何结构。"
+  },
+  {
+   "cn": "马腹一",
+   "en": "Agena; Hadar",
+   "source": "天文学名词",
+   "wordNumber": "05.092",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "半人马座β。全天第十一亮星，半人马座第二亮星。清代把它与南门二并称为“南门双星”。属于大犬座β型变星，亮度在0.61到0.66等之间变化，周期为0.157日。"
+  },
+  {
+   "cn": "流星雷达",
+   "en": "meteor radar",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0052",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "利用流星尾迹等离子体对高频电磁波反射原理探测高层大气风场、温度等参量的主动无线电雷达系统。 "
+  },
+  {
+   "cn": "地质雷达",
+   "en": "geological radar",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0075",
+   "subjectFullName": "地球物理学_勘探地球物理学_重_磁_电勘探",
+   "subjectName": "电勘探",
+   "publishYear": "2022",
+   "definition": "用频率为 106～109Hz的电磁波来确定地下介质分布的一种无损探测装备。 "
+  },
+  {
+   "cn": "雷达测井",
+   "en": "radar logging",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0611",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "在井中利用一个天线发射电磁波，另一个天线接收来自地下介质的反射波的测井工作。雷达波的传播受到地下介质电磁性质及几何形态的影响，接收端电磁波强度和波形将随之发生变化，据此可推测出地下岩土介质的结构特征。"
+  },
+  {
+   "cn": "声雷达",
+   "en": "acoustic radar",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0635",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "利用雷达原理，发出声波并接收此声波散射回来的回波，以测量回波强度和目标物距离的设备。"
+  },
+  {
+   "cn": "茜草",
+   "en": "madder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "雷达",
+   "en": "radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低平火山口",
+   "en": "maar",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "激光雷达",
+   "en": "ladar\",\"laser radar",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "雷达回波",
+   "en": "radar echo\",\"radar return",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达中继",
+   "en": "radar link\",\"radar relay",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象雷达",
+   "en": "meteorological radar\",\"weather radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索雷达，监视雷达",
+   "en": "surveillance radar\",\"search radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "茜草根",
+   "en": "madder root",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转发无线电话遇险信号",
+   "en": "mayday relay",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "雷达显示器",
+   "en": "radar indicator， radar scope",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续波雷达",
+   "en": "continuous wave radar\",\"CW radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相对运动雷达",
+   "en": "relative motion radar\",\"RM radar",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "真运动雷达",
+   "en": "true motion radar\",\"TM radar",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连续波雷达",
+   "en": "continuous wave radar，CW radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲多普勒雷达",
+   "en": "pulse Doppler radar，PD radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超高频雷达",
+   "en": "UHF radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常规雷达",
+   "en": "conventional radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "马乔尔",
+   "en": "Magyar\",\"Magyar travel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马乔尔打滚",
+   "en": "Magyar spindle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子雷达",
+   "en": "quantum radar",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "雷达对抗",
+   "en": "radar countermeasure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "麦达合",
+   "en": "Maddah, Maiddah",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0652",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "维吾尔民间说书与说唱形式。多为一人说一人于其间弹弦伴奏，或自说自弹。原多讲英雄史诗、历史故事，后多说社会时事，现多演绎为民间趣事，见于南疆城镇。"
+  },
+  {
+   "cn": "麻扎",
+   "en": "Mazar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0627",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "阿拉伯音译，意即拜谒处。伊斯兰教圣贤显贵墓及修道处通称。新疆麻扎常有拱北，附设礼拜寺和教经堂，三角小旗等饰物为重要标帜，以税收与捐献为财产。旧时土地为宗教上层把持，社会主义改造后为集体所有。"
+  },
+  {
+   "cn": "蝶形红斑",
+   "en": "butterfly erythema /malar rash",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "累及两侧面颊的固定性红斑。通过鼻梁相连，如蝴蝶状，不影响鼻唇沟。红斑消失后一般不留有痕迹，可有棕色蝶形红斑色素沉着，较少出现皮肤萎缩。见于46–65%的SLE患者，但其它疾病中亦可出现。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

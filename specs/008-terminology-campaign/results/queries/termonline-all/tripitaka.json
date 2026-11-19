@@ -1,0 +1,22 @@
+{
+ "key": "tripitaka",
+ "term": "tripiṭaka",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:03:15+00:00",
+ "status": "ok",
+ "note": "variant=tripiṭaka; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "三藏",
+   "en": "San Zang;Tripitaka;the Three Baskets;The Buddhist Canon",
+   "source": "中国古代史名词",
+   "wordNumber": "1.519",
+   "subjectFullName": "中国古代史_通论_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "佛教经典的总称。又称“三法藏”，包括经藏、律藏及论藏。经藏即佛所教说之义形诸文字者，律藏即佛所制订的戒律仪规，论藏即对佛经教义的议论和发挥。通晓这3个部类经典的高僧即称三藏法师。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

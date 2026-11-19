@@ -1,0 +1,92 @@
+{
+ "key": "pratyaksa-khanda transliterated",
+ "term": "Pratyakṣa-khaṇḍa Transliterated",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:15:25+00:00",
+ "status": "ok",
+ "note": "variant=Pratyakṣa-khaṇḍa Transliterated; 审定公布名词库=5; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "音译地名",
+   "en": "place name transliteration",
+   "source": "测绘学名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "采取语音相近的译写方法，将一种文字的地名翻译成另一种文字的地名。如美国首都华盛顿，是由英语Washington按音译法译成汉语的。"
+  },
+  {
+   "cn": "音译词",
+   "en": "transliteration,phonemic loan",
+   "source": "语言学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "根据外语词读音翻译，用汉字记音的外来词。例如“沙发”（sofa）、“咖啡”（coffee）。"
+  },
+  {
+   "cn": "地名译写",
+   "en": "place name transcription,geographical name transliteration",
+   "source": "测绘学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "用音译(用字母标记语言的方法)和转写(用一种字母表的字符标记另一种字母表的字符的方法)两种方式针对不同文字的地名、人名或术语进行互译。"
+  },
+  {
+   "cn": "哈达",
+   "en": "Khata ",
+   "source": "草学名词",
+   "wordNumber": "8.0031",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "喀尔喀蒙古",
+   "en": "Ka Er Ka Meng Gu;Khalka Mongol",
+   "source": "中国古代史名词",
+   "wordNumber": "8.574",
+   "subjectFullName": "中国古代史_明清_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "自喀尔喀万户12部发展而来的蒙古诸部合称。喀尔喀万户为公元15世纪末达延汗分封的东部蒙古6个万户之一，其12部中的内5部居喀尔喀河东，后徙至漠南，清初编为内札萨克诸旗；外7部居河西，后发展为漠北的外喀"
+  },
+  {
+   "cn": "直译",
+   "en": "transliterate\",\"literal translation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地名转写",
+   "en": "geographical name transcription\",\"geographical name transliteration",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "卡马",
+   "en": "Khamma",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

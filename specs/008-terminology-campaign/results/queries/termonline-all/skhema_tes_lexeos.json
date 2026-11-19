@@ -1,0 +1,572 @@
+{
+ "key": "skhema tes lexeos",
+ "term": "skhêma tês lexeôs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:08:04+00:00",
+ "status": "ok",
+ "note": "variant=skhêma tês lexeôs; 审定公布名词库=125; 海峡两岸名词对照库=76; 其他来源数据库=6; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "MA型显示",
+   "en": "MA-display",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.205",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_超声检测仪",
+   "subjectName": "超声检测仪",
+   "publishYear": "2003",
+   "definition": "在探头扫查过程中，把所得到的A型显示图形连续叠加的显示。"
+  },
+  {
+   "cn": "天花粉蛋白",
+   "en": "trichosanthin,TCS",
+   "source": "植物学名词",
+   "wordNumber": "12.0272",
+   "subjectFullName": "植物学_植物化学_植物主要化学成分",
+   "subjectName": "植物主要化学成分",
+   "publishYear": "2019",
+   "definition": "从葫芦科植物栝楼(Trichosanthes kililowii)的块根中分离获得的一种碱性蛋白质。是一种单链核糖体失活蛋白质，可诱导细胞凋亡、活性氧产生等，抑制病毒的活性。"
+  },
+  {
+   "cn": "四甲基硅烷",
+   "en": "tetramethylsilane,TMS",
+   "source": "化学名词",
+   "wordNumber": "03.2305",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "核磁共振测量中使用最多的化学位移基准物。化学式为<img src='/root/syzx/static/spz/huaxue2.03.2305.1.png'/>。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "行为医学名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种特殊的心理结构。是帮助人知觉、组织、获得和利用信息的认知结构。"
+  },
+  {
+   "cn": "模式",
+   "en": "schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0007",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的结构与特征的具体表示与描述。其反映了数据内在结构与数据间的关系。"
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "心理学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "皮亚杰认为图式指一种特殊的心理结构，或一种组织起来的理解经验的方式。"
+  },
+  {
+   "cn": "冗余级数",
+   "en": "redundant levels",
+   "source": "电力名词",
+   "wordNumber": "21.244",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "经型式试验证明在运行时可以被外部或内部短路而不影响阀安全运行的电压源换流阀级或二极管阀级的最大数量。如果超出时,需要阀停止运行并替换故障的阀级,否则需承受发生故障扩大的危险。"
+  },
+  {
+   "cn": "情报层级",
+   "en": "intelligence levels",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.097",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "对情报搜集阶段所获取的情报结果划分的不同级别。一般的方法是：首先通过对竞争情报活动的分析，确定竞争情报级别的评价指标；然后对这些指标进行定量分析，并建立综合评判模型；最后通过综合评判运算，获得计算结果"
+  },
+  {
+   "cn": "首词",
+   "en": "prototypical lexeme",
+   "source": "语言学名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在一个词语类聚群中按一定标准排在最前面的那个词。例如，按义类编排的“搬运夫”“搬运工”“杠夫”“红帽子”“脚夫”“脚力”“脚行”“挑夫”一类中，常用度高、覆盖面广的“搬运工”是首词。"
+  },
+  {
+   "cn": "民族色彩词",
+   "en": "ethno lexeme",
+   "source": "语言学名词",
+   "wordNumber": "05.102",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "含有民族色彩的词。既有现代词语，例如“书法”“中医”；也有一些历史词语，例如“太监”“八股”。"
+  },
+  {
+   "cn": "志愿控告者",
+   "en": "Sycophants,Sykophan-tes",
+   "source": "世界历史名词",
+   "wordNumber": "02.0329",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "雅典城邦没有公诉人，但任何公民都可以代表城邦起诉违法行为。在古典时代，雅典出现了一些专门控告违法行为的人，被称为“志愿控告者”。"
+  },
+  {
+   "cn": "原生词",
+   "en": "roto lexeme,etymon",
+   "source": "语言学名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在一种语言内部早期出现的词语，音义之间多为约定俗成。例如“水”“火”“人”。"
+  },
+  {
+   "cn": "滑行引导系统",
+   "en": "taxiingguidance system,TGS",
+   "source": "航空科学技术名词",
+   "wordNumber": "17.049",
+   "subjectFullName": "航空科学技术_机场设施与飞行环境",
+   "subjectName": "机场设施与飞行环境",
+   "publishYear": "2003",
+   "definition": "为引导航空器在机场上准确地滑行、停放而设置的一系列标志、标记牌和信号设施的总称。"
+  },
+  {
+   "cn": "硫酸三甘肽",
+   "en": "triglycine sulfide,TGS",
+   "source": "电子学名词",
+   "wordNumber": "06.049",
+   "subjectFullName": "电子学_电子陶瓷、压电、铁电与磁性元",
+   "subjectName": "电子陶瓷、压电、铁电与磁性元",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语汇学",
+   "en": "lexis studies",
+   "source": "语言学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "语言学_语义学、词汇学_词汇学",
+   "subjectName": "词汇学",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。主要研究语汇。传统上将“语”包括在词汇之中，现在有人主张将“语”与“词”分开，建立独立的语汇学。主要研究语的性质与分类、结构规律、表意功能、使用特点、历史来源等。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "档案学名词",
+   "wordNumber": "06.02.009",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "表示元数据元素之间关系的逻辑架构。规定元数据的使用及管理规则，尤其是关于语义、语法及赋值的规则。"
+  },
+  {
+   "cn": "身体图式",
+   "en": "body schema",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.539",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在与环境交互的认知过程中，一系列以自己的身体为意向对象的意向状态。如知觉、心理表征及信念等的复合。"
+  },
+  {
+   "cn": "元数据方案",
+   "en": "metadata schema",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.897",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "包括描述、管理、服务、保存等各种元数据规范，以及元数据著录、置标、映射交换等应用规范在内的完整的元数据解决方案。"
+  },
+  {
+   "cn": "外模式",
+   "en": "external schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0015",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库用户的数据视图。即与某一应用有关的数据的逻辑表示。"
+  },
+  {
+   "cn": "模式调优",
+   "en": "schema tuning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0323",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "通过调整模式设计来改善数据库的查询和修改性能。"
+  },
+  {
+   "cn": "词素",
+   "en": "lexeme",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天花粉蛋白",
+   "en": "trichosanthin\",\"TCS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "四甲基硅烷",
+   "en": "tetramethylsilane\",\"TMS",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图式",
+   "en": "schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外向图式",
+   "en": "extravert schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁图式",
+   "en": "depressive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图式理论",
+   "en": "schema theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "事件图式",
+   "en": "event schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭图式",
+   "en": "family schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我图式",
+   "en": "self schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别图式",
+   "en": "gender schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "编码模式",
+   "en": "encoding schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "采样模式，抽样模式",
+   "en": "sampling schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类模式",
+   "en": "classification schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据模式",
+   "en": "data schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "应用模式",
+   "en": "application schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "刹把",
+   "en": "brake levers",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上诉级别",
+   "en": "levels of appeal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性三品",
+   "en": "Human Nature Has Three Levels.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五级书记”",
+   "en": "Party secretaries at five levels (the CPC Central committee, provincial committee, municipal committee, county-level committee, and village committee)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-6-2018 信息技术 数据中心设施和基础设施 安全系统》",
+   "en": "BS PD ISO/IEC TS 22237-6:2018 Information technology — Data centre facilities and infrastructures — Security systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-1-2018 信息技术 数据中心设施和基础设施 一般概念》",
+   "en": "BS PD ISO/IEC TS 22237-1:2018 Information technology — Data centre facilities and infrastructures — General concepts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学派的转形理论",
+   "en": "TSS  transformation theory of TSS school",
+   "source": "马克思主义",
+   "wordNumber": "05.0123",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代至21世纪初兴起的TSS学派（The School of Temporal Single System），提出的对价值转形问题的新解答。该学派认为只要正确理解价值概念，马克思体系中的基"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "总膳食研究",
+   "en": "total diet study, TDS",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.42",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "通过分析一个国家全人群中实际摄入的食物化学物水平，来对这种食物化学物的慢性膳食暴露情况进行评估的方法。"
+  },
+  {
+   "cn": "治疗计划系统",
+   "en": "treatment planning system，TPS",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗中用于设计治疗方案的关键设备。通过计算机和专用软件可以实现患者的三维重建、靶区和正常组织的勾画、射野设计和优化、剂量计算与评估等功能。"
+  },
+  {
+   "cn": "皮肤温度",
+   "en": "skin temperature,Ts",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.3.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷应激",
+   "subjectName": "冷应激",
+   "publishYear": "2025",
+   "definition": "按相应部位的皮肤面积计算的人体皮肤表面温度的加权平均值。"
+  },
+  {
+   "cn": "三级预防体系",
+   "en": "three levels of prevention system",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "预防医学中三个级别的预防和控制疾病的重要策略。一级为病因预防，通过对病因的研究减少对危险因素的接触，是防控和消灭疾病的根本措施；二级为三早预防，即疾病的早发现、早诊断、早治疗；三级为临床预防，主要是减"
+  },
+  {
+   "cn": "糟渍菜",
+   "en": "pickled vegetable with lees",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.34",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "以蔬菜咸坯为原料，用酒糟或醪糟经糟渍加工而成的蔬菜制品。"
+  },
+  {
+   "cn": "咖啡因可耐受最高摄入量",
+   "en": "tolerable upper intake levels (UL) of caffeine",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.7.4",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "咖啡因每日摄入量的安全上限，是一个健康人群中几乎所有个体都不会产生毒副作用的最高摄入量。对于没有药物过敏的健康成人，每日咖啡因的正常摄入上限是400mg。"
+  },
+  {
+   "cn": "靶向改善病情抗风湿药",
+   "en": "targeted synthetic, disease-modifying antirheumatic drug, ts-DMARD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "针对参与免疫应答或炎症过程的特定致病性靶分子的拮抗药物，以期靶向性阻断疾病的发生发展过程。"
+  },
+  {
+   "cn": "归口包干",
+   "en": "budgets prepared by competent departments at central and local levels or to hold departments responsible for their finances",
+   "source": "马克思主义",
+   "wordNumber": "02.0393",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "财政预算归口管理、支出包干使用，是1954年邓小平任财政部长时，为了使国家财政建立在稳固的基础上，保证社会主义工业化建设和社会主义改造的需要而提出的财政工作方针。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

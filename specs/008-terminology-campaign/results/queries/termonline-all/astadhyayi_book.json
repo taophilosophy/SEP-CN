@@ -1,0 +1,682 @@
+{
+ "key": "astadhyayi book",
+ "term": "Aṣṭādhyāyī Book",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:16:58+00:00",
+ "status": "ok",
+ "note": "variant=Aṣṭādhyāyī Book; 审定公布名词库=560; 海峡两岸名词对照库=107; 其他来源数据库=38; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.001",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "用文字或图画、符号等记录知识于纸张等载体，并具有相当篇幅的非连续出版物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "用文字、图画或其他信息符号，手写或印刷于纸张等载体上，具有相当篇幅，用来表达思想并制成卷册的著作物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "由出版社(商)出版的不包括封面和封底在内49页以上的印刷品，具有特定的书名和著者名，编有国际标准书号，有定价并取得版权保护的出版物。"
+  },
+  {
+   "cn": "旧书",
+   "en": "(1)worn book (2)ancient book (3)secondhand book,used book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "（1）外观上破旧的书。（2）出版年代久远的书，尤其指线装书。（3）已使用过的二手书。"
+  },
+  {
+   "cn": "图书评介",
+   "en": "book review,book report,book appraisal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_其他服务形式",
+   "subjectName": "其他服务形式",
+   "publishYear": "2019",
+   "definition": "对图书的内容、特点等进行介绍、分析、评论的行为。  "
+  },
+  {
+   "cn": "禁书",
+   "en": "prohibited book,banned book,suppressed book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "被教会、当局或非官方的团体组织禁止出版或者销售的图书。其内容被认为具有反抗性或威胁性。"
+  },
+  {
+   "cn": "图书典藏",
+   "en": "book reservation,book collection",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "图书馆对其藏书定期或不定期进行的有计划的整顿工作。包括藏书的剔除、清点、调拨、交换、赠送和集中保存等。"
+  },
+  {
+   "cn": "书架",
+   "en": "book stack,book shelf",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.237",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆内排列、存放藏书的基本设备。多选用钢、木材单独制成或耐用钢材外镶嵌装饰木板混合制成，也有的用钢筋混凝土制成。根据宽度、高度和是否可移动而分为多种，包括单面书架、双面书架、密集书架、积层书架等。"
+  },
+  {
+   "cn": "书车",
+   "en": "book truck,book cart",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆内用于水平方向运送图书的工具。一般有两层或三层书架，下面带有转动灵活的小车轮。"
+  },
+  {
+   "cn": "财产登记簿",
+   "en": "stock book,accounting book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.414",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆按入藏顺序逐种或逐册（件）登录入藏文献的记录册。通过总括登记号码与总括登记簿相关联。财产登记簿是图书馆的财产账，是保证图书财产完整和检查每册书的入藏历史的重要依据。"
+  },
+  {
+   "cn": "图书运送升降机",
+   "en": "book hoist,book lift",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.290",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书馆建筑与设施",
+   "subjectName": "图书馆建筑与设施",
+   "publishYear": "2019",
+   "definition": "图书馆里将图书从一层楼或书库运到另一层楼或书库，或从书库运到借书处的一种专门的机械装置。"
+  },
+  {
+   "cn": "电子图书",
+   "en": "electronic book,e-book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.605",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_数字资源建设",
+   "subjectName": "数字资源建设",
+   "publishYear": "2019",
+   "definition": "以数字形式制作、出版、存取和使用的图书。一般以磁性或电子载体为存储载体，并借助一定的阅读软件和设备读取。"
+  },
+  {
+   "cn": "数字化图书",
+   "en": "digital book,e-book",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0471",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用二进制数字记录图书内容的各种载体。"
+  },
+  {
+   "cn": "书市",
+   "en": "book bazaar;book fair",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.128",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "由众多出版、发行单位参加的，集中展示、销售出版物的活动。"
+  },
+  {
+   "cn": "电子书",
+   "en": "electronic book;e book",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.13",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "①将文字、图片、声音、影像等信息以数字化形式存储与传播的出版物，借助计算机或其他电子设备进行生产、出版与阅读。它由三种要素构成：电子书的内容；电子书的阅读终端，如Kindle等采用电子墨水技术的阅读器"
+  },
+  {
+   "cn": "新书",
+   "en": "new book;fresh book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.032",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "出版单位新近出版的图书。"
+  },
+  {
+   "cn": "誊录簿",
+   "en": "transcribed book",
+   "source": "档案学名词",
+   "wordNumber": "09.01.011",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "古代一种文书处理形式。用誊写或摘要方式登记文件或账目的簿册。起源于罗马共和国末期，元老院凡通过的法律和决议，必须誊写在誊录簿上才能生效。到中世纪，成为文书处理中最流行的形式，由此发展为各种式样的誊录簿"
+  },
+  {
+   "cn": "末日审判书",
+   "en": "Domesday Book",
+   "source": "档案学名词",
+   "wordNumber": "09.01.015",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "英国一种古代档案。是英王威廉(征服者）于1086年下令对被他征服的英格兰进行土地普查时编制的清册。调查时因该清册将一部分自由民降为农奴，居民受到威逼，感到惊恐，认为该清册犹如教会所描写的上帝对死者的“"
+  },
+  {
+   "cn": "书业",
+   "en": "book industry",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.009",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "专门从事图书出版活动，向公众提供图书出版物的行业。"
+  },
+  {
+   "cn": "书号",
+   "en": "book number",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.056",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "图书的识别代号。"
+  },
+  {
+   "cn": "订舱",
+   "en": "booking",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "车钟记录簿",
+   "en": "telegraph book\",\"bell book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "账面价值",
+   "en": "book value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "马利纳曲集",
+   "en": "Mulliner Book",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mulliner, Thomas "
+  },
+  {
+   "cn": "结账",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决算",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品销售账",
+   "en": "merchandise book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "测深手簿",
+   "en": "sounding book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "手簿",
+   "en": "record book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "外业手簿",
+   "en": "field book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "橘皮书",
+   "en": "orange book",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书肺",
+   "en": "book-lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "舱位登记簿",
+   "en": "space book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航海日志",
+   "en": "log book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指南",
+   "en": "guide book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "成批预订",
+   "en": "block booking",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "年历",
+   "en": "almanac\",\"year book",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "书夹涡旋",
+   "en": "book-end vortices",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支票货币",
+   "en": "check book money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电气日志",
+   "en": "electrical log book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "四书",
+   "en": "Four Books",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市净率",
+   "en": "Price-to-Book Ratio",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "读万卷书，行万里路",
+   "en": "Read Ten Thousand Books and Travel Ten Thousand Li",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王者之迹熄而《诗》亡",
+   "en": "The Book of Songs Died with the Decline of the Kingly Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不学《诗》，无以言",
+   "en": "You Won’t Be Able to Talk Properly with Others Without Studying The Book of Songs.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拳击鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "勾拳",
+   "en": "hook",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "托肩钩",
+   "en": "hook",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "勾",
+   "en": "hook",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲线球",
+   "en": "hook",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帆杆",
+   "en": "boom",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举重鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篮球鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马护腿",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书本上的法",
+   "en": "law in book",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.15",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的、以成文形式出现但未必被人们实际遵循的规范。与行动中的法相对应。"
+  },
+  {
+   "cn": "反对本本主义",
+   "en": "oppose book worship",
+   "source": "马克思主义",
+   "wordNumber": "03.0346",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "本本主义与教条主义同义,是主观主义的一种表现形式。主要特点是一切从书本出发，死记硬背，生搬硬套，不从实际出发，拒绝对具体情况做具体的分析。1930年5月，毛泽东为了反对当时红军中存在的本本主义，专门了"
+  },
+  {
+   "cn": "《苗防备览》",
+   "en": "A Book about Miao",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0306",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代后期关于湖南西部和贵州东北部苗族地区地理、政治、经济、风习等方面之综合性著作。作者严如煜（1759—1826），曾任晚清湖南巡抚姜晟幕僚。全书共22 卷，14 门，内容丰富详赡。"
+  },
+  {
+   "cn": "消毒产品说明书",
+   "en": "instruction book of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "应用文字、数字、符号、图案、表格等方式，对某一消毒产品性能、使用范围、使用方法、注意事项等内容进行具体介绍的文件。"
+  },
+  {
+   "cn": "《蛮书》",
+   "en": "Book on the southwest outlyingdistrict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0266",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "唐人樊绰撰，记载南诏史事。共十卷。对今云南地区之自然地理、城镇、交通、里程、物产，特别是对南诏历史、政治、经济、军事、各民族的生活习俗、山川、交通城镇及境外诸国，均有系统阐述。"
+  },
+  {
+   "cn": "《八旗满洲氏族通谱》",
+   "en": "Eight Banners of Manchu Clans' Book",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0274",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代弘昼、鄂尔泰等奉乾隆帝之敕而编纂。全书80 卷，辑录清皇室爱新觉罗氏以外之满洲姓氏，详细记述其归顺爱新觉罗氏氏之时间、原居地、官阶及勋绩情况；共辑录满洲姓氏1114 个，并为每个姓氏中勋业最显著者"
+  },
+  {
+   "cn": "3岁以下儿童家中有3本及以上图画书的比例",
+   "en": "percentage of children under age 3 who have 3 or more picture books",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.8.17",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区3岁以下儿童中，家中有3本及以上图画书可供阅读的人数，与同期当地3岁以下儿童数之比。"
+  },
+  {
+   "cn": "婴儿潮",
+   "en": "baby boom",
+   "source": "社会学名词",
+   "wordNumber": "4.5.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_出生",
+   "subjectName": "出生",
+   "publishYear": "2025",
+   "definition": "第二次世界大战结束后，发达国家一度出现的婴儿大量出生的现象。这些国家都普遍地出现一个结婚和生育的高潮，各国的出生率都有不同程度地回升。随后又回到原来低出生的轨道。"
+  },
+  {
+   "cn": "库克岛人",
+   "en": "Cook Islanders",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0437",
+   "subjectFullName": "民族学与文化学_世界民族_太平洋地区",
+   "subjectName": "太平洋地区",
+   "publishYear": "2025",
+   "definition": "①大洋洲现代民族（nation），拥有库克群岛国籍和公民身份的人们共同体。人口约 1.79万（2020 年）。通用库克群岛毛利语和英语。69%信奉基督教新教，15%信奉罗马天主教。族裔构成上毛利人（属"
+  },
+  {
+   "cn": "防水靴套",
+   "en": "waterproof boot cover",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "包裹足部，具有防水、防护和耐磨性能的防护装备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,432 @@
+{
+ "key": "schroder's algebra",
+ "term": "Schröder’s Algebra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:13:49+00:00",
+ "status": "ok",
+ "note": "variant=Schröder’s Algebra; 审定公布名词库=288; 海峡两岸名词对照库=29; 其他来源数据库=7; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0388",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "source": "数学名词",
+   "wordNumber": "04.1472",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "source": "数学名词",
+   "wordNumber": "04.0397",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1993",
+   "subjectFullName": "数学_代数学_代数几何学_代数群",
+   "subjectName": "代数群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "中心代数",
+   "en": "central algebra,normal algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1431",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "source": "测绘学名词",
+   "wordNumber": "04.136",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "采用代数观点阐述地图图形本质、制图过程、地图可视化及空间分析的理论与方法。"
+  },
+  {
+   "cn": "流代数",
+   "en": "current algebra",
+   "source": "物理学名词",
+   "wordNumber": "09.1316",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "算符代数",
+   "en": "operator algebra",
+   "source": "物理学名词",
+   "wordNumber": "09.1379",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "效应代数",
+   "en": "effect algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0066",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "不分明量子逻辑的代数模型之一。其代数运算包括偏序（≤），正交补（′），以及部分和（ a⊕b ，只对部分元素有定义），以部分和为主要运算。"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0862",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "关于通信并发系统的代数理论的统称。这些代数理论都使用通信，而不是共享存储，作为进程之间相互作用的基本手段。"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0132",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个有序的四元组( B ,∧,∨, ┐)，其中∧，∨和 ┐是布尔运算，定义在非空集合 B 的元素上，构成一个代数。"
+  },
+  {
+   "cn": "组合代数",
+   "en": "combinatory algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0881",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一种代数系统，被用来研究包含分配组合子和消去组合子的逻辑系统。"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1173",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "研究数值求解各类代数问题的方法。数值代数的核心是矩阵计算问题，包括线性代数方程组、线性代数特征值以及线性最小二乘等问题的求解。"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0017",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "以关系作为运算对象的代数系统。在数据库中用代数运算来定义关系查询的一种形式化语言。"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.129",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "采用栅格点集代数对自然图形或符号进行变换和运算，有严格的度量空间尺度。"
+  },
+  {
+   "cn": "外代数",
+   "en": "exterior algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0861",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称代数",
+   "en": "symmetric algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0864",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "克利福德代数",
+   "en": "Clifford algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0814",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "张量代数",
+   "en": "tensor algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0835",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多重线性代数",
+   "en": "multilinear algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0831",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数码",
+   "en": "algebraic code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语言",
+   "en": "algebraic language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时态关系代数",
+   "en": "temporal relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数数据类型",
+   "en": "algebraic data type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "面向代数语言",
+   "en": "ALGebraic-Oriented Language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "施雷格线",
+   "en": "Schreger’s line",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "施略德",
+   "en": "Schröder\",\"Hermann(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "痛觉",
+   "en": "algesia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "眼睑",
+   "en": "eyelid\",\"palpebra\",\"palpebra eyelid",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

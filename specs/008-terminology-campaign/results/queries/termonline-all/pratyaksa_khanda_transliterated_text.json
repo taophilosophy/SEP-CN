@@ -1,0 +1,722 @@
+{
+ "key": "pratyaksa-khanda transliterated text",
+ "term": "Pratyakṣa-khaṇḍa Transliterated Text",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:15:29+00:00",
+ "status": "ok",
+ "note": "variant=Pratyakṣa-khaṇḍa Transliterated Text; 审定公布名词库=4128; 海峡两岸名词对照库=838; 其他来源数据库=56; 预公布名词数据库=203; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.062",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "以字母、符号、字、短语、段落、句子、表格或者其他字符排列形式出现，用于表达特定意义的数据。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.109",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "一种被赋予不同意义的纯粹的传播内容。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.672",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一个字符流，由一连串的字符组成，是计算机表示文字信息的一种媒体。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "语言学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "语言学_计算语言学_语篇处理",
+   "subjectName": "语篇处理",
+   "publishYear": "2011",
+   "definition": "书面语言的符号串。是语言信息处理的对象。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "语言学名词",
+   "wordNumber": "01.192",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "①任何以一段语言材料，根据其结构或者主题形成一个整体，可以是书面的，也可以是口头的。②在话语分析里面，专指一段书面语言材料，话语则专指一段口语材料。"
+  },
+  {
+   "cn": "正文",
+   "en": "text",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0741",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "电文",
+   "en": "text",
+   "source": "航海科技名词",
+   "wordNumber": "14.0139",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "音译地名",
+   "en": "place name transliteration",
+   "source": "测绘学名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "采取语音相近的译写方法，将一种文字的地名翻译成另一种文字的地名。如美国首都华盛顿，是由英语Washington按音译法译成汉语的。"
+  },
+  {
+   "cn": "音译词",
+   "en": "transliteration,phonemic loan",
+   "source": "语言学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "根据外语词读音翻译，用汉字记音的外来词。例如“沙发”（sofa）、“咖啡”（coffee）。"
+  },
+  {
+   "cn": "文字排版",
+   "en": "text typesetting;text composition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.026",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "按照版式设计的要求，将字符输入并安排在指定位置或范围内的过程。"
+  },
+  {
+   "cn": "串文",
+   "en": "text stringing;text wrapping",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.035",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "在标题、图表旁边排正文。"
+  },
+  {
+   "cn": "评注本",
+   "en": "annotated text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.035",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "编者对选入的档案材料正文进行评论、注释的出版形式。"
+  },
+  {
+   "cn": "综论本",
+   "en": "commented text",
+   "source": "档案学名词",
+   "wordNumber": "04.03.036",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "包含政治、经济、文化、社会等方面主题内容的综合性汇编。"
+  },
+  {
+   "cn": "文本文件",
+   "en": "text records",
+   "source": "档案学名词",
+   "wordNumber": "06.01.023",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "使用文字处理软件生成的由字、词、数字或符号表达的文件。"
+  },
+  {
+   "cn": "文字记者",
+   "en": "text reporter",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.04",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "以撰写文字稿为主要工作的记者。"
+  },
+  {
+   "cn": "文字输入",
+   "en": "text input",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.020",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "将文字信息输入系统或设备中的过程。"
+  },
+  {
+   "cn": "书芯",
+   "en": "text block",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.098",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "书刊封面以内或未上封面之前订联在一起的书帖及环衬。"
+  },
+  {
+   "cn": "文字脚本",
+   "en": "text script",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.168",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "电子出版物著作者用文字表述的底本。在编排过程中，编导者可根据需要增删其内容或程序功能。"
+  },
+  {
+   "cn": "格式化文本",
+   "en": "formatted text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.056",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "进行过某种格式化处理的文本。"
+  },
+  {
+   "cn": "电子文本",
+   "en": "electronic text",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.017",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "一种以电子媒体形式存在的、可在联机方式下使用或通过在线获得的基于文字的作品。"
+  },
+  {
+   "cn": "直译",
+   "en": "transliterate\",\"literal translation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正文",
+   "en": "text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试文本",
+   "en": "test text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图形文本",
+   "en": "graphic text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本窗口",
+   "en": "text window",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本对象",
+   "en": "text object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本符号",
+   "en": "text symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本框",
+   "en": "text rectangle",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本属性",
+   "en": "text attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本数据",
+   "en": "text data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本文件",
+   "en": "text file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文本样式",
+   "en": "text style",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文字说明",
+   "en": "descriptive text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "电子文本",
+   "en": "e-text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散文本",
+   "en": "discrete text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续文本",
+   "en": "continuous text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本数据",
+   "en": "text data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本匹配",
+   "en": "text matching",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本生成",
+   "en": "text generation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本聚类",
+   "en": "text clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卦爻辞",
+   "en": "Hexagram Texts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本大数据分析",
+   "en": "Text Big Data Analytics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科目",
+   "en": "reprise\",\"test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0235",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "书面语言的表现形式，从文学角度说，通常是具有完整、系统含义的一个句子或多个句子的组合。一个文本可以是一个句子、一个段落或者一个篇章。"
+  },
+  {
+   "cn": "文本",
+   "en": "text",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用以传递某种信息或意义的一组有内在关联的符号集。"
+  },
+  {
+   "cn": "民俗文本",
+   "en": "folklore texts",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0498",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "收集和记录下的某一具体的民俗事象，其类型包括田野、书面记录，以及许多通过现代手段保存下来的民俗形态，诸如录音、录像等。"
+  },
+  {
+   "cn": "抗链球菌溶血素O试验",
+   "en": "antistreptolysin O test, ASO test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "以β链球菌溶血素O为抗原，检测待测血清中相应抗体滴度，用于辅助诊断风湿热的试验。"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "source": "消毒学",
+   "wordNumber": "6.1.14",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "采用升降式崩解仪，在一定条件下测得的固体消毒剂全部崩解并通过筛网所需时间的试验。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "source": "消毒学",
+   "wordNumber": "6.2",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "评价消毒产品杀灭、清除和抑制有害微生物效果和影响因素的试验，通常包括实验室试验、模拟现场试验和现场试验三个阶段。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以活菌计数或病毒滴度测量值为结果判定标准的试验方法。"
+  },
+  {
+   "cn": "定性试验",
+   "en": "qualitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以阴性或阳性为结果判定标准的试验方法。包括定性消毒试验和定性灭菌试验。"
+  },
+  {
+   "cn": "载体试验",
+   "en": "carrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物附着于载体，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "悬液试验",
+   "en": "suspension test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物悬浮于液体介质中，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "细菌杀灭试验",
+   "en": "bactericidal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在标准实验条件下，以悬液法或载体法测试消毒因子对试验菌杀灭效果的试验。"
+  },
+  {
+   "cn": "能量试验",
+   "en": "energy test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价连续加入细菌悬液对消毒剂杀菌作用的影响，确定消毒剂用于多次消毒污秽物品时的实用剂量的试验，如浸洗拖布的消毒液、浸泡污染医疗器械的消毒液、浸泡洗手消毒液等。"
+  },
+  {
+   "cn": "灭菌试验",
+   "en": "sterilization test",
+   "source": "消毒学",
+   "wordNumber": "6.2.29",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价消毒剂或消毒器械灭菌效果的试验。"
+  },
+  {
+   "cn": "鲎试验",
+   "en": "limulus test",
+   "source": "消毒学",
+   "wordNumber": "6.2.31",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与细菌内毒素及β-葡聚糖反应，检测食品、水源、药品、医疗器械、动物体液等不同样品中的内毒素含量的试验。"
+  },
+  {
+   "cn": "无菌检验",
+   "en": "sterility test",
+   "source": "消毒学",
+   "wordNumber": "6.2.33",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "为确定单元产品或其部分上有无活微生物而进行的检验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

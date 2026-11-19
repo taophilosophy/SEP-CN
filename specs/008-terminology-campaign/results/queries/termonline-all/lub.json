@@ -1,0 +1,512 @@
+{
+ "key": "lub",
+ "term": "lūb",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:17:51+00:00",
+ "status": "ok",
+ "note": "variant=lūb; 审定公布名词库=20; 海峡两岸名词对照库=10; 其他来源数据库=21; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "乳酸菌",
+   "en": "lactic acid bacteria,LAB",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "肠外肠内营养学_临床应用_肠内营养",
+   "subjectName": "肠内营养",
+   "publishYear": "2019",
+   "definition": "可将糖类发酵且其主要产物为乳酸的一类不产芽孢、革兰氏染色阳性细菌的统称。是一群相当庞杂的细菌，至少可分为18个属，共200多种。除极少数外，其中绝大部分是人体内必不可少的且具有重要生理功能的益生菌。"
+  },
+  {
+   "cn": "局部等电位连接",
+   "en": "local equipotential bonding,LEB",
+   "source": "建筑学名词",
+   "wordNumber": "14.0500",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "将在局部范围内的外界可导电部分和保护导体，通过局部等电位端子板(带)，将该范围内用电设备的不带电金属构件用导体联结以降低其间电位差的方法。"
+  },
+  {
+   "cn": "国内竞争性招标",
+   "en": "local competitive bidding,LCB",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "先漏后破准则",
+   "en": "criteria of leaking before break,LBB",
+   "source": "电力名词",
+   "wordNumber": "17.741",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "要求管道等结构的设计和选材,必须保证裂纹在扩展至贯穿壁厚时,先导致可探测到的泄漏,而不会发生不稳定扩展(结构脆性断裂)的准则。"
+  },
+  {
+   "cn": "实验室传播",
+   "en": "lab-transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0313",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "病原微生物或含病原微生物的人或动、植物标本在实验室的保存、传输及操作过程中直接或间接地感染实验室工作人员或周围人 群的传播方式。"
+  },
+  {
+   "cn": "莱比锡实验室",
+   "en": "Leipzig lab",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0382",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "德国心理学家威廉·冯特(Wihelm Wundt)于1879年在莱比锡大学建立的第一个心理学实验室，是实验心理学诞生的标志。"
+  },
+  {
+   "cn": "专用实验室",
+   "en": "special lab",
+   "source": "建筑学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "建筑学_建筑类型及组成_科技实验建筑",
+   "subjectName": "科技实验建筑",
+   "publishYear": "2014",
+   "definition": "有特定环境要求，以精密、大型、特殊实验装置为主或专为某种科学实验(如物理学、化学、生物学、动物学等)而设置的实验室。"
+  },
+  {
+   "cn": "实验室参考系",
+   "en": "laboratory frame,lab frame",
+   "source": "物理学名词",
+   "wordNumber": "02.0107",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实验室内方法确认",
+   "en": "in-lab method validation",
+   "source": "农学名词",
+   "wordNumber": "18.080",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在一个实验室和合理的时间间隔内，用一种方法在预定条件下对相同或不同样品进行分析试验，以证明特定检测方法满足预期用途的过程。"
+  },
+  {
+   "cn": "CIE LAB色空间",
+   "en": "CIE LAB colour space",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.018",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "由CIE 1931 XYZ系统经非线性转换产生、视觉上近似均匀的颜色空间，用L*、a*、b*表示。L*表示相对亮度，a*表示红绿坐标轴，b*表示黄蓝坐标轴。"
+  },
+  {
+   "cn": "最小有效比特",
+   "en": "least significant bit; LSB",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2369",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "可以被转化为数字采集器的输出中数值的最小变化量。 "
+  },
+  {
+   "cn": "LB培养基",
+   "en": "LB medium",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.038",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "一种培养基的名称，生化分子实验中一般用该培养基来预培养细菌，使菌种成倍扩增，达到使用要求。其主要成分是胰蛋白胨、酵母提取物和NaCl。"
+  },
+  {
+   "cn": "龙牙草",
+   "en": "hairyvein agrimony; Agrimonia pilosa Ldb.",
+   "source": "农学名词",
+   "wordNumber": "05.271",
+   "subjectFullName": "",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "蔷薇科龙牙草属蔬菜。多年生草本植物。全体被白色柔毛。茎下部圆柱形，单数羽状复叶互生，总状花序，果实倒卵圆锥形。嫩茎及叶作蔬菜食用，全草、根及冬芽可入药。"
+  },
+  {
+   "cn": "标记抗生物素蛋白-生物素法",
+   "en": "labelled avidin-biotin method,LAB method ",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.097",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "以生物素标记的抗体和酶等标记的抗生物素蛋白显示组织或细胞抗原性物质的免疫组织化学方法。"
+  },
+  {
+   "cn": "低面亮度星系",
+   "en": "low surface-brightness galaxy; LSB galaxy",
+   "source": "天文学名词",
+   "wordNumber": "07.071",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "从地球上看，面亮度比周围夜空至少低一个数量级的弥散的星系。"
+  },
+  {
+   "cn": "勒梅特-托尔曼-邦迪模型",
+   "en": "Lemaitre-Tolman-Bondi model; LTB model",
+   "source": "天文学名词",
+   "wordNumber": "07.464",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种球对称的非均匀宇宙学模型。"
+  },
+  {
+   "cn": "LB膜",
+   "en": "Langmuir Blodgett film,LB film",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0106",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "将兼具亲水头和疏水尾的两亲性分子分散在水面上，经逐渐压缩其水面上的占有面积，使其排列成单分子层，再将其转移沉积到固体基底上所得到的一种膜，可以是单层或多层。"
+  },
+  {
+   "cn": "LB膜",
+   "en": "Langmuir-Blodgett film,LB film",
+   "source": "化学名词",
+   "wordNumber": "05.1083",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "将表面活性物质单层或多层顺序沉积在多孔或无孔基底上而形成的具有有序结构的膜状功能材料。"
+  },
+  {
+   "cn": "卢里亚-贝尔塔尼培养基",
+   "en": "Luria-Bertani medium,LB medium",
+   "source": "微生物学名词",
+   "wordNumber": "09.138",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "由胰胨、酵母膏和氯化钠配制的培养基，常用于培养大肠杆菌。"
+  },
+  {
+   "cn": "聚合物LB膜",
+   "en": "polymeric Langmuir-Blodgett film,polymeric LB film",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1097",
+   "subjectFullName": "材料科学技术_高分子材料_功能高分子材料",
+   "subjectName": "功能高分子材料",
+   "publishYear": "2011",
+   "definition": "用朗缪尔 - 布洛杰特(Langmuir-Blodgett)成膜技术制备的聚合物分子有序薄膜。"
+  },
+  {
+   "cn": "下边带通信",
+   "en": "LSB communication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下边带",
+   "en": "lower sideband\",\"LSB",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机油稀释",
+   "en": "lub-oil dilution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据库",
+   "en": "logical data base\",\"LDB",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最低有效位",
+   "en": "least significant bit\",\"LSB",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑库",
+   "en": "logical base\",\"LB",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记抗生物素蛋白-生物素法，LAB法",
+   "en": "labeled avidin-biotin method\",\"LAB method",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "LAB法（=标记抗生物素蛋白-生物素法）",
+   "en": "labeled avidin-biotin method\",\"LAB method",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "低面亮度星系",
+   "en": "low surface-brightness galaxy\",\"LSB galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "LB膜",
+   "en": "Langmuir-Blodgett film\",\"LB film",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吊高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊射",
+   "en": "lob shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊射",
+   "en": "lob shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手高球",
+   "en": "backhand lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正手吊高球",
+   "en": "forehand lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守性吊高球",
+   "en": "defensive lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻性吊高球",
+   "en": "offensive lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正手高球",
+   "en": "forehand lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻性高球",
+   "en": "attacking lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守性吊高球",
+   "en": "defensive lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手高球",
+   "en": "backhand lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊射",
+   "en": "lob shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高吊传球",
+   "en": "lob pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上旋高球",
+   "en": "lob with topspin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下旋高球",
+   "en": "lob with underspin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob\",\"up and under",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "city farabi",
+ "term": "City Fārābī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:07:26+00:00",
+ "status": "ok",
+ "note": "variant=City Fārābī; 审定公布名词库=357; 海峡两岸名词对照库=80; 其他来源数据库=50; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "建筑学名词",
+   "wordNumber": "07.0002",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "按国家行政建制设立的以非农产业和非农业人口聚集为主要特征的居民点。"
+  },
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "地理学名词",
+   "wordNumber": "19.012",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "具有一定人口规模、以非农业人口为主的居民点。"
+  },
+  {
+   "cn": "中心城市",
+   "en": "central city,key city",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "一定区域范围内处于重要地位，具有综合功能或多种主导功能，对其他城市具有强大吸引力和辐射力的城市。"
+  },
+  {
+   "cn": "城",
+   "en": "cheng,city wall,city",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.006",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "（1）都邑四周的墙垣。（2）聚落的通称，即城市。"
+  },
+  {
+   "cn": "城市",
+   "en": "urban,city",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "（1）以非农产业和一定规模的非农人口集聚为主要特征的聚落。（2）在中国通常也指按国家行政建制设立的市，或其所辖的市区。"
+  },
+  {
+   "cn": "市",
+   "en": "municipality,city",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "依法设定市建制的行政区域。"
+  },
+  {
+   "cn": "市",
+   "en": "municipality,city",
+   "source": "建筑学名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "经国家批准设市建制的行政地域。"
+  },
+  {
+   "cn": "海绵城市",
+   "en": "sponge city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "风景园林_总论_风景园林生态",
+   "subjectName": "风景园林生态",
+   "publishYear": "2025",
+   "definition": "通过自然积存、自然渗透和自然净化等生态理念，构建能够像海绵一样应对雨水的城市系统。在降雨时，海绵城市能够有效吸收、储存、渗透和净化雨水，并在需要时将其加以利用，从而缓解城市内涝、减少水体污染、改善城市"
+  },
+  {
+   "cn": "市树",
+   "en": "city tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0293",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "通过民意调查、居民投票，并经过市人大常委会审议通过而得出的、受到大众广泛喜爱的树木种类。其本身成为该地区文明的标志和城市文化的象征。"
+  },
+  {
+   "cn": "韧性城市",
+   "en": "resilient city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "风景园林_总论_风景园林生态",
+   "subjectName": "风景园林生态",
+   "publishYear": "2025",
+   "definition": "能够应对和适应各种环境、社会、经济冲击和挑战的城市。具有在面临自然灾害、气候变化、经济波动以及社会不稳定等不确定性因素时，快速恢复功能、降低损失并实现可持续发展的能力。其核心在于增强城市系统的适应性、"
+  },
+  {
+   "cn": "古镇名城",
+   "en": "ancient city",
+   "source": "风景园林名词",
+   "wordNumber": "04.0213",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "保存文物特别丰富并且具有重大历史价值或革命纪念意义，能较完整地反映一些历史时期的传统风貌和地方民族特色的城、镇。"
+  },
+  {
+   "cn": "智慧城市",
+   "en": "smart city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0024",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "利用各种信息技术或创新概念，将城市的系统和服务打通、集成，以提升资源运用的效率，优化城市管理和服务，改善市民生活质量的城市。"
+  },
+  {
+   "cn": "市花",
+   "en": "city flower",
+   "source": "风景园林名词",
+   "wordNumber": "09.0294",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "通过民意调查、居民投票，并经过市人大常委会审议通过而得出的、受到大众广泛喜爱的花木种类。其本身代表城市形象，能展现城市独特人文景观。"
+  },
+  {
+   "cn": "生态城市",
+   "en": "eco-city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "社会、经济、自然协调发展，物质、能量、信息高效利用，技术、文化与景观充分融合，人与自然的潜力得到充分发挥，居民身心健康，生态持续和谐的城市模式。"
+  },
+  {
+   "cn": "公园城市",
+   "en": "park city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "以全域公园化的理念指导城乡规划、建设、治理，统筹生态、生活、生产空间，充分体现生态价值、生活价值、美学价值、文化价值、发展价值和社会价值有机融合，宜居宜学宜养宜业宜游的新型城市。"
+  },
+  {
+   "cn": "花园城市",
+   "en": "garden city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0019",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "19世纪末英国人霍华德（Ebenezer Howard）提出的一种兼有城市和乡村优点的城市 设想。为解决大城市问题而建，包括居住生活以及工业生产等内容，四周有永久性农业地带围绕以保持有限的城市规模。"
+  },
+  {
+   "cn": "园林城市",
+   "en": "garden city",
+   "source": "风景园林名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "根据中华人民共和国住房和城乡建设部《国家园林城市标准》评选出的分布均衡、结构合理、功能完善、景观优美，人居生态环境清新舒适、安全宜人的城市。包括国家级和省级两级。"
+  },
+  {
+   "cn": "城市意象",
+   "en": "city image",
+   "source": "风景园林名词",
+   "wordNumber": "06.0035",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "通过人的视觉感官，对一个城市获得的共同感受与综合印象。构成空间意象的要素主要是通道、节点、边界、区域和地标。"
+  },
+  {
+   "cn": "城市安全",
+   "en": "city safety",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0004",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "城市不受威胁，没有危险、危害、损失，人类的整体与生存环境资源的和谐相处，互相不伤害，不存在危险的隐患的状态。 "
+  },
+  {
+   "cn": "城市群",
+   "en": "city cluster",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.014",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "一定地域范围内空间接近、社会经济联系紧密的多个城市组成的区域形态。"
+  },
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "寂静的城",
+   "en": "Quiet City",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Copland, Aaron"
+  },
+  {
+   "cn": "滨海城市， 沿海城市",
+   "en": "coastal city",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "城邦",
+   "en": "city-state",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "边疆城市",
+   "en": "frontier city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "边缘城市",
+   "en": "edge city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市病",
+   "en": "city disease",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市腹地",
+   "en": "city hinterland",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市感应",
+   "en": "city perception",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市规模",
+   "en": "city size",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市起源",
+   "en": "city origins",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市区域",
+   "en": "city region",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市社区",
+   "en": "city community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市意象",
+   "en": "city image",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市职能",
+   "en": "city function",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "带型城市",
+   "en": "linear city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "单核城市",
+   "en": "nuclear city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地级市",
+   "en": "prefecture city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分散城市",
+   "en": "dispersed city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "港口城市",
+   "en": "port city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城",
+   "en": "Fortress / City",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧城市",
+   "en": "Smart City",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能城市",
+   "en": "intelligent city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字城市",
+   "en": "digital city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平安城市",
+   "en": "safe city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "英雄的城市",
+   "en": "heroic city",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克城",
+   "en": "Olympic city",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态城市",
+   "en": "eco-cities",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "百度AI CITY",
+   "en": "Baidu’s AI CITY",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技中心城市",
+   "en": "Fintech hub city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市信息模型",
+   "en": "city information model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市体检",
+   "en": "city health examination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科伦坡港口城",
+   "en": "Port City Colombo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "较大的、密集而永久性的人类聚居区。与乡村比较而言的区域空间，与乡村构成了一组范畴。，通常设置地方行政法律机构，且有较活跃的工商业及文化活动。"
+  },
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.4",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "巨大而重要的城镇及其拥有的众多人口所居住的建筑环境和社会生活。"
+  },
+  {
+   "cn": "城市",
+   "en": "city",
+   "source": "马克思主义",
+   "wordNumber": "03.0041",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以工商产业和非农业人口集聚构成的、较为大型的人类聚居区。其特点是人口集中、工商业发达、居民以超越家庭或家族的联系网络组成社会交往形式。"
+  },
+  {
+   "cn": "惠远城",
+   "en": "Huiyuan City",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0659",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代在新疆设置的政治、军事设置。乾隆二十八年（1763）始建，逾年而成。乾隆赐名“惠远”，驻伊犁将军等官兵，为新疆政治经济中心。同治十年沙俄侵入伊犁，先遭兵燹，后为河水冲溃。光绪八年，迁址筑新城，伊犁"
+  },
+  {
+   "cn": "古代城市",
+   "en": "ancient city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "出现于约10000年以前的城市形态。其主要标志包括：定居点或永久性建筑、较密集的人口聚集、相对简单的贸易活动及初步的社会分化（劳动分工和权力结构）。"
+  },
+  {
+   "cn": "中世纪城市",
+   "en": "medieval city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "欧洲5世纪至15世纪的城市形态。一般规模较小，有防御性的城墙、瞭望塔（有的有护城河），城市中心的主要建筑为教堂，重要的公共空间为市场、广场等，主要功能为宗教及贸易活动。"
+  },
+  {
+   "cn": "工业城市",
+   "en": "industrial city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "产业发展和资本主义的载体。早期呈现出的特征包括：有一定规模的工业生活，科技高速发展，人口大量聚集于城市、分工相对发达。因贫富差距所引起的社会问题如贫穷、犯罪、住房等深刻地影响了城市的空间特征，后来还出"
+  },
+  {
+   "cn": "城市意象",
+   "en": "city image",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "人们对城市的认识并形成的意象。由美国城市规划学者林奇(Kevin Lynch）提出。通过对城市环境的观察来实现，由五个要素组成：道路、边界、区域、节点、标志物。意象越清晰，越能识别城市，从而产生心理安"
+  },
+  {
+   "cn": "全球性城市",
+   "en": "global city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "在全球经济系统中占据重要位置、主导全球金融业和商业的某些大城市。会加剧城市之间以及城市内部发展不平衡和社会政治不平等。"
+  },
+  {
+   "cn": "健康城市",
+   "en": "health city",
+   "source": "社会医学名词",
+   "wordNumber": "3.10.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "世界卫生组织欧洲地区办事处发起的一项倡议，起源于1978 年阿拉木图宣言，旨在提高生活质量，创建支持健康生活的社区，提供娱乐设施、运动环境和适宜居住的住宅设计。"
+  },
+  {
+   "cn": "巩宁城",
+   "en": "Gongning City",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0658",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "原准噶尔库木诺雅特部游牧地。清乾隆三十七年（1772）建，为乌鲁木齐满城。驻乌鲁木齐都统、领队大臣等官兵。四十八年重加修葺。同治三年（1864）毁于战火。遗址在今新疆农业大学一带。"
+  },
+  {
+   "cn": "花园城市",
+   "en": "garden cities",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "在一个大的中心城市周围建立的若干卫星城，其中工业、农业、住宅功能分区而有序排列，并以绿化带环绕的规划模式。由英国人霍华德(Ebenezer Howard）于1898年提出。旨在通过规划来兼顾城乡优势，"
+  },
+  {
+   "cn": "后工业化城市",
+   "en": "post-industrial city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "基于信息、金融和服务业为主导的城市形态。20世纪70年代，随着发达国家的经济发展从工业产品生产转到信息、金融、服务业等，城市也经历了传统工业衰落、制造业就业机会减少的过程，城市中心的工业用地则通过土地"
+  },
+  {
+   "cn": "主城市",
+   "en": "the primate city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.9.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_发展中国家的城市",
+   "subjectName": "发展中国家的城市",
+   "publishYear": "2025",
+   "definition": "发展中国家城市发展中出现的一个或数个超大城市的现象。这些城市的人口和影响力远远大于此国家或地区中的其他城市，表现出社会经济发展的极其不均衡问题。"
+  },
+  {
+   "cn": "沿海开放城市",
+   "en": "open coastal cities",
+   "source": "马克思主义",
+   "wordNumber": "04.0174",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国沿海地区对外开放的、并在对外经济活动中实行经济特区的某些特殊政策的一系列港口城市。它是经济特区的延伸。中国1984年，国务院批准大连、秦皇岛等14个沿海城市为首批对外开放城市。沿海开放城市一般应当"
+  },
+  {
+   "cn": "双城市假设",
+   "en": "the dual-city hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "后工业时代社会两极化在城市的空间体现。一方面是高速的经济发展和迅速增长的金融业、高科技行业及公司服务业。另一方面是传统工业以及受工会保护的技术工作的减少，在产业转型的过程中越发加深了社会的贫富差距。"
+  },
+  {
+   "cn": "城中村",
+   "en": "village in the city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.7",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在城市化进程中，在城市建成区范围内失去或基本失去耕地，仍然实行村民自治和农村集体所有制的村庄；或全部或大部分耕地被征用，农民转为居民后仍在原村落居住而演变成的居民区。一方面，给大量收入较低的外来人口提"
+  },
+  {
+   "cn": "城市贵族",
+   "en": "noble in the city",
+   "source": "马克思主义",
+   "wordNumber": "03.0045",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "城市贵族是西欧奴隶社会和封建社会的城市国家中享有政治与经济特权的阶层,是垄断城市自治政权的城市上层集团。如进入中世纪后，西欧城市由获得自由的农奴重新建立起来。因为对生产资料占有形式的不同，西欧城市居民"
+  },
+  {
+   "cn": "西域都护府",
+   "en": "Remains of Safeguard City in Western Region",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.059",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "汉朝管理西域的最高军政机构，汉宣帝神爵二年（前60 年）置，首任都护是郑吉，治乌垒城。辖境自玉门、阳关以西至天山南北各地。自此“汉之号令班西域也”。西域都护府的设置标志着汉朝政府对西域地区的直接管辖治"
+  },
+  {
+   "cn": "农村包围城市武装夺取政权",
+   "en": "encircling the cities from the countryside seizing power with armed force",
+   "source": "马克思主义",
+   "wordNumber": "03.0356",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于中国革命道路的理论。在领导中国革命过程中,毛泽东以马克思主义理论为指导,结合中国革命的具体实际,不断总结中国革命的历史经验,同教条主义、经验主义的错误倾向进行斗争,逐步提出并不断地完善了这个"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

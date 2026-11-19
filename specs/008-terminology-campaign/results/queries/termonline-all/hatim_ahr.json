@@ -1,0 +1,752 @@
+{
+ "key": "hatim ahr",
+ "term": "Ḥātim AHR",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:03:40+00:00",
+ "status": "ok",
+ "note": "variant=Ḥātim AHR; 审定公布名词库=1651; 海峡两岸名词对照库=484; 其他来源数据库=34; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "气道高反应性",
+   "en": "airway hyperresponsiveness,AHR",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.170",
+   "subjectFullName": "呼吸病学_肺功能_肺通气",
+   "subjectName": "肺通气",
+   "publishYear": "2018",
+   "definition": "气管和支气管受微量物理、化学、药物以及变应原等刺激后，引起的气道阻力明显增大的现象。是基于气道变态反应性炎症的一种病理状态，常见于支气管哮喘。"
+  },
+  {
+   "cn": "气道高反应性",
+   "en": "airway hyperreac-tivity;AHR",
+   "source": "麻醉学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸系统疾病",
+   "subjectName": "呼吸系统疾病",
+   "publishYear": "2024",
+   "definition": "气管和支气管受微量物理、化学、药物及变应原等刺激后引起的气道阻力明显增大的现象。是基于气道变态反应性炎症的一种病理状态，常见于支气管哮喘。"
+  },
+  {
+   "cn": "TIM复合体",
+   "en": "TIM complex",
+   "source": "细胞生物学名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "细胞生物学_细胞结构与细胞外基质",
+   "subjectName": "细胞结构与细胞外基质",
+   "publishYear": "2009",
+   "definition": "为线粒体内膜上的蛋白质转运体(translocator of the inner mitochondrial membrane，TIM)。负责将核编码的线粒体蛋白质运进基质，也介导一些蛋白质插入内膜。"
+  },
+  {
+   "cn": "三次风",
+   "en": "exhaust air,tertiary air",
+   "source": "电力名词",
+   "wordNumber": "09.280",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "(1)热风送粉的贮仓式制粉系统中通过专用喷口送入炉膛的乏气。(2)通过布置在拱式燃烧炉膛前后墙上的喷口送入炉膛的热风。"
+  },
+  {
+   "cn": "抽气",
+   "en": "bleed air,extraction air",
+   "source": "电力名词",
+   "wordNumber": "10.638",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "在空气的压缩过程中,从主气流中抽出部分空气的工艺或抽出的空气。"
+  },
+  {
+   "cn": "三次风",
+   "en": "exhaust air,tertiary air",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0185",
+   "subjectFullName": "机械工程_动力机械_锅炉_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "热风送粉的贮仓式制粉系统中通过专用喷口送入炉膛的乏气；通过布置在拱式燃烧炉膛前后墙上的喷口送入炉膛的分级二次风。"
+  },
+  {
+   "cn": "抽气",
+   "en": "bleed air,extraction air",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0625",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "在压缩过程中从主气流中抽出的空气。"
+  },
+  {
+   "cn": "空气滤清器",
+   "en": "air filter,air cleaner",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0446",
+   "subjectFullName": "机械工程_动力机械_内燃机_增压及进排气管系统",
+   "subjectName": "增压及进排气管系统",
+   "publishYear": "2013",
+   "definition": "用以滤除吸入发动机新鲜空气中悬浮颗粒的装置。"
+  },
+  {
+   "cn": "空气滤清器",
+   "en": "air filter,air cleaner",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.341",
+   "subjectFullName": "机械工程_汽车_发动机_进排气系",
+   "subjectName": "进排气系",
+   "publishYear": "2013",
+   "definition": "装在发动机或增压器进气管入口处，用以滤除进入发动机的新鲜空气中悬浮颗粒的滤清器。"
+  },
+  {
+   "cn": "空气螺旋桨",
+   "en": "air propeller,air screw",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.239",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "利用桨叶的螺旋运动而获得拉力或推力的航空器的一种推进器。"
+  },
+  {
+   "cn": "气囊",
+   "en": "air sac,air vesicle",
+   "source": "昆虫学名词",
+   "wordNumber": "04.246",
+   "subjectFullName": "昆虫学_昆虫内部构造",
+   "subjectName": "昆虫内部构造",
+   "publishYear": "2000",
+   "definition": "气管上的薄壁膨胀部分，螺旋丝缺如或不发达。有助于气管系统的空气流通和飞行。在蝉类，它为共鸣箱。"
+  },
+  {
+   "cn": "新风",
+   "en": "outside air,fresh air",
+   "source": "航海科技名词",
+   "wordNumber": "15.0685",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "回风",
+   "en": "recirculated air,return air",
+   "source": "航海科技名词",
+   "wordNumber": "15.0686",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "空-空式增压空气冷却器",
+   "en": "air-to-air charge air cooler",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0478",
+   "subjectFullName": "机械工程_动力机械_内燃机_冷却系统",
+   "subjectName": "冷却系统",
+   "publishYear": "2013",
+   "definition": "采用外部空气作为冷却剂的增压空气冷却器。"
+  },
+  {
+   "cn": "空空导弹",
+   "en": "air-to-air missile",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.097",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "由航空器携带，用于攻击空中目标的导弹。"
+  },
+  {
+   "cn": "时值",
+   "en": "chronaxia,CHR",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0271",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "空气冷凝器",
+   "en": "air cooled condenser,air cooler",
+   "source": "冶金学名词",
+   "wordNumber": "06.0263",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "对空气进行冷却，使所含的水分凝结出来而加以排除的设备。"
+  },
+  {
+   "cn": "气流组织",
+   "en": "air distribution,space air diffusion",
+   "source": "建筑学名词",
+   "wordNumber": "14.0303",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "对室内空气的流动形态和分布进行控制的技术，以满足空气调节房间对空气各区位温度、湿度、流速、洁净度以及舒适感等方面的要求。"
+  },
+  {
+   "cn": "空气调节机",
+   "en": "air-conditioning unit,air conditioner",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0343",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_空调设备_空气调节器",
+   "subjectName": "空气调节器",
+   "publishYear": "2013",
+   "definition": "由空气处理设备、通风机、制冷机及自动控制仪表等组装而成的结构紧凑的局部空气调节设备。小型的空气调节机习惯上又称“空气调节器”。"
+  },
+  {
+   "cn": "气刀",
+   "en": "air-cutting device;air knife",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1895",
+   "subjectFullName": "化工（八）_化工设备_固体物料输送设备",
+   "subjectName": "固体物料输送设备",
+   "publishYear": "2021",
+   "definition": "能够产生脉冲气流将物料切成料栓的装置。"
+  },
+  {
+   "cn": "TIM复合体(=线粒体内膜转运体复合体)",
+   "en": "[]",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体内膜转运体复合体，TIM复合体",
+   "en": "TIM complex",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空气",
+   "en": "air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "歌曲",
+   "en": "air",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "湿空气",
+   "en": "wet air\",\"moist air\",\"humid air",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "湿空气",
+   "en": "moist air\",\"wet air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空气抽除装置",
+   "en": "air exhauster\",\"air extractor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空气加热器",
+   "en": "air heater\",\"air preheater",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空气预热器",
+   "en": "air heater\",\"air preheater",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气囊",
+   "en": "air sac\",\"air vesicle",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "旋律",
+   "en": "air\",\"melody",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空对空通信",
+   "en": "air-to-air communication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "充气试验",
+   "en": "air charging test\",\"air test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气室",
+   "en": "air chamber",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "饱和空气",
+   "en": "saturated air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北极空气",
+   "en": "arctic air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赤道气团",
+   "en": "equatorial air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气簇射",
+   "en": "air shower",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气电导率",
+   "en": "air conductivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干空气",
+   "en": "dry air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空划",
+   "en": "air shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气步枪",
+   "en": "air rifle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气手枪",
+   "en": "air pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汽笛",
+   "en": "air horn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1级风",
+   "en": "light air",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空中运球",
+   "en": "air dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气袋",
+   "en": "air bag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浮箱",
+   "en": "air case\",\"canvas",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空气污染指数",
+   "en": "Air Pollution Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气枪",
+   "en": "air firearm\",\"pneumatic firearm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空天信息网络",
+   "en": "air-space information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": "electronic health record (EHR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际卫生条例",
+   "en": "International Health Regulations (IHR)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空气隔离",
+   "en": "air isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4.1",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对通过空气传播的感染性呼吸道颗粒引起疾病所采取的阻隔措施。包括佩戴医用防护口罩、提供专用隔离房间、限制患者活动范围等措施。"
+  },
+  {
+   "cn": "新风",
+   "en": "fresh air",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "进入室内的室外新鲜空气。"
+  },
+  {
+   "cn": "出风口",
+   "en": "air outlet",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.5",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "输送集中空调系统处理的空气到室内的风管出口。"
+  },
+  {
+   "cn": "风淋室",
+   "en": "air shower",
+   "source": "消毒学",
+   "wordNumber": "1.8.21.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用高速洁净气流吹落并清除进入洁净室人员表面附着粒子的通过间。"
+  },
+  {
+   "cn": "气流流型",
+   "en": "air pattern",
+   "source": "消毒学",
+   "wordNumber": "1.8.22",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对室内空气的流动形态和分布进行的合理设计。"
+  },
+  {
+   "cn": "空气消毒剂",
+   "en": "air disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.27",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "杀灭空气中微生物，使其达到消毒要求的制剂，如过氧乙酸、过氧化氢、二氧化氯、臭氧。"
+  },
+  {
+   "cn": "循环风",
+   "en": "circulating air",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "部分回风再进入同一进风中的风流。"
+  },
+  {
+   "cn": "排气口",
+   "en": "air vent",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.15",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "消毒灭菌设备排放处理后气体的出口。"
+  },
+  {
+   "cn": "空气采样",
+   "en": "air sampling",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "使用空气微生物采样器或平板自然沉降方法，采集一定量密闭空间空气中自然菌的采样方法。"
+  },
+  {
+   "cn": "空勤人员",
+   "en": "air crew",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.19",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "飞行期间在航空器上受到宇宙辐射照射的执行任务的航空人员，包括驾驶员、领航员、飞行机械人员、飞行通信员和乘务员。"
+  },
+  {
+   "cn": "空气污染",
+   "en": "air pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由于人类活动或自然过程引起某些物质进入大气中，呈现出足够的浓度，达到足够的时间，并因此危害了人类的舒适、健康和福利或环境的现象。"
+  },
+  {
+   "cn": "空气隔断",
+   "en": "air gap",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.65",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "能依靠空气屏障有效防止有害回流、避免交叉污染的关键性物理防护装置。通常通过一个畅通、垂直且具备足够高度的物理空气间隙，将食品加工设备的水/液体出口与排水管道、废水、清洗液等潜在污染源完全分离。"
+  },
+  {
+   "cn": "气温",
+   "en": "air temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "表征空气冷热程度的物理量。数值为离地面1.5m 高的百叶箱内测得的空气温度。"
+  },
+  {
+   "cn": "风干",
+   "en": "air drying",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.59",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "水产名词：在没有太阳光直接照射的自然流通空气中干燥的方法。"
+  },
+  {
+   "cn": "抗微生物耐药性",
+   "en": "antimicrobial resistance, AMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "耐药性（即抗药性）的一种。指部分微生物（尤为病原微生物）对原本敏感的抗生素产生高度耐受的特性。"
+  },
+  {
+   "cn": "循环风紫外线空气消毒机",
+   "en": "ultraviolet air disinfection machine by circulating air",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.3.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用紫外线灯、过滤网、风机和镇流器组合成的使室内空气经过机内紫外线循环照射，实现空气消毒的一种紫外线消毒机。"
+  },
+  {
+   "cn": "机械送风",
+   "en": "mechanical air supply",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室外空气送入室内的过程。在密闭条件下，室内一般处于相对正压状态。"
+  },
+  {
+   "cn": "新风量",
+   "en": "fresh air volume",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单位时间内每人平均占有的由室外进入室内的新鲜空气量。"
+  },
+  {
+   "cn": "回风口",
+   "en": "return air inlet",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "输送室内空气回到集中空调系统的风管入口。"
+  },
+  {
+   "cn": "空气洁净系统",
+   "en": "air cleaning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.19",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "降低空气中的微生物、颗粒物等的所有设备、管道及附件、仪器仪表的总和。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

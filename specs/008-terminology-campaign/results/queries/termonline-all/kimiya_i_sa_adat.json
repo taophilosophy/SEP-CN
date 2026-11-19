@@ -1,0 +1,772 @@
+{
+ "key": "kimiya'-i sa'adat",
+ "term": "Kīmiyāʾ-i saʿādāt",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:09:56+00:00",
+ "status": "ok",
+ "note": "variant=Kīmiyāʾ-i saʿādāt; 审定公布名词库=177; 海峡两岸名词对照库=64; 其他来源数据库=22; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "碘",
+   "en": "iodine,I",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.255",
+   "subjectFullName": "肠外肠内营养学_基础营养_无机盐",
+   "subjectName": "无机盐",
+   "publishYear": "2019",
+   "definition": "人体内的一种必需微量元素。非金属卤素元素。是合成甲状腺素的基本成分。生理功能包括促进生物氧化、调节蛋白质合成和分解、促进糖和脂肪代谢、调节水盐代谢、促进维生素的吸收利用、参与酶的活化及促进人体生长发育"
+  },
+  {
+   "cn": "I细胞",
+   "en": "I cell",
+   "source": "普通外科学名词",
+   "wordNumber": "18.016",
+   "subjectFullName": "医学_普通外科学_小肠外科",
+   "subjectName": "小肠外科",
+   "publishYear": "2026",
+   "definition": "分布于十二指肠和空肠，具有分泌胆囊收缩素，促进胆囊收缩和胰酶分泌功能的小肠内分泌细胞。"
+  },
+  {
+   "cn": "中间相",
+   "en": "I-phase",
+   "source": "核科学技术名词",
+   "wordNumber": "3.272",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "在辅助加热功率接近H-模功率阈值时，边缘等离子体参量(压强、静电扰动等)有低频(十千赫左右)振荡的放电状态(阶段)。"
+  },
+  {
+   "cn": "I单位",
+   "en": "I-unit",
+   "source": "冶金学名词",
+   "wordNumber": "09.0706",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "带材平直度的度量单位。为相对长度差的<img src='/root/syzx/static/spz/yejin2.09.0706.01.png'/>倍，即I=(ΔL/L)×<img src='/roo"
+  },
+  {
+   "cn": "偶氮胂I",
+   "en": "arsenazo I",
+   "source": "化学名词",
+   "wordNumber": "03.0511",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "主要用作测定稀土和四价锆离子的络合滴定指示剂和光度法测定的显色剂。其结构简式为：<img src='/root/syzx/static/spz/huaxue2.03.0511.1.png'/>"
+  },
+  {
+   "cn": "I带",
+   "en": "I band ",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "组织学与胚胎学_组织学_肌组织",
+   "subjectName": "肌组织",
+   "publishYear": "2014",
+   "definition": "仅由细肌丝组成的一段肌原纤维。"
+  },
+  {
+   "cn": "I细胞",
+   "en": "I cell",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "13.073",
+   "subjectFullName": "组织学与胚胎学_组织学_消化管",
+   "subjectName": "消化管",
+   "publishYear": "2014",
+   "definition": "小肠中分泌胆囊收缩素-促胰酶素的细胞。"
+  },
+  {
+   "cn": "I因子",
+   "en": "factor I",
+   "source": "免疫学名词",
+   "wordNumber": "2.385",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "存在于血浆中的一种丝氨酸蛋白酶。在辅助因子参与下，能降解C3b和C4b。"
+  },
+  {
+   "cn": "减数分裂I",
+   "en": "meiosis I",
+   "source": "遗传学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "在配子形成过程中，性细胞减数分裂的相继两次分裂中的第一次。同源染色体分离，产生的两个细胞的染色体已减半(每个细胞只获得一对同源染色体中的一条)。"
+  },
+  {
+   "cn": "莫兰I数",
+   "en": "Moran I",
+   "source": "地理学名词",
+   "wordNumber": "25.105",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "空间自相关系数的一种，其值分布在[－1,1]，用于判别空间是否存在自相关。"
+  },
+  {
+   "cn": "工字[形]梁",
+   "en": "I-beam",
+   "source": "土木工程名词",
+   "wordNumber": "05.099",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "工形梁",
+   "en": "I-beam",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0385",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "I区",
+   "en": "I region",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.477",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "我造物故我在",
+   "en": "I create therefore I am",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "与“我思故我在”相对照的工程哲学箴言。认为人不但是思维主体，更是创造人工物以改变世界的实践主体，离开了造物活动，人类就不可能生存与发展。"
+  },
+  {
+   "cn": "阑尾",
+   "en": "lánwěi,CO6、7i,appendix",
+   "source": "中医药学名词",
+   "wordNumber": "08.508",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在小肠区与大肠区之间。"
+  },
+  {
+   "cn": "I型花岗岩",
+   "en": "I-type granite",
+   "source": "地质学名词",
+   "wordNumber": "04.04.138",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "由未风化的火成岩经部分熔融形成的岩浆结晶形成的花岗质岩石。包括英云闪长岩、花岗闪长岩、花岗岩等。矿物组成主要为石英，数量不等的斜长石和碱性长石、普通角闪石或/和黑云母等，不含白云母。有的含辉石、绿帘石"
+  },
+  {
+   "cn": "异亮氨酸",
+   "en": "isoleucine;Ile;I",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0023",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_氨基酸_蛋白质氨基酸",
+   "subjectName": "蛋白质氨基酸",
+   "publishYear": "2024",
+   "definition": "系统命名为2-氨基-3-甲基戊酸。参与蛋白质组成的常见20种氨基酸之一。含有6个碳原子的疏水性氨基酸。是人体的营养必需氨基酸和生酮生糖氨基酸。"
+  },
+  {
+   "cn": "I型凝集素",
+   "en": "I-type lectin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0275",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "含有免疫球蛋白结构域的一类凝集素。属于免疫球蛋白超家族。"
+  },
+  {
+   "cn": "我它交互",
+   "en": "I It communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.06",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "描述个体与对象之间建立工具性交换关系的一种物化模式。由犹太哲学家马丁·布伯(Martin Buber)最早提出。沟通者采取去情感化的视角，将沟通对象视为一件物品或工具来执行其命令，或以满足他人需求为目"
+  },
+  {
+   "cn": "我你交互",
+   "en": "I You communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.061",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "强调个体与对象之间建立社会角色关系的一种交流模式。由哲学家马丁·布伯提出。沟通者建立在社会角色交换的基础上，力图有效避免情感的互动，减少对他人的认知与沟通成本，以加快沟通效率为目标的一种非个人性沟通类"
+  },
+  {
+   "cn": "光系统Ⅰ",
+   "en": "Photosystem I\",\"PS I",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "I星等",
+   "en": "I-magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "莫兰I数",
+   "en": "Moran I",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "I区",
+   "en": "I region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "I因子",
+   "en": "factor I",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "I波段",
+   "en": "I band",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "I槽",
+   "en": "I slot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "花粉有丝分裂Ⅰ",
+   "en": "pollen mitosis I\",\"PM I",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡普莱蒂与蒙泰基",
+   "en": "Capuleti e i Montecchi\",\"I",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bellini, Vincenzo "
+  },
+  {
+   "cn": "四个乡巴佬",
+   "en": "quatro rusteghi\",\"I",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wolf, Hugo"
+  },
+  {
+   "cn": "西西里晚祷",
+   "en": "I Vespri Siciliani",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Verdi, Giuseppe "
+  },
+  {
+   "cn": "工字钢",
+   "en": "I-beam steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "DNA酶Ⅰ足迹法",
+   "en": "DNase I footprinting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "I因子缺陷",
+   "en": "factor I deficiency",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "I型凝集素",
+   "en": "I-type lectin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "启动输入输出",
+   "en": "start I/O",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入输出处理器",
+   "en": "I/O processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入输出队列",
+   "en": "I/O queue",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入输出管理",
+   "en": "I/O management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "IκB 激酶",
+   "en": "IκB kinase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有无",
+   "en": "<i>You </i>and<i> Wu</i>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级",
+   "en": "grade I",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "我手写我口",
+   "en": "I Write What I Want to Say.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体资格赛",
+   "en": "competition I\",\"team qualifications",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体比赛",
+   "en": "competition I\",\"group competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "我放弃！",
+   "en": "I give up!  Maitta!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传奇",
+   "en": "<p class=\"MsoNormal\"> <i>Chuanqi</i>&nbsp;(Legendary Story / Legendary Play)</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人全能资格赛",
+   "en": "competition I\",\"individual all-round qualifications",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "豪放派",
+   "en": "<p class=\"MsoNormal\"> The <i>Haofang</i>&nbsp;School / The Bold and Unconstrained School</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鞠躬尽瘁，死而后已",
+   "en": "I will work heart and soul for my country to the day I draw my last breath.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高度信息网络社会（日本）",
+   "en": "advanced information and telecommunications network society (e-Japan, u-Japan, i-Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "苟利国家生死以，",
+   "en": "Were it to benefit my country I would lay down my life;",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "位卑未敢忘忧国",
+   "en": "Whatever my status, I will never lay aside my concern for the nation.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "投我以木桃，报之以琼瑶。",
+   "en": "You throw a peach to me, I give you a white jade for friendship.或You toss me a peach, I give you a white jade in return.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主体我",
+   "en": "I",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "自然、主观、本能、未经社会化的自我部分，具有认识和行动的特征，赋予人格动力和独特性。自我意识是个体对自身及其与外部世界关系的反映，是人类认识活动的一种，个体既是认识主体，也是认识客体。与“客体我”相对"
+  },
+  {
+   "cn": "碘-131",
+   "en": "131I",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.8",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "元素碘的一种放射性同位素，半衰期约为8.02 天。符号为¹³¹I。常污染薯类、鱼肉虾类和奶类等食品。"
+  },
+  {
+   "cn": "塔兰奇人",
+   "en": "Taranči",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0663",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代伊犁维吾尔人的别称，蒙古语意为“种地人”。准噶尔部统治南疆后，移民伊犁种地纳粮，称“塔兰奇”。后随着清朝推行“回屯”，移居伊犁种地的维吾尔人日益增多。民国期间，留称“塔兰奇族”。1949 年后废除"
+  },
+  {
+   "cn": "Ⅰ类环境",
+   "en": "class I environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对空气质量和环境表面微生物数有严格要求且需采用空气洁净技术的场所。如洁净手术部（室）、洁净病房等。"
+  },
+  {
+   "cn": "第一次世界大战",
+   "en": "World War I",
+   "source": "马克思主义",
+   "wordNumber": "04.0225",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1914—1918年发生的各帝国主义国家第一次旨在重新瓜分殖民地、争夺世界霸权的一场世界规模的战争。19世纪末20世纪初，整个世界已被各帝国主义列强瓜分完毕。为了重新瓜分世界，形成了由英、法、俄三国组"
+  },
+  {
+   "cn": "《拉失德史》",
+   "en": "Tarikh-i-Rashidi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0268",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "明代波斯文西域史著作，详述14 世纪中叶至16 世纪中叶新疆和中亚的历史。作者为新疆喀什噶尔人米尔咱·马黑麻·海达尔（1499—1551）。"
+  },
+  {
+   "cn": "聚醇醚碘",
+   "en": "phenolic polyoxyethylene ether-iodine, PEG-I, POP-I",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.4.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "碘与聚氧乙烯脂肪醇醚或烷基酚聚氧乙烯醚络合形成的碘络合物。多用于皮肤黏膜的消毒。"
+  },
+  {
+   "cn": "聚维酮碘",
+   "en": "povidone-iodine, PVP-I",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.4.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "为碘与聚乙烯吡咯烷酮形成的络合物，多用于皮肤黏膜的消毒。"
+  },
+  {
+   "cn": "第一类消毒产品",
+   "en": "class I disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "具有较高风险，需要严格管理以保证安全、有效的消毒产品，包括用于医疗器械的高水平消毒剂和消毒器械、灭菌剂和灭菌器械，皮肤黏膜消毒剂，生物指示物、灭菌效果化学指示物。"
+  },
+  {
+   "cn": "生物安全一级实验室",
+   "en": "biosafety level I laboratory",
+   "source": "消毒学",
+   "wordNumber": "7.1.2.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "具有一级生物安全防护水平，用于从事通常对人和动物不致病的微生物的实验活动场所。"
+  },
+  {
+   "cn": "前列环素",
+   "en": "prostacyclin;prostaglandin I2，PGI2",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.21",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "花生四烯酸（二十碳四烯酸）的一种衍生物。与前列腺素相关，含有一个次级五元环，是血小板凝集作用的一种抑制剂，并有强烈的血管舒张作用。"
+  },
+  {
+   "cn": "一类化学指示物",
+   "en": "type I of chemical indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.1.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "置于灭菌包外，用于指示灭菌包是否经过灭菌处理的指示物。"
+  },
+  {
+   "cn": "抗肝细胞溶胶I型抗原抗体",
+   "en": "anti-liver cytosol antigen type I antibody, anti-LC - I antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.42",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要见于II型自身免疫性肝炎，其滴度与疾病活动程度、血清转氨酶和丙种球蛋白水平明显相关。靶抗原为器官特异性的肝细胞质亚细胞成分。"
+  },
+  {
+   "cn": "乙型脑炎灭活疫苗",
+   "en": "Japanese encephalitis inactivated vaccine, JE-I",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.5.9",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "预防流行性乙型脑炎的免疫接种生物制剂，由流行性乙型脑炎病毒P3株灭活制成。"
+  },
+  {
+   "cn": "甲型病毒性肝炎灭活疫苗",
+   "en": "hepatitis A inactivated vaccine, HepA-I",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.5.13",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "预防甲型病毒性肝炎的免疫接种生物制剂，由灭活后的甲型肝炎病毒制成。"
+  },
+  {
+   "cn": "抗拓扑异构酶Ⅰ抗体",
+   "en": "anti-topoisomerase I antibody，anti Scl-70 antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.17",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "硬皮病患者血清中的一种抗核抗体。其靶抗原为细胞核中一种非组蛋白蛋白质，分子量为70kD，故称为Scl-70，其本质是拓扑异构酶I。"
+  },
+  {
+   "cn": "大不列颠群岛狼疮评估指数",
+   "en": "British isles lupus assessment group index, BILAG-I",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "基于8个脏器系统的系统性红斑狼疮病情活动的评估体系，根据准备采取的治疗原则给每个脏器系统评分：A，迫切需要缓解治疗；B，疾病活动，需低剂量免疫抑制剂；C，轻度病情活动只需对症治疗；D，曾有器官或系统活"
+  },
+  {
+   "cn": "山楂核烟熏香味料I",
+   "en": "smoking flavors No.I made from hawthorn kernels",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.12",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "以山楂核为原料,在800°C 以下干馏生成熏烟,将熏烟冷凝,由冷凝物在常压下蒸馏,收集而得的85°C-110°C、呈淡黄色至橘红色、具有烟熏香味的馏分"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.27",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。在类风湿关节炎中阳性率为40%，特异性98.9%，但类风湿关节炎早期仅约23%。靶抗原Sa蛋白主要存在于人胎盘、脾脏及RA患者关节滑膜血管翳组织中。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

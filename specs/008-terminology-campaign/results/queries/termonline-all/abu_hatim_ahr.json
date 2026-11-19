@@ -1,0 +1,752 @@
+{
+ "key": "abu hatim ahr",
+ "term": "Abū Ḥātim AHR",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:03:34+00:00",
+ "status": "ok",
+ "note": "variant=Abū Ḥātim AHR; 审定公布名词库=1779; 海峡两岸名词对照库=523; 其他来源数据库=35; 预公布名词数据库=86; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "气道高反应性",
+   "en": "airway hyperresponsiveness,AHR",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.170",
+   "subjectFullName": "呼吸病学_肺功能_肺通气",
+   "subjectName": "肺通气",
+   "publishYear": "2018",
+   "definition": "气管和支气管受微量物理、化学、药物以及变应原等刺激后，引起的气道阻力明显增大的现象。是基于气道变态反应性炎症的一种病理状态，常见于支气管哮喘。"
+  },
+  {
+   "cn": "气道高反应性",
+   "en": "airway hyperreac-tivity;AHR",
+   "source": "麻醉学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸系统疾病",
+   "subjectName": "呼吸系统疾病",
+   "publishYear": "2024",
+   "definition": "气管和支气管受微量物理、化学、药物及变应原等刺激后引起的气道阻力明显增大的现象。是基于气道变态反应性炎症的一种病理状态，常见于支气管哮喘。"
+  },
+  {
+   "cn": "AB贴",
+   "en": "cassette front and rear printed cover",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.123",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "贴于盒式音带A、B两面的装帧纸。"
+  },
+  {
+   "cn": "激活素AB",
+   "en": "activin AB",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "由一个<img src='/root/syzx/static/spz/6.026.png'/>和一个βʙ亚基通过二硫键连接组成的一种激活素。"
+  },
+  {
+   "cn": "F(ab')-2片段",
+   "en": "F(ab')-2 fragment",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.255",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "TIM复合体",
+   "en": "TIM complex",
+   "source": "细胞生物学名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "细胞生物学_细胞结构与细胞外基质",
+   "subjectName": "细胞结构与细胞外基质",
+   "publishYear": "2009",
+   "definition": "为线粒体内膜上的蛋白质转运体(translocator of the inner mitochondrial membrane，TIM)。负责将核编码的线粒体蛋白质运进基质，也介导一些蛋白质插入内膜。"
+  },
+  {
+   "cn": "AB型胸腺瘤",
+   "en": "type AB thymoma",
+   "source": "病理学名词",
+   "wordNumber": "03.178",
+   "subjectFullName": "病理学_呼吸系统_纵膈",
+   "subjectName": "纵膈",
+   "publishYear": "2020",
+   "definition": "由淋巴细胞较少的A型胸腺瘤成分和富于淋巴细胞的B型胸腺瘤样成分混合组成的胸腺瘤。"
+  },
+  {
+   "cn": "AB型轮胎定型硫化机",
+   "en": "AB-tyre form_x001F_ing vulcanizer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.2129",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "硫化胶囊从轮胎中脱出的方式是胶囊上半部先向下翻转，而后整个胶囊藏于囊筒内，并有囊筒上升动作的轮胎定型硫化机。"
+  },
+  {
+   "cn": "上皮内乳头状毛细血管袢AB分型",
+   "en": "intraepithelial papillary capillary loop AB classification",
+   "source": "消化内镜学名词",
+   "wordNumber": "14.094",
+   "subjectFullName": "消化内镜学_食管疾病_食管肿瘤和肿瘤样病变",
+   "subjectName": "食管肿瘤和肿瘤样病变",
+   "publishYear": "2021",
+   "definition": "根据放大内镜下食管黏膜上皮内乳头状毛细血管袢的形态提出的分型。将食管黏膜浅表血管分为A型和B型。"
+  },
+  {
+   "cn": "可用比特率",
+   "en": "available bit rate,ABR",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.072",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在异步转移模式(ATM)中，一种信息源的速率受一种流量控制机制的控制，以响应ATM层的转移特性的变化的业务。"
+  },
+  {
+   "cn": "听[性]脑干反应",
+   "en": "auditory brainstem response,ABR",
+   "source": "医学名词 第一分册",
+   "wordNumber": "02.148",
+   "subjectFullName": "医学_耳鼻喉科学",
+   "subjectName": "耳鼻喉科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "实际碳酸氢根",
+   "en": "actual bicarbonate radical,ABR",
+   "source": "医学名词 第一分册",
+   "wordNumber": "05.233",
+   "subjectFullName": "医学_呼吸病学",
+   "subjectName": "呼吸病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "基于关联的长活路由",
+   "en": "association-based long-lived routing,ABR",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0442",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一种用于自组织网络的路由选择方法。它基于一个结点跟它的邻居结点的关联性优先选择相对稳定的路由。"
+  },
+  {
+   "cn": "β-脂蛋白缺乏症",
+   "en": "abetalipoproteinemia,ABL",
+   "source": "病理学名词",
+   "wordNumber": "02.508",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "由微粒体三酰甘油转移蛋白（MTP）基因突变导致肝脏内β-载脂蛋白不能正常产生而引起肝脂肪变性的常染色体隐性遗传性代谢性疾病。"
+  },
+  {
+   "cn": "ABO血型配型",
+   "en": "ABO matching",
+   "source": "肝病学名词",
+   "wordNumber": "15.3.1.3.1",
+   "subjectFullName": "肝病学_肝移植_肝移植术后管理",
+   "subjectName": "肝移植术后管理",
+   "publishYear": "2024",
+   "definition": "器官移植前对供、受者进行ABO血型交叉 配型。对受者血清与供者红细胞悬液，供者血清与受者红细胞悬液进行的凝集试验。分为ABO血型相同、ABO血型相符和ABO血型不合。"
+  },
+  {
+   "cn": "透明级ABS",
+   "en": "transparent ABS",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0362",
+   "subjectFullName": "化工（七）_合成树脂_聚苯乙烯和ABS树脂",
+   "subjectName": "聚苯乙烯和ABS树脂",
+   "publishYear": "2022",
+   "definition": "通过以下工艺制备的具有高透明度的ABS树脂。方法一：由甲基丙烯酸甲酯（MMA）、苯乙烯（St）和丙烯腈（AN）单体在聚丁二烯（PB）或丁苯橡胶（SBR）分子链上接枝；方法二：先使St和AN单体在PB或"
+  },
+  {
+   "cn": "ABL家族",
+   "en": "ABL family",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.404",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "与恶性肿瘤的发生发展密切相关的非受体型酪氨酸激酶家族之一。包括Abl、Arg两个成员。Abl基因位于9q34，其编码产物有抑制细胞生长的作用。"
+  },
+  {
+   "cn": "β-脂蛋白缺乏症",
+   "en": "abetalipoproteinemia;ABL",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.165",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种常染色体隐性遗传病。表现为脊髓后索、脊髓小脑束、周围神经脱髓鞘变性。"
+  },
+  {
+   "cn": "ABC分类",
+   "en": "ABC classification",
+   "source": "经济学名词",
+   "wordNumber": "10.147",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "一种对存货进行分类管理的方式。将产品按ABC三类分开，对不同的类分别确定其相应的管理方式。"
+  },
+  {
+   "cn": "ABC模型",
+   "en": "ABC model",
+   "source": "植物学名词",
+   "wordNumber": "08.0392",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "花器官发育的基因调控模型。将调控花器官发育的关键基因根据其功能分为A、B、C三类，A类基因控制萼片(第一轮)的发育，A类和B类基因协作控制花瓣(第二轮)的发育，B类和C类基因协作控制雄蕊(第三轮)的发"
+  },
+  {
+   "cn": "F(ab′)2片段",
+   "en": "F(ab′)2 fragment",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TIM复合体(=线粒体内膜转运体复合体)",
+   "en": "[]",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线粒体内膜转运体复合体，TIM复合体",
+   "en": "TIM complex",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可用比特率",
+   "en": "available bit rate\",\"ABR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "ABC模型",
+   "en": "ABC model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "ABC评估",
+   "en": "ABC assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脱落酸",
+   "en": "abscisic acid\",\"ABA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "ABO血型",
+   "en": "ABO blood group",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗体",
+   "en": "antibody\",\"Ab",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雄激素结合蛋白",
+   "en": "androgen binding protein\",\"ABP",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "抗生物素蛋白-生物素染色",
+   "en": "avidin-biotin staining\",\"ABS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脱落[酸]醛",
+   "en": "abscisic aldehyde\",\"ABA-aldehyde",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "南大洋底层水",
+   "en": "antarctic bottom water\",\"ABW",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安部幸明",
+   "en": "Abe\",\"Komei(日本)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依恋行为系统",
+   "en": "attachment behavioral system\",\"ABS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抗生物素蛋白-生物素染色",
+   "en": "avidin-biotin staining\",\"ABS",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脱落酸",
+   "en": "abscisic acid\",\"ABA\",\"abscisin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雄激素结合蛋白质",
+   "en": "androgen binding protein\",\"ABP",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "ATM报文块传送",
+   "en": "ATM block transfer\",\"ABT",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "异步平衡方式",
+   "en": "asynchronous balanced mode\",\"ABM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空划",
+   "en": "air shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气步枪",
+   "en": "air rifle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气手枪",
+   "en": "air pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汽笛",
+   "en": "air horn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1级风",
+   "en": "light air",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空中运球",
+   "en": "air dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气袋",
+   "en": "air bag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浮箱",
+   "en": "air case\",\"canvas",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空气污染指数",
+   "en": "Air Pollution Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气枪",
+   "en": "air firearm\",\"pneumatic firearm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空天信息网络",
+   "en": "air-space information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": "electronic health record (EHR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大气棕色云团",
+   "en": "atmospheric brown clouds, ABC",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空气污染中的微粒飘浮在大气中与云交互作用后形成的混浊云团。"
+  },
+  {
+   "cn": "空气隔离",
+   "en": "air isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4.1",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对通过空气传播的感染性呼吸道颗粒引起疾病所采取的阻隔措施。包括佩戴医用防护口罩、提供专用隔离房间、限制患者活动范围等措施。"
+  },
+  {
+   "cn": "新风",
+   "en": "fresh air",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "进入室内的室外新鲜空气。"
+  },
+  {
+   "cn": "出风口",
+   "en": "air outlet",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.5",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "输送集中空调系统处理的空气到室内的风管出口。"
+  },
+  {
+   "cn": "风淋室",
+   "en": "air shower",
+   "source": "消毒学",
+   "wordNumber": "1.8.21.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用高速洁净气流吹落并清除进入洁净室人员表面附着粒子的通过间。"
+  },
+  {
+   "cn": "气流流型",
+   "en": "air pattern",
+   "source": "消毒学",
+   "wordNumber": "1.8.22",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对室内空气的流动形态和分布进行的合理设计。"
+  },
+  {
+   "cn": "空气消毒剂",
+   "en": "air disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.27",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "杀灭空气中微生物，使其达到消毒要求的制剂，如过氧乙酸、过氧化氢、二氧化氯、臭氧。"
+  },
+  {
+   "cn": "循环风",
+   "en": "circulating air",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "部分回风再进入同一进风中的风流。"
+  },
+  {
+   "cn": "排气口",
+   "en": "air vent",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.15",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "消毒灭菌设备排放处理后气体的出口。"
+  },
+  {
+   "cn": "空气采样",
+   "en": "air sampling",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "使用空气微生物采样器或平板自然沉降方法，采集一定量密闭空间空气中自然菌的采样方法。"
+  },
+  {
+   "cn": "空勤人员",
+   "en": "air crew",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.19",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "飞行期间在航空器上受到宇宙辐射照射的执行任务的航空人员，包括驾驶员、领航员、飞行机械人员、飞行通信员和乘务员。"
+  },
+  {
+   "cn": "空气污染",
+   "en": "air pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由于人类活动或自然过程引起某些物质进入大气中，呈现出足够的浓度，达到足够的时间，并因此危害了人类的舒适、健康和福利或环境的现象。"
+  },
+  {
+   "cn": "空气隔断",
+   "en": "air gap",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.65",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "能依靠空气屏障有效防止有害回流、避免交叉污染的关键性物理防护装置。通常通过一个畅通、垂直且具备足够高度的物理空气间隙，将食品加工设备的水/液体出口与排水管道、废水、清洗液等潜在污染源完全分离。"
+  },
+  {
+   "cn": "气温",
+   "en": "air temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "表征空气冷热程度的物理量。数值为离地面1.5m 高的百叶箱内测得的空气温度。"
+  },
+  {
+   "cn": "风干",
+   "en": "air drying",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.59",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "水产名词：在没有太阳光直接照射的自然流通空气中干燥的方法。"
+  },
+  {
+   "cn": "抗微生物耐药性",
+   "en": "antimicrobial resistance, AMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "耐药性（即抗药性）的一种。指部分微生物（尤为病原微生物）对原本敏感的抗生素产生高度耐受的特性。"
+  },
+  {
+   "cn": "循环风紫外线空气消毒机",
+   "en": "ultraviolet air disinfection machine by circulating air",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.3.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用紫外线灯、过滤网、风机和镇流器组合成的使室内空气经过机内紫外线循环照射，实现空气消毒的一种紫外线消毒机。"
+  },
+  {
+   "cn": "机械送风",
+   "en": "mechanical air supply",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.1",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室外空气送入室内的过程。在密闭条件下，室内一般处于相对正压状态。"
+  },
+  {
+   "cn": "新风量",
+   "en": "fresh air volume",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单位时间内每人平均占有的由室外进入室内的新鲜空气量。"
+  },
+  {
+   "cn": "回风口",
+   "en": "return air inlet",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.6",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "输送室内空气回到集中空调系统的风管入口。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

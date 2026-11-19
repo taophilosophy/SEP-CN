@@ -1,0 +1,742 @@
+{
+ "key": "healing al-shifa'",
+ "term": "Healing al-Shifāʾ",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:20:29+00:00",
+ "status": "ok",
+ "note": "variant=Healing al-Shifāʾ; 审定公布名词库=2244; 海峡两岸名词对照库=533; 其他来源数据库=65; 预公布名词数据库=55; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "愈合",
+   "en": "healing",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1670",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "断层或裂纹停止破裂后，断层面或裂纹面两侧的分子或原子之间的相互作用力逐渐恢复，物质或填充物互相胶结的过程。 "
+  },
+  {
+   "cn": "愈合",
+   "en": "healing",
+   "source": "病理学名词",
+   "wordNumber": "01.097",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "伤口经修复而恢复原来状态的过程。"
+  },
+  {
+   "cn": "痊愈",
+   "en": "healing",
+   "source": "感染病学名词",
+   "wordNumber": "01.0799",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "病情好转，恢复健康，或伤口、疮口愈合。"
+  },
+  {
+   "cn": "愈合",
+   "en": "healing",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.213",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "古尔王朝",
+   "en": "al—Sulalah al—Ghuriyyah",
+   "source": "世界历史名词",
+   "wordNumber": "02.1108",
+   "subjectFullName": "世界历史_古代中世纪_南亚次大陆",
+   "subjectName": "南亚次大陆",
+   "publishYear": "2012",
+   "definition": "12世纪至13世纪，突厥人在阿富汗和印度北部建立的穆斯林王朝。"
+  },
+  {
+   "cn": "创面愈合",
+   "en": "wound healing",
+   "source": "普通外科学名词",
+   "wordNumber": "10.002",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "组织在遭受损伤，出现离断或缺损后，经历一系列复杂的细胞和生化变化，最终达到恢复组织完整性的过程。根据受损组织的性质及处理时的具体情况，伤口愈合可分为三种类型：一期愈合、延迟的一期愈合、二期愈合。"
+  },
+  {
+   "cn": "一期愈合",
+   "en": "primary healing",
+   "source": "普通外科学名词",
+   "wordNumber": "10.003",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "伤口经过清创缝合后各层次组织对合良好，并能在无感染情况下愈合的修复过程。常见于无感染的手术切口或其他无明显组织损失，创缘整齐、创面接触紧密的清洁创伤。组织修复以原来的细胞为主，仅含有少量纤维组织，局部"
+  },
+  {
+   "cn": "二期愈合",
+   "en": "secondary healing",
+   "source": "普通外科学名词",
+   "wordNumber": "10.004",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "由于较重的污染及组织破坏，伤口无法一期缝合，而在开放的情况下通过肉芽组织不断增生达到愈合的修复过程。常见于组织缺损大、无法整齐对合，或伴有感染伤口的创伤。修复以纤维组织为主，伤口愈合时间较长，且愈合后"
+  },
+  {
+   "cn": "创面愈合",
+   "en": "wound healing",
+   "source": "整形外科名词",
+   "wordNumber": "2.049",
+   "subjectFullName": "整形外科_创伤修复_创面愈合",
+   "subjectName": "创面愈合",
+   "publishYear": "2026",
+   "definition": "机体通过再生、修复等手段修补各种损伤造成的组织缺失，以恢复机体组织结构和功能完整性的过程。是一个复杂而有序的生物学过程。"
+  },
+  {
+   "cn": "一期愈合",
+   "en": "primary healing",
+   "source": "整形外科名词",
+   "wordNumber": "2.05",
+   "subjectFullName": "整形外科_创伤修复_创面愈合",
+   "subjectName": "创面愈合",
+   "publishYear": "2026",
+   "definition": "组织缺损少、创缘整齐、无感染，经黏合或缝合后创面对合严密的伤口愈合。这种伤口只有少量的血凝块，炎症反应轻微。"
+  },
+  {
+   "cn": "二期愈合",
+   "en": "secondary healing",
+   "source": "整形外科名词",
+   "wordNumber": "2.051",
+   "subjectFullName": "整形外科_创伤修复_创面愈合",
+   "subjectName": "创面愈合",
+   "publishYear": "2026",
+   "definition": "组织缺损较大，创缘不整、哆开，无法整齐对合，或伴有感染的伤口愈合。愈合时间较长，形成的瘢痕较大。"
+  },
+  {
+   "cn": "痂下愈合",
+   "en": "subcrustal healing",
+   "source": "整形外科名词",
+   "wordNumber": "2.058",
+   "subjectFullName": "整形外科_创伤修复_创面愈合",
+   "subjectName": "创面愈合",
+   "publishYear": "2026",
+   "definition": "一种特殊条件下特殊伤口的修复愈合方式。在伤口表面由渗出液、血液及坏死脱落的物质干燥后形成的一层黑褐色硬痂下所进行的伤口二期愈合过程。"
+  },
+  {
+   "cn": "骨折愈合",
+   "en": "fracture healing",
+   "source": "急救医学名词",
+   "wordNumber": "03.493",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "断裂的骨或骨小梁连续性恢复，重新获得骨结构强度的过程。"
+  },
+  {
+   "cn": "康复花园",
+   "en": "healing garden",
+   "source": "风景园林名词",
+   "wordNumber": "05.0080",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "运用自然景观要素和人工要素，以主动或被动方式，辅助人们提升生理、心理和精神三方面或其中一个方面健康的景观场所。"
+  },
+  {
+   "cn": "创伤愈合",
+   "en": "wound healing",
+   "source": "兽医学名词",
+   "wordNumber": "10.168",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "创伤由周围组织再生而修复的过程。"
+  },
+  {
+   "cn": "一期愈合",
+   "en": "primary healing",
+   "source": "兽医学名词",
+   "wordNumber": "10.169",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "组织缺损少、创缘整齐、无感染的伤口经黏合或缝合后，创面可较快地直接发生的愈合过程。"
+  },
+  {
+   "cn": "二期愈合",
+   "en": "secondary healing",
+   "source": "兽医学名词",
+   "wordNumber": "10.170",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "组织缺损较大、创缘不整并伴有感染的开放性创伤，待大量肉芽组织填充后逐步愈合的过程。"
+  },
+  {
+   "cn": "裂纹愈合",
+   "en": "crake healing",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1647",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "当裂纹停止破裂后，裂纹面两侧的分子或原子之间的相互作用力逐渐恢复，物质或填充物互相胶结的现象或过程。 "
+  },
+  {
+   "cn": "愈合前缘",
+   "en": "healing front",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1671",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "愈合的断层或裂纹前缘。 "
+  },
+  {
+   "cn": "一期愈合",
+   "en": "primary healing",
+   "source": "病理学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "组织缺损少、创缘整齐、无感染，经黏合或缝合后创面对合严密的伤口愈合。这种伤口只有少量的血凝块，炎症反应轻微。"
+  },
+  {
+   "cn": "民俗疗法",
+   "en": "folk healing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自愈",
+   "en": "self-healing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "叠瓦状构造",
+   "en": "healed structure",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "阿梅利亚赴舞会",
+   "en": "Amelia al Ballo",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "几何天平动",
+   "en": "geometric[al] libration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "章动常数",
+   "en": "nutation[al] constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "章动椭圆",
+   "en": "nutation[al] ellipse",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "及其他作者，等作者",
+   "en": "et alii\",\"et al.",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "原子层外延",
+   "en": "atomic layer epitaxy\",\"ALE",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗淋巴细胞血清",
+   "en": "anti-lymphocyte serum， ALS",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原子层外延",
+   "en": "atomic layer epitaxy，ALE",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铝镍钴永磁体",
+   "en": "Al-Ni-Co permanent magnet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铝硅炭砖",
+   "en": "corundum-silicon carbide brick\",\"Al-Si carbon brick",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "金属-氧化铝-氧化物-半导体场效晶体管",
+   "en": "metal-Al2O3-oxide-semiconductor field effect transistor，MAOSFET",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "撇缆绳",
+   "en": "heaving line\",\"hauling line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加热",
+   "en": "heating",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热合",
+   "en": "sealing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "顶镦",
+   "en": "heading",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "封孔",
+   "en": "sealing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "上医医国",
+   "en": "Great Healers Heal the Country.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《计算机科学概论》（〔美〕J.格伦·布鲁克希尔 等）",
+   "en": "Computer Science: An Overview (J. Glenn Brookshear et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人工智能：一种现代的方法》（〔美〕斯图尔特·罗素 等）",
+   "en": "Artificial Intelligence: A Modern Approach (Stuart J. Rossell et al., USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据时代的国家治理》（〔中〕陈潭 等）",
+   "en": "State Governance in the Big Data Age (Chen Tan et al., China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "头球射门",
+   "en": "heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头球",
+   "en": "header\",\"heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器听觉",
+   "en": "machine hearing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程听证",
+   "en": "remote hearing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方位",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领骑组",
+   "en": "leading bunch\",\"leading group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头球",
+   "en": "head\",\"header\",\"heading",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风摆",
+   "en": "shift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith healing",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过修正和改变人的世界观、人生观，塑造信仰体系，从而恢复或者强化患者的心理能力，以达到治愈心理疾病目的的治疗方法。"
+  },
+  {
+   "cn": "信仰治疗",
+   "en": "faith healing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0241",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "通过祷告或其他能够取得神灵保佑的措施以治疗疾病的方法。"
+  },
+  {
+   "cn": "淀粉样变",
+   "en": "amyloidosis，AL",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.27",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "由多种原因引起的，以多糖蛋白复合体为特征的淀粉样蛋白物质沉积在局部或者全身组织，引起器官肿大及功能障碍为主要表现的综合征。常受侵犯的器官有肾、心、肝、胃肠、舌、脾、神经系统、皮肤等。病理以光镜下呈无定"
+  },
+  {
+   "cn": "救死扶伤",
+   "en": "heal the wounded and rescue the dying",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "抢救生命垂危的人，照顾受伤的人。形容尽心竭力为伤病员服务的精神。"
+  },
+  {
+   "cn": "大小和卓之乱",
+   "en": "rebellion of Burhan al-Din and Khwaja Jinan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0257",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清乾隆二十二年（1757）至二十四年（1759）新疆回部伊斯兰教白山派首领波罗尼都、霍集占兄弟发动的叛乱。因兄弟二人为玛罕木特和卓之子，故其乱称为大小和卓之乱。"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双耳不同程度的永久性听力障碍，听不到或听不清周围环境声以及言语声，以致影响日常生活和社会参与。"
+  },
+  {
+   "cn": "发热粮",
+   "en": "heating grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.18",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "害虫、微生物繁殖为害等原因引起的粮温异常升高的粮食"
+  },
+  {
+   "cn": "加热试验",
+   "en": "heating test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.19",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油样加热至280 度时，观察有无析出物和油色变化情况的试验。"
+  },
+  {
+   "cn": "止损线",
+   "en": "ceiling",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "投保者的自付金额达到一定限额后，超出部分全部由保险机构支付，投保者不需再行支付的保险设计"
+  },
+  {
+   "cn": "听力残疾分类",
+   "en": "hearing disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致听力残疾的原因以及听力残疾的程度对听力残疾类型的划分。"
+  },
+  {
+   "cn": "听力残疾分级",
+   "en": "hearing disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据听力残疾的程度对听力残疾划分的等级。"
+  },
+  {
+   "cn": "教室采暖",
+   "en": "heating of classrooms",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "在中国严寒地区冬季，采用蒸气式、热水式、火炉、火墙、地炕、空调等方式使教室内温度维持在至适温度的做法。"
+  },
+  {
+   "cn": "新生儿听力筛查",
+   "en": "neonatal hearing screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.2.1.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "应用耳声发射、自动听性脑干反应和声阻抗等电生理学技术，在新生儿自然睡眠或安静的状态下进行客观、快速和无创检查，以筛查新生儿是否存在听力障碍，促进早期诊断、早期治疗干预的方法。"
+  },
+  {
+   "cn": "听力残疾筛查",
+   "en": "hearing disability screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.3.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "分为初筛和复筛两阶段，通过耳外观检查、儿童发育问题预警征象观察、以及利用电耳镜、便携式听觉评估仪和筛查型耳声发射仪等器材检查儿童是否存在耳部畸形、病变、听力障碍问题，以早期诊断、早期治疗干预的方法。"
+  },
+  {
+   "cn": "玻璃天花板",
+   "en": "glass-ceiling",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "比喻职场上限制妇女到达高层职位的无形障碍。女性主义认为这是职场性别不平等的一种体现。"
+  },
+  {
+   "cn": "助人行为",
+   "en": "helping behavior",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.10",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "亲社会行为的一种，指一切帮助他人的行为，可以是无偿的，也可以是有偿的。"
+  },
+  {
+   "cn": "领导阶级",
+   "en": "leading class",
+   "source": "马克思主义",
+   "wordNumber": "03.0110",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中在经济、政治和意识形态等各个领域占据统治地位和领导地位的阶级。不同社会的领导阶级是不同的。奴隶社会是奴隶主阶级；封建社会是地主阶级；进入资本主义社会后是资产阶级；社会主义社会是无产阶级。在社"
+  },
+  {
+   "cn": "窝沟封闭",
+   "en": "pit and fissure sealing",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以流动性材料封闭牙齿表面窝沟，阻止细菌侵入从而预防龋齿的技术。"
+  },
+  {
+   "cn": "听力残疾一级",
+   "en": "hearing disability grade Ⅰ ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "较好耳的平均听力损失≥91分贝。"
+  },
+  {
+   "cn": "听力残疾二级",
+   "en": "hearing disability grade Ⅱ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "81分贝≤较好耳的平均听力损失≤90分贝。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

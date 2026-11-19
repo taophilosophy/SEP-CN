@@ -1,0 +1,632 @@
+{
+ "key": "adolescent young",
+ "term": "adolescent young",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:14:17+00:00",
+ "status": "ok",
+ "note": "variant=adolescent young; 审定公布名词库=125; 海峡两岸名词对照库=24; 其他来源数据库=2; 预公布名词数据库=77; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "青少年",
+   "en": "adolescent",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "处在青春期、尚未成年的年轻人。一般年龄在13～18岁。属社会学定义，对应婴儿（infant）、儿童（child）、成人（adult）。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "急救医学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "急救医学_日常医学急救_儿科学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由儿童发育到成人的过渡期。是生殖器官、内分泌、体格逐渐发育至成熟的阶段。世界卫生组织规定的青春期为10～19岁。"
+  },
+  {
+   "cn": "青少年期",
+   "en": "adolescence",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.065",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "从青春期开始到成年的时期。为生长发育各期如胎儿期、儿童期（婴儿期、幼儿期、学前期、学龄期）、青少年期、成年期、中年期、老年期中的一期。属社会学定义。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "生殖医学名词",
+   "wordNumber": "3.004",
+   "subjectFullName": "生殖医学_生殖生理与内分泌_生理期",
+   "subjectName": "生理期",
+   "publishYear": "2022",
+   "definition": "由儿童发育到成人的过渡期。是生殖器官、内分泌、体格逐渐发育至成熟的阶段。世界卫生组织规定青春期为10～19岁。"
+  },
+  {
+   "cn": "青少年期",
+   "en": "adolescence",
+   "source": "心理学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "11～20岁的时期。"
+  },
+  {
+   "cn": "青少年适应不良",
+   "en": "adolescent maladaptation;adolescent maladjustment",
+   "source": "行为医学名词",
+   "wordNumber": "18.076",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童或青少年不能顺应环境变化、不能与环境保持和谐关系的表现。"
+  },
+  {
+   "cn": "幼贝",
+   "en": "young mollusk,young shellfish",
+   "source": "水产名词",
+   "wordNumber": "04.194",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "形态已与成贝相同，但性腺尚未成熟或尚未达到商品规格的贝类个体。"
+  },
+  {
+   "cn": "青少年发育",
+   "en": "adolescent development",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "在青春发育期间，青少年在解剖和生理、社会心理和行为等方面连续不断的变化。"
+  },
+  {
+   "cn": "青少年行为",
+   "en": "adolescent behavior",
+   "source": "男科及性医学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "男科及性医学_性发育",
+   "subjectName": "性发育",
+   "publishYear": "2023",
+   "definition": "青少年可被观察到的任何反应或行动。"
+  },
+  {
+   "cn": "青春期甲状腺肿",
+   "en": "adolescent goiter",
+   "source": "核医学名词",
+   "wordNumber": "04.0949",
+   "subjectFullName": "核医学_临床核医学_内分泌系统核医学_临床常见内分泌系统疾病",
+   "subjectName": "临床常见内分泌系统疾病",
+   "publishYear": "2018",
+   "definition": "青春期时由于身体对甲状腺素的需要量增加而体内碘绝对或相对不足引起甲状腺代偿性肿大的现象。一般不伴有甲状腺功能异常。"
+  },
+  {
+   "cn": "青春期教育",
+   "en": "adolescent education",
+   "source": "教育学名词",
+   "wordNumber": "07.119",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "针对学生青春期开展的以性教育为主要内容的生理、心理、伦理等方面的教育。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence,puberty",
+   "source": "计划生育名词",
+   "wordNumber": "02.139",
+   "subjectFullName": "计划生育_生殖医学基础_女性",
+   "subjectName": "女性",
+   "publishYear": "2019",
+   "definition": "儿童期到成人期的过渡阶段。世界卫生组织将该期的年龄范围定为10~19岁。这一时期全身发育，由于下丘脑与垂体分泌的促性腺激素量增加及作用加强，使性腺发育和性激素分泌逐渐增加，内、外生殖器进一步发育。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence,puberty",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.028",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "由儿童发育到成人的过渡时期。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence,puberty",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "03.0007",
+   "subjectFullName": "中医药学_儿科学",
+   "subjectName": "儿科学",
+   "publishYear": "2010",
+   "definition": "女孩从11～12周岁到17～18周岁，男孩从13～14周岁到18～20周岁的性功能逐渐发育成熟的时期。"
+  },
+  {
+   "cn": "扬氏综合征",
+   "en": "Young syndrome",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.179",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "以慢性鼻窦炎、支气管扩张和梗阻性无精子症三联征为主要表现的临床综合征。患者睾丸生精功能正常，但由于动力性原因导致附睾管阻塞，精子无法排出。"
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0527",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "当胡克定律沿着轴向成立时，沿着该轴的应力与应变的比值。 "
+  },
+  {
+   "cn": "肉鹅",
+   "en": "young goose",
+   "source": "畜牧学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "以食肉为目的而饲养的鹅。"
+  },
+  {
+   "cn": "青年兔",
+   "en": "young rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "畜牧学_养兔_家兔分类",
+   "subjectName": "家兔分类",
+   "publishYear": "2020",
+   "definition": "12周龄至初配阶段的生长兔。"
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "林学名词",
+   "wordNumber": "06.036",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "处于生长发育初期的的林分。"
+  },
+  {
+   "cn": "扬氏综合征",
+   "en": "Young syndrome",
+   "source": "泌尿外科学名词",
+   "wordNumber": "10.193",
+   "subjectFullName": "泌尿外科学_男科",
+   "subjectName": "男科",
+   "publishYear": "2014",
+   "definition": "生精功能正常，但由于浓缩物质阻塞附睾而表现为无精子的综合征。临床主要表现为慢性鼻窦炎、支气管扩张和梗阻性无精子症三联征。"
+  },
+  {
+   "cn": "青少年期",
+   "en": "adolescence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "青少年心理学",
+   "en": "adolescent psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "少壮海岸",
+   "en": "adolescent coast",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期冰",
+   "en": "young ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼年土壤",
+   "en": "young soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扬，亚历山大",
+   "en": "Young\",\"Alexander(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "青少年发育陡增",
+   "en": "adolescent growth spurt",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大仔对策",
+   "en": "large young strategy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模数",
+   "en": "Youngs modulus",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量，弹性模量",
+   "en": "Young's modulus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄期,未成熟期",
+   "en": "immature stage\",\"young stage",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期恒星体",
+   "en": "young stellar object\",\"YSO",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼期， 未成熟期",
+   "en": "young stage\",\"immature stage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扬，珀西",
+   "en": "Young\",\"Percy M(arshall)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光纤杨氏模量",
+   "en": "Young's modulus for fiber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "青少年管弦乐队指南——普塞尔主题变奏曲与赋格",
+   "en": "Young Persons Guide to the Orchestra",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体用",
+   "en": "Ti and Yong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "社会学名词",
+   "wordNumber": "3.16.1.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年",
+   "subjectName": "青少年",
+   "publishYear": "2025",
+   "definition": "儿童期至成年期的过渡时期。体格、性征、内分泌及心理等方面都发生巨大变化，各组织器官由稚嫩走向成熟，由能力不足趋向功能健全，世界观及信念逐步形成。一般指个体从12岁到20岁。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "从10岁至19岁的时期。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.1.7",
+   "subjectFullName": "",
+   "subjectName": "儿童年龄分期",
+   "publishYear": "2025",
+   "definition": "由儿童发育到成人的过渡期。是生殖器官、第二性征、内分泌、体格和心理行为逐渐发育至成熟的阶段。世界卫生组织定义为10～19岁。"
+  },
+  {
+   "cn": "青春期",
+   "en": "adolescence",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.6",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "儿童到成人的转变期，是生殖器、内分泌、体格逐渐发育至成熟的阶段。世界卫生组织（WHO）规定该阶段为10 岁至19 岁。"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "青少年自杀",
+   "en": "adolescent suicide",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年在意识清醒情况下自愿以伤害方式结束自己生命的行为。"
+  },
+  {
+   "cn": "青春期妊娠",
+   "en": "adolescent pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "10~19岁年龄段女性的妊娠，此年龄段的妊娠和分娩引起的并发症较多，是导致中低收入国家中孕产妇死亡的重要原因之一。"
+  },
+  {
+   "cn": "青春期肥胖",
+   "en": "adolescent obesity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年进入青春期后表现的体内脂肪过多蓄积而造成的体重超标准的现象。一般采用身高别体重或者年龄别体重指数(BMI)曲线进行判断。"
+  },
+  {
+   "cn": "青春期消瘦",
+   "en": "adolescent wasting",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.3.2",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "一种多见于青少年女性的因进食行为障碍导致体重明显低于正常范围的下限且不能用其他健康状况或无法获得食物来解释的身体状态。其特点是强烈害怕体重增加或变胖，通过持续限制能量摄入或其他限制体重增加的行为来维持"
+  },
+  {
+   "cn": "青少年自杀",
+   "en": "adolescent suicide",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.5",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "青少年蓄意或自愿以某种手段结束自己生命的行为。根据自杀的结果，一般分为自杀意念、自杀未遂和自杀死亡三种形态。"
+  },
+  {
+   "cn": "女性青春期",
+   "en": "female adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "由女童期向性成熟期过渡的一段快速生长发育时期。即从乳房等第二性征开始发育至生殖器官逐渐成熟，获得生殖能力的生命阶段。世界卫生组织定义为10至19岁。"
+  },
+  {
+   "cn": "青春早期",
+   "en": "early adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "月经初潮前体格生长突增的阶段，伴随性器官和第二性征开始发育。"
+  },
+  {
+   "cn": "青春晚期",
+   "en": "late adolescence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_青春期保健",
+   "subjectName": "青春期保健",
+   "publishYear": "2025",
+   "definition": "性腺、性器官和第二性征继续发育直至接近达到成人水平的阶段，生殖功能趋于成熟。伴随体格生长缓慢，骨骺完全融合停止生长，内脏器官和大脑进一步发育成熟。"
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "儿童少年",
+   "en": "child and adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_儿少与学校卫生学",
+   "subjectName": "儿少与学校卫生学",
+   "publishYear": "2025",
+   "definition": "0-24岁的群体和个体。是儿童少年卫生学这一学科的研究对象。"
+  },
+  {
+   "cn": "青春期生长突增",
+   "en": "adolescent growth spurt",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "青春期生长速度在童年期比较平稳的基础上突然出现的身体形态、功能与运动素质等方面的快速增长。"
+  },
+  {
+   "cn": "青少年特发性脊柱侧凸",
+   "en": "adolescent idiopathic scoliosis",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "10至18岁间出现原因不明的脊柱侧凸，表现为伴有旋转的脊柱侧向弯曲,无任何先天性脊柱疾患或相关肌肉骨骼异常，病程于青春期迅速进展。"
+  },
+  {
+   "cn": "青春期保健",
+   "en": "adolescent health care",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "以促进青春期青少年身心健康为目的，提供的必要和适宜的卫生保健指导、帮助和服务。"
+  },
+  {
+   "cn": "青少年女性生育率",
+   "en": "adolescent fertility rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内每1000名实足年龄为15至19岁的妇女所分娩的婴儿总数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

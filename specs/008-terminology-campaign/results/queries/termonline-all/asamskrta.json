@@ -1,0 +1,62 @@
+{
+ "key": "asamskrta",
+ "term": "asaṃskṛta",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:01:58+00:00",
+ "status": "ok",
+ "note": "variant=asaṃskṛta; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "TA克隆",
+   "en": "TA cloning",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0695",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "利用聚合酶链反应（PCR）中Taq DNA聚合酶可以在产物末端添加一个不配对腺嘌呤核苷酸（A）的特点，通过与T载体之间的A-T互补性，高效克隆PCR产物的技术。"
+  },
+  {
+   "cn": "TA[克隆]法",
+   "en": "T’s and A’s method",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.054",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "将任意含有3-A末端的DNA片段与含有3-T末端的载体通过T-A碱基互补配对，从而将外源DNA片段克隆进载体的方法。"
+  },
+  {
+   "cn": "TA[克隆]法",
+   "en": "T's and A's method",
+   "source": "遗传学名词",
+   "wordNumber": "03.695",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "可将任意含有3'-A末端的DNA片段与含有3'-T末端的载体通过T-A碱基互补配对原则将外源DNA片段克隆进载体的方法。"
+  },
+  {
+   "cn": "SK型静态混合器",
+   "en": "SK type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1678",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由扭转180°或270°的螺旋板组成混合单元，安装入管时相邻的螺旋分别右旋的混合器。"
+  },
+  {
+   "cn": "TA[克隆]法",
+   "en": "T's and A's method",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

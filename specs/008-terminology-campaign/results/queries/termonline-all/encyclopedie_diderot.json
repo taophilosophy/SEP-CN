@@ -1,0 +1,222 @@
+{
+ "key": "encyclopedie diderot",
+ "term": "Encyclopédie Diderot",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:04:32+00:00",
+ "status": "ok",
+ "note": "variant=Encyclopédie Diderot; 审定公布名词库=22; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "辞书的一种类型。汇集各种专业语词、专名和术语，以条头为收录和释义单位，系统而详细地解释各学科知识或某一学科门类知识。通常规模很大。"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "source": "语言学名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。汇集各种专业语词、专名和术语，以条头为收录和释义单位，系统而详细地解释各学科知识或某一学科门类知识。通常规模很大。"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopaedia;encyclopedia",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.081",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "以条目为单元，系统概述各种知识或某一方面完备知识的大型工具书。"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.105",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "将综合性词条及书目汇集，以某种顺序排列或加以解释，供人们检索、查阅、参考的工具书。"
+  },
+  {
+   "cn": "网络百科全书",
+   "en": "online encyclopedia",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.043",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "基于互联网的、开放式的、由多人协同创作的、涵盖众多知识门类的大型工具书平台。网络百科全书强调自由内容和协同编辑，用户可以通过网络进行创作、浏览、修改和发布内容。"
+  },
+  {
+   "cn": "学科百科全书",
+   "en": "subject encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.110",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "收录某一学科或某一领域知识的百科全书。"
+  },
+  {
+   "cn": "综合性百科全书",
+   "en": "general encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.111",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "收录各学科或领域知识的百科全书。"
+  },
+  {
+   "cn": "百科全书运动",
+   "en": "encyclopedic movement",
+   "source": "教育学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古代罗马学者瓦罗等为实现知识系统化、条理化而开展的编撰百科全书的运动。"
+  },
+  {
+   "cn": "百科词典学",
+   "en": "encyclopedic lexicography",
+   "source": "语言学名词",
+   "wordNumber": "06.007",
+   "subjectFullName": "语言学_辞书学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "词典学的一个分支。研究百科全书、百科词典及类似辞书的设计、编纂、使用、评价和历史等。"
+  },
+  {
+   "cn": "百科条目",
+   "en": "encyclopedic entry",
+   "source": "语言学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“语词条目”相对。辞书中提供百科性知识的条目。以专业词语、术语、人名、地名、历史事件等为释义的对象。"
+  },
+  {
+   "cn": "百科附录",
+   "en": "encyclopedic appendix",
+   "source": "语言学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "附设在辞书正文后面的百科性知识材料。"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。兼有通用词典和百科全书的特征，既提供语言信息，也提供百科信息。"
+  },
+  {
+   "cn": "百科性释义",
+   "en": "encyclopedic definition",
+   "source": "语言学名词",
+   "wordNumber": "06.276",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "与“词汇释义”相对。释义方法的一种。从专业角度揭示字头、词头或条头所涉及的百科知识信息，而非语言性知识。"
+  },
+  {
+   "cn": "百科语料库",
+   "en": "encyclopedic corpus",
+   "source": "语言学名词",
+   "wordNumber": "06.328",
+   "subjectFullName": "语言学_辞书学_辞书现代化",
+   "subjectName": "辞书现代化",
+   "publishYear": "2011",
+   "definition": "以各类专业素材或某些学科门类的资料为内容构建的语料库。"
+  },
+  {
+   "cn": "电子辞书",
+   "en": "electronic encyclopedic dictionary ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.065",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "以数字代码方式将图、文、声、像等信息存储在磁、光、电介质上，辅以电子技术手段使用的辞书。"
+  },
+  {
+   "cn": "分流电抗器",
+   "en": "divert shunt reactor",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0510",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "《自然辩证法百科全书》",
+   "en": "Encyclopedia of Dialectics of Nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "以马克思主义哲学为指导，全面而系统地概括与总结了20世纪科学技术发展的历史及其成就，并对哲学的相关概念、范畴、规律、理论和原理作了新的阐述，反映了当时我国科学技术哲学各领域研究的新进展，并吸取了国外科"
+  },
+  {
+   "cn": "DNA元件百科全书",
+   "en": "Encyclopedia of DNA Elements;ENCODE",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0079",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "一项识别和解析人类基因组中所有功能元件（包括蛋白质编码基因、各类RNA编码序列、转录调控元件、介导染色体结构和动力学的元件以及有待明确的其他类型功能性序列等）的国际合作计划。该计划于2003年9月启动"
+  },
+  {
+   "cn": "分流电阻器",
+   "en": "divert shunt resistor,shunting resistor",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0518",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "京都基因和基因组数据库",
+   "en": "Kyoto Encyclopedia of Genes and Genomes,KEGG",
+   "source": "生物物理学名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "专门收集基因组、分子相互作用网络、酶催化路径、生物化学产物等信息的在线数据库。将基因组信息和基因功能(特别是酶的催化功能)联系起来，系统分析基因功能，揭示生命现象的遗传与化学基础。"
+  },
+  {
+   "cn": "《回疆通志》",
+   "en": "Encyclopedic Records of Huijiang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0614",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "和宁撰。全书十二卷涉及新疆南疆的宗教、习俗、物产等，是研究清代新疆的重要史籍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

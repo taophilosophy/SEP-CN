@@ -1,0 +1,82 @@
+{
+ "key": "creolite",
+ "term": "creolité",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:05:52+00:00",
+ "status": "ok",
+ "note": "variant=creolité; 审定公布名词库=5; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "地质学名词",
+   "wordNumber": "03.13.004",
+   "subjectFullName": "地质学_矿物学_卤化物矿物",
+   "subjectName": "卤化物矿物",
+   "publishYear": "2026",
+   "definition": "成分Na₃AlF₆。单斜晶系，呈粒状或致密块状集合体。无色、灰白色或灰黄色，玻璃光泽。硬度2～3。密度2.95～3.01g/cm³。多见于伟晶岩脉内。"
+  },
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "物理学名词",
+   "wordNumber": "08.0363",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "化学名词",
+   "wordNumber": "01.0312",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "氟化物矿，化学式为<img src='/root/syzx/static/spz/huaxue2.01.0312.1.png'/>。单斜晶系。"
+  },
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "地质学名词",
+   "wordNumber": "04.320",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冰晶石量比",
+   "en": "cryolite ratio",
+   "source": "冶金学名词",
+   "wordNumber": "06.0756",
+   "subjectFullName": "冶金学_有色金属冶金_轻金属冶金",
+   "subjectName": "轻金属冶金",
+   "publishYear": "2019",
+   "definition": "冰晶石中NaF与AlF3之质量比。"
+  },
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "冰晶石",
+   "en": "cryolite",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

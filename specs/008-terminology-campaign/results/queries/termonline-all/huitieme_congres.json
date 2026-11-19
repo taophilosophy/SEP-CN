@@ -1,0 +1,482 @@
+{
+ "key": "huitieme congres",
+ "term": "huitième Congrès",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:16:47+00:00",
+ "status": "ok",
+ "note": "variant=huitième Congrès; 审定公布名词库=26; 海峡两岸名词对照库=4; 其他来源数据库=6; 预公布名词数据库=81; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "天文学名词",
+   "wordNumber": "08.304",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中具有明显发射谱线的M型恒星。"
+  },
+  {
+   "cn": "国际档案大会",
+   "en": "ICA Congress",
+   "source": "档案学名词",
+   "wordNumber": "09.04.005",
+   "subjectFullName": "档案学_外国档案事业史_国际档案组织与活动",
+   "subjectName": "国际档案组织与活动",
+   "publishYear": "2024",
+   "definition": "国际档案理事会组织召开的世界性档案专业会议，是国际档案理事会各项活动中规模最大、带有标志性的集学术研究、业务交流和会务决策于一体的综合性会议。"
+  },
+  {
+   "cn": "职代会",
+   "en": "workers’ congress",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0370",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "由员工推选代表参与管理，行使民主管理权力的一种制度。"
+  },
+  {
+   "cn": "大陆会议",
+   "en": "Continental Congress",
+   "source": "世界历史名词",
+   "wordNumber": "03.0019",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "英属北美13个殖民地的代表会议，美国独立革命的领导机构。1774年9月在费城召开第一届会议，1781年由邦联国会取代。"
+  },
+  {
+   "cn": "犹太复国主义者代表大会",
+   "en": "Zionist Congress",
+   "source": "世界历史名词",
+   "wordNumber": "04.0429",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "世界犹太复国主义者协会的最高权力机构，1897年在瑞士巴塞尔首次召开会议。"
+  },
+  {
+   "cn": "特罗保和莱巴赫会议",
+   "en": "Congress of Troppau and Congress of Laibach",
+   "source": "世界历史名词",
+   "wordNumber": "01.0562",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1820年，神圣同盟各国为镇压意大利革命召开的国际会议。"
+  },
+  {
+   "cn": "世界公共关系大会",
+   "en": "IPRA world congress",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.125",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系组织",
+   "subjectName": "公共关系组织",
+   "publishYear": "2022",
+   "definition": "全球范围内规模最大的公共关系专业会议。由国际公共关系协会和举办国公共关系协会共同主办,每三年举办一次，被称为世界公共关系业的“奥林匹克盛会”。"
+  },
+  {
+   "cn": "巴拿马大会",
+   "en": "Congress of Panama",
+   "source": "世界历史名词",
+   "wordNumber": "01.0564",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1826年6月，美洲新独立国家在巴拿马召开的首次国际会议。"
+  },
+  {
+   "cn": "奥兰会议",
+   "en": "Congress of Aland",
+   "source": "世界历史名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1718年5月至1719年10月，俄瑞两国在奥兰群岛举行的会议，目的是在没有第三国调停的情况下，以双边协定的形式来结束北方战争。未能达成协议。"
+  },
+  {
+   "cn": "柏林会议",
+   "en": "Congress of Berlin",
+   "source": "世界历史名词",
+   "wordNumber": "01.0565",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1878年，欧洲国家为限制俄国在巴尔干扩张在柏林召开的国际会议。"
+  },
+  {
+   "cn": "印度国民大会党",
+   "en": "Indian National Congress",
+   "source": "世界历史名词",
+   "wordNumber": "04.0168",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "印度资产阶级政党，1885年由英籍印度退休文官A.O.休谟成立于孟买。印度独立前是印度民族运动的领导者，独立后长期成为印度的执政党。"
+  },
+  {
+   "cn": "维罗纳会议",
+   "en": "Congress of Verona",
+   "source": "世界历史名词",
+   "wordNumber": "01.0563",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1822年10月，神圣同盟成员国为镇压西班牙革命召开的会议。"
+  },
+  {
+   "cn": "维也纳会议",
+   "en": "Congress of Vienna",
+   "source": "世界历史名词",
+   "wordNumber": "01.0560",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1814年9月，欧洲第六次反法联盟击败拿破仑后在维也纳举行的国际会议。"
+  },
+  {
+   "cn": "亚琛会议",
+   "en": "Congress of Aachen",
+   "source": "世界历史名词",
+   "wordNumber": "01.0561",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1818年9月，拿破仑战争中的反法联盟国家在德国亚琛同法国举行的会议。"
+  },
+  {
+   "cn": "种族平等大会",
+   "en": "Congress of Racial Equality",
+   "source": "世界历史名词",
+   "wordNumber": "03.0217",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1942年成立的主张通过非暴力直接行动来解决种族和工业冲突的民间组织。"
+  },
+  {
+   "cn": "产业工会联合会",
+   "en": "Congress of Industrial Organization,CIO",
+   "source": "世界历史名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1935年，劳工左翼和劳联领导上层的中间派在非熟练产业工人中建立的工会组织，很快发展成继美国劳工联合会之后美国工人运动的第二个核心组织。"
+  },
+  {
+   "cn": "印度国大社会党",
+   "en": "Congress Socialist Party of India",
+   "source": "世界历史名词",
+   "wordNumber": "04.0188",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "印度独立前，印度国民大会党内代表城乡小资产阶级利益的左翼团体。1934年10月成立，1948年3月正式脱离国大党，另组印度社会党。1977年并入印度人民党。"
+  },
+  {
+   "cn": "英属西非国民大会",
+   "en": "National Congress of British West Africa",
+   "source": "世界历史名词",
+   "wordNumber": "04.0528",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_撒哈拉以南非洲",
+   "subjectName": "撒哈拉以南非洲",
+   "publishYear": "2012",
+   "definition": "1920年成立的英属西非殖民地的民族主义组织。"
+  },
+  {
+   "cn": "南非非洲人国民大会",
+   "en": "African National Congress of South Africa",
+   "source": "世界历史名词",
+   "wordNumber": "04.0549",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_撒哈拉以南非洲",
+   "subjectName": "撒哈拉以南非洲",
+   "publishYear": "2012",
+   "definition": "南非共和国主要执政党，南非最大的黑人民族主义政党。1912年建立，1925年改现名。"
+  },
+  {
+   "cn": "国际风景园林师联合会世界大会",
+   "en": "International Federation of Landscape Architects World Congress",
+   "source": "风景园林名词",
+   "wordNumber": "01.0180",
+   "subjectFullName": "风景园林_总论_风景园林行业交流活动",
+   "subjectName": "风景园林行业交流活动",
+   "publishYear": "2025",
+   "definition": "由国际风景园林师联合会（IFLA）组织的全球性行业交流活动，旨在搭建国际性交流平台，促进风景园林学科和行业发展。"
+  },
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Me型变星",
+   "en": "Me variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁会议",
+   "en": "international arbitration congress",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "美国测量与制图委员会",
+   "en": "American congress on surveying and mapping\",\"ACSM",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克代表大会",
+   "en": "Olympic Congress",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人民代表大会制度",
+   "en": "the People's Congress system",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋地区标准大会",
+   "en": "Pacific Area Standards Congress (PASC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "议会",
+   "en": "congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0058",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义国家的代议机关。现代资本主义国家的议会是由中世纪欧洲封建国家的等级会议发展变化而来的。宪法中规定议会行使立法和监督政府的权力，政府由议会中占多数席位的政党或政党联盟组成，并对议会负责。一般由上"
+  },
+  {
+   "cn": "古田会议",
+   "en": "Gutian Congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0529",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1929年12月下旬在福建上杭县古田召开的中共红四军第九次代表大会。会议总结了红军和农村根据地以来的经验教训，强调了加强思想建设的重要性，初步解决了在党员以农民为主要成分的情况下如何加强党的思想建设着"
+  },
+  {
+   "cn": "全俄苏维埃代表大会",
+   "en": "allrussian Soviet congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0412",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "根据1918年苏俄宪法设立的俄罗斯社会主义联邦共和国的最高权力机关。由城市和州苏维埃（工农代表会议）代表组成，至少每一两年开一次会。闭会期间，由其选举产生的全俄苏维埃中央执行委员会行使立法、号令及监督"
+  },
+  {
+   "cn": "第一届全国人民代表大会",
+   "en": "First National Peoples Congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0537",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1954年9月15日至9月28日在北京召开。代表总人数1226人。中央人民政府主席毛泽东致开幕词。会议制定和颁布了中国历史上第一部人民的宪法《中华人民共和国宪法》，标志着人民代表大会制度作为新中国的根"
+  },
+  {
+   "cn": "七千人大会",
+   "en": "Seven thousand Party Congress",
+   "source": "马克思主义",
+   "wordNumber": "04.0540",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1962年１月11日—２月７日在北京举行。毛泽东主持了这次有中央、各中央局、各省市自治区党委以及地委、县委、重要厂矿企业和部队负责干部近七千多人参加的中共中央扩大的工作会议。大会初步总结了“大跃进”中"
+  },
+  {
+   "cn": "泛非工人大会",
+   "en": "pan African workers congress",
+   "source": "马克思主义",
+   "wordNumber": "05.0261",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "世界劳工联合会于1959年在非洲建立的地区性工会组织，旨在扩大世界劳联在非洲工人运动中的影响。为维护非洲工会运动的团结，在非洲工会统一组织成立后，于1974年自行宣布解散。"
+  },
+  {
+   "cn": "第二国际第六次代表大会",
+   "en": "Sixth Congress of the SecondInternational",
+   "source": "马克思主义",
+   "wordNumber": "04.0490",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1904年8月14日至20日在荷兰阿姆斯特丹举行的第二国际代表大会。24个国家的40个工人组织和社会主义组织的476名代表出席了这次代表大会。大会的一项主要议程是“社会党策略的国际原则”问题。大会在这"
+  },
+  {
+   "cn": "共产国际第五次代表大会",
+   "en": "Fifth Congress of the Communist International",
+   "source": "马克思主义",
+   "wordNumber": "04.0434",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1924年6月17日至7月8日在莫斯科举行。出席大会的有49个国家的60个组织（共产党46个，其他工人政党4个，国际共、青、妇等组织10个）的510名代表。大会讨论了关于世界工人面临的经济和政治形势问"
+  },
+  {
+   "cn": "共产主义者同盟第二次代表大会",
+   "en": "Second Congress of the Communist League",
+   "source": "马克思主义",
+   "wordNumber": "04.0465",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1847年11月29日～12月8日,共产主义者同盟第二次代表大会在英国伦敦德国工人教育协会会议厅举行。马克思和恩格斯分别代表巴黎和布鲁塞尔的同盟组织参加了大会。卡尔 ·沙佩尔当选为大会主席，恩格斯当选"
+  },
+  {
+   "cn": "第一国际费城代表会议",
+   "en": "Philadelphia Congress of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0474",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1876年7月15日，第一国际在美国费城召开最后一次代表会议，出席会议代表25人。巴黎公社失败后，欧洲各国政府对国际成员的迫害和国际内部巴枯宁主义者的分裂活动使迁到纽约的总委员会无法开展正常工作，“国"
+  },
+  {
+   "cn": "巴黎国际社会主义者代表大会",
+   "en": "International Socialist Workers Congress  in Paris",
+   "source": "马克思主义",
+   "wordNumber": "04.0485",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1889年7月14日(法国大革命攻占巴士底监狱一百周年纪念日)在巴黎举行的国际社会主义者代表大会。出席大会的有22个国家的393名代表，其中很多人是各国工人运动的活动家和领导人。恩格斯因为忙于《资本论"
+  },
+  {
+   "cn": "第二国际第四次代表大会",
+   "en": "Fourth Congress of the Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0488",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1896年7月27日—8月1日在英国伦敦召开。出席大会的有18个国家的 535名代表。这次代表大会的主要议程是关于工人阶级的政治斗争和经济斗争、战争问题以及土地问题、民族殖民地问题。大会通过的决议都重"
+  },
+  {
+   "cn": "第二国际第五次代表大会",
+   "en": "Fifth Congress of the Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0489",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1900年9月23—27日在法国巴黎召开的第二国际代表大会。出席会议的有21个国家的791名 代表。这次大会议程多达12项，但法国社会党人 米勒兰参加资产阶级政府(“米勒兰入阁事件”)成为会议讨论的中"
+  },
+  {
+   "cn": "第二国际第七次代表大会",
+   "en": "Seventh Congress of the Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0495",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1907年8月18—24日在德国斯图加特召开。出席大会的有二十五个国家的884名代表。列宁首次参加第二国际代表大会。大会的主要议题是军国主义和国际冲突、殖民地、党与工会的关系等问题。关于军国主义和国际"
+  },
+  {
+   "cn": "第二国际第八次代表大会",
+   "en": "Eighth Congress of the Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0496",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1910年8月28日-9月3日召开于丹麦首都哥本哈根。出席代表896人,分别来自于欧洲、北美和南美的23个国家。当时,正值国际上社会民主党发展的高潮时期。19世纪末,欧洲、北美各国约有30万党员,哥本"
+  },
+  {
+   "cn": "全俄苏维埃第六次非常代表大会",
+   "en": "Extraordinary Sixth AllRussia Congress of Soviets",
+   "source": "马克思主义",
+   "wordNumber": "04.0502",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1918年11月6-9日在莫斯科大剧院举行。出席大会的代表共1296人，有表决权的代表963人，其中共产党员946人，其他党派的成员16人，无党派人士1人。列入大会议程的问题有：关于十月革命胜利一周年"
+  },
+  {
+   "cn": "世界卫生经济大会",
+   "en": "international Health Economics Association (iHEA) Congress",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学组织",
+   "subjectName": "卫生经济学组织",
+   "publishYear": "2025",
+   "definition": "由国际卫生经济学会主办的每两年举办一届的全球学术会议。"
+  },
+  {
+   "cn": "第一国际第二次伦敦代表会议",
+   "en": "Second London Congress of the First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0472",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年9月17—23日，第一国际第二次代表会议即国际工人协会第二次伦敦代表会议在英国伦敦举行。出席会议的有总委员会和比利时、瑞士、西班 牙等国的代表共23人。马克思和恩格斯作为德国和意大利的通讯书"
+  },
+  {
+   "cn": "法国工人党第十次代表大会",
+   "en": "Tenth Congress of the French Workers Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0477",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1892年9月24日至28日在马赛举行了法国工人党第十次代表大会。大会研究了关于农村工作、党的状况和党的活动、庆祝五一节、参加1893年苏黎世国际社会主义者代表大会、参加即将举行的议会选举等问题。代表"
+  },
+  {
+   "cn": "全德工人联合会代表大会",
+   "en": "Congress of the General German Workers Union",
+   "source": "马克思主义",
+   "wordNumber": "04.0480",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1868年9月在纽伦堡举行的全德工人联合会代表大会。全德工人联合会的成立受到国际工人运动的极大关注。第一国际成立后，马克思曾建议全德工人联合会加入国际工人协会。拉萨尔的继承人伯恩哈特·贝克尔(1826"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

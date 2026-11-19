@@ -1,0 +1,732 @@
+{
+ "key": "werk und wirkung",
+ "term": "Werk und Wirkung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:16:55+00:00",
+ "status": "ok",
+ "note": "variant=Werk und Wirkung; 审定公布名词库=8655; 海峡两岸名词对照库=1320; 其他来源数据库=1222; 预公布名词数据库=1152; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "[发电机组]降低出力状态",
+   "en": "unit derated state,UND",
+   "source": "电力名词",
+   "wordNumber": "25.104",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "机组达不到毛最大容量运行或备用的状态。降低出力状态分为降低出力运行状态(RUND)和降低出力备用状态(IUND)。降低出力运行状态又分为计划降低出力运行状态(IPD)和非计划降低出力运行状态(IUD)"
+  },
+  {
+   "cn": "莱茵报",
+   "en": "Rheinische Zeitung fur Politik Handel und Gewerbe",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.119",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_媒体组织",
+   "subjectName": "媒体组织",
+   "publishYear": "2022",
+   "definition": "马克思参与创办的德国一家革命民主主义报纸。该报1842年元旦至1843年3月31日在普鲁斯王国科隆市出版。马克思1842年10月至1843年1月为该报主编，恩格斯为该报通讯员。"
+  },
+  {
+   "cn": "工位",
+   "en": "working position,work station",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.002",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "为了完成一定的工序，一次装夹工件后，工件(或装配单元)与夹具或设备的可动部分一起相对刀具或设备的固定部分所占据的每一个位置。"
+  },
+  {
+   "cn": "工作循环",
+   "en": "work cycle,working cycle",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.330",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床的运动",
+   "subjectName": "机床的运动",
+   "publishYear": "2021",
+   "definition": "由工作运动和辅助运动组成的、加工一个或一组工件的全过程。"
+  },
+  {
+   "cn": "工程船",
+   "en": "working ship,work ship",
+   "source": "船舶工程名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "按不同工程技术作业的要求，装备各种相应的专用设备从事水面、水下各种工程技术作业的船舶的统称。"
+  },
+  {
+   "cn": "无氧工作能力",
+   "en": "anaerobic working capacity,anaerobic work capacity",
+   "source": "生理学名词",
+   "wordNumber": "12.079",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有氧工作能力",
+   "en": "aerobic working capacity,aerobic work capacity",
+   "source": "生理学名词",
+   "wordNumber": "12.086",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "芯吸作用",
+   "en": "wicking",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0291",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "超细纤维近水端管口与水接触形成真空孔隙，外部大气压将水压入到纤维孔隙中的现象。超细纤维特有的性能。"
+  },
+  {
+   "cn": "作品",
+   "en": "work",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.001",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "文学、艺术或科学技术领域里具有独创性并能以一定形式表现的智力成果。"
+  },
+  {
+   "cn": "加加速度",
+   "en": "jerk",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0004",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "加速度的变化率。"
+  },
+  {
+   "cn": "工作",
+   "en": "work",
+   "source": "经济学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "人们为了获得成就感，或获取生活基本需要，而从事的能够获取收入的劳动。"
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "电力名词",
+   "wordNumber": "01.486",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "热力系统通过边界所传递的能量,且其全部效果表现为举起重物。力学上表述为力与沿力方向位移的乘积。"
+  },
+  {
+   "cn": "作品",
+   "en": "work",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.360",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "一种独特、抽象的知识或者艺术创作。主要由词语组合构成，其存在可以通过一种或多种表现形式体现。"
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "物理学名词",
+   "wordNumber": "02.0281",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.317",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "力在位移方向上的分量与位移的乘积。国际单位焦耳(J)。用来描述力在物体移动过程中的空间效果。"
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "化学名词",
+   "wordNumber": "04.0045",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "除热以外系统和环境之间交换的一切能量。"
+  },
+  {
+   "cn": "劳动",
+   "en": "work",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.105",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "有劳动能力和劳动经验的人在生产过程中有目的的支出劳动力的活动。"
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "土木工程名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "描述物体状态改变过程中能量变化的一种量度。"
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴赫作品编号",
+   "en": "Bach-Werke-Verzeichnis",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特里斯坦与伊索尔德",
+   "en": "Tristan und Isolde",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wagner, Richard"
+  },
+  {
+   "cn": "诗人与农夫",
+   "en": "Dichter und Bauder",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Suppé, Franz von "
+  },
+  {
+   "cn": "巴斯蒂安与巴斯蒂安娜",
+   "en": "Bastien und Bastienne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "阿尔方索与埃斯特雷",
+   "en": "Alfonso und Estrella",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "汉塞尔和格雷泰尔",
+   "en": "Hänsel und Gretel",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Humperdinck, Engelbert"
+  },
+  {
+   "cn": "夜与梦",
+   "en": "Nacht und Träume",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "死与净化",
+   "en": "Tod und Verklärung",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "半音阶幻想曲与赋格",
+   "en": "Chromatische Fantasie und Fuga",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "平静的海和幸福的航行",
+   "en": "Meeresstille und glückliche Fahrt",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mendelssohn (Bartholdy), Felix"
+  },
+  {
+   "cn": "妇女的爱情与生活",
+   "en": "Frauenliebe und-Leben (Women’s Love and Life)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schumann, Robert"
+  },
+  {
+   "cn": "变星光变史和文献",
+   "en": "Geschichte und Literatur des Lichtwechsels der ver鋘derlichen Sterne\",\"GuL",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "工程船",
+   "en": "working ship\",\"work ship",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "营运用基金",
+   "en": "working capital fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "功",
+   "en": "work",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "弱的",
+   "en": "weak",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "帆缆作业",
+   "en": "canvas and rope work",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "布线，接线",
+   "en": "wiring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变形功",
+   "en": "deformation work\",\"work of deformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "流动资金",
+   "en": "working capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "挺举",
+   "en": "clean and jerk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上挺",
+   "en": "jerk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "work",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全隐私工作组",
+   "en": "Security and Privacy Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工作台",
+   "en": "working deck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调教快步",
+   "en": "working trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调教跑步",
+   "en": "working canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弱关系",
+   "en": "weak ties",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱密码",
+   "en": "weak password",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱侧",
+   "en": "weak side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团队合作",
+   "en": "team-work",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "劳动与交往",
+   "en": "work and communication",
+   "source": "马克思主义",
+   "wordNumber": "05.0036",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "在哈贝马斯看来，马克思的失误在于没有将交往与劳动分开，导致了人的科学与自然科学混为一体，主张把交往从劳动中分离出来，引入交往行为概念，并置于核心地位，从而使历史唯物主义成为关于人的真正的科学。"
+  },
+  {
+   "cn": "思想政治工作",
+   "en": "thought and political work",
+   "source": "马克思主义",
+   "wordNumber": "03.0446",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的工作的重要组成部分，是宣传、教育、组织群众为实现党的纲领和任务而奋斗的手段。思想政治工作是一门综合性、应用性的科学。主要研究人的思想活动规律，提高人们认识世界和改造世界的能力。"
+  },
+  {
+   "cn": "艰苦奋斗",
+   "en": "plain living and hard work",
+   "source": "马克思主义",
+   "wordNumber": "03.0450",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "共产党的优良传统和作风之一，也是无产阶级和共产党员的政治本色和高贵品质的体现。"
+  },
+  {
+   "cn": "作息制度卫生",
+   "en": "work and rest system health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "在教学过程中，合理安排学生的一日生活制度、学周、学期和学年，以达到促进其健康成长目的的活动和措施。"
+  },
+  {
+   "cn": "核辐射工作剂量计",
+   "en": "working dosimeter",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.15",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "经标准剂量计校准过，用来标定辐射场剂量率与测定产品吸收剂量并进行常规剂量监测的剂量计。"
+  },
+  {
+   "cn": "工作帽",
+   "en": "working cap",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "防御头部脏污、擦伤、长发被绞碾等伤害的防护装备。"
+  },
+  {
+   "cn": "工人阶级",
+   "en": "working class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "领取薪金的体力劳动者，即蓝领工人。依马克思最初所作的定义，指不占有生产资料靠出卖劳动力而谋生的人，马克思主义理论家也称之为无产阶级。20世纪以来，这一定义发生了变化，白领工人（不占有生产资料而受雇于他"
+  },
+  {
+   "cn": "工作日",
+   "en": "working day",
+   "source": "马克思主义",
+   "wordNumber": "02.0120",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日是劳动者在一个自然生活日（24小时）内的劳动时间的长度。工作日是由必要劳动时间和剩余劳动时间构成的。工人生产他的劳动力的补偿价值和生产剩余价值的时间之和，构成他的工作日。"
+  },
+  {
+   "cn": "作业区",
+   "en": "working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品直接生产加工的车间或仓库等场所。"
+  },
+  {
+   "cn": "工作菌株",
+   "en": "working cultures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "有标准储备菌株转接后获得的同种菌株"
+  },
+  {
+   "cn": "工作班组",
+   "en": "work group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在劳动分工的基础上，按照不同工艺要求或不同产品和管理工作的需要而划分的，从事生产和经营管理活动的企业最基层组织。"
+  },
+  {
+   "cn": "社会工作",
+   "en": "social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "遵循以人为本、助人自助、平等公正的专业价值观，在社会服务及社会管理等领域，综合运用专业知识、技能和方法，帮助有需要的个人、家庭、群体和社区，整合社会资源，协调社会关系，预防和解决社会问题，促进社会稳定"
+  },
+  {
+   "cn": "个案工作",
+   "en": "case work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "以个人或家庭为对象（案主）的社会工作专业方法。"
+  },
+  {
+   "cn": "小组工作",
+   "en": "group work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作方法之一，是小组工作者按照一定的目标组织、通过小组过程和动力去影响小组组员的态度与行为，使其获得行为的改变、社会功能的恢复与发展、问题的解决的实务过程。"
+  },
+  {
+   "cn": "社区工作",
+   "en": "community work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "以社区和社区居民为基础和对象的社会工作方法及其过程。由专业社会工作者本着助人的价值观念和专业技艺，与其所服务的社区居民一起工作，推动与居民福利有关的社会行动的开展及社区方案的制定。通常认为其是社区组织"
+  },
+  {
+   "cn": "个案工作",
+   "en": "case work",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.4.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "社会工作者帮助个人和家庭改善其社会生活功能的社会工作方法及其过程。例如为失业个体提供就业咨询。"
+  },
+  {
+   "cn": "社会工作",
+   "en": "social work",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "遵循助人自助的专业价值观，综合运用专业知识、技能和方法，帮助有需要的个人、群体和社区，整合社会资源，协调社会关系，预防和解决社会问题，促进社会稳定和谐的专业和职业。"
+  },
+  {
+   "cn": "军事劳动",
+   "en": "military work",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.12",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "军队指战员按照军事作训的要求进行的各种脑力和体力活动。"
+  },
+  {
+   "cn": "社区工作",
+   "en": "community work",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.4.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "社会工作者以社区和社区居民为对象的社会工作方法及其过程。社会工作者与居民协同行动，制定福利方案、解决社区问题，是社区组织与社区发展的综合。"
+  },
+  {
+   "cn": "小组工作",
+   "en": "group work",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.4.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "社会工作者通过组织小组活动促进成员互动和经验分享，帮助改善社会功能并解决相关问题的社会工作方法及其过程，其服务对象为具有共同需求或问题的群体，常见类型包括教育小组、成长小组等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

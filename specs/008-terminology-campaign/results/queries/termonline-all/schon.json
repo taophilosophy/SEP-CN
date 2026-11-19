@@ -1,0 +1,62 @@
+{
+ "key": "schon",
+ "term": "Schön",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:05:14+00:00",
+ "status": "ok",
+ "note": "variant=Schön; 审定公布名词库=1; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "申夫利斯符号",
+   "en": "Schönflies symbol,Schoenflies symbol",
+   "source": "物理学名词",
+   "wordNumber": "08.0172",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": "一种旧的表示点群和空间群的符号。"
+  },
+  {
+   "cn": "美丽的梅格罗尼",
+   "en": "Magelone\",\"Die schöne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Brahms, Johannes"
+  },
+  {
+   "cn": "美丽的磨坊女",
+   "en": "Die schöne Müllerin",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "勋伯格",
+   "en": "Schönberg(Schoenberg)\",\"Arnold(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "勋泽勒",
+   "en": "Schönzeler\",\"Hans-Hubert(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

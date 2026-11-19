@@ -1,0 +1,92 @@
+{
+ "key": "wujud ilahi",
+ "term": "wujūd ilāhī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:20:08+00:00",
+ "status": "ok",
+ "note": "variant=wujūd ilāhī; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Toll/IL-1受体超家族",
+   "en": "Toll/IL-1 receptor superfamily",
+   "source": "免疫学名词",
+   "wordNumber": "2.426",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "主要由TLR家族(人TLR1～11)和IL-1R家族组成，其胞外区均含数个富含亮氨酸的重复序列，胞质区序列则与IL-1R胞内区类似(即TIR结构域)，主要表达于树突状细胞和巨噬细胞等，是重要的模式识别"
+  },
+  {
+   "cn": "Toll/IL-1受体同源结构域",
+   "en": "Toll/IL1R homology domain,TIR domain",
+   "source": "免疫学名词",
+   "wordNumber": "2.427",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "Toll/IL-1受体超家族成员胞质内区均含有的高度同源区，其C端有同嗜性结合能力。"
+  },
+  {
+   "cn": "人源化抗IL-2受体单克隆抗体",
+   "en": "Zenapax",
+   "source": "免疫学名词",
+   "wordNumber": "5.308",
+   "subjectFullName": "免疫学_应用免疫_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2007",
+   "definition": "借助重组DNA技术生产的(商品化)人源化单克隆抗体。由90%人抗体序列和10%鼠源性抗体序列组成，可特异性与人IL-2受体α亚单位(P55α，CD25)结合，从而选择性作用于活化的淋巴细胞，干扰其应答"
+  },
+  {
+   "cn": "Toll/IL-1受体超家族",
+   "en": "Toll/IL-1 receptor superfamily",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Toll/IL-1受体同源结构域",
+   "en": "Toll/IL-1R homology domain， TIR domain",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人源化抗IL-2受体单克隆抗体",
+   "en": "Zenapax",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "IL-1受体拮抗剂缺乏症",
+   "en": "deficiency of interleukin -one receptor antagonist，DIRA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "因IL-1受体拮抗剂缺乏所致的常染色体隐性遗传性疾病。临床表现为无菌性脓疱、红斑和鳞状皮损，无菌性多灶性骨髓炎，骨膜炎，可以出现多种自身抗体。"
+  },
+  {
+   "cn": "IL-36受体拮抗剂缺乏症",
+   "en": "deficiency of interleukin -thirty-six receptor antagonist，DITRA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.16",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "由白细胞介素36受体基因突变引起的常染色体隐性遗传性疾病。主要表现为泛发性脓疱性银屑病并伴有发热及其他全身炎症症状，如肝功损害、葡萄膜炎和肾功能损害等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
