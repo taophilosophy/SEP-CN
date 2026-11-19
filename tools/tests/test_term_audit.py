@@ -22,6 +22,7 @@ REG = '''# 测试登记册
 | zorpian dogma | 佐尔比教义 | test | 维基百科某条目 | 2026-10-28 |
 | nocred term | 无凭证译法 | test | 待复核 | 2026-10-28 |
 | empty term | 空库译法 | test | 待复核 | 2026-10-28 |
+| merged term / merged terms | 归并译法 | test | 待复核 | 2026-10-28 |
 '''
 
 
@@ -48,6 +49,11 @@ class TermAuditTests(unittest.TestCase):
         write_cred(self.queries, 'zorpian_dogma', 'ok',
                    [{'cn': '佐尔比教义', 'en': 'zorpian dogma'}])
         write_cred(self.queries, 'empty_term', 'empty', [])
+        # 归并行「merged term / merged terms」：凭证按变体键落库（emit/爬虫
+        # 历史形态），整行键 merged_term_merged_terms 不存在——2026-11-19 起
+        # 读侧按变体键兼容（假未查证修复，specs/008）
+        write_cred(self.queries, 'merged_term', 'ok',
+                   [{'cn': '归并译法', 'en': 'merged term'}])
         # nocred_term 故意无凭证
 
     def tearDown(self):

@@ -22,12 +22,11 @@ import re
 import sys
 from datetime import date
 
-_enc = getattr(sys.stdout, 'encoding', None)
-if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
-    try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    except (AttributeError, ValueError):
-        pass
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
@@ -84,15 +83,32 @@ def audit_rows(rows, label, queries_root):
         row_out = {'table': label, 'line': lineno, 'term': term,
                    'trans': trans, 'basis': basis, 'status': '未查证',
                    'hits': [], 'providers': []}
+        # 凭证键候选：整行键优先；归并行（「主形 / 他形」）再试各变体键。
+        # 背景（2026-11-19）：emit/爬虫按变体查询落库（凭证按变体键命名），
+        # 而新登记行采「一行一概念」归并形，整行键查不到历史变体凭证，
+        # 出现批量假未查证（如 aesthetic judgment / aesthetic judgments，
+        # aesthetic_judgment.json 已在库）。读侧兼容两者，凭证产物不动。
+        cred_keys = [key]
+        if '/' in term:
+            for v in (t.strip() for t in term.split('/')):
+                if not v:
+                    continue
+                vk = check_terms.norm_key(v)
+                if vk != key and vk not in cred_keys:
+                    cred_keys.append(vk)
         cred_stats = []
         for prov in providers:
-            safe = safe_key(key)
-            path = os.path.join(queries_root, prov, safe + '.json')
-            if not os.path.exists(path):
-                continue
-            try:
-                rec = json.load(open(path, encoding='utf-8'))
-            except (ValueError, OSError):
+            rec = None
+            for ck in cred_keys:
+                path = os.path.join(queries_root, prov, safe_key(ck) + '.json')
+                if not os.path.exists(path):
+                    continue
+                try:
+                    rec = json.load(open(path, encoding='utf-8'))
+                except (ValueError, OSError):
+                    continue
+                break
+            if rec is None:
                 continue
             row_out['providers'].append(prov)
             cred_stats.append(rec.get('status'))
