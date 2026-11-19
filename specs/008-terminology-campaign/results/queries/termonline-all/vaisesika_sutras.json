@@ -1,0 +1,582 @@
+{
+ "key": "vaisesika-sutras",
+ "term": "Vaiśeṣika-sūtras",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:38:55+00:00",
+ "status": "ok",
+ "note": "variant=Vaiśeṣika-sūtras; 审定公布名词库=116; 海峡两岸名词对照库=30; 其他来源数据库=17; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "支持带",
+   "en": "strap",
+   "source": "运动医学名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "运动医学_运动创伤_运动创伤总论",
+   "subjectName": "运动创伤总论",
+   "publishYear": "2019",
+   "definition": "用来保护关节稳定，避免受伤韧带和其他组织松弛，限制肌腱肌肉超常范围活动以免已伤组织再伤，并使已伤组织适当休息的装置。通常使用黏膏固定。"
+  },
+  {
+   "cn": "亚麻原茎",
+   "en": "flax straw",
+   "source": "农学名词",
+   "wordNumber": "04.063",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "为亚麻收获脱粒后晒干的未沤制或未脱胶茎秆。"
+  },
+  {
+   "cn": "石经幢",
+   "en": "sutra pillar",
+   "source": "风景园林名词",
+   "wordNumber": "04.0190",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "由石头制作的一种中国古代宗教建筑，包括基座、幢身、幢顶等构件，上刻佛教经文或佛像。"
+  },
+  {
+   "cn": "经幢",
+   "en": "sutra pillar",
+   "source": "风景园林名词",
+   "wordNumber": "11.0311",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "在石柱上镌刻经文或佛像，用以弘法和做功德的佛教建筑物。幢，原是佛前的丝帛制伞盖状物。唐代开始用石刻模仿丝帛的幢，一般分幢座、幢身、幢顶三部分。幢身多为八边柱，分成多段，以宝盖、仰莲相隔，所刻佛经主要是"
+  },
+  {
+   "cn": "秸秆覆盖",
+   "en": "straw mulching",
+   "source": "农学名词",
+   "wordNumber": "08.165",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "农作物的秸秆和残茬等有机物覆盖在土壤表面的栽培方式。"
+  },
+  {
+   "cn": "秸秆还田",
+   "en": "straw returning",
+   "source": "农学名词",
+   "wordNumber": "08.166",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "作物收获时将作物秸秆全量或者部分归还农田的措施。包括覆盖还田和粉碎还田等形式。"
+  },
+  {
+   "cn": "杂散光",
+   "en": "stray light",
+   "source": "天文学名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "像面接收到的由视场外漏入或来自视场内亮源的非成像光线，会造成对比度和信噪比的下降，由光学或结构部件表面的杂乱散射所致，对于红外系统也包括望远镜及仪器的热发射。"
+  },
+  {
+   "cn": "面罩固定带",
+   "en": "mask strap",
+   "source": "麻醉学名词",
+   "wordNumber": "03.225",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_气道管理设备",
+   "subjectName": "气道管理设备",
+   "publishYear": "2024",
+   "definition": "与面罩接口根部的挂钩连接，可将面罩固定于患者面部的固定带。"
+  },
+  {
+   "cn": "第一代恒星",
+   "en": "first stars",
+   "source": "天文学名词",
+   "wordNumber": "08.240",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "在宇宙黑暗时期结束后首先形成的恒星。"
+  },
+  {
+   "cn": "杂散电流",
+   "en": "stray current",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0434",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "由于某些原因，离开了指定的导体，在原本不应有电流的导体内流动的电流，使导体被腐蚀。"
+  },
+  {
+   "cn": "谷类干草",
+   "en": "cereal straw ",
+   "source": "草学名词",
+   "wordNumber": "6.0284",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "秸秆发酵",
+   "en": "straw fermentation ",
+   "source": "草学名词",
+   "wordNumber": "6.0324",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "秸秆微贮",
+   "en": "straw microfermentation ",
+   "source": "草学名词",
+   "wordNumber": "6.0325",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "秸秆氨化",
+   "en": "straw ammoniation ",
+   "source": "草学名词",
+   "wordNumber": "6.0326",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "秸秆饲料",
+   "en": "straw feed ",
+   "source": "草学名词",
+   "wordNumber": "6.0327",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "杂散电流",
+   "en": "stray-current",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0524",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "在非指定回路上流动的电流。"
+  },
+  {
+   "cn": "细管精液",
+   "en": "straw semen",
+   "source": "畜牧学名词",
+   "wordNumber": "05.367",
+   "subjectFullName": "畜牧学_繁殖_人工授精",
+   "subjectName": "人工授精",
+   "publishYear": "2020",
+   "definition": "将平衡后的精液用塑料细管分装并进行冷冻保存的精液。"
+  },
+  {
+   "cn": "稻草",
+   "en": "rice straw",
+   "source": "畜牧学名词",
+   "wordNumber": "07.120",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "成熟水稻植株脱去稻谷籽实后的茎秆部分。以木质素为主。"
+  },
+  {
+   "cn": "谷草",
+   "en": "millet straw",
+   "source": "畜牧学名词",
+   "wordNumber": "07.121",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "谷子(粟)脱粒后的茎秆。可作压块饲料，质地松脆，适口性好，是北方大家畜的主要饲草。"
+  },
+  {
+   "cn": "经折装",
+   "en": "sutra binding",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.239",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "古书装帧形式，由卷轴装演化发展而成。将长幅字纸反复折叠，成为折叶形式，首尾粘以厚硬纸页护持。佛家经典多用此式，故名。"
+  },
+  {
+   "cn": "天电",
+   "en": "strays\",\"atmospherics",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草纸浆",
+   "en": "straw pulp",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杂散光",
+   "en": "stray light",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定径带",
+   "en": "calibrating strap",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "草浆",
+   "en": "straw pulp",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "星宿",
+   "en": "Seven Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杂散光",
+   "en": "stray light",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杂散辐射",
+   "en": "stray radiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赤道星",
+   "en": "equatorial stars",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "星体演化",
+   "en": "evolution of stars",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "杂散电流腐蚀",
+   "en": "stray-current corrosion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "参宿",
+   "en": "Triads\",\"Investigator\",\"Three-stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "施特劳斯，奥斯卡",
+   "en": "Straus\",\"Oscar(奥地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "暗星[星]表",
+   "en": "Catalogue of Faint Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拱极星大距",
+   "en": "elongation of circumpolar stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近星星表",
+   "en": "Catalogue of Nearby Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星经",
+   "en": "Classic of the Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中国大地测量星表",
+   "en": "Chinese Geodetic Stars Catalogue\",\"CGSC",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低金属丰度星团",
+   "en": "low-metallicity cluster [of stars]",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "格鲁姆布里奇拱极星表",
+   "en": "Groombridge's Catalogue of Circumpolar Stars",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "系带",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环带套",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胯下固定带",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网带",
+   "en": "band\",\"strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下体弹力护身",
+   "en": "jock-strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽带",
+   "en": "chin strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽带",
+   "en": "chin strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "趾夹带",
+   "en": "toe strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尼龙绳",
+   "en": "nylon strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颊革",
+   "en": "cheek strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔铁系带",
+   "en": "lip strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肚带系带",
+   "en": "girth strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱靶",
+   "en": "missed shot\",\"stray shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马镫革",
+   "en": "stirrup leather\",\"stirrup strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马镫革",
+   "en": "stirrup leather\",\"stirrup strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱靶",
+   "en": "missed shot\",\"shot outside of scoring ring\",\"stray shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杂散辐射",
+   "en": "stray radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.14",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "泄漏辐射、散射辐射以及剩余辐射的总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

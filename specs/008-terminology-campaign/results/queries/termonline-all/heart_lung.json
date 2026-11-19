@@ -1,0 +1,702 @@
+{
+ "key": "heart lung",
+ "term": "heart lung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:28:05+00:00",
+ "status": "ok",
+ "note": "variant=heart lung; 审定公布名词库=4208; 海峡两岸名词对照库=712; 其他来源数据库=99; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "心肺制备",
+   "en": "heart-lung preparation",
+   "source": "生理学名词",
+   "wordNumber": "05.311",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心肺机",
+   "en": "heart-lung machine",
+   "source": "医学名词 第六分册",
+   "wordNumber": "03.486",
+   "subjectFullName": "医学_胸心血管外科学",
+   "subjectName": "胸心血管外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "滋补心肺",
+   "en": "nourishing heart and lung",
+   "source": "中医药学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有滋阴养心补肺作用的方药，治疗心肺阴虚证的治法。"
+  },
+  {
+   "cn": "补益心肺",
+   "en": "invigorating heart and lung",
+   "source": "中医药学名词",
+   "wordNumber": "05.191",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有养心补肺作用的方药，治疗心肺气虚证的治法。"
+  },
+  {
+   "cn": "心肺联合移植",
+   "en": "combined heart and lung transplantation",
+   "source": "器官移植学名词",
+   "wordNumber": "16.011",
+   "subjectFullName": "器官移植学_器官联合移植",
+   "subjectName": "器官联合移植",
+   "publishYear": "2020",
+   "definition": "对严重心功能受损合并肺衰竭患者所实施的将供者心脏与肺脏同时移植入体内的手术。"
+  },
+  {
+   "cn": "温补心肺",
+   "en": "warmly invigorating heart and lung",
+   "source": "中医药学名词",
+   "wordNumber": "05.185",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有温阳补心养肺作用的方药，治疗心肺阳虚证的治法。"
+  },
+  {
+   "cn": "吉本-梅奥人工心肺机",
+   "en": "Gibbon-Mayo heart-lung machine",
+   "source": "医学名词 第六分册",
+   "wordNumber": "03.449",
+   "subjectFullName": "医学_胸心血管外科学",
+   "subjectName": "胸心血管外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "心脏",
+   "en": "heart",
+   "source": "麻醉学名词",
+   "wordNumber": "01.138",
+   "subjectFullName": "麻醉学_麻醉学基础_循环系统_心血管系统解剖",
+   "subjectName": "心血管系统解剖",
+   "publishYear": "2024",
+   "definition": "中空的纤维肌性器官。既是循环系统的动力装置，又具有重要的内分泌功能。位于胸腔内，膈的上方，两肺之间，约2/3在中线左侧。借房间隔和室间隔分为互不相通的左、右两半，每半又分为心房和心室，因此共有左心房、"
+  },
+  {
+   "cn": "心脏",
+   "en": "heart",
+   "source": "兽医学名词",
+   "wordNumber": "19.056",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，有心包护于外，其主要生理功能为主血脉和藏神，并与舌、汗液密切相关。"
+  },
+  {
+   "cn": "心脏",
+   "en": "heart",
+   "source": "动物学名词",
+   "wordNumber": "6.1014",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2021",
+   "definition": "脊椎动物位于体腔前部、消化管腹侧围心腔中，由特殊结构与功能的肌肉、纤维组织构成的中空肌性器官。能够有节律地进行收缩和舒张，推动血液在血管中环流不息。鱼类、两栖类的心室内没有分隔；爬行类的心室分为两部分"
+  },
+  {
+   "cn": "心[脏]",
+   "en": "heart",
+   "source": "核医学名词",
+   "wordNumber": "04.0358",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_心血管解剖生理基础",
+   "subjectName": "心血管解剖生理基础",
+   "publishYear": "2018",
+   "definition": "由特殊结构与功能的肌肉、纤维组织构成的中空器官。外形呈指向左下前方向的桃型，连接动、静脉的中枢环节，并为大、小循环提供动力。心脏还有内分泌功能；由纤维支架、心壁、心间隔、瓣膜与血管等构成。外表有心尖、"
+  },
+  {
+   "cn": "心",
+   "en": "heart",
+   "source": "人体解剖学名词",
+   "wordNumber": "05.0034",
+   "subjectFullName": "人体解剖学_脉管学_心",
+   "subjectName": "心",
+   "publishYear": "2014",
+   "definition": "中空的纤维肌性器官，既是心血管系统的动力装置，又具有重要的内分泌功能。心脏位于胸腔内，膈肌的上方，二肺之间，约2/3在中线左侧。心脏借房间隔和室间隔分为互不相通的左、右两半，每半又分为心房和心室，故心"
+  },
+  {
+   "cn": "心",
+   "en": "heart",
+   "source": "中医药学名词",
+   "wordNumber": "03.094",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏之一，位居胸腔之内，膈之上，有心包卫护于外，其主要生理功能是主血脉、主神志，并与舌和汗液密切相关。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "麻醉学名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。上端称肺尖，下端称肺底，内侧称纵隔面，外侧称肋面。右肺三叶，左肺二叶，外被胸膜，以叶间裂相隔，每叶肺又依支气管和血管的分支再分为肺段。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "兽医学名词",
+   "wordNumber": "19.061",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，上连气道，其主要生理功能是主气、司呼吸、主宣发肃降、通调水道，并与鼻窍、皮毛密切相关。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "动物学名词",
+   "wordNumber": "6.0993",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "陆生脊椎动物特有的呼吸器官。位于胸腔内，分为左肺和右肺。低等种类只呈囊状构造，内部只有具有血管的皱襞；但在高等种类为海绵状结构。鸟类的肺主要是由大量的三级支气管组成。哺乳动物的肺是由许多微细支气管和肺"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "呼吸病学_解剖和组织学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "进行气体交换，实现体内摄取氧和排出二氧化碳，并具有一定代谢和免疫功能的器官。位于胸腔内，横膈上，以纵隔为界，分左肺和右肺。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "核医学名词",
+   "wordNumber": "04.1334",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "接受右心室输出的静脉血，进行气体交换，回输氧合动脉血到左心房的器官。以纵隔为界分为左、右两肺。由肺泡、肺内支气管、及与之伴行的血管、神经、淋巴组织构成；外表面覆以脏层胸膜。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0585",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。生活状态下的正常肺，色浅红，质柔软，呈海绵状，富有弹性。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏之一，位于胸腔之内，膈之上，左右各一。其主要生理功能是主气、司呼吸、主宣发肃降、通调水道、朝百脉而主治节，并与鼻窍、皮肤密切相关。"
+  },
+  {
+   "cn": "心[脏]",
+   "en": "heart",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心宿",
+   "en": "Heart",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "心[脏]",
+   "en": "heart",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "心囊",
+   "en": "heart vesicle\",\"heart sac",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "两腔心",
+   "en": "bilocular heart",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三腔心",
+   "en": "trilocular heart",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心袢",
+   "en": "heart loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心索",
+   "en": "heart cord",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工心脏",
+   "en": "artificial heart",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "中心切割",
+   "en": "heart-cutting",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "淋巴心",
+   "en": "lymph heart",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "心形胚",
+   "en": "heart-shape embryo\",\"heart embryo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肺芽",
+   "en": "lung bud",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "左肺",
+   "en": "left lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "书肺",
+   "en": "book-lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肺根",
+   "en": "root of lung\",\"pedicle of lung\",\"radix of lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工心脏瓣膜",
+   "en": "prosthetic heart valve\",\"artificial heart valve",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步",
+   "en": "lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会心",
+   "en": "Heart-to-heart Communication",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "童心",
+   "en": "Childlike Heart",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "肺脓肿",
+   "en": "lung abscess",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧弓箭步",
+   "en": "side lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓箭步",
+   "en": "forward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺姿",
+   "en": "lunge position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心脏移植",
+   "en": "heart transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.015",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "为终末期心脏病患者植入健康心脏的技术。"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "放射性心脏损伤",
+   "en": "radiation heart injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "全身或胸部受到一次或短时间内多次外照射剂量达10Gy，或较长时间分次照射累积剂量达到45Gy所致心脏的一系列代谢和病理变化。包括放射性心包损伤、放射性心肌损伤、放射性冠状动脉损伤和放射性心内膜损伤。"
+  },
+  {
+   "cn": "风湿性心脏病",
+   "en": "rheumatic heart disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "风湿热累及心脏瓣膜的心脏病，造成瓣膜慢性损伤，血液动力学改变可致心脏结构改变及功能失常等。二尖瓣最常受累。临床表现为瓣膜狭窄和关闭不全，初期可无明显症状，后期表现为心功能不全及心律失常等症状。"
+  },
+  {
+   "cn": "最大心率",
+   "en": "maximal heart rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在进行运动负荷时，随着运动量的增加，耗氧量和心率也增加，在最大负荷强度时，耗氧量和心率不能继续增加时心率达到的最高水平。"
+  },
+  {
+   "cn": "储备心率",
+   "en": "reserve heart rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "人体在激烈运动时，每分钟脉搏跳动的次数减去安静时每分钟脉搏跳动的次数值。"
+  },
+  {
+   "cn": "心率变异性",
+   "en": "heart rate variability, HRV",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "心率在正常情况下存在一定程度变异的特性。若将注意力集中到某项感觉运动式工作上，作业者的变异性下降，且随负荷（所处理的信息）增加，变异性趋于消失。该指标可反映交感神经和迷走神经对心脏活动的调控和平衡。"
+  },
+  {
+   "cn": "高原心脏病",
+   "en": "high altitude heart disease",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原病",
+   "subjectName": "高原病",
+   "publishYear": "2025",
+   "definition": "长期居住高原，因机体缺氧引起的以肺动脉高压、右心室肥大和功能异常为主要特征的一种慢性高原病。"
+  },
+  {
+   "cn": "先天性心脏病筛查",
+   "en": "congenital heart disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.2.1.3.1.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "通过心脏杂音听诊和经皮血氧饱和度测定等检查，筛查新生儿是否有患先天性心脏病，以早期诊断、早期治疗干预的方法。"
+  },
+  {
+   "cn": "放射致肺癌",
+   "en": "radiation induced lung cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。常有区域性淋巴转移和血行播散，临床表现咳嗽、咯血，后期出现胸痛、胸闷、呼吸困难及远处转移征象。其病程进展速度与细胞生物学特征有关。"
+  },
+  {
+   "cn": "萎缩肺综合征",
+   "en": "shrinking lung syndrome，SLS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.25",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为呼吸困难、胸膜炎性胸痛等，肺功能提示肺容积进行性降低，胸部CT无明显肺间质或胸膜病变的综合征。发病机制尚不明确，可能与膈肌病变、膈神经病变、胸廓扩张异常等有关。可发生于1～6%的SLE患者中。"
+  },
+  {
+   "cn": "妊娠合并心脏病",
+   "en": "pregnancy complicated with heart disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.6.9",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕妇在妊娠前和妊娠期罹患心脏病的妊娠合并症。包括先天性心脏病、风湿性心脏病、功能异常性心脏病、妊娠期高血压性心脏病、围产期心肌病等。"
+  },
+  {
+   "cn": "外照射致肺癌",
+   "en": "lung cancer from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "来自体外的电离辐射照射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。"
+  },
+  {
+   "cn": "铀矿工肺癌",
+   "en": "lung cancer of uranium miner",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "在铀矿勘探开采中，井下作业人员主要受到氡及其子体的照射后出现的，与该照射具有一定程度病因学联系的原发性肺癌。"
+  },
+  {
+   "cn": "洗肺液放射性活度测量",
+   "en": "measurement of activity in lung lavage",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.33",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "测量吸入放射性核素活度的一种方法，对吸入过量放射性核素的工作人员采用洗肺治疗时，收集洗肺液并测量其放射性活度，估计核素摄入量和评价洗肺疗效。"
+  },
+  {
+   "cn": "《普贤上师言教》",
+   "en": "Kun bzang bla mavi zhal lung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0355",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教名著。又名《大圆满隆钦心髓前行引导文》，巴楚仁波切（1808 年—1889 年）著，本书为宁玛派核心教法《大圆满隆钦心髓》前行的释论，几乎包含了所有大圆满法最根本的修行秘诀，内容不仅仅限于佛法"
+  },
+  {
+   "cn": "体外肺部放射性活度测量",
+   "en": "measurement of activity in lung in vitro",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.34",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "体外测量人肺部放射性核素活度的一种方法，利用能探测X、γ射线的装置，在体外测量肺部沉积的放射性核素释放出的X、γ射线，借助仪器的探测效率和生物学相关参数估计肺内沉积量。"
+  },
+  {
+   "cn": "矿工高氡暴露所致肺癌",
+   "en": "high radon exposure induced lung cancer of miner",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "在金属矿等非铀矿山勘探开采中，井下工作场所氡浓度超过国家标准规定的工作场所氡浓度行动水平，作业人员受到氡及其子体的照射后出现的，与该照射具有一定程度病因学联系的原发性肺癌。"
+  },
+  {
+   "cn": "结缔组织疾病相关性间质性肺病",
+   "en": "interstitial lung diseases associated with connective tissue diseases，CTD-ILD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.14",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "可见于多种结缔组织病的间质性肺病。如系统性硬化、干燥综合征、多发性肌炎/皮肌炎、类风湿关节炎等。不同的结缔组织病的间质性肺病可在临床表现、影像学和病理特征上表现不同，呈现各自不同的发展与转归。"
+  },
+  {
+   "cn": "桐油",
+   "en": "tung oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.19",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为桐树果实榨出的油，外观、味道与一般食用植物油相似。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

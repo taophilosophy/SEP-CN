@@ -1,0 +1,72 @@
+{
+ "key": "isotes",
+ "term": "isotēs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:27:15+00:00",
+ "status": "ok",
+ "note": "variant=isotēs; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "板蓝根",
+   "en": "isatis root",
+   "source": "中医药学名词",
+   "wordNumber": "06.400",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "十字花科植物菘蓝 Isatis indigotica Fort. 的干燥根。"
+  },
+  {
+   "cn": "同位素[组成]改变的化合物",
+   "en": "isoto pically modified compound",
+   "source": "化学名词",
+   "wordNumber": "06.0781",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "组成元素中至少有一种元素的宏观同位素组成与该元素的天然同位素组成有可以测量的差别的一类化合物。"
+  },
+  {
+   "cn": "板蓝根",
+   "en": "Radix Isatidis (拉)，isatis root",
+   "source": "兽医学名词",
+   "wordNumber": "19.338",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "十字花科植物菘蓝 Isatis indigotica Fort. 的干燥根。切片生用。"
+  },
+  {
+   "cn": "γ-晶型等规聚丙烯",
+   "en": "γ-crystalline isotac-tic polypropylene",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0273",
+   "subjectFullName": "化工（七）_合成树脂_聚丙烯和聚丁烯树脂",
+   "subjectName": "聚丙烯和聚丁烯树脂",
+   "publishYear": "2022",
+   "definition": "晶体结构构型呈γ-晶型的等规聚丙烯。稳定性极差，仅在高压条件下才能得到。"
+  },
+  {
+   "cn": "等解冻线",
+   "en": "isotac",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际日地服务",
+   "en": "International Solar and Terrestrial Service\",\"ISTS",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

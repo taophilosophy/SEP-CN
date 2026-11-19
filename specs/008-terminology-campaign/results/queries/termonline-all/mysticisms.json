@@ -1,0 +1,42 @@
+{
+ "key": "mysticisms",
+ "term": "mysticisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:36:35+00:00",
+ "status": "ok",
+ "note": "variant=mysticisms; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "方术",
+   "en": "fang shu;mystic techniques or mantic methods",
+   "source": "中国古代史名词",
+   "wordNumber": "1.456",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "古代各种技术性知识的统称。汉代形成的知识分类体系中，把医、药、房中、神仙等术归入“方技”，以天文历算及各种占卜术归入“数术”，后世合此为称，总指医、农、天、算等学及阴阳占卜、堪舆相法等各种技术性知识。"
+  },
+  {
+   "cn": "神秘的号手",
+   "en": "Mystic Trumpeter\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Horst, Louis"
+  },
+  {
+   "cn": "神秘主义",
+   "en": "mysticism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.14",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信或追求灵魂与至高的存在或神灵合一的观念，其实践包括各种神秘的知识、教义和仪式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

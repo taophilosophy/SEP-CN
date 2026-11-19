@@ -1,0 +1,52 @@
+{
+ "key": "rusd averroes",
+ "term": "Rušd Averroes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:33:03+00:00",
+ "status": "ok",
+ "note": "variant=Rušd Averroes; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "鲁德综合征",
+   "en": "Rud syndrome",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0951",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "指数加权移动平均模型",
+   "en": "exponentially weighted moving averages model,EWMA model",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0419",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "对时间序列中的数据采取不同权重，根据历史数据距当前时刻的远近，分别赋予不同的权重，距现在越近，赋予的权重越大的模型。"
+  },
+  {
+   "cn": "兰加德",
+   "en": "Langgaard\",\"Rued Immanuel(丹麦)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合理用药",
+   "en": "rational use of drugs,RUD",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "以药物最新的系统知识和理论为基础，安全、有效、经济、适宜地使用药物的临床实践过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

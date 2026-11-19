@@ -1,0 +1,112 @@
+{
+ "key": "ursprung",
+ "term": "Ursprung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:31:23+00:00",
+ "status": "ok",
+ "note": "variant=Ursprung; 审定公布名词库=10; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "簧下质量",
+   "en": "unsprung mass",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.116",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "不为悬架弹性元件所负荷的那部分质量，是汽车质量与簧上质量之差。"
+  },
+  {
+   "cn": "药壶爆破",
+   "en": "sprung blasting",
+   "source": "冶金学名词",
+   "wordNumber": "02.0440",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "利用集中药包爆破的一种特殊形式。将已钻凿好的深孔或浅眼，在其底部先用少量装药多次爆破，将炮孔底部扩大成葫芦形药室，再利用这种药室装入更多的炸药形成一个集中药包，然后与深孔或浅眼部位的柱状装药同时起爆，"
+  },
+  {
+   "cn": "簧上质量",
+   "en": "sprung mass",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.115",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "悬架弹性元件以上(簧上)所负荷的质量，再计入传动轴、悬架系、制动系、转向系中起簧上质量作用的那部分质量。"
+  },
+  {
+   "cn": "簧下重量",
+   "en": "non-suspended weight,unsprung  weight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0866",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "簧上重量",
+   "en": "suspended weight,sprung weight",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0865",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "巨结肠根治术",
+   "en": "definitive operation for Hirsch- sprung disease",
+   "source": "医学名词 第六分册",
+   "wordNumber": "06.159",
+   "subjectFullName": "医学_小儿外科学",
+   "subjectName": "小儿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "簧上质量横摆转动惯量",
+   "en": "yawing moment of inertia of sprung mass",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.120",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "簧上质量绕z轴(汽车坐标系)旋转的转动惯量。"
+  },
+  {
+   "cn": "簧上质量侧倾转动惯量",
+   "en": "rolling moment of inertia of sprung mass",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.118",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "簧上质量绕x轴、ξ轴(汽车坐标系、簧上惯性主轴坐标系)或侧倾轴旋转的转动惯量。"
+  },
+  {
+   "cn": "簧上质量纵倾转动惯量",
+   "en": "pitching moment of inertia of sprung mass",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.119",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "簧上质量绕y轴、η轴(汽车坐标系、簧上惯性主轴坐标系)或纵倾轴旋转的转动惯量。"
+  },
+  {
+   "cn": "簧上质量对x轴和z轴的惯性积",
+   "en": "product of inertia of sprung mass about x and z axes",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "03.121",
+   "subjectFullName": "机械工程_汽车_汽车行驶性能_操纵稳定性",
+   "subjectName": "操纵稳定性",
+   "publishYear": "2013",
+   "definition": "簧上质量绕x轴和z轴(汽车坐标系)的惯性积。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

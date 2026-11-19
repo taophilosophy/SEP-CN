@@ -1,0 +1,642 @@
+{
+ "key": "etienne bonnot abbe",
+ "term": "Étienne Bonnot Abbé",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:39:05+00:00",
+ "status": "ok",
+ "note": "variant=Étienne Bonnot Abbé; 审定公布名词库=47; 海峡两岸名词对照库=20; 其他来源数据库=24; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "僵尸网络",
+   "en": "botnet",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0331",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "采用多种传播机制使僵尸程序感染并控制互联网上的大量主机，并通过一对多的命令与控制信道控制大量主机，实现信息窃取、拒绝服务攻击和垃圾邮件发送等恶意网络攻击行为。"
+  },
+  {
+   "cn": "僵尸网络",
+   "en": "botnet",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.036",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "通过各种手段在大量计算机中植入特定的恶意程序，使控制者能够通过相对集中的若干计算机直接向大量计算机发送指令的攻击网络。攻击者通常利用这样大规模的僵尸网络实施各种其他攻击活动。"
+  },
+  {
+   "cn": "阿贝比长仪",
+   "en": "Abbe comparator",
+   "source": "天文学名词",
+   "wordNumber": "06.292",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "根据阿贝提出的原理，通过与一精密标尺相比较，以测定光谱底片上谱线间距离的仪器。"
+  },
+  {
+   "cn": "阿贝折射仪",
+   "en": "Abbe refractometer",
+   "source": "光学名词",
+   "wordNumber": "19.076",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "利用全反射现象测量介质折射率和平均色散的仪器。"
+  },
+  {
+   "cn": "阿贝比长仪",
+   "en": "Abbe comparator",
+   "source": "光学名词",
+   "wordNumber": "19.086",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "基准标尺与被检标尺的布局符合阿贝原理，用两只光学显微镜分别作瞄准和读数的目视式线纹比较仪器。"
+  },
+  {
+   "cn": "阿贝数",
+   "en": "Abbe number",
+   "source": "物理学名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝不变量",
+   "en": "Abbe invariant",
+   "source": "物理学名词",
+   "wordNumber": "04.0353",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝折射计",
+   "en": "Abbe refractometer",
+   "source": "物理学名词",
+   "wordNumber": "04.0160",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝原则",
+   "en": "Abbe principle",
+   "source": "计量学名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "计量学_几何量_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "长度测量时，被测长度应与标准长度轴线相重合，或者在其延长线上，以减小测量误差。"
+  },
+  {
+   "cn": "阿贝折射计",
+   "en": "Abbe refractometer",
+   "source": "药学名词",
+   "wordNumber": "06.093",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "用德国物理学家阿贝(E. Ernst Abbe) 的名字命名的一种可测定光线在液体中的折光率的光学仪器。"
+  },
+  {
+   "cn": "阿贝比长仪",
+   "en": "Abbe comparator",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.266",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_光学计量仪器",
+   "subjectName": "光学计量仪器",
+   "publishYear": "2003",
+   "definition": "利用阿贝原理来比较长度的光学仪器。"
+  },
+  {
+   "cn": "阿贝折射仪",
+   "en": "Abbe refractometer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.321",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_光学测试仪器",
+   "subjectName": "光学测试仪器",
+   "publishYear": "2003",
+   "definition": "利用全反射原理测量介质折射率和平均色散的仪器。"
+  },
+  {
+   "cn": "阿贝折射计",
+   "en": "Abbe refractometer",
+   "source": "地质学名词",
+   "wordNumber": "04.255",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "波恩星表",
+   "en": "Bonner Durchmusterung",
+   "source": "天文学名词",
+   "wordNumber": "04.059",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "1859～1862年间普鲁士天文学家弗里德里奇·阿基兰德在波恩编撰的包括32 418颗星的总星表。"
+  },
+  {
+   "cn": "莫内计划",
+   "en": "Monnet Plan",
+   "source": "世界历史名词",
+   "wordNumber": "03.0561",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "第二次世界大战后莫内提出的法国重建计划，建议法国控制德国鲁尔和萨尔地区的煤钢资源，以此将法国的生产提高到战前水平的150%。"
+  },
+  {
+   "cn": "卧式阿贝比较仪",
+   "en": "horizontal Abbe comparator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "10.104",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_量具与量仪_量仪",
+   "subjectName": "量仪",
+   "publishYear": "2021",
+   "definition": "由读数显微镜和瞄准显微镜，按阿贝原则组成的光学机械量仪。"
+  },
+  {
+   "cn": "阿贝衍射极限",
+   "en": "Abbe diffraction limit",
+   "source": "光学名词",
+   "wordNumber": "01.583",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "表征光学成像系统中因阿贝成像过程及入射波长、物镜的衍射效应的影响而限制或限定透镜分辨率极限的一个参量。它与光学系统中成像光波的波长及成像物镜的数值孔径有关。"
+  },
+  {
+   "cn": "阿贝正弦条件",
+   "en": "Abbe sine condition",
+   "source": "光学名词",
+   "wordNumber": "14.145",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "光学系统中轴上物点已消除球差的前提下，近轴物点以大口径光束完善成像的条件。它由德国物理学家阿贝在研究改善显微镜成像品质时提出并得名。"
+  },
+  {
+   "cn": "阿贝–波特实验",
+   "en": "Abbe-Porter experiment",
+   "source": "光学名词",
+   "wordNumber": "14.146",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "为验证阿贝成像理论，采用二维正交光栅为物，由相干单色平面波照明，在显微镜焦平面上放置不同的光阑滤波器，以各种方式改变第一次衍射像的结构的实验。在像平面上可观察到各种与物不同的像，如一维光栅、衬度反转的"
+  },
+  {
+   "cn": "阿贝比长原理",
+   "en": "Abbe comparator principle",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0143",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在进行长度测量时，为减小测量误差，观测点应位于计量标准分划尺的延长线上的原理。"
+  },
+  {
+   "cn": "梅于尔",
+   "en": "Méhul\",\"Étienne-Nicolas(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辐射帽",
+   "en": "radiation bonnet",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "邦戈双鼓",
+   "en": "bongos",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "帕德卢",
+   "en": "Pasdeloup\",\"Jules Etienne(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "ABBA平衡法",
+   "en": "ABBA counterbalancing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝比长仪",
+   "en": "Abbe comparator",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝聚光镜",
+   "en": "Abbe condenser",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝折射计",
+   "en": "Abbe refractometer",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "阿贝比长原理",
+   "en": "Abbe comparator principle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "桅套",
+   "en": "boot",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "美好的歌曲",
+   "en": "Bonne Chanson\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Fauré, Gabriel"
+  },
+  {
+   "cn": "引导程序",
+   "en": "bootstrap\",\"boot",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波恩星表",
+   "en": "Bonner Durchmusterung(德)\",\"BD",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "彭纳投影",
+   "en": "Bonnes projection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "旗叶",
+   "en": "boot leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波恩公约",
+   "en": "Bonn Convention",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引导口令",
+   "en": "boot password",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "莫伊谢维奇",
+   "en": "Moiseiwitsch\",\"Benno(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "李-布特效应",
+   "en": "Lee Boot effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "水线漆",
+   "en": "boot-topping paint",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "僵尸网络",
+   "en": "botnet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拳击鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举重鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篮球鞋",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马护腿",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激流用艇",
+   "en": "boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足球鞋",
+   "en": "boot\",\"shoes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动鞋",
+   "en": "boot\",\"shoes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马靴",
+   "en": "riding boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马靴",
+   "en": "riding boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短马靴",
+   "en": "jodhpur boot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意不称物，文不逮意",
+   "en": "Ideas Cannot Match Actual Things and Words Cannot Fully Express Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "良医不能救无命",
+   "en": "Even a Good Doctor Cannot Save a Doomed Patient.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善败者不亡",
+   "en": "Those Adept at Coping with Defeat Cannot Be Destroyed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "法国工人党圣亚田代表大会",
+   "en": "St Etienne Congress of the French Workers Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0484",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1882年9月25日在圣亚田召开的法国工人党例行代表大会上，党的右翼的拥护者（可能派）在代表资格证上耍尽种种诡计从而取得了多数，大会发生了分裂。马克思派小组（盖得派）退出大会，并于9月26日聚会于罗昂"
+  },
+  {
+   "cn": "防水靴套",
+   "en": "waterproof boot cover",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "包裹足部，具有防水、防护和耐磨性能的防护装备。"
+  },
+  {
+   "cn": "中国不能实行西方的多党制",
+   "en": "China cannot implement the system of western multiparty",
+   "source": "马克思主义",
+   "wordNumber": "04.0177",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党领导的多党合作的政党体制是国家的一项基本政治制度。中国之所以不能实行西方的多党制，是由中国社会主义的国家制度、政党制度和政治体制改革的基本原则所决定，其最根本的一条是没有任何其他政治力量能够"
+  },
+  {
+   "cn": "老祖宗不能丢又要讲新话",
+   "en": "our forefathers cannot be forgotten and develop new theories",
+   "source": "马克思主义",
+   "wordNumber": "04.0165",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对待马克思主义的一种科学、实事求是、与时俱进的态度。即必须坚持马克思主义的基本原理，同时马克思主义不是静止的封闭的教条，而是一个开放发展的体系，要在坚持中发展马克思主义和在发展中坚持马克思主义，不断根"
+  },
+  {
+   "cn": "中国的发展离不开世界",
+   "en": "China cannot develop in isolation from the rest of the world",
+   "source": "马克思主义",
+   "wordNumber": "04.0140",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "上世纪80年代初，为适应社会主义现代化建设更好更快的发展，邓小平提出了“中国的发展离不开世界”的命题。也就是说中国不能闭关自守，要引进来，走出去，只有发展与其它国家的往来，才能促进中国的发展。这一命题"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

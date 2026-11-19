@@ -1,0 +1,592 @@
+{
+ "key": "ton pollon",
+ "term": "tōn pollōn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:35:05+00:00",
+ "status": "ok",
+ "note": "variant=tōn pollōn; 审定公布名词库=285; 海峡两岸名词对照库=129; 其他来源数据库=6; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "畜牧学名词",
+   "wordNumber": "09.169",
+   "subjectFullName": "畜牧学_养蜂_蜜源植物及授粉",
+   "subjectName": "蜜源植物及授粉",
+   "publishYear": "2020",
+   "definition": "有花植物的雄配子。产生于花药中。是蜜蜂蛋白质、脂肪和矿物质营养的主要来源。"
+  },
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1538",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_其他食品（食用菌、蜂制品等）",
+   "subjectName": "其他食品（食用菌、蜂制品等）",
+   "publishYear": "2020",
+   "definition": "种子植物雄花花药中的粉状物(花粉粒),是植物的雄性生殖细胞。因花种不同呈现黄色、白色、黄白色,具有较高的营养价值和药用价值。"
+  },
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "植物学名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "种子植物的小孢子囊发育成熟后开裂时释放出来的含几个细胞的雄配子体的统称。"
+  },
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "林学名词",
+   "wordNumber": "02.349",
+   "subjectFullName": "林学_林学基础_森林植物",
+   "subjectName": "森林植物",
+   "publishYear": "2016",
+   "definition": "种子植物的单核小孢子，及萌发后形成的含几个细胞的雄配子体。"
+  },
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.097",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "有花植物的小孢子。萌发时产生含三个单倍体核的雄配子体。"
+  },
+  {
+   "cn": "蒲黄",
+   "en": "Pollen Typhae (拉)，cattail pollen",
+   "source": "兽医学名词",
+   "wordNumber": "19.403",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "香蒲科植物水烛香蒲 Typha angustifolia L.、东方香蒲 Typha orientalis Presl或同属植物的干燥花粉，又称香蒲。炒用或生用。"
+  },
+  {
+   "cn": "孢粉记录",
+   "en": "pollen record",
+   "source": "地质学名词",
+   "wordNumber": "08.03.004",
+   "subjectFullName": "地质学_第四纪地质学_第四纪古生态学",
+   "subjectName": "第四纪古生态学",
+   "publishYear": "2026",
+   "definition": "存在于各种类型沉积岩层中，可用于地层划分对比、确定地质年代，恢复古植被、古地理和古气候学等信息的孢子和花粉。"
+  },
+  {
+   "cn": "花粉培养",
+   "en": "pollen culture",
+   "source": "农学名词",
+   "wordNumber": "06.097",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "花药中分离出的单个花粉粒，经诱导分化形成单倍体植株的技术。"
+  },
+  {
+   "cn": "花粉不育［性］",
+   "en": "pollen sterility",
+   "source": "农学名词",
+   "wordNumber": "06.246",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由于外界条件和内在因素的影响，花粉的正常发育受阻，形成无生殖能力花粉的现象。"
+  },
+  {
+   "cn": "花粉蒙导",
+   "en": "pollen mentor",
+   "source": "农学名词",
+   "wordNumber": "06.273",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "远缘杂交时，利用灭活后的母本花粉或花粉浸提液，与父本花粉混合后给母本授粉，提高远缘杂交成功率的方法。"
+  },
+  {
+   "cn": "花粉培养",
+   "en": "pollen culture",
+   "source": "风景园林名词",
+   "wordNumber": "09.0197",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "属于细胞培养的范畴，通过人工培养离体花粉或小孢子，改变其发育途径，诱导其形成单倍体植株的方法。"
+  },
+  {
+   "cn": "花粉不育性",
+   "en": "pollen sterility ",
+   "source": "草学名词",
+   "wordNumber": "4.0401",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "花粉培养",
+   "en": "pollen culture ",
+   "source": "草学名词",
+   "wordNumber": "5.0064",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "花粉培养",
+   "en": "pollen culture",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.181",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "从花药中分离出花粉粒，使之成为分散或游离状态，通过培养使花粉粒去分化，进而发育成完整植株的过程。"
+  },
+  {
+   "cn": "花粉篮",
+   "en": "pollen basket",
+   "source": "畜牧学名词",
+   "wordNumber": "09.016",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂生物学",
+   "subjectName": "蜜蜂生物学",
+   "publishYear": "2020",
+   "definition": "工蜂后足胫节外侧向内凹陷，由硬毛围成的器官。用于工蜂采集花粉时携带花粉。"
+  },
+  {
+   "cn": "花粉脾",
+   "en": "pollen comb",
+   "source": "畜牧学名词",
+   "wordNumber": "09.124",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "储满花粉的巢脾。"
+  },
+  {
+   "cn": "脱粉器",
+   "en": "pollen trapper",
+   "source": "畜牧学名词",
+   "wordNumber": "09.128",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "置于蜂箱巢门口，用钢丝或塑料片做成的孔径略大于工蜂胸部的器具。用以截留回巢蜜蜂采集的花粉。"
+  },
+  {
+   "cn": "脱花粉",
+   "en": "pollen gathering",
+   "source": "畜牧学名词",
+   "wordNumber": "09.147",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "花粉被巢门口的脱粉器截留下来的过程。"
+  },
+  {
+   "cn": "粉源植物",
+   "en": "pollen plant",
+   "source": "畜牧学名词",
+   "wordNumber": "09.166",
+   "subjectFullName": "畜牧学_养蜂_蜜源植物及授粉",
+   "subjectName": "蜜源植物及授粉",
+   "publishYear": "2020",
+   "definition": "能产生较多花粉供蜜蜂采集利用的植物。"
+  },
+  {
+   "cn": "蜂花粉",
+   "en": "bee pollen",
+   "source": "畜牧学名词",
+   "wordNumber": "09.214",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂产品",
+   "subjectName": "蜜蜂产品",
+   "publishYear": "2020",
+   "definition": "蜜蜂采集并贮存的植物花粉团。含蛋白质、碳水化合物、脂肪、矿物质和生物活性物质等。"
+  },
+  {
+   "cn": "花粉",
+   "en": "pollen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花粉不育性（=花粉败育）",
+   "en": "pollen sterility (=pollen abortion)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粉被",
+   "en": "pollen\",\"pollinosity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "孢粉图谱",
+   "en": "pollen diagram",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "产粉花",
+   "en": "pollen flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单沟花粉",
+   "en": "monocolpate pollen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉败育",
+   "en": "pollen abortion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉板",
+   "en": "pollen plate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉分离",
+   "en": "pollen segregation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉分析",
+   "en": "pollen analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉复壮",
+   "en": "pollen restoration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉覆盖物",
+   "en": "pollen coat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉管",
+   "en": "pollen tube",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉激素",
+   "en": "pollen hormone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉篮",
+   "en": "pollen basket",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉粒",
+   "en": "pollen grain",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉囊",
+   "en": "pollen sac",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉培养",
+   "en": "pollen culture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉漂流",
+   "en": "pollen drift",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "花粉谱",
+   "en": "pollen spectrum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"central ten\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶心",
+   "en": "bull’s-eye\",\"inner ten",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "读万卷书，行万里路",
+   "en": "Read Ten Thousand Books and Travel Ten Thousand Li",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间敏感网络",
+   "en": "time-sensitive networking (TSN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据时代的国家治理》（〔中〕陈潭 等）",
+   "en": "State Governance in the Big Data Age (Chen Tan et al., China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "十年树木，百年树人",
+   "en": "It Takes Ten Years to Grow Trees and a Hundred Years to Nurture Talents.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蜂花粉",
+   "en": "bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.6",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集植物花粉后，与花蜜及分泌的唾液混合酿制形成的团粒或人工粉碎加工形成的粉末。"
+  },
+  {
+   "cn": "单一品种蜂花粉",
+   "en": "monofloral bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.7",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集一种植物的花粉形成的蜂花粉。"
+  },
+  {
+   "cn": "混合蜂花粉",
+   "en": "multifloral bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.8",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集两种以上植物的花粉形成的蜂花粉，或两种以上单一品种蜂花粉的混合物。"
+  },
+  {
+   "cn": "十个明确",
+   "en": "ten affirmations",
+   "source": "马克思主义",
+   "wordNumber": "03.0813",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议中提出了十个明确，即：一、明确中国特色社会主义最本质的特征是中国共产党领导，中国特色社会主义制度的最大优势是中国共产党领导，中国共产党是最高政治领导确力量，全党必须增强\"四个意识"
+  },
+  {
+   "cn": "有机锡",
+   "en": "organic tin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.20",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "四烃基锡化合物（R₄Sn）、三烃基锡化合物（R₃SnX）、二烃基锡化合物（R₂SnX₂）和一烃基锡化合物（RSnX₃）的统称，其中R 为烃基，可为烷基或芳香基等，X 为无机或有机酸根、氧卤族元素等。可"
+  },
+  {
+   "cn": "破壁蜂花粉",
+   "en": "wall broken bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.9",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "经过加工，花粉细胞壁被打破的蜂花粉。"
+  },
+  {
+   "cn": "云锡矿工",
+   "en": "Yunnan tin miners",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.2.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象",
+   "subjectName": "研究对象",
+   "publishYear": "2025",
+   "definition": "云南锡矿矿工，90年代职工约6万人，长期以来采取干式作业且通风不良。70年代发现当地矿工肺癌严重高发，是正常人群风险的20倍～30倍。1972年监测发现，井下氡浓度甚至超过10000 Bq/m3。19"
+  },
+  {
+   "cn": "十大军事原则",
+   "en": "ten military principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0415",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于人民军队在革命战争中克敌制胜的战略战术的军事原则。毛泽东总结了土地革命、抗日战争以及解放战争初期的对敌斗争的经验，在1947年12月25日的《目前形势和我们的任务》报告中，把这些经验归结为十"
+  },
+  {
+   "cn": "十人纲领",
+   "en": "outline of ten",
+   "source": "马克思主义",
+   "wordNumber": "04.0079",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在1920—1921年俄共（布）党内关于工会问题的争论期间，以列宁为首的一派提出的纲领。1920年底，俄共（布）党内关于工会问题的争论开始后，各派纷纷提出纲领和提纲，但多数纲领在争论过程中陆续撤回，最"
+  },
+  {
+   "cn": "民意测验",
+   "en": "public opinion poll",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "使用抽样调查方法了解公众舆论趋向的一种社会调查。"
+  },
+  {
+   "cn": "宇妥•云丹贡布",
+   "en": "Gyu thog yon tan mgon po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.042",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（708 年—833 年）吐蕃时期杰出的藏族医学家。堆龙吉纳地方（今西藏堆龙德庆境内）人。出生医生世家，其祖父和父亲皆为吐蕃赞普之御医。自幼从父学医，10 岁吐蕃赞普赤德祖赞遣其至桑耶寺学习深造，被誉"
+  },
+  {
+   "cn": "重症多形红斑及中毒性表皮坏死松解症",
+   "en": "Stevens-Johnson syndrome /Toxic epidermal necrolysis, SJS/TEN",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.2.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_皮肤、软组织疾病",
+   "subjectName": "皮肤、软组织疾病",
+   "publishYear": "2025",
+   "definition": "特征为严重的结膜炎、广泛黏膜坏死及多形红斑样皮损，以及迅速扩展的“烫伤样”皮损。是严重的急性罕见致死性皮肤黏膜损害损害性疾病，几乎都与药物有关，在特定遗传背景下，药物中间代谢产物与机体组织形成抗原复合"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

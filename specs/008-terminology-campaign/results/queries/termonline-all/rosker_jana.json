@@ -1,0 +1,762 @@
+{
+ "key": "rosker jana",
+ "term": "Rošker Jana",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:36:39+00:00",
+ "status": "ok",
+ "note": "variant=Rošker Jana; 审定公布名词库=560; 海峡两岸名词对照库=156; 其他来源数据库=23; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "滚轮摇杆",
+   "en": "roller rocker",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0968",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制方式和元件",
+   "subjectName": "控制方式和元件",
+   "publishYear": "2021",
+   "definition": "带滚轮的摇杆控制机构。"
+  },
+  {
+   "cn": "滚轮摇臂",
+   "en": "roller rocker",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0935",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "假名",
+   "en": "Kana",
+   "source": "世界历史名词",
+   "wordNumber": "02.1095",
+   "subjectFullName": "世界历史_古代中世纪_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "日本独有的表音文字，主要有平假名、片假名、万叶假名等不同的表记法。"
+  },
+  {
+   "cn": "摇臂",
+   "en": "rocker arm,rocker",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0350",
+   "subjectFullName": "机械工程_动力机械_内燃机_气门、凸轮机构",
+   "subjectName": "气门、凸轮机构",
+   "publishYear": "2013",
+   "definition": "用于改变推杆运动方向的零件。"
+  },
+  {
+   "cn": "摇臂",
+   "en": "rocker arm,rocker",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.296",
+   "subjectFullName": "机械工程_汽车_发动机_配气系",
+   "subjectName": "配气系",
+   "publishYear": "2013",
+   "definition": "支承轴在中间的摆动式凸轮从动件。在凸轮轴下置的气门驱动机构中，其两端分别与推杆和气门接触。在凸轮轴顶置的气门驱动机构中，其两端分别与凸轮和气门接触。"
+  },
+  {
+   "cn": "摇杆",
+   "en": "rocker",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0063",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器与机构构成",
+   "subjectName": "机器与机构构成",
+   "publishYear": "2021",
+   "definition": "与机架用转动副相连但只能绕该转动副轴线摆动的构件。"
+  },
+  {
+   "cn": "Java操作系统",
+   "en": "Java operating system,Java OS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0270",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "内核中以Java虚拟机为基本核心，其他部分都用Java语言写成并在Java虚拟机上运行的操作系统。例如JX、JNode、JavaOS。"
+  },
+  {
+   "cn": "耆那历",
+   "en": "Jaina calendar",
+   "source": "天文学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "公元前6世纪到公元2世纪期间印度所使用的主要历法。在这个历法中一星宿年等于327又51/67日，一太阴年等于354又12/62日，一世间年等于360日，一太阳年等于366日。"
+  },
+  {
+   "cn": "Java组件",
+   "en": "Java bean",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0192",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "Java程序中一些符合某种规范的类组合在一起形成的组件。"
+  },
+  {
+   "cn": "Java芯片",
+   "en": "Java chip",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0191",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可以提高Java虚拟机解释执行字节码性能的一种微芯片。"
+  },
+  {
+   "cn": "Java脚本",
+   "en": "Java script",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0187",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "基于ECMAScript语言规范的脚本语言。可为网页编程提供大量的互动或增强显示效果的手段。"
+  },
+  {
+   "cn": "Java包装器",
+   "en": "Java wrapper",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0542",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "Java语言的一个类，用以把非对象的数据包装成对象。"
+  },
+  {
+   "cn": "Java解释程序",
+   "en": "Java interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0188",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "解释执行Java字节码的程序。"
+  },
+  {
+   "cn": "Java小应用程序",
+   "en": "Java applet",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0189",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "采用Java创建的基于HTML的程序。可通过因特网下载并在本地接收的计算机上运行。"
+  },
+  {
+   "cn": "哈蟆油",
+   "en": "rana oviduct",
+   "source": "中医药学名词",
+   "wordNumber": "06.470",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "蛙科动物中国林蛙 Rana temporaria chensinensis David 雌蛙的输卵管，经采制干燥而得。"
+  },
+  {
+   "cn": "短膜壳绦虫病",
+   "en": "hymenolepiasis nana",
+   "source": "医学名词 第四分册",
+   "wordNumber": "06.081",
+   "subjectFullName": "医学_寄生虫病学",
+   "subjectName": "寄生虫病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "无性全型",
+   "en": "ana-holomorph",
+   "source": "植物学名词",
+   "wordNumber": "05.0020",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "真菌生活史中只有无性型而缺乏有性型的类型。"
+  },
+  {
+   "cn": "摇臂",
+   "en": "rocker arm",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0350",
+   "subjectFullName": "机械工程_工程机械_土方机械_装载机",
+   "subjectName": "装载机",
+   "publishYear": "2013",
+   "definition": "与铲斗相连，绕固定支点回转的力臂杆。"
+  },
+  {
+   "cn": "摇臂室盖",
+   "en": "rocker cover",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0305",
+   "subjectFullName": "机械工程_动力机械_内燃机_固定件及外部罩盖",
+   "subjectName": "固定件及外部罩盖",
+   "publishYear": "2013",
+   "definition": "用以围住摇臂或摇臂室的盖板。"
+  },
+  {
+   "cn": "刷架",
+   "en": "brush rocker",
+   "source": "电气工程名词",
+   "wordNumber": "07.300",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "抗Ro抗体(=抗SSA抗体)",
+   "en": "[]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSA抗体，抗Ro抗体",
+   "en": "anti-SSA antibody， anti-Sjogren syndrome A antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "爪哇海沟",
+   "en": "Java Trench",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Java编译程序",
+   "en": "Java compiler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java操作系统",
+   "en": "Java OS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java脚本",
+   "en": "Java script",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java解释程序",
+   "en": "Java interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java小应用程序",
+   "en": "Java applet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java芯片",
+   "en": "Java chip",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java应用",
+   "en": "Java application",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java组件",
+   "en": "Java bean",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无性全型",
+   "en": "ana-holomorph",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "圣诞安娜风",
+   "en": "Santa Ana",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "翁通爪哇海台",
+   "en": "Ontong Java Plateau",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java program language",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Java本地接口",
+   "en": "Java native interface",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java基础类[库]",
+   "en": "Java foundation class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java开发工具箱",
+   "en": "Java development kit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java快速编译程序",
+   "en": "Java flash compiler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "严重犯规一次！",
+   "en": "Gamjeom hana!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扬茨空翻",
+   "en": "Janz salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告一次！",
+   "en": "Kyong-go hana!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红客",
+   "en": "Honker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "滚轴",
+   "en": "roller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快速上升",
+   "en": "rocket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识雇员",
+   "en": "knowledge worker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据经纪商",
+   "en": "data broker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轮滑鞋",
+   "en": "roller skate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帆缆舱",
+   "en": "sail locker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快速上升劈腿",
+   "en": "rocket-split",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨手",
+   "en": "oarsman\",\"oarswoman\",\"rower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮滑球",
+   "en": "rink-hockey\",\"roller hockey",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储资源代理",
+   "en": "Storage Resource Broker (SRB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗SSA/Ro抗体",
+   "en": "anti-SSA antibody, anti-SSA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.11",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSA/Ro是由Ro蛋白与非编码小RNA分子非共价结合的核糖核蛋白。抗SSA抗体在干燥综合征患者的阳性率约为40%-95%，常与腺体外表现相关；是诊断干燥综合征的血清学标志物，"
+  },
+  {
+   "cn": "巴那语",
+   "en": "Bana language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0287",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国自称“巴那”的苗族使用的语言，属苗瑶语族中的畲语支。分布在湖南城步县和绥宁县。使用人口1000 多，正趋于消失。"
+  },
+  {
+   "cn": "抗核抗体",
+   "en": "anti-nuclear antibody, ANA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "对细胞核及其组分抗体的总称。它包括对细胞核内三大类抗原物质，即DNA、组蛋白及非组蛋白起反应的各种自身抗体，与自身免疫病的发生密切相关。"
+  },
+  {
+   "cn": "工作人员通道",
+   "en": "worker passageway",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在医疗机构和集中隔离场所等为工作人员出入设置的专用通道。"
+  },
+  {
+   "cn": "放射工作人员",
+   "en": "radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "受聘用全日、兼职或临时从事放射工作并了解放射防护有关的权利和任务的任何人员。"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "应急工作人员",
+   "en": "emergency worker",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件时承担特定职责人员，并在应急响应行动中可能受到照射的任何工作人员。"
+  },
+  {
+   "cn": "性工作者",
+   "en": "sex worker",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "依靠出卖肉体和色相挣钱的人。以女性为主，亦有男性。女性主义认为这个职业不该受到人们的歧视，但在对这个职业应该最终消灭或取缔、应逐步实行非罪化还是完全合法化的问题上，女性主义者之间一直存在分歧和争论。"
+  },
+  {
+   "cn": "社会工作者",
+   "en": "social worker",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "遵循社会工作的价值准则，运用社会工作专业方法从事职业性社会服务的人员。"
+  },
+  {
+   "cn": "雇佣工人",
+   "en": "hired worker",
+   "source": "马克思主义",
+   "wordNumber": "02.0099",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "因丧失生产资料而被迫把劳动力作为商品出卖给资本家的雇佣劳动者。雇佣工人是资本主义生产体系中的劳动者即剩余价值的生产者和实现者。"
+  },
+  {
+   "cn": "罗氏指数",
+   "en": "Rohrer index",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2.9",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "体重（千克）与身高（厘米）立方的比值的百分数，反映躯体肌肉、骨胳、内脏器官及组织的发育状态,用于评价机体充实程度及营养状况。"
+  },
+  {
+   "cn": "牙行",
+   "en": "broker-house",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0081",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国明清时期客商买卖货物时从中进行说合的店铺。有官牙、私牙之分，官牙为官府开设，如开设于各处的官店，最初为征收商税和充当塌房而设，后来逐渐发展为官牙；私牙系私人开设，需经官府批准，交纳帖价，发给牙帖，"
+  },
+  {
+   "cn": "农民工",
+   "en": "migrant worker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.01",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "为了工作从农村移民到城市，仍保留农村户籍的进城务工人员。"
+  },
+  {
+   "cn": "火箭推进剂",
+   "en": "rocket propellant",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "一类以某种状态大量储存于容器中，通过燃烧等剧烈化学反应迅速产生大量高温气体并以流体喷射物的形式高速喷出从而产生推力以发射火箭和导弹等发射体的化学物质，包括固体、液体、混合型推进剂。"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "医院提供的病床数量越多其使用率越高，病床数与使用率两者呈正相关关系的规律。"
+  },
+  {
+   "cn": "白领工人",
+   "en": "white-collar worker",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "从事非体力性工作的受雇者，工业化社会职业分层的一个基本类别，与“蓝领工人”相对。"
+  },
+  {
+   "cn": "蓝领工人",
+   "en": "blue-collar worker",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "从事体力性劳动的受雇者，工业化社会职业分层的一个基本类别，与“白领工人”相对。"
+  },
+  {
+   "cn": "保育师",
+   "en": "child-care worker",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.3.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康促进",
+   "subjectName": "妇幼健康促进",
+   "publishYear": "2025",
+   "definition": "在托育机构及其他保育场所中，从事婴幼儿生活照料、安全看护、营养喂养和早期发展工作的人员。"
+  },
+  {
+   "cn": "社区卫生工作者",
+   "en": "community health worker",
+   "source": "社会医学名词",
+   "wordNumber": "11.5.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务人员",
+   "publishYear": "2025",
+   "definition": "以社区常住居民为服务对象，通过健康宣教、疾病预防、医疗协助、健康管理等综合性服务，协助基层医疗卫生机构提升服务效率，促进居民健康公平与社区和谐发展，通常指接受过基础医疗培训的非专业人员。"
+  },
+  {
+   "cn": "放射工作单位",
+   "en": "employer of radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "开展下列活动的企业、事业单位和个体经济组织：①放射性同位素（非密封放射性物质和放射源）的生产、使用、销售、运输、贮存和废弃处理；②射线装置的生产、使用和维修；③核燃料循环中的铀矿开采、水冶、铀的浓缩和"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

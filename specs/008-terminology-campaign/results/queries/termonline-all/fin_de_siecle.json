@@ -1,0 +1,712 @@
+{
+ "key": "fin-de-siecle",
+ "term": "fin-de-siécle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:33:59+00:00",
+ "status": "ok",
+ "note": "variant=fin-de-siécle; 审定公布名词库=3197; 海峡两岸名词对照库=958; 其他来源数据库=133; 预公布名词数据库=73; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "翅片",
+   "en": "fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0343",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "直形、螺旋形、波纹形、锯齿形等金属带或金属条。将翅片绕、焊或嵌在管的表面可以增大传热面积、增强设备传热能力。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "动物学名词",
+   "wordNumber": "5.1781",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "头足类软体动物（如枪形目和乌贼目）胴部两侧或后部，由皮肤扩张形成的呈鳍状伸延部分。在运动过程中起到保持平衡作用。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0121",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼和其他水生脊椎动物的桨形附肢。有运动、导向及平衡作用。鱼的鳍由皮肤、鳍条和鳍棘等组成。"
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "水产名词",
+   "wordNumber": "01.177",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "由条状鳍条支撑薄膜而成的鱼类的平衡与运动器官。"
+  },
+  {
+   "cn": "尾翼",
+   "en": "tail fin,rear fin",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.171",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "奇鳍",
+   "en": "median fin,unpaired fin",
+   "source": "水产名词",
+   "wordNumber": "01.182",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "鱼类沿身体正中线生长的不对称鳍。"
+  },
+  {
+   "cn": "腹鳍",
+   "en": "ventral fin;pelvic fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0124",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类与腰带相连的一对鳍。通常位于胸鳍后方，但在有些鱼类移位到胸鳍之前。主要协助背鳍、臀鳍维持鱼体的平衡。"
+  },
+  {
+   "cn": "螺旋翅",
+   "en": "spiral fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0344",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "以螺旋形连续绕在管子上的金属条构成的翅片。"
+  },
+  {
+   "cn": "整体翅",
+   "en": "integral fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0345",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "由管壁本体经机械加工或压延成的翅片。"
+  },
+  {
+   "cn": "纵向翅",
+   "en": "longitudinal fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0346",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "翅片面平行于管子轴线并沿管子圆周对称分布的翅片。"
+  },
+  {
+   "cn": "内翅",
+   "en": "inner fin",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0347",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "由管内壁本体材料轧制的或将预先制造好装入管内的翅片。"
+  },
+  {
+   "cn": "背鳍",
+   "en": "dorsal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0039",
+   "subjectFullName": "动物学_脊椎动物学_头索动物亚门",
+   "subjectName": "头索动物亚门",
+   "publishYear": "2021",
+   "definition": "头索动物文昌鱼背面沿中线的皮肤折叠形成的一条低矮的鳍。向后与尾部的尾鳍相连。"
+  },
+  {
+   "cn": "尾鳍",
+   "en": "caudal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.004",
+   "subjectFullName": "动物学_脊椎动物学_头索动物亚门",
+   "subjectName": "头索动物亚门",
+   "publishYear": "2021",
+   "definition": "头索动物文昌鱼身体尾部的鳍。"
+  },
+  {
+   "cn": "肛前鳍",
+   "en": "preanal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0041",
+   "subjectFullName": "动物学_脊椎动物学_头索动物亚门",
+   "subjectName": "头索动物亚门",
+   "publishYear": "2021",
+   "definition": "头索动物文昌鱼尾鳍延伸到肛门之前的部分。"
+  },
+  {
+   "cn": "偶鳍",
+   "en": "paired fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0122",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类身体两侧成对的鳍。包括胸鳍和腹鳍，分别与肩带和腰带相连。"
+  },
+  {
+   "cn": "胸鳍",
+   "en": "pectoral fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0123",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "位于鱼体两侧鳃盖后方、与肩带相连的一对鳍。有运动、平衡和掌控运动方向功能。"
+  },
+  {
+   "cn": "奇鳍",
+   "en": "median fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0125",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类等不成对的鳍。包括背鳍、臀鳍和尾鳍。"
+  },
+  {
+   "cn": "背鳍",
+   "en": "dorsal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0126",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类和鲸类位于背中线的鳍。协助游泳，维持身体在水中的平衡。"
+  },
+  {
+   "cn": "臀鳍",
+   "en": "anal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0127",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类位于肛门后方腹中线的鳍。协助游泳并保持鱼体在水中的平衡。"
+  },
+  {
+   "cn": "尾鳍",
+   "en": "caudal fin",
+   "source": "动物学名词",
+   "wordNumber": "6.0128",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_鱼类",
+   "subjectName": "鱼类",
+   "publishYear": "2021",
+   "definition": "鱼类尾端垂直的鳍。内有鳍条，有平衡、推进和转向的作用。依其外形和尾椎位置分为圆型尾、歪型尾、正型尾等类型。"
+  },
+  {
+   "cn": "翅片",
+   "en": "fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍",
+   "en": "fin",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腹鳍",
+   "en": "ventral fin\",\"pelvic fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "稳定板",
+   "en": "stabilizing fin\",\"stabilizer fin",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "翅片管",
+   "en": "finned pipe\",\"finned tube",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋翅片",
+   "en": "helical fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纵向翅片",
+   "en": "longitudinal fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "横向翅片",
+   "en": "transverse fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "散热片",
+   "en": "cooling fin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鳍线",
+   "en": "fin line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "散热片",
+   "en": "thermal fin",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背鳍",
+   "en": "dorsal fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "胸鳍",
+   "en": "pectoral fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍膜",
+   "en": "fin membrane",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍条",
+   "en": "fin ray",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍棘",
+   "en": "fin spine",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "尾鳍(鱼)",
+   "en": "caudal fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "臀鳍",
+   "en": "anal fin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "鳍式",
+   "en": "fin formula",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "比赛结束！",
+   "en": "Fin!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "德",
+   "en": "De（Virtue）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去匿名化",
+   "en": "de-anonymization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去标识化技术",
+   "en": "de-identification technique",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "出足扫",
+   "en": "advanced foot sweep\",\"de-ashi-barai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缠剑",
+   "en": "take the blade\",\"prise-de-fer\",\"taking of blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37964-2019 信息安全技术 个人信息去标识化指南》",
+   "en": "GB/T 37964-2019 Information security technology — Guide for de-identifying personal information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准星",
+   "en": "pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "芬兰人级",
+   "en": "Finn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "去个人化",
+   "en": "de-individualization",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在群体情境当中，人们更容易失去自我觉察的能力和对自己行为的责任感，自我控制系统的作用减弱甚至丧失，从而做出一些个体单独时不会做出的反向(或另类)行为的现象。在无组织群体和集群行为中，个体处于匿名感受中"
+  },
+  {
+   "cn": "嫩杀",
+   "en": "light de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.18",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "轻度杀青，青叶失水少，减重率为30%，杀青叶含水率为62%~64%。"
+  },
+  {
+   "cn": "老杀",
+   "en": "deep de-enzyme",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.19",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "重度杀青，青叶失水多，减重率为40%，杀青叶含水率为58%~60%。"
+  },
+  {
+   "cn": "德昂语",
+   "en": "De’ang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0328",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "德昂族使用的语言。属南亚语系孟-高棉语族佤-德昂语支。主要分布在云南省德宏傣族景颇族自治州等地；缅甸也有分布。人口约2 万。分布雷、若买、纳昂3 个方言。"
+  },
+  {
+   "cn": "高原脱习服",
+   "en": "high altitude de-acclimatization",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "已适应高原环境的机体，脱离高原环境后，为适应常规环境而产生的一系列适应性改变。"
+  },
+  {
+   "cn": "高原脱适应",
+   "en": "high altitude de-adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原适应",
+   "subjectName": "高原适应",
+   "publishYear": "2025",
+   "definition": "世居高原者到平原后，会出现不适应平原环境的临床症状。而平原人长期在高原生活，机体会发生机能与结构改变以适应环境，当他们返回平原，需逐渐消除对高原低氧的适应性，重新适应平原环境的相关变化过程。"
+  },
+  {
+   "cn": "第新谢巴",
+   "en": "De bzhin gshegs pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0389",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1384 年—1415 年）藏传佛教著名人物。为噶举牌黑帽系第五世活佛，法名却贝桑波。1406 年受邀前往南京，并受命总纂永乐版《甘珠尔》刻本。明成祖封其为“万行足十方最胜圆觉妙智慧善普应佑国演教如"
+  },
+  {
+   "cn": "佤-德昂语支",
+   "en": "Va-De'ang branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0332",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南亚语系孟-高棉语族的一个语支，包括佤语、布朗语和德昂语等。"
+  },
+  {
+   "cn": "[法国]核安全与辐射防护研究院",
+   "en": "L'Institut de Radioprotection et de Sûreté Nucléaire，IRSN",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.10",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "2001年法国成立的专门从事核与辐射风险评估和研究的公共事业机构，受国防部、环境部、能源部、科技部、卫生部共同监督，院长由总理任命。目前有1700余名工作人员，包括董事会在内六个部门组成。"
+  },
+  {
+   "cn": "社会学年刊学派",
+   "en": "L'école de L'année Sociologique",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0515",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（ÉmileDurkheim）于1897 年在巴黎创办《社会学年刊》后形成的学派。该学派的社会学理论继承了法国哲学家孔德的实证主义和古典进化论。他们认为，社会现象不同于心理现象和生物"
+  },
+  {
+   "cn": "芬兰人",
+   "en": "Finn",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0266",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "欧洲现代民族，拥有芬兰共和国国籍和公民身份的人们共同体。使用芬兰语，它是乌拉尔语系芬兰语支中的一种。多信仰基督教新教。芬兰是一个高度工业化、自由化的市场经济国家。"
+  },
+  {
+   "cn": "杜松子酒",
+   "en": "gin",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以粮谷等为原料，经糖化、发酵、蒸馏所得的基酒，用包括杜松子在内的植物香源浸提或串香复蒸馏制成的蒸馏酒。"
+  },
+  {
+   "cn": "京族",
+   "en": "Gin",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0467",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在广西壮族自治区东兴市江平镇的澫尾、山心、巫头三个海岛上，素有“京族三岛”之称。人口3.31 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用京语，语言系属未定。绝"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "虚拟亲属",
+   "en": "fictive kin",
+   "source": "社会学名词",
+   "wordNumber": "3.15.7.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务",
+   "subjectName": "老年社会服务",
+   "publishYear": "2025",
+   "definition": "以亲属的称谓称呼没有血缘关系的人，把他们当作亲属般对待的一种人际关系。"
+  },
+  {
+   "cn": "干扰素",
+   "en": "interferon，IFN",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "细胞因子中的一个家族，是一类在应答病毒感染或其他微生物和炎症刺激时产生的分子，功能是抗病毒、抑制细胞增殖和免疫调节。分为Ⅰ型IFN(IFN-α和IFN-β)和Ⅱ型IFN(IFN-γ)。"
+  },
+  {
+   "cn": "精细动作",
+   "en": "fine motor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "手及手指等部位小肌肉或肌肉群的运动能力，表现为手的灵活性、稳定性、协调性和力量。"
+  },
+  {
+   "cn": "京语",
+   "en": "Gin language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0336",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "京族使用的语言，与越南语基本相同。属南亚语系越芒语族。在中国主要分布在广西壮族自治区防城港市。使用人口约1.4 万。国外是越南的国语。"
+  },
+  {
+   "cn": "番族",
+   "en": "Fan people",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.016",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "明清时期对台湾土著各族之称谓。现称为原住民，被台湾当局识别认定为平埔族等十几个民族。"
+  },
+  {
+   "cn": "闽越",
+   "en": "Min Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0148",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代东南越人之一支。秦汉时分布在今福建及浙南、赣东部分地区。主要从事农业生产，擅长造船航海及习水战，有断发纹身之俗。汉初立其首领闽越王，常反汉，汉武帝时其民被迁入江淮间，渐与汉人融合。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

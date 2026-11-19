@@ -1,0 +1,412 @@
+{
+ "key": "pena-guzman reynolds",
+ "term": "Peña-Guzmán Reynolds",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:31:53+00:00",
+ "status": "ok",
+ "note": "variant=Peña-Guzmán Reynolds; 审定公布名词库=67; 海峡两岸名词对照库=19; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "地质学名词",
+   "wordNumber": "16.03.027",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "表示管内水流惯性力与黏滞力的比值的量。是判别多孔介质中的水流运动状态是层流还是紊流的指标。雷诺数与地下水渗透速度、颗粒平均粒径成正比，与流体黏滞系数成反比。"
+  },
+  {
+   "cn": "雷诺五联征",
+   "en": "Reynolds pentad",
+   "source": "急救医学名词",
+   "wordNumber": "03.376",
+   "subjectFullName": "急救医学_日常医学急救_外科学_肝胆胰腺疾病",
+   "subjectName": "肝胆胰腺疾病",
+   "publishYear": "2025",
+   "definition": "急性胆管炎患者在临床表现为上腹部剧烈疼痛、寒战、高热和黄疸的基础上出现低血压和神志改变，是急性梗阻性化脓性胆管炎的典型表现。"
+  },
+  {
+   "cn": "雷诺协强",
+   "en": "Reynolds stress",
+   "source": "核科学技术名词",
+   "wordNumber": "3.318",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "与湍流相关的动力压强张量。在聚变等离子体中可产生剪切流，抑制湍‍流。"
+  },
+  {
+   "cn": "雷诺五联征",
+   "en": "Reynolds pentad",
+   "source": "消化病学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "在沙尔科三联征（上腹痛、寒战高热、黄疸）基础上，出现休克及精神症状，如谵妄、烦躁、嗜睡、昏迷等。常由急性胆管炎引起。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0387",
+   "subjectFullName": "地球物理学_地球动力学_地幔地核动力学",
+   "subjectName": "地幔地核动力学",
+   "publishYear": "2022",
+   "definition": "用来表征流体两种流动状态 (层流和湍流)的一个无量纲参量。为流体惯性力与黏滞力的比值。 "
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds numbers",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0807",
+   "subjectFullName": "机械工程（一）_传动_液压传动_流动和流量",
+   "subjectName": "流动和流量",
+   "publishYear": "2021",
+   "definition": "表征流体惯性力和黏性力相对大小的数，记为Re。"
+  },
+  {
+   "cn": "雷诺方程",
+   "en": "Reynolds equation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0351",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "黏性流体动量守恒和质量守恒的综合方程，是流体动力润滑的基本方程式。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "生理学名词",
+   "wordNumber": "05.139",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "电力名词",
+   "wordNumber": "01.821",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "表征流体运动中黏性作用和惯性作用相对大小的无因次数。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "物理学名词",
+   "wordNumber": "02.0801",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "冶金学名词",
+   "wordNumber": "04.0359",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "表征流动特性的特征数，为惯性力和黏滞阻力之比。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0080",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "流体微团所受惯性力与黏滞力之比。是一种用来表征流体流动状况的无量纲数。符号为Re。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "生物物理学名词",
+   "wordNumber": "08.054",
+   "subjectFullName": "生物物理学_生物力学与生物流变学_生物力学",
+   "subjectName": "生物力学",
+   "publishYear": "2018",
+   "definition": "衡量作用于流体的迁移惯性力与黏性力相对大小的无量纲相似参数。用Re表示，即Re=ρvL/η。式中：ρ为流体密度；v为流场中的特征速度；L为特征长度；η为流体的黏度系数。微循环血流属于低雷诺数流动。18"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.028",
+   "subjectFullName": "呼吸病学_肺功能_相关的物理学概念",
+   "subjectName": "相关的物理学概念",
+   "publishYear": "2018",
+   "definition": "1886年雷诺引进的一个描述流体在直管内流动形式的参数。用符号“Re”表示。其定义为：<img src='/root/syzx/static/spz/huxibing1.09.028.01.png'/"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "计量学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "计量学_容量、流量_流量",
+   "subjectName": "流量",
+   "publishYear": "2015",
+   "definition": "表示惯性力与黏性力之比的无量纲参数。"
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "大气科学名词",
+   "wordNumber": "05.276",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在流体运动中惯性力对黏滞力比值的无量纲数Re=UL/ν。其中U为速度特征尺度，L为长度特征尺度，ν为运动学黏性系数。"
+  },
+  {
+   "cn": "雷诺应力",
+   "en": "Reynolds stress",
+   "source": "大气科学名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "湍流动量输送的切向应力。"
+  },
+  {
+   "cn": "雷诺方程",
+   "en": "Reynolds equation",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.336",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺应力",
+   "en": "Reynolds stress",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.393",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺方法",
+   "en": "Reynolds method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺应力",
+   "en": "Reynolds stresses",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺方程",
+   "en": "Reynolds equation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺通量",
+   "en": "Reynolds flux",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺应力",
+   "en": "Reynolds stress",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Reynolds number",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "临界雷诺数",
+   "en": "critical Reynolds number",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转雷诺数",
+   "en": "rotating Reynolds number",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海水pE-pH图",
+   "en": "pE-pH figure of seawater",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "豌豆根测验法",
+   "en": "pea-root test",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "麦克雷诺兹相常数",
+   "en": "McReynolds phase constant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "豌豆凝集素",
+   "en": "pea-lectin\",\"p-Lec",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "千万亿次运算每秒，拍[它]次运算每秒",
+   "en": "peta instructions per second\",\"PIPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "千万亿条指令每秒，拍[它]条指令每秒",
+   "en": "peta operations per second\",\"POPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雷诺数",
+   "en": "Renolds number",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "千万亿次浮点运算每秒，拍[它] 次浮点运算每秒",
+   "en": "peta floating point operations per second\",\"petaflops\",\"PFLOPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停！",
+   "en": "End! Guman! Keuman! Stop!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

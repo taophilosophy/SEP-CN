@@ -1,0 +1,562 @@
+{
+ "key": "alarmism",
+ "term": "alarmism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:37:13+00:00",
+ "status": "ok",
+ "note": "variant=alarmism; 审定公布名词库=225; 海峡两岸名词对照库=70; 其他来源数据库=5; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "告警",
+   "en": "alarm",
+   "source": "电力名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "为引起对某些异常状态注意的信息。可以是一个需确认的视觉和/或听觉报警。"
+  },
+  {
+   "cn": "报警",
+   "en": "alarm",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.121",
+   "subjectFullName": "呼吸病学_机械通气_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2018",
+   "definition": "机械通气过程中，超过预设的要求及安全范围而发出的警示信号。一般包括声、光两种信号。根据可能危及生命的程度分为一类报警、二类报警和三类报警。"
+  },
+  {
+   "cn": "告警",
+   "en": "alarm",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.039",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "用于提醒维护人员关注故障或失效的一个可觉察指示。"
+  },
+  {
+   "cn": "报警",
+   "en": "alarm",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0175",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "报警器",
+   "en": "alarm",
+   "source": "自动化名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "自动化科学技术_控制技术_过程控制与仪表",
+   "subjectName": "过程控制与仪表",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "报警监控",
+   "en": "alarm monitoring",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.114",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "对生产异常进行跟踪监控和分析，及时处置，保证生产安全平稳运行的活动。"
+  },
+  {
+   "cn": "报警分析",
+   "en": "alarm analysis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.177",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "一种用来帮助度量报警系统性能，发现解决潜在问题，提供指导信息的统计工具。"
+  },
+  {
+   "cn": "报警管理",
+   "en": "alarm management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "确定、记录、设计、操作、监视和维护报警系统的流程和实践。"
+  },
+  {
+   "cn": "报对",
+   "en": "true alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2226",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "报有地震，实际确实发生了地震；报无地震，实际没有发生地震。 "
+  },
+  {
+   "cn": "虚报",
+   "en": "false alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2227",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "报有地震，实际没有发生地震；报无地震，实际确实发生了地震。 "
+  },
+  {
+   "cn": "反警报",
+   "en": "anti-alarm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2229",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以报某事件不发生的方式表述的警报。 "
+  },
+  {
+   "cn": "报警信息素",
+   "en": "alarm pheromone ",
+   "source": "草学名词",
+   "wordNumber": "7.0248",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "红外报警",
+   "en": "infrared alarm",
+   "source": "光学名词",
+   "wordNumber": "25.066",
+   "subjectFullName": "光学_红外技术",
+   "subjectName": "红外技术",
+   "publishYear": "2021",
+   "definition": "一种利用主动式或被动式红外辐射探测技术的入侵报警技术。主动式报警器发射的红外光束被入侵者穿越或阻挡时，接收机将会启动报警。被动式红外报警器的探测对象是人体热辐射，监控视场内的人员移动会触发报警。"
+  },
+  {
+   "cn": "报警系统",
+   "en": "alarm system",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.821",
+   "subjectFullName": "化工（五）_工程建设_施工过程",
+   "subjectName": "施工过程",
+   "publishYear": "2021",
+   "definition": "以声、光等形式表示过程参数越限、设备等状态异常的系统。"
+  },
+  {
+   "cn": "警戒信息素",
+   "en": "alarm pheromone",
+   "source": "动物学名词",
+   "wordNumber": "7.0236",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "昆虫等释放的，向同种其他个体报告敌情的信息化学物质。"
+  },
+  {
+   "cn": "报警鸣叫",
+   "en": "alarm call",
+   "source": "动物学名词",
+   "wordNumber": "7.0253",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "当捕食动物接近一个鸟类和哺乳动物的群体时，群体中首先发现捕食者的个体所发出的叫声。对其功能存在各种解释，一般认为报警鸣叫是一种利他行为。"
+  },
+  {
+   "cn": "告警时间",
+   "en": "alarm time",
+   "source": "测绘学名词",
+   "wordNumber": "02.544",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "导航卫星系统空间信号发生故障而引起用户定位误差超限时，系统向用户提供告警的延迟时间。"
+  },
+  {
+   "cn": "报警舞",
+   "en": "alarm dance",
+   "source": "畜牧学名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂生物学",
+   "subjectName": "蜜蜂生物学",
+   "publishYear": "2020",
+   "definition": "工蜂中毒回到巢内后，在巢脾上沿螺旋线或不规则“之”字形快速跑动，同时腹部剧烈左右颤动。"
+  },
+  {
+   "cn": "报警信息素",
+   "en": "alarm pheromone",
+   "source": "畜牧学名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂生物学",
+   "subjectName": "蜜蜂生物学",
+   "publishYear": "2020",
+   "definition": "蜜蜂受到侵扰时释放的化学通信物质。分别来源于口器和螯刺两个器官。"
+  },
+  {
+   "cn": "组合告警",
+   "en": "group alarm",
+   "source": "电力名词",
+   "wordNumber": "06.061",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "若干单独告警组合成一个告警。"
+  },
+  {
+   "cn": "报警器",
+   "en": "alarm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预警级",
+   "en": "alarm level",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溢流警报",
+   "en": "overflow alarm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "警觉反应",
+   "en": "alarm reaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚报",
+   "en": "false alarm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "报警鸣叫,告警声",
+   "en": "alarm call",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "警戒信息素,告警信息素",
+   "en": "alarm pheromone",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "报警电路",
+   "en": "alarm circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报警显示",
+   "en": "alarm display",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报警装置",
+   "en": "alarm device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告警闹钟",
+   "en": "alarm\",\"ALM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告警指令",
+   "en": "alarm command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警旗",
+   "en": "flag alarm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误警",
+   "en": "false alarm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告警声，警戒声",
+   "en": "alarm call",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "警戒信息素",
+   "en": "alarm pheromone",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "报警打印",
+   "en": "alarm printer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "工况报警",
+   "en": "condition alarm",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "失火警报",
+   "en": "fire alarm",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "延伸报警",
+   "en": "extension alarm",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "跌倒报警器",
+   "en": "fall alarm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "告警日志监控",
+   "en": "alarm log monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能小区防盗报警系统",
+   "en": "smart neighborhood anti-theft alarm system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会预警",
+   "en": "social alarming",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "通过建立社会状况监测体系，对社会问题进行科学分析，从而预测社会发展趋势，预防可能出现的社会风险，并提出解决社会问题的对策的社会机制和过程。"
+  },
+  {
+   "cn": "报警式个人剂量仪",
+   "en": "alarm personal dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "当累积剂量或剂量率达到某设定值时，能发出报警音响的个人剂量计。除了报警功能外，还具有数字显示照射剂量（或剂量率）的功能。"
+  },
+  {
+   "cn": "离子烟感报警器",
+   "en": "ionic smoke alarm",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.23",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用射线电离空气产生的电子被烟雾吸附而导致电离电流降低的原理而制成的火灾报警装置。"
+  },
+  {
+   "cn": "γ报警仪",
+   "en": "gamma alarm meter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.16",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "监督γ辐射水平的核辐射探测仪器。当γ辐射水平超过预置阈值时,发出声、光报警信号,并测量探头附近的γ剂量率。"
+  },
+  {
+   "cn": "固定式剂量率报警仪",
+   "en": "fixed dose rate alarm",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "固定安装在场所的某一位置、当探测到的电离辐射超过预定值时能发出声光等报警信号的装置。"
+  },
+  {
+   "cn": "电离辐射警告标志",
+   "en": "ionizing radiation alarm sign",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.11.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "警示可能存在电离辐射危害的标志，该标志的图形由三叶草和外部的正三角形边框及下方的“当心电离辐射”文字组成，其中三叶草、边框和文字均为黑色，背景则为黄色。"
+  },
+  {
+   "cn": "基金风险预警体系",
+   "en": "funds risk alarm system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "对医疗保险基金运行风险进行有效预警的综合系统。主要包括组织系统、数据系统和制度系统。"
+  },
+  {
+   "cn": "报警式个人中子剂量计",
+   "en": "alarm-type neutron personal dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "当累积中子剂量当量或中子剂量当量率达到某设定值时，能发出报警音响的个人剂量计。除了报警功能外，还具有数字显示照射剂量（或剂量率）的功能。"
+  },
+  {
+   "cn": "声光警示装置",
+   "en": "sound and light alarm device",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.15",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "能同时发出声响和灯光信号的一种报警信号装置。"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.11",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "关心他人的利益而不考虑自己的利益。不期望任何外部酬劳而自觉自愿的助人，把帮助他人当作唯一目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

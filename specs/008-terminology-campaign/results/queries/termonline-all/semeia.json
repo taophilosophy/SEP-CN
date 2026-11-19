@@ -1,0 +1,42 @@
+{
+ "key": "semeia",
+ "term": "sêmeia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:29:34+00:00",
+ "status": "ok",
+ "note": "variant=sêmeia; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "婴儿严重肌阵挛癫痫",
+   "en": "severe myoclonic epilepsy in infant,SMEI",
+   "source": "神经病学名词",
+   "wordNumber": "12.115",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "一种少见的进行性癫痫性脑病。发病高峰在出生后5个月。热性惊厥、肌阵挛发作和不典型失神发作是常见的发作类型。发病前发育正常，随着病程的进展，出现进行性精神运动发育迟滞，对抗癫痫药物的反应性差。脑电图示全"
+  },
+  {
+   "cn": "婴儿严重肌阵挛癫痫",
+   "en": "severe myoclonic epilepsy of infancy;SMEI",
+   "source": "神经外科学名词",
+   "wordNumber": "10.094",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_疼痛",
+   "subjectName": "疼痛",
+   "publishYear": "2026",
+   "definition": "以婴幼儿起病、热相关、多种发作形式、影响认知和运动发育、药物难治性为主要特征的癫痫综合征。临床较少见，大多数与 SCN1A基因突变有关。典型症状包括热性惊厥、阵挛或强直阵挛、热敏感等。多数患儿抗癫痫药"
+  },
+  {
+   "cn": "入睡相关型儿童行为相关失眠",
+   "en": "sleep-onset association type of pediatric beha-vioral in-somnia",
+   "source": "睡眠医学名词",
+   "wordNumber": "3.008",
+   "subjectFullName": "睡眠医学_睡眠疾病分类_失眠症",
+   "subjectName": "失眠症",
+   "publishYear": "2022",
+   "definition": "儿童需特定刺激、物品、环境方可启动睡眠或者醒来后再次入睡，否则难以启动睡眠的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

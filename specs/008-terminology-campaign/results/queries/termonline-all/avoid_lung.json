@@ -1,0 +1,762 @@
+{
+ "key": "avoid lung",
+ "term": "avoid lung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:36:09+00:00",
+ "status": "ok",
+ "note": "variant=avoid lung; 审定公布名词库=1461; 海峡两岸名词对照库=300; 其他来源数据库=71; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "生态学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "通过防御来抵御恶劣环境条件的一种生存对策。"
+  },
+  {
+   "cn": "避-避冲突",
+   "en": "avoidance-avoidance conflict",
+   "source": "行为医学名词",
+   "wordNumber": "4.099",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体同时面对两件不喜欢或令人厌恶的事物，要回避其一就必然遭遇另一件时所产生的心理冲突。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "麻醉学名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。上端称肺尖，下端称肺底，内侧称纵隔面，外侧称肋面。右肺三叶，左肺二叶，外被胸膜，以叶间裂相隔，每叶肺又依支气管和血管的分支再分为肺段。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "兽医学名词",
+   "wordNumber": "19.061",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，上连气道，其主要生理功能是主气、司呼吸、主宣发肃降、通调水道，并与鼻窍、皮毛密切相关。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "动物学名词",
+   "wordNumber": "6.0993",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "陆生脊椎动物特有的呼吸器官。位于胸腔内，分为左肺和右肺。低等种类只呈囊状构造，内部只有具有血管的皱襞；但在高等种类为海绵状结构。鸟类的肺主要是由大量的三级支气管组成。哺乳动物的肺是由许多微细支气管和肺"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "呼吸病学_解剖和组织学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "进行气体交换，实现体内摄取氧和排出二氧化碳，并具有一定代谢和免疫功能的器官。位于胸腔内，横膈上，以纵隔为界，分左肺和右肺。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "核医学名词",
+   "wordNumber": "04.1334",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "接受右心室输出的静脉血，进行气体交换，回输氧合动脉血到左心房的器官。以纵隔为界分为左、右两肺。由肺泡、肺内支气管、及与之伴行的血管、神经、淋巴组织构成；外表面覆以脏层胸膜。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0585",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。生活状态下的正常肺，色浅红，质柔软，呈海绵状，富有弹性。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏之一，位于胸腔之内，膈之上，左右各一。其主要生理功能是主气、司呼吸、主宣发肃降、通调水道、朝百脉而主治节，并与鼻窍、皮肤密切相关。"
+  },
+  {
+   "cn": "避逆性",
+   "en": "stress avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.179",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过各种方式在时间或空间上避开逆境危害，不与逆境相遇的抗逆方式。"
+  },
+  {
+   "cn": "避旱性",
+   "en": "drought avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.226",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过改变生育进程，使水分敏感期避开干旱，或在严重干旱发生之前完成生活史的特性。"
+  },
+  {
+   "cn": "不确定性规避",
+   "en": "uncertainty avoidance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.056",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "霍夫斯塔德提出的文化维度之一。对不确定性和模糊情景所产生的威胁的一种社会感受，并试图加以摆脱和避免的心态。不同的文化所表现的不确定性规避有显著差异。强调规避不确定的文化成员相对具有情感上的高焦虑和应激"
+  },
+  {
+   "cn": "回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "行为医学名词",
+   "wordNumber": "2.041",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "当厌恶刺激或不愉快情境预示出现，个体做出某种反应，以回避厌恶刺激或不愉快情境的过程。"
+  },
+  {
+   "cn": "回避行为",
+   "en": "avoidance behavior",
+   "source": "行为医学名词",
+   "wordNumber": "2.042",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "个体对厌恶刺激所表现的躲避反应。刺激出现时表现为规避式逃匿。"
+  },
+  {
+   "cn": "回避症状",
+   "en": "avoidance symptom",
+   "source": "行为医学名词",
+   "wordNumber": "10.095",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "创伤事件后，出现持续回避与创伤性事件有关刺激的一种现象。"
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "经济学名词",
+   "wordNumber": "09.093",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "纳税人利用税法上的漏洞或税法允许的办法，做适当的财务安排或税收策划，在不违反税法规定的前提下，达到减轻或解除税负的目的。"
+  },
+  {
+   "cn": "回避性反射",
+   "en": "avoidance reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避系统",
+   "en": "avoidance system",
+   "source": "生理学名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0344",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2020",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0713",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物通过将吸入体内的盐分稀释或将盐排至体外以避免高盐毒害的特性。非盐生植物抗盐主要取此途径。"
+  },
+  {
+   "cn": "回避,逃避",
+   "en": "avoidance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双避冲突",
+   "en": "avoidance avoidance conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "御旱性",
+   "en": "drought avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御逆性",
+   "en": "stress avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御热性",
+   "en": "heat avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避型人格",
+   "en": "avoidant personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避反应",
+   "en": "avoidance response",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避对象",
+   "en": "avoidance object",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避性训练",
+   "en": "avoidance training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避条件反射，回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避应对",
+   "en": "avoidance coping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避学习",
+   "en": "avoidance learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "避错，故障避免",
+   "en": "fault avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等待避免",
+   "en": "latency avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"dodge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"duck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱窠臼",
+   "en": "Avoid Stereotypes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步",
+   "en": "lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "避免去人多的地方",
+   "en": "to avoid crowds",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肺脓肿",
+   "en": "lung abscess",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧弓箭步",
+   "en": "side lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓箭步",
+   "en": "forward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺姿",
+   "en": "lunge position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双肺浸润性病灶",
+   "en": "infiltration in both lungs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "避实击虚",
+   "en": "Avoid the Strong and Attack the Weak",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避免使某个国家或特定群体蒙受污名",
+   "en": "to avoid stigmatizing a country or particular group",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚",
+   "en": "Xu（Void）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚静",
+   "en": "Void and Peace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可缩减成本",
+   "en": "avoidable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在正常经营运行情况下可降低的成本。"
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不良、消极的依恋行为。对母亲的来去无所谓，很少依恋或纠缠母亲。"
+  },
+  {
+   "cn": "避险",
+   "en": "risk avoidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "在危险发生时及时采取正确措施，最大限度减少健康损失的举措。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "信息规避行为",
+   "en": "information avoidance behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "旨在避免或延迟获取可获得信息的行为，导致信息规避行为的动机大致可以归纳为个人、信息和情景三类因素。"
+  },
+  {
+   "cn": "回避致敏食物",
+   "en": "avoiding allergenic food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "对明确为过敏原的所有食物进行完全的回避，回避期间要选用可保障婴幼儿正常生长发育的其他替代食物进行喂养。"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "避免环境有害行为",
+   "en": "avoid environmentally harmful behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对有害环境(包括自然环境和生活环境)采用调试、主动回避、积极应对等维护自身健康的行为。"
+  },
+  {
+   "cn": "放射致肺癌",
+   "en": "radiation induced lung cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。常有区域性淋巴转移和血行播散，临床表现咳嗽、咯血，后期出现胸痛、胸闷、呼吸困难及远处转移征象。其病程进展速度与细胞生物学特征有关。"
+  },
+  {
+   "cn": "萎缩肺综合征",
+   "en": "shrinking lung syndrome，SLS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.25",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为呼吸困难、胸膜炎性胸痛等，肺功能提示肺容积进行性降低，胸部CT无明显肺间质或胸膜病变的综合征。发病机制尚不明确，可能与膈肌病变、膈神经病变、胸廓扩张异常等有关。可发生于1～6%的SLE患者中。"
+  },
+  {
+   "cn": "外照射致肺癌",
+   "en": "lung cancer from external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "来自体外的电离辐射照射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。"
+  },
+  {
+   "cn": "铀矿工肺癌",
+   "en": "lung cancer of uranium miner",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "在铀矿勘探开采中，井下作业人员主要受到氡及其子体的照射后出现的，与该照射具有一定程度病因学联系的原发性肺癌。"
+  },
+  {
+   "cn": "洗肺液放射性活度测量",
+   "en": "measurement of activity in lung lavage",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.33",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "测量吸入放射性核素活度的一种方法，对吸入过量放射性核素的工作人员采用洗肺治疗时，收集洗肺液并测量其放射性活度，估计核素摄入量和评价洗肺疗效。"
+  },
+  {
+   "cn": "《普贤上师言教》",
+   "en": "Kun bzang bla mavi zhal lung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0355",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教名著。又名《大圆满隆钦心髓前行引导文》，巴楚仁波切（1808 年—1889 年）著，本书为宁玛派核心教法《大圆满隆钦心髓》前行的释论，几乎包含了所有大圆满法最根本的修行秘诀，内容不仅仅限于佛法"
+  },
+  {
+   "cn": "体外肺部放射性活度测量",
+   "en": "measurement of activity in lung in vitro",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.34",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "体外测量人肺部放射性核素活度的一种方法，利用能探测X、γ射线的装置，在体外测量肺部沉积的放射性核素释放出的X、γ射线，借助仪器的探测效率和生物学相关参数估计肺内沉积量。"
+  },
+  {
+   "cn": "矿工高氡暴露所致肺癌",
+   "en": "high radon exposure induced lung cancer of miner",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "在金属矿等非铀矿山勘探开采中，井下工作场所氡浓度超过国家标准规定的工作场所氡浓度行动水平，作业人员受到氡及其子体的照射后出现的，与该照射具有一定程度病因学联系的原发性肺癌。"
+  },
+  {
+   "cn": "结缔组织疾病相关性间质性肺病",
+   "en": "interstitial lung diseases associated with connective tissue diseases，CTD-ILD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.14",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "可见于多种结缔组织病的间质性肺病。如系统性硬化、干燥综合征、多发性肌炎/皮肌炎、类风湿关节炎等。不同的结缔组织病的间质性肺病可在临床表现、影像学和病理特征上表现不同，呈现各自不同的发展与转归。"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  },
+  {
+   "cn": "桐油",
+   "en": "tung oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.19",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为桐树果实榨出的油，外观、味道与一般食用植物油相似。"
+  },
+  {
+   "cn": "长狄",
+   "en": "Long Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0051",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。据《左传》记载，有侨如、焚如、荣如、简如、缘如等五兄弟。春秋时期，活动于齐、鲁、宋、卫之间，后为齐、卫所灭。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

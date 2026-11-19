@@ -1,0 +1,772 @@
+{
+ "key": "hyper-nationalism",
+ "term": "hyper-nationalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:34:13+00:00",
+ "status": "ok",
+ "note": "variant=hyper-nationalism; 审定公布名词库=474; 海峡两岸名词对照库=128; 其他来源数据库=151; 预公布名词数据库=187; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "巨超形变",
+   "en": "hyper-deformation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.215",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "长轴半径约为短轴半径三倍的椭球形变。"
+  },
+  {
+   "cn": "高耐受性",
+   "en": "hyper resistibility",
+   "source": "兽医学名词",
+   "wordNumber": "11.039",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "接触某一外源化学物的动物群体中有少数个体对其毒作用不敏感，可以耐受远高于其他个体所能耐受剂量的特性。"
+  },
+  {
+   "cn": "超真实",
+   "en": "hyper real",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.116",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "拟像摆脱真实存在的约束，导致传统的真实与虚假、幻觉与实在的二元世界消失，呈现一种比实在的真实更真实的状况。在超真实世界中，符号的间接存在再次让位于直接呈现，人们不能再主动追寻事物的本真存在。这一概念由"
+  },
+  {
+   "cn": "超表",
+   "en": "hyper tableaux",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0087",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "处理一阶逻辑的一种有效和完备的推理演算。在保留语义表中众多特性的同时，拥有超归结的能力。"
+  },
+  {
+   "cn": "超归结",
+   "en": "hyper-resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0075",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "语义归结的一个特例，分正超归结（使用的解释中谓词函数恒取真值）和负超归结（使用的解释中所有的谓词函数恒取假值）。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "地理学名词",
+   "wordNumber": "17.040",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "属于民族的一种感情以及坚持区域和民族单元与自治统一关系同时存在的一种政治意识形态。"
+  },
+  {
+   "cn": "超高密集流",
+   "en": "hyper-concentrated flow",
+   "source": "地质学名词",
+   "wordNumber": "12.04.060",
+   "subjectFullName": "地质学_火山地质学_火山喷出物",
+   "subjectName": "火山喷出物",
+   "publishYear": "2026",
+   "definition": "火山泥流的一种。固体碎屑物体积分数为20%～60%(或质量分数为40%～80%)的火山泥流。"
+  },
+  {
+   "cn": "高免疫球蛋白D综合征",
+   "en": "hyper-IgD syndrome",
+   "source": "血液学名词",
+   "wordNumber": "6.042",
+   "subjectFullName": "血液学_白细胞数量及功能异常性疾病_白细胞功能异常性疾病_淋巴细胞及免疫缺陷疾病",
+   "subjectName": "淋巴细胞及免疫缺陷疾病",
+   "publishYear": "2022",
+   "definition": "由MVK基因突变所致的一种常染色体隐性遗传性自身炎症反应综合征。以周期性发热、IgD水平升高及白细胞增多症为特征。"
+  },
+  {
+   "cn": "高免疫球蛋白E综合征",
+   "en": "hyper-IgE syndrome",
+   "source": "血液学名词",
+   "wordNumber": "6.043",
+   "subjectFullName": "血液学_白细胞数量及功能异常性疾病_白细胞功能异常性疾病_淋巴细胞及免疫缺陷疾病",
+   "subjectName": "淋巴细胞及免疫缺陷疾病",
+   "publishYear": "2022",
+   "definition": "一种少见的常染色体显性遗传或散发的多系统免疫缺陷性疾病。以湿疹、反复皮肤和肺部感染、高血清IgE水平和嗜酸性细胞增多，伴随结缔组织和骨骼异常为特征。"
+  },
+  {
+   "cn": "高免疫球蛋白M综合征",
+   "en": "hyper-IgM syndrome",
+   "source": "血液学名词",
+   "wordNumber": "6.044",
+   "subjectFullName": "血液学_白细胞数量及功能异常性疾病_白细胞功能异常性疾病_淋巴细胞及免疫缺陷疾病",
+   "subjectName": "淋巴细胞及免疫缺陷疾病",
+   "publishYear": "2022",
+   "definition": "一种罕见的原发性免疫缺陷病。多为X染色体连锁遗传，少数为常染色体隐性或显性遗传。通过影响B细胞激活、系列转换重组及体细胞高突变基因突变致病。主要表现为反复发生感染，血清IgG、IgA和IgE水平低下或"
+  },
+  {
+   "cn": "半侧面部肥大",
+   "en": "hemifacial hyper-trophy",
+   "source": "神经病学名词",
+   "wordNumber": "14.024",
+   "subjectFullName": "神经病学_自主神经系统疾病",
+   "subjectName": "自主神经系统疾病",
+   "publishYear": "2020",
+   "definition": "一种表现为进行性半侧面部组织肥大的罕见疾病。可累及软组织、骨骼及脏器。病因不明，可能与自主神经或内分泌功能障碍有关。多于青年期自行停止发展。"
+  },
+  {
+   "cn": "肝细胞色素沉着",
+   "en": "hepatocyte hyper-pigmentation",
+   "source": "烧伤学名词",
+   "wordNumber": "03.238",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "subjectName": "烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "publishYear": "2019",
+   "definition": "各种原因引起的肝细胞内含可染性铁的血色素、胆色素、糖原、类脂质、磷脂、脂褐素、铜结合蛋白、铁等物质的过度堆积和沉着。"
+  },
+  {
+   "cn": "超拉曼散射",
+   "en": "hyper-Raman scattering",
+   "source": "物理学名词",
+   "wordNumber": "04.2439",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "超瑞利散射",
+   "en": "hyper-Rayleigh scattering",
+   "source": "物理学名词",
+   "wordNumber": "04.2440",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "浓缩性高钾血症",
+   "en": "concentrated hyper-kalemia",
+   "source": "呼吸病学名词",
+   "wordNumber": "11.077",
+   "subjectFullName": "呼吸病学_体液、电解质与酸碱平衡_体液与电解质平衡",
+   "subjectName": "体液与电解质平衡",
+   "publishYear": "2018",
+   "definition": "血液浓缩(脱水)导致的血钾浓度升高的病理生理状态。多伴有高钠血症、高氯血症和高渗血症，且常为一过性。"
+  },
+  {
+   "cn": "极端干旱区",
+   "en": "hyper-arid area",
+   "source": "林学名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "林学_水土保持与荒漠化防治_荒漠化防治",
+   "subjectName": "荒漠化防治",
+   "publishYear": "2016",
+   "definition": "年降水量与潜在蒸发量之比小于0.05的地 区。"
+  },
+  {
+   "cn": "超拉曼散射",
+   "en": "hyper Raman scattering",
+   "source": "化学名词",
+   "wordNumber": "03.1401",
+   "subjectFullName": "化学_分析化学_仪器分析_分子光谱分析",
+   "subjectName": "分子光谱分析",
+   "publishYear": "2016",
+   "definition": "包括两个虚态的三光子过程。当频率为<img src='/root/syzx/static/spz/huaxue2.03.1401.1.png'/>，强度超过某一阈值的超激光束照射分子体系时，分子振动基"
+  },
+  {
+   "cn": "逼尿肌反射亢进",
+   "en": "detrusor hyper-reflexia",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_神经源性膀胱和肠道功能障碍",
+   "subjectName": "神经源性膀胱和肠道功能障碍",
+   "publishYear": "2014",
+   "definition": "膀胱充盈时出现逼尿肌无抑制性收缩的现象。是膀胱不稳定的表现，提示可能存在上运动神经元病损。"
+  },
+  {
+   "cn": "过共析钢",
+   "en": "hyper-eutectoid steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0263",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "化学成分超过共析成分室温平衡组织为先共析渗碳体加珠光体的钢。"
+  },
+  {
+   "cn": "Ⅲ型高脂蛋白血症",
+   "en": "type Ⅲ hyper-lipoproteinemia",
+   "source": "老年医学名词",
+   "wordNumber": "04.588",
+   "subjectFullName": "老年医学_老年临床医学_老年内分泌系统疾病",
+   "subjectName": "老年内分泌系统疾病",
+   "publishYear": "2017",
+   "definition": "一种以残粒脂蛋白沉积为特征的，与急进性动脉粥样硬化相关的血脂障碍。"
+  },
+  {
+   "cn": "超归结",
+   "en": "hyper-resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超体积",
+   "en": "hyper volume",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "过兴奋性",
+   "en": "hyper-irritability",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "超拉曼散射",
+   "en": "hyper Raman scattering",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高IgM综合征",
+   "en": "hyper IgM syndrome",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本国化产品出口",
+   "en": "nationalized export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "本国货币",
+   "en": "national currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国定税则",
+   "en": "national tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民待遇",
+   "en": "national treatment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民会计",
+   "en": "national accounting",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民账户",
+   "en": "national account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①[美]联邦特许[注册]银行 ②国家银行 ③国民银行",
+   "en": "national bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优惠国",
+   "en": "favoured nation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "都市国家",
+   "en": "urban nation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家地图集",
+   "en": "national atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家公园",
+   "en": "national park",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "national-socialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "联合国",
+   "en": "United Nations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全",
+   "en": "National Cybersecurity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国徽",
+   "en": "national emblem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家单项协会",
+   "en": "national federation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联合国秘书处",
+   "en": "United Nations Secretariat",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国大学",
+   "en": "United Nations University",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全协调员",
+   "en": "national cybersecurity coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家超级计算中心",
+   "en": "National Supercomputing Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家数据主权",
+   "en": "national data sovereignty",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家信息安全漏洞库",
+   "en": "National Vulnerability Database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家杯",
+   "en": "Nation’s Cup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "马克思主义",
+   "wordNumber": "03.0120",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级处理民族问题的理论、原则、纲领和政策。它从民族观念出发,把本民族利益置于其他民族之上，不同的历史时期和不同的国家起着不同的作用。"
+  },
+  {
+   "cn": "民族主义",
+   "en": "nationalism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0019",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "主张民族（nation）与国家（state）边界相一致的思想观念、理论主张、社会行动，是形成和建构民族国家的理论基础和实践信条"
+  },
+  {
+   "cn": "民族化",
+   "en": "nationalization",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "在文化交流中，通过借鉴、吸收、转化和创造等方式，将外来文化转化为本民族文化的组成部分。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "高IgE综合征",
+   "en": "hyper-IgE syndrome, HIES",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "一种临床少见的原发性免疫缺陷病。以皮肤、肺等多器官复发性感染、中性粒细胞趋化障碍、血清IgE升高为特征。多在婴幼儿期发病，常持续终身。男女发病率大致相等，部分患者可有家族史。常染色体显性遗传为主，也有"
+  },
+  {
+   "cn": "文化民族主义",
+   "en": "cultural nationalism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一个民族推崇因其自身的民族特性而形成的独特文化，这种民族文化通常被认为蕴含着该民族的民族精神，从而具有或多或少的民族优越性。"
+  },
+  {
+   "cn": "民族",
+   "en": "Minzu，nationality，nation，ethnic group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0002",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定的历史发展阶段形成的、具有某些共同特征，比如祖先、血缘、外貌、历史、文化、习俗、语言、地域、宗教、生活习惯等，和自我认同的人群或人们共同体。作为一个国家或社会区分不同人群的一种方式（其他区分方式"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "现代民族",
+   "en": "modern nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0033",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "马克思主义经典作家对近代以来民族所做的界定，具体包括资本主义民族和社会主义民族，前者指资本主义上升时期的民族或已进入资本主义社会的民族，后者是在推翻资本主义制度以后，在对旧式民族进行社会主义改造的基础"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "民族国家",
+   "en": "nation-state",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一个国家的疆界与其领域内的单一民族完全重合的、独立自主的政治实体。但这种由单一民族组成的国家非常罕见。因此，广义上也指由一个或一个以上的民族所组成的国家。"
+  },
+  {
+   "cn": "国民财富",
+   "en": "national wealth",
+   "source": "马克思主义",
+   "wordNumber": "02.0026",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定时点上，一国全社会所有成员所拥有的全部物质资料的总和。包括国民财产、自然资源、一国外汇储备和对外债权等。它是一个国家或地区经济繁荣程度的重要标志之一，反映了居民的经济实力和福利水平。"
+  },
+  {
+   "cn": "国债",
+   "en": "national debt",
+   "source": "马克思主义",
+   "wordNumber": "02.0251",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中央政府发行的债务。国家以其信用为基础，按照债的一般原则，通过向社会筹集资金所形成的债权债务关系。"
+  },
+  {
+   "cn": "银行国有化",
+   "en": "bank nationalization",
+   "source": "马克思主义",
+   "wordNumber": "02.0319",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "将银行收归国家所有的过程。银行国有化是国家所有制经济形成过程中的一条重要途径。资本主义国家利用银行国有化来为整个资产阶级整体服务。"
+  },
+  {
+   "cn": "国家工厂",
+   "en": "national workshop",
+   "source": "马克思主义",
+   "wordNumber": "03.0078",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年二月革命结束后，法国临时政府将因危机和革命失业的工人编进了所谓国家工场，其目的是分裂工人阶级和反对革命。巴黎六月起义失败后，国家工厂解散。"
+  },
+  {
+   "cn": "国民议会",
+   "en": "national assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0085",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由全体国民选举产生拥有立法权的国家权力机关，是西方民主政治制度的一种形式。"
+  },
+  {
+   "cn": "民族解放",
+   "en": "national liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0117",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界各被压迫民族反对帝国主义、殖民主义和种族主义，争取民族独立、民族自决和民族平等的革命运动。它主要指亚洲、非洲和拉丁美洲等帝国主义殖民地和半殖民地民族反抗帝国主义的统治和压迫，争取国家独立的资产阶级"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

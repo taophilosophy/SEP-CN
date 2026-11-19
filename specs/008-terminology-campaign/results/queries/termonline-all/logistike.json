@@ -1,0 +1,522 @@
+{
+ "key": "logistike",
+ "term": "logistikê",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:28:59+00:00",
+ "status": "ok",
+ "note": "variant=logistikê; 审定公布名词库=102; 海峡两岸名词对照库=16; 其他来源数据库=12; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "农学名词",
+   "wordNumber": "17.043",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "农产品从生产、流通、销售再到消费者的实体流动过程。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.001",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "物品从供应地向接收地的实体流动过程。根据实际需要，将运输、储存、装卸、搬运、包装、流通、加工、配送、信息处理等基本功能有机结合。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.571",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "物品从供应地向接收地的实体流动过程。根据实际需要，将运输、储存、搬运、包装、流通加工、配送、信息处理等基本功能实施有机结合。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "为了满足客户的需要，通过运输、保管、配送等方式，实现原材料、半成品、成品及相关信息由商品的产地到商品的消费地所进行的计划、实施和管理的全过程。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "地理学名词",
+   "wordNumber": "18.202",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "供应链活动的一部分，是为了满足客户需要而对商品、服务以及相关信息从产地到消费地的高效、低成本流动和储存进行的规划、实施与控制的过程。"
+  },
+  {
+   "cn": "供应物流",
+   "en": "supply logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "为企业提供原材料、零部件或其他物品时，物品在提供者和需求者之间的实体流动，包括原材料等一切生产物资的采购、进货运输、仓储、库存管理、用料管理和供应管理。"
+  },
+  {
+   "cn": "回收物流",
+   "en": "recycling logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "不合格物品的返修、退货以及可再利用物料的周转使用所形成的物品实体流动。"
+  },
+  {
+   "cn": "生产物流",
+   "en": "production logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.200",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "生产过程中，原材料、在制品、半成品、产成品等在企业内部的实体流动。"
+  },
+  {
+   "cn": "销售物流",
+   "en": "sales logistics",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.201",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "生产企业、流通企业在出售商品时，物品在供方与需方之间的实体流动。是企业为保证本身的经营利益，不断伴随销售活动，将产品所有权转给用户的物流活动。"
+  },
+  {
+   "cn": "物流网络",
+   "en": "logistics network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.206",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "由多个收发货的节点（制造厂仓库、中间商仓库、口岸仓库等）和它们之间的连线（海运航线、铁路线、飞机航线等）所构成的物流抽象网络以及与其伴随的信息流网络的有机整体。"
+  },
+  {
+   "cn": "物流系统",
+   "en": "logistics system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.207",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "在一定的时间和空间里，由所需输送的物料和包括有关设备（包装设备、装卸搬运机械等）、输送工具、仓储设备、人员以及通信联系等若干相互制约的动态要素构成的具有特定功能的有机整体。"
+  },
+  {
+   "cn": "物流工程",
+   "en": "logistics engineering",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.097",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "以物流系统为研究对象，研究物流系统的资源配置、物流运作过程的控制、经营和管理的工程领域。"
+  },
+  {
+   "cn": "物流管理",
+   "en": "logistics management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "应用管理的基本原理方法，对物流活动进行计划、组织、指挥、协调、控制和监督，使其实现最佳的协调与配合。"
+  },
+  {
+   "cn": "物流管理",
+   "en": "logistics management",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.006",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "为达到既定目标对物流的全过程进行计划、组织、协调与控制。"
+  },
+  {
+   "cn": "逆向物流",
+   "en": "reverse logistics ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.007",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "物品从供应链下游向上游运动所引发的物流活动。"
+  },
+  {
+   "cn": "物流服务",
+   "en": "logistics service",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.008",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "为满足客户需求所实施的一系列物流活动过程及其产生的结果。"
+  },
+  {
+   "cn": "定制物流",
+   "en": "customized logistics ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.012",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "根据用户的特定要求为其专门设计的物流服务模式。"
+  },
+  {
+   "cn": "物流中心",
+   "en": "logistics center",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.015",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "从事物流活动的具有完善信息网络的场所或组织。"
+  },
+  {
+   "cn": "物流园区",
+   "en": "logistics park",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.018",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "为实现物流设施集约化和物流运作共同化，或者出于城市物流设施空间布局合理化的目的而在城市周边等各区域集中建设的物流设施群与众多物流从业者在地域上的物理集结地。"
+  },
+  {
+   "cn": "物流作业",
+   "en": "logistics operation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.022",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "实现物流功能时所进行的具体操作活动。"
+  },
+  {
+   "cn": "物流",
+   "en": "logistics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "物流配送",
+   "en": "logistics distribution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛方程",
+   "en": "logistic equation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长",
+   "en": "logistic growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯蒂模型",
+   "en": "logistic model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛方程",
+   "en": "logistic equation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛曲线",
+   "en": "logistic curve",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛增长方程",
+   "en": "logistic growth equation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群生长",
+   "en": "logistic population growth",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛种群增长",
+   "en": "logistic population growth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛曲线,S形曲线",
+   "en": "logistic curve\",\"sigmoid curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双参数逻辑斯谛模型",
+   "en": "two parameter logistic model\",\"2PLM",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "三参数逻辑斯谛模型",
+   "en": "three parameter logistic model\",\"3PLM",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机辅助后勤保障",
+   "en": "computer-aided logistic support\",\"CALS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧物流",
+   "en": "intelligent logistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行逻辑回归",
+   "en": "parallel logistic regression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冷链全产业链",
+   "en": "integrated cold chain logistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际超级物流枢纽",
+   "en": "international super logistics hub",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RFID物流信息化管理",
+   "en": "RFID-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "条码物流信息化管理",
+   "en": "barcode-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "航空物流空间信息服务示范",
+   "en": "air logistics spatial information service demonstration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二维码物流信息化管理",
+   "en": "QR code-based logistics information management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打通人流、物流堵点",
+   "en": "to smooth travel and logistics channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20102365-T-449 粮食物流数据元 仓储业务基础数据元》",
+   "en": "20102365-T-449 Grain logistics data elements — Storage business basic data elements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯蒂回归",
+   "en": "logistic regression",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.104",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为某个事件的对数发生比为因变量，其他变量作为自变量的一种定类数据分析模型。"
+  },
+  {
+   "cn": "罗杰斯蒂克模型",
+   "en": "Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.78",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于描述微生物生长/不生长边界的模型。"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.80",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种非负随机结果变量的统计回归模型。常用于拟合生物活性测定中的S 型剂量-反应曲线。"
+  },
+  {
+   "cn": "逻辑斯蒂正态模型",
+   "en": "Logistic-normal model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.88",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析二元响应变量的统计模型。"
+  },
+  {
+   "cn": "食品冷链物流",
+   "en": "food cold chain logistics",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.53",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "以温度控制为主要手段，使食品从出厂后到销售前始终处于所需温湿度范围内的物流工程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

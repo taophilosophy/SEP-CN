@@ -1,0 +1,692 @@
+{
+ "key": "blosser erkenntnisgrund",
+ "term": "bloßer Erkenntnisgrund",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:32:33+00:00",
+ "status": "ok",
+ "note": "variant=bloßer Erkenntnisgrund; 审定公布名词库=730; 海峡两岸名词对照库=234; 其他来源数据库=20; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "吹风机",
+   "en": "blower",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0533",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "纯碱工业为真空转鼓过滤机再生滤布所配置的低压空气压缩机。一般为离心式或液环式压缩机。"
+  },
+  {
+   "cn": "鼓风机",
+   "en": "blower",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0196",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "气体输送机械的一种。包括透平鼓风机和罗茨鼓风机等。"
+  },
+  {
+   "cn": "送风器",
+   "en": "blower",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1146",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[增压器]压气机",
+   "en": "blower",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0974",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "鼓风机",
+   "en": "blower",
+   "source": "公路交通科技名词",
+   "wordNumber": "07.149",
+   "subjectFullName": "公路交通科学技术_筑路机械及运用管理",
+   "subjectName": "筑路机械及运用管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "鼓风机",
+   "en": "blower",
+   "source": "化学工程名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "二氧化硫鼓风机",
+   "en": "SO₂ blower",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0059",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "用于输送含SO₂气体的设备。由电机、空气过滤器、鼓风机本体、气室、底座（兼油箱）、滴油嘴等六部分组成。分为离心式风机和罗茨风机两类。"
+  },
+  {
+   "cn": "鼓风机",
+   "en": "air blower",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0034",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "排气表压力为15kPa～0.2MPa的压缩机。"
+  },
+  {
+   "cn": "透平鼓风机",
+   "en": "turbo-blower",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0037",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "依靠旋转式叶轮对气体做功的鼓风机。"
+  },
+  {
+   "cn": "罗茨鼓风机",
+   "en": "Roots blower",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0038",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "利用两个具有一定叶型的转子在气缸内做相对运动来压缩和输送气体的容积型回转式鼓风机。"
+  },
+  {
+   "cn": "吹壳机",
+   "en": "mold blower",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.253",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸造工艺设计及工艺装备",
+   "subjectName": "铸造工艺设计及工艺装备",
+   "publishYear": "2021",
+   "definition": "用压缩空气将造型混合料吹到模板上制造壳型的机器。"
+  },
+  {
+   "cn": "吹灰器",
+   "en": "soot blower",
+   "source": "电力名词",
+   "wordNumber": "09.178",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "锅炉运行中用来清除受热面烟气侧沉积物的装置。"
+  },
+  {
+   "cn": "吹蜂机",
+   "en": "bee blower",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1584",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_其他食品（食用菌、蜂制品等）",
+   "subjectName": "其他食品（食用菌、蜂制品等）",
+   "publishYear": "2020",
+   "definition": "采用高速低压气流脱除贮蜜继箱内和蜜脾上蜜蜂的取蜜器具。"
+  },
+  {
+   "cn": "罗茨鼓风机",
+   "en": "Roots blower",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0197",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "利用两个叶形转子在气缸内做相互啮合运动来压缩和输送气体的回转压缩机。"
+  },
+  {
+   "cn": "回转鼓风机",
+   "en": "rotary blower",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0198",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "主要由机体和两个形状特殊、旋转方向相反的转子所组成的气体输送设备。"
+  },
+  {
+   "cn": "木片风送机",
+   "en": "chip blower",
+   "source": "林学名词",
+   "wordNumber": "10.302",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "以气力方式输送散状木片的机械装置。"
+  },
+  {
+   "cn": "鼓风机",
+   "en": "air blower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0071",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "在设计条件下，风压为30～200kPa或压缩比为1.3～3的风机。"
+  },
+  {
+   "cn": "透平鼓风机",
+   "en": "turbo-blower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0072",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "工质气体以增大半径的径向流动方式通过叶轮的透平式风机。"
+  },
+  {
+   "cn": "旋涡鼓风机",
+   "en": "regenerative blower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0073",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_风机",
+   "subjectName": "风机",
+   "publishYear": "2013",
+   "definition": "工质气体在旋涡的作用下，能够反复多次进入叶轮叶片间流道获得能量的透平式鼓风机。它是一种特殊的离心鼓风机。"
+  },
+  {
+   "cn": "吹灰器",
+   "en": "soot blower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0460",
+   "subjectFullName": "机械工程_动力机械_锅炉_主要零部件_其他",
+   "subjectName": "其他",
+   "publishYear": "2013",
+   "definition": "以蒸汽、压缩空气或水等为介质，在运行中清除受热面烟气侧沉积物的装置。"
+  },
+  {
+   "cn": "鼓风机",
+   "en": "blower",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应急辅助鼓风机",
+   "en": "emergency standby blower\",\"emergency blower",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摆线鼓风机",
+   "en": "cycloidal blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "罗茨鼓风机",
+   "en": "Roots blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离心式鼓风机",
+   "en": "centrifugal blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扇形排风机",
+   "en": "fan blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "回转鼓风机",
+   "en": "rotary blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涡轮鼓风机",
+   "en": "turbo-blower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吹灰器",
+   "en": "soot blower",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉鼓风机",
+   "en": "boiler blower",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应急鼓风机",
+   "en": "emergency blower",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吹灰器",
+   "en": "soot blower",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汽轮鼓风机",
+   "en": "turbo-blower",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "代理商",
+   "en": "broker",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花",
+   "en": "flower",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "合瓣花",
+   "en": "synpetalous flower\",\"synpetal flower\",\"gamopetalous flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离瓣花",
+   "en": "choripetalous flower\",\"polypetalous flower\",\"dialysepalous flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两侧对称花，左右对称花",
+   "en": "zygomorphic flower\",\"bisymmetry flower\",\"bilateral flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两性花",
+   "en": "bisexual flower\",\"hermaphroditic flower\",\"monoclinous flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "左右对称花（=两侧对称花）",
+   "en": "zygomorphic flower\",\"bisymmetry flower\",\"bilateral flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拦网队员",
+   "en": "blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻截球员",
+   "en": "blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败者",
+   "en": "loser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据经纪商",
+   "en": "data broker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中间拦网队员",
+   "en": "middle blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边拦网队员",
+   "en": "end blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击运动员",
+   "en": "boxer\",\"pugilist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网队员",
+   "en": "blocker\",\"block specialist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网下空间",
+   "en": "lower space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弓下臂",
+   "en": "lower limb",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马下唇",
+   "en": "lower lip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "降帆",
+   "en": "haul down\",\"lower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放下弓",
+   "en": "lower the bow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "降低重心",
+   "en": "lower the body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储资源代理",
+   "en": "Storage Resource Broker (SRB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心相通",
+   "en": "closer people-to-people ties",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网下空间",
+   "en": "lower space\",\"space below the net",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "牙行",
+   "en": "broker-house",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0081",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国明清时期客商买卖货物时从中进行说合的店铺。有官牙、私牙之分，官牙为官府开设，如开设于各处的官店，最初为征收商税和充当塌房而设，后来逐渐发展为官牙；私牙系私人开设，需经官府批准，交纳帖价，发给牙帖，"
+  },
+  {
+   "cn": "下层阶级",
+   "en": "lower class",
+   "source": "马克思主义",
+   "wordNumber": "03.0202",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "属于社会最底层,经济、政治、文化等各方面处在劣势和被排斥的那部分人或阶层。实际上是工人阶级的下层，和通常说的“弱势群体”的含义接近。"
+  },
+  {
+   "cn": "仙女节",
+   "en": "Flower-fairy Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0191",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "怒族的传统节日，节期在每年农历三月十五日，主要流传于云南省怒江傈僳族自治州贡山独龙族怒族自治县丙中洛乡怒族聚居区。为了纪念传说中的仙女阿茸姑娘，在她死后的第二年农历三月十五日，人们举行祭拜活动，逐渐形"
+  },
+  {
+   "cn": "下消化道综合征",
+   "en": "lower gastrointestinal syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.20",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一组由结肠运动障碍、直肠肛门疾病、神经性肠道疾病等引起的一系列症状和体征。"
+  },
+  {
+   "cn": "基准摄入量置信区间下限",
+   "en": "benchmark intake lower confidence limit, BIL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "经统计学方法得到的基准摄入量可信区间的下限值"
+  },
+  {
+   "cn": "两下肢不等长",
+   "en": "unequal length of two lower limbs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各种原因导致个体下肢长度不等。"
+  },
+  {
+   "cn": "呼吸机相关下呼吸道感染",
+   "en": "ventilator associated lower respiratory tract infection, VAP",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "建立人工气道（气管插管或气管切开）并接受机械通气时所发生的肺炎或支气管炎。"
+  },
+  {
+   "cn": "基准剂量下限",
+   "en": "lower confidence limit of the benchmark dose, BMDL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.21",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据剂量-反应关系，利用统计学模型求得的化学物引起某种特定反应的变化或较低健康风险发生率的剂量的95%可信区间下限值。通常风险发生率计量资料为5%，计数资料为10%"
+  },
+  {
+   "cn": "下级服从上级",
+   "en": "lower level is subordinate to the higher level",
+   "source": "马克思主义",
+   "wordNumber": "04.0173",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的下级组织服从上级组织。它是民主集中制的基本要求，是处理党的上下级组织之间相互关系的原则。其具体要求是：党的下级组织要服从上级组织的领导，要结合本地区、本部门的实际情况，贯彻执行上级组织的决定，如上"
+  },
+  {
+   "cn": "干部能上能下",
+   "en": "cadres should be ready to take a lower as well as a higher post",
+   "source": "马克思主义",
+   "wordNumber": "03.0508",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国干部实际上存在的能上不能下的状况所造成的难题提出的对策。1962年11月29日，他在接见参加组织工作会议和全国监察工作会议的同志时说：多少年来，我们对干部就是包下来，能上不能下。……唯一"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

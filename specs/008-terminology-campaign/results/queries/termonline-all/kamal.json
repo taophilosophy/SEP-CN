@@ -1,0 +1,72 @@
+{
+ "key": "kamal",
+ "term": "kamāl",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:24:58+00:00",
+ "status": "ok",
+ "note": "variant=kamāl; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "KAM 定理",
+   "en": "Kolmogorov-Arnold-Moser theorem,KAM theorem",
+   "source": "物理学名词",
+   "wordNumber": "11.0607",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "ＫＡＭ定理",
+   "en": "Kolgomorov-Arnol'd-Moser theorem,KAM theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "KAM理论",
+   "en": "Kolmogorov-Arnold-Moser theory",
+   "source": "数学名词",
+   "wordNumber": "06.0130",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "KAM 环面",
+   "en": "Kolmogorov-Arnold-Moser torus,KAM torus",
+   "source": "物理学名词",
+   "wordNumber": "11.0608",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "ＫＡＭ环面",
+   "en": "KAM torus",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "近可积系统的KAM定理",
+   "en": "KAM theorem for nearly integrable system",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "由苏联学者A. N. 柯尔莫哥洛夫（A. N. Kolmogorov）1954年提出，后由V. I. 阿诺德（V. I. Arnold）和J. K. 莫泽（J. K. Moser）各自独立完成证明的用"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

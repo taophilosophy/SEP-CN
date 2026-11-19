@@ -1,0 +1,22 @@
+{
+ "key": "asfar",
+ "term": "Asfār",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:25:13+00:00",
+ "status": "ok",
+ "note": "variant=Asfār; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "ASF文件格式",
+   "en": "advanced streaming format;ASF",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.059",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "高级串流格式。作为Windows Media的核心，为 Windows 98 所开发的串流多媒体文件格式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

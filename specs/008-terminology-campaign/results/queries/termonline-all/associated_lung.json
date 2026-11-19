@@ -1,0 +1,752 @@
+{
+ "key": "associated lung",
+ "term": "associated lung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:35:31+00:00",
+ "status": "ok",
+ "note": "variant=associated lung; 审定公布名词库=1986; 海峡两岸名词对照库=413; 其他来源数据库=100; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "呼吸机相关肺损伤",
+   "en": "ventilator-associated lung injury",
+   "source": "普通外科学名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "由于呼吸机使用不当，如呼吸频率过快或潮气量过高导致的肺泡破裂和肺水肿。是肺损伤的一种类型。"
+  },
+  {
+   "cn": "机械通气相关性肺损伤",
+   "en": "ventilation-associated lung injury",
+   "source": "烧伤学名词",
+   "wordNumber": "04.048",
+   "subjectFullName": "烧伤学_特殊类型烧伤_吸入性损伤",
+   "subjectName": "吸入性损伤",
+   "publishYear": "2019",
+   "definition": "机械通气对正常肺组织的损伤或使病变肺组织的损伤进一步加重的现象。是机械通气引起的跨肺压、剪应力增大，以及继发性生物学变化、氧中毒等共同作用的结果。包括肺泡外气体、弥漫性肺损伤和弥漫性肺纤维化、系统性气"
+  },
+  {
+   "cn": "机械通气相关性肺损伤",
+   "en": "ventilation- associated lung injury,VALI",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.327",
+   "subjectFullName": "呼吸病学_机械通气_机械通气负效应",
+   "subjectName": "机械通气负效应",
+   "publishYear": "2018",
+   "definition": "机械通气对正常肺组织的损伤或使病变肺组织的损伤进一步加重的现象。是机械通气引起的跨肺压、剪应力增大，以及继发性生物学变化，氧中毒等共同作用的结果。包括肺泡外气体、弥漫性肺损伤和弥漫性肺纤维化、系统性气"
+  },
+  {
+   "cn": "机械通气相关性肺损伤",
+   "en": "mechanical ventilation-associated lung injury",
+   "source": "麻醉学名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统生理学",
+   "subjectName": "呼吸系统生理学",
+   "publishYear": "2024",
+   "definition": "机械通气对正常肺组织的损伤或使病变肺组织的损伤进一步加重的现象。是机械通气引起的跨肺压、剪应力增大，以及继发性生物学变化、氧中毒等共同作用的结果。包括肺泡外气体、弥漫性肺损伤和弥漫性肺纤维化、系统性气"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "麻醉学名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。上端称肺尖，下端称肺底，内侧称纵隔面，外侧称肋面。右肺三叶，左肺二叶，外被胸膜，以叶间裂相隔，每叶肺又依支气管和血管的分支再分为肺段。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "兽医学名词",
+   "wordNumber": "19.061",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "五脏之一。位于胸中，上连气道，其主要生理功能是主气、司呼吸、主宣发肃降、通调水道，并与鼻窍、皮毛密切相关。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "动物学名词",
+   "wordNumber": "6.0993",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "陆生脊椎动物特有的呼吸器官。位于胸腔内，分为左肺和右肺。低等种类只呈囊状构造，内部只有具有血管的皱襞；但在高等种类为海绵状结构。鸟类的肺主要是由大量的三级支气管组成。哺乳动物的肺是由许多微细支气管和肺"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "呼吸病学_解剖和组织学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "进行气体交换，实现体内摄取氧和排出二氧化碳，并具有一定代谢和免疫功能的器官。位于胸腔内，横膈上，以纵隔为界，分左肺和右肺。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "核医学名词",
+   "wordNumber": "04.1334",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "接受右心室输出的静脉血，进行气体交换，回输氧合动脉血到左心房的器官。以纵隔为界分为左、右两肺。由肺泡、肺内支气管、及与之伴行的血管、神经、淋巴组织构成；外表面覆以脏层胸膜。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0585",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "呼吸系统中最重要的器官。位于胸腔内，纵隔两侧，分为左肺和右肺。生活状态下的正常肺，色浅红，质柔软，呈海绵状，富有弹性。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.105",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "五脏之一，位于胸腔之内，膈之上，左右各一。其主要生理功能是主气、司呼吸、主宣发肃降、通调水道、朝百脉而主治节，并与鼻窍、皮肤密切相关。"
+  },
+  {
+   "cn": "妊娠合并肺恶性肿瘤",
+   "en": "pregnancy-associated with lung malignant tumor",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "9.032",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤生殖学_妊娠合并恶性肿瘤",
+   "subjectName": "妊娠合并恶性肿瘤",
+   "publishYear": "2022",
+   "definition": "妊娠期间发现的原发于肺部的恶性肿瘤。包括肺腺癌、鳞癌、小细胞癌、大细胞癌及转移性肺癌等。"
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0123",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "两个或两个以上相同或不同的化学本体之间通过可逆连接而形成复杂物质的过程。"
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.217",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在认识活动中由一事物而想起相关的其他事物，从而深化认识、获得新知的一种创造性思维方法。"
+  },
+  {
+   "cn": "演替群丛",
+   "en": "associes ",
+   "source": "草学名词",
+   "wordNumber": "2.035",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "演替群丛",
+   "en": "associes",
+   "source": "植物学名词",
+   "wordNumber": "13.0388",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "演替系列群落分类系统中的植物群落分类单位。与演替顶极群落分类系统中的群丛相似。前者处于演替中途，后者属于演替顶极。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "植物学名词",
+   "wordNumber": "13.0386",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "不同学派有不同的理解。在中国，群丛为植被分类的最基本单位，指凡是物种组成基本相同，且层片结构和各层片的优势种或共优种(或标志种)相同，群落结构和动态特征(包括相同的季相变化规律和演替阶段等)以及生境相"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0319",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "类之间的一个关系。即这些类的对象实例集合的笛卡儿积的一个子集合，其中的元素提供了应用领域中一组有意义的信息。"
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "林学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "具有相似种类组成、优势种、结构和外貌的同类群落的集合。是植物群落的基本分类单‍位。"
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0578",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "人们为了某种共同目的组成一定形式的社会组织。是人类在通过个人和家庭不能满足个人或社会需要后的产物。"
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演替群丛",
+   "en": "associes",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "O星协",
+   "en": "O association\",\"OB association",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "肺芽",
+   "en": "lung bud",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "右肺",
+   "en": "right lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "左肺",
+   "en": "left lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "书肺",
+   "en": "book-lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "联合公司",
+   "en": "associated company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连带数",
+   "en": "associated number",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关联数据",
+   "en": "associated data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肺根",
+   "en": "root of lung\",\"pedicle of lung\",\"radix of lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "联络神经纤维",
+   "en": "association neurofiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "联络神经元",
+   "en": "association neuron",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "联络纤维",
+   "en": "association fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弓箭步",
+   "en": "lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肺脓肿",
+   "en": "lung abscess",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侧弓箭步",
+   "en": "side lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前弓箭步",
+   "en": "forward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓箭步",
+   "en": "backward lunge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺姿",
+   "en": "lunge position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双肺浸润性病灶",
+   "en": "infiltration in both lungs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "结缔组织疾病相关性间质性肺病",
+   "en": "interstitial lung diseases associated with connective tissue diseases，CTD-ILD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.14",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "可见于多种结缔组织病的间质性肺病。如系统性硬化、干燥综合征、多发性肌炎/皮肌炎、类风湿关节炎等。不同的结缔组织病的间质性肺病可在临床表现、影像学和病理特征上表现不同，呈现各自不同的发展与转归。"
+  },
+  {
+   "cn": "医疗相关感染",
+   "en": "healthcare associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在接受治疗过程中获得的感染，或医务人员在医疗环境中履行职责时获得的感染。"
+  },
+  {
+   "cn": "器械相关感染",
+   "en": "device-associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在使用某种器械期间或其停止使用某种器械（如呼吸机、导尿管、血管导管等）48小时内出现的与该器械相关的感染。如果停止使用相关器械时间超过48小时后出现了相关感染，应有证据表明此感染与该器械使用有关，"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "放射致肺癌",
+   "en": "radiation induced lung cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致呼吸上皮细胞（支气管、细支气管和肺泡）的恶性肿瘤。常有区域性淋巴转移和血行播散，临床表现咳嗽、咯血，后期出现胸痛、胸闷、呼吸困难及远处转移征象。其病程进展速度与细胞生物学特征有关。"
+  },
+  {
+   "cn": "萎缩肺综合征",
+   "en": "shrinking lung syndrome，SLS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.25",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为呼吸困难、胸膜炎性胸痛等，肺功能提示肺容积进行性降低，胸部CT无明显肺间质或胸膜病变的综合征。发病机制尚不明确，可能与膈肌病变、膈神经病变、胸廓扩张异常等有关。可发生于1～6%的SLE患者中。"
+  },
+  {
+   "cn": "肌炎相关性自身抗体",
+   "en": "myositis associated autoantibodies,MAA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "特发性炎性肌病有关的一类自身抗体，特异性不高，也存在于其他自身免疫病中，如抗核抗体，抗Ro-52抗体等。"
+  },
+  {
+   "cn": "肿瘤相关性肌病",
+   "en": "cancer-associated myositis, CAM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种特发性炎性肌病伴有恶性肿瘤的肌病。肿瘤可以和肌炎同时发病，也可以发生在肌炎之前或之后，但间隔时间一般不超过3年。"
+  },
+  {
+   "cn": "血管导管相关感染",
+   "en": "vessel catheter associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "留置血管导管期间及拔除血管导管后48小时内发生的原发性且与其他部位感染无关的感染，包括血管导管相关局部感染和血流感染。"
+  },
+  {
+   "cn": "微小病毒B相关性血管炎",
+   "en": "parvovirus B19-associated vasculitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种与细小病毒B19感染相关的血管炎性自身免疫病。 表现为包括巨细胞动脉炎、结节性多动脉炎、过敏性血管炎及肉芽肿性多动脉炎等多种类型，血清抗B19抗体可阳性，组织病理学表现复杂多样。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

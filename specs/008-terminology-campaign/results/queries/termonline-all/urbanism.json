@@ -1,0 +1,712 @@
+{
+ "key": "urbanism",
+ "term": "urbanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:27:08+00:00",
+ "status": "ok",
+ "note": "variant=urbanism; 审定公布名词库=893; 海峡两岸名词对照库=256; 其他来源数据库=35; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "城市语特征",
+   "en": "urbanism",
+   "source": "语言学名词",
+   "wordNumber": "12.026",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "城市地区使用的语言在语音、词汇或语法方面所具有的特征。"
+  },
+  {
+   "cn": "城市主义",
+   "en": "urbanism",
+   "source": "地理学名词",
+   "wordNumber": "19.095",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "城市地区涉及城市居民的生活方式。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "风景园林名词",
+   "wordNumber": "05.0013",
+   "subjectFullName": "风景园林_风景园林规划_城乡规划",
+   "subjectName": "城乡规划",
+   "publishYear": "2025",
+   "definition": "农村人口改变其居住地，从农村嵌入城市，使城市数目增加、城市规模不断扩大，人口不断向城市聚集的过程。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "人类生产和生活方式由乡村型向城市型转化的过程，表现为乡村人口向城市人口转化以及城市不断发展和完善的过程。"
+  },
+  {
+   "cn": "城市",
+   "en": "urban",
+   "source": "经济学名词",
+   "wordNumber": "08.142",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "区域的重要组成要素，是区域经济和社会活动的聚集体，是区域的政治、经济、文化与精神生活中心。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "经济学名词",
+   "wordNumber": "08.143",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "人口向城市聚集、城市规模扩大以及由此引起一系列社会经济变化的过程。城市化的实质是指因社会生产力的不断进步所引起的人们的生产方式、生活方式和居住方式向城市转化的过程。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "建筑学名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "人类生产和生活方式由乡村型向城市型转化的过程，表现为乡村人口向城市人口转化以及城市不断发展和完善的过程。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "生态学名词",
+   "wordNumber": "17.042",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "指人类生产和生活方式由乡村型向城市型转化的历史过程，表现为乡村人口向城市人口的转化以及城市不断发展和完善的过程。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "地理学名词",
+   "wordNumber": "19.039",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "一个地区的人口在城镇和城市相对集中的过程。城市化也意味着城镇用地扩展，城市文化、城市生活方式和价值观在农村地域的扩散过程。"
+  },
+  {
+   "cn": "城市化水平",
+   "en": "urbanization level,urbanization rate",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "城乡规划学_城乡规划总述_城市与乡村",
+   "subjectName": "城市与乡村",
+   "publishYear": "2021",
+   "definition": "衡量城市化发展程度的指标。一般用一定区域内城市人口占总人口比例来表示。"
+  },
+  {
+   "cn": "城市问题",
+   "en": "urban issue,urban problem",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）泛指城市发展的相关议题。（2）城市运行与发展过程中所出现的失衡与无序，或对城市生产、生活活动带来不便和困难的种种现象的统称。"
+  },
+  {
+   "cn": "城市更新",
+   "en": "urban regeneration,urban renewal",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "城乡规划学_社区与住房规划_城市更新规划",
+   "subjectName": "城市更新规划",
+   "publishYear": "2021",
+   "definition": "（1）基于城市产业转型、功能提升、设施优化等原因，对城市建成区进行整治、改造与再开发的规划建设活动和制度。（2）特指美国在20世纪50年代至70年代由联邦政府资助城市政府以清除贫民窟为主要目标的大规模"
+  },
+  {
+   "cn": "城市绿化",
+   "en": "urban planting,urban greening",
+   "source": "林学名词",
+   "wordNumber": "09.005",
+   "subjectFullName": "林学_风景园林",
+   "subjectName": "风景园林",
+   "publishYear": "2016",
+   "definition": "栽种植物和利用自然条件以改善城市环境的活动。一般不包括耕地和无植被的水域。"
+  },
+  {
+   "cn": "城乡接合部",
+   "en": "urban periphery,urban fringe",
+   "source": "建筑学名词",
+   "wordNumber": "07.0078",
+   "subjectFullName": "建筑学_城乡规划_总体规划",
+   "subjectName": "总体规划",
+   "publishYear": "2014",
+   "definition": "城市外围兼具城市和乡村两种土地利用特点的城乡过渡地带。是城镇扩展和蔓延的主要区域，通常也是城中村改造的重要地区。"
+  },
+  {
+   "cn": "城市问题",
+   "en": "urban issues,urban problems",
+   "source": "地理学名词",
+   "wordNumber": "19.076",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "广义指具有城市特点的各种矛盾，包括积极的和消极的，狭义则专指城市弊病。"
+  },
+  {
+   "cn": "景观都市化",
+   "en": "landscape urbanism",
+   "source": "风景园林名词",
+   "wordNumber": "05.0016",
+   "subjectFullName": "风景园林_风景园林规划_城乡规划",
+   "subjectName": "城乡规划",
+   "publishYear": "2025",
+   "definition": "描述了当代城市化进程中一种对现有秩序重新整合的途径，在此过程中景观取代建筑成为城市建设的最基本要素。将城市理解成一个生态体系，通过景观基础设施的建设和完善，将基础设施的功能与城市的社会文化需要结合起来"
+  },
+  {
+   "cn": "新城市主义",
+   "en": "new urbanism",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.118",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "美国学者针对现代主义城市功能规划问题，提出的关于城市内部和郊区紧凑发展以恢复城市社区活力的一系列设计理念。"
+  },
+  {
+   "cn": "新城市主义",
+   "en": "new urbanism",
+   "source": "建筑学名词",
+   "wordNumber": "07.0041",
+   "subjectFullName": "建筑学_城乡规划_城乡规划总论",
+   "subjectName": "城乡规划总论",
+   "publishYear": "2014",
+   "definition": "20世纪90年代初兴起的一个新的城市设计运动，主张借鉴二战前美国小城镇和城镇规划优秀传统，塑造具有城镇生活氛围、紧凑的社区，取代郊区蔓延的发展模式。"
+  },
+  {
+   "cn": "城市更新",
+   "en": "urban renewal",
+   "source": "风景园林名词",
+   "wordNumber": "01.0055",
+   "subjectFullName": "风景园林_总论_风景园林管理",
+   "subjectName": "风景园林管理",
+   "publishYear": "2025",
+   "definition": "依照城市发展要求，对城市中已经不适应现代化城市社会生活地区的空间形态和功能的持续完善和优化调整，有计划的持续性改建活动。"
+  },
+  {
+   "cn": "城市生物多样性",
+   "en": "urban biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0151",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "城市范围内的生物及其生存环境所形成的生态复合体。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "城市问题",
+   "en": "urban issues\",\"urban problems",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市化效应",
+   "en": "urbanization effect",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市气候",
+   "en": "urban climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市气候学",
+   "en": "urban climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市天气",
+   "en": "urban weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "城市林业",
+   "en": "urban forestry",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市生态系统",
+   "en": "urban ecosystem",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市气候",
+   "en": "urban climate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市生态学",
+   "en": "urban ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市农业",
+   "en": "urban agriculture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市社会生态学",
+   "en": "urban socioecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市景观",
+   "en": "urban landscape",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逆城市化",
+   "en": "counter-urbanization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "城市边缘区",
+   "en": "urban fringe",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市布局",
+   "en": "urban layout",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市场",
+   "en": "urban field",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市创业主义",
+   "en": "urban entrepreneuriatism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市等级体系",
+   "en": "urban hierarchy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市更新",
+   "en": "urban renewal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大数据",
+   "en": "urban big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字城市规划",
+   "en": "digital urban planning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市神经系统",
+   "en": "urban nervous system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市地理信息",
+   "en": "urban geographic information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市规划仿真",
+   "en": "urban planning simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市画像",
+   "en": "visualized urban data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市智能感知",
+   "en": "urban smart sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市生态安全",
+   "en": "urban ecological security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市价值链理论",
+   "en": "urban value chain theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市性",
+   "en": "urbanism",
+   "source": "社会学名词",
+   "wordNumber": "3.4.3.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市化",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "城市人所具有的社会心理文化特质。由美国城市社会学家路易斯·沃斯为代表的学者提出。聚集了大量的、密度较高的、社会文化背景迥异的人群，在这样多元而开放的环境下，人们一方面变得理性、独立而宽容，但同时产生了"
+  },
+  {
+   "cn": "都市性",
+   "en": "urbanism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0096",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "都市本身所特有的、以区别农业社会和狩猎社会的基本特征。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "社会学名词",
+   "wordNumber": "3.4.3.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市化",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "人类生产和生活方式由农村型向城市型转化的历史过程。表现为农村人口向城市转移以及城市不断发展的过程。通常以城市人口占总人口的百分比这一指标衡量城市化水平。"
+  },
+  {
+   "cn": "城镇化",
+   "en": "urbanization",
+   "source": "马克思主义",
+   "wordNumber": "03.0662",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "农村人口不断向城镇转移，第二、三产业不断向城镇聚集，从而使城镇数量增加、规模扩大的一种历史过程。"
+  },
+  {
+   "cn": "都市",
+   "en": "urban",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0095",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人口集中、工商业发达、居民以非农业人口为主的地区，通常是周围地区的政治、经济、文化中心，一般包括了住宅区、工业区和商业区等机能分区，并且具备行政管辖功能。"
+  },
+  {
+   "cn": "城市化",
+   "en": "urbanization",
+   "source": "社会医学名词",
+   "wordNumber": "3.10",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "人类生产和生活方式由农村型向城市型转化的历史过程。表现为农村人口向城市转移以及城市不断发展的过程。通常以城市人口占总人口的百分比来衡量。"
+  },
+  {
+   "cn": "都市化",
+   "en": "urbanization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0097",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会中城市与非城市地区之间的来往和互相联系日益增多的过程，表现为城市的规模逐渐扩大，城市人口的不断增加，城市在社会生活中所发挥的作用逐渐增强。都市化的标志是城镇人口占总人口的比重。"
+  },
+  {
+   "cn": "新城市主义",
+   "en": "new urbanism",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "城市设计和规划向传统邻里街区回归的主张。兴起于20世纪80年代，代表了对此前大规模城市改造所造成弊端的反思，注重营建公共空间、步行性以及人口与功能的多元化。"
+  },
+  {
+   "cn": "城市社区",
+   "en": "urban community",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "在一定的城市地域范围内生活的人们所组成的社会生活共同体。"
+  },
+  {
+   "cn": "逆城市化",
+   "en": "counter-urbanization",
+   "source": "社会学名词",
+   "wordNumber": "3.4.3.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市化",
+   "subjectName": "城市化",
+   "publishYear": "2025",
+   "definition": "城市中心人口想郊区和农村迁移的分散化过程。与城市化相对，20世纪70年代以来，一些大都市的中心市区人口外迁，而且郊区人口也迁向离城市更远的农村和小城镇，城市则出现了人口负增长的现象。"
+  },
+  {
+   "cn": "城市贫困",
+   "en": "urban poverty",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "某一部分城市居民因就业不充分等原因成为低收入群体，且难以维持一般的生活标准的状态。通常与失业、非正规就业或低技能、低薪就业相关，往往集中居住，形成贫困社区。"
+  },
+  {
+   "cn": "城市更新",
+   "en": "urban renewal",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "由政府推动完成的一系列城市改造的现象。广泛实行于二战后的西方国家，由政府推动完成一系列目标，包括贫民窟清除，改善低收入者住房及居住环境，城市基础设施建设，调整城市空间格局以促进经济发展等，但也因对传统"
+  },
+  {
+   "cn": "城市公社",
+   "en": "urban community",
+   "source": "马克思主义",
+   "wordNumber": "03.0043",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古代人类阶级社会所形成的第二种所有制形式。生产力发展和分工促成了人类社会的第二种所有制形式，这种所有制是公社所有制和国家所有制，是由几个部落通过契约或征服联合为一个城市而产生。"
+  },
+  {
+   "cn": "城市改革",
+   "en": "urban reform",
+   "source": "马克思主义",
+   "wordNumber": "03.0531",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在农村经济改革取得成功的基础上，以城市为内容和对象而实行的全面经济体制改革。1984年中共十二届三中全会开始，我国经济体制改革的重点由农村转到城市。从1985年起城市改革全面展开。"
+  },
+  {
+   "cn": "都市民俗",
+   "en": "urban folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0476",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以空间观念来划分的一种民俗类型，相对于乡村民俗而言的一个概念，指长久居住在城市的群体所传习的一种模式化的生活文化，既包括城市各阶层民众在长期社会生活中所传承的习俗惯制，也包括在现代生活中创造并沉积下来"
+  },
+  {
+   "cn": "城镇居民",
+   "en": "urban resident",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在城镇居住半年及半年以上的城镇人口。"
+  },
+  {
+   "cn": "都市社区",
+   "en": "urban community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0098",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一定地域内异质性居民稠密集居的共同体。都市社区的构成要素主要是：①有一定的地理位置和范围；②有着众多的异质性居民，他们可能属于不同的民族，有着不同的语言、文化和生活方式；③有一定的经济活动；④集居的"
+  },
+  {
+   "cn": "都市人类学",
+   "en": "urban anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0094",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的分支学科，以文化人类学（民族学）方法研究都市社区的演变规律、文化结构、生活方式、都市化和都市问题及其解决方法的学科。"
+  },
+  {
+   "cn": "城市社区",
+   "en": "urban community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "在一定城市地域范围内，由居住功能主导，以家庭、社会组织（如单位、企业、学校）为基本单元，通过密集的人口、完善的基础设施、多元的社会互动形成的相对独立的生活共同体。"
+  },
+  {
+   "cn": "都市宏观民族志",
+   "en": "urban macro-ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0102",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "依赖民族志的、历史的和社会的观察技术对城市作完整的描述，宏观民族志强调社会结构而不是都市居民的行为模式和认知结构。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

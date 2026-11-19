@@ -1,0 +1,702 @@
+{
+ "key": "guo",
+ "term": "guó",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:36:42+00:00",
+ "status": "ok",
+ "note": "variant=guó; 审定公布名词库=434; 海峡两岸名词对照库=70; 其他来源数据库=21; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "牵索",
+   "en": "guy,slewing guy",
+   "source": "船舶工程名词",
+   "wordNumber": "05.171",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "索具中用以摆动吊杆或调整吊杆偏角的绳索。"
+  },
+  {
+   "cn": "齿龈",
+   "en": "gum",
+   "source": "动物学名词",
+   "wordNumber": "6.0957",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2021",
+   "definition": "在齿颈周围并覆盖颌骨的齿槽部分的结缔组织。"
+  },
+  {
+   "cn": "胶质",
+   "en": "gum",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0341",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "润滑中，由于燃料和润滑油氧化和(或)聚合产生的一种黑色或深棕色橡胶状黏性沉积物。"
+  },
+  {
+   "cn": "胶质",
+   "en": "gum",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.1193",
+   "subjectFullName": "化工（一）_分析、化验、评定",
+   "subjectName": "分析、化验、评定",
+   "publishYear": "2017",
+   "definition": "在规定试验条件下，石油和石油产品中所有挥发组分蒸发后所剩下的深色残留物。用mg/100mL表示。"
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "source": "林学名词",
+   "wordNumber": "12.593",
+   "subjectFullName": "林学_林产化学加工_树木分泌物与提取物",
+   "subjectName": "树木分泌物与提取物",
+   "publishYear": "2016",
+   "definition": "树木分泌出的黏性物质干燥后得到的能溶于水的多糖或多糖衍生物。"
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "source": "化学名词",
+   "wordNumber": "05.0154",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "由热带、亚热带生长的某些树木的分泌液得到的黏性物质。主要成分是阿拉伯糖、半乳糖、糖醛酸等多糖类。"
+  },
+  {
+   "cn": "龈",
+   "en": "gum",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.050",
+   "subjectFullName": "中医药学_耳鼻喉科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "牙龈。"
+  },
+  {
+   "cn": "缆绳",
+   "en": "guy",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0586",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_桅杆起重机",
+   "subjectName": "桅杆起重机",
+   "publishYear": "2013",
+   "definition": "连接桅杆顶部支承件与锚碇间的拉索，用以保持桅杆的稳定与直立。"
+  },
+  {
+   "cn": "龈",
+   "en": "gum",
+   "source": "中医药学名词",
+   "wordNumber": "03.348",
+   "subjectFullName": "中医药学_中医基础理论_形体官窍",
+   "subjectName": "形体官窍",
+   "publishYear": "2004",
+   "definition": "牙床上的肉，分上龈、下龈。"
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "source": "航海科技名词",
+   "wordNumber": "08.0376",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "胶质",
+   "en": "gum",
+   "source": "石油名词",
+   "wordNumber": "01.0049",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "国",
+   "en": "guo,capital",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "天子或诸侯的都城。后转指封疆。"
+  },
+  {
+   "cn": "拉线",
+   "en": "guy,stay",
+   "source": "建筑学名词",
+   "wordNumber": "14.0583",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "承受张力，用于连接杆塔上一点与地锚或连接杆塔上两点的钢索。"
+  },
+  {
+   "cn": "牙龈",
+   "en": "gum,gingiva",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0028",
+   "subjectFullName": "人体解剖学_内脏学_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2014",
+   "definition": "包绕在上、下颌骨牙槽突及牙颈部的口腔黏膜。"
+  },
+  {
+   "cn": "牙龈",
+   "en": "gingiva,gum",
+   "source": "医学名词 第二分册",
+   "wordNumber": "03.058",
+   "subjectFullName": "医学_口腔医学_口腔组织学",
+   "subjectName": "口腔组织学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "β葡糖醛酸糖苷酶",
+   "en": "β-glucuronidase,GUS",
+   "source": "植物学名词",
+   "wordNumber": "16.0234",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "可水解蛋白聚糖中葡糖醛酸糖苷键的酶。其编码基因通常作为一种遗传标记用于基因表达和蛋白质定位研究。"
+  },
+  {
+   "cn": "郭",
+   "en": "guo,outer city wall",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.008",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "外城。古代在城的外围加筑的一道城墙。"
+  },
+  {
+   "cn": "大统一理论",
+   "en": "grand unified theory,GUT",
+   "source": "物理学名词",
+   "wordNumber": "09.1225",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图形用户界面",
+   "en": "graphical user interface,GUI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0319",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "（1）一种用户界面。利用图像和其他图形元素，以简化与软件互动的过程，也被视作软件的“所见即所得”。（2）使用户能通过图像或图形与设备进行交互的程序接口。"
+  },
+  {
+   "cn": "β葡糖醛酸糖苷酶基因",
+   "en": "β-glucuro- nidase gene,gus",
+   "source": "植物学名词",
+   "wordNumber": "16.0350",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "β葡糖醛酸糖苷酶的编码基因。是常用的监测转染率的报告基因之一。是从大肠杆菌中分离出来的，在其附近插入启动子区就产生转录融合基因或翻译融合基因。"
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "齿龈",
+   "en": "gum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "牵索",
+   "en": "guy",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "树胶",
+   "en": "gum",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "树胶道",
+   "en": "gum canal\",\"gum duct",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肠",
+   "en": "intestine\",\"gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "牙龈",
+   "en": "gum\",\"gingiva",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "炮身窗护板",
+   "en": "gun port shield\",\"gun shield",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "咽肠",
+   "en": "pharyngeal gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "原肠",
+   "en": "primitive gut",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因枪",
+   "en": "gene gun",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[采]云枪",
+   "en": "cloud gun",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "速成胶质",
+   "en": "accelerated gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "甘油松香酯",
+   "en": "ester gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可溶性胶",
+   "en": "soluble gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黄芪胶",
+   "en": "tragacanth gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海绵胶",
+   "en": "sponge gum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蚕胶丝",
+   "en": "silkworm gut",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "枪",
+   "en": "gun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鸣炮",
+   "en": "gun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支索",
+   "en": "guy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "火药",
+   "en": "gun powder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪库",
+   "en": "gun room",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪架",
+   "en": "gun rack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "牵索",
+   "en": "guy cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "火药",
+   "en": "gun powder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令枪",
+   "en": "starter’s gun\",\"starting pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令枪",
+   "en": "starting gun\",\"starting pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令枪",
+   "en": "starting gun\",\"starting pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令",
+   "en": "gun start\",\"starting shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下曳索",
+   "en": "down haul\",\"guy\",\"preventer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令枪",
+   "en": "starter’s gun\",\"starting pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "植入枪",
+   "en": "implant gun",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.26",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "装载粒籽源并可将其推入植入针的器具。"
+  },
+  {
+   "cn": "电子枪",
+   "en": "electron gun",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.17",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "产生电子并从中引出电子束的器件或装置。"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan gum",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.14.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "主链骨架为1,4-β-D-葡萄苷重复单元、侧链为1 个葡萄醛酸和两个甘露糖所组成的高分子多糖，由野油菜黄单胞菌以淀粉质为主要原料发酵产生。其水溶液具有良好的增稠性能，在食品加工中可用作增稠剂和稳定剂。"
+  },
+  {
+   "cn": "古儿汗",
+   "en": "Gur Qaghan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0217",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "西辽、蒙古最高统治者的称号。“诸汗之汗”或“大汗”之意。"
+  },
+  {
+   "cn": "阿拉伯胶",
+   "en": "gum arabic",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "金合欢树或阿拉伯胶树的枝干分泌出来的天然树胶，主要成分为高分子多糖及其钙盐、镁盐和钾盐。在食品加工中广泛用作增稠剂。"
+  },
+  {
+   "cn": "刺梧桐胶",
+   "en": "karaya gum",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.21.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "部分乙酰化的弱酸性多糖，由刺苹婆或其他苹婆属种植物树干的胶状分泌物经干燥、粉碎而制得。可在水油状脂肪乳化制品中用作稳定剂"
+  },
+  {
+   "cn": "胶基配料",
+   "en": "gum based ingredient",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.10.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "用于生产胶基的天然橡胶、合成橡胶、树脂、蜡类、乳化剂、软化剂、抗氧化剂、防腐剂、填充剂等相关食品原料的总称。"
+  },
+  {
+   "cn": "胶基糖果",
+   "en": "gum based candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.8",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以胶基、食糖、糖浆、甜味剂等为主要原料,经相关工艺制成的可咀嚼或可吹泡的糖果。"
+  },
+  {
+   "cn": "党指挥枪",
+   "en": "Party commands the gun",
+   "source": "马克思主义",
+   "wordNumber": "03.0405",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党对人民军队绝对领导的原则的形象表述，毛泽东建军思想的核心。毛泽东1938年在中国共产党六届六中全会上提出“我们的原则是党指挥枪，而决不容许枪指挥党。”"
+  },
+  {
+   "cn": "《丁香帐》",
+   "en": "Li shivi gur khang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0341",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "古藏文辞书，全称《藏语古今语词指津善言•丁香帐》。全书收录佛学术语和一般词语1000多词条，其中古今语词对照有800 多条。作者觉顿•仁钦扎西，根据藏文的几次“厘定”而编成。"
+  },
+  {
+   "cn": "肠相关淋巴组织",
+   "en": "gut-associated lymphoid tissue，GALT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.7.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "消化管壁的淋巴组织。包括淋巴小结、上皮和固有层内的淋巴细胞以及肠系膜淋巴小结等。"
+  },
+  {
+   "cn": "胶基糖果中基础剂物质",
+   "en": "base materials in gum candy",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.10",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "以橡胶和/或树脂等胶基配料经配合制成的用于胶基糖果生产，使胶基糖果具有咀嚼性和/或起泡性，不以营养为目的的基础剂物质。"
+  },
+  {
+   "cn": "醉谷病",
+   "en": "zui-gu disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.2.2",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "赤霉病麦中毒重症的典型症状之一，表现为呼吸、脉搏、体温及血压波动，四肢酸软、步态不稳、形似醉酒。"
+  },
+  {
+   "cn": "莲花生八相",
+   "en": "Gu ru mtshan brgyad",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0467",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。指莲花生的八种变化身：1.格热班玛桑巴瓦，莲花生上师；2.班玛杰波，莲花王上师；3.格热多杰卓洛，忿怒金刚上师；4.夏迦森给，释迦狮子；5.格热罗登楚瑟，爱慧上师；6.尼玛欧瑟，日光上师"
+  },
+  {
+   "cn": "枪杆子里面出政权",
+   "en": "political power grows out of the barrel of a gun",
+   "source": "马克思主义",
+   "wordNumber": "03.0377",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1927年在中国共产党“八七”会议上总结大革命失败的经验教训提出的关于武装斗争重要性的著名论断，是毛泽东军事思想产生的重要基础。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

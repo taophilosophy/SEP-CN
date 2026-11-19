@@ -1,0 +1,772 @@
+{
+ "key": "godel turing",
+ "term": "Gödel Turing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:38:10+00:00",
+ "status": "ok",
+ "note": "variant=Gödel Turing; 审定公布名词库=1033; 海峡两岸名词对照库=207; 其他来源数据库=35; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.665",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "图灵于1950年提出的一个关于判断机器是否能够思考的著名思想实验。测试某机器是否能表现出与人等价或无法区分的智能，测试的谈话仅限于使用唯一的文本管道。"
+  },
+  {
+   "cn": "图灵斑图",
+   "en": "Turing pattern",
+   "source": "物理学名词",
+   "wordNumber": "11.0708",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "生物物理学名词",
+   "wordNumber": "07.147",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国数学家、密码专家和数字计算机的奠基人图灵(A. Turing)提出的一种检验某个对象是否有智能的测试方法。向对象提出各种各样的问题，如果提问的人从对象的答复中无法区别对象究竟是一个人还是一台机器时"
+  },
+  {
+   "cn": "图灵可定义性",
+   "en": "Turing definability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0253",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵度结构中可定义的特殊子集。例如一切计算可枚举度在整个图灵度结构中是否可定义就是一个重要未解决问题。"
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reducibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0202",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A,B ，如果存在一个图灵机 Φ 使得 A=<img src='/root/syzx/static/spz/jsjkx3.02.0202.001.png'/>，则称 A 图灵归约于 B"
+  },
+  {
+   "cn": "图灵度",
+   "en": "Turing degree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0235",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "利用图灵归约，记为<img src='/root/syzx/static/spz/jsjkx3.02.0224.001.png'/>，可以定义一个等价关系<img src='/root/syzx/st"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0564",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "计算能力最强的自动机，由一个有限控制器和一条可以无限延伸的读写带组成。在当前状态下读到一个带符号（分为输入符号、输出符号、空白符号和边界符号四类）时，实现状态转换，在当前格写上新的符号，读写头向左或向"
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "数学名词",
+   "wordNumber": "02.0254",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵归约",
+   "en": "Turing reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0299",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "自动化名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "图灵实验",
+   "en": "Turing test",
+   "source": "自动化名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.640",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自然数上的一个函数如果是可以根据一个算法进行人工计算的，那么也一定是在图灵机上可计算的。"
+  },
+  {
+   "cn": "量子图灵机",
+   "en": "quantum Turing machine",
+   "source": "物理学名词",
+   "wordNumber": "06.0812",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multimensional Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0525",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一种变型图灵机，它的读写“带”不是一维，而是多维的。以二维图灵机为例，其“带”是一个平面，可向右、向下无限延伸。读写头在当前格工作完后，可向左、向右、向上或向下移一格。"
+  },
+  {
+   "cn": "图灵完全集",
+   "en": "Turing complete set",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0203",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A ，如果 A 是计算可枚举的，而且对任何计算可枚举集 X，均有 X<img src='/root/syzx/static/spz/jsjkx3.02.0202.002.png'/>A"
+  },
+  {
+   "cn": "概率图灵机",
+   "en": "probabilistic Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0355",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种非确定型图灵机，每走一步在两个转移函数<img src='/root/syzx/static/spz/jsjkx3.02.0355.001.png'/>之间随机地选取一个。 "
+  },
+  {
+   "cn": "交替图灵机",
+   "en": "alternating Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0332",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "类似于非确定型图灵机。按如下方式定义的计算模型：每一个转移函数有两个选择，每一个内部状态有一个标签<img src='/root/syzx/static/spz/jsjkx3.02.0180.001."
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0580",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "接受通用语言 <img src='/root/syzx/static/spz/jsjkx3.02.0579.001.png'/>，且只有0,1，B（空白符）三个带符号的单向无限的单带图灵机。"
+  },
+  {
+   "cn": "量子图灵机",
+   "en": "quantum Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0120",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "一个表示量子计算机能力的抽象机器。1985年由大卫·多伊奇（David Deutsch）提出，是经典图灵机的推广。它的数据带、读写头和状态表都能够记载和处理量子信息，并且使用叠加态作为量子计算的基本数"
+  },
+  {
+   "cn": "谕示图灵机",
+   "en": "oracle Turing machine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "安装了只读的谕示带的图灵机。"
+  },
+  {
+   "cn": "图灵测验",
+   "en": "Turing test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多带图灵机",
+   "en": "multitape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多头图灵机",
+   "en": "multihead Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multidimensional Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非确定型图灵机",
+   "en": "nondeterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离线图灵机",
+   "en": "offline Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定型图灵机",
+   "en": "deterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间有界图灵机",
+   "en": "space-bounded Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间有界图灵机",
+   "en": "time-bounded Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双带图灵机",
+   "en": "two-tape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "朗斯特隆",
+   "en": "Rangström\",\"Anders Johan Ture(瑞典)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "药品生产质量管理规范",
+   "en": "GMP and QC of Drug(=Good Manufac-turing Practice and Quality Control of Drug)",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辛寒生津",
+   "en": "promoting the production of body fluid with drugs of pungent taste and cold na ture",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "调谐",
+   "en": "tuning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调音",
+   "en": "tuning",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拐点",
+   "en": "turning point",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转靶",
+   "en": "turning target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起转身踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起轮踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定转弯处",
+   "en": "compulsory turning point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转弯处裁判员",
+   "en": "turning point umpire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转身裁判员",
+   "en": "inspector of turns\",\"turning judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身裁判员",
+   "en": "inspector of turns\",\"turning judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击环数记录员",
+   "en": "firing point recorder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.56",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "将盐、糖、酸、酒等辅料渗入食品组织内的过程。"
+  },
+  {
+   "cn": "辐射固化",
+   "en": "radiation curing",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "通过辐射，如紫外光（UV）或电子束（EB），将涂布在基材上的无溶剂活性液体转变为固体的加工过程。"
+  },
+  {
+   "cn": "孕期免疫接种",
+   "en": "immunization during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在孕期用人工方法将免疫原或免疫效应物质输入机体内，使机体通过人工自动免疫或人工被动免疫的方法获得防治某种传染病的能力的方法/措施。理论上孕期可接种灭活的病毒疫苗、菌素、抗毒素。"
+  },
+  {
+   "cn": "孕期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为满足孕妇自身的生理状况和代谢改变及胎儿生长发育需要所摄取各种营养物质的生物学过程。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "妊娠期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在妊娠期为维持生命、保障胎儿生长发育和各种生理活动对营养素需求的生物学过程。"
+  },
+  {
+   "cn": "妊娠期便秘",
+   "en": "constipation during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女由于体内激素变化导致胃肠道蠕动变慢，食物通过胃肠道时间延长，尤其是食物残渣在大肠滞留使水分被吸收，引起排便不畅的现象。"
+  },
+  {
+   "cn": "孕期暴力",
+   "en": "violence during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.7",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "现或前亲密伴侣在女性怀孕期间施加的心理、身体或性虐待的行为。"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "杜林主义",
+   "en": "Duhring doctrine",
+   "source": "马克思主义",
+   "wordNumber": "04.0323",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70年代初出现在德国的一种小资产阶级反动思潮，代表人物是杜林。他著书立说，声称要对哲学、政治经济学和社会主义理论实行“全面的变革”，并且提出了一个用“经济公社”改变分配关系的改造世界的方案。由"
+  },
+  {
+   "cn": "布兴语",
+   "en": "Buxing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0327",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布兴人使用的语言。属南亚语系孟-高棉语族佤-德昂语支。中国的布兴人约有540 人，主要分布在云南省西双版纳傣族自治州勐腊县，部分划归为哈尼族；在老挝、泰国、柬埔寨、越南等国也有分布。"
+  },
+  {
+   "cn": "在岗期间培训",
+   "en": "training during the job",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员在岗期间应定期接受的放射防护有关知识的再培训，两次培训的时间间隔不超过2年。"
+  },
+  {
+   "cn": "妊娠期代谢特点",
+   "en": "metabolic characteristic during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女除了满足自身基础代谢、身体活动以及食物特殊动力作用需要外，还需使机体保持适于胚胎/胎儿生长发育的生理环境，支持母体和胚胎/胎儿生长发育相关合成代谢，并在母体内储备营养素，供产后泌乳动用的生理特"
+  },
+  {
+   "cn": "妊娠期生理性贫血",
+   "en": "physiological anemia during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女为满足妊娠需要血容量和血红蛋白、红细胞等都不断增加，但是由于血红蛋白和红细胞的增加速度和幅度都跟不上血容量增加，出现血液稀释的现象。"
+  },
+  {
+   "cn": "妊娠期铁缺乏",
+   "en": "iron deficiency during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.2",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "妊娠期妇女由于铁需要量增加、膳食铁摄入量相对不足或吸收不良导致的体内铁营养不足的状态。一般以血清铁浓度低于20ug/L为诊断标准。"
+  },
+  {
+   "cn": "妊娠期病理性高脂血症",
+   "en": "pathological hyperlipidemia during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "妊娠期妇女血脂异常升高的现象。目前缺乏统一诊断标准，有学者建议将空腹血浆甘油三酯水平≥11.4mmol/L设为界值。"
+  },
+  {
+   "cn": "妊娠期心理应激",
+   "en": "psychological stress during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "女性于妊娠期间，在某种环境刺激作用下，由于客观要求和应付能力不平衡所产生的紧张反应状态。其作用可提高人的警觉水平，以应付环境变化。也可能反应过度有损人体的身心健康和母婴健康。"
+  },
+  {
+   "cn": "灾害救援消毒",
+   "en": "disinfection during disaster rescue",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1.2",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "在灾害救援过程中，采取各种简便易行、效果可靠的物理或化学消毒方法，对可能造成传染病发生和流行的污染对象进行的消毒处理。"
+  },
+  {
+   "cn": "买和卖",
+   "en": "buying and selling",
+   "source": "马克思主义",
+   "wordNumber": "02.0074",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品形态变化的两个阶段，从商品所有者的角度看，就是卖和买两种社会行为。商品流通过程需要经历两个相互对立、相互补充的形态变化，首先是W-G，即商品转化为货币的商品的出卖过程；然后是G—W，货币转化为商品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,622 @@
+{
+ "key": "lacroix's calcul differentiel",
+ "term": "Lacroix’s Calcul Différentiel",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:32:43+00:00",
+ "status": "ok",
+ "note": "variant=Lacroix’s Calcul Différentiel; 审定公布名词库=1257; 海峡两岸名词对照库=453; 其他来源数据库=44; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "计算力",
+   "en": "calculation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.109",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "认知的一种基本能力。用数字运算、操作的数学推导过程。轻度和中度阿尔茨海默病患者通常丧失计算能力。"
+  },
+  {
+   "cn": "计算压力",
+   "en": "calculation pressure",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0004",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "在相应设计温度下，用以确定元件厚度的压力，包括液柱静压力等附加载荷。"
+  },
+  {
+   "cn": "计算厚度",
+   "en": "calculated thickness",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.001",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "在给定的条件下，按相关规定的计算方法计算得到的容器壁厚（不包括厚度附加量）。容器受压元件为满足强度、刚度及稳定性要求的必要厚度。"
+  },
+  {
+   "cn": "GDP核算",
+   "en": "GDP calculation",
+   "source": "经济学名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "总体来说，GDP核算有两种思路，即支出法和收入法。支出法将某一时期内消费、投资、政府需求和净出口相加，得到该期GDP；收入法将某一时期内的工资、利息、利润、地租等要素收入加总，得到该期的GDP。在核算"
+  },
+  {
+   "cn": "整定计算",
+   "en": "setting calculation",
+   "source": "电力名词",
+   "wordNumber": "05.100",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "根据对保护装置的要求和电力系统运行的情况,对保护装置的动作值、动作时间等动作参数进行计算以给出其合理值。"
+  },
+  {
+   "cn": "配网计算",
+   "en": "network calculation",
+   "source": "电力名词",
+   "wordNumber": "06.149",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "用来分析电网容量、效率和可靠性的一套应用软件。"
+  },
+  {
+   "cn": "计算压力",
+   "en": "calculation pressure",
+   "source": "电力名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在计算温度下,用以确定承压元件计算厚度的压力。"
+  },
+  {
+   "cn": "多片[法]计算",
+   "en": "multislice calculation",
+   "source": "物理学名词",
+   "wordNumber": "08.1124",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数值计算",
+   "en": "numerical calculation",
+   "source": "物理学名词",
+   "wordNumber": "01.0523",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "深度计算",
+   "en": "depth calculation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0664",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在视点坐标系中，计算景物上各点与视点的距离。"
+  },
+  {
+   "cn": "地址计算",
+   "en": "address calculation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0240",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "为产生或修改用于访问存储器的地址而进行的计算。"
+  },
+  {
+   "cn": "语音计算器",
+   "en": "voice calculator",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.230",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_视力康复器具设备",
+   "subjectName": "视力康复器具设备",
+   "publishYear": "2014",
+   "definition": "有语音播报、运算错误识别、时间记忆和铃声提示功能的计算器。适用于视力障碍患者。"
+  },
+  {
+   "cn": "弱视计算器",
+   "en": "amblyopia calculator",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.226",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_视力康复器具设备",
+   "subjectName": "视力康复器具设备",
+   "publishYear": "2014",
+   "definition": "配有大型显示屏幕和放大的液晶数字及按键的计算器。面板颜色设计反差明显，数字键、功能键、计算键分别以不同颜色标示以便于识别。适用于弱视者。"
+  },
+  {
+   "cn": "速算",
+   "en": "quick calculation",
+   "source": "教育学名词",
+   "wordNumber": "07.154",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "根据数与数之间的关系，利用运算性质进行较为快速计算的方法。"
+  },
+  {
+   "cn": "摄动计算",
+   "en": "perturbation calculation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "星历计算",
+   "en": "ephemeris calculation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.152",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "计算捻度",
+   "en": "calculational twist",
+   "source": "水产名词",
+   "wordNumber": "03.236",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "根据加工机械传动系统的参数计算的捻度。"
+  },
+  {
+   "cn": "计算跨径",
+   "en": "calculated span",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "航迹计算",
+   "en": "track calculating",
+   "source": "航海科技名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "三维计算",
+   "en": "3D calculation",
+   "source": "石油名词",
+   "wordNumber": "03.0115",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "计算器",
+   "en": "calculator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算器",
+   "en": "calculator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学计量计算",
+   "en": "stoichiometric calculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "calculation\",\"computation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图解计算",
+   "en": "graphical calculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "闪蒸计算",
+   "en": "flash calculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工艺计算",
+   "en": "process calculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可编程计算器",
+   "en": "programmable calculator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逐级计算",
+   "en": "stage calculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曝光计",
+   "en": "exposure calculator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "深度计算",
+   "en": "depth calculation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航迹计算",
+   "en": "track calculating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算高度",
+   "en": "calculated altitude",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "从头计算法",
+   "en": "ab initio calculation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "经典轨迹计算",
+   "en": "classical trajectory calculation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "计算误差",
+   "en": "error in calculation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有限元计算",
+   "en": "finite-element calculation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算方位",
+   "en": "computed azimuth\",\"calculated azimuth",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算风力力臂",
+   "en": "calculated wind pressure lever",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算风力力矩",
+   "en": "calculated wind pressure moment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "庙算",
+   "en": "Court Calculation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大衍",
+   "en": "The Fundamental Calculation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吃水线",
+   "en": "calculated waterline\",\"CWL",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.22-1993 数据处理词汇 第22部分：计算器》",
+   "en": "GB/T 5271.22-1993 Data processing — Vocabulary — Section 22: Calculators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量出制入",
+   "en": "Spend-and-Tax / Expenditure Should Be Carefully Calculated Before  Making a Plan to Gather Revenue.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尿酸结石",
+   "en": "urate calculi",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "尿液中尿酸浓度增加呈过饱和状态，在泌尿系统沉积并形成的结石。10%—25%的高尿酸血症和痛风患者可发生尿酸性泌尿系结石，且可能出现于痛风性关节炎发生之前。"
+  },
+  {
+   "cn": "钙补充",
+   "en": "calcium supplementation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.8",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为满足孕妇和胎儿对钙的需要，而采取补充钙剂的措施。"
+  },
+  {
+   "cn": "硫酸钙",
+   "en": "calcium sulphate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.22.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为CaSO₄的白色结晶性粉末，无臭，几乎无毒。主要存在形式为无水物和二水合物，在食品加工中可用作稳定剂、凝固剂、增稠剂、酸度调节剂等"
+  },
+  {
+   "cn": "氯化钙",
+   "en": "calcium chloride",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.22.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为CaCl₂的白色或无色结晶，微苦，无臭。主要存在形式为无水物和二水合物，在食品加工中用作凝固剂、稳定剂和增稠剂"
+  },
+  {
+   "cn": "硅酸钙",
+   "en": "calcium silicate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "化学式为CaSiO₃ 的无机盐，由氧化钙和二氧化硅在高温下煅烧熔融而成。常作为食品拮抗剂用于乳粉、干酪、淀粉、复合调味料、固体饮料等食品，也可在煎炸油加工中用作助滤剂。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "不同机会理论",
+   "en": "differential opportunity theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为社会特定群体因为经济社会地位低下，获取社会资源的合法机会受到限制，而其生活环境使其有机会接触非法手段时，这些群体就会采取非法手段，从而导致犯罪。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "条目功能差异",
+   "en": "differential item functioning, DIF",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量条目在不同群组的功能表现不一致的现象。其结果是具有相同潜在特质的个体因为属于不同群组（如种族、性别等）对测量条目产生不同反应。"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "焦磷酸钙沉积病",
+   "en": "calcium pyrophosphate deposition disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "一种累及关节和其他运动系统的与双水焦磷酸钙晶体沉积有关的晶体性关节病。"
+  },
+  {
+   "cn": "放射诊疗许可注销",
+   "en": "radiodiagnosis and radiotherapy license cancel",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "医疗机构取得的放射诊疗许可的实体权利消灭后，卫生行政机关履行的终止许可的程序性行为。"
+  },
+  {
+   "cn": "三合二消毒剂",
+   "en": "disinfectant mixed with three parts of calcium hypochlorite and two parts of calcium hydroxide",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.19",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "3份次氯酸钙加2份氢氧化钙混合形成的主要有效成分有次氯酸钙、氢氧化钙和碳酸钙与氯化钙的含氯消毒剂。有效氯含量56%～60%（w/w) ，易潮解。能溶于水，溶液有杂质沉淀。"
+  },
+  {
+   "cn": "儿童优先",
+   "en": "first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "在资源分配上儿童基本需求应得到高度优先满足的理念与行动。"
+  },
+  {
+   "cn": "儿童优先原则",
+   "en": "principle of first call for children",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_儿童健康",
+   "subjectName": "儿童健康",
+   "publishYear": "2025",
+   "definition": "1990年世界儿童问题首脑会议上首次提出的，一切为了儿童，向所有儿童的生存和正常发展提供基本保护的行为准则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

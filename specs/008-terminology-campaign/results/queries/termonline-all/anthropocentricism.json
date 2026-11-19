@@ -1,0 +1,52 @@
+{
+ "key": "anthropocentricism",
+ "term": "anthropocentricism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:37:52+00:00",
+ "status": "ok",
+ "note": "variant=anthropocentricism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "人类中心主义",
+   "en": "anthropocentrism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.234",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以人类利益作为价值原点和道德评价的依据，把人类作为唯一价值判断主体的学说。在人与自然的关系中，人是唯一具有内在价值的自然存在物。人类为了自身的利益而利用自然，也为了自身的利益而保护自然。"
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.235",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以自然的利益、权利和内在价值为价值原点和道德评价的依据，把自然的利益作为人类行为的终极目的和根本尺度的学说。非人类中心主义把道德义务和伦理关怀的范围从人类依次扩展到了动物、植物、无机物和整个自然界，分"
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类中心说",
+   "en": "anthropocentrism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.5",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类是宇宙的中心，事物只有被人类利用起来才具有价值的观点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

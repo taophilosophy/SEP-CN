@@ -1,0 +1,62 @@
+{
+ "key": "antiquarianism",
+ "term": "antiquarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:35:08+00:00",
+ "status": "ok",
+ "note": "variant=antiquarianism; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "古旧书店",
+   "en": "antiquarian bookstore",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.02.030",
+   "subjectFullName": "编辑与出版学_发行与经营_发行者",
+   "subjectName": "发行者",
+   "publishYear": "2022",
+   "definition": "以收购和出售古旧书刊为主营业务的书店。"
+  },
+  {
+   "cn": "古旧书",
+   "en": "antiquarian book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "古书和旧书的统称。古书之外，还包括近现代出版的各种装订形式的非新书类图书。"
+  },
+  {
+   "cn": "古旧资料",
+   "en": "antiquarian material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.036",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "古代或距今年代稍久形成的各种文献资料。"
+  },
+  {
+   "cn": "古籍",
+   "en": "ancient book;antiquarian material",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.086",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "古代书籍。通常指1912年以前在中国书写或印刷的图书。"
+  },
+  {
+   "cn": "古籍",
+   "en": "ancient books,antiquarian material",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "（1）广义的古籍统指古人所著图书，而不论其出版年代的早晚。（2）在中国，古籍指1911年以前抄写、出版的图书，但民国时期出版的古人所著的线装图书，通常也被视为古籍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

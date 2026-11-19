@@ -1,0 +1,772 @@
+{
+ "key": "content-nonconceptualism",
+ "term": "content-nonconceptualism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:40:21+00:00",
+ "status": "ok",
+ "note": "variant=content-nonconceptualism; 审定公布名词库=1998; 海峡两岸名词对照库=601; 其他来源数据库=108; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "档案学名词",
+   "wordNumber": "06.01.017",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件中所包含的表达作者意图的信息。文件的构成要素之一。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "指向最终用户或观众的信息和体验。是通过某种媒介如言语、写作、艺术、现场活动等予以表达的东西。这个统称式的词汇将创作的价值一般化，无论是“写作”的作家，还是“拍电影”的制作人，都是“内容提供者”。内容本"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0633",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "包装件内所装的产品或物品。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "计量学名词",
+   "wordNumber": "15.058",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质中所含组分的质量、摩尔或体积分数。"
+  },
+  {
+   "cn": "库容",
+   "en": "content",
+   "source": "数学名词",
+   "wordNumber": "011.0556",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.357",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "当两个站或更多个站在同一条公用传输信道上同时试图进行发送时，或者当彼此通常以单工方式操作的两个站同时试图进行发送时所引起的状态。"
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "电子学名词",
+   "wordNumber": "21.371",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内容检索",
+   "en": "content search,content retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.044",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）按文献的内容特征(如分类、主题、化合物代码等)在信息源中查询具有同一内容文献的方法。（2）根据多媒体内容中提取的语义特征，从大量信息源中提取具有相似特征的多媒体数据的检索方法。"
+  },
+  {
+   "cn": "疝内容物",
+   "en": "hernia content",
+   "source": "普通外科学名词",
+   "wordNumber": "16.081",
+   "subjectFullName": "医学_普通外科学_疝与腹壁外科",
+   "subjectName": "疝与腹壁外科",
+   "publishYear": "2026",
+   "definition": "进入疝囊的腹内器官或组织。以小肠最多见，大网膜次之。"
+  },
+  {
+   "cn": "固体分",
+   "en": "solid content",
+   "source": "精细化工名词",
+   "wordNumber": "05.0213",
+   "subjectFullName": "精细化工_涂料_涂料调色与制备",
+   "subjectName": "涂料调色与制备",
+   "publishYear": "2025",
+   "definition": "配方物中最终形成涂膜的物质的质量占配方物总质量的百分数。"
+  },
+  {
+   "cn": "树脂含量",
+   "en": "resin content",
+   "source": "精细化工名词",
+   "wordNumber": "05.0226",
+   "subjectFullName": "精细化工_涂料_涂料调色与制备",
+   "subjectName": "涂料调色与制备",
+   "publishYear": "2025",
+   "definition": "涂料配方中树脂及其固化剂的含量。"
+  },
+  {
+   "cn": "内容联系",
+   "en": "content relation",
+   "source": "档案学名词",
+   "wordNumber": "03.01.016",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "文件在内容上的联系。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "内容鉴定",
+   "en": "content appraisal",
+   "source": "档案学名词",
+   "wordNumber": "06.03.014",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "根据电子文件所含信息的有用性和社会需求，鉴定电子文件的保存价值和历史意义，并在此基础上确定其保管期限。"
+  },
+  {
+   "cn": "内容内在论",
+   "en": "content internalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.524",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认为意向状态（信念、欲望、意图等）具有窄内容，而其内容完全取决于个体内部状态的理论。"
+  },
+  {
+   "cn": "内容外在论",
+   "en": "content externalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.525",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认为意向状态（信念、欲望、意图等）具有宽内容，而其内容部分地取决于个体所处的物理或社会环境的理论。"
+  },
+  {
+   "cn": "心理内容",
+   "en": "mental content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.554",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "心理表征（思想、信念、愿望等）所表征或关涉的对象。"
+  },
+  {
+   "cn": "知觉内容",
+   "en": "perceptual content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.577",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "知觉经验将世界表征成的样子。通常用命题来表达。预设了知觉的表征论。"
+  },
+  {
+   "cn": "内容理解",
+   "en": "content understanding",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.123",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "以知识为核心，研究其中包含的对象个体、个体间的关联及其组合语义。"
+  },
+  {
+   "cn": "含水率",
+   "en": "moisture content",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0236",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "离子交换膜中每克干树脂中的含水量。是离子交换膜性能的特性参数。以百分率表示。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水汽含量",
+   "en": "moisture content\",\"water content",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "含水量",
+   "en": "water content",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "含盐量",
+   "en": "salt content",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热含量",
+   "en": "heat content",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "固相含量",
+   "en": "solid content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含皂量",
+   "en": "soap content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "湿含量",
+   "en": "moisture content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "细菌含量",
+   "en": "bacteria content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "氧含量",
+   "en": "oxygen content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能量含量",
+   "en": "energy content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热含量",
+   "en": "heat content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含尘量",
+   "en": "dust content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含水量",
+   "en": "water content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "梦境",
+   "en": "dream content",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实词素",
+   "en": "content morpheme",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容管理框架",
+   "en": "content management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容管理",
+   "en": "digital content management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容产业",
+   "en": "digital content industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容安全监管",
+   "en": "content security supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全内容链条支撑",
+   "en": "full-content chain support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛内容业务国际化",
+   "en": "ubiquitous content business internationalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庸音杂体",
+   "en": "Banal Content and Jumbled Forms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户生产内容模式",
+   "en": "user-generated content (UGC) model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据内容不可重复性",
+   "en": "non-repeatability of data content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "媒体内容智慧化生产",
+   "en": "intelligent production of media content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络内容层",
+   "en": "content layer of the network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知足者富",
+   "en": "Being Contented Means True Wealth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  },
+  {
+   "cn": "放射性含量计",
+   "en": "radioactive content meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有放射源，用于分析物体中元素成分或物质含量的测量装置。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "残留溶剂量",
+   "en": "residual solvent content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.18",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中留存的浸出溶剂含量。以1 千克油脂中浸出溶剂的质量分数毫克每千克（mg/kg）表示。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.24",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "待积有效剂量系数（或组织器官当量剂量系数）与摄入单位活度的放射性核素t天时体内或器官活度m(t)（或日排泄量的预期值）的比值。"
+  },
+  {
+   "cn": "半安全水分",
+   "en": "semi-Safe moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.14",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "介于安全水分和危险水分之间的水分含量"
+  },
+  {
+   "cn": "【军队卫生】监督内容",
+   "en": "military health supervision content",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫生监督",
+   "subjectName": "军队卫生监督",
+   "publishYear": "2025",
+   "definition": "通过预防性和经常性监督，将食品卫生、环境卫生、军事作业与训练卫生、传染病防治等纳入规范化管理。其本质是将军事卫生法规与战斗力保障需求转化为具体执行标准，确保军队日常与战时良好卫生状态，为战斗力生成提供"
+  },
+  {
+   "cn": "胃内容物标本",
+   "en": "specimen of gastric content",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "胃内的消化物样本，包括食物残渣、胃酸、胆汁等。"
+  },
+  {
+   "cn": "消毒产品净含量",
+   "en": "net content of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.6",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "除去包装容器和其他包装材料后内装消毒产品的重量、体积、长度、面积、计数等标注。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

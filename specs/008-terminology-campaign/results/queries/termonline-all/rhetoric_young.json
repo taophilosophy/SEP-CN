@@ -1,0 +1,632 @@
+{
+ "key": "rhetoric young",
+ "term": "rhetoric Young",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:27:35+00:00",
+ "status": "ok",
+ "note": "variant=rhetoric Young; 审定公布名词库=191; 海峡两岸名词对照库=17; 其他来源数据库=5; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "修辞",
+   "en": "rhetoric",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.059",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "依据题旨情境，选择恰当的表现手法，以提高表达效果，说服或影响他人的活动。"
+  },
+  {
+   "cn": "修辞",
+   "en": "rhetoric",
+   "source": "心理学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "在语言的使用过程中，选择适当的语言手段和语言形式增强表达效果的技巧和规律。"
+  },
+  {
+   "cn": "修辞学",
+   "en": "rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。研究提高语言表达效果的规律，即如何依据题旨情境，运用各种语言要素和语文材料、各种表现手法，恰当地表达思想和情感。它揭示修辞现象的条理、修辞观念的系统，指导人们运用和创造各种修辞方法准"
+  },
+  {
+   "cn": "幼贝",
+   "en": "young mollusk,young shellfish",
+   "source": "水产名词",
+   "wordNumber": "04.194",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "形态已与成贝相同，但性腺尚未成熟或尚未达到商品规格的贝类个体。"
+  },
+  {
+   "cn": "消极修辞",
+   "en": "basic rhetoric",
+   "source": "档案学名词",
+   "wordNumber": "02.04.035",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "修辞手法中的一种。旨在追求将语言表达得明白晓畅，没有含糊，没有歧义，易于理解。具体方法方面的特点是不取巧、不求新异和华丽，重点在精选词语、锤炼语句、讲究章法方面下“苦”工夫。"
+  },
+  {
+   "cn": "积极修辞",
+   "en": "advanced rhetoric",
+   "source": "档案学名词",
+   "wordNumber": "02.04.036",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "修辞手法中的一种。旨在追求将语言表达得生动形象，使人有更高的阅读积极性，乐于阅读。具体方法方面的特点是注重修辞格的使用。"
+  },
+  {
+   "cn": "修辞批评",
+   "en": "rhetoric criticism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.042",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "针对修辞本身——包括口头或文字形式，以及过程——借助现代传播手段所进行的信息性或说服性文本所作的批判性分析、解释以及评价。作为一种质化研究方法，修辞批评系统考察和解释象征性行为及人工制品，有助于深入分"
+  },
+  {
+   "cn": "政治修辞",
+   "en": "political rhetoric",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "政治主体运用一定的语言，在宣传过程中实现政治说服的技术和能力。从完整的政治修辞过程来看，其基本要素包括：政治修辞的主体、政治修辞的情景、政治修辞的受众、政治修辞的主题、政治修辞的论证以及政治修辞的效果"
+  },
+  {
+   "cn": "危机修辞",
+   "en": "crisis rhetoric",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.117",
+   "subjectFullName": "新闻学与传播学_公共关系_危机公关管理",
+   "subjectName": "危机公关管理",
+   "publishYear": "2022",
+   "definition": "组织在危机情境下表达观念和运用的策略，包括组织危机话语体系的价值观和价值排序，表达的策略设计和渠道选择等。"
+  },
+  {
+   "cn": "表达修辞学",
+   "en": "expressing rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。主要研究语言体系中表达手段的修辞价值，以及修辞变体与修辞效果的关系。"
+  },
+  {
+   "cn": "发生修辞学",
+   "en": "genetic rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。研究语言风格及其成因。认为每个民族的语言都有区别于其他民族语言的特点和风格，同一民族内的不同作者、体裁、时代的语言也具有不同的特点和风格，它们的差异表现为各自特殊的表达手段和表达方式"
+  },
+  {
+   "cn": "心理修辞学",
+   "en": "psychological rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。利用心理语言学的方法来研究修辞学。"
+  },
+  {
+   "cn": "传统修辞学",
+   "en": "traditional rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代修辞学产生以前的修辞学。主要依靠直觉、体验、感悟来分析和把握作品的修辞方式与修辞效果，从宏观上揭示各种文体的表达特点与风格，带有较浓厚的人文性和政治伦理色彩。缺点是不区分语言与言语，往往将语言体系"
+  },
+  {
+   "cn": "现代修辞学",
+   "en": "modern rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "现代语言学的一个分支。以现代语言学为理论基础，以言语和言语规律作为主要研究对象。强调言语环境对于修辞效果的作用。显著特点是区分语言修辞和言语修辞。可分为语言修辞学和言语修辞学两种。"
+  },
+  {
+   "cn": "语言修辞学",
+   "en": "language rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.025",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "与“言语修辞学”相对。修辞学的一个分支。以语言体系的修辞手段、各语言因素的修辞功能为研究对象，研究语言体系中有修辞分化的语言单位，收集、归纳各种语言表达手段，并使之体系化，同时研究语言手段固有的修辞特"
+  },
+  {
+   "cn": "实践修辞学",
+   "en": "practical rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.010",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "①欧美研究英语标准语的应用修辞学。目的是通过修辞教学把修辞学的一系列原则贯彻到言语实践中去，它分析研究文章的类型、表现手法、风格原则及其要素。②苏联研究各种修辞实践问题的学科。包括语体的一般知识、对语"
+  },
+  {
+   "cn": "篇章修辞学",
+   "en": "text rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.017",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。研究话语篇章的组织方法和手段。"
+  },
+  {
+   "cn": "建构修辞学",
+   "en": "constructive rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。属于建构语言学，研究话语的建构规律，总结各级各类修辞活动的规则、规范，概括言语交际过程中从宏观到微观的修辞体系，形成言语交际的全方位修辞的立体构架，以指导修辞实践。"
+  },
+  {
+   "cn": "比较修辞学",
+   "en": "comparative rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.018",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。用比较的方法来研究、总结修辞规律，包括:(1)内部比较（即修辞学范围内的现象、方法和规律的比较）和外部比较（即修辞学与其他相关学科如语音学、词汇学、语法学、风格学、文章学、文艺学的比"
+  },
+  {
+   "cn": "对比修辞学",
+   "en": "contrastive rhetoric",
+   "source": "语言学名词",
+   "wordNumber": "08.019",
+   "subjectFullName": "语言学_修辞学_修辞学",
+   "subjectName": "修辞学",
+   "publishYear": "2011",
+   "definition": "修辞学的一个分支。在不同语言的修辞学之间所作的共时性对比研究。包括修辞要素、修辞方式、修辞效果、修辞体系、修辞规律等各方面的异同的探讨，直接服务于外语教学和语际翻译。这种对比研究不涉及语言的亲缘关系或"
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期冰",
+   "en": "young ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼年土壤",
+   "en": "young soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扬，亚历山大",
+   "en": "Young\",\"Alexander(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大仔对策",
+   "en": "large young strategy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模数",
+   "en": "Youngs modulus",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量，弹性模量",
+   "en": "Young's modulus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄期,未成熟期",
+   "en": "immature stage\",\"young stage",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期恒星体",
+   "en": "young stellar object\",\"YSO",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼期， 未成熟期",
+   "en": "young stage\",\"immature stage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扬，珀西",
+   "en": "Young\",\"Percy M(arshall)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光纤杨氏模量",
+   "en": "Young's modulus for fiber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "青少年管弦乐队指南——普塞尔主题变奏曲与赋格",
+   "en": "Young Persons Guide to the Orchestra",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "杨-亥姆霍兹颜色视觉说",
+   "en": "Young Helmholtz theory of color vision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文以意为主",
+   "en": "The Message Matters More Than the Rhetoric.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修身贵文",
+   "en": "Improve Rhetorical Skills While Nurturing the Body and Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文不灭质，博不溺心",
+   "en": "Graceful Wording Should Not Conceal Content, and Intricate Rhetoric Should Not Drown Out the Author’s Feelings and Thoughts.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体用",
+   "en": "Ti and Yong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "青年德意志派",
+   "en": "Young  German school",
+   "source": "马克思主义",
+   "wordNumber": "04.0292",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代产生于德国的一个文学团体“青年德意志”的代表，海涅和白尔尼对这一团体有很大的影响。青年德意志派观点的特点是思想上不成熟和政治上不坚定。他们之中的大多数人很快就堕落成为庸俗的资产阶级自由"
+  },
+  {
+   "cn": "全联盟列宁共产主义青年团",
+   "en": "AllUnion Leninist Young Communist League",
+   "source": "马克思主义",
+   "wordNumber": "04.0435",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "该组织于1918年10月29日创立，时称“俄国共产主义青年团”，1926年3月改为该称，简称共青团。它是苏联青年群众性的社会政治组织，是苏联共产党的积极助手和后备军。其组织章程规定，凡年满14—28岁"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "幼儿配方乳粉",
+   "en": "milk powder formula for young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品和（或）大豆及大豆蛋白制品为主要蛋白来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的产品。适用于幼儿食用，其能量和营养成分能满足正常12~36 月龄幼儿的部"
+  },
+  {
+   "cn": "婴幼儿配方食品",
+   "en": "formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "适于正常婴幼儿食用，所含的能量及营养成分能满足其部分营养需要的配方食品。"
+  },
+  {
+   "cn": "婴幼儿辅食罐头",
+   "en": "canned infant and young child complementary food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.7",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "食品原料经处理、灌装、密封、杀菌或无菌罐装后达到商业无菌，可在常温下保存的适于6 月龄以上婴幼儿食用的罐藏食品。"
+  },
+  {
+   "cn": "较大婴儿和幼儿配方辅助食品",
+   "en": "formulated complementary foods for older infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.8",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "仅适于婴儿断乳期食用，以及在幼儿期作为母乳替代或额外补充的配方食品，以避免可能出现的营养缺乏或不足。"
+  },
+  {
+   "cn": "婴幼儿专用食品接触材料及制品",
+   "en": "food contact material and article for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.22",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "专门用于婴幼儿食品的生产、加工、包装、运输、贮存、销售和使用过程中的食品接触材料及制品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方",
+   "en": "formula of milk powder formula products for infant and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.9",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "生产婴幼儿配方乳粉相应产品时使用的食品原料、食品添加剂及其使用量，以及其中营养成分的含量。"
+  },
+  {
+   "cn": "婴幼儿配方食品良好生产规范",
+   "en": "good manufacturing practice for formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "对婴幼儿配方食品生产过程中原料采购、加工、包装、贮存和运输等环节的场所、设施、人员的基本要求和管理准则等作出规定和要求，为保证婴幼儿配方食品能够按照审批的标准进行生产所制定的规范或指南。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册",
+   "en": "formula registration of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.10",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门依据相关法规的程序与要求，对申请注册的婴幼儿配方乳粉产品配方进行审评，并决定是否准予注册的行为。"
+  },
+  {
+   "cn": "可用于婴幼儿食品的菌种",
+   "en": "strains can be legally used in food for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.4",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "可用于婴幼儿食品中的一种或多种微生物（包括细菌、真菌和酵母），经发酵培养、分离、干燥或不干燥等工序制成的产品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉生产许可",
+   "en": "production permission of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.15",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门颁发的允许有关企业进行婴幼儿配方乳粉产品生产的具有法律效力的证书。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册证书",
+   "en": "formula registration certificate of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.14",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "经食品安全监督管理部门颁发的表明相关企业的婴幼儿配方乳粉产品配方符合相关要求并准予注册的法律文件。包括产品名称、产品配方、生产工艺等内容。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方抽样检验",
+   "en": "sampling and testing of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.13",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由具有法定资质的食品检验机构对申请方的.婴幼儿配方乳粉产品随机抽样并检验，以评价其是否符合法律法规及相应标准的要求。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册审评",
+   "en": "review for formula registration of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.12",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由审评机构根据现场核查报告、产品抽样检验报告和专家意见等对申请者的申请材料以及产品配方声称与产品配方注册内容的一致性等进行审查，并作出是否准予注册建议的过程。"
+  },
+  {
+   "cn": "年轻型人口young population",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "青少年占的比例较高、年龄中位数相对较低、增长率相对高的人口。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
