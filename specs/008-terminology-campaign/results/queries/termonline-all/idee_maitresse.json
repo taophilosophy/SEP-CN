@@ -1,0 +1,362 @@
+{
+ "key": "idee maitresse",
+ "term": "idée maîtresse",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:12:10+00:00",
+ "status": "ok",
+ "note": "variant=idée maîtresse; 审定公布名词库=65; 海峡两岸名词对照库=12; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "MA型显示",
+   "en": "MA-display",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.205",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_超声检测仪",
+   "subjectName": "超声检测仪",
+   "publishYear": "2003",
+   "definition": "在探头扫查过程中，把所得到的A型显示图形连续叠加的显示。"
+  },
+  {
+   "cn": "褥式缝合[法]",
+   "en": "mattress suture",
+   "source": "烧伤学名词",
+   "wordNumber": "06.164",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤瘢痕与整形",
+   "subjectName": "烧伤瘢痕与整形",
+   "publishYear": "2019",
+   "definition": "主要用于皮肤创口张力很大时的缝合方法。有水平褥式和垂直褥式缝合法，均有使创缘外翻、扩大创缘接触面、利于愈合的优点。"
+  },
+  {
+   "cn": "褥式缝合",
+   "en": "mattress suture",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0109",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "褥式缝合",
+   "en": "mattress suture",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.586",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "闲置",
+   "en": "idle,free",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "电信业务运载设备未被使用，但处在未出故障的状态。"
+  },
+  {
+   "cn": "空闲",
+   "en": "free,idle",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.107",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "电信业务运载设备未被使用，而是处在可处理服务申请的状态。"
+  },
+  {
+   "cn": "柴排",
+   "en": "mattress,willow fascine",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.141",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "空行程",
+   "en": "idle stroke",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.005",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "加工工具以非加工进给速度相对工件所完成一次非加工进给运动工步的行程。"
+  },
+  {
+   "cn": "惰走时间",
+   "en": "idle time",
+   "source": "电力名词",
+   "wordNumber": "10.466",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "在额定转速下自截断送汽时开始,汽轮机依靠转子的惯性转旋到处于静止状态所需的时间。"
+  },
+  {
+   "cn": "惰走曲线",
+   "en": "idle curve",
+   "source": "电力名词",
+   "wordNumber": "10.467",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "在汽轮机转子惰走时间内,转速下降过程与其所对应时间的关系曲线。通过与以往标准惰走曲线对照,可以查明机组存在如动静部分碰摩、汽门不严密等缺陷。"
+  },
+  {
+   "cn": "闲置产能",
+   "en": "idle capacity",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0167",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在资源系统中通常不被使用的产能。按约束理论，闲置产能由保护性能力和过剩能力组成。"
+  },
+  {
+   "cn": "闲置库存",
+   "en": "idle inventory",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0219",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在关联资源的系统中通常不需要的库存。从约束理论的观点来说，闲置库存由保护性库存和过剩库存组成。"
+  },
+  {
+   "cn": "闲置时间",
+   "en": "idle time",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "工人或机器设备因为整理、准备、维护、缺料或生产排程等原因，不能生产产品的时间。"
+  },
+  {
+   "cn": "闲置土地",
+   "en": "idle land",
+   "source": "建筑学名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_房地产市场",
+   "subjectName": "房地产市场",
+   "publishYear": "2014",
+   "definition": "土地使用者依法取得土地使用权后，未经原批准用地的人民政府同意，超过规定的期限未动工开发建设的建设用地。"
+  },
+  {
+   "cn": "惰走时间",
+   "en": "idle time",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0331",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_气轮机_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "汽轮机在额定转速下自截断向汽轮机送汽时开始，至转子完全停止转动所需的时间。"
+  },
+  {
+   "cn": "惰转时间",
+   "en": "idle time",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0800",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_运行",
+   "subjectName": "运行",
+   "publishYear": "2013",
+   "definition": "机组在额定转速下从切断燃料开始到转子完全停止运转所经历的时间。"
+  },
+  {
+   "cn": "怠速限制器",
+   "en": "idle limiter",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0833",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "为使怠速时的一氧化碳浓度低于一定水平而限制怠速油量的装置。"
+  },
+  {
+   "cn": "怠速弹簧",
+   "en": "idle spring",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.421",
+   "subjectFullName": "机械工程_汽车_发动机_燃料供给系",
+   "subjectName": "燃料供给系",
+   "publishYear": "2013",
+   "definition": "(1)两极调速器中在低速范围内起作用的弹簧。(2)全程调速器中为提高发动机空载和小负荷工况的动态稳定性而附加的弹簧。"
+  },
+  {
+   "cn": "闲置包",
+   "en": "idle package",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.709",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "惰走曲线",
+   "en": "idle curve",
+   "source": "船舶工程名词",
+   "wordNumber": "06.177",
+   "subjectFullName": "船舶工程_船舶机械",
+   "subjectName": "船舶机械",
+   "publishYear": "1998",
+   "definition": "汽轮机在全速工况转速下，从截断向汽轮机送汽时开始，至转子完全停止转动所需时间与转速的关系曲线。"
+  },
+  {
+   "cn": "[空]闲",
+   "en": "idle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资本",
+   "en": "idle capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资产",
+   "en": "idle asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资金",
+   "en": "idle fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[银行账号上]闲置余额",
+   "en": "idle balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "闲线",
+   "en": "idle line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闲置状态",
+   "en": "idle state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "惰转时间",
+   "en": "idle time",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空转转速",
+   "en": "idle speed",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "闲置备用的活期存款",
+   "en": "idle demand deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "闲置货币余额",
+   "en": "idle money balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空闲信道状态",
+   "en": "idle channel state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫子",
+   "en": "landing mattress",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闲置资源",
+   "en": "idle resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红细胞生成缺铁期",
+   "en": "iron deficient erythropoiesis, IDE",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.8.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "贮存铁减少或消失的阶段，此时骨髓铁粒幼细胞减少（一般5.1μg/dl）或原卟啉/血红蛋白>4.5，血清铁及转铁蛋白饱和度可降低，总铁结合力增高，但血红蛋白含量及红细胞比积正常，红细胞为正色素性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "pensee methodique",
+ "term": "pénsee méthodique",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:03:38+00:00",
+ "status": "ok",
+ "note": "variant=pénsee méthodique; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "加速度响应谱",
+   "en": "acceleration res-ponse spectrum",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2098",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "用单质点体系的最大振动加速度响应表示的地震响应谱。 "
+  },
+  {
+   "cn": "弹塑性响应谱",
+   "en": "elastic-plastic res-ponse spectrum",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0541",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": " (1)弹塑性体对施压应力所产生的响应状态的连续分布。 (2)在弹性振型分解响应谱法基础上，计算结构的弹塑性的响应谱。 "
+  },
+  {
+   "cn": "帕西人",
+   "en": "Parsee，Parsis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0046",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。 人口约为6 万（2014 年）。集中生活在印度孟买市及周边地带，班加罗尔和巴基斯坦的喀拉蚩也有分布。属欧罗巴人种印度地中海类型。操古吉拉特语，属印欧语系印度语族。帕西人信拜火教。为波斯"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

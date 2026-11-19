@@ -1,0 +1,782 @@
+{
+ "key": "nagarjuna's middle way",
+ "term": "Nāgārjuna’s Middle Way",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:09:32+00:00",
+ "status": "ok",
+ "note": "variant=Nāgārjuna’s Middle Way; 审定公布名词库=2709; 海峡两岸名词对照库=800; 其他来源数据库=197; 预公布名词数据库=131; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "中矿",
+   "en": "middlings",
+   "source": "冶金学名词",
+   "wordNumber": "03.0045",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "选矿过程中产出的需要返回原分选流程中再处理或单独处理的中间未完成产品。"
+  },
+  {
+   "cn": "中煤",
+   "en": "middlings",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.163",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "经过分选获得的灰分介于精煤与矸石之间的产品。"
+  },
+  {
+   "cn": "井筒安全道",
+   "en": "reserve way,escape way",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.051",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷工程设计",
+   "subjectName": "井巷工程设计",
+   "publishYear": "1996",
+   "definition": "由井筒经井颈部通达地面的人行通道。"
+  },
+  {
+   "cn": "夹矸煤",
+   "en": "locked middlings,false middlings",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "煤和矸石的连生体。一般可用破碎的方法使之分离。"
+  },
+  {
+   "cn": "分洪道",
+   "en": "flood way",
+   "source": "风景园林名词",
+   "wordNumber": "13.0078",
+   "subjectFullName": "风景园林_其他_水利工程",
+   "subjectName": "水利工程",
+   "publishYear": "2025",
+   "definition": "利用天然河道或人工开辟的新河道，分泄江河超额洪水的防洪工程措施。"
+  },
+  {
+   "cn": "鱼道",
+   "en": "fish way",
+   "source": "风景园林名词",
+   "wordNumber": "08.0668",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "水利枢纽中供鱼类洄游通行的人工水道。"
+  },
+  {
+   "cn": "银河",
+   "en": "Milky way",
+   "source": "天文学名词",
+   "wordNumber": "05.115",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "在晴天夜晚可见，由无数恒星组成的横跨星空的一条乳白色亮带。是银盘在天空的投影。"
+  },
+  {
+   "cn": "运单",
+   "en": "way bill",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.130",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "承运人与托运人之间为运输出版物签订的运输凭证。"
+  },
+  {
+   "cn": "利用方式",
+   "en": "utilization way ",
+   "source": "草学名词",
+   "wordNumber": "4.0672",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "繁殖方式",
+   "en": "reproduction way ",
+   "source": "草学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "投资方式",
+   "en": "investment way",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.248",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "特定经济主体为获得收益或是资金增值，向某领域投入资金或其他资源的经济行为方式。"
+  },
+  {
+   "cn": "键槽",
+   "en": "key way",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0207",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_键、花键",
+   "subjectName": "键、花键",
+   "publishYear": "2021",
+   "definition": "轴和轮毂孔表面上为安装键而制成的槽。"
+  },
+  {
+   "cn": "通道",
+   "en": "alley way",
+   "source": "畜牧学名词",
+   "wordNumber": "02.041",
+   "subjectFullName": "畜牧学_饲养管理_饲养管理基础",
+   "subjectName": "饲养管理基础",
+   "publishYear": "2020",
+   "definition": "家畜转群时用栏杆围成的导向通路。"
+  },
+  {
+   "cn": "溢洪道",
+   "en": "spill way",
+   "source": "冶金学名词",
+   "wordNumber": "03.0709",
+   "subjectFullName": "冶金学_选矿_固液分离",
+   "subjectName": "固液分离",
+   "publishYear": "2019",
+   "definition": "一种排除尾矿场内洪水的构筑物。由溢流堰、排水陡槽和消力池组成。"
+  },
+  {
+   "cn": "八重法",
+   "en": "eightfold way",
+   "source": "物理学名词",
+   "wordNumber": "09.1330",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "绿道",
+   "en": "green way",
+   "source": "林学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "林学_森林培育_城市森林与森林游憩",
+   "subjectName": "城市森林与森林游憩",
+   "publishYear": "2016",
+   "definition": "连接各种游憩资源与居民区的线型开敞空间。包括所有可供行人和骑车者进入的自然景观线路和人工景观线路。"
+  },
+  {
+   "cn": "通道",
+   "en": "gang way",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.056",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "客车车身内乘员纵向行走的过道。"
+  },
+  {
+   "cn": "单向式",
+   "en": "one-way",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.408",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "对一种工作方式，表示呼叫的建立总是发生在一个方向的属性。"
+  },
+  {
+   "cn": "双向式",
+   "en": "two-way",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.409",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "对一种工作方式，表示双向都可以建立呼叫，而两个方向的业务流量不必一定相同的属性。"
+  },
+  {
+   "cn": "专向",
+   "en": "special way",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.525",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "银河",
+   "en": "Milky Way",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单向",
+   "en": "one way",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双向",
+   "en": "both-way",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "迁飞路线",
+   "en": "fly way",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "航路点",
+   "en": "way point",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "升降口",
+   "en": "companion way",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "停桨!",
+   "en": "way enough",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通道",
+   "en": "alley way",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "银河",
+   "en": "Milky Way",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滑道",
+   "en": "launching way",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中窦",
+   "en": "middle sinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中干",
+   "en": "middle trunk",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中胶层",
+   "en": "middle lamella",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中隧道",
+   "en": "middle tunnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中叶",
+   "en": "middle lobe",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中指",
+   "en": "middle finger",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中纵隔",
+   "en": "middle mediastinum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中层",
+   "en": "middle layer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中层大气",
+   "en": "middle atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中云",
+   "en": "middle cloud",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中道",
+   "en": "The Middle Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中转",
+   "en": "middle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半高球",
+   "en": "middle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道",
+   "en": "Dao (Way)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中投",
+   "en": "middle shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腰位",
+   "en": "middle post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间拦网队员",
+   "en": "middle blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间位置",
+   "en": "middle standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人道",
+   "en": "Way of Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天道",
+   "en": "Way of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地道",
+   "en": "Way of Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双向锚定",
+   "en": "two-way peg",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单向函数",
+   "en": "one-way function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "航行权",
+   "en": "right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据中台",
+   "en": "Data Middle Office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模组化中台",
+   "en": "modular middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "AI中台",
+   "en": "AI middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中间道路",
+   "en": "middle way",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "自由放任主义所带来的社会经济问题必须增加国家的福利供给。福利改革兼具消灭贫困和支持资本主义的目的，提倡实用主义和福利多元主义。英国保守党代表麦克米伦在《中间道路》一书提出。"
+  },
+  {
+   "cn": "托洛茨基的中间道路",
+   "en": "Trotskys middle way",
+   "source": "马克思主义",
+   "wordNumber": "04.0346",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在布尔什维克反对“取消派”和“召回派”进行两条战线斗争中，以托洛茨基为首的所谓“非派别”分子，打起“超党派”的旗号，调和所有社会民主党各派和各种思潮，鼓吹革命者和机会者和平相处，来为取消派和召回派效劳"
+  },
+  {
+   "cn": "中产阶级",
+   "en": "middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "在社会分层系统中处于中间位置的人群。这一词汇虽然被广泛使用，但其确切含义在社会学界尚未达成一致意见。不同流派理论家对中间位置的确定标准各有不同。马克思主义者认为是在资产阶级与无产阶级之间的人群（小资产"
+  },
+  {
+   "cn": "中间等级",
+   "en": "middle class",
+   "source": "马克思主义",
+   "wordNumber": "03.0224",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级和无产阶级之间的阶级或集团。《共产党宣言》中提出了这一概念。在《法兰西内战》等著作又称中等阶级。主要指农民、手工业者、商人、店主等小资产阶级。"
+  },
+  {
+   "cn": "中间阶级",
+   "en": "middle class",
+   "source": "马克思主义",
+   "wordNumber": "03.0225",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会阶级结构中处于中间地位的阶级或阶层。在资产阶级反抗封建专制的革命时期，资产阶级或小资产阶级就是这样的阶级。16-17世纪，随着生产和贸易的发展，日益增长而且已经相当强大的中间阶级逐渐同贵族并列。到"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0370",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族资产阶级、开明绅士和地方实力派。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。争取中间力量要有一定的条件：一是共产党要有充足的力量；二是尊重他们的利益；三是"
+  },
+  {
+   "cn": "单向方差分析",
+   "en": "one-way anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.66",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "只含有一个自变量或因子的方差分析。"
+  },
+  {
+   "cn": "双向方差分析",
+   "en": "two-way anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.67",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "含有两个或多个因子以及因子间交互项的方差分析。"
+  },
+  {
+   "cn": "第三条道路",
+   "en": "the third way",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "在基于高税收、高公共支出的国家提供服务的模式和由市场提供的服务模式中探寻中间道路。在实践中推崇福利多元主义和强调实用主义，认为这才是决定应该如何和在哪里提供服务的最佳价值。"
+  },
+  {
+   "cn": "通风换气方式",
+   "en": "way of ventilation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "使室内外空气流通的方式，包括自然通风和人工通风两种。"
+  },
+  {
+   "cn": "老中产阶级",
+   "en": "old middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "处于资产阶级与无产阶级之间的群体。由马克思提出，主要指小业主、小雇主及小手工业者等。与“新中产阶级”相对。"
+  },
+  {
+   "cn": "新中产阶级",
+   "en": "new middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "处于资产阶级与无产阶级之间的群体。由新马克思主义者提出，主要指受雇于他人的白领工人（领取薪金的非体力劳动者）。其阶级地位既不同于资产阶级（雇主），也不同于工人阶级（受雇的蓝领工人），与老中产阶级所指不"
+  },
+  {
+   "cn": "中产阶级文化",
+   "en": "middle class culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.15",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "处于社会等级中间的阶层文化，是介于上层和劳工阶级的文化形式。"
+  },
+  {
+   "cn": "中耳气压伤",
+   "en": "middle ear barotrauma",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "在潜水或高气压暴露过程中，由于中耳鼓室内外压力不平衡而产生的一种病理改变。"
+  },
+  {
+   "cn": "中程理论",
+   "en": "middle range theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0073",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国考古学家路易斯·宾福德（Lewis Binford）提出的一种理论体系，他将这种理论比作材料解读的罗塞达碑，通过采用民族考古学和实验考古学等方法，试图在残缺不全的考古遗存与现代民族考古学观察和实验"
+  },
+  {
+   "cn": "中国式的工业化道路",
+   "en": "way of chinese industrialization",
+   "source": "马克思主义",
+   "wordNumber": "02.0371",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》一文中明确提出中国工业化道路问题。主要是指重工业、轻工业和农业的发展关系问题。以重工业为中心，但是同时必须充分注意发展农业和轻工业。发展工业必须和发展农业同时"
+  },
+  {
+   "cn": "摸着石头过河",
+   "en": "grope ones way across the river",
+   "source": "马克思主义",
+   "wordNumber": "03.0522",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年12月在中央工作会议上，陈云讲话称：“我们要改革，但是步子要稳。……随时总结经验，也就是要‘摸着石头过河’”。邓小平对陈云提出的“摸着石头过河说”完全赞同。 邓小平强调“摸着石头过河”, 就"
+  },
+  {
+   "cn": "人工终止妊娠方法",
+   "en": "ways of artificial termination of pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "各种在妊娠早期、中期终止妊娠的方法，包括手术、药物。"
+  },
+  {
+   "cn": "中耳及鼻窦气压性损伤",
+   "en": "barotrauma to the middle ear and sinuses",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.1.5",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞机升降过程中，外界气体不易与中耳鼓室及鼻窦腔进行交换，形成腔内外压差所致的损伤，尤以下降过程最为明显。"
+  },
+  {
+   "cn": "重占有的生存方式",
+   "en": "Pay attention to the living way of possession",
+   "source": "马克思主义",
+   "wordNumber": "05.0055",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于弗洛姆《占有还是生存》，指注重对现存物的占有与消费，而不是基于人的生命活动的创造和自我创造，从而导致物化人格。现代社会以重占有的生存方式为主导。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

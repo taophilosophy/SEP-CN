@@ -1,0 +1,792 @@
+{
+ "key": "reality srigupta",
+ "term": "Reality Śrīgupta",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:06:05+00:00",
+ "status": "ok",
+ "note": "variant=Reality Śrīgupta; 审定公布名词库=956; 海峡两岸名词对照库=201; 其他来源数据库=40; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "实存的与可能存在的东西。古代唯物主义认为这种东西是水、无定限体、气、火、种子、原子。唯心主义认为这种东西是感觉、观念、精神实体、绝对理念的世界。"
+  },
+  {
+   "cn": "实在",
+   "en": "reality",
+   "source": "心理学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "哲学中指客观存在的实体。现代心理学曾认为情绪、人格等均为实在，但受到后现代心理学的挑战。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "利用计算机模拟产生一个虚拟的三维空间的技术。让使用者的感官置身于一个现实中不存在的三维世界之中。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "整形外科名词",
+   "wordNumber": "10.023",
+   "subjectFullName": "整形外科_整形外科数字化技术_手术导航",
+   "subjectName": "手术导航",
+   "publishYear": "2026",
+   "definition": "一种将虚拟信息实时投射在现实影像中的技术。将真实世界信息和虚拟世界信息“无缝”集成并实现互动。"
+  },
+  {
+   "cn": "客观实在",
+   "en": "objective reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "独立于人的意识，不以人的意识为转移又能为人的意识所反映的、具有多样性的客观物质世界或自然界。认为客观实在性是物质的唯一特性，是物质确实存在着的客观标志。"
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.821",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "个体之间的社会互动而形成的现象，超越于个人的动机与行动。通常包含共同体所接受的社会规范、相对确定的规律和社会标准等，即任何能够影响个人行为选择的社会整体性存在。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "创建和体验虚拟世界的计算机仿真系统。它利用计算机生成一种模拟环境，是一种多源信息融合的交互式的三维动态视景和实体行为的系统仿真，使用户沉浸到该环境中。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在显示屏幕上将虚拟世界实时叠加在现实世界，并进行互动的一种技术。"
+  },
+  {
+   "cn": "真人秀",
+   "en": "reality show",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.054",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "一种强调实时的现场直播，不用角色扮演，百分之百由真人表现的电视节目。通常以记录普通人或名人在看似脱稿的环境里的真实生活为内容，将关注重点放在戏剧冲突及个人矛盾上，以突出娱乐价值。"
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.064",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "将含有字母、数字、符号或图形的信息叠加或融合到用户看到的真实世界中，具有虚实融合和实时交互的特点。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.065",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种可以创建和体验虚拟世界的计算机仿真系统，它利用3D计算机模型或模拟技术生成一种模拟环境，使用户完全沉浸到该环境中。"
+  },
+  {
+   "cn": "真实性检验",
+   "en": "reality testing",
+   "source": "行为医学名词",
+   "wordNumber": "20.057",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过列出支持和反对认知真实性的证据，评估、检验并诘难错误的信念，从而改变错误的信念。"
+  },
+  {
+   "cn": "增强现实系统",
+   "en": "augmented reality",
+   "source": "测绘学名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "通过计算机系统提供的信息增加用户对现实世界感知的技术，将虚拟的信息应用到真实世界，并将计算机生成的虚拟物体、场景或系统提示信息叠加到真实场景中，从而实现对现实的增强。"
+  },
+  {
+   "cn": "现实歪曲",
+   "en": "reality distortion",
+   "source": "精神医学名词",
+   "wordNumber": "02.264",
+   "subjectFullName": "精神医学_症状与体征_精神科体征",
+   "subjectName": "精神科体征",
+   "publishYear": "2019",
+   "definition": "精神障碍的一种认知特征。表现为缺乏现实性，思维内容与当前需要解决的现实问题无关，也没有实际效用和可行性。见于分裂样人格障碍和精神分裂症等受检者。"
+  },
+  {
+   "cn": "现实检验",
+   "en": "reality testing",
+   "source": "精神医学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "精神医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "将内心的想象和外界现实区别开来的认知活动。"
+  },
+  {
+   "cn": "现实定向",
+   "en": "reality orientation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "通过外部辅助手段，如照片、报纸、日历、卡片及患者熟悉的物体等，强化患者对时间、地点和人物的定向过程。"
+  },
+  {
+   "cn": "现实性思维",
+   "en": "reality thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.670",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "受外部现实世界约束的思维活动。其特点是注重客观现实，意识性较强，思维进程受逻辑、证据和现实的约束。"
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "心理学名词",
+   "wordNumber": "15.064",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "由格拉瑟(W. Glasser)创立的一种心理治疗方法。重视当事人行为选择的理性分析。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "心理学名词",
+   "wordNumber": "11.054",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "利用动态环境建模、实时三维图形生成等计算机技术生成的三维虚拟世界。具有交互、临场及构想三个特点。"
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.130",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_认知康复辅助器具设备",
+   "subjectName": "认知康复辅助器具设备",
+   "publishYear": "2014",
+   "definition": "利用计算机构建虚拟的动态画面，令患者在训练过程中产生身临其境主动参与的感觉的技术。适用于认知障碍患者。"
+  },
+  {
+   "cn": "现实",
+   "en": "reality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实疗法",
+   "en": "reality therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实原则",
+   "en": "reality principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会现实",
+   "en": "social reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据真实性",
+   "en": "data reality",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工现实",
+   "en": "artificial reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augment reality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "virtual reality\",\"VR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实技术",
+   "en": "virtual reality technology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实核心",
+   "en": "heart of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "现实世界模式化",
+   "en": "modelization of reality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实界面",
+   "en": "virtual-reality interface",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实建模语言",
+   "en": "virtual reality modeling language\",\"VRML",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对偶［性］",
+   "en": "duality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会实在",
+   "en": "social reality",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "以物质实在为基础的、依赖于人类共同的风俗、习惯、制度和活动而存在和维系的事实。"
+  },
+  {
+   "cn": "客观实在性",
+   "en": "objective reality",
+   "source": "马克思主义",
+   "wordNumber": "01.0196",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "独立于人的意识之外，不依赖于意识的物质世界。唯心主义认为，唯一的客观实在是感觉、意识、理念和绝对精神等。唯物主义则认为客观实在性是物质唯一的“特性”，它不依赖于人的意识而存在，但又为人的意识所感知和反"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "三严三实专题教育",
+   "en": "special subject education of Three stricts and three realities",
+   "source": "马克思主义",
+   "wordNumber": "04.0278",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按照党中央关于在县处级以上领导干部中开展“三严三实”专题教育的部署，中共中央政治局于12月28日至29日召开专题民主生活会，围绕中央政治局带头践行严以修身、严以用权、严以律己、谋事要实、创业要实、做人"
+  },
+  {
+   "cn": "合法律性",
+   "en": "legality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学",
+   "subjectName": "法律社会学",
+   "publishYear": "2025",
+   "definition": "在法律秩序下的行为或制度符合具体的法律规定的规范范畴。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足规定的质量要求所采取的技术措施和活动。"
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "社会质量",
+   "en": "social quality",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "测量公民日常生活是否达到一个社会可接受水准的指标及标准，民众在提升福祉和个人潜能的条件下，能够参与社区经济社会生活的程度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "睡眠质量",
+   "en": "sleep quality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "评定睡眠过程及其效果的综合指标。主要包括睡眠时间、睡眠过程干扰、睡眠效果、对睡眠质量的整体感受等方面。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量管理”。又称“妇幼健康监测质量管理”。确定妇幼卫生监测、服务或项目的质量方针、目标和职责，并通过明确的质量控制和评价方法来实现对服务或流程中涉及效率、效果、绩效、问责、结果和其他"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "食品质量",
+   "en": "food quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品的一组固有特性满足要求的程度。固有特性为顾客合法期望与生产经营者须履行的，如感官和营养等；满足要求为明示的（食品标签和说明书）、隐含的（无缺陷、欺诈和掺假）和必须履行的（法律法规及强制性标准）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

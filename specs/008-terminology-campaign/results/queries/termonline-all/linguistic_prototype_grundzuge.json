@@ -1,0 +1,612 @@
+{
+ "key": "linguistic prototype grundzuge",
+ "term": "Linguistic Prototype Grundzüge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:12:43+00:00",
+ "status": "ok",
+ "note": "variant=Linguistic Prototype Grundzüge; 审定公布名词库=127; 海峡两岸名词对照库=40; 其他来源数据库=8; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "人们在社会实践中所关心和研究的现实世界中的事物或对象。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "感染病学名词",
+   "wordNumber": "01.0574",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "具有最初始的自身遗传性和生物学特征的生物体。"
+  },
+  {
+   "cn": "样机",
+   "en": "prototype",
+   "source": "物理学名词",
+   "wordNumber": "01.0289",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原器",
+   "en": "prototype",
+   "source": "物理学名词",
+   "wordNumber": "01.0290",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "物理学名词",
+   "wordNumber": "01.0291",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0083",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "针对系统主要功能和接口通过快速开发而制作成的“软件样机”。它以直观的形式展现给用户，及时征求用户意见，从而明确无误地确定用户需求，方便沟通。"
+  },
+  {
+   "cn": "原型系统",
+   "en": "prototype",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0211",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "由系统分析设计人员与用户合作，在定义用户基本需求的基础上，短期快速地开发出来的一个只具备基础功能、实验性的、简单的应用系统。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "心理学名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "用以代表某一类别的样例。包含了该类别的所有典型特征。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "药学名词",
+   "wordNumber": "03.246",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "泛指原始类型、形式，体例或结构，或代表某类别事物的典型个例、基准物或标准物。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0220",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "装于现场实现生产目的的水轮机、蓄能泵和水泵水轮机。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.754",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一种原初的类型、形式或例证，是作为其后期阶段的基础的模型。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "语言学名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "指专家系统试验模型。专家系统不必等到所有的非形式化知识都形式化之后才能建立，可以先将某些知识形式化后输入到知识库里，在一定数量的、典型的知识输入后就可对系统进行试验运行，此时的专家系统仅仅是专家系统试"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "语言学名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "指范畴内的典型代表，又指范畴的核心概念的概括性图式的表象。是人们对世界进行范畴化的认知参照点。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "自动化名词",
+   "wordNumber": "04.559",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "原型法",
+   "en": "prototyping",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0212",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "根据用户的需求，快速生成原型系统，然后把原型系统交给用户使用，根据用户的评价再修改原型系统，逐渐达到用户要求。定义需求、设计、开发、用户使用并评价的过程多次循环，直到开发出用户满意的系统为止的系统开发"
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.017",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究人类语言的学科。包括语言的本质、发展和起源，以及语言的结构、功能、类型等。传统的语言学以研究古代文献和书面语为主，现代语言学以当代语言和口语为主。"
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "研究人类语言的学科。包括语言的本质、发展和起源以及语言的结构、功能、类型等等。传统的语言学以研究古代文献和书面语为主，现代语言学以当代语言和口语为主。从不同的角度，可以划分不同的门类或分支，如理论语言"
+  },
+  {
+   "cn": "历时语言学",
+   "en": "diachronic linguistics,historical linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。在现代语言学出现之前，大部分语言学者都从事这种语言的历史性演化的研究。共时语言学与历时语言学的分立，标志着语言学从印欧语系的"
+  },
+  {
+   "cn": "结构语言学派",
+   "en": "structural linguistics,structuralist linguistics",
+   "source": "语言学名词",
+   "wordNumber": "01.047",
+   "subjectFullName": "语言学_理论语言学_学派",
+   "subjectName": "学派",
+   "publishYear": "2011",
+   "definition": "语言学的一个重要流派。20世纪30年代在欧洲兴起，基本理论源于索绪尔（Ferdinand de Saussure）的《普通语言学教程》，认为语言是一个符号系统，反对对语言现象进行孤立的分析，主张系统的"
+  },
+  {
+   "cn": "写样",
+   "en": "prototype writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.042",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "雕版印刷术的一道工序。把要刻的文字写在纸上形成的纸样。"
+  },
+  {
+   "cn": "原型",
+   "en": "prototype\",\"prototyping",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原型",
+   "en": "prototype",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原型制作",
+   "en": "prototyping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言学",
+   "en": "linguistics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言学者",
+   "en": "linguists",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "原型试验",
+   "en": "prototype experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型说",
+   "en": "prototype theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标准米尺",
+   "en": "prototype meter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "原型结构，原型构造",
+   "en": "prototype construction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原型滤波器",
+   "en": "prototype filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原型药",
+   "en": "drug prototype",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "快速原型",
+   "en": "rapid prototyping",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟原型制作",
+   "en": "virtual prototyping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原型速成",
+   "en": "rapid prototyping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言智力",
+   "en": "linguistic intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言地理学",
+   "en": "linguistic geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "语言学理论",
+   "en": "linguistic theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言学模型",
+   "en": "linguistic model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "语言学转向",
+   "en": "linguistic turn",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.18",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "主张历史考察要以语言为切入点的后社会史研究路径。1970年代中期以后，西方史学研究所经历的文化转向和人类学转向，以及此后结构主义和后结构主义的兴起，都对历史学家和社会学家转向文化和语言起到了重要推动作"
+  },
+  {
+   "cn": "语码",
+   "en": "linguistic code",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0108",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "可以指任何语言项目及其变异形式。"
+  },
+  {
+   "cn": "语言人类学",
+   "en": "linguistic anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0076",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的分支学科。综合运用文化人类学（民族学）和语言学的理论与方法，研究语言结构、语言变化、象征体系、象征意义和社会文化结构的关系的一门学科。"
+  },
+  {
+   "cn": "语言能力",
+   "en": "linguistic competence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0051",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“语言运用”相对。在语言学理论，特别是转换生成语法中，指说话人的语言知识。即已经掌握语言的规则系统，使得说话者可以生成无限多的合乎语法的句子，并且能够识别语法错误。语言能力是一种理想化的语言概念。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "语言运用",
+   "en": "linguistic performance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0052",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与“语言能力”相对。在语言学理论，特别是转换生成语法中，指本族语者说出的具体语言。"
+  },
+  {
+   "cn": "语言决定论",
+   "en": "linguistic determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0023",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种观点。由19 世纪德国文化人类学家洪堡特（Wilhelm vonHumboldt）提出。认为语言决定人们认识和理解外部世界的方式。20 世纪发展成为萨丕尔—沃尔夫假说。与“人类"
+  },
+  {
+   "cn": "民俗语言学",
+   "en": "folklore linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0478",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以语言学为视点研究语言中的民俗现象和民俗中的语言现象，以及民俗与语言相互关系及运动规律的一门实证性科学。"
+  },
+  {
+   "cn": "历时语言学",
+   "en": "diachronic linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0005",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。研究语言的历史发展与变化。在现代语言学出现之前，大部分语言学者都从事这种语言的历史演化研究。索绪尔提出共时语言学与历时语言学的分立，标志着语言学从印欧语系的比较声韵学进入结构语言学。"
+  },
+  {
+   "cn": "普通语言学",
+   "en": "general linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。狭义的普通语言学强调语言研究中理论和方法的普遍适用性，偏重于语言的描写、理论构建和比较研究；广义的普通语言学除一般的理论问题外，还包括语音、语法和词汇等的研究。"
+  },
+  {
+   "cn": "结构语言学",
+   "en": "structural linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0022",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个重要流派。20 世纪30 年代在欧洲兴起，基本理论源于索绪尔（Ferdinand deSaussure）的《普通语言学教程》。认为语言是一个符号系统，反对对语言现象进行孤立的分析，主张系统"
+  },
+  {
+   "cn": "共时语言学",
+   "en": "synchronic linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0006",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在其发展历史的某一时期的状况。主要学派有描写语言学派，为美国“结构主义流派”和“行为主义”的产生提供了理论基础。共时语言学与历时语言学的分立，标志着语言学从印"
+  },
+  {
+   "cn": "历史语言学",
+   "en": "historical linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。描写与研究一种或多种语言在一定时间跨度内所经历的种种变化。内容和方法与“历时语言学”基本相同。研究的材料可以是不同时期该语言的文献记录，也可以是历时或共时亲属语言的同源语料，后一种研"
+  },
+  {
+   "cn": "比较语言学",
+   "en": "comparative linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0004",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史语言学的一个分支。主要运用历史比较法研究语言之间的亲缘关系。亲属语言之间的同源词和同源形态之间会有语音对应关系，借此构拟原始祖语的音系和形态。"
+  },
+  {
+   "cn": "民族语言学",
+   "en": "minority linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0001",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族语言学有两个不同的含义：一是指语言学和民族学相结合的交叉学科，英文称ethnolinguistics；二是指通用语言以外的少数民族语言的研究。中国多使用后一概念，特指对汉语以外的少数民族语言的研究"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "人类语言学",
+   "en": "anthropological linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0009",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对于操某种语言的人，研究他们语言和文化行为间的相互关系，从文化角度来研究这个民族的语言系统，并从语言系统本身来解释其文化内涵。学科渊源可以追溯到19 世纪洪堡特（W. Humbold"
+  },
+  {
+   "cn": "语言学派",
+   "en": "Linguistics School",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以德裔英国东方学家、宗教学家缪勒（Friedrich Max Müller）为代表的语言学派，与格林兄弟的神话学派有着一脉相承的关系。缪勒的擅长是印欧比较语言学，其理论代表作是《比较神话学》，该书他提"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

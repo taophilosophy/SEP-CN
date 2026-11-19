@@ -1,0 +1,42 @@
+{
+ "key": "usuelle bedeutung",
+ "term": "usuelle Bedeutung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:13:32+00:00",
+ "status": "ok",
+ "note": "variant=usuelle Bedeutung; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "吕埃勒-塔肯斯路线",
+   "en": "Ruelle-Takens route",
+   "source": "物理学名词",
+   "wordNumber": "11.0562",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": "通向混沌的。"
+  },
+  {
+   "cn": "吕埃勒-塔肯斯道路",
+   "en": "Ruelle-Takens route",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

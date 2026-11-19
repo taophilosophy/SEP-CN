@@ -1,0 +1,602 @@
+{
+ "key": "techno-solutionism",
+ "term": "techno-solutionism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:08:48+00:00",
+ "status": "ok",
+ "note": "variant=techno-solutionism; 审定公布名词库=198; 海峡两岸名词对照库=120; 其他来源数据库=7; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "农业技术经济学",
+   "en": "agricultural techno logy economics",
+   "source": "农学名词",
+   "wordNumber": "01.145",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究农业技术应用经济效果的学科。"
+  },
+  {
+   "cn": "稳定温度石墨炉平台技术",
+   "en": "stabilized temperature plateau furnace techno-logy",
+   "source": "化学名词",
+   "wordNumber": "03.1066",
+   "subjectFullName": "化学_分析化学_仪器分析_原子光谱分析",
+   "subjectName": "原子光谱分析",
+   "publishYear": "2016",
+   "definition": "利用高质量热解涂层石墨管，在里沃夫平台上快速升温，实现等温原子化、基体改进剂、原子化阶段停止通氩气、塞曼效应扣除背景、快速电子响应检测电路、峰面积法测量信号等技术的一种石墨炉原子吸收光谱分析方法。"
+  },
+  {
+   "cn": "生产布局的技术经济评价",
+   "en": "techno-economic appraisal of production allocation",
+   "source": "地理学名词",
+   "wordNumber": "18.083",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "在一定技术条件下，对某一地域范围内生产布局经济效果的评价。其主要任务是比较分析各种生产布局组合方案的经济效果，选择最优的布局方案。"
+  },
+  {
+   "cn": "汽车技术经济定额",
+   "en": "techno-economic rating for vehicle operation",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionism",
+   "source": "动物学名词",
+   "wordNumber": "2.0212",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "关于生物由无生命到有生命，由低级到高级，由简单到复杂逐步演变过程的学说。认为生物最初从非生物演变而来，现存的各种生物是从共同祖先通过变异、遗传和自然选择等演变而来。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionism",
+   "source": "植物学名词",
+   "wordNumber": "02.0152",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "关于生物由无生命到有生命，由低级到高级，由简单到复杂逐步演变过程的学说。认为生物最初从非生物演化而来，现存的各种生物是从共同祖先通过变异、遗传和自然选择等进化而来。"
+  },
+  {
+   "cn": "进化论",
+   "en": "Evolutionism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0389",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "18世纪下半叶出现的解释生物从无到有，从低级到高级，从简单到复杂演变现象的一套理论，以达尔文为主要代表。"
+  },
+  {
+   "cn": "孤立主义",
+   "en": "Isolationism",
+   "source": "世界历史名词",
+   "wordNumber": "03.0166",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美国奉行的一种传统的对外政策原则，意指尽可能避免干涉国际政治争端以保障本国利益。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionism",
+   "source": "水产名词",
+   "wordNumber": "05.182",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "关于生物由无生命到有生命，由低级到高级，由简单到复杂逐步演变过程的学说。"
+  },
+  {
+   "cn": "广义进化论",
+   "en": "general evolutionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.736",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "达尔文进化论在哲学、生物学、心理学、物理学等领域的应用。各个领域的专家在推广工作中达成一个共识：达尔文进化论中的变异与继承、自然选择、适者生存这些规律也是开放的复杂系统的普遍规律和基本原理。"
+  },
+  {
+   "cn": "方案工程",
+   "en": "solutions engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0019",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一门研究用工程化方法设计、开发、交付和维护有效、实用和高质量的方案的学科。"
+  },
+  {
+   "cn": "基本解组",
+   "en": "fundamental system of solutions",
+   "source": "数学名词",
+   "wordNumber": "06.0042",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "石油行业解决方案",
+   "en": "solutions for the oil industry",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "为石油行业制定的一系列或一揽子的从上至下、从内到外涉及采购、生产、销售、组织、人力资源、财务、信息技术等管理及技术相关的理论、方法论和解决方法、实施方案。"
+  },
+  {
+   "cn": "构造地球化学",
+   "en": "tectono-geochemistry",
+   "source": "地质学名词",
+   "wordNumber": "13.01.003",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究各种构造作用中元素的分配、迁移，分散、富集规律，建立构造环境的识别标志，揭示其动力学机制的地球化学分支学科。"
+  },
+  {
+   "cn": "构造古地理",
+   "en": "tectono-paleogeography",
+   "source": "地质学名词",
+   "wordNumber": "02.110",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造地球化学",
+   "en": "tectono-geochemistry",
+   "source": "地质学名词",
+   "wordNumber": "06.396",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不造粒技术",
+   "en": "non granulation techni-que",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0112",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "在聚合生产线上直接制备可运输的聚合物颗粒的技术。可免除造粒工序，但需要在聚合过程中加入相关的稳定剂。"
+  },
+  {
+   "cn": "第谷星表",
+   "en": "Tycho Catalogue",
+   "source": "天文学名词",
+   "wordNumber": "01.151",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "欧洲空间局在依巴谷星表问世后，再次利用依巴谷卫星获取的观测资料生成的第2部星表，包括近100万颗恒星的位置、三角视差、自行、双色测光等5种天体测量数据。"
+  },
+  {
+   "cn": "民族色彩词",
+   "en": "ethno lexeme",
+   "source": "语言学名词",
+   "wordNumber": "05.102",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "含有民族色彩的词。既有现代词语，例如“书法”“中医”；也有一些历史词语，例如“太监”“八股”。"
+  },
+  {
+   "cn": "回波",
+   "en": "echo",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像脉冲序列",
+   "subjectName": "磁共振成像脉冲序列",
+   "publishYear": "2020",
+   "definition": "磁共振成像中，采用不同相位重聚技术采集的磁共振信号。"
+  },
+  {
+   "cn": "生产布局的技术经济评价",
+   "en": "techno-economic appraisal of production allocation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "进化论，演化论",
+   "en": "evolutionism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "演化论（=进化论）",
+   "en": "evolutionism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化机制",
+   "en": "evolutionism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化论,演化论",
+   "en": "evolutionism\",\"evolutionary theory",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "进化论，演化论",
+   "en": "evolution theory\",\"evolutionism\",\"evolutionary theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化论（=进化论）",
+   "en": "evolution theory\",\"evolutionism\",\"evolutionary theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "第谷星表",
+   "en": "Tycho Catalogue",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回声",
+   "en": "echo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "回声",
+   "en": "echo",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "回波",
+   "en": "echo",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回送",
+   "en": "echo",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回波",
+   "en": "echo",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回声测深仪",
+   "en": "echo sounding\",\"echo sounder\",\"echo sounding machine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "依巴谷-第谷星表",
+   "en": "Hipparcos-Tycho Catalogue",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "机电交换系统",
+   "en": "mechano-electronic switching system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雹焰回波",
+   "en": "flare echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "层状回波",
+   "en": "layered echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "带状回波",
+   "en": "banded echo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "技术经济范式",
+   "en": "techno-economic paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technic\",\"technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双防挡",
+   "en": "double block\",\"hechyo makki",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回音室效应",
+   "en": "echo chamber effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上勾拳",
+   "en": "hechyo jireugi\",\"uppercut\",\"upper cut punch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长三角科技创新共同体",
+   "en": "Yangtze River Delta community of sci-tech innovation",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0496",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "研究生物在变异、遗传与自然选择作用下的演变发展，物种淘汰和物种产生过程的理论。奠定了现代生物学基础，主要创立者是英国博物学家、生物学家达尔文（Charles RobertDarwin），他认为生物由简"
+  },
+  {
+   "cn": "社会进化论",
+   "en": "social evolutionism",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "将生物进化理论引入社会研究领域，认为社会的进化和生物的进化具有同样的必然规律，也是一个从低级到高级、从简单到复杂的渐进的、直线式过程的理论。孔德（A.Comte）、斯宾塞（H.Spencer）、迪尔凯"
+  },
+  {
+   "cn": "文化进化论",
+   "en": "cultural evolutionism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "认为进化作为文化变迁的一种形式，特指具有累加性和进步性的文化纵向发展的历史进程的理论。在这个过程中，一种文化结构接着另一种文化结构持续地由简单向复杂的方向发展。"
+  },
+  {
+   "cn": "庸俗进化论",
+   "en": "vulgar evolutionism",
+   "source": "马克思主义",
+   "wordNumber": "01.0201",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "把达尔文的生物进化学说庸俗化的形而上学发展观。产生于19世纪末20世纪初。主要代表人物是英国的哲学家、社会学家斯宾塞。庸俗进化论认为自然界现存的秩序是一种平缓进化的过程的产物，并把这种渐进性作为宇宙进"
+  },
+  {
+   "cn": "普遍进化论",
+   "en": "general evolutionism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0576",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家怀特（Leslie Alvin White）和斯图尔德（Julian Haynes Steward）所提出的一种关于文化进化的学说，他们认为人类文化是经历由低级到高级的逐步演化的，根据不同"
+  },
+  {
+   "cn": "新进化论",
+   "en": "neo-evolutionism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0572",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国20 世纪40-50 年代形成的文化人类学（民族学）理论，主张用唯物主义的观点来研究社会文化演化的因果关系。他们一方面恢复19 世纪以摩尔根为代表的文化进化论的名誉，另一方面又提出了与19 世纪进"
+  },
+  {
+   "cn": "古典进化论学派",
+   "en": "School of Classical Evolutionism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0495",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）学科史上的第一个理论范式。古典进化论者主要用比较方法将世界各地搜集的社会文化资料放在时间的序列上探索人类文化发展的历程，认为所有社会都要经历蒙昧一野蛮—文明的发展阶段，从而构拟了从"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "捷恰河队列",
+   "en": "Techa River cohort",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.2.2.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象",
+   "subjectName": "研究对象",
+   "publishYear": "2025",
+   "definition": "俄罗斯马亚克核工厂在早期生产过程中向附近的数个湖泊和捷恰河（Techa River）中排放了大量放射性污水。后来对1950年～1960年居住在捷恰河流域的近3万居民进行了队列研究，证实实体癌危险增加。"
+  },
+  {
+   "cn": "民族解放运动",
+   "en": "ethno-national liberation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0012",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "被压迫民族和人民从帝国主义、殖民主义的侵略、掠夺和压迫中解放出来，争取民族独立和自由的运动。民族主义是其理论基础，马克思主义成为多数民族解放运动的行动指南。"
+  },
+  {
+   "cn": "马克思主义民族理论",
+   "en": "Marxist ethno-national theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0001",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "无产阶级认识民族现象、解决民族问题的指导思想。党的十八大以来，以习近平为核心的党中央把铸牢中华民族共同体意识作为新时代党的民族工作的主线、作为民族地区各项工作的主线，进一步拓展中国特色解决民族问题的正"
+  },
+  {
+   "cn": "高技术武器伤害",
+   "en": "high-tech weapon damage",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.13",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "运用高新技术原理、工艺和材料研发的武器装备，在作战或非作战场景中对人员、生物体及生态环境造成的各类损伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

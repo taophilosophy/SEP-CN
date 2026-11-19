@@ -1,0 +1,742 @@
+{
+ "key": "vocalism",
+ "term": "vocalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:13:19+00:00",
+ "status": "ok",
+ "note": "variant=vocalism; 审定公布名词库=122; 海峡两岸名词对照库=20; 其他来源数据库=14; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "声带",
+   "en": "vocal cord;vocal fold",
+   "source": "动物学名词",
+   "wordNumber": "6.0988",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2021",
+   "definition": "一对从喉的两侧向内突出的黏膜褶，形成穿过声门的狭缝。其边缘在气流中振动产生声音。"
+  },
+  {
+   "cn": "声带",
+   "en": "vocal folds,vocal cords",
+   "source": "语言学名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "伸展于喉头前部的甲状软骨与后部的两块勺状软骨之间的两片带状肌肉组织，两者相对的边缘为游离于声门中的纤维质薄膜。其横断面呈三角形。声带振动是浊音的声源。"
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "普通外科学名词",
+   "wordNumber": "14.017",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "发声器官的主要组成部分。位于喉腔中部，由声带肌、声带韧带和黏膜三部分组成，左右对称。"
+  },
+  {
+   "cn": "声带突",
+   "en": "vocal process",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.2.4.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "由杓状软骨底向前伸出的突起。有声韧带附着。"
+  },
+  {
+   "cn": "声韧带",
+   "en": "vocal ligament",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.2.9.1.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "弹性圆锥上缘游离增厚部分。位于甲状软骨至声带突之间。"
+  },
+  {
+   "cn": "声带",
+   "en": "vocal fold",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.2.26.2",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "声韧带、声带肌和喉黏膜组成的发音器官。位于喉腔中部，左右对称，呈瓷白色。"
+  },
+  {
+   "cn": "声带腱",
+   "en": "vocal tendon",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.2.26.2.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "两侧声韧带在前端位于甲状软骨板交角的内面融合形成的致密结缔组织。"
+  },
+  {
+   "cn": "音域",
+   "en": "vocal range",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.21",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "人类所能发出不同频率的最低音到最高音的音调上下限范围。属于声音的生理范围。"
+  },
+  {
+   "cn": "声带小结",
+   "en": "vocal nodule",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.6.49",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈炎性疾病",
+   "subjectName": "咽喉–头颈炎性疾病",
+   "publishYear": "2025",
+   "definition": "发生于一侧或两侧声带边缘前中1/3交界处的结节样增生。常为长期用嗓过度或发音不当所致。主要症状为声音嘶哑。"
+  },
+  {
+   "cn": "发音教育",
+   "en": "vocal education",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.26",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "让发音障碍患者了解正常嗓音产生原理、患者自身特殊问题如何干扰正常发音，并进一步了解发音治疗的具体过程和方法。"
+  },
+  {
+   "cn": "嗓音保健",
+   "en": "vocal hygiene",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.27",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "包括减少嗓音滥用，每天保证适量饮水，避免化学物质或其他物质的刺激，避免在嘈杂环境中持续高声说话等措施的保健方法。"
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "麻醉学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "声韧带、声带肌和喉黏膜组成的发音器官。位于喉腔中部气管入口处，左右对称；气流通过时产生震动，是最主要的发音结构。"
+  },
+  {
+   "cn": "声襞",
+   "en": "vocal fold",
+   "source": "麻醉学名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "位于前庭襞下方、与其平行的一对白色黏膜皱襞。缺乏黏膜下层，血供少，张于甲状软骨前角后面与杓状软骨声带突之间，较前庭襞更突向喉腔，与发音有关。"
+  },
+  {
+   "cn": "发音器官",
+   "en": "vocal organs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.113",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持",
+   "subjectName": "广播电视播音主持",
+   "publishYear": "2022",
+   "definition": "用于发音的人体器官。分为动力区、声源区和调音区。动力区包括肺、横膈膜、气管，声源区主要包括声带，调音区包括口腔、鼻腔、咽腔。"
+  },
+  {
+   "cn": "声囊",
+   "en": "vocal sac",
+   "source": "动物学名词",
+   "wordNumber": "6.0171",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_两栖纲",
+   "subjectName": "两栖纲",
+   "publishYear": "2021",
+   "definition": "许多无尾类两栖动物雄性口腔底部或两侧的可张缩的囊。具谐振器的作用。"
+  },
+  {
+   "cn": "歌谱",
+   "en": "vocal score",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.245",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "歌剧、清唱剧和大合唱等声乐作品的乐谱，也包括所有人声声部的总谱。"
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "物理学名词",
+   "wordNumber": "04.2813",
+   "subjectFullName": "物理学_光学、声学_声学",
+   "subjectName": "声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "呼吸病学_解剖和组织学_上呼吸道",
+   "subjectName": "上呼吸道",
+   "publishYear": "2018",
+   "definition": "声韧带、声带肌和喉黏膜组成的发音器官。"
+  },
+  {
+   "cn": "语音震颤",
+   "en": "vocal fremitus",
+   "source": "呼吸病学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "呼吸病学_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2018",
+   "definition": "被检查者用一定的音量发声引起的振动。经气管、支气管和肺传导至胸壁，检查者可用手掌触及。用于评价其是否对称、增强、减弱或消失，借以判断肺部病变。语音震颤减弱主要见于肺泡内含气量过多、支气管阻塞、大量胸腔"
+  },
+  {
+   "cn": "声韧带",
+   "en": "vocal ligament",
+   "source": "呼吸病学名词",
+   "wordNumber": "02.072",
+   "subjectFullName": "呼吸病学_解剖和组织学_上呼吸道",
+   "subjectName": "上呼吸道",
+   "publishYear": "2018",
+   "definition": "紧绷于甲状软骨至声带突之间的弹性圆锥上缘游离增厚的韧带。是发音的主要结构，参与组成声带。"
+  },
+  {
+   "cn": "发声",
+   "en": "vocalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "声襞",
+   "en": "vocal fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "声带突",
+   "en": "vocal process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "声韧带",
+   "en": "vocal ligament",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "声乐缩编谱",
+   "en": "vocal score",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "声囊",
+   "en": "vocal sac",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "声带",
+   "en": "vocal cord",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "声带肌",
+   "en": "vocalis\",\"vocal muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "假声带",
+   "en": "false vocal cord",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "咽下声囊",
+   "en": "subgular vocal sac",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "练声曲",
+   "en": "vocalise",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地方主义",
+   "en": "localism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "替代现象",
+   "en": "vicarism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "替代现象",
+   "en": "vicarism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "火山作用",
+   "en": "vulcanism\",\"volcanism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "板内火山活动",
+   "en": "intraplate volcanism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "national-socialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生机论",
+   "en": "vital theory\",\"vitalism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义核心价值观",
+   "en": "core values of socialism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "培育和践行社会主义核心价值观",
+   "en": "fostering core values of socialism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“直过民族”",
+   "en": "the directly-entering-socialism ethnic groups",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义道路",
+   "en": "the path of socialism with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义文化发展道路",
+   "en": "cultural development under socialism with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义伟大事业",
+   "en": "the great cause of socialism with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义进入新时代",
+   "en": "Socialism with Chinese characteristics has entered a new era.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义法治道路",
+   "en": "the path of law-based governance under Chinese socialism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "消除贫困是社会主义本质要求",
+   "en": "The eradication of poverty is an essential requirement of socialism.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "习近平新时代中国特色社会主义思想",
+   "en": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新时代中国特色社会主义基本方略",
+   "en": "the basic strategy for developing socialism with Chinese characteristics for a new era",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新时代中国特色社会主义发展战略安排",
+   "en": "the strategic vision for developing socialism with Chinese characteristics for a new era",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“四个自信”",
+   "en": "the “Four Matters of Confidence” (Confidence in the path, theory, system, and culture of socialism with Chinese characteristics)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发声与多运动联合抽动障碍",
+   "en": "combined vocal and motor tic disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "严重的运动性、发声性抽动障碍，以慢性、波动性、多发性运动抽动伴发声抽动为临床特征，约30%伴秽语症。"
+  },
+  {
+   "cn": "慢性运动或发声抽动障碍",
+   "en": "chronic motor or vocal tic disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.6.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "18岁之前发生的，临床主要表现为单一或多种运动或发声抽动持续存在于疾病的病程中，但并非运动和发声两者都存在，持续至少一年的抽动障碍。"
+  },
+  {
+   "cn": "发声抽动障碍",
+   "en": "persistent motor or vocal tic disorder, PMVT",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "简单性或复杂性的运动抽动或发声抽动，且两种抽动一般不同时存在，病程至少持续一年以上。抽动形式可是简单性的，也可是复杂性的；抽动可单一部位，也可多部位。一般以面肌、眼肌抽动最常见，慢性发声抽动也较常见。"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "空想社会主义",
+   "en": "utopian socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0002",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "科学社会主义诞生以前出现的、反映早期无产阶级和劳动人民要求消除资本主义剥削和压迫，建立人人平等的新社会的愿望的学说。代表人物有16、17世纪的莫尔（Thomas More）、康帕内拉（Tommas C"
+  },
+  {
+   "cn": "科学社会主义",
+   "en": "scientific socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0003",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由马克思、恩格斯为无产阶级和全人类解放而创立和不断发展的科学，是由资本主义社会转向社会主义社会和社会主义、共产主义社会发展规律的科学。科学社会主义有广义和狭义两种理解∶广义上，科学社会主义即共产主义学"
+  },
+  {
+   "cn": "资产阶级的社会主义",
+   "en": "bourgeois socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0232",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "产生于19世纪上半叶，以蒲鲁东等为主要代表的一种资产阶级改良主义的思潮。这种思潮反对工人进行政治斗争，打着社会主义旗号，主张用一些丝毫不会改变资本和雇佣劳动关系的行政的改良来消除资本主义社会的弊病，以"
+  },
+  {
+   "cn": "小资产阶级的社会主义",
+   "en": "pettybourgeois socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0290",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映小资产阶级利益和要求的社会主义流派，产生于19世纪上半叶的代表小资产阶级立场的反动思潮，主要代表有西斯蒙第、蒲鲁东等。他们揭露资本主义弊端，主张退回到小农经济和小手工业者，认为只要把劳动者转变为小"
+  },
+  {
+   "cn": "封建的社会主义",
+   "en": "feudal socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0300",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "法国和英国的封建贵族抨击现代资产阶级社会的思潮，是马克思、恩格斯在《共产党宣言》中批判的一种反动的社会主义思潮。"
+  },
+  {
+   "cn": "反动的社会主义",
+   "en": "reactionary socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0301",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "打着社会主义的旗号反社会主义，实为资产阶级或小资产阶级的主张或流派。《共产党宣言》指出的封建的社会主义、小资产阶级的社会主义、德国的或“真正的”社会主义都是反动的社会主义。或者企图恢复旧的生产资料和交"
+  },
+  {
+   "cn": "天主教的社会主义",
+   "en": "catholic socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0308",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由天主教徒提倡的给基督教禁欲主义教义涂上社会主义色彩的社会思潮。19世纪40年代与基督教社会主义同时流行于西欧。当代天主教社会主义把基督教正统理论同社会党“民主社会主义”观念相结合，力图证明社会民主运"
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "state socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0309",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家社会主义思想产生于19世纪50年代的德国，是一种试图利用地主阶级国家权力推行社会主义措施的思潮与政策。德国的拉萨尔，主张按照“工资铁律”实行不折不扣的劳动所得，工人通过普选权和国家帮助建立生产合作"
+  },
+  {
+   "cn": "基督教社会主义",
+   "en": "Christian socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0312",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "法国和英国的基督徒抨击现代资产阶级社会的思潮。十九世纪中叶欧美教会人士弘扬基督教的平等、博爱、慈善精神，使社会主义基督教化。他们谴责资本主义的商品买卖违反基督教教义，主张以基督教的友爱精神，依靠国家和"
+  },
+  {
+   "cn": "讲坛社会主义",
+   "en": "professorial socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0321",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70-90年代流行于德国的资产阶级改良主义思潮。其代表人物多为大学的经济学教授，如阿·瓦格纳（Wagner Adolph）、古斯塔夫·施穆勒（Gustav Schmoller）、路约·布伦坦诺"
+  },
+  {
+   "cn": "伦理社会主义",
+   "en": "ethical socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0328",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于德国的一种以康德唯心主义伦理思想为基础的“社会主义”学说。主要代表人物是新康德主义者赫尔曼·柯亨（（Hermann Cohen）等。认为社会由低级到高级的发展不是不同的社会制度的更替,"
+  },
+  {
+   "cn": "市政社会主义",
+   "en": "municipal socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0332",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪80年代以英国“费边社”和法国“可能派”为代表的机会主义流派。这种社会主义主张社会和平和阶级调和,认为“通向社会主义的道路”是民主选举地方自治的市政机关。"
+  },
+  {
+   "cn": "农业社会主义",
+   "en": "agrarian socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0347",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "一种以小农经济为基础、以平均主义为基本特征的空想社会主义观点。这一思潮早在18世纪末就已出现,法国空想共产主义者巴贝夫在他设想的理想社会中主张建立的以农业为主、实行均等分配的国民公社,实质上就是一种农"
+  },
+  {
+   "cn": "基尔特社会主义",
+   "en": "Guild socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0351",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初英国工人运动中的资产阶级改良主义思潮。它是中世纪行会的狭隘思想、现代资本主义思想及工团主义观点的混合体，主要代表人物是霍布逊（Samuel George Hobson）、潘蒂（Arthur "
+  },
+  {
+   "cn": "琼果社会主义",
+   "en": "Jingo socialism",
+   "source": "马克思主义",
+   "wordNumber": "04.0357",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "“琼果”是英文“Jingo”一词的音译。19世纪70年代俄土战争期间，在英国流行过一首好战的军国主义歌曲，其歌词中反复出现“by Jingo”一语，意即“以上帝的名义起誓”。“琼果”后来就成了表示极端"
+  },
+  {
+   "cn": "自由社会主义",
+   "en": "liberal socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0145",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "意大利诺尔贝托·博比奥（Norberto Bobbio）的自由社会主义思想意图综合自由主义与社会主义两大思想传统。他认为一个民主的社会主义必须以“自由主义宪政与代议民主”之维系为根本前提，也因此必须是"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

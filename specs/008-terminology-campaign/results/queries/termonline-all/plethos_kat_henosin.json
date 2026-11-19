@@ -1,0 +1,782 @@
+{
+ "key": "plethos kat' henosin",
+ "term": "plêthos kat’ henôsin",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:04:24+00:00",
+ "status": "ok",
+ "note": "variant=plêthos kat’ henôsin; 审定公布名词库=1069; 海峡两岸名词对照库=238; 其他来源数据库=111; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "开特",
+   "en": "Kat;Katal",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0045",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "国际纯粹与应用化学联合会（IUPAC）与国际生物化学联合会于1972年建议采用的表示酶活性的单位。是指在最适条件下，每秒转化1mol底物所需要的酶量。一个国际通用酶单位1U=16.67×10-9开特。"
+  },
+  {
+   "cn": "PL波",
+   "en": "PL wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0981",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "在震中距小于约 30°观测到的大的 P波与 S波之间的长周期(30～50s)波列。为壳-幔波导的泄漏振型，正频散。 "
+  },
+  {
+   "cn": "剪切耦合PL波",
+   "en": "shear coupled PL wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0982",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "在震中距直至约 80°处，直达 S波后面出现的、由 S波与壳 -幔波导的泄漏振型 PL波耦合产生的呈正频散特征的长周期波列。PL波与 SS波和 SSS波的耦合也产生剪切耦合 PL波。 "
+  },
+  {
+   "cn": "[剪切耦合]PL波",
+   "en": "[shear coupled] PL waves",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "肯特肽",
+   "en": "kentsin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0096",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_肽_功能性寡肽和多肽",
+   "subjectName": "功能性寡肽和多肽",
+   "publishYear": "2024",
+   "definition": "一种人工合成的、氨基酸序列为Thr-Pro-Arg-Lys的四肽。因发现者肯特（Kent）而得名，具有阿片样肽和非阿片样肽双重作用，可以止痛，但不直接与阿片样肽受体结合。"
+  },
+  {
+   "cn": "张力蛋白",
+   "en": "tensin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.052",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "位于脊椎动物细胞质膜上一种含整合素的黏着斑内的蛋白质。具有SH2功能结构域，能使酪氨酸磷酸化，使细胞外基质与细胞骨架中的微丝相连。"
+  },
+  {
+   "cn": "张力蛋白",
+   "en": "tensin",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.149",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "细胞和细胞外基质结合部位的黏着斑中与肌动蛋白相结合的蛋白质。具有SH2功能域，能使酪氨酸磷酸化，可维持微丝锚着点的张力，参与信号转导，将信号传递系统与细胞骨架联系起来。"
+  },
+  {
+   "cn": "褐色脂肪",
+   "en": "brown fat,brown adipose tissue,BAT",
+   "source": "生态学名词",
+   "wordNumber": "02.130",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "存在于恒温动物的新生个体、冷环境中的啮齿动物和越冬前的冬眠动物体内的一种呈黄色至浅褐色的产热力强的脂肪组织。"
+  },
+  {
+   "cn": "燕麦",
+   "en": "oat",
+   "source": "农学名词",
+   "wordNumber": "02.055",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "禾本科燕麦属(Avena)栽培种的统称。一年生或越年生。染色体组为AACCDD型，2n=6x=42，基因组大小为10.76Gb。根系发达。秆粗而软，无叶耳，圆锥花序，周散或侧散。每穗有4~9节，节上枝"
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "7.0104",
+   "subjectFullName": "生物化学与分子生物学_脂质_甘油酯_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "常温下呈固态的甘油酯。为饱和高级脂肪甘油酯。动物性甘油酯多为脂肪（鱼油例外）。"
+  },
+  {
+   "cn": "猫",
+   "en": "cat",
+   "source": "兽医学名词",
+   "wordNumber": "09.228",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "食肉目猫科猫属( Felis )动物。善捕捉，视力好。舌上有倒钩状丝状突，便于舔食。实验多用短毛猫，主要用于生理学、药理学及某些疾病研究中，适合于做急性试验。"
+  },
+  {
+   "cn": "肥肉",
+   "en": "fat",
+   "source": "畜牧学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "畜牧学_畜产品与加工_肉",
+   "subjectName": "肉",
+   "publishYear": "2020",
+   "definition": "胴体皮下的脂肪。"
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0074",
+   "subjectFullName": "食品科学技术_食品营养_基础营养_脂类",
+   "subjectName": "脂类",
+   "publishYear": "2020",
+   "definition": "甘油和各种脂肪酸链脱水形成的甘油三酯的混合物。是人体重要的产能营养素和储能物质。"
+  },
+  {
+   "cn": "右矢",
+   "en": "ket",
+   "source": "物理学名词",
+   "wordNumber": "06.0567",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "交织成片",
+   "en": "mat",
+   "source": "植物学名词",
+   "wordNumber": "07.0022",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "植物体平卧于基质上错综复杂地合在一起，外观呈片状的生长状态。"
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "植物学名词",
+   "wordNumber": "09.0129",
+   "subjectFullName": "植物学_植物细胞生物学",
+   "subjectName": "植物细胞生物学",
+   "publishYear": "2019",
+   "definition": "在细胞内或叶绿体中呈固体状态的脂质。"
+  },
+  {
+   "cn": "药盒",
+   "en": "kit",
+   "source": "核医学名词",
+   "wordNumber": "02.0372",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "包装在一起的便于临床快速制备药物所需的成套试剂。包括原料药、还原剂或氧化剂、稳定剂、赋形剂等。"
+  },
+  {
+   "cn": "防腐槽",
+   "en": "vat",
+   "source": "林学名词",
+   "wordNumber": "11.150",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "盛防腐药液的无盖容器。可贮存防腐药液，或当采用不需要密闭容器的防腐处理方法处理木材时，用作盛药液的容器。"
+  },
+  {
+   "cn": "沉垫",
+   "en": "mat",
+   "source": "船舶工程名词",
+   "wordNumber": "13.113",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "把各个桩腿或各个立柱的底端连接起来的整体水密箱形结构。"
+  },
+  {
+   "cn": "沉垫",
+   "en": "mat",
+   "source": "石油名词",
+   "wordNumber": "08.0502",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "开特",
+   "en": "Kat\",\"Katal",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "卡佳·卡巴诺娃",
+   "en": "Katya Kabanová (Kat’a Kabanová)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Janáček, Leoš"
+  },
+  {
+   "cn": "PL/1语言",
+   "en": "Programming Language/1\",\"PL/1",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肯特肽, 避孕四肽",
+   "en": "kentsin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "张力蛋白",
+   "en": "tensin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "张力蛋白",
+   "en": "tensin",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试饼",
+   "en": "pat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "袖珍提琴",
+   "en": "kit",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "套鼓",
+   "en": "kit",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沉垫",
+   "en": "mat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "试剂盒",
+   "en": "kit",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奈特",
+   "en": "nat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚",
+   "en": "cat",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "棕脂肪，多泡脂肪",
+   "en": "brown fat\",\"multilocular fat",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "白脂肪，单泡脂肪",
+   "en": "white fat\",\"unilocular fat",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "吊锚索具",
+   "en": "cat-chain\",\"cat tackle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "过氧化氢酶",
+   "en": "catalase\",\"CAT",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上场击球顺序",
+   "en": "time at bat\",\"turn at bat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蝙蝠",
+   "en": "bat ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肩",
+   "en": "kata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遮阳帽",
+   "en": "hat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击帽",
+   "en": "hat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫子",
+   "en": "mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加藤",
+   "en": "Kato",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击帽",
+   "en": "hat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球棒",
+   "en": "bat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球童",
+   "en": "bat boy\",\"bat girl",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔道垫",
+   "en": "mat\",\"tatami",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔道垫",
+   "en": "mat\",\"tatami",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球",
+   "en": "bat\",\"hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "薛定谔的猫",
+   "en": "Schrodinger’s cat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "白帽子",
+   "en": "white hat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "竹鼠",
+   "en": "bamboo rat",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试剂盒",
+   "en": "test kit",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塔特人",
+   "en": "Tat",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0182",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "西亚跨界民族之一。人口数约为12.1 万（2016 年）。分布于伊朗的西北部和阿塞拜疆境内。属欧罗巴人种巴尔干—高加索类型。操塔特语，属印欧语系伊朗语族西部语支，无文字。通用阿塞拜疆文、俄文和波斯文。"
+  },
+  {
+   "cn": "鸭油",
+   "en": "duck fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.5",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "由鸭脂肪中获得的油脂。"
+  },
+  {
+   "cn": "脂肪析出",
+   "en": "fat exudation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头在加工、贮存或运输过程中，内容物中的脂肪分离并在表面聚集形成可见脂肪层的现象。"
+  },
+  {
+   "cn": "羊油",
+   "en": "sheep fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.3",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "由羊内脏附近和皮下含脂肪组织中提取的油脂。"
+  },
+  {
+   "cn": "放射免疫分析试剂盒",
+   "en": "radioimmunoassay kit",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "按照放射免疫分析要求，将标准品、标记物、结合试剂、分离剂和缓冲溶液等组合一起并附有操作说明书的一整套组分，用于体外测定某一待测物的量。"
+  },
+  {
+   "cn": "猫论",
+   "en": "Cat Theory",
+   "source": "马克思主义",
+   "wordNumber": "04.0136",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平所赞同和主张的如下观点：不管白猫黑猫,抓到老鼠就是好猫。“猫论”突破了固定的思维模式，是发动经济改革，实行对外开放的先声，对中国社会具有巨大的进步意义。"
+  },
+  {
+   "cn": "体脂量",
+   "en": "fat mass",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "人体内脂肪的重量。"
+  },
+  {
+   "cn": "脂肪组件",
+   "en": "fat component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.32",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由脂肪和/或脂肪酸构成，可选用长链甘油三酯、中链甘油三酯或其他允许使用的脂肪（酸）作为脂肪来源的非全营养配方食品。"
+  },
+  {
+   "cn": "鸡油",
+   "en": "chicken fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.4",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "从鸡腹内脂肪中提取的油脂。"
+  },
+  {
+   "cn": "模仿理论",
+   "en": "copy-cat theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "一种有关个体或群体仿效他人的行为、习惯等的理论。在大众传媒研究中，该理论主要用以分析大众媒体对受众的影响，解释大众传媒影响下的群体或个体行为的发生动机和相似性现象。"
+  },
+  {
+   "cn": "康德哲学",
+   "en": "philosophy of Kant",
+   "source": "马克思主义",
+   "wordNumber": "01.0117",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "德国古典哲学创始人康德的哲学体系，其核心是通过对理性的知、情、意功能的划分，为真（现象—知识）奠定基础，为善（物自体—自由）留下余地，美（合目的性）则是沟通两者的桥梁。其论著涉及宗教哲学、法哲学、历史"
+  },
+  {
+   "cn": "体脂率",
+   "en": "body fat ratio",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "人体脂肪组织占体重的百分比，是比较直观判断肥胖的指标。常用的测量方法主要包括：双能X线吸收法、生物电阻抗法和皮褶厚度法。"
+  },
+  {
+   "cn": "食用动物油脂",
+   "en": "edible animal fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以经动物卫生监督机构检疫、检验合格的生猪、牛、羊、鸡、鸭的板油、肉腰、网膜或附着于内脏器官的纯脂肪组织为原料，炼制成的食用油脂。"
+  },
+  {
+   "cn": "侗台语族",
+   "en": "Kam-Tai group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系的语族之一。分布在中国和泰国、老挝、缅甸、越南等国。中国侗台语族语言主要在贵州、广西、云南等省区。分四个语支：壮傣语支、侗水语支、黎语支、仡央语支。"
+  },
+  {
+   "cn": "脂溶性抗氧化剂",
+   "en": "fat-soluble antioxidant",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.7.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或延缓食品成分氧化分解、变质，提高食品稳定性的脂溶性物质"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "交互计算机基于个体对条目的反应继续或结束测量的自适应测试形式。"
+  },
+  {
+   "cn": "标准生物测试包",
+   "en": "standard biological test kit",
+   "source": "消毒学",
+   "wordNumber": "6.2.29.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将2个嗜热脂肪杆菌（ATCC 7953）芽胞菌片装入灭菌小纸袋内，再将该纸袋或两个灭菌指示物置于体积为23 cm×23 cm×15 cm，质量1.5 kg±0.045kg的普通棉布包中心部位制成的用于"
+  },
+  {
+   "cn": "脂肪去除效果试验",
+   "en": "fat removal effect test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "检测医用清洗剂对污染物中脂肪去除效果的试验。"
+  },
+  {
+   "cn": "油脂制品",
+   "en": "fat and oil products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "经精炼、氢化、酯交换、分提等一种或几种方式加工的动、植物油脂的单品或混合物，添加（或不添加）水及其他辅料，经（或不经过）乳化急冷捏合制造的固状、半固状或流动状制品。"
+  },
+  {
+   "cn": "非脂可可固形物",
+   "en": "cocoa solids non-fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.19",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "巧克力中不包括可可脂的可可干物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

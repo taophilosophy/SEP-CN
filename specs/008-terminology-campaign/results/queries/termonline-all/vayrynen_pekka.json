@@ -1,0 +1,52 @@
+{
+ "key": "vayrynen pekka",
+ "term": "Väyrynen Pekka",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:08:54+00:00",
+ "status": "ok",
+ "note": "variant=Väyrynen Pekka; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "聚醚酮酮",
+   "en": "polyetherketoneketone,PEKK",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "材料科学技术_高分子材料_塑料",
+   "subjectName": "塑料",
+   "publishYear": "2011",
+   "definition": "重复单元为的聚合物。耐热性能好。在聚芳醚酮类聚合物中具有突出的高熔点和高玻璃化转变温度。"
+  },
+  {
+   "cn": "聚醚酮酮",
+   "en": "poly(ether-ketone-ketone),PEKK",
+   "source": "化学名词",
+   "wordNumber": "05.0294",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "结构重复单元为<img src='/root/syzx/static/spz/huaxue2.05.0294.1.png'/>及其衍生结构的聚合物。"
+  },
+  {
+   "cn": "萨洛宁",
+   "en": "Salonen\",\"Esa-Pekka(芬兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "聚醚酮酮",
+   "en": "polyetherketoneketone\",\"PEKK",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

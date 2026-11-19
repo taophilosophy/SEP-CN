@@ -1,0 +1,772 @@
+{
+ "key": "non-presentism",
+ "term": "non-presentism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:09:01+00:00",
+ "status": "ok",
+ "note": "variant=non-presentism; 审定公布名词库=2916; 海峡两岸名词对照库=917; 其他来源数据库=152; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "胎向",
+   "en": "presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿的方向。即胎儿在母体中身体纵轴与母体纵轴的关系。"
+  },
+  {
+   "cn": "现在",
+   "en": "present",
+   "source": "物理学名词",
+   "wordNumber": "06.0076",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "产品展示",
+   "en": "presentation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0640",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "销售人员将产品的详情讲述给买家，并着重阐述其顾客利益以及展示该产品如何解决顾客问题。是销售过程的一个阶段。"
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "免疫学名词",
+   "wordNumber": "2.135",
+   "subjectFullName": "免疫学_免疫系统_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2007",
+   "definition": "一类异质性的抗原提呈细胞。其仅在炎症因子刺激下才诱导性表达MHCII类分子和共刺激分子,并因此具有抗原提呈功能，包括内皮细胞、上皮细胞、成纤维细胞等。"
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presenting",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.041",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "细胞表面抗原能被T细胞特异性识别的过程。"
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "急救医学名词",
+   "wordNumber": "03.626",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。头最为常见，另有臀、肩，偶见复合先露。"
+  },
+  {
+   "cn": "胎先露",
+   "en": "fetal presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.01",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "最先进入母体骨盆入口的胎儿部分。"
+  },
+  {
+   "cn": "头先露",
+   "en": "cephalic presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿头部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "枕先露",
+   "en": "occipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿枕骨最先进入母体骨盆入口。胎头俯屈使下颏接近胸部。"
+  },
+  {
+   "cn": "面先露",
+   "en": "face presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿面部最先进入母体骨盆入口。胎头极度仰伸，胎儿枕部与胎背接触。多在临产后发现，经产妇多见。"
+  },
+  {
+   "cn": "额先露",
+   "en": "brow presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.014",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿额骨最先进入母体骨盆入口。胎头部分仰伸。"
+  },
+  {
+   "cn": "臀先露",
+   "en": "breech presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿臀部或胎儿足部最先进入母体骨盆入口。是最常见的异常胎位。可分为单臀先露、完全臀先露、不完全臀先露。以骶骨为指示点，有骶左前、骶左横、骶左后、骶右前、骶右横、骶右后6种胎方位。"
+  },
+  {
+   "cn": "肩先露",
+   "en": "shoulder presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.019",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎儿横产式，胎儿肩部最先进入母体骨盆入口。"
+  },
+  {
+   "cn": "复合先露",
+   "en": "compound presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎先露部伴有胎儿肢体同时进入骨盆入口。临床以一手或一前臂沿胎头脱出最常见，多发生于早产者。"
+  },
+  {
+   "cn": "高直位",
+   "en": "sincipital presentation",
+   "source": "妇产科学名词",
+   "wordNumber": "18.04",
+   "subjectFullName": "异常分娩_胎位异常",
+   "subjectName": "胎位异常",
+   "publishYear": "2025",
+   "definition": "胎头以不屈不伸的姿势位于骨盆入口，其矢状缝与骨盆入口平面前后径一致的一种胎位异常。"
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.034",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "通过细胞表面的分子与特异性配体结合而使配体浓缩富集，然后提呈给同一细胞或其他细胞上受体的现象。如在脂代谢中蛋白聚糖提呈脂蛋白相关蛋白质的配体载脂蛋白E等。"
+  },
+  {
+   "cn": "现值",
+   "en": "present value",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.010",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "将来的一笔资金，按一定利率计算的在基准年的等效值。"
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.3.1.5",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "表达于细胞表面的抗原肽-主要组织相容性复合体分子复合物被T细胞识别，从而将抗原肽提呈给T细胞，诱导T细胞活化的过程。"
+  },
+  {
+   "cn": "横向",
+   "en": "transverse presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "胎儿纵轴与母体纵轴呈水平垂直的 胎向。"
+  },
+  {
+   "cn": "纵向",
+   "en": "longitudinal presentation",
+   "source": "兽医学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "在子宫内胎儿身体纵轴与母体身体纵轴平行的胎向。"
+  },
+  {
+   "cn": "求爱行为",
+   "en": "presenting",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现值",
+   "en": "present value\",\"present worth",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "提示银行",
+   "en": "presenting bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presenting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗原提呈,抗原呈递",
+   "en": "antigen presenting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "现代气候",
+   "en": "present climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现在天气",
+   "en": "present weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双耳呈现",
+   "en": "binaural presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self presentation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "样品预处理",
+   "en": "sample presentation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "现价",
+   "en": "present price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现值",
+   "en": "present value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同现,共存",
+   "en": "co-present",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交叉提呈",
+   "en": "cross-presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗原提呈",
+   "en": "antigen presentation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配体提呈",
+   "en": "ligand presentation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据表达",
+   "en": "data presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形表示[法]",
+   "en": "graphic presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示法",
+   "en": "cartographic presentation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非现金化收付",
+   "en": "non-cash payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非公共数据",
+   "en": "non-public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非专职性抗原提呈细胞",
+   "en": "non-professional antigen presenting cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.26",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "仅在炎症因子刺激下才诱导性表达MHCII类分子和共刺激分子,并因此具有抗原提呈功能的细胞。包括内皮细胞、上皮细胞、成纤维细胞等。"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "日常生活视力",
+   "en": "presenting visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在日常屈光状态下的视力。平时未戴眼镜者，为裸眼视力；平时戴眼镜者，则为戴眼镜状态下所测得视力；如已配眼镜但日常生活中并不戴用，则仍以裸眼视力反映。"
+  },
+  {
+   "cn": "抗原提呈细胞",
+   "en": "antigen presenting cell, APC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.25",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类参与适应性免疫应答的重要性细胞类型。其功能为：①摄取和加工抗原，并使抗原肽与MHC分子形成复合物而呈现于细胞表面，共T细胞识别；②组成性或诱导性表达多种共刺激分子，通过对T细胞表面相应配体结合而提"
+  },
+  {
+   "cn": "存在死亡危险",
+   "en": "present risk of death",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "在某一种组合危险分数下，因某种疾病死亡的可能危险性。其计算公式为疾病别平均死亡率乘以该疾病危险分数。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  },
+  {
+   "cn": "非焚烧处理",
+   "en": "Non-incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "除传统焚烧处理以外的处理，如高温蒸汽处理、高温干热处理、化学法处理、微波处理等。"
+  },
+  {
+   "cn": "非电离辐射",
+   "en": "non-ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.3",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "不引起物质原子和分子电离、只引起其振动、转动或电子能级改变的辐射。如紫外线、可见光、红外线、微波和高频电磁场。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "非物质文化",
+   "en": "non-material culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "人类在社会历史实践过程中所创造的各种精神文化。包括自然科学、宗教、艺术、哲学、语言文字、风俗道德、法律等。与“物质文化”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

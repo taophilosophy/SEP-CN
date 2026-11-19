@@ -1,0 +1,592 @@
+{
+ "key": "proton soma",
+ "term": "prôton sôma",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:04:27+00:00",
+ "status": "ok",
+ "note": "variant=prôton sôma; 审定公布名词库=611; 海峡两岸名词对照库=155; 其他来源数据库=17; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "PR方程",
+   "en": "Peng-Robinson equation,PR equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "化学工程_化工热力学_流体的P-T-V关系",
+   "subjectName": "流体的P-T-V关系",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "MA型显示",
+   "en": "MA-display",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.205",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_超声检测仪",
+   "subjectName": "超声检测仪",
+   "publishYear": "2003",
+   "definition": "在探头扫查过程中，把所得到的A型显示图形连续叠加的显示。"
+  },
+  {
+   "cn": "克拉通",
+   "en": "craton;kraton",
+   "source": "地质学名词",
+   "wordNumber": "10.01.097",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "大陆地壳上长期稳定的构造单元。多位于大陆的中部，是大陆岩石圈板块的主体。一般都有一个由前寒武纪变质岩组成的基底，其上可有变形较弱或未变形的沉积盖层。基底大面积长期裸露的地区称为地盾，基底上覆有沉积盖层"
+  },
+  {
+   "cn": "神经元胞体",
+   "en": "soma",
+   "source": "兽医学名词",
+   "wordNumber": "08.150",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "由细胞膜、细胞质和细胞核构成的细胞中心部。是神经元的营养和代谢中心。"
+  },
+  {
+   "cn": "胞体",
+   "en": "soma",
+   "source": "动物学名词",
+   "wordNumber": "3.0265",
+   "subjectFullName": "动物学_动物组织学_神经组织",
+   "subjectName": "神经组织",
+   "publishYear": "2021",
+   "definition": "神经元的核心部分。包括细胞膜、细胞质和细胞核。是神经元的营养和代谢中心。"
+  },
+  {
+   "cn": "胞体",
+   "en": "soma",
+   "source": "生理学名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[神经元]胞体",
+   "en": "soma",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "组织学与胚胎学_组织学_神经组织和神经系统",
+   "subjectName": "神经组织和神经系统",
+   "publishYear": "2014",
+   "definition": "由细胞膜、细胞质和细胞核构成的细胞中心部。是神经元的营养和代谢中心。"
+  },
+  {
+   "cn": "硅镁层",
+   "en": "sima",
+   "source": "地质学名词",
+   "wordNumber": "01.017",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "SAMA图",
+   "en": "SAMA diagram",
+   "source": "电力名词",
+   "wordNumber": "12.037",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "基于美国科学仪器制造商协会(SAMA)“仪表与控制系统功能图制图”PMC22.1标准所规定的图例符号和制图规定,绘制的用于表示控制系统逻辑或控制策略的功能框图。"
+  },
+  {
+   "cn": "挲摩吠陀",
+   "en": "Sama Veda",
+   "source": "世界历史名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "世界历史_古代中世纪_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "古代印度晚期吠陀时代的经典之一，内容是从梨俱吠陀那里摘录下来的颂歌节句，按其在祭仪中使用的需要排列而成。"
+  },
+  {
+   "cn": "质子-质子反应",
+   "en": "proton-proton reaction",
+   "source": "天文学名词",
+   "wordNumber": "04.197",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "四个氢核聚变为一个氦核的一系列热核反应过程，是低光度、小质量的主序星的主要能源来源。"
+  },
+  {
+   "cn": "质子-质子链",
+   "en": "proton-proton chain",
+   "source": "天文学名词",
+   "wordNumber": "04.422",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星核合成反应中氢原子两两发生核聚变生成氦原子的过程。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "核科学技术名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "核科学技术_核物理_核物理基础类",
+   "subjectName": "核物理基础类",
+   "publishYear": "2024",
+   "definition": "带一个单位正电荷的一种亚原子粒子。符号p或p+，其质量为1.67262192369(51)×10−27 kg，半径为0.84～0.88 fm。最轻的化学元素氢的原子核，即氢离子，记为1H。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "电力名词",
+   "wordNumber": "17.004",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "即氢核<img src='/root/syzx/static/spz/dianli3.17.004.03.png'/>,是一种自旋为1/2的稳定核子。作为原子核的重要成分,其质量为1.67265<im"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "物理学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "核医学名词",
+   "wordNumber": "02.0015",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "构成原子核的基本粒子之一。质量1.6726231×<img src='/root/syzx/static/spz/heyixue1.02.0016.01.png'/>kg，带1.6×<img src="
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.012",
+   "subjectFullName": "放射医学与防护_放射物理学_原子和原子核",
+   "subjectName": "原子和原子核",
+   "publishYear": "2014",
+   "definition": "原子核的基本成分之一，带正电荷。也是化学元素氢的最轻的同位素的原子核。其电荷量为<img src='/root/syzx/static/spz/fangshefanghu1.02.012.1.png'"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "电子学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "胞体",
+   "en": "soma,cell body",
+   "source": "生物物理学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "生物物理学_神经生物物理学_神经信号产生",
+   "subjectName": "神经信号产生",
+   "publishYear": "2018",
+   "definition": "神经元的核心部分。是神经元营养、代谢的中心，包括细胞膜、细胞质和细胞核。"
+  },
+  {
+   "cn": "胞体",
+   "en": "soma,cell body",
+   "source": "心理学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "神经元的主体和营养中心。包括细胞膜、细胞质和细胞核。"
+  },
+  {
+   "cn": "PR［状态］方程",
+   "en": "Peng-Robinson equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "胞体",
+   "en": "soma",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "硅镁层",
+   "en": "sima",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质子泵",
+   "en": "proton pump",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质子照相术",
+   "en": "proton radiography",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂化质子",
+   "en": "solvated proton",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子传递",
+   "en": "proton transfer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子给体",
+   "en": "proton donor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子亲合能",
+   "en": "proton affinity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子受体",
+   "en": "proton acceptor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子重力梯度仪",
+   "en": "proton gradiometer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "质子泵",
+   "en": "proton pump",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质子层析成像",
+   "en": "proton tomography",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质子-质子反应",
+   "en": "proton-proton reaction\",\"p-p reaction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子-质子循环",
+   "en": "proton-proton cycle\",\"p-p cycle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "智慧监狱",
+   "en": "smart prison",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单光子探测",
+   "en": "single photon detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧监所云",
+   "en": "smart prison cloud",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光子系统量子纠缠现象（法国）",
+   "en": "quantum entanglement in photon system (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核的基本成分之一，带正电荷。也是化学元素氢的最轻的同位素的原子核。其电荷量为1.602×10-19C，静止质量为1.673×10-27kg。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.5",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "构成原子核的基本粒子之一。带正电荷。"
+  },
+  {
+   "cn": "质子回旋加速器",
+   "en": "proton cyclotron",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.9",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "在恒定导向磁场作用下，使质子做圆周运动并重复受到高频电场的谐掁加速而不断提高能量的加速器。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "基本粒子的一种，不带电，静止质量为零，包括X射线、γ射线。"
+  },
+  {
+   "cn": "反冲质子谱仪",
+   "en": "recoil proton spectrometer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "通过测量含氢介质内中子弹性散射所产生的反冲质子的能量分布来确定快中子能谱的仪器。"
+  },
+  {
+   "cn": "质子放射治疗",
+   "en": "proton radiation therapy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "利用高能质子束进行肿瘤放射治疗的一种方法。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "太阳质子事件",
+   "en": "solar proton event",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.4.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "太阳爆发释放出大量高能带电粒子（主要成分为质子）的现象。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  },
+  {
+   "cn": "原始语",
+   "en": "proto-language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0075",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "运用历史比较语言学方法构拟的古代语言形式。具体做法是根据现存的语言材料，建立它们之间的语音对应关系，从而构拟或重建（reconstruction）古代原始语的形式，并探求、解释古今语言发展演变的规律。"
+  },
+  {
+   "cn": "抗平滑肌抗体",
+   "en": "anti-smooth muscle antibody, anti-SMA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.38",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要见于自身免疫性肝炎，也可见于原发性胆汁性胆管炎、慢性活动性肝炎、急性病毒性肝炎及正常中、老年人。"
+  },
+  {
+   "cn": "质子激发X射线荧光分析",
+   "en": "proton induced X-ray emission analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "一种基于高能质子轰击样品的分析技术。其基础是用高能质子轰击样品，从而产生特征X射线的发射。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像",
+   "en": "single photon emission computed tomography，SPECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "以普通γ射线为探测对象的发射计算机体层显像技术。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

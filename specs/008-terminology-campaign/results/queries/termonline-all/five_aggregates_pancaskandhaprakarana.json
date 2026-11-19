@@ -1,0 +1,792 @@
+{
+ "key": "five aggregates pancaskandhaprakarana",
+ "term": "Five Aggregates Pañcaskandhaprakaraṇa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:10:19+00:00",
+ "status": "ok",
+ "note": "variant=Five Aggregates Pañcaskandhaprakaraṇa; 审定公布名词库=1676; 海峡两岸名词对照库=417; 其他来源数据库=117; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "骨料",
+   "en": "aggregate",
+   "source": "冶金学名词",
+   "wordNumber": "05.0355",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "耐火材料组分中的颗粒部分，通常指粗颗粒。"
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "物理学名词",
+   "wordNumber": "08.2540",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "化学名词",
+   "wordNumber": "04.1514",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "分散的高分子或颗粒由聚集作用形成的分子群体或颗粒团聚体。"
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "化学名词",
+   "wordNumber": "04.1514",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "以某种方式集合在一起的分子或者粒子集团。"
+  },
+  {
+   "cn": "骨料",
+   "en": "aggregate",
+   "source": "建筑学名词",
+   "wordNumber": "12.0104",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "在混凝土或砂浆中起骨架和填充作用的岩石颗粒等粒状松散材料。"
+  },
+  {
+   "cn": "骨料",
+   "en": "aggregate",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0699",
+   "subjectFullName": "材料科学技术_无机非金属材料_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2011",
+   "definition": "在耐火材料中，常指粒度大于0.088mm的颗粒料。大多为熟料，在泥料成型后和制品中起到骨架作用。"
+  },
+  {
+   "cn": "集料",
+   "en": "aggregate",
+   "source": "土木工程名词",
+   "wordNumber": "01.200",
+   "subjectFullName": "土木工程_工程材料_混凝土",
+   "subjectName": "混凝土",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "团聚体",
+   "en": "aggregate",
+   "source": "土壤学名词",
+   "wordNumber": "03.069",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "土粒通过各种自然过程的作用而形成的直径＜10mm的结构单位。"
+  },
+  {
+   "cn": "骨料",
+   "en": "aggregate",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.203",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）",
+   "subjectName": "建筑材料（水利）",
+   "publishYear": "1997",
+   "definition": "用于拌制混凝土或砂浆的砂、碎石或砾石的总称。"
+  },
+  {
+   "cn": "集料",
+   "en": "aggregate",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.048",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "集料",
+   "en": "aggregate",
+   "source": "地质学名词",
+   "wordNumber": "07.273",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内容聚合者",
+   "en": "aggregator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.148",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "聚合来自多个在线源的特定类型信息的网站或软件，收集相关内容项并显示它们，或者链接到它们。"
+  },
+  {
+   "cn": "聚合器",
+   "en": "aggregator",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "一个独立实体，它把若干用户集合在一起组成一个群使能获得较低费率的长途业务。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "档案学名词",
+   "wordNumber": "06.01.010",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "高于文件对象层级的任一文件实体的集合。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "动物学名词",
+   "wordNumber": "7.042",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "受环境资源吸引而形成的个体聚群现象。但同种个体暂时性地聚合在一起，其行动并无组织，也无协作的特点。"
+  },
+  {
+   "cn": "集聚",
+   "en": "aggregation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0093",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "固体表面的液体膜流动聚合形成微小液滴的过程。"
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "生理学名词",
+   "wordNumber": "02.167",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "物理学名词",
+   "wordNumber": "08.2537",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚结",
+   "en": "aggregation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0552",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "小尺度的粒子相互接触时，在弱的物理作用力下，使得接触面粘在一起，形成更大的团簇粒子。"
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0119",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据抽象方法的基本概念之一。设有 n个对象<img src='/root/syzx/static/spz/jsjkx3.07.0119.001.png'/>，i =1，2,…，n ，其笛卡儿积<img"
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集体",
+   "en": "aggregate",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚合体",
+   "en": "aggregate",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "聚合",
+   "en": "aggregation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "聚集[作用]",
+   "en": "aggregation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群聚，聚集",
+   "en": "aggregation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "聚集",
+   "en": "aggregation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "五人团",
+   "en": "The Five",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "五行",
+   "en": "five elements",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "五味 （指辛、甘、酸、苦、咸）",
+   "en": "five flavours",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "聚集分布",
+   "en": "aggregated distribution",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "聚合射线",
+   "en": "aggregate ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物种群",
+   "en": "species aggregate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚合速度",
+   "en": "aggregate speed",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五人赛艇",
+   "en": "five",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五经",
+   "en": "Five Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五音",
+   "en": "The Five Notes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五伦",
+   "en": "The Five Bonds",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "装五发子弹!",
+   "en": "Load five rounds!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排序融合算法",
+   "en": "rank aggregation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五律",
+   "en": "Five-character Rhythmic Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五通”",
+   "en": "the “Five-pronged Approach”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集汇聚",
+   "en": "data acquisition and aggregation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五德终始",
+   "en": "The Cycle of Five Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五位一体\"总体布局",
+   "en": "the Five-sphere Integrated Plan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“十三五”规划",
+   "en": "the 13th Five-Year Plan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "五行相胜",
+   "en": "The Five Elements Triumph over Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "500米口径球面射电望远镜",
+   "en": "Five-hundred-meter Aperture Spherical Radio Telescope (FAST)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据“聚通用”",
+   "en": "Government Data Aggregation, Circulation and Utilization (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五行相生",
+   "en": "The Five Elements, Each in Turn Producing the Next",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《人民法院信息化建设五年发展规划（2016–2020）》（中国）",
+   "en": "2016–2020 Five-Year Development Plan for IT Applications in People’s Courts (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社稷",
+   "en": "<div> Gods of the Earth and the Five Grains / State / State Power</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“五观”",
+   "en": "five outlooks",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0136",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即马克思主义的国家观、历史观、民族观、文化观和宗教观。"
+  },
+  {
+   "cn": "总体工人",
+   "en": "aggregate workers",
+   "source": "马克思主义",
+   "wordNumber": "02.0124",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为生产共同产品直接生产工人，以及非直接生产工人（科技人员、管理人员）的总体。有两个含义：一是指工场手工业时期所特有的局部工人组成的全体生产者。二是包括物质生产领域中直接和间接参加生产某种商品的全体劳动"
+  },
+  {
+   "cn": "总供给",
+   "en": "aggregate supply",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内（通常为1年）由社会生产活动实际可以提供给市场的可供最终使用的卫生服务产品的种类和服务总量。"
+  },
+  {
+   "cn": "社会集合",
+   "en": "social aggregation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.17",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会成员在时空上形成非整合性、非系统性、非组织性和非协作性的毗邻或群居。深层次上反映出人们彼此之间在社会-文化上尚未达到逻辑和意义上的统一。"
+  },
+  {
+   "cn": "家族聚集性",
+   "en": "familial aggregation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "某一或某些生长发育特征在家族成员中出现的概率或在家族成员间的相关性高于全人群的现象。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "五步碘量法",
+   "en": "five-step iodimetry",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.1.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于水中Cl2 、ClO2、Cl02-及Cl03-在不同的pH时与碘离子反应生成I2，用硫代硫酸钠溶液滴定游离碘测定二氧化氯浓度的滴定分析法，此法可区分测定上述4种氯氧化物的含量。"
+  },
+  {
+   "cn": "“五保”老人",
+   "en": "five-guarantees elderly",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.39",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国农村因缺乏劳动能力和生活来源而接受政府和村委会提供的保吃、保穿、保医、保住、保葬社会救助的老年人。"
+  },
+  {
+   "cn": "五条重大原则",
+   "en": "five major principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0828",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，前进道路上，必须牢牢把握以下重大原则：坚持和加强党的全面领导，坚持中国特色社会主义道路，坚持以人民为中心的发展思想，坚持深化改革开放，坚持发扬斗争精神。"
+  },
+  {
+   "cn": "五次反围剿",
+   "en": "five counterencirclement campaigns",
+   "source": "马克思主义",
+   "wordNumber": "04.0131",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "第二次国内革命战争时期，1930年12月至1934年10月，中国工农红军第一方面军连续五次反击国民党反动派围剿中央苏区革命根据地的战役。前四次红军都获得胜利，第五次在“左”倾路线的领导下，反围剿失利，"
+  },
+  {
+   "cn": "5岁以下儿童死亡",
+   "en": "under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于5岁的儿童死亡。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0644",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代西域弹拨乐器。传入中原后盛行于南北朝、隋唐时期。形制与四弦琵琶相似，唯颈直而音箱略小。在克孜尔等新疆佛窟壁画中常见，可知为西域乐舞主要乐器之一。"
+  },
+  {
+   "cn": "五行学说",
+   "en": "five-phase theory",
+   "source": "社会医学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "自然哲学医学模式",
+   "publishYear": "2025",
+   "definition": "将古代哲学中木、火、土、金、水五类物质的特性及其生克变化规律运用到中医学而建立的中医基本理论，用以解释人体脏腑的属性、运动变化、相互关系，以及人体与外界环境的关系。"
+  },
+  {
+   "cn": "“新五反”",
+   "en": "New Five Antis Movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0157",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "反分裂、反渗透、反颠覆、反恐怖、反间谍。"
+  },
+  {
+   "cn": "5岁以下儿童死亡监测",
+   "en": "under-five mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在具有代表性的地区或全国范围内对5岁以下儿童的生存状态进行长期、持续的动态观察，收集5岁以下儿童死亡率、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "“五个认同”",
+   "en": "Five Matters of identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0122",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族群众对伟大祖国、中华民族、中华文化、中国共产党、中国特色社会主义的认同。"
+  },
+  {
+   "cn": "5岁以下儿童死亡率",
+   "en": "under five mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.3",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000活产儿中5 岁以下儿童的死亡数量。反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "集合暴露",
+   "en": "aggregate exposure，combined exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单个化学物通过多种途径（进口、经皮、吸入）和多种方式（食物、饮水和居住环境）的联合暴露情形。"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "source": "马克思主义",
+   "wordNumber": "03.0503",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党和中华人民共和国处理国家之间关系的基本原则，这五项原则是：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。该原则最早是由周恩来于1953年12月31日在中国和印度两国政府"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
