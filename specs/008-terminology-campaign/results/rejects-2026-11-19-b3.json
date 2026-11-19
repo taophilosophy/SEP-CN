@@ -1,0 +1,534 @@
+[
+ {
+  "en": "achievement",
+  "reason": "通行词（成就/成果）"
+ },
+ {
+  "en": "acquisition",
+  "reason": "多义（习得/获取；审定「捕获」为光学义）"
+ },
+ {
+  "en": "adjustment",
+  "reason": "多义（调整/调节；审定「调剂」为发行义）"
+ },
+ {
+  "en": "advertisement",
+  "reason": "书名成分（Yablo 篇名）"
+ },
+ {
+  "en": "alignment",
+  "reason": "多义（对齐/一致；审定「比对」为生化义）"
+ },
+ {
+  "en": "alteration",
+  "reason": "通行词（改变；审定「蚀变作用」为地质义）"
+ },
+ {
+  "en": "animation",
+  "reason": "多义（赋灵/动画），亚里士多德天体灵魂语境随文"
+ },
+ {
+  "en": "assumption",
+  "reason": "通行词（假设/假定）"
+ },
+ {
+  "en": "attraction",
+  "reason": "通行词（吸引/吸引力）"
+ },
+ {
+  "en": "availability",
+  "reason": "通行词（可获得性；审定「有效性」为肥料义）"
+ },
+ {
+  "en": "balance",
+  "reason": "书名/篇名成分"
+ },
+ {
+  "en": "blindness",
+  "reason": "通行词（盲/盲目）"
+ },
+ {
+  "en": "brightness",
+  "reason": "通行词（亮度）"
+ },
+ {
+  "en": "brutalism",
+  "reason": "审定建筑义与形上学 brute-fact 义无关（radical brutalism 由词条自定译法）"
+ },
+ {
+  "en": "capability",
+  "reason": "通行词（能力；capability approach 由复合词覆盖）"
+ },
+ {
+  "en": "characterization",
+  "reason": "多义（刻画/特征化）随文译"
+ },
+ {
+  "en": "childhood",
+  "reason": "通行词（童年）"
+ },
+ {
+  "en": "chinese room argument",
+  "reason": "并入既有 Chinese Room 行（该行亦作已含「中文屋论证」），一行一概念"
+ },
+ {
+  "en": "classification",
+  "reason": "通行词（分类）"
+ },
+ {
+  "en": "classification accuracy",
+  "reason": "机器学习工程指标，非哲学术语"
+ },
+ {
+  "en": "cohesiveness",
+  "reason": "普通词（凝聚力）"
+ },
+ {
+  "en": "coincidence",
+  "reason": "多义（重合/巧合；审定「符合」为放射化学义）"
+ },
+ {
+  "en": "commitment",
+  "reason": "通行词（承诺/委身；ontological commitment 由复合词覆盖）"
+ },
+ {
+  "en": "communication",
+  "reason": "通行词（传播/沟通）"
+ },
+ {
+  "en": "compensation",
+  "reason": "通行词（补偿/代偿）"
+ },
+ {
+  "en": "competition",
+  "reason": "通行词（竞争）"
+ },
+ {
+  "en": "confidence",
+  "reason": "通行词（信心/置信度；bounded confidence 由复合词覆盖）"
+ },
+ {
+  "en": "conformity",
+  "reason": "多义（符合/遵从；审定「整合面」为层序地层义）"
+ },
+ {
+  "en": "confusion",
+  "reason": "多义（混淆/困惑；审定「意识错乱」为老年精神病学义）"
+ },
+ {
+  "en": "conservation",
+  "reason": "多义（保护/守成），conservation biology 等复合词另行"
+ },
+ {
+  "en": "consolidation",
+  "reason": "多义（巩固/整合；审定「固结作用」为地质义）"
+ },
+ {
+  "en": "constructivist",
+  "reason": "多义（数学构造主义者/社会建构论者），与 constructivism 行协同随文"
+ },
+ {
+  "en": "containment",
+  "reason": "多义（遏制/自足；审定「包容」为地质义）"
+ },
+ {
+  "en": "convergence",
+  "reason": "多义（趋同/收敛）随文译"
+ },
+ {
+  "en": "conversation",
+  "reason": "通行词（会话；Gricean maxims of conversation 由复合词覆盖）"
+ },
+ {
+  "en": "correction",
+  "reason": "通行词（校正/纠正）"
+ },
+ {
+  "en": "decomposition",
+  "reason": "通行词（分解）"
+ },
+ {
+  "en": "density",
+  "reason": "通行词（密度）"
+ },
+ {
+  "en": "derivation",
+  "reason": "多义（推导/派生；审定「睡眠监测导联」为医学义）"
+ },
+ {
+  "en": "destruction",
+  "reason": "通行词（破坏/毁灭）"
+ },
+ {
+  "en": "detachment",
+  "reason": "多义（超然/分离）随文译"
+ },
+ {
+  "en": "differentiation",
+  "reason": "多义（分化/区分）随文译"
+ },
+ {
+  "en": "direct recognition",
+  "reason": "低频复合短语（知识论语境由词条自定）"
+ },
+ {
+  "en": "dissociation",
+  "reason": "多义（分离/解离）随文译"
+ },
+ {
+  "en": "distinction",
+  "reason": "通行词（区分/区别）"
+ },
+ {
+  "en": "dominance",
+  "reason": "多义（支配/主导；审定「优势度」为群落生态学义）"
+ },
+ {
+  "en": "donation",
+  "reason": "通行词（捐赠；审定「图书捐赠」为图书馆义）"
+ },
+ {
+  "en": "economy",
+  "reason": "通行词（经济）"
+ },
+ {
+  "en": "effectiveness",
+  "reason": "通行词（有效性/效力；审定「能行性」为可计算性义）"
+ },
+ {
+  "en": "elaboration",
+  "reason": "通行词（阐发/详述；审定「精密性」为心理学义）"
+ },
+ {
+  "en": "element",
+  "reason": "通行词（元素/要素；审定「元件」为生化义）"
+ },
+ {
+  "en": "elimination",
+  "reason": "通行词（消除/排除）"
+ },
+ {
+  "en": "embolism",
+  "reason": "医学名物非哲学术语"
+ },
+ {
+  "en": "engagement",
+  "reason": "多义（参与/介入；审定「啮合」为机械义）"
+ },
+ {
+  "en": "enumeration",
+  "reason": "书题成分（法拉比《学科枚举》/《法聚论》全题另行）"
+ },
+ {
+  "en": "environmental condition",
+  "reason": "普通复合词"
+ },
+ {
+  "en": "equivalence",
+  "reason": "多义（等价/等效），equivalence relation 等复合词另行"
+ },
+ {
+  "en": "exception",
+  "reason": "多义（例外；审定「异常」为操作系统义）"
+ },
+ {
+  "en": "execution",
+  "reason": "多义（执行/实施；审定「执行力」为管理学义）"
+ },
+ {
+  "en": "expectation",
+  "reason": "通行词（预期/期待）"
+ },
+ {
+  "en": "exposition",
+  "reason": "书题/音乐义成分（审定「呈示部」为音乐名词）"
+ },
+ {
+  "en": "falsity",
+  "reason": "与 truth 对偶随文译「真/假」（truth 未单列，不单立）"
+ },
+ {
+  "en": "fecundity",
+  "reason": "多义（生殖力/丰产性），弗雷格定义条件义随文"
+ },
+ {
+  "en": "formulation",
+  "reason": "多义（表述/构想）随文译"
+ },
+ {
+  "en": "geography",
+  "reason": "学科通名，非术语"
+ },
+ {
+  "en": "ground resolution",
+  "reason": "低频逻辑专名（ground resolution 基归结），词条内自定"
+ },
+ {
+  "en": "guidance",
+  "reason": "通行词（指导/引导；审定「指南」为规划术语义）"
+ },
+ {
+  "en": "hardness",
+  "reason": "通行词（硬度）"
+ },
+ {
+  "en": "hardware verification",
+  "reason": "工程词，非哲学术语"
+ },
+ {
+  "en": "hybrid combination",
+  "reason": "普通短语（审定「杂交组合」为育种义）"
+ },
+ {
+  "en": "ideal solution",
+  "reason": "多义（化学理想溶液/理想方案）随文译"
+ },
+ {
+  "en": "illumination",
+  "reason": "多义（光照/启发）随文译"
+ },
+ {
+  "en": "imperfection",
+  "reason": "多义（不完美/缺陷；审定「不完善度」为选煤义）"
+ },
+ {
+  "en": "impression",
+  "reason": "多义（印象；审定「印次」为出版义）"
+ },
+ {
+  "en": "improvement",
+  "reason": "通行词（改善）"
+ },
+ {
+  "en": "indication",
+  "reason": "书名成分（法拉比《指示》全题另行；审定「标示值」为电力义）"
+ },
+ {
+  "en": "indifference",
+  "reason": "多义（无差别/漠然）随文译"
+ },
+ {
+  "en": "inference method",
+  "reason": "普通复合词"
+ },
+ {
+  "en": "inheritance",
+  "reason": "多义（遗传/继承）随文译"
+ },
+ {
+  "en": "instruction",
+  "reason": "多义（教导/指令）随文译"
+ },
+ {
+  "en": "instrument",
+  "reason": "通行词（工具/仪器；审定「插装」为软件义）"
+ },
+ {
+  "en": "insurance",
+  "reason": "通行词（保险）"
+ },
+ {
+  "en": "interference",
+  "reason": "通行词（干扰）"
+ },
+ {
+  "en": "intersection",
+  "reason": "多义（交叉/交集；审定「交通流线节点」为建筑义）"
+ },
+ {
+  "en": "invention",
+  "reason": "通行词（发明；书题成分多）"
+ },
+ {
+  "en": "investigation",
+  "reason": "通行词（探究/调查）"
+ },
+ {
+  "en": "involvement",
+  "reason": "通行词（参与/卷入）"
+ },
+ {
+  "en": "iteration",
+  "reason": "通行词（迭代）"
+ },
+ {
+  "en": "judgement",
+  "reason": "英式拼写通行词（美式 judgment 亦未单列，随文）"
+ },
+ {
+  "en": "location",
+  "reason": "通行词（位置；审定「选址」为规划义）"
+ },
+ {
+  "en": "neighborhood",
+  "reason": "多义（邻里/邻域）随文译"
+ },
+ {
+  "en": "operation",
+  "reason": "多义（运算/操作/手术）随文译"
+ },
+ {
+  "en": "opposition",
+  "reason": "多义（反对/对立；审定「冲」为天文义）"
+ },
+ {
+  "en": "organization",
+  "reason": "多义（组织/机构；审定「机化」为病理学义）"
+ },
+ {
+  "en": "orientation",
+  "reason": "多义（取向/定向）随文译"
+ },
+ {
+  "en": "partition",
+  "reason": "多义（划分/隔断）随文译"
+ },
+ {
+  "en": "persuasion",
+  "reason": "通行词（说服；书名成分多）"
+ },
+ {
+  "en": "population",
+  "reason": "多义（人口/种群/总体）随文译"
+ },
+ {
+  "en": "portion",
+  "reason": "通行词（部分/份额；审定「人丁份地」为东欧史义）"
+ },
+ {
+  "en": "possession",
+  "reason": "多义（拥有/占有；审定「附体」为精神医学义）"
+ },
+ {
+  "en": "possibility and actuality",
+  "reason": "书名成分（哈特曼书名全题另行）"
+ },
+ {
+  "en": "prediction",
+  "reason": "通行词（预测）"
+ },
+ {
+  "en": "production",
+  "reason": "多义（生产/产生）随文译"
+ },
+ {
+  "en": "productivity",
+  "reason": "多义（生产力/生产率）随文译"
+ },
+ {
+  "en": "proportion",
+  "reason": "通行词（比例）"
+ },
+ {
+  "en": "proximity",
+  "reason": "多义（邻近/接近），与 closeness=接近性 分义"
+ },
+ {
+  "en": "recurrence",
+  "reason": "多义（再现/复发）随文译"
+ },
+ {
+  "en": "rejection",
+  "reason": "多义（拒绝/否定）随文译"
+ },
+ {
+  "en": "relationship",
+  "reason": "通行词（关系）"
+ },
+ {
+  "en": "reputation",
+  "reason": "通行词（名誉）"
+ },
+ {
+  "en": "requirement",
+  "reason": "通行词（要求；审定「需要量」为营养学义）"
+ },
+ {
+  "en": "resistance",
+  "reason": "多义（抵抗/阻力；审定「耐药性」为药理义）"
+ },
+ {
+  "en": "resolution",
+  "reason": "多义（解决/分辨率/归结）随文译"
+ },
+ {
+  "en": "retention",
+  "reason": "多义（保持/记忆保持）随文译"
+ },
+ {
+  "en": "richness",
+  "reason": "多义（丰富性/丰富度），物种丰富度已由 species richness 覆盖"
+ },
+ {
+  "en": "security",
+  "reason": "多义（安全/保障）随文译"
+ },
+ {
+  "en": "sequence",
+  "reason": "多义（序列；审定「层序」为地层学义）"
+ },
+ {
+  "en": "singularity",
+  "reason": "多义（奇点/单一性）随文译"
+ },
+ {
+  "en": "special science",
+  "reason": "并入既有 special sciences 行（单复数同译），一行一概念"
+ },
+ {
+  "en": "specification",
+  "reason": "多义（规定/说明/特化）随文译"
+ },
+ {
+  "en": "succession",
+  "reason": "多义（相继/演替）随文译"
+ },
+ {
+  "en": "suggestion",
+  "reason": "通行词（建议/提示）"
+ },
+ {
+  "en": "addition",
+  "reason": "子串假命中（Additionally/Additional 词形），非术语"
+ },
+ {
+  "en": "additional condition",
+  "reason": "普通短语（附加条件）"
+ },
+ {
+  "en": "adult education",
+  "reason": "普通复合词（成人教育）"
+ },
+ {
+  "en": "tension",
+  "reason": "多义（紧张/张力）随文译"
+ },
+ {
+  "en": "tolerance",
+  "reason": "多义（宽容/公差/耐性），宗教宽容义由 toleration 行覆盖"
+ },
+ {
+  "en": "tradition",
+  "reason": "通行词（传统）"
+ },
+ {
+  "en": "transformation",
+  "reason": "多义（转变/变换）随文译"
+ },
+ {
+  "en": "transition",
+  "reason": "多义（过渡/转换）随文译"
+ },
+ {
+  "en": "unfinished business",
+  "reason": "普通短语"
+ },
+ {
+  "en": "utilities",
+  "reason": "多义（公用事业/效用复数）随文译"
+ },
+ {
+  "en": "witness",
+  "reason": "多义（见证人/证人）随文译"
+ }
+]
