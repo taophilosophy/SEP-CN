@@ -1,0 +1,762 @@
+{
+ "key": "order-isomorphism",
+ "term": "order-isomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:42:09+00:00",
+ "status": "ok",
+ "note": "variant=order-isomorphism; 审定公布名词库=859; 海峡两岸名词对照库=320; 其他来源数据库=86; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "序同构",
+   "en": "order isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0222",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.179",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体结构中某些质点(离子、原子或分子)被其他类似的质点代替，仅使晶格常数发生不大的变化，而结构形式并不改变的现象。影响元素位置置换能力的因素包括离子类型及键能、离子或原子半径、原子价数、置换的能量效应"
+  },
+  {
+   "cn": "同[晶]形性",
+   "en": "isomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0501",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "两个数学对象之间双向唯一且保持对象结构不变的映射。"
+  },
+  {
+   "cn": "类质同晶型",
+   "en": "isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1893",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "晶体中的原子、离子被相似性质的原子、离子彻底取代或部分取代后，其组分原子、键型和物理化学性质皆相似，晶体结构型式相同(晶胞参数仅微小变动)的现象。"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "药学名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "化学组成类似的不同物质形成结构相同或很相近似的晶体的现象。"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0118",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0132",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "形态学上类似并且有相同形状和结构的物体、物质或机体。"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism,allomerism",
+   "source": "地质学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.182",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，相互替代的离子的电价相等。"
+  },
+  {
+   "cn": "异价类质同象",
+   "en": "heterovalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.183",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，由电价不等的离子(原子)进行置换所形成的类质同象。由于异价替代将引起电荷不平衡，必须采用成对替代以保持电价平衡，这种替代方式又称耦合替代。"
+  },
+  {
+   "cn": "极性类质同象",
+   "en": "polarity isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.184",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在形成类质同象混晶时，元素间的置换具有一定方向性而极少成反方向置换关系的现象。"
+  },
+  {
+   "cn": "补偿类质同象",
+   "en": "compensation isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.185",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "当形成类质同象混晶时，介质中形成某晶体的某种元素浓度不足时,由介质中性质近似的其他元素以类质同象置换方式进入晶格进行补偿的现象。"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0775",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定两个图<img src='/root/syzx/static/spz/jsjkx3.02.0775.001.png'/>，若它们的顶点集合<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "反类质同晶",
+   "en": "anti-isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1894",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在离子晶体结构中，处在非等当位置的正负离子，替换为电价绝对值不变、电价符号相反的其他离子，而晶体结构型式不变的现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "化学名词",
+   "wordNumber": "05.0834",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "相同共聚物链或不同均聚物链之间，不同组成重复单元的共晶现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0222",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "共聚物链内或链间，或不同均聚物链间，不同重复单元形成共晶的现象。"
+  },
+  {
+   "cn": "格同构",
+   "en": "lattice isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0243",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶同构",
+   "en": "dual isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0249",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群同构",
+   "en": "group isomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1763",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同形体",
+   "en": "isomorph",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网同构",
+   "en": "net isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "目",
+   "en": "order",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "图的非同构",
+   "en": "graph non-isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordering",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "舵令",
+   "en": "helm order\",\"steering orders",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优势序位",
+   "en": "dominance order\",\"rank order",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "字序",
+   "en": "Hanzi order\",\"character order",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形世代交替",
+   "en": "isomorphic alternation of generations",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多重同晶置换",
+   "en": "multiple isomorphous replacement\",\"MIR",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字秩序",
+   "en": "digital order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "competitive order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跑顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克勋章",
+   "en": "Olympic Order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球顺序",
+   "en": "batting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序",
+   "en": "rotation order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形反应",
+   "en": "isomorphic response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.15",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "原本外观正常的皮肤在创伤、搔抓、针刺或手术等刺激后发生银屑病皮损的现象。主要见于银屑病，特别是病情活动期或急性加重期。"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "问题医嘱",
+   "en": "problematic doctor's order",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.019",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "存在错误或违反卫生法律法规、规章或者诊疗技术规范，可能给病人造成损害甚至酿成严重后果的医嘱。"
+  },
+  {
+   "cn": "国际经济新秩序",
+   "en": "new international economic order",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "发展中国家为抵制对其不利的国际经济旧秩序而提出的政治经济主张。主要包括每个国家都有平等地参与世界经济问题的权利,每个国家都对其自然资源和经济活动拥有充分主权,每个国家都有权选择适合自身发展的制度等。"
+  },
+  {
+   "cn": "执行医嘱",
+   "en": "carry out doctor's order",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.017",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "医护人员根据医师开具的医疗指令（医嘱），准确、及时、规范地实施诊断、治疗、护理等医疗行为的过程。"
+  },
+  {
+   "cn": "拨乱反正",
+   "en": "bring order out of chaos",
+   "source": "马克思主义",
+   "wordNumber": "04.0134",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在粉碎“四人帮”后，中国共产党重新恢复党的实事求是的思想路线，纠正“文化大革命”错误，彻底扭转十年内乱造成的严重局势，实现吧工作着重点转移到社会主义现代化建设上来的一系列重大举措。“拨乱反正”，是从1"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "解释王朝历史兴衰更替的中国传统史观。由孟子最早提出的一种学说，认为“天下之生久矣，一治一乱”，是对春秋战国历史演变的总结。后世演变成中国传统史观，用以考察历史上朝代更迭形成的一治一乱的循环进程。这种史"
+  },
+  {
+   "cn": "国际政治经济新秩序",
+   "en": "new international political and economic order",
+   "source": "马克思主义",
+   "wordNumber": "03.0555",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国际经济新秩序和国际政治新秩序的合称，发展中国家为改变现存的不合理的国际经济旧秩序而提出来的。战后广大亚非拉国家纷纷获得政治上的独立和解放，但经济上并未得到彻底的独立和解放，在国际经济中处于依附和无权"
+  },
+  {
+   "cn": "《御制喇嘛说》",
+   "en": "Doctrine about Lama by Imperial Order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0308",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清乾隆帝论述喇嘛教宗旨及清廷对该教所持政策之文。撰于乾隆五十七年（1792），对喇嘛教在蒙、藏地区之活动与发展具有重大影响。此文刻于石碑，立于雍和宫。"
+  },
+  {
+   "cn": "加工订货统购包销",
+   "en": "processing orders unified purchase and sale",
+   "source": "马克思主义",
+   "wordNumber": "02.0358",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对资本主义工业实行社会主义改造所采取的国家资本主义的初级形式。加工是国营商业对私营工厂供给原材料或半成品，委托私营工厂进行生产，私营工厂按期完成加工任务，国营商业付给加工费。订货是国营商业通过订立合同"
+  },
+  {
+   "cn": "治理整顿",
+   "en": "governancing the economic environment and rectifying economic order",
+   "source": "马克思主义",
+   "wordNumber": "04.0150",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "治理经济环境、整顿经济秩序方针的简称。这一方针是在1988年9月中共十三届三中全会上针对当时我国经济生活中出现的问题和混乱现象提出的。治理经济环境，主要是压缩社会总需求，抑制通货膨胀；整顿经济秩序，就"
+  },
+  {
+   "cn": "以农轻重为序安排国民经济",
+   "en": "arranging national economy in the priority order of agriculture light industry and heavy industry",
+   "source": "马克思主义",
+   "wordNumber": "02.0373",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的原则和方法。制订国民经济和社会发展计划，必须首先安排好农业的发展速度和生产规模，安排好农业内部的生产，安排好各业的结构和比例关系；其次安排好轻工业的发展速度和生产规模及其"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

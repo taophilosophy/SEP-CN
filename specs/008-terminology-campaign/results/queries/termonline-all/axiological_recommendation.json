@@ -1,0 +1,672 @@
+{
+ "key": "axiological recommendation",
+ "term": "axiological recommendation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:52:13+00:00",
+ "status": "ok",
+ "note": "variant=axiological recommendation; 审定公布名词库=498; 海峡两岸名词对照库=162; 其他来源数据库=16; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "医学价值学",
+   "en": "medical axiology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.086",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "研究医疗保健服务的提供者和患者、社会公众所持有或认同的影响当代医学的知识和实践以及这些医学知识应用及医疗实践活动的价值观念的学科。"
+  },
+  {
+   "cn": "推荐",
+   "en": "recommendation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0865",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达建议或指导的条款。"
+  },
+  {
+   "cn": "技术价值论",
+   "en": "axiology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.171",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "主张技术负荷价值，技术功能的认知、评价、选择的理论。"
+  },
+  {
+   "cn": "教育价值论",
+   "en": "axiology of education",
+   "source": "教育学名词",
+   "wordNumber": "01.089",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育哲学的分支领域之一。探讨教育价值的内涵、性质、类型、结构、历史变迁、发展趋势与现实选择等问题，是对教育价值的系统认识。"
+  },
+  {
+   "cn": "协同推荐",
+   "en": "social recommendation,collaborative recommendation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1270",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "通过某种信息过滤技术，利用社会网络（博客、网页、图片、新闻、标签等）将信息及时准确地推送给感兴趣的用户或社区的过程。"
+  },
+  {
+   "cn": "推荐施肥",
+   "en": "fertilization recommendation",
+   "source": "农学名词",
+   "wordNumber": "09.251",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "根据作物需肥特性、土壤供肥性能和肥料效应，提出的施肥技术建议。"
+  },
+  {
+   "cn": "推荐系统",
+   "en": "recommendation system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.151",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "信息过滤系统的一种。旨在预测用户给予某项目的“评级”或“偏好”。推荐系统广泛应用于电影、音乐、新闻、书籍、研究文章、搜索查询、社会化标签和产品等各个领域。也用于推荐专家、合作者、餐馆、服装、金融服务、"
+  },
+  {
+   "cn": "图书荐购",
+   "en": "book recommendation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.346",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "读者根据采访目录或其他途径获得的文献信息，向图书馆推荐购买自己所需文献的行为。采访人员收集读者荐购信息，并根据馆藏资源建设政策、相关专家意见、文献购置经费、现有文献利用情况等多方面因素进行综合评判，做"
+  },
+  {
+   "cn": "推介服务",
+   "en": "recommendation service",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_其他服务形式",
+   "subjectName": "其他服务形式",
+   "publishYear": "2019",
+   "definition": "通过制作新书目、召开信息发布会、开发数字资源导航系统等方式，主动向读者揭示和推荐馆藏信息资源，促进读者更有效地利用图书馆的一种信息服务。"
+  },
+  {
+   "cn": "服务推荐",
+   "en": "service recommendation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1217",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "主动向用户推荐所需服务的算法、技术和系统等。"
+  },
+  {
+   "cn": "推荐技术",
+   "en": "recommendation technology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0091",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "解决用户从海量对象中迅速有效地筛选出符合自己偏好特征的对象的方法。"
+  },
+  {
+   "cn": "推荐系统",
+   "en": "recommendation system",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0092",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "利用电子商务网站向客户提供商品信息和建议，帮助用户决定应该购买什么产品，模拟销售人员帮助客户完成购买过程的系统。"
+  },
+  {
+   "cn": "协同推荐",
+   "en": "collaborative recommendation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0041",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "通过参考与活动用户具有相似兴趣或者需求的其他用户的选择来决定如何为当前用户进行信息过滤并产生推荐的活动。"
+  },
+  {
+   "cn": "个性化推荐",
+   "en": "personalized recommendation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0040",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "根据用户的兴趣特点推荐其感兴趣的对象的活动。"
+  },
+  {
+   "cn": "推荐施肥",
+   "en": "fertilization recommendation",
+   "source": "土壤学名词",
+   "wordNumber": "06.265",
+   "subjectFullName": "土壤学_农业化学",
+   "subjectName": "农业化学",
+   "publishYear": "1998",
+   "definition": "根据作物需肥特性，土壤供肥性能和肥料效应，提出的施肥技术建议。"
+  },
+  {
+   "cn": "推荐性标准",
+   "en": "recommended standard",
+   "source": "农学名词",
+   "wordNumber": "18.112",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "在生产、交换、使用等方面，通过经济手段或市场调节而自愿采用的一类标准。"
+  },
+  {
+   "cn": "习惯命名",
+   "en": "recommended nomenclature",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.011",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "由酶发现者根据酶所催化的底物、反应的类型或酶的来源等的命名方法。其不足之处是存在“一酶多名”和“一名数酶”现象。为此，1961年国际生物化学协会酶学委员会提出了一套新的系统命名方案及分类方法，1972"
+  },
+  {
+   "cn": "推荐稿",
+   "en": "recommended manuscript",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.008",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "专家或组织团体介绍给出版单位的稿件。"
+  },
+  {
+   "cn": "推荐读物",
+   "en": "recommended reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "在调研和专家咨询的基础上，图书馆针对特定的读者对象围绕某一专门问题所推荐的文献。"
+  },
+  {
+   "cn": "推荐系统",
+   "en": "recommender system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0487",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "一种信息过滤系统，将信息元素（电影、书籍等）推荐给可能对其感兴趣的社会元素（人、组织等）。"
+  },
+  {
+   "cn": "推荐航线",
+   "en": "recommended route",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "推荐航线",
+   "en": "recommended route",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生物膜",
+   "en": "biological film\",\"biological membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高空图表",
+   "en": "aerological diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物固持作用",
+   "en": "biological immobilization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物学种",
+   "en": "biological species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物演替",
+   "en": "biological succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物自由基",
+   "en": "biological radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物去污染",
+   "en": "biological depollution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物处理",
+   "en": "biological treatment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固体",
+   "en": "biological solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物过滤器",
+   "en": "biological filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物腐蚀",
+   "en": "biological corrosion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物塔",
+   "en": "biological tower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物絮凝［作用］",
+   "en": "biological flocculation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物基聚合物",
+   "en": "biological polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类案推荐",
+   "en": "precedent recommendation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选举",
+   "en": "Select and Recommend",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣点推荐",
+   "en": "point-of-interest recommendation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推荐性国家标准管理体制",
+   "en": "management system of recommended national standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举贤容众",
+   "en": "Recommend People of Virtue and Be Magnanimous Toward the Masses",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "颂赞",
+   "en": "Extolment and Commendation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推荐摄入量",
+   "en": "recommended nutrient intake, RNI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.57",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "满足某一特定性别、年龄及生理状况群体中绝大多数个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "建议暂缓结婚",
+   "en": "recommendation of delay for marriage",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构为患特定疾病的个体提供的婚前医学检查意见。主要针对在传染期内的指定传染病、在发病期内的有关精神病或其他医学上认为应暂缓结婚的疾病，目的是为阻止传染病的传播及避免精神病人在患病时对他人的攻击。"
+  },
+  {
+   "cn": "建议采取医疗措施",
+   "en": "recommendation of taking medical measurement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "为婚检发现的可能会终生传染的不在发病期的传染病患者或病原体携带者提供的婚前检查医学意见，此情况下应向个体说明情况，提出预防、治疗及采取医学措施的意见。若男女双方在知情自愿的基础上坚持结婚，建议采取相应"
+  },
+  {
+   "cn": "建议不宜生育",
+   "en": "recommendation of inappropriate for reproduction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "为医学上认为不宜生育的严重遗传性疾病及重要脏器疾病的患者和家庭提供婚前医学检查意见。"
+  },
+  {
+   "cn": "孕期用药指导",
+   "en": "recommendation for medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从疾病控制效果以及对孕产妇、胎儿和新生儿健康影响等方面权衡利弊，提供合理用药保障母婴安全的咨询服务。"
+  },
+  {
+   "cn": "两推一选",
+   "en": "two recommendations and one election",
+   "source": "马克思主义",
+   "wordNumber": "03.0760",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "选举产生村级党组织成员的一种方法。在村党组织进行换届时，先由党员和村民代表投票推荐党组织委员候选人初步人选，再由乡镇（街道）党委依据推荐票数和村党组织委员任职的基本条件，进行审查并确定正式候选人，然后"
+  },
+  {
+   "cn": "战时陆勤部队日膳食最低能量及营养素供给量",
+   "en": "recommended lowest dietary allowance for ground force in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "在战时短时间内机体不产生不可逆变化，维持陆勤部队军人健康和基本作战能力所需提供的最低能量和营养素的数量，包括3 天和7 天作战时间的供给量。"
+  },
+  {
+   "cn": "放射事故",
+   "en": "radiological accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "因放射源丢失、被盗、失控，或因放射性同位素和射线装置的设备故障或操作失误导致人员受到异常照射的意外事件。"
+  },
+  {
+   "cn": "放射评估人员",
+   "en": "radiological assessor",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件时，通过进行辐射调查、剂量评估、控制污染、确保应急工作人员的辐射防护以及制定防护措施和其他响应措施的建议，协助操作人员或场外响应组织的人员或团队。"
+  },
+  {
+   "cn": "病因假设",
+   "en": "etiological hypothesis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.33",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "未经验证的病因和食物中毒之间的因果关系假说"
+  },
+  {
+   "cn": "消除放射性沾染",
+   "en": "radiological decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.5.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_洗消",
+   "subjectName": "洗消",
+   "publishYear": "2025",
+   "definition": "从受沾染的人员体表或物体上除掉放射性物质的措施。根据不同对象和条件,消除时采用拍打、冲洗、擦刷、铲除或过滤等方法。分局部消除和全部消除。局部消除系对暴露部位的皮肤消除；全部消除系进行全身淋浴。"
+  },
+  {
+   "cn": "病因学诊断",
+   "en": "etiological diagnosis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "针对能引起疾病发生并决定疾病特异性的体内外因素的诊断过程"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "利用致病性微生物（如细菌、病毒、真菌）或其代谢产物（如毒素）作为武器，通过故意释放、散布等方式，造成人群、动植物感染或死亡，从而达到军事、政治或恐怖主义目的的攻击行为。"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.3",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用生物产生的物质通过化学机制杀灭有害微生物的消毒处理。"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "source": "消毒学",
+   "wordNumber": "3.1.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对特定灭菌处理有确定的抗力，并装在内层包装中可供使用的染菌载体。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "source": "消毒学",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "生物体及其所生活的生态系统的多种变化。包括不同物种的多样性（物种多样性），物种内部基因的多样性（基因多样性），生态系统内和生态系统间相互作用的多样性（生态系统多样性）。"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "source": "消毒学",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "战争中以病原微生物或生物因子为主要成分，用来伤害人、畜或毁坏农作物的特殊武器。由生物战剂装料和施放装置组成，一般包括战剂、弹体、施放装置、推进装置、定时装置和爆破装置等部件。"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "根据生物监测需要采集的、具有代表性的、作为检测样品的生物材料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

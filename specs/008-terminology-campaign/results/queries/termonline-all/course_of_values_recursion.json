@@ -1,0 +1,802 @@
+{
+ "key": "course of values recursion",
+ "term": "course of values recursion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:45:15+00:00",
+ "status": "ok",
+ "note": "variant=course of values recursion; 审定公布名词库=10000; 海峡两岸名词对照库=8772; 其他来源数据库=2077; 预公布名词数据库=2871; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "航向",
+   "en": "course",
+   "source": "船舶工程名词",
+   "wordNumber": "08.021",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "预定的船舶航行方向。"
+  },
+  {
+   "cn": "航向",
+   "en": "course",
+   "source": "航海科技名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "专业课程",
+   "en": "professional course,specialized course",
+   "source": "教育学名词",
+   "wordNumber": "08.202",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校专业教学计划中所设置的传授专业知识、专门理论、专门技能的课程。"
+  },
+  {
+   "cn": "选修课",
+   "en": "optional course,elective course",
+   "source": "教育学名词",
+   "wordNumber": "08.204",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "根据教学计划的安排学生自行选读的课程。分指定选修课与任意选修课。"
+  },
+  {
+   "cn": "经脉循行",
+   "en": "running course of channel,running course of meridian",
+   "source": "中医药学名词",
+   "wordNumber": "08.009",
+   "subjectFullName": "中医药学_针灸学_针灸学总论",
+   "subjectName": "针灸学总论",
+   "publishYear": "2004",
+   "definition": "指经脉在特定的路线运行。"
+  },
+  {
+   "cn": "值[的]分布",
+   "en": "distribution of values,value distribution",
+   "source": "数学名词",
+   "wordNumber": "05.0429",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量值",
+   "en": "quantity value,value of quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.011",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "用数和参照对象一起表示的量的大小。参照对象可以是测量单位、测量程序或标准物质。"
+  },
+  {
+   "cn": "全程原则",
+   "en": "principle of full-course",
+   "source": "结核病学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗方案",
+   "subjectName": "治疗方案",
+   "publishYear": "2019",
+   "definition": "抗结核化疗原则之一。按照规定的疗程完成抗结核治疗，可降低失败率和复发率。"
+  },
+  {
+   "cn": "建筑技术课",
+   "en": "course of architectural technology",
+   "source": "建筑学名词",
+   "wordNumber": "04.0022",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "讲授与建筑建造和使用相关技术与理论知识的课程总称。包括建筑构造、建筑结构、建筑热环境、建筑光环境、建筑声环境控制、建筑设备、绿色建筑设计、建筑防灾与建筑安全、计算机辅助设计等。"
+  },
+  {
+   "cn": "建筑艺术课",
+   "en": "course of architectural art",
+   "source": "建筑学名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "训练学生掌握设计相关绘画和表现技能，并讲授艺术发展历史、艺术创作方法和相关理论的课程总称。"
+  },
+  {
+   "cn": "建筑实践课",
+   "en": "course of architectural practice",
+   "source": "建筑学名词",
+   "wordNumber": "04.0024",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "训练学生巩固并加深对建筑设计和理论知识的理解而设置的课外或现场教学环节的总称。是建筑教育课堂教学的补充，可以帮助学生接触社会、了解建设领域需求和建筑师职业特点等。"
+  },
+  {
+   "cn": "建筑理论课",
+   "en": "course of architectural theory",
+   "source": "建筑学名词",
+   "wordNumber": "04.0018",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "讲授建筑学及相关理论知识的课程总称。包括建筑设计理论、建筑历史与理论、建筑技术理论与城市设计理论等，及城乡规划学、风景园林学等人居科学理论，涵盖自然科学、工程技术科学、人文社会科学及艺术学相关理论。"
+  },
+  {
+   "cn": "建筑历史课",
+   "en": "course of architectural history",
+   "source": "建筑学名词",
+   "wordNumber": "04.0019",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "讲授古今中外建筑发展历史、建筑理论知识及其历史变迁等的课程总称。包括中国建筑史、外国建筑史、中国古代建筑法式制度、建筑理论发展史、建筑文化遗产保护、古建筑测绘等。"
+  },
+  {
+   "cn": "风景园林课",
+   "en": "course of landscape architecture",
+   "source": "建筑学名词",
+   "wordNumber": "04.0021",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "讲授风景园林及相关理论和知识等的课程总称。包括风景园林原理、风景园林设计方法、风景园林历史、城市景观设计、景观建筑设计、风景区规划设计等。"
+  },
+  {
+   "cn": "建筑设计课",
+   "en": "course of architectural design",
+   "source": "建筑学名词",
+   "wordNumber": "04.0017",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "训练学生掌握建筑设计、城市设计、城市规划和景观规划与设计等相关技能，并了解设计相关基本知识，通过设计实践学习和设计范例阐述为主要教学方式的课程总称。"
+  },
+  {
+   "cn": "教育理论课",
+   "en": "course of educational theory",
+   "source": "教育学名词",
+   "wordNumber": "09.146",
+   "subjectFullName": "教育学_教师教育_教育、培训层次、类别、内容",
+   "subjectName": "教育、培训层次、类别、内容",
+   "publishYear": "2013",
+   "definition": "教师教育机构设置的教育学、教学法、教育心理学等教育理论方面的课程。"
+  },
+  {
+   "cn": "航线",
+   "en": "route,course",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.008",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "航空器从地球表面一点(起点)飞到另一点(终点)的预定航行路线。"
+  },
+  {
+   "cn": "垫层",
+   "en": "bed course",
+   "source": "风景园林名词",
+   "wordNumber": "08.0414",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "设于基层以下的，具有隔水、排水、防冻等以改善路面使用性能的构造层。"
+  },
+  {
+   "cn": "课程设计",
+   "en": "course design",
+   "source": "风景园林名词",
+   "wordNumber": "10.0059",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，内容包括风景园林规划设计、风景园林建筑设计、风景园林工程设计等。"
+  },
+  {
+   "cn": "基层",
+   "en": "base course",
+   "source": "风景园林名词",
+   "wordNumber": "08.0410",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "路面结构中的承重层，是主要承受行车荷载的竖向力，并把面层下传的应力扩散到路基的结构层。"
+  },
+  {
+   "cn": "同音弦组",
+   "en": "course",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "course",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "course",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交易惯例",
+   "en": "course of dealing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "导线",
+   "en": "traverse\",\"polygonal course\",\"course of traverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计划航迹向",
+   "en": "course of advance\",\"CA",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "正常贸易途径",
+   "en": "ordinary course of trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[磁]罗经航向",
+   "en": "compass course",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "导线路线",
+   "en": "traverse course",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基本航向",
+   "en": "base course",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真航向",
+   "en": "true course",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "补给航向",
+   "en": "replenishment course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "规避航向",
+   "en": "evasive course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航向向上",
+   "en": "course up",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航向自动操舵仪",
+   "en": "course autopilot",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "平纬航向",
+   "en": "parallel course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "始航向",
+   "en": "initial course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "推算航迹向",
+   "en": "estimated course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "终航向",
+   "en": "final course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "路线",
+   "en": "course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道",
+   "en": "course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道",
+   "en": "course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路线图",
+   "en": "plan of the course\",\"map of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检查赛道",
+   "en": "inspection of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步行察看路线",
+   "en": "walking of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游程计算员",
+   "en": "clerk of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记赛道",
+   "en": "marking of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路线图",
+   "en": "plan of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道平面图",
+   "en": "plan of the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道区域",
+   "en": "course area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马拉松路线",
+   "en": "marathon course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路线图",
+   "en": "course maps",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车赛道",
+   "en": "bicycle course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会航道",
+   "en": "Olympic course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正式航道",
+   "en": "proper course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗航向",
+   "en": "compass course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "健康课程",
+   "en": "health course",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校健康行动",
+   "subjectName": "学校健康行动",
+   "publishYear": "2025",
+   "definition": "以增进健康为主要目的，在一定单位时间内，使人们在身体、心理和社会适应方面和谐发展的教学活动。"
+  },
+  {
+   "cn": "价值量",
+   "en": "magnitude of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0038",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用社会必要劳动时间反映的凝结在商品中无差别的人类劳动，其由生产商品所耗费的劳动时间来衡量。在其他条件不变的情况下，商品的价值量越大，价格越高；商品的价值量越小，价格越低。"
+  },
+  {
+   "cn": "价值实体",
+   "en": "entity of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0039",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的质的规定。具有同一性质的人类抽象劳动凝结或“物化在商品中的一般人类劳动”。作为价值实体的抽象劳动，对于任何劳动支出来说都是同质的，它们不存在差别，是直接形成商品价值的物质因素。"
+  },
+  {
+   "cn": "价值形式",
+   "en": "form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0056",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品的价值表现形式，即商品在交换中通过其他商品体现自身价值的形式，反映商品交换价值的发展过程。价值形式在历史上从简单的、个别的或偶然的价值形式，发展到总和的或扩大的价值形式，再发展到一般价值形式，最后"
+  },
+  {
+   "cn": "价值尺度",
+   "en": "measure of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0069",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的最基本、最重要的职能。以货币作为尺度，用来表现其他一切商品价值的职能。货币作为价值尺度是商品内在价值的价值尺度即劳动时间的必然表现形态。货币在执行价值尺度时，可以只是想象的或观念的货币。"
+  },
+  {
+   "cn": "价值符号",
+   "en": "symbols of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0083",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在货币流通中，不足值的金属铸币和本身没有价值的纸币代替金属货币执行流通手段职能都属于价值符号。价值符号是由国家强制流通而得到公认的。"
+  },
+  {
+   "cn": "价值规律",
+   "en": "law of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0107",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品生产和交换的一般规律或基本规律。价值由劳动时间决定的规律或价值量由社会必要劳动时间决定的规律。价值规律要求等价交换，通过市场价格的波动调节供求关系。"
+  },
+  {
+   "cn": "量值",
+   "en": "value of quantity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.69",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "用数和参照对象一起表示的量的大小。参照对象可以是测量单位、测量程序或标准物质。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "全生命周期保健",
+   "en": "life course care",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "把生命看作一个由出生、生长发育、成熟和衰老渐变的过程，针对胎儿期和婴幼儿期、儿童少年期、成年工作期和晚年期等各阶段人群，在家庭、托幼机构/学校、社区、工作场所实施连续性预防服务措施的策略。"
+  },
+  {
+   "cn": "生命历程理论",
+   "en": "life course theory",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "解释健康与疾病模式的一种学说。认为个体在不同生命阶段的发育和健康状况、个人行为、所处自然和社会环境等因素累积，引起下一个生命阶段乃至一生的健康影响。"
+  },
+  {
+   "cn": "信息价值",
+   "en": "value of information,VOI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息所具有的实用性与效益性，凝结在信息服务组织或个人信息服务过程中的一般(抽象)劳动，体现的是卫生信息生产者与卫生信息用户之间的一种经济利益关系。"
+  },
+  {
+   "cn": "剩余价值论",
+   "en": "theory of surplus value",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "在资本主义生产过程中，劳动者所创造的超过维持自身及家庭所需生活资料的那部分劳动的价值。体现了资本增值的来源以及资本主义剥削关系的本质。马克思在《资本论》中提出。"
+  },
+  {
+   "cn": "社会工作价值观",
+   "en": "value of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "用来指导和支撑社会工作者开展专业实践的一整套理念和判断。内容涉及社会工作者对服务对象、专业实践、服务机构、公共福利发展、社会发展与社会进步等方面的看法。"
+  },
+  {
+   "cn": "相对价值形式",
+   "en": "relative form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0057",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“等价形式”相对。被表现价值的商品在价值形式中所处的地位。由于价值的性质决定了商品自身的价值不能直接地绝对地表现出来，它只能通过与它相交换的另一种商品把自己的价值相对地表现出来。"
+  },
+  {
+   "cn": "简单的价值形式",
+   "en": "simple form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0061",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的原始阶段。一商品的价值偶然地以另一不同种商品来表现的价值形式。它与原始社会后期原始公社之间偶然地、间或地物物交换阶段相一致。在简单价值形式中，价值形式两极的对立很不固定。"
+  },
+  {
+   "cn": "一般价值形式",
+   "en": "general form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0063",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第三阶段。一切商品的价值都以充当一般等价物的商品来表现的价值形式。以一般等价物为媒介的商品交换代替了直接的物物交换，扩大的价值形式也就发展到了一般价值形式，这一发展是一次质的飞跃。价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

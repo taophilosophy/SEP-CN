@@ -1,0 +1,722 @@
+{
+ "key": "revealed preference method",
+ "term": "revealed preference method",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:38:04+00:00",
+ "status": "ok",
+ "note": "variant=revealed preference method; 审定公布名词库=4851; 海峡两岸名词对照库=1233; 其他来源数据库=94; 预公布名词数据库=253; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "显性剥离",
+   "en": "revealed abruption",
+   "source": "急救医学名词",
+   "wordNumber": "03.671",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_胎儿发育异常",
+   "subjectName": "胎儿发育异常",
+   "publishYear": "2025",
+   "definition": "胎盘剥离面随出血量增多而扩大，血液冲开胎盘边缘及胎膜经宫颈流出，表现为外出血的胎盘早剥。"
+  },
+  {
+   "cn": "嗜食性",
+   "en": "preference ",
+   "source": "草学名词",
+   "wordNumber": "2.0427",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "按照自己的意愿对可供选择的方案进行的排列(或提供判断值)。"
+  },
+  {
+   "cn": "偏好",
+   "en": "preference",
+   "source": "药学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对某种健康状态的意愿或倾向。通常体现为效用或价值。"
+  },
+  {
+   "cn": "肉适意性",
+   "en": "preferability",
+   "source": "畜牧学名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "消费者对肉类品质的满意程度。"
+  },
+  {
+   "cn": "胎盘显性剥离",
+   "en": "revealed placental abruption",
+   "source": "妇产科学名词",
+   "wordNumber": "16.007",
+   "subjectFullName": "胎儿附属物异常_胎盘早剥",
+   "subjectName": "胎盘早剥",
+   "publishYear": "2025",
+   "definition": "胎盘早剥时外出血的类型。胎盘自子宫壁发生剥离后，血肿位于胎盘与子宫壁之间，靠近胎盘边缘，随着血肿逐渐增大，血液冲破胎盘的边缘及胎膜，经宫颈管流出。"
+  },
+  {
+   "cn": "自显故障",
+   "en": "self-revealing fault",
+   "source": "电气工程名词",
+   "wordNumber": "25.036",
+   "subjectFullName": "电气工程_防爆电气设备",
+   "subjectName": "防爆电气设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "景观偏好",
+   "en": "landscape preference",
+   "source": "风景园林名词",
+   "wordNumber": "06.0034",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "是一连串人与环境交互作用的结果，观赏者经过一连串知觉、认知的心理评估过程后对经过产生的偏好。"
+  },
+  {
+   "cn": "消费者偏好",
+   "en": "consumer preference",
+   "source": "农学名词",
+   "wordNumber": "19.035",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者对特定的商品和场所等产生特殊偏爱的行为。"
+  },
+  {
+   "cn": "嗜食性分级",
+   "en": "preference ranking ",
+   "source": "草学名词",
+   "wordNumber": "2.0283",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "嗜食性指数",
+   "en": "preference index ",
+   "source": "草学名词",
+   "wordNumber": "2.0492",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "品牌偏好",
+   "en": "brand preference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.154",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "某一市场中消费者对该品牌的喜好程度，是对消费者的品牌选择意愿的了解。"
+  },
+  {
+   "cn": "性偏好",
+   "en": "sexual preference",
+   "source": "行为医学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "个体在性行为中对于特定类型的人、物、行为或情境的喜爱。"
+  },
+  {
+   "cn": "不选择性",
+   "en": "non preference ",
+   "source": "草学名词",
+   "wordNumber": "7.0125",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消费者偏好",
+   "en": "consumer preference",
+   "source": "经济学名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "消费者在不考虑预算约束的情况下完全按照自己的意愿对可供选择的商品组合做出的排序。消费者偏好满足三个基本假设：第一，完备性（completeness）假设，即对于任意两组商品组合 X和Y ，消费者都可以"
+  },
+  {
+   "cn": "伦理偏好",
+   "en": "ethic preference",
+   "source": "经济学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "与“私人偏好”相对。个人必须权衡某一既定的决策对其他人的后果时所使用的偏好。一般而言，可以把经济利他主义看作是个人的“伦理偏好”。而制度的实施则必须以经济人的伦理偏好（相当于“人性善”之说）为根基。"
+  },
+  {
+   "cn": "私人偏好",
+   "en": "private preference",
+   "source": "经济学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "与“伦理偏好”相对。个人用于作出日常决策的偏好。"
+  },
+  {
+   "cn": "个人偏好",
+   "en": "personal preference",
+   "source": "经济学名词",
+   "wordNumber": "10.188",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "决策中决策者个人对各种可选方案或各种结果中某一方案或结果的偏爱。"
+  },
+  {
+   "cn": "挖掘偏好",
+   "en": "mining preference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0460",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以用户偏好为目标的数据挖掘。"
+  },
+  {
+   "cn": "偏好查询",
+   "en": "preference query",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0475",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "在查询过程中考虑用户偏好的查询方式。"
+  },
+  {
+   "cn": "天启教",
+   "en": "revealed religion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "颜色爱好",
+   "en": "color preference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生境偏爱,生境适应性",
+   "en": "habitat preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "草食偏好性",
+   "en": "grazing preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境取向",
+   "en": "environmental preference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反向优惠",
+   "en": "reverse preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易优先权",
+   "en": "trade preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特惠",
+   "en": "special preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "英联邦特惠税制",
+   "en": "Imperial Preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债券",
+   "en": "bond preference",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债券",
+   "en": "preference bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先资本",
+   "en": "preference capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间偏好",
+   "en": "spatial preference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化偏好",
+   "en": "cultural preference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "嗜食性",
+   "en": "food preference",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "偏爱密码子",
+   "en": "preferred codon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势周期",
+   "en": "preferred period",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "择优溶解",
+   "en": "preferred dissolution",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "优先股票",
+   "en": "preferred stock",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "偏好管理",
+   "en": "preference management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷举法",
+   "en": "enumeration method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回溯法",
+   "en": "backtracking method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton’s method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "节点链接法",
+   "en": "node link method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Fail-stop方法",
+   "en": "Fail-stop method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证测试方法",
+   "en": "authentication testing method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "风险偏好",
+   "en": "risk preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为偏爱的一种态度。与能够获得某一数额的确定性收益相比，消费者更愿意选择存在风险但是能够获得同样数额的风险收益"
+  },
+  {
+   "cn": "时间偏好",
+   "en": "time preference",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体愿意用当前的效用去交换未来效用的偏好。是当前和未来效用的边际替代率。"
+  },
+  {
+   "cn": "陈述偏好法",
+   "en": "stated preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "采用调查的方式，让被调查人表达疾病治疗方案所带来的效益，以此对偏好进行估算的一种分析方法。"
+  },
+  {
+   "cn": "时间不一致偏好",
+   "en": "time-inconsistent preference ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.4",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对商品和服务的偏好在不同时期有所变化。"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "滴定法",
+   "en": "titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "将一种已知浓度的标准溶液滴加到含待测物质的溶液中，根据完成化学反应所消耗的标准溶液的浓度、体积和待测溶液的体积，计算溶液中待测物质量的分析方法。"
+  },
+  {
+   "cn": "倾注法",
+   "en": "pouring method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验样本均匀分散于固体培养基中进行活菌计数的试验方法。"
+  },
+  {
+   "cn": "稀释法",
+   "en": "dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用稀释液稀释消毒剂与试验微生物的混合液，使其不再抑制或杀灭微生物的方法。"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过比较清洗前后污染物重量来评价清洗效果的方法。"
+  },
+  {
+   "cn": "凝胶法",
+   "en": "gel method",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过鲎试剂与内毒素产生凝集反应的原理来定性或半定量检测内毒素的方法。"
+  },
+  {
+   "cn": "符合法",
+   "en": "coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用核衰变时能发射两个或两个以上级联辐射的特性来测量放射性核素活度的一种方法。"
+  },
+  {
+   "cn": "谱仪法",
+   "en": "spectrometer method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用谱仪（如α、γ谱仪）测定各种射线能谱的技术方法。通常包括样品源的制备、测量及解谱等。"
+  },
+  {
+   "cn": "归纳法",
+   "en": "inductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "就某个特定的主题，观察和收集数据，积累事实，从而得出一般原理的推理程序。"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "详析模式",
+   "en": "elaboration method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "一种确证两个变量间因果关系的统计分析策略。在详析分析中，先在两维的列联表上分析两个变量的关系，然后引入第三个变量进一步检验两个变量与第三个变量间的关系。是由拉扎斯菲尔德提出的。"
+  },
+  {
+   "cn": "评估的方式方法",
+   "en": "evaluation method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对社会工作服务进行评估所采用的主要方式和具体方法。一般来说，个案工作者有以下几种可能的评估方式：1.与案主一起对服务的效果和效率进行评估；2.与同事一起对服务提供联合评估；3.利用原定计划表进行评估。"
+  },
+  {
+   "cn": "极差法",
+   "en": "range method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "一组数据中最大值减去最小值的计算方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

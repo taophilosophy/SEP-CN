@@ -1,0 +1,682 @@
+{
+ "key": "negation test",
+ "term": "negation test",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:38:11+00:00",
+ "status": "ok",
+ "note": "variant=negation test; 审定公布名词库=6172; 海峡两岸名词对照库=1501; 其他来源数据库=399; 预公布名词数据库=336; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "否定[词]",
+   "en": "negation",
+   "source": "数学名词",
+   "wordNumber": "02.0034",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑差",
+   "en": "logical negation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“非”的运算。即从原检索范围A减去一部分B，以缩小检索范围，通常用算符“非”或“NOT”表示两个文件集逻辑差的关系。"
+  },
+  {
+   "cn": "否定要素",
+   "en": "negation element",
+   "source": "建筑学名词",
+   "wordNumber": "09.0437",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "否定图形符号原含义的符号要素。通常包括直杠和叉形两种形式。"
+  },
+  {
+   "cn": "否定副词",
+   "en": "negation adverb",
+   "source": "语言学名词",
+   "wordNumber": "04.090",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示否定的副词。例如“不”“没”“未必”。"
+  },
+  {
+   "cn": "失败即否定",
+   "en": "negation as failure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0059",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "为了消解不允许推出否定信息的限制，基思·克拉克（Keith Clark）于1978年提出的一种对原子公式的否定的非经典解释：对原子公式 p ,若缺少充分的条件证明 p ，则可以推得not（ p ），即"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "心理学名词",
+   "wordNumber": "10.150",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "患者坚信本人、其他人及某些物体已不复存在的妄想。常伴有心境极度低落。"
+  },
+  {
+   "cn": "非门",
+   "en": "negation gate,NOT gate",
+   "source": "电子学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对象的否定",
+   "en": "negation of a referent",
+   "source": "建筑学名词",
+   "wordNumber": "09.0441",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "通过在图形符号上添加否定要素来否定图形符号的含义。"
+  },
+  {
+   "cn": "T检验",
+   "en": "T-test",
+   "source": "经济学名词",
+   "wordNumber": "10.125",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "主要用于样本含量较小（如 n <30），总体标准差σ未知的正态分布资料。T检验是用于小样本（样本容量小于30）的两个平均值差异程度的检验方法。它是用 T 分布理论来推断差异发生的概率，从而判定两个平均"
+  },
+  {
+   "cn": "t检验",
+   "en": "t-test",
+   "source": "心理学名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "将t值作为检验两个独立或相关的正态总体平均数差数的统计量的检验方法。"
+  },
+  {
+   "cn": "t检验",
+   "en": "t-test",
+   "source": "药学名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "应用t分布理论推断差异发生的概率，从而判定两个平均数的差异是否显著的一种统计学检验方法。"
+  },
+  {
+   "cn": "t检验",
+   "en": "t-test",
+   "source": "生态学名词",
+   "wordNumber": "10.017",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "两总体方差未知但相同，用以两平均数之间差异显著性的检验。"
+  },
+  {
+   "cn": "t检验",
+   "en": "t-test",
+   "source": "数学名词",
+   "wordNumber": "09.0635",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test,testing",
+   "source": "电子学名词",
+   "wordNumber": "17.007",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "t检验法",
+   "en": "t-test method",
+   "source": "化学名词",
+   "wordNumber": "03.0232",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "用服从t分布的统计量<img src='/root/syzx/static/spz/huaxue2.03.0232.1.png'/>检验两个正态总体平均值的一种方法。"
+  },
+  {
+   "cn": "三碘甲状腺原氨酸抑制试验",
+   "en": "triiodothyronine suppression test;T₃ suppression test",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "03.066",
+   "subjectFullName": "甲状腺疾病_甲状腺功能测试",
+   "subjectName": "甲状腺功能测试",
+   "publishYear": "2025",
+   "definition": "通过连续6日服用三碘甲状腺原氨酸钠，重复放射性同位素碘摄取试验。T₃通过反馈机制抑制垂体释放促甲状腺激素（TSH），从而使甲状腺同位素碘摄取率下降。本试验主要用于摄碘率高的病人作鉴别诊断，用于对摄碘率"
+  },
+  {
+   "cn": "试验",
+   "en": "test",
+   "source": "农学名词",
+   "wordNumber": "18.004",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "采用测试的手段来获取或验证某一结果的行为。"
+  },
+  {
+   "cn": "壳",
+   "en": "test",
+   "source": "动物学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "由原生质分泌物或由分泌物胶结其他外来颗粒而成，用于包裹并保护软体的部分。"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "电力名词",
+   "wordNumber": "02.117",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "一系列完整的操作过程。通常包括预处理、初始检测、条件试验、恢复、最后检测。"
+  },
+  {
+   "cn": "测试",
+   "en": "test",
+   "source": "核医学名词",
+   "wordNumber": "01.0030",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "通过将测量结果与已知状态或理论假设相比较，从而对事物状态、功能做出判断的过程。"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非门",
+   "en": "negation gate\",\"NOT gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "t检验",
+   "en": "t test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "t 检验",
+   "en": "t test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "t检验",
+   "en": "t-test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "test\",\"testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "台架试验",
+   "en": "testing-bed test",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试",
+   "en": "testing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "心理测验",
+   "en": "mental test\",\"psychological test\",\"psychological testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏附试验",
+   "en": "adhesion test\",\"adhesive test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对照试验",
+   "en": "contrast test\",\"control test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "测试台",
+   "en": "test desk\",\"test bench",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳步测试",
+   "en": "galloping test\",\"leapfrog test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性试验",
+   "en": "destructive test\",\"destruction test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "卡方检验，χ2 检验",
+   "en": "chi-square test（=χ2-test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "检漏试验",
+   "en": "leak testing （=leak test）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试文本",
+   "en": "test text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测交",
+   "en": "test cross",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发芽试验",
+   "en": "germination test",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兴奋剂检测",
+   "en": "dope test\",\"doping test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "科目",
+   "en": "reprise\",\"test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检测样本",
+   "en": "test sample",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "试剂盒",
+   "en": "test kit",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "否定之否定规律",
+   "en": "law of the negation of negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0222",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  },
+  {
+   "cn": "适合性检验",
+   "en": "fit test",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.15",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "对于能罩住口和鼻、与面部密合的防护口罩，或能罩住眼睛、口和鼻、与头面部密合的面罩，确定其对使用者适合程度的检验。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "产品检验",
+   "en": "production test",
+   "source": "消毒学",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品质量进行检验的过程。"
+  },
+  {
+   "cn": "崩解试验",
+   "en": "disintegration test",
+   "source": "消毒学",
+   "wordNumber": "6.1.14",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "采用升降式崩解仪，在一定条件下测得的固体消毒剂全部崩解并通过筛网所需时间的试验。"
+  },
+  {
+   "cn": "稳定性试验",
+   "en": "stability test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "通过比较长期试验和加速试验前后有效成分的含量或杀灭微生物能力的变化来评价其稳定性，测定消毒剂有效期的试验。"
+  },
+  {
+   "cn": "消毒学试验",
+   "en": "disinfectionology test",
+   "source": "消毒学",
+   "wordNumber": "6.2",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "评价消毒产品杀灭、清除和抑制有害微生物效果和影响因素的试验，通常包括实验室试验、模拟现场试验和现场试验三个阶段。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  },
+  {
+   "cn": "定量试验",
+   "en": "quantitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以活菌计数或病毒滴度测量值为结果判定标准的试验方法。"
+  },
+  {
+   "cn": "定性试验",
+   "en": "qualitative test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以阴性或阳性为结果判定标准的试验方法。包括定性消毒试验和定性灭菌试验。"
+  },
+  {
+   "cn": "载体试验",
+   "en": "carrier test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物附着于载体，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "悬液试验",
+   "en": "suspension test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验微生物悬浮于液体介质中，用于测试消毒因子对试验微生物杀灭效果的消毒实验室试验。"
+  },
+  {
+   "cn": "细菌杀灭试验",
+   "en": "bactericidal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在标准实验条件下，以悬液法或载体法测试消毒因子对试验菌杀灭效果的试验。"
+  },
+  {
+   "cn": "能量试验",
+   "en": "energy test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价连续加入细菌悬液对消毒剂杀菌作用的影响，确定消毒剂用于多次消毒污秽物品时的实用剂量的试验，如浸洗拖布的消毒液、浸泡污染医疗器械的消毒液、浸泡洗手消毒液等。"
+  },
+  {
+   "cn": "灭菌试验",
+   "en": "sterilization test",
+   "source": "消毒学",
+   "wordNumber": "6.2.29",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价消毒剂或消毒器械灭菌效果的试验。"
+  },
+  {
+   "cn": "鲎试验",
+   "en": "limulus test",
+   "source": "消毒学",
+   "wordNumber": "6.2.31",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与细菌内毒素及β-葡聚糖反应，检测食品、水源、药品、医疗器械、动物体液等不同样品中的内毒素含量的试验。"
+  },
+  {
+   "cn": "无菌检验",
+   "en": "sterility test",
+   "source": "消毒学",
+   "wordNumber": "6.2.33",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "为确定单元产品或其部分上有无活微生物而进行的检验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

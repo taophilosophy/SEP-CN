@@ -1,0 +1,772 @@
+{
+ "key": "treatment failure",
+ "term": "treatment failure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:40:50+00:00",
+ "status": "ok",
+ "note": "variant=treatment failure; 审定公布名词库=1450; 海峡两岸名词对照库=279; 其他来源数据库=34; 预公布名词数据库=96; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "治疗失败",
+   "en": "treatment failure",
+   "source": "结核病学名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "（1）敏感及其他耐药肺结核：涂阳患者治疗第5个月或疗程结束时痰涂片阳性；涂阴患者治疗过程中痰涂片转为阳性。（2）利福平耐药肺结核、耐多药肺结核、广泛耐药肺结核：治疗中断，或由于以下原因原治疗方案需要调"
+  },
+  {
+   "cn": "失败率",
+   "en": "treatment failure rate",
+   "source": "结核病学名词",
+   "wordNumber": "05.072",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "一定地区、一定时间内登记的患者中治疗失败患者数占登记患者数的百分比。在评价治愈率、治疗成功率时，应同时参考其失败率。失败率=治疗失败患者数/登记患者数× 100%。"
+  },
+  {
+   "cn": "治疗失败率",
+   "en": "treatment failure rate",
+   "source": "医学名词 第四分册",
+   "wordNumber": "09.220",
+   "subjectFullName": "医学_结核病学",
+   "subjectName": "结核病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "故障办理",
+   "en": "emergency treatment after failure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0702",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0219",
+   "subjectFullName": "机械工程（一）_机械强度_结构可靠性",
+   "subjectName": "结构可靠性",
+   "publishYear": "2021",
+   "definition": "产品丧失完成规定功能能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电力名词",
+   "wordNumber": "25.003",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "元件或系统丧失完成规定功能的能力的事件。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.064",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "功能单元失去执行其自身功能的能力或者以非要求的方式运行。"
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0196",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "发动机的功能、零部件或整机的失效或损坏的一种现象。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "设备执行所需功能的能力已经终止。失效标志着从一种状态变到另一种状态。失效之后，设备即有故障。"
+  },
+  {
+   "cn": "破坏",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.099",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.135",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "产品在使用中由于自身质的变化导致产品丧失了预定的工作能力或其性能已劣化成不合格的状态。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.072",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.065",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "电子学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "处理",
+   "en": "treatment",
+   "source": "农学名词",
+   "wordNumber": "01.182",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "全称“试验处理(experimental treatment)”。一个试验单元内的水平的总称。单因素试验中，每一个水平就是一个处理；多因素试验中，不同因素的水平相互组合构成一个处理。"
+  },
+  {
+   "cn": "肠衰竭",
+   "en": "intestinal failure,gut failure",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "肠道功能下降至难以维持消化、吸收营养的最低需要量的临床征象。可分为两型：①以短肠综合征(SBS)为代表的功能性肠道减少；②各种因素导致的运动功能受损和广泛实质损伤。1956年由欧文(Irving)提出"
+  },
+  {
+   "cn": "偶然失效",
+   "en": "accidental failure,random failure",
+   "source": "电气工程名词",
+   "wordNumber": "28.087",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "冷处理",
+   "en": "cryogenic treatment,subzero treatment",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.187",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_淬火",
+   "subjectName": "淬火",
+   "publishYear": "2021",
+   "definition": "钢件淬火冷却到室温后，继续在0℃以下的介质中冷却的热处理工艺。冷却到液氮温度(–196℃)的冷处理称为深冷处理。"
+  },
+  {
+   "cn": "失效",
+   "en": "failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "failure",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "冷处理",
+   "en": "cold treatment\",\"subzero treatment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "排卵障碍",
+   "en": "ovulation failure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "提取失败",
+   "en": "retrieval failure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黏附破坏",
+   "en": "adhesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效包线",
+   "en": "failure envelope",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "失效分析",
+   "en": "failure analysis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "疲劳失效",
+   "en": "fatigue failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "内聚破坏",
+   "en": "cohesive failure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生殖失败",
+   "en": "reproductive failure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "破坏概率",
+   "en": "failure probability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场地故障",
+   "en": "site failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障访问",
+   "en": "failure access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障记录",
+   "en": "failure logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障控制",
+   "en": "failure control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障率",
+   "en": "failure rate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联失效",
+   "en": "relevant failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规划失败",
+   "en": "planning failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介质故障",
+   "en": "media failure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外科处置",
+   "en": "surgical treatment   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧水厂",
+   "en": "intelligent water treatment plant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔空诊疗",
+   "en": "online diagnosis and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诊断、治疗、追踪和筛查",
+   "en": "diagnosis, treatment, tracing and screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污染集中处理",
+   "en": "centralized treatment of medical waste",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离治疗",
+   "en": "to receive treatment in isolation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "方舱医院",
+   "en": "temporary treatment centers; Fangcang shelter hospitals",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《新型冠状病毒感染的肺炎诊疗方案》",
+   "en": "Diagnosis and Treatment Protocol for COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "满招损，谦受益",
+   "en": "Complacency Leads to Failure; Modesty to Success.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "早发现、早报告、早诊断、早隔离、早治疗",
+   "en": "early detection, reporting, diagnosis, isolation and treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "固体废物资源化无害化",
+   "en": "recycling and hazard-free treatment of solid waste",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医防结合",
+   "en": "Emphasis is needed on both prevention and treatment.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变色失败",
+   "en": "discoloration failure",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物未达到终点色的现象。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "市场配置资源方式无法有效地实现公共物品的最优配置。通常由于垄断、信息不对称的存在导致市场在配置资源方面的无效率。"
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "市场缺陷（market failure）”。由于市场机制不能充分地发挥作用而导致的资源配置缺乏效率或资源配置失当的情况。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "避孕失败",
+   "en": "contraceptive failure",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "使用某种避孕方法过程中，由于该方法本身的原因或使用者未严格按照使用说明规范正确使用，而未能获得应有的避孕效果，发生意外妊娠的现象。"
+  },
+  {
+   "cn": "脱脂处理",
+   "en": "degreasing treatment",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.15",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "去除载体（滤纸片除外）上脂类物质以便指示菌均匀分布的处理方法。即将制备菌片所用载体于染菌前，放在含洗涤剂的水中煮沸 30 分钟，以自来水洗净，再用蒸馏水煮沸 10分钟，用蒸馏水漂洗至 pH值呈中性、晾"
+  },
+  {
+   "cn": "焚烧处理",
+   "en": "incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "废物在高温条件下发生热分解、燃烧等反应，实现无害化和减量化的过程。"
+  },
+  {
+   "cn": "微波处理",
+   "en": "microwave treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "利用微波或微波与高温蒸汽组合作用杀灭医疗废物中病原微生物，使其消除潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "化学法处理",
+   "en": "chemical treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2.4",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "采用化学消毒剂杀灭医疗废物中的病原微生物，消除其潜在的感染性危害的处理方法。"
+  },
+  {
+   "cn": "样品处理",
+   "en": "samples treatment",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "对采集的样品或分析对象根据其性质，工作目的和分析方法进行不同预处理的操作过程。通过处理可使样品的状态符合所选择的分析技术并达到试验用样要求。"
+  },
+  {
+   "cn": "治疗处方",
+   "en": "treatment prescription",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床医生对放射治疗中患者的治疗范围和剂量分布的定量要求，如照射部位或体积、照射总剂量、分次剂量、分次数、危及器官限量等。"
+  },
+  {
+   "cn": "治疗参数",
+   "en": "treatment parameter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗中，表征患者所受辐射照射的要素。如：辐射能量、吸收剂量、治疗时间等。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "不公正对待",
+   "en": "unfair treatment",
+   "source": "马克思主义",
+   "wordNumber": "05.0108",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "罗默在采用资产阶级新古典经济学的分析方法，对马克思剥削理论的“资本主义制度的不公正”中的“剥削”“阶级”等理论重新解释，由此得出社会不公正的根源是生产资料的初始分配的不公正和生产方式的差异性的思想。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "支持治疗",
+   "en": "supportive treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据各种疾病的不同阶段而采取的合理饮食，补充营养，维持水、电解质和酸碱平衡，增强患者体质和免疫功能的各项措施。"
+  },
+  {
+   "cn": "对症治疗",
+   "en": "symptomatic treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据病情采取的解除症状和病痛的治疗。包括降温、止痛、镇静、吸氧、止咳、防治出血等，可达到减少机体消耗和保护重要器官的目的。"
+  },
+  {
+   "cn": "手术治疗",
+   "en": "surgical treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "通过外科手术切除机体病灶、促进疾病恢复的治疗方法。"
+  },
+  {
+   "cn": "终止治疗",
+   "en": "terminating treatment",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.037",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "根据临床诊疗标准，结合患者或其家属意愿，终止对因治疗措施的医疗行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

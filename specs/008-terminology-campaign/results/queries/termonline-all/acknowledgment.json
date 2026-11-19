@@ -1,0 +1,332 @@
+{
+ "key": "acknowledgment",
+ "term": "acknowledgment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:45:12+00:00",
+ "status": "ok",
+ "note": "variant=acknowledgment; 审定公布名词库=16; 海峡两岸名词对照库=13; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "收妥",
+   "en": "acknowledge",
+   "source": "航海科技名词",
+   "wordNumber": "14.0027",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "肯定应答",
+   "en": "acknowledgement,ACK",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0281",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "接收站发给发送站的一个传输控制字符或控制分组。表示对方所做的信息传输已经被本站正确接收。"
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledgement,ACK",
+   "source": "电子学名词",
+   "wordNumber": "21.145",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "警惕手柄",
+   "en": "acknowledgment lever",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0425",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "警惕按钮",
+   "en": "acknowledgment button",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0426",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "肯定认可",
+   "en": "positive acknowledgement",
+   "source": "电力名词",
+   "wordNumber": "06.047",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "表示监视信息或命令信息已被正确接受的报文。"
+  },
+  {
+   "cn": "否定认可",
+   "en": "negative acknowledgement",
+   "source": "电力名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "表示监视信息或命令信息未被正确接受的报文。"
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledge,ACK",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0808",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "应答信号",
+   "en": "acknowledge signal",
+   "source": "航海科技名词",
+   "wordNumber": "15.1062",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "报价回执",
+   "en": "bidder’s acknowledgement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.619",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "投标商收到询价书后向询价主体反馈的，表明自己是否参与报价、是否能够按时返回报价等信息的回函。"
+  },
+  {
+   "cn": "否定应答",
+   "en": "non-acknowledgement,NAK",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0280",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "接收站发给发送站的一个传输控制字符或控制分组。表示对方所做的信息传输没有被本站正确接收。"
+  },
+  {
+   "cn": "否认",
+   "en": "negative acknowledgement,NAK",
+   "source": "电子学名词",
+   "wordNumber": "21.146",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切换确认",
+   "en": "handover acknowledge,Hack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0663",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "从新接入路由器发往前接入路由器的响应一个切换启动的报文。"
+  },
+  {
+   "cn": "否认",
+   "en": "negative acknowledge,NAK",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0809",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "报警确认开关",
+   "en": "alarm acknowledge switch",
+   "source": "石油名词",
+   "wordNumber": "08.0892",
+   "subjectFullName": "石油_海洋石油技术_海洋石油安全、消防、救生与环保",
+   "subjectName": "海洋石油安全、消防、救生与环保",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "快速绑定确认",
+   "en": "fast binding acknowledgment,FBack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0661",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "发自前接入路由器的一个报文。它是对快速绑定更新报文的应答。"
+  },
+  {
+   "cn": "收妥",
+   "en": "acknowledge",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "确认比特，确认位",
+   "en": "acknowledgement bit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认帧",
+   "en": "acknowledgement frame",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遇险收妥承认",
+   "en": "distress acknowledgement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "确认收妥",
+   "en": "acknowledge receipt",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "应答信号",
+   "en": "acknowledge signal",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "确认",
+   "en": "acknowledgement，ACK\",\"validation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接受订单",
+   "en": "acknowledgement of order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "收款回执",
+   "en": "acknowledgement of receipt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "否认",
+   "en": "negative acknowledgement，NAK",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "初始地址确认信息",
+   "en": "initial address acknowledgement message",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确认遇险报警收妥",
+   "en": "acknowledgement of distress alert",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "确认的无连接方式传输",
+   "en": "acknowledged connectionless-mode transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判刺中",
+   "en": "acknowledge a hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "爱而知其恶，憎而知其善",
+   "en": "In Love, Acknowledge Faults; in Hatred, Recognize Virtues.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

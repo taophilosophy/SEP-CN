@@ -1,0 +1,522 @@
+{
+ "key": "veracity",
+ "term": "veracity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:47:35+00:00",
+ "status": "ok",
+ "note": "variant=veracity; 审定公布名词库=692; 海峡两岸名词对照库=228; 其他来源数据库=10; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "辨真效应",
+   "en": "veracity effect",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.118",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "对人际欺骗的一种心理现象描述。取真偏好理论的核心组成部分。由美国传播学者蒂莫西·莱文、朴熙宣(Park Hee Sun)和斯蒂文·麦克康奈克提出。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0642",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "质点位移对时间的变化率。其大小等于距离除以时间，方向为位移矢量的方向。 "
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0002",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "位移的变化率。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0214",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "流动、传热和传质所通过的距离随时间的变化率。速度是一个向量。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "土木工程名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "流速",
+   "en": "velocity",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.143",
+   "subjectFullName": "水利科学技术_水文、水资源_应用水文学（水利）",
+   "subjectName": "应用水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在某一特定方向上，水流在某点的运动速率。"
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "韧度",
+   "en": "toughness,tenacity",
+   "source": "物理学名词",
+   "wordNumber": "08.2349",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "韧性",
+   "en": "toughness,tenacity",
+   "source": "物理学名词",
+   "wordNumber": "08.2350",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "速度传感器",
+   "en": "velocity transducer,velocity sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0061",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受速度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "流速",
+   "en": "flow velocity,current velocity",
+   "source": "电力名词",
+   "wordNumber": "01.807",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述流体质点位置随时间变化规律的矢量。"
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity,mean velocity",
+   "source": "物理学名词",
+   "wordNumber": "02.0046",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity,mean velocity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "退行速度",
+   "en": "recession velocity; velocity of recession; regression velocity",
+   "source": "天文学名词",
+   "wordNumber": "07.278",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "天体远离观测者而去的视向速度。"
+  },
+  {
+   "cn": "血液流速",
+   "en": "blood flow velocity,blood velocity",
+   "source": "生理学名词",
+   "wordNumber": "05.132",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光速",
+   "en": "velocity of light,light velocity",
+   "source": "物理学名词",
+   "wordNumber": "04.0036",
+   "subjectFullName": "物理学_光学、声学",
+   "subjectName": "光学、声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "第一宇宙速度",
+   "en": "first cosmic velocity,elliptic velocity",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "第二宇宙速度",
+   "en": "second cosmic velocity,escape velocity",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "速度下拉",
+   "en": "velocity pull-down,velocity sag",
+   "source": "石油名词",
+   "wordNumber": "03.0868",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "塞维拉克",
+   "en": "Séverac\",\"Déodat de(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沉降速度",
+   "en": "sedimentation velocity\",\"settling velocity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "韧度",
+   "en": "tenacity\",\"toughness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "表面速度",
+   "en": "surface velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉降速度",
+   "en": "deposition velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "垂直速度",
+   "en": "vertical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迪尔多夫速度",
+   "en": "Deardorff velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮力速度",
+   "en": "buoyancy velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轨道速度",
+   "en": "orbital velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "夹卷速度",
+   "en": "entrainment velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "径向速度",
+   "en": "radial velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对速度",
+   "en": "absolute velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界速度",
+   "en": "critical velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦速度",
+   "en": "friction velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平均速度",
+   "en": "average velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群速",
+   "en": "group velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视速度",
+   "en": "apparent velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据4V特征",
+   "en": "4V’s of big data (volume, variety, velocity and veracity)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "速度",
+   "en": "velocity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路径速度准确度",
+   "en": "path velocity accuracy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生长速度",
+   "en": "growth velocity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.18",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对某一单项体格生长指标进行定期连续测量（纵向调查）所获得的该项指标在某一时间段中的增长值。"
+  },
+  {
+   "cn": "特大都市圈",
+   "en": "megacity or megalopolis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "一个或数个都市圈范围内连绵不断的都市区域。人口规模达到1000万以上。这些城市、村镇既有经济上的相互关联又有各自独立的行政管理机构。"
+  },
+  {
+   "cn": "理论的韧性",
+   "en": "tenacity of theories",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "理论具有免于被证伪的属性特征：当它面临反常时，可以通过增加或修改辅助假说或特设假说来维护理论的硬核，使理论能够重新解释反常而趋于完善。"
+  },
+  {
+   "cn": "身高增速高峰",
+   "en": "peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春期启动后，身高的生长速度在童年期的基础上出现加速增长、并在生长突增开始1～2年后达到生长速度高峰的现象。"
+  },
+  {
+   "cn": "生长速度曲线",
+   "en": "velocity curve of growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "儿童少年体格发育指标年增长值在坐标上的变化。"
+  },
+  {
+   "cn": "流速标称值",
+   "en": "nominal value of flow velocity",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "由生产厂商设置，安全柜正常工作时的下降气流和流入气流的流速。"
+  },
+  {
+   "cn": "身高增速高峰年龄",
+   "en": "age at peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "身高增速高峰发生时的年龄。"
+  },
+  {
+   "cn": "生长发育速度评价",
+   "en": "growth and development velocity appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价儿童少年某一项生长发育指标在一段时间内的变化趋势。通常需要连续测量某项生长发育指标并将测量值绘制在生长监测图上，结果以正常、下降、缓慢、加速来表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

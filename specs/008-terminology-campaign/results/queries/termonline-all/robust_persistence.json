@@ -1,0 +1,682 @@
+{
+ "key": "robust persistence",
+ "term": "robust persistence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:53:56+00:00",
+ "status": "ok",
+ "note": "variant=robust persistence; 审定公布名词库=427; 海峡两岸名词对照库=89; 其他来源数据库=51; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1890",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "在反演中适当改变初始或假设的条件后所获得的参量变化不大的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "植物学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物体在内源或外源因素干扰下仍然能保持其自身功能的能力。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在实际条件与实验条件存在一定程度偏差情况下，产品和工艺设计仍能保持正常性能的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统的容错、抗攻击或及时恢复的特性。"
+  },
+  {
+   "cn": "耐用性",
+   "en": "robustness",
+   "source": "药学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在测定条件有小的变动时，测定结果不受影响的承受程度。为常规检验提供依据。"
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "生态学名词",
+   "wordNumber": "07.311",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在环境急剧的大变化中保持稳定的状态。"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "化学工程名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "数学名词",
+   "wordNumber": "09.0798",
+   "subjectFullName": "数学_概率论_数理统计_非参数统计",
+   "subjectName": "非参数统计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "坚韧性",
+   "en": "robustness",
+   "source": "电子学名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "自动化名词",
+   "wordNumber": "02.289",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence ",
+   "source": "草学名词",
+   "wordNumber": "2.0026",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "动物学名词",
+   "wordNumber": "7.0582",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "植物学名词",
+   "wordNumber": "13.0559",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "大气科学名词",
+   "wordNumber": "06.365",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "气象要素的距平或异常维持不变的现象。"
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "生态学名词",
+   "wordNumber": "07.313",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在一定边界范围内，保持恒定或维持某一特定状态的持续时间。"
+  },
+  {
+   "cn": "宿存",
+   "en": "persistent",
+   "source": "风景园林名词",
+   "wordNumber": "08.0281",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "通常指常绿树叶片（针叶）在枝条上存留的时间。"
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "植物学名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "少数苔藓植物原丝体在长出茎和叶后仍继续存活的现象。如苞叶小金发藓。"
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题描述中存在不确定性的一种优化方法。目的是在已知参数不确定的情况下，得到具有如下特性的解：无论参数如何变化，优化命题的解均保持可行性，且目标函数在最坏情况下具有最优性。"
+  },
+  {
+   "cn": "稳健设计",
+   "en": "robust design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0092",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "使机械产品性能对设计变量的变异不敏感，在设计变量发生变化的情况下，仍能满足产品性能需求的一种设计方法。"
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "测绘学名词",
+   "wordNumber": "02.364",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "消除和削弱观测误差中粗差对参数估计的干扰和影响，求解最佳估值的方法。"
+  },
+  {
+   "cn": "鲁棒性（=稳健性）",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "持续性",
+   "en": "persistence",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持久性",
+   "en": "persistence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[原丝体]宿存",
+   "en": "persistent",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定化",
+   "en": "robust stabilization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定性",
+   "en": "robust stabilizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "robust control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗错强韧性，抗错鲁棒性",
+   "en": "error robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持续性趋势",
+   "en": "persistence tendency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "持久存储技术标准",
+   "en": "technical standard for persistent storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人",
+   "en": "robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "Intelligent Robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人传感器",
+   "en": "robot sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人效应器",
+   "en": "robot effector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人处理器",
+   "en": "robot processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人运动学",
+   "en": "robot kinematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人控制",
+   "en": "robot control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人感知",
+   "en": "robot perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类人型机器人",
+   "en": "humanoid robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作机器人",
+   "en": "collaborative robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人技术",
+   "en": "robot technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人税",
+   "en": "robot tax",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳糖酶持久性",
+   "en": "lactase persistence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "大多数哺乳动物乳糖酶的活性在断奶后急剧下降。部分人群可维持乳糖酶活性到成年期，使人体可消化乳制品中的乳糖。"
+  },
+  {
+   "cn": "持续性枕横位",
+   "en": "persistent occipitotransverse position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆侧方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性枕后位",
+   "en": "persistent occipitoposterior position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "经充分阴道试产，胎头枕部未能转向前方，仍位于母体骨盆后方，致使分娩发生困难的胎位。"
+  },
+  {
+   "cn": "持续性植物状态",
+   "en": "persistent vegetative state",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.0120000000000005",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "各种原因导致大脑皮质功能丧失但脑干功能相对完好，持续超过1 个月以上处于皮层下的生存状态。表现为缺乏意识活动，语言丧失，保留无意识的姿态调整和运动功能。"
+  },
+  {
+   "cn": "持久性毒剂",
+   "en": "persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间维持12 小时以上的毒剂（或者可造成染毒维持24 小时），多为沸点高、不易挥发的液体和以微粉状施放的固体毒剂。"
+  },
+  {
+   "cn": "乳糖酶非持久性",
+   "en": "lactase non-persistence, LNP",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "食品卫生学_食源性疾病_代谢紊乱型食源性疾病",
+   "subjectName": "代谢紊乱型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种常染色体隐性性状，导致肠道黏膜乳糖酶活性下调和乳糖消化不良。"
+  },
+  {
+   "cn": "持久性有机污染物",
+   "en": "persistent organic pollutants, POPs",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.23",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能持久存在于环境中，并可借助大气、水、生物体等环境介质进行远距离迁移，通过食物链富集，对环境和人类健康造成严重危害的天然或人工合成的有机污染物质。"
+  },
+  {
+   "cn": "半持久性毒剂",
+   "en": "semi-persistent chemical agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "有效杀伤时间介于1-12 小时之间，在释放后往往以蒸气、气溶胶和毒剂液滴等多种状态存在的毒剂。"
+  },
+  {
+   "cn": "儿童持续性抑郁障碍",
+   "en": "persistent depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种常见的抑郁障碍。至少在2年的多数日子里，一天中的多数时间出现抑郁心境，既可以是主观体验也可以是他人观察到的，儿童、青少年可以表现为易激惹，且持续至少1年。"
+  },
+  {
+   "cn": "发声抽动障碍",
+   "en": "persistent motor or vocal tic disorder, PMVT",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "简单性或复杂性的运动抽动或发声抽动，且两种抽动一般不同时存在，病程至少持续一年以上。抽动形式可是简单性的，也可是复杂性的；抽动可单一部位，也可多部位。一般以面肌、眼肌抽动最常见，慢性发声抽动也较常见。"
+  },
+  {
+   "cn": "智能消毒机器人",
+   "en": "intelligence disinfection robot",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在特定的程序操控下，可代替人力实现消毒操作并达到消毒效果的设备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

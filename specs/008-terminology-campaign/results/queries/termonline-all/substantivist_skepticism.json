@@ -1,0 +1,52 @@
+{
+ "key": "substantivist skepticism",
+ "term": "substantivist skepticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:43:40+00:00",
+ "status": "ok",
+ "note": "variant=substantivist skepticism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "怀疑精神",
+   "en": "skeptical spirit",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究者对已有的科学成就及科学权威的有根据的质疑态度。"
+  },
+  {
+   "cn": "谨慎推理",
+   "en": "skeptical reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0032",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种非单调推理模式。只有当一个命题在所有非单调语义模型中为真时，才认为该命题为真。"
+  },
+  {
+   "cn": "审计职业怀疑",
+   "en": "audit professional skepticism",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0353",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师执行审计业务时保持怀疑的一种态度。包括采取质疑的思维方式，对可能表明存在由于错误或舞弊而导致的错报的迹象保持警觉，以及对审计证据进行审慎评价。"
+  },
+  {
+   "cn": "有组织的怀疑",
+   "en": "organized skepticism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.9",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，指一种制度化的对科学家同行工作的批评态度，具体包括对已确立的规则、权威、既定程序的某些基础以及一般的神圣领域提出疑问。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

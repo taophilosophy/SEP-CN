@@ -1,0 +1,792 @@
+{
+ "key": "weak illocutionary commitment",
+ "term": "weak illocutionary commitment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:53:48+00:00",
+ "status": "ok",
+ "note": "variant=weak illocutionary commitment; 审定公布名词库=887; 海峡两岸名词对照库=205; 其他来源数据库=21; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.151",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种通过文字或口头方式，同意相互约定的条件，以提升人际关系与互动质量与效率的沟通行为。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.222",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞或组织尽管在表型上与未限定细胞没有差别，但其发育命运已经受到限制的状态。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "遗传学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "限定细胞按某一特定命运发育的过程。包括特化和决定这两个阶段。"
+  },
+  {
+   "cn": "提交",
+   "en": "commit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0273",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "正常结束事务执行。"
+  },
+  {
+   "cn": "虚弱",
+   "en": "weakness",
+   "source": "兽医学名词",
+   "wordNumber": "15.014",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "如倦怠无力、疲劳、全身肌肉虚弱、晕厥、癫痫发作和意识状态改变的统称。"
+  },
+  {
+   "cn": "软弱性",
+   "en": "weakness",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0269",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "物体在外力作用下比较容易变形的性质。"
+  },
+  {
+   "cn": "乏力",
+   "en": "weakness",
+   "source": "中医药学名词",
+   "wordNumber": "04.385",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉肢体懈怠，软弱无力的表现。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "定向复合物",
+   "en": "commitment complex",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "含有细胞核前体mRNA和U1 snRNP的复合物。协助U1 snRNP将其结合的内含子剪掉。"
+  },
+  {
+   "cn": "职业承诺",
+   "en": "occupational commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.092",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对组织制度和实践的知觉与组织契约之间的一种认同与接受。它包括情感承诺、留任承诺和规范承诺。情感承诺是组织成员对组织的情绪依恋、认同感和卷入程度；留任承诺是指基于相关组织成员离开组织带来损失的一"
+  },
+  {
+   "cn": "剂量负担",
+   "en": "dose commitment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.173",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "一个计算工具。用符号Ec表示。由于特定事件如一年计划排放的活度所致人均剂量率的无限时间积分。排放率在无限时间内为常数的情况下，特定人群将来人均所受最大年剂量率等于一年的实践剂量负担，不考虑居民人数的变"
+  },
+  {
+   "cn": "安全承诺",
+   "en": "safety commitment",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.032",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在关注安全和追求安全绩效方面，由企业代表全体员工公开做出的具有稳定意愿及实践行动的明确表示。"
+  },
+  {
+   "cn": "智能体的承诺",
+   "en": "agent commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0169",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在某个状态下，一个智能体从多个愿望中选择一个作为意图，称该智能体对所选择的愿望做出了承诺。"
+  },
+  {
+   "cn": "社会承诺",
+   "en": "social commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0170",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "某一智能体在第三方的见证下，对其他智能体保证实施某一特定动作的义务。"
+  },
+  {
+   "cn": "战略承诺",
+   "en": "strategic commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0711",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "企业做出的大规模的、有长期的影响且难以撤销的投资决策。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0120",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "员工在情感认同、持续留任和规范义务方面形成对组织的投入和归属感。"
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0653",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "银行在企业符合规定的条件时向企业提供确定金额及利率贷款的事先约定。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "心理学名词",
+   "wordNumber": "12.074",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对组织目标、规范和资格的情感认同和行为遵循的心态。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organization commitment",
+   "source": "教育学名词",
+   "wordNumber": "15.003",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "组织成员对组织的认同和投入程度。"
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0036",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "物质代谢的多酶体系依次连续催化反应中，能够决定反应速度和方向的步骤。"
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定型，限定",
+   "en": "commitment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弱的",
+   "en": "weak",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资承诺，投资保证",
+   "en": "investment commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输出提交",
+   "en": "output commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位提交",
+   "en": "bit commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向细胞",
+   "en": "committed cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型细胞",
+   "en": "committed cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "提交单元",
+   "en": "commit unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弱单体",
+   "en": "weak cell",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弱点",
+   "en": "weakness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弱关系",
+   "en": "weak ties",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱密码",
+   "en": "weak password",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱侧",
+   "en": "weak side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弱人工智能",
+   "en": "weak artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "补短板",
+   "en": "improving weak links",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字合作承诺》",
+   "en": "Global Commitment for Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字信任与安全承诺》",
+   "en": "Global Commitment on Digital Trust and Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "避实击虚",
+   "en": "Avoid the Strong and Attack the Weak",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会弱关系外部帮扶",
+   "en": "external support based on weak social tie",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多行不义必自毙",
+   "en": "He Who Repeatedly Commits Wrongdoing Will Come to No Good End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞",
+   "en": "leak",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "戴口罩",
+   "en": "to wear a mask",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两周观察期",
+   "en": "two-week observation period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.09",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "就某事做出肯定性的应允，并保证尽力执行或表示一定努力使其实现的一种不可无故变更的道德允诺。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个体认同并参与某个组织的强度，包括三大要素一是高度信任与接受组织的目标与价值；二是愿意为组织付出努力；三是希望能继续留在组织中，可视为个人对组织的主动关系，即个人愿意努力付出，以协助组织成功，而不仅是"
+  },
+  {
+   "cn": "十四个坚持",
+   "en": "fourteen commitment",
+   "source": "马克思主义",
+   "wordNumber": "03.0809",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出，全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中全面准确贯彻落实，做到十四个坚持，即：一、坚持党对一切工作的领导；二、坚持以人民为中心；三、坚持全面深化改"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.24",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "待积有效剂量和待积当量剂量的统称。评价人体（包括辐照食品工作人员）所受内照射剂量的大小。"
+  },
+  {
+   "cn": "有效剂量负担",
+   "en": "effective dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人受到的有效剂量率在无限长时间内的积分，单位是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积当量剂量",
+   "en": "committed equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻器官或组织的当量剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "器官当量剂量负担",
+   "en": "organ equivalent dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人的某一器官或组织所受剂量当量率在无限长时间内的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "妇幼卫生项目政府承诺",
+   "en": "government commitment for woman and child health project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "政府就实现妇幼卫生项目目标和改善妇幼健康所作的公开政治诺言，并同时与项目部门签约落实。"
+  },
+  {
+   "cn": "弱关系 weak ties",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.2",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "马克格兰诺维特（Mark Granovetter）提出的概念，意指交往时间较短、感情涉入较浅、不具有亲密行为及不存在经常性互惠行为等特点的人际关系。往往在异质的人之间发展起来，相比强关系，弱关系充当了"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "光电峰",
+   "en": "photoelectric peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器通过光电效应吸收全部光子的能量，在脉冲谱上所形成的峰。由光电效应形成的脉冲幅度能直接代表γ射线的能量。"
+  },
+  {
+   "cn": "布拉格峰",
+   "en": "Bragg peak",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "重离子、质子等入射并穿行物质过程中，在物质内的能量沉积随入射深度的变化曲线呈现先缓慢上升，然后急速上升，直到峰值，然后急速下降而趋于零时曲线的峰值。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "反散射峰",
+   "en": "back-scatter peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "当光子与探测器周围的物质发生康普顿效应，其反散射光子进入探测器，并通过光电效应被记录后所形成的峰。能谱中反散射峰的大小和源的底衬材料、周围屏蔽材料以及探测器和屏蔽之间的安排有关。"
+  },
+  {
+   "cn": "身高增速高峰",
+   "en": "peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春期启动后，身高的生长速度在童年期的基础上出现加速增长、并在生长突增开始1～2年后达到生长速度高峰的现象。"
+  },
+  {
+   "cn": "全民营养周",
+   "en": "national nutrition week",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "为提高全民营养意识，提倡健康生活方式，加强营养与健康教育，中国营养学会联合多部门共同发起并确定的营养活动。时间为每年的5月第三周。"
+  },
+  {
+   "cn": "学周安排",
+   "en": "school week arrangement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "以星期为单位，合理安排学习、劳动和假期的规则。"
+  },
+  {
+   "cn": "峰总比",
+   "en": "peak to total ratio",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对指定能量的γ射线，全吸收峰的净计数除以该γ射线在全谱上的计数。峰总比和射线能量、探测器的尺寸、射线是否准直等因素有关。对尺寸相同的探测器，通过比较峰总比可说明探测器排除散射干扰的好坏。"
+  },
+  {
+   "cn": "峰康比",
+   "en": "peak to Compton ratio",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "γ射线全吸收峰中心道最大计数与康普顿坪内平均计数之比。它代表探测器在有高能强峰存在时探测低能弱峰的能力，主要依赖于探测器的灵敏体积和能量分辨率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

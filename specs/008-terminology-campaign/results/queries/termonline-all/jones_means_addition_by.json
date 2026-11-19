@@ -1,0 +1,752 @@
+{
+ "key": "jones means addition by",
+ "term": "Jones means addition by",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:48:04+00:00",
+ "status": "ok",
+ "note": "variant=Jones means addition by; 审定公布名词库=2477; 海峡两岸名词对照库=732; 其他来源数据库=146; 预公布名词数据库=183; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "合比",
+   "en": "proportion by addition",
+   "source": "数学名词",
+   "wordNumber": "04.0082",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "附加意义标注",
+   "en": "gloss for additional meaning",
+   "source": "语言学名词",
+   "wordNumber": "06.323",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "用注释（主要是括注）的方式在释义中表达附加意义的方法。用于揭示语词的细微语义特征或补充说明语词蕴涵的情感义、语法义和语用义。"
+  },
+  {
+   "cn": "琼斯矢量",
+   "en": "Jones vector",
+   "source": "光学名词",
+   "wordNumber": "01.188",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "用以表征单色光的偏振态、以两个正交偏振态为基矢的、每个分量为复振幅构成的列矢量。常用两个正交的线偏振态或者圆偏振态作为基矢。"
+  },
+  {
+   "cn": "琼斯矩阵",
+   "en": "Jones matrix",
+   "source": "光学名词",
+   "wordNumber": "01.189",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述单色平面光波通过介质、光器件或光学系统时，输出偏振态对应的琼斯矢量与输入偏振态对应的琼斯矢量关系的2×2矩阵。"
+  },
+  {
+   "cn": "琼斯矩阵",
+   "en": "Jones matrix",
+   "source": "物理学名词",
+   "wordNumber": "04.1167",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": "描述偏振态的矩阵。"
+  },
+  {
+   "cn": "琼斯区",
+   "en": "Jones zone",
+   "source": "物理学名词",
+   "wordNumber": "08.1289",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "琼斯模型",
+   "en": "Jones model",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0257",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "琼斯(Jennifer J. Jones)于1991年构建的用于测度盈余管理程度的计量模型。"
+  },
+  {
+   "cn": "加减消元法",
+   "en": "elimination by addition and subtraction",
+   "source": "数学名词",
+   "wordNumber": "04.0744",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "累加作用",
+   "en": "addition",
+   "source": "结核病学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_药物代谢",
+   "subjectName": "药物代谢",
+   "publishYear": "2019",
+   "definition": "两种药物联合使用时，产生的效应等于或接近分别使用单药效应之和。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "核医学名词",
+   "wordNumber": "03.0601",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "两组可比性数据(如两幅大小一致的灰度图像)相加，获得两者算数和的图像运算方法。"
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "药学名词",
+   "wordNumber": "07.134",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "两种以上药物作用等于每一种化合物质单独作用的总和。"
+  },
+  {
+   "cn": "加和作用",
+   "en": "addition",
+   "source": "生态学名词",
+   "wordNumber": "14.248",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "两种或两种以上污染物共存时的毒性是其单独存在时毒性之和的现象。"
+  },
+  {
+   "cn": "掺合料",
+   "en": "addition",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）",
+   "subjectName": "建筑材料（水利）",
+   "publishYear": "1997",
+   "definition": "制造水泥或拌制混凝土和砂浆时，为改善性能、节省水泥、降低成本而掺加的矿物质粉状材料。"
+  },
+  {
+   "cn": "加法",
+   "en": "addition",
+   "source": "数学名词",
+   "wordNumber": "04.0009",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1,4-addition",
+   "source": "化学名词",
+   "wordNumber": "02.1062",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "在单键和重键交替出现的共轭体系的1位和4位上发生的加成反应。同时在2位和3位间形成新的重键。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "化学工业中，泛指为提高产品质量和使用效果而加入配料中，且添加量小的辅助材料。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0064",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用于改善肥料或土壤调理剂性能的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0421",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "添加到润滑剂中以提高某些原有特性或获得新特性的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "电力名词",
+   "wordNumber": "12.374",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "能赋予油品某种特殊性能或为加强其本来具有的某种性能而加入的物质。"
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0534",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "加入结晶体系中的对结晶过程进行调控的其他物质。"
+  },
+  {
+   "cn": "琼斯矢量，琼斯向量",
+   "en": "Jones vector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "琼斯，桂纳什",
+   "en": "Jones\",\"Gwyneth(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相加",
+   "en": "addition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "1,4-加成",
+   "en": "1\",\"4-addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "添加剂",
+   "en": "additive",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嗜碱性粒细胞聚集反应， 琼斯-莫特反应",
+   "en": "Jones-Mote reaction",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "加和性",
+   "en": "additivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平均数",
+   "en": "mean",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "均值",
+   "en": "mean",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "加成反应",
+   "en": "addition reaction\",\"additive reaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氧化加成[反应]",
+   "en": "oxidation addition\",\"oxidative addition",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "附加单倍体",
+   "en": "addition haploid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "附加系",
+   "en": "addition line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抱法处势",
+   "en": "Upholding Law by Means of Power",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "附加试跳（投、掷）",
+   "en": "additional trial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附加动作",
+   "en": "additional element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "怀远以德",
+   "en": "Embrace Distant Peoples by Means of Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格义",
+   "en": "Matching Meanings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "再次严重犯规",
+   "en": "additional major foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政者正也",
+   "en": "Governance Means Rectitude.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "K均值聚类",
+   "en": "K-means clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因对方弃权获胜",
+   "en": "win by retirement\",\"win by withdrawal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时",
+   "en": "additional time\",\"extra time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在某一规定时间间隔内，一个量的所有瞬时值或其绝对值的算术平均计值"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "符号在表达系统里的价值。与符号构成人类学解读文化的一种范式。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0042",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一般指语言形式（语音）所承载和传达的信息或说话者的意图。在不同的理论中，内涵有所不同。"
+  },
+  {
+   "cn": "本周蛋白",
+   "en": "Bence-Jones protein, BJP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.36",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "尿液中发现的单克隆球蛋白或免疫球蛋白轻链。分子量22-24kDa，能自由通过肾小球滤过膜，可见于多发性骨髓瘤、巨球蛋白血症、原发性淀粉样变性等。"
+  },
+  {
+   "cn": "违规添加",
+   "en": "illegal addition",
+   "source": "消毒学",
+   "wordNumber": "5.2.16",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "违反相关法律法规的规定，在消毒产品中添加禁用物质或限用物质超量的行为。"
+  },
+  {
+   "cn": "非法添加",
+   "en": "illegal addition",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.19",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为提高食品的质量属性，故意在食品中添加未经批准或未进行申报成分的行为。不属于传统上认为的或不属于相关法律法规和标准允许的食品生产活动，如添加三聚氰胺提高蛋白质的检测值。"
+  },
+  {
+   "cn": "药物成瘾",
+   "en": "drug addition",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "因长期或反复应用某种药物（物质）而产生精神或躯体上的依赖性，持续地或周期性渴望重复应用该种药物的现象。"
+  },
+  {
+   "cn": "附加过滤",
+   "en": "additional filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线源与患者或规定平面之间附加的对线束具有滤过特性的材料产生的等效过滤。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "成瘾性社会病",
+   "en": "additive sociopathy",
+   "source": "社会医学名词",
+   "wordNumber": "13.5",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "在特定社会环境下，由经济不平等、文化异化或技术异化等因素驱动，导致个体或群体对物质或行为形成强迫性依赖的社会现象。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "为改善食品品质和色、香、味以及为防腐、保鲜和加工工艺的需要而加入食品中的人工合成或者天然物质。不包括污染物或添加入食品中维持或改善营养质量的物质，但中国食品安全法对营养强化剂按照食品添加剂管理。"
+  },
+  {
+   "cn": "食品添加剂",
+   "en": "food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6",
+   "subjectFullName": "食品卫生学_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "用和平方式解决国际争端",
+   "en": "settlement of international disputes by peaceful means",
+   "source": "马克思主义",
+   "wordNumber": "04.0176",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于解决国与国之间历史遗留问题、政治利益和特定权利及其他争端而引起的冲突和矛盾以稳定世界局势的一种主张。用和平方式解决国际争端是现代国际法的一项基本原则和制度。一般采用对话和协商、谈判与协商、斡"
+  },
+  {
+   "cn": "行政手段",
+   "en": "administrative means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府机关及其工作人员通过履行行政职能，依法对卫生服务市场有序运行进行的管理活动。"
+  },
+  {
+   "cn": "法律手段",
+   "en": "legal means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "运用法律、法规、政策等去规范卫生服务市场的运行和卫生服务机构的市场行为，以实现政府对卫生服务市场的宏观调控。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "一个人口所有成员年龄的算术平均数。"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用人的视觉和听觉的感性认识，加深理解，提高教学效果的教学与学习方法。"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

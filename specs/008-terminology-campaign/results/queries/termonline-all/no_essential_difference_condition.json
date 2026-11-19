@@ -1,0 +1,722 @@
+{
+ "key": "no-essential-difference condition",
+ "term": "No-essential-difference condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:44:21+00:00",
+ "status": "ok",
+ "note": "variant=No-essential-difference condition; 审定公布名词库=1990; 海峡两岸名词对照库=523; 其他来源数据库=80; 预公布名词数据库=94; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "无环条件",
+   "en": "no-cycle condition",
+   "source": "数学名词",
+   "wordNumber": "06.0208",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件必需氨基酸",
+   "en": "conditional essential amino acid",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "肠外肠内营养学_基础营养_蛋白质",
+   "subjectName": "蛋白质",
+   "publishYear": "2019",
+   "definition": "正常人可以自身合成，但特殊生理或病理状态下就发生相对缺乏，需要外源性补充的氨基酸。如半胱氨酸、酪氨酸、组氨酸、精氨酸。有静脉用制剂和胃肠道内用制剂供临床使用。"
+  },
+  {
+   "cn": "空载工况",
+   "en": "no-load operating condition",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0237",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "水轮机在额定转速下输出功率为零时的工况。"
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.141",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为每个实体都有一组对于其同一性和功能来说是充分必要的属性。"
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "source": "心理学名词",
+   "wordNumber": "04.063",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "现代主义的特征之一。心理现象背后存在着唯一的本质，心理学的任务就是揭示心理的本质及其规律。"
+  },
+  {
+   "cn": "空载状态稳定性",
+   "en": "stability under no-load condition",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0039",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "起重机抵抗由非工作状态风载荷和其他因素引起的倾覆力矩的能力。"
+  },
+  {
+   "cn": "差异",
+   "en": "difference",
+   "source": "教育学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "以哲学表征事物相互区别和自身区别的范畴来表示身心障碍的不同类别和程度。"
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "数学名词",
+   "wordNumber": "04.0015",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差积",
+   "en": "different",
+   "source": "数学名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无效果－无报酬",
+   "en": "no cure-no pay",
+   "source": "航海科技名词",
+   "wordNumber": "13.0177",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "[有限]差分",
+   "en": "difference,finite difference",
+   "source": "数学名词",
+   "wordNumber": "010.0198",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "主要矿物",
+   "en": "essential mineral",
+   "source": "地质学名词",
+   "wordNumber": "04.01.090",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "岩石中含量高，且在划分岩石基本类型时起主要作用的矿物。如辉石和斜长石是辉长岩的主要矿物。"
+  },
+  {
+   "cn": "特发性震颤",
+   "en": "essential tremor",
+   "source": "神经外科学名词",
+   "wordNumber": "10.102",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2026",
+   "definition": "一种进展非常缓慢的上肢和头部震颤。有遗传倾向，成年时发病，起病隐匿，精神紧张时明显，不累及下肢。饮酒或服用β受体阻滞剂能使症状缓解。"
+  },
+  {
+   "cn": "原发性血小板增多症",
+   "en": "essential thrombocythemia",
+   "source": "普通外科学名词",
+   "wordNumber": "24.087",
+   "subjectFullName": "医学_普通外科学_脾外科",
+   "subjectName": "脾外科",
+   "publishYear": "2026",
+   "definition": "造血多能干细胞克隆性增殖性疾病。特征是外周血小板计数显著持续性增多且功能异常，骨髓中巨核细胞过度增殖，不伴有红细胞增多或幼粒、幼红细胞性贫血。"
+  },
+  {
+   "cn": "原发性高血压",
+   "en": "essential hypertension",
+   "source": "急救医学名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "急救医学_日常医学急救_内科学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2025",
+   "definition": "以体循环动脉血压升高为主要表现，与遗传、环境等多种因素有关而发病机制又不明确的一种全身性疾病。"
+  },
+  {
+   "cn": "[香]精油",
+   "en": "essential oil",
+   "source": "精细化工名词",
+   "wordNumber": "08.0702",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "由香料植物原料经过水蒸气蒸馏、机械法加工或干馏得到的香料制品。"
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "source": "农学名词",
+   "wordNumber": "09.212",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "全称“必需营养元素”。植物正常生长发育不可缺少的营养元素。"
+  },
+  {
+   "cn": "必需基团",
+   "en": "essential group",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0035",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "酶分子中与酶活性密切相关的化学基团。活性中心内的必需基团分为结合基团和催化基团。"
+  },
+  {
+   "cn": "必需激活剂",
+   "en": "essential activator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0072",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "对酶促反应不可缺少的，否则将测不到酶活性的激活剂。其作用与底物类似，但自身不转化为产物。如己糖激酶中的Mg2+，能与底物ATP结合形成Mg2+-ATP复合物，加速酶促反应。"
+  },
+  {
+   "cn": "原发性震颤",
+   "en": "essential tremor",
+   "source": "行为医学名词",
+   "wordNumber": "17.083",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2022",
+   "definition": "一种常染色体显性遗传的以震颤为唯一表现的运动障碍疾病。"
+  },
+  {
+   "cn": "无滑动条件",
+   "en": "no slip condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无滑移条件",
+   "en": "no-slip condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无通量边界条件",
+   "en": "no-flux boundary condition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效果-无报酬",
+   "en": "no cure-no pay",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "主要音",
+   "en": "essential note",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基本矿物",
+   "en": "essential mineral",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主要成分",
+   "en": "essential component",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反本质论",
+   "en": "anti-essentialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空载",
+   "en": "no load",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "不予共享",
+   "en": "no sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "废靶！",
+   "en": "No bird!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反腐败无禁区、全覆盖、零容忍",
+   "en": "There are no no-go zones, no ground is left unturned, and no tolerance is shown for corruption.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.141",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为每个实体都有一组对于其同一性和功能来说是充分必要的属性。"
+  },
+  {
+   "cn": "本质论",
+   "en": "essentialism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0154",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "反对主流经济学的理性选择假设和资源有限假设的一个流派，也是一种经济人类学立场，与“形式论”相对应。本质论流派最突出的特点是不赞同关于经济行为和经济制度的形式主义看法，而主张从社会、生态自然环境与人类之"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0061",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部符合规律性的固有的、稳定的、必然的、深刻的联系，对事物的性质及其发展方向起着主要的决定性作用。"
+  },
+  {
+   "cn": "基本药物",
+   "en": "essential medicine",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "适应基本医疗卫生需求，剂型适宜，价格合理，能够保障供应，公众可公平获得的药品。"
+  },
+  {
+   "cn": "必需维生素",
+   "en": "essential vitamins",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.4.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "维持身体健康必需的一类有机化合物。其特点有：外源性，人体不可合成，需从食物获取；微量性，需求量少但作用大；调节性，维生素必需可调节新陈代谢或能量转变；特异性，缺乏某种人将呈现特有的病态。"
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "从植物来源的天然原料经水蒸气蒸馏法或外果皮机械加工法或干馏法处理，用物理方法分去水相后得到的产物"
+  },
+  {
+   "cn": "性别本质主义",
+   "en": "gender essentialism",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "与性别建构论相对立的性别观，将社会性别归之于不同性别与生俱来、超越社会历史的一种天然本质，是基于生理差异而产生的稳定的、具有普适性的内在特质。女性主义的性别本质主义者往往强调妇女较之男性更具有天然优势"
+  },
+  {
+   "cn": "6",
+   "en": "solvent No.6",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "由石油直馏馏分经精制而得的无色透明液体，馏程在61℃至76℃之间，主要成分为己烷等脂肪属碳氢化合，在食用油脂的提取工艺中用作浸油溶剂"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  },
+  {
+   "cn": "差别检验",
+   "en": "difference test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对比较的产品的总体感官差异或特定感官性质差异进行的感官评价。要求评价员回答两个或两个以上的样品中是否存在感官差异，以得出两个或更多的样品间是否存在差异的结论。差别检验的结果分析是以每一类别的评价员数量"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "必需消费品",
+   "en": "essential consumer goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在经济学概念中，被社会认为人人应该得到的、服务价格弹性小、成本效益较好的产品。"
+  },
+  {
+   "cn": "基本药物遴选",
+   "en": "essential medicine selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "按照“突出基本、防治必需、保障供应、优先使用、保证质量、降低负担”的功能定位，坚持中西药并重、临床首选的原则，参照国际经验合理确定基本药物品种（剂型）的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,472 @@
+{
+ "key": "schematic arguments",
+ "term": "Schematic arguments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:49:06+00:00",
+ "status": "ok",
+ "note": "variant=Schematic arguments; 审定公布名词库=82; 海峡两岸名词对照库=50; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "光学名词",
+   "wordNumber": "28.029",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "模拟眼睛构造的具有简化屈光性质的光学系统模型。其中古尔斯特兰德(Gullstrand)模型眼较为精密。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0180",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示系统、设备的工作原理及其组成部分的相互关系的简图。"
+  },
+  {
+   "cn": "示意画法",
+   "en": "schematic representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0200",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "用规定符号和(或)较形象的图线绘制图样的表意性图示方法。"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "物理学名词",
+   "wordNumber": "01.0154",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "核医学名词",
+   "wordNumber": "03.0583",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "采用简洁明了的方式说明复杂事物原理或结构关系绘成的略图。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic drawing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0446",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "表示系统、设备的工作原理及其组成部分相互关系的简图。"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design",
+   "source": "建筑学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计阶段",
+   "subjectName": "设计阶段",
+   "publishYear": "2014",
+   "definition": "对拟建的项目按设计依据的规定进行设计创作的过程，对项目的总体布局、功能安排、建筑造型等提出可能且可行的技术文件，是建筑工程设计的最初阶段。"
+  },
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.003",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纬度自变量",
+   "en": "argument of latitude",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "零知识交互式论证",
+   "en": "zero-knowledge interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼稚产业保护论",
+   "en": "infant industry argument for protection",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专题，主题",
+   "en": "thematic\",\"theme",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "主题分析",
+   "en": "thematic analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取的所有信息资料进行分析，从中提取主题概念的一种定性研究分析方法。"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "健康专题教育",
+   "en": "thematic health education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "围绕某一健康主题，通过多种形式教学活动开展的综合性健康教育。常见健康主题包括预防艾滋病、预防毒品、环境教育、预防烟草、心理健康等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

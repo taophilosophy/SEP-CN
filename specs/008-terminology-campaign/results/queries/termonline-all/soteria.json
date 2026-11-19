@@ -1,0 +1,412 @@
+{
+ "key": "soteria",
+ "term": "sôtêria",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:36:29+00:00",
+ "status": "ok",
+ "note": "variant=sôtêria; 审定公布名词库=29; 海峡两岸名词对照库=24; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "丝状属",
+   "en": "Setaria",
+   "source": "兽医学名词",
+   "wordNumber": "12.172",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "隶属于丝虫目(Filariata)丝虫科(Fillariidae)的多种线虫。主要有指形丝状线虫、马丝状线虫和鹿丝状线虫，成虫寄生于牛、马属动物、羊、鹿的腹腔。其幼虫感染非固需宿主后可引起浑睛虫病和腰"
+  },
+  {
+   "cn": "擦痕",
+   "en": "stria",
+   "source": "地质学名词",
+   "wordNumber": "09.04.027",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "断层两盘相对错动时，在断层面上产生的彼此平行的沟槽状细微刻痕。往往一端宽且深、另一端窄而浅并逐渐消失。根据擦痕形状和深浅变化，可以判断断层两盘的相对运动方向。"
+  },
+  {
+   "cn": "条纹",
+   "en": "stria,striae (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "03.326",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "泛指纵走的细刻纹。鞘翅目昆虫鞘翅上的纵条或沟，常有刻点。"
+  },
+  {
+   "cn": "非洲狗尾草",
+   "en": "setaria grass,Setaria sphacelata",
+   "source": "畜牧学名词",
+   "wordNumber": "10.134",
+   "subjectFullName": "畜牧学_常用牧草_禾本科牧草",
+   "subjectName": "禾本科牧草",
+   "publishYear": "2020",
+   "definition": "狗尾草属的一个种。多年生草本。丛生。茎直立。叶片线形、光滑。圆柱状圆锥花序，小穗簇生于花梗，每小穗都有刚毛包围。籽粒淡黄色。原产于非洲热带。"
+  },
+  {
+   "cn": "粟",
+   "en": "millet,Setaria italica",
+   "source": "畜牧学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "畜牧学_饲料与营养_饲料原料",
+   "subjectName": "饲料原料",
+   "publishYear": "2020",
+   "definition": "禾本科黍族狗尾草属的一个栽培种，属一年生草本植物。属于能量饲料。"
+  },
+  {
+   "cn": "冰川擦痕",
+   "en": "glacial stria",
+   "source": "地质学名词",
+   "wordNumber": "05.03.050",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "冰川所携砂粒、石块的棱角在岩石表面摩擦刻划形成的深浅粗细不等的条痕。呈钉子头状，几组不同方向的擦痕可重叠出现。"
+  },
+  {
+   "cn": "锤纹",
+   "en": "malleolar stria",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.1.3.1.30.5",
+   "subjectFullName": "耳科_耳解剖",
+   "subjectName": "耳解剖",
+   "publishYear": "2025",
+   "definition": "鼓膜脐与锤凸之间的白色条纹。为锤骨柄透过鼓膜紧张部表面的映影。"
+  },
+  {
+   "cn": "血管纹",
+   "en": "stria vascularis",
+   "source": "动物学名词",
+   "wordNumber": "3.0526",
+   "subjectFullName": "动物学_动物组织学_主要器官组织_感觉器官组织结构",
+   "subjectName": "感觉器官组织结构",
+   "publishYear": "2021",
+   "definition": "覆盖在螺旋韧带表面的含毛细血管的复层扁平上皮。可产生内淋巴。"
+  },
+  {
+   "cn": "髓纹",
+   "en": "stria medullaris",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "阿尔茨海默病_脑解剖学",
+   "subjectName": "脑解剖学",
+   "publishYear": "2019",
+   "definition": "丘脑带深面的纤维束。其纤维主要来自隔核、视前区、丘脑前核和苍白球等部位，终止于同侧缰核。"
+  },
+  {
+   "cn": "终纹",
+   "en": "terminal stria",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "阿尔茨海默病_脑解剖学",
+   "subjectName": "脑解剖学",
+   "publishYear": "2019",
+   "definition": "连接杏仁核与下丘脑及前脑基底其他部位的致密纤维束。先行于侧脑室颞角的顶部，沿尾状核内缘行于侧脑室体部顶端到达室间孔处，下行到达下丘脑。"
+  },
+  {
+   "cn": "血管纹",
+   "en": "stria vascularis",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "组织学与胚胎学_组织学_眼和耳",
+   "subjectName": "眼和耳",
+   "publishYear": "2014",
+   "definition": "覆盖在螺旋韧带表面的含毛细血管的复层扁平上皮。"
+  },
+  {
+   "cn": "终纹",
+   "en": "terminal stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0541",
+   "subjectFullName": "人体解剖学_神经系统_间脑",
+   "subjectName": "间脑",
+   "publishYear": "2014",
+   "definition": "起自杏仁皮质内侧核，行经丘脑和尾状核之间，终止于下丘脑的视前内侧核、下丘脑前区内侧部、腹内侧核和弓状核的神经束。在动物该通路与嗅觉和生殖行为有关。"
+  },
+  {
+   "cn": "锤纹",
+   "en": "malleolar stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "07.0224",
+   "subjectFullName": "人体解剖学_感觉器_前庭蜗器",
+   "subjectName": "前庭蜗器",
+   "publishYear": "2014",
+   "definition": "由鼓膜脐向上，锤骨柄附着于鼓膜形成的一条白色条纹。"
+  },
+  {
+   "cn": "冰擦痕",
+   "en": "glacial stria",
+   "source": "地理学名词",
+   "wordNumber": "11.090",
+   "subjectFullName": "地理学_冰川学",
+   "subjectName": "冰川学",
+   "publishYear": "2006",
+   "definition": "冰川所含岩屑在冰川运动过程中刻划在岩石上的痕迹，多出现在冰床(包括谷壁)上，也出现在冰碛石的表面，具有指示冰流方向的意义。"
+  },
+  {
+   "cn": "冰川擦痕",
+   "en": "glacial stria",
+   "source": "地质学名词",
+   "wordNumber": "01.108",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "丘脑髓纹",
+   "en": "thalamic medullary stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0458",
+   "subjectFullName": "人体解剖学_神经系统_间脑",
+   "subjectName": "间脑",
+   "publishYear": "2014",
+   "definition": "丘脑带深面的纤维束。其纤维主要来自隔核、视前区、丘脑前核和苍白球等部位，终止于同侧缰核。"
+  },
+  {
+   "cn": "内侧嗅纹",
+   "en": "medial olfactory stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0649",
+   "subjectFullName": "人体解剖学_神经系统_端脑",
+   "subjectName": "端脑",
+   "publishYear": "2014",
+   "definition": "嗅三角向后内分出的一条纤维束。于接近终板旁回时逐渐消失。"
+  },
+  {
+   "cn": "外侧嗅纹",
+   "en": "lateral olfactory stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0650",
+   "subjectFullName": "人体解剖学_神经系统_端脑",
+   "subjectName": "端脑",
+   "publishYear": "2014",
+   "definition": "嗅三角向后外分出，延续至岛阈的一条纤维束。"
+  },
+  {
+   "cn": "内侧纵纹",
+   "en": "medial longitudinal stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0766",
+   "subjectFullName": "人体解剖学_神经系统_端脑",
+   "subjectName": "端脑",
+   "publishYear": "2014",
+   "definition": "位于胼胝体上回内，靠近中线的一条纤维束。属嗅脑的一部分。"
+  },
+  {
+   "cn": "外侧纵纹",
+   "en": "lateral longitudinal stria",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0767",
+   "subjectFullName": "人体解剖学_神经系统_端脑",
+   "subjectName": "端脑",
+   "publishYear": "2014",
+   "definition": "位于胼胝体上回内，行于胼胝体沟内的不发达的纤维束。"
+  },
+  {
+   "cn": "纹",
+   "en": "stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锤纹",
+   "en": "malleolar stria\",\"mallear stria\",\"stria malleolaris",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "终纹",
+   "en": "terminal stria\",\"stria terminalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "布罗卡纹",
+   "en": "Broca’s stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "雷丘斯纹",
+   "en": "Retzius’ stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗅纹",
+   "en": "stria olfactoria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "血管纹",
+   "en": "stria vascularis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "冰擦痕",
+   "en": "glacial stria",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表膜条纹",
+   "en": "pellicular stria",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "血管纹",
+   "en": "stria vascularis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "条纹",
+   "en": "stria\",\"striae(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "丘脑髓纹",
+   "en": "thalamic medullary stria\",\"medullary stria of thalamus\",\"stria medullaris of thalamus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "背侧听纹",
+   "en": "dorsal acoustic stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内侧嗅纹",
+   "en": "medial olfactory stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内侧纵纹",
+   "en": "medial longitudinal stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外侧嗅纹",
+   "en": "lateral olfactory stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外侧纵纹",
+   "en": "lateral longitudinal stria",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子层纹",
+   "en": "stria of molecular layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "终纹纤维",
+   "en": "fiber of stria terminalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第四脑室髓纹",
+   "en": "stria medullaris of fourth ventricle\",\"medullary stria of fourth ventricle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

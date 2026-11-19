@@ -1,0 +1,582 @@
+{
+ "key": "synthesizing objectification",
+ "term": "synthesizing objectification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:54:49+00:00",
+ "status": "ok",
+ "note": "variant=synthesizing objectification; 审定公布名词库=194; 海峡两岸名词对照库=19; 其他来源数据库=8; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "合成仪",
+   "en": "synthesizer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0677",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "能自动进行化学合成的仪器。生物化学工作中重要的合成仪是能按设计自动连接氨基酸（多肽合成仪）或核酸（DNA、RNA合成仪）的设备。均采用固相合成系统。"
+  },
+  {
+   "cn": "合成器",
+   "en": "synthesizer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0327",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "一台声音的频率合成仪。可以制作各种声音，改变各种音色。"
+  },
+  {
+   "cn": "合成塔",
+   "en": "synthesizing tower",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0525",
+   "subjectFullName": "化工（八）_化工设备_反应设备",
+   "subjectName": "反应设备",
+   "publishYear": "2021",
+   "definition": "采用塔型结构进行化学合成反应的一种反应器。一般由外壳及催化剂支承装置、换热装置、气体分配器等内件组成。"
+  },
+  {
+   "cn": "合成潮汐",
+   "en": "synthesized tide",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0172",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "利用已知潮汐参量计算获得的某点潮汐变化。 "
+  },
+  {
+   "cn": "综合战略",
+   "en": "synthesize strategy",
+   "source": "经济学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "专业化、原址集中、新址集中这三种区位调整战略的整合。在这种策略中，企业一方面把某些活动集中到一个新建的工厂，另一方面又把其他的活动转移到条件较好的现有工厂。"
+  },
+  {
+   "cn": "自动合成仪",
+   "en": "automatic synthesizer",
+   "source": "核医学名词",
+   "wordNumber": "03.0066",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_辅助设备",
+   "subjectName": "辅助设备",
+   "publishYear": "2018",
+   "definition": "通过软件控制合成步骤，实时监测、调整和记录参数，自动完成预定放化合成目标的设备。广泛应用于有毒、有放射性、有时间要求的合成与制备过程。"
+  },
+  {
+   "cn": "综合属性",
+   "en": "synthesized attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0135",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语法分析树结点上的一类属性。其值由该结点本身属性值及其子结点属性值确定。"
+  },
+  {
+   "cn": "频率合成器",
+   "en": "frequency synthesizer",
+   "source": "计量学名词",
+   "wordNumber": "12.084",
+   "subjectFullName": "计量学_时间、频率_频率",
+   "subjectName": "频率",
+   "publishYear": "2015",
+   "definition": "以内部晶振的频率值为参考，通过加、减、乘、除的电路变换产生多种近于连续的频率的仪器。一般有外部频标输入功能，可以得到更高的准确度。"
+  },
+  {
+   "cn": "频率合成器",
+   "en": "frequency synthesizer",
+   "source": "电子学名词",
+   "wordNumber": "17.138",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "诸元计算",
+   "en": "synthesized data count",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.152",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "波形合成器",
+   "en": "wave-form synthesizer",
+   "source": "电子学名词",
+   "wordNumber": "17.139",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合成信号发生器",
+   "en": "synthesized signal generator",
+   "source": "电子学名词",
+   "wordNumber": "17.134",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合成扫频发生器",
+   "en": "synthesized sweep generator",
+   "source": "电子学名词",
+   "wordNumber": "17.137",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合成炉",
+   "en": "synthesized flash smelting furnace",
+   "source": "冶金学名词",
+   "wordNumber": "06.0443",
+   "subjectFullName": "冶金学_有色金属冶金_重有色金属冶金",
+   "subjectName": "重有色金属冶金",
+   "publishYear": "2019",
+   "definition": "由垂直反应塔、沉淀池、上升烟道和电热炉渣贫化区组成的闪速熔炼炉。"
+  },
+  {
+   "cn": "代际综合效率条件",
+   "en": "condition for intergenerational synthesize efficiency",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.195",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "资源跨期有效配置必须满足社会福利效率的特定条件。"
+  },
+  {
+   "cn": "综合孔径",
+   "en": "synthetic aperture; aperture synthesis; synthesis aperture; synthesized aperture",
+   "source": "天文学名词",
+   "wordNumber": "06.354",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "将若干天线或镜面按一定的形式排列成阵，以得到大接收面积和高分辨率的成像技术。"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "自我客观化",
+   "en": "self objectification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合成器",
+   "en": "synthesizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成器",
+   "en": "synthesizer",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合成仪",
+   "en": "synthesizer",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "合成器",
+   "en": "synthesizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率合成器",
+   "en": "frequency synthesizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波形合成器",
+   "en": "wave-form synthesizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成扫频发生器",
+   "en": "synthesized sweep generator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成信号发生器",
+   "en": "synthesized signal generator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接式频率合成器",
+   "en": "direct frequency synthesizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字频率合成器",
+   "en": "digital frequency synthesizer\",\"DFS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "综合编辑修改",
+   "en": "synthesized editing and updating",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音形结合编码",
+   "en": "phonological and calligraphical synthesize coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象化",
+   "en": "objectification",
+   "source": "马克思主义",
+   "wordNumber": "01.0129",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践过程中将自己的本质力量体现在客体对象中，并在对象中肯定、实现自己，对主体而言，这就是对象化。马克思认为，对象化首先是劳动的对象化，劳动产品确证了人的本质力量。对象化使人客体化，客体也因此主体化"
+  },
+  {
+   "cn": "多功能放射性药物自动化合成模块",
+   "en": "automatic synthesizer for multiple radiopharmaceuticals",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "由计算机控制、置于一定放射防护和生产环境下，自动化合成多种放射性药物的一种装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

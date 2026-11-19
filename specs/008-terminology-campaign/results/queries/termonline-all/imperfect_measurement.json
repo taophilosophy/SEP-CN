@@ -1,0 +1,712 @@
+{
+ "key": "imperfect measurement",
+ "term": "Imperfect measurement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:41:35+00:00",
+ "status": "ok",
+ "note": "variant=Imperfect measurement; 审定公布名词库=1764; 海峡两岸名词对照库=270; 其他来源数据库=75; 预公布名词数据库=103; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "不完善度",
+   "en": "imperfection",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.191",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "可能偏差除以分配密度与分选介质密度的差值所得之商。代表符号I。"
+  },
+  {
+   "cn": "不完全解理",
+   "en": "imperfect cleavage",
+   "source": "地质学名词",
+   "wordNumber": "03.01.087",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物晶体受力后沿解理面分裂较为困难，仅断续见到小而不平滑的不明显解理面。"
+  },
+  {
+   "cn": "成骨不全",
+   "en": "osteogenesis imperfect",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "甲状旁腺与代谢性骨病_骨发育异常及代谢性骨病",
+   "subjectName": "骨发育异常及代谢性骨病",
+   "publishYear": "2025",
+   "definition": "由多种遗传性异常导致结缔组织异常的骨骼疾病。主要表现为低骨量、反复骨折、骨骼畸形，伴牙齿异常及听力减退。"
+  },
+  {
+   "cn": "不完全竞争",
+   "en": "imperfect competition",
+   "source": "经济学名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "存在有限数量卖者的市场结构。不完全竞争分为垄断竞争、寡头垄断和完全垄断。"
+  },
+  {
+   "cn": "非理想气体",
+   "en": "imperfect gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0060",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非理想克隆",
+   "en": "imperfect cloning",
+   "source": "物理学名词",
+   "wordNumber": "11.0366",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不良接地",
+   "en": "imperfect earth",
+   "source": "物理学名词",
+   "wordNumber": "03.0664",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不完全排错",
+   "en": "imperfect debugging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0533",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件中故障没有完全被排除并且有可能引入新的故障。"
+  },
+  {
+   "cn": "缺陷晶体",
+   "en": "imperfect crystal",
+   "source": "化学名词",
+   "wordNumber": "01.0695",
+   "subjectFullName": "化学_无机化学_无机固体化学",
+   "subjectName": "无机固体化学",
+   "publishYear": "2016",
+   "definition": "理想晶体的平移对称性因少量原子的错位、代换、欠缺或填隙而导致的破缺，称为晶体的缺陷。实际晶体都有缺陷，都是缺陷晶体。缺陷有体缺陷、面缺陷、线缺陷和点缺陷之分。晶体缺陷是晶体许多特性的本原。"
+  },
+  {
+   "cn": "釉质发生不全",
+   "en": "amelogenesis imperfect",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "24.099",
+   "subjectFullName": "组织学与胚胎学_胚胎学_鳃弓、咽囊的演变和头、颈的发生",
+   "subjectName": "鳃弓、咽囊的演变和头、颈的发生",
+   "publishYear": "2014",
+   "definition": "由牙釉质母细胞增殖障碍所致的一种遗传性先天畸形。齿呈棕黄色。"
+  },
+  {
+   "cn": "牙本质发生不全",
+   "en": "dentinogenesis imperfect",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "24.100",
+   "subjectFullName": "组织学与胚胎学_胚胎学_鳃弓、咽囊的演变和头、颈的发生",
+   "subjectName": "鳃弓、咽囊的演变和头、颈的发生",
+   "publishYear": "2014",
+   "definition": "一种常染色体显性遗传病，临床上分为3型：Ⅰ型患者除牙本质生成不全外，还伴有成骨不全；Ⅱ型为最常见的遗传性乳光牙本质，无全身骨骼异常；Ⅲ型孤立发生于美国马里兰州隔离民群中。"
+  },
+  {
+   "cn": "不完全阶段",
+   "en": "imperfect state",
+   "source": "微生物学名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "真菌生活史中不发生配子接合，通过营养菌丝进行繁殖的阶段。"
+  },
+  {
+   "cn": "焊接缺欠",
+   "en": "weld imperfection",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.301",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "泛指焊接接头中的不连续、不均匀性和其他不健全等焊接缺欠。"
+  },
+  {
+   "cn": "晶体不完整性",
+   "en": "crystal imperfection",
+   "source": "物理学名词",
+   "wordNumber": "08.0278",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "晶体非完美性",
+   "en": "crystal imperfection",
+   "source": "化学名词",
+   "wordNumber": "04.1872",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "相对理想晶体模型而言，实际晶体偏离理想状态，存在某些偏差和不足的性质。例如原子、离子热振动、镶嵌结构、缺陷、表面特殊结构、无公度结构、高分子次晶等，其中有些不足甚至是无法避免。"
+  },
+  {
+   "cn": "初始缺陷",
+   "en": "initial imperfection",
+   "source": "土木工程名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "土木工程_结构工程_钢结构",
+   "subjectName": "钢结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "半知菌",
+   "en": "deuteromycete,imperfect fungus",
+   "source": "植物学名词",
+   "wordNumber": "05.0006",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "进行无性繁殖，尚未发现有性生殖的真菌类群。"
+  },
+  {
+   "cn": "半知菌[类]",
+   "en": "deuteromycetes,imperfect fungi",
+   "source": "微生物学名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "进行无性繁殖，尚未发现有性生殖的真菌。"
+  },
+  {
+   "cn": "不完美信息博弈",
+   "en": "imperfect information game",
+   "source": "经济学名词",
+   "wordNumber": "03.155",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "每个信息集并不都是单节点的博弈。在博弈论中，若每一个参与人采取行动时不能确切地掌握其他参与人的行动或者在其采取行动之前其他参与人的行动，则称该博弈是不完美信息博弈。"
+  },
+  {
+   "cn": "非完全弹性碰撞",
+   "en": "imperfect elastic collision",
+   "source": "物理学名词",
+   "wordNumber": "02.0468",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "牙本质发生不全",
+   "en": "dentinogenesis imperfect",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "釉质发生不全",
+   "en": "amelogenesis imperfect",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不完全雌蕊",
+   "en": "imperfect pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全雄蕊",
+   "en": "imperfect stamen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺陷晶体",
+   "en": "imperfect crystal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全排错",
+   "en": "imperfect debugging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全燃烧",
+   "en": "imperfect combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "表面缺陷",
+   "en": "surface imperfection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同质不完全竞争",
+   "en": "homogeneous imperfect competition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全花",
+   "en": "incomplete flower\",\"imperfect flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全叶",
+   "en": "incomplete leaf\",\"imperfect leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不全位错",
+   "en": "imperfect dislocation\",\"partial dislocation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "不完全阶段（=无性阶段）",
+   "en": "imperfect state (=asexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测量，度量",
+   "en": "measurement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "度量",
+   "en": "measure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性",
+   "en": "measurability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "半知菌类，不完全菌类",
+   "en": "deuteromycetes\",\"imperfect fungi\",\"fungi imperfecti",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "测量",
+   "en": "measure\",\"measurement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量员",
+   "en": "measurer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子测量",
+   "en": "Quantum Measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "测量裁判员",
+   "en": "measurement judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丈量证书",
+   "en": "measurement certificate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可度量的服务",
+   "en": "measured service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离度测算",
+   "en": "deviation measuring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预防措施",
+   "en": "preventive measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卷尺",
+   "en": "measuring tape",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子重力测量",
+   "en": "quantum gravity measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不完全竞争市场",
+   "en": "imperfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "完全竞争市场以外的所有的或多或少带有一定垄断因素的市场。包括完全垄断市场、寡头垄断市场和垄断竞争市场三种类型。卫生服市场不能保持充分竞争，市场作用离开最优状态，因此发生市场失灵。"
+  },
+  {
+   "cn": "测量",
+   "en": "measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在研究中，根据规定的量度把一定的数值赋予所要研究对象的特定水平或性质的某种状态的过程。"
+  },
+  {
+   "cn": "消毒测量",
+   "en": "disinfection measurement",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.14",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "终末消毒前现场勘察，了解消毒区内面积和（或）体积，为计算所配制的消毒药物量而进行的测量。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "测量层次",
+   "en": "measurement level",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "社会测量中由对测量对象数量化程度的高低决定的测量水平。依数量化程度由低到高的顺序，可将测量分为定类测量、定序测量、定距测量和定比测量4个层次。"
+  },
+  {
+   "cn": "态度测量",
+   "en": "attitude measurement",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "使用定量的心理量表，通过被访者的自我报告，估计被访者对某个对象的感受和认知的测量行动。"
+  },
+  {
+   "cn": "效率测量方法",
+   "en": "efficiency measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "测量和评价效率的方法。包括生产函数分析、数据包络分析和前沿随机分析等。"
+  },
+  {
+   "cn": "公平性测量方法",
+   "en": "equity measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "测量和评价公平的方法。包括家庭灾难性卫生支出、因病致贫发生率和基尼系数等。"
+  },
+  {
+   "cn": "气湿测定",
+   "en": "humidity measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用干湿球温度计、通风温湿度计等仪器，测定环境湿度的过程。"
+  },
+  {
+   "cn": "风速测定",
+   "en": "airflow measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用卡他温度计、翼状风速计、杯状风速计、热球式电风速计、电子风速计等仪器，测定环境风速的过程。"
+  },
+  {
+   "cn": "测量终点",
+   "en": "measurement endpoint",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与被选作评估指标的重要特性有关的可测量的（生态学）特征"
+  },
+  {
+   "cn": "气温测定",
+   "en": "temperature measurement",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.2.2.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用干湿球温度计、通风温湿度计等仪器，测定环境温度的过程。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "测量标准",
+   "en": "measurement standard",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.60",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有确定的量值和相关联的测量不确定度、实现给定量定义的参照对象"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "放射性活度测量",
+   "en": "radioactivity measurements",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.3",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "用探测设备对样品放射性活度的定量测量，分绝对测量和相对测量两类。绝对测量无需中间手段，直接测得活度；相对测量需借助标准装置或标准样品等中间手段，间接测得活度。"
+  },
+  {
+   "cn": "白利糖度测量",
+   "en": "brix measurements",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.6",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "测量罐头食品中蔗糖溶解数量的一种方法，1 度Brix 表示100 克样本中有1 克蔗糖（1 °Brix=1%蔗糖）。"
+  },
+  {
+   "cn": "测量腔室",
+   "en": "measuring chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "采用不锈钢或有机玻璃等不易吸附氡的材料制作的，具有良好气密性且留有进出气口的规则容器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

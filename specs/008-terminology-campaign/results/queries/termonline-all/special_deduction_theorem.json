@@ -1,0 +1,672 @@
+{
+ "key": "special deduction theorem",
+ "term": "special deduction theorem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:44:53+00:00",
+ "status": "ok",
+ "note": "variant=special deduction theorem; 审定公布名词库=6298; 海峡两岸名词对照库=1997; 其他来源数据库=369; 预公布名词数据库=979; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "物理学名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "数学名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "任何一个由n个有量纲的物理量参与的物理过程中的函数关系都可以转换成由n-k个这些物理量组成的无量纲量Πi之间的函数关系，其中k是具有独立量纲的物理量的数。由于这些无量纲量是以不同的Πi数来表示的，"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "土木工程名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测实验力学",
+   "subjectName": "土木工程检测实验力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "动物学名词",
+   "wordNumber": "2.0255",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "物种或其结构非常专门化、专一化和特殊化，仅适应某一特别用途或特定生态位的过程。"
+  },
+  {
+   "cn": "专业化",
+   "en": "specialization",
+   "source": "经济学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "把各种产业活动集中在那些最具优势的地点，它可以获取规模经济效益，从而有利于降低成本。"
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "植物学名词",
+   "wordNumber": "13.0187",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "(1)物种生态幅变窄的现象。(2)又称“专化”。有些植物在适应特殊条件或特殊环境时发展了一些适应性结构或形态特征的现象。如产生刺和表皮毛，叶变态为捕虫叶，花被或雄蕊极度特化以适应某一类昆虫进行传粉等。"
+  },
+  {
+   "cn": "特化",
+   "en": "specialization",
+   "source": "生态学名词",
+   "wordNumber": "05.187",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "物种仅适应特定生态位的现象。"
+  },
+  {
+   "cn": "坐支",
+   "en": "payment by deduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.059",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业脱离银行监督，直接支用业务收入（如门市销售收入）的现金的行为。按照国家现金管理的有关规定，企业一般不得坐支，如有特殊情况，须报经开户银行同意后，在规定的用途和金额范围内坐支，并应在“现金日记账”上"
+  },
+  {
+   "cn": "根岑式演绎",
+   "en": "Gentzen-style deduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "根岑（Gentzen）于1934年提出的证明论中一族用于形式证明的系统，区别于希尔伯特演绎系统，它们对每个联接或量词都有简单明了的推理规则。"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem\",\"pi-theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特化，专化",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专化（=特化）",
+   "en": "specialization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "特殊监测",
+   "en": "special monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "旨在调查工作场所中某一特定情况进行的监测。当现有信息不足以证明对该情况有充分控制时，通过监测为阐明存在的问题和确定未来的操作程序提供更详细的信息。通常应在新设施运行阶段、设施或程序发生了重大变更后，或"
+  },
+  {
+   "cn": "特殊染色检查",
+   "en": "special stain",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.30",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "显示与确定组织或细胞中的正常结构或病理过程中出现的异常物质、病变及病原体等的多种染色技术的总称。"
+  },
+  {
+   "cn": "专项预案",
+   "en": "special plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校某一类突发公共卫生事件的预防和控制而制定的、包含具体工作程序和措施的计划和实施方案的文件。"
+  },
+  {
+   "cn": "特殊儿童",
+   "en": "special child",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "需要给予特殊帮助、特殊教育才能发展的儿童。"
+  },
+  {
+   "cn": "特殊喂养",
+   "en": "Special feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "早产儿、低出生体重儿和其他患病婴儿，或哺乳母亲患病，以及在自然的或人为的紧急情况(如地震、海啸、洪水、干旱、风暴、工业事故、恐怖暴力事件等)时的喂养。"
+  },
+  {
+   "cn": "特殊食品",
+   "en": "special food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "依据《中国人民共和国食品安全法》规定需要进行特殊监督管理的食品，包括保健食品、特殊医学用途配方食品和婴幼儿配方食品。"
+  },
+  {
+   "cn": "专间",
+   "en": "special room",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为防止食品受到污染，以分隔方式设置的清洁程度要求较高的加工直接入口食品的专用操作间。"
+  },
+  {
+   "cn": "特殊进化",
+   "en": "special evolution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0582",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "“一般进化”的对称。由美国人类学家、新进化主义学派的代表人物塞维斯（Elman RogersService）和塞林斯（Marshall Sahlins）提出的概念。特殊进化即各个具体文化的具体进化，或"
+  },
+  {
+   "cn": "特殊检查",
+   "en": "special inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.026",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "相对于常规检查而言，针对某个器官或者某种功能进行的专项检查。因可能具有一定危险性或产生不良后果，通常需要在专业医师对疾病的严格评估后，进行常规检查的筛查及特殊病情或脏器功能损伤的程度评估。"
+  },
+  {
+   "cn": "反对特殊化",
+   "en": "opposing specialization",
+   "source": "马克思主义",
+   "wordNumber": "04.0154",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "反对干部生活待遇特殊化。干部搞特殊化必然脱离群众。邓小平认为，干部如果对个人的、家庭的利益关心得太多了，就没有多大的心思和精力去关心群众了。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "为诊治各类专科疾病设置的医院，如妇产医院、儿童医院、口腔医院、传染病医院等。"
+  },
+  {
+   "cn": "专科医院",
+   "en": "specialized hospital",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.1.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "专门针对某一类疾病或特定人群提供诊疗服务的医疗机构，如口腔医院、眼耳鼻喉科医院、肿瘤医院、精神病医院等。"
+  },
+  {
+   "cn": "民族特需商品",
+   "en": "ethnic special products/ethnic special commodities/ethnic special goods",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0054",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中央和地方政府设立少数民族用品生产基地，在资金、设备、原材料等方面予以积极支持，实行就地取材，就地生产，就地供应。对少数民族地区没条件生产或暂时不能生产的产品，由政府组织其它地区的工厂、企业定点定量生"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "社会优抚",
+   "en": "social special care",
+   "source": "社会学名词",
+   "wordNumber": "4.3.11.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会优抚",
+   "subjectName": "社会优抚",
+   "publishYear": "2025",
+   "definition": "国家依法向现、退役军人及其家属提供优待、抚恤和安置，以确保其生活水平不低于所在地平均生活水平的一种褒扬性以及优待性的特殊社会保障制度。"
+  },
+  {
+   "cn": "特殊医学检查",
+   "en": "special medical examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "一般指细胞遗传学检查和眼科检查等，其中细胞遗传学检查包括外周血淋巴细胞染色体畸变分析和淋巴细胞微核试验；眼科检查包括视力、色觉、眼底和裂隙灯检查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

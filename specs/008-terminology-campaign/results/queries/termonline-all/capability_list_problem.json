@@ -1,0 +1,742 @@
+{
+ "key": "capability-list problem",
+ "term": "capability-list problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:52:41+00:00",
+ "status": "ok",
+ "note": "variant=capability-list problem; 审定公布名词库=1182; 海峡两岸名词对照库=436; 其他来源数据库=169; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0162",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "标识主体对所有客体访问权限的列表。"
+  },
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0636",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织拥有资源和配置资源的知识和经验。体现在原料采集、产品开发、生产制造及市场营销的各项活动中。"
+  },
+  {
+   "cn": "固有能力",
+   "en": "capability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.017",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "列表",
+   "en": "list",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.153",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "在不同的文本形式中抽取关键词或定义，并按某种规定的顺序排列。排列方式可以有多种，如有序列表、无序列表、定义列表、项目列表、标号列表、词汇列表、选单列表等。"
+  },
+  {
+   "cn": "网索",
+   "en": "list",
+   "source": "古生物学名词",
+   "wordNumber": "02.1114",
+   "subjectFullName": "古生物学_古无脊椎动物学_半索动物门",
+   "subjectName": "半索动物门",
+   "publishYear": "2009",
+   "definition": "正笔石类强化表皮的索状骨架，是构成大网的单元。"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "农学名词",
+   "wordNumber": "18.075",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "实验场所进行检验检测所需的信息资源、环境、物质、人员、技术和专业知识等方面的满足程度。"
+  },
+  {
+   "cn": "战斗力",
+   "en": "warfighting capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.376",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "武装力量遂行作战任务和非战争军事行动的能力。由人、武器装备和人与武器装备的结合等基本要素构成。其强弱取决于人员和武器装备的数量和质量、体制编制的科学化程度、组织指挥和管理的水平、各种保障的能力、军事理"
+  },
+  {
+   "cn": "工程能力",
+   "en": "engineering capability",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "从事工程活动所需要的一系列能力系统。包括拥有科学知识、技术技能、管理能力，资金筹措能力，信息处理能力，自然资源与人力资源的开发能力，规避风险的能力，攻克壁垒、躲避陷阱的能力，产品的推销与服务能力，解决"
+  },
+  {
+   "cn": "生殖功能",
+   "en": "reproductive capability",
+   "source": "生殖医学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "生殖医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "生物繁衍后代的功能和效能。"
+  },
+  {
+   "cn": "落砂性",
+   "en": "knockout capability",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.130",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "表示浇注后型(芯)砂在落砂和清理过程中脱离铸件表面难易程度的性能。"
+  },
+  {
+   "cn": "最大功率",
+   "en": "maximum capability",
+   "source": "电力名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮机在规定的终端参数下,所有调节汽阀完全开启时,发电机出线端所输出的功率。"
+  },
+  {
+   "cn": "能力计算",
+   "en": "capability computing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "一类高性能计算应用，基于计算密集型或数据密集型需求，强调缩短解题时间，以期得到强大处理能力，主要针对重大挑战性课题。"
+  },
+  {
+   "cn": "实验室能力",
+   "en": "laboratory capability",
+   "source": "核医学名词",
+   "wordNumber": "03.0754",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "进行检验所需的物质、环境、信息资源，以及人员、技术和专业知识的综合。还包括与其他实验室的比对、外部质量评价或检验程序验证实验的结果，以及测量的确定度、检出限等“软”指标。"
+  },
+  {
+   "cn": "过程能力",
+   "en": "process capability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0447",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "过程的一组可度量的属性。用以表征其达到目标的能力。"
+  },
+  {
+   "cn": "恢复能力",
+   "en": "recovery capability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1398",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "在软件运行失效且需要重运行并恢复直接受影响数据时，与重建其性能级别和恢复直接受影响数据的能力有关的软件属性。"
+  },
+  {
+   "cn": "吸收能力",
+   "en": "assimilate capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0192",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "组织识别、消化和应用新信息技术的能力。"
+  },
+  {
+   "cn": "过程能力",
+   "en": "process capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0627",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "加工过程(或工序)处于统计控制状态下产品质量特性波动的幅度。"
+  },
+  {
+   "cn": "创新能力",
+   "en": "innovation capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0317",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "组织在长期创新活动过程中积累的创新经验、知识、技能和相关资源等组合成的综合能力体系。"
+  },
+  {
+   "cn": "动态能力",
+   "en": "dynamic capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0319",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "组织用以整合、构建并重组内外部资源，在不断变化的环境中快速定位的能力。"
+  },
+  {
+   "cn": "能力表",
+   "en": "capability list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "能力",
+   "en": "capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[列]表",
+   "en": "list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表",
+   "en": "list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "列表",
+   "en": "listing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "除垢能力",
+   "en": "descaling capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地基承载能力",
+   "en": "foundation capability",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "能力制约",
+   "en": "capability constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "性能测试",
+   "en": "capability test",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承载能力",
+   "en": "bearer capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后备能力",
+   "en": "backup capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恢复能力",
+   "en": "recovery capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻址能力",
+   "en": "addressing capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栈容量",
+   "en": "stack capability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栖地承载力",
+   "en": "habitat capability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "作战能力",
+   "en": "combat capability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "装货清单",
+   "en": "cargo list\",\"loading list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "横倾",
+   "en": "list\",\"heel",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "记名样方",
+   "en": "list quadrat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "力",
+   "en": "Strength/Capability",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据能力",
+   "en": "data capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融能力",
+   "en": "financial capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云能力",
+   "en": "cloud capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "score list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发名单",
+   "en": "start list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发名单",
+   "en": "start list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乳化能力",
+   "en": "emulsify capability",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "乳化剂促使乳液形成的能力。通常以配置100g 乳液与所耗用的乳化剂的最少克数之比表示。"
+  },
+  {
+   "cn": "事件列表",
+   "en": "event listing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的时间顺序将具体事件进行排列和归类的一种表格。"
+  },
+  {
+   "cn": "待遇清单",
+   "en": "benefits listing",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "全称“医疗保障待遇清单”。政府及相关机构制定的清单，用来明确医疗保险待遇的基本制度、基本政策、医保基金支付的项目和标准、不予支付的范围。"
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "健康治理能力",
+   "en": "health governance capability",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体，运用多种治理工具和手段，推动健康治理从理念到行动全过程协同所具备的知识、经验、技能等要素总称。"
+  },
+  {
+   "cn": "服务能力评价",
+   "en": "service capability evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "采用适宜指标集和方法，评价妇幼卫生服务体系或服务提供者能力水平的过程。"
+  },
+  {
+   "cn": "基层服务能力",
+   "en": "primary service capability",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.11",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "基层医疗卫生机构通过整合人力资源、技术设备、服务流程及管理机制，为居民提供安全、有效、便捷、经济的基本医疗和公共卫生服务的能力。其核心在于通过系统性能力建设，确保基层卫生服务在可及性、质量、效率和公平"
+  },
+  {
+   "cn": "军事作业能力",
+   "en": "military operational capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在从事劳动过程中，完成特定工作的能力，或在不改变作业质量指标的条件下，尽可能长时间地维持一定作业水平的能力。"
+  },
+  {
+   "cn": "医保药品目录准入",
+   "en": "listing in the reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "药品经过企业申报、专家评审、谈判或竞价后被纳入医保药品目录的过程。"
+  },
+  {
+   "cn": "基本药物目录",
+   "en": "essential medicines list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "适应基本医疗卫生需求，剂型适宜，价格合理，能够保障供应，公众可公平获得的药品的目录清单。"
+  },
+  {
+   "cn": "医保药品目录",
+   "en": "reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "经医疗保险管理部门遴选纳入医疗保险基金支付范围的药品清单。"
+  },
+  {
+   "cn": "标准修改单",
+   "en": "standard amendment list",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.41",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由标准发布机构正式编制和发布，用于对现行标准中的个别技术内容进行纠正、调整、修改的一种规范性文件。"
+  },
+  {
+   "cn": "检测能力指导值",
+   "en": "detection capability guideline value",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.17",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "与科学、法律或其他要求相对应的有关检测能力的值，计划通过比较测量程序的检测限来评估。这个值可能基于实验室的历史数据、经验或行业标准确定，并用于指导实验室在特定条件下的测量工作。‌"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

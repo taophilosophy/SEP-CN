@@ -1,0 +1,762 @@
+{
+ "key": "meaning and verification",
+ "term": "Meaning and Verification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:48:47+00:00",
+ "status": "ok",
+ "note": "variant=Meaning and Verification; 审定公布名词库=10000; 海峡两岸名词对照库=2750; 其他来源数据库=1390; 预公布名词数据库=1177; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "农学名词",
+   "wordNumber": "18.084",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "全称“计量检定（metrological verification）”。查明和确认测量仪器符合法定要求的活动。包括检查、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "核件",
+   "en": "verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.114",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "按运输包装基本单元要求对同一客户的出版物核点包件。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电力名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "查明和确认计量器具是否符合法定要求的程序,包括检查、测试、加标记和(或)出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "物理学名词",
+   "wordNumber": "01.0134",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0503",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "评价系统或部件，以确定软件开发周期中的一个给定阶段的产品是否满足在阶段的开始确立的需求的过程。在形式化方法中，特指检查一个模型是否满足给定属性的过程。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0758",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "通过提供客观证据对规定要求已得到满足的认定。"
+  },
+  {
+   "cn": "可检验性",
+   "en": "verification",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0346",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "根据假设与预测方法，能对预测结果进行重现的一种特性。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "药学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "证明任何程序、生产过程、设备、物料、活动或系统确实能达到预期结果的有文件证明的一系列活动。"
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.345",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "确定一个操作是否正确完成的行为或确定一个设想的条件是否实际上存在的操作。"
+  },
+  {
+   "cn": "检验",
+   "en": "verification",
+   "source": "生态学名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "考察生态模型的内部结构的合理性和逻辑性，以及模型是否按预定的要求做出反应等。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.044",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.047",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "数学名词",
+   "wordNumber": "01.0025",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "电子学名词",
+   "wordNumber": "17.010",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "authentication,verification",
+   "source": "电子学名词",
+   "wordNumber": "05.176",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "方法验证",
+   "en": "method verification",
+   "source": "农学名词",
+   "wordNumber": "18.082",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "提供客观有效证据证明满足检测方法规定要求的实验室核查。"
+  },
+  {
+   "cn": "在线验证",
+   "en": "online verification",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.254",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "通过线上工作流的设置，实现对企业各项作业及管理活动线上验证的方式。"
+  },
+  {
+   "cn": "订货审核",
+   "en": "ordering verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.089",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行组织系统内部管理层按照业务操作规程对订货情况进行审查核实。"
+  },
+  {
+   "cn": "盘存",
+   "en": "inventory verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.061",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "依据库存信息，定期对出版物实际存货状况进行核对、清点、记录的活动。"
+  },
+  {
+   "cn": "品种真实性",
+   "en": "variety verification ",
+   "source": "草学名词",
+   "wordNumber": "4.015",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "查核与管制",
+   "en": "verification and control",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "检定，检验",
+   "en": "verification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "确认",
+   "en": "verification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "检定，验证",
+   "en": "verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独立验证和确认",
+   "en": "independent verification and validation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "①赋税方法 ②筹款方法 ③岁入财源",
+   "en": "ways and means",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "校验统计",
+   "en": "verification statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "校验样本",
+   "en": "verification sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预报检验",
+   "en": "forecast verification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自我确证",
+   "en": "self verification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "编辑校核",
+   "en": "edit verification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "置信度测试",
+   "en": "verification test",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序验证",
+   "en": "program verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规约验证",
+   "en": "specification verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击键验证",
+   "en": "keystroke verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "假设验证",
+   "en": "hypothesis verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "签名验证",
+   "en": "signature verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "设计验证",
+   "en": "design verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说话人确认",
+   "en": "speaker verification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "效验",
+   "en": "Verification and Validation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核对成绩",
+   "en": "verification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参验",
+   "en": "Cross-checking and Verification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准试验验证",
+   "en": "standard testing and verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比对验证模式",
+   "en": "comparison and verification mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单支付验证",
+   "en": "simplified payment verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "QKD组网验证",
+   "en": "QKD Networking Verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "手机短信密码验证",
+   "en": "SMS code verification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "格义",
+   "en": "Matching Meanings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "藻辞谲喻",
+   "en": "Richly Nuanced Wording and Intricate Figurative Meaning",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正义",
+   "en": "Correct Meaning / Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政者正也",
+   "en": "Governance Means Rectitude.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "K均值聚类",
+   "en": "K-means clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均值漂移聚类",
+   "en": "mean shift clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "检定",
+   "en": "verification",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.19",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "查明和确认计量器具是否符合法定要求的程序，包括检查、测试、加标记和（或）出具检定证书。"
+  },
+  {
+   "cn": "验证",
+   "en": "verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.13",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "确定危害分析与关键控制点（HACCP）体系是否按照计划运转，或计划是否需要修改，以及再被确认生效使用的方法、程序、检测及审核手段。"
+  },
+  {
+   "cn": "治疗验证",
+   "en": "treatment verification",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在治疗前或治疗中，通过各种手段（体模测量、治疗日志分析等）验证患者治疗准确性的过程。"
+  },
+  {
+   "cn": "方法验证",
+   "en": "method verification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.38",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "实验室通过核查，提供客观有效证据证明满足检测方法规定要求的过程。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "符号在表达系统里的价值。与符号构成人类学解读文化的一种范式。"
+  },
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0042",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一般指语言形式（语音）所承载和传达的信息或说话者的意图。在不同的理论中，内涵有所不同。"
+  },
+  {
+   "cn": "平均值",
+   "en": "mean",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在某一规定时间间隔内，一个量的所有瞬时值或其绝对值的算术平均计值"
+  },
+  {
+   "cn": "语境意义",
+   "en": "situated meaning",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在具体语境条件下表达和传递的话语意义，一个话语单位的实际意义往往取决于所处的不同语境。语境可分文本上下文的小语境和语言社会文化背景的大语境。互动社会语言学认为话语和语境相互作用。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "平均年龄",
+   "en": "mean age",
+   "source": "社会学名词",
+   "wordNumber": "4.5.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_年龄性别结构",
+   "subjectName": "年龄性别结构",
+   "publishYear": "2025",
+   "definition": "一个人口所有成员年龄的算术平均数。"
+  },
+  {
+   "cn": "行政手段",
+   "en": "administrative means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府机关及其工作人员通过履行行政职能，依法对卫生服务市场有序运行进行的管理活动。"
+  },
+  {
+   "cn": "法律手段",
+   "en": "legal means",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "运用法律、法规、政策等去规范卫生服务市场的运行和卫生服务机构的市场行为，以实现政府对卫生服务市场的宏观调控。"
+  },
+  {
+   "cn": "视听手段",
+   "en": "audiovisual mean",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用人的视觉和听觉的感性认识，加深理解，提高教学效果的教学与学习方法。"
+  },
+  {
+   "cn": "龋均",
+   "en": "mean decayed, missing and filled teeth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "受检人群中龋、失、补牙只数与受检人数的比值。表示平均每一受检者的龋齿数，是反映群体的龋齿患病严重程度的指标。"
+  },
+  {
+   "cn": "灭菌设备性能验证",
+   "en": "sterilization equipment performance verification",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用物理、化学和生物的方法对设备的灭菌参数和灭菌程序进行鉴定，以检验灭菌程序是否能始终符合灭菌要求的过程。"
+  },
+  {
+   "cn": "学校突发公共卫生事件接报与核实",
+   "en": "receipt and verification of school public health emergencies",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "有关单位或人员接收到突发公共卫生事件报告的信息，按照流程或组织力量对报告事项调查核实、判定性质和规模，并及时报告核查情况的行为。"
+  },
+  {
+   "cn": "意义中心论",
+   "en": "meaning-centered theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0246",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "医学人类学的主要理论之一，从意义中心论的角度来看，医学人类学的一个目标是“解包”（unpack）并分析构成健康的所有组分，从痛苦的经历到治疗者的训练和功能，发挥着创造、体验和传达人类生活意义的作用。"
+  },
+  {
+   "cn": "多孔型灭菌过程验证装置",
+   "en": "porous sterilization process verification device",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "敷料型PCD，用多孔材料代表预定抗力的辅料型灭菌过程验证装置。用于监测普通手术包等敷料型物品的灭菌效果。"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "辐射粒子进入物体穿行的平均距离。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

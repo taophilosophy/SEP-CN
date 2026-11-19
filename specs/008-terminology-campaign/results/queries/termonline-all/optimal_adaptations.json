@@ -1,0 +1,782 @@
+{
+ "key": "optimal adaptations",
+ "term": "optimal adaptations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:49:54+00:00",
+ "status": "ok",
+ "note": "variant=optimal adaptations; 审定公布名词库=2141; 海峡两岸名词对照库=641; 其他来源数据库=42; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "适应性",
+   "en": "adaptability,adaptation",
+   "source": "植物学名词",
+   "wordNumber": "11.0653",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物对所处逆境的适应能力。"
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在一定条件限制下，选取某种研究方案使目标达到最优的一种方法。"
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "经济学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "在满足某些特定的条件(称为约束)下,确定某些可控制的因素应该取何值,使得某一指标(称为目标函数)实现极大或极小,称为最优化。人们在生产、管理、分配等活动中,为了找出最好的方案(如使得路程最短、时间最省"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "物理学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "核医学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "通过客观指标比较，从众多方案中寻找和确认最优方案的过程与方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0011",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "为提高程序执行效率对程序源代码或中间代码进行等价变换的方法。"
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "化学工程名词",
+   "wordNumber": "05.129",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "数学名词",
+   "wordNumber": "011.0002",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "数学名词",
+   "wordNumber": "011.0005",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[最]优化",
+   "en": "optimization",
+   "source": "自动化名词",
+   "wordNumber": "02.268",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.071",
+   "subjectFullName": "自然辩证法_总论_自然图景",
+   "subjectName": "自然图景",
+   "publishYear": "2024",
+   "definition": "生物普遍存在的一种现象，即生物对环境变化做出有利于生存的反应，从而使自身的形态结构和生理机能与生存的环境条件相协调的现象。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "兽医学名词",
+   "wordNumber": "10.155",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "机体的细胞和组织改变其代谢、功能与形态结构，以适应改变了的环境条件和新的功能要求的过程。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "动物学名词",
+   "wordNumber": "2.0294",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "在进化历史中生物体形态结构、生理功能或行为习性随外界环境的改变。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "病理学名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "细胞在持续性的内外刺激作用下出现的可逆性应变。表现在细胞的数量、大小、表型、代谢活性或功能等方面。基本的适应性反应包括肥大、增生、萎缩和化生。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "生理学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "神经病学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "在进行持续电刺激时，所记录到的动作电位在连续发放过程中兴奋频率下降的现象。在对感觉神经进行刺激时较常见。"
+  },
+  {
+   "cn": "编述",
+   "en": "adaptation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.109",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "古人写作的体例。在许多可以凭借的资料的基础上，进行提炼改写而成新的文字作品。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "植物学名词",
+   "wordNumber": "02.0209",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在进化历史中生物体形态结构、生理功能或行为习性随外界环境改变的过程。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.108",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "机体应对变化而做出调整，以更适于生存的过程。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "当感受器持续接受恒量刺激时，其反应强度随时间的延长而减弱的现象。"
+  },
+  {
+   "cn": "最优化，最佳化",
+   "en": "optimization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乐观",
+   "en": "optimism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最优化,最适化",
+   "en": "optimization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最优性",
+   "en": "optimality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优化",
+   "en": "optimization",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应力",
+   "en": "adaptability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衔接蛋白",
+   "en": "adapter",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自适应",
+   "en": "adapting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自适应性",
+   "en": "adaptability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最优化",
+   "en": "optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合最优化",
+   "en": "combinatorial optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凸优化",
+   "en": "convex optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "启发式优化",
+   "en": "heuristic optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渲染优化",
+   "en": "rendering optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto optimality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应学习",
+   "en": "adaptive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂适应系统",
+   "en": "complex adaptive system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "适应谐振理论",
+   "en": "adaptive resonance theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据自适应",
+   "en": "data self-adaption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调整球",
+   "en": "adapting the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图和网络优化",
+   "en": "graph and network optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蚁群优化算法",
+   "en": "ant colony optimization algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高优容差",
+   "en": "highly optimized tolerance (HOT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位育",
+   "en": "adaptation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生物在与环境之间的互动关系中养成生理和精神特点的过程和状态。对民族群体而言，民族精神是在诸如土地、气候、物产等物质的环境和文物、典章、制度等文化的环境之中历史形成的。潘光旦根据《中庸》中的“致中和，天"
+  },
+  {
+   "cn": "适应论",
+   "en": "adaptation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0007",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。人类和其他动物一样受周围环境的影响和制约，包括体质适应和文化适应。人的生物性适应（biological adaptation）主要指人体同周围环境保持生理、心理和行为上的"
+  },
+  {
+   "cn": "最佳测度",
+   "en": "optimal scaling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.53",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据数据本身的关联，寻找原始类别变量的最优评分方式的分析方法。数学上等同于双重测度。是由巴雷尔•博克于1960年提出的。"
+  },
+  {
+   "cn": "优抚安置",
+   "en": "optimal placement",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.103",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府对从事特殊工作者及其家属，如军人及其亲属予以优待、抚恤、安置的一项社会保障制度。其对象主要是烈军属、复员退伍军人、残疾军人及其家属；内容主要包括提供抚恤金、优待金、补助金，举办军人疗养院、光荣"
+  },
+  {
+   "cn": "帕累托最优",
+   "en": "Pareto Optimality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "不可能在不损害其他人利益的条件下改善某一方的利益时，各方利益达到的一种状态。"
+  },
+  {
+   "cn": "婚姻调适",
+   "en": "marriage adaptations",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.13",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "夫妻在婚后共同生活的基础上建立一定的夫妻相处原则，双方在各方面加以协调、以求互相适应和习惯的过程。有助于来自不同家庭背景、具有不同经验与习惯的夫妻双方互相协调包容。"
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adaptation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人们在社会生产和社会生活中为与其社会环境取得和谐的关系、适合客观条件需要而产生的心理和行为的应激变化。个体与种种社会环境因素持续而不断改变的相互作用和相互协调的过程。"
+  },
+  {
+   "cn": "文化适应",
+   "en": "cultural adaptation",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不同文化群体经过长期接触，相互作用、相互影响、相互吸收，一方面失去一些文化特质，另一方面又获得一些文化特质，达成一种新的综合的过程。对新文化特质的产生和发展，新文化体系和模式的建立有着十分积极的意义。"
+  },
+  {
+   "cn": "入学适应",
+   "en": "freshman adaptation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生较快实现课程适应、校规适应、学校生活适应、人际适应和团体适应的行为。"
+  },
+  {
+   "cn": "冷适应",
+   "en": "cold adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.4",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷适应",
+   "subjectName": "冷适应",
+   "publishYear": "2025",
+   "definition": "世居寒冷地区者，在冷暴露时代谢产热量增加、散热量减少、耐寒力及抗冻能力明显增强，对冷环境的耐受能力强且稳定，并产生生理、生化以至形态学等方面的特征性改变。由此形成对冷环境的耐受能力可以世代遗传。"
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adaptation",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.6",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "人们在社会生产和社会生活中为与其社会环境取得和谐的关系、适合客观条件需要而产生的心理和行为的应激变化。个体与种种社会环境因素持续而不断改变的相互作用和相互协调的过程。"
+  },
+  {
+   "cn": "热适应",
+   "en": "heat adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "军事预防医学_热区军事卫生_热适应",
+   "subjectName": "热适应",
+   "publishYear": "2025",
+   "definition": "世居或长期在热环境中生活和劳动者的热耐受能力比非世居者或短期进入热环境者强的环境生理学现象。"
+  },
+  {
+   "cn": "文化适应",
+   "en": "cultural adaptation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0045",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "反映文化特性和文化功能的基本概念，主要指文化对于环境的适应，有时也指文化的各个部分的相互适应。"
+  },
+  {
+   "cn": "角色适应",
+   "en": "role adaptation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.045",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体不断调整自身的过程，目的是适应新角色的要求或者是已有的角色发展变换的新要求，最后表现出符合社会期望的角色行为。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "预先给予细胞或机体低剂量辐射照射刺激，使其在一定时间间隔内对随后的大剂量辐射照射产生抗性或保护作用。诱发该反应的辐射剂量一般是在几十个毫戈瑞的剂量范围内。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "适应性免疫",
+   "en": "adaptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体出生后通过与抗原物质接触由淋巴细胞产生的一系列防御功能，主要由T淋巴细胞和B淋巴细胞介导，清除抗原，产生免疫记忆，具有特异性、多样性和记忆性。"
+  },
+  {
+   "cn": "社会适应能力",
+   "en": "social adaptability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "人在自然环境和社会环境中，为了更好生存而进行的心理、生理及行为上的各种适应性改变，与自然和社会达到和谐状态的一种能力。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物组织应答外界环境条件变化，以适应随条件变化而生存的能力"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

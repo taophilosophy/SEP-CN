@@ -1,0 +1,662 @@
+{
+ "key": "factorism",
+ "term": "factorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:41:54+00:00",
+ "status": "ok",
+ "note": "variant=factorism; 审定公布名词库=2070; 海峡两岸名词对照库=791; 其他来源数据库=44; 预公布名词数据库=127; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "保理",
+   "en": "factoring",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0538",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "销售方将其现在或将来的基于其与购买方订立的货物销售或服务合同所产生的应收账款转让给提供相应服务的代理商，由代理商向其提供资金融通、销售账户管理、信用风险担保、账款催收等一系列服务的综合金融服务方式。"
+  },
+  {
+   "cn": "四倍级",
+   "en": "factor 4",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.005",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在20～30年内，资源消耗减少一半，经济水平增加一倍，使得资源产出率增加4倍，是资源产出率的一种增长目标。"
+  },
+  {
+   "cn": "ρ因子",
+   "en": "ρ-factor",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0248",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "大肠埃希菌等生物中由rho编码的一种能够辅助终止转录反应的蛋白质因子。是一种含6个亚基的环状蛋白质，具有ATP活性，可通过水解ATP释放能量，使转录物从复合物释放，从而终止转录。"
+  },
+  {
+   "cn": "[凝血]因子Ⅰ",
+   "en": "factor Ⅰ",
+   "source": "生理学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅱ",
+   "en": "factor Ⅱ",
+   "source": "生理学名词",
+   "wordNumber": "04.071",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅲ",
+   "en": "factor Ⅲ",
+   "source": "生理学名词",
+   "wordNumber": "04.072",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅳ",
+   "en": "factor Ⅳ",
+   "source": "生理学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅴ",
+   "en": "factor Ⅴ",
+   "source": "生理学名词",
+   "wordNumber": "04.074",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅶ",
+   "en": "factor Ⅶ",
+   "source": "生理学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅷ",
+   "en": "factor Ⅷ",
+   "source": "生理学名词",
+   "wordNumber": "04.076",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅸ",
+   "en": "factor Ⅸ",
+   "source": "生理学名词",
+   "wordNumber": "04.077",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅹ",
+   "en": "factor Ⅹ",
+   "source": "生理学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅺ",
+   "en": "factor Ⅺ",
+   "source": "生理学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子Ⅻ",
+   "en": "factor Ⅻ",
+   "source": "生理学名词",
+   "wordNumber": "04.080",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[凝血]因子ⅩⅢ",
+   "en": "factor ⅩⅢ",
+   "source": "生理学名词",
+   "wordNumber": "04.081",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因子",
+   "en": "factor",
+   "source": "物理学名词",
+   "wordNumber": "01.0097",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因数",
+   "en": "factor",
+   "source": "物理学名词",
+   "wordNumber": "01.0096",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因子化",
+   "en": "factorization",
+   "source": "物理学名词",
+   "wordNumber": "09.1284",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "辅酶F420",
+   "en": "factor 420",
+   "source": "微生物学名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "产甲烷古菌特有的还原反应电子载体,为5-去氮杂黄素的衍生物，在紫外光下产生蓝绿色荧光。"
+  },
+  {
+   "cn": "σ因子",
+   "en": "σ-factor",
+   "source": "遗传学名词",
+   "wordNumber": "03.499",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "原核生物中与RNA聚合酶核心酶相结合而特异性识别启动子选择转录起始点的一个蛋白质亚基。"
+  },
+  {
+   "cn": "因素",
+   "en": "factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因子",
+   "en": "factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "因子",
+   "en": "factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "σ因子",
+   "en": "σ-factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "ρ因子",
+   "en": "ρ-factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "ρ因子",
+   "en": "ρ-factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "C因子",
+   "en": "Ｃ-factor",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "降雨因子",
+   "en": "rainfall factor\",\"rain factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特性因数",
+   "en": "characteristic factor\",\"characterization factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解吸因子",
+   "en": "desorption factor\",\"stripping factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "g因素，一般智力因素",
+   "en": "general factor\",\"g factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "s因素，特殊智力因素",
+   "en": "special factor\",\"s factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扩散因子",
+   "en": "diffusion factor， spreading factor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "s因子",
+   "en": "s factor\",\"sigma factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "r因子",
+   "en": "r factor\",\"rho factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "致育因子,F因子",
+   "en": "fertility factor\",\"F factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor，Q-factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生物因子",
+   "en": "biological factor\",\"biotic factor",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "保理费",
+   "en": "factoring charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保理业务",
+   "en": "factoring business",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保理融资",
+   "en": "factoring financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险因素",
+   "en": "risk factor",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "租赁保理",
+   "en": "leasing and factoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因子分析",
+   "en": "factor analysis (FA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可感知经济因素",
+   "en": "perceived economic factor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放射性因素",
+   "en": "radiation factors",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "从事职业活动过程中，可能导致劳动者发生职业性放射性疾病的危害因素。"
+  },
+  {
+   "cn": "社会因素",
+   "en": "social factors",
+   "source": "社会医学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会因素",
+   "publishYear": "2025",
+   "definition": "影响人类生活和社会运行的构成要素，包括自然环境和社会环境，涵盖人们生活的各个环节。"
+  },
+  {
+   "cn": "胀气因子",
+   "en": "flatulence factors",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.2.5",
+   "subjectFullName": "食品卫生学_食品_豆类",
+   "subjectName": "豆类",
+   "publishYear": "2025",
+   "definition": "一类影响人体消化碳水化合物的抗营养因子，存在于淀粉含量高的食物中，如大豆、甘薯等。在食用过含有这类抗营养因子的食物后，胃肠会产生胀气，引起不适。"
+  },
+  {
+   "cn": "加工系数",
+   "en": "processing factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "加工后产品中的物质残留量与加工前的物质残留量之比。"
+  },
+  {
+   "cn": "消毒因子",
+   "en": "disinfection factor",
+   "source": "消毒学",
+   "wordNumber": "1.1.14",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "用于消毒处理并具有杀灭或清除微生物能力的物理、化学和生物因子。"
+  },
+  {
+   "cn": "稀释度",
+   "en": "dilution factor",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.19",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "表示溶液浓度降低的程度。消毒学试验中通常以十倍系列稀释为主。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "几何因子",
+   "en": "geometrical factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "探测效率在一定几何条件下的极限值，它可由探测器灵敏面与放射源之间的几何关系计算出来。"
+  },
+  {
+   "cn": "屏蔽因子",
+   "en": "shielding factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在辐射监测中描述由测量对象引起的屏蔽效应导致本底计数率降低的因子。"
+  },
+  {
+   "cn": "包含因子",
+   "en": "coverage factor",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.29",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "为获得扩展不确定度，对合成标准不确定度所乘的大于1的数。"
+  },
+  {
+   "cn": "居留因子",
+   "en": "occupancy factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.27",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在屏蔽计算和辐射防护评价中，指在屏蔽体外某区域人员可能停留的时间占辐射源开束时间的份额。"
+  },
+  {
+   "cn": "使用因子",
+   "en": "use factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.28",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "放射防护屏蔽计算中的一个因子，指辐射源入射到某一屏蔽墙的时间占辐射源总照射时间的份额。"
+  },
+  {
+   "cn": "调强放射治疗因子",
+   "en": "IMRT factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.41",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "调强放射治疗每单位处方吸收剂量所需要的加速器平均监督单位（MUIMRT）数（俗称跳数）与常规放射治疗每单位处方吸收剂量的加速器监督单位（MUconv）数的比值。这个比值一般在2～10范围内。"
+  },
+  {
+   "cn": "因子分析",
+   "en": "factor analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.124",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一组观测数据描述为一组潜变量或假设的变量的函数的多元统计模型。"
+  },
+  {
+   "cn": "因子负荷",
+   "en": "factor loading",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.130",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在因子分析中，观测变量和因子间的相关系数（皮尔逊乘积矩）。"
+  },
+  {
+   "cn": "封闭因子",
+   "en": "blocking factor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "本质可能是封闭抗体、可溶性抗原或抗原-抗体复合物，可封闭肿瘤细胞表面的抗原表位或效应细胞的抗原识别受体，从而使肿瘤细胞不易被机体免疫系统识别，逃避淋巴细胞的攻击。"
+  },
+  {
+   "cn": "生产要素投入",
+   "en": "factor input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "将生产要素土地、劳动和资本用于生产的过程。"
+  },
+  {
+   "cn": "保险因子",
+   "en": "insurance factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险赔付率（补偿比）对医疗服务利用、医疗费用变化的影响程度。"
+  },
+  {
+   "cn": "趋势因子",
+   "en": "trend factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "反映医药价格的上涨、人们对卫生服务需求的自然增长和由于卫生服务条件改善所引起的医疗费用的增加程度"
+  },
+  {
+   "cn": "地理因素",
+   "en": "geographic factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "独立于人类存在和活动之外的对生长发育有影响的自然现象的总称。如温度、土壤、地形、水与水道的分布、动植物、季候与地质历程的自然变迁、飓风、地 震、海潮等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

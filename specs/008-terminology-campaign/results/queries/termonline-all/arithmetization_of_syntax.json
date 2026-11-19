@@ -1,0 +1,752 @@
+{
+ "key": "arithmetization of syntax",
+ "term": "arithmetization of syntax",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:39:21+00:00",
+ "status": "ok",
+ "note": "variant=arithmetization of syntax; 审定公布名词库=10000; 海峡两岸名词对照库=7417; 其他来源数据库=1827; 预公布名词数据库=2683; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "句法学",
+   "en": "syntax",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.207",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究如何通过对句子中的主词、动词和受词进行恰当排序而使词汇的排列具有意义。在句法学中，成语和句子以某种可以产生层级结构的方式进行排列，而且每一个主要成分(主词和动词)，都可能被分解成一系列次要成分。简"
+  },
+  {
+   "cn": "语法",
+   "en": "syntax",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0004",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "定义如何以单词符号组成语言成分结构的规则。即对语言结构的定义和描述。"
+  },
+  {
+   "cn": "句法",
+   "en": "syntax",
+   "source": "心理学名词",
+   "wordNumber": "02.812",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "规定词如何结合成句子的语法规则。"
+  },
+  {
+   "cn": "句法",
+   "en": "syntax",
+   "source": "语言学名词",
+   "wordNumber": "04.103",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "短语和句子的结构方式，表现为词在其中的排列方式及其相互关系。"
+  },
+  {
+   "cn": "句法学",
+   "en": "syntax",
+   "source": "语言学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个研究领域。研究词和短语组成句子所遵循的规则，主要有纯形式和功能两种方法，前者研究规则的心理基础，后者侧重规则所具有的功能。"
+  },
+  {
+   "cn": "语法",
+   "en": "syntax",
+   "source": "数学名词",
+   "wordNumber": "02.0015",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术化",
+   "en": "arithmetization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0370",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "把逻辑公式变换成代数表达式的方法。例如：利用规则① x∧y↔x·y ；<img src='/root/syzx/static/spz/jsjkx3.02.0370.001.png'/>；③ x∨y↔1"
+  },
+  {
+   "cn": "算术化",
+   "en": "arithmetization",
+   "source": "数学名词",
+   "wordNumber": "02.0137",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术",
+   "en": "arithmetic",
+   "source": "数学名词",
+   "wordNumber": "04.0001",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "句法学",
+   "en": "syntax,syntactics",
+   "source": "语言学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "①与“词法学”相对。指研究词语组合成句子的规则的学问。②指研究句子结构所有成分之间的相互关系以及句子序列的组配规则的学问。"
+  },
+  {
+   "cn": "句法处理",
+   "en": "syntax processing",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.623",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自动形式系统中对符号按照事先确定的句法规则进行的变换操作。"
+  },
+  {
+   "cn": "句法引擎",
+   "en": "syntax engine",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.624",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自动符号系统中用于对符号进行变换操作的装置或代码模块。"
+  },
+  {
+   "cn": "空间句法",
+   "en": "space syntax",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.353",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "以空间认知抽象和空间组构分析为基础，通过量化研究空间网络局部与整体的内在关系，揭示空间自律性以及空间与社会之间关联性的理论和方法。"
+  },
+  {
+   "cn": "语法树",
+   "en": "syntax tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0119",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "层次化表示源程序语法结构的树结构图形表示。"
+  },
+  {
+   "cn": "语法错误",
+   "en": "syntax error",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0117",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言在结构上不符合语法的错误。"
+  },
+  {
+   "cn": "自主句法",
+   "en": "autonomous syntax",
+   "source": "语言学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "转换生成语法的一个基本假设。认为语法的句法部分独立于语义部分而存在（即“自主”的），决定句子合语法性的因素仅仅取决于是否符合句法原则，与句子意义无关。"
+  },
+  {
+   "cn": "地图句法",
+   "en": "cartographic syntax",
+   "source": "地理学名词",
+   "wordNumber": "27.112",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "地图语言三要素之一。地图符号系统的特性与构成的规则，反映地图符号的空间分布和相互关系。"
+  },
+  {
+   "cn": "算术性癫痫",
+   "en": "arithmetic epilepsy",
+   "source": "神经病学名词",
+   "wordNumber": "12.123",
+   "subjectFullName": "神经病学_癫痫",
+   "subjectName": "癫痫",
+   "publishYear": "2020",
+   "definition": "反射性癫痫的一种类型。常在做简单计算时诱发，也有因解难题时诱发的癫痫发作。多表现为失神发作、全面强直阵挛发作、复杂部分性发作。"
+  },
+  {
+   "cn": "算术平均值",
+   "en": "arithmetic mean",
+   "source": "冶金学名词",
+   "wordNumber": "04.0690",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "将一组测量值的代数和除以测量值的个数所得的商。"
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "物理学名词",
+   "wordNumber": "01.0262",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "句法",
+   "en": "syntax",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句法，语法",
+   "en": "syntax",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "句法，语构",
+   "en": "syntax",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图句法",
+   "en": "cartographic syntax",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "句法范畴",
+   "en": "syntax category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法分析",
+   "en": "syntax analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法理论",
+   "en": "syntax theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法生成",
+   "en": "syntax generation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位流句法，比特流句法",
+   "en": "bitstream syntax",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵算术",
+   "en": "matrix arithmetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均值",
+   "en": "arithmetic mean",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "算术表达式",
+   "en": "arithmetic expression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术乘积",
+   "en": "arithmetic product",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术检验",
+   "en": "arithmetic check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术码",
+   "en": "arithmetic code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术平均",
+   "en": "arithmetic mean",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术上溢",
+   "en": "arithmetic overflow",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算术下溢",
+   "en": "arithmetic underflow",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法模型",
+   "en": "syntax model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.2-1988 数据处理词汇 第2部分：算术和逻辑运算》",
+   "en": "GB/T 5271.2-1988 Data processing — Vocabulary — Section 2: Arithmetic and logic operations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 35275-2017 信息安全技术 SM2密码算法加密签名消息语法规范》",
+   "en": "GB/T 35275-2017 Information security technology — SM2 cryptographic algorithm encrypted signature message syntax specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点顺序",
+   "en": "order of arrival\",\"order of finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算学",
+   "en": "arithmetic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0325",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国古代对数学的称号；殷墟出土的甲骨文中有计数的文字中就有十进制的计数法。《史记•夏本纪》中记载了大禹治水时使用了规、矩、准、绳等工具。战国时期的诸子学说中也有关于算学名词的定义和命题。"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "source": "马克思主义",
+   "wordNumber": "05.0306",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1993年10月22日成立。该党宣称是苏联的摩尔达维亚苏维埃社会主义共和国共产党的继承党。该党以马克思、恩格斯、列宁、布哈林、葛兰西等理论家所阐释的马克思主义为指导思想。致力于恢复摩尔多瓦的经济、巩固"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "source": "马克思主义",
+   "wordNumber": "05.0310",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "南斯拉夫社会主义时期执政党，前身为1919年成立的南斯拉夫共产党，1952年改称为“南斯拉夫共产主义者联盟”。在铁托领导下坚持社会主义自治制度和不结盟外交政策。1990年南共联盟宣告解散。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "犯罪功能论",
+   "en": "theory of functions of crime",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的关于犯罪作用的理论。他认为犯罪不仅是社会中的正常现象，而且也是社会所需要的现象。犯罪在社会中发挥着重要的功能，对社会的进步起着有益的作用，主要表"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  },
+  {
+   "cn": "生产资料私有制的社会主义改造理论",
+   "en": "theory of socialist transformation of private owership of means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0355",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的实现对农业、手工业和资本主义工商业社会主义改造的方针、政策、原则、形式、方法等的总称。我国从1953年至1956年底实施了这一私有制的改造。"
+  },
+  {
+   "cn": "放射性核素内照射损伤",
+   "en": "injury of internal exposure of radionuclide",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "放射性核素通过内照射所致具有临床意义的病理学损伤的总称。包括内照射引起的器官或组织损伤、内照射放射病和内照射导致的恶性肿瘤及遗传危害。"
+  },
+  {
+   "cn": "医疗照射防护最优化",
+   "en": "optimization of protection of medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.7.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "进行医疗照射实践时，在考虑了经济和社会的因素之后，应保证将辐射照射保持在可合理达到的尽量低水平。"
+  },
+  {
+   "cn": "否定之否定规律",
+   "en": "law of the negation of negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0222",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "authority interest",
+ "term": "authority interest",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:39:14+00:00",
+ "status": "ok",
+ "note": "variant=authority interest; 审定公布名词库=614; 海峡两岸名词对照库=309; 其他来源数据库=201; 预公布名词数据库=67; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.11",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "受到他人尊敬和承认的合法支配力的一种表现形式。当人们认为一个人在组织活动的某一领域拥有掌控权并且他们有服从义务时，这个权威就是合法的。一般可分为法理型权威、传统型权威、魅力型权威。"
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "经济学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "权力的一种形式，它通过命令来安排或联合其他各个行动者的行动。这些命令之所以有效，是因为被命令者认为这些命令是合法的。权威不同于强迫性控制，因为后者借助其赏罚能力而使人们遵从其命令和规定。通过权威的运用"
+  },
+  {
+   "cn": "权限",
+   "en": "authority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0374",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "一个主体具有的访问数据客体的权利。如读、写、增、删等。"
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0062",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "包含自愿服从和存在一套支持统治正当性的信仰体系的一种特殊权力形态。"
+  },
+  {
+   "cn": "编著",
+   "en": "authoring ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.132",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "对光盘节目进行信源编码、交互界面设计、数据集成、数字版权保护等的过程。"
+  },
+  {
+   "cn": "责任者项",
+   "en": "author",
+   "source": "档案学名词",
+   "wordNumber": "03.04.007",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "著录项目之一。责任者是对档案内容进行创造或负有责任的组织机构或个人。"
+  },
+  {
+   "cn": "权限",
+   "en": "authorization",
+   "source": "档案学名词",
+   "wordNumber": "06.02.017",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "按操作者身份所确定的系统资源使用权利。用于保证对电子档案的合法操作。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.104",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "给予权利。一个权利实体赋予另一个权利实体某种权利的过程。"
+  },
+  {
+   "cn": "作者",
+   "en": "author",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.03.001",
+   "subjectFullName": "编辑与出版学_著作权_著作权主体",
+   "subjectName": "著作权主体",
+   "publishYear": "2022",
+   "definition": "创作文学、艺术或科学作品的自然人、法人或组织。"
+  },
+  {
+   "cn": "授权经销",
+   "en": "authorization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.133",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "授予某一区域的单位或个人拥有商品销售的权利。"
+  },
+  {
+   "cn": "著者",
+   "en": "author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.531",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对一部文献的知识或艺术内容负有责任的创作者。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0541",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "允许某一主体（如用户进程或任务）访问某项硬件或软件资源的过程。"
+  },
+  {
+   "cn": "核准",
+   "en": "authorization",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0090",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "政府权力机关对于送交审查的投资项目进行的审核及批准。"
+  },
+  {
+   "cn": "批准",
+   "en": "authorization",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "监管部门以书面文件形式，准许已提出申请的法人进行某项实践。分注册和许可两种方式；其中，许可又分为发放许可证和给予批复文件两种形式。"
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "授予或拒绝授予客户端访问权限的过程。"
+  },
+  {
+   "cn": "合著者",
+   "en": "joint author,co-author",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.536",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "共同创作同一作品、共同对文献的知识内容或艺术内容负责的两个或两个以上的责任者。 "
+  },
+  {
+   "cn": "检查机构",
+   "en": "testing authority",
+   "source": "运动医学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "由《世界反兴奋剂条例》规定负责赛内或赛外样品检查和/或管理检测结果的机构。包括国际奥林匹克委员会、世界反兴奋剂机构、国际单项体育联合会、国家体育组织、国家反兴奋剂组织、国家奥林匹克委员会、重大赛事组织"
+  },
+  {
+   "cn": "规范控制",
+   "en": "authority control",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.653",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在检索系统中保证文献检索点标准化配置的操作。"
+  },
+  {
+   "cn": "规范款目",
+   "en": "authority entry",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.441",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "以统一标目及有关说明所构成的款目。它包括个人名称、团体/会议名称、著作题名、主题词等类型的统一标目，做根查的各种非规范标目和相关标目以及其他说明。"
+  },
+  {
+   "cn": "规范格式",
+   "en": "authority format",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.652",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "机读规范数据进行交换共享时使用的标准通信格式。"
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "著作",
+   "en": "authoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "魅力型权威",
+   "en": "charismatic authority",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代理权",
+   "en": "vicarious authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "港务局",
+   "en": "port authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合同授权",
+   "en": "contract authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁机构",
+   "en": "arbitral authority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "权威制约",
+   "en": "authority constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "命名机构",
+   "en": "naming authority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心机构",
+   "en": "central authority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "账务机构",
+   "en": "accounting authority",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "权限",
+   "en": "○1authority○2right",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "创作语言",
+   "en": "authoring language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同著作",
+   "en": "collaborative authoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "著作工具",
+   "en": "authoring tool",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "独家授权",
+   "en": "exclusive authorization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "授权投资",
+   "en": "authorized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许经销商",
+   "en": "authorized dealer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "永久性授权",
+   "en": "permanent authorization",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指定代理人",
+   "en": "authorized agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "授权",
+   "en": "authorization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "授权侵犯",
+   "en": "authorization infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权开放",
+   "en": "authorized access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "允许的跟随者",
+   "en": "authorized follower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允许的辅助行为",
+   "en": "authorized assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子认证服务",
+   "en": "certificate authority (CA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证书认证中心",
+   "en": "certificate authority center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CA认证",
+   "en": "certificate authority (CA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权发球",
+   "en": "authorize the service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法国数据保护局",
+   "en": "Data Protection Authority (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德国数据保护局",
+   "en": "Data Protection Authority (Germany)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奥地利数据保护局",
+   "en": "Austrian Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "希腊数据保护局",
+   "en": "Hellenic Data Protection Authority",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证授权技术",
+   "en": "authentication and authorization technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权发球",
+   "en": "authorization of the service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "利",
+   "en": "Interests / Gain",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利益有关方",
+   "en": "interested party",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桥接CA技术",
+   "en": "bridge certification authority (BCA) technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权威",
+   "en": "authority",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.2",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力的一种特殊形式，即通过命令来安排或联合其他各个行动者的行动。这些命令之所以有效，是因为被命令者认为这些命令是合法的。马克斯•韦伯把权威获得合法性的方式分为传统的、合理的和卡里斯马的三种类型。"
+  },
+  {
+   "cn": "主管部门",
+   "en": "competent authority",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "法律授权的官方政府机构，通常指负责食品安全的主管部门"
+  },
+  {
+   "cn": "响应部门",
+   "en": "response authority",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由政府指定或认可的、负责管理或实施有关应急响应的一个或几个机构。"
+  },
+  {
+   "cn": "行政机关",
+   "en": "administrative authority",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "依宪法和组织法的规定设定，行使国家行政权力，管理国家行政事务的机关。"
+  },
+  {
+   "cn": "亲权",
+   "en": "parental authority",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "法律上基于亲子关系而确立的人身和财产关系。这是近现代民法的重要内容。民国时期学者陶希圣提出与家长权相对立，意在塑造没有人格依附的父母子女关系。"
+  },
+  {
+   "cn": "社会权威",
+   "en": "social authority",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会中得到广泛认同和支持、具有正当性、合法性、威慑性和巨大影响力的、使人信从的种种力量和威望。具有自愿接受自觉服从而非强制性的特征。"
+  },
+  {
+   "cn": "行政权",
+   "en": "administrative authority",
+   "source": "马克思主义",
+   "wordNumber": "03.0086",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府拥有的组织和管理公共事务以及提供公共服务的权力，是国家政权的组成部分之一。按照资产阶级权力制衡的原则和三权分立的政治架构，议会拥有立法权、政府拥有行政权、法院拥有司法权。行政权拥有合法性、强制性、"
+  },
+  {
+   "cn": "地方政府",
+   "en": "local authorities",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在省、市、县、区等地方行政区域内依法设立，负责区域公共事务管理和公共服务提供的行政机构，是连接国家政策与地方执行的关键中介力量。"
+  },
+  {
+   "cn": "管理限值",
+   "en": "authorized limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "由监管机构建立或正式接受的可测量的限值。"
+  },
+  {
+   "cn": "授权签字人",
+   "en": "authorized signatory",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "由放射卫生技术服务机构授权，按照授权范围和相关法律法规和标准规范要求对技术服务报告进行审核和签发的人员。"
+  },
+  {
+   "cn": "信息发布权限",
+   "en": "information release authority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "负责向社会发布突发事件的信息的职能权力。国务院卫生行政主管部门负责向社会发布突发事件的信息，必要时，可以授权省、自治区、直辖市人民政府卫生行政主管部门向社会发布本行政区域内突发事件的信息。"
+  },
+  {
+   "cn": "利息",
+   "en": "interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0236",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币所有者因贷出货币而从借款人手中获得的报酬。资本主义制度下的利息是职能资本家因使用借贷资本而支付给借贷资本家的一部分利润，源泉是产业工人生产过程中创造的剩余价值。利息取得了资本价格这样一种假象。"
+  },
+  {
+   "cn": "利益",
+   "en": "interests",
+   "source": "马克思主义",
+   "wordNumber": "04.0050",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们作为单个的个人所产生的并成为他们行为的原因的需要，以及在社会作为一个整体的层次上和在大的社会共同体（阶级、民族）的层次上形成的需要。根据利益的指向，通常分为经济利益（物质利益）、政治利益和精神利益"
+  },
+  {
+   "cn": "利益群体",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们在社会生产过程中，基于某种共同价值、共同态度、共同社会地位或者共同职业，因利益一致或基本一致，并为实现利益联系在一起的、以争取群体及其成员利益、影响公共政策的共同体。"
+  },
+  {
+   "cn": "志趣小组",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间相同或相近的兴趣、爱好、志向等而形成的社会群体。"
+  },
+  {
+   "cn": "阶级利益",
+   "en": "class interest",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员因相似的经济社会地位而拥有共同的利益诉求，是马克思阶级理论的重要概念。马克思认为，生产关系决定阶级利益，资产阶级和无产阶级在生产关系中所处的位置（生产资料的占有者和不掌握生产资料而出卖劳"
+  },
+  {
+   "cn": "利息率",
+   "en": "interest rate",
+   "source": "马克思主义",
+   "wordNumber": "02.0237",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定时期内利息额与贷出资本额之间的比率。利息率受平均利润率、借贷资本的供求、产业周期的影响，平均利润是利息的最高界限。"
+  },
+  {
+   "cn": "定息",
+   "en": "fixed interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0361",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在资本主义工商业社会主义改造中，国家在全行业公私合营后，对资本家所有的生产资料实行赎买的一种形式。根据清产核资的估价，资本家按资本额每年收取5%的定息。实行定息后，资本家的剥削收入被限制在固定的股息内"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "马克思主义",
+   "wordNumber": "03.0059",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会公众的、与公众有关的，主要由政府提供的公用的、公共的利益。资产阶级和以往国家的统治者都声称，其政府和统治是为了全社会各阶层的公共利益，以掩盖其少数剥削者的特殊权益。"
+  },
+  {
+   "cn": "规制者利益",
+   "en": "regulator interest",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府根据相应自身利益规则，制定和执行规制政策行为，在并非完全符合社会公共利益情况下，对微观市场主体实行的一种社会管理干预。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

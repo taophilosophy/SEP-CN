@@ -1,0 +1,522 @@
+{
+ "key": "schematic statements",
+ "term": "schematic statements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:55:07+00:00",
+ "status": "ok",
+ "note": "variant=schematic statements; 审定公布名词库=114; 海峡两岸名词对照库=113; 其他来源数据库=9; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "光学名词",
+   "wordNumber": "28.029",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "模拟眼睛构造的具有简化屈光性质的光学系统模型。其中古尔斯特兰德(Gullstrand)模型眼较为精密。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0180",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示系统、设备的工作原理及其组成部分的相互关系的简图。"
+  },
+  {
+   "cn": "示意画法",
+   "en": "schematic representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0200",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "用规定符号和(或)较形象的图线绘制图样的表意性图示方法。"
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "物理学名词",
+   "wordNumber": "01.0154",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "核医学名词",
+   "wordNumber": "03.0583",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "采用简洁明了的方式说明复杂事物原理或结构关系绘成的略图。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic drawing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0446",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "表示系统、设备的工作原理及其组成部分相互关系的简图。"
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design",
+   "source": "建筑学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计阶段",
+   "subjectName": "设计阶段",
+   "publishYear": "2014",
+   "definition": "对拟建的项目按设计依据的规定进行设计创作的过程，对项目的总体布局、功能安排、建筑造型等提出可能且可行的技术文件，是建筑工程设计的最初阶段。"
+  },
+  {
+   "cn": "模型眼",
+   "en": "schematic eye",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.003",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0221",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据文法从开始符号推导出的终极符号串。即程序设计语言中符合语法的、具有一定功能的字符组合。"
+  },
+  {
+   "cn": "陈述",
+   "en": "statement",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "表达信息的条款。"
+  },
+  {
+   "cn": "表态用语",
+   "en": "statement phrase",
+   "source": "档案学名词",
+   "wordNumber": "02.04.050",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "公文专用词语的一种。表明发文机关态度时使用。如“照办”“可行”“准予”“不可行”“同意”“原则同意”“不同意”等。"
+  },
+  {
+   "cn": "单称陈述",
+   "en": "singular statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对单个相关对象的特征描述。"
+  },
+  {
+   "cn": "观察陈述",
+   "en": "observational statement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.056",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "对观察结果的描述。是对个别对象的性质、状态的陈述，所表达的知识都是经验知识或经验事实。"
+  },
+  {
+   "cn": "利润表",
+   "en": "income statement",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.098",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "反映企业一定期间生产经营成果的会计报表。"
+  },
+  {
+   "cn": "创刊词",
+   "en": "inaugural statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.081",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登在创刊号上，说明本刊发刊缘由、性质、办刊宗旨、服务对象、主要内容等方面的辅文。"
+  },
+  {
+   "cn": "休刊词",
+   "en": "suspension statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.082",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "休刊号上交代休刊事由的辅文。"
+  },
+  {
+   "cn": "停刊词",
+   "en": "discontinuation statement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.083",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "停刊号上交代停刊事由的辅文。"
+  },
+  {
+   "cn": "组织使命",
+   "en": "mission statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.029",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织对所管理的范围、内容、力图实现目标的正式说明。既能体现组织创办者或高层领导人的追求和抱负，也能反映该组织之所以存在的理由或价值，以及该组织在社会中所处的地位、作用、承担的义务和扮演的角色。"
+  },
+  {
+   "cn": "损益表",
+   "en": "income statement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.104",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒管理",
+   "subjectName": "传媒管理",
+   "publishYear": "2022",
+   "definition": "反映企业在一定会计期间经营成果，如收入、成本、费用，以及成果分配情况的会计报表。体现了企业实际获得利润或亏损的情况，是一定时期内企业经营业绩的财务记录。企业的损益包括四个方面：企业营业收入；直接成本、"
+  },
+  {
+   "cn": "丛编说明",
+   "en": "series statement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.614",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "对丛编题名信息的说明。包含不用于检索及与规范检索点不同的丛编题名信息。"
+  },
+  {
+   "cn": "原理图",
+   "en": "schematic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "语句",
+   "en": "statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报表表头",
+   "en": "statement heading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "报表格式",
+   "en": "statement form",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "清算表",
+   "en": "liquidation statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "条件声明",
+   "en": "conditional statement",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[分]情况语句",
+   "en": "CASE statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋值语句",
+   "en": "assignment statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制语句",
+   "en": "control statement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海损理算书",
+   "en": "average statement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "客户结单",
+   "en": "customer’s statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "财务报表分析",
+   "en": "financial statement analysis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "费用清单",
+   "en": "statement of expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "结算书",
+   "en": "statement of settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经营情况表",
+   "en": "statement of operation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏损表",
+   "en": "statement of deficit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "知言",
+   "en": "Discerning Statements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《国际图书馆协会和机构联合会数字素养宣言》",
+   "en": "International Federation of Library Associations (IFLA) Statement on Digital Literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TR 29181-9-2017 信息技术 未来网络 问题陈述和要求 万物联网》",
+   "en": "BS PD ISO/IEC TR 29181-9:2017 Information technology — Future network — Problem statement and requirements — Networking of everything",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "莫斯科声明",
+   "en": "Moscow statement",
+   "source": "马克思主义",
+   "wordNumber": "05.0210",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1960年11月在莫斯科举行的81个世界共产党和工人党第二次代表会议上通过，标题为《各国共产党和工人党代表会议声明》。声明肯定《莫斯科宣言》，指出世界社会主义体系的威力超过世界资本主义体系，资本主义总"
+  },
+  {
+   "cn": "主题分析",
+   "en": "thematic analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取的所有信息资料进行分析，从中提取主题概念的一种定性研究分析方法。"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "健康专题教育",
+   "en": "thematic health education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "围绕某一健康主题，通过多种形式教学活动开展的综合性健康教育。常见健康主题包括预防艾滋病、预防毒品、环境教育、预防烟草、心理健康等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

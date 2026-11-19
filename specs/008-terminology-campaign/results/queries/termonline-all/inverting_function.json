@@ -1,0 +1,672 @@
+{
+ "key": "inverting function",
+ "term": "inverting function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:42:02+00:00",
+ "status": "ok",
+ "note": "variant=inverting function; 审定公布名词库=3337; 海峡两岸名词对照库=804; 其他来源数据库=106; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "转换部件",
+   "en": "inverter",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.052",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "在接收到某种信号时停止下游基因的转录，而未接收到信号时开启下游基因转录的一种遗传装置。"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "电力名词",
+   "wordNumber": "21.050",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "将直流转换成交流的换流器。"
+  },
+  {
+   "cn": "反相器",
+   "en": "inverter",
+   "source": "物理学名词",
+   "wordNumber": "03.1107",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1007",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "将直流转换成交流的换流器。"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0223",
+   "subjectFullName": "机械工程_动力机械_风力机_结构部件",
+   "subjectName": "结构部件",
+   "publishYear": "2013",
+   "definition": "可将24V或48V的直流电转换成230V、50Hz交流电或其他类型的交流电的一种电源转换装置。"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.043",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车电器",
+   "subjectName": "汽车电器",
+   "publishYear": "2013",
+   "definition": "将直流电转换为交流电的变换器。"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "通信科学技术名词",
+   "wordNumber": "15.017",
+   "subjectFullName": "通信科学技术_通信电源",
+   "subjectName": "通信电源",
+   "publishYear": "2007",
+   "definition": "将直流电变为交流电的电源设备。"
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0049",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "反相器",
+   "en": "inverter",
+   "source": "电子学名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆变器",
+   "en": "inverter",
+   "source": "自动化名词",
+   "wordNumber": "04.374",
+   "subjectFullName": "自动化科学技术_控制技术_电气自动化",
+   "subjectName": "电气自动化",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "仰拱",
+   "en": "invert,inverted arch",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0679",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "倒像棱镜",
+   "en": "inverting prism",
+   "source": "物理学名词",
+   "wordNumber": "04.0170",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内翻性乳头状瘤",
+   "en": "inverting papilloma",
+   "source": "老年医学名词",
+   "wordNumber": "04.946",
+   "subjectFullName": "老年医学_老年临床医学_老年耳鼻咽喉疾病",
+   "subjectName": "老年耳鼻咽喉疾病",
+   "publishYear": "2017",
+   "definition": "鼻腔和鼻窦内上皮成分向基质内呈内翻型的增生。增生的上皮可呈指状、舌状和乳头状等。上皮细胞以移行上皮为多，基底膜完整。"
+  },
+  {
+   "cn": "内翻缝合",
+   "en": "inverting suture",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.590",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "反滤层",
+   "en": "inverted filter",
+   "source": "地质学名词",
+   "wordNumber": "17.04.285",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "防止土石渗透变形的一种结构。"
+  },
+  {
+   "cn": "倒虹吸管",
+   "en": "inverted siphon",
+   "source": "农学名词",
+   "wordNumber": "12.044",
+   "subjectFullName": "农业水利_农业水资源",
+   "subjectName": "农业水资源",
+   "publishYear": "2025",
+   "definition": "敷设在地面或地下用于输送渠道水流穿过河渠、溪谷、洼地及道路的下凹式（U形）压力管道。"
+  },
+  {
+   "cn": "价格倒挂",
+   "en": "inverted price",
+   "source": "农学名词",
+   "wordNumber": "19.118",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "销售价格低于购进价格的现象。"
+  },
+  {
+   "cn": "反向重复[序列]",
+   "en": "inverted repeat",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0138",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "在同一核酸分子链上两个区段具有的序列相同，但排列顺序方向相反的核苷酸序列。"
+  },
+  {
+   "cn": "倒置显微镜",
+   "en": "invert microscope",
+   "source": "兽医学名词",
+   "wordNumber": "08.011",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "将物镜与聚光器和光源倒置，并配有相差物镜的普通显微镜。用于观察培养的活细胞。"
+  },
+  {
+   "cn": "反挑式",
+   "en": "inverted grip",
+   "source": "兽医学名词",
+   "wordNumber": "18.034",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "一种拿手术刀的姿势，刀刃由组织内向外面挑开，以免损伤深部组织。"
+  },
+  {
+   "cn": "[蔡司]平行四边形控制器",
+   "en": "parallelogram inverter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "倒置显微镜",
+   "en": "inverted microscope",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "乳头内陷",
+   "en": "inverted nipple",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "倒槽",
+   "en": "inverted trough",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化糖",
+   "en": "invert sugar",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反向压力计",
+   "en": "inverted manometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反向重复［序列］",
+   "en": "inverted repeat",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒置显微镜",
+   "en": "inverted microscope",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反向插入",
+   "en": "inverted insertion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒像",
+   "en": "inverted image",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反转负片",
+   "en": "inverted negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "卡彭铁尔控制器",
+   "en": "Carpentier inverter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "倒置磁控管",
+   "en": "inverted magnetron",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反相器，倒相器",
+   "en": "inverter\",\"invertor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向胚层",
+   "en": "inverted germ layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "倒生物量金字塔",
+   "en": "inverted biomass pyramid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反向重复序列",
+   "en": "inverted repeat sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "颠倒压力效应",
+   "en": "inverted barometer effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反向重复[序列]",
+   "en": "inverted repeat\",\"IR",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "末端反向重复",
+   "en": "inverted terminal repeat",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒十字支撑",
+   "en": "inverted cross",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒悬垂",
+   "en": "inverted hang",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "屈体倒悬垂",
+   "en": "bent inverted hang\",\"half-inverted hang",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半仰姿势",
+   "en": "half inverted position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转化糖浆",
+   "en": "invert sugar syrup",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.25",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "仓糖经酸或酶水解后所得的由等量葡萄糖和果糖组成的糖浆。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "功能指标",
+   "en": "functional parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年不同器官或系统生理功能的指标，主要包括肺活量、呼吸频率和最大吸氧量等肺功能的指标，心率、血压等心血管功能的指标"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

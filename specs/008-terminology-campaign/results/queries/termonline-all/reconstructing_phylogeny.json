@@ -1,0 +1,662 @@
+{
+ "key": "reconstructing phylogeny",
+ "term": "reconstructing phylogeny",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:36:03+00:00",
+ "status": "ok",
+ "note": "variant=reconstructing phylogeny; 审定公布名词库=637; 海峡两岸名词对照库=57; 其他来源数据库=12; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "source": "微生物学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "物种的进化历程,以进化距离为依据建立生物谱系分支之间的演化关系。"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "source": "古生物学名词",
+   "wordNumber": "01.0068",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "指生物谱系的分支演化历史；可以指生命自起源后的整个发展演变历史；或指某一类群的形成发展历史。包括较高分类单元的起源和演化等。"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "source": "免疫学名词",
+   "wordNumber": "1.052",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "一个或一群生物体的进化史，通常用进化树做图示。"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "source": "遗传学名词",
+   "wordNumber": "07.020",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "一个生物体或一个分类群的演化历史。"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "source": "生态学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "生物类群的演化过程。"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "source": "昆虫学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "生物类群的进化历史。"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.878",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogenesis,phylogeny",
+   "source": "植物学名词",
+   "wordNumber": "02.0219",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在地球历史发展过程中生物物种或类群形成和进化的过程。"
+  },
+  {
+   "cn": "种系发生",
+   "en": "phylogeny,phylogenesis",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.013",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "一个生物物种形成和进化的过程。"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny,phylogenesis",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "各个物种间由低等到高等的进化过程。"
+  },
+  {
+   "cn": "系统发育",
+   "en": "phylogeny,phylogenesis",
+   "source": "水产名词",
+   "wordNumber": "05.247",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "（1）生物种族的发生、成长和演变的过程。（2）地球上生命的起源及演变过程。"
+  },
+  {
+   "cn": "基因系统发育",
+   "en": "gene phylogeny",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0095",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "通过比较DNA序列之间的差异建立的DNA分子之间的一种进化关系。"
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogenesis;phylogeny",
+   "source": "动物学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "在地球历史发展过程中生物物种或类群形成和进化的过程。"
+  },
+  {
+   "cn": "再造",
+   "en": "reconstruction",
+   "source": "地质学名词",
+   "wordNumber": "09.01.036",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "叠加变形作用过程使得先前形成的构造-岩石组合发生改造，构造特点部分或全部消失，而代之以新生构造组合出现的现象。"
+  },
+  {
+   "cn": "改建",
+   "en": "reconstruction",
+   "source": "兽医学名词",
+   "wordNumber": "10.154",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "为适应新的功能需要，器官和组织的形态结构发生的相应变化。"
+  },
+  {
+   "cn": "重建",
+   "en": "reconstruction",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "为了在历史原址上复制或再现其特定时期的风貌，通过新建的行为或方法，展现不再存在的遗址、景观、建筑、结构或构件的形式及外观。"
+  },
+  {
+   "cn": "重构",
+   "en": "reconstruction",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.089",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "通过人工设计的代谢通路对生物体进行系统改造以满足特定需要的过程。"
+  },
+  {
+   "cn": "重建",
+   "en": "reconstruction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.027",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "影像原始数据经计算机处理而得到显示数据的过程。"
+  },
+  {
+   "cn": "再造[术]",
+   "en": "reconstruction",
+   "source": "手外科学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "手外科学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "组织或器官丧失后，利用移位或移植等显微外科基本原理与技术，采用自身其他组织或器官来重建已丧失的组织或器官，以期恢复一定外形和功能的手术方法。"
+  },
+  {
+   "cn": "结构重组",
+   "en": "reconstruction",
+   "source": "冶金学名词",
+   "wordNumber": "05.1626",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "流程结构中某一组元或某些序参量发生临界性转变，实现局部功能优化，继而通过子系统之间的非线性相互作用和协同效应，形成更大层次的动态有序结构，直至整个流程转变为新的结构形态，从而达到有序化、协调化、紧凑化"
+  },
+  {
+   "cn": "系统发生,系统发育",
+   "en": "phylogeny",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种系发生， 系统发育",
+   "en": "phylogeny",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "系统发育，种系发生",
+   "en": "phylogeny",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生",
+   "en": "phylogeny",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生（=系统发育）",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "系统发育，种系发生，系统发生",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "种系发生（=系统发育）",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生（=系统发育）",
+   "en": "phylogenesis\",\"phylogeny",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系统发育，种系发生，系统发生",
+   "en": "phylogenesis\",\"phylogeny",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种系发生（=系统发育）",
+   "en": "phylogenesis\",\"phylogeny",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生,种系发生",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生，系统发育",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "系统发生，系统发育",
+   "en": "phylogeny\",\"phylogenesis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基因系统发育",
+   "en": "gene phylogeny",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重构",
+   "en": "reconstruction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重建",
+   "en": "reconstruction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古气候重建",
+   "en": "paleoclimatic reconstruction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候重建",
+   "en": "climate reconstruction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "记忆重建",
+   "en": "memory reconstruction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重建记忆",
+   "en": "reconstructive memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "场景重构",
+   "en": "scenario reconstruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字全息重构",
+   "en": "digital holographic reconstruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景定位重建",
+   "en": "scenario positioning and reconstruction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际复兴开发银行",
+   "en": "International Bank \nfor Reconstruction and Development",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剂量重建",
+   "en": "dose reconstruction",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "回顾剂量学方法中对受照人员的剂量进行的回顾性测量和估算。一般有三种方法，一是模拟方法（包括理论模拟和实验模拟），二是直接测量方法，三是间接测量方法。"
+  },
+  {
+   "cn": "社会重建",
+   "en": "social reconstruction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "在现代化过程中，随着社会的深度变迁和转型，社会的政治、经济、文化等体制机制以及人们的社会关系获得重大调整、修复和重新构建。"
+  },
+  {
+   "cn": "历史唯物主义的重建",
+   "en": "reconstruction of historical materialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0041",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为历史唯物主义存在着历史客观主义倾向、缺乏明确规范基础等弊端，已经“过时了”，必须对社会劳动概念、上层建筑理论和生产力与生产关系的辩证法等进行全面的重建，恢复历史唯物主义潜在的理论力量。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "建设妇幼健康环境",
+   "en": "constructing woman and child healthy environment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康促进",
+   "subjectName": "妇幼健康促进",
+   "publishYear": "2025",
+   "definition": "宏观指有利于促进妇幼人群健康的物质、社会经济和政治环境；微观指为妇女儿童创造安全、满意、愉悦的环境，包括家庭、工作、休闲地和社区等，以及包括获取健康资源的途径。"
+  },
+  {
+   "cn": "全面建设社会主义时期",
+   "en": "period of constructing a socialist society in all respects",
+   "source": "马克思主义",
+   "wordNumber": "03.0389",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "从1956年9月中国共产党第八次全国代表大会确立以经济建设为中心的指导方针和路线，到1966年5月“文化大革命”开始前的十年。此间中国社会主义建设取得了很大成就，也遭受了严重挫折。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "direct replication",
+ "term": "direct replication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:49:16+00:00",
+ "status": "ok",
+ "note": "variant=direct replication; 审定公布名词库=2796; 海峡两岸名词对照库=813; 其他来源数据库=169; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "双向复制",
+   "en": "bi-directional replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0113",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "环状DNA只有一个复制起点，从起点开始向两个方向进行解链然后复制的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "农学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "以亲代遗传物质（DNA或RNA）为模板按照碱基配对原则合成子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA或RNA基因组以亲代核酸链作为合成模板，按照碱基互补配对原则合成子代核酸链进行扩增的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.177",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附并侵入易感细胞内，以其核酸为模板合成子代病毒核酸和蛋白质等组分，装配子代病毒粒子，最后释放到细胞外的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由核酸模板链复制出相同核酸链的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "畜牧学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "在DNA聚合酶的催化作用下，以亲代DNA分子为模板合成子代DNA分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "植物学名词",
+   "wordNumber": "16.0174",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "证券产品的一种设计方法。某种证券运作业绩良好，可以将其作为参照标准，再设计一只新证券，在同样的方式、方法下运作，以期望能够取得与原证券具有相同的风险特性和收益率，给投资者创造出更多的获取收益的机会。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "药学名词",
+   "wordNumber": "05.334",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用亲代分子作为合成的模板，由一个亲代DNA或一个亲代RNA合成一个新的子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "微生物学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "以病毒粒子的基因组为模板，产生与其完全一致的一定数量的子代病毒粒子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "遗传学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以亲代DNA分子为模板合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.617",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "含有一个复制起点并能促进质粒DNA分子在宿主细胞中复制的一段DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "畜牧学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "遗传学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制聚合酶",
+   "en": "replication polymerase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0317",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "大肠埃希菌细胞内真正负责重新合成DNA的DNA聚合酶Ⅲ。编号：EC 2.7.7.7。"
+  },
+  {
+   "cn": "DNA复制",
+   "en": "DNA replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0099",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA合成过程中，以亲代DNA两条链为模板合成两个子代DNA分子的过程。其中每一个子代DNA分子包含一条亲代链和一条新合成的链。具有高保真性。"
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "正在进行复制的双链DNA分子所形成的Y形叉状结构。其中已解旋的两条亲代单链以及正在进行合成的新链构成了Y形的头部，尚未解旋的亲代DNA双链构成了Y形的尾部。"
+  },
+  {
+   "cn": "复制泡",
+   "en": "replication bubble",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0111",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA复制过程中，每个复制起点都产生两个复制叉，进入链的延长阶段后，两个复制叉向相反的方向移动，形成的空泡状结构。"
+  },
+  {
+   "cn": "双向复制",
+   "en": "bi-directional replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制眼(=复制泡)",
+   "en": "replication eye(=replication bubble)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散乱复制",
+   "en": "dispersive replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semidiscontinuous replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制结合",
+   "en": "replication banding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制带",
+   "en": "replication band",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "θ复制",
+   "en": "theta replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保守性复制",
+   "en": "conservative replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单向复制",
+   "en": "unidirectional replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative  replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semicontinuous replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可复制性",
+   "en": "replicability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向旗",
+   "en": "direction flag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直刺",
+   "en": "direct hit\",\"direct thrust\",\"straight thrust",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "直接抗球蛋白试验",
+   "en": "direct antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.25",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "用于诊断胎儿有核红细胞增多症、新生儿溶血病和自身免疫性溶血性贫血症的试验。依据某些患者红细胞表面含不完全抗体，滴加抗人球蛋白血清后可出现凝集现象。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  },
+  {
+   "cn": "直接食品添加剂",
+   "en": "direct food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "人为添加到食品中，并在终产品中发挥特定功能的食品添加剂。"
+  },
+  {
+   "cn": "定向能武器",
+   "en": "directed energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "产生和发射一束集中的电磁能或原子/亚原子粒子作为杀伤因素的武器系统，其能量以光速或近光速传输。发出的能束可对目标结构、材料及电子设备等实施外科手术式摧毁，也能通过调节功率实现非致命性破坏。"
+  },
+  {
+   "cn": "定向剂量当量",
+   "en": "directional dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "在相应扩展场中，ICRU球内的特定方向Ω的半径上，深度为d处的剂量当量。符号H'(d,Ω)。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。对弱贯穿辐射，推荐d=0.07 mm。作为皮肤中当量剂量的"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "辐射直接作用",
+   "en": "direct effect of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射的能量直接沉积于生物大分子，如核酸、蛋白质、酶、脂质等，引起这些生物大分子的电离和激发，破坏其结构和功能的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,302 @@
+{
+ "key": "derivatization",
+ "term": "derivatization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:50:45+00:00",
+ "status": "ok",
+ "note": "variant=derivatization; 审定公布名词库=25; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "紫外衍生试剂",
+   "en": "ultraviolet derivatization reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0646",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "为了使一些没有紫外吸收或紫外吸收很弱的化合物能被紫外检测器检测，往往要通过衍生化反应在这些化合物的分子中引入有强紫外吸收的基团，这一过程中使用的衍生化试剂称为紫外衍生试剂。"
+  },
+  {
+   "cn": "电化学衍生试剂",
+   "en": "electrochemical derivatization reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0648",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "为了使一些没有电活性的化合物能被电化学检测器检测，往往要通过衍生化反应在这些化合物的分子中引入电活性基团，这一过程中使用的衍生化试剂称为电化学衍生试剂。"
+  },
+  {
+   "cn": "柱上衍生化",
+   "en": "on-column derivatization",
+   "source": "化学名词",
+   "wordNumber": "03.2134",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "将样品和衍生化试剂同时引入色谱柱，在分离的同时实现样品衍生化的技术。"
+  },
+  {
+   "cn": "柱前衍生化",
+   "en": "pro-column derivatization",
+   "source": "化学名词",
+   "wordNumber": "03.2133",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "样品进入色谱柱分离前，加入衍生化试剂对样品进行衍生化处理的技术。"
+  },
+  {
+   "cn": "柱后衍生化",
+   "en": "post column derivatization",
+   "source": "化学名词",
+   "wordNumber": "03.2135",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "被分离的样品组分流出色谱柱后，加入衍生化试剂对样品组分进行衍生化处理的技术。"
+  },
+  {
+   "cn": "柱后衍生化",
+   "en": "post-column derivatization",
+   "source": "药学名词",
+   "wordNumber": "06.448",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "待测物经色谱柱分离后，在色谱系统中加入衍生试剂及辅助反应液，与色谱流出组分直接在系统中进行反应，然后测定衍生反应产物的操作。"
+  },
+  {
+   "cn": "柱前衍生化",
+   "en": "pre-column derivatization",
+   "source": "药学名词",
+   "wordNumber": "06.447",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在色谱分离前，预先将样品制成适当的衍生物，然后进行分离和检测的操作。"
+  },
+  {
+   "cn": "液相色谱手性衍生试剂",
+   "en": "liquid chromatography chiral derivatization reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0649",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "在液相色谱中通过衍生化反应将难以分离的对映体转变成能够良好分离的非对映体，这一过程中使用的衍生化试剂称为液相色谱手性衍生试剂。"
+  },
+  {
+   "cn": "气相色谱手性衍生试剂",
+   "en": "gas chromatography chiral derivatization reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0650",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "气相色谱中通过衍生化反应将难以分离的手性物质在非手性柱上分离的试剂。"
+  },
+  {
+   "cn": "衍生室温磷光法",
+   "en": "derivatization room temperature phosphorimetry,D-RTP",
+   "source": "化学名词",
+   "wordNumber": "03.1335",
+   "subjectFullName": "化学_分析化学_仪器分析_分子光谱分析",
+   "subjectName": "分子光谱分析",
+   "publishYear": "2016",
+   "definition": "通过衍生试剂与待测组分的化学反应，使原本不能发磷光的待测组分转变为具有磷光性质的物质，继而通过各种室温磷光分析技术实现磷光测量的方法。"
+  },
+  {
+   "cn": "私有化",
+   "en": "Privatization",
+   "source": "经济学名词",
+   "wordNumber": "06.169",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "公有组织或公有财产的所有权人直接或由其代理人越权将公有组织或公有财产以及这些组织或财产的所有权及其派生权利，合法或非法地由公有组织或公有财产的全体公民或某一集体所有转变为个别私人所有的行为及其过程。"
+  },
+  {
+   "cn": "民营化",
+   "en": "privatization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0151",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "将国有企业、公营的公用事业的所有权或经营权转移到民间，引入市场机制的管理过程和方法。"
+  },
+  {
+   "cn": "媒体私有化",
+   "en": "media privatization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.022",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "原本属于公共事业的媒体逐渐被私人所占有的过程。泛指媒体向自负盈亏、以利益为先的经营方式的转变。传播政治经济研究学者认为，媒体资源属于公共产品，是民主自治的社会机制中不可或缺的一部分，而媒体的私有化则会"
+  },
+  {
+   "cn": "资源私有化",
+   "en": "resource privatization",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.075",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "将国家和集体所有或无明确产权的资源，由政府或其委托机构，按照一定规定和程序，无偿或有偿地转化为私人所有的活动或过程。"
+  },
+  {
+   "cn": "紧急性灭鼠",
+   "en": "urgent deratization",
+   "source": "地方病学名词",
+   "wordNumber": "07.273",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "当鼠疫发生流行并对人类已构成威胁时采取的紧急灭鼠措施。"
+  },
+  {
+   "cn": "熏蒸灭鼠法",
+   "en": "fumigation deratization",
+   "source": "地方病学名词",
+   "wordNumber": "07.266",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "使老鼠吸入毒气致死的灭鼠法。不需诱饵，不考虑鼠的食性，作用快又有强制性，对非靶动物比较安全，比较常用的灭鼠方法。"
+  },
+  {
+   "cn": "生物灭鼠",
+   "en": "biological deratization",
+   "source": "地方病学名词",
+   "wordNumber": "07.270",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "利用鼠类的天敌，或对人、畜、环境无害而对鼠类有致病力的微生物，致使鼠类大批死亡的方法。"
+  },
+  {
+   "cn": "灭鼠措施",
+   "en": "deratization measure",
+   "source": "地方病学名词",
+   "wordNumber": "07.247",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "利用药物或其他方式消灭鼠类的方法。分为器械、药物、生态学和生物学灭鼠。"
+  },
+  {
+   "cn": "生态灭鼠",
+   "en": "ecological deratization",
+   "source": "地方病学名词",
+   "wordNumber": "07.261",
+   "subjectFullName": "地方病学_鼠疫_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "采用多种方式，破坏鼠类的孳生环境和食物条件，抑制老鼠的繁殖和生长，增加老鼠的死亡率，通过影响其数量来达到消灭老鼠的方法。"
+  },
+  {
+   "cn": "俄罗斯私有化改革",
+   "en": "Privatization in Russia",
+   "source": "世界历史名词",
+   "wordNumber": "05.0526",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "苏联解体后俄罗斯发生的将国有资产私有化的改革，使俄国由计划经济转向自由市场经济。在改革过程中大量国家财富落入少数寡头手里，社会分化严重。"
+  },
+  {
+   "cn": "柱后衍生化",
+   "en": "post column derivatization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "柱前衍生化",
+   "en": "pro-column derivatization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "柱上衍生化",
+   "en": "on-column derivatization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "柱后衍生化",
+   "en": "post-column derivatization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "柱前衍生化",
+   "en": "pre-column derivatization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "衍生化反应小管",
+   "en": "derivatizing reaction vial",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "衍生室温磷光法",
+   "en": "derivatization room temperature phosphorimetry\",\"D-RTP",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "私营化",
+   "en": "privatization",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "泛指国家将公共资产以及服务的所有权或经营权转让给个人或非法定机构的过程或行为。特指20世纪80 、90年代西方国家在公共服务领域进行的以引入市场机制和公共服务机构拍卖、服务外包为主要内容的改革。"
+  },
+  {
+   "cn": "部队特定场合消杀灭",
+   "en": "disinfection, disinsection and deratization in specific military settings",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "全称“部队特定场合消毒、杀虫和灭鼠”。部队为了预防和控制传染病发生和流行，对特定的场所开展的消毒、杀虫和灭鼠工作。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

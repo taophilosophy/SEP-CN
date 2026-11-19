@@ -1,0 +1,772 @@
+{
+ "key": "hierarchical accountability",
+ "term": "hierarchical accountability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:37:16+00:00",
+ "status": "ok",
+ "note": "variant=hierarchical accountability; 审定公布名词库=287; 海峡两岸名词对照库=194; 其他来源数据库=27; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "层次的",
+   "en": "hierarchical",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "以树形节点的形式来描述数据库中的数据之间的关系。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "发生在社会责任论基础上，传媒为其产品的品质和效果而向社会做出回应的所有自愿和非自愿的过程。"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "对自我职责的期望与感知。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "教育学名词",
+   "wordNumber": "14.182",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "组织或管理者所承担的责任。包括接受外界监督和质询，向公众解释其决策或行为的合理性、有效性等。"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "在通信系统安全中，当可能发生扰乱或有企图扰乱系统安全的情况时，能够跟踪到某一个可能负有责任的特定人的特性。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以货币为主要计量尺度，对会计主体已经发生或已经完成的经济活动进行记账、算账和报账的程序。包括对会计对象（会计要素）进行完整的、连续的、系统的反映和监督。"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "通过确认、计量和传递经济信息，以帮助信息使用者做出合理判断和决策的程序。"
+  },
+  {
+   "cn": "账户",
+   "en": "account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0032",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据会计科目在账簿中对各项经济业务进行分类、系统、连续记录的记账单元。"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0002",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "研究会计的产生、发展、对象、任务、理论和方法及其运用的一门学科。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以货币为主要计量尺度，对经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.761",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在安全或多用户计算机系统中，为实现用户访问系统和资源时的权限控制而建立的一种方法。"
+  },
+  {
+   "cn": "层次图",
+   "en": "hierarchical graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.251",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "用来描绘软件的层次结构图，其中方框表示模块或子模块，连线代表调用关系。"
+  },
+  {
+   "cn": "等级式宇宙",
+   "en": "hierarchical universe",
+   "source": "天文学名词",
+   "wordNumber": "07.461",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种认为宇宙结构是分层次等级的宇宙理论。行星绕着恒星运转，恒星组成星系，星系组成星系团、超星系团，等等，如沙利叶宇宙和曼德尔鲍姆提出的分形宇宙。目前的标准宇宙学模型理论认为在大尺度(约100Mpc)以"
+  },
+  {
+   "cn": "等级式成团",
+   "en": "hierarchical clustering",
+   "source": "天文学名词",
+   "wordNumber": "07.572",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "各阶相关函数间存在等级关系的成团性。"
+  },
+  {
+   "cn": "等级关系",
+   "en": "hierarchical relation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.280",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "主题词之间的一种语义关系。两个主题词表达的概念，其中一个概念的外延包括了另一个概念的外延；或者其中一个概念概括地表示某一事物，另一概念仅表示该事物的某一部分或某一方面。可分为属种关系和整体-部分关系。"
+  },
+  {
+   "cn": "等级检索",
+   "en": "hierarchical search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "主题目录的一种检索方法。通过叙词之间的“属—分”关系（包括“种—属”关系、“整—部”关系等）逐级扩展，查找某一叙词及其上位类或下位类的叙词所标引的相关信息。"
+  },
+  {
+   "cn": "层累标记制",
+   "en": "hierarchical notation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "分类时以标记符号的长度显示类目等级层次的标记制度，即分类号的位数与类目的等级数相对应的标记制度。层累制的分类号可反映类目之间的隶属和并列关系。具体编号方法：用一位数字或一个字母来标志大类，再加一位数字"
+  },
+  {
+   "cn": "层次分类",
+   "en": "hierarchical classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.233",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "从含义较广的上位类细分到下位类再一步步细分，直至比较专指的类目的等级式分类方法。"
+  },
+  {
+   "cn": "层次聚类",
+   "en": "hierarchical clustering",
+   "source": "生物物理学名词",
+   "wordNumber": "06.044",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "对数据建立层级的一种聚类算法。通过计算不同类别数据点间的相似度来创建一棵有层次的嵌套聚类树。在聚类树中，不同类别的原始数据点是树的最底层，树的顶层是一个聚类的根节点。创建聚类树有自下而上合并和自上而下"
+  },
+  {
+   "cn": "递阶控制",
+   "en": "hierarchical control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0806",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "有上下层排列的几个控制级的控制结构。其中较高级的控制器协调下一级控制器的工作。"
+  },
+  {
+   "cn": "层次的",
+   "en": "hierarchical",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分级的",
+   "en": "hierarchical",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "层次化",
+   "en": "hierarchization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "递阶控制",
+   "en": "hierarchical control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等级组织",
+   "en": "hierarchical organization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式成团",
+   "en": "hierarchical clustering",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式结构",
+   "en": "hierarchical structure",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式模型",
+   "en": "hierarchical model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式宇宙",
+   "en": "hierarchical universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级系统,层级系统",
+   "en": "hierarchical system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级扩散",
+   "en": "hierarchical diffusion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "递阶系统",
+   "en": "hierarchical system",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "系统聚类",
+   "en": "hierarchical clustering",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "层次存储",
+   "en": "hierarchical storage",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次分区",
+   "en": "hierarchical districts",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次关系",
+   "en": "hierarchical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次结构",
+   "en": "hierarchical structure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层次数据库",
+   "en": "hierarchical database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次化方法",
+   "en": "hierarchical approach",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分层聚类算法",
+   "en": "hierarchical clustering algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚层次聚类",
+   "en": "agglomerative hierarchical clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注册会计师",
+   "en": "certified public accountant",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次结构和关系服务",
+   "en": "hierarchical structure and relationship service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款池融资",
+   "en": "accounts receivable pool financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户数据资产安全",
+   "en": "account data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执法责任制",
+   "en": "accountability system for law enforcement",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "教阶制度/教权制",
+   "en": "hierarchism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "教会法中规定的天主教神职人员的教职等级、教务管理的制度。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "等级议会",
+   "en": "hierarchical council",
+   "source": "马克思主义",
+   "wordNumber": "03.0050",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西方议会的前身。在君主专制统治下，贵族、僧侣和市民阶层的力量逐步扩大，要求相应的政治权力。国王不得不让渡权力，不定期召开由贵族、教士和市民三个不同等级的代表组成的“等级议会”或“三级会议”。新兴资产阶"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "分级医疗体系",
+   "en": "hierarchical medical system",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为管理上的需要，将三级职能水平的应急医疗任务相应地落实到各医疗机构中而形成的二级或三级职责分工明确、又有机衔接的负责核或辐射应急医学处理的阶梯性医疗体系。通常一级为现场处置，二级为当地救治，三级为专科"
+  },
+  {
+   "cn": "贝叶斯层次模型",
+   "en": "Bayesian hierarchical model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.91",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种使用贝叶斯方法估计后验分布参数的多层次统计模型。"
+  },
+  {
+   "cn": "记账法",
+   "en": "accounting dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "由被调查对象按规定要求记录其在规定时间内的食物摄入量，然后计算能量和各种营养素摄入量的调查方法，调查时间为连续1 个月或每季度1 个月或全年逐月。"
+  },
+  {
+   "cn": "社会保险账户",
+   "en": "social insurance account",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "单位按规定划转的保险费和个人缴纳的全部保险费用，投保人相应拥有社会保险个人账户。目前我国多数险种（养老保险、医疗保险等）实行统帐结合制度。"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "source": "马克思主义",
+   "wordNumber": "02.0072",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下计算、统计或考核各种商品经济活动的价值量时所使用的货币单位。计算货币属于观念货币，是货币发挥价值尺度职能的表现。"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "医疗保险基金管理机构为被保险人和退休职工设立的基本医疗保险账户或简称个人账户，用于被保险人生病或受伤时支付医疗费用"
+  },
+  {
+   "cn": "医院成本核算",
+   "en": "hospital cost accounting ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.4",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院运营过程中实际发生的成本进行准确记录、合理的归集和计算，以获得成本对象成本信息的经济核算方法。"
+  },
+  {
+   "cn": "卫生费用核算",
+   "en": "national health accounts,NHA",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用国民经济核算方法，以整个卫生系统为核算对象，建立核算指标和核算框架，专门研究卫生系统的资金运动过程。"
+  },
+  {
+   "cn": "卫生费用核算体系",
+   "en": "system of health accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "从卫生服务功能、卫生服务提供者和筹资来源（筹资机构）三个维度来描述卫生资金的运动情况。"
+  },
+  {
+   "cn": "卫生费用核算核心维度",
+   "en": "core health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时所采用的最关键分析方向或角度。包括服务功能、服务提供机构和筹资方案三个维度。"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "个人医疗储蓄账户",
+   "en": "individual medical savings account",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医疗保险机构为参加基本医疗保险的个人设立的、用于偿付本人医疗费用的专用基金账户"
+  },
+  {
+   "cn": "预算决算",
+   "en": "budget and final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.4",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "用货币的形式来反映医疗卫生机构未来某一特定期间的有关现金收支、资金需求、资金融通、业务收入、成本及财务状况和经营成果等方面的详细计划，并将执行结果编制的年度会计报告制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

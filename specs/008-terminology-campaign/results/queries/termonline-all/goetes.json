@@ -1,0 +1,32 @@
+{
+ "key": "goetes",
+ "term": "goêtês",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:36:26+00:00",
+ "status": "ok",
+ "note": "variant=goêtês; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "东方山羊豆",
+   "en": "east goat's rue; Galega orientalis Lam.",
+   "source": "农学名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "饲用作物_豆科饲用作物",
+   "subjectName": "豆科饲用作物",
+   "publishYear": "2025",
+   "definition": "山羊豆属饲用作物。多年生根蘖型草本。具总状花序；荚果，似马刀形；种子肾形，黄色或黄褐色。抗寒强。适于青饲，加工青贮、干草和草粉。"
+  },
+  {
+   "cn": "Go语言",
+   "en": "Go language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

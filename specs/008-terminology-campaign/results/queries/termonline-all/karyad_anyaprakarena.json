@@ -1,0 +1,42 @@
+{
+ "key": "karyad anyaprakarena",
+ "term": "kāryād anyaprakāreṇa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:54:15+00:00",
+ "status": "ok",
+ "note": "variant=kāryād anyaprakāreṇa; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "re面",
+   "en": "re-face",
+   "source": "化学名词",
+   "wordNumber": "02.0730",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "表达加成至1个立体异位面(羰基或双键)的方向。按照顺序规则，如顺时钟方向则为re面。"
+  },
+  {
+   "cn": "Re-Y分子筛",
+   "en": "Re-Y molecular sieve",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.1254",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "化学式为M2/nO·Al2O3·wSiO2·yH2O（M表示金属元素），淡黄色粉末，有效孔径0.9～1nm，活性高，选择性好，焦化倾向小。由硅酸钠、偏铝酸钠、氢氧化钠经结晶、过滤、洗涤，加入稀土元素的"
+  },
+  {
+   "cn": "re面",
+   "en": "re face",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

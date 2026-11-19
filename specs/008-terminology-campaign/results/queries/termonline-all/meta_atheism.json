@@ -1,0 +1,702 @@
+{
+ "key": "meta-atheism",
+ "term": "meta-atheism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:47:16+00:00",
+ "status": "ok",
+ "note": "variant=meta-atheism; 审定公布名词库=1104; 海峡两岸名词对照库=446; 其他来源数据库=18; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "主张世界上既没有灵魂和鬼，也没有上帝和任何其他神存在的学说。完全否定任何超自然力量。神是否存在，不能证实或证伪，属形而上学问题。与“有神论”相对。马克思主义坚持无神论，唯物主义者也是无神论者。"
+  },
+  {
+   "cn": "meta回归",
+   "en": "meta regression",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0558",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "分析研究间异质性来源及大小，并进一步阐述或解释异质性对荟萃分析中合并效应量的影响的分析方法。"
+  },
+  {
+   "cn": "元-元模型",
+   "en": "meta-meta model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0097",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "元模型体系结构的基础，定义了说明元模型的语言。"
+  },
+  {
+   "cn": "变角闪岩",
+   "en": "meta-hornblendite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.047",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "普通角闪石含量＞90％的变质岩。可含少量辉石、石榴子石、斜长石、石英等。一般具中粗粒柱状变晶结构，块状构造，有时呈片状构造。"
+  },
+  {
+   "cn": "变辉石岩",
+   "en": "meta-pyroxenolite",
+   "source": "地质学名词",
+   "wordNumber": "06.05.048",
+   "subjectFullName": "地质学_变质岩岩石学_变质岩岩石类型",
+   "subjectName": "变质岩岩石类型",
+   "publishYear": "2026",
+   "definition": "辉石含量＞90％的变质岩。主要由透辉石和紫苏辉石组成。可含少量角闪石、石榴子石、斜长石、石英、磁铁矿等。一般具中粗粒变晶结构，块状构造。"
+  },
+  {
+   "cn": "宏代谢组",
+   "en": "meta-metabolome",
+   "source": "农学名词",
+   "wordNumber": "15.257",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "一个特定环境或者生态系统中所有代谢产物的总和。"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "对话语的元层次上的研究与反思。与基础话语（primary discourse）相对。讨论话语的组织与功能以及话语发出者与接受者的各种特征。"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "描述知识集的知识。"
+  },
+  {
+   "cn": "元沟通",
+   "en": "meta communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.034",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能给交往者个体带来暗示的、引申的、重要的，也是最初的对关系讯息及其意义产生理解的沟通现象与行为。常用于判断相互关系及其属性。被概括为一种“有关沟通的沟通”。"
+  },
+  {
+   "cn": "元讯息",
+   "en": "meta message",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.097",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "附加在讯息之上的讯息。沟通者通过对讯息的编码与解码，将沟通行为自身也视作一种沟通的讯息。"
+  },
+  {
+   "cn": "变形球建模",
+   "en": "meta modeling",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.118",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用一些具有“黏性”的球体相互堆积塑造模型的方便直观的建模方法。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0533",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "采用统计方法，将多个独立、针对同一临床问题、可以合成的临床研究综合起来进行定量分析。"
+  },
+  {
+   "cn": "元索引",
+   "en": "meta-index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.852",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "为便于用户对站点进行检索，提高检索速度而编制的关于网站站点索引的索引。"
+  },
+  {
+   "cn": "元本体",
+   "en": "meta-ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在各领域中通用的，定义了各部分之间的关系及其属性的本体。是绝对抽象事物。认识元本体必须认识抽象事物，掌握抽象事物的本质和特征。"
+  },
+  {
+   "cn": "元概念",
+   "en": "meta-concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "一种抽象的概念，即概念的概念。用来组织某些领域的概念的属性和类，完成或添加具体的概念等。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "针对某一具体问题，收集相关研究，获取其研究结果并进行统计合并，获取定量分析研究结果的过程。"
+  },
+  {
+   "cn": "元数据库",
+   "en": "meta database",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0080",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "含有元数据的数据库。"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0669",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "关于知识的知识。例如如何根据领域特征选择和利用解决有关该领域问题的知识。"
+  },
+  {
+   "cn": "元数据",
+   "en": "meta data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0125",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "关于某数据的名字、意义、描述、来源、职责、格式、用途以及与其他数据的联系等的信息。它提供了数据的描述信息或逻辑观点，因此亦有关于数据的数据之称。"
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "核医学名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "在苯环上取代基与主取代基相差一个碳原子的位置。"
+  },
+  {
+   "cn": "元分析",
+   "en": "meta analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "间位",
+   "en": "meta position",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整合分析",
+   "en": "meta-analysis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "元信令",
+   "en": "meta-signaling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "媒介人兽互通病",
+   "en": "meta-zoonosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "间位定位基",
+   "en": "meta directing group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增强型图像文件",
+   "en": "enhanced meta file\",\"EMF",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "元信令协议实体",
+   "en": "meta-signaling protocol entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "返祖现象",
+   "en": "atavism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "返祖现象",
+   "en": "atavism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "返祖[现象]",
+   "en": "atavism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "年龄歧视",
+   "en": "ageism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "雅典宪章",
+   "en": "Charter of Athens",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "金属-金属键",
+   "en": "metal-metal bond",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "蒴柄",
+   "en": "seta",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "方山",
+   "en": "mesa",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构元备份",
+   "en": "data structure meta backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标枪头",
+   "en": "metal head\",\"metal point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "聪明的贝塔",
+   "en": "Smart Beta",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内股",
+   "en": "inner thigh throw\",\"uchi-mata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赏信罚必",
+   "en": "Confer Honors and Mete Out Punishment to Those Who Deserve Them",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二人同心，其利断金",
+   "en": "If Two People Are of the Same Mind, Their Combined Strength Can  Break Metal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无神论",
+   "en": "atheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0106",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语a（不，无）和theos（神），泛指相信神灵不存在的思想或与有神论相反的立场。马克思主义哲学中，该术语是指否定一切宗教信仰和鬼神迷信的学说，与“有神论”相对立，其理论基础是唯物主义。"
+  },
+  {
+   "cn": "Meta分析",
+   "en": "meta analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体问题，系统、全面收集已经发表的相关文献或未发表的相关研究数据，进行定量整合，得出综合性结论的研究方法。是一种对许多独立研究结果进行整合的统计分析方法。"
+  },
+  {
+   "cn": "荟萃分析",
+   "en": "meta-analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.158",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将对同一个主题的若干分析结果作为数据以综合研究发现，得出更精确的参数估计的统计分析技术。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "泛神论",
+   "en": "pantheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0107",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语pan（一切）和theos（神）。J.托兰德（Toland.J）首先使用的术语。是指把神和整个宇宙视为同一，即与存在的一切总和视为同一的哲学观，主张神就存在于自然界一切事物之中，没有其他超自"
+  },
+  {
+   "cn": "金属",
+   "en": "metal",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.7.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "具有良好的电导性、热导性、延展性和可塑性的元素或化合物，如铁、铜、铝、锌、钛等。"
+  },
+  {
+   "cn": "阿埃塔人",
+   "en": "Aeta",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.012",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "菲律宾民族之一。人口约4.2 万（2016 年）。主要分布在吕宋岛东部和北部山区，棉兰老、民都洛、巴拉望、班乃和内格罗斯等岛的山林地带。属尼格罗-澳大利亚人种尼格利陀类型。使用马来语。持万物有灵信仰。"
+  },
+  {
+   "cn": "鲜肉",
+   "en": "fresh meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "屠宰后立即出售或冷藏条件下短期储存的畜禽肉。"
+  },
+  {
+   "cn": "冷冻肉",
+   "en": "frozen meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "经预冷排酸、急冻的肉品。一般在–18℃以下贮藏，深层肉温达–15℃。"
+  },
+  {
+   "cn": "乙型丙内酯",
+   "en": "beta-propiolactone",
+   "source": "消毒学",
+   "wordNumber": "2.1.11.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "化学式为C3H4O2，属于丙内酯的烷基化化合物，无色或淡黄色液体，具有刺激性气味，可溶于水和许多有机溶剂，杀菌作用比环氧乙烷更强，但由于具有致癌作用，不作为常规消毒灭菌剂使用。"
+  },
+  {
+   "cn": "金属腐蚀性",
+   "en": "metal corrosivity",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "金属和合金材料接触到消毒剂、消毒器械后受腐蚀的程度。"
+  },
+  {
+   "cn": "金属试样",
+   "en": "metal sample",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "大小、厚薄等规格一致并符合相关要求的试验用金属和合金的样片。"
+  },
+  {
+   "cn": "β衰变",
+   "en": "beta decay",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.39",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核通过弱相互作用发射β-粒子、β+粒子或俘获轨道电子的放射性衰变。使该核的原子序数增加1或减少1，不改变其质量数。"
+  },
+  {
+   "cn": "贝塔系数",
+   "en": "beta coefficient",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.94",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "标准化的回归系数。"
+  },
+  {
+   "cn": "畜肉类罐头",
+   "en": "meat can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.1",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的猪、牛、羊等畜肉及其内脏为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "金属探测器",
+   "en": "metal detector",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.11",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "能检测并警示食品中金属杂质的装置。"
+  },
+  {
+   "cn": "腌腊肉制品",
+   "en": "cured meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.5",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以鲜冻、畜禽肉或其可食副产品为原料，添加或不添加辅料，经腌制、烘干或晒干、风干等工艺加工而成的非即食肉制品。"
+  },
+  {
+   "cn": "冷却肉",
+   "en": "chilled meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.2",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "畜禽宰后经过充分冷却，并在后续的加工、贮运和销售过程中始终保持在-1~7℃的生鲜肉。"
+  },
+  {
+   "cn": "畜肉",
+   "en": "livestock meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "可食用的猪、牛、羊等牲畜肉的统称。"
+  },
+  {
+   "cn": "焙烤肉",
+   "en": "baked meat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.28",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以畜禽肉或其可食副产品等为主要原料，配以调味料（含食品添加剂）在介质燃点之下的温度范围，通过干热（烘）的方式使物料脱水熟化的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

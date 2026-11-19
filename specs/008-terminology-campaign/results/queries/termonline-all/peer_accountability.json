@@ -1,0 +1,782 @@
+{
+ "key": "peer accountability",
+ "term": "Peer accountability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:37:24+00:00",
+ "status": "ok",
+ "note": "variant=Peer accountability; 审定公布名词库=620; 海峡两岸名词对照库=290; 其他来源数据库=33; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "对等操作",
+   "en": "peering",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.235",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在分层通信网络中，处于同一层的设备之间的操作。"
+  },
+  {
+   "cn": "同行评议",
+   "en": "peer assessment,peer review",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.107",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "一种学术评审方式，即某一学术成果或项目计划被同一专业领域的其他专家学者评审。学术研究资金管理机构常以这种方式来决定是否拨付资金、授予奖金，学术出版机构也常以这种方法来选择与筛选所投送的稿件录用与否。"
+  },
+  {
+   "cn": "对等系统",
+   "en": "peer-to-peer system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0609",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "使用对等体系结构的应用系统。"
+  },
+  {
+   "cn": "对等体系结构",
+   "en": "peer-to-peer architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0608",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "依赖各个参与者自身的计算能力和带宽，各个参与者之间形成客户端-服务器体系结构，各个节点既向他人请求服务也向他人提供服务。"
+  },
+  {
+   "cn": "对等网络搜索",
+   "en": "peer-to-peer search",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0468",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "以对等网络环境中资源为目标的搜索过程。"
+  },
+  {
+   "cn": "对等网络",
+   "en": "peer-to-peer network",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "仅包含与其控制和运行能力等效的节点的计算机网络。"
+  },
+  {
+   "cn": "对等计算",
+   "en": "peer-to-peer computing",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.167",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "一种允许瘦客户机直接与其他瘦客户机进行通信的分布式计算结构。"
+  },
+  {
+   "cn": "同行评议",
+   "en": "peer review",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由具有相近专业或行业背景的同行进行质量评价，是科学界对科研项目和成果进行评审、评价的一种基本方法。广泛应用于科研管理。同行评议在控制期刊的学术质量、规范学者的学术行为方面发挥了重要作用，此方法也被认为"
+  },
+  {
+   "cn": "同伴教育",
+   "en": "peer education",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.067",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_社会应用",
+   "subjectName": "社会应用",
+   "publishYear": "2022",
+   "definition": "一种健康促进的有效方法。其特征是：社区伙伴或青少年之间通过相互教授和分享健康信息和知识、价值观、生活经验及行为模式，以获得健康生活的技能。"
+  },
+  {
+   "cn": "对等实体",
+   "en": "peer entities",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0083",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络分层结构中位于另一系统上属于相同层次的实体。"
+  },
+  {
+   "cn": "同行评议",
+   "en": "peer review",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0451",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_宏观科技",
+   "subjectName": "宏观科技",
+   "publishYear": "2016",
+   "definition": "由从事该领域或接近该领域的专家来评定一项工作的学术水平或重要性的一种机制。"
+  },
+  {
+   "cn": "同业互查",
+   "en": "peer review",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0420",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "由职业团体指定的检查人员对会计师事务所质量控制系统的建立健全及其执行情况进行的调查和评估。"
+  },
+  {
+   "cn": "同伴评定",
+   "en": "peer rating",
+   "source": "心理学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "根据同伴意见考察个体发展或被接纳程度的社会测量方法。"
+  },
+  {
+   "cn": "同伴接纳",
+   "en": "peer acceptance",
+   "source": "心理学名词",
+   "wordNumber": "06.053",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "个体被同伴群体接受，处于有利的社交地位。"
+  },
+  {
+   "cn": "同伴拒绝",
+   "en": "peer rejection",
+   "source": "心理学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "个体被同伴群体所排斥，处于不利的社交地位。"
+  },
+  {
+   "cn": "同伴学习",
+   "en": "peer learning",
+   "source": "心理学名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "在没有教师直接指导的情况下，通过同伴之间的互动而改善学习的一种合作学习方式。"
+  },
+  {
+   "cn": "同龄伙伴学习",
+   "en": "peer learning",
+   "source": "教育学名词",
+   "wordNumber": "12.151",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "同辈伙伴之间利用团队所有成员经验而展开的相互传授与相互学习活动。这种情况通常发生在没有教师或专家指导下的成人教育活动之中。"
+  },
+  {
+   "cn": "同行评议",
+   "en": "peer review",
+   "source": "教育学名词",
+   "wordNumber": "08.132",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校的一种学术评议制度。同一或相近学科的专家学者对教授（或副教授）评聘资格、学术成果水平、学位论文质量进行的评议。"
+  },
+  {
+   "cn": "同伴效应",
+   "en": "peer effect",
+   "source": "教育学名词",
+   "wordNumber": "14.180",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "在年龄和背景等方面相似的一群青少年彼此产生的影响。"
+  },
+  {
+   "cn": "对等网络",
+   "en": "peer-to-peer,P2P",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0415",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "在一个计算机网络，每台计算机相对于在网络上的其他计算机都可以充当一个客户端或服务器，计算机之间允许共享访问而不需要中央文件和外设服务器。"
+  },
+  {
+   "cn": "同伴学习",
+   "en": "peer learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴评定",
+   "en": "peer rating",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴拒绝",
+   "en": "peer rejection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴群体",
+   "en": "peer group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴评价",
+   "en": "peer assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴提名",
+   "en": "peer nomination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴影响",
+   "en": "peer influence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴接纳",
+   "en": "peer acceptance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对等[层]实体",
+   "en": "peer entities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流域水量收支",
+   "en": "basin accounting",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "资产会计",
+   "en": "asset accounting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "点对点网络借款",
+   "en": "peer-to-peer lending",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "点对点网络",
+   "en": "peer-to-peer network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等共创生产",
+   "en": "peer production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对等分享模式",
+   "en": "peer-to-peer sharing model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注册会计师",
+   "en": "certified public accountant",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款池融资",
+   "en": "accounts receivable pool financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准催收",
+   "en": "collection of accounts receivable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户数据资产安全",
+   "en": "account data asset security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执法责任制",
+   "en": "accountability system for law enforcement",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟子账户管理体系",
+   "en": "virtual sub-account management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重大决策终身责任追究制度",
+   "en": "system of lifelong accountability for major decisions",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "同侪文化",
+   "en": "peer culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.4",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "由同龄人构成的社会群体的文化。"
+  },
+  {
+   "cn": "同辈督导",
+   "en": "peer supervision",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "由社会工作从业人员相互之间进行督导的方式。有时不被视为一种严格意义上的社会工作督导方式。"
+  },
+  {
+   "cn": "同伴效应",
+   "en": "peer effect",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.3",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "同伴之间相互影响行为，包括一组人的行为影响组内个体行为的内生交互，一组人的外生特征影响个体行为的背景交互，和因为一组人具有相似特征或者环境而导致相似行为的相关效应。"
+  },
+  {
+   "cn": "同伴关系",
+   "en": "peer relationship",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "同龄人间或心理发展水平相当的个体间在交往过程中建立和发展起来的一种人际关系。"
+  },
+  {
+   "cn": "同伴压力",
+   "en": "peer pressure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "同辈团体中大多数成员的意见所形成的一种会使每个成员与大多数人保持一致，从而改变态度、价值观、行为方式以适应团体规范的一种力量。"
+  },
+  {
+   "cn": "同伴教育",
+   "en": "peer education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用青少年的集群倾向进行健康教育的过程。首先从群体中挑选出一些有影响力和号召力的人进行培训，使其掌握一定知识和技巧，并鼓励其向周围青少年传播这些知识和技能，达到共同受教育的目的。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "同龄群体",
+   "en": "cohort/peer group",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.11",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "由一些年龄、兴趣、爱好、态度、价值观、社会地位等方面较为接近的人组成的非正式初级群体。他们互相影响态度、信仰和行为。"
+  },
+  {
+   "cn": "同侪共同体",
+   "en": "community of peers",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.12",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "由年龄、兴趣、地位相近的人或同龄人组成的群体。"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "记账法",
+   "en": "accounting dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "由被调查对象按规定要求记录其在规定时间内的食物摄入量，然后计算能量和各种营养素摄入量的调查方法，调查时间为连续1 个月或每季度1 个月或全年逐月。"
+  },
+  {
+   "cn": "社会保险账户",
+   "en": "social insurance account",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "单位按规定划转的保险费和个人缴纳的全部保险费用，投保人相应拥有社会保险个人账户。目前我国多数险种（养老保险、医疗保险等）实行统帐结合制度。"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "source": "马克思主义",
+   "wordNumber": "02.0072",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下计算、统计或考核各种商品经济活动的价值量时所使用的货币单位。计算货币属于观念货币，是货币发挥价值尺度职能的表现。"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "医疗保险基金管理机构为被保险人和退休职工设立的基本医疗保险账户或简称个人账户，用于被保险人生病或受伤时支付医疗费用"
+  },
+  {
+   "cn": "医院成本核算",
+   "en": "hospital cost accounting ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.4",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院运营过程中实际发生的成本进行准确记录、合理的归集和计算，以获得成本对象成本信息的经济核算方法。"
+  },
+  {
+   "cn": "卫生费用核算",
+   "en": "national health accounts,NHA",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用国民经济核算方法，以整个卫生系统为核算对象，建立核算指标和核算框架，专门研究卫生系统的资金运动过程。"
+  },
+  {
+   "cn": "卫生费用核算体系",
+   "en": "system of health accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "从卫生服务功能、卫生服务提供者和筹资来源（筹资机构）三个维度来描述卫生资金的运动情况。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

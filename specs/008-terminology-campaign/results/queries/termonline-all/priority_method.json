@@ -1,0 +1,732 @@
+{
+ "key": "priority method",
+ "term": "priority method",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:45:19+00:00",
+ "status": "ok",
+ "note": "variant=priority method; 审定公布名词库=4156; 海峡两岸名词对照库=1050; 其他来源数据库=53; 预公布名词数据库=216; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "优先[方]法",
+   "en": "priority method",
+   "source": "数学名词",
+   "wordNumber": "02.0278",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先树方法",
+   "en": "priority tree method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "设计构造安排策略树上的策略工作的方法。"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家取得同行关于其首次做出某项科学发现的承认。是科学家从发现中能得到的唯一所有权。科学家只有得到承认才能确立其在科学共同体中的地位，从而获得科学研究所需的重要资源。"
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0387",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在资源分配和调度算法中，表示一个对象被优先选择的顺序。与优先数的大小一致或相反。"
+  },
+  {
+   "cn": "优先律",
+   "en": "priority",
+   "source": "微生物学名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "命名法规中以发表时间的先后来确定分类单元名称正确使用的规定。"
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "数学名词",
+   "wordNumber": "011.0500",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "电子学名词",
+   "wordNumber": "21.393",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优先性",
+   "en": "priority",
+   "source": "自动化名词",
+   "wordNumber": "03.237",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "优先树方法<img src='/root/syzx/static/spz/jsjkx3.02.0250.001.png'/>",
+   "en": "priority tree method <img src='/root/syzx/static/spz/jsjkx3.02.0250.001.png'/>",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0250",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "拉赫朗非分裂定理证明中发明的方法，即沿真路径还有一个有穷损害，这样每一个需求在真路径上有最后一个候补策略，它能成功地满足需求。"
+  },
+  {
+   "cn": "有穷损害优先方法",
+   "en": "finite injury priority method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0232",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算性理论中的基本构造方法。该方法把一个条件分解成无穷个需求，所有需求排成一个线性优先序，这里排在前面的需求优先被满足。构造允许满足一个需求时优先性更低的需求被损害。该方法要求每一个需求经过有限次动"
+  },
+  {
+   "cn": "无穷损害优先方法",
+   "en": "infinite injury priority method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "在构造中，一个策略可能被无穷次损害，在这种情况下怎样为一个需求设计一个策略使其最终能满足需求，解决这一问题的方法就是一个无穷损害优先方法。"
+  },
+  {
+   "cn": "优先效应",
+   "en": "priority effect",
+   "source": "农学名词",
+   "wordNumber": "15.270",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "先到达的物种影响后到达物种的定殖，最终影响群落构建的现象。"
+  },
+  {
+   "cn": "第一优先",
+   "en": "first priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的在短时间内存在生命危险、经积极紧急救治有可能存活的急危重症患者给予第一时间最先救治的情形。该类患者用红色标识标记。"
+  },
+  {
+   "cn": "第二优先",
+   "en": "second priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.061",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的需尽快接受治疗，但可在短时间暂不处理又不危及生命的较重患者给予第二时间救治的情形。该类患者用黄色标识标记。"
+  },
+  {
+   "cn": "第三优先",
+   "en": "third priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的轻伤、又有检查与治疗需要的患者，在救治完急危重症及较重患者后给予救治的情形。该类患者用绿色标识标记。"
+  },
+  {
+   "cn": "第四优先",
+   "en": "fourth priority",
+   "source": "急救医学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "急救医学_灾难医学_灾难医学救援_现场检伤分类与分级救治",
+   "subjectName": "现场检伤分类与分级救治",
+   "publishYear": "2025",
+   "definition": "检伤分类过程中检出的已经死亡的患者，放置在特定的区域可暂不处理，以利用有限的医疗资源救治更多患者的情形。该类患者用黑色标识标记。"
+  },
+  {
+   "cn": "公交优先",
+   "en": "transit priority",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.468",
+   "subjectFullName": "城乡规划学_城乡规划与设计_综合交通规划",
+   "subjectName": "综合交通规划",
+   "publishYear": "2021",
+   "definition": "在政策、法规和资源利用等方面对公共交通实行优惠的理念。"
+  },
+  {
+   "cn": "专利优先权",
+   "en": "patent priority",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.244",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "专利申请人就其发明创造第一次在某国提出专利申请后，在法定期限内，又就相同主题的发明创造提出专利申请的，根据有关法律规定，其再次申请以第一次专利申请的日期作为其申请日，专利申请人依法享有的这种权利。"
+  },
+  {
+   "cn": "专利优先权",
+   "en": "patent priority",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.422",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "已经在一个国家正式提出了发明专利、实用新型专利、外观设计专利或商标注册的申请人，在其他国家提出同样的申请，在规定期限内应该享有的优先权利。在规定的申请优先权期限届满以前，任何后来在其他国家提出的申请，"
+  },
+  {
+   "cn": "中断优先级",
+   "en": "interrupt priority",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0282",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在同时出现几个中断的情况下，根据中断源性质，按需要实时地对多个中断源排队，依照排队结果将中断源分级。"
+  },
+  {
+   "cn": "优先律，优先权",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权（=优先律）",
+   "en": "priority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先级",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "priority",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "进口优先权",
+   "en": "import priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对优先权",
+   "en": "first priority",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉优先级",
+   "en": "snapping priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绘图优先级",
+   "en": "drawing priority",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "作业优先级",
+   "en": "job priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序优先级",
+   "en": "program priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "当前优先级",
+   "en": "current priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动态优先级",
+   "en": "dynamic priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对换优先级",
+   "en": "swapping priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分派优先级",
+   "en": "dispatching priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高优先级",
+   "en": "high priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本优先级",
+   "en": "base priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极限优先级",
+   "en": "limit priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进程优先级",
+   "en": "process priority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序指示器",
+   "en": "priority order indicator\",\"rotation indicator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先通行、免费通行",
+   "en": "priority and toll-free access",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迭代法",
+   "en": "iterative method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "穷举法",
+   "en": "enumeration method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递推法",
+   "en": "recurrence method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回溯法",
+   "en": "backtracking method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱人为大",
+   "en": "Caring for Others is the Top Priority.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿法",
+   "en": "Newton’s method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "节点链接法",
+   "en": "node link method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "战略优先领域",
+   "en": "strategic priorities",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "根据战略目标、环境、资源能力和竞争态势，确定需优先投入资源、重点关注的战略方向。对食品安全未来发展进行系统研究基础上，充分权衡食品安全发展趋势、国家发展目标以及社会经济和科技资源限制等因素后确立的未来"
+  },
+  {
+   "cn": "健康促进优先项目",
+   "en": "health promotion priority",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "学校基于对本校学生、教职员工的主要身心健康问题的了解，根据其严重程度、可干预性、可行性等方面的特点，针对优先健康问题开展的干预活动。"
+  },
+  {
+   "cn": "重点服务人群",
+   "en": "priority target population",
+   "source": "社会医学名词",
+   "wordNumber": "8.1.2.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务相关方",
+   "publishYear": "2025",
+   "definition": "在卫生服务中需要优先关注的群体，通常包括0～6岁儿童、孕产妇、老年人、慢性病患者、严重精神障碍患者和肺结核患者等。"
+  },
+  {
+   "cn": "优先风险评估",
+   "en": "priority risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据风险的严重程度、发生概率以及可能产生的影响等因素，综合确定风险优先处理排序或级别的系统化评估策略。"
+  },
+  {
+   "cn": "科学发现的优先权",
+   "en": "priorities in scientific discovery",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.14",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家在科学研究中对某一重大科学发现或发明所起到的首要作用，往往表现为某（些）科学家率先发现或发明了某项科学知识或技术，开创了某种新的研究领域等。"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "滴定法",
+   "en": "titration method",
+   "source": "消毒学",
+   "wordNumber": "6.1.12",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "将一种已知浓度的标准溶液滴加到含待测物质的溶液中，根据完成化学反应所消耗的标准溶液的浓度、体积和待测溶液的体积，计算溶液中待测物质量的分析方法。"
+  },
+  {
+   "cn": "倾注法",
+   "en": "pouring method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验样本均匀分散于固体培养基中进行活菌计数的试验方法。"
+  },
+  {
+   "cn": "稀释法",
+   "en": "dilution method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.8",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用稀释液稀释消毒剂与试验微生物的混合液，使其不再抑制或杀灭微生物的方法。"
+  },
+  {
+   "cn": "称重法",
+   "en": "weight method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过比较清洗前后污染物重量来评价清洗效果的方法。"
+  },
+  {
+   "cn": "凝胶法",
+   "en": "gel method",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过鲎试剂与内毒素产生凝集反应的原理来定性或半定量检测内毒素的方法。"
+  },
+  {
+   "cn": "符合法",
+   "en": "coincidence method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用核衰变时能发射两个或两个以上级联辐射的特性来测量放射性核素活度的一种方法。"
+  },
+  {
+   "cn": "谱仪法",
+   "en": "spectrometer method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "利用谱仪（如α、γ谱仪）测定各种射线能谱的技术方法。通常包括样品源的制备、测量及解谱等。"
+  },
+  {
+   "cn": "归纳法",
+   "en": "inductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "就某个特定的主题，观察和收集数据，积累事实，从而得出一般原理的推理程序。"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "详析模式",
+   "en": "elaboration method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "一种确证两个变量间因果关系的统计分析策略。在详析分析中，先在两维的列联表上分析两个变量的关系，然后引入第三个变量进一步检验两个变量与第三个变量间的关系。是由拉扎斯菲尔德提出的。"
+  },
+  {
+   "cn": "评估的方式方法",
+   "en": "evaluation method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对社会工作服务进行评估所采用的主要方式和具体方法。一般来说，个案工作者有以下几种可能的评估方式：1.与案主一起对服务的效果和效率进行评估；2.与同事一起对服务提供联合评估；3.利用原定计划表进行评估。"
+  },
+  {
+   "cn": "极差法",
+   "en": "range method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "一组数据中最大值减去最小值的计算方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

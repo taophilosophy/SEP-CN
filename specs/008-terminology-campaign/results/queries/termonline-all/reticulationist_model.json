@@ -1,0 +1,722 @@
+{
+ "key": "reticulationist model",
+ "term": "reticulationist model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:43:17+00:00",
+ "status": "ok",
+ "note": "variant=reticulationist model; 审定公布名词库=3403; 海峡两岸名词对照库=1079; 其他来源数据库=161; 预公布名词数据库=205; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "模型",
+   "en": "model,modeling",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.224",
+   "subjectFullName": "城乡规划学_城乡规划总述_成果表达",
+   "subjectName": "成果表达",
+   "publishYear": "2021",
+   "definition": "（1）根据现状、规划设计或设想，按比例制成的同实物相似的物体或影像。供展览、研究、试验或观测等用。（2）对所研究对象的全部或某一方面的实质或属性，以某种形式抽象表述的方法。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "风景园林名词",
+   "wordNumber": "10.0051",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括建筑模型制作、场地模型制作、竖向设计模型制作等。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.171",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "为了特定目的，根据原型特有的内在规律，将原型所具有的部分本质属性进行简化、抽象而构造的原型替代物。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "畜牧学名词",
+   "wordNumber": "04.655",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "描述变量间相互关系的数学表达式。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0036",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "包括物理模型和数学模型。前者是利用相关设备建立的小型装置；后者是能够反映原型系统内在规律的数学表达。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0095",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）系统或其他事物及过程的抽象表示。（2）元模型体系结构中的一个层次，是元模型的一个实例。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0448",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "用以分析问题的概念、数学关系、逻辑关系和算法序列的表示体系。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0221",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "用以判断原型的性能，其通流部分与原型几何相似的装置。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.379",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对现实世界的实体或现象按照一定规则所进行的抽象，用于模拟过程、了解状况、预测结果和分析问题。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "地理学名词",
+   "wordNumber": "25.048",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "用以分析问题的概念、数学关系、逻辑关系和算法序列的表示体系。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "化学工程名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "数学名词",
+   "wordNumber": "02.0076",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "自动化名词",
+   "wordNumber": "04.560",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "ω2模式",
+   "en": "ω2 model",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1436",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "广泛使用的与远场体波相联系的震源模式。其特征是位移振幅谱在低频时是平坦的，而在高频时以频率的 .2次方的幂次规律衰减。低频趋势与高频趋势的交点称为拐角频率。拐角频率与震源的线性尺度成反比。在频率高于称"
+  },
+  {
+   "cn": "γ类模型",
+   "en": "γ model",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0411",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "使用二阶泰勒展开式来近似估计组合的非线性风险，考虑了凸性风险的模型。不同类型γ模型的区别在于市场因子的分布和随机过程假定不同。"
+  },
+  {
+   "cn": "δ类模型",
+   "en": "δ model",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0410",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "通过对证券组合的价值函数取一阶近似简化计算过程的模型。不同类型的Dδ方法的区别在于市场因子的统计分布和随机过程假定不同。"
+  },
+  {
+   "cn": "建模",
+   "en": "modeling",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "对某个给定的问题或对象建立数学模型的过程。建模的方法大致分为机理建模（mechanism modeling）和经验建模（empirical modeling）两大类型。"
+  },
+  {
+   "cn": "建模",
+   "en": "modeling",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.620",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "通过建立数学模型，系统而抽象地描述事物间因果关系或相互关系的过程。"
+  },
+  {
+   "cn": "模仿法",
+   "en": "modeling",
+   "source": "行为医学名词",
+   "wordNumber": "20.082",
+   "subjectFullName": "行为医学_行为干预与治疗_行为训练",
+   "subjectName": "行为训练",
+   "publishYear": "2022",
+   "definition": "向个体呈现某种行为榜样，让其观察示范者如何行为及他们的行为得到的积极后果，以引起患者模仿相似行为的方法。"
+  },
+  {
+   "cn": "模型化",
+   "en": "modeling",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0041",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "对某个给定的问题或对象建立的数学模型或物理模型。"
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模型",
+   "en": "model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建模",
+   "en": "modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "示范法,模仿法",
+   "en": "modeling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建模",
+   "en": "modeling",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "建模",
+   "en": "modeling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建模，造形",
+   "en": "modeling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地形模型",
+   "en": "terrain model\",\"relief model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "立体模型",
+   "en": "relief model\",\"stereo model",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "有效模型",
+   "en": "neat model\",\"gross model",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "企业模型",
+   "en": "enterprise model\",\"business model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理模型",
+   "en": "inference model\",\"reasoning model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船模",
+   "en": "ship model\",\"block model",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软骨雏形",
+   "en": "cartilage model",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "岛屿模型",
+   "en": "island model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "断续模式",
+   "en": "punctuational model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐变模式",
+   "en": "gradualistic model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莱斯利模型",
+   "en": "Leslie model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模型论",
+   "en": "model theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "KANO模型",
+   "en": "KANO model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网状模型",
+   "en": "network model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系模型",
+   "en": "relationship model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图模型",
+   "en": "graph model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "“社会—心理”模式",
+   "en": "psychosocial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "最具社会工作特点的一种治疗模式，也是个案工作中经常采用的传统治疗模式之一，与行为矫正模式、人本治疗模式一起并称为“当代三大个案工作治疗模式”。借助“人在情境中”的基本原理将心理和社会因素结合起来，强调"
+  },
+  {
+   "cn": "治疗模式",
+   "en": "remedial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "将小组工作与个案工作有机结合起来的一种小组工作方法模式或类型。通过提供服务给具有不同需要的个体，利用小组的经验来克服组员的个人心理、社会与文化的适应问题等，协助个人康复，获得最佳的社会功能。"
+  },
+  {
+   "cn": "互动模式",
+   "en": "reciprocal model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "强调小组成员的相互关系和满足组员需要的小组工作模式，代表人物是施瓦茨(H.Schwarz）。该模式关注个人与社会之间的关系，强调小组工作者运用小组来克服危机和压力，促成社会功能的实现，进而使个人获得“"
+  },
+  {
+   "cn": "折中模式",
+   "en": "eclectic model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "主张多重目标的小组工作模式。其认为任何小组工作的实施，不可能只靠单一方法就能达到目标，而是要灵活地运用不同的方法。在小组中，社会工作者应给予小组成员较大的行动空间和相对大的自由与民主，小组则应该提供更"
+  },
+  {
+   "cn": "学徒模式",
+   "en": "apprenticeship model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "一种全面的、综合的学习方式。强调提供实践机会、示范学习的社会工作督导模式。认为学习是一种“干中学”，好的实务来自于不断重复的学习，在干中不断提高。基于行为理论，强调过程与结果并重。其显著的特点在于督导"
+  },
+  {
+   "cn": "管理模式",
+   "en": "management model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调督导对被督导者负有行政管理和督促检查职责的督导模式。其按机构计划安排的工作任务进行督导，即是否能完成工作任务是督导最关注部分，并且是以技术为本的。督导是“问题—解决”取向的，着重帮助被督导者解决完"
+  },
+  {
+   "cn": "转型模型",
+   "en": "WRC model",
+   "source": "马克思主义",
+   "wordNumber": "05.0126",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "沃尔夫（R. D. Wolff）、迈克尔·罗伯茨（Michael Roberts）等在1984年的《传统“转型问题”的一个马克思主义的解法》一文中，采用静态均衡的分析框架，探讨了转型问题，详细比较了李"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

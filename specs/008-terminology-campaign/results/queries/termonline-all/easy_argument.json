@@ -1,0 +1,602 @@
+{
+ "key": "easy argument",
+ "term": "easy argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:40:21+00:00",
+ "status": "ok",
+ "note": "variant=easy argument; 审定公布名词库=120; 海峡两岸名词对照库=62; 其他来源数据库=14; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "安乐椅",
+   "en": "easy chair",
+   "source": "风景园林名词",
+   "wordNumber": "11.0292",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "古代指靠背长可容身且大角度后倾，足下有弯轨，能前后摇动的扶手椅。后无论足下是否弯轨，只要适于躺靠，依靠感较强的扶手椅或靠背椅，通称安乐椅。"
+  },
+  {
+   "cn": "缓沟",
+   "en": "easy access",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.390",
+   "subjectFullName": "煤炭科学技术_煤矿开采_露天开采",
+   "subjectName": "露天开采",
+   "publishYear": "1996",
+   "definition": "适用于铁道和公路运输，坡度小的沟道。"
+  },
+  {
+   "cn": "易行车",
+   "en": "easy rolling car",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0491",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "易行线",
+   "en": "easy running track",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "易[磁化方]向",
+   "en": "easy direction of magnetization",
+   "source": "物理学名词",
+   "wordNumber": "08.1973",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "易[磁化]轴",
+   "en": "easy axis [of magnetization]",
+   "source": "物理学名词",
+   "wordNumber": "08.1974",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "加速缓坡",
+   "en": "easy gradient for acceleration",
+   "source": "土木工程名词",
+   "wordNumber": "08.111",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汽车操纵轻便性",
+   "en": "easiness of vehicle control",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不可或缺性论证",
+   "en": "indispensability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.260",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由蒯因、普特南等人提出的一个数学实在论论证。该论证认为，如果作为关于世界之最佳理论的自然科学无法避免对数学对象的指称，那么就应当接受数学对象的客观实在性。"
+  },
+  {
+   "cn": "僵尸论证",
+   "en": "zombie argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.514",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "D. 查莫斯（D. Chalmers）给出的一种“可设想性论证”的思想实验。如果一种在物理行为层面和人类完全一样，但却没有意识经验或感受性的僵尸的存在是可设想的，那么就可以推论出僵尸的存在是可能的。因"
+  },
+  {
+   "cn": "可设想性论证",
+   "en": "conceivability argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.518",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "笛卡儿在《第六沉思》中最早提出这类论证：由某情形是可设想的，推导出它也是可能存在的。D. 查莫斯（D. Chalmers）的僵尸论证是典型的可设想性论证。"
+  },
+  {
+   "cn": "知识论证",
+   "en": "knowledge argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.578",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "哲学家F. 杰克逊（F. Jackson）等人提出的一个反驳物理主义的论证类型。试图指出所有相关的物理事实的知识并不能揭示经验的主观特征。例如，一直生活在黑白房间中的视觉科学家玛丽知道关于视知觉的一切"
+  },
+  {
+   "cn": "争论性幻听",
+   "en": "argument hallucination",
+   "source": "精神医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "听到几种声音对受检者某方面表达观点不一致，甚至相互之间发生争吵的一种言语性幻听。"
+  },
+  {
+   "cn": "标度论证",
+   "en": "scaling argument",
+   "source": "物理学名词",
+   "wordNumber": "05.1095",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力迫论证",
+   "en": "forcing argument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0228",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "这是集合论中的力迫方法在可计算性中的应用，它被广泛应用于可计算性理论。"
+  },
+  {
+   "cn": "权威论证",
+   "en": "authoritative argument",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0275",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "援引有关权威人士或机构的意见来证实自己论点的可信度，争取他人支持自己主张的政策说服行为。"
+  },
+  {
+   "cn": "低息资金",
+   "en": "easy money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松信贷条件",
+   "en": "easy credit terms",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松信贷政策",
+   "en": "easy credit policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放松银根政策",
+   "en": "easy money policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "轻滑配合",
+   "en": "easy slide fit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轻转配合",
+   "en": "easy running fit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场银根松动",
+   "en": "easiness of money market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "交互式论证",
+   "en": "interactive argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类推论证",
+   "en": "argument by analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近地点辐角",
+   "en": "argument of perigee",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近点辐角",
+   "en": "argument of periapsis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近心点辐角",
+   "en": "argument of pericenter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "升交角距",
+   "en": "argument of latitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本国产业论，本国产业保护论",
+   "en": "home industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "产业多样化论",
+   "en": "diversified industry argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工业保护论",
+   "en": "industry protection argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国内市场论",
+   "en": "home market argument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "近地点引数",
+   "en": "argument of perigee",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战胜易，守胜难",
+   "en": "It Is Easy to Win a War but Difficult to Retain the Victory.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "忘适之适",
+   "en": "Effortless Ease",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放松",
+   "en": "ease\",\"rest\",\"shio",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "易简",
+   "en": "Ease and Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中东呼吸综合征",
+   "en": "Middle East respiratory syndrome (MERS)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“大东亚共荣圈”",
+   "en": "“Greater East Asia Co-Prosperity Sphere”",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "东西部扶贫协作",
+   "en": "east-west pairing-off cooperation for poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "欧亚理事会标准化计量和认证组织",
+   "en": "Euro-Asian Council for Standardization, Metrology and Certification (EASC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尼莲正东流，西树几春秋。（援助印度，源自玄奘）",
+   "en": "By the Holy Lotus River；Where pure gold flows east.； Looking back to the western shore；At Buddha’s sacred grove for many thousands of autumns.",
+   "source": "新冠肺炎疫情相关词汇中英对照表",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容易型气质",
+   "en": "easy temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "吃、喝、睡等生理功能都很规律，节奏明显，易适应环境，情绪愉快而稳定，易接受新事物和不熟悉人的人格特征。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "中和位育论",
+   "en": "East-Balance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0632",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、优生学家、民族学家和教育学家潘光旦引用儒家经典《中庸》里的“致中和，天地位焉，万物育焉”之义提炼而成的核心研究概念，被视为其新人文思想的核心。“位育”为“安其所”“遂其生”，即天地万物各"
+  },
+  {
+   "cn": "东亚模式",
+   "en": "east asian model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "东亚地区，包括日本、亚洲“四小龙”以及“东盟”一些国家所采取的政府主导的外向型经济发展模式。该模式使上述国家在20世纪70年代至90年代初出现经济持续高速增长，并在20世纪80年代先后进入世界中等发达"
+  },
+  {
+   "cn": "东匈语支",
+   "en": "East Hun branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0297",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿尔泰语系突厥语族的一个语支。历史上属于东匈奴部落联盟、东突厥汗国、回鹘汗国和黠嘎斯部落联盟的突厥语族诸语言，包括柯尔克孜语、西部裕固语、图佤语（瓦？）等"
+  },
+  {
+   "cn": "土尔扈特东归",
+   "en": "Turghuud East Migration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0601",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代著名历史事件。18 世纪上半叶沙俄政府向土尔扈特人征收名目繁多的赋税，径发兵役徭役，并强迫改信东正教。土尔扈特新汗渥巴锡于1771 年1 月初，率领16.9 万土尔扈特人启程东归。1771 年8 "
+  }
+ ],
+ "error": null,
+ "raw": null
+}

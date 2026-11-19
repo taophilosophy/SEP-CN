@@ -1,0 +1,732 @@
+{
+ "key": "self-location",
+ "term": "self-location",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:50:15+00:00",
+ "status": "ok",
+ "note": "variant=self-location; 审定公布名词库=2126; 海峡两岸名词对照库=808; 其他来源数据库=96; 预公布名词数据库=132; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "经济学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某一经济主体为其社会经济活动所占有的场所（如工业区位、居住区位、城市区位等）。经济区位的实质是反映不同的地理坐标（空间位置）所标识的经济利益差别。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0671",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "对应对突发事件的资源等的地址进行论证和决策的过程。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "07.0199",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "城市或建设项目、设施的位置与其他城市、建设项目、设施等空间要素的关系。是影响城市和区域发展的基础性因素。"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地或建筑物、构筑物等所在或所占的地方。"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "航海科技名词",
+   "wordNumber": "14.0168",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "source": "物理学名词",
+   "wordNumber": "08.0685",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0621",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "用于确定位置的一种点的输入设备。"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "source": "语言学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "根据反切上下字确定被切字在切韵图上的音韵地位。"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "source": "地理学名词",
+   "wordNumber": "18.131",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "公司总部所在地。在公司空间结构和治理中起关键作用。"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0416",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震源在地面投影的位置。 "
+  },
+  {
+   "cn": "现场地址",
+   "en": "current location",
+   "source": "急救医学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "呼叫救护车时患者所在的地理位置。"
+  },
+  {
+   "cn": "定位时刻",
+   "en": "location time",
+   "source": "急救医学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度相关时间",
+   "subjectName": "调度相关时间",
+   "publishYear": "2025",
+   "definition": "调度员受理急救电话时在电子地图进行呼叫定位的时间点。"
+  },
+  {
+   "cn": "区位分析",
+   "en": "location analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0093",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "对城市的位置、所属地区、人文环境、气候条件、城市规模和与城市之间的距离等信息的分析。"
+  },
+  {
+   "cn": "档案库位管理",
+   "en": "location management",
+   "source": "档案学名词",
+   "wordNumber": "03.03.023",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "规划档案库房的使用面积和柜架数量、合理布局，便于档案定位的管理活动。"
+  },
+  {
+   "cn": "货位",
+   "en": "stock location",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.111",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "用于存储出版物的有编号的位置。"
+  },
+  {
+   "cn": "地震定位",
+   "en": "earthquake location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0388",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "运用宏观资料和 (或)地震波到时资料所确定的地震事件 (地震、爆炸等 )的经纬度、震源深度、发震时刻 (起爆时刻)与震级(大小)的工作。 "
+  },
+  {
+   "cn": "震源位置",
+   "en": "hypocentral location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0408",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "爆炸、矿山坍塌或任何一种激发地震波的地震震源在空间的位置。包括震中位置(震中经、纬度 )和震源深度。 "
+  },
+  {
+   "cn": "采集地",
+   "en": "sample location ",
+   "source": "草学名词",
+   "wordNumber": "4.0617",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "观测地点",
+   "en": "observation location ",
+   "source": "草学名词",
+   "wordNumber": "4.0626",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置配置",
+   "en": "location-allocation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工业区位",
+   "en": "industrial location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交通区位",
+   "en": "traffic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经济区位",
+   "en": "economic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "居住区位",
+   "en": "residential location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绝对区位",
+   "en": "absolute location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农业区位",
+   "en": "agricultural location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位比",
+   "en": "location rate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一资源定位符",
+   "en": "uniform resource locator (URL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性灵",
+   "en": "Xingling (Inner Self)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独化",
+   "en": "Self-driven Development",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "表现为局灶性皮肤肿胀并逐渐硬化、萎缩而不伴脏器受累。主要分为硬斑病和线状硬皮病两种类型。该病无雷诺现象，无脏器受累，甲褶微循环检查正常，自身抗体阳性率低，一般不进展为系统性硬化症。"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  },
+  {
+   "cn": "自检",
+   "en": "self-inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业根据产品执行标准对所生产的消毒产品自行检验的过程。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "自屏蔽",
+   "en": "self-shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.11",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "源物质本身及其结构材料对源辐射的屏蔽。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不存在外部因素的控制、管理和引导，系统按照相互默契的某种规则，各尽其责而又协调地自动地形成有序结构的过程。艾什比(W.R.Ashby）首先提出自组织概念，之后学者将之应用于社会组织分析。与“他组织”相"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我构念",
+   "en": "self construal",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家马库斯(Hazel Markus）与日本心理学家北山(Shinobu Kitayama）在有关东西方文化因素对个体社会化过程影响的分析中提出的概念，指个体自我建构的与他人关系的认知结构性表"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "自我意象",
+   "en": "self image",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体围绕“我是怎样一个人”、“我能干什么”等问题所“刻画”并认可的自我“图像”或“肖像”。具体包括自己如何看待自己，他人如何看待自己，以及自己如何看待他人如何看待自己等三个方面的内容。既可能是积极的，"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "自我觉察",
+   "en": "self-awareness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同含义：一是指个体对作为观察与分析客体的自我的知觉，包括身体感觉、动作及心理过程等；二是指个体对自己作为一个与他人相区隔，拥有一己知觉、情绪、情感、思想的独立个体的理解。"
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "自我披露",
+   "en": "self-disclosure",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "在人际沟通过程中，有意识或下意识地将自己的真实想法、情感、愿望、偏好及成败经历等私密性信息告诉他人的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

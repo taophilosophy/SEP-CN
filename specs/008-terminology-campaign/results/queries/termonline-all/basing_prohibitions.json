@@ -1,0 +1,782 @@
+{
+ "key": "basing prohibitions",
+ "term": "basing prohibitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:43:30+00:00",
+ "status": "ok",
+ "note": "variant=basing prohibitions; 审定公布名词库=2687; 海峡两岸名词对照库=829; 其他来源数据库=200; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "禁酒运动",
+   "en": "Prohibition Movement",
+   "source": "世界历史名词",
+   "wordNumber": "03.0155",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪20年代至30年代出现的主张禁止生产、销售和饮用含酒精饮料的社会改革运动。"
+  },
+  {
+   "cn": "违禁广告",
+   "en": "prohibited advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.318",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "广告管理法规禁止发布的广告。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited substance",
+   "source": "运动医学名词",
+   "wordNumber": "09.033",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何被列入禁用清单的物质。"
+  },
+  {
+   "cn": "禁用清单",
+   "en": "prohibited list",
+   "source": "运动医学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "确定禁用物质和禁用方法的清单。"
+  },
+  {
+   "cn": "禁用方法",
+   "en": "prohibited method",
+   "source": "运动医学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何被列入禁用清单的方法。"
+  },
+  {
+   "cn": "限制性职业",
+   "en": "prohibited occupation",
+   "source": "教育学名词",
+   "wordNumber": "11.079",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "由法律或政策规定，禁止某类人员（如外籍、未成年人、孕妇等）从事的职业。"
+  },
+  {
+   "cn": "禁飞区",
+   "en": "prohibited area",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.064",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "在一个国家的陆地或领海上空划定的禁止航空器飞行的空域。"
+  },
+  {
+   "cn": "违禁物品",
+   "en": "prohibited articles",
+   "source": "航海科技名词",
+   "wordNumber": "11.0365",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止通行",
+   "en": "traffic prohibited",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.196",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止停车",
+   "en": "parking prohibited",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不准入境",
+   "en": "entrance prohibited",
+   "source": "航海科技名词",
+   "wordNumber": "11.0366",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止发行",
+   "en": "prohibition of distribution;prohibition of circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.052",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物发行的行政或司法行为。"
+  },
+  {
+   "cn": "禁止出版",
+   "en": "prohibition of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.046",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物出版的行政或司法行为。"
+  },
+  {
+   "cn": "禁止登载",
+   "en": "prohibition of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.051",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种信息登载的行政或司法行为。"
+  },
+  {
+   "cn": "禁止发售",
+   "en": "prohibition of sale",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.055",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物发售的行政或司法行为。"
+  },
+  {
+   "cn": "戈尔巴乔夫反酗酒运动",
+   "en": "Gorbachev Prohibition Campaign",
+   "source": "世界历史名词",
+   "wordNumber": "05.0506",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1985年5月，苏联全国开展反酗酒运动，收到良好社会效果，但随之而来的是私酿酒和黑市大行其道，造成财政方面的危机和人民的不满。1987年运动结束。"
+  },
+  {
+   "cn": "禁建区",
+   "en": "development-prohibited zone",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "在城乡规划中划定的，为保护生态环境、自然和历史文化环境，除满足基础设施和公共安全等方面需要外，禁止进行城镇开发建设的地区。"
+  },
+  {
+   "cn": "禁止开发区域",
+   "en": "prohibited development zone",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.025",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "依法设立的各级各类自然文化资源保护区域，以及其他禁止进行工业化城镇化开发、需要特殊保护的重点生态功能区。"
+  },
+  {
+   "cn": "禁止建设区",
+   "en": "development-prohibited zone",
+   "source": "建筑学名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "建筑学_城乡规划_总体规划",
+   "subjectName": "总体规划",
+   "publishYear": "2014",
+   "definition": "为保护生态环境、自然和历史文化环境，满足基础设施和公共安全等方面的需要，在总体规划中划定的禁止安排城镇开发项目的地区。"
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited navigation zone",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0051",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "为了国家安全，沿海国在其领海内设立的、限制外国船只航行的特定区域。"
+  },
+  {
+   "cn": "禁止性关税",
+   "en": "prohibitive tariff (=prohibitive duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止性关税",
+   "en": "prohibitive duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "不准入境",
+   "en": "entrance prohibited",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "违禁物品(违禁品)",
+   "en": "prohibited articles",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "禁止性进口关税",
+   "en": "prohibitive import duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited navigation zone",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁[止抛]锚区",
+   "en": "anchorage-prohibited area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "禁止锚泊标",
+   "en": "anchor prohibited mark",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "禁止出口货物",
+   "en": "prohibited article for exportation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止进口货物",
+   "en": "prohibited article for importation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基质",
+   "en": "base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱",
+   "en": "base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "π碱",
+   "en": "π-base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基底",
+   "en": "base",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "减基",
+   "en": "base",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基极",
+   "en": "base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景化",
+   "en": "scenario-based",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字底座",
+   "en": "digital base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗日根据地",
+   "en": "resistance base",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "起评分",
+   "en": "base score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底托",
+   "en": "base\",\"head",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒线",
+   "en": "base line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三垒",
+   "en": "third base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二垒",
+   "en": "second base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偷垒",
+   "en": "steal a base\",\"steal\",\"stolen base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "禁止化学武器组织",
+   "en": "Organisation for the Prohibition of Chemical Weapons",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "象教",
+   "en": "Image-based Teaching",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "禁止个人崇拜",
+   "en": "prohibition of personal worship",
+   "source": "马克思主义",
+   "wordNumber": "03.0561",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对“文革”时期个人崇拜现象严重的问题，党的十二大最早提出“党禁止任何形式的个人崇拜”，这次大会通过的新党章对此做了明确规定。"
+  },
+  {
+   "cn": "禁止商业化原则",
+   "en": "prohibition of commercialization principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.078",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "禁止将人体器官和组织作为商品进行买卖和变相买卖的伦理原则。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "体模内包含辐射束轴上最大吸收剂量90%点的平面所在的深度。"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会生活和社会发展的根基或起点，与社会阶级、社会公平、社会秩序、文化价值和社会管理密切相关。"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "source": "马克思主义",
+   "wordNumber": "03.0723",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政党的群众基础本质上就是政党与群众的关系问题。从政党角度来看，就是党在人民群众中的影响力、号召力、凝聚力；从群众角度来看，就是人民群众对党的支持和认同。"
+  },
+  {
+   "cn": "农产品禁止生产区域",
+   "en": "prohibited production area of agricultural products",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "县级以上地方人民政府农业行政主管部门按照保障农产品质量安全的要求，根据农产品品种特性和生产区域大气、土壤、水体中有毒有害物质状况等因素，认为不适宜特定农产品生产的，提出禁止生产的区域。"
+  },
+  {
+   "cn": "居家照护",
+   "en": "home-based care",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.17",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "以家庭为单位，由专业医护人员、社区工作者及志愿者等组成的团队，通过评估、计划、实施与评价的系统性流程，为居家生活的老年人、慢性病患者、残疾人、术后康复者等群体提供医疗护理、生活照料、康复支持及心理关怀"
+  },
+  {
+   "cn": "醇类消毒剂",
+   "en": "alcohol-based disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.7",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以乙醇和（或）丙醇为主要有效成分且有效浓度一般为70%～80%（v/v）的消毒剂。多用于手、完整皮肤、物体表面的擦拭消毒。"
+  },
+  {
+   "cn": "碱基切除修复",
+   "en": "base excision repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "切除修复的一种，其特点是切除受损伤的碱基。主要过程是水解受损伤的碱基与脱氧核糖核酸链之间的N-糖苷键，反应由一类糖基化酶催化。"
+  },
+  {
+   "cn": "街居制",
+   "en": "residence-based administration",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.10",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在城市基层域为单位建立的行政管理和社会管理相结合的管理体制。"
+  },
+  {
+   "cn": "社区组织",
+   "en": "community-based organizations",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.4",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "扎根于某一特定社区或建立在社区基础之上的一类组织。致力于满足社区及其成员的各种需求并维护其利益。"
+  },
+  {
+   "cn": "革命根据地",
+   "en": "revolutionary base areas",
+   "source": "马克思主义",
+   "wordNumber": "03.0357",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在第二次国内革命战争、抗日战争和解放战争时期据以长期进行武装斗争的区域。是共产党领导人民军队赖以执行自己的战略任务, 达到保存自己,消灭敌人之目的的战略基地，是中国革命胜利的基地。"
+  },
+  {
+   "cn": "基于投入支付",
+   "en": "input-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的工资、设备费用等投入进行支付。"
+  },
+  {
+   "cn": "基于产出支付",
+   "en": "output-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.6",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者提供的服务数量和费用等产出进行支付。"
+  },
+  {
+   "cn": "按病种支付",
+   "en": "disease-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "对覆盖某个病种或疾病的所有服务以固定费用进行支付的方式，多用于住院患者费用支付。"
+  },
+  {
+   "cn": "优绩优酬",
+   "en": "performance-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "体现医务人员成绩、成效或业绩大小的分配方式。"
+  },
+  {
+   "cn": "带量采购",
+   "en": "volume-based procurement ",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "在明确药品需求数量的基础上，生成规模优势，达到以量换价的目的，从而提高采购效率、降低采购价格、节省采购成本的采购方式。"
+  },
+  {
+   "cn": "视屏行为",
+   "en": "screen-based behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "处于坐位与卧位的情况下使用电子媒体设备进行娱乐的行为。"
+  },
+  {
+   "cn": "以人群为基础的监测",
+   "en": "population-based surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "以某地理或行政区域范围内所有满足纳入条件的目标人群为监测对象的一种监测方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

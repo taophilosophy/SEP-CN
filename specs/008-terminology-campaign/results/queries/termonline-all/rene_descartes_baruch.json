@@ -1,0 +1,702 @@
+{
+ "key": "rene descartes baruch",
+ "term": "René Descartes Baruch",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:43:07+00:00",
+ "status": "ok",
+ "note": "variant=René Descartes Baruch; 审定公布名词库=1528; 海峡两岸名词对照库=832; 其他来源数据库=31; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "地租",
+   "en": "rent; ground rent; land rent",
+   "source": "农学名词",
+   "wordNumber": "19.232",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地所有权向土地使用者收取的转让使用费。"
+  },
+  {
+   "cn": "租金",
+   "en": "rent",
+   "source": "经济学名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "供给数量固定不变的一般资源的服务价格。即价格的提高不会增加其市场供给量，而价格的降低也不会减少其市场供给量。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "grade difference rent; differential rent",
+   "source": "农学名词",
+   "wordNumber": "19.234",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地所有权取得的绝对地租外，由于农地质量不同或区域位置不同而取得的额外溢价收益。"
+  },
+  {
+   "cn": "绝对地租",
+   "en": "absolute rent",
+   "source": "农学名词",
+   "wordNumber": "19.233",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地所有权取得的地租。"
+  },
+  {
+   "cn": "准租金",
+   "en": "quasi-rent",
+   "source": "经济学名词",
+   "wordNumber": "03.183",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "在短期内供给量不变，但在长期内却是可变的要素的价格。"
+  },
+  {
+   "cn": "经济租金",
+   "en": "economic rent",
+   "source": "经济学名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "要素的当前收入超出其机会成本的部分。如果从生产要素的全部收入中减去这部分，并不会影响要素的供给。简言之，经济租金等于要素收入与其机会成本之差，代表着要素收入中超过其在其他用途上可能得到的收入。"
+  },
+  {
+   "cn": "地租",
+   "en": "land rent",
+   "source": "经济学名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "为使用土地而必须向土地所有者支付的报酬，即土地的使用价格。"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential rent",
+   "source": "经济学名词",
+   "wordNumber": "03.188",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "土地的需求价格随着土地边际生产力的递减而递减，但由于土地的供给是相对固定的，因此，地租水平在很大程度上仅仅取决于土地需求的变动情况。由于各块土地在肥沃程度和地理位置等方面存在着差异，因此不同土地的边际"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "经济学名词",
+   "wordNumber": "03.214",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "为了获得和维持垄断地位从而得到垄断利润（亦即垄断租金）所从事的一种非生产性寻利活动。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0126",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "政府部门及其管理者以其拥有的特权向服务对象谋取非正当利益的行为。 "
+  },
+  {
+   "cn": "森林地租",
+   "en": "forest rent",
+   "source": "林学名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "林学_林业经济_林业经济理论",
+   "subjectName": "林业经济理论",
+   "publishYear": "2016",
+   "definition": "依靠林地所有权而攫取林农剩余劳动的产物。在不同的社会制度下，体现了不同的生产关系。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "企业等寻求经济收益如利润最大化机会或政府寻求政治收益如政治局势稳定或政治关系牢固最大化机会的行为或过程。"
+  },
+  {
+   "cn": "资源租赁",
+   "en": "resource rent",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.057",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "资源所有权与使用权产生分离时，资源使用者为取得一定时间内的资源使用权而向资源所有者支付一定费用即租金，且使用权满后将资源使用权归还资源所有者的一种经济活动或经济关系。"
+  },
+  {
+   "cn": "地租",
+   "en": "land rent",
+   "source": "资源科学技术名词",
+   "wordNumber": "14.077",
+   "subjectFullName": "资源科学技术_土地资源学",
+   "subjectName": "土地资源学",
+   "publishYear": "2008",
+   "definition": "土地在生产利用中自然产生的或应该产生的经济报酬，即总产值或总收益减去总要素成本或总成本后的剩余部分。"
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "地理学名词",
+   "wordNumber": "18.063",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "区位条件造成的土地价值的差异。"
+  },
+  {
+   "cn": "人方",
+   "en": "Ren Fang;Ren State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.475",
+   "subjectFullName": "中国古代史_先秦_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "位于殷商东南部的强大方国。又称“夷方”，应以夷人为主，大致在今鲁南、皖北一带，商王帝辛（纣王）在位时期曾率东部诸侯征伐之。"
+  },
+  {
+   "cn": "檐人",
+   "en": "yan ren",
+   "source": "风景园林名词",
+   "wordNumber": "07.0399",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "屋面出檐头，盖瓦上装饰的小瓦人。"
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren",
+   "source": "档案学名词",
+   "wordNumber": "08.03.003",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "职官名。殷商时期用龟甲从事占卜以定吉凶并负责记事的人。属于巫史之列。殷墟甲骨卜辞中记载贞人之名甚多，贞字上一字常为人名。"
+  },
+  {
+   "cn": "间规聚苯乙烯",
+   "en": "syndiotactic polysty-rene",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0349",
+   "subjectFullName": "化工（七）_合成树脂_聚苯乙烯和ABS树脂",
+   "subjectName": "聚苯乙烯和ABS树脂",
+   "publishYear": "2022",
+   "definition": "主链结构为苯基相间有规则地排列在分子链两侧的聚苯乙烯。是用一种高度定向的催化体系—茂金属催化剂聚合得到的结晶型聚苯乙烯。保留了无规聚苯乙烯的低密度和容易成型的优点，但熔点高达270℃，有很高的耐热性。"
+  },
+  {
+   "cn": "十二指肠肾瘘",
+   "en": "reno-duodenal fistula",
+   "source": "消化病学名词",
+   "wordNumber": "3.488",
+   "subjectFullName": "消化病_胃十二指肠_十二指肠疾病",
+   "subjectName": "十二指肠疾病",
+   "publishYear": "2022",
+   "definition": "十二指肠与肾/肾盂之间形成的病理性通道。是十二指肠瘘的类型之一，主要包括自发性和外伤性两种，多为慢性病容，有尿路感染症状，逆行和顺行输尿管肾盂造影是主要诊断方法。"
+  },
+  {
+   "cn": "莱博维茲",
+   "en": "Leibowitz\",\"René(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科洛",
+   "en": "Kollo\",\"René(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公平租金",
+   "en": "fair rent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应付租金",
+   "en": "rent payable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应收租费",
+   "en": "rent receivable",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地租梯度",
+   "en": "rent gradient",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "勒内王的烟",
+   "en": "Cheminée du roi René\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Milhaud, Darius"
+  },
+  {
+   "cn": "竞租曲线",
+   "en": "bid-rent curve",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "肾",
+   "en": "kidney\",\"nephros\",\"ren",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "足底弓穿支",
+   "en": "perforating branch of plantar arch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "枝[条]",
+   "en": "branch",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分支",
+   "en": "branch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腹腔支",
+   "en": "celiac branch\",\"coeliac branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感支",
+   "en": "sympathetic branch\",\"sympathic branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "节间支",
+   "en": "interganglial branch\",\"interganglionic branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脾支",
+   "en": "splenic branch\",\"lienal branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "舌支",
+   "en": "lingular branch\",\"lingual branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经节支",
+   "en": "ganglionic branch\",\"ganglial branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "食管支",
+   "en": "esophageal branch\",\"oesophageal branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "以租代买",
+   "en": "rent-to-own",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁",
+   "en": "Ren (Benevolence)<br /><br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "树篱障碍",
+   "en": "brush",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "批处理",
+   "en": "batch processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抹球",
+   "en": "brush shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "挺身",
+   "en": "arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弓身",
+   "en": "arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍尾",
+   "en": "back arch\",\"cantle\",\"rear arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分支定界法",
+   "en": "branch and bound method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地租",
+   "en": "land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0270",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地所有者凭借土地出租获得的收入，是土地所有权在经济上的实现。地租是劳动产品扣除生产投入维持劳动者生活必需后的余额，其实质是剩余劳动的产物和剩余价值的真正形态。"
+  },
+  {
+   "cn": "货币地租",
+   "en": "money rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0276",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以货币形式缴纳的地租，是封建地租的一种形式。货币地租下，直接生产者的产品的一部分必须当作商品来出售，农民对市场的依赖增加。货币地租促进了自然经济的瓦解和商品经济的发展，是封建地租的最后形式和解体形"
+  },
+  {
+   "cn": "农业地租",
+   "en": "agricultural rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0277",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由农业生产获得的地租，相对于建筑地段的地租、矿山地租而区分。建筑地段地租的基础由农业地租规定，矿山地租的决定方法和农业地租一样。"
+  },
+  {
+   "cn": "谷物地租",
+   "en": "corn rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0278",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以谷物缴纳的地租。在《资本论》中谷物地租主要出现在对级差地租的分析中，谷物地租与货币地租相对应，二者有不同的变化率。"
+  },
+  {
+   "cn": "工役地租",
+   "en": "labor rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0300",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "农民因耕种地主的土地而被迫在规定的时间内，用自己的生产工具在地主直接经营的土地上为其进行无偿劳动的一种封建地租形式。是封建社会初期在生产力水平较低和以原始的劳动方式为基础的条件下出现的最简单的地租形式"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府部门及其管理者以其拥有的特权向服务对象谋取非正当利益的行为。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "披甲人",
+   "en": "Pijia ren",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0012",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "清朝八旗旗丁之一类，降人出身，民族不一，多戍守边疆。"
+  },
+  {
+   "cn": "廉租房制度",
+   "en": "low-rent housing",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "为保障城镇居民住有所居的基本社会权利，政府通过租赁补贴、实物配租和租金减免等方式，通过市场为住房有困难的低收入家庭提供的住房救助的一种住房保障制度。"
+  },
+  {
+   "cn": "绝对地租",
+   "en": "absolute ground rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0272",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由土地所有权的垄断产生、租种任何土地都必须缴纳的地租形式。农业资本有机构成低于工业，农产品价值高于生产价格。土地所有权的垄断限制了资本的自由投入，使农产品价值高于生产价格的部分不参加利润的平均化，超过"
+  },
+  {
+   "cn": "级差地租",
+   "en": "differential land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0273",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由于耕种的土地优劣等级不同而形成的地租，经营较优土地获得的由土地所有者占有的超额利润。级差地租是投在不同等级土地上的等量资本所具有的不同生产率的结果。由于优、中土地数量有限带来土地经营的垄断，而农产品"
+  },
+  {
+   "cn": "垄断地租",
+   "en": "monopolistic land rent",
+   "source": "马克思主义",
+   "wordNumber": "02.0274",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从具有独特自然条件的土地上所获得的超额利润转化而来的地租，超过绝对地租和级差地租的地租。它可以来源于租佃农场中对工资的扣除或者同这种具有垄断价格的商品进行交换的其他商品的剩余价值的一部分。"
+  },
+  {
+   "cn": "实物地租",
+   "en": "rent in kind",
+   "source": "马克思主义",
+   "wordNumber": "02.0275",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "农民以实物形式缴纳的地租，是封建地租的一种形式。这种形态下，农民不再在地主土地上直接提供剩余劳动，而是直接以剩余产品形式作地租。"
+  },
+  {
+   "cn": "信息寻租",
+   "en": "information rent-seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息拥有者凭借自己所掌握的信息以谋取和维护个人或团体利益最大化的行为或过程。"
+  },
+  {
+   "cn": "波鲁卡人",
+   "en": "Boruca",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0342",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "中美洲哥斯达黎加境内的土著人，分布在哥斯达黎加南部地区，居民约为3000 人，信奉天主教，把西班牙语作为第一语言或主要语言，波鲁卡人已经完全融入哥斯达黎加社会。"
+  },
+  {
+   "cn": "减租减息",
+   "en": "reduction of rent and interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0337",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在抗日战争时期实行的经济政策。当时为团结各阶层人民一致抗日，减轻农民的地租负担和所受高利贷的剥削，由土地革命时期的没收地主土地、实行耕者有其田的政策，改为减租减息政策。地租，一般以实行二五减"
+  },
+  {
+   "cn": "彝语支",
+   "en": "Yi branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0256",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括彝语、哈尼语、傈僳语、拉祜语、纳西语、基诺语、卡卓语、桑孔语、毕苏语、怒苏语、柔若语等。在中国主要分布在云南、四川、贵州、广西4 省区，使用人口约1000 多万；在国外"
+  },
+  {
+   "cn": "占语支",
+   "en": "Chamic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0354",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南岛语系印度尼西亚语族的一个语支。分布在越南、柬埔寨等国，中国海南省三亚市回族使用的回辉语属于这个语支。"
+  },
+  {
+   "cn": "羌语支",
+   "en": "Qiang branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0246",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括羌语、嘉戎语、普米语、尔龚语、拉坞戎语、却域语、扎坝语、木雅语、尔苏语、史兴语、贵琼语、纳木依语等。主要分布在云南省、四川省以及西藏自治区。"
+  },
+  {
+   "cn": "通古斯语支",
+   "en": "Tungusic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0321",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿尔泰语系满-通古斯语族的一个语支。主要分布在中国内蒙古自治区和黑龙江省，包括鄂温克语、鄂伦春语。俄罗斯的东西伯利亚以及蒙古国的巴尔虎地区也有分布。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

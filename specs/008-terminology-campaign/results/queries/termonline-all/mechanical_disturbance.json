@@ -1,0 +1,692 @@
+{
+ "key": "mechanical disturbance",
+ "term": "mechanical disturbance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:41:51+00:00",
+ "status": "ok",
+ "note": "variant=mechanical disturbance; 审定公布名词库=1746; 海峡两岸名词对照库=350; 其他来源数据库=220; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "干扰",
+   "en": "disturbance ",
+   "source": "草学名词",
+   "wordNumber": "2.0064",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "干扰",
+   "en": "disturbance",
+   "source": "林学名词",
+   "wordNumber": "03.196",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "在不同空间和时间尺度上偶然发生的，不可预知的事件，直接影响着生态系统的演变过程并具有破坏性的现象。"
+  },
+  {
+   "cn": "干扰",
+   "en": "disturbance",
+   "source": "生态学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "在不同空间和时间尺度上偶然发生的，不可预知的自然事件。它直接影响着生态系统的演变过程并具有破坏性。"
+  },
+  {
+   "cn": "扰动",
+   "en": "disturbance",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.245",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "扰动",
+   "en": "disturbance",
+   "source": "电气工程名词",
+   "wordNumber": "16.120",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "扰动",
+   "en": "disturbance",
+   "source": "自动化名词",
+   "wordNumber": "01.168",
+   "subjectFullName": "自动化科学技术_自动化技术通类",
+   "subjectName": "自动化技术通类",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "机械通气相关性电解质紊乱",
+   "en": "mechanical ventilation-associated electrolyte disturbance",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.346",
+   "subjectFullName": "呼吸病学_机械通气_机械通气负效应",
+   "subjectName": "机械通气负效应",
+   "publishYear": "2018",
+   "definition": "机械通气量不足或过大导致动脉血二氧化碳分压和pH值等不适当变化，并诱发或加重相应电解质紊乱的现象。与常规电解质紊乱的处理不同，需迅速通过调节通气量纠正电解质紊乱。"
+  },
+  {
+   "cn": "摄动",
+   "en": "perturbation,disturbance",
+   "source": "物理学名词",
+   "wordNumber": "02.0351",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "障碍",
+   "en": "disturbance,disorder",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0240",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "干扰",
+   "en": "disturbance,interference",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0042",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "扰动",
+   "en": "disturbance,perturbation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "电解质紊乱",
+   "en": "electrolyte disturbance",
+   "source": "普通外科学名词",
+   "wordNumber": "03.026",
+   "subjectFullName": "医学_普通外科学_水电解质平衡",
+   "subjectName": "水电解质平衡",
+   "publishYear": "2026",
+   "definition": "任何体内电解质数量、浓度改变的病理状态。"
+  },
+  {
+   "cn": "意识障碍",
+   "en": "conscious disturbance",
+   "source": "急救医学名词",
+   "wordNumber": "03.959",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "对周围环境及自身状态的识别和觉察能力出现障碍。包括清醒程度障碍和意识内容、认知功能障碍。"
+  },
+  {
+   "cn": "人为干扰",
+   "en": "human disturbance",
+   "source": "风景园林名词",
+   "wordNumber": "12.0038",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "由于人的行为，改变或破坏生态系统、群落或种群的组成结构，改变生物系统的资源基础和环境状况。"
+  },
+  {
+   "cn": "干扰",
+   "en": "disturbance;interference",
+   "source": "风景园林名词",
+   "wordNumber": "12.0034",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "阻断原有生物系统生态过程的非连续性事件。其改变或破坏生态系统、群落或种群的组成结构，改变生物系统的资源基础和环境状况。"
+  },
+  {
+   "cn": "干扰变量",
+   "en": "disturbance variable",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "不可控制且影响被控变量的过程变量。如环境温度、上游进料流量、进料流体特性等。"
+  },
+  {
+   "cn": "摄动",
+   "en": "perturbation; disturbance",
+   "source": "天文学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "(1)天体轨道对圆锥曲线的偏离。(2)使天体轨道偏离圆锥曲线的扰动过程。"
+  },
+  {
+   "cn": "微循环障碍",
+   "en": "microcirculation disturbance",
+   "source": "麻醉学名词",
+   "wordNumber": "05.186",
+   "subjectFullName": "麻醉学_重症监护与治疗_休克",
+   "subjectName": "休克",
+   "publishYear": "2024",
+   "definition": "微血管、微血流发生形态及功能的紊乱，导致组织灌注不足而引起一系列缺血缺氧的病理改变。"
+  },
+  {
+   "cn": "心境紊乱",
+   "en": "mood disturbance",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.054",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "一种易怒、脾气暴躁、敏感的精神病理状态。睡眠和情绪是紧密相连的，睡眠不足会引起烦躁和压力，焦虑和抑郁也可导致睡眠困难。"
+  },
+  {
+   "cn": "干扰顶极",
+   "en": "disturbance climax ",
+   "source": "草学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "扰动",
+   "en": "disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "扰动",
+   "en": "perturbation\",\"disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干扰",
+   "en": "disturbance\",\"interference",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "干扰斑块",
+   "en": "disturbance patch",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "磁扰",
+   "en": "magnetic disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气扰动",
+   "en": "atmospheric disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热带扰动",
+   "en": "tropical disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太阳扰动",
+   "en": "solar disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "斜压扰动",
+   "en": "baroclinic disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正压扰动",
+   "en": "barotropic disturbance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "输入搅动",
+   "en": "input disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机扰动",
+   "en": "random disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正弦扰动",
+   "en": "sinusoidal disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有限扰动",
+   "en": "finite disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内扰",
+   "en": "internal disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "斜坡扰动",
+   "en": "ramp disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲扰动",
+   "en": "pulse disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲搅动",
+   "en": "impulse disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阶跃干扰",
+   "en": "step disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "永久扰动",
+   "en": "permanent disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信任机制",
+   "en": "trust mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全机制",
+   "en": "Security Mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本底干扰",
+   "en": "background disturbance",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "本底对于待测物理量（如全吸收峰）的干扰。"
+  },
+  {
+   "cn": "体像障碍",
+   "en": "body image disturbance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体客观上不存在体貌缺陷而想象自己存在缺陷，或体貌存在轻微缺陷而将其夸大，由此引起心理痛苦或影响个人的社会职业功能，且不能为另一种精神障碍所解释的心理疾病。"
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.17",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室内外空气交换的通风换气方式。"
+  },
+  {
+   "cn": "机械排风",
+   "en": "mechanical exhaust",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，将室内空气排出室外的过程。在密闭条件下，室内一般处于相对负压状态。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "机械清洗",
+   "en": "mechanical cleaning",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过清洗机清洗的方式对医疗器械和相关物品进行的清洗。"
+  },
+  {
+   "cn": "机械唯物主义",
+   "en": "mechanical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0108",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物主义发展的第二种形态。以孤立的、静止的、片面的观点解释自然界的一切现象和过程及认识论问题的唯物主义哲学。它具有以下局限性：机械性、形而上学性、不彻底性。主要代表人物有霍布斯（Thomas Hobb"
+  },
+  {
+   "cn": "机械决定论",
+   "en": "mechanical determinism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.163",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "在古典力学基础上建立起来的，盛行于17 至18 世纪，认为一切事物具有必然性、因果制约性和客观规律性，否认偶然性和人的主观能动性的哲学理论。"
+  },
+  {
+   "cn": "机械学模式",
+   "en": "mechanical model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0568",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，模式的成分与现象的模样相同，称为机械学模式；我们可以将其理解为应该怎么做。"
+  },
+  {
+   "cn": "物理再生",
+   "en": "mechanical recycling",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.25",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "再生过程中，回收塑料的基础聚合物分子不会发生改变的再生技术。"
+  },
+  {
+   "cn": "机械团结",
+   "en": "mechanical solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0522",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与有机团结相对，指建立在社会成员同质性基础上的社会结合方式，主要体现在不发达社会或初民社会中。机械团结社会的特点是：①个体间同质性较强"
+  },
+  {
+   "cn": "消毒机理",
+   "en": "disinfection mechanism",
+   "source": "消毒学",
+   "wordNumber": "1.1.7",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒因子对微生物在细胞和分子层面作用的原理。"
+  },
+  {
+   "cn": "社会机制",
+   "en": "social mechanism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会运行中各部分之间的相互关系及其相互作用的方式。包括社会的层次机制、社会的形式机制、社会的功能机制三种基本类型，以及社会动力机制、社会整合机制、社会控制机制、社会激励机制和社会保障机制等具体类型。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "市场机制",
+   "en": "market mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "市场上供求、价格、竞争、风险等各种要素相互作用、相互制约所构成的经济运行的内在机理。是商品经济条件下，社会经济运行和资源配置的基础性调节机制，是商品经济的普遍规律即价值规律的具体表现和作用形式。规律即"
+  },
+  {
+   "cn": "价格机制",
+   "en": "price mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在市场运行过程中，市场上某种商品或服务的价格变动与该商品或服务供求变动的关系，是市场机制的核心。"
+  },
+  {
+   "cn": "风险机制",
+   "en": "risk mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.4",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在利益的诱惑下，风险作为一种外在压力与竞争及供求共同作用于市场主体，共同调节市场运行的一种约束机制。"
+  },
+  {
+   "cn": "预先支付机制",
+   "en": "prepayment mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "在医疗费用发生之前，政府或保险方按一定的标准将医疗费用预先支付给医疗服务提供方的一种卫生资金筹集机制，支付标准在一定时期内是固定的，一段时期后按实际情况的变化再做相应的调整。"
+  },
+  {
+   "cn": "泌乳机理",
+   "en": "lactation mechanism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "母亲分娩后体内雌激素及黄体酮迅速下降，催乳素上升，婴儿吸吮乳头和乳晕，通过神经至脑垂体，促进催乳素和催产素分泌，刺激乳腺细胞分泌乳汁，腺泡和乳腺导管周围平滑肌收缩引起射乳的生物学现象。"
+  },
+  {
+   "cn": "康普顿散射干扰",
+   "en": "disturbance from Compton scattering",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "辐射源发射多个能量的光子，其中较高能量光子的康普顿散射计数对较低能量光子的全吸收峰分析产生的干扰。这种干扰大多数表现为较低能量光子的（全）能峰下的连续谱的基底计数的增加。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

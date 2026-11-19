@@ -1,0 +1,702 @@
+{
+ "key": "approved-list reliabilism",
+ "term": "approved-list reliabilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:46:52+00:00",
+ "status": "ok",
+ "note": "variant=approved-list reliabilism; 审定公布名词库=829; 海峡两岸名词对照库=262; 其他来源数据库=128; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "电子审批单",
+   "en": "electronic approved list",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.252",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "通过网络能够实现各项作业及管理活动在线审批的表单。"
+  },
+  {
+   "cn": "审定人",
+   "en": "approver",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.103",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "对工程项目总体技术方案、投资控制及协调各专业技术方案负主要责任的项目技术管理人员。对项目重大设计方案的正确性、合理性、安全性负责，并对设计中设计人、校核人与审核人之间发生的分歧意见有决策权。"
+  },
+  {
+   "cn": "批准",
+   "en": "approval",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0193",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_整体管理",
+   "subjectName": "整体管理",
+   "publishYear": "2016",
+   "definition": "正式确认、支持、认可或同意某项工作活动。"
+  },
+  {
+   "cn": "列表",
+   "en": "list",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.153",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "在不同的文本形式中抽取关键词或定义，并按某种规定的顺序排列。排列方式可以有多种，如有序列表、无序列表、定义列表、项目列表、标号列表、词汇列表、选单列表等。"
+  },
+  {
+   "cn": "网索",
+   "en": "list",
+   "source": "古生物学名词",
+   "wordNumber": "02.1114",
+   "subjectFullName": "古生物学_古无脊椎动物学_半索动物门",
+   "subjectName": "半索动物门",
+   "publishYear": "2009",
+   "definition": "正笔石类强化表皮的索状骨架，是构成大网的单元。"
+  },
+  {
+   "cn": "认可屠宰场",
+   "en": "approved abattoir",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0228",
+   "subjectFullName": "食品科学技术_食品安全_食品安全检测与检疫_检验检疫",
+   "subjectName": "检验检疫",
+   "publishYear": "2020",
+   "definition": "由市级人民政府根据设置规划，组织畜牧兽医行政主管部门、环境保护主管部门及其他有关部门，依照国家畜禽屠宰相关的规定条件进行审查，经征求省（自治区、直辖市）人民政府畜牧兽医行政主管部门的意见确定许可的畜禽"
+  },
+  {
+   "cn": "已批准药品",
+   "en": "approved drug",
+   "source": "核医学名词",
+   "wordNumber": "06.0310",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "通过新药审评，经国家食品药品监督管理局批准在临床应用的药品。根据《中华人民共和国药品管理法》规定，已批准的新药仍应在使用中监测五年。"
+  },
+  {
+   "cn": "获准型式",
+   "en": "approved type",
+   "source": "计量学名词",
+   "wordNumber": "01.196",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "获准可作为法定使用测量仪器的已确定型号或系列，并由颁发的型式批准证书确认。"
+  },
+  {
+   "cn": "项目立项",
+   "en": "project approval",
+   "source": "风景园林名词",
+   "wordNumber": "03.0158",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "经过项目实施组织决策者和政府有关部门的批准，并列入项目实施组织或者政府的社会和经济发展计划中的过程。"
+  },
+  {
+   "cn": "设计批准",
+   "en": "design approval",
+   "source": "风景园林名词",
+   "wordNumber": "03.0322",
+   "subjectFullName": "风景园林_风景园林管理_规划设计管理",
+   "subjectName": "规划设计管理",
+   "publishYear": "2025",
+   "definition": "为了确保设计文件能够满足规定的、已知预期用途的要求，而实施的对设计文件的确认活动。"
+  },
+  {
+   "cn": "广告审批",
+   "en": "advertisement approval",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.312",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "由广告公司到国家指定的审核部门对其所进行广告内容及形式的审查。"
+  },
+  {
+   "cn": "规划审批",
+   "en": "plan approval",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.108",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划制度",
+   "subjectName": "城乡规划制度",
+   "publishYear": "2021",
+   "definition": "由法定主体对城乡规划编制成果进行审查与批准的过程。"
+  },
+  {
+   "cn": "规划审批",
+   "en": "planning approval",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.049",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "规划批准机关就规划草案进行审核、批准的过程。"
+  },
+  {
+   "cn": "项目核准",
+   "en": "project approval",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.205",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "项目建设单位（项目法人）按固定资产投资规模和投资性质向政府投资主管部门上报项目请求审核批准的行为。"
+  },
+  {
+   "cn": "延期批准",
+   "en": "delay approval",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0802",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "当发生非承包单位原因造成的持续性影响工期事件时，总监理工程师所作出的最终延长合同工期的批准。"
+  },
+  {
+   "cn": "变更批准",
+   "en": "change approval",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0196",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_整体管理",
+   "subjectName": "整体管理",
+   "publishYear": "2016",
+   "definition": "由相关机构做出同意进行变更的过程。"
+  },
+  {
+   "cn": "预算批准",
+   "en": "budget approval",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0448",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "预算草案转化为正式国家预算的法定程序。"
+  },
+  {
+   "cn": "型式批准",
+   "en": "pattern approval",
+   "source": "计量学名词",
+   "wordNumber": "01.168",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "根据型式评价报告所做出符合法律规定的决定，确定该测量仪器的型式符合相关的法定要求并适用于规定领域，以期它能在规定的期间内提供可靠的测量结果。"
+  },
+  {
+   "cn": "型式认证",
+   "en": "type approval",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "01.051",
+   "subjectFullName": "机械工程_汽车_一般名词_环保、法规和试验",
+   "subjectName": "环保、法规和试验",
+   "publishYear": "2013",
+   "definition": "就车辆或发动机的排放水平，对一种车型或发动机机型样品按国家标准进行的试验认证。"
+  },
+  {
+   "cn": "机型批准",
+   "en": "type approval",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.065",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "电信设备在可以销售或与公众网互连之前，对其进行的技术测试和检查。"
+  },
+  {
+   "cn": "[列]表",
+   "en": "list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表",
+   "en": "list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "核准债券",
+   "en": "bond approved",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "列表",
+   "en": "listing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会认可，社会赞许",
+   "en": "social approval",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "装货清单",
+   "en": "cargo list\",\"loading list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "批准进口",
+   "en": "approval of import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "横倾",
+   "en": "list\",\"heel",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "记名样方",
+   "en": "list quadrat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "记名样方",
+   "en": "list quadrat",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "报价单",
+   "en": "offering list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口货单",
+   "en": "export list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]免税货单，自由货单",
+   "en": "free list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限制进口商品货单",
+   "en": "negative list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "询价单",
+   "en": "inquiry list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "准许进口的货单",
+   "en": "positive list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总清单",
+   "en": "master list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分类清单",
+   "en": "class list",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "混合列表",
+   "en": "mixed list",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一序列",
+   "en": "uniform list",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "批准",
+   "en": "approval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不见面审批",
+   "en": "online approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "score list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发名单",
+   "en": "start list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发名单",
+   "en": "start list",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "O2O审批模式",
+   "en": "O2O approval model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "行政审批",
+   "en": "government review and approval",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "排名表",
+   "en": "ranking list\",\"biography",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置审批",
+   "en": "allocation approval",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医疗器械市场准入",
+   "subjectName": "医疗器械市场准入",
+   "publishYear": "2025",
+   "definition": "医疗机构获得配置许可证后，方可购置大型医用设备的规定。"
+  },
+  {
+   "cn": "事件列表",
+   "en": "event listing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的时间顺序将具体事件进行排列和归类的一种表格。"
+  },
+  {
+   "cn": "待遇清单",
+   "en": "benefits listing",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "全称“医疗保障待遇清单”。政府及相关机构制定的清单，用来明确医疗保险待遇的基本制度、基本政策、医保基金支付的项目和标准、不予支付的范围。"
+  },
+  {
+   "cn": "医保药品目录准入",
+   "en": "listing in the reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "药品经过企业申报、专家评审、谈判或竞价后被纳入医保药品目录的过程。"
+  },
+  {
+   "cn": "基本药物目录",
+   "en": "essential medicines list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "适应基本医疗卫生需求，剂型适宜，价格合理，能够保障供应，公众可公平获得的药品的目录清单。"
+  },
+  {
+   "cn": "医保药品目录",
+   "en": "reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "经医疗保险管理部门遴选纳入医疗保险基金支付范围的药品清单。"
+  },
+  {
+   "cn": "标准修改单",
+   "en": "standard amendment list",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.41",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "由标准发布机构正式编制和发布，用于对现行标准中的个别技术内容进行纠正、调整、修改的一种规范性文件。"
+  },
+  {
+   "cn": "新食品原料行政许可",
+   "en": "approval of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.5",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "对在我国无传统食用习惯的特定物品进行安全性审查和许可的制度"
+  },
+  {
+   "cn": "职业性放射性疾病目录",
+   "en": "list of occupational radiation disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "国家根据其社会制度、经济条件和诊断技术水平，以法规的形式规定的职业性放射性疾病。"
+  },
+  {
+   "cn": "致敏原标识清单",
+   "en": "list of allergens on food labels",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.57",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "由国际食品法典委员会和食品安全国家标准审评委员会确定的能引起免疫介导的超敏反应的食物成分。"
+  },
+  {
+   "cn": "医保药品目录动态调整机制",
+   "en": "dynamic adjustment mechanism of reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合考虑药品临床需求、医保基金承受能力和新药上市情况，周期性调整医保药品目录的政策规定。"
+  },
+  {
+   "cn": "食药物质目录",
+   "en": "lists of substances traditionally used both as medicine and food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.38",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "符合有传统上作为食品食用的习惯、已经列入《中华人民共和国药典》、安全性评估未发现食品安全问题、不违反相关资源保护法律规定四条要求的食药物质的信息列表；由国家卫生健康委会同市场监管总局制定、公布并实施动"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "一种评估测量程序的可重复性、稳定性的量度。"
+  },
+  {
+   "cn": "信度",
+   "en": "reliability",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "研究所得结果的可靠程度。通过测量结果的稳定性及一致性来判断，通常用信度系数来评价。"
+  },
+  {
+   "cn": "傈僳族",
+   "en": "Lisu",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0445",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要聚居在云南省，少部分在四川省。人口76.29 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。傈僳语属汉藏语系藏缅语族彝语支。文字有老傈僳文、“格匡式”拼音文、表音节文和新"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "评分者信度",
+   "en": "scorer reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由多位不同评分者分别独立评阅同一份测验问卷，再估计所给分数的一致性的量度。"
+  },
+  {
+   "cn": "社区失落论",
+   "en": "community lost",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.5",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "随着城市化的发展，城市居民之间的关系由亲密性的首属关系向非人格化的次属关系转化，成员之间原先的信任合作和富有人情味让位于物质利益计算和冷漠疏离，相互守望的传统社区共同体也逐渐消失的理论观点。代表人物是"
+  },
+  {
+   "cn": "傈僳文",
+   "en": "Lisu writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0381",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "傈僳族使用的文字，分新老文字。老傈僳文是以正反、颠倒形式的大写拉丁字母为基础的拼音文字，创于1912～1914 年间。新傈僳文是标准拉丁字母的拼音文字，1957 年创制。以怒江东岸泸水县和福贡县（原碧"
+  },
+  {
+   "cn": "傈僳语",
+   "en": "Lisu language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0236",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "傈僳族使用的语言。属汉藏语系藏缅语族彝语支。分布在云南怒江傈僳族自治州、德宏傣族景颇族自治州以及丽江市、迪庆藏族自治州、大理白族自治州、楚雄彝族自治州和四川凉山彝族自治州等地。使用人口约70 万。在缅"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

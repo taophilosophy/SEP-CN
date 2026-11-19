@@ -1,0 +1,42 @@
+{
+ "key": "siguenza gongora",
+ "term": "Sigüenza Góngora",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:35:49+00:00",
+ "status": "ok",
+ "note": "variant=Sigüenza Góngora; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "安哥拉山羊",
+   "en": "Angora goat",
+   "source": "畜牧学名词",
+   "wordNumber": "03.418",
+   "subjectFullName": "畜牧学_家畜家禽品种_山羊品种_引入山羊品种",
+   "subjectName": "引入山羊品种",
+   "publishYear": "2020",
+   "definition": "属毛用型。公羊、母羊均有角。被毛白色。原产于土耳其安卡拉(旧称安哥拉)地区，是生产优质马海毛的古老培育品种。"
+  },
+  {
+   "cn": "安哥拉兔",
+   "en": "Angora rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "畜牧学_家畜家禽品种_兔品种_引入兔品种",
+   "subjectName": "引入兔品种",
+   "publishYear": "2020",
+   "definition": "属中型毛用兔品种。白色长毛兔品种的统称。分德系安哥拉兔和法系安哥拉兔。原产于土耳其。"
+  },
+  {
+   "cn": "中系安哥拉兔",
+   "en": "Chinese Angora rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "03.497",
+   "subjectFullName": "畜牧学_家畜家禽品种_兔品种_培育兔品种",
+   "subjectName": "培育兔品种",
+   "publishYear": "2020",
+   "definition": "小型毛用品种。由安哥拉兔与江、浙、沪的本地白兔杂交育成。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

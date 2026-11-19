@@ -1,0 +1,732 @@
+{
+ "key": "intransitive self-consciousness",
+ "term": "intransitive self-consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:50:04+00:00",
+ "status": "ok",
+ "note": "variant=intransitive self-consciousness; 审定公布名词库=1199; 海峡两岸名词对照库=480; 其他来源数据库=71; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.585",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主体对作为对象的自我的意识或觉知。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "4.115",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体对自己身心状态的认识、体验和愿望。具有目的性和能动性等特点。对人格的形成、发展发挥调节、监控和矫正作用。"
+  },
+  {
+   "cn": "不及物动词",
+   "en": "intransitive verb",
+   "source": "语言学名词",
+   "wordNumber": "04.063",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "不能带受事宾语的动词。例如“醒”“休息”“让步”。"
+  },
+  {
+   "cn": "自我意识障碍",
+   "en": "disorder of self-consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "16.128",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对自身精神状况和躯体状况的认识异常。包括人格解体、双重人格、自我界限障碍和自知力缺乏等。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.569",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "觉知到外部对象或内在自我的一种心理状态。包括知觉、体验、感受、觉醒的能力。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "麻醉学名词",
+   "wordNumber": "01.286",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_意识和认知功能",
+   "subjectName": "意识和认知功能",
+   "publishYear": "2024",
+   "definition": "机体对外部世界和自身心理、生理活动等客观事物的觉知或体验。意识具有从感觉体验（视、听、体感觉等）到非感觉体验（意志、情绪、记忆和思维等）的多种要素。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.175",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对周围环境及自身的认知能力和觉察能力。是大脑高级神经中枢功能活动的综合表现或状况。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "4.005",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "人类所独有的一种高级心理反应形式。人对环境及自我的觉知。与注意、觉察、理解、思维等概念密切相关。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "生理学名词",
+   "wordNumber": "03.782",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "神经病学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "机体对自身及外界环境的感知和理解能力，并通过语言、躯体运动和行为等表达出来的现象。属于大脑的高级功能。人的意识活动包括觉醒状态和意识内容两部分。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "精神医学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "精神医学_症状与体征_意识障碍症状",
+   "subjectName": "意识障碍症状",
+   "publishYear": "2019",
+   "definition": "人对周围环境及自身的认知能力和觉察能力。是大脑高级神经中枢功能活动的综合表 现。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.224",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对光和声音等环境刺激和感觉、记忆和思维等心理事件觉察的过程。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "核医学名词",
+   "wordNumber": "04.0773",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "机体对客观现实的一种高级心理反应形式。包括感觉、知觉、思维在内的一种具有复合结构的最高级的认识活动，是人脑对客观事物间接的和概括的主观反应。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "心理学名词",
+   "wordNumber": "04.044",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一般认为是人对环境及自我的觉知。与注意、觉察、理解、思维等概念密切相关。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "人对周围环境及自身的认知能力与觉察能力。是大脑高级神经中枢功能活动的综合表现。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "农学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一植株上的同一朵花的花粉传播到同朵花的雌蕊柱头上，或由同株的花粉传播到同株的雌蕊柱头上的受精过程。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "水产名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "雌雄同体生物的自体受精。"
+  },
+  {
+   "cn": "自交不育",
+   "en": "self-infertility,self-sterility",
+   "source": "水产名词",
+   "wordNumber": "05.075",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "自交不能产生子代的现象。"
+  },
+  {
+   "cn": "自我剪接",
+   "en": "self-splicing;self-cleaving",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.144",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由RNA分子自身催化的剪接方式。"
+  },
+  {
+   "cn": "清醒状态",
+   "en": "consciousness,awakening",
+   "source": "核医学名词",
+   "wordNumber": "06.0187",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "大脑皮质和整个机体处在清醒的意识状态。对伤害性刺激存在保护性反应。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非传递系统",
+   "en": "intransitive system",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候非传递性",
+   "en": "climatic intransitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公我意识",
+   "en": "public self consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识情绪",
+   "en": "self conscious emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自交不育性",
+   "en": "self-sterility\",\"self-infertility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自固化",
+   "en": "self-cure\",\"self-curing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真实［自］我，现实［自］我，实际［自］我",
+   "en": "real self\",\"actual self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我一致性",
+   "en": "self consistency\",\"self congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我评价",
+   "en": "self assessment\",\"self evaluation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动意识",
+   "en": "sport consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "环境意识",
+   "en": "environmental consciousness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "团体意识",
+   "en": "group consciousness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自我",
+   "en": "ego\",\"self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性灵",
+   "en": "Xingling (Inner Self)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独化",
+   "en": "Self-driven Development",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据自激活",
+   "en": "data self-activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "自我意识发展",
+   "en": "self-consciousness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对自己存在的觉察和认识的能力随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "自我意识发展",
+   "en": "self-consciousness development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人作为主体对自己以及自己与客观世界关系的意识发生发展的过程。人的自我意识是在实践活动、社会交往中发展起来的。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "文化自觉",
+   "en": "cultural consciousness",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生活在一定文化中的人对其文化有“自知之明”，明白其来历、形成过程、所具有的特色和发展趋势的状态。这个文化自觉的历程概括起来即“各美其美，美人之美，美美与共，和而不同”。 费孝通晚年针对不同文化如何相互"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在社会互动和心灵交往中形成的、对社会存在（即社会物质生活及其过程）的总体反映。人类社会生活的精神方面总和。包括各种社会意识形式和社会心理。历史唯物主义最基本的范畴之一。也是社会理论的重要范畴。"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "某一阶级（主要是指无产阶级或工人阶级）认识到其共同的阶级利益并为追求其阶级利益而采取阶级行动，是马克思阶级理论的一个重要概念。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "法律意识",
+   "en": "legal consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们关于法和法律现象的观点和态度。"
+  },
+  {
+   "cn": "群体意识",
+   "en": "group consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "有两层含义：一是指群体经验或有关群体的集体意识，如群体成员共享的信仰、 价值观念和规范准则等；另一是指群体成员资格在群体成员的自我意象及经验中的地位。"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "社会意识",
+   "en": "social consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0167",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会存在即社会物质生活及其过程在社会精神领域中的反映，是精神现象的总和，包括各种社会意识形式和社会心理。是历史唯物主义最基本的范畴之一。社会意识取决于社会存在，在阶级社会具有鲜明的阶级性。同时，社会意"
+  },
+  {
+   "cn": "阶级意识",
+   "en": "class consciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0004",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "反映一个阶级特殊利益和要求的理论、观点和情绪的总和，是一个阶级对自身的阶级地位和阶级利益的自觉体会和认识。阶级意识是由阶级存在决定的，表现为不同阶级之间尖锐的意识形态和思想斗争。卢卡奇在《历史与阶级意"
+  },
+  {
+   "cn": "历史意识",
+   "en": "historical consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0208",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类直觉、认识、解释自身历史发展进程的意识和能力。历史意识的呈现方式有历史文本、蕴含历史信息的非历史文本、为某一历史学派持有的历史观念或历史方法，为某一民族、国家或地域特有的历史思考传统等。"
+  },
+  {
+   "cn": "国家意识",
+   "en": "national consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0144",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的国家认同，即公民作为国家一分子维护国家统一、领土完整、安全发展等方面利益的意识。"
+  },
+  {
+   "cn": "公民意识",
+   "en": "civic consciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0145",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民的公民身份认同，即公民作为一国公民，并承担国家规定的公民权利义务的意识。"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "三个意识",
+   "en": "three consciousnesses",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0143",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即国家意识、公民意识和法治意识。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

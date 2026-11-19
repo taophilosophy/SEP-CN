@@ -1,0 +1,682 @@
+{
+ "key": "market accountability",
+ "term": "Market accountability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:37:20+00:00",
+ "status": "ok",
+ "note": "variant=Market accountability; 审定公布名词库=2014; 海峡两岸名词对照库=919; 其他来源数据库=281; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "责任型营销",
+   "en": "accountable marketing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "营销者在销售后积极跟进产品是否达到消费者预期并向顾客征求改进建议和任何特别的失望之处的一种关系营销策略。"
+  },
+  {
+   "cn": "货币市场存款账户",
+   "en": "money market deposit account",
+   "source": "经济学名词",
+   "wordNumber": "12.047",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "美国商业银行为应对来自货币市场基金竞争而创造的一种计息并允许转账的存款品种。开立这种账户，可支付较高利率，并可以浮动，还可使用支票。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "发生在社会责任论基础上，传媒为其产品的品质和效果而向社会做出回应的所有自愿和非自愿的过程。"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "对自我职责的期望与感知。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "教育学名词",
+   "wordNumber": "14.182",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "组织或管理者所承担的责任。包括接受外界监督和质询，向公众解释其决策或行为的合理性、有效性等。"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "在通信系统安全中，当可能发生扰乱或有企图扰乱系统安全的情况时，能够跟踪到某一个可能负有责任的特定人的特性。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以货币为主要计量尺度，对会计主体已经发生或已经完成的经济活动进行记账、算账和报账的程序。包括对会计对象（会计要素）进行完整的、连续的、系统的反映和监督。"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "通过确认、计量和传递经济信息，以帮助信息使用者做出合理判断和决策的程序。"
+  },
+  {
+   "cn": "账户",
+   "en": "account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0032",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据会计科目在账簿中对各项经济业务进行分类、系统、连续记录的记账单元。"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0002",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "研究会计的产生、发展、对象、任务、理论和方法及其运用的一门学科。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以货币为主要计量尺度，对经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.761",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在安全或多用户计算机系统中，为实现用户访问系统和资源时的权限控制而建立的一种方法。"
+  },
+  {
+   "cn": "会计基本假设",
+   "en": "accounting postulate,accounting assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0013",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对会计核算所处时间、空间环境、所运用的货币单位等所作的合理设定。会计基本假设包括会计主体假设、持续经营假设、会计期间假设和货币计量假设。"
+  },
+  {
+   "cn": "管理会计",
+   "en": "management accounting,managerial accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0260",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为企业内部管理者制定决策以实现企业目标而提供财务和非财务信息的一门学科。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "农学名词",
+   "wordNumber": "19.098",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "发生商品和服务交易的系统或场所。既包括由参与商品和服务交换的主体、行为、规则和程序等交易要素及其维护制度组成的系统，也包含具备交易要素及发生交易行为的具体物理空间意义上的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0013",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务所有现实和潜在顾客的集合。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "古代贸易的场所。据《考工记》中“面朝后市”的记载，说明战国时期市已成为城市的重要组成。西汉长安有九个市场，市的平面为方形，四周有墙，墙上设门。市内有十字或井字形街道，两侧分列商铺；其中心设市楼，为市政"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "02.0595",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "聚集大量出租性、综合、独立的店铺进行货物交易买卖的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "世界历史名词",
+   "wordNumber": "02.0524",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "中世纪西欧规模较小的贸易集市，是城市与周围地区进行商品交换的媒介。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "地理学名词",
+   "wordNumber": "18.210",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "商品交换的场所。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "流域水量收支",
+   "en": "basin accounting",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "资产会计",
+   "en": "asset accounting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保账户",
+   "en": "secured account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押账户",
+   "en": "hypothecated account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二账户",
+   "en": "second account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对外账户",
+   "en": "outward account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负债账户",
+   "en": "liability account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股金账户",
+   "en": "share account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①国际会计 ②国际会计学",
+   "en": "international accounting",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际账户",
+   "en": "international account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场失灵",
+   "en": "market failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "再分配市场",
+   "en": "redistribution market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场预测",
+   "en": "market forecast",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技市场",
+   "en": "Fintech market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "临时或定期集中一地进行的贸易活动。也指城市中划定的贸易之所或商业区。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "马克思主义",
+   "wordNumber": "02.0226",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换关系的总和，是商品经济的必然产物。有时也指某种特定交易场所或机制，如消费品、生产资料、货币、劳动力等交换空间或机制。"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "狭义上是商品交换的场所，广义上为商品交换关系的总和。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "买卖双方进行商品交换的场所。经济人类学认为市场并非自然的存在，“市场的自我调节功能”是经济学上的一个假设，而非实然的真理。"
+  },
+  {
+   "cn": "市场化",
+   "en": "marketization",
+   "source": "马克思主义",
+   "wordNumber": "02.0427",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "指资源配置和经济活动主要通过市场机制来实现，同时更好地发挥政府作用。"
+  },
+  {
+   "cn": "市场营销",
+   "en": "marketing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0189",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业在变化的市场环境中，围绕满足消费者需求、实现自身经营发展目标而进行的商务活动过程。包括市场调查与市场预测、选择目标市场、产品开发、产品定价、渠道选择、产品促销、产品储存和运输、产品销售、提供服务等"
+  },
+  {
+   "cn": "市场化",
+   "en": "marketization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0175",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在经济活动中，以市场为导向和基础，通过竞争、供需关系和价格机制等市场机制来实现资源配置和经济发展的一种经济运行方式。"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取就业机会和有价物品的能力。最初由马克斯•韦伯提出，后经洛克伍德(David Lockwood）和戈德索普(John Goldthorpe）等人的细化和操作化，成为韦伯派阶级分析理论划分阶级位置"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "互惠市场",
+   "en": "reciprocal market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.12",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "以互惠的方式进行分配和流通的产品和服务的需求总和。通常发生在对称的团体之间，比如家庭、亲属或社区之间，交换的中介是信任和礼物而非价格和货币。"
+  },
+  {
+   "cn": "交换市场",
+   "en": "exchange market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "生产者与消费者以价格和货币为中介进行物品交易的产品和服务的需求总和。建立在“获利”这一动机上、经由价格决定的市场进行物品分配。"
+  },
+  {
+   "cn": "再分配市场",
+   "en": "redistribute market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "生产者与消费者不直接发生横向联系，生产者被纳入经济管理中央指挥下的纵向网络，产品和生产盈余自下而上地交给中央，中央按照纵向网络中的权力关系自上而下地对产品和剩余进行重新分配，所形成的产品和服务的需求总"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "市场中生产者重复生产其行动的社会结构。怀特(Harrison C.White）认为市场是生产的市场，不是交换意义上的市场。在生产决策过程中，生产者相互观察了解彼此的差异，据此进行产量和价格决策，一旦生"
+  },
+  {
+   "cn": "无限市场",
+   "en": "boundless market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.36",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "市场粗暴地入侵社会生活的各个方面，市场以其商业属性侵害了社会生活中的道德的、伦理的、个人的以及其他非市场活动的各个方面。维维安娜•泽利泽（Viviana A.Zelizer）用该概念来描述功利主义和个"
+  },
+  {
+   "cn": "从属市场",
+   "en": "subordinate market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.37",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从属于社会关系的市场。社会关系为市场活动提供了必需的参考框架，市场参与者会在市场活动中建构起自己独特的意义和认知。泽利泽用此该概念来描述以格兰诺维特等制度主义学者所代表的一种市场认知传统，否定市场在社"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

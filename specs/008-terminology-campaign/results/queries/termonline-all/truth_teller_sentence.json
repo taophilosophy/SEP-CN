@@ -1,0 +1,802 @@
+{
+ "key": "truth-teller sentence",
+ "term": "truth-teller sentence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:50:34+00:00",
+ "status": "ok",
+ "note": "variant=truth-teller sentence; 审定公布名词库=1244; 海峡两岸名词对照库=484; 其他来源数据库=32; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "咨询终端",
+   "en": "teller terminal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.204",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "与读者直接接触，用以实现信息资源服务的各种电子设备。"
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "source": "世界历史名词",
+   "wordNumber": "05.0108",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "十二月党人的纲领，1821-1823年制定。主要主张包括：废除农奴制和等级制，建立共和国，把土地分给农民等。"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "source": "数学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "source": "数学名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "source": "数学名词",
+   "wordNumber": "02.0044",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "电子学名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻真实与真相",
+   "en": "truthfulness of news and truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻真实",
+   "subjectName": "新闻真实",
+   "publishYear": "2022",
+   "definition": "一对不同领域对事实反映的概念。新闻作品凸显的是事实中具有新闻价值的部分，与对事实的全面记录、反映有所不同。关于某一事实的真相可能表现为几十万字的记录或几十小时的音像，而新闻报道可能仅表现为几百字的文字"
+  },
+  {
+   "cn": "杨-特勒效应",
+   "en": "Jahn-Teller effect",
+   "source": "地质学名词",
+   "wordNumber": "13.01.089",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "1937年杨（H.A.Jahn）和特勒（E.Teller）两人首次从理论上证明：各种非线链结构的分子，其基态如为简并态(克喇末简并除外)，在不加外磁场的情况下，任一能级都是偶数重简并的。"
+  },
+  {
+   "cn": "伽莫夫−泰勒跃迁",
+   "en": "Gamow-Teller transition",
+   "source": "核科学技术名词",
+   "wordNumber": "1.133",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "发生β衰变时，如果出射的电子(或正电子)和反中微子(或中微子)的自旋平行，耦合成总自旋S=1，则遵循G-T选择定则，初末态总角动量的改变ΔJ=0，±1。"
+  },
+  {
+   "cn": "扬-特勒效应",
+   "en": "Jahn-Teller effect",
+   "source": "物理学名词",
+   "wordNumber": "08.2165",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阿什金-特勒模型",
+   "en": "Ashkin-Teller model",
+   "source": "物理学名词",
+   "wordNumber": "05.1032",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "伽莫夫-特勒相互作用",
+   "en": "Gamow-Teller interaction",
+   "source": "物理学名词",
+   "wordNumber": "09.0218",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杨-特勒效应",
+   "en": "Jahn-Teller effect",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸附比表面测试法",
+   "en": "Brunauer-Emmett-Teller method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真值维护系统",
+   "en": "truth maintenance system\",\"TMS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柏拉图真理概念",
+   "en": "Plato's conception of Truth",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "BET方程",
+   "en": "Brunauer-Emmett-Teller equation\",\"BET equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单词句",
+   "en": "single word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双词句",
+   "en": "two word sentence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "未完成语句测验",
+   "en": "incomplete sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乱句测验",
+   "en": "disarranged sentence test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子完成测验",
+   "en": "sentence completion test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动柜员机",
+   "en": "automatic teller machine",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动柜员机",
+   "en": "automated teller machine (ATM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道济天下",
+   "en": "Support All People by Upholding Truth and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弓片投影距离",
+   "en": "tiller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵柄",
+   "en": "tiller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "猎枪弹",
+   "en": "pellet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶员",
+   "en": "puller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "箭支收集员",
+   "en": "puller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滚轴",
+   "en": "roller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "米勒式跳跃",
+   "en": "Miller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "副舵柄",
+   "en": "stick\",\"tiller extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Muller counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "一种专门探测电离辐射(α粒子、β粒子、γ射线)强度的计数仪器。由充气的管或小室作探头，当向探头施加的电压达到一定范围时，射线在管内每电离产生一对离子，就能放大产生一个相同大小的电脉冲并被相连的电子装置"
+  },
+  {
+   "cn": "辅助性T细胞",
+   "en": "helper T cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "一类能辅助T、B细胞应答的T细胞功能亚群。 均表达CD4。未受抗原刺激的初始CD4+ T细 胞(Th0)在不同因素的调控下可分化为Th1、 Th2、Th9、Th17、Th22及Tfh等不同效应功 能的"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "应急帮助人员",
+   "en": "helper in an emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "自愿帮助应对核或辐射突发事件的公众成员。该类人员是受保护的，他们能意识到在应对核或辐射紧急情况时可能会暴露在辐射中。"
+  },
+  {
+   "cn": "盖格-米勒计数管",
+   "en": "Geiger-Muller counter tube",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "工作在盖革-米勒区的气体电离探测器，优点为灵敏度高、输出脉冲幅度大（几伏至几十伏）、无需放大可记录、稳定性高、电源要求低、低成本、便携；缺点是死时间为0～500μs，不适用高计数率测量。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "自然杀伤细胞",
+   "en": "natural killer cell, NK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "属淋巴细胞谱系，不表达T细胞受体、B细胞受体的一类固有免疫免疫细胞，无须预先接触抗原即可杀伤靶细胞(如病毒感染的宿主细胞和某些肿瘤细胞)，且其杀伤效应无MHC限制性。"
+  },
+  {
+   "cn": "淋巴因子激活的杀伤细胞",
+   "en": "lymphokine-activated killer cell, LAK cell",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.28",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "外周血淋巴细胞在白介素-2诱导下产生的一类杀伤细胞。其杀伤作用不需要抗原致敏且无MHC限制性。"
+  },
+  {
+   "cn": "盖革-米勒计数管坪",
+   "en": "plateau of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "在盖革-米勒计数管特征曲线上，计数率基本不随外加电压变化的电压工作区间。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "盖革-米勒计数管死时间",
+   "en": "dead time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "盖革-米勒计数管从某一电离事件产生脉冲开始，对后继的电离事件不能响应的一段时间间隔。"
+  },
+  {
+   "cn": "盖革-米勒计数管恢复时间",
+   "en": "recovery time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "从一个被计数脉冲的起点，到它完全恢复到初始状态，并能对输入事件给出最大幅度脉冲所需要的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "vividness",
+ "term": "vividness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:39:33+00:00",
+ "status": "ok",
+ "note": "variant=vividness; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "显明律",
+   "en": "law of vividness",
+   "source": "心理学名词",
+   "wordNumber": "02.608",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "系列学习项目中的某项与其余各项不同或有突出特点时，对该项目的记忆效果优于其余各项的现象。"
+  },
+  {
+   "cn": "增动",
+   "en": "selection of verbs for more dynamic or vivid description of an action",
+   "source": "语言学名词",
+   "wordNumber": "08.257",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "选择富有动感的词语，使语句比常规说法更有力度，或表现动者益动的情貌，或给人以立体感。例如，“她约莫30岁左右，高身段，戴着墨镜，耳朵上摇着两只大耳环，怪好看的。”"
+  },
+  {
+   "cn": "显明律",
+   "en": "law of vividness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

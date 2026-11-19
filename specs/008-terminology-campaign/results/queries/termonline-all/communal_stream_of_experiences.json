@@ -1,0 +1,762 @@
+{
+ "key": "communal stream of experiences",
+ "term": "communal stream of experiences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:54:41+00:00",
+ "status": "ok",
+ "note": "variant=communal stream of experiences; 审定公布名词库=10000; 海峡两岸名词对照库=8693; 其他来源数据库=2009; 预公布名词数据库=2944; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "溪涧群落",
+   "en": "rheoium,namatium,stream community",
+   "source": "生态学名词",
+   "wordNumber": "16.403",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "生活在水流速度快、溶解氧充足、岩石和砂砾底质中的生物群落。主要动物为适应流水环境的冷狭温种，几乎无浮游生物生存。"
+  },
+  {
+   "cn": "溪流",
+   "en": "stream",
+   "source": "风景园林名词",
+   "wordNumber": "08.0582",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "从山里流出来的小股水流。是园林水景的一种常见形式。"
+  },
+  {
+   "cn": "流",
+   "en": "stream",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.399",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "连续传输的信息序列。例如比特流、数据流。"
+  },
+  {
+   "cn": "物流",
+   "en": "stream",
+   "source": "化学工程名词",
+   "wordNumber": "01.025",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "流股",
+   "en": "stream",
+   "source": "化学工程名词",
+   "wordNumber": "05.041",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "流媒体",
+   "en": "streaming",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0414",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "多媒体数据不断由流媒体提供商发送到客户端，而客户不需要将整个多媒体数据下载到本地，就可以开始播放的多媒体。"
+  },
+  {
+   "cn": "流股匹配",
+   "en": "matching of streams",
+   "source": "化学工程名词",
+   "wordNumber": "05.113",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "干流",
+   "en": "main stream,stem stream",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "水利科学技术_水文、水资源_陆地水文学（水利）",
+   "subjectName": "陆地水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在水系中，汇集流域径流的主干河流。"
+  },
+  {
+   "cn": "间歇河[流]",
+   "en": "intermittent stream,ephemeral stream",
+   "source": "林学名词",
+   "wordNumber": "03.299",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_湿地",
+   "subjectName": "湿地",
+   "publishYear": "2016",
+   "definition": "干旱与半干旱地区，旱季河流干涸，雨季暴雨后或冰雪消融季节才有短期水流流动的河流。"
+  },
+  {
+   "cn": "季节河",
+   "en": "ephemeral stream,intermittent stream",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.031",
+   "subjectFullName": "水利科学技术_水文、水资源_陆地水文学（水利）",
+   "subjectName": "陆地水文学（水利）",
+   "publishYear": "1997",
+   "definition": "在干旱季节河水干涸的河流。"
+  },
+  {
+   "cn": "急流轴",
+   "en": "axis of jet stream",
+   "source": "大气科学名词",
+   "wordNumber": "05.324",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "急流区中各经向垂直剖面上最大风速点的连线。"
+  },
+  {
+   "cn": "河流数目定律",
+   "en": "law of stream number",
+   "source": "地理学名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "地理学_水文学",
+   "subjectName": "水文学",
+   "publishYear": "2006",
+   "definition": "河系内任一级支流的河数与该支流的级别数序之间成反几何级数的函数关系，该几何级数的首项为1，公比为分岔系数。"
+  },
+  {
+   "cn": "尾流阻力",
+   "en": "resistance of trailing stream",
+   "source": "船舶工程名词",
+   "wordNumber": "03.098",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "用测量尾流中动量损失的方法所求得的阻力。"
+  },
+  {
+   "cn": "尿流中断",
+   "en": "interruption of urinary stream",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.737",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "河流",
+   "en": "river,stream",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "水利科学技术_水文、水资源_陆地水文学（水利）",
+   "subjectName": "陆地水文学（水利）",
+   "publishYear": "1997",
+   "definition": "流域地面的天然排水通道，由一定流域内地表水和地下水补给,经常或间歇地沿着狭长凹地流动的水流。"
+  },
+  {
+   "cn": "袭夺作用",
+   "en": "stream piracy",
+   "source": "地质学名词",
+   "wordNumber": "05.01.028",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "相邻流域的河流侵蚀速度不同，侵蚀速度较快流域的河流首先切穿分水岭，导致另一流域上游的河水注入此流域，成为此流域支流的过程。"
+  },
+  {
+   "cn": "伏流",
+   "en": "subterranean stream",
+   "source": "地质学名词",
+   "wordNumber": "16.01.112",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地表河流在岩溶地区的管道状潜伏段的流动。岩溶地区的伏流，一般有较明显的进出口，且进口水量为出口水量的主要来源。"
+  },
+  {
+   "cn": "溪涧",
+   "en": "mountain stream",
+   "source": "风景园林名词",
+   "wordNumber": "04.0112",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "两山之间流出的一种动态水景。"
+  },
+  {
+   "cn": "溪流驳岸",
+   "en": "stream revetment",
+   "source": "风景园林名词",
+   "wordNumber": "08.0556",
+   "subjectFullName": "风景园林_风景园林工程_风景园林驳岸",
+   "subjectName": "风景园林驳岸",
+   "publishYear": "2025",
+   "definition": "在狭长形的园林用地中，模仿自然山涧在河两岸采用散石和块石，并与水生或湿地植物的配置相结合的水岸处理方式。"
+  },
+  {
+   "cn": "溪坑石",
+   "en": "stream stone",
+   "source": "风景园林名词",
+   "wordNumber": "08.0687",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "在自然溪流或海里经长期水浪冲刷而形成的表面光滑的大、中块石。常在景观园林中用来点景。"
+  },
+  {
+   "cn": "流",
+   "en": "stream",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "河流再充氧作用",
+   "en": "reoxygenation of stream",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "河流袭夺",
+   "en": "stream capture\",\"stream piracy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "河流数目定律",
+   "en": "law of stream number",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "潮流图",
+   "en": "atlas of tidal stream",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "毛流",
+   "en": "hair stream",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "阿拉斯加海流",
+   "en": "Alaskan Stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暴洪河流，骤涨河川",
+   "en": "flashy stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地上河",
+   "en": "perched stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离河",
+   "en": "insulated stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "河网，水系",
+   "en": "stream network",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "急流",
+   "en": "jet stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流管",
+   "en": "stream tube",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流函数",
+   "en": "stream function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "墨西哥湾流",
+   "en": "Gulf Stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涌入流",
+   "en": "effluent stream",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工艺物流",
+   "en": "process stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "未控流",
+   "en": "wild stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "循环物流",
+   "en": "recycle stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气流",
+   "en": "air stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水流",
+   "en": "stream",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水流",
+   "en": "current\",\"stream",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流数据",
+   "en": "stream data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流处理",
+   "en": "stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "序列密码",
+   "en": "stream cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络直播",
+   "en": "live streaming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线直播",
+   "en": "live streaming",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流处理容错性",
+   "en": "fault tolerance of stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政务网络直播",
+   "en": "live streaming of government services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信实验网（美国）",
+   "en": "Quantum Secure Communication Experiment Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可伸缩流处理",
+   "en": "scalable stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Spark Streaming框架",
+   "en": "Spark Streaming framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直播平台",
+   "en": "live streaming platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济共同体",
+   "en": "community of digital economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学（家）共同体",
+   "en": "scientific community/community of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "对科学基本问题持有共同看法、并在科学实践中形成单一传统的科学家所组成的研究群体。"
+  },
+  {
+   "cn": "同侪共同体",
+   "en": "community of peers",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.12",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "由年龄、兴趣、地位相近的人或同龄人组成的群体。"
+  },
+  {
+   "cn": "社区意识",
+   "en": "sense of community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "社区成员基于社区场域空间所具有的一种归属感和认同感、一种认识到成员之间以及对于整个群体而言都很重要的感觉。并且是一种对通过彼此承诺来满足成员需求的共识。"
+  },
+  {
+   "cn": "交际民族志",
+   "en": "ethnography of communication",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0021",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "运用人类学的观念和方法，研究言语交际的模式及其与民族文化关系的学问。"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "交往行为理论",
+   "en": "theory of communicative action",
+   "source": "马克思主义",
+   "wordNumber": "05.0035",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯（Jürgen Habermas）创建的理论体系，指人与人通过以符号媒介进行平等交流以达到相互理解、承认、共识、进而趋向交往合理化，交往者不受控制地生活在一个相互理解的世界中，通过交往实现社会"
+  },
+  {
+   "cn": "交往行为理论",
+   "en": "theory of communicative action",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.034",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈马贝斯（Jürgen Habermas）提出的社会合理性理论。主张在平等、公开的情况下，用对话、协商来解决现实世界中的矛盾。"
+  },
+  {
+   "cn": "群婚制",
+   "en": "communal marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0345",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "原始社会中一定范围的一群男子与一群女子互为夫妻的婚姻形式，其本质特征在于两性关系受到一定范围的血缘关系的限制或排斥。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

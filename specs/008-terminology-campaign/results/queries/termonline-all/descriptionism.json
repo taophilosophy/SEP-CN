@@ -1,0 +1,42 @@
+{
+ "key": "descriptionism",
+ "term": "descriptionism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:38:01+00:00",
+ "status": "ok",
+ "note": "variant=descriptionism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "阙补",
+   "en": "fill in the missing pages or chapters in bibliographic descriptions",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.295",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "将古籍阙漏的文字补正的工作。"
+  },
+  {
+   "cn": "深厚描述[研究法]",
+   "en": "thick descriptions",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "《ANSI/IEEE 1016-2009 信息技术标准 系统设计 软件设计说明》",
+   "en": "ANSI/IEEE 1016-2009 Standard for information technology — Systems design — Software design descriptions",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

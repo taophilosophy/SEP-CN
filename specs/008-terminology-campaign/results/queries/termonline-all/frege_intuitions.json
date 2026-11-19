@@ -1,0 +1,802 @@
+{
+ "key": "frege intuitions",
+ "term": "Frege intuitions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:39:37+00:00",
+ "status": "ok",
+ "note": "variant=Frege intuitions; 审定公布名词库=1013; 海峡两岸名词对照库=397; 其他来源数据库=87; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.579",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种不经逻辑分析而认识、了解事物的无意识的思维方式。具有快速、冲动的特点。包括认知、情感和行为等成分。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0395",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "人脑所具有的一种不经过逻辑推理或没有任何根据而突发性地直接把握对象的本质的能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "心理学名词",
+   "wordNumber": "02.676",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一种不经过分析、推理的认识过程而直接快速地进行判断的认识能力。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "语言直觉",
+   "en": "linguistic intuition",
+   "source": "语言学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指人们对于自己使用的语言的判断能力，特别是判断一个句子是否能够接受以及句子之间是否具有关联性。既指对语言的直觉，也指如何对语言作分析的直觉。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitional knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.077",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "体现为一种先验的道德意识、内在的道德判断能力，同时也是主体的自觉性。当遇到不可预定的变化时，不必求助他人或经典，仅凭直觉就可以做出反应，判断道德上的是非问题，采取合适的道德行为。"
+  },
+  {
+   "cn": "直观教学",
+   "en": "intuitional instruction",
+   "source": "教育学名词",
+   "wordNumber": "04.088",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "欧洲近代以经验主义和自然主义为基础，根据儿童思维发展的特点，在教学过程中采用具体形象的语言和教具进行教学的教育原则和方法。"
+  },
+  {
+   "cn": "直观法",
+   "en": "intuitional method",
+   "source": "教育学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "让幼儿运用看、听、闻、尝、触、摸等多种感官活动，直接感知所要认识的事物或现象，形成关于事物与现象的初步认识的教学方法。"
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.657",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对事物现象及其变化的直接感触而做判断的思维方式。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体不以概念为媒介而对医学审美客体的直接观察和认识作用，经过内在心理的特殊处理而形成的一种顿悟性反映。"
+  },
+  {
+   "cn": "直观性原则",
+   "en": "principle of intuition",
+   "source": "教育学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教学原则之一。在教学中要通过学生观察所学事物、利用直观教具或教师语言的形象描述引导学生形成对所习得之事物、过程的清晰表象，丰富他们的感性知识，从而有利于他们正确理解书本知识和发展认识能力。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0039",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "直观分析法",
+   "en": "intuitive analysis method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.120",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用比较极差大小的方法来分析各因素的影响的一种定性分析方法。"
+  },
+  {
+   "cn": "直觉思维法",
+   "en": "intuitive thinking method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0084",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "充分利用直觉思维和灵感思维来得到问题新的解法或新的发现的方法。"
+  },
+  {
+   "cn": "直觉决策",
+   "en": "intuitive decision making",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0045",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者将以往积累的、在某一特定领域丰富的知识、经验等信息重新加以认知，从而迅速做出的决策。"
+  },
+  {
+   "cn": "直觉的政策预测",
+   "en": "intuitive policy forecasting",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "预测者通过主观判断，而非基于归纳或演绎的推理方法，对未来情况所做的政策预测。"
+  },
+  {
+   "cn": "直觉动作思维",
+   "en": "intuitive-action thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.658",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "依靠对事物的直接感知和实际动作解决问题的思维方式。"
+  },
+  {
+   "cn": "致良知",
+   "en": "zhi liang zhi;extension of innate or intuitive knowledge",
+   "source": "中国古代史名词",
+   "wordNumber": "8.504",
+   "subjectFullName": "中国古代史_明清_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "王阳明提出的以先天良知为目标的个人修养方法。"
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism",
+   "source": "数学名词",
+   "wordNumber": "02.0305",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism; intuitionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.242",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "以布劳威尔为代表的一种数学哲学立场。认为数学是心灵的构造，一个数学命题的真等同于构造出关于它的证明。在直觉主义数学中，排中律不是普遍有效的，所有实数上的全函数都是连续的。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉学习",
+   "en": "intuitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由-自由跃迁",
+   "en": "free-free transition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "独立缘（=游离缘）",
+   "en": "free border\",\"free margin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离缘，独立缘",
+   "en": "free border\",\"free margin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离核糖体",
+   "en": "free ribosome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离巨噬细胞",
+   "en": "free macrophage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离面",
+   "en": "free surface",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离末梢",
+   "en": "free ending",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离绒毛",
+   "en": "free villus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离细胞",
+   "en": "free cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离核",
+   "en": "free nucleus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游离水（=自由水）",
+   "en": "free water",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游离[型]赤霉素（=自由赤霉素）",
+   "en": "free gibberellin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游离[型]生长素（=自由生长素）",
+   "en": "free auxin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由赤霉素，游离[型]赤霉素",
+   "en": "free gibberellin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由空间",
+   "en": "free space",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由能",
+   "en": "free energy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍区",
+   "en": "free zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选手枪",
+   "en": "free pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾身支撑",
+   "en": "free support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速齿轮",
+   "en": "free pinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体弹跳",
+   "en": "free bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由慢步",
+   "en": "free walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍空间",
+   "en": "free space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无攻过网",
+   "en": "free ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不执拍手",
+   "en": "free hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆脱",
+   "en": "free oneself\",\"moving into free space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加罚球",
+   "en": "bonus free throw\",\"further free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "科学中的直觉",
+   "en": "intuition in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中由移情作用、共同生活和社会心理状态等感性器官提供直接的感官证据。这些由生活体验构成的感官见证，对科学发现和研究起着激发作用，是证明有效科学知识的重要基础。"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.11",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中呈游离状态存在的有毒多酚类化合物。"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含碘消毒剂在水溶液或醇溶液中释出的碘离子，是含碘消毒剂的主要杀菌形态。"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.12",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以氨分子和氢氧化铵形式存在的氨，控制季铵盐质量的指标之一。"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "受原子核束缚小、在外力作用下易于从原子上脱落，可以在物体中自由移动的电子。影响物体的导电性和导热性。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0182",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“垄断”相对。没有任何垄断成分，企业经营者可以自由投资、转移和商品买卖的竞争。它是垄断前资本主义经济的主要特征。自由竞争加速了资本的积聚和集中，引起生产集中，发展到一定阶段就产生垄断。"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0238",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不以谋生为目的而仅仅是为了满足劳动者自己爱好兴趣的自由自觉的劳动，是人的全面自由发展的前提性条件。作为生活的第一需要，自由劳动只有在共产主义社会才能真正实现。"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0240",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "欧洲奴隶社会和封建社会中享有人身自由、独立从事经营的农民。一般指在小土地所有制基础上拥有简单生产工具的自耕农。他们虽然人数众多，但是从未成为社会上占统治地位的阶级力量。"
+  },
+  {
+   "cn": "搭便车",
+   "en": "free-riding ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "对公共产品的消费中，那些自己不为这种产品付费，在别人付出代价去取得后，坐享其成果的行为。"
+  },
+  {
+   "cn": "自由支配时间",
+   "en": "free time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "可依据个人意愿或喜好自行支配的时间。"
+  },
+  {
+   "cn": "自由喂养",
+   "en": "free feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "完全依赖儿童的个性和食欲，放任儿童饮食行为的喂养方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

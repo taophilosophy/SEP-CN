@@ -1,0 +1,32 @@
+{
+ "key": "giani prnali",
+ "term": "Giānī prnālī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:51:31+00:00",
+ "status": "ok",
+ "note": "variant=Giānī prnālī; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "GI气枪",
+   "en": "GI airgun",
+   "source": "地球物理学名词",
+   "wordNumber": "09.0026",
+   "subjectFullName": "地球物理学_海洋地球物理学_海洋地震探测",
+   "subjectName": "海洋地震探测",
+   "publishYear": "2022",
+   "definition": "气枪的一种。具有 G腔与 I腔两个腔室，能够较好地压制气泡震荡。 "
+  },
+  {
+   "cn": "GI/M/1系统",
+   "en": "GI/M/1 system",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "输入是一般独立输入，服务服从指数分布的单服务台的系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

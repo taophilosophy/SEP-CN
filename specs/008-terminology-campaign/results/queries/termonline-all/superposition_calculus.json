@@ -1,0 +1,432 @@
+{
+ "key": "superposition calculus",
+ "term": "superposition calculus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:44:45+00:00",
+ "status": "ok",
+ "note": "variant=superposition calculus; 审定公布名词库=235; 海峡两岸名词对照库=49; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "叠加演算",
+   "en": "superposition calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0129",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "对含等词的一阶逻辑进行定理证明的一种方法，是归结方法和基于序的等词处理方法的结合。"
+  },
+  {
+   "cn": "重叠",
+   "en": "superposition",
+   "source": "语言学名词",
+   "wordNumber": "04.251",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "两个相同的语法结构形式相叠的语法手段。既有词法上的重叠，也有句法上的重叠。"
+  },
+  {
+   "cn": "微积分[学]",
+   "en": "calculus",
+   "source": "数学名词",
+   "wordNumber": "05.0070",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "π演算",
+   "en": "π-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0952",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由罗宾·米尔纳（Robin Milner）等提出的可描述通信拓扑结构动态变化的进程演算。"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种定义可计算函数的形式演算系统。"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus,lambda-calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造叠加",
+   "en": "structural superposition",
+   "source": "地质学名词",
+   "wordNumber": "09.01.071",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在多期变形地区，晚期变形构造叠加在早期变形构造之上的现象。通常是指同一岩层的重褶皱变形(叠加褶皱)或同一断层晚期不同方向和性质的运动叠加和改造早期的构造形迹。"
+  },
+  {
+   "cn": "线性叠加",
+   "en": "linear superposition",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0454",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "对于一个线性系统，由几种因素综合作用产生的结果，等于这些不同因素单独产生效果的叠加，且与次序无关。 "
+  },
+  {
+   "cn": "相干叠加",
+   "en": "coherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.520",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上的同频同偏振的相干光波相遇时按照复振幅叠加的现象。叠加后的振幅和相位发生变化，出现明暗相间的干涉条纹，其光强不等于各波单独存在时各自光强的线性相加。"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "光学名词",
+   "wordNumber": "01.521",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "两个或两个以上光束不满足相干条件相遇时按照光强叠加的现象。它说明在叠加区域总光波的光强为各波单独存在时的线性相加。"
+  },
+  {
+   "cn": "重叠眼",
+   "en": "superposition eye",
+   "source": "动物学名词",
+   "wordNumber": "5.1871",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "暗光活动的甲壳动物的复眼。能让光线透过无色素的小眼壁可衍射到相邻小眼的视杆部分，形成重叠像。"
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "电力名词",
+   "wordNumber": "01.278",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "电路理论定理,其内容为:在若干个以任意方式分布于电路里的电源电压或电源电流同时作用下,无源线性网络中任一支路电流和任意两节点间电位差等于单个电源电压或电源电流单独分别作用下该支路中诸电流的代数和及该节"
+  },
+  {
+   "cn": "非相干叠加",
+   "en": "incoherent superposition",
+   "source": "物理学名词",
+   "wordNumber": "04.1285",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "线性叠加",
+   "en": "linear superposition",
+   "source": "物理学名词",
+   "wordNumber": "06.0542",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "物理学名词",
+   "wordNumber": "03.0065",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲叠加",
+   "en": "pulse superposition",
+   "source": "核医学名词",
+   "wordNumber": "03.0196",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "在间隔极小时间内探测两个独立的物理量(如入射粒子)其能量转换过程部分重叠，产生较原始脉冲高而宽的单一脉冲的现象。"
+  },
+  {
+   "cn": "叠加态",
+   "en": "superposition state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0099",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "如果一个量子系统的量子态可以是几种不同量子态中的任意一种，则它们的归一化线性组合也可以是其量子态。这一线性组合称为叠加态。"
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "化学名词",
+   "wordNumber": "04.1309",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "因为薛定谔方程是线性微分方程，所以若<img src='/root/syzx/static/spz/huaxue2.04.1309.1.png'/>都是体系可能的状态，那么其线性叠加<img src="
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "计量学名词",
+   "wordNumber": "10.106",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "在线性系统或线性电路中，如果有两个或两个以上的激励同时作用，则响应等于诸激励分别单独作用下产生的诸响应分量之和。"
+  },
+  {
+   "cn": "模态叠加",
+   "en": "mode superposition",
+   "source": "土木工程名词",
+   "wordNumber": "16.048",
+   "subjectFullName": "土木工程_地震工程与防震工程",
+   "subjectName": "地震工程与防震工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "叠加",
+   "en": "superposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微积分",
+   "en": "calculus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "叠加定理",
+   "en": "superposition theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复相眼",
+   "en": "superposition eye",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "重叠像",
+   "en": "superposition image",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "重叠眼",
+   "en": "superposition eye",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "尿石",
+   "en": "urinary calculus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变分微积分",
+   "en": "variational calculus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "符号演算",
+   "en": "symbolic calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑演算",
+   "en": "logic calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式演算",
+   "en": "formal calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子叠加",
+   "en": "quantum superposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尿酸结石",
+   "en": "urate calculi",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "尿液中尿酸浓度增加呈过饱和状态，在泌尿系统沉积并形成的结石。10%—25%的高尿酸血症和痛风患者可发生尿酸性泌尿系结石，且可能出现于痛风性关节炎发生之前。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

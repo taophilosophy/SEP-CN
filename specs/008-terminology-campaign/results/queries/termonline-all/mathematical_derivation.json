@@ -1,0 +1,672 @@
+{
+ "key": "mathematical derivation",
+ "term": "mathematical derivation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:36:22+00:00",
+ "status": "ok",
+ "note": "variant=mathematical derivation; 审定公布名词库=647; 海峡两岸名词对照库=231; 其他来源数据库=29; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[睡眠监测]导联",
+   "en": "derivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.129",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "实现睡眠监测过程中传感器采集的某一信号经放大器整合并显示记录数据的整个系统。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0484",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "根据文法 G的产生式，从G的一个句型推演出另一个句型，称为G的一步推导。对文法G 的一个推导过程是从初始句型S（初始符）推导出一个全部由终极符组成的串（即句子）。"
+  },
+  {
+   "cn": "孳乳",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "10.047",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "在词的派生推动下，由记录源词的字分化出新字的现象。例如“正”孳乳出“政”。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "经过一系列合乎逻辑的运算步骤，从一个结果到达另一个结果的过程。推导也指根据短语结构语法，应用重写规则替换一个语法符号串中的某些（某个）语法符号，产生新的语法符号串的过程。"
+  },
+  {
+   "cn": "推导",
+   "en": "derivation",
+   "source": "语言学名词",
+   "wordNumber": "03.273",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "生成音系学中，施用一系列音系规则将一个相对比较抽象的音系表达式转换成一个相对比较具体、更加接近语音实际的音系表达式的过程。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "母体化合物的基本骨架不变，只是其分子中侧链、官能团中的原子或原子团被其他原子或原子团取代所形成的一类新化合物。"
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "化学名词",
+   "wordNumber": "02.0004",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "保留了母体化合物的基本骨架，只在侧链、官能团或取代基上发生变化的一类新化合物称为原母体化合物的衍生物。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "由词根和词缀构成的合成词。例如“第一”“老鼠”“帽子”“巴不得”。"
+  },
+  {
+   "cn": "派生词",
+   "en": "derivative",
+   "source": "语言学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "与“原形词”相对。由词根词素和词缀词素组合而成的词。"
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "数学名词",
+   "wordNumber": "05.0072",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可导的",
+   "en": "derivable",
+   "source": "数学名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常指施于自然数的归纳证明方法。第一，证明最小的自然数具有某性质（归纳基始）；第二，证明后继运算保持该性质（归纳推步）。由上两步即得：所有的自然数具有该性质。"
+  },
+  {
+   "cn": "衍生细胞",
+   "en": "derivative",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "导数",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微分",
+   "en": "derivative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衍生物",
+   "en": "derivative",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "派生产品",
+   "en": "derivatives",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天气衍生品",
+   "en": "weather derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融衍生工具监管",
+   "en": "supervision on financial derivatives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "导出限值",
+   "en": "derived limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.9",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "为放射防护工作实际需要，根据实用与特定情况的一定模型，由初级限值确定的限制值。例如，空气污染、表面污染、环境介质污染等的限值。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "导出干预水平",
+   "en": "derived intervention level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "与干预水平相对应的环境中放射性活度水平或剂量率，可直接与实际监测结果相比较的量。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "导出空气浓度",
+   "en": "derived air concentration，DAC",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "年摄入量限值除以参考人在一年工作或生活时间中吸入的空气体积所得的商。"
+  },
+  {
+   "cn": "植物源酶制剂",
+   "en": "plant-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由植物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "动物源酶制剂",
+   "en": "animal-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由动物的可食或非可食部分直接提取的，用于食品加工，具有特殊催化功能的生物制品。"
+  },
+  {
+   "cn": "微生物源酶制剂",
+   "en": "microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由传统或通过基因修饰的微生物（包括但不限于细菌、放线菌、真菌菌种）发酵、提取制得，用于食品加工，具有特殊催化功能的生物制品"
+  },
+  {
+   "cn": "动物源性饲料消毒",
+   "en": "disinfection of animal-derived feed",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对用动物及其副产品为原料加工制成的饲料可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "化学武器源食品污染",
+   "en": "chemical weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "军用化学毒剂的使用对食品造成的化学性污染。"
+  },
+  {
+   "cn": "生物武器源食品污染",
+   "en": "biological weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "生物战剂的应用对食品造成的生物性污染。"
+  },
+  {
+   "cn": "核武器源食品污染",
+   "en": "nuclear weapon-derived contamination of food",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.12.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队战时食品安全",
+   "subjectName": "军队战时食品安全",
+   "publishYear": "2025",
+   "definition": "由于各类核武器使用而对食品造成的放射性污染。"
+  },
+  {
+   "cn": "微生物源酶制剂抗菌活性",
+   "en": "antibacterial activity of microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "微生物来源的酶制剂抑制或杀灭微生物的能力"
+  },
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "人们感觉应该拥有某种事物却没能拥有（不论之前是否拥有）的一种状态。所针对的事物范围很广，主要指最基本的福利需求，如食物、住房、教育和情感依托等。"
+  },
+  {
+   "cn": "剥夺",
+   "en": "deprivation",
+   "source": "马克思主义",
+   "wordNumber": "03.0039",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于政治统治地位的剥削阶级以强制等方法夺去其他阶级所占有的生产资料、劳动成果和政治权利。它存在于在奴隶社会、封建社会和资本主义社会。"
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对特定类型检验的综合判定指标，是全部照射组单组性能Pi的平均值。"
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在危害分析与关键控制点（HACCP）系统中，不符合关键限值。"
+  },
+  {
+   "cn": "绝对剥夺",
+   "en": "absolute deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "失去或缺乏满足基本生存需求（如食物、衣物或栖身之所）的手段。与“相对剥夺”相对。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

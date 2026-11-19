@@ -1,0 +1,32 @@
+{
+ "key": "katha",
+ "term": "Kaṭha",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:51:06+00:00",
+ "status": "ok",
+ "note": "variant=Kaṭha; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "KA油氧化制己二酸工艺",
+   "en": "KA oil oxidation to adipic acid process",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.458",
+   "subjectFullName": "化工（二）_工艺过程与设备_石油化工",
+   "subjectName": "石油化工",
+   "publishYear": "2019",
+   "definition": "以环己烷为原料，经空气氧化生成环己酮与环己醇混合物后，再经硝酸氧化制取己二酸的工艺。"
+  },
+  {
+   "cn": "Ka波段",
+   "en": "Ka band",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,32 @@
+{
+ "key": "eriksson hajek",
+ "term": "Eriksson Hájek",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:42:56+00:00",
+ "status": "ok",
+ "note": "variant=Eriksson Hájek; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "爱立信循环",
+   "en": "Ericsson cycle",
+   "source": "电力名词",
+   "wordNumber": "01.531",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "理想化热效率最高的燃气轮机循环,由等温膨胀(由外部热源加热)、等压回热(由工质传热给回热器)、等温压缩(向外部冷源排热)和等压回热(从回热器返回传热给工质)4个可逆过程组成的理想热力循环。"
+  },
+  {
+   "cn": "埃里克森",
+   "en": "Erickson\",\"Robert(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

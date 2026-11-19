@@ -1,0 +1,692 @@
+{
+ "key": "reference sequence problem",
+ "term": "reference sequence problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:38:41+00:00",
+ "status": "ok",
+ "note": "variant=reference sequence problem; 审定公布名词库=1941; 海峡两岸名词对照库=814; 其他来源数据库=145; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "排序问题",
+   "en": "sequencing problem",
+   "source": "数学名词",
+   "wordNumber": "011.0346",
+   "subjectFullName": "数学_运筹学_组合最优化",
+   "subjectName": "组合最优化",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "参照序列",
+   "en": "reference sequence",
+   "source": "生物物理学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "通过基因组测序等技术获得的指导后续研究的标准序列。"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "source": "档案学名词",
+   "wordNumber": "04.03.125",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "与档案文献汇编题目有关的参考文献目录。"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在目录、索引或检索词表中，反映标目之间关系及其组织原则的一种手段。通常分为一般参照、单纯参照和相关参照。有两种用法：①用于作品正文中，通过某些常规词或词组来指引读者去查看作品的另外部分（如“见上”或“"
+  },
+  {
+   "cn": "引用书目",
+   "en": "bibliography reference,references",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.387",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "专门记载某一著作中引用过的各种著作及文章的目录。一般著录所引用著作或文章的名称、作者等。"
+  },
+  {
+   "cn": "参考文献",
+   "en": "references",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.088",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "在书籍、论文的正文之后或各部分之后一一列出所参考或引用文献的辅文。"
+  },
+  {
+   "cn": "报童问题",
+   "en": "newsboy problem,newsvendor problem",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "为了满足单周期随机需求以最大化收益或者最小化费用的一次订货策略问题。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "序列征",
+   "en": "sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.496",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "石油名词",
+   "wordNumber": "02.0861",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "数学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence,χsequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.430",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "大肠杆菌中与同源重组活性较高有关的一段序列，即GCTGGTGG，既是recBC的识别序列，又是其激活序列。"
+  },
+  {
+   "cn": "序列分析仪",
+   "en": "sequencer",
+   "source": "药学名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "自动测定多肽链中氨基酸序列的一种仪器。其工作原理是基于埃德曼降解法的重复应用。"
+  },
+  {
+   "cn": "δ序列",
+   "en": "δ sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.581",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "Ty转座子两端长约300bp的正向重复序列。"
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0582",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_测序技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、多肽、多糖链基本组成单位残基（核苷酸、氨基酸、单糖等）的排列顺序。"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "序列器",
+   "en": "sequencer",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence\",\"χ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ序列",
+   "en": "delta sequence\",\"δ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "测序",
+   "en": "sequencing",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列测定，测序",
+   "en": "sequencing",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列测定,测序",
+   "en": "sequencing",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "参照相近或类似医疗服务价格或国际价格水平进行定价的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

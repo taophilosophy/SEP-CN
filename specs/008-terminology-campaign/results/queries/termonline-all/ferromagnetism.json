@@ -1,0 +1,372 @@
+{
+ "key": "ferromagnetism",
+ "term": "ferromagnetism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:41:58+00:00",
+ "status": "ok",
+ "note": "variant=ferromagnetism; 审定公布名词库=45; 海峡两岸名词对照库=16; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "地质学名词",
+   "wordNumber": "03.01.107",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物的磁化方向与外磁场相同，不仅易强烈磁化，而且本身还能对外界产生磁场，因而表现强烈的相互吸引的性质。"
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0039",
+   "subjectFullName": "地球物理学_地球电磁学_地磁学",
+   "subjectName": "地磁学",
+   "publishYear": "2022",
+   "definition": "相对于顺磁性和抗磁性而言，(1)广义：铁磁性指矿物晶体具有未配对电子自旋且存在超交换相互作用的特性。 (2)狭义：铁磁性指矿物晶体中所有电子自旋平行排列，具有很强的原子磁矩。 "
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "电力名词",
+   "wordNumber": "01.053",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "以铁为代表的物质在外磁场作用下所表现的一种磁性。"
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "物理学名词",
+   "wordNumber": "03.0482",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "化学名词",
+   "wordNumber": "01.0789",
+   "subjectFullName": "化学_无机化学_无机固体化学",
+   "subjectName": "无机固体化学",
+   "publishYear": "2016",
+   "definition": "磁化率较大(一般在10以上)的磁性。是相邻原子磁矩发生同向排列而产生的自发磁化。"
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0104",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "某些物质中相邻原子磁矩做同向排列自发磁化的现象。"
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "电气工程名词",
+   "wordNumber": "04.062",
+   "subjectFullName": "电气工程_磁性材料",
+   "subjectName": "磁性材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "石油名词",
+   "wordNumber": "03.0159",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "地质学名词",
+   "wordNumber": "04.243",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "电子学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁体",
+   "en": "ferromagnet",
+   "source": "物理学名词",
+   "wordNumber": "08.1880",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "初铁磁性",
+   "en": "incipient ferromagnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.1879",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "弱铁磁性",
+   "en": "weak ferromagnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.2090",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反铁磁性",
+   "en": "anti-ferromagnetism",
+   "source": "电子学名词",
+   "wordNumber": "02.057",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性矿物",
+   "en": "ferromagnetic mineral",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0038",
+   "subjectFullName": "地球物理学_地球电磁学_地磁学",
+   "subjectName": "地磁学",
+   "publishYear": "2022",
+   "definition": "具有铁磁性的一类矿物晶体。分为狭义铁磁性矿物、亚铁磁性矿物和反铁磁性矿物等。 "
+  },
+  {
+   "cn": "铁磁性物质",
+   "en": "ferromagnetic substance",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.282",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振磁敏感加权成像",
+   "subjectName": "磁共振磁敏感加权成像",
+   "publishYear": "2020",
+   "definition": "具有磁矩而紧密排列的一组原子组成的晶体，颗粒小于临界尺寸时具有单畴结构的物质。具有很强的磁化率，可被磁场明显吸引，磁场不存在后仍可以被永久磁化。"
+  },
+  {
+   "cn": "铁磁性物质",
+   "en": "ferromagnetic substance",
+   "source": "电力名词",
+   "wordNumber": "01.093",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在给定温度范围内,以铁磁性为其主要磁性的物质。在零磁场强度时它可能有一个磁化强度,其磁化率是正值,且通常远大于1。"
+  },
+  {
+   "cn": "铁磁玻璃",
+   "en": "ferromagnetic glass",
+   "source": "物理学名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁材料",
+   "en": "ferromagnetic material",
+   "source": "物理学名词",
+   "wordNumber": "08.1902",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁晶体",
+   "en": "ferromagnetic crystal",
+   "source": "化学名词",
+   "wordNumber": "04.1945",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在居里温度以下和无外磁场作用时，材料内部可以分成众多小区域磁畴，同一磁畴内原子磁矩可自发同向平行排列，达到磁化饱合，不同磁畴的原子磁矩方向不同，称为铁磁性材料。当在外磁场作用下，其有磁滞现象，且在很小"
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性",
+   "en": "ferromagnetism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反铁磁性",
+   "en": "anti-ferromagnetism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁电-铁磁体",
+   "en": "ferroelectric-ferromagnetics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁聚合物",
+   "en": "ferromagnetic polymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁共振",
+   "en": "ferromagnetic resonance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁显示",
+   "en": "ferromagnetic display",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁相变",
+   "en": "ferromagnetic phase transformation\",\"ferromagnetic phase transition",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁性减振合金",
+   "en": "damping ferromagnetic alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铁磁共振线宽",
+   "en": "ferromagnetic resonance linewidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反铁磁性恒弹性合金",
+   "en": "anti-ferromagnetic constant modulus alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "亚铁磁性",
+   "en": "ferrimagnetism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "亚铁磁性",
+   "en": "ferrimagnetism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亚铁磁性",
+   "en": "ferrimagnetism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁镁质矿物",
+   "en": "ferromagnesium minerals",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

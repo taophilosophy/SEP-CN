@@ -1,0 +1,542 @@
+{
+ "key": "santaraksita's ornament",
+ "term": "Śāntarakṣita’s Ornament",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:54:02+00:00",
+ "status": "ok",
+ "note": "variant=Śāntarakṣita’s Ornament; 审定公布名词库=91; 海峡两岸名词对照库=20; 其他来源数据库=14; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "纹饰",
+   "en": "ornamentation",
+   "source": "植物学名词",
+   "wordNumber": "15.0103",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "泛指孢粉表面的结构。各种雕纹分子及其他附属物、孢粉壁内部形成的图案等。"
+  },
+  {
+   "cn": "壳饰",
+   "en": "ornamentation",
+   "source": "古生物学名词",
+   "wordNumber": "02.0376",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "介形类的壳面通常有光滑的和饰有各种不同的纹饰。"
+  },
+  {
+   "cn": "纹饰",
+   "en": "ornamentation",
+   "source": "昆虫学名词",
+   "wordNumber": "11.147",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "硬蜱颚体、盾板和足的背面具有的珐琅质状色斑。"
+  },
+  {
+   "cn": "鸱吻",
+   "en": "owl ornament",
+   "source": "风景园林名词",
+   "wordNumber": "07.0407",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "宋式建筑正脊两端的装饰物，由鸱尾发展而来，吻部突出，约出现于唐中期。"
+  },
+  {
+   "cn": "吻",
+   "en": "ridge ornament",
+   "source": "风景园林名词",
+   "wordNumber": "07.0409",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "正脊两端龙头形翘起之雕饰。正脊两端龙头形翘起之雕饰。殿庭正脊两端，鱼龙形（龙头鱼身）的饰物称为鱼龙吻，龙形（头尾均为龙形）的饰物称为龙吻。"
+  },
+  {
+   "cn": "装饰色彩",
+   "en": "ornament color",
+   "source": "建筑学名词",
+   "wordNumber": "09.0495",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "不受光源色、固有色、环境色的限制，不以光色规律作为色彩组合的标准，不以自然色彩的真实性作为参考，而是根据设计的需要强调色块组合的美感，构成夸张、变化的视觉效果，并力求色彩的抒情性、趣味性、新奇性和形态"
+  },
+  {
+   "cn": "观赏植物",
+   "en": "ornamental plant",
+   "source": "风景园林名词",
+   "wordNumber": "09.0007",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "通常指人工栽培的，可应用于室内外环境布置和装饰的，具有较高观赏价值的植物。"
+  },
+  {
+   "cn": "观赏型油菜",
+   "en": "ornamental rapeseed",
+   "source": "农学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "经济作物_油料作物",
+   "subjectName": "油料作物",
+   "publishYear": "2025",
+   "definition": "用于观花的油菜类型。包括金黄色、红色、紫色、橘黄和白色等花色类型。"
+  },
+  {
+   "cn": "观赏型向日葵",
+   "en": "ornamental sunflower",
+   "source": "农学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "经济作物_油料作物",
+   "subjectName": "油料作物",
+   "publishYear": "2025",
+   "definition": "向日葵属供观赏的栽培种和部分野生种的总称。二倍体。一年生花卉，株高90~300cm。分单秆型和分枝型。舌状花有黄色、橙色、白色、红色及复色等。可用于切花、盆花、染色花、庭院美化及花境营造等领域。"
+  },
+  {
+   "cn": "观赏蕨类",
+   "en": "ornamental fern",
+   "source": "农学名词",
+   "wordNumber": "05.310",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "蕨类植物中具有观赏价值的种类总称。在全球分布极广，从寒带到热带均有生长。无根系，具假根，无种子，通过孢子繁殖。"
+  },
+  {
+   "cn": "观赏草",
+   "en": "ornamental grass",
+   "source": "农学名词",
+   "wordNumber": "05.312",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "主要指具有观赏价值的单子叶植物。以茎秆和叶丛为主要观赏部位。主要包括禾本科的蒲苇属、羊茅属、芒属、狼尾草属、乱子草属、针茅属、白茅属和莎草科薹草属以及灯心草科等的多年生植物。"
+  },
+  {
+   "cn": "观赏凤梨",
+   "en": "ornamental bromeliad",
+   "source": "农学名词",
+   "wordNumber": "05.381",
+   "subjectFullName": "园艺作物_花卉作物",
+   "subjectName": "花卉作物",
+   "publishYear": "2025",
+   "definition": "凤梨科凤梨属(Ananas)多年生草本花卉。以附生种类为主，一般附生于树干或石壁上，性喜温暖、潮湿的半遮阴环境。常见种类和品种，主要属于凤梨科的珊瑚凤梨属(Aechmea)、水塔花属(Billberg"
+  },
+  {
+   "cn": "观赏动物",
+   "en": "ornamental animal",
+   "source": "风景园林名词",
+   "wordNumber": "04.0160",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "用于观看和欣赏的动物。"
+  },
+  {
+   "cn": "绦环板",
+   "en": "ornamental panel",
+   "source": "风景园林名词",
+   "wordNumber": "07.0330",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑小木作装修部分，清式建筑称谓。位于隔扇门隔心和裙板之下，与隔心形成鲜明的艺术对比，绦环板刻有行龙或草龙图案，小式建筑则表现为云纹和几何纹样。宋式建筑称“腰华板”。"
+  },
+  {
+   "cn": "装饰性种植",
+   "en": "ornamental planting",
+   "source": "风景园林名词",
+   "wordNumber": "09.0302",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "在尺度及范围较小的场地内，以美化和营造优美环境等装饰性要求为目的的花木种植形式。"
+  },
+  {
+   "cn": "观赏园艺",
+   "en": "ornamental horticulture",
+   "source": "风景园林名词",
+   "wordNumber": "01.0007",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "以观赏植物为对象，阐明其资源与分类、生物学特性及生态习性、繁殖与栽培、设施与设备、装饰与应用、采（产）后技术及经营管理等理论与应用的综合性学科。是园艺科学的重要分支学科。"
+  },
+  {
+   "cn": "观赏草坪",
+   "en": "ornamental lawn",
+   "source": "风景园林名词",
+   "wordNumber": "09.0374",
+   "subjectFullName": "风景园林_风景园林植物_室外风景园林植物装饰应用",
+   "subjectName": "室外风景园林植物装饰应用",
+   "publishYear": "2025",
+   "definition": "选择低矮、茎叶密集、平整、绿期长的草种建植草坪，仅供观赏，禁止外人踏入践踏草坪。"
+  },
+  {
+   "cn": "观赏蕨类",
+   "en": "ornamental fern",
+   "source": "风景园林名词",
+   "wordNumber": "09.0115",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "拥有独特的株型、叶形、根状茎和翠绿叶色，具有较高观赏价值的蕨类植物。"
+  },
+  {
+   "cn": "装饰化农庄",
+   "en": "ornamental farm",
+   "source": "风景园林名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "风景园林_风景园林史_欧洲",
+   "subjectName": "欧洲",
+   "publishYear": "2025",
+   "definition": "按照美学原理布置且部分用于耕种的乡村庄园。18世纪的装饰化农庄是浪漫主义运动的景观园林的体现。"
+  },
+  {
+   "cn": "观赏草",
+   "en": "ornamental grass",
+   "source": "风景园林名词",
+   "wordNumber": "09.0125",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "叶色、茎（秆）、花（序）或株（丛）型美丽有观赏价值的禾本科植物和类似禾草的植物统称。"
+  },
+  {
+   "cn": "纹饰",
+   "en": "ornamentation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纹饰",
+   "en": "ornamentation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "装饰铜合金",
+   "en": "ornamental copper alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "雌黄",
+   "en": "orpiment",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "软膏剂",
+   "en": "ointment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "雌黄",
+   "en": "arsenblende\",\"orpiment",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "软膏基质",
+   "en": "ointment base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乳化软膏",
+   "en": "emulsifying ointment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锦标赛算法",
+   "en": "tournament algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联赛排序",
+   "en": "tournament sort",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲水软膏",
+   "en": "hydrophilic ointment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软膏管",
+   "en": "ointment tube",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软膏罐",
+   "en": "ointment jar",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软膏基质",
+   "en": "ointment base",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "眼用软膏",
+   "en": "ophthalmic ointment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甲硫氨酸tRNA",
+   "en": "methionine tRNA\",\"tRNAmet",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "吸收性软膏基",
+   "en": "absorption ointment base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可洗软膏基",
+   "en": "washable ointment base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水溶性软膏基",
+   "en": "water-soluble ointment base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水/油乳剂软膏基",
+   "en": "W/O emulsion ointment base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锦标赛",
+   "en": "tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锦标赛",
+   "en": "tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锦标赛",
+   "en": "tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锦标赛",
+   "en": "tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament\",\"knockout competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament\",\"knockout competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞赛主任",
+   "en": "competition director\",\"tournament director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament\",\"knockout competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淘汰赛",
+   "en": "elimination tournament\",\"knockout competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会沙滩排球比赛",
+   "en": "Olympic Beach Volleyball Tournament",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩表",
+   "en": "table of results\",\"tournament table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

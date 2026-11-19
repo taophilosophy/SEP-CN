@@ -1,0 +1,622 @@
+{
+ "key": "tabular representation",
+ "term": "tabular representation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:44:24+00:00",
+ "status": "ok",
+ "note": "variant=tabular representation; 审定公布名词库=563; 海峡两岸名词对照库=154; 其他来源数据库=19; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "表格图",
+   "en": "tabular drawing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0171",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用图形和表格表示结构相同而参数、尺寸、技术要求不尽相同的产品的图样。"
+  },
+  {
+   "cn": "板状矿体",
+   "en": "tabular orebody",
+   "source": "冶金学名词",
+   "wordNumber": "02.0067",
+   "subjectFullName": "冶金学_采矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "走向长度和延伸大且厚度变化较小的矿体。如矿层和矿脉。"
+  },
+  {
+   "cn": "片状氧化铝",
+   "en": "tabular alumina",
+   "source": "冶金学名词",
+   "wordNumber": "06.0698",
+   "subjectFullName": "冶金学_有色金属冶金_轻金属冶金",
+   "subjectName": "轻金属冶金",
+   "publishYear": "2019",
+   "definition": "由碱含量较低的工业氢氧化铝经1800~ 2000℃煅烧，通过再结晶得到的大粒板状氧化铝。"
+  },
+  {
+   "cn": "表格显示",
+   "en": "tabular display",
+   "source": "电子学名词",
+   "wordNumber": "11.033",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "表[列]值",
+   "en": "tabular value,entry",
+   "source": "数学名词",
+   "wordNumber": "010.0272",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "板状等粒结构",
+   "en": "tabular equigranular texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.055",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "非岩浆成因的地幔岩的一种变形结构。为具叶理构造的粒状镶嵌结构。其中的橄榄石有的被拉长定向，有的具扭折带，顽火辉石呈压扁状，其颗粒边界平直。"
+  },
+  {
+   "cn": "板状铀矿体",
+   "en": "tabular uranium orebody",
+   "source": "地质学名词",
+   "wordNumber": "14.11.009",
+   "subjectFullName": "地质学_矿床学_放射性元素矿床",
+   "subjectName": "放射性元素矿床",
+   "publishYear": "2026",
+   "definition": "在空间上向两个方向延展且厚度变化不大的铀矿体。按照国际原子能机构发布的铀矿床分类方案(1996)，把以发育板状铀矿体为主的砂岩型铀矿床称为板状铀矿床。"
+  },
+  {
+   "cn": "板状矿体",
+   "en": "tabular orebody;clintheriform orebody",
+   "source": "地质学名词",
+   "wordNumber": "14.03.025",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "在三维空间上，两个方向延伸较大，一个方向不发育的矿体。如矿脉、矿层等。"
+  },
+  {
+   "cn": "板状铀矿体",
+   "en": "tabular U-ore body",
+   "source": "地质学名词",
+   "wordNumber": "07.214",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建筑表现",
+   "en": "architectural representation",
+   "source": "风景园林名词",
+   "wordNumber": "07.0106",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "研究设计方案，表现设计构思的手段。主要有：方案设计阶段研究方案使用的设计草图（包括徒手草图与工具草图）；方案基本确定之后表现与介绍方案所用的各种建筑效果图；方案实施阶段所用的建筑工程图。"
+  },
+  {
+   "cn": "表现技法",
+   "en": "representation technique",
+   "source": "风景园林名词",
+   "wordNumber": "10.0032",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学科学位教育课程之一，讲授内容包括传统表现技法（水彩、水粉、彩色铅笔、马克笔等）、数字表现技术等。"
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.551",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认知科学中心智的计算理论的基本概念。认知状态和认知过程在某种类型的信息载体，如大脑结构中的生成、变换和存储，是认知主体用以反映认知对象的认知加工的对象。广义的理解是具有语义属性的心理对象。"
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "把知识客体中的知识因子与知识关联起来，便于人们识别和理解知识。"
+  },
+  {
+   "cn": "媒介再现",
+   "en": "media representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.035",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "传媒组织或个人通过选择、排除和建构，将散乱的事实元素或符号聚合成一个供受众理解其意义的过程。这一过程通常被看作政治性的。有能力、有权力选择与组合符号并进行传播的人或机构，透过其再现的文本可展示不同的意"
+  },
+  {
+   "cn": "简化画法",
+   "en": "simplified representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0197",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "包括规定画法、省略画法、示意画法等在内的图示方法。"
+  },
+  {
+   "cn": "图表数据",
+   "en": "tabular data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表格显示",
+   "en": "tabular display",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍沃思表达式",
+   "en": "Haworth representation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示方法",
+   "en": "cartographic representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矢量表示",
+   "en": "vector representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据表示",
+   "en": "data representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密度表示法",
+   "en": "dasymetric representation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "透视法",
+   "en": "perspective representation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "边界表示",
+   "en": "boundary representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编码表示",
+   "en": "coded representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "管状车胎",
+   "en": "tubular tire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "管状车胎胶",
+   "en": "tubular tire cement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世卫组织驻华代表处",
+   "en": "WHO China Representative Office",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "代表性土壤样品",
+   "en": "representative soil samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤采集中所获得的一定量的土壤样品，它与被取样的总体在性质与特点上完全相同。"
+  },
+  {
+   "cn": "肾小管酸中毒",
+   "en": "renal tubular acidosis，RTA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "近端肾小管对HCO3-重吸收障碍和(或)远端肾小管排泌氢离子障碍所致的临床综合征。临床上主要表现为慢性高氯性酸中毒、电解质紊乱、肾性骨病、尿路症状和泌尿系结石等。"
+  },
+  {
+   "cn": "丘疹紫癜性袜套综合征",
+   "en": "papular-purpuric gloves and socks syndrome， PPGSS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.40",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "罕见的表现为手、足轻度水肿、红斑和斑丘疹，伴有紫癜，皮损可扩展到腕部及踝部呈手套和短袜状分布的综合征，前驱可有发热等全身症状。年轻人多见，目前认为本病与病毒感染尤其是细小病毒B19感染有关，具有自限性"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

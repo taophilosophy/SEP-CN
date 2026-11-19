@@ -1,0 +1,722 @@
+{
+ "key": "laws modalities and counterfactuals",
+ "term": "Laws Modalities and Counterfactuals",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:45:53+00:00",
+ "status": "ok",
+ "note": "variant=Laws Modalities and Counterfactuals; 审定公布名词库=10000; 海峡两岸名词对照库=2069; 其他来源数据库=1350; 预公布名词数据库=1157; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "反事实条件句",
+   "en": "counterfactual conditionals",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "前项与实际情况不符的条件句。"
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "生物物理学名词",
+   "wordNumber": "04.087",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "各类特异化感觉系统接收其适宜刺激的基本模式。"
+  },
+  {
+   "cn": "模态结构主义",
+   "en": "modal structuralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "由赫尔曼提出的一种数学结构主义立场。主张借助二阶模态逻辑重解数学，避免对结构或结构中的位置进行量化。"
+  },
+  {
+   "cn": "模态虚构主义",
+   "en": "modal fictionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张通过关于可能世界的虚构故事来理解模态。其最强版本关于模态陈述的真值条件是：P是可能的，当且仅当P在虚构故事F的语言中的翻译根据F成立；P是必然的，当且仅当P在虚构故事F的语言中的翻译总是成立。"
+  },
+  {
+   "cn": "众数",
+   "en": "modal number",
+   "source": "血液学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "细胞中的染色体数目。"
+  },
+  {
+   "cn": "模态分析",
+   "en": "modal analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0091",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "将线性定常系统振动微分方程组中的物理坐标变换为模态坐标，使方程组解耦，成为一组以模态坐标及模态参数描述的独立方程。"
+  },
+  {
+   "cn": "模态参数",
+   "en": "modal parameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0092",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "模态的特征参数，即振动系统的各阶固有频率、振型、模态质量、模态刚度与模态阻尼。"
+  },
+  {
+   "cn": "模态刚度",
+   "en": "modal stiffness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0093",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "与特定的振动模态相关的刚度元素。"
+  },
+  {
+   "cn": "模态密度",
+   "en": "modal density",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0094",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "每单位带宽的模态数。"
+  },
+  {
+   "cn": "模态试验",
+   "en": "modal test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0127",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为确定系统模态参数所做的振动试验。通常先由激励和响应关系得出频率响应矩阵，再由曲线拟合等方法识别出各阶模态参数。"
+  },
+  {
+   "cn": "振型偏心距",
+   "en": "modal eccentricity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0222",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "第n阶振型不平衡量除以第n阶模态质量的值。"
+  },
+  {
+   "cn": "振型灵敏度",
+   "en": "modal sensitivity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0223",
+   "subjectFullName": "机械工程（一）_机械动力学_转子系统",
+   "subjectName": "转子系统",
+   "publishYear": "2021",
+   "definition": "振型位移矢量的变化量与振型偏心距(振型不平衡量除以模态质量)的变化量的比值。"
+  },
+  {
+   "cn": "振型平衡",
+   "en": "modal balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0276",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "平衡挠性转子的一种方法，分别在有影响的各阶挠曲主振型下进行不平衡校正，使振幅减小到规定范围之内。"
+  },
+  {
+   "cn": "感觉模态",
+   "en": "sensory modality",
+   "source": "生理学名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透析模式",
+   "en": "dialysis modality",
+   "source": "器官移植学名词",
+   "wordNumber": "11.049",
+   "subjectFullName": "器官移植学_肾移植_肾移植受者评估",
+   "subjectName": "肾移植受者评估",
+   "publishYear": "2020",
+   "definition": "尿毒症患者透析治疗的具体方式。分为血液净化和腹膜透析两大类。"
+  },
+  {
+   "cn": "模态算子",
+   "en": "modal operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0010",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "作用于模态命题语句，表达“必然”“可能”“应当”“必须”“允许”“禁止”等意义的逻辑符号。"
+  },
+  {
+   "cn": "模式",
+   "en": "(1) modality (2) pattern",
+   "source": "核医学名词",
+   "wordNumber": "01.0033",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "(1)在影像学范畴内，特指对现实事件内在机制和事件之间关系进行直观、简洁描述的一类有特定工作方式、方法或技术的总称。(2)客观事物表现出来、能被主观感觉和识别的规律性或特征化形式。"
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "逻辑的一个分支，它研究必然、可能及其相关概念的逻辑性质。"
+  },
+  {
+   "cn": "感觉[通]道",
+   "en": "sense modality",
+   "source": "心理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体接受刺激和传入信息形成感觉经验的通道。"
+  },
+  {
+   "cn": "常态嗓音",
+   "en": "modal voice",
+   "source": "语言学名词",
+   "wordNumber": "03.143",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "一种发声类型。发声时，声门作为一个单一的整体起作用，声带有规律地振动，并且每个周期都完全闭合，没有任何摩擦噪声。"
+  },
+  {
+   "cn": "反事实思维",
+   "en": "counterfactual thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "调式的",
+   "en": "modal",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模态",
+   "en": "modality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙模型",
+   "en": "world modal",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模[式]色散",
+   "en": "modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式噪声",
+   "en": "modal noise",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态逻辑",
+   "en": "modal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态双折射性",
+   "en": "modal birefringence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模态展开",
+   "en": "modal expansion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模间色散",
+   "en": "inter-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模内色散",
+   "en": "intra-modal dispersion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海洋法规",
+   "en": "law and regulation of sea",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分配定律",
+   "en": "distribution law\",\"distributive law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律（=重演律）",
+   "en": "biogenetic law (=recapitulation law)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通则",
+   "en": "general laws",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "个体发生律",
+   "en": "ontogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生物发生律",
+   "en": "biogenetic law",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重演律",
+   "en": "recapitulation law",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法",
+   "en": "Law/ Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人法",
+   "en": "robot law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物安全法",
+   "en": "biosecurity law  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天文",
+   "en": "The Laws of Constellations and Seasons/Astronomy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔定律",
+   "en": "Moore’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "梅特卡夫定律",
+   "en": "Metcalfe’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反事实分析",
+   "en": "counterfactual analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食源性疾病负担归因的方法。基于当前暴露水平的疾病负担，与基于替代暴露水平的疾病负担相比较，从而获得当前暴露水平的人群归因分值，常用于癌症、心血管疾病的全球疾病负担归因"
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的，由国家强制力保证实施的，旨在规定社会成员之间权利和义务，并具有普遍约束力的各种行为规范的总和。"
+  },
+  {
+   "cn": "规律",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "01.0033",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物发展过程中本身所固有的本质的、必然的、稳定的内在联系。规律具有不以人的意志为转移的客观实在性。"
+  },
+  {
+   "cn": "法",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "04.0040",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家按照统治阶级的利益和意志制定或认可，并由国家强制力保证其实施的行为规范的总和。法是上层建筑的重要部分，由经济基础决定，为经济基础服务。法的目的在于维护有利于统治阶级的社会关系和社会秩序，是统治阶级"
+  },
+  {
+   "cn": "民族工作法律法规体系",
+   "en": "ethnic laws and regulations system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0079",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "解决民族问题、处理民族事务所制定的法律和法规体系，是中国特色社会主义法制体系的重要组成部分。该体系以宪法的相关规定为根本，以民族区域自治法为主干，包括其他关于民族方面的法律规定，国务院及其各部门制定的"
+  },
+  {
+   "cn": "放射相关组织机构与法律",
+   "en": "radioactive-related organizations and laws",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.5",
+   "subjectFullName": "食品卫生学_食品污染_放射相关组织机构与法律",
+   "subjectName": "放射相关组织机构与法律",
+   "publishYear": "2025",
+   "definition": "由国家立法机关制定经全国人大常委会通过后，以国家主席令公布的体现国家意志、依靠国家强制力保证执行、规定和调整国家放射管理方面的单位和文件。"
+  },
+  {
+   "cn": "供求定理",
+   "en": "law of supply and demand",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "表明供给与需求间关系的定理。完全竞争市场中，任何一种物品的价格都会自发调整，使该物品的供给与需求达到平衡。"
+  },
+  {
+   "cn": "军队卫生法规",
+   "en": "military health law and regulation",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.6",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫生法规",
+   "subjectName": "军队卫生法规",
+   "publishYear": "2025",
+   "definition": "军队制定的调整军队系统内部卫生工作关系的法律规范、制度等具有法律规范性文件的总称，是军队维护平战时卫生勤务和防疫防护及公共卫生秩序，规范军队卫生工作者行使权利和义务以及官兵卫生行为的重要依据和准则。"
+  },
+  {
+   "cn": "食品安全法规",
+   "en": "food safety law and regulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "规范食品生产安全、生产质量等事项的法律、法规及规章的总称，主要有《食品安全法》、《农产品质量安全法》、《食品安全法实施条例》、《乳品质量安全监督管理条例》、《食品生产许可管理办法》等。"
+  },
+  {
+   "cn": "一般规律",
+   "en": "general law universal law",
+   "source": "马克思主义",
+   "wordNumber": "01.0034",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整个世界或一定范围内事物普遍具有的规律。由于事物存在和发展的无限性，一般规律和特殊规律的区分是相对的，在一定条件下为一般规律，而在另一条件下则可变为特殊规律，反之亦然。"
+  },
+  {
+   "cn": "婆媳关系",
+   "en": "relationship between mother-in-law and daughter-in-law",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0396",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一家中婆婆和媳妇的关系。婆媳关系在家庭人际关系中有其特殊性，它既不是婚姻关系，也无血缘联系，而是以上两种关系为中介结成的特殊关系。"
+  },
+  {
+   "cn": "经济规律",
+   "en": "economic laws",
+   "source": "马克思主义",
+   "wordNumber": "02.0012",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会发展过程中经济现象之间存在的不以人们意志为转移的内在的、本质的、必然的联系及其发展趋势。经济规律具有客观必然性，即在历史发展进程中强制地为自己开辟道路而不以人的意志为转移。"
+  },
+  {
+   "cn": "姻亲",
+   "en": "in-laws",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0391",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因婚姻关系而产生的亲属，分为血亲的配偶、配偶的血亲两种。姻亲同血亲一样，也有直系与旁系、尊亲属与卑亲属之分。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "补偿性法律",
+   "en": "restorative law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.2",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "不具有惩罚性的法律。旨在恢复原有状态或重建正常状态与关系的法律。如民法、商业法、诉讼法等。"
+  },
+  {
+   "cn": "古代法",
+   "en": "archaic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应古代社会的法律。尼克拉斯·卢曼认为在社会演化过程中存在着古代法、前现代高等文明的法和现代社会的实证法三种法律。古代法对应古代社会，制定法律的行为与依据法律做出决定的行为并未区分开，出现冲突后，人们"
+  },
+  {
+   "cn": "习惯法",
+   "en": "customary law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.5",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "个人与团体之间反复出现并得到人们承认的一种相互作用的法律模式。罗伯托·昂格尔提出的三种不同的法律类型之一，除习惯法外，其他为官僚法和法律秩序。"
+  },
+  {
+   "cn": "官僚法",
+   "en": "bureaucratic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "人们必须遵循的明确规则。该规则由国家确立和强制执行。该法律具备实证性，而且是由国家制定、颁布和强制实施的，具备公共性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

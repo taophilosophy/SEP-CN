@@ -1,0 +1,782 @@
+{
+ "key": "feature-placing sentences",
+ "term": "feature-placing sentences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:54:56+00:00",
+ "status": "ok",
+ "note": "variant=feature-placing sentences; 审定公布名词库=3612; 海峡两岸名词对照库=809; 其他来源数据库=180; 预公布名词数据库=133; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0553",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "全部由终极符组成的句型。一个句子是文法的一个推导的目标，也是该文法所产生的语言的一个元素或称语句。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "语言学名词",
+   "wordNumber": "04.139",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "词和短语的实现形式。具有一定的语调，前后有较大停顿，表示一个相对完整意义的语言片段。句子是最大的语法单位，最小的表达单位。"
+  },
+  {
+   "cn": "语句",
+   "en": "sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原子[语]句",
+   "en": "atomic sentence,primitive sentence",
+   "source": "数学名词",
+   "wordNumber": "02.0101",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "安",
+   "en": "place",
+   "source": "风景园林名词",
+   "wordNumber": "08.0730",
+   "subjectFullName": "风景园林_风景园林工程_风景园林假山",
+   "subjectName": "风景园林假山",
+   "publishYear": "2025",
+   "definition": "放置山石的过程，有单安、双安、三安之分，单安即直接放置山石；双安即在两块不相连的山石上安置一块山石，以在竖向的立面上形成洞岫；三安即在三块山石上安置一块山石，使之连成一体。"
+  },
+  {
+   "cn": "处所",
+   "en": "place",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.059",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "物理空间所处的位置和心灵空间所处的境况。有实虚两重含义，实指物理事物的空间位置，虚指人的意境、心境所处的境况。"
+  },
+  {
+   "cn": "场所",
+   "en": "place",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.178",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "由物质环境与人文环境结合而形成的具有特定意义的空间。如与记忆、象征、归属等情感价值相联系的处所或地方。"
+  },
+  {
+   "cn": "库所",
+   "en": "place",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0635",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个佩特里网Σ=( S,T;F,<img src='/root/syzx/static/spz/jsjkx3.02.0635.001.png'/>)中，集合S 的元素称为库所。用图形表示时，一个库所"
+  },
+  {
+   "cn": "场所",
+   "en": "place",
+   "source": "建筑学名词",
+   "wordNumber": "07.0320",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "由物质环境与人文环境结合形成的具有特定意义的城市环境空间。城市空间被赋予社会、历史、文化、人的活动等特定含义之后才能称为场所。"
+  },
+  {
+   "cn": "位",
+   "en": "place",
+   "source": "数学名词",
+   "wordNumber": "04.0471",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "特稿",
+   "en": "feature",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "通过讲故事和大量细节描写的方法进行报道的新闻体裁。强调叙述性，一般篇幅较长，具有较高的文学品质。"
+  },
+  {
+   "cn": "特写",
+   "en": "feature",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.101",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过生动、形象化的描绘，再现场景和气氛，使之有强烈的感染力的一种新闻报道体裁。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0248",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "与一定功能和工程语义相结合的几何形状或工程信息表达的集合。"
+  },
+  {
+   "cn": "要素",
+   "en": "feature",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0354",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "构成零件几何特征的理想点、线、面的统称。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0386",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "能表达模式本质的功能或结构特点的可度量属性，如大小、纹理、形状等。好的特征应能使同类模式聚集、不同类模式分离。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.617",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地球空间上可以用数据描述的客观现象，表达了用来描述空间实体的数据集的标识与封装，是客观存在、能看得见的、或纯粹是概念上的(如行政区)具有属性与地理描述信息的实体。"
+  },
+  {
+   "cn": "要素",
+   "en": "feature",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.720",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "空间数据库中代表真实世界实体的一组点、线或多边形。"
+  },
+  {
+   "cn": "分析句",
+   "en": "analytical sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "只要通过理解组成句子的每一个词语就能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "综合句",
+   "en": "synthetic sentence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "需要通过理解组成句子的每一个词语以及一些与外部世界相关的东西才能知道整个句子真值的句子。"
+  },
+  {
+   "cn": "句子对齐",
+   "en": "sentence alignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0563",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "给定互为译文的双语文本，在其句子间按照翻译关系建立对应关系的过程、技术和方法。"
+  },
+  {
+   "cn": "句子",
+   "en": "sentence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场所（＝地方）",
+   "en": "place",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "特征，要素",
+   "en": "feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地物",
+   "en": "feature",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "句子片段",
+   "en": "sentence fragment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句子歧义消除",
+   "en": "sentence disambiguation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摄食地点",
+   "en": "feeding place",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "栖息处",
+   "en": "roosting place",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地方认同",
+   "en": "place identification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方社区",
+   "en": "place community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方效用",
+   "en": "place utility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "中心地",
+   "en": "central place",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置查找",
+   "en": "find places",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平位置",
+   "en": "mean place",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视位置",
+   "en": "apparent place",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "place\",\"position",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原地",
+   "en": "in-place",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意界外！",
+   "en": "Place!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精准球",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制落点",
+   "en": "place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量刑辅助",
+   "en": "sentencing assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification\",\"placing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发点",
+   "en": "starting place",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象",
+   "en": "Prevailing Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据量刑",
+   "en": "big data-assisted sentencing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精准传球",
+   "en": "well-placed kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆出准备姿势",
+   "en": "place on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification\",\"placing\",\"ranking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教学为先",
+   "en": "Education Must Be Placed First.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特殊场所",
+   "en": "special place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "与传染病疫情、突发公共卫生事件处置或重大活动卫生保障相关，有特殊管理要求的场所。"
+  },
+  {
+   "cn": "人群聚集场所",
+   "en": "congregate place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "人员密集且流动性大，容易发生传染病聚集性疫情和突发公共卫生事件的场所，如公共场所、各类办公场所和学校等。"
+  },
+  {
+   "cn": "重点场所",
+   "en": "key place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件期间，人员密集且流动性大、容易暴发聚集性疫情或事件的场所，包括办公场所、宾馆、商场超市、餐厅（馆）、农集贸市场、车站、机场、码头和公共交通工具等。"
+  },
+  {
+   "cn": "密闭场所",
+   "en": "airtight place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "自然通风较差的室内场所。如影剧院、歌舞娱乐场所、公共浴室等。"
+  },
+  {
+   "cn": "第三场所",
+   "en": "third place",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "除了家（第一场所）和工作地点（第二场所）以外的一个非正式的公共聚集场所或空间。人们经常或是偶尔来此活动（特别是交谈），有助于社会交往、增进友谊和邻里团结，同时也通过开放、平等的横向交往有助于社区公共领"
+  },
+  {
+   "cn": "健康场所",
+   "en": "healthy places",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.10",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "通过改善物理环境、社会支持、制度管理和健康促进活动，使人在该场所中能够获得身心健康、减少健康风险、促进健康行为的空间与机构。"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "安全设施",
+   "en": "safety feature",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "保障人民生命财产安全和审查运行、提高安全水平的设备。在学校范围内指针对可能对学生安全产生危害的因素所采用的防护设施。"
+  },
+  {
+   "cn": "伴随语言特征",
+   "en": "paralinguistic feature",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0116",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话时伴随语言出现的习惯性声音特征。例如假嗓音、吱嘎声、间断、咯咯声等嗓音特点。音高、音长、音强等超音段语音特征通常存在区别特征和伴随特征的取舍问题。例如藏语拉萨话的声调和元音长短成互补状态，如果确定"
+  },
+  {
+   "cn": "原位杀菌",
+   "en": "sterilization in place",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.14",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "未拆卸设备或组件，在密闭的条件下，用一定温度和浓度的杀菌介质，或用蒸汽、热水、过热水对被杀菌表面进行强力作用而达到杀菌要求。"
+  },
+  {
+   "cn": "公共场所消毒",
+   "en": "disinfection in public place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在人群经常聚集、供公众使用或服务于人民大众的场所中，对物体表面、室内环境、饮用水等进行的消毒。"
+  },
+  {
+   "cn": "重点场所消毒",
+   "en": "disinfection in key place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.9",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对重点场所环境和一般物体表面、空气进行的消毒。"
+  },
+  {
+   "cn": "原位清洗",
+   "en": "cleaning in place，CIP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.39",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "隔离医学观察场所",
+   "en": "isolation of medical observation place",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对传染病患者和病原携带者以及密切接触者等进行医学观察、隔离治疗的指定场所。"
+  },
+  {
+   "cn": "工作场所的性骚扰",
+   "en": "sexual harassment in working place",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "发生在工作场所的违背行为对象意愿的具有性含义的行为，包括语言猥亵、肢体触碰以及性器官暴露等。最常见的是男性对女性、尤其是位高权重者对普通无权者的骚扰。女性主义认为这是工作场所性别歧视和性别暴力的体现。"
+  },
+  {
+   "cn": "卫生服务产品特性",
+   "en": "features of health service products",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务产品有别于一般商品的经济学特征，包括以服务形态存在、有大量公共产品、最终产品为健康水平改善等特性。"
+  },
+  {
+   "cn": "卫生服务市场特征",
+   "en": "features of health service market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场是一个存在大量公共产品、具有外部性特征的市场。具有与一般商品市场共同性，同时也表现出特殊市场经济主体、信息不对称、垄断和诱导需求造成服务低效率等与一般商品市场的差异性特征。"
+  },
+  {
+   "cn": "具有自身免疫特征的间质性肺炎",
+   "en": "interstitial pneumonia with autoimmune features，IPAF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "一组具有潜在的自身免疫性疾病的临床特点，但尚不能被诊断为某一种具体的结缔组织病的特发性间质性肺炎。以中老年女性居多，呼吸系统症状多为咳嗽、咳痰和呼吸困难；肺外表现最常见的症状是雷诺现象与技工手，CT提"
+  },
+  {
+   "cn": "人民至上",
+   "en": "put the people in the first place",
+   "source": "马克思主义",
+   "wordNumber": "01.0253",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "深刻揭示了人民群众的巨大历史作用，中国共产党根基在人民、血脉在人民。坚持以人民为中心的发展思想，体现了党的理想信念、性质宗旨、初心使命，也是对党的奋斗历程和实践经验的深刻总结。2021年，在党的十九届"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

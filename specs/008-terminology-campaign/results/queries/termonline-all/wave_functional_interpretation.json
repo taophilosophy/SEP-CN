@@ -1,0 +1,652 @@
+{
+ "key": "wave functional interpretation",
+ "term": "wave functional interpretation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:42:50+00:00",
+ "status": "ok",
+ "note": "variant=wave functional interpretation; 审定公布名词库=4462; 海峡两岸名词对照库=1287; 其他来源数据库=142; 预公布名词数据库=121; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "冶金学名词",
+   "wordNumber": "04.0798",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "量子力学中描述微观体系状态的一个基本概念，是描述微观粒子运动状态的函数。波函数是空间和时间的复函数，即ψ=ψ(x，y，z，t)。微观体系的任何一个状态都可以用一个坐标和时间的连续、单值、平方可积的函数"
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0522",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "化学名词",
+   "wordNumber": "04.1312",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "量子力学中有个基本假定，体系的状态由其波函数<img src='/root/syzx/static/spz/huaxue2.04.1312.1.png'/>来描述。<img src='/root/sy"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.120",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于一定规则为概念、符号、对象等赋予意义的过程。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像中获取所摄对象语义信息的基本过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "心理学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师依据某一理论或个人经验，对当事人的问题、反应进行因果说明的一种咨询技术。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.128",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "对遥感影像的解释，或识别的过程，即进行分类的过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "数学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0100",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "逐条翻译和执行每一条程序语句的计算机程序。"
+  },
+  {
+   "cn": "宏观波函数",
+   "en": "macroscopic wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.3279",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "超导波函数",
+   "en": "superconducting wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.3138",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "劳夫林波函数",
+   "en": "Laughlin wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.2895",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原子波函数",
+   "en": "atomic wave function",
+   "source": "物理学名词",
+   "wordNumber": "07.0094",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对波函数",
+   "en": "pair wave function",
+   "source": "物理学名词",
+   "wordNumber": "09.0347",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "径向波函数",
+   "en": "radial wave function",
+   "source": "物理学名词",
+   "wordNumber": "07.0096",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "旋量波函数",
+   "en": "spinor wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0658",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反对称波函数",
+   "en": "antisymmetric wave function",
+   "source": "物理学名词",
+   "wordNumber": "06.0524",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "布洛赫波函数",
+   "en": "Bloch wave function",
+   "source": "物理学名词",
+   "wordNumber": "08.1281",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反对称波函数",
+   "en": "antisymmetrical wave function",
+   "source": "化学名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "因为电子是费米子，于是体系的电子波函数Ψ要服从泡利不相容原理，即满足交换反对称性：<img src='/root/syzx/static/spz/huaxue2.04.1313.1.png'/>。这样"
+  },
+  {
+   "cn": "球体[波]函数",
+   "en": "spheroidal [wave] function",
+   "source": "数学名词",
+   "wordNumber": "06.0723",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "释梦",
+   "en": "dream interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地震解释",
+   "en": "seismic interpretation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "目视判读",
+   "en": "visual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工判读",
+   "en": "manual interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "影像判读",
+   "en": "image interpretation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "map interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浪",
+   "en": "wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "对心理问题进行剖析的咨询技巧。在学校心理咨询中，咨询者依据心理学理论、知识或人生经验，分析、说明求咨者心理问题的成因和性质，使对方有所领悟，为随后的指导及求咨者的思维、情绪、行为转变奠定基础。"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具解释分数或分数变化内涵的程度的测量性能。"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "巫师或当事人根据自然界出现的某些异常现象而探知事物所要出现的结果。在现实生活中，最常见的征兆是天象兆，另外还有植物兆、动物兆、人体兆、梦兆。"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "揭示文化符号性与解释性的文化人类学（民族学）分支。解释人类学由美国人类学家格尔兹（Clifford Geertz）开创，格尔茨强调人类文化的符号性和阐释性，认为人类是被自身编织的意义之网所束缚的动物，"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "source": "马克思主义",
+   "wordNumber": "05.0125",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，法国著名的马克思主义经济学家，国际马克思大会主席热拉尔·迪梅尼尔（Gérard Duménil）提出关于价值转型问题的所谓“新解释”。认为总产品的总生产价格一般不等于总价值。而且可"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张文化分析是寻求意义系统的解释科学。由美国人类学家格尔茨(C.Geertz）于20世纪70年代提出，认为人是由其自身编织的意义之网所支撑的动物，而文化就是这种意义之网。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "冲击波",
+   "en": "shock wave",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸产生高温、高压火球猛烈膨胀，急剧压缩周围空气，形成的压缩波。"
+  },
+  {
+   "cn": "蠕动波",
+   "en": "peristaltic wave",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胃肠道发生梗阻时，梗阻近端的胃或肠段饱满而隆起，伴有该部位蠕动增强呈现波动式运动的体征。"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "功能指标",
+   "en": "functional parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年不同器官或系统生理功能的指标，主要包括肺活量、呼吸频率和最大吸氧量等肺功能的指标，心率、血压等心血管功能的指标"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

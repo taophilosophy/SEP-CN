@@ -1,0 +1,692 @@
+{
+ "key": "instant rationality",
+ "term": "instant rationality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:43:14+00:00",
+ "status": "ok",
+ "note": "variant=instant rationality; 审定公布名词库=1058; 海峡两岸名词对照库=399; 其他来源数据库=24; 预公布名词数据库=102; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "速溶茶",
+   "en": "instant tea",
+   "source": "农学名词",
+   "wordNumber": "17.302",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "以成品茶或鲜叶为原料通过提取、浓缩和干燥等工序加工成的一种粉末状或小颗粒状的茶制品。"
+  },
+  {
+   "cn": "速溶咖啡",
+   "en": "instant coffee",
+   "source": "农学名词",
+   "wordNumber": "17.317",
+   "subjectFullName": "农产品贮运与加工_咖啡加工",
+   "subjectName": "咖啡加工",
+   "publishYear": "2025",
+   "definition": "以咖啡豆为主要原料，经焙烤和粉碎后用水提取可溶物，再经蒸发和干燥得到的纯咖啡固体饮料。"
+  },
+  {
+   "cn": "随时消毒",
+   "en": "instant disinfection",
+   "source": "兽医学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "动物群中出现疫病或突然有个别动物死亡时，为及时消灭刚从患病动物体内排出的病原体而采取的消毒措施。"
+  },
+  {
+   "cn": "即时报文",
+   "en": "instant messaging",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.033",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "互联网上进行实时通信的一种服务。它通过多平台、多终端的通信技术，来实现一对一或者多对多的实时的文字、语音以及图片、视频等信息交流，有些即时通信工具也提供邮件、发送文件、远程协助等功能。代表性的即时通信"
+  },
+  {
+   "cn": "即时通信",
+   "en": "instant messenger",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.064",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "通过实时性和丰富化的即时沟通功能实现信息的传递与交流的一种线上即时聊天工具。IM支持文字聊天、语音聊天、视频聊天、文档传输、个人状态标记等功能。"
+  },
+  {
+   "cn": "速溶茶",
+   "en": "instant tea",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1315",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_茶制品",
+   "subjectName": "茶制品",
+   "publishYear": "2020",
+   "definition": "以成品茶或鲜叶为原料通过提取、浓缩和干燥等工序加工成的一种粉末状或小颗粒状的速溶茶制品。"
+  },
+  {
+   "cn": "即时放射性药物",
+   "en": "instant radiopharmaceutical",
+   "source": "核医学名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "在核药房制备、可以直接应用的放射性药物。"
+  },
+  {
+   "cn": "即时通信",
+   "en": "instant messaging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0708",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "一个实时通信系统。用于在互联网上传递即时报文。"
+  },
+  {
+   "cn": "即时拷贝",
+   "en": "instant copy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0373",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "存储系统在数秒钟时间内可以拷贝数太字节以上数据的功能。这种拷贝通常是在一个磁盘子系统内进行。"
+  },
+  {
+   "cn": "即时顾客化定制生产",
+   "en": "instant customerization",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "能够实现立即交付产品和服务的顾客化定制。"
+  },
+  {
+   "cn": "时刻",
+   "en": "instant time",
+   "source": "计量学名词",
+   "wordNumber": "12.021",
+   "subjectFullName": "计量学_时间、频率_时间",
+   "subjectName": "时间",
+   "publishYear": "2015",
+   "definition": "连续流逝的时间的某一瞬间，即时标上的点或一台具体时钟的读数。表征时间何时发生。"
+  },
+  {
+   "cn": "到达时刻",
+   "en": "arrival instant",
+   "source": "数学名词",
+   "wordNumber": "011.0492",
+   "subjectFullName": "数学_运筹学_排队论",
+   "subjectName": "排队论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "心理学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "与经验主义相对。强调主体先天固有的能动性，夸大理智、智慧和意志的主导作用。"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0356",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "理性主义思想在不同时期的建筑思潮中广泛存在，但狭义的理性主义指20世纪20年代兴起于意大利的一种现代建筑思潮。试图综合理性几何学和结构逻辑学，注重建筑目的、建造过程与建筑使用的逻辑性。代表作品有特拉尼"
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "语言学名词",
+   "wordNumber": "01.185",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "与“经验主义”相对。一种哲学方法。认为人的推理可以作为知识来源的理论基础。一般认为随着笛卡尔的理论而产生，17—18世纪期间主要在欧洲大陆传播。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "行为医学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体以个人需要为理由解释自己不能改变的事实，或为自己辩解，用自我能接受、能宽恕的理由代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "配给",
+   "en": "rationing",
+   "source": "经济学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "一切经济活动，包括整个国民经济的决策，企业的产供销等日常经济活动决策，以及家庭和个人的经济活动如职业的选择、消费品的购买及选择等方面的决策，都集中于国家手中。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "心理学名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "用自我能接受、超我能宽恕的理由来代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "日粮",
+   "en": "ration",
+   "source": "水产名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "一只饲养动物一昼夜采食的、能满足其营养需要的饲料量。"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性主义",
+   "en": "rationalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性",
+   "en": "ration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "有理函数",
+   "en": "rational function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "振幅比",
+   "en": "amplitude ration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有理数",
+   "en": "rational number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理性思考",
+   "en": "rational thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体合理化",
+   "en": "collective rationalizing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性心理学",
+   "en": "rational psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配给交易",
+   "en": "rationing transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "配给证",
+   "en": "rationing coupon",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "限额出口",
+   "en": "rationed export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信贷配额",
+   "en": "credit rationing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理性形而上学",
+   "en": "rational metaphysics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理性主体",
+   "en": "rational agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口粮",
+   "en": "food ration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "即时消息",
+   "en": "instant messaging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2305-2011 统一通信中即时通信及语音通信相关接口技术要求》",
+   "en": "YD/T 2305-2011 Technical requirement for interfaces of instant communication and voice communication for unified communications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际足球联合会",
+   "en": "International Federation of Association Football（英语）；Fédération Internationale de Football Association（法语）",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日新",
+   "en": "Constant Renewal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经/权",
+   "en": "Constant and Temporary",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常",
+   "en": "Constant Laws of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "速溶茶",
+   "en": "instant tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.14",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "以成品茶或鲜叶为原料通过提取、浓缩和干燥等工序加工成的一种粉末状或小颗粒状的速溶茶制品。"
+  },
+  {
+   "cn": "即时洗消",
+   "en": "instant decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "受到核生化污染后立即实施的个体洗消，目的在于防止和减少健康损伤及污染扩散。"
+  },
+  {
+   "cn": "方便面",
+   "en": "instant noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.6",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以小麦粉和／或其他谷物粉、淀粉等为主要原料，添加或不添加辅料，经加工制成的面饼，添加或不添加方便调料的面条类预包装方便食品，包括油炸方便面和非油炸方便面。"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "方便米饭",
+   "en": "instant cooked rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.10",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为原料，通过熟化处理，使淀粉分子从有序的、不易消化的 β-状态，转变为无序的、易消化的 α-状态，经热风（或冷冻）干燥脱水制成的米饭。加水浸泡后即可食用，具有食用、携带、贮存方便的特点。"
+  },
+  {
+   "cn": "瞬时测氡仪",
+   "en": "instant radon detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "在一个相对短的时间范围内测量某时刻氡浓度值的仪器。"
+  },
+  {
+   "cn": "方便米粉",
+   "en": "instant rice noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.9",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为主要原料，添加或不添加辅料，经加工制成的多种形式的米粉（米线）制品，添加或不添加"
+  },
+  {
+   "cn": "即时毒性效应",
+   "en": "instant toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.7",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单次暴露外源化学物后随即发生或出现的毒性作用"
+  },
+  {
+   "cn": "即食水产品",
+   "en": "instant aquatic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.6",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "可以直接食用，无需进一步热处理的水产食品。"
+  },
+  {
+   "cn": "油炸方便面",
+   "en": "fried instant noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.7",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "采用油炸工艺干燥的方便面，包括泡面、干吃面和煮面。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "一种关注所有生命形态和谐共生的理性形式。它把人类视为生态系统中的一个有机组成部分，与其他生命系统相互联系、相互影响，共同构建生物共同体的和谐、健康、稳定、完整与统一。行为决策以保护经济资源、促进生态系"
+  },
+  {
+   "cn": "社会理性",
+   "en": "social rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "社会中的个体以整个社会或群体的利益为目标，使社会或群体利益最大化的思维倾向和行动动力。"
+  },
+  {
+   "cn": "法律的理性化",
+   "en": "legal rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.7.4.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的理性化",
+   "subjectName": "法律的理性化",
+   "publishYear": "2025",
+   "definition": "法律从实质理性逐渐转变形式理性的过程。马克斯·韦伯提出的概念，主要体现为法律是由规则构成的体系，通过逻辑推理能够从普遍规则推导出适用于个案的决定。"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "交往理性",
+   "en": "communicative rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0037",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯重建历史唯物主义的哲学用语，强调在交往中，不同的参与者克服掉了他们最初的那些纯粹主观的观念，同时，为了共同的合理信念而确立起了客观世界的同一性及其生活语境的主体间性，从而实现文明理性的重建。"
+  },
+  {
+   "cn": "经济理性",
+   "en": "economic rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0083",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹（Andre Gorz）认为，经济理性指资本主义生产方式被商品交换所支配，以利润为尺度、以效率为标准，遵循可计算性和效率原则。"
+  },
+  {
+   "cn": "生态理性",
+   "en": "ecological rationality",
+   "source": "马克思主义",
+   "wordNumber": "05.0084",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "安德列·高兹用语。生态理性指以满足人的基本需要为根本出发点，遵循最低限度的、最大使用价值原则，以达到最优化利用劳动、资本和自然资源的目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

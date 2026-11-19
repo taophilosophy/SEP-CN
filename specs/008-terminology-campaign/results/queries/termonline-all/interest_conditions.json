@@ -1,0 +1,772 @@
+{
+ "key": "interest conditions",
+ "term": "interest conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:55:34+00:00",
+ "status": "ok",
+ "note": "variant=interest conditions; 审定公布名词库=1305; 海峡两岸名词对照库=483; 其他来源数据库=184; 预公布名词数据库=65; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "利息",
+   "en": "interest",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.002",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "货币资金在向经济部门注入并回流时所带来的增值额。是在借贷关系中，借款人支付给贷款人的报酬。"
+  },
+  {
+   "cn": "兴趣",
+   "en": "interest",
+   "source": "行为医学名词",
+   "wordNumber": "4.083",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体认识某种事物或从事某种活动的心理倾向。以认识和探索外界事物的需要为基础，是推动人认识事物、探索真理的动机。"
+  },
+  {
+   "cn": "利息",
+   "en": "interest",
+   "source": "经济学名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商在一定时期内利用资本的生产力所必须支付的报酬。利息由资本的供求关系决定。"
+  },
+  {
+   "cn": "利率",
+   "en": "interest rate",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "一定时期内利息与本金的比率。通常用百分比表示。"
+  },
+  {
+   "cn": "单利",
+   "en": "simple interest",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.004",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "仅对贷款的本金计算利息，即在整个借贷期间，只对本金计取利息，不对未付利息计息的计息方式。"
+  },
+  {
+   "cn": "复利",
+   "en": "compound interest",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.005",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "不仅对原始本金计算利息，同时还对未付利息进行计息的一种计息方式。"
+  },
+  {
+   "cn": "少数股东权益",
+   "en": "minority interest",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "母公司对子公司不是完全控股时，子公司股东权益属于其他股东所有的部分。"
+  },
+  {
+   "cn": "利益集团",
+   "en": "interest group",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.071",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "具有某种集体目标，试图对公共政策施加有利于自身影响的有组织的实体。利益集团通过游说活动努力实现影响公共政策的目标。并非所有的游说活动都是为了影响直接的政策决策，有些是为了接近政策制定者或创造氛围，以有"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.045",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "国家、民族、社会等共同体内多数人的共同利益。在新闻传播领域，关注、传播、解释、评论以下事项通常是被认为是符合公共利益的：揭露犯罪，政府依法应当主动公开和重点公开的信息，国家的法治与公共政策状况，公众的"
+  },
+  {
+   "cn": "受众兴趣",
+   "en": "audience interest",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.145",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "传媒产品接收者的习惯、爱好。"
+  },
+  {
+   "cn": "趣味性",
+   "en": "human interest",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.067",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "新闻报道中体现出来的能够使受众轻松品赏、玩味的内容特质。"
+  },
+  {
+   "cn": "一般性",
+   "en": "general interest",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.069",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻价值",
+   "subjectName": "新闻价值",
+   "publishYear": "2022",
+   "definition": "中国早期新闻学者戈公振于1927年翻译自德国报学的一个概念。原文为“Vielseitigkeit des Inhaltes”，意为满足一般多数的信息需求。其内涵即现在所说的普遍兴趣，他写道：“报纸之一"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.166",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）人类整体的、普遍的、共同的利益。（2）一定社会中，个人利益的总和，或大多数人的共同利益。"
+  },
+  {
+   "cn": "利益集团",
+   "en": "interest group",
+   "source": "经济学名词",
+   "wordNumber": "05.042",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "使用各种途径和方法向政府施加影响，进行非选举性的鼓动和宣传，用以促进或阻止某方面公共政策的改变，以便在公共政策的决策中，体现自己的利益主张的松散或严密的组织。在西方，利益集团又称为利益团体、压力团体、"
+  },
+  {
+   "cn": "利息税",
+   "en": "interest tax",
+   "source": "经济学名词",
+   "wordNumber": "11.096",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "个人所得税的一种。国家根据有关税法对居民个人储蓄存款利息所得征收的所得税。征收利息税是市场经济条件下国家财政管理的一种国际惯例。在某些时期，国家可以依法免征或减政利息税。"
+  },
+  {
+   "cn": "用户兴趣",
+   "en": "user interest",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.259",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户基于自身的职业、年龄、教育背景、习性等特征，在某一段时期或者固定时期，对某一类信息的选择性态度和积极的情绪反应。"
+  },
+  {
+   "cn": "阅读兴趣",
+   "en": "reading interest",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "广义指读者对整个阅读活动的喜爱程度。狭义指读者对某些学科文献或某种载体文献的内容表现出的一种自觉选择倾向。在阅读实践中，阅读兴趣是阅读动机的重要表现形式，它是阅读活动中最直接、最活跃的意向心理因素，对"
+  },
+  {
+   "cn": "应收利息",
+   "en": "interest receivable",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0126",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业因持有金融资产而应该收取的利息。"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0012",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "社会全体成员或大部分成员共同的物质和精神利益。"
+  },
+  {
+   "cn": "应付利息",
+   "en": "interest payable",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0172",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业按照合同约定应支付的利息。"
+  },
+  {
+   "cn": "利息",
+   "en": "interest",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣",
+   "en": "interest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "单利",
+   "en": "simple interest",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "复利率",
+   "en": "compound interest",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有效利息",
+   "en": "effective interest",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会兴趣",
+   "en": "social interest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣测验",
+   "en": "interest test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业兴趣",
+   "en": "vocational interest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣量表",
+   "en": "interest inventory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纯利息",
+   "en": "pure interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款利息",
+   "en": "lending interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款利息",
+   "en": "loan interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①多数股权 ②多数权益",
+   "en": "majority interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负利息",
+   "en": "negative interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附息票据",
+   "en": "interest bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "高利息",
+   "en": "high interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[股份和贷款]空头",
+   "en": "short interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定利息",
+   "en": "fixed interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币利息",
+   "en": "monetary interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "假定利息",
+   "en": "hypothetical interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "利",
+   "en": "Interests / Gain",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利益有关方",
+   "en": "interested party",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "利率风险",
+   "en": "interest rate risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益界定",
+   "en": "public interest definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公益诉讼",
+   "en": "public interest litigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财政贴息",
+   "en": "government interest subsidies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴趣点推荐",
+   "en": "point-of-interest recommendation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权益协调",
+   "en": "right and interest coordination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "利益共同体",
+   "en": "the community of shared interests",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自为",
+   "en": "For the Sake of Self-interest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化惠民工程",
+   "en": "cultural programs in the public interest",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利息",
+   "en": "interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0236",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币所有者因贷出货币而从借款人手中获得的报酬。资本主义制度下的利息是职能资本家因使用借贷资本而支付给借贷资本家的一部分利润，源泉是产业工人生产过程中创造的剩余价值。利息取得了资本价格这样一种假象。"
+  },
+  {
+   "cn": "利益",
+   "en": "interests",
+   "source": "马克思主义",
+   "wordNumber": "04.0050",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们作为单个的个人所产生的并成为他们行为的原因的需要，以及在社会作为一个整体的层次上和在大的社会共同体（阶级、民族）的层次上形成的需要。根据利益的指向，通常分为经济利益（物质利益）、政治利益和精神利益"
+  },
+  {
+   "cn": "利益群体",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们在社会生产过程中，基于某种共同价值、共同态度、共同社会地位或者共同职业，因利益一致或基本一致，并为实现利益联系在一起的、以争取群体及其成员利益、影响公共政策的共同体。"
+  },
+  {
+   "cn": "志趣小组",
+   "en": "interest group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "基于成员间相同或相近的兴趣、爱好、志向等而形成的社会群体。"
+  },
+  {
+   "cn": "阶级利益",
+   "en": "class interest",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "同一阶级的成员因相似的经济社会地位而拥有共同的利益诉求，是马克思阶级理论的重要概念。马克思认为，生产关系决定阶级利益，资产阶级和无产阶级在生产关系中所处的位置（生产资料的占有者和不掌握生产资料而出卖劳"
+  },
+  {
+   "cn": "利息率",
+   "en": "interest rate",
+   "source": "马克思主义",
+   "wordNumber": "02.0237",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定时期内利息额与贷出资本额之间的比率。利息率受平均利润率、借贷资本的供求、产业周期的影响，平均利润是利息的最高界限。"
+  },
+  {
+   "cn": "定息",
+   "en": "fixed interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0361",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在资本主义工商业社会主义改造中，国家在全行业公私合营后，对资本家所有的生产资料实行赎买的一种形式。根据清产核资的估价，资本家按资本额每年收取5%的定息。实行定息后，资本家的剥削收入被限制在固定的股息内"
+  },
+  {
+   "cn": "公共利益",
+   "en": "public interest",
+   "source": "马克思主义",
+   "wordNumber": "03.0059",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会公众的、与公众有关的，主要由政府提供的公用的、公共的利益。资产阶级和以往国家的统治者都声称，其政府和统治是为了全社会各阶层的公共利益，以掩盖其少数剥削者的特殊权益。"
+  },
+  {
+   "cn": "规制者利益",
+   "en": "regulator interest",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府根据相应自身利益规则，制定和执行规制政策行为，在并非完全符合社会公共利益情况下，对微观市场主体实行的一种社会管理干预。"
+  },
+  {
+   "cn": "阶级利益",
+   "en": "class interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0094",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个阶级由其阶级地位所决定的利益的总和，核心是经济利益。"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "私人利益",
+   "en": "individual interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0180",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“集体利益”、“社会利益”相对。直接从个人生活出发，与个人需要相联系，以个人生活名义所提出的主张、要求和愿望。是个人活动的前提和动力。包括物质需要和精神需要两大方面，如生活条件、教育条件、工作条件以"
+  },
+  {
+   "cn": "利益方",
+   "en": "interested party",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对组织、业务、系统等的活动和绩效存在关切或利益的个人、公司等。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "患方",
+   "en": "patient centered interest groups",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.02",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医疗活动中以患者为中心的利益群体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

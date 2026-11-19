@@ -1,0 +1,792 @@
+{
+ "key": "stable expansion",
+ "term": "stable expansion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:45:01+00:00",
+ "status": "ok",
+ "note": "variant=stable expansion; 审定公布名词库=4215; 海峡两岸名词对照库=1150; 其他来源数据库=163; 预公布名词数据库=145; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "畜牧学名词",
+   "wordNumber": "02.299",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "饲养马匹的建筑物。其结构因马的类型而不同，种公马为单列式；种母马为双列式，中间为过道。"
+  },
+  {
+   "cn": "切口",
+   "en": "stable,niche",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "煤炭科学技术_煤矿开采_采煤方法",
+   "subjectName": "采煤方法",
+   "publishYear": "1996",
+   "definition": "长壁工作面内，为安放输送机机头、机尾的传动部，或因采煤机械无法采到而在煤壁内超前开出的空间。一般在工作面两端。"
+  },
+  {
+   "cn": "稳定细胞",
+   "en": "stable cell",
+   "source": "普通外科学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "医学_普通外科学_修复",
+   "subjectName": "修复",
+   "publishYear": "2026",
+   "definition": "在生理情况下增殖不明显，处于细胞增殖周期静止期，受到组织损伤刺激则进入DNA合成前期，表现出较强的再生能力的一类细胞。"
+  },
+  {
+   "cn": "稳定同位素",
+   "en": "stable isotope",
+   "source": "地质学名词",
+   "wordNumber": "13.03.127",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "元素周期表中，原子序数相同，原子质量不同，化学性质基本相同，测试技术检测不到放射性的一类同位素。"
+  },
+  {
+   "cn": "稳定性瘢痕",
+   "en": "stable scar",
+   "source": "整形外科名词",
+   "wordNumber": "3.019",
+   "subjectFullName": "整形外科_瘢痕_瘢痕分类",
+   "subjectName": "瘢痕分类",
+   "publishYear": "2026",
+   "definition": "创口愈合半年以后逐渐趋于成熟的瘢痕。成纤维细胞、毛细血管的成分逐渐减少，胶原纤维由年轮样结节状排列，变成相互平行的束状排列。临床所见瘢痕组织充血消退，色泽变浅，外形也渐趋平整，质地变软，基底日渐松软，"
+  },
+  {
+   "cn": "趋稳蠕变",
+   "en": "stable creep",
+   "source": "地质学名词",
+   "wordNumber": "17.02.186",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "岩土(体)在恒定荷载下,随时间不断增长变形速率逐渐递减，直至使变形趋于某一稳定值的蠕变类型。"
+  },
+  {
+   "cn": "稳定区",
+   "en": "stable region",
+   "source": "地质学名词",
+   "wordNumber": "17.04.084",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "泛指一个地区或某一工程场地相对稳定的地段。"
+  },
+  {
+   "cn": "稳定表达",
+   "en": "stable expression",
+   "source": "农学名词",
+   "wordNumber": "15.213",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源基因导入细胞并整合入基因组，随着生长和传代能稳定存在并表达的现象。"
+  },
+  {
+   "cn": "稳定性骨折",
+   "en": "stable fracture",
+   "source": "急救医学名词",
+   "wordNumber": "03.487",
+   "subjectFullName": "急救医学_日常医学急救_外科学_骨折",
+   "subjectName": "骨折",
+   "publishYear": "2025",
+   "definition": "骨折端不易发生移位的骨折。如裂缝骨折、青枝骨折、横行骨折、压缩骨折、嵌插骨折等。"
+  },
+  {
+   "cn": "稳定转化",
+   "en": "stable transformation",
+   "source": "农学名词",
+   "wordNumber": "15.385",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "外源DNA片段整合到受体生物染色体之后不会随着世代变化而消失，而是能够在受体生物细胞长期稳定表达的现象。"
+  },
+  {
+   "cn": "稳定肥料",
+   "en": "stable fertilizer",
+   "source": "农学名词",
+   "wordNumber": "09.324",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "经过一定工艺加入脲酶抑制剂和（或）硝化抑制剂，施入土壤后能通过脲酶抑制剂抑制尿素的水解，通过硝化抑制剂抑制铵态氮的硝化，从而使肥效期得到延长的一类含氮肥料。"
+  },
+  {
+   "cn": "稳定转染",
+   "en": "stable transfection",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0776",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "外源基因转染真核细胞后整合入基因组DNA，随染色体复制而传给子代并表达的现象。一般要经过数天才能够完成基因组DNA整合。"
+  },
+  {
+   "cn": "稳定表达",
+   "en": "stable expression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0801",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）外源基因转染真核细胞并整合入其细胞基因组后的表达。表达量长时间处于稳定水平，可随细胞分裂稳定遗传给下一代。（2）基因工程表达系统中工程菌株或细胞虽经过多次传代或条件变化，但表达水平仍然保持稳定的"
+  },
+  {
+   "cn": "稳定表达",
+   "en": "stable expression ",
+   "source": "草学名词",
+   "wordNumber": "5.0171",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "稳态摩擦",
+   "en": "stable friction",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1578",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "摩擦过程中摩擦面两侧物质以稳定、缓慢的速度相对运动。 "
+  },
+  {
+   "cn": "稳滑",
+   "en": "stable sliding",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1637",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "沿剪切面不间断地相对缓慢地稳定滑动。在位移滑动过程中差应力保持不变，应变能得以连续释放而不积累。 "
+  },
+  {
+   "cn": "稳定地块",
+   "en": "stable mass",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0341",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "现今构造活动、岩浆活动、水热活动、地震活动及区域物理地质作用比较轻微、结构比较完整的地区。 "
+  },
+  {
+   "cn": "稳定转染",
+   "en": "stable transfection",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.053",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "外源基因转染真核细胞后整合入基因组DNA，能够长期存在于细胞中并随染色体复制而传给子代的转染方式。"
+  },
+  {
+   "cn": "稳定性骨折",
+   "en": "stable fracture",
+   "source": "手外科学名词",
+   "wordNumber": "05.0472",
+   "subjectFullName": "手外科学_手外科学分论_上肢骨关节",
+   "subjectName": "上肢骨关节",
+   "publishYear": "2020",
+   "definition": "骨折端不易移位或复位后经适当外固定不易发生再移位的骨折。如横行骨折、青枝骨折、嵌插骨折、裂纹骨折等。"
+  },
+  {
+   "cn": "稳定流动",
+   "en": "stable flow",
+   "source": "生理学名词",
+   "wordNumber": "05.136",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定波",
+   "en": "stable wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定同位素",
+   "en": "stable isotope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳定乳液",
+   "en": "stable emulsion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳定溶液",
+   "en": "stable solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳定响应",
+   "en": "stable response",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳态燃烧",
+   "en": "stable combustion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "稳定核素",
+   "en": "stable nuclide",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳定离子",
+   "en": "stable ion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳定同位素",
+   "en": "stable isotope",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳定型种群",
+   "en": "stable population",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳定植物群落",
+   "en": "stable phytocoenosium",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "穩定平衡",
+   "en": "stable equilibrium",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定值美元",
+   "en": "stable dollar",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定货币",
+   "en": "stable money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定价格",
+   "en": "stable price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定通货",
+   "en": "stable currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定债券",
+   "en": "stable bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定同位素",
+   "en": "stable isotope",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定元素",
+   "en": "stable element",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "稳定周期",
+   "en": "stable cycle",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马厩",
+   "en": "stable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全球性稳定币",
+   "en": "global stable currency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "饲养员",
+   "en": "groom\",\"stable boy\",\"stableman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "饲养员",
+   "en": "groom\",\"stable boy\",\"stableman",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扩展比",
+   "en": "expansion ratio",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国泰民安",
+   "en": "Stable Country and Peaceful People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康稳定的大国关系框架",
+   "en": "a sound and stable framework for major-country relations",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "睦内图外",
+   "en": "Unity Within and Expansion Without",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减负、稳岗、扩就业并举",
+   "en": "to take multi-pronged measures, including reducing corporate burdens, keeping the payroll stable, and creating more jobs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多种方式扩大产能和增加产量",
+   "en": "to expand capacity and increase output in a variety of ways",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸展度",
+   "en": "extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加时赛",
+   "en": "extension\",\"overtime",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击台",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分表",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性戊二醛",
+   "en": "stable glutaraldehyde",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在2%～2.5% 戊二醛中加入适量表面活性剂和缓冲剂形成的pH值中性的戊二醛溶液。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "仅由碘的非放射性同位素（127I）组成的碘化合物。经常被用来作为甲状腺阻断剂。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "该同位素不具有放射性。与之相应的碘-131，具有放射性和不稳定性。其有多种存在形式，如碘酸钾、碘化钾等。"
+  },
+  {
+   "cn": "稳定期",
+   "en": "stable phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.97",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物经过一段时间的生长，由于营养物质的消耗，代谢产物的积累限制菌体的高速度增殖，少数菌体开始死亡，新增殖菌体数和死亡菌数几乎相等，处于动态平航，菌体的生长速度趋向于零。"
+  },
+  {
+   "cn": "稳定性染色体畸变",
+   "en": "stable chromosome aberration",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在细胞分裂过程中，没有力学上的障碍，能在细胞中保留下来，并能保持相对恒定的染色体畸变。如易位、插入、缺失和倒位等。"
+  },
+  {
+   "cn": "稳定碘预防",
+   "en": "stable iodine prophylaxis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "当核或辐射紧急情况已经或可能导致释放放射性碘的情况下，服用稳定性碘化合物，以防止或减少甲状腺对放射性碘的吸收的紧急防护行动。"
+  },
+  {
+   "cn": "“慎重稳进”",
+   "en": "Cautious and Stable",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0066",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "一种对少数民族地区一切工作必须采取慎重缓进，反对激进的做法。1950 年4 月政务院政务会议为把握这一时期民族工作方向和任务，减少民族隔阂矛盾提出一切工作要“慎重缓进”的原则，周恩来总理将其改为“慎重"
+  },
+  {
+   "cn": "稳定性过氧乙酸消毒剂",
+   "en": "stable peroxyacetic acid disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.1.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "浓度较稳定，能储存一年以上的过氧乙酸消毒剂。一般用于血透机、软式内镜等医疗器械的高水平消毒及疫源地现场空气消毒。"
+  },
+  {
+   "cn": "胸廓活动度",
+   "en": "chest expansion",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查胸廓的活动程度的指标。患者双手处于休息位或置于脑后；于前面第4肋间隙为测量部位；记录尽可能深吸气和深呼气时胸围的差距，以cm为单位（如4.2cm）；取两次测量的均值。"
+  },
+  {
+   "cn": "碳稳定同位素比值",
+   "en": "ratio of carbon stable isotope",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.29",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "C3和C4植物光合过程中固定二氧化碳的最初产物分别是三碳的磷酸甘油酸和四碳的草酰乙酸，导致两者具有不同的¹³C 与¹²C 的比值即δ13C 值。由于蜜蜂几乎只采集C3 蜜源植物，当蜂蜜中掺入来源于C4"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "扩大再生产",
+   "en": "expanded reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0209",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "相对于简单再生产而言的另一种再生产的形式，生产过程在扩大规模上的重复进行。主要有两种形式或方式：外延的扩大再生产和内含的扩大再生产。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "扩大的价值形式",
+   "en": "total or expanded form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0062",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第二阶段。一种商品的价值以一系列其他商品来表现的价值形式。从简单价值形式发展到总和的或扩大的价值形式表明商品交换关系的发展与扩大。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "核爆炸",
+   "en": "nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.40",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "利用核裂变或核聚变反应，瞬时释放巨大能量的爆炸现象。核武器以这种方式实现其杀伤破坏效果。在不同介质和不同高度处爆炸，其杀伤破坏效应差别很大。其方式的选择取决于作战任务、攻击目标、地形地貌等因素。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

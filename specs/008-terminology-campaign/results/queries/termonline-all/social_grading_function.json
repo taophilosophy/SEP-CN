@@ -1,0 +1,752 @@
+{
+ "key": "social grading function",
+ "term": "social grading function",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:52:34+00:00",
+ "status": "ok",
+ "note": "variant=social grading function; 审定公布名词库=9299; 海峡两岸名词对照库=2097; 其他来源数据库=334; 预公布名词数据库=819; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "手功能分级",
+   "en": "hand function grading",
+   "source": "手外科学名词",
+   "wordNumber": "06.0199",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "对手部各关节运动及手部感觉、握力等方面进行的相关检查评估。"
+  },
+  {
+   "cn": "梯度功能材料",
+   "en": "function-graded material",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.138",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "梯度功能材料",
+   "en": "functionally graded materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0246",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_先进陶瓷",
+   "subjectName": "先进陶瓷",
+   "publishYear": "2011",
+   "definition": "通过连续平滑地改变两种素材的组织，使其结合部位的界面消失，从而获得功能相应于组织的变化而变化的非均质材料。"
+  },
+  {
+   "cn": "社会福利函数",
+   "en": "social welfare function",
+   "source": "经济学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "社会中所有成员效用的各种分配方式同社会偏好的对应关系。它将社会福利表示为所有成员效用水平的函数。"
+  },
+  {
+   "cn": "社会福利函数",
+   "en": "social welfare function",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0239",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "对社会目标的一种表述，其中社会福利水平被表达为资源配置方式的函数。社会福利函数把社会福利看作个人福利的总和，所以社会福利是所有个人福利总和的函数。"
+  },
+  {
+   "cn": "分级",
+   "en": "grading",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0865",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_果蔬与果蔬制品",
+   "subjectName": "果蔬与果蔬制品",
+   "publishYear": "2020",
+   "definition": "按原料不同质量等级进行分选的方法。"
+  },
+  {
+   "cn": "分级",
+   "en": "grading",
+   "source": "核医学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "依据肿瘤细胞分化程度、异型性、核分裂象、肿瘤类型等的综合病理评定，表明肿瘤恶性程度的等级。一般分三级，用Ⅰ、Ⅱ、Ⅲ表示，相应表示高分化、中-低分化、未分化；级数越高，分化越差，预后也越差；部分特殊肿瘤"
+  },
+  {
+   "cn": "分品复接",
+   "en": "grading",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0156",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "等级",
+   "en": "grade",
+   "source": "农学名词",
+   "wordNumber": "18.134",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "通过外在感官特性和/或内在品质的判定和/或测定，对农产品质量优劣的划分。"
+  },
+  {
+   "cn": "等级",
+   "en": "grade",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0862",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "对功能用途相同但质量要求不同的产品、过程或体系所作的分类或分级。"
+  },
+  {
+   "cn": "级",
+   "en": "grade",
+   "source": "土木工程名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "grade",
+   "source": "昆虫学名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "结构水平相当的动物类群。"
+  },
+  {
+   "cn": "等级",
+   "en": "grade",
+   "source": "电气工程名词",
+   "wordNumber": "28.041",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "工程的社会功能",
+   "en": "social function of engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.188",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "工程对社会的意义、价值和作用。工程追求社会实现就是要发挥其拥有的社会功能。张秀华教授把工程的社会功能概括为以下几个方面：其一，吸纳社会劳动力，提供个体必要的就业场所；其二，创造物质财富，满足人的基本需"
+  },
+  {
+   "cn": "儿童社交功能受损",
+   "en": "childhood impaired social functioning",
+   "source": "行为医学名词",
+   "wordNumber": "18.029",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "孤独症的核心症状之一。患儿缺乏交往意愿，不愿与外界接触，对周围环境或其他外在事物缺少必要的兴趣，似乎只生活在自己的世界里。"
+  },
+  {
+   "cn": "可采品位",
+   "en": "payable grade,workable grade",
+   "source": "冶金学名词",
+   "wordNumber": "02.0082",
+   "subjectFullName": "冶金学_采矿_矿山地质",
+   "subjectName": "矿山地质",
+   "publishYear": "2019",
+   "definition": "可供开采的矿床品位。"
+  },
+  {
+   "cn": "限制坡度",
+   "en": "ruling grade,limiting grade",
+   "source": "土木工程名词",
+   "wordNumber": "08.148",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加力牵引坡度",
+   "en": "pusher grade,assisting grade",
+   "source": "土木工程名词",
+   "wordNumber": "08.109",
+   "subjectFullName": "土木工程_铁路工程_铁路设计",
+   "subjectName": "铁路设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "限制坡度",
+   "en": "ruling grade,limiting grade",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0182",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "加力牵引坡度",
+   "en": "pusher grade,assisting grade",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0183",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "梯度功能材料",
+   "en": "functionally graded materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "grade",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "grade",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "沉积物分级",
+   "en": "sediment grading",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "土地分级",
+   "en": "land grading",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地平整",
+   "en": "land grading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "年级常模",
+   "en": "grade norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "级量电位",
+   "en": "graded potential",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等粒级",
+   "en": "equivalent grade",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "变质程度",
+   "en": "metamorphic grade",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集中度",
+   "en": "concentration grade",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "均衡河流,均夷河流",
+   "en": "graded stream",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "均衡剖面",
+   "en": "graded profile",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "均夷河流（＝均衡河流）",
+   "en": "graded stream",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "粒序层",
+   "en": "graded bedding",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "减缓坡度",
+   "en": "grade elimination",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "七级",
+   "en": "grade VII",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五级",
+   "en": "grade V",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一级",
+   "en": "grade I",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "六级",
+   "en": "grade VI",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三级",
+   "en": "grade III",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二级",
+   "en": "grade II",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四级",
+   "en": "grade IV",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "社会功能运作",
+   "en": "social functioning",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人作为社会成员与社会环境相适应并发挥自身价值和作用的过程及状态。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  },
+  {
+   "cn": "社会工作功能",
+   "en": "social work's function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "社会工作作为一种制度化的助人活动，对于受助者及整个社会所起到的积极贡献作用。从微观来看，有助人、救难、解困和发展的功能；从宏观来看，有维持社会秩序、稳定社会的功能。"
+  },
+  {
+   "cn": "科学的社会功能",
+   "en": "social functions of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学",
+   "subjectName": "科学社会学",
+   "publishYear": "2025",
+   "definition": "3.10.4.1  科学的规范结构  normative structure of science"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "工业级",
+   "en": "industrial grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合工业有关质量标准，用此级别原料经过加工制造可以成为工业产品。"
+  },
+  {
+   "cn": "医用级",
+   "en": "medical grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合医药相关的法律法规和质量安全标准，用此级别原料加工制造的医药产品有效成分纯度达到治疗和预防疾病的要求。"
+  },
+  {
+   "cn": "食品级",
+   "en": "food grade",
+   "source": "消毒学",
+   "wordNumber": "6.1.4.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "符合食品安全相关的法律法规和质量安全标准，用此级别原料加工制造的食品对人体无毒无害。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

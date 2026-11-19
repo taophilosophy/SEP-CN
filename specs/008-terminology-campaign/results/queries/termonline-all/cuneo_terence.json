@@ -1,0 +1,522 @@
+{
+ "key": "cuneo terence",
+ "term": "Cuneo Terence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:46:41+00:00",
+ "status": "ok",
+ "note": "variant=Cuneo Terence; 审定公布名词库=227; 海峡两岸名词对照库=106; 其他来源数据库=5; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "1/3日波",
+   "en": "ter-diurnal wave",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0214",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "许多不同频率的潮波分量叠加的地球潮汐中周期为 1/3日或接近 1/3日的潮波分量。 "
+  },
+  {
+   "cn": "旋转磁力仪",
+   "en": "spinner magnetome-ter",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0421",
+   "subjectFullName": "地球物理学_地球电磁学_探测磁性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "在被测的恒定磁场中，放置一个小检测线圈，并令检测线圈或样品作匀速旋转。通过测量线圈的感生电动势而测量磁通密度或磁场强度的仪器。 "
+  },
+  {
+   "cn": "卫星磁力仪",
+   "en": "satellite magnetome-ter",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0298",
+   "subjectFullName": "地球物理学_空间物理学_空间环境与探测",
+   "subjectName": "空间环境与探测",
+   "publishYear": "2022",
+   "definition": "搭载在人造卫星上的测量磁场强度和方向的仪器 "
+  },
+  {
+   "cn": "针尖增强拉曼光谱术",
+   "en": "tip enhanced Raman spectroscopy,TERS",
+   "source": "光学名词",
+   "wordNumber": "01.356",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "将金属针尖控制在与物质样品的一定的微小距离(1nm左右)上，利用特定波长的激光照射针尖，激发局域化的表面等离子体激元并产生极大强度的拉曼光谱的技术。该技术需要利用扫描隧道显微镜，针尖多采用银或金等金属"
+  },
+  {
+   "cn": "环境参数严酷等级",
+   "en": "severity of environmental parame- ter",
+   "source": "电气工程名词",
+   "wordNumber": "27.012",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "单机走行公里",
+   "en": "light locomotive running kilome- ters",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0216",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "重联机车走行公里",
+   "en": "multi-locomotive running kilome- ters",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0217",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "机车振动参数测试",
+   "en": "measurements of vibration parame- ters",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0668",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "射流式水下曝气机",
+   "en": "jetting underwa_x001F_ter aerator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.2381",
+   "subjectFullName": "化工（八）_化工设备_工业废物处理设备",
+   "subjectName": "工业废物处理设备",
+   "publishYear": "2021",
+   "definition": "由潜水泵和射流器组成，潜水泵喷出的水通过射流器的喷嘴产生吸力，通过进气器从水面吸入空气，进入射流器，在扩散段与水混合的曝气设备。"
+  },
+  {
+   "cn": "恒湿无矿物质基",
+   "en": "moist mineral mat ter-free basis",
+   "source": "电力名词",
+   "wordNumber": "08.063",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "以假想含最高内在水分、无矿物质状态的煤为基准计算煤中各成分含量百分数。"
+  },
+  {
+   "cn": "超临界水冷反应堆",
+   "en": "supercritical wa-ter-cooled reactor,SCWR",
+   "source": "电力名词",
+   "wordNumber": "17.299",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "运行在超过水的热力学临界值(22.1MPa,647K)的轻水反应堆,具有热效率高、系统简单的优点,是被推荐的6种第四代核能系统中唯一的水堆堆型。"
+  },
+  {
+   "cn": "[风速]年际变化",
+   "en": "[wind speed] in-ter-annual variation",
+   "source": "电力名词",
+   "wordNumber": "18.028",
+   "subjectFullName": "电力_新能源发电",
+   "subjectName": "新能源发电",
+   "publishYear": "2020",
+   "definition": "以30年为基数发生的变化。风速年际变化是从第1年到第30年的年平均风速变化。"
+  },
+  {
+   "cn": "除草机",
+   "en": "weed cutting machine,weed cut-ter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0463",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "防水煤岩柱",
+   "en": "safety pillar under wa-ter-bodies",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "03.083",
+   "subjectFullName": "煤炭科学技术_煤炭矿山测量_开采沉降及防治",
+   "subjectName": "开采沉降及防治",
+   "publishYear": "1996",
+   "definition": "为确保水体下安全采煤而设计的煤层开采上限至水体底部的煤、岩体。"
+  },
+  {
+   "cn": "草原灾害承灾体",
+   "en": "hazard bearing body of grassland disas ter ",
+   "source": "草学名词",
+   "wordNumber": "7.0041",
+   "subjectFullName": "草学_草原灾害与保护_草原灾害",
+   "subjectName": "草原灾害",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "直流滤波器过电压保护",
+   "en": "DC filter \tter resistance overload protectionovervoltage protection",
+   "source": "电力名词",
+   "wordNumber": "05.333",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "反映直流滤波器元件的过电压,为直流滤波器免受过应力影响的保护。"
+  },
+  {
+   "cn": "转子绕组匝间短路",
+   "en": "rotor winding in-ter-turn short circuit",
+   "source": "电力名词",
+   "wordNumber": "11.176",
+   "subjectFullName": "电力_汽轮发电机",
+   "subjectName": "汽轮发电机",
+   "publishYear": "2020",
+   "definition": "由于制造工艺不良和运行等方面的原因引起的转子绕组匝间的短路。"
+  },
+  {
+   "cn": "内止点",
+   "en": "inner dead point,inner dead cen- ter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0714",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "外止点",
+   "en": "outer dead point,outer dead cen- ter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0715",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "海底地形大地电磁效应",
+   "en": "magne-totelluric effect of ocean bottom ter-rain",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0257",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "由于海底地形起伏对大地电磁观测结果产生的影响。 "
+  },
+  {
+   "cn": "贾德",
+   "en": "Judd\",\"Terence(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反射滤波器",
+   "en": "reflection fi1ter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "楔片",
+   "en": "cuneus\",\"cunei(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "萜",
+   "en": "terpene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "萜［烯］",
+   "en": "terpene",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贝伦尼切",
+   "en": "Berenice",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Handel George Friedrich"
+  },
+  {
+   "cn": "阶地",
+   "en": "terrace",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "萜烯",
+   "en": "terpene",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "阶地",
+   "en": "terrace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "萜",
+   "en": "terpene",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "萜",
+   "en": "terpene",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海岸阶地",
+   "en": "coastal terrace\",\"marine terrace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "阶地错位",
+   "en": "terrace dislocation\",\"terrace displacement",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海沟",
+   "en": "trench",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海沟",
+   "en": "trench",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海沟",
+   "en": "trench",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海沟",
+   "en": "trench\",\"abyss\",\"submarine trench",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "上叠阶地",
+   "en": "superimposed terrace\",\"on-laid terrace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "萜［烯］油",
+   "en": "terpene oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "萜烯树脂",
+   "en": "terpene resin",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶壕",
+   "en": "trap trench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多向飞碟",
+   "en": "Olympic trench\",\"trap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特雷纳人",
+   "en": "Terena",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.033",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "南美洲巴西境内的土著人，人口大约1.6 万（2001 年）。讲特雷纳语和葡萄牙语。"
+  },
+  {
+   "cn": "堑壕",
+   "en": "trench",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.1.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "进攻或防御等战斗时以挖掘、堆积等方式修筑形成的、对物资储放、人员休息以及运动、射击等战斗活动发挥隐蔽和保护作用的壕沟。平面多为曲线或折线型，按深度一般分为跪射、立射和加深堑壕三种。"
+  },
+  {
+   "cn": "食品防护",
+   "en": "food defence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为防范与消除以危害和破坏为目的的食品蓄意污染和破坏以及食品犯罪和恐怖主义等而实施的保护行为。"
+  },
+  {
+   "cn": "壕沟足",
+   "en": "trench foot",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.6.4.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷损伤",
+   "subjectName": "冷损伤",
+   "publishYear": "2025",
+   "definition": "下肢长时间暴露在0-10℃湿冷环境（如战壕或防空洞）中，因站立不动或少动所致的以深部组织血管神经损伤及无菌性炎症为主的非冻结性冷损伤。"
+  },
+  {
+   "cn": "深沟厕所",
+   "en": "deep trench latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "深度超过75 厘米的垮沟式简易无盖厕所，一般可以沙土等覆盖排泄物后供多次使用。"
+  },
+  {
+   "cn": "浅沟厕所",
+   "en": "shallow trench latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "深度不超过30 厘米的垮沟式简易无盖厕所。使用后以沙土等覆盖排泄物，多为一次性或少次使用。"
+  },
+  {
+   "cn": "积极防御巩固国防",
+   "en": "active defenseing and strengthening national defence",
+   "source": "马克思主义",
+   "wordNumber": "04.0161",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国当前反侵略战争所采取的方针。积极防御本身不只是防御，防御中有进攻，本身就包括持久作战。"
+  },
+  {
+   "cn": "斯大林格勒保卫战",
+   "en": "battle for the defence of Stalingrad",
+   "source": "马克思主义",
+   "wordNumber": "04.0245",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联卫国战争中的决定性战役，第二次世界大战的转折点。1942年，德军集中了150万人的兵力，继续大举进攻苏联。7月17日，迫近斯大林格勒，双方展开激战。9月13日，德军窜入市内，双方展开巷战。斯大林发"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

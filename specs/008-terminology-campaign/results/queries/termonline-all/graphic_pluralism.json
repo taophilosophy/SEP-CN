@@ -1,0 +1,652 @@
+{
+ "key": "graphic pluralism",
+ "term": "graphic pluralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:49:24+00:00",
+ "status": "ok",
+ "note": "variant=graphic pluralism; 审定公布名词库=544; 海峡两岸名词对照库=239; 其他来源数据库=33; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "多样性",
+   "en": "pluralism",
+   "source": "物理学名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多元主义",
+   "en": "pluralism",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "一种社会对抗国家的政治模式，强调社会先于或外在于国家，认为社会是一个区别于国家建制的、自主的活动领域，是一种与国家对等的力量。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "地理学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "有时表示一个社会中的文化多样性，有时表示现代社会中权力得到扩散和均衡的组织多元化。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "传媒多元化",
+   "en": "media pluralism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.143",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在政治学中，“多元化”一词强调权力的竞争、分散、参与与相互制衡。媒介多元化主张发挥民主、公共的特色以达成多元认同主体间的相互尊重，抗拒媒体单一化与集中化，为民众提供更多选择，反映社会差异，落实言论自由"
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "地理学名词",
+   "wordNumber": "24.025",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "共存在同一政治单元中但宗教、文化、语言、思想方式却并不同的人类团体。"
+  },
+  {
+   "cn": "图形的",
+   "en": "graphic",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.552",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通过诸如手写、绘制或者打印之类的处理过程而产生的符号。"
+  },
+  {
+   "cn": "图形",
+   "en": "graphics",
+   "source": "测绘学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在载体上以几何线条和符号等反映事物各类特征与变化规律的表达形式。"
+  },
+  {
+   "cn": "图形学",
+   "en": "graphics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0443",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "研究图形的建模、绘制、交互、处理与分析的学科。"
+  },
+  {
+   "cn": "图形",
+   "en": "graphics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0279",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "呈现在二维表面（如墙、画布、纸张、屏幕等）上用于提示、说明、记录或娱乐的可视图像或设计。"
+  },
+  {
+   "cn": "图形",
+   "en": "graph;graphics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.064",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "通过造型手段形成的、具有形态特征和（或）数学描述的信息集合。"
+  },
+  {
+   "cn": "文象结构",
+   "en": "graphic texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.077",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "一种矿物呈一定的外形(楔形、尖棱形、象形文字等)有规律地镶嵌在另一种矿物中，其嵌晶在显微镜下很大视域范围内同时消光的结构。如石英和钾长石互结成楔形连晶，似象形文字，故名。"
+  },
+  {
+   "cn": "文象花岗岩",
+   "en": "graphic granite",
+   "source": "地质学名词",
+   "wordNumber": "04.04.135",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "具文象结构的花岗岩变种。碱性长石和石英有规律地连生，呈楔形文字或古代北欧文字样式的象形文字状的结构。含铁矿物很少亦是其特征之一。常为伟晶岩相的主要组成部分。"
+  },
+  {
+   "cn": "图形文件",
+   "en": "graphic records",
+   "source": "档案学名词",
+   "wordNumber": "06.01.025",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "根据一定算法绘制的图表、曲线图，包括几何图形和把物理量如应力、强度等用图标表示出来的图形等。"
+  },
+  {
+   "cn": "图文组合",
+   "en": "graphic portfolio",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.245",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "新闻图片与文字之间的配合方式。可以把文字压衬在图片上，也可以把文字嵌入到图片挖空的部分，使文字和图片合为一体。"
+  },
+  {
+   "cn": "印刷技术",
+   "en": "graphic technology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.01.013",
+   "subjectFullName": "编辑与出版学_印刷_印刷基础",
+   "subjectName": "印刷基础",
+   "publishYear": "2022",
+   "definition": "视觉信息复制再现的全部方式，包括印前、印刷、印后加工和分发等。"
+  },
+  {
+   "cn": "图形处理",
+   "en": "graphic processing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.080",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "对图形信息进行的变换、填充、剪裁、缩放、变形等加工操作。"
+  },
+  {
+   "cn": "图像动画",
+   "en": "graphic animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.045",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "使用非绘画类型的平面图像制作的定格动画。"
+  },
+  {
+   "cn": "图形作品",
+   "en": "graphic work",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.016",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "为施工、生产绘制的工程设计图、产品设计图，以及反映地理现象、说明事物原理或者结构的地图、示意图等作品。"
+  },
+  {
+   "cn": "图形记号",
+   "en": "graphic sign",
+   "source": "测绘学名词",
+   "wordNumber": "04.173",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "未赋予定性和定量含义的用点、线、颜色、文字组成的图形。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图形",
+   "en": "graphic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图形",
+   "en": "graphics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形",
+   "en": "graphics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图形学",
+   "en": "graphics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图形叠置",
+   "en": "graphic overlay\",\"graphic superimposition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图示板",
+   "en": "graphic panel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图示谱",
+   "en": "graphic scores",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图形叠置",
+   "en": "graphic overlay",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图形简化",
+   "en": "graphic simplicity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图形校正",
+   "en": "graphic rectification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图形比例尺",
+   "en": "graphic scale",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形变量",
+   "en": "graphic variable",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形表示[法]",
+   "en": "graphic presentation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形操作处理",
+   "en": "graphic manipulation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形符号",
+   "en": "graphic symbol",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形记号",
+   "en": "graphic sign",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形数据库",
+   "en": "graphic database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图形处理器",
+   "en": "Graphics Processing Unit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图形处理单元",
+   "en": "graphics processing unit (GPU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "GraphDB数据库",
+   "en": "GraphDB",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图存储",
+   "en": "graph storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图模型",
+   "en": "graph model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图数据库",
+   "en": "graph database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化多元主义",
+   "en": "cultural pluralism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "提倡不同文化之间的并存与相互尊重，反对文化同化、文化侵略、文化渗透等可能导致某种文化消失的任何文化过程。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "医学多样性",
+   "en": "medical pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0247",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一个社会或文化中多种医学体系并存现象的描述。在采集渔猎等小型部落社会，对疾病的病因解释及治疗常常是单一的；而在大规模的农业社会或工业化国家，医学体系则多呈现多元并存的现象。"
+  },
+  {
+   "cn": "法律多元论",
+   "en": "legal pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0128",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律一元论相对应的概念，即两种或者多种法律规范，法律体系或法律秩序共存于同一社会领域中的现象。"
+  },
+  {
+   "cn": "平面传播材料",
+   "en": "graphic communication material",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "用纸质媒介作为健康知识传播载体的一类传播材料，常见形式有海报（张贴画）、传单（单页）、折页和小册子等。"
+  },
+  {
+   "cn": "γ谱分析剥谱法",
+   "en": "graphical method by subtraction in gamma spectrum analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "根据单种核素成分的特征γ全能峰的能量高低，按高能至低能成分的顺序，从混合谱中逐次扣除而逐步解出样品各核素谱的解谱方法。"
+  },
+  {
+   "cn": "石墨反应堆",
+   "en": "graphite reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "以石墨为慢化剂的热中子反应堆。"
+  },
+  {
+   "cn": "曲棍球杆图",
+   "en": "hockey stick graph",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.4",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "描述千年以来北半球平均气温的变化就像曲棍球杆的一个曲线形状。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

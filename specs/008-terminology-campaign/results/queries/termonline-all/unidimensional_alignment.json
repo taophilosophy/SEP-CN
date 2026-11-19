@@ -1,0 +1,502 @@
+{
+ "key": "unidimensional alignment",
+ "term": "unidimensional alignment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:52:38+00:00",
+ "status": "ok",
+ "note": "variant=unidimensional alignment; 审定公布名词库=762; 海峡两岸名词对照库=380; 其他来源数据库=9; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0167",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "将两个或两个以上的氨基酸或核苷酸序列加以比较，以便分析其相关性或同源性的方法。可以对序列全长进行比对，也可以对序列局部区域进行比对。"
+  },
+  {
+   "cn": "对准",
+   "en": "alignment",
+   "source": "光学名词",
+   "wordNumber": "09.355",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "在进行光学元件加工或检测之前将加工件及加工设备调整至满足加工或检测要求的位置的过程。"
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "动物学名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "将两个或多个序列排在一起以确定其相似性的过程。"
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "畜牧学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "DNA或蛋白质的等位位点上的核苷酸或氨基酸的比较。"
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "植物学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "将两个或多个序列排在一起以确定其相似性的过程。"
+  },
+  {
+   "cn": "合轴",
+   "en": "alignment",
+   "source": "物理学名词",
+   "wordNumber": "01.0187",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对准",
+   "en": "alignment",
+   "source": "物理学名词",
+   "wordNumber": "01.0188",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "力学对线",
+   "en": "alignment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_脑性瘫痪",
+   "subjectName": "脑性瘫痪",
+   "publishYear": "2014",
+   "definition": "人体在维持各种静态姿势和进行动态运动时躯体各部分之间的相互位置关系。正确的力学对线可以使机体以最少的能耗去完成活动任务。"
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "遗传学名词",
+   "wordNumber": "07.103",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "DNA或蛋白质的等位位点上的核苷酸或氨基酸的比较。"
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "生态学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "根据两个或多个的核苷酸序列的重合部分，找出序列结构变化的差错、插入、缺省和交换部分。"
+  },
+  {
+   "cn": "对准",
+   "en": "alignment",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.030",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调准",
+   "en": "alignment",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.049",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "牙排列",
+   "en": "alignment",
+   "source": "医学名词 第二分册",
+   "wordNumber": "07.066",
+   "subjectFullName": "医学_口腔医学_牙体手术、牙髓病学、牙周病学",
+   "subjectName": "牙体手术、牙髓病学、牙周病学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "文本对齐",
+   "en": "text alignment,bilingual alignment",
+   "source": "语言学名词",
+   "wordNumber": "11.286",
+   "subjectFullName": "语言学_计算语言学_语言资源",
+   "subjectName": "语言资源",
+   "publishYear": "2011",
+   "definition": "在平行语料库中原文和译文的相同语言单位之间建立对应关系的过程。平行的语料文本之间存在着多层次的对应关系，例如，段落对齐、句子对齐、短语对齐和词对齐。"
+  },
+  {
+   "cn": "取向膜",
+   "en": "alignment film",
+   "source": "精细化工名词",
+   "wordNumber": "08.1184",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "能够固定液晶分子的扭曲状态，使其只按一定方向有规律地排列的膜。"
+  },
+  {
+   "cn": "定线测量",
+   "en": "alignment survey",
+   "source": "风景园林名词",
+   "wordNumber": "08.0006",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程测量",
+   "subjectName": "风景园林工程测量",
+   "publishYear": "2025",
+   "definition": "根据城乡建设规划要求，测设规划道路中线（道路红线）的测量。"
+  },
+  {
+   "cn": "结构比对",
+   "en": "structural alignment",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0168",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "蛋白质分子三维结构相似性的比较。"
+  },
+  {
+   "cn": "序列比对",
+   "en": "sequence alignment",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0169",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "DNA、RNA或蛋白质序列相似性的比较。"
+  },
+  {
+   "cn": "[液晶]垂直排列",
+   "en": "vertical alignment",
+   "source": "光学名词",
+   "wordNumber": "16.081",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "液晶分子的长轴与基板表面垂直排列的取向方式。"
+  },
+  {
+   "cn": "[液晶]平行排列",
+   "en": "parallel alignment",
+   "source": "光学名词",
+   "wordNumber": "16.082",
+   "subjectFullName": "光学_显示技术",
+   "subjectName": "显示技术",
+   "publishYear": "2021",
+   "definition": "液晶分子的长轴与基板表面平行排列的取向方式。"
+  },
+  {
+   "cn": "比对,排比",
+   "en": "alignment\",\"align",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比对,排比",
+   "en": "alignment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排比, 比对",
+   "en": "alignment",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比对",
+   "en": "alignment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "整直器",
+   "en": "aligner",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "列线图",
+   "en": "alignment chart",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "校准星",
+   "en": "alignment star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行星联珠",
+   "en": "planetary alignment",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序列排比,序列比对",
+   "en": "sequence alignment",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定曲线",
+   "en": "alignment curve",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定线测量",
+   "en": "alignment survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "定线桩",
+   "en": "alignment stake",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "管道定线",
+   "en": "pipe alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密垂准",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密准直",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "曲折定线",
+   "en": "crooked alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "垂面排列",
+   "en": "homeotropic alignment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对准精度",
+   "en": "alignment precision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对准网络",
+   "en": "alignment network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队列",
+   "en": "alignment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取齐员",
+   "en": "aligner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取齐员房",
+   "en": "aligner’s hut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人副天数",
+   "en": "Humanity Should Be Aligned with Nature.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得其大者可以兼其小",
+   "en": "The finer details fall into place when they align with the bigger picture.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "指定泳道",
+   "en": "lanes assignment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单向度的人",
+   "en": "onedimensional man",
+   "source": "马克思主义",
+   "wordNumber": "05.0033",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自马尔库塞（Herbert Marcuse）《单向度的人》。认为当代发达工业社会是单向度的社会，生存于其中的人是单向度的人。资本主义社会已成为全面异化的社会，以技术为中介，文化、政治和经济融合成一个"
+  },
+  {
+   "cn": "韧带",
+   "en": "ligament",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.24",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "连于相邻两骨之间的致密纤维结缔组织束。是关节的辅助结构，有加强关节的稳固或限制其过度运动的作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

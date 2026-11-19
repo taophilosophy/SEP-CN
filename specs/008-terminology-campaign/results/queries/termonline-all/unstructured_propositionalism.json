@@ -1,0 +1,752 @@
+{
+ "key": "unstructured-propositionalism",
+ "term": "unstructured-propositionalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:39:40+00:00",
+ "status": "ok",
+ "note": "variant=unstructured-propositionalism; 审定公布名词库=253; 海峡两岸名词对照库=35; 其他来源数据库=30; 预公布名词数据库=14; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "农学名词",
+   "wordNumber": "16.017",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "没有预定义模式或者不按照预定义格式组织的数据。"
+  },
+  {
+   "cn": "非结构网格",
+   "en": "unstructured grid",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "与网格剖分区域内的不同内点相连的网格数目不同，节点位置无法用一个固定的法则给予有序命名的网格。"
+  },
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "不能用统一的结构加以表示的信息，只能按照学科方式分组分类，包括视频、音频、图片、图像、文档、文本等形式。"
+  },
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.047",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "不具有预定义模型或未以预定义方式组织的数据。"
+  },
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0365",
+   "subjectFullName": "计算机科学技术_数据库_特种数据库",
+   "subjectName": "特种数据库",
+   "publishYear": "2018",
+   "definition": "没有预定义模式或者不按照预定义格式组织的数据。"
+  },
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0100",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "数据元素之间没有统一和确定关系的数据。"
+  },
+  {
+   "cn": "非结构化面试",
+   "en": "unstructured interview",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0495",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "没有固定的面试程序、提问的内容和顺序都取决于主考官的偏好和现场应试者的回答的一种面试方式。"
+  },
+  {
+   "cn": "非结构化模型",
+   "en": "unstructural model",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.087",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "经过分析后不可分解成多个互相关联的组成部分的模型。"
+  },
+  {
+   "cn": "非结构化决策",
+   "en": "unstructured decision-making",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0307",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "针对非结构化问题所进行的决策活动。"
+  },
+  {
+   "cn": "非结构数据管理系统",
+   "en": "unstructured data management system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0364",
+   "subjectFullName": "计算机科学技术_数据库_特种数据库",
+   "subjectName": "特种数据库",
+   "publishYear": "2018",
+   "definition": "支持非结构化数据存储、索引、查询、优化等操作的数据库管理系统。"
+  },
+  {
+   "cn": "非结构化问题",
+   "en": "ill-structured problem,unstructured problem",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0300",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "相关要素或者其关系不明确的决策问题。一般来讲，新的决策问题具有这种特点。"
+  },
+  {
+   "cn": "非结构化对等计算系统",
+   "en": "unstructured peer-to-peer systems",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0065",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种对等计算系统。其计算结点间的逻辑拓扑关系是通过随意的方式建立的。结点可以随时通过系统中的任意结点加入系统，按照某种松散关系与系统中的其他部分结点形成连接关系，资源的放置也不受严格控制。"
+  },
+  {
+   "cn": "螺旋CT",
+   "en": "spiral computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像原理",
+   "subjectName": "计算机体层成像原理",
+   "publishYear": "2020",
+   "definition": "X射线管和探测器围绕被检者连续旋转，检查床以一定的速度纵向连续移动，X射线连续曝光并采集数据，扫描轨迹呈螺旋状的计算机体层成像扫描装置。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像基础知识",
+   "subjectName": "计算机体层成像基础知识",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "造影CT",
+   "en": "angiogram computed tomography,angiogram CT",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "利用阳性或阴性对比剂使被检查器官或结构与周围形成密度差，然后再行CT扫描的检查方法。分为血管造影CT、非血管造影CT和CT血管成像三种。"
+  },
+  {
+   "cn": "CT透视",
+   "en": "CT fluoroscopy",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.185",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "结合快速扫描、快速重建和快速显示技术，实现CT影像实时显示的一种扫描方法。主要用于CT引导下的穿刺活检或介入治疗。"
+  },
+  {
+   "cn": "C臂CT",
+   "en": "C-arm computed tomography",
+   "source": "医学影像技术学名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "医学影像技术学_介入放射学技术_设备与原理",
+   "subjectName": "设备与原理",
+   "publishYear": "2020",
+   "definition": "利用C臂带动X射线管和平板探测器围绕人体做旋转运动，探测器进行旋转采集，获得容积扫描数据，经计算机重建获得类似CT影像的一种技术。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "器官移植学名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "器官移植学_器官移植影像学",
+   "subjectName": "器官移植影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减的值。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "神经病学名词",
+   "wordNumber": "05.049",
+   "subjectFullName": "神经病学_神经病诊断技术_神经影像学",
+   "subjectName": "神经影像学",
+   "publishYear": "2020",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是 Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。脑灰质的CT值为（36 ±4）Hu，脑"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.096",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射诊断",
+   "subjectName": "放射诊断",
+   "publishYear": "2014",
+   "definition": "用来表示与X射线CT影像每个像素对应区域相关的X射线衰减平均值的量。通常以Hu为单位。某物质CT值的表达式为：<img src='/root/syzx/static/spz/fangshefanghu"
+  },
+  {
+   "cn": "非结构模型",
+   "en": "unstructured model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非结构式访谈",
+   "en": "unstructured interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有规结构流体",
+   "en": "structured fluid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结构化模型",
+   "en": "structured model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整装填料",
+   "en": "structured packing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结构性访谈，结构式面谈",
+   "en": "structured interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结构化测验",
+   "en": "structured test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结构化保护",
+   "en": "structured protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化编辑程序，结构化编辑器",
+   "en": "structured editor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化程序",
+   "en": "structured program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化程序设计",
+   "en": "structured programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化分析",
+   "en": "structured analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构化规约",
+   "en": "structured specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据",
+   "en": "unstructured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化环境",
+   "en": "unstructured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无结构化文档存储",
+   "en": "unstructured document storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理术语",
+   "en": "unstructured data management terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理体系",
+   "en": "unstructured data management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据模型标准",
+   "en": "unstructured data model standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化应用模式标准",
+   "en": "standard for unstructured application model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理系统技术要求",
+   "en": "technical requirement for unstructured data management systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 32908-2016 非结构化数据访问接口规范》",
+   "en": "GB/T 32908-2016 Unstructured data access interface specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34950-2017 非结构化数据管理系统参考模型》",
+   "en": "GB/T 34950-2017 Reference model of unstructured data management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 32630-2016 非结构化数据管理系统技术要求》",
+   "en": "GB/T 32630-2016 Technical requirements for unstructured data management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家电网公司非结构化大数据管理平台",
+   "en": "unstructured big data management platform of State Grid Corporation of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无结构式访谈",
+   "en": "unstructured interview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "采用开放式问题、保证被访者的谈话自由的访谈方式。通常包括创造访谈、主动访谈、后现代访谈、女性主义访谈。"
+  },
+  {
+   "cn": "无结构问卷",
+   "en": "unstructured questionnaires",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.62",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只是列出了所涉及的主题，而将确切的措词方式和提问的顺序都留给访谈员自行处置的问卷。人类学家或心理学家可能较多使用无结构问卷，并且通常都用于临床环境。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "结构式访谈",
+   "en": "structured interview",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在访谈前已经设计好访谈中访谈员将要提出的问题和回答人将要使用的回答选项类别的访谈方法。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "结构型问卷",
+   "en": "structured questionnaire",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.61",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对问题的措词方式以及它们在问卷中被问及的顺序都做了明确规定的问卷。"
+  },
+  {
+   "cn": "结构化学习模式",
+   "en": "structured learning model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调系统化指导和学习的社会工作督导模式。基于教育模式，其强调要有周密的计划，按部就班，系统化地指导被督导者学习掌握相关知识技能，结合运用多种不同的教学方法和手段，尤其注重模拟教学法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

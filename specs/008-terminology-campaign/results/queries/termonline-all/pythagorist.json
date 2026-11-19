@@ -1,0 +1,32 @@
+{
+ "key": "pythagorist",
+ "term": "Pythagorist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:41:10+00:00",
+ "status": "ok",
+ "note": "variant=Pythagorist; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "勾股定理",
+   "en": "Pythagoras theorem",
+   "source": "数学名词",
+   "wordNumber": "08.0045",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "毕达哥拉斯",
+   "en": "Pythagoras(希腊)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
