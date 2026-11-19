@@ -255,3 +255,11 @@
 * **实测**：chrome 1,873/1,873 不变；页面级 **池 878（46.9%）／缺口 995**，池占页 **20.80%**（T7：规则承载 79.2% 字节，大头是区间补丁的标签＋空白布局，按 ADR-0077 决策 5 如实同报）。缺口 995 全部为 unaligned text units（真文字差或合并至末尾仍不等），逐族处置转后续批。**judge 全库复扫 878/0 stale**（判定与建池完全一致，P2/P3 全过）。B3.1 回归 **1,435/1,873（76.6%）**（此前 1,240，＋195，无回退）。
 * **坐标系统一教训**：plain() 剥 `&nbsp;` 而 layout_items 的 piece 累计不剥，坐标系差一处即 98 件 `tx out of range`——修法是 plain 保留实体原形；试金石先行（11 个合成用例覆盖段分合／thinsp／括号星／dl↔ul／真文字差拒录）再上全库，省掉三轮全库返工。
 * **CI**：B3.2 判定（judge 只读）挂 en-roundtrip.yml ③′ 步，roundtrip_drift.py 升 v2（--page/--page-baseline 差集：页面转差／转好／增删并入同一 issue），基线 `results/page-scan-all.json` 提交；rules/05/ci-workflows.md 同步。
+
+## 2026-11-20 查无全量联网查证开线与试金石批（用户指令“联网逐个查证”）
+
+* **立项**：查无 8,838 行（术语 4,350＋人名 4,488）逐条走档②③；认领 TL-web-20261120；管线三件套（`script/tmp/webcheck_build_queue.py` 队列 8,836 → `webcheck_fetch.py` 抓取 → `webcheck_merge.py` 裁定落凭证）。
+* **通道探测**：Crossref 中文分词糊弃；**OpenAlex CJK 标题检索可用投产**（脚本道档③）；zgbk mtoken 未破、ncpssd 需浏览器会话（浏览器工具 DeferredToolCall 校验间歇故障当日未竟，两道留后段）；Crossref/OpenAlex 均过代理可达。
+* **试金石批**：抓 79 词 ok；有命中 28；逐词裁定 **KEEP 16**（佛典古译阿毗达磨系、审美X 词族全谱、抽象法/先天知识/预先指示等，期刊标题实证＋语境正确）／SKIP 8（含 4 例改读嫌疑：anarchic hand 异己手、ancilla 辅助比特、Anglican Catholic Church 安立甘公教会、a fortiori 译法存疑）／余 NOSOURCE 留他道。凭证落 web-authority（140→156），**四态翻转验证：一致 1,984→2,000、查无 8,838→8,822**，全链闭环。
+* **校准与坑**：①OpenAlex 免费配额为 IP 共享日顶（约数百请求即 429，当日耗尽）——升配需注册免费 key（$1/日邮箱注册，待用户授权），不升配则本道日产能 ~200 词；②假命中三族（泛义散文同形／跨语言碰撞／子串碰撞）靠裁定层语境过滤；③批量抓取脚本首版两坑：`done` 清零致 limit 永不触发＋批号恒定反复覆写（300 词证据只存 20），TaskStop 后改独立计数器与递增批号重跑；④直连境外站不可达须代理优先（直试白耗 40s 超时）；⑤OpenAlex 对书章类证据（商务《外国哲学》辑刊）不索引——zgbk/ncpssd 浏览器道才是全量主力，OpenAlex 定位补充道。
+* 台账 `specs/008/results/webcheck-pilot-2026-11-20.md`；提交 6e4bdb0f3 推送清零；check_quotes 0 违例。
