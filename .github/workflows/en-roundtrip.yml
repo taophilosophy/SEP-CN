@@ -1,14 +1,14 @@
 name: 🔁 EN 互转漂移巡检（HTML ↔ markdown）
 
-# 每日三次核验「本地 HTML 目录（en/）↔ 英文 markdown（yuanwen/）」双向互转，
+# 每日三次核验“本地 HTML 目录（en/）↔ 英文 markdown（yuanwen/）”双向互转，
 # 相对已提交基线检测变动，有变动时开/更新 issue（specs/053 B3 系列运营化）。
 #
 #   正向 en→md：check_yuanwen_fidelity --gate（I2 重放等值，md ≡ convert(en)）
 #   反向 md→en：specs/053 bin/reassemble.py --all（B3.1 往返不动点 C(R(md))≡md）
 #   根因守卫：divergence.py verify（en/ 与原始钉逐字节一致）
 #
-# 「变动」口径＝相对基线扫描（results/assembly-scan-all.json）的**差集**，不是
-# 「有失败」：B3.1 存已知残差（规则闭合率约 66%），每次都有 fail 属正常。
+# “变动”口径＝相对基线扫描（results/assembly-scan-all.json）的**差集**，不是
+# “有失败”：B3.1 存已知残差（规则闭合率约 66%），每次都有 fail 属正常。
 #
 # 原则（同 catalog-drift，specs/054 §3 单向波纹）：本工作流只读、只报告。
 #   不写 baseline、不改 en//yuanwen/、不提交任何内容文件；基线更新由人工/本地会话做。

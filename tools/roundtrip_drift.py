@@ -2,8 +2,8 @@
 r"""EN 互转漂移对比（en-roundtrip.yml 调用；specs/053 B3.1 运营化）。
 
 语义（用户 2026-11-19 指令）：HTML 目录（en/）与英文 markdown（yuanwen/）双向互转的
-**变动检测**。B3.1 存在已知残差（632/1872，规则闭合率 66.2%），故「变动」一律指
-**相对已提交基线的差集**，不是「有失败」：
+**变动检测**。B3.1 存在已知残差（632/1872，规则闭合率 66.2%），故“变动”一律指
+**相对已提交基线的差集**，不是“有失败”：
 
   ① en 钉漂移   —— divergence.py verify 的 failures 非空（en/ 与原始钉不一致）
   ② I2 漂移     —— check_yuanwen_fidelity --gate 红灯（md ≠ convert(en)）
