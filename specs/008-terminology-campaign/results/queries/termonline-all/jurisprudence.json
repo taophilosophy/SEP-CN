@@ -1,0 +1,102 @@
+{
+ "key": "jurisprudence",
+ "term": "jurisprudence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:00:19+00:00",
+ "status": "ok",
+ "note": "variant=jurisprudence; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=5; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "工程法学",
+   "en": "engineering jurisprudence",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.026",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "一门新兴法学学科。主要研究工程建设中的法律现象及法律问题。"
+  },
+  {
+   "cn": "药物法学",
+   "en": "pharmaceutical jurisprudence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "法理泛在",
+   "en": "ubiquitous jurisprudence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络法学",
+   "en": "cyber jurisprudence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据法学",
+   "en": "data jurisprudence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法学",
+   "en": "computational jurisprudence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法理",
+   "en": "Jurisprudence of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  },
+  {
+   "cn": "卡迪司法",
+   "en": "Kadi Jurisprudence",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "卡迪（Kadi）是伊斯兰教国家的法官，负责有关宗教案件的审判。马克斯·韦伯认为，这一审判注重实质上的公道、平等或某些实际的目标，而漠视法律或行政在程序上合理的审判。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

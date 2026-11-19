@@ -1,0 +1,772 @@
+{
+ "key": "maintenance of options",
+ "term": "maintenance of options",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:03:08+00:00",
+ "status": "ok",
+ "note": "variant=maintenance of options; 审定公布名词库=10000; 海峡两岸名词对照库=7521; 其他来源数据库=1852; 预公布名词数据库=2708; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "农学名词",
+   "wordNumber": "19.108",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "交易方有权在未来某一规定时间内以特定价格买入或者卖出约定标的物的交易合约。"
+  },
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "经济学名词",
+   "wordNumber": "12.133",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "一种能在未来某特定时间以特定价格买入或卖出一定数量的某种特定商品的权利。"
+  },
+  {
+   "cn": "选项",
+   "en": "option",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0612",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统或应用程序通过人机交互接口提供给用户的可选参数。用以调节或定制系统或程序的功能、性能、开销等特性。"
+  },
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0544",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "赋予投资者在一定的时期内，以事先确定的价格买卖资产、货币或者期货合约等的权利的一种交易合约。"
+  },
+  {
+   "cn": "选件",
+   "en": "option",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0750",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可选[的]",
+   "en": "optional",
+   "source": "数学名词",
+   "wordNumber": "09.0221",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实物期权",
+   "en": "real option,managerial option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0249",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "期权所有人进行长期资本投资在决策时拥有的、能根据在决策时尚不确定的因素改变行为的权利。"
+  },
+  {
+   "cn": "维护",
+   "en": "maintenance",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.215",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "对工程系统或相关设备正常运行的维持、防护、保护工作。使其免于故障或遭受破坏。"
+  },
+  {
+   "cn": "维持",
+   "en": "maintenance ",
+   "source": "草学名词",
+   "wordNumber": "2.0313",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电力名词",
+   "wordNumber": "25.005",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "为保持或恢复元件处于能执行规定功能的状态所进行的包括监督活动在内的一切技术和管理活动。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0198",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "用以确保发动机使用寿命的任何手段和活动。"
+  },
+  {
+   "cn": "维护",
+   "en": "maintenance",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "为在规定范围内，使参与建立通信连接的任何部件完成建立和保持连接所需的全部操作。如安装调测、编制维护流程、例行维护测量、对故障进行定位并清除故障。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.229",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "为航空器保持或恢复到能执行所需功能的状态所进行的全部技术措施和管理活动。"
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电气工程名词",
+   "wordNumber": "28.093",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "电子学名词",
+   "wordNumber": "18.098",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "维修性",
+   "en": "maintenability",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "根据设计要求，航空器通过维修所能保持和恢复其在使用中的可靠性程度。"
+  },
+  {
+   "cn": "植物养护管理",
+   "en": "maintenance of plant",
+   "source": "风景园林名词",
+   "wordNumber": "03.0076",
+   "subjectFullName": "风景园林_风景园林管理_公园景区管理",
+   "subjectName": "公园景区管理",
+   "publishYear": "2025",
+   "definition": "对植物采取的修剪、灌溉、排水、施肥、病虫害防治、防寒、防风、防涝、支撑、复壮等技术养护措施及相应的管理工作。"
+  },
+  {
+   "cn": "草坪养护管理",
+   "en": "maintenance of lawn",
+   "source": "风景园林名词",
+   "wordNumber": "03.0079",
+   "subjectFullName": "风景园林_风景园林管理_公园景区管理",
+   "subjectName": "公园景区管理",
+   "publishYear": "2025",
+   "definition": "对草坪植物采取的灌溉、排水、施肥、修剪、打洞、控制杂草、病虫害防治、追播、更新等技术措施及相应管理工作。"
+  },
+  {
+   "cn": "维持麻醉",
+   "en": "maintenance of anesthesia",
+   "source": "兽医学名词",
+   "wordNumber": "18.020",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "用麻醉剂维持麻醉深度的方法。"
+  },
+  {
+   "cn": "选择",
+   "en": "options",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "选件",
+   "en": "option",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可选的",
+   "en": "optional",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "维修，维护",
+   "en": "maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "维护，保养",
+   "en": "maintenance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "维修",
+   "en": "maintenance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共择",
+   "en": "co-option",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "承购权",
+   "en": "call option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "复式期权",
+   "en": "compound option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票期权",
+   "en": "stock option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币期权",
+   "en": "currency option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖出选择权",
+   "en": "put option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "美式期权",
+   "en": "American Option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "欧式期权",
+   "en": "European Option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货买卖",
+   "en": "option trading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易",
+   "en": "option dealing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易合同",
+   "en": "option contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易所",
+   "en": "option exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权市场",
+   "en": "option market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保持高度",
+   "en": "maintenance of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "碳期权",
+   "en": "carbon option",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选跳越",
+   "en": "optional vault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件维护",
+   "en": "software maintenance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择发球权",
+   "en": "choice of throw-on\",\"option of throw-on",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "optional exercise\",\"voluntary exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准维护增强",
+   "en": "standard maintenance and enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运维管控域",
+   "en": "operations and maintenance (O&M) control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2727-2014 互联网数据中心运维管理技术要求》",
+   "en": "YD/T 2727-2014 Technical requirement for operations and maintenance management of Internet data center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中心运维管理技术要求",
+   "en": "technical requirement for data center operation and maintenance management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30285-2013 信息安全技术 灾难恢复中心建设与运维管理规范》",
+   "en": "GB/T 30285-2013 Information security technology — Construction and maintenance management specifications of disaster recovery center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36626-2018 信息安全技术 信息系统安全运维管理指南》",
+   "en": "GB/T 36626-2018 Information security technology — Management guide for secure operation and maintenance of information systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20173836-T-469 信息技术 远程运维 技术参考模型》",
+   "en": "20173836-T-469 Information technology — Remote operation and maintenance — Technical reference model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 28827.1-2012 信息技术服务 运行维护 第1部分：通用要求》",
+   "en": "GB/T 28827.1-2012 Information technology service — Operations and maintenance — Part 1: General requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "可选择性成分",
+   "en": "optional components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.6",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可添加或不添加的成分。能够满足适用人群特殊生理阶段或特殊机体状态下不同营养需求的营养成分，添加时其添加量应当符合相关标准限定的范围。"
+  },
+  {
+   "cn": "飞行员健康维护",
+   "en": "health maintenance of pilots",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.5.2",
+   "subjectFullName": "军事预防医学_军队流行病学_航空流行病学",
+   "subjectName": "航空流行病学",
+   "publishYear": "2025",
+   "definition": "为使飞行人员的健康处于良好状态以适合飞行要求、保障飞行安全而采取一系列的健康监测和保健预防措施。"
+  },
+  {
+   "cn": "赡养协议",
+   "en": "maintenance agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.12",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "赡养人与被赡养人之间或者赡养人之间，依照法律规定或相互间的约定，就承担赡养义务的有关事宜，平等、自愿签订的履行赡养义务的协议。赡养协议分两大类：一类是赡养人与被赡养人签订的赡养协议；另一类是赡养人之间"
+  },
+  {
+   "cn": "语言保持",
+   "en": "language maintenance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.015",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言社区特别是在多语地区继续使用语言群体母语的现象，属于比较积极的语言保护措施。现代社会保持非主体通用语言的使用和发展，特别需要在与语言文字有关的教育、文化、媒体、信息及管理等方面促进和支持语言的使用"
+  },
+  {
+   "cn": "风险管理措施评估",
+   "en": "risk management options assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对风险管理措施进行评估，帮助主管部门决定是否需要对某一物质进行进一步基于管理的风险管理活动，并确定最合适的工具来解决问题。"
+  },
+  {
+   "cn": "灭菌维持时间",
+   "en": "sterilization maintenance time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌室内参考测量点的主要灭菌因子连续保持在规定范围内的时间。"
+  },
+  {
+   "cn": "无菌性保持试验",
+   "en": "sterility maintenance test",
+   "source": "消毒学",
+   "wordNumber": "6.2.32",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "测定包装完整的灭菌医疗用品在规定的条件下贮存是否保持无菌，来确定灭菌医疗用品包装材料的无菌有效期的测试方法。"
+  },
+  {
+   "cn": "健康维护组织",
+   "en": "health maintenance organizations",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.072000000000001",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "通过预付费用（保费）的方式，为参保成员提供综合、协调、预防性服务的管理式医疗模式。"
+  },
+  {
+   "cn": "热带健康维护",
+   "en": "tropical health maintenance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "在热带环境中，为维持人体理想的健康状态所采取的措施。"
+  },
+  {
+   "cn": "细胞维持液",
+   "en": "cell culture maintenance medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.16",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "血清含量低且可以使细胞缓慢生长的同时维持代谢稳定状态的细胞培养液。"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "source": "马克思主义",
+   "wordNumber": "05.0306",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1993年10月22日成立。该党宣称是苏联的摩尔达维亚苏维埃社会主义共和国共产党的继承党。该党以马克思、恩格斯、列宁、布哈林、葛兰西等理论家所阐释的马克思主义为指导思想。致力于恢复摩尔多瓦的经济、巩固"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "source": "马克思主义",
+   "wordNumber": "05.0310",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "南斯拉夫社会主义时期执政党，前身为1919年成立的南斯拉夫共产党，1952年改称为“南斯拉夫共产主义者联盟”。在铁托领导下坚持社会主义自治制度和不结盟外交政策。1990年南共联盟宣告解散。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

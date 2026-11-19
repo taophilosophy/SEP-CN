@@ -66,4 +66,4 @@ jobs:
 
 # baseline_audit.py / en_integrity.py 依赖本地 en/ 原始物，compare.py、drift_scan.py
 # 依赖网络抓取：均只本地跑，不进 CI（rules/05）。
-# 规则见 rules/05-ci-and-tools.md；变更本工作流须同步该表。
+# 规则见 rules/05/ci-workflows.md；变更本工作流须同步该表。

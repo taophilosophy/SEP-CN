@@ -11,7 +11,7 @@
 | 协议过程组（顾客-供方） | 用户裁定接收与登记（spec Assumptions、ADR）；读者勘误通道（issue→勘误） | [06](06-governance.md) 变更管理 |
 | 组织级项目使能 | 治理（rules/ADR/宪法）、定岗与并发纪律、生命周期模型维护（本文件＋[04](04-translation-workflow.md)） | [06](06-governance.md)、[ADR-0028](adr/0028-双机定岗分工与同步积压线.md) |
 | 技术管理过程组 | 立卡与规划（specs）、基线钉、度量与风险、批次控制 | [08](08-intent-first.md) §9、specs/NNN |
-| 技术过程组 | 入库→翻译→校审→收尾的实现流程（§2 阶段定义）、转换器与门禁维护 | [04](04-translation-workflow.md)、[05](05-ci-and-tools.md)、specs/001 |
+| 技术过程组 | 入库→翻译→校审→收尾的实现流程（§2 阶段定义）、转换器与门禁维护 | [04](04-translation-workflow.md)、[05](05/index.md)、specs/001 |
 
 ## 2. 生命周期阶段定义（技术过程组）
 

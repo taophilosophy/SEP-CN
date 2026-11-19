@@ -1,0 +1,752 @@
+{
+ "key": "fictitious commodities",
+ "term": "fictitious commodities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:08:33+00:00",
+ "status": "ok",
+ "note": "variant=fictitious commodities; 审定公布名词库=241; 海峡两岸名词对照库=84; 其他来源数据库=18; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "经纬［线］网",
+   "en": "fictitious graticule",
+   "source": "测绘学名词",
+   "wordNumber": "04.240",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将地球椭球面上的经线与纬线，按一定的数学方法描绘到平面上构成的有一定变形规律的格网。"
+  },
+  {
+   "cn": "虚拟资本",
+   "en": "fictitious capital",
+   "source": "经济学名词",
+   "wordNumber": "12.097",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "与实物资本相分离的、本身没有价值的、以有价证券形式存在并能给持有者带来一定收入的资本。"
+  },
+  {
+   "cn": "虚拟电荷",
+   "en": "fictitious charge",
+   "source": "物理学名词",
+   "wordNumber": "03.0015",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经纬网格",
+   "en": "fictitious graticule",
+   "source": "地理学名词",
+   "wordNumber": "27.097",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "以一定经纬度间隔将地球椭球面上的经线和纬线，按某种地图投影方法描绘到平面上所构成的网格，注有经纬度，便于确定点位的地理坐标。"
+  },
+  {
+   "cn": "虚假功率",
+   "en": "fictitious power",
+   "source": "电气工程名词",
+   "wordNumber": "01.533",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "虚构对策",
+   "en": "fictitious play",
+   "source": "数学名词",
+   "wordNumber": "011.0468",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商品",
+   "en": "commodity",
+   "source": "经济学名词",
+   "wordNumber": "01.013",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "用来交换的劳动产品。包括使用价值和价值两个基本因素。前者是其自然属性，后者是其社会属性。它具有以下几个特点：①必须有用，即能满足人们某种需要的属性；②不是为自己，而是供别人、供社会消费；③通过交换进入"
+  },
+  {
+   "cn": "大宗商品",
+   "en": "commodity",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0347",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "以很大量形式出售的产品。特别是金属矿产等原材料和诸如小麦之类的食品等。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "农学名词",
+   "wordNumber": "19.202",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "生产目的主要是以商品交换为目的的经济形态。"
+  },
+  {
+   "cn": "商品因素",
+   "en": "commodity factor",
+   "source": "兽医学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "动物或动物产品中可能携带的动物疫病及其在动物中的流行情况、疫病特征、疫病检测效果和病原处理效果。"
+  },
+  {
+   "cn": "受众商品论2.0",
+   "en": "audience commodity 2.0",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.107",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "在用户主导并生成内容的第二代互联网(web 2.0)时代，重新理解、阐释并应用斯迈思的受众商品论。一方面，产销者等概念的流行为受众商品论带来了新的挑战；另一方面，信息技术的高速发展也使得网络用户被识别"
+  },
+  {
+   "cn": "商品住宅",
+   "en": "commodity housing",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.023",
+   "subjectFullName": "城乡规划学_社区与住房规划_住房政策与规划",
+   "subjectName": "住房政策与规划",
+   "publishYear": "2021",
+   "definition": "（1）房屋权属登记具有完全产权，可以在住房市场上自由交易、流通的住宅。（2）特指具有经营资格的房地产开发公司通过国有土地使用权出让方式获得土地使用权开发建设，并按市场价格出售的具有完全产权的住宅。"
+  },
+  {
+   "cn": "商品市场",
+   "en": "commodity market",
+   "source": "经济学名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "有固定场所、设施，有若干经营者入场经营、分别纳税，由市场经营管理者负责经营物业管理，实行集中、公开交易有形商品的交易场所。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "经济学名词",
+   "wordNumber": "02.013",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "生产不是为了自给自足，而是以交换为目的的经济形式。包括商品生产和商品交换。它的出现是社会生产力发展的结果。在不同社会经济条件下，它体现不同生产关系，并具有不同的特点。"
+  },
+  {
+   "cn": "商品资本",
+   "en": "commodity capital",
+   "source": "经济学名词",
+   "wordNumber": "04.027",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "以商品形式存在的资本。是产业资本在其循环中所采取的第三种职能形式，即在出卖阶段采取的形式。"
+  },
+  {
+   "cn": "商品税",
+   "en": "commodity taxation",
+   "source": "经济学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "以商品和劳务的流转额为课税对象的课税体系。在国际上一般统称为“商品和劳务税”。主要包括消费税、销售税、增值税和关税。"
+  },
+  {
+   "cn": "货币商品",
+   "en": "monetary commodity",
+   "source": "经济学名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "从商品世界中分离出来独占一般等价物地位，或者说专门充当一般等价物的特殊商品。"
+  },
+  {
+   "cn": "商品拜物教",
+   "en": "commodity fetishism",
+   "source": "经济学名词",
+   "wordNumber": "14.071",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "马克思在《资本论》中提出的用以表示在商品交换条件下社会关系的感受特征的术语。这一概念最初用以指众多的个体生产者之间的商品交换活动，这种经济形式最主要的特征是：每个经济行为人生产他不消费的产品，而去消费"
+  },
+  {
+   "cn": "商品矿石",
+   "en": "commodity ore",
+   "source": "冶金学名词",
+   "wordNumber": "02.0052",
+   "subjectFullName": "冶金学_采矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "直接作为商品出售的矿石。"
+  },
+  {
+   "cn": "信息商品",
+   "en": "information commodity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.052",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以信息资源为核心投入要素，经过整理、加工后形成产品并通过特定渠道进行分销和消费的经济产物。典型的信息商品包括：软件产品、视频与音像产品、研究报告、数据库等。"
+  },
+  {
+   "cn": "假年",
+   "en": "fictitious year",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "假太阳",
+   "en": "fictitious sun",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟资本",
+   "en": "fictitious capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经纬网格",
+   "en": "fictitious graticule",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "假赤道",
+   "en": "fictitious equator",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "假年",
+   "en": "fictitious year",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "假太阳",
+   "en": "fictitious sun",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟子午线",
+   "en": "fictitious meridian",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "商品货币",
+   "en": "commodity currency (=commodity money)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "假平太阳",
+   "en": "fictitious mean sun",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大宗化学品",
+   "en": "commodity chemical",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大宗聚合物",
+   "en": "commodity polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "商品检验",
+   "en": "commodity inspection",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "通用聚合物",
+   "en": "commodity polymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出口商品",
+   "en": "export commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商品",
+   "en": "international commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币商品",
+   "en": "currency commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币商品",
+   "en": "money commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口商品",
+   "en": "import commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "竞争性商品",
+   "en": "rival commodity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "网络商品交易",
+   "en": "online commodity transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大宗商品仓单交易",
+   "en": "commodity warehouse receipt transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 37538-2019 电子商务交易产品质量网上监测规范》",
+   "en": "GB/T 37538-2019 Specification for online monitoring of e-commerce transacting commodity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网格化管理",
+   "en": "digital management for a matrix of urban communities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防止大规模社区传播",
+   "en": "to prevent the wide spread of the coronavirus in communities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防控力量向社区下沉",
+   "en": "to empower communities to prevent and control the spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟资本",
+   "en": "fictitious capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0243",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生息的证券，包括股票、企业和国家发行的债权等。有价证券是资本所有权证书，本身并无价值，不是真正的资本，而是“资本的纸质复本”。"
+  },
+  {
+   "cn": "商品",
+   "en": "commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0028",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过劳动生产出来并用于市场交换的产品，是使用价值和价值的统一体，反映了商品经济中劳动者之间的社会关系。"
+  },
+  {
+   "cn": "商品拜物教",
+   "en": "commodity fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.2",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "原本不属于买卖流通和通过货币实行交换的社会关系转化或变异为一种基于商品或货币衡量的客体关系的现象。主要表现为劳动商品化和劳动异化。马克思在《资本论》中提出这一概念，用来描述资本主义社会中的一种社会关系"
+  },
+  {
+   "cn": "商品生产",
+   "en": "commodity production",
+   "source": "马克思主义",
+   "wordNumber": "02.0029",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过社会分工和协作，在所有制和交换基础上形成劳动产品的社会经济过程。商品生产是一个历史范畴，在历史上曾经有小商品生产（简单商品生产）、资本主义商品生产和社会主义商品生产等形式。商品生产是劳动过程和"
+  },
+  {
+   "cn": "商品交换",
+   "en": "commodity exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0030",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品所有者按照等价交换原则，在自愿基础上相互让渡商品所有权的经济行为和过程。"
+  },
+  {
+   "cn": "商品经济",
+   "en": "commodity economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0031",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "直接以市场交换为目的的经济形式，包括商品生产和商品流通，是同生产发展的一定历史阶段相联系的经济形式。原始社会物物交换还未形成商品经济，商品经济是在自然经济的缝隙中生长的。而在资本主义社会，商品经济成为"
+  },
+  {
+   "cn": "商品资本",
+   "en": "commodity capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0188",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以商品形式存在的资本，是资本的直接生产过程的结果，是产业资本在循环中由生产资本形式进一步转化的形式，它还将转化为货币资本形式。"
+  },
+  {
+   "cn": "一般商品",
+   "en": "general commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0191",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的一种特殊的社会职能。货币，作为固定地充当一般等价物的商品，它是价值额的独立表现，可以衡量一切商品的价值，具有与一切商品直接交换的能力，这种社会职能使它成为作为一般等价物的一般商品。"
+  },
+  {
+   "cn": "商品外壳",
+   "en": "Commodity Housing",
+   "source": "马克思主义",
+   "wordNumber": "02.0329",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "对社会主义国营企业的生产资料属性与形式的一种认识。认为在苏联社会主义经济中，只有消费品才是商品，由于国营企业的生产资料是由社会主义国家在自己所有的企业之间进行生产、交换和分配的，所以它只保留了商品的形"
+  },
+  {
+   "cn": "商品拜物教",
+   "en": "commodity fetishism",
+   "source": "马克思主义",
+   "wordNumber": "04.0295",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把某种物当作神来崇拜的一种宗教观念。在以私有制为基础的商品经济中，商品交换的物与物的关系掩盖了商品生产者间的社会关系，从而使商品具有一种神秘的属性，给商品生产者造成一种幻觉，似乎商品天然具有决定商品生"
+  },
+  {
+   "cn": "商品交换规律",
+   "en": "commodity exchange law",
+   "source": "马克思主义",
+   "wordNumber": "02.0041",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换遵循等价交换的内在本质和一般原则。商品生产和交换的基本规律是价值规律。"
+  },
+  {
+   "cn": "商品流通",
+   "en": "circulation of commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0091",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以货币为媒介的商品交换过程，其元素形式是：W-G-W，即“商品-货币-商品”。"
+  },
+  {
+   "cn": "有计划的商品经济",
+   "en": "planned commodity economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0407",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在社会主义公有制基础上对商品生产和商品交换进行计划调节的社会主义经济运行机制。这一概念突破了把计划经济同商品经济对立起来的传统观念，强调尊重价值规律，运用计划调节和市场调节的双重功能，对社会经济运行进"
+  },
+  {
+   "cn": "商品资本的循环",
+   "en": "circulation of commodity capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0189",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从包含剩余价值的商品资本（W）出发，通过商品的出售，取得相应的货币（G），使商品资本转化为货币资本；进而用货币购买生产要素（W）即生产资料和劳动力，由货币资本转化为生产资本（P），然后进入生产过程（…"
+  },
+  {
+   "cn": "发展社会主义商品生产",
+   "en": "developing socialist commodity production",
+   "source": "马克思主义",
+   "wordNumber": "02.0385",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1958年郑州会议上提出的观点。他批评“大跃进”和人民公社化运动中的废除货币、取消商品的主张，提出：商品生产不能与资本主义混为一谈。商品生产同社会主义制度相联系就是社会主义的商品生产。要有计划"
+  },
+  {
+   "cn": "社会主义商品生产理论",
+   "en": "theory of socialist commodity production",
+   "source": "马克思主义",
+   "wordNumber": "02.0331",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "关于社会主义需要商品生产的观点。列宁认为向社会主义社会过渡的时期由于存在多种经济成分，为着沟通工业和农业的经济联系，还有必要保留商品生产和商品交换。斯大林在1952年出版的《苏联社会主义经济问题》一书"
+  },
+  {
+   "cn": "摄入和商品计划距离",
+   "en": "ingestion and commodities planning distance，ICPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后采取有效应急响应行动。保护公众免于摄入在大量放射性释放后可能受到污染的食品、牛奶和饮用水，以及免于使用在大量放射性释放后可能受到污染的食品之"
+  },
+  {
+   "cn": "商品流通规律",
+   "en": "law of the circulation of commodities",
+   "source": "马克思主义",
+   "wordNumber": "02.0076",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品流通是指以货币为媒介的商品交换，即W-G-W。这个过程包含着商品的两个形态变化：商品到货币（W-G）和货币到商品（G-W）。商品流通规律包括竞争规律、供求规律、等价交换规律、货币流通规律、价值运动"
+  },
+  {
+   "cn": "民族特需商品",
+   "en": "ethnic special products/ethnic special commodities/ethnic special goods",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0054",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中央和地方政府设立少数民族用品生产基地，在资金、设备、原材料等方面予以积极支持，实行就地取材，就地生产，就地供应。对少数民族地区没条件生产或暂时不能生产的产品，由政府组织其它地区的工厂、企业定点定量生"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

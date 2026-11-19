@@ -1,0 +1,782 @@
+{
+ "key": "unbounded movement",
+ "term": "unbounded movement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:50+00:00",
+ "status": "ok",
+ "note": "variant=unbounded movement; 审定公布名词库=1165; 海峡两岸名词对照库=213; 其他来源数据库=49; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "无界空间",
+   "en": "unbounded space",
+   "source": "物理学名词",
+   "wordNumber": "03.0694",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "径向无界",
+   "en": "radially unbounded",
+   "source": "数学名词",
+   "wordNumber": "06.0148",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无界滞量",
+   "en": "unbounded lag",
+   "source": "数学名词",
+   "wordNumber": "06.0212",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无界解",
+   "en": "unbounded solution",
+   "source": "数学名词",
+   "wordNumber": "06.0231",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非束缚态",
+   "en": "unbound state",
+   "source": "核科学技术名词",
+   "wordNumber": "1.236",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "能量大于粒子分离能的核‍态。"
+  },
+  {
+   "cn": "非结合水分",
+   "en": "unbound water",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0962",
+   "subjectFullName": "化工（八）_化工设备_干燥设备",
+   "subjectName": "干燥设备",
+   "publishYear": "2021",
+   "definition": "湿物料中，机械地附着于固体表面或大空隙中的水分。性质与纯水相同。"
+  },
+  {
+   "cn": "未装订期刊",
+   "en": "unbound periodical",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.435",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "（1）已印好了刊页、刊帖尚未加工成册的期刊。（2）图书馆中尚未加以装订的期刊馆藏。"
+  },
+  {
+   "cn": "非束缚电子",
+   "en": "unbound electron",
+   "source": "物理学名词",
+   "wordNumber": "08.1268",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自由态分子对接",
+   "en": "unbound docking",
+   "source": "生物物理学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "生物物理学_生物信息学_药物分子设计",
+   "subjectName": "药物分子设计",
+   "publishYear": "2018",
+   "definition": "起始于复合物形成前的两个分子的单体结构的对接方法。"
+  },
+  {
+   "cn": "无界搜索算子",
+   "en": "unbounded search operator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0121",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种定义函数的算子，例如，给定 f(x,y) ， g(x)=μy［f(x,y)=0］ 定义了一个函数g，对于任意的x,g(x)之值为最小的y使得f(x,y) =0。 "
+  },
+  {
+   "cn": "无界线性算子",
+   "en": "unbounded linear operator",
+   "source": "数学名词",
+   "wordNumber": "07.0181",
+   "subjectFullName": "数学_泛函分析_算子",
+   "subjectName": "算子",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无界报酬模型",
+   "en": "unbounded reward model",
+   "source": "数学名词",
+   "wordNumber": "011.0582",
+   "subjectFullName": "数学_运筹学_决策论·价值论",
+   "subjectName": "决策论?价值论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "移位",
+   "en": "movement,move",
+   "source": "语言学名词",
+   "wordNumber": "04.257",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "转换生成语法术语。一类基本的转换操作。该操作将组成成分从短语标记的一个位置移至（通常一次移一个）另一个位置，使原来的线性序列得以改变。例如，汉语的被动句“碗被猫碰掉了”是通过NP 移位规则从“猫碰掉了"
+  },
+  {
+   "cn": "运动",
+   "en": "movement",
+   "source": "精神医学名词",
+   "wordNumber": "02.182",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "机体在受到内外环境刺激后出现的由肌肉收缩产生的反射性活动。是机体的一种功能，也是动作和活动的基础。"
+  },
+  {
+   "cn": "1300年运动",
+   "en": "1300 Movement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0259",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "缅甸1938年(缅历1300年)爆发的反英示威运动，沉重打击了英国殖民势力，促进了缅甸民族独立运动的发展。"
+  },
+  {
+   "cn": "迁移",
+   "en": "migration,movement",
+   "source": "植物学名词",
+   "wordNumber": "02.0387",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "植物的繁殖体(如孢子、种子、果实、地下根状茎等)及植物体传播至他处，从而改变或扩大其分布区的过程。"
+  },
+  {
+   "cn": "块状运动",
+   "en": "massive movement",
+   "source": "地质学名词",
+   "wordNumber": "09.07.080",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "被周围新断裂切割的构造块体沿断裂的垂直运动。这种运动促使各个地块彼此相对位移到不同的高度，形成起伏的山岭。块状运动可以沿着不同地质时期的断裂活动，古断裂在新构造期复活，成为继承性的活动断裂；另外，还可"
+  },
+  {
+   "cn": "构造运动",
+   "en": "tectonic movement",
+   "source": "地质学名词",
+   "wordNumber": "01.00.070",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地球内部能量引起的，使地壳乃至岩石圈的结构和物质发生变形、变位的机械运动。它导致大陆、洋底的增生和消亡，并伴随地震、岩浆活动和变质作用的发生，形成褶皱、断裂等各种地质构造，促使地壳隆起和坳陷以及山脉"
+  },
+  {
+   "cn": "垂直运动",
+   "en": "vertical movement",
+   "source": "地质学名词",
+   "wordNumber": "01.00.071",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以垂直升降为主的地壳运动。它使岩层表现为隆起和相邻区的下降，可形成高原、断块山及坳陷、盆地和平原，还可引起海侵和海退，使海陆变迁。引起区域性地壳隆升和形成平行不整合。"
+  },
+  {
+   "cn": "水平运动",
+   "en": "horizontal movement",
+   "source": "地质学名词",
+   "wordNumber": "01.00.072",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "沿着地球球面切线方向发生的地壳运动。表现为地壳物质遭受强烈水平挤压作用，或者被分离拉开，或者剪切错动，甚至旋转，使地质体发生大规模水平位移，常常可以形成巨大的褶皱山系，以及巨型坳陷、岛弧、海沟等。板块"
+  },
+  {
+   "cn": "非结合水分",
+   "en": "unbound water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解放了的普罗米修斯",
+   "en": "Prometheus Unbound\",\"Scenes from Shelley’s",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Parry, Hubert "
+  },
+  {
+   "cn": "活动",
+   "en": "movement",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "movement",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "movements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "movements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "迁移",
+   "en": "migration\",\"movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乐章",
+   "en": "movement\",\"partie",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿米巴样运动（=变形运动）",
+   "en": "amoeboid movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胞质运动",
+   "en": "cytoplasmic movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鞭毛运动",
+   "en": "flagellous movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变形运动，阿米巴样运动",
+   "en": "amoeboid movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "蠕动运动",
+   "en": "peristaltic movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞运动",
+   "en": "cell movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "纤毛运动",
+   "en": "ciliary movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "缠绕运动",
+   "en": "twining movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感性运动",
+   "en": "nastic movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感夜运动",
+   "en": "nyctinastic movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感震运动",
+   "en": "seismonastic movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "紧张性运动（=膨压运动）",
+   "en": "turgor movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无界零售",
+   "en": "unbounded retail",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不对称动作",
+   "en": "asymmetric movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克运动",
+   "en": "Olympic Movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "岸上动作",
+   "en": "deck movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术移动",
+   "en": "tactical movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element\",\"movement\",\"exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动静",
+   "en": "Movement and Stillness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "古文运动",
+   "en": "Classical Prose Movement",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放数据运动",
+   "en": "open data movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开源运动",
+   "en": "open-source movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "翻上",
+   "en": "upward circle\",\"upward movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退",
+   "en": "rein-back\",\"backward movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两蹄迹运动",
+   "en": "lateral movement\",\"work on two tracks",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "move",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天体运动",
+   "en": "nudist movement",
+   "source": "社会学名词",
+   "wordNumber": "3.3.7.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性伦理",
+   "subjectName": "性伦理",
+   "publishYear": "2025",
+   "definition": "提倡裸露身体、回归自然的运动。"
+  },
+  {
+   "cn": "双重运动",
+   "en": "double movement",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "关于自我调节的市场机制与社会的自我保护运动的理论。卡尔·波兰尼分析资本主义文明演化特征的核心框架。"
+  },
+  {
+   "cn": "社会运动",
+   "en": "social movement",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "特定群体以组织化的方式所进行的改变或重建社会秩序的集体行为，旨在促进或抗拒社会变迁。"
+  },
+  {
+   "cn": "环境运动",
+   "en": "environmental movement",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "针对环境问题的各种各样的科学、社会和政治运动。"
+  },
+  {
+   "cn": "青年运动",
+   "en": "youth movement",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "为了改革或革命，由青年领导或主要由青年组织的政治、宗教或社会的运动。"
+  },
+  {
+   "cn": "学生运动",
+   "en": "student movement",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "由学生组织和参与，旨在改变经济、政治和社会现状的学生活动的总称。不同学生运动的参与主体、规模和社会效果差异巨大。"
+  },
+  {
+   "cn": "复兴运动",
+   "en": "revitalization movement",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "以创造一种更令人满意的文化为目的的社会运动。一般带有宗教色彩，但也有仅以政治和社会目的为主的情形。以某种新文化蓝图或一系列为人所接受的革新为特征，但多具有乌托邦性质、以失败者居多。"
+  },
+  {
+   "cn": "共产主义运动",
+   "en": "communism movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0017",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、为实现共产主义而在世界范围内兴起的运动，是绝大多数人的、为绝大多数人谋利益的运动。共产主义运动以马克思主义即共产主义思想体系为指导，以实现共产主义各阶段任务为目的。要求在废"
+  },
+  {
+   "cn": "工人运动",
+   "en": "labor movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0065",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级团结起来，以有组织的形式、在经济上、政治上、理论上开展反对资产阶级的斗争。在斗争中，工人运动将经历从自发到自觉、从单独到联合、从改良到革命等一系列方式、途径和手段的演进。"
+  },
+  {
+   "cn": "共和运动",
+   "en": "republican movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0073",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级为了反对封建君主专制、建立自己的阶级统治而进行的长久斗争。19世纪30—40年代资产阶级共和派为了反对封建君主专制制度，建立自己的阶级统治，而继承法国大革命精神、发扬共和原则和实行共和制度进行"
+  },
+  {
+   "cn": "合作劳动",
+   "en": "cooperative movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0088",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动群众根据自愿互助的原则联合起来创建合作社的探索实践。"
+  },
+  {
+   "cn": "民主运动",
+   "en": "democratic movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0114",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对独裁统治或专制统治，争取被统治阶级的民主权利的群众运动。它是被统治阶级反抗统治阶级的政治斗争的一种形式，通常具有进步意义。"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  },
+  {
+   "cn": "斯达汉诺夫运动",
+   "en": "Stakhanovite movement",
+   "source": "马克思主义",
+   "wordNumber": "04.0109",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪30年代苏联社会主义工业化建设中的群众性劳动竞赛运动。顿涅茨矿区采煤工人斯达汉诺夫在1935年8月31日创造了一班工作时间内采煤102吨的记录，超过定额十三倍。从这里开始的劳动竞赛运动，立即在"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0488",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "被压迫民族反对压迫民族、争取民族平等或民族解放的斗争。从这个意义上说，民族运动是随着资本主义的产生和发展而形成和发展的。"
+  },
+  {
+   "cn": "女权运动",
+   "en": "feminist movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0216",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "妇女争取与男子平等的权利，以改善妇女社会地位和生活境遇为主要目的的社会运动。"
+  },
+  {
+   "cn": "本土主义运动",
+   "en": "nativistic movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0283",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "针对文化移入而产生的振兴传统文化的社会运动，美国人类学家林顿（Ralph Linton）在分析各种社会运动时最先使用并定义了这一概念。"
+  },
+  {
+   "cn": "反向运动",
+   "en": "counter-movements",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.1",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "对社会运动的有组织反应，目的是阻止运动、拒绝变化和提供其他替代的观点。"
+  },
+  {
+   "cn": "新社会运动",
+   "en": "new social movement",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "20世纪60年代以来在西方发达社会出现的一种社会运动。与传统社会运动不同，其关注的重点不再是经济利益，而是非物质性权益，如民权运动、环保运动、女权运动等。"
+  },
+  {
+   "cn": "反科学运动",
+   "en": "anti-science movement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.23",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "因科学的社会功能而产生的一种社会现象。在科学应用过程中一旦未能得到权威机构或控制群体的赞许，对技术成果带来的负面效应的反感就会变成对科学本身的反对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

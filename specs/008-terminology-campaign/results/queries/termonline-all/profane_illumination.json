@@ -1,0 +1,532 @@
+{
+ "key": "profane illumination",
+ "term": "profane illumination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:02:21+00:00",
+ "status": "ok",
+ "note": "variant=profane illumination; 审定公布名词库=631; 海峡两岸名词对照库=108; 其他来源数据库=11; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "光照",
+   "en": "illumination",
+   "source": "农学名词",
+   "wordNumber": "14.180",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "光质和光量的统称。常用于表示作物温室生产过程中的室内光环境状况。"
+  },
+  {
+   "cn": "照明",
+   "en": "illumination",
+   "source": "兽医学名词",
+   "wordNumber": "09.061",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "利用各种光源照亮工作和生活场所或个别物体的措施。照明诸因素中光照强度、光的波长、照明时间对实验动物的视网膜、行为、性周期、繁殖能力有很大影响。"
+  },
+  {
+   "cn": "光照",
+   "en": "illumination",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.158",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "在电磁波谱内可见光的照射。对睡眠和觉醒分别有抑制和促进作用。"
+  },
+  {
+   "cn": "照明",
+   "en": "illumination",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.186",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_职业卫生",
+   "subjectName": "职业卫生",
+   "publishYear": "2020",
+   "definition": "在无天然光或天然光不足时采用人工光源满足所需照度的措施。"
+  },
+  {
+   "cn": "照明",
+   "en": "illumination",
+   "source": "物理学名词",
+   "wordNumber": "04.0665",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "照明",
+   "en": "illumination",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.130",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光对一个物体的作用，即照明物体。"
+  },
+  {
+   "cn": "光照",
+   "en": "illumination",
+   "source": "电气工程名词",
+   "wordNumber": "22.028",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "照明器",
+   "en": "illuminator",
+   "source": "物理学名词",
+   "wordNumber": "04.0597",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "前扇三角洲亚相",
+   "en": "profan delta subfacies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.123",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "位于扇三角洲的浪基面以下部分。向下与深水盆地沉积过渡。陆棚前扇三角洲沉积相稳定，分布范围广泛，一般具有明显而完整的向上变粗的层序。湖泊前扇三角洲沉积主要由灰绿色、灰黑色泥岩、泥质粉砂岩、钙质页岩、油页"
+  },
+  {
+   "cn": "光照强度",
+   "en": "illumination intensity,illuminance",
+   "source": "林学名词",
+   "wordNumber": "02.024",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "入射(或到达)物体表面单位面积上的(可见光)光通量。单位为勒克斯(lx)。"
+  },
+  {
+   "cn": "光照强度",
+   "en": "illumination intensity; illuminance",
+   "source": "农学名词",
+   "wordNumber": "13.013",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "入射(或到达)物体表面单位面积上的光通量。"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "风景园林名词",
+   "wordNumber": "08.0769",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "被照面单位面积上得到的光通量。反映物体被照明程度，单位为勒克斯（lx）。"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "档案学名词",
+   "wordNumber": "05.02.008",
+   "subjectFullName": "档案学_档案保护_档案保护环境",
+   "subjectName": "档案保护环境",
+   "publishYear": "2024",
+   "definition": "档案所处环境的光线照明情况。可以用单位面积上通过的光通量来表示，即光的照度E，单位是勒克斯（lx）。"
+  },
+  {
+   "cn": "［光］照度",
+   "en": "illuminance ",
+   "source": "草学名词",
+   "wordNumber": "3.0575",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "光学名词",
+   "wordNumber": "01.151",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "被照明物体表面单位面积上所接收的光通量。单位为勒克斯(lx)，表示单位面积上接收的光通量，即1 lx=1 lm/m²。"
+  },
+  {
+   "cn": "施照体",
+   "en": "illuminant",
+   "source": "物理学名词",
+   "wordNumber": "04.0595",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[光]照度",
+   "en": "illuminance",
+   "source": "物理学名词",
+   "wordNumber": "04.0593",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "生物物理学名词",
+   "wordNumber": "05.038",
+   "subjectFullName": "生物物理学_光生物物理学_光生物物理学基础",
+   "subjectName": "光生物物理学基础",
+   "publishYear": "2018",
+   "definition": "辐照度在全光谱范围内对视觉敏感函数的加权积分。单位为勒克斯(lx, lux)，或流明每平方米(lm/m²)。"
+  },
+  {
+   "cn": "[光]照度",
+   "en": "illuminance",
+   "source": "计量学名词",
+   "wordNumber": "13.079",
+   "subjectFullName": "计量学_光学_光度",
+   "subjectName": "光度",
+   "publishYear": "2015",
+   "definition": "表面上一点处的光照度是入射在包含该点的面元上的光通量<img src='/root/syzx/static/spz/jiliang1.13.079.1.png'/>除以该面元面积 dA之商，即 <im"
+  },
+  {
+   "cn": "施照体",
+   "en": "illuminant",
+   "source": "计量学名词",
+   "wordNumber": "13.246",
+   "subjectFullName": "计量学_光学_色度",
+   "subjectName": "色度",
+   "publishYear": "2015",
+   "definition": "在影响物体色知觉的波长范围内，具有特定相对光谱功率分布的光辐射体。"
+  },
+  {
+   "cn": "神圣空间与世俗空间",
+   "en": "sacred and profane space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "照度",
+   "en": "illumination\",\"intensity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光照长度",
+   "en": "illumination length",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光照分析函数",
+   "en": "illumination function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "光照级",
+   "en": "illumination level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光照模型",
+   "en": "illumination model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "照亮半球",
+   "en": "illuminated hemisphere",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光影地貌",
+   "en": "illuminated relief",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "明暗等高线",
+   "en": "illuminated contours",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "落射光显微镜",
+   "en": "epi-illumination microscope",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "目标照射雷达",
+   "en": "target illumination radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地面照度",
+   "en": "illuminance of ground",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "局部光照模型",
+   "en": "local illumination model\",\"local light model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体光照模型",
+   "en": "global illumination model\",\"global light model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "淀积作用",
+   "en": "illuviation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "淋淀作用",
+   "en": "eluviation-illuviation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "世俗康塔塔",
+   "en": "Cantata Profana",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bartók, Béla"
+  },
+  {
+   "cn": "脯氨酸",
+   "en": "proline",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "廓线",
+   "en": "profile",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剖面［图］",
+   "en": "profile",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "俯卧舵手",
+   "en": "prone coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卧姿",
+   "en": "prone position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "俯姿",
+   "en": "prone position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "韬光养晦",
+   "en": "Keep a Low Profile",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大口径步枪卧姿",
+   "en": "big-bore rifle prone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子50米步枪卧射（60发）",
+   "en": "50m rifle prone (60 shots) men",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神圣—凡俗",
+   "en": "sacred-profane",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.6",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "涂尔干用以描述宗教的根本特点的二分法，前者指与日常生活的例行过程分离开来的特别的部分，后者指构成日常生活领域的现实的寻常内容。"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "被照明物体表面单位面积上所接收的光通量。"
+  },
+  {
+   "cn": "照度",
+   "en": "illuminance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "被照明物体表面单位面积上所接收的光通量。"
+  },
+  {
+   "cn": "照明灯布置",
+   "en": "arrangement of illuminating lamp",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "确定灯具在屋内的空间位置。"
+  },
+  {
+   "cn": "风险概述",
+   "en": "risk profile",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对某一食品安全问题所涉及的风险概况进行系统总体描述。"
+  },
+  {
+   "cn": "抗ENA抗体谱",
+   "en": "anti-extractable nuclear antigen (ENA) antoantibody profile",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "针对多种可提取核抗原（ENA）产生的抗体。临床常规检测的抗ENA抗体包括抗Sm、抗U1RNP、抗SSA/Ro、抗SSB/La、抗rRNP、抗Scl-70和抗Jo-1等自身抗体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

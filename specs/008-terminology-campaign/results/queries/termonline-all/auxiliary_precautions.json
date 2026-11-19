@@ -1,0 +1,532 @@
+{
+ "key": "auxiliary precautions",
+ "term": "auxiliary precautions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:12:41+00:00",
+ "status": "ok",
+ "note": "variant=auxiliary precautions; 审定公布名词库=347; 海峡两岸名词对照库=86; 其他来源数据库=8; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "周界防范",
+   "en": "perimeter precaution",
+   "source": "风景园林名词",
+   "wordNumber": "08.0836",
+   "subjectFullName": "风景园林_风景园林工程_风景园林弱电",
+   "subjectName": "风景园林弱电",
+   "publishYear": "2025",
+   "definition": "在防护区域的边界利用微波、红外、电子围栏等技术形成一道或看可见的、或不可见的防护墙的方法。若当有人通过或欲通过时，相应的探测器即会发出报警信号送至安保值班室或控制中心的报警控制主机，同时发出声光报警、"
+  },
+  {
+   "cn": "标准防护",
+   "en": "standard precaution",
+   "source": "消化内镜学名词",
+   "wordNumber": "4.058",
+   "subjectFullName": "消化内镜学_消化内镜管理_患者管理",
+   "subjectName": "患者管理",
+   "publishYear": "2021",
+   "definition": "内镜诊疗中将体内外物质双向隔离的防护措施。认定患者血液、体液、分泌物、排泄物均具有传染性，须进行双向隔离防护。包括洗手、戴手套、穿隔离衣、戴防护眼镜和面罩等。"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard precaution",
+   "source": "感染病学名词",
+   "wordNumber": "04.0051",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "基于患者的血液、体液、分泌物(不包括汗液)、排泄物、非完整皮肤和黏膜均可能具有传染性的原则，针对医院所有患者和医务人员采取的一组预防感染的措施。包括手卫生，并根据预期可能的暴露选用手套、面罩、隔离衣、"
+  },
+  {
+   "cn": "标准预防",
+   "en": "standard precaution",
+   "source": "结核病学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "结核病学_结核病预防与控制_感染控制",
+   "subjectName": "感染控制",
+   "publishYear": "2019",
+   "definition": "医疗机构提供医疗服务时假设所有患者都有可能具有传染性，而采取的用于减少经患者血液、体液、分泌物及皮肤破损传播的基本感染控制措施。"
+  },
+  {
+   "cn": "预警报",
+   "en": "precaution alarm",
+   "source": "石油名词",
+   "wordNumber": "08.0884",
+   "subjectFullName": "石油_海洋石油技术_海洋石油安全、消防、救生与环保",
+   "subjectName": "海洋石油安全、消防、救生与环保",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "辐射警告标志",
+   "en": "radiation precaution sign",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.082",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "在实际或可能产生电离辐射的物质、材料（及其容器）和设备（及其所在区域）上附加的有一定规格和颜色的标志。"
+  },
+  {
+   "cn": "辐射警告标志",
+   "en": "radiation precaution sign",
+   "source": "电力名词",
+   "wordNumber": "17.830",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "在实际或可能发射电离辐射的物质、材料(及其容器)和设备(及其所在区域)上附有一定规格和颜色的三叶型符号标志。"
+  },
+  {
+   "cn": "辐射警告标志",
+   "en": "radiation precaution sign",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.310",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "在实际或可能产生电离辐射的物质、材料(及其容器)和设备(及其所在区域)上附加的有一定规格和颜色的标志。"
+  },
+  {
+   "cn": "助剂",
+   "en": "auxiliary",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1279",
+   "subjectFullName": "材料科学技术_高分子材料_高分子材料相关助剂",
+   "subjectName": "高分子材料相关助剂",
+   "publishYear": "2011",
+   "definition": "为改善高分子加工性能和(或)物理机械性能或增强功能而加入高分子体系中的各种辅助物质。"
+  },
+  {
+   "cn": "副变速器",
+   "en": "auxiliary gearbox,auxiliary transmission",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.076",
+   "subjectFullName": "机械工程_汽车_底盘_手动变速器",
+   "subjectName": "手动变速器",
+   "publishYear": "2013",
+   "definition": "具有1~3个档位，附装于变速器的后端或前端，用来增加主变速器的档位，扩大主变速器传动比范围的传动装置。"
+  },
+  {
+   "cn": "纺纱助剂",
+   "en": "spinning auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.0269",
+   "subjectFullName": "精细化工_其他精细化学品_染整助剂",
+   "subjectName": "染整助剂",
+   "publishYear": "2025",
+   "definition": "在纺纱工序中添加的各种助剂的总称。如毛纺工序中添加的抗静电剂、和毛油及黏附剂等。"
+  },
+  {
+   "cn": "织造助剂",
+   "en": "weaving auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.0271",
+   "subjectFullName": "精细化工_其他精细化学品_染整助剂",
+   "subjectName": "染整助剂",
+   "publishYear": "2025",
+   "definition": "在纺织品制造工序中添加的各种助剂的总称。如整经蜡等。目的是减少在织造过程中经纱的断头率，提高织造效率和毛布质量。"
+  },
+  {
+   "cn": "染色助剂",
+   "en": "dyeing auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.0274",
+   "subjectFullName": "精细化工_其他精细化学品_染整助剂",
+   "subjectName": "染整助剂",
+   "publishYear": "2025",
+   "definition": "在染色工序中添加的各种助剂的总称。如用于提高染色均匀性的匀染剂，用于提高染色牢度的固色剂等。"
+  },
+  {
+   "cn": "印花助剂",
+   "en": "printing auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.0278",
+   "subjectFullName": "精细化工_其他精细化学品_染整助剂",
+   "subjectName": "染整助剂",
+   "publishYear": "2025",
+   "definition": "在纺织品印花工序中添加的各种助剂的总称。例如，普通印花用的糊料、渗透剂等，涂料印花用的黏合剂、交联剂等。"
+  },
+  {
+   "cn": "浸水助剂",
+   "en": "soaking auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.1309",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "在制革浸水工序使用，有利于生皮快速回复到鲜皮状态的化学品。"
+  },
+  {
+   "cn": "浸灰助剂",
+   "en": "liming auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.1310",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "在制革浸灰工序使用，有利于脱毛，石灰的溶解和分散，松散皮纤维或抑制膨胀减少皮纹的化学品。"
+  },
+  {
+   "cn": "浸酸助剂",
+   "en": "picking auxiliary",
+   "source": "精细化工名词",
+   "wordNumber": "08.1317",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "制革浸酸工序使用的助剂。主要功能是降低皮内外pH值的差异。"
+  },
+  {
+   "cn": "辅助型合成鞣剂",
+   "en": "auxiliary syntan",
+   "source": "精细化工名词",
+   "wordNumber": "08.1336",
+   "subjectFullName": "精细化工_其他精细化学品_皮革化学品",
+   "subjectName": "皮革化学品",
+   "publishYear": "2025",
+   "definition": "分子中不含酚羟基，几乎无鞣性的一种芳香族合成鞣剂。一般用于分散染料和植物鞣剂。"
+  },
+  {
+   "cn": "辅助面积",
+   "en": "auxiliary area",
+   "source": "风景园林名词",
+   "wordNumber": "07.0040",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "建筑物各层平面中为辅助生产或生活活动所占净面积的总和。如居住建筑中的楼梯、走道、卫生间、厨房等。"
+  },
+  {
+   "cn": "辅助假说",
+   "en": "auxiliary hypotheses",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "用以避免科学理论与观察、实验结果之间矛盾的假设。大多可独立检验并能增进科学知识。"
+  },
+  {
+   "cn": "助剂",
+   "en": "auxiliary",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "辅助存储器",
+   "en": "auxiliary memory\",\"auxiliary storage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助种",
+   "en": "auxiliary species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "辅助吸收器",
+   "en": "auxiliary absorber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辅助电极",
+   "en": "auxiliary electrode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "助音",
+   "en": "auxiliary note",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陪都",
+   "en": "auxiliary capital",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "辅助测站",
+   "en": "auxiliary station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辅助反射镜",
+   "en": "auxiliary reflector",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辅助水准器",
+   "en": "auxiliary level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辅助望远镜",
+   "en": "auxiliary telescope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辅助桩",
+   "en": "auxiliary stake",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辅助操作，外部操作",
+   "en": "auxiliary operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助装置",
+   "en": "auxiliary device",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "副陀螺",
+   "en": "auxiliary gyro",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辅助特征",
+   "en": "auxiliary character",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "副口针",
+   "en": "auxiliary stylet",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "奴工蚁",
+   "en": "auxiliary worker",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "辅给水系统",
+   "en": "auxiliary feed system\",\"auxiliary feed line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辅机舱",
+   "en": "auxiliary machinery compartment\",\"auxiliary machinery room",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防微杜渐",
+   "en": "Take Precautions Early",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辅助船",
+   "en": "auxiliary boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助水道",
+   "en": "auxiliary lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "辅助竞赛场",
+   "en": "auxiliary competition ground",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "案件评查辅助系统",
+   "en": "auxiliary system for case evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流程监控辅助系统",
+   "en": "auxiliary system for process monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "案件受理辅助系统",
+   "en": "auxiliary system for case acceptance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辅助假说",
+   "en": "auxiliary hypotheses",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "用以避免科学理论与观察、实验结果之间矛盾的假设。大多可独立检验并能增进科学知识。"
+  },
+  {
+   "cn": "护色助剂",
+   "en": "color auxiliary",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.12.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在护色剂使用中加入的能促进护色剂发色的还原性物质。其本身无发色功能，但能加快护色剂的发色过程，降低护色剂的用量。"
+  },
+  {
+   "cn": "辅助检查",
+   "en": "auxiliary inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.025",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医务人员通过物理、化学、生物学等实验室技术对患者身体结构、机能，以及血液、排泄物、分泌物、体液、组织细胞等标本进行探测、检查，获得有关资料，辅助临床医师作出诊断的各项手段。"
+  },
+  {
+   "cn": "消毒辅助设备",
+   "en": "disinfection auxiliary equipment",
+   "source": "消毒学",
+   "wordNumber": "3.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒过程中，协同使消毒产品发挥作用的设备。"
+  },
+  {
+   "cn": "食品消毒剂辅助成分",
+   "en": "auxiliary ingredient of disinfectant used for food and FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.2.9",
+   "subjectFullName": "食品卫生学_食品相关产品_食品用消毒剂",
+   "subjectName": "食品用消毒剂",
+   "publishYear": "2025",
+   "definition": "在食品用消毒剂配方中，具有防腐蚀、护肤、稳定、调解酸碱度、调味和着色等辅助作用的物质。如氢氧化钠、氯化钠。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

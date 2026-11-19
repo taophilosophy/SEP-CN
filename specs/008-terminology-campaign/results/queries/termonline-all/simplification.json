@@ -1,0 +1,412 @@
+{
+ "key": "simplification",
+ "term": "simplification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:09:42+00:00",
+ "status": "ok",
+ "note": "variant=simplification; 审定公布名词库=120; 海峡两岸名词对照库=46; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "简化",
+   "en": "simplification",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1056",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "经过取消、合并、重排后的必要工作，可考虑能否采用最简单的方法及设备，以节省人力、时间和费用的方法研究分析原则。"
+  },
+  {
+   "cn": "简化",
+   "en": "simplification",
+   "source": "语言学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "汉字形体演变的一种现象。汉字在音义不变的情况下，通过省去某些构形要素等方式，使字形由繁复趋向简省。"
+  },
+  {
+   "cn": "制图化简",
+   "en": "cartographic simplification",
+   "source": "测绘学名词",
+   "wordNumber": "04.225",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "运用删除、夸大、合并、分割等方法简化物体平面图形的内部结构和外部轮廓的过程。"
+  },
+  {
+   "cn": "格网简化",
+   "en": "mesh simplification",
+   "source": "测绘学名词",
+   "wordNumber": "05.160",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "为减少存储空间和提高处理效率，对物体表面的几何表达模型进行冗余特征点删除处理的过程。"
+  },
+  {
+   "cn": "模型简化",
+   "en": "model simplification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0493",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "通过减少模型的几何细节来降低模型复杂度的技术。"
+  },
+  {
+   "cn": "网格简化",
+   "en": "mesh simplification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0584",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "基于某种误差度量，用简化的网格曲面取代原始网格曲面的方法。"
+  },
+  {
+   "cn": "工作简单化",
+   "en": "job simplification",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0467",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "提高生产效率、节约生产成本的方式，对工作方法或工作流程采用裁减、合并、调整等手段，更经济更有效地利用人力、物料和机器。"
+  },
+  {
+   "cn": "工作简单化",
+   "en": "job simplification",
+   "source": "教育学名词",
+   "wordNumber": "11.076",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "利用分工、重新组织，或采用新机器、新工作方法，使工作趋于简单的做法。"
+  },
+  {
+   "cn": "数据简化",
+   "en": "data simplification",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.416",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在地图综合中，随着比例尺变小而从地图中消除一些不必要地图元素的过程。"
+  },
+  {
+   "cn": "类推简化",
+   "en": "analogical simplification",
+   "source": "语言学名词",
+   "wordNumber": "02.190",
+   "subjectFullName": "语言学_文字学_汉字政策、应用研究等",
+   "subjectName": "汉字政策、应用研究等",
+   "publishYear": "2011",
+   "definition": "根据《简化字总表》第二表所列简化字和简化偏旁，采用类推的方法对汉字进行的字形简化。"
+  },
+  {
+   "cn": "模型简化",
+   "en": "model simplification",
+   "source": "自动化名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "劳动简化法",
+   "en": "labor simplification approach",
+   "source": "教育学名词",
+   "wordNumber": "14.099",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "把复杂劳动折合为简单劳动，以此来计算教育投资经济效益的一种方法。"
+  },
+  {
+   "cn": "文件简化",
+   "en": "simplification of records management",
+   "source": "档案学名词",
+   "wordNumber": "02.02.029",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "在功能不变的前提下，以各类科学手段针对文件和文件工作中过于繁杂的事物化繁为简的过程。"
+  },
+  {
+   "cn": "文件简化的对象",
+   "en": "object of simplification of records management",
+   "source": "档案学名词",
+   "wordNumber": "02.02.030",
+   "subjectFullName": "档案学_文件管理_文件工作及其管理",
+   "subjectName": "文件工作及其管理",
+   "publishYear": "2024",
+   "definition": "文件和文件工作中多样化发展超过客观需要的事物和概念。主要包括有关事物和概念的种类与规格、工作过程与工作方法。"
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "植物学名词",
+   "wordNumber": "16.0340",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "(1)一个基因文库的大量复制。(2)某段染色体内的DNA加倍。(3)通过聚合酶链反应(PCR)大量扩增某段DNA。"
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "药学名词",
+   "wordNumber": "05.301",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "在一定条件下，把特定的基因(群)加以大量复制的现象。"
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.693",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "放大",
+   "en": "amplification",
+   "source": "电子学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "放大",
+   "en": "amplification,magnification",
+   "source": "物理学名词",
+   "wordNumber": "03.0978",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "手性放大",
+   "en": "chiral amplification,asymmetric amplification",
+   "source": "化学名词",
+   "wordNumber": "02.1238",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "通常情况下不对称反应产物的对映异构体过量不会超过手性试剂的对映异构体过量，但在手性放大的不对称反应中，产物的对映异构体过量与反应所用的手性试剂的对映异构体过量成正的非线性的效应。"
+  },
+  {
+   "cn": "简化",
+   "en": "simplification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据简化",
+   "en": "data simplification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线条简化",
+   "en": "line simplification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "制图简化",
+   "en": "cartographic simplification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "制图简化",
+   "en": "cartographic simplification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多面体简化",
+   "en": "polyhedron simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模型简化",
+   "en": "model simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关于简化及调和海关手续的国际公约",
+   "en": "International Convention on the Simplification and Harmonization of Customs Procedures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "关于简化及调和海关手续的国际公约",
+   "en": "Kyoto Convention (=International Convention on the Simplification and Harmonization of Customs Procedures)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "扩增",
+   "en": "amplification",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "手性放大",
+   "en": "chiral amplification\",\"asymmetric amplification",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "DNA扩增",
+   "en": "DNA amplification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "氯霉素扩增",
+   "en": "chloramphenicol amplification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波幅增大",
+   "en": "wave amplification",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "rDNA扩增",
+   "en": "rDNA amplification",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因扩增",
+   "en": "gene amplification",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA扩增",
+   "en": "DNA amplification",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

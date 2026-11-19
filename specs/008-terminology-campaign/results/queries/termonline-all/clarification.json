@@ -1,0 +1,792 @@
+{
+ "key": "clarification",
+ "term": "clarification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:56:37+00:00",
+ "status": "ok",
+ "note": "variant=clarification; 审定公布名词库=751; 海峡两岸名词对照库=164; 其他来源数据库=76; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "农学名词",
+   "wordNumber": "17.160",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "利用生物、化学和物理等方法除去汁中悬浮物或浑浊物的操作。如酶解澄清、明胶澄清和超滤等。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0877",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_果蔬与果蔬制品",
+   "subjectName": "果蔬与果蔬制品",
+   "publishYear": "2020",
+   "definition": "果蔬清汁加工中，利用酶解、吸附、超滤等方法除去果蔬汁中悬浮物或混浊物的操作。"
+  },
+  {
+   "cn": "清净",
+   "en": "clarification",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1138",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "除去糖汁中非蔗糖物质的过程。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.373",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "利用接触絮凝作用和沉淀作用实现泥水分离的一种污水处理方式。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "冶金学名词",
+   "wordNumber": "03.0674",
+   "subjectFullName": "冶金学_选矿_固液分离",
+   "subjectName": "固液分离",
+   "publishYear": "2019",
+   "definition": "悬浮液通过沉降分层使液体几乎不含有或含有少量固体物质的过程。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1094",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "利用接触凝聚作用和沉淀作用实现泥水分离的污水处理方式。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "心理学名词",
+   "wordNumber": "15.076",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "使咨询师及当事人更准确地理解会谈内容的咨询技术。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "土木工程名词",
+   "wordNumber": "11.186",
+   "subjectFullName": "土木工程_给水与排水工程_水处理",
+   "subjectName": "水处理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.152",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "从煤泥水中排除固体,以获得固体含量很少的水的作业。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "化学工程名词",
+   "wordNumber": "03.715",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_固液分离（化工）",
+   "subjectName": "固液分离（化工）",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "浮上澄清法",
+   "en": "floating clarification",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0226",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "一种脱除盐水中悬浮物的方法。其原理是将加压空气溶解在带有悬浮物的粗盐水中，然后突然减压，溶解的空气形成微小的气泡释出，并在絮凝剂的作用下附聚在沉淀颗粒上，使其假密度远低于盐水，以一定的速度向上浮起从澄"
+  },
+  {
+   "cn": "设计交底",
+   "en": "design clarification",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.658",
+   "subjectFullName": "化工（五）_工程建设_施工准备",
+   "subjectName": "施工准备",
+   "publishYear": "2021",
+   "definition": "建设单位组织监理、设计和施工单位参加，由设计单位对设计文件进行详细说明并对施工图纸会审问题进行回复的过程。"
+  },
+  {
+   "cn": "离心澄清",
+   "en": "centrifugal clarification",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.013",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "悬浊液或乳浊液在离心力作用下发生固液、液液分离而变得澄清的过程。"
+  },
+  {
+   "cn": "价值澄清",
+   "en": "values clarification",
+   "source": "心理学名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "通过提问、讨论等形式促使个体明晰、理解或更新已有价值观的道德教育方式。"
+  },
+  {
+   "cn": "离心澄清",
+   "en": "centrifugal clarification",
+   "source": "化学工程名词",
+   "wordNumber": "06.241",
+   "subjectFullName": "化学工程_生物化学工程_生化分离工程",
+   "subjectName": "生化分离工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "施工技术交底",
+   "en": "construction technology clarification",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.664",
+   "subjectFullName": "化工（五）_工程建设_施工准备",
+   "subjectName": "施工准备",
+   "publishYear": "2021",
+   "definition": "施工单位技术人员对作业人员说明施工过程的操作方法、技术要求、质量标准和安全注意事项等内容的过程。"
+  },
+  {
+   "cn": "产权明晰化",
+   "en": "clarification of property rights",
+   "source": "经济学名词",
+   "wordNumber": "15.077",
+   "subjectFullName": "经济学_经济体制改革",
+   "subjectName": "经济体制改革",
+   "publishYear": "2020",
+   "definition": "将企业财产权（对企业资产的处置、支配、转让、收益等项权利）“人格化”、法定化和规范化，从而实现企业责、权、利相关的一种制度设计。实践证明，产权明晰化通常成为某种公有制实现形式富有效率的先决条件。"
+  },
+  {
+   "cn": "黏化过程",
+   "en": "clayification",
+   "source": "农学名词",
+   "wordNumber": "09.140",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "土壤剖面中原生硅铝酸盐矿物不断质变成次生黏土矿物，导致黏粒在一个或数个层次富集的过程。"
+  },
+  {
+   "cn": "黏化[作用]",
+   "en": "clayification",
+   "source": "地理学名词",
+   "wordNumber": "07.064",
+   "subjectFullName": "地理学_土壤地理学",
+   "subjectName": "土壤地理学",
+   "publishYear": "2006",
+   "definition": "土壤中黏粒的生成或淋淀，导致黏粒含量增加的作用。"
+  },
+  {
+   "cn": "黏化[作用]",
+   "en": "clayification",
+   "source": "土壤学名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "土壤中黏粒的生成或淋淀，导致黏粒含量增加的作用。"
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification\",\"defecation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "澄清区",
+   "en": "clarification zone",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "澄清过滤",
+   "en": "clarification filtration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "澄清过程",
+   "en": "clarification process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离心净化",
+   "en": "centrifugal clarification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "价值澄清",
+   "en": "values clarification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "澄清能力",
+   "en": "clarification capacity\",\"clarifying capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "黏化[作用]",
+   "en": "clayification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "钙化",
+   "en": "calcification",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钙化[作用]",
+   "en": "calcification",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "钙化[作用]",
+   "en": "calcification",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "翻土",
+   "en": "scarification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "钙积作用",
+   "en": "calcification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密级",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "说明",
+   "en": "clarification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification\",\"placing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类树",
+   "en": "classification tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊分类",
+   "en": "fuzzy classification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成绩统计办公室",
+   "en": "classification office",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛排名",
+   "en": "final classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩统计仲裁委员会",
+   "en": "classification jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛排名",
+   "en": "final classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体排名",
+   "en": "team classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "澄清",
+   "en": "clarification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者对求咨者叙述中意义模棱两可、含混、笼统、抽象的内容要求其确认、明确和具体说明的咨询技术。"
+  },
+  {
+   "cn": "类别化",
+   "en": "classification",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.2",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一个对象和观念被识别、区分和理解的过程。通常是基于某种目的，根据某种特征对对象、观念进行归类，以达到理解和把握该对象或观念的目的。在文化研究中，指某文化客体能够完全、清晰地被包容在一个范畴中的情况。"
+  },
+  {
+   "cn": "洗消分级",
+   "en": "decontamination classification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "依据病原微生物污染严重程度及洗消对象重要性确定洗消的先后顺序和优先级别。"
+  },
+  {
+   "cn": "斯波尔丁分类法",
+   "en": "spalding classification",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "根据医疗器械污染后使用所致感染的危险性及在患者使用之间的消毒或灭菌要求，而提出的一种医疗器械分类方法，将其分为高度危险性物品、中度危险性物品和低度危险性物品。"
+  },
+  {
+   "cn": "应急状态分级",
+   "en": "emergency classification",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对某种应急状态进行分级以便宣布适用的应急等级的过程。应急等级一经宣布，响应部门就要启动适合这一应急等级的预先规定的响应行动。"
+  },
+  {
+   "cn": "AT 分类法",
+   "en": "AT classification",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0447",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "全称“阿尔奈—汤姆逊体系”。由芬兰民俗学家安蒂·阿尔奈（Antti Aarne）创建，美国民俗学家斯蒂思·汤普森（Stith Thompson）补充修订的分类体系。即将大同小异的民间故事按地区分布进行"
+  },
+  {
+   "cn": "分层标准",
+   "en": "criteria of classification",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "社会学家进行阶级、身份群体或社会等级地位划分时所依据的指标。如，马克思依据是否占有生产资料来划分阶级，而马克斯•韦伯则以经济地位、社会地位和政治地位等三元指标来进行分层。"
+  },
+  {
+   "cn": "城市行政区划",
+   "en": "urban administrative classification",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "中国城市分级划分的概念。包括设市城市和建制镇两部分。在行政管理工作中，按照行政级别，中国设市城市又分为直辖市、副省级城市、地级市、县级市；建制镇属于县级以下。"
+  },
+  {
+   "cn": "谢尔登体型分类",
+   "en": "Sheldon somatotype classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "美国心理学家威廉·谢尔登根据人体内部各组织器官的外部综合表现，将人的体型分为三类，包括内胚层、中胚层和外胚层。"
+  },
+  {
+   "cn": "预警分级",
+   "en": "early warning classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "依据可能发生和可以预警的突发公共事件可能造成的危害程度、紧急程度和发展势态进行的分级，一般划分为四级：Ⅰ级（特别严重）、Ⅱ级（严重）、Ⅲ级（较重）和Ⅳ级（一般），依次用红色、橙色、黄色和蓝色表示。"
+  },
+  {
+   "cn": "言语残疾分类",
+   "en": "speech disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据构音、声音、语流等障碍或语言发育迟缓等对言语残疾类型的划分。"
+  },
+  {
+   "cn": "智力残疾分类",
+   "en": "intelligent disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按智力残疾形成的原因、教育上的表现、适应性障碍、支持辅助等对智力残疾类型的划分。"
+  },
+  {
+   "cn": "视力残疾分类",
+   "en": "visual disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致视力残疾的原因以及视力残疾的程度对视力残疾类型的划分。"
+  },
+  {
+   "cn": "听力残疾分类",
+   "en": "hearing disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致听力残疾的原因以及听力残疾的程度对听力残疾类型的划分。"
+  },
+  {
+   "cn": "肢体残疾分类",
+   "en": "physical disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按肢体残疾的原因、部位、程度以及运动症状等对肢体残疾类型的划分。"
+  },
+  {
+   "cn": "放射性核素毒性分组",
+   "en": "toxicity classification of radionuclide",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以活度导出的空气浓度（DAC）和质量导出的空气浓度（MDAC）作为界限值，将放射性核素分为极毒、高毒、中毒和低毒四个组别。"
+  },
+  {
+   "cn": "希思-卡特体型分类",
+   "en": "Heath-Carter somatotype classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "美国体质人类学家芭芭拉·希斯和林赛·卡特提出的、与人体健康、生理功能和疾病易感性相关的体型分类方法。"
+  },
+  {
+   "cn": "传染病分类",
+   "en": "classification of infectious disease",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "根据传染病病原体种类、传播途径、暴发流行特点及防控措施等对传染病类型进行分类；分类依据不同，分类方法不同。"
+  },
+  {
+   "cn": "食物中毒事故分级",
+   "en": "classification of food events",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "根据食物中毒事故的性质、危害程度及涉及范围对其进行的分级处置。"
+  },
+  {
+   "cn": "语言谱系分类",
+   "en": "genealogical classification of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0026",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史比较语言学的研究方法。把各种语言按亲属关系作出分类。在语言谱系分类中，最高的谱系单位是语系，同一语系中的语言在来源上是相同的；语系之下的语言，根据关系的亲疏程度而分为若干语族；语族之下又可按照同样"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,612 @@
+{
+ "key": "constituent equation",
+ "term": "constituent equation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:04:57+00:00",
+ "status": "ok",
+ "note": "variant=constituent equation; 审定公布名词库=1779; 海峡两岸名词对照库=428; 其他来源数据库=63; 预公布名词数据库=170; jwt-direct（JWT 直连，raw 略；已滤维基 20 条）",
+ "hits": [
+  {
+   "cn": "组分",
+   "en": "constituent",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.244",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组份",
+   "en": "constituent",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同形替代法",
+   "en": "constituent substitution,constituent replacement",
+   "source": "语言学名词",
+   "wordNumber": "05.033",
+   "subjectFullName": "语言学_语义学、词汇学_语义、词义分析法",
+   "subjectName": "语义、词义分析法",
+   "publishYear": "2011",
+   "definition": "①词汇学术语。根据语言成分替换能力的强弱程度来确定词与非词之间的界限的方法。②语法学术语。从语言结构中分析和确定基本语法单位的方法。"
+  },
+  {
+   "cn": "组分",
+   "en": "component,constituent",
+   "source": "物理学名词",
+   "wordNumber": "05.0171",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "组分",
+   "en": "component,constituent",
+   "source": "药学名词",
+   "wordNumber": "05.312",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "混合物(包括溶液)中的各个成分。"
+  },
+  {
+   "cn": "陆源组分",
+   "en": "terrigenous constituent",
+   "source": "地质学名词",
+   "wordNumber": "05.03.154",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "地球陆地已存在的岩石(母岩)经物理(机械)风化作用而生成的各种碎屑物质，包括矿物和岩石碎屑。是组成陆源碎屑岩的主要成分。"
+  },
+  {
+   "cn": "构成比",
+   "en": "constituent ratio",
+   "source": "急救医学名词",
+   "wordNumber": "03.882",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "事物内部各个组成部分所占的比重。通常以百分比表示。"
+  },
+  {
+   "cn": "组织组分",
+   "en": "structural constituent",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.017",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "以金相方法可以鉴别出来的合金的显微组织内具有同样特征的部分。"
+  },
+  {
+   "cn": "组分夸克",
+   "en": "constituent quark",
+   "source": "物理学名词",
+   "wordNumber": "09.1136",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "组分气体",
+   "en": "constituent gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0051",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "组分质量",
+   "en": "constituent mass",
+   "source": "物理学名词",
+   "wordNumber": "09.1120",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活性组分",
+   "en": "active constituent",
+   "source": "化学名词",
+   "wordNumber": "03.0788",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "试样中决定其化学活性的成分。常用质量百分数表示。"
+  },
+  {
+   "cn": "句法成分",
+   "en": "syntactic constituent",
+   "source": "语言学名词",
+   "wordNumber": "04.149",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法结构的组成成分。通常有主语、谓语、宾语、定语、状语、补语等。"
+  },
+  {
+   "cn": "成分分析",
+   "en": "constituent analysis",
+   "source": "语言学名词",
+   "wordNumber": "01.127",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "布龙菲尔德结构主义语言学使用的一种语法分析方法。例如“我的书包丢了”，可以先划分出这样的层次,“我的书包”和“丢了”，“我的书包”又可以分成“我的”和“书包”。其中任何一个分解层次上得到的成分都可以叫"
+  },
+  {
+   "cn": "直接成分分析法",
+   "en": "immediate constituent",
+   "source": "语言学名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "一种语法分析方法。布龙菲尔德结构主义语言学使用这种方法。根据说话人的直觉和一些形式上的标准，一个句子可以分解为一系列的句子成分，例如主语+谓语，名词短语+动词短语，这些成分还可以再分解为更小的成分，直"
+  },
+  {
+   "cn": "分潮日",
+   "en": "constituent day",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0272",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "以平太阳日为单位的分潮周期。"
+  },
+  {
+   "cn": "分潮时",
+   "en": "constituent hour",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0273",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "以平太阳时为单位的分潮周期。"
+  },
+  {
+   "cn": "组分试验",
+   "en": "constituent test",
+   "source": "公路交通科技名词",
+   "wordNumber": "09.074",
+   "subjectFullName": "公路交通科学技术_材料与结构试验及设备",
+   "subjectName": "材料与结构试验及设备",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "分潮",
+   "en": "partial tide,constituent",
+   "source": "测绘学名词",
+   "wordNumber": "07.111",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "按静力学理论将海洋潮汐分解为一系列简谐波，每一简谐波即为一个分潮。"
+  },
+  {
+   "cn": "直接成分",
+   "en": "immediate constituent,IC",
+   "source": "语言学名词",
+   "wordNumber": "04.253",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "结构主义语法（尤指美国描写学派）进行句法分析时所使用的术语。处于同一结构层面上并直接构成该结构层面的句法成分。例如，“我看电视报”这一结构的直接成分是“我”和“看电视报”，“看电视报”又是一个结构，其"
+  },
+  {
+   "cn": "组分",
+   "en": "constituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分潮",
+   "en": "constituent\",\"tidal constituent",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "组分",
+   "en": "constituent\",\"component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "句子成分",
+   "en": "sentence constituent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活性组分",
+   "en": "active constituent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子公司",
+   "en": "constituent company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保守组分",
+   "en": "conservative constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分潮日",
+   "en": "constituent day",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分潮时",
+   "en": "constituent hour",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有机成分",
+   "en": "organic constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "文化组成",
+   "en": "cultural constituent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "化学成分",
+   "en": "chemical constituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活性成分",
+   "en": "active constituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "主成分",
+   "en": "main constituent",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海水成分",
+   "en": "constituent of seawater",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直接成分语法",
+   "en": "immediate constituent grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短周期分潮",
+   "en": "short-period constituents",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "天文潮因子",
+   "en": "astronomical tide constituents",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "方程",
+   "en": "equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "ω方程",
+   "en": "ω-equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "立宪会议",
+   "en": "constituent assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0275",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "资产阶级民主制的一种组织形式。在资产阶级民主革命时期，为了和沙皇专制制度作斗争，列宁把召开立宪会议作为实现俄国社会民主工党最低纲领的口号提出，这个口号在人民群众中得到了广泛传播。二月革命后，资产阶级临"
+  },
+  {
+   "cn": "平衡方程",
+   "en": "balance equation",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "一个基本的人口统计公式，用来估算两个时点间总人口的变动，或是在其他条件已知的情况下用以估算未知的人口变动因素。平衡方程包括人口变动的所有因素：出生、死亡、国际迁入、国际迁出、国内迁入及国内迁出。"
+  },
+  {
+   "cn": "结构方程模型",
+   "en": "structural equation modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.118",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据假设的潜在的概念或理论模型，用一组数量较少的结构参数描述观测数据的均值、方差和协方差矩阵的统计模型。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "脂肪析出",
+   "en": "fat exudation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头在加工、贮存或运输过程中，内容物中的脂肪分离并在表面聚集形成可见脂肪层的现象。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  },
+  {
+   "cn": "公共教育",
+   "en": "public education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "由国家、团体或个人向社会单独或混合提供，为全社会成员分享并服务于全社会的教育形式。"
+  },
+  {
+   "cn": "义务教育",
+   "en": "compulsory education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "适龄儿童和青少年都必须接受，国家、社会、家庭必须予以保证的公益性教育。"
+  },
+  {
+   "cn": "继续教育",
+   "en": "further education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.3",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "面向正规学校教育后所有社会成员,特别是成人的教育活动，是终身学习体系的组成部分。"
+  },
+  {
+   "cn": "国民教育",
+   "en": "popular education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.4",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "每个出生在特定国度中的人都有权接受的教育。例如在未成年前须接受的义务教育，以及此后的职业技术教育、中等教育和高等教育等。"
+  },
+  {
+   "cn": "精英教育",
+   "en": "elite education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5.5",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养国家和社会精英的专门教育。与“大众教育”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

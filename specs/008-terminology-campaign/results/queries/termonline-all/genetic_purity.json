@@ -1,0 +1,752 @@
+{
+ "key": "genetic purity",
+ "term": "genetic purity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:03:12+00:00",
+ "status": "ok",
+ "note": "variant=genetic purity; 审定公布名词库=1446; 海峡两岸名词对照库=608; 其他来源数据库=79; 预公布名词数据库=281; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.146",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "研究基因的结构、功能、变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究生物遗传与变异的本质及其规律，探索基因的结构、功能、传递、表达及变异规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "物理学名词",
+   "wordNumber": "11.0358",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "研究基因的结构、功能及其变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "植物学名词",
+   "wordNumber": "13.0066",
+   "subjectFullName": "植物学_植物生态学_克隆植物生态学",
+   "subjectName": "克隆植物生态学",
+   "publishYear": "2019",
+   "definition": "种群中每一个独立的个体。是由同一合子衍生而来的所有具有生理上独立性的个体的总和。"
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "生态学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "种群中每一个独立的个体。是由构件组成的。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity ",
+   "source": "草学名词",
+   "wordNumber": "4.0162",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "物理学名词",
+   "wordNumber": "08.0846",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "化学名词",
+   "wordNumber": "03.0810",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "主成分在一定化学物质中的质量百分数。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "计量学名词",
+   "wordNumber": "15.057",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质的主要组分在该物质中所占的分数。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0451",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色彩的强弱程度。其决定于物体含有的光波波长是单一性还是复合性。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "药学名词",
+   "wordNumber": "05.266",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "制品中含有单一型分子的程度。"
+  },
+  {
+   "cn": "遗传进展",
+   "en": "genetic gain,genetic progress",
+   "source": "畜牧学名词",
+   "wordNumber": "04.403",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "群体的平均育种值在不同世代或不同年度中的改变。"
+  },
+  {
+   "cn": "法医遗传学",
+   "en": "medicolegal genetics,forensic  genetics",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.018",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "成生联系",
+   "en": "genetic relation",
+   "source": "地质学名词",
+   "wordNumber": "10.03.009",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "同一方式地壳运动所产生的地质构造在空间展布、发生发展、力学机制等方面的内在联系。有成生联系的构造形迹是统一地应力场的产物，反映一定方式的地应力作用。"
+  },
+  {
+   "cn": "矿床成因模式",
+   "en": "genetic model",
+   "source": "地质学名词",
+   "wordNumber": "14.02.067",
+   "subjectFullName": "地质学_矿床学_成矿作用与成矿控制因素",
+   "subjectName": "成矿作用与成矿控制因素",
+   "publishYear": "2026",
+   "definition": "依据对同类型已知矿床的野外观察和实验资料，着重于矿床成因分析，合理推断和总结概括的某类矿床的成矿模式。由描述模式演化而来，对一组相关矿床的本质属性与形成机制的理论概括。"
+  },
+  {
+   "cn": "成因矿物学",
+   "en": "genetic mineralogy",
+   "source": "地质学名词",
+   "wordNumber": "03.01.004",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究矿物及矿物共生组合的形成、演化的过程和条件，以及反映该过程和条件的标志和信息特征的矿物学分支学科。"
+  },
+  {
+   "cn": "遗传工程",
+   "en": "genetic engineering",
+   "source": "农学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "一种在分子水平上对核酸序列进行改造或重新组合，通过体外重组导入受体生物（细胞）内，以改变生物原有的遗传性状，获得新品种、生产新产品的遗传技术。"
+  },
+  {
+   "cn": "遗传性状",
+   "en": "genetic trait",
+   "source": "风景园林名词",
+   "wordNumber": "09.0131",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物体能够世代相传的一切形态、生理、生化、代谢、行为及病理现象等的统称。"
+  },
+  {
+   "cn": "遗传漂变",
+   "en": "genetic drift",
+   "source": "农学名词",
+   "wordNumber": "06.036",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "在小群体中由世代间配子的随机抽样造成的误差所导致的基因频率的随机波动。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基株",
+   "en": "genet",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "遗传互补（=遗传拯救）",
+   "en": "genetic complementation (=genetic rescue)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传性别",
+   "en": "genetic sex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "遗传因子",
+   "en": "genetic factor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因指纹（=遗传指纹）",
+   "en": "genetic fingerprint",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传背景",
+   "en": "genetic background",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传变异",
+   "en": "genetic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传标记，遗传标志",
+   "en": "genetic marker",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传标志（=遗传标记）",
+   "en": "genetic marker",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传多态性",
+   "en": "genetic polymorphism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传多样性",
+   "en": "genetic diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传方差",
+   "en": "genetic variance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传隔离",
+   "en": "genetic isolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "步法规范",
+   "en": "purity of strides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因检测大数据",
+   "en": "genetic testing big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯素",
+   "en": "Pure and Unadorned",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯线上模式",
+   "en": "pure online mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯平台模式",
+   "en": "pure platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净土",
+   "en": "Sukhāvatīvyūha / Pure Land",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尼莲正东流，西树几春秋。（援助印度，源自玄奘）",
+   "en": "By the Holy Lotus River；Where pure gold flows east.； Looking back to the western shore；At Buddha’s sacred grove for many thousands of autumns.",
+   "source": "新冠肺炎疫情相关词汇中英对照表",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "消毒学",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "主成分在一定化学物质中的质量百分数。可分为优级纯、分析纯和化学纯等。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射对受照者后代产生的随机效应。电离辐射通过损伤亲代生殖细胞的遗传物质，使其遗传性状的表型改变在子代中显现出来。"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "由医学遗传学专业人员或咨询师就咨询者提出的家庭中遗传性疾病的发病原因、遗传方式、诊断、预后、复发风险、防治等问题予以解答，并就咨询者提出的婚育问题提出建议和具体指导的服务。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "受照射个体生殖细胞遗传物质发生突变，对胚胎或子代产生的效应。"
+  },
+  {
+   "cn": "蒸汽纯度",
+   "en": "steam purity",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在一定温度和压力下，蒸汽中所含有的水分子的百分比。"
+  },
+  {
+   "cn": "纯度试验",
+   "en": "purity test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.21",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "检验油脂中品种单一性的试验，如桐油纯度试验。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "人类古老的遗传基因无法适应因当代社会生存环境变化而迅速改变的生活方式及饮食习惯，产生的错位现象。"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "利用现代分子生物学技术与显微操作技术，在受精卵分裂为8细胞时取出1-2个细胞，或在囊胚形成时取3-10个滋养层细胞进行活检，进行特定遗传学性状检测的辅助生殖技术。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "有遗传意义剂量",
+   "en": "genetically significant dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.11",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "受照群体的计权人均性腺剂量。群体每一成员都接受这样的性腺剂量所致总的遗传效应与受照群体每一成员实际接受的性腺剂量所致的遗传效应相等。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "洁净与危险",
+   "en": "Purity and Danger",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0608",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家玛丽·道格拉斯（Mary Douglas）在《洁净与危险》一书中提出的观点，她从圣经和日常生活中人们对于“洁净”与“肮脏”的理解入手，利用象征分析手法剖析人类的思维特点，并关注象征秩序与社"
+  },
+  {
+   "cn": "胚胎植入前遗传学诊断",
+   "en": "pre-implantation genetic diagnosis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在体外受精的胚胎发育到4-8细胞期，通过显微技术取出单个卵裂球细胞，进行遗传学分析，以明确是否有遗传缺陷的方法。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  },
+  {
+   "cn": "高纯度二氧化氯",
+   "en": "high purity chlorine dioxide",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "二氧化氯发生器产生的纯度大于90%的二氧化氯。"
+  },
+  {
+   "cn": "转基因食品",
+   "en": "genetically modified food, GMO food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.15",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "利用基因工程技术改变基因组构成，用于农业生产和农产品加工的动物、植物和微生物及其产品，此处的食品为食品及其原料（食用农产品）与食品添加剂（含营养强化剂）。"
+  },
+  {
+   "cn": "高纯锗探测器",
+   "en": "high purity germanium detector，HPGe",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.50",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "用纯度极高的锗单晶制成的半导体探测器。"
+  },
+  {
+   "cn": "党的纯洁性建设",
+   "en": "construction of the Partys purity",
+   "source": "马克思主义",
+   "wordNumber": "03.0788",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的纯洁性，体现在党的思想、政治、组织和作风各个方面。始终保持党的纯洁性，是由我们党的性质和宗旨决定的。纯洁性是先进性的前提和基础，先进性是纯洁性的体现和保证，二者在本质上是一致的。党的十八大把党的执"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

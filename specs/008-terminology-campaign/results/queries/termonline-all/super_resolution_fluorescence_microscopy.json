@@ -1,0 +1,752 @@
+{
+ "key": "super-resolution fluorescence microscopy",
+ "term": "super-resolution fluorescence microscopy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:11:01+00:00",
+ "status": "ok",
+ "note": "variant=super-resolution fluorescence microscopy; 审定公布名词库=2306; 海峡两岸名词对照库=856; 其他来源数据库=71; 预公布名词数据库=97; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "超分辨显微成像",
+   "en": "super-resolution microscopy imaging",
+   "source": "光学名词",
+   "wordNumber": "14.055",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "打破光学显微镜的分辨率极限，即分辨率超越阿贝衍射极限的显微光学成像技术。通常指的是基于远场光学显微镜的超分辨成像技术，主要包括两种实现途径：一种是基于特殊强度分布照明光场的超分辨成像方法，如受激发射损"
+  },
+  {
+   "cn": "荧光显微术",
+   "en": "fluorescence microscopy",
+   "source": "生物物理学名词",
+   "wordNumber": "13.118",
+   "subjectFullName": "生物物理学_技术与方法_光学显微镜与显微术",
+   "subjectName": "光学显微镜与显微术",
+   "publishYear": "2018",
+   "definition": "利用适宜波长的入射光激发含有固有荧光发色团或标记了荧光分子的样品，通过各类荧光显微镜获得物质特别是细胞、细胞器甚至生物大分子的结构、定位和功能的高分辨率荧光图像的一种显微成像技术。"
+  },
+  {
+   "cn": "荧光显微法",
+   "en": "fluorescence microscopy",
+   "source": "化学名词",
+   "wordNumber": "03.1307",
+   "subjectFullName": "化学_分析化学_仪器分析_分子光谱分析",
+   "subjectName": "分子光谱分析",
+   "publishYear": "2016",
+   "definition": "以紫外光作激发光源并在显微镜的视野内施行荧光反应的一种显微分析法。常用于某些细胞生物组织、矿物等物质的分析。"
+  },
+  {
+   "cn": "超分辨率",
+   "en": "super-resolution",
+   "source": "物理学名词",
+   "wordNumber": "04.1308",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "超高分辨率荧光显微术",
+   "en": "superresolution fluorescence microscopy",
+   "source": "生物物理学名词",
+   "wordNumber": "13.119",
+   "subjectFullName": "生物物理学_技术与方法_光学显微镜与显微术",
+   "subjectName": "光学显微镜与显微术",
+   "publishYear": "2018",
+   "definition": "分辨率超过光学衍射理论分辨极限200 nm的一种荧光显微术。主要包括全内反射荧光显微术、随机光学重建显微术、近场扫描光学显微术、受激发射损耗显微术和饱和结构照明显微术。"
+  },
+  {
+   "cn": "图像超分辨率",
+   "en": "image super-resolution",
+   "source": "光学名词",
+   "wordNumber": "14.043",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "从一幅低分辨率图像或图像序列中能够恢复出高分辨率图像的原始图像分辨率。图像超分辨率技术分为超分辨率复原和超分辨率重建。"
+  },
+  {
+   "cn": "时间序列荧光显微术",
+   "en": "time-lapse fluorescence microscopy",
+   "source": "生物物理学名词",
+   "wordNumber": "13.115",
+   "subjectFullName": "生物物理学_技术与方法_光学显微镜与显微术",
+   "subjectName": "光学显微镜与显微术",
+   "publishYear": "2018",
+   "definition": "对同一微小荧光物体按设定的时间间隔进行持续不断地荧光显微成像的一种时间序列显微术。"
+  },
+  {
+   "cn": "单分子荧光显微术",
+   "en": "single molecule fluorescence microscopy",
+   "source": "生物物理学名词",
+   "wordNumber": "13.156",
+   "subjectFullName": "生物物理学_技术与方法_单分子探测与操作",
+   "subjectName": "单分子探测与操作",
+   "publishYear": "2018",
+   "definition": "能够获得分子尺度空间分辨率的荧光显微技术的总称。包括全内反射荧光显微术和随机光学重构显微术等。"
+  },
+  {
+   "cn": "超分辨率光存储技术",
+   "en": "super-resolution optical storage",
+   "source": "光学名词",
+   "wordNumber": "23.056",
+   "subjectFullName": "光学_光全息与光存储技术",
+   "subjectName": "光全息与光存储技术",
+   "publishYear": "2021",
+   "definition": "采用特殊记录材料和常规光驱读写头，在记录层上写入或读出小于光学衍射极限记录点的一种存储技术。超分辨率记录介质具有多层膜系，其中的掩模层具有三阶非线性双稳态开关特性。当聚焦激光照射到与记录介质薄膜有纳米"
+  },
+  {
+   "cn": "图像超分辨率重建",
+   "en": "super-resolution image reconstruction",
+   "source": "测绘学名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "通过同一区域的系列低分辨率图像得到一幅高分辨率图像的技术。"
+  },
+  {
+   "cn": "高分辨电子显微术",
+   "en": "high resolution electron microscopy,HREM",
+   "source": "冶金学名词",
+   "wordNumber": "07.0430",
+   "subjectFullName": "冶金学_金属学_检查及分析",
+   "subjectName": "检查及分析",
+   "publishYear": "2019",
+   "definition": "利用透射电子显微镜将固体物质中原子排列投影成像的理论和技术。其分辨能力接近或达到原子尺度(约0.1nm)。对显示材料结构纳米尺度的变异及缺陷有独到的优点。"
+  },
+  {
+   "cn": "高分辨电子显微术",
+   "en": "high resolution electron microscopy,HREM",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0641",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料的表征与测试",
+   "subjectName": "材料的表征与测试",
+   "publishYear": "2011",
+   "definition": "利用透射电子显微镜将固体物质中原子排列投影成像的理论和技术。其分辨能力接近或达到原子尺度(约0.1nm)。对显示材料结构纳米尺度的变异及缺陷有独到的优点。"
+  },
+  {
+   "cn": "全反射荧光显微术",
+   "en": "total internal reflection fluorescence microscopy",
+   "source": "物理学名词",
+   "wordNumber": "04.0430",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "光学名词",
+   "wordNumber": "20.054",
+   "subjectFullName": "光学_显微镜与望远镜",
+   "subjectName": "显微镜与望远镜",
+   "publishYear": "2021",
+   "definition": "利用光学或者光电子学放大原理，观察和测量微细物体的技术。"
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "物理学名词",
+   "wordNumber": "04.0423",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "生物物理学名词",
+   "wordNumber": "13.112",
+   "subjectFullName": "生物物理学_技术与方法_光学显微镜与显微术",
+   "subjectName": "光学显微镜与显微术",
+   "publishYear": "2018",
+   "definition": "利用显微镜观察肉眼无法看到的样品或物体的方法。分为三大类：光学显微术、电子显微术和扫描探针显微术。"
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "微生物学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "利用显微镜和制片、染色等方法观察细胞微细结构的技术。"
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "细胞生物学名词",
+   "wordNumber": "11.32",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "利用显微镜、制片、染色等各种方法在细胞、亚细胞甚至原子水平观察生命现象的技术。"
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.131",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "借助于显微镜进行显微应用研究的技术。"
+  },
+  {
+   "cn": "全内反射荧光显微术",
+   "en": "total internal reflection fluorescence microscopy,TIRFM",
+   "source": "生物物理学名词",
+   "wordNumber": "13.120",
+   "subjectFullName": "生物物理学_技术与方法_光学显微镜与显微术",
+   "subjectName": "光学显微镜与显微术",
+   "publishYear": "2018",
+   "definition": "用隐失波光选择性地照射和激发直接与载玻片紧密接触的样品内约100 nm的极薄区域的荧光基团，获得无法比拟的高的信噪比和对比度的一种超高分辨率荧光显微术。不像普通的荧光显微镜那样使表面的荧光淹没在表面区"
+  },
+  {
+   "cn": "荧光显微法",
+   "en": "fluorescence microscopy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高分辨电子显微术",
+   "en": "high resolution electron microscopy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "显微镜检术",
+   "en": "microscopy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "显微术",
+   "en": "microscopy",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分解",
+   "en": "resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分离度",
+   "en": "resolution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "解决",
+   "en": "resolution",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分辨力",
+   "en": "resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分辨率",
+   "en": "resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拆分",
+   "en": "resolution",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "超级传播者",
+   "en": "super spreader",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "超重量级",
+   "en": "super heavyweight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角分辨率",
+   "en": "angular resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超级人工智能",
+   "en": "super artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超级信用证",
+   "en": "super L/C",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市超脑",
+   "en": "iFlytek Super Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识解析技术",
+   "en": "identity resolution technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DNS解析故障",
+   "en": "DNS resolution failure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "刚毅",
+   "en": "Firm and Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "91公斤以上级",
+   "en": "over 91kg\",\"super heavy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超主权数字货币",
+   "en": "super-sovereign digital currency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超密编码协议",
+   "en": "super-dense coding protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际超级物流枢纽",
+   "en": "international super logistics hub",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线争议解决",
+   "en": "online dispute resolution (ODR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "染色镜检",
+   "en": "Staining microscopy",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.57",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "用染色剂赋予微生物样品特定颜色，利用显微镜进行观察样品。"
+  },
+  {
+   "cn": "时间分辨率",
+   "en": "temporal resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "探测设备区分两个相邻入射事件所需的最小时间间隔。时间间隔大，时间分辨率低，反之时间分辨率高。"
+  },
+  {
+   "cn": "能量分辨率",
+   "en": "energy resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "能分辨的两个粒子能量之间的最小相对差值ΔE的量度。它可用全能峰的半高宽或相对半高宽表示。"
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "仪器分辨空间物体最小细节的能力。在X射线诊断中，用每毫米多少条线来衡量，即单位为线/毫米（1/mm或mm-1）或者线对/毫米（lp/mm）。在核医学中，指成像系统分辨互相靠近的两个相邻点间的最小距离，"
+  },
+  {
+   "cn": "荧光屏",
+   "en": "fluorescent screen",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.38",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "一种涂有荧光物质在电离辐射照射下能产生荧光的屏幕。"
+  },
+  {
+   "cn": "偏振光显微镜检查",
+   "en": "polarized light microscopy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一项用偏振光显微镜进行晶体检查的方法。常用于检查关节滑液或尿液等样本中是否有尿酸单钠晶体、双水焦磷酸钙晶体、草酸钙结晶等。"
+  },
+  {
+   "cn": "低对比度分辨力",
+   "en": "low contrast resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "从一均匀背景中分辨出特定形状和面积的低对比度微小目标的能力。"
+  },
+  {
+   "cn": "性消退期",
+   "en": "sexual resolution phase",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性高潮后性紧张逐步松弛并恢复到性唤起前状态的阶段。"
+  },
+  {
+   "cn": "原子荧光法",
+   "en": "atomic fluorescence spectrometry",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.4",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "待测元素的原子蒸气吸收激发光源的特征波长而被激发产生荧光，通过测定样品产生的荧光强度确定其待测元素含量的分析方法。"
+  },
+  {
+   "cn": "荧光玻璃剂量计",
+   "en": "fluorescence glass dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "使用荧光玻璃材料制成的辐射探测器。该种材料多为银激活的无机材料，如磷酸盐玻璃和硼酸锂玻璃。可测量X射线、γ射线、β射线的照射量和热中子剂量。"
+  },
+  {
+   "cn": "荧光增白剂",
+   "en": "fluorescent whitening agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在紫外光照射下，可激发出的蓝、紫光与其基质上黄光互补而具有增白的效果的荧光染料。"
+  },
+  {
+   "cn": "荧光示踪法",
+   "en": "fluorescent tracer technique",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.13",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "通过标记特定物质并利用荧光染料进行追踪的方法，可用于评价物体表面和手清洁效果。"
+  },
+  {
+   "cn": "ATP生物荧光法",
+   "en": "ATP biological fluorescence method",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.14",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "基于检测试剂中的荧光素与待测样品中的ATP反应后生成荧光物质，荧光强度与ATP的量成正比的原理评价待测样品污染状况的方法。"
+  },
+  {
+   "cn": "实时荧光聚合酶链反应",
+   "en": "real-time fluorescence PCR",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在聚合酶链反应体系中加入含有荧光基团的底物，通过对扩增反应中每一个循环产物荧光信号的实时检测，从而实现对起始模板定量及定性的分析方法。"
+  },
+  {
+   "cn": "可迁移性荧光增白剂",
+   "en": "migratable fluorescent whitening agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定试验条件下，从纸和纸板等材质中转移到萃取溶液中的荧光增白剂。"
+  },
+  {
+   "cn": "荧光原位杂交",
+   "en": "fluorescence in situ hybridization，FISH",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "一种非放射性原位杂交技术。将变性后的标记核苷酸探针与变性后的染色体、细胞、组织中的核酸按照碱基互补配对原则进行杂交，经洗脱后直接分析或通过免疫荧光系统检测，最后在荧光显微镜下观察。"
+  },
+  {
+   "cn": "X射线荧光分析仪",
+   "en": "X-ray fluorescence analyzer，XRF",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.13",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用射线轰击样品，测量所产生的特征X射线，以确定样品中元素的种类与含量的仪器。"
+  },
+  {
+   "cn": "能量色散X荧光能谱分析",
+   "en": "energy-dispersive X-ray fluorescence analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "通过收集固态半导体检测器中诱发的电离产物来测量发射的X射线的能量的一种分析方法。"
+  },
+  {
+   "cn": "多色荧光原位杂交",
+   "en": "multiple color fluorescence in situ hybridization，M-FISH",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "利用多种荧光素组合标记探针的一种光谱染色体核型分析方法。通过计算机软件辅助，采用一系列荧光素特异滤光片来检测特定的24种染色体。"
+  },
+  {
+   "cn": "革命",
+   "en": "revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0026",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以激烈或暴力乃至流血的方式进行社会制度根本变革的方式或手段。迄今的一切革命，都是为了建立一种新的所有制以反对另一种所有制的革命。政权要从一个阶级手里转到另一个阶级手里。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

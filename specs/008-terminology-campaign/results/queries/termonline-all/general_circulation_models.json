@@ -1,0 +1,762 @@
+{
+ "key": "general circulation models",
+ "term": "general circulation models",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:13:27+00:00",
+ "status": "ok",
+ "note": "variant=general circulation models; 审定公布名词库=7695; 海峡两岸名词对照库=2261; 其他来源数据库=362; 预公布名词数据库=397; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "林学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "描写地–气系统各种物理过程和大气环流演变与性状的数学模式。用以模拟和预测全球和大区域大气环流与气候的变化。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "大气科学名词",
+   "wordNumber": "05.539",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "描写大气环流演变过程和性状的大气模式。一般含有对其有重要影响的辐射、凝结加热、地形、海—气或地—气热量交换和边界层作用等。"
+  },
+  {
+   "cn": "大气环流模型",
+   "en": "general circulation model,GCM",
+   "source": "生态学名词",
+   "wordNumber": "09.103",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "模拟全球和大区域气候变化过程的一种大气动力学模型。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model,GCM",
+   "source": "地理学名词",
+   "wordNumber": "04.135",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "描写地-气系统各种物理过程和大气环流演变与性状的数学模式。用以模拟和预测大气环流与气候的变化。"
+  },
+  {
+   "cn": "海洋总环流",
+   "en": "general ocean circulation",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "全球海洋环流的总体，一般尤指较大范围内海水运动的整体状态。"
+  },
+  {
+   "cn": "大气环流",
+   "en": "general atmospheric circulation",
+   "source": "地理学名词",
+   "wordNumber": "04.071",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "大范围大气运动的状态。"
+  },
+  {
+   "cn": "大气环流",
+   "en": "general atmospheric circulation",
+   "source": "航海科技名词",
+   "wordNumber": "07.0041",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "生成模型",
+   "en": "generative model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0598",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "统计自然语言处理中常用的一类统计机器学习模型，对随机生成观察数据的过程进行建模。一般包含隐变量，形式上是观察变量和隐藏变量的联合概率分布，典型的生成模型包括隐马尔可夫模型、概率上下文无关模型等。"
+  },
+  {
+   "cn": "模型生成",
+   "en": "model generation",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在系统内形成一组能反映实体运动形态的模型的生成过程。"
+  },
+  {
+   "cn": "模型生成器",
+   "en": "model generator",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.323",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "生成、编辑、集成分析模型的软件工具。"
+  },
+  {
+   "cn": "广义建模",
+   "en": "generalized modeling",
+   "source": "自动化名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流",
+   "en": "atmospheric circulation,general atmospheric circulation",
+   "source": "林学名词",
+   "wordNumber": "02.017",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "围绕整个地球的大范围内空气流动的平均状态。"
+  },
+  {
+   "cn": "全球环流模式",
+   "en": "global circulation model",
+   "source": "地理学名词",
+   "wordNumber": "04.136",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "全球尺度的大气环流模式。"
+  },
+  {
+   "cn": "一般均衡模型",
+   "en": "general equilibrium model",
+   "source": "自动化名词",
+   "wordNumber": "06.065",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "制图综合模型",
+   "en": "cartographic generalization model",
+   "source": "测绘学名词",
+   "wordNumber": "04.215",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "描述制图综合中某些关系的数学表达式，即制图综合规律以数学方法表达的数学关系式。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear model",
+   "source": "数学名词",
+   "wordNumber": "09.0665",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地下水环流成矿模式",
+   "en": "groundwater-circulation metallogenic model",
+   "source": "地质学名词",
+   "wordNumber": "14.01.049",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "受地热影响的下渗雨水或海水，在一定构造条件下发生环流，与围岩发生作用，使岩石中的成矿物质发生活化转移，在有利的环境中集中成矿的模式。"
+  },
+  {
+   "cn": "发行量",
+   "en": "circulation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.026",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻报刊",
+   "subjectName": "新闻报刊",
+   "publishYear": "2022",
+   "definition": "一份报纸或期刊单期实际发行到读者手中的份数。"
+  },
+  {
+   "cn": "发行量",
+   "en": "circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.010",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "通过发行渠道发送给读者的出版物数量。"
+  },
+  {
+   "cn": "速度环量",
+   "en": "circulation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1327",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "速度矢量在某一封闭周界切线上投影沿着该周界的线积分，对于叶轮，即为设计流线上某点的圆周分速度与该点所在位置圆周长度之积。"
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流模型",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流模式",
+   "en": "general circulation model\",\"GCM",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "环流模式",
+   "en": "circulation model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋环流模式",
+   "en": "oceanic general circulation model\",\"OGCM",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通用模型",
+   "en": "general models",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海洋总环流",
+   "en": "general ocean circulation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流",
+   "en": "general atmospheric circulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流",
+   "en": "general atmospheric circulation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模型生成器",
+   "en": "model generator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大气环流",
+   "en": "atmospheric circulation\",\"general atmospheric circulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球环流模式",
+   "en": "global circulation model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "一般线性模型",
+   "en": "general linear model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般气候模型",
+   "en": "general climate model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "通用要素模型",
+   "en": "general feature model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "circulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "环流",
+   "en": "circulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环流",
+   "en": "circulation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "circulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "用户生产内容模式",
+   "en": "user-generated content (UGC) model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据流通",
+   "en": "data circulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业生产内容盈利模式",
+   "en": "professionally generated content (PGC) profit model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用数据",
+   "en": "general data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普通病区",
+   "en": "general ward",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一般性错误",
+   "en": "general fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预赛",
+   "en": "general competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流通",
+   "en": "circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0194",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "连续不断地以货币为媒介的商品交换过程，即从交换总体上看的交换。流通是历史的范畴，它是随着商品交换的进一步发展而形成的。"
+  },
+  {
+   "cn": "广义线性模型",
+   "en": "generalized linear models (glm)",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于线性模型的结构，容纳了非正态和定类以及定序因变量的单一的统一的模型理论形式。"
+  },
+  {
+   "cn": "循环次数",
+   "en": "circulation frequency",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "单位时间的通风换气值，即单位时间送入或排出房间的空气体积除以房间的体积，单位为以空气循环次数每小时（AC/h）表示。"
+  },
+  {
+   "cn": "精英循环",
+   "en": "elite circulation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.26",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "在社会变迁过程中一批新人取代原来的精英而成为新的精英。社会结构变迁过程中精英人群的变化模式之一。"
+  },
+  {
+   "cn": "循环风",
+   "en": "circulating air",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "部分回风再进入同一进风中的风流。"
+  },
+  {
+   "cn": "流动资本",
+   "en": "circulating capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0202",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“固定资本”相对。指在形成单个产品时，物质上被全部消费，从而价值全部加入产品并进入流通的那一部分生产资本，包括投在原料、辅助材料等生产资料上和投在劳动力上的那一部分资本。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "流通手段",
+   "en": "means of circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0073",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一，指货币在商品流通中充当交换媒介的职能。货币流通手段职能以货币价值尺度的职能为前提。"
+  },
+  {
+   "cn": "商品流通",
+   "en": "circulation of commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0091",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以货币为媒介的商品交换过程，其元素形式是：W-G-W，即“商品-货币-商品”。"
+  },
+  {
+   "cn": "流通时间",
+   "en": "time of circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0195",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本在流通领域停留的时间。资本在流通领域中运动，作为商品资本和货币资本而存在，要通过两个流通过程：由货币形式转化为商品形式：由商品形式转化为货币形式。资本的流通时间包括购买时间和出售时间。"
+  },
+  {
+   "cn": "流通费用",
+   "en": "costs of circulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0196",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "用于商品流通中的各项费用。马克思把流通费用分为两大类：纯粹流通费用和生产性的流通费用，后者又分为保管费用和运输费用。"
+  },
+  {
+   "cn": "流通蒸汽消毒",
+   "en": "circulating steam disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.2.2.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "一种蒸汽消毒法，使水煮沸产生蒸汽，在蒸箱内利用蒸气释放的潜热对物品进行的湿热消毒处理。"
+  },
+  {
+   "cn": "循环风量",
+   "en": "circulating air volume",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.1.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "标准空气状态下每小时通过空气消毒机（器）内循环的空气体积流量，单位以立方米每小时（m3/h）表示。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "associative inference",
+ "term": "associative inference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:58:55+00:00",
+ "status": "ok",
+ "note": "variant=associative inference; 审定公布名词库=1844; 海峡两岸名词对照库=536; 其他来源数据库=105; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "根据模糊输入和模糊规则，按照确定好的推理方法进行推理，得到模糊输出量的过程。"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从物理系统、生命系统的结构描述出发，导出行为描述，以便预测系统行为并给出原因解释。"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.049",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "按照由条件推出结论的方向进行的推理方式，它从一组事实出发，使用一定的推理规则，来证明目标事实或命题的成立。"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.050",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由结论出发，为验证该结论的正确性去知识库中查找证据。"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "既自顶向下，又自底向上的推理，直至某个中间界面上两方向结果相符便成功结束。"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "source": "行为医学名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "不经严格推理，在缺乏事实依据的情况下，草率地得出结论。"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "经济学名词",
+   "wordNumber": "10.118",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "根据带随机性的观测数据（样本）以及问题的条件和假定（模型），而对未知事物做出的、以概率形式表述的推断。"
+  },
+  {
+   "cn": "推理方法",
+   "en": "inference method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0070",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从已知条件，通过推理规则获得新知识的各种逻辑方法。"
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0104",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "通过问题领域或者结构的启发式知识指导推导的过程。"
+  },
+  {
+   "cn": "推理机",
+   "en": "inference engine",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0069",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "计算机推理程序。在一定的推理机制下，根据知识库中的知识和动态数据库中的实时数据进行推理判断，同时把中间结果送入动态数据库，直到达到预期目标。"
+  },
+  {
+   "cn": "推理攻击",
+   "en": "inference attack",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0344",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "从非敏感的数据推理得出敏感信息的攻击。包括直接攻击、间接攻击和统计推理攻击等。"
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistical inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "根据统计数据建立推理通道，推导出隐含数据的推理方法。"
+  },
+  {
+   "cn": "推理控制",
+   "en": "inference control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0233",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "对推理通道的控制，防止非法访问通过推理通道变成合法访问。"
+  },
+  {
+   "cn": "推理结点",
+   "en": "inference node",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0132",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "在归结语义树中，如果某结点本身不是失效结点，但其两个子结点是失效结点，则称该结点为推理结点。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayes inference",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0111",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种统计推断方法。使用当前所观察到的样本信息和先验知识，更新或重新推断后验概率。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性推理",
+   "en": "uncertain inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多路推理",
+   "en": "multiline inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模拟推理",
+   "en": "analogical inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "启发式推理",
+   "en": "heuristic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计推理",
+   "en": "statistic inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理步",
+   "en": "inference step",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推理策略",
+   "en": "inference strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关联融合",
+   "en": "association and fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际女子职业网球协会",
+   "en": "Women's Tennis Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际业余拳击协会",
+   "en": "International Boxing Association\",\"AIBA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际男子职业网球协会",
+   "en": "Association of Tennis Professionals",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人视觉自联想",
+   "en": "robot visual auto-association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本规格协会",
+   "en": "Japanese Standards Association (JSA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法国标准化协会",
+   "en": "French Standardization Association (AFNOR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日本标准化组织相关标准",
+   "en": "Japanese Standards Association Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "医疗相关感染",
+   "en": "healthcare associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在接受治疗过程中获得的感染，或医务人员在医疗环境中履行职责时获得的感染。"
+  },
+  {
+   "cn": "器械相关感染",
+   "en": "device-associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在使用某种器械期间或其停止使用某种器械（如呼吸机、导尿管、血管导管等）48小时内出现的与该器械相关的感染。如果停止使用相关器械时间超过48小时后出现了相关感染，应有证据表明此感染与该器械使用有关，"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  },
+  {
+   "cn": "马克思学说研究会",
+   "en": "Marx Theory Research Association",
+   "source": "马克思主义",
+   "wordNumber": "04.0446",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "五四运动时期传播马克思主义的重要学术团体。1920年3月，由李大钊主持成立了北京大学马克思学说研究会。它是中国最早学习和研究马克思主义的团体，为中国共产党的建立作了准备。"
+  },
+  {
+   "cn": "少数民族联谊会",
+   "en": "ethnic minority friendship association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0096",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "由多民族成员共同组成，以开展民族团结和联谊为功能的社会团体，是民族工作开展的对象和主体之一，政府与各民族群众联系的桥梁和纽带。"
+  },
+  {
+   "cn": "血管导管相关感染",
+   "en": "vessel catheter associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "留置血管导管期间及拔除血管导管后48小时内发生的原发性且与其他部位感染无关的感染，包括血管导管相关局部感染和血流感染。"
+  },
+  {
+   "cn": "肌炎相关性自身抗体",
+   "en": "myositis associated autoantibodies,MAA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "特发性炎性肌病有关的一类自身抗体，特异性不高，也存在于其他自身免疫病中，如抗核抗体，抗Ro-52抗体等。"
+  },
+  {
+   "cn": "肿瘤相关性肌病",
+   "en": "cancer-associated myositis, CAM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种特发性炎性肌病伴有恶性肿瘤的肌病。肿瘤可以和肌炎同时发病，也可以发生在肌炎之前或之后，但间隔时间一般不超过3年。"
+  },
+  {
+   "cn": "微小病毒B相关性血管炎",
+   "en": "parvovirus B19-associated vasculitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种与细小病毒B19感染相关的血管炎性自身免疫病。 表现为包括巨细胞动脉炎、结节性多动脉炎、过敏性血管炎及肉芽肿性多动脉炎等多种类型，血清抗B19抗体可阳性，组织病理学表现复杂多样。"
+  },
+  {
+   "cn": "乙型肝炎相关性血管炎",
+   "en": "hepatitis B-associated vasculitis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.19",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种与乙肝病毒感染相关，由免疫复合物介导的累及中小动脉的血管炎。临床表现与多动脉炎（PAN）相似。血清中可检出乙肝病毒、病毒DNA、多聚酶和乙肝抗原，组织病理学显示小动脉和或中动脉血管周围单核或混合细"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

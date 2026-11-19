@@ -24,7 +24,7 @@
 * **宪法修订**：提交信息注明“修订宪法 vX.Y”并说明理由（宪法 Governance 节）。
 * **破坏性动作** （批量清空、重命名、结构重排）前置条件：受影响词条已有可信英文基线；动作可由 git 历史回溯；完成后运行对应校验工具并留凭证。
 * **历史改写与批次护栏（tag）**：已裁定允许重写 git 记录（含 force push），**仅限用户显式授权期**（rules/README 判例：force push 属用户授权期专属；日常提交即推沿 ADR-0059 禁 force）。护栏约定：改写或批量动作前先打备份 tag（`git tag backup/<YYYY-MM-DD-说明>`），改写后立即 push 分支与 tag；每完成一个批次打 `batch/<批次名>` tag。tag 不限制自由，只保证任何时刻有退路。
-* **CI 工作流变更** 须同步更新 `rules/05-ci-and-tools.md` 的工作流清单表。
+* **CI 工作流变更** 须同步更新 `rules/05/ci-workflows.md` 的工作流清单表。
 
 ## 任务方向声明（宪法 VII 落地）
 
@@ -35,7 +35,7 @@
 本仓库常有多个 AI 会话/人工同时工作，纪律如下：
 
 1. **提交前核对 HEAD**：`git log --oneline -3` + `git status`，确认基点未变；基点变了先 `git diff HEAD` 重放自己的改动。
-2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。提交默认免签（本机 GPG 已根治：`gpg.program` 指向 gpg4win、关闭自动签名，2026-11-06 用户裁定，与 [05](05-ci-and-tools.md) 提交策略同源）——无需 `--no-gpg-sign`；需要签名时显式 `git commit -S`（交互输口令）。
+2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。提交默认免签（本机 GPG 已根治：`gpg.program` 指向 gpg4win、关闭自动签名，2026-11-06 用户裁定，与 [05](05/index.md) 提交策略同源）——无需 `--no-gpg-sign`；需要签名时显式 `git commit -S`（交互输口令）。
 3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `python tools/sync_guard.py pull`（含 fetch+rebase+判弃自检，ADR-0028）再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。**提交即推**（ADR-0059，2026-11-16 用户裁定）：每次 commit 成功后立即 push，不再等用户要求；本条其余纪律不变。
 4. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
 5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。

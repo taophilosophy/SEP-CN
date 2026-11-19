@@ -1,0 +1,622 @@
+{
+ "key": "analogous predication",
+ "term": "analogous predication",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:58:07+00:00",
+ "status": "ok",
+ "note": "variant=analogous predication; 审定公布名词库=501; 海峡两岸名词对照库=167; 其他来源数据库=22; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "述语",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.190",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。可以指述宾短语的组成成分，由动词性成分充当，在述宾短语的前部，例如，“吃饭”；也可以指述补短语的组成成分，由动词或形容词性成分充当，在述补短语的前部，例如，“吃完”“好极了”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“体词”相对。指主要充当谓语的词。动词、形容词等属于谓词。"
+  },
+  {
+   "cn": "直谓[的]",
+   "en": "predicative",
+   "source": "数学名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓语",
+   "en": "predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“主语”相对。句法成分之一。通常由谓词性成分充当，少数情况下也可由体词性成分充当。通常位于主语的后边，是对主语作出的陈述。例如，“花开了”“今天星期一”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词性宾语",
+   "en": "predicative object",
+   "source": "语言学名词",
+   "wordNumber": "04.192",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由谓词性成分充当的宾语。例如，“喜欢游泳”“觉得很好”。"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate transformer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0938",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由埃德斯加·迪杰斯特拉（Edsger Dijkstra）引进的描述程序语义的方法，把程序的执行看成是状态空间上的谓词转换。"
+  },
+  {
+   "cn": "包容谓词",
+   "en": "inclusive predicates",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0927",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "如果当谓词对递增序列（链）所有元素都成立（取值为真），它就对该序列的上确界也成立，那么该谓词是包容的。"
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0936",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑最基本的形式系统，在命题演算的基础上扩展引入了客体变元、量词、谓词和函数。其中，客体表示某一个物体或元素，量词（如全称或存在）限定客体数量，谓词描述客体的一种属性，函数代表抽象的计算。"
+  },
+  {
+   "cn": "体词性谓语",
+   "en": "nominal predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.189",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由体词性成分充当的谓语。前边大多可以加上动词“是”（否定句用“不是”），变成动词性谓语。例如，“他（是）广东人”“今天（不是）星期一”“苹果才五十斤”。"
+  },
+  {
+   "cn": "谓词变元",
+   "en": "predicate variable",
+   "source": "数学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术谓词",
+   "en": "arithmetical predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "自动化名词",
+   "wordNumber": "05.034",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词变量",
+   "en": "predicate variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词符号",
+   "en": "predicate symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate converter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "模拟测图仪",
+   "en": "analog plotter\",\"analog bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "谓词-变迁系统",
+   "en": "predicate/transition system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同功器官",
+   "en": "analogous organ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比法",
+   "en": "constructed analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候类比",
+   "en": "climate analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比模式",
+   "en": "analog model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模数转换",
+   "en": "analog-to-digital conversion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情采芬芳，比类寓意",
+   "en": "Use Analogy and Metaphor to Imply Sentiment and Meaning, and Let Passion and Style Bask in Each Other’s Fragrance and Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消除贫困是社会主义本质要求",
+   "en": "The eradication of poverty is an essential requirement of socialism.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预测",
+   "en": "prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在某件事情实际发生之前预言它的发生。"
+  },
+  {
+   "cn": "用药指南",
+   "en": "medication guide",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合运用已有医药学知识和科学证据，指导医师和药师合理使用药物的规则或推荐。"
+  },
+  {
+   "cn": "自我医疗",
+   "en": "self-medication",
+   "source": "社会医学名词",
+   "wordNumber": "8.6.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务利用",
+   "publishYear": "2025",
+   "definition": "个人或家庭在没有医生指导下，使用药物或其他措施进行保健、预防、治疗和康复，以改善或管理健康状况的过程。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "视觉模拟评分法",
+   "en": "visual analogue scale，VAS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_活动度评估",
+   "subjectName": "活动度评估",
+   "publishYear": "2025",
+   "definition": "一种疼痛强度的评定方法。通常采用10cm长的直线，两端分别标有“无疼痛（0）”和“最严重的疼痛（10）”。患者根据自己所感受的疼痛程度，在直线上某一点做一记号。从起点至记号处之间的距离长度即表示疼痛的"
+  },
+  {
+   "cn": "预测标准误差",
+   "en": "standard error of prediction, SEP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.42",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "预测残差(预测值与实际值的差异)的标准差，是用来衡量模型预测值与真实观测值之间差异的统计指标，反映了模型在新样本上的平均预测误差。"
+  },
+  {
+   "cn": "视觉标尺法",
+   "en": "visual analogue scale method,VAS method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "给受访者一个标尺，一端表示完全健康水平，另一端表示最差健康水平，让受访者在标尺上标记反映自己健康水平的位置，以该位置距最差健康水平端点的距离与整个标尺的长度的比例反映效用的一种效用测量方法。"
+  },
+  {
+   "cn": "孕期用药指导",
+   "en": "recommendation for medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从疾病控制效果以及对孕产妇、胎儿和新生儿健康影响等方面权衡利弊，提供合理用药保障母婴安全的咨询服务。"
+  },
+  {
+   "cn": "未遵医嘱使用减肥药物",
+   "en": "non-compliance with prescribed weight loss medication",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "超出医疗范围、自行服用减肥药物的行为。"
+  },
+  {
+   "cn": "学校预防接种或预防性服药异常反应处置预案",
+   "en": "handling plan for abnormal reactions of school vaccination or preventive medication",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "针对学校预防接种或预防性服药的异常反应的预防和控制而制定的、包含具体工作程序和措施的计划和方案的文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,82 @@
+{
+ "key": "unbridled anachronism",
+ "term": "unbridled anachronism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:01:19+00:00",
+ "status": "ok",
+ "note": "variant=unbridled anachronism; 审定公布名词库=6; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "穿时性",
+   "en": "diachronism",
+   "source": "石油名词",
+   "wordNumber": "02.0926",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "穿时性",
+   "en": "diachronism",
+   "source": "地质学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全本",
+   "en": "unabridged edition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.018",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "书籍内容未经删节的版本。"
+  },
+  {
+   "cn": "足本",
+   "en": "unabridged edition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.214",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "内容完整无缺的本子。"
+  },
+  {
+   "cn": "足本词典",
+   "en": "unabridged dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "与“节本词典”相对。词典的一种类型。同一系列辞书中规模最大，尽可能收录某种语言全部的普通词汇、百科词汇和科技词汇，并提供详细的释义和丰富的例证。"
+  },
+  {
+   "cn": "足本词典",
+   "en": "unabridged dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.245",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“节本词典”相对。词典的一种类型。同一系列辞书中规模最大，尽可能收录某种语言全部的普通词汇、百科词汇和科技词汇，并提供详细的释义和丰富的例证。"
+  },
+  {
+   "cn": "错置",
+   "en": "anachronism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

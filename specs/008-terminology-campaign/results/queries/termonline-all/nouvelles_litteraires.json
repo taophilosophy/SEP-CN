@@ -1,0 +1,22 @@
+{
+ "key": "nouvelles litteraires",
+ "term": "Nouvelles Littéraires",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:08:06+00:00",
+ "status": "ok",
+ "note": "variant=Nouvelles Littéraires; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "新喀里多尼亚红土镍矿床",
+   "en": "Nouvelle Calédonie laterite type nickel deposit",
+   "source": "地质学名词",
+   "wordNumber": "14.08.008",
+   "subjectFullName": "地质学_矿床学_有色金属矿床",
+   "subjectName": "有色金属矿床",
+   "publishYear": "2026",
+   "definition": "位于新喀里多尼亚岛，由超基性岩经风化淋滤而形成的超大型红土镍矿床。分布广，规模大，埋深浅，品位稳定，适于露采。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

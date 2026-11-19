@@ -1,0 +1,642 @@
+{
+ "key": "soft instrumentalism",
+ "term": "soft instrumentalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:01:48+00:00",
+ "status": "ok",
+ "note": "variant=soft instrumentalism; 审定公布名词库=988; 海峡两岸名词对照库=261; 其他来源数据库=26; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "柔软度",
+   "en": "softness",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0552",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_蒸煮",
+   "subjectName": "蒸煮",
+   "publishYear": "2020",
+   "definition": "食品质地软或不坚硬的程度。"
+  },
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "主张科学理论只是解决实际问题的工具，而不是对自然界的有意义的描述。科学理论的真假就在于它对现象预测的有效程度。"
+  },
+  {
+   "cn": "工具性",
+   "en": "instrumentality",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0117",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个体对预期的多级成果之间内在联系的认知。"
+  },
+  {
+   "cn": "插装",
+   "en": "instrument",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0270",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "将某些代码或指令插入至软件系统中，以监控该软件的运行。"
+  },
+  {
+   "cn": "柔性冲击",
+   "en": "soft impact,soft shock",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0162",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器与机构构成",
+   "subjectName": "机器与机构构成",
+   "publishYear": "2021",
+   "definition": "从动件在某瞬时加速度发生有限大值的突变时所引起的冲击。"
+  },
+  {
+   "cn": "软纤维瘤",
+   "en": "soft fibroma",
+   "source": "整形外科名词",
+   "wordNumber": "11.016",
+   "subjectFullName": "整形外科_体表肿瘤_常见体表肿瘤",
+   "subjectName": "常见体表肿瘤",
+   "publishYear": "2026",
+   "definition": "一种由结缔组织构成的常见良性肿瘤。多有蒂，呈息肉状突起，质软，好发于颈部、腋窝和腹股沟。"
+  },
+  {
+   "cn": "软腭",
+   "en": "soft palate",
+   "source": "整形外科名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "整形外科_唇腭裂修复_唇腭裂相关解剖标志",
+   "subjectName": "唇腭裂相关解剖标志",
+   "publishYear": "2026",
+   "definition": "腭的后1/3。由结缔组织和肌肉构成，与硬腭共同构成口腔的上壁。前部几近水平，后部斜向后下称腭帆。后缘游离，中央向下突起称悬雍垂。"
+  },
+  {
+   "cn": "软水",
+   "en": "soft water",
+   "source": "地质学名词",
+   "wordNumber": "16.04.036",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "总硬度(以CaCO₃计)＜150mg/L的水。"
+  },
+  {
+   "cn": "软土",
+   "en": "soft soil",
+   "source": "地质学名词",
+   "wordNumber": "17.02.044",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "天然含水率高，压缩性强，灵敏度高，承载力和透水性低的饱水黏性土。"
+  },
+  {
+   "cn": "软质小麦",
+   "en": "soft wheat",
+   "source": "农学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "籽粒中以粉质胚乳为主，硬度指数不高于45的小麦类型。"
+  },
+  {
+   "cn": "软石",
+   "en": "soft stone",
+   "source": "风景园林名词",
+   "wordNumber": "11.0201",
+   "subjectFullName": "风景园林_风景园林艺术_赏石艺术",
+   "subjectName": "赏石艺术",
+   "publishYear": "2025",
+   "definition": "易手工锯开，可随意加工造型的山石盆景石料。常用的石料有砂积石（又称上水石）、海母石、玄武岩浮石、沸浮石、鸡骨石。"
+  },
+  {
+   "cn": "软土",
+   "en": "soft soil",
+   "source": "风景园林名词",
+   "wordNumber": "08.0071",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "主要是由天然含水量大、压缩性高、承载能力低的土壤。"
+  },
+  {
+   "cn": "软指标",
+   "en": "soft marker",
+   "source": "妇产科学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_产前筛查",
+   "subjectName": "产前筛查",
+   "publishYear": "2025",
+   "definition": "妊娠期间胎儿超声检查发现的非特异性改变。包括妊娠早期的胎儿颈后透明层增厚、鼻骨缺失、妊娠中期的胎儿颈部皮肤皱褶增厚、肠管回声增强等。"
+  },
+  {
+   "cn": "软腭",
+   "en": "soft palate",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.1.2.1.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "腭部的后1/3。主要由腭腱膜、腭肌、腭腺和黏膜构成。"
+  },
+  {
+   "cn": "软起声",
+   "en": "soft attack",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.22.2",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "在声带由呼吸位转到发音位时，气体同时到达声门，声门关闭的同时呼出气流的起声方式。具有自然、柔软的感觉，对声带无损害。多见于平静讲话或唱歌时。"
+  },
+  {
+   "cn": "柔性基层",
+   "en": "soft base",
+   "source": "风景园林名词",
+   "wordNumber": "08.0413",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "用热拌或冷拌沥青混合料、沥青贯入式碎石与粒料类、级配砂砾及级配砾石等铺筑的基层。"
+  },
+  {
+   "cn": "软物质",
+   "en": "soft matter",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.010",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "某种物理性质在弱外力作用下能产生很大变化的软凝聚态物质。这种物质既非简单液体，也非结晶态固体，而是介于固体和理想液体之间，兼具复杂性和柔软性的特点。"
+  },
+  {
+   "cn": "软腭",
+   "en": "soft palate",
+   "source": "麻醉学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "麻醉学_麻醉学基础_呼吸系统_呼吸系统解剖",
+   "subjectName": "呼吸系统解剖",
+   "publishYear": "2024",
+   "definition": "腭的后1/3，由硬腭向后延伸形成的双褶皱状部分。斜挂或垂直挂在舌根上方，由咽腭肌和其他肌肉延伸组成，将鼻咽部和口咽部进一步分隔。"
+  },
+  {
+   "cn": "软双星",
+   "en": "soft binary",
+   "source": "天文学名词",
+   "wordNumber": "08.404",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "处在大批快速运动小质量天体环境中的、结合能比环境温度(后者以速度弥散的平方与质点平均质量的乘积来表示)低得多的物理双星。"
+  },
+  {
+   "cn": "软脉",
+   "en": "soft pulse",
+   "source": "兽医学名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "脉管对指压抵抗力小的脉。血管紧张度低。"
+  },
+  {
+   "cn": "柔软度",
+   "en": "softness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "柔软性",
+   "en": "softness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仪表",
+   "en": "instrumentation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仪器",
+   "en": "instrument",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乐器法",
+   "en": "instrumentation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "乐器",
+   "en": "instrument",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "探测",
+   "en": "instrumentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仪表",
+   "en": "instrumentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软性角质蛋白",
+   "en": "soft keratin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "软玻璃",
+   "en": "soft glass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软质聚合物",
+   "en": "soft polymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软［链］段",
+   "en": "soft segment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软质蜡",
+   "en": "soft wax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软润滑脂",
+   "en": "soft grease",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软酸",
+   "en": "soft acid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软性洗涤剂",
+   "en": "soft detergent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软质橡胶",
+   "en": "soft rubber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软石蜡",
+   "en": "soft paraffin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软水",
+   "en": "soft water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软纤维",
+   "en": "soft fiber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刚柔",
+   "en": "Toughness and Softness<br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "刚柔相济",
+   "en": "Combine Toughness with Softness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱工具",
+   "en": "anti-money laundering instrument",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.145",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "主张科学理论只是解决实际问题的工具，而不是对自然界的有意义的描述。科学理论的真假就在于它对现象预测的有效程度。"
+  },
+  {
+   "cn": "软实力",
+   "en": "soft power",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.14",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "通过吸引与合作而非强制的方式来达到目的的能力，通常由价值观念、文化、制度等非强制性因素构成，以区别于硬实力。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "政策工具",
+   "en": "policy instruments",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府为实现特定公共政策目标而运用的手段和机制，主要包括法规、财政、服务、信息与行为引导等类型。它们通过法律约束、资源配置、服务供给和舆论影响等途径，引导社会主体行为，促进政策目标实现。"
+  },
+  {
+   "cn": "法规工具",
+   "en": "regulatory instruments",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府为实现卫生政策目标，依托法律手段建立的一系列约束机制。"
+  },
+  {
+   "cn": "民间器乐",
+   "en": "folk instrumental",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0392",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "用中国传统乐器演奏的民间传统音乐，包括独奏和合奏两种形式。独奏曲以乐器和演奏方式分为吹奏、拉弦、弹拨等类型。合奏曲以其乐器组合的方式分为清锣鼓乐、弦索乐、丝竹乐和吹打乐。民间器乐演奏与民间婚丧嫁娶、迎"
+  },
+  {
+   "cn": "无菌物品",
+   "en": "sterile instrument",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "经灭菌处理后无存活微生物的物品。"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "source": "消毒学",
+   "wordNumber": "4.6.9",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "直接或者间接用于人体的仪器、设备、器具、体外诊断试剂及校准物、材料以及其他类似或者相关的物品。"
+  },
+  {
+   "cn": "仪器分析",
+   "en": "instrumental analysis",
+   "source": "消毒学",
+   "wordNumber": "6.1.13",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于物质的物理或化学性质，使用仪器对该物质进行定性或定量分析的方法。"
+  },
+  {
+   "cn": "工具性角色",
+   "en": "instrumental role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "塔尔科特帕森斯提出的关于现代工业社会家庭角色的另一个概念，用来描述丈夫或男人在家庭中承担的角色，主要指向家庭外部，通过职业、教育、社会政治参与等活动，作为家庭经济支柱引领家庭适应外部世界，因而起到家庭"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.7",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动只由追求功利的动机所驱使，行动者纯粹从效用最大化的角度考虑，在行动中漠视人的情感和精神价值，借助理性算计达到预期目的的行动取向。"
+  },
+  {
+   "cn": "暴力工具",
+   "en": "violent instrument",
+   "source": "马克思主义",
+   "wordNumber": "03.0033",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中统治阶级维护统治所必需的强制力量和手段。经济状况供给暴力以配备和保持暴力工具的手段，因此它是决定性因素。"
+  },
+  {
+   "cn": "ICRP软组织",
+   "en": "ICRP soft tissue",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.4.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_辐射防护模拟计算时使用的材料",
+   "subjectName": "辐射防护模拟计算时使用的材料",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会（ICRP）定义的软组织，按质量占比由10.4472% H、23.219% C、2.488% N、63.0238% O、0.113% Na、0.013% Mg、0.133% P、0."
+  },
+  {
+   "cn": "文化软实力",
+   "en": "cultural soft power",
+   "source": "马克思主义",
+   "wordNumber": "03.0693",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个国家基于文化而具有的凝聚力和生命力,以及由此产生的吸引力和影响力。主要是文化、价值观、意识形态、民意和有关政策制度等方面所体现出来的力量。文化软实力的提高是我国文化建设的一个战略重点，是增强国家核"
+  },
+  {
+   "cn": "文化软实力",
+   "en": "cultural soft power",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0037",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "那些具有一定文化规模和质量的国家所形成的影响别国意识形态的能力，以及由此而产生的一种文化凝聚力和吸引力。"
+  },
+  {
+   "cn": "器械冲洗水",
+   "en": "instrument flushing water",
+   "source": "消毒学",
+   "wordNumber": "4.6.11.5.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "用于去除器械、器具和物品表面污物的流动水，一般使用自来水。"
+  },
+  {
+   "cn": "固定式监测仪表",
+   "en": "fixed monitoring instrument",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.9",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "固定在工作场所某个位置，用于测量工作场所辐射水平的装置。"
+  },
+  {
+   "cn": "生产工具",
+   "en": "instruments of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0105",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在生产过程中用来对劳动对象进行加工的物件。生产工具被置于劳动者和劳动对象之间，起传导作用。生产工具是社会生产力的主要因素之一，是社会生产力发展水平的标志。"
+  },
+  {
+   "cn": "财政与经济工具",
+   "en": "fiscal & economic instruments",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.2.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府通过财政拨款、税收优惠、补贴、绩效激励等经济手段，引导卫生资源配置、影响个体和组织行为，实现政策目标的干预方式，是卫生体系实现治理目标的重要组成部分。"
+  },
+  {
+   "cn": "生命质量测量工具",
+   "en": "quality of life instrument",
+   "source": "社会医学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "用来评价个体自报告生命质量的条目集合。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

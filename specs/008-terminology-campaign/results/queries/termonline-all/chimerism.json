@@ -1,0 +1,382 @@
+{
+ "key": "chimerism",
+ "term": "chimerism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:11:27+00:00",
+ "status": "ok",
+ "note": "variant=chimerism; 审定公布名词库=34; 海峡两岸名词对照库=14; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "嵌合性",
+   "en": "chimerism",
+   "source": "遗传学名词",
+   "wordNumber": "02.226",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "不同来源的分子拼接成一个重组体的现象。如不同染色体片段重组成新的染色体片段或不同物种的DNA分子拼接成重组DNA分子。"
+  },
+  {
+   "cn": "混合性嵌合体",
+   "en": "mixed chimerism",
+   "source": "血液学名词",
+   "wordNumber": "10.045",
+   "subjectFullName": "血液学_特殊治疗_造血干细胞移植相关",
+   "subjectName": "造血干细胞移植相关",
+   "publishYear": "2022",
+   "definition": "移植后受者体内受者和供者来源的造血及淋巴细胞同时存在。"
+  },
+  {
+   "cn": "造血细胞嵌合",
+   "en": "hematopoietic chimerism",
+   "source": "免疫学名词",
+   "wordNumber": "3.283",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_移植免疫及其他",
+   "subjectName": "移植免疫及其他",
+   "publishYear": "2007",
+   "definition": "造血干细胞移植后，受者体内存有异基因供者的造血细胞或淋巴细胞的状态。有三种情况：①完全嵌合：受者体内造血细胞和淋巴细胞均来源于供者，②部分嵌合或混合嵌合：受者造血细胞或淋巴细胞与供者细胞共存，③分离嵌"
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0257",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "不同物种来源的免疫球蛋白的V基因和C基因重组后所编码的抗体。"
+  },
+  {
+   "cn": "嵌合RNA",
+   "en": "chimeric RNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0251",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由来自不同基因的外显子片段通过一定的染色体重排或转录剪接机制形成的融合转录物。"
+  },
+  {
+   "cn": "嵌合基因",
+   "en": "chimeric gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0045",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "通过重组由来源与功能不同的基因序列剪接而形成的杂合基因。"
+  },
+  {
+   "cn": "嵌合质粒",
+   "en": "chimeric plasmid",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0164",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "一种在体外通过连接不同的质粒片段而构建成的杂合质粒分子。在转化进入宿主细胞后，会形成具有新的生物学功能的复制子。"
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.023",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "通过重组由两个不同来源的DNA剪接而形成的杂合DNA分子。"
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "兽医学名词",
+   "wordNumber": "14.073",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "同一抗体分子中含有不同种属来源抗体片段的抗体。"
+  },
+  {
+   "cn": "嵌合蛋白",
+   "en": "chimeric protein",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.192",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "利用基因工程技术，将一个蛋白质分子的部分序列插入或取代另一个蛋白质分子的序列所产生的、兼有两种原来蛋白质序列和特点的新蛋白质。"
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.22",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "来源不同的DNA分子经过重组以后形成的杂合DNA分子。"
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.209",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "通过基因转染方法，将鼠源性单克隆抗体的可变区基因与人免疫球蛋白（Ig）的恒定区基因相拼接，导入受体细胞中获得的表达产物。"
+  },
+  {
+   "cn": "嵌合体动物",
+   "en": "chimeric animal",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.210",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "由两种或两种以上具有不同遗传性的细胞或组织组成的动物个体。"
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0159",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "一个半合成的基因。由来自于一种生物的编码序列和另一种不同的基因的启动子和其他序列融合而成。多数用于遗传转化的基因是嵌合的。"
+  },
+  {
+   "cn": "嵌合基因",
+   "en": "chimeric gene",
+   "source": "核医学名词",
+   "wordNumber": "06.0027",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "由来源、功能不同的DNA序列剪接重组而形成的杂合基因。"
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.150",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "利用DNA重组技术将鼠单抗的轻、重链可变区基因插入含有人抗体恒定区的表达载体中，转化哺乳动物细胞表达出人鼠嵌合的抗体。"
+  },
+  {
+   "cn": "[人-鼠]嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "免疫学名词",
+   "wordNumber": "2.288",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "将鼠源抗体的可变区与人源抗体的恒定区融合而制成的抗体。其具有鼠源抗体结合抗原的特异性和亲和力，同时降低了鼠源抗体对人体的免疫原性。"
+  },
+  {
+   "cn": "嵌合蛋白",
+   "en": "chimeric protein",
+   "source": "遗传学名词",
+   "wordNumber": "03.419",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "即融合蛋白，由融合基因编码产生的蛋白质。"
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "遗传学名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "来源不同的DNA分子经过重组以后形成的杂合DNA分子。"
+  },
+  {
+   "cn": "完全供者细胞嵌合体",
+   "en": "complete donor chimerism",
+   "source": "血液学名词",
+   "wordNumber": "10.044",
+   "subjectFullName": "血液学_特殊治疗_造血干细胞移植相关",
+   "subjectName": "造血干细胞移植相关",
+   "publishYear": "2022",
+   "definition": "移植后受者体内的所有造血及淋巴细胞都来源于供者。"
+  },
+  {
+   "cn": "嵌合性",
+   "en": "chimerism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "造血细胞嵌合",
+   "en": "hematopoietic chimerism",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合DNA",
+   "en": "chimeric DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[人-鼠]嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合 DNA",
+   "en": "chimeric DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合基因",
+   "en": "chimeric gene",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合型蛋白质",
+   "en": "chimeric protein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合质粒",
+   "en": "chimeric plasmid",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合基因",
+   "en": "chimeric gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合蛋白",
+   "en": "chimeric protein",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合蛋白",
+   "en": "chimerin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "嵌合抗体",
+   "en": "chimeric antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.21",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "不同物种来源的免疫球蛋白的V基因和C基因重组后所编码的抗体。"
+  },
+  {
+   "cn": "人-鼠嵌合抗体",
+   "en": "human-mouse chimeric antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.22",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "将鼠源性抗体的V 区与人抗体的C 区融合，并在合适的宿主细胞中表达而制成的嵌合抗体。既保留了鼠源性抗体的特异性和亲和力，又降低了其对人体的免疫原性，同时还可对抗体的不同亚类进行转换，产生特异性相同，但"
+  },
+  {
+   "cn": "嵌合抗原受体T细胞免疫疗法",
+   "en": "chimeric antigen receptor T-cell immunotherapy, CAR-T therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.7",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "一种新型精准靶向疗法，通过基因工程技术，将识别特异性抗原的抗体片段基因 与 T 细胞活化所需信号分子胞内段基因结合， 构建成嵌合抗原受体（CAR）,通过基因转导的方式导入 T 细胞，使CAR-T识别抗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

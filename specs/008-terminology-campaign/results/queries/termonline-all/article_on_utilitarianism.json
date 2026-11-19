@@ -1,0 +1,742 @@
+{
+ "key": "article on utilitarianism",
+ "term": "Article on Utilitarianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:02:24+00:00",
+ "status": "ok",
+ "note": "variant=Article on Utilitarianism; 审定公布名词库=2343; 海峡两岸名词对照库=697; 其他来源数据库=379; 预公布名词数据库=223; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.089",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "认为道德行为的唯一标准是行为所带来的结果或效用的大小的伦理理论。18世纪和19世纪后期由英国哲学家、经济学家杰里米·边沁和约翰·斯图尔特·穆勒提出。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "经济学名词",
+   "wordNumber": "14.003",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种把追求快乐、效用、利益作为道德标准和行为规范的伦理哲学和经济理论。哲学上的功利主义包括3个主要命题：①个人福利是道德行为的目的；②人应该根据其本性判断幸福与否；③社会行为的目的是增进最大多数人的最"
+  },
+  {
+   "cn": "文章",
+   "en": "article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.039",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "有题名且表达完整意义并独立成篇的文字作品。"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "一个西方伦理学分支。在技术伦理方面主要体现为强调技术应用要以对绝大多数人有益的最大的善为目的，注重对技术应用的功利效果进行伦理评价，注重技术应用的后果而不是技术人员最初的意向和应承担的义务或责任。"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当与任何其他的选择相比，所导致的结果至少与其他的选择所导致的结果一样好。"
+  },
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.091",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当该行为是某个规则要求我们去做的事情，而对此规则的遵守将会比其他的规则带来更大的社会效用。"
+  },
+  {
+   "cn": "关节",
+   "en": "article,articulation",
+   "source": "植物学名词",
+   "wordNumber": "03.0254",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "易于弯曲或分离的节。"
+  },
+  {
+   "cn": "条目",
+   "en": "article,entry",
+   "source": "语言学名词",
+   "wordNumber": "06.062",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "百科全书中由条头及其释义等组成的整体。是百科全书查检的基本单位。有时也指字典和词典中的字条、词条。"
+  },
+  {
+   "cn": "篇后注",
+   "en": "article endnote",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.073",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "置于书刊中每一篇文章之后的注释。"
+  },
+  {
+   "cn": "调稿",
+   "en": "article replacement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.049",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "对上版稿件调入、调出等的调整。"
+  },
+  {
+   "cn": "署名文章",
+   "en": "signed article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.076",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "署名表示负责的文章。"
+  },
+  {
+   "cn": "豆腐块文章",
+   "en": "tiny article",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.077",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "篇幅短小的文章。"
+  },
+  {
+   "cn": "稿件布局结构",
+   "en": "article layout",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.124",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "版面中各篇稿件之间相互结合的表现形式。"
+  },
+  {
+   "cn": "触角节",
+   "en": "antennal article",
+   "source": "动物学名词",
+   "wordNumber": "5.2326",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_多足动物亚门",
+   "subjectName": "多足动物亚门",
+   "publishYear": "2021",
+   "definition": "组成触角的一个独立且不能再分的单位。"
+  },
+  {
+   "cn": "烟火制品",
+   "en": "pyrotechnic article",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.012",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "包含一种或多种烟火物质的物品。"
+  },
+  {
+   "cn": "爆炸性物品",
+   "en": "explosive article",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.008",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "包含一种或多种爆炸物质的物品。"
+  },
+  {
+   "cn": "期刊论文",
+   "en": "journal article",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "正式出版的期刊上所刊载的学术论文。"
+  },
+  {
+   "cn": "论文标识号",
+   "en": "article identifier",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.572",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "由权威机构统一分配给期刊论文的唯一的、无二义性的标识性代码。"
+  },
+  {
+   "cn": "论坛文章",
+   "en": "forum article",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0770",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在一个论坛上发布的消息。"
+  },
+  {
+   "cn": "限定的检疫物",
+   "en": "regulated article",
+   "source": "林学名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "所有可能藏匿或传播有害生物并被认定需要采取检疫措施的植物、植物产品、储存场所、包装物、运输工具、集装箱、土壤，以及其他生物、物品或材料。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "articulation\",\"article",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "免税品",
+   "en": "free article",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "文章理解",
+   "en": "article understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文章生成",
+   "en": "article generation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违禁物品(违禁品)",
+   "en": "prohibited articles",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非课税品",
+   "en": "tax-free article",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止出口货物",
+   "en": "prohibited article for exportation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止进口货物",
+   "en": "prohibited article for importation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴",
+   "en": "on-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "锤测航行区",
+   "en": "on soundings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以行动者的行为所产生的可能或实际效果作为道德价值判断的基础或道德评价依据的伦理学理论。认为道德规范的确立和完善以及伦理行为的决策、评价和辩护等应当强调后果、效用。“最大多数人的最大幸福”是其核心原则。"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.126",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "物质或精神上的功效和利益。与“道义”相对。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "食品接触用搪瓷制品",
+   "en": "enamel food contact article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.17",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触，或其成分可能转移到食品中的各种无机玻璃质材料熔凝于基体金属上并与金属形成牢固结合的材料及制品。"
+  },
+  {
+   "cn": "食品接触用玻璃制品",
+   "en": "glass food contact article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.18",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触，或其成分可能转移到食品中的各种通过熔化石英砂、石灰石和纯碱等主要原料，并经快速和受控的速率冷却后所获得的均质和各向同性的无机材料及制品。"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "食品接触材料及制品",
+   "en": "food contact material and article, FCM",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，各种已经或预期可能与食品或食品添加剂（以下简称食品）接触、或其成分可能转移到食品中的材料和制品，包括食品生产、加工、包装、运输、贮存、销售和使用过程中用于食品的包装材料、容器、工具和"
+  },
+  {
+   "cn": "食品接触用橡胶材料及制品",
+   "en": "rubber food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，已经或预期可能与食品或食品添加剂（以下简称食品）接触，或其成分可能转移到食品中的，以天然橡胶、合成橡胶或经硫化的热塑性弹性体为主要原料的材料及制品。"
+  },
+  {
+   "cn": "食品接触用金属材料及制品",
+   "en": "metal food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.15",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，预期或已经与食品接触的各种金属（包括各种金属及合金）材料及制品。"
+  },
+  {
+   "cn": "食品接触用复合材料及制品",
+   "en": "laminated food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.8",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "由不同材质或相同材质通过黏合、热熔或其他方式复合而成的两层或两层以上的食品接触材料及制品。"
+  },
+  {
+   "cn": "食品接触用组合材料及制品",
+   "en": "assembled food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.9",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上不同材质或相同材质的材料以装配、焊接、镶嵌等方式组合而成的食品接触材料及制品。"
+  },
+  {
+   "cn": "食品接触用塑料材料及制品",
+   "en": "plastic food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.10",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "以一种或几种树脂（含树脂共混物）或其预混料、预聚物等为主要结构组分，添加必要的添加剂，在一定的温度和压力下加工制成的、介于树脂与塑料制品之间的高分子材料为塑料材料，包括塑料粒料（或切片）、粉末、母料、"
+  },
+  {
+   "cn": "食品接触材料及制品用黏合剂",
+   "en": "adhesive for food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.19",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "食品接触材料及制品中，通过物理或化学方式产生胶接作用的，直接或间接与食品接触的材料。"
+  },
+  {
+   "cn": "食品接触材料及制品用油墨",
+   "en": "ink for food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.20",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "预期印刷在食品接触材料及制品上，直接接触食品或间接接触食品但其成分可能转移到食品中的油墨。也包括与油墨配套使用的光油。"
+  },
+  {
+   "cn": "食品接触用硅橡胶材料及制品",
+   "en": "silicon rubber food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.12",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在正常使用条件下，已经或预期可能与食品或食品添加剂（以下简称食品）接触的，或其成分可能转移到食品中的，以聚硅氧烷类聚合物与疏水性二氧化硅等物质经交联固化反应形成的、有机硅弹性体为主要原料的材料及制品。"
+  },
+  {
+   "cn": "食品接触用再生纤维素材料及制品",
+   "en": "regenerated cellulose food contact material and article",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.21",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "以天然植物（如棉、木及禾本类等）的纤维素为原料，通过溶解再生得到的可用于预期或已经与食品接触的纤维素材料及制品，如广泛用于食品包装的玻璃纸，用于肉灌制品包装的纤维素肠衣等。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

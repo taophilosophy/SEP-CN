@@ -1,0 +1,682 @@
+{
+ "key": "function claims",
+ "term": "function claims",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:56:10+00:00",
+ "status": "ok",
+ "note": "variant=function claims; 审定公布名词库=3723; 海峡两岸名词对照库=936; 其他来源数据库=132; 预公布名词数据库=207; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "营养素功能声称",
+   "en": "nutrient function claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0457",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "营养成分可以维持人体正常生长、发育和正常生理功能等作用的声称。在食品标签上使用时必须按照法规中列出的标准语言。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.154",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0331",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_费用管理",
+   "subjectName": "费用管理",
+   "publishYear": "2016",
+   "definition": "合同当事人的一方因对方未履行或不能正确履行义务而受到损失时，向对方提出的赔偿要求。"
+  },
+  {
+   "cn": "索赔",
+   "en": "claim",
+   "source": "水利科学技术名词",
+   "wordNumber": "09.200",
+   "subjectFullName": "水利科学技术_水利工程施工_施工管理（水利）",
+   "subjectName": "施工管理（水利）",
+   "publishYear": "1997",
+   "definition": "在工程承包合同执行过程中，由于合同当事人双方的某一方负责的原因给另一方造成经济损失或工期延误，通过合法程序向对方要求补偿或赔偿的活动。"
+  },
+  {
+   "cn": "货运索赔",
+   "en": "freight claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.225",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "客运索赔",
+   "en": "passenger claims",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0453",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养相关特性的描述和说明，如能量水平、蛋白质含量水平、钠含量水平等。其中包括含量声称和比较声称。"
+  },
+  {
+   "cn": "含量声称",
+   "en": "content claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0454",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "有关食品中能量或营养成分含量水平的描述和说明。相关声称用语包括“含有”“高”“低”“无”等。"
+  },
+  {
+   "cn": "比较声称",
+   "en": "comparative claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0455",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "与消费者熟知的同类食品的营养成分含量或能量值进行比较之后的声称。相关声称用语包括“增加”或“减少”等。"
+  },
+  {
+   "cn": "属性声称",
+   "en": "property claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "对食品营养属性的声称,如强化、多维、脱脂、瘦等。"
+  },
+  {
+   "cn": "健康声称",
+   "en": "health claim",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0458",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_食品营养标签",
+   "subjectName": "食品营养标签",
+   "publishYear": "2020",
+   "definition": "任何叙述、建议或暗示在某个食品种类、某种食品或其成分之一与健康之间存在某种关系的声称。"
+  },
+  {
+   "cn": "声明期",
+   "en": "claim period",
+   "source": "林学名词",
+   "wordNumber": "06.429",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "对某一特定的产品或产品组，企业为了使用认证标识或做出认证声明而确定的计算认证原料滚动百分比的时间期限。其最长期限为12个月。"
+  },
+  {
+   "cn": "费用索赔",
+   "en": "fee claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0799",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "根据承建合同的约定，合同一方因另一方原因造成本方经济损失，通过监理机构向对方索取费用的活动。"
+  },
+  {
+   "cn": "工程拖期索赔",
+   "en": "delay claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0418",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出的，由于业主、咨询工程师或客观原因导致其花费了较原计划更长的时间和更大的开支，而要求补偿其损失的要求。"
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0188",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "海事请求",
+   "en": "maritime claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0037",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "航速索赔",
+   "en": "speed claim",
+   "source": "航海科技名词",
+   "wordNumber": "13.0149",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "宣称发行量",
+   "en": "claimed circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.012",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "由出版单位根据实际印刷量扣除未发行份数所宣布的发行量。"
+  },
+  {
+   "cn": "工期索赔",
+   "en": "construction period claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0414",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出延长施工时间，使原定工程竣工日期顺延一段合理时间的要求或主张。"
+  },
+  {
+   "cn": "工程范围变更索赔",
+   "en": "scope variation claim",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0417",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "承包商向业主提出的，由于某项工作超出原合同的工作范围，或超出其投标时估计的施工条件，而要求补偿其附加开支的要求。"
+  },
+  {
+   "cn": "估损人",
+   "en": "claims assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒赔",
+   "en": "claims rejected",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险索赔",
+   "en": "insurance claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不良债权",
+   "en": "bad claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "估损人",
+   "en": "claim assessor",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际间的债权",
+   "en": "international claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理的索赔",
+   "en": "legitimate claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币债权",
+   "en": "money claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融债权",
+   "en": "financial claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理赔",
+   "en": "claim settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场索赔",
+   "en": "market claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔代理人",
+   "en": "claim agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔单证",
+   "en": "claim document",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔金额",
+   "en": "claim amount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔清单",
+   "en": "claim note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔书",
+   "en": "claim letter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔条款",
+   "en": "claim clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔通知",
+   "en": "claim notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "索赔资产",
+   "en": "claim asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无担保的债权",
+   "en": "unwarranted claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字化核赔",
+   "en": "digital claims appraisal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可计算函数",
+   "en": "computable function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归函数",
+   "en": "recursive function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈希函数",
+   "en": "hash function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "波函数",
+   "en": "wave function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BM25函数",
+   "en": "BM25 function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "营养成分功能声称",
+   "en": "function claim of nutrients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对某营养成分可以维持人体正常生长、发育和正常生理功能等作用进行的描述和声明。"
+  },
+  {
+   "cn": "保健食品功能声称",
+   "en": "function claim of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.4",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "严格采用标准用语对保健食品的保健功能进行描述和声明，并在食品标签上进行标注。包括营养素补充剂功能声称和非营养素补充剂功能声称。"
+  },
+  {
+   "cn": "营养声称",
+   "en": "nutrition claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.36",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "对食品营养特性的描述和说明，营养声称包括含量声称和比较声称。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "损害索赔权",
+   "en": "right to claim damage",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中因医疗机构及其医务人员过错而权益受损时，享有的获得经济赔偿的权利。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

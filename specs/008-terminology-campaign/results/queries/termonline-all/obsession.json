@@ -1,0 +1,502 @@
+{
+ "key": "obsession",
+ "term": "obsession",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:11:43+00:00",
+ "status": "ok",
+ "note": "variant=obsession; 审定公布名词库=58; 海峡两岸名词对照库=10; 其他来源数据库=9; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "强迫症状",
+   "en": "obsessive-compulsive",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "反映明知没有必要但是又无法摆脱的无意义的思想、冲动、行为等表现。"
+  },
+  {
+   "cn": "强迫观念",
+   "en": "obsessive idea",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.112",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_心理影响和干预",
+   "subjectName": "心理影响和干预",
+   "publishYear": "2014",
+   "definition": "某一概念或念头，在病人脑子里反复出现，病人明知不必要并且加以有意识地抵抗，却摆脱不掉，为此感到痛苦的情绪状态。"
+  },
+  {
+   "cn": "强迫观念",
+   "en": "obsessive idea",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.086",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性回忆",
+   "en": "obsessive reminiscence",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.088",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性怀疑",
+   "en": "obsessive doubts",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.090",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性恐怖",
+   "en": "obsessive phobias",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.091",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫状态",
+   "en": "obsessive state",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.254",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性穷思竭虑",
+   "en": "obsessive rumination",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.087",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder",
+   "source": "神经外科学名词",
+   "wordNumber": "10.12",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_精神障碍",
+   "subjectName": "精神障碍",
+   "publishYear": "2026",
+   "definition": "一组以强迫思维和强迫行为为主要临床表现的神经精神疾病。特点为有意识的强迫和反强迫并存，一些毫无意义甚至违背自身意愿的想法或冲动反反复复侵入患者的日常生活。"
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.14",
+   "subjectFullName": "行为医学_其他神经行为障碍_强迫相关障碍",
+   "subjectName": "强迫相关障碍",
+   "publishYear": "2022",
+   "definition": "以反复出现的强迫思维或强迫动作为主要症状的精神障碍。"
+  },
+  {
+   "cn": "强迫性对立观念",
+   "en": "obsessive contradictory idea",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.095",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性神经症",
+   "en": "obsessive-compulsive neurosis",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.238",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder,OCD",
+   "source": "生理学名词",
+   "wordNumber": "03.767",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder,OCD",
+   "source": "精神医学名词",
+   "wordNumber": "03.217",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "反复出现以强迫思维或强迫动作为主要症状的精神障碍。"
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive compulsive disorder,OCD",
+   "source": "计划生育名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "以强迫观念、强迫冲动或强迫行为等强迫症状为主要表现的一种神经症。"
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder,OCD",
+   "source": "心理学名词",
+   "wordNumber": "10.168",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "以强迫观念和强迫动作为特征的神经症。患者有意识地自我强迫和反强迫之间的强烈冲突使其感到焦虑和痛苦。"
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive-compulsive disorder;OCD",
+   "source": "医学遗传学名词",
+   "wordNumber": "6.083",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "反复出现以强迫思维或强迫动作为主要症状的精神障碍。"
+  },
+  {
+   "cn": "强迫型人格障碍",
+   "en": "obsessive-compulsive personality disorder",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.262",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "强迫型人格障碍",
+   "en": "obsessive-compulsive personality disorder,compulsive personality disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.312",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "感到个人不安全和心存疑虑，从而导致过分认真、顽固、谨小慎微和僵化的一种人格障碍。可以有反复出现不随意的想法和冲动，但不够强迫障碍的严重程度。经常因完美主义和要求精确而反复核对细节。"
+  },
+  {
+   "cn": "耶鲁-布朗强迫量表",
+   "en": "Yale-Brown Obsessive-Compulsive Scale,Y-BOCS",
+   "source": "精神医学名词",
+   "wordNumber": "05.076",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国精神医学家古德曼(W. K. Goodman)等1989年编制的用于评定强迫思维和行为严重程度的半定式他评量表。"
+  },
+  {
+   "cn": "强迫观念",
+   "en": "obsession",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强迫症",
+   "en": "obsessive compulsive disorder\",\"OCD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "补充强化单元",
+   "en": "booster session",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "即兴集奏",
+   "en": "jam session",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "会话状态",
+   "en": "session state",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "会话层",
+   "en": "session layer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会话密钥",
+   "en": "session key",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "会晤层实体",
+   "en": "session entity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执票人",
+   "en": "person possession of instrument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对话控制块",
+   "en": "session control block\",\"SCB",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "痴",
+   "en": "Obsessiveness / Ignorance / Perplexity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不黏不脱，不即不离",
+   "en": "Neither Obsessed with nor Detached from the Objects Depicted",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "控球权",
+   "en": "possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续控球",
+   "en": "continuous possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控球权",
+   "en": "ball possession\",\"possession of the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占有权",
+   "en": "right of possession",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "控球权",
+   "en": "possession of the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控球权",
+   "en": "possession of the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第424次香山科学会议（中国）",
+   "en": "The 424th Session of Xiangshan Science Conferences (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强迫性障碍",
+   "en": "obsessive-compulsive disorder, OCD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以强迫观念和/或强迫行为为主要症状，伴有焦虑情绪和适应困难的心理障碍。强迫观念属情绪障碍，强迫动作则是在该情绪支配下表现出的外显行为，两者同时并存或单独出现。"
+  },
+  {
+   "cn": "儿童强迫障碍",
+   "en": "obsessive-compulsive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童反复出现以强迫思维和/或强迫行为为主要症状的精神障碍。强迫思维是重复的、闯入性的想法和冲动，而强迫行为是重复的行为或精神活动，是为了中和强迫思维而作出的反应。"
+  },
+  {
+   "cn": "儿童强迫相关障碍",
+   "en": "obsessive-compulsive related disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童反复出现强迫观念和强迫行为的一组精神障碍，包括强迫障碍、躯体畸形障碍、囤积症、拔毛癖、抓皮障碍等。"
+  },
+  {
+   "cn": "占有",
+   "en": "possession",
+   "source": "马克思主义",
+   "wordNumber": "04.0060",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "所有制主体直接掌握、管理物质资料并对它施加实际影响的职能和作用，以及通过这种职能、作用形成的所有制主体在物质资料上的相互关系。"
+  },
+  {
+   "cn": "重占有的生存方式",
+   "en": "Pay attention to the living way of possession",
+   "source": "马克思主义",
+   "wordNumber": "05.0055",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于弗洛姆《占有还是生存》，指注重对现存物的占有与消费，而不是基于人的生命活动的创造和自我创造，从而导致物化人格。现代社会以重占有的生存方式为主导。"
+  },
+  {
+   "cn": "中国人民政治协商会议第一届全体会议",
+   "en": "First Plenary Session of the Chinese Peoples Political Consultative Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0536",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月21日至9月30日在北京举行。中国共产党及各民主党派、人民团体和无党派民主人士等单位的代表（含候补代表）共662人参加了会议。中国人民政协筹备会主任、中国共产党中央委员会主席毛泽东向大会"
+  },
+  {
+   "cn": "中国共产党第六届六中全会",
+   "en": "sixth Plenary Session of the sixth Central Committee of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "04.0533",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1938年9月29日至11月6日在延安召开。全会通过了以毛泽东为核心的中央政治局的路线，克服了以王明为代表的右倾错误，提出了马克思主义中国化的任务，号召全党学习马克思主义理论，善于把马列主义的一般原理"
+  },
+  {
+   "cn": "中国共产党第六届七中全会",
+   "en": "Seventh Plenary Session of the sixth Central Committee of the CPC",
+   "source": "马克思主义",
+   "wordNumber": "04.0534",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1944年5月21日至1945年4月20日在延安杨家岭召开。出席会议的有中央委员和候补委员17人，各中央局、分局和其他方面的负责人12人。全会通过了党的《关于若干历史问题的决议》。它运用辩证唯物主义和"
+  },
+  {
+   "cn": "中国共产党第十一届三中全会",
+   "en": "Third Plenary Session of the Eleventh central committee of the communist party of China",
+   "source": "马克思主义",
+   "wordNumber": "04.0545",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年12月18日至22日在北京举行。全会的中心议题是讨论把全党的工作重点转移到社会主义现代化建设上来。全会结束了粉碎“四人帮”之后两年中党的工作在徘徊中前进的局面，实现了党的思想路线、政治路线、"
+  },
+  {
+   "cn": "中国共产党第十九届六中全会",
+   "en": "Sixth Plenary Session of the Nineteenth Central Committee of the Communist Party of China",
+   "source": "马克思主义",
+   "wordNumber": "04.0554",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2021年11月8日至11日在北京举行。习近平代表中央政治局向全会作工作报告，并就《中共中央关于党的百年奋斗重大成就和历史经验的决议（讨论稿）》向全会作了说明。大会审议通过的《中共中央关于党的百年奋斗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

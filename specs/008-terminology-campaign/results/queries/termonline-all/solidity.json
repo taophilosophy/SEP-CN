@@ -1,0 +1,712 @@
+{
+ "key": "solidity",
+ "term": "Solidity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:05:55+00:00",
+ "status": "ok",
+ "note": "variant=Solidity; 审定公布名词库=686; 海峡两岸名词对照库=264; 其他来源数据库=14; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "固体性",
+   "en": "solidity",
+   "source": "物理学名词",
+   "wordNumber": "08.0712",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实地",
+   "en": "solid",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.025",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "网点覆盖率为100%的受墨区域。"
+  },
+  {
+   "cn": "固体",
+   "en": "solid",
+   "source": "物理学名词",
+   "wordNumber": "05.0047",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "固体",
+   "en": "solid",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "呼吸病学_肺功能_相关的物理学概念",
+   "subjectName": "相关的物理学概念",
+   "publishYear": "2018",
+   "definition": "有比较固定的体积和形状，质地比较坚硬的物质存在状态。"
+  },
+  {
+   "cn": "体",
+   "en": "solid",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.624",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一种三维几何要素。"
+  },
+  {
+   "cn": "立体",
+   "en": "solid",
+   "source": "数学名词",
+   "wordNumber": "08.0134",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实度损失",
+   "en": "solidity loss",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0285",
+   "subjectFullName": "机械工程_动力机械_风力机_风力机试验",
+   "subjectName": "风力机试验",
+   "publishYear": "2013",
+   "definition": "由于未完全利用整个风轮扫掠面积而产生的能量损失。"
+  },
+  {
+   "cn": "风轮实度",
+   "en": "rotor solidity",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0090",
+   "subjectFullName": "机械工程_动力机械_风力机_参数_设计、性能和安全参数",
+   "subjectName": "设计、性能和安全参数",
+   "publishYear": "2013",
+   "definition": "风轮叶片投影面积的总和与风轮扫掠面积的比值。"
+  },
+  {
+   "cn": "旋翼实度",
+   "en": "rotor solidity",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.222",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "旋翼全部桨叶实占面积与整个桨盘面积之比。"
+  },
+  {
+   "cn": "叶栅稠度",
+   "en": "cascade solidity",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "叶栅中叶型的弦长与相邻两叶型沿周向间的间距之比。"
+  },
+  {
+   "cn": "推移载荷",
+   "en": "solid load",
+   "source": "地质学名词",
+   "wordNumber": "05.01.043",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在水流中沿河底滚动、移动、跳跃或以层移方式运动的泥沙颗粒。在运动过程中与床沙之间经常进行交换。"
+  },
+  {
+   "cn": "固体地球物理学",
+   "en": "solid geophysics",
+   "source": "地质学名词",
+   "wordNumber": "01.00.117",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "应用物理学的理论和方法，研究固体地球的运动、物理状态、物质组成、作用力和各种物理过程的学科。"
+  },
+  {
+   "cn": "固体颗粒压缩系数",
+   "en": "solid compressibility",
+   "source": "地质学名词",
+   "wordNumber": "16.03.005",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "表示多孔介质中固体颗粒本身压缩性的指标。"
+  },
+  {
+   "cn": "固溶体",
+   "en": "solid solution",
+   "source": "地质学名词",
+   "wordNumber": "02.00.186",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "化学成分在一定条件下变化而不破坏晶体内部结构的单一相结晶物质，或化学成分在一定条件下变化而不出现另外结晶相的单一相结晶物质。根据影响因素，分为填隙式固溶体、替位式固溶体和缺位式固溶体。"
+  },
+  {
+   "cn": "固体径流",
+   "en": "solid runoff",
+   "source": "地质学名词",
+   "wordNumber": "17.04.138",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "携带大量泥沙碎石的水流。易形成在河流坡降大的沟谷及水流切割强烈的厚层松散土分布区(如黄土发育区)。"
+  },
+  {
+   "cn": "总固体",
+   "en": "total solid",
+   "source": "农学名词",
+   "wordNumber": "14.222",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "在规定条件下，生物质烘干至恒重去除水分后剩余的固体物质。"
+  },
+  {
+   "cn": "挥发性固体",
+   "en": "volatile solid",
+   "source": "农学名词",
+   "wordNumber": "14.223",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "生物质总固体中扣除灰分后的挥发性物质的总称。"
+  },
+  {
+   "cn": "固体分",
+   "en": "solid content",
+   "source": "精细化工名词",
+   "wordNumber": "05.0213",
+   "subjectFullName": "精细化工_涂料_涂料调色与制备",
+   "subjectName": "涂料调色与制备",
+   "publishYear": "2025",
+   "definition": "配方物中最终形成涂膜的物质的质量占配方物总质量的百分数。"
+  },
+  {
+   "cn": "固体碱",
+   "en": "solid base",
+   "source": "精细化工名词",
+   "wordNumber": "08.0336",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "具有布朗斯特（Brønsted）碱或路易斯（Lewis）碱中心的固体物质。决定其性能的是碱中心的类型、碱强度和浓度。"
+  },
+  {
+   "cn": "固体酸",
+   "en": "solid acid",
+   "source": "精细化工名词",
+   "wordNumber": "08.0337",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "具有布朗斯特（Brønsted）酸或路易斯（Lewis）酸中心的固体物质。决定其性能的是酸中心的类型、酸强度和浓度。"
+  },
+  {
+   "cn": "固体",
+   "en": "solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体",
+   "en": "solid",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "固-固相转变",
+   "en": "solid-solid transition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固-固相反应",
+   "en": "solid-solid reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体输送",
+   "en": "solid transport\",\"solid handling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物固体",
+   "en": "biological solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱性固体",
+   "en": "basic solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固相含量",
+   "en": "solid content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "缺陷固体",
+   "en": "defect solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固溶体",
+   "en": "solid solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多孔固体",
+   "en": "porous solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "各向同性固体",
+   "en": "isotropic solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体推进剂",
+   "en": "solid propellant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体通量",
+   "en": "solid flux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体超载",
+   "en": "solid overload",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性固体",
+   "en": "active solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体燃料",
+   "en": "solid fuel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固体浓度",
+   "en": "solid concentration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固态",
+   "en": "solid state",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总固体",
+   "en": "total solid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "实体车轮",
+   "en": "solid wheel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固态硬盘",
+   "en": "Solid State Disk\nSolid State Drive",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固定垂直障碍",
+   "en": "solid upright obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定垂直障碍",
+   "en": "solid vertical fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定障碍",
+   "en": "fixed obstacle\",\"solid obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坚白相盈",
+   "en": "Solidity and Whiteness Fulfill Each Other.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固体废物资源化无害化",
+   "en": "recycling and hazard-free treatment of solid waste",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国经济韧性强劲，内需空间广阔，产业基础雄厚",
+   "en": "China’s economy enjoys strong resilience, broad space for domestic demand, and a solid industrial foundation.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "效力法定",
+   "en": "statutory validity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坚定信心、同舟共济、科学防治、精准施策",
+   "en": "to strengthen confidence and solidarity and take science-based and targeted measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "固形物",
+   "en": "solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.59",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "食品中水分完全排除后余下的全部残留物"
+  },
+  {
+   "cn": "固体消毒剂",
+   "en": "solid disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.17",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "成品为固体状的消毒剂，如粉末状、颗粒状和片状。"
+  },
+  {
+   "cn": "固态乳",
+   "en": "solid milk",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.5",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "以合格的新鲜牛乳、羊乳为原料，经浓缩或干燥等加工处理后得到的固体产品。"
+  },
+  {
+   "cn": "固体香精",
+   "en": "solid flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "以固体（含粉末）形态出现的各类香精"
+  },
+  {
+   "cn": "固体饮料",
+   "en": "solid beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6.11",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "用食品原辅料、食品添加剂等加工制成的粉末状、颗粒状或块状等，供冲调或冲泡饮用的固态制品。"
+  },
+  {
+   "cn": "胶囊型固体香精",
+   "en": "encapsulated solid flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "香气和（或）香味成分以芯材的形式被包裹于固体壁材之内的颗粒型香精"
+  },
+  {
+   "cn": "拌和型固体香精",
+   "en": "blended solid flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "香气和（或）香味成分与固体（含粉末）载体拌合在一起的香精"
+  },
+  {
+   "cn": "固体过氧乙酸",
+   "en": "solid peroxyacetic acid",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "由含乙酰基的固体有机化合物和溶于水后能生成过氧化氢的固体化合物组成，溶于水后能产生过氧乙酸的商品态。"
+  },
+  {
+   "cn": "固体过氧化氢",
+   "en": "solid hydrogen peroxide",
+   "source": "消毒学",
+   "wordNumber": "2.1.14.3.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "溶于水后能生成过氧化氢的固体物质，常见的有过碳酸钠、过氧化脲等。"
+  },
+  {
+   "cn": "固体培养基",
+   "en": "solid culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以琼脂等凝固剂和天然固体形态的材料制备而成的外观呈固体状态的培养基。"
+  },
+  {
+   "cn": "固体撞击法",
+   "en": "solid impact method",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气通过固体撞击式空气微生物采样器狭缝或小孔产生高速气流，将悬浮在空气中的微生物采集到营养琼脂平板上，经实验室培养后得到菌落总数的采样方法。"
+  },
+  {
+   "cn": "固体剂量计",
+   "en": "solid state dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "利用某些固体材料的电离辐射效应，对电离辐射剂量进行测量的探测器。"
+  },
+  {
+   "cn": "固态复合调味品",
+   "en": "solid compound seasoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.6",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由两种或两种以上的调味品为主要原料，添加或不添加辅料，复合配制而成的固态方便调味品。"
+  },
+  {
+   "cn": "溶解性总固体",
+   "en": "total dissolved solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.2",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "饮料经过滤后，在一定温度下烘干，所得的残余固体量，包括难挥发的可溶性盐类、有机物以及能通过过滤器的不溶性微粒等。"
+  },
+  {
+   "cn": "醇不溶性固体",
+   "en": "alcohol insoluble solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头食品在乙醇溶剂中的不溶固形物质。"
+  },
+  {
+   "cn": "总可可固形物",
+   "en": "total cocoa solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.20",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "巧克力中可可制品的总和。"
+  },
+  {
+   "cn": "浸提法",
+   "en": "liquid-solid extraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "采用水、酒精、石油醚或其他溶剂对芳香原料（含精油的植物原料、树脂树胶以及动物的泌香物质等）做选择性萃取，从而提取香味成分的方法"
+  },
+  {
+   "cn": "总有机固形物",
+   "en": "total organic solids",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "酶制剂中来源于原材料（动物、植物或微生物等生物体）的有机固形物质的总量。即酶制剂除去水分、灰分、稀释剂、载体、加工助剂和其他添加物后所剩余的物质。"
+  },
+  {
+   "cn": "半固体培养基",
+   "en": "semi-solid culture medium",
+   "source": "消毒学",
+   "wordNumber": "6.2.14.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "只加入少量凝固剂而维持一定形状，便于观察微生物运动或某些特定性状的机械强度较小的培养基。"
+  },
+  {
+   "cn": "固体电离探测器",
+   "en": "solid-state ionization detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.30",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种辐射灵敏物质为固体形态的电离探测器。常见的固体探测器有半导体探测器和晶体电导型探测器等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

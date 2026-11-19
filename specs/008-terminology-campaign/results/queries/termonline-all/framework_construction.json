@@ -1,0 +1,812 @@
+{
+ "key": "framework construction",
+ "term": "framework construction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:09:05+00:00",
+ "status": "ok",
+ "note": "variant=framework construction; 审定公布名词库=1788; 海峡两岸名词对照库=243; 其他来源数据库=127; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0555",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种可复用软件。其中提供了可复用的软件体系结构实现，以及若干可复用的构件或模块，同时提供了一系列扩展点，可由开发者扩展和定制以产生具体的系统。"
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "自动化名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "地层格架",
+   "en": "stratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.007",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层序列中各类地层或岩石单位的区域性时空有序排列型式。"
+  },
+  {
+   "cn": "岩石地层格架",
+   "en": "lithostratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.008",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层或岩石单位的空间排列型式。"
+  },
+  {
+   "cn": "年代地层格架",
+   "en": "chronostratigraphic framework",
+   "source": "地质学名词",
+   "wordNumber": "07.02.009",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "地层或岩石单位的时空排列型式。"
+  },
+  {
+   "cn": "耳支架",
+   "en": "auricular framework",
+   "source": "整形外科名词",
+   "wordNumber": "16.046",
+   "subjectFullName": "整形外科_外耳整形与再造_耳畸形手术治疗",
+   "subjectName": "耳畸形手术治疗",
+   "publishYear": "2026",
+   "definition": "耳廓再造术中能体现耳廓轮廓、结构的支撑物。主要支架材料为自体肋软骨，也可使用人工材料。"
+  },
+  {
+   "cn": "构造格架",
+   "en": "structural framework",
+   "source": "地质学名词",
+   "wordNumber": "09.01.069",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "控制一个地区各种地质体空间布局的构造骨架。在发生多期构造变形的地区，构成其基本构造格架的一般是主期构造。"
+  },
+  {
+   "cn": "技术框架",
+   "en": "technical framework",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "M. 海德格尔（M. Heidegger）把技术的本质理解为“框架”或“座架”（gestell）。新时代技术不是单纯的手段和人的行为，而是自然、世界和人的建构。简而言之，技术的本质即框架。海德格尔所谓"
+  },
+  {
+   "cn": "情报框架",
+   "en": "intelligence framework",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "用于指导情报工作的战略思想、规划方案等的框架。有时可细化为情报搜集与分析方案。它服从于相应组织的战略性的和战术性的需求、问题或现实挑战，服务于该组织的情报系统。"
+  },
+  {
+   "cn": "元数据框架",
+   "en": "metadata framework",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.899",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "设计制定某类特定资源的元数据标准时需遵循的规则和方法。它是抽象化的元数据，从更高层次上规定了元数据的功能、数据结构、格式设计、方法语义、语法规则等多方面的内容。"
+  },
+  {
+   "cn": "骨架铝",
+   "en": "framework aluminum",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.165",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "以铝氧四面体结构形式存在于分子筛骨架结构中的铝原子。"
+  },
+  {
+   "cn": "框架模型",
+   "en": "framework model",
+   "source": "生物物理学名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质折叠",
+   "subjectName": "蛋白质折叠",
+   "publishYear": "2018",
+   "definition": "蛋白质折叠机制的一种理论模型。认为蛋白质折叠初期先快速形成各二级结构单元，随后二级结构单元相互拼接形成三级结构直至最终形成天然态结构。"
+  },
+  {
+   "cn": "耳郭支架",
+   "en": "auricle framework",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.184",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "具有一定强度和硬度，能植入皮下支撑形成耳郭形态的人工预制或术中雕塑成形的生物或合成材料的构架。有自体或异体软骨、高分子材料等不同种类。"
+  },
+  {
+   "cn": "地理空间框架",
+   "en": "geospatial framework",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "稳定一致的地理空间信息和保障服务，为生成综合任务空间提供相关参考框架保障。"
+  },
+  {
+   "cn": "框架区",
+   "en": "framework region",
+   "source": "免疫学名词",
+   "wordNumber": "2.226",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "免疫球蛋白可变区中除3个高变区之外的区域，由其形成的β片层和β桶状结构可稳定免疫球蛋白分子结构。"
+  },
+  {
+   "cn": "框架区",
+   "en": "framework region",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.143",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "构造格架",
+   "en": "tectonic framework",
+   "source": "石油名词",
+   "wordNumber": "02.0034",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地构造",
+   "subjectName": "含油气盆地构造",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "构造格架",
+   "en": "tectonic framework",
+   "source": "地质学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "黑板框架",
+   "en": "blackboard framework",
+   "source": "自动化名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "建构",
+   "en": "construction",
+   "source": "风景园林名词",
+   "wordNumber": "07.0100",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "系统性的建立、构造，强调建造过程体现建筑本质及意义的作用，是结构和细部的诗意表达，使建筑获得意义和存在感。"
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "框架",
+   "en": "framework",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "框架区，骨架区",
+   "en": "framework region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "框架数据",
+   "en": "framework data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体系框架",
+   "en": "architectural framework",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建构，构念",
+   "en": "construct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "架状硅酸盐结构",
+   "en": "framework silicate structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "金属有机骨架",
+   "en": "metal-organic framework",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "惠更斯原理",
+   "en": "Huygens construction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游戏建构",
+   "en": "play construction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建构推论",
+   "en": "construction corollary",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "湿地建设",
+   "en": "wetland construction",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "施工测量",
+   "en": "construction survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "施工详图",
+   "en": "construction detail",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "架装结构",
+   "en": "rack construction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原型结构，原型构造",
+   "en": "prototype construction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中轴构造",
+   "en": "axial construction",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "船体结构",
+   "en": "hull construction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "刚性结构",
+   "en": "rigid construction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "支架",
+   "en": "frame\",\"framework",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Scrapy框架",
+   "en": "Scrapy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "处理框架",
+   "en": "Processing Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Hadoop框架",
+   "en": "Hadoop framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "MapReduce框架",
+   "en": "MapReduce framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Hama框架",
+   "en": "Hama framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Samza框架",
+   "en": "Samza framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Percolator框架",
+   "en": "Percolator framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Kineograph框架",
+   "en": "Kineograph framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Galaxy框架",
+   "en": "Galaxy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Spark框架",
+   "en": "Spark framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Flink框架",
+   "en": "Flink framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施框架",
+   "en": "infrastructure framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全框架",
+   "en": "Security Framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中场组织者",
+   "en": "constructive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Tez计算框架",
+   "en": "Tez computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Pregel计算框架",
+   "en": "Pregel computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Giraph计算框架",
+   "en": "Giraph computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "PowerGraph计算框架",
+   "en": "PowerGraph computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm计算框架",
+   "en": "Storm computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织架构",
+   "en": "organizational framework",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部根据一定的目标，对职务或岗位进行划分而形成的管理部门间的设置及其运作方式。"
+  },
+  {
+   "cn": "评价框架",
+   "en": "evaluation framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "依据某评价理论或模型，按照时间顺序分阶段、分步骤呈现的评价者完成评价工作需遵循的标准化流程和评价要点。"
+  },
+  {
+   "cn": "价值评估框架",
+   "en": "value assessment framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "根据卫生技术的特性构建的评价体系，旨在评估卫生技术对卫生系统和患者带来的多维度价值。"
+  },
+  {
+   "cn": "风险分析框架",
+   "en": "risk analysis framework",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "由风险评估、风险管理和风险交流三个相互关联的内容组成，指引生物性、物理性和化学性因素风险管理的一个科学框架。"
+  },
+  {
+   "cn": "乡村建设",
+   "en": "rural construction",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "20世纪30年代由知识分子和政界人士共同参与的中国乡村现代化改造运动。1931年，梁漱溟在山东邹平从事乡治实践时首次使用该词，但此前类似的改造运动已经展开。20世纪20年代，在国民党地方政权和军阀势力"
+  },
+  {
+   "cn": "社会建构",
+   "en": "social construction",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "一种认为社会实在或社会事物并非自然形成或被发现的，而是人为建构和界定的后现代建构论概念。与自然主义、实证主义的立场相反，它强调相关人群的互动和协商在建构中的决定性意义，从而认为被建构的社会或社会事物会"
+  },
+  {
+   "cn": "社会主义建设",
+   "en": "socialist construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0288",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "比较落后国家的无产阶级掌握政权之后，领导人民建设社会主义新型制度和发展生产力的实践。社会主义建设包括社会主义经济、政治和思想文化建设，有时也专指经济建设。列宁在《怎样组织竞赛》一文中，第一次使用“社会"
+  },
+  {
+   "cn": "制度体系建设",
+   "en": "system construction",
+   "source": "马克思主义",
+   "wordNumber": "03.0782",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党为了提高党建科学化水平、加强党的自身建设，实现依法治国、依法执政，对党内生活的各个方面的行为准则加以制度化、规范化、体系化的活动。"
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "建构效度",
+   "en": "construct validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.75",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用某个量度对理论概念或特质的测量程度来衡量其效度的方法。"
+  },
+  {
+   "cn": "建构性叙述",
+   "en": "constructed narrative",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "复述“记忆社区”里由过去历史所建构出来的故事，这种“记忆社区”是由过去的历史所构建出来的现实的社区。"
+  },
+  {
+   "cn": "结构效度",
+   "en": "construct validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "根据量表实际测量结果与所要测量的理论结构的一致性，即测量结果是否符合假设的理论来评价量表有效性。是采用统计方法对收集数据客观评价测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "卫生费用核算核心维度",
+   "en": "core health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时所采用的最关键分析方向或角度。包括服务功能、服务提供机构和筹资方案三个维度。"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "药品供应保障制度",
+   "en": "Pharmaceutical Supply Assurance Framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据国家法律法规，制定生产、流通、招采、使用和评审等各环节的制度，旨在保障药品安全有效、价格合理、供应充分。"
+  },
+  {
+   "cn": "文化适应性规划模型",
+   "en": "PEN-3 model cultural framework",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "由三个相互关联和相互依赖的维度组成、每个维度都有个体（P）、整个家庭（E）、邻居（N）的首字母缩略词的一种追求文化适宜性的规划模型。"
+  },
+  {
+   "cn": "放射建设项目",
+   "en": "radiation construction project",
+   "source": "放射卫生学",
+   "wordNumber": "8.3",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "可能产生放射性职业病危害的新建、扩建、改建、技术改造和技术引进项目。"
+  },
+  {
+   "cn": "卫生环境建设",
+   "en": "health environment construction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.11",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "为保证学生身心正常发育和师生健康成长所采取的工程和非工程的措施。"
+  },
+  {
+   "cn": "经济建设和国防建设的关系",
+   "en": "relationship between economic construction and defense construction",
+   "source": "马克思主义",
+   "wordNumber": "02.0376",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的实现国防现代化的关系和方式。加强国防的可靠办法是降低军政费用的比重，多搞经济建设，增加经济建设费用。只有经济建设发展得更快了，国防建设才能够有更大的进步。"
+  },
+  {
+   "cn": "卫生费用核算框架",
+   "en": "framework of health expenditure accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "按照卫生资金的流动过程，综合利用基本统计法和平衡推算法对资金来源、分配、使用分别进行核算，其核算结果可通过矩阵平衡法进行综合分析。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "loose-speak interpretation",
+ "term": "loose-speak interpretation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:39+00:00",
+ "status": "ok",
+ "note": "variant=loose-speak interpretation; 审定公布名词库=666; 海峡两岸名词对照库=145; 其他来源数据库=34; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "言语音域",
+   "en": "speaking range",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.21.1",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "日常言语时使用的音域范围。"
+  },
+  {
+   "cn": "公共演讲",
+   "en": "public speaking",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.026",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "个体为达到说服、宣传、表达情感、建立认同等目的，以口语为主要媒介并辅助以其他传播形式，对听众发表描述、意见或抒发情感的一种传播形式。常用于政治议事、法庭辩论、仪式展示等场合。对公共演讲的研究被称为修辞"
+  },
+  {
+   "cn": "语速",
+   "en": "speaking rate",
+   "source": "语言学名词",
+   "wordNumber": "03.233",
+   "subjectFullName": "语言学_语音学_听觉语音学",
+   "subjectName": "听觉语音学",
+   "publishYear": "2011",
+   "definition": "一段话的整体发音速度。通常用每秒多少个音节来表示。"
+  },
+  {
+   "cn": "水扣",
+   "en": "loose",
+   "source": "水产名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "网具装配时，纲索（或粗线）在网衣边缘和每档纲索之间形成的弧形结构。"
+  },
+  {
+   "cn": "松片",
+   "en": "loosing",
+   "source": "药学名词",
+   "wordNumber": "02.163",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "片剂硬度不够，稍加触动即散碎的现象。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.120",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于一定规则为概念、符号、对象等赋予意义的过程。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "测绘学名词",
+   "wordNumber": "03.177",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "从影像中获取所摄对象语义信息的基本过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "心理学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师依据某一理论或个人经验，对当事人的问题、反应进行因果说明的一种咨询技术。"
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "地理学名词",
+   "wordNumber": "29.128",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "对遥感影像的解释，或识别的过程，即进行分类的过程。"
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "数学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序",
+   "en": "interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0100",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "逐条翻译和执行每一条程序语句的计算机程序。"
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation,map interpretation",
+   "source": "地理学名词",
+   "wordNumber": "27.151",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "对地图所表示的内容进行较深入的阅读与分析，从而获得对制图对象质量与数量特征及其分布规律的认识。"
+  },
+  {
+   "cn": "用事实说话",
+   "en": "speaking with facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.057",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "一种比较有效的宣传方式。其特点是以众多事实为论据，用归纳论证的方式说服人。"
+  },
+  {
+   "cn": "言语人种学",
+   "en": "ethnography of speaking",
+   "source": "语言学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。主要是识别有哪些语言外因素构成信息传递的社会基础，重点在描写语言的交互作用。"
+  },
+  {
+   "cn": "语迟",
+   "en": "retardation in speaking",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "03.0381",
+   "subjectFullName": "中医药学_儿科学",
+   "subjectName": "儿科学",
+   "publishYear": "2010",
+   "definition": "以小儿2岁以后仍不会说话为主要表现的疾病。"
+  },
+  {
+   "cn": "散体结构",
+   "en": "loose structure",
+   "source": "地质学名词",
+   "wordNumber": "17.03.011",
+   "subjectFullName": "地质学_工程地质学_工程地质力学",
+   "subjectName": "工程地质力学",
+   "publishYear": "2026",
+   "definition": "在断层破碎带、风化破碎带中，岩体已破碎呈碎屑状、颗粒状、鳞片状的岩体结构类型。"
+  },
+  {
+   "cn": "松散读者",
+   "en": "loose reader",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.045",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "阅读行为呈现不稳定性，对出版物的需求容易受到各种因素的干扰，购买行为表现为选择型或冲动型特点的读者。对日报来说，每周阅读不足3天的读者就属于松散读者。"
+  },
+  {
+   "cn": "平挡圈",
+   "en": "loose rib",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0685",
+   "subjectFullName": "机械工程（一）_机械零件_滚动轴承_滚动轴承零件",
+   "subjectName": "滚动轴承零件",
+   "publishYear": "2021",
+   "definition": "一个可分离的基本上是平的垫圈，以其无装配倒角的端面作为向心圆柱滚子轴承外圈或内圈的一个挡边。"
+  },
+  {
+   "cn": "活套法兰",
+   "en": "loose flange",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.1012",
+   "subjectFullName": "机械工程（一）_机械零件_法兰",
+   "subjectName": "法兰",
+   "publishYear": "2021",
+   "definition": "不直接固定在设备或管道上，只是松套在设备或管道端部的法兰。"
+  },
+  {
+   "cn": "活套法兰",
+   "en": "loose flange",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0156",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "利用翻边、钢环等把法兰套在容器或管端上，法兰可以在容器或管端上活动。钢环或翻边就是密封面，法兰的作用则是把其压紧，法兰、法兰颈部及容器或接管三者未能有效地连接成整体的结构。"
+  },
+  {
+   "cn": "演绎",
+   "en": "interpretation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读",
+   "en": "interpretation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpret",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释程序，解释器",
+   "en": "interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地图判读",
+   "en": "cartographic interpretation\",\"map interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "判读要素",
+   "en": "interpretation element\",\"interpretation key",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "公众演讲焦虑",
+   "en": "public speaking anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "松散耦合",
+   "en": "loose coupling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "松管",
+   "en": "loose tube",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "松散一致性",
+   "en": "loose consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可卸硬件",
+   "en": "loose hardware",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "松掉",
+   "en": "cast loose",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "松配合",
+   "en": "loose fit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "释梦",
+   "en": "dream interpretation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地震解释",
+   "en": "seismic interpretation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定量判读",
+   "en": "quantitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "定性判读",
+   "en": "qualitative interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专题判读",
+   "en": "thematic interpretation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "松手",
+   "en": "loose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术扣分",
+   "en": "interpretation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆脱",
+   "en": "break away\",\"loose contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理财正辞",
+   "en": "Manage Wealth Properly and Speak Correctly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以意逆志",
+   "en": "Interpreting a Writing from One’s Own Perspective",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言者无罪，闻者足戒",
+   "en": "Those Who Speak Shouldn’t Be Punished While Those Who Listen Should Take Warning.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桃李不言，下自成蹊",
+   "en": "Peach and Plum Trees Do Not Speak, yet There Is a Path Leading to Them.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 10092-2009 数据的统计处理和解释 测试结果的多重比较》",
+   "en": "GB/T 10092-2009 Statistical interpretation of data — Multiple comparison for test results",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4089-2008 数据的统计处理和解释 泊松分布参数的估计和检验》",
+   "en": "GB/T 4089-2008 Statistical interpretation of data — Estimation and hypothesis test of parameter in Poisson distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 4087-2009 数据的统计处理和解释 二项分布可靠度单侧置信下限》",
+   "en": "GB/T 4087-2009 Statistical interpretation of data — One-sided confidence lower limit of reliability for binomial distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27042-2016 信息技术 安全技术 数字证据分析和解释的指南》",
+   "en": "EN ISO/IEC 27042:2016 Information technology — Security techniques — Guidelines for the analysis and interpretation of digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打开保险",
+   "en": "loosen",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解释",
+   "en": "interpretation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "对心理问题进行剖析的咨询技巧。在学校心理咨询中，咨询者依据心理学理论、知识或人生经验，分析、说明求咨者心理问题的成因和性质，使对方有所领悟，为随后的指导及求咨者的思维、情绪、行为转变奠定基础。"
+  },
+  {
+   "cn": "可解释性",
+   "en": "interpretability",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具解释分数或分数变化内涵的程度的测量性能。"
+  },
+  {
+   "cn": "言语民族志",
+   "en": "ethnography of speaking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0012",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。主要是识别有哪些语言外因素构成信息传递的社会基础，重点在描写语言的交互作用。"
+  },
+  {
+   "cn": "松散耦合",
+   "en": "loose coupling",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.17",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "卡尔·维克（Karl Weick）引入组织研究的概念，用以描述组织的各个元素彼此之间相互呼应，但又各自保持独立和身份认同的状况。有利于在面对多变环境时降低组织的认知成本、维持组织秩序，是组织应对持续变"
+  },
+  {
+   "cn": "关节游离体",
+   "en": "loose body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "剥脱性骨软骨炎、关节内骨软骨骨折、骨性关节炎和滑膜软骨瘤病骨造成的脱落碎屑或骨块形成的游离体。其在关节内游离移动时引起关节绞锁、疼痛和活动障碍。以膝、肘、髋和踝关节多见。"
+  },
+  {
+   "cn": "释兆",
+   "en": "omen interpretation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "巫师或当事人根据自然界出现的某些异常现象而探知事物所要出现的结果。在现实生活中，最常见的征兆是天象兆，另外还有植物兆、动物兆、人体兆、梦兆。"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "解释人类学",
+   "en": "interpretive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "揭示文化符号性与解释性的文化人类学（民族学）分支。解释人类学由美国人类学家格尔兹（Clifford Geertz）开创，格尔茨强调人类文化的符号性和阐释性，认为人类是被自身编织的意义之网所束缚的动物，"
+  },
+  {
+   "cn": "松散污染",
+   "en": "surface loose contamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "由于沉积、吸附和静电等作用所造成的物体表面放射性物质的放射性污染，该污染易于从物体表面去除。"
+  },
+  {
+   "cn": "迪梅尼尔的新解释",
+   "en": "Dumenils new interpretation",
+   "source": "马克思主义",
+   "wordNumber": "05.0125",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，法国著名的马克思主义经济学家，国际马克思大会主席热拉尔·迪梅尼尔（Gérard Duménil）提出关于价值转型问题的所谓“新解释”。认为总产品的总生产价格一般不等于总价值。而且可"
+  },
+  {
+   "cn": "文化解释",
+   "en": "interpretations of cultures",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张文化分析是寻求意义系统的解释科学。由美国人类学家格尔茨(C.Geertz）于20世纪70年代提出，认为人是由其自身编织的意义之网所支撑的动物，而文化就是这种意义之网。"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "光电峰",
+   "en": "photoelectric peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器通过光电效应吸收全部光子的能量，在脉冲谱上所形成的峰。由光电效应形成的脉冲幅度能直接代表γ射线的能量。"
+  },
+  {
+   "cn": "布拉格峰",
+   "en": "Bragg peak",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "重离子、质子等入射并穿行物质过程中，在物质内的能量沉积随入射深度的变化曲线呈现先缓慢上升，然后急速上升，直到峰值，然后急速下降而趋于零时曲线的峰值。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "反散射峰",
+   "en": "back-scatter peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "当光子与探测器周围的物质发生康普顿效应，其反散射光子进入探测器，并通过光电效应被记录后所形成的峰。能谱中反散射峰的大小和源的底衬材料、周围屏蔽材料以及探测器和屏蔽之间的安排有关。"
+  },
+  {
+   "cn": "身高增速高峰",
+   "en": "peak height velocity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "青春期启动后，身高的生长速度在童年期的基础上出现加速增长、并在生长突增开始1～2年后达到生长速度高峰的现象。"
+  },
+  {
+   "cn": "峰总比",
+   "en": "peak to total ratio",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对指定能量的γ射线，全吸收峰的净计数除以该γ射线在全谱上的计数。峰总比和射线能量、探测器的尺寸、射线是否准直等因素有关。对尺寸相同的探测器，通过比较峰总比可说明探测器排除散射干扰的好坏。"
+  },
+  {
+   "cn": "峰康比",
+   "en": "peak to Compton ratio",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "γ射线全吸收峰中心道最大计数与康普顿坪内平均计数之比。它代表探测器在有高能强峰存在时探测低能弱峰的能力，主要依赖于探测器的灵敏体积和能量分辨率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

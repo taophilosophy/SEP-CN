@@ -1,0 +1,522 @@
+{
+ "key": "reinforcement",
+ "term": "reinforcement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:59:06+00:00",
+ "status": "ok",
+ "note": "variant=reinforcement; 审定公布名词库=404; 海峡两岸名词对照库=199; 其他来源数据库=8; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "纸张加固",
+   "en": "reinforcement",
+   "source": "档案学名词",
+   "wordNumber": "05.03.021",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "用粘贴、缝合、托裱、涂膜、热封等方法加固机械强度低的纸张、装订处、封皮等操作方法。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "行为医学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "通过一定的环境刺激对行为反应产生促进作用的过程。包括正强化和负强化。"
+  },
+  {
+   "cn": "补强",
+   "en": "reinforcement",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0236",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "为弥补开孔周围区域强度下降而采取的加强措施。有局部补强和整体补强两种。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "生理学名词",
+   "wordNumber": "03.152",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加固",
+   "en": "reinforcement",
+   "source": "冶金学名词",
+   "wordNumber": "02.0575",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "通过在围岩体内部施加各种主动保护措施，使围岩受力状态和力学性质发生改变，自身承载强度提高的行为手段。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "心理学名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过某种刺激增强或减弱特定行为的过程。包括正强化与负强化。"
+  },
+  {
+   "cn": "增强体",
+   "en": "reinforcement",
+   "source": "材料科学技术名词",
+   "wordNumber": "05.0006",
+   "subjectFullName": "材料科学技术_复合材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "在复合材料中主要承受外力载荷作用的组元。"
+  },
+  {
+   "cn": "强化法",
+   "en": "reinforcement",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0191",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "加强层",
+   "en": "reinforcement",
+   "source": "电气工程名词",
+   "wordNumber": "05.122",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "增强",
+   "en": "reinforcement",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.263",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "加强筋",
+   "en": "reinforcement",
+   "source": "石油名词",
+   "wordNumber": "08.0486",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "钢筋",
+   "en": "reinforcing steel bar,reinforcement",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.234",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_建筑材料（水利）",
+   "subjectName": "建筑材料（水利）",
+   "publishYear": "1997",
+   "definition": "配置在钢筋混凝土及预应力钢筋混凝土构件中的钢条或钢丝的总称。"
+  },
+  {
+   "cn": "钢筋",
+   "en": "reinforcement,steel bar",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0473",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "增强剂",
+   "en": "reinforcer",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.106",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "添加到树脂中能与树脂紧密结合，并使制品的机械力学性能显著提高的物质。"
+  },
+  {
+   "cn": "增强",
+   "en": "reinforcing",
+   "source": "化学名词",
+   "wordNumber": "05.0973",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "通过加入纤维、填料等组分或其他方式，使材料机械强度明显提高或加强的材料改性方法。"
+  },
+  {
+   "cn": "强化物",
+   "en": "reinforcer",
+   "source": "心理学名词",
+   "wordNumber": "02.152",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "与行为相倚的任何能随时间推移而增加行为出现可能性的刺激。"
+  },
+  {
+   "cn": "网衣补强",
+   "en": "reinforcing",
+   "source": "水产名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "增加网衣边缘强度的工艺。"
+  },
+  {
+   "cn": "增援调派",
+   "en": "reinforcement dispatch",
+   "source": "急救医学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "调度员根据急危重症患者抢救需要或处置突发事件紧急医疗事件时，增加调派急救人员前往支援的行为。"
+  },
+  {
+   "cn": "强化疗法",
+   "en": "reinforcement therapy",
+   "source": "行为医学名词",
+   "wordNumber": "20.016",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "系统地利用临床强化手段建立健康行为，减弱或消除不良行为的治疗方法。"
+  },
+  {
+   "cn": "补强圈",
+   "en": "reinforcement pad",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.024",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "容器开孔周围外加的局部补强零件。用于加强器壁开孔处局部强度。"
+  },
+  {
+   "cn": "强化",
+   "en": "reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "增强体",
+   "en": "reinforcement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "加强层",
+   "en": "reinforcement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "余高",
+   "en": "reinforcement",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "强化物",
+   "en": "reinforcer",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "增强",
+   "en": "reinforcing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "强化价值",
+   "en": "reinforcement value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "强化理论",
+   "en": "reinforcement theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "替代强化",
+   "en": "vicarious reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会强化",
+   "en": "social reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我强化",
+   "en": "self reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "延迟性强化",
+   "en": "delayed reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性强化",
+   "en": "selective reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "制约增强［作用］",
+   "en": "conditioned reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后效强化",
+   "en": "contingent reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "二级强化,次级强化",
+   "en": "secondary reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接强化",
+   "en": "direct reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正强化",
+   "en": "positive reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负强化",
+   "en": "negative reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纤维增强体",
+   "en": "fiber reinforcement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习",
+   "en": "reinforcement learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习算法",
+   "en": "reinforcement learning algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习分析",
+   "en": "reinforcement learning analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多难兴邦",
+   "en": "Adversities Reinforce a Nation’s Resilience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执法责任制",
+   "en": "accountability system for law enforcement",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "决不允许搞选择性执法、任性执法",
+   "en": "There can be no tolerance for selective or arbitrary law enforcement.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天下之事，不难于立法，而难于法之必行",
+   "en": "In the governance of a country, it is the enforcement, not the enactment, of law that presents the greatest challenge.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "促成因素",
+   "en": "reinforcing factor",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.2.7",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "使行为动机和意愿得以实现的因素。即实现或形成某行为所必须的技能和资源。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过法律和法规措施影响人们的行为。"
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过法律及法规影响伤害的危险行为的干预措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

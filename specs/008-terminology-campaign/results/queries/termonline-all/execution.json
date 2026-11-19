@@ -1,0 +1,632 @@
+{
+ "key": "execution",
+ "term": "execution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:03:33+00:00",
+ "status": "ok",
+ "note": "variant=execution; 审定公布名词库=285; 海峡两岸名词对照库=71; 其他来源数据库=24; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "执行力",
+   "en": "execution",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0572",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "贯彻战略意图、完成预定目标的实施与操作能力。"
+  },
+  {
+   "cn": "执行领导",
+   "en": "executive",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0917",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "推行六西格玛管理的组织最高领导者。"
+  },
+  {
+   "cn": "执行",
+   "en": "execute",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.631",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "完成一条指令或一个计算机程序的过程。"
+  },
+  {
+   "cn": "执行层",
+   "en": "execution tier",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.418",
+   "subjectFullName": "化工（五）_工厂系统与储运_企业信息管理系统",
+   "subjectName": "企业信息管理系统",
+   "publishYear": "2021",
+   "definition": "石化工厂信息系统三层构架的生产执行管理层。承担工厂级协调、跟踪发现并监控趋势的生产执行系统。"
+  },
+  {
+   "cn": "实施阶段",
+   "en": "execution phase",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0037",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "根据工程项目规划，投入各种资源，以达到目标，完成最终可交付物的过程。"
+  },
+  {
+   "cn": "执行角",
+   "en": "execution angle",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.356",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "执行指令",
+   "en": "execution command",
+   "source": "电子学名词",
+   "wordNumber": "23.178",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "运输执行",
+   "en": "transportation execution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.211",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "执行运输的过程，实现人和物空间位置变化的活动，与人类的生产生活息息相关。"
+  },
+  {
+   "cn": "运动执行",
+   "en": "motor execution",
+   "source": "生理学名词",
+   "wordNumber": "03.473",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "符号执行",
+   "en": "symbolic execution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0284",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "一种程序分析技术。采用符号来代替实际数值进行程序的解释执行，并在执行过程中对程序的抽象状态进行检测。常用于生成测试用例或发现程序中的错误。"
+  },
+  {
+   "cn": "行政执行",
+   "en": "administrative execution",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0044",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "行政机构及其工作人员等相关主体围绕既定决策方案的落实所采取的组织、指挥、协调和沟通等活动的总称。"
+  },
+  {
+   "cn": "过程实施",
+   "en": "process execution",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0139",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "在整个企业或组织中对过程进行最终确认，并分配和实施具体的工作。"
+  },
+  {
+   "cn": "执行导演",
+   "en": "executive director",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.091",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "在两名以上导演联合拍摄的摄制组里，或在总导演名义下，负责现场拍摄工作的导演。"
+  },
+  {
+   "cn": "执行功能障碍",
+   "en": "executive dysfunction",
+   "source": "行为医学名词",
+   "wordNumber": "17.026",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "确立目标、制订和修正计划、实施计划，从而进行有目的活动的能力（执行功能）发生障碍。"
+  },
+  {
+   "cn": "执行元件",
+   "en": "executing component",
+   "source": "电力名词",
+   "wordNumber": "05.081",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "装置中将电信号转换为机械位移或可视信息借以执行某种规定动作的器件。"
+  },
+  {
+   "cn": "执行摘要",
+   "en": "executive summary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.855",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "有关文献内容的简要说明。这种包括所有要点的说明通常作为文献的开篇，使读者快速领会其要点。"
+  },
+  {
+   "cn": "执行功能障碍",
+   "en": "executive dysfunction",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.161",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "难以形成、制订、完善和执行计划以完成目标任务的障碍。难以处理或解决问题、转换定势，纠正错误能力降低。"
+  },
+  {
+   "cn": "执行功能",
+   "en": "executive function",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.102",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一个包括调节、控制和管理等认知过程的总称。如规划、工作记忆、注意力、解决问题、言语推理、抑制、精神的灵活性、任务切换、启动和监测行动。"
+  },
+  {
+   "cn": "执行状态",
+   "en": "executive state",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0440",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "进程生存周期中的一种状态。表示进程在处理器上正在被执行。"
+  },
+  {
+   "cn": "执行开销",
+   "en": "executive overhead",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0683",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "程序执行过程中消耗在与程序本身逻辑不直接相关的代码上的时间。如操作系统调度的开销。"
+  },
+  {
+   "cn": "execution",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行时间",
+   "en": "execution time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行栈",
+   "en": "execution stack",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行指令",
+   "en": "execution command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号执行",
+   "en": "symbolic execution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行功能",
+   "en": "executive function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "系统执行程序",
+   "en": "system executive",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行程序",
+   "en": "executive program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行管理程序",
+   "en": "executive supervisor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行开销",
+   "en": "executive overhead",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行例程",
+   "en": "executive routine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行流",
+   "en": "executive stream",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行系统",
+   "en": "executive system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行支持",
+   "en": "executive support",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行主体",
+   "en": "executive agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行状态",
+   "en": "executive state",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "已履行合同",
+   "en": "executed contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "执行，实现",
+   "en": "execute\",\"implementation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可执行程序",
+   "en": "executable program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完成",
+   "en": "execute\",\"execution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完成",
+   "en": "execute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完成错误扣分",
+   "en": "execution fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完成分",
+   "en": "execution score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作完成",
+   "en": "routine execution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行委员会",
+   "en": "executive committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能精准执行",
+   "en": "intelligent precision execution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准执行检查",
+   "en": "standard execution inspection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完成速度",
+   "en": "speed of execution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首席执行官",
+   "en": "chief executive officer",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "REEF（微软Hadoop开发者平台）",
+   "en": "Retainable Evaluator Execution Framework (REEF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国秘书长办公厅",
+   "en": "Executive Office \nof the Secretary-General",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off\",\"ejection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "豁免",
+   "en": "exemption",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "经监管部门决定对某个源或某项实践免于部分或全部的监管控制，其依据是该源或实践所造成的照射或潜在照射太弱，没必要对其应用此等监管控制，而且无论剂量或危险的实际水平如何，这都是最佳防护选择。"
+  },
+  {
+   "cn": "豁免水平",
+   "en": "exemption level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.8.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_豁免与解控",
+   "subjectName": "豁免与解控",
+   "publishYear": "2025",
+   "definition": "由审管部门确定并以活度浓度、总活度、剂量率或辐射能量表示的值，在此值或以下辐射源的某些或所有方面无需接受审管控制。"
+  },
+  {
+   "cn": "公开选拔",
+   "en": "public election",
+   "source": "马克思主义",
+   "wordNumber": "03.0745",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "面向社会选择地方党政机关工作部门、工作机构的领导成员或者其人选的行为。党政机关工作部门、工作机构的副调研员以上及其他相当层次的非领导职务出现空缺，也可以公开选拔。从职务层次看，公开选拔适用于厅局级正职"
+  },
+  {
+   "cn": "党内选举制度",
+   "en": "innerParty election system",
+   "source": "马克思主义",
+   "wordNumber": "03.0739",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党内选举制度是由党章和《关于党内政治生活的若干准则》以及《中国共产党地方组织选举工作条例》等所规定的选举党的各级领导机关和党的各级代表大会的制度。它是保障党员正当行使选举权利，实现党内民主的一项重要制"
+  },
+  {
+   "cn": "医疗废物豁免",
+   "en": "exemption for medical waste",
+   "source": "消毒学",
+   "wordNumber": "7.2.2.1",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "符合医疗废物定义，但是无风险或者风险较低，在满足相关条件时，在部分环节或全部环节可不按照医疗废物进行管理的废弃物。"
+  },
+  {
+   "cn": "农药豁免残留限量",
+   "en": "pesticide exemption residue limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "根据科学评估，某些农药在特定农产品中的残留被认定为对人类健康和环境风险极低，因此无需设定最大残留限量。"
+  },
+  {
+   "cn": "弹射离机过载",
+   "en": "overload from ejection departure",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员由于各种原因被迫利用弹射方式应急离机时出现的冲击性过载，易造成脊柱骨压缩性骨折和椎间盘脱出。"
+  },
+  {
+   "cn": "两推一选",
+   "en": "two recommendations and one election",
+   "source": "马克思主义",
+   "wordNumber": "03.0760",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "选举产生村级党组织成员的一种方法。在村党组织进行换届时，先由党员和村民代表投票推荐党组织委员候选人初步人选，再由乡镇（街道）党委依据推荐票数和村党组织委员任职的基本条件，进行审查并确定正式候选人，然后"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

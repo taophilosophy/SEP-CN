@@ -1,0 +1,52 @@
+{
+ "key": "nihilisms",
+ "term": "nihilisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:07:38+00:00",
+ "status": "ok",
+ "note": "variant=nihilisms; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion,nihilism",
+   "source": "精神医学名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者坚信自身或自身的某些部分不存在，或现实世界的某些东西不存在的妄想。"
+  },
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion;nihilism",
+   "source": "行为医学名词",
+   "wordNumber": "16.084",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "坚信自身或者自身的某些部分不存在，或者外部现实世界的某些东西不存在的妄想。"
+  },
+  {
+   "cn": "历史虚无主义",
+   "en": "historical nihilism",
+   "source": "马克思主义",
+   "wordNumber": "04.0387",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "不加具体分析而盲目否定人类社会的历史发展过程,甚至否定历史文化,否定民族文化、民族传统、民族精神,否定一切的历史观点和思想倾向。其特征就是否认人类社会过去的一切,否认人类社会历史的存在。历史虚无主义总"
+  },
+  {
+   "cn": "民族虚无主义",
+   "en": "ethnic nihilism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0018",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "无视民族特点，抹杀民族差别，否定民族文化传统和历史遗产的社会思潮。极端的民族虚无主义者甚至认为“民族”是虚构的概念，根本否认民族的存在。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,692 @@
+{
+ "key": "abstract mathematical description",
+ "term": "abstract mathematical description",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:54+00:00",
+ "status": "ok",
+ "note": "variant=abstract mathematical description; 审定公布名词库=687; 海峡两岸名词对照库=172; 其他来源数据库=54; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对对象的属性和行为进行概括得到一类对象的公共性质并加以描述的过程。"
+  },
+  {
+   "cn": "论文摘要",
+   "en": "abstract",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.056",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对论文主要内容的概括性介绍。"
+  },
+  {
+   "cn": "文摘",
+   "en": "abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以提供文献内容梗概为目的，不加评论和补充解释，简明、确切地记述文献重要内容的短文。"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.047",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从口头或文字作品中摘录要点以形成新作品的著作活动。"
+  },
+  {
+   "cn": "文摘编制",
+   "en": "abstracting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.868",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "为帮助研究者迅速确定该文章能否满足特定的信息需求，对作品主要内容进行客观、简短的描述的过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0339",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从事物中抽取出所关心、本质性的要素，而舍弃其非本质、不关注的要素。"
+  },
+  {
+   "cn": "λ抽象",
+   "en": "λ-abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0921",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算中定义函数的方法。"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "化学名词",
+   "wordNumber": "02.1154",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物分子上夺取1个原子(常见的是氢原子)，通常形成1个新的自由基中间体的反应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "心理学名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "抽取出某些事物的若干共同属性，并将这些属性推广到一类事物，使之普遍化的思维过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通常指简化观察真实世界物体的一种方式。"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "source": "数学名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象音乐",
+   "en": "abstract music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstract thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象世界",
+   "en": "abstract universe",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象符号",
+   "en": "abstract symbol",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "抽象方法",
+   "en": "abstract method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象机",
+   "en": "abstract machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象码",
+   "en": "abstract code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动摘要",
+   "en": "auto abstract",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学文摘",
+   "en": "Chemical Abstracts",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内攫取[反应]",
+   "en": "internal abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象程度",
+   "en": "abstraction level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "一种与各种价值观念、信仰、情感和传统联系相脱离的、具有程序性、反思性和非人格化特征的现代科层制社会。社会学用以分析现代社会某些抽象特征的概念或视角。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "source": "马克思主义",
+   "wordNumber": "01.0136",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现实的个人”相对。指抽去了个人所处的现实历史条件和社会关系中的人类个体。近代欧洲思想家把摆脱了自然联系的、处于资本主义自由竞争社会中的单子式的个人,看成是符合人类天性的人类个体的理想状态。“抽象的"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0046",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "撇开劳动的具体形式无差别的一般人类劳动，即人类劳动力生理意义上（包括脑力和体力）的支出。抽象劳动是形成商品价值的惟一源泉，反映了商品生产者相互交换劳动的社会关系。"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

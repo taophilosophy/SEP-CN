@@ -1,0 +1,782 @@
+{
+ "key": "disputed questions on truth",
+ "term": "Disputed Questions on Truth",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:07:03+00:00",
+ "status": "ok",
+ "note": "variant=Disputed Questions on Truth; 审定公布名词库=1835; 海峡两岸名词对照库=529; 其他来源数据库=375; 预公布名词数据库=209; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "真值",
+   "en": "truth",
+   "source": "数学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种包含一定真相元素的欺骗性陈述。它有几种形式：陈述可能部分是真实的；陈述可能完全真实，但只是整个真相的一部分；或者，陈述可能利用一些欺骗性元素，如双重含义，意在欺骗、回避、归咎责任或歪曲事实。"
+  },
+  {
+   "cn": "医疗纠纷",
+   "en": "medical dispute",
+   "source": "急救医学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医患关系",
+   "subjectName": "医患关系",
+   "publishYear": "2025",
+   "definition": "医患双方对诊疗护理不良后果及其原因的认识不一致而发生的争议。"
+  },
+  {
+   "cn": "医疗纠纷",
+   "en": "medical dispute",
+   "source": "行为医学名词",
+   "wordNumber": "9.08",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "医疗卫生服务（包括诊断、治疗、保健、康复等）过程中，医疗卫生机构与患者之间的纠葛与纷争。"
+  },
+  {
+   "cn": "隐私权纠纷",
+   "en": "privacy dispute",
+   "source": "行为医学名词",
+   "wordNumber": "9.086",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "医疗卫生服务过程中由涉及患者隐私权引发的纠葛与纷争。"
+  },
+  {
+   "cn": "劳动纠纷",
+   "en": "labor dispute",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0375",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源管理法规",
+   "subjectName": "人力资源管理法规",
+   "publishYear": "2016",
+   "definition": "用人单位和劳动者之间因劳动权利与义务所发生的不一致意见。"
+  },
+  {
+   "cn": "医疗纠纷",
+   "en": "medical dispute",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.024",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "患者或其代理人与医疗机构或医务人员，对医疗行为期望的结果或双方在权利义务的认识上产生分歧，并以损害赔偿为主要请求的行为。"
+  },
+  {
+   "cn": "莱蒂西亚争端",
+   "en": "Leticia Dispute",
+   "source": "世界历史名词",
+   "wordNumber": "04.0760",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "20世纪30年代，秘鲁和哥伦比亚之间因莱蒂西亚地区所有权而发生的边界冲突。"
+  },
+  {
+   "cn": "国际争端",
+   "en": "international dispute",
+   "source": "世界历史名词",
+   "wordNumber": "01.0818",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "不同国家或国际组织之间发生的争执或冲突。"
+  },
+  {
+   "cn": "水事纠纷",
+   "en": "water dispute",
+   "source": "水利科学技术名词",
+   "wordNumber": "17.019",
+   "subjectFullName": "水利科学技术_水利管理_水法（水利）",
+   "subjectName": "水法（水利）",
+   "publishYear": "1997",
+   "definition": "地区之间、单位之间、单位和个人之间、个人之间在开发利用水资源和防治水害的水事活动中所产生的行政争议或民事纠纷的统称。"
+  },
+  {
+   "cn": "商务纠纷",
+   "en": "commercial dispute",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.412",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.284",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常被界定为在所有解释下都真的句子。有时逻辑真理也局限为某个逻辑系统的内定理。"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.019",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对客观事实的陈述，往往不如诉诸情感和煽动信仰的内容更容易影响民意。这个词里的“post”表示的是“超越”，喻指“真相”不再那么重要。《牛津词典》(the Oxford Dictionaries)将该词"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0136",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个布尔函数的函数表，其中列出了在诸变元的不同取值下该函数的值。"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0143",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对一个逻辑表达式中的所有命题变量赋予值0或1（分别表示假和真）的一个方法。"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "source": "世界历史名词",
+   "wordNumber": "05.0108",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "十二月党人的纲领，1821-1823年制定。主要主张包括：废除农奴制和等级制，建立共和国，把土地分给农民等。"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "source": "数学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "争议",
+   "en": "dispute",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际争端",
+   "en": "international dispute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易纠纷",
+   "en": "trade dispute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替代性纠纷解决方式",
+   "en": "alternative dispute resolution\",\"ADR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贸易纠纷索赔",
+   "en": "claim for trade dispute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "真值维护系统",
+   "en": "truth maintenance system\",\"TMS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柏拉图真理概念",
+   "en": "Plato's conception of Truth",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国际投资纠纷仲裁",
+   "en": "arbitration of international investment dispute",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基于知识的问答系统",
+   "en": "knowledge-based question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "争论",
+   "en": "dispute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间争端",
+   "en": "cyberspace dispute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线争议解决",
+   "en": "online dispute resolution (ODR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务争议解决",
+   "en": "e-commerce dispute resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代性纠纷解决机制",
+   "en": "alternative dispute resolution mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "医疗纠纷",
+   "en": "medical dispute",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.092",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医患双方对诊疗活动、后果及其原因产生异议引发的纷争。"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0209",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的客观性。真理所反映的对象是不依赖于认识主体而客观存在的，真理性的认识中包含有不依人的意志为转移的客观内容。"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0210",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的相对性。(1)从整个物质世界来说，任何真理只是对无限宇宙的一个部分、一个方面的正确认识。世界上尚有许多事物、方面没有被认识或未被完全认识。(2)从某一特定事物来说，任何真理性认识，只是对它的某些"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "医患纠纷",
+   "en": "doctor-patient dispute",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.09",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医疗活动中医方与患方之间的争执与矛盾。它既包括基于医疗过错产生的医疗纠纷，也包括与医疗过错无关的其他医患纠纷，如欠付医疗费用引起的纠纷等。"
+  },
+  {
+   "cn": "非医疗过失纠纷",
+   "en": "non-medical dispute",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.093",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在诊疗活动中因医患沟通不畅、患者病情特殊等非医务人员技术性过错而引起的医患之间的纠纷。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "用和平方式解决国际争端",
+   "en": "settlement of international disputes by peaceful means",
+   "source": "马克思主义",
+   "wordNumber": "04.0176",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于解决国与国之间历史遗留问题、政治利益和特定权利及其他争端而引起的冲突和矛盾以稳定世界局势的一种主张。用和平方式解决国际争端是现代国际法的一项基本原则和制度。一般采用对话和协商、谈判与协商、斡"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "中华人民共和国劳动争议调解仲裁法",
+   "en": "law of the People's Republic of China on labor-dispute mediation and arbitration",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了公正及时解决劳动争议，保护当事人合法权益，促进劳动关系和谐稳定而制定的法律。2007年12月29日第十届全国人民代表大会常务委员会第三十一次会议通过并公布，自2008年5月1日起施行。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

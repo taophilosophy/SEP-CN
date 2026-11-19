@@ -1,0 +1,622 @@
+{
+ "key": "geography",
+ "term": "Geography",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:57:41+00:00",
+ "status": "ok",
+ "note": "variant=Geography; 审定公布名词库=381; 海峡两岸名词对照库=326; 其他来源数据库=18; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "地理学",
+   "en": "geography",
+   "source": "风景园林名词",
+   "wordNumber": "01.0156",
+   "subjectFullName": "风景园林_总论_风景园林相关学科",
+   "subjectName": "风景园林相关学科",
+   "publishYear": "2025",
+   "definition": "研究地球表层自然要素与人文要素相互作用及其形成演化的特征、结构、格局、过程、地域分异与人地关系等的一门学科。"
+  },
+  {
+   "cn": "地理学",
+   "en": "geography",
+   "source": "地理学名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "研究地球表层自然要素与人文要素相互作用及其形成演化的特征、结构、格局、过程、地域分异与人地关系等。是一门复杂学科体系的总称。"
+  },
+  {
+   "cn": "地理课",
+   "en": "geography course",
+   "source": "教育学名词",
+   "wordNumber": "07.177",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定单位时间内，以地理学科为内容的教学活动。"
+  },
+  {
+   "cn": "乡村地理学",
+   "en": "rural geography",
+   "source": "风景园林名词",
+   "wordNumber": "05.0254",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "研究乡村的形成、功能结构、发展演变及其空间体系分布规律，探索不同地区乡村的经济、社会、人口、聚落、文化和资源利用等一系列问题的学科。"
+  },
+  {
+   "cn": "土壤地理学",
+   "en": "soil geography",
+   "source": "农学名词",
+   "wordNumber": "09.130",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "研究土壤的空间分布和组合及其与地理环境相互关系的学科。"
+  },
+  {
+   "cn": "人文地理学",
+   "en": "human geography",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.481",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_地学哲学",
+   "subjectName": "地学哲学",
+   "publishYear": "2024",
+   "definition": "地理科学分支科学之一。将人类与自然地理环境的各种要素相互联系起来进行系统研究的理论学科。该学科以人类为研究的主体。"
+  },
+  {
+   "cn": "资源地理学",
+   "en": "resources geography ",
+   "source": "草学名词",
+   "wordNumber": "3.0262",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "媒体地理学",
+   "en": "media geography",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.029",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "根据媒体所处的自然地理位置、区域文化、宗教和人口素质等因素，探讨媒体的地理分布、媒体的均衡发展等问题的一类研究。以法国学者雅克·巴哈(Jacques Barrat)1992年的著作《媒体与经济地理学》"
+  },
+  {
+   "cn": "城市地理学",
+   "en": "urban geography",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.202",
+   "subjectFullName": "城乡规划学_城乡规划总述_相关学科",
+   "subjectName": "相关学科",
+   "publishYear": "2021",
+   "definition": "地理学的分支学科。研究城市形成、发展和空间组织规律的一门学科。"
+  },
+  {
+   "cn": "植被地理学",
+   "en": "vegetation geography",
+   "source": "植物学名词",
+   "wordNumber": "01.0081",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究植被的类型、组成、分布等与自然地理因素之间关系以及植被资源合理利用与保护的学科。"
+  },
+  {
+   "cn": "植物区系地理学",
+   "en": "floristic geography",
+   "source": "植物学名词",
+   "wordNumber": "01.0090",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究全球或某一地区所有植物种类的组成、分布格局及其形成原因的学科。"
+  },
+  {
+   "cn": "森林地理学",
+   "en": "forest geography",
+   "source": "林学名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "林学_总论",
+   "subjectName": "总论",
+   "publishYear": "2016",
+   "definition": "研究森林在地球表面分布状况和规律的学科。"
+  },
+  {
+   "cn": "医学地理学",
+   "en": "medical geography",
+   "source": "地方病学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "地方病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "研究自然地理因素与人类和动物的健康关系，以及一般环境因素对疾病和健康问题地理分布影响的科学。"
+  },
+  {
+   "cn": "方言地理学",
+   "en": "dialect geography",
+   "source": "语言学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "语言学_方言学_方言学通论",
+   "subjectName": "方言学通论",
+   "publishYear": "2011",
+   "definition": "方言学的一个分支学科。主要利用方言地图等方式研究方言的语言特征在地域性上的分布、特点及其规律。"
+  },
+  {
+   "cn": "资源地理学",
+   "en": "resource geography",
+   "source": "资源科学技术名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "资源科学技术_资源地学",
+   "subjectName": "资源地学",
+   "publishYear": "2008",
+   "definition": "研究自然资源形成、演化与分布中的地理过程及作用，以及资源开发利用中的地理学响应的学科。"
+  },
+  {
+   "cn": "海洋地理学",
+   "en": "marine geography",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0011",
+   "subjectFullName": "海洋科学技术_总论_一级分支学科名词",
+   "subjectName": "一级分支学科名词",
+   "publishYear": "2007",
+   "definition": "研究海洋自然现象、人文现象及其之间的相互关系和区域分异的学科。"
+  },
+  {
+   "cn": "建设地理学",
+   "en": "reconstruction geography",
+   "source": "地理学名词",
+   "wordNumber": "01.005",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "将地理学知识、理论、方法应用于国家建设和国土开发、利用、整治、管理、及监测的学科。"
+  },
+  {
+   "cn": "普通地理学",
+   "en": "general geography",
+   "source": "地理学名词",
+   "wordNumber": "01.071",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "研究地球表层一般规律的学科。"
+  },
+  {
+   "cn": "系统地理学",
+   "en": "systematic geography",
+   "source": "地理学名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "应用系统论的概念、理论、方法研究地理事物的学科。"
+  },
+  {
+   "cn": "发展地理学",
+   "en": "development geography",
+   "source": "地理学名词",
+   "wordNumber": "18.006",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "以不发达国家为研究对象，研究在这些国家特定的环境条件下，社会经济发展理论和发展战略的学科。"
+  },
+  {
+   "cn": "地理学",
+   "en": "geography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地理学",
+   "en": "geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理学",
+   "en": "geography",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人文地理",
+   "en": "cultural geography\",\"human geography",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图纸",
+   "en": "geography paper",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "植被地理学",
+   "en": "vegetation geography",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物区系地理学",
+   "en": "floristic geography",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然地理学",
+   "en": "physical geography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植被地理学",
+   "en": "vegetation geography",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态地理学",
+   "en": "ecological geography",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿拉伯地理学",
+   "en": "Arabic geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "比较地理学",
+   "en": "comparative geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "部门地理学",
+   "en": "sectorial geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市地理学",
+   "en": "urban geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "德国地理学",
+   "en": "Germany geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "发展地理学",
+   "en": "development geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利地理学",
+   "en": "welfare geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工业地理学",
+   "en": "industry geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海洋地理学",
+   "en": "marine geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "行动地理学",
+   "en": "active geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理",
+   "en": "The Laws Determining the Physical Features of the Land/Geography",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理数据",
+   "en": "geographic data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理信息",
+   "en": "geographic information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排名表",
+   "en": "ranking list\",\"biography",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "城市地理信息",
+   "en": "urban geographic information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众源地理数据",
+   "en": "volunteered geographic information (VGI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理信息系统（GIS）",
+   "en": "geographic information system (GIS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天时地利人和",
+   "en": "Opportune Time, Geographic Advantage, and Unity of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "文化地理学",
+   "en": "cultural geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0509",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "德国民族学家拉采尔（Friedrich Ratzel）在《人类地理学》一书中指出，应该像研究生物一样去研究文化，提出地理学研究的是人文景观，认为地理学主要是解释文化群体及其景观之间的差异。"
+  },
+  {
+   "cn": "民俗地理",
+   "en": "geography of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0021",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "研究民俗起源地、扩散和发展的空间特点与空间规律，以及与地理环境之间相互关系的领域。一个地区的民俗是该地区在长期的历史发展中逐渐形成的，它依靠习惯势力、传袭力量和心理信仰约束被人们一代一代传承下来，成为"
+  },
+  {
+   "cn": "历史地理学派",
+   "en": "School of Historical Geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0444",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗学研究的一个学派，19 世纪末、20 世纪初兴起于芬兰。创立者是芬兰民间文艺学家科隆父子（Julius Krohn, Kaarle Krohn），芬兰民俗学家阿尔奈（AnttiAarne）、安德松"
+  },
+  {
+   "cn": "《大元大一统志》",
+   "en": "Universal Geography of Great Yuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝官修地理总志。由札马剌丁、虞应龙等编纂，自1285 年起，历时9 年完成初稿；后因新得《云南图志》《甘肃图志》《辽阳图志》，继续重修，1303 年正式告成。凡六百册，一干三百卷。"
+  },
+  {
+   "cn": "《西域同文志》",
+   "en": "A survey of Geography and Figures of the Western Region",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0271",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "对译辞书名。清代第一部官修地名志，傅恒等纂，乾隆二十八年（1763 年）成书。内容主要为对新疆、青海、西藏等地之人名、地名之对译解释；涉及满文、汉文、蒙古文、藏文、维吾尔文、托忒蒙古文等6 种文字。"
+  },
+  {
+   "cn": "解释性传记",
+   "en": "interpretive biography",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "有计划地使用和收集那些描述了个人生活中转折时刻的个人档案、故事、说明和叙述的一种研究方法。"
+  },
+  {
+   "cn": "老年人口学",
+   "en": "geriatric demography",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "从人口学角度研究老年人口所具有的各种基本特征，分析人口老化速度与程度，阐明人口老化的成因、现状及发展趋势，分析人口年龄结构老化及其与社会经济发展的相互关系的学科。既是人口学的分支学科，又是老年学的重要"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographic accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，获得医疗卫生服务的地理距离是均等的特性。"
+  },
+  {
+   "cn": "地理因素",
+   "en": "geographic factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "独立于人类存在和活动之外的对生长发育有影响的自然现象的总称。如温度、土壤、地形、水与水道的分布、动植物、季候与地质历程的自然变迁、飓风、地 震、海潮等。"
+  },
+  {
+   "cn": "地理气候因素",
+   "en": "geographic climate factor",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "由日照时数、平均气温、气温年均差、平均地表温度、年降水量、年均相对湿度、海拔高度、大气压、平均水气压等指标反映的对生长发育具有明显影响的因素。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "《阿勒坦汗传》",
+   "en": "Biography of Altan Qaghan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0296",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文编年体叙事史诗。由无名氏据俺答汗义子恰台吉的著述加工而成。约成书于17 世纪。记述俺答汗先世至其子孙事迹，及藏传佛教格鲁派在蒙古的传播历史。是研究俺答汗时期历史、蒙藏关系和蒙汉关系的重要史料。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

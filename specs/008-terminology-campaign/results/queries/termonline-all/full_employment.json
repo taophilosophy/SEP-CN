@@ -1,0 +1,802 @@
+{
+ "key": "full employment",
+ "term": "full employment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:08:36+00:00",
+ "status": "ok",
+ "note": "variant=full employment; 审定公布名词库=1734; 海峡两岸名词对照库=401; 其他来源数据库=123; 预公布名词数据库=73; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "充分就业",
+   "en": "full employment",
+   "source": "经济学名词",
+   "wordNumber": "07.030",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "该概念最先由英国经济学家凯恩斯提出。指在某一工资水平之下，所有愿意工作的人，都获得了就业机会。充分就业并不等于全部就业或者完全就业。现代经济学认为，在充分就业状态存在着自然失业，即摩擦性失业和结构性失"
+  },
+  {
+   "cn": "充分就业",
+   "en": "full employment",
+   "source": "教育学名词",
+   "wordNumber": "11.260",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在法定劳动年龄内，从事一定的社会经济活动，劳动报酬达到和超过当地最低工资标准的就业状态。"
+  },
+  {
+   "cn": "充分就业产出",
+   "en": "full-employment output",
+   "source": "经济学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "从长期来看，垂直的总供给曲线意味着产出水平不取决于货币供给，这个长期的产出水平是使经济的资源得到充分利用，或者更现实地说是失业率等于自然率时的产出水平，即充分就业产出。"
+  },
+  {
+   "cn": "劳动者充分就业",
+   "en": "laborer full employment",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.269",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "即劳动力供给与劳动力需求处于均衡，国民经济发展充分地满足劳动者对就业岗位需求的状态。"
+  },
+  {
+   "cn": "饱胀",
+   "en": "fullness",
+   "source": "消化病学名词",
+   "wordNumber": "1.087",
+   "subjectFullName": "消化病_总论_症状",
+   "subjectName": "症状",
+   "publishYear": "2022",
+   "definition": "进食过多、过饱、过快引起的腹胀不适。"
+  },
+  {
+   "cn": "丰满度",
+   "en": "fullness",
+   "source": "建筑学名词",
+   "wordNumber": "10.0253",
+   "subjectFullName": "建筑学_建筑物理_建筑声学",
+   "subjectName": "建筑声学",
+   "publishYear": "2014",
+   "definition": "表示声音在室内发声和在露天发声时相比，在音质上提高的程度。"
+  },
+  {
+   "cn": "完全支架",
+   "en": "full support,full timber",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.189",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "四周封闭的支架。"
+  },
+  {
+   "cn": "就业",
+   "en": "employment",
+   "source": "教育学名词",
+   "wordNumber": "11.253",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "具有工作能力的人，通过从事一定社会经济活动，获取不低于当地最低生活保障标准的劳动报酬的状态。"
+  },
+  {
+   "cn": "雇主",
+   "en": "employer",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0531",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "收到并接受投标书，负责提供现场和支付承包商，并由承包商为其提供工程的当事方，及其财产所有权的合法继承人。"
+  },
+  {
+   "cn": "用人单位",
+   "en": "employer",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.033",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "依据相互同意的关系，对受聘用的工作人员在其受聘用期间负有确定的责任、承诺和义务的任何法人(自聘人员被认为既是法人又是工作人员)。"
+  },
+  {
+   "cn": "雇主",
+   "en": "employer",
+   "source": "教育学名词",
+   "wordNumber": "11.084",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在雇佣关系中，购买劳动力、提供报酬的自然人或法人。"
+  },
+  {
+   "cn": "就业能力",
+   "en": "employability",
+   "source": "教育学名词",
+   "wordNumber": "11.259",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "人们获得就业机会及维持就业的各种能力总和。"
+  },
+  {
+   "cn": "充分灌溉",
+   "en": "full irrigation",
+   "source": "农学名词",
+   "wordNumber": "12.089",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "使作物在各个生育阶段处于适宜水分状态且作物产量最高的灌溉模式。"
+  },
+  {
+   "cn": "完熟",
+   "en": "full ripe",
+   "source": "农学名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "谷类作物籽粒完全成熟，呈现本品种固有形状和色泽的状态。"
+  },
+  {
+   "cn": "望",
+   "en": "full moon",
+   "source": "天文学名词",
+   "wordNumber": "03.153",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球与太阳的黄经相差180°的时刻，也指当时的月相。此时地面观测者可看到月球的完整明亮的圆面。"
+  },
+  {
+   "cn": "全环扎术",
+   "en": "full cerclage",
+   "source": "兽医学名词",
+   "wordNumber": "18.055",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "应用不锈钢丝紧密缠绕360°，以固定骨折断端的方法。"
+  },
+  {
+   "cn": "全动作动画",
+   "en": "full animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.058",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "在制作时精准和逼真地表现各个动作的动画。"
+  },
+  {
+   "cn": "完全退火",
+   "en": "full annealing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.135",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_退火",
+   "subjectName": "退火",
+   "publishYear": "2021",
+   "definition": "将铁碳合金完全奥氏体化后缓慢冷却，获得接近平衡组织的退火工艺。"
+  },
+  {
+   "cn": "全突变",
+   "en": "full mutation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.222",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "某些由动态突变导致的遗传病中，三核苷酸串联重复拷贝数高到致病状态的突变。如脆性X基因的CGG三核苷酸串联重复数增加到230以上时，出现相应疾病的动态突变阶段。"
+  },
+  {
+   "cn": "完全复苏",
+   "en": "full recovery",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.03",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉复苏",
+   "subjectName": "麻醉复苏",
+   "publishYear": "2021",
+   "definition": "患者的呼吸系统、循环系统及肌力、血氧饱和度、意识等基本甚至全部恢复至麻醉前水平的状态。"
+  },
+  {
+   "cn": "全分辨率",
+   "en": "full resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全奏管风琴",
+   "en": "full organ",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全声混合音栓",
+   "en": "full mixture",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合唱赞美歌",
+   "en": "full anthem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全编制管弦乐团",
+   "en": "full orchestra",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全退火",
+   "en": "full annealing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "满相",
+   "en": "full phase",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "望",
+   "en": "full moon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[通货的]完全可兑换[性]",
+   "en": "full convertibility",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全背书，记名背书",
+   "en": "full endorsement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "全突变",
+   "en": "full mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全同胞",
+   "en": "full-sib",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全高速缓存",
+   "en": "full cache",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全色扫描",
+   "en": "full scan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "整站",
+   "en": "full station",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "全加器",
+   "en": "full adder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全减器",
+   "en": "full subtracter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全名",
+   "en": "full name",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全屏幕",
+   "en": "full screen",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全双工",
+   "en": "full duplex",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体360度",
+   "en": "full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋",
+   "en": "full-in full-out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻两周转体720度",
+   "en": "full in full out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全量抽取",
+   "en": "full extraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全场比赛时间",
+   "en": "full time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体一周",
+   "en": "full twist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全场比赛时间",
+   "en": "full time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前空翻转体360度",
+   "en": "front-full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻转体720度",
+   "en": "double-full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻转体360度",
+   "en": "back full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全维空间",
+   "en": "full-dimensional space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全链条监督",
+   "en": "full-chain supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空翻转体360度",
+   "en": "full-turn salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全速奔跑",
+   "en": "at full gallop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台式就业",
+   "en": "platform-based employment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "就业精准扶持",
+   "en": "targeted employment assistance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "就业优先政策",
+   "en": "pro-employment policies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "清道夫",
+   "en": "single full-back\",\"sweeper",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "就业",
+   "en": "employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "个人从事有偿工作的状态，包括根据雇佣合同为他人工作或以自雇身份从事劳动并获得报酬。"
+  },
+  {
+   "cn": "用人单位",
+   "en": "employer",
+   "source": "放射卫生学",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射工作人员职业健康管理",
+   "subjectName": "放射工作人员职业健康管理",
+   "publishYear": "2025",
+   "definition": "具有用人权利能力和用人行为能力，运用劳动力组织生产劳动，且向劳动者支付工资等劳动报酬的企事业单位和个体经济组织。"
+  },
+  {
+   "cn": "满载",
+   "en": "full load",
+   "source": "消毒学",
+   "wordNumber": "1.2.10.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "按照灭菌装置生产厂家说明书规定方式摆放的最高允许装载量。"
+  },
+  {
+   "cn": "全面罩",
+   "en": "full mask",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "与头部密合，能遮盖住眼、面、鼻、口和下颌等的面罩。"
+  },
+  {
+   "cn": "礼服",
+   "en": "full dress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0123",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "礼仪、社交的专用服装。世界各国、各地区或各民族，由于历史、文化等不同，对穿用礼服的要求也各不相同，一般应合乎社会公认的行为准则。"
+  },
+  {
+   "cn": "阶段性就业",
+   "en": "employment brokenly",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "妇女在职业生涯中因自身和家庭需要，在不同阶段采取的或就业、或接受继续教育和职业培训、或成为专职妻子和母亲的阶段式弹性就业方式。"
+  },
+  {
+   "cn": "非正规就业",
+   "en": "informal employment",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "在非正规部门的就业以及在正规部门的非正规就业，如临时工、非全日制弹性就业等。就业者以家政工、独立自雇的小业主、街头小贩等为多数，共同特点是收入来源和工作不稳定，社会保障不完善。大多数社会中妇女是非正规"
+  },
+  {
+   "cn": "就业政策",
+   "en": "employment policy",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "国家在就业领域实行的以增加就业机会、合理分配就业机会、增强劳动者的就业能力，以及对劳动者进行劳动保护等为主要形式的社会政策。"
+  },
+  {
+   "cn": "就业率",
+   "en": "employment rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.5",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "就业率",
+   "publishYear": "2025",
+   "definition": "就业人口占全部潜在劳动力或劳动适龄人口的比例。反映全社会劳动力资源得以有效利用的程度或水平。"
+  },
+  {
+   "cn": "体面工作",
+   "en": "decent employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "个人在自由、公正、安全及有尊严的条件下获得的体面且富有成效的工作。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  },
+  {
+   "cn": "临时就业",
+   "en": "temporary employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "具有预先确定的终止日期的工作，由客观规则决定结束时间，如特定日期、任务完成或被替代员工返岗。"
+  },
+  {
+   "cn": "雇主强制",
+   "en": "employer mandate",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.1.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险中的强制条款，雇主必须按照规定的投保费率为劳动者投保。"
+  },
+  {
+   "cn": "满负载单元",
+   "en": "full load unit",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.13.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "低温蒸汽甲醛灭菌器灭菌效果鉴定试验中，由特定规格和质量的PVC软管、聚酰胺棒、不锈钢管等组成的测试最大负载质量的组成测试单元。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "full funding system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.8",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一种以远期纵向收支平衡为原则的筹资模式。在预测未来支出的基础上，确定一个可以保证该时段内项目收支平衡的税或费率，以年为单位，分摊到各参保人，期满方可享受相关社保权益。"
+  },
+  {
+   "cn": "充满活力",
+   "en": "full of vitality",
+   "source": "马克思主义",
+   "wordNumber": "04.0200",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使一切有利于社会进步的创造愿望得到尊重，创造活动得到支持，创造才能得到发挥，创造成果得到肯定。"
+  },
+  {
+   "cn": "全生命周期健康",
+   "en": "full lifecycle health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以人的整个生命过程为视角，从生命孕育到生命终点的各阶段，通过系统性的预防、治疗、康复和健康促进措施，持续关注和保障健康，实现生命全程的健康维护与质量提升。"
+  },
+  {
+   "cn": "个体户",
+   "en": "self-employmented people",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "1970年代末期（经济改革）以来中国社会出现的个体经营者或家庭经营者。改革开放初期，政府文件规定个体户指雇工人数在8 人以下的小企业主和小型商业、服务业经营者。随着经济改革的推进，8人以下的雇工标准不"
+  },
+  {
+   "cn": "全浸腐蚀性试验",
+   "en": "full immersion corrosion test",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.7",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "用连续冲洗法或浸泡法测定常量喷雾、浸泡或冲洗消毒等方法对金属造成腐蚀程度的试验。"
+  },
+  {
+   "cn": "屈光充分矫正",
+   "en": "full-correction of refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "在屈光矫正情形下当平行光线经调节静止的屈光系统后成像在视网膜黄斑中心凹处的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

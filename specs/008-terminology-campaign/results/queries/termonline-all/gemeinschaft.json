@@ -1,0 +1,32 @@
+{
+ "key": "gemeinschaft",
+ "term": "Gemeinschaft",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:07:20+00:00",
+ "status": "ok",
+ "note": "variant=Gemeinschaft; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "共同体",
+   "en": "Gemeinschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.22",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "靠亲属和地缘感情，以神圣价值、道德、习俗的内聚力为纽带的社会关系，人们的行动是以亲密的、持久的、以充分了解的个体之间的同质性关系为取向。在德国社会学家滕尼斯那里，它与社会体(Gesellschaft）"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

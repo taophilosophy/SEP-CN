@@ -1,0 +1,722 @@
+{
+ "key": "total input activation",
+ "term": "Total input activation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:16:27+00:00",
+ "status": "ok",
+ "note": "variant=Total input activation; 审定公布名词库=2864; 海峡两岸名词对照库=907; 其他来源数据库=60; 预公布名词数据库=224; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "完全消耗系数",
+   "en": "total input coefficient",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0757",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "某种产品部门每提供一个单位最终使用时，对另一种产品部门货物或服务的直接消耗和间接消耗之和。相对应的，完全消耗系数等于直接消耗系数和全部间接消耗系数之和。"
+  },
+  {
+   "cn": "完全消耗系数矩阵",
+   "en": "total input coefficient matrix",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0758",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "由各产品(或产业)部门的完全消耗系数形成的矩阵。"
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "行为医学名词",
+   "wordNumber": "4.056",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "外界信息（刺激）作用于感受器，机体接受信息的过程。为信息加工术语。"
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "物理学名词",
+   "wordNumber": "03.0960",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "投入",
+   "en": "input",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0739",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "产品生产所需的原材料、辅助材料、燃料、动力、固定资产折旧和劳动力。"
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.377",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在数据处理系统中，将系统外部的原始数据或资料借助专门设备和系统传输给系统内部，并将这些数据从外部格式转为系统便于处理的内部格式的过程。"
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "电气工程名词",
+   "wordNumber": "01.746",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "数学名词",
+   "wordNumber": "012.0428",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "投入",
+   "en": "inputs",
+   "source": "经济学名词",
+   "wordNumber": "03.079",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "生产一定商品所需要耗费的各种资源。投入是进行生产并取得产品的根本条件或物质前提，它虽然也包括一些非经济资源，即有效用但供给无限从而没有价格的物品，如空气等，但经济学家所指的投入，主要是经济资源，即有效"
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse; totality",
+   "source": "天文学名词",
+   "wordNumber": "03.123",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "天体视面全部被另一个天体的影子遮掩的现象。"
+  },
+  {
+   "cn": "进项税额",
+   "en": "input tax",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.064",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "与销售方收取的销项税额相对应，指纳税人购进商品或接受应税劳务所支付或负担的增值税额。"
+  },
+  {
+   "cn": "文字输入",
+   "en": "text input",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.020",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "将文字信息输入系统或设备中的过程。"
+  },
+  {
+   "cn": "输入信号",
+   "en": "input signal",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0961",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制方式和元件",
+   "subjectName": "控制方式和元件",
+   "publishYear": "2021",
+   "definition": "提供给元件，并使其产生给定输出的信号。"
+  },
+  {
+   "cn": "热输入",
+   "en": "heat input",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.038",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由焊接能源输入给单位长度焊缝上的热能。"
+  },
+  {
+   "cn": "设计输入",
+   "en": "design input",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.104",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "开展工程设计各项工作前需要收集的设计条件和要求。"
+  },
+  {
+   "cn": "输入构件",
+   "en": "input link",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0015",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "机构中输入运动或动力的构件。"
+  },
+  {
+   "cn": "输入转矩",
+   "en": "input torque",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0326",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "作用在机构主动构件或输入构件上的转矩。"
+  },
+  {
+   "cn": "育种投入量",
+   "en": "breeding input",
+   "source": "畜牧学名词",
+   "wordNumber": "04.585",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "实施正常生产活动之外的育种措施所发生的成本组分。"
+  },
+  {
+   "cn": "边际投入量",
+   "en": "marginal input",
+   "source": "畜牧学名词",
+   "wordNumber": "04.589",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "在其他性状保持不变的前提下，某性状每改变一个单位所需的额外投入。"
+  },
+  {
+   "cn": "原始投入",
+   "en": "primary input",
+   "source": "经济学名词",
+   "wordNumber": "10.143",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "生产过程中劳动、资本和土地的投入。西方经济学家把全部生产要素收入看作是原始投入。"
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输入",
+   "en": "input",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入设备",
+   "en": "input device\",\"input equipment\",\"input unit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全体",
+   "en": "total",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "全食",
+   "en": "total eclipse\",\"totality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "totality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "输入信号",
+   "en": "input signal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "输入搅动",
+   "en": "input disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "输入变量",
+   "en": "input variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "输入函数",
+   "en": "input function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "输入节点",
+   "en": "input node",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脉动输入",
+   "en": "pulse input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阶跃输入",
+   "en": "step input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "投入产出",
+   "en": "input-output",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考输入",
+   "en": "reference input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "投入税",
+   "en": "input tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外来投入",
+   "en": "external input",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "追加投入",
+   "en": "supplementary input",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "输入设备",
+   "en": "input device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总时间",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终成绩",
+   "en": "total time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总分",
+   "en": "total score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会总成绩",
+   "en": "Olympic total",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景激活",
+   "en": "scenario activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总体性",
+   "en": "totality",
+   "source": "马克思主义",
+   "wordNumber": "05.0003",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "卢卡奇《历史和阶级意识》中的核心范畴。总体性是历史的总体，是客体与主体的统一；具体的总体，是直接性与中介性的统一；辩证的总体，是理论与实践的统一；革命的总体，是过程与目标的统一。"
+  },
+  {
+   "cn": "生产要素投入",
+   "en": "factor input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "将生产要素土地、劳动和资本用于生产的过程。"
+  },
+  {
+   "cn": "固定投入",
+   "en": "fixed input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在短期内生产者无法进行数量调整的那部分要素投入。"
+  },
+  {
+   "cn": "可变投入",
+   "en": "variable input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在生产过程中随产量而变化的那部分要素投入。"
+  },
+  {
+   "cn": "农业投入品",
+   "en": "agricultural inputs",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.17",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "在农产品生产过程中使用或添加的物质。包括种子、种苗、肥料、农药、兽药、饲料及饲料添加剂等农用生产资料产品和农膜、农机、农业工程设施设备等农用工程物资产品。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "总酚",
+   "en": "total phenols",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "包括多元酚和一元酚的所有酚类物质的总和。"
+  },
+  {
+   "cn": "总氯",
+   "en": "total chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "化合氯和游离氯之和。"
+  },
+  {
+   "cn": "总过滤",
+   "en": "total filtration",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.31",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "固有过滤和附加过滤的总和。"
+  },
+  {
+   "cn": "总体史",
+   "en": "total history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.15",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种涉及社会生活的诸方面的历史，将不同领域视为一个整体的各个组成部分，而要理解其中任何一个领域，都要将其置于整体的历史之中。"
+  },
+  {
+   "cn": "总收入",
+   "en": "total income",
+   "source": "马克思主义",
+   "wordNumber": "02.0279",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "总生产中扣除了成本后的收入部分。总收入等于工资（或预定要重新成为工人收入的产品部分）+利润+地租。"
+  },
+  {
+   "cn": "总效用",
+   "en": "total utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在一定时间内，消费者消费某种商品或服务总的满足程度之和"
+  },
+  {
+   "cn": "总产量",
+   "en": "total production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "与一定的可变要素劳动的投入量相对应的最大产量。"
+  },
+  {
+   "cn": "全氮",
+   "en": "total nitrogen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.61",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "样品中的含氮物质（蛋白质及肽、胨及氨基酸等）中氮元素的总量，一般将含氮物质全部分解为氨后经测定计算出含氮总量。"
+  },
+  {
+   "cn": "总糖",
+   "en": "total sugar",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.66",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中具有还原糖（含有游离醛基或酮基还原性基团的葡萄糖、果糖、麦芽糖）和非还原糖的总和。"
+  },
+  {
+   "cn": "总酸",
+   "en": "total acids",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.67",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "被测样品中所有能与氢氧化钠发生中和反应的各种酸的总和。"
+  },
+  {
+   "cn": "总减员",
+   "en": "total casualty",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.15.1",
+   "subjectFullName": "军事预防医学_军事预防医学_减员",
+   "subjectName": "减员",
+   "publishYear": "2025",
+   "definition": "参战人员在军事行动中所发生的减员，包括战斗减员和非战斗减员。"
+  },
+  {
+   "cn": "三卤甲烷总量",
+   "en": "total trihalomethanes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.9",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "在氯化等反应过程中形成的一类挥发性卤代烃类化合物的总和，包括氯仿、一溴二氯甲烷、二溴一氯甲烷和溴仿等。"
+  },
+  {
+   "cn": "健康生产要素",
+   "en": "health production input",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "卫生经济学名词_健康需求_健康生产",
+   "subjectName": "健康生产",
+   "publishYear": "2025",
+   "definition": "健康生产过程中的医疗和非医疗资源投入，包括市场上可以购买的要素，例如医疗卫生服务、药品、食物、装备，健康的饮食习惯、健身、时间等。"
+  },
+  {
+   "cn": "基于投入支付",
+   "en": "input-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的工资、设备费用等投入进行支付。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

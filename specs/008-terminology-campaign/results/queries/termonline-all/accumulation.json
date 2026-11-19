@@ -1,0 +1,502 @@
+{
+ "key": "accumulation",
+ "term": "accumulation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:08:26+00:00",
+ "status": "ok",
+ "note": "variant=accumulation; 审定公布名词库=267; 海峡两岸名词对照库=55; 其他来源数据库=2; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "蓄积［作用］",
+   "en": "accumulation",
+   "source": "兽医学名词",
+   "wordNumber": "11.061",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "当外源化学物反复多次与机体接触，化学物吸收进入体内的速度或数量超过代谢转化和排泄的速度或数量时，化学物或其代谢物在体内的浓度或量逐渐增加并储留的现象。"
+  },
+  {
+   "cn": "蓄积作用",
+   "en": "accumulation",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0323",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "环境污染物进入机体的速度或数量超过机体消除的速度或数量，造成环境污染物在体内不断积累的作用。"
+  },
+  {
+   "cn": "蓄积[作用]",
+   "en": "accumulation",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.044",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_基础研究",
+   "subjectName": "基础研究",
+   "publishYear": "2019",
+   "definition": "外源性物质连续、反复进入人体，而且吸收速度超过代谢转化与排泄的速度时，在体内的量逐渐增加并储留的现象。"
+  },
+  {
+   "cn": "蓄积",
+   "en": "accumulation",
+   "source": "药学名词",
+   "wordNumber": "07.094",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "当吸收速度或总量超出代谢转化排出速度或总量时，化学物就有可能在体内逐渐增加并储留的现象。"
+  },
+  {
+   "cn": "冰积[作用]",
+   "en": "accumulation",
+   "source": "大气科学名词",
+   "wordNumber": "07.128",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "由于增加冰川或雪原质量的各种过程(雪的淀积、降水、凝华等)而增加到冰川或雪原上的雪或其他任何形式的固态水的数量。"
+  },
+  {
+   "cn": "堆积作用",
+   "en": "accumulation",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1224",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "颗粒物进行堆积的过程。"
+  },
+  {
+   "cn": "堆积",
+   "en": "accumulation",
+   "source": "土壤学名词",
+   "wordNumber": "08.199",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "侵蚀物质经水力、风力、重力作用搬运后堆积的过程。"
+  },
+  {
+   "cn": "堆积[作用]",
+   "en": "accumulation",
+   "source": "地质学名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "累加器",
+   "en": "accumulator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0217",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在运算器中，提供操作数并存放运算结果的寄存器。"
+  },
+  {
+   "cn": "分液蓄液器",
+   "en": "accumulator",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0237",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷设备",
+   "subjectName": "制冷设备",
+   "publishYear": "2013",
+   "definition": "一种用于蓄存和分离低压侧制冷剂液体或减少吸气压力下气体压力脉动的容器或腔体。"
+  },
+  {
+   "cn": "蓄压器",
+   "en": "accumulator",
+   "source": "航空科学技术名词",
+   "wordNumber": "08.039",
+   "subjectFullName": "航空科学技术_航空机电系统",
+   "subjectName": "航空机电系统",
+   "publishYear": "2003",
+   "definition": "用于储存液压能量，吸收压力脉动与冲击压力的液压附件。"
+  },
+  {
+   "cn": "蓄能器",
+   "en": "accumulator",
+   "source": "石油名词",
+   "wordNumber": "12.0372",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "蓄积毒性",
+   "en": "accumulation toxicity",
+   "source": "兽医学名词",
+   "wordNumber": "11.062",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "由外源化学物的蓄积作用引起机体的毒性反应。"
+  },
+  {
+   "cn": "积累蒙太奇",
+   "en": "accumulation montage",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.078",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "将一系列性质相同或相近的镜头连接在一起，形成视觉积累，起强调作用的叙事组接手法。"
+  },
+  {
+   "cn": "累积层",
+   "en": "accumulation layer",
+   "source": "物理学名词",
+   "wordNumber": "08.1655",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "聚证",
+   "en": "accumulation disease",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1088",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以腹中气聚，攻窜胀痛，时作时止为主要表现的疾病。"
+  },
+  {
+   "cn": "聚积模",
+   "en": "accumulation mode",
+   "source": "大气科学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "直径在0.5～2μm范围内的气溶胶粒子。这些粒子在空气动力学上是稳定的，因此它们较稳定地聚积在大气中。"
+  },
+  {
+   "cn": "冰积区",
+   "en": "accumulation area",
+   "source": "大气科学名词",
+   "wordNumber": "07.130",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "在永久雪线(冰积超过冰消的地方)之上的那部分冰川。"
+  },
+  {
+   "cn": "堆积阶地",
+   "en": "accumulation terrace",
+   "source": "地理学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "河流通过侵蚀、堆积活动，将自己所携带的松散物质堆积下来而形成的河流阶地。常分布在河流的中下游。"
+  },
+  {
+   "cn": "堆积土",
+   "en": "accumulation soil",
+   "source": "土木工程名词",
+   "wordNumber": "14.017",
+   "subjectFullName": "土木工程_土木工程勘察与测量_岩土成因分类",
+   "subjectName": "岩土成因分类",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "蓄积",
+   "en": "accumulation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "累加器",
+   "en": "accumulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积聚态",
+   "en": "accumulation mode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "累积带",
+   "en": "accumulation zone",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "累积速率",
+   "en": "accumulation rate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "堆积速率",
+   "en": "accumulation rate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "堆积阶地",
+   "en": "accumulation terrace",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "累计雨量器",
+   "en": "accumulation raingauge\",\"accumulative rain-gauge",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "涡流累积[法]",
+   "en": "eddy accumulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "资本积累",
+   "en": "capital accumulation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "残毒积累",
+   "en": "residue accumulation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "风成堆积",
+   "en": "aeolian accumulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖质积累作用",
+   "en": "humus accumulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海积作用",
+   "en": "marine accumulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生物积累",
+   "en": "biological accumulation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "聚集结晶",
+   "en": "accumulative crystallization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "累积概率",
+   "en": "accumulative probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回流罐",
+   "en": "reflux accumulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "累加寄存器",
+   "en": "accumulator register",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓄电池",
+   "en": "accumulator battery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "积善成德",
+   "en": "Moral Character Can Be Built by Accumulating Goodness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资本积累",
+   "en": "capital accumulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0159",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把剩余价值再转化为资本，叫做资本积累。它是资本的规模不断扩大的再生产。"
+  },
+  {
+   "cn": "社会主义积累",
+   "en": "socialist accumulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0333",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在社会主义制度下，有计划地将国民收入的一部分用于扩大再生产。社会主义积累包括价值形态和实物形态的积累，其源泉是劳动者创造的剩余产品及其价值。"
+  },
+  {
+   "cn": "部分积累制",
+   "en": "partial accumulation system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "将近期横向收支平衡原则与长期纵向收支平衡原则结合起来，在满足现时一定支出需要的基础上，留有一定的积累以应付未来需要的一种保险制度"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "资本原始积累",
+   "en": "primitive accumulation of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0173",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "依靠暴力剥夺小生产者，强制生产者和生产资料分离，迫使小生产者沦为雇佣劳动者，并将社会财富转化为资本，以加速封建生产方式转变为资本主义生产方式的历史过程。因为它发生在资本主义生产方式完全确立之前，用以与"
+  },
+  {
+   "cn": "资本积累的社会结构理论",
+   "en": "social structure of accumulation theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0149",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国大卫·戈登（David Gordon）等提出和发展的理论，指为确保单个资本家能够进行资本积累,由一系列制度构成的整体。由四项制度结构构成:积累的当事人即公司结构；积累的动力即竞争结构和阶级斗争结构"
+  },
+  {
+   "cn": "积累的社会结构学派",
+   "en": "school of social structure of accumulation",
+   "source": "马克思主义",
+   "wordNumber": "05.0156",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "积累的社会结构是由大卫·戈登（David Gordon）于1978年提出、由一批学者进一步发展而形成的一个学派（SSA学派）。该学派认为资本主义积累过程是在一个稳定、有利的制度环境和制度集合体中进行的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

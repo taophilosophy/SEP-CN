@@ -1,0 +1,762 @@
+{
+ "key": "community of inquiry",
+ "term": "community of inquiry",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:11:23+00:00",
+ "status": "ok",
+ "note": "variant=community of inquiry; 审定公布名词库=10000; 海峡两岸名词对照库=7988; 其他来源数据库=1940; 预公布名词数据库=2971; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "兽医学名词",
+   "wordNumber": "13.003",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "以询问的方式，向动物主人或饲养管理人员了解患病动物的饲养管理情况以及现病史和既往史的诊断方法。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "兽医学名词",
+   "wordNumber": "19.122",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "通过询问动物主人及有关人员，了解疾病的发生、发展、治疗经过、现有症状及其他与疾病有关的情况，以诊察疾病的方法。"
+  },
+  {
+   "cn": "询价",
+   "en": "inquiry",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.579",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "对合格供货商（通常至少三家）发出招标邀请，并对其报价进行比较，以确保价格具有竞争性的一种采购方式。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "医师通过对患者或相关人员的系统询问，获取病史资料，再经过综合分析做出初步判断的一种诊断方法。"
+  },
+  {
+   "cn": "问诊",
+   "en": "inquiry",
+   "source": "中医药学名词",
+   "wordNumber": "04.258",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "医生通过询问病人或陪诊者，了解疾病的发生、发展、治疗经过、现在症状和其他与疾病有关的情况，以诊察疾病的方法。"
+  },
+  {
+   "cn": "问鼻涕",
+   "en": "inquiry of snivel",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.091",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问流涕的时间长短，涕量的多少，鼻涕的质地、色泽，有无异味或带血丝，流涕方式等的诊断方法。"
+  },
+  {
+   "cn": "问耳鸣",
+   "en": "inquiry of tinnitus",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.086",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳鸣的发作时间、响度、音调，诱发加重的因素以及有无听力下降等的诊断方法。"
+  },
+  {
+   "cn": "问眩晕",
+   "en": "inquiry of vertigo",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.087",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问眩晕发作的特点，眩晕发作时是否伴有耳鸣耳聋，过去有无类似的发作史等的诊断方法。"
+  },
+  {
+   "cn": "问发音",
+   "en": "inquiry of phonation",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.096",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问声音变化的时间，声嘶加重或减轻的诱因，发音时是否伴有喉痛，患者是否从事与嗓音有关的职业等的诊断方法。"
+  },
+  {
+   "cn": "问耳聋",
+   "en": "inquiry of deafness",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.085",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳聋的起病诱因、时间长短、程度、治疗经过及相关全身性疾病等的诊断方法。"
+  },
+  {
+   "cn": "问呼吸",
+   "en": "inquiry of breath",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.098",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问有无气急、气促、气短，呼吸时有无喉鸣音，呼吸困难与活动、体位的关系等的诊断方法。"
+  },
+  {
+   "cn": "问耳痛",
+   "en": "inquiry of earache",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.088",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问耳痛的时间长短、性质，是否伴有耳漏，有无挖耳、污水入耳、外感、外伤史等的诊断方法。"
+  },
+  {
+   "cn": "问吞咽",
+   "en": "inquiry of deglutition",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "05.095",
+   "subjectFullName": "中医药学_耳鼻喉科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "问有无吞咽异常的感觉，注意空咽与进食吞咽有无不同的诊断方法。"
+  },
+  {
+   "cn": "规划查询",
+   "en": "planning inquiry",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民依照法律法规的规定，就涉及自身利害关系的规划制定情况和具体建设活动是否符合规划要求向规划主管部门查询、了解情况的行为和过程。"
+  },
+  {
+   "cn": "结算质疑",
+   "en": "settlement inquiry",
+   "source": "电力名词",
+   "wordNumber": "06.339",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "各市场主体在收到市场运营机构出具的结算清单以后,有权对结算清单的内容进行查询和质疑,并要求市场运营机构就结算内容做出解释说明的过程。"
+  },
+  {
+   "cn": "询问站",
+   "en": "inquiry station",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1187",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "主要用途是用于查询信息的用户终端设备。"
+  },
+  {
+   "cn": "政策质询",
+   "en": "policy inquiry",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0238",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "决策组织对公共政策领域中某些议题或判断向有关方面机构与人员进行质疑与问询的活动。"
+  },
+  {
+   "cn": "探究学习",
+   "en": "inquiry learning",
+   "source": "心理学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "要求学生通过搜集资料、提出猜想、运用科学方法进行检验、进而解决问题并建构知识的一种教学方式。"
+  },
+  {
+   "cn": "科学探究",
+   "en": "science inquiry",
+   "source": "教育学名词",
+   "wordNumber": "07.169",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学生围绕科学问题，运用已经获取的知识，体验科学过程、领悟科学思想、学习科学方法、理解科学的发现和发展进程的各种活动的总称。"
+  },
+  {
+   "cn": "图形查询",
+   "en": "graphic inquiry",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.551",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "根据对象的空间位置查询有关属性信息的方法。"
+  },
+  {
+   "cn": "询价函件",
+   "en": "letter of inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[贸易]询价",
+   "en": "trade inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "definite inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确定询价",
+   "en": "firm inquiry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "询价单",
+   "en": "inquiry list",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "图形查询",
+   "en": "graphics inquiry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "询问站",
+   "en": "inquiry station",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程查询",
+   "en": "remote inquiry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调查委员会",
+   "en": "board of investigation\",\"board of inquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "查询，检索",
+   "en": "query\",\"inquiry\",\"search",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "商品询价",
+   "en": "inquiry for merchandise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群落系数",
+   "en": "coefficient of community",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群落系数",
+   "en": "coefficient of community",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群落稳定性",
+   "en": "stability of community",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "群落相似性",
+   "en": "similarity of community",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群落",
+   "en": "community",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "共因子方差比,共同度",
+   "en": "communality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "沟通",
+   "en": "communication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "质询",
+   "en": "inquiry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线问诊",
+   "en": "online medical inquiries",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字探究实验室",
+   "en": "inquiry-oriented digital laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据查询权",
+   "en": "right to data inquiry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信传输",
+   "en": "communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字经济共同体",
+   "en": "community of digital economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据群落",
+   "en": "data community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社区",
+   "en": "blockchain community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学共同体",
+   "en": "scientific community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Apache社区",
+   "en": "Apache community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络社群",
+   "en": "Network Community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线社区",
+   "en": "online community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术社群",
+   "en": "technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "询问法",
+   "en": "inquiry dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "向被调查者或了解情况者询问某一段时间内食物摄入量，然后计算能量和各种营养素摄入量的调查方法，适用于病人及营养咨询时个人膳食情况的调查。"
+  },
+  {
+   "cn": "科学（家）共同体",
+   "en": "scientific community/community of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "对科学基本问题持有共同看法、并在科学实践中形成单一传统的科学家所组成的研究群体。"
+  },
+  {
+   "cn": "同侪共同体",
+   "en": "community of peers",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.12",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "由年龄、兴趣、地位相近的人或同龄人组成的群体。"
+  },
+  {
+   "cn": "社区意识",
+   "en": "sense of community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "社区成员基于社区场域空间所具有的一种归属感和认同感、一种认识到成员之间以及对于整个群体而言都很重要的感觉。并且是一种对通过彼此承诺来满足成员需求的共识。"
+  },
+  {
+   "cn": "交际民族志",
+   "en": "ethnography of communication",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0021",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "运用人类学的观念和方法，研究言语交际的模式及其与民族文化关系的学问。"
+  },
+  {
+   "cn": "社会共同体",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人类历史上由共同生活和社会互动形成的、建立在一定文化认同基础上的、以特定关系和纽带联系起来的稳定的人群联合体。前现代社会人类群体存在的普遍形式。其特征和形式与一定的社会生产方式相联系并受此发展状况影响"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.1",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围，小到村庄、邻里、教区，大到城镇、城市。有时也指不受地理空间限制、具有共同兴趣爱好、分布广泛而又紧密联"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "聚居在一定地域中，有着互动关系和共同文化的人群的生活共同体。一般认为其基本的构成要素包括：一定数量的、以一定生产关系为基础组织起来的人口；一定的地域界限；居民间的认同意识；一套规范和组织系统。"
+  },
+  {
+   "cn": "共同体",
+   "en": "community",
+   "source": "马克思主义",
+   "wordNumber": "03.0074",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定区域的居民、团体或国家在共同条件下结成的集体组织。德国古典社会学家滕尼斯将共同体分为血缘共同体，地缘共同体，精神共同体。马克思主要从所有制的角度解读共同体。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以一定地理区域为基础的社会群体。具体特征有：有一定的地理区域，有一定数量的人口，居民之间有共同的意识和利益，并有着较密切的社会交往。"
+  },
+  {
+   "cn": "社区",
+   "en": "community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "若干社会群体(家庭、氏族)或社会组织(机关、团体)聚集在某一地域里所形成的一个生活上相互关联的大集体。一个特定地域内彼此互动交往，具有某些共同价值观和较强情感纽带而形成的人群。多数情况下有一定地理范围"
+  },
+  {
+   "cn": "共产主义",
+   "en": "communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0014",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人类最理想的社会制度。人类社会发展的高级形态。根据马克思和恩格斯的设想，共产主义社会是人类社会发展史上继资本主义社会之后的一种以生产资料公有制为基础的、消灭了一切剥削关系的社会形态。它实行“各尽"
+  },
+  {
+   "cn": "交往",
+   "en": "communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0147",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《德意志意识形态》中提出的概念，指各个人、民族、国家之间的交流、往来及相互作用行为。交往是从物质生产中发展起来的，交往及其形式由生产决定，但“生产本身又是以个人彼此之间的交往为前提的”"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "交往行为理论",
+   "en": "theory of communicative action",
+   "source": "马克思主义",
+   "wordNumber": "05.0035",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯（Jürgen Habermas）创建的理论体系，指人与人通过以符号媒介进行平等交流以达到相互理解、承认、共识、进而趋向交往合理化，交往者不受控制地生活在一个相互理解的世界中，通过交往实现社会"
+  },
+  {
+   "cn": "交往行为理论",
+   "en": "theory of communicative action",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.034",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈马贝斯（Jürgen Habermas）提出的社会合理性理论。主张在平等、公开的情况下，用对话、协商来解决现实世界中的矛盾。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "社区营养",
+   "en": "community nutrition",
+   "source": "社会医学名词",
+   "wordNumber": "11.3.16",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务内容",
+   "publishYear": "2025",
+   "definition": "在社区范围内，运用营养科学理论、技术及社会性措施，系统性地研究并解决社区人群的膳食结构、营养需求、饮食行为及相关健康问题，通过营养教育、政策干预、环境支持等手段，改善居民营养状况，预防营养性疾病，提升"
+  },
+  {
+   "cn": "地方共同社会",
+   "en": "rural community",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "围绕农业生产所构成的各社会组织及共同的社区生活。杨开道将美国社会学家麦基弗(R.M.Maclver）的社区概念引入农村社会学研究中，提出这个概念，认为中国农村是一种地方共同社会。对这种社会的分析，应从"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

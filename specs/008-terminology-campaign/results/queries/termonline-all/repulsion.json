@@ -1,0 +1,562 @@
+{
+ "key": "repulsion",
+ "term": "repulsion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:10:13+00:00",
+ "status": "ok",
+ "note": "variant=repulsion; 审定公布名词库=265; 海峡两岸名词对照库=92; 其他来源数据库=10; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "排斥",
+   "en": "repulsion",
+   "source": "物理学名词",
+   "wordNumber": "02.0409",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "斥力",
+   "en": "repulsion,repulsion force",
+   "source": "物理学名词",
+   "wordNumber": "02.0410",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "互斥相",
+   "en": "repulsion phase",
+   "source": "畜牧学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "一个显性基因与另一基因座的隐性基因连锁时其杂合体的排列方式。如Ab//aB。"
+  },
+  {
+   "cn": "排斥能",
+   "en": "repulsion energy",
+   "source": "物理学名词",
+   "wordNumber": "02.0411",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "互斥相",
+   "en": "repulsion phase",
+   "source": "遗传学名词",
+   "wordNumber": "02.150",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "一个显性基因与另一基因座的隐性基因连锁时其杂合体的排列方式。如Ab//aB。"
+  },
+  {
+   "cn": "推斥电动机",
+   "en": "repulsion motor",
+   "source": "电气工程名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "互斥相",
+   "en": "repulsion phase",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.606",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "立体排斥",
+   "en": "steric repulsion",
+   "source": "物理学名词",
+   "wordNumber": "08.2485",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "带排斥",
+   "en": "band repulsion",
+   "source": "物理学名词",
+   "wordNumber": "08.1346",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "库仑斥[力]",
+   "en": "Coulomb repulsion",
+   "source": "物理学名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "排斥芯",
+   "en": "repulsive core",
+   "source": "物理学名词",
+   "wordNumber": "09.0090",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反引力",
+   "en": "repulsive gravitation",
+   "source": "物理学名词",
+   "wordNumber": "06.0322",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "排斥势",
+   "en": "repulsive potential",
+   "source": "物理学名词",
+   "wordNumber": "05.0684",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "推斥感应电动机",
+   "en": "repulsion induction motor",
+   "source": "电气工程名词",
+   "wordNumber": "07.074",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "吸引与排斥",
+   "en": "attraction and repulsion",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "自然辩证法_总论_自然界的辩证法",
+   "subjectName": "自然界的辩证法",
+   "publishYear": "2024",
+   "definition": "表征无机界基本矛盾的一对范畴。分别指物体相互作用时使位置移动趋于接近与趋于分离的作用。"
+  },
+  {
+   "cn": "空间位阻效应",
+   "en": "steric repulsion effect",
+   "source": "生物物理学名词",
+   "wordNumber": "08.078",
+   "subjectFullName": "生物物理学_生物力学与生物流变学_生物力学",
+   "subjectName": "生物力学",
+   "publishYear": "2018",
+   "definition": "生物大分子的空间构型对其化学反应特性和程度的影响。分子内的原子占有一定的空间位置，其电子云的重叠分布消耗能量，从而影响分子的首选构型及其反应性。"
+  },
+  {
+   "cn": "补偿式推斥电动机",
+   "en": "compensated repulsion motor",
+   "source": "电气工程名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "超导体斥力",
+   "en": "superconducting repulsion force",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1624",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "斥性不动点",
+   "en": "repulsive fix-point",
+   "source": "数学名词",
+   "wordNumber": "05.0518",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "推斥起动感应电动机",
+   "en": "repulsion start induction motor",
+   "source": "电气工程名词",
+   "wordNumber": "07.073",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "排斥",
+   "en": "repulsion",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互斥相,反式相",
+   "en": "repulsion phase",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "推斥势",
+   "en": "repulsive potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "推斥型势能面",
+   "en": "repulsive potential energy surface",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "recursion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "递归",
+   "en": "recursion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "乳［浊］液",
+   "en": "emulsion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "感光乳剂",
+   "en": "emulsion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "乳剂",
+   "en": "emulsion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "药膜对药膜接触晒印",
+   "en": "emulsion to emulsion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "递推公式",
+   "en": "recursion formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单推进式推进",
+   "en": "monopropellant propulsion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归定理",
+   "en": "recursion theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾递归",
+   "en": "tail recursion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电力推进",
+   "en": "electric propulsion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "喷水推进",
+   "en": "jet propulsion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "推进特性",
+   "en": "propulsion characteristic",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "推进装置",
+   "en": "propulsion device",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "船舶推进",
+   "en": "ship propulsion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "expel\",\"expulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推进",
+   "en": "propel\",\"propulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归法",
+   "en": "recursion method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "推进",
+   "en": "drive\",\"propel\",\"propulsion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"suspend\",\"expulsion\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因滥用药物被禁赛",
+   "en": "expulsion due to drug abuse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"send off\",\"ejection\",\"exclusion\",\"expulsion\",\"sending off\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破乳",
+   "en": "emulsion breaking",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "使乳化液体的分散相小液珠聚集成团，形成大液滴，从而破坏乳化作用的过程。"
+  },
+  {
+   "cn": "舰船用反应堆",
+   "en": "marine propulsion reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.9",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "用于船舶和军用舰艇推进的核动力反应堆。"
+  },
+  {
+   "cn": "宫内节育器脱落",
+   "en": "expulsion of intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "宫内节育器置入宫腔后，逐渐移位到宫颈管或宫颈外口的（部分脱落），或移位到阴道或体外（完全脱落）的现象。根据脱落程度会引起出血、腹痛，带器妊娠或意外妊娠。"
+  },
+  {
+   "cn": "油包水乳化液",
+   "en": "water-in-oil emulsion",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "水以小液滴的形式分散到油或脂肪介质中形成的乳化液，其中水为分散相，油或脂肪为连续相"
+  },
+  {
+   "cn": "水包油乳化液",
+   "en": "oil-in-water emulsion",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "油以小液滴的形式分散到水介质中形成的乳化液，其中油为分散相，水为连续相"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,532 @@
+{
+ "key": "creme brulee",
+ "term": "crème brûlée",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:57:55+00:00",
+ "status": "ok",
+ "note": "variant=crème brûlée; 审定公布名词库=24; 海峡两岸名词对照库=6; 其他来源数据库=30; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "天文学名词",
+   "wordNumber": "08.304",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中具有明显发射谱线的M型恒星。"
+  },
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "用烯丙基二甘醇碳酸酯(品名 CR-39)制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "CR-39中子剂量计",
+   "en": "CR-39 neutron dosimeter",
+   "source": "电力名词",
+   "wordNumber": "17.880",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "用烯丙基二甘醇碳酸脂(品名CR-39)制成的一种固体核径迹探测器。"
+  },
+  {
+   "cn": "暴力犯罪",
+   "en": "violent crime",
+   "source": "行为医学名词",
+   "wordNumber": "14.011",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "行为人以暴力或者以暴力胁迫手段侵害国家或人民生命、财产安全，造成严重后果，触犯刑法且应当受到刑罚处罚的犯罪行为。"
+  },
+  {
+   "cn": "计算机犯罪",
+   "en": "computer crime",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0298",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用计算机知识和技能进行的违法活动。"
+  },
+  {
+   "cn": "激情犯罪",
+   "en": "passionate crime",
+   "source": "心理学名词",
+   "wordNumber": "13.023",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "行为人在强烈、短暂、爆发式的情绪激昂、理智失控状态下所实施的犯罪。"
+  },
+  {
+   "cn": "资源犯罪",
+   "en": "resource crime",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.018",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "行为主体在资源活动中危害社会的、违反刑法的，应受刑罚惩罚的行为。资源犯罪具有三个要件：一是社会危害性；二是刑事违法性；三是应受刑罚惩罚性。我国《刑法》规定了破坏环境资源保护罪，共用九个条文，设置十二个"
+  },
+  {
+   "cn": "诽谤罪",
+   "en": "crime of defamation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.064",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "公然捏造并散布虚构的事实，以之贬损他人人格，破坏他人名誉，情节严重的涉罪行为。根据中国刑法的规定，触犯本罪的，告诉的才处理，但是严重危害社会秩序和国家利益的除外。在美国，1964年的“《纽约时报》诉沙"
+  },
+  {
+   "cn": "侮辱罪",
+   "en": "crime of insult",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.066",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "以暴力或者其他方法公然侮辱他人，情节严重的犯罪行为。新闻传播行为中的侮辱性言辞不包含事实，纯属谩骂。"
+  },
+  {
+   "cn": "犯罪合理化",
+   "en": "rationalization of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.034",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪人对实施的犯罪行为给予一种合理性解释以避免他人谴责和自责，以及解除心理紧张的心理防御机制。"
+  },
+  {
+   "cn": "犯罪地理学",
+   "en": "geography of crime",
+   "source": "地理学名词",
+   "wordNumber": "17.023",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "研究犯罪活动与地理环境的相互关系，揭示犯罪现象的空间分布规律、区域差异及其历史演变的一门人文地理学分支学科。"
+  },
+  {
+   "cn": "交通肇事罪",
+   "en": "traffic accident crime",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.216",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "公罪",
+   "en": "gong zui;public crime",
+   "source": "中国古代史名词",
+   "wordNumber": "1.266",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "无因私故意的公务过失罪。先秦以来其处罚即与其他犯罪不同，魏晋以来始明确区分公、私罪及不同的处罚原则。唐《律》以是否挟私情而故违正理为判别标准，其处罚轻于同类私罪，常止于杖笞且可累计赎刑。直至明清仍沿此"
+  },
+  {
+   "cn": "私罪",
+   "en": "si zui;private crime",
+   "source": "中国古代史名词",
+   "wordNumber": "1.267",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "出于私人原因的犯罪。魏晋以来始将之明确区别于公罪，唐《律》中指不缘公事私自犯者，虽缘公事而有私曲的同此，其处罚较同类公罪为重。自此相沿至明清，皆以此为原则惩处公罪之外的其他各种犯罪。"
+  },
+  {
+   "cn": "犯罪心理机制",
+   "en": "mental mechanism of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.018",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪心理形成和犯罪行为发生的过程、机制和规律。"
+  },
+  {
+   "cn": "犯罪心理痕迹",
+   "en": "mental trace of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪人在犯罪活动、犯罪现场中呈现的心理特征。"
+  },
+  {
+   "cn": "犯罪本能说",
+   "en": "instinctive theory of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.040",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "用无意识与本能说观点解释犯罪现象的学说。以弗洛伊德的本能说为典型代表。"
+  },
+  {
+   "cn": "犯罪恶性梯度",
+   "en": "gradient of crime vice",
+   "source": "心理学名词",
+   "wordNumber": "13.041",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪人的犯罪心理和行为恶性发展的程度。"
+  },
+  {
+   "cn": "犯罪动力定型",
+   "en": "dynamic stereotype of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.026",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "犯罪人对特定刺激形成的自动化犯罪的态度与行为反应系统。"
+  },
+  {
+   "cn": "群体犯罪心理",
+   "en": "mind of group crime",
+   "source": "心理学名词",
+   "wordNumber": "13.028",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "群体中成员之间心理活动及行为相互影响而形成的适合犯罪的共同心理倾向。"
+  },
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Me型变星",
+   "en": "Me variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "计算机犯罪",
+   "en": "computer crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智力犯罪",
+   "en": "intellectual crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪地理学",
+   "en": "geography of crime",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "白领犯罪",
+   "en": "white-collar crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利用未公开信息交易罪",
+   "en": "crime of trading with undisclosed information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "破坏计算机信息系统罪",
+   "en": "crime of sabotaging computer information system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法利用信息网络罪",
+   "en": "crime of illegally utilizing information network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意泄露国家秘密罪",
+   "en": "crime of intentionally divulging state secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "侵犯商业秘密罪",
+   "en": "crime of infringement of trade secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法获取国家秘密罪",
+   "en": "crime of illegally obtaining state secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过失泄露国家秘密罪",
+   "en": "crime of negligently betraying state secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法获取军事秘密罪",
+   "en": "crime of illegally obtaining military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意泄露军事秘密罪",
+   "en": "crime of intentionally divulging military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "过失泄露军事秘密罪",
+   "en": "crime of negligently betraying military secret",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "妨害国境卫生检疫罪",
+   "en": "crime of jeopardizing border quarantine security",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侵犯公民个人信息罪",
+   "en": "crime of infringement of citizens’ personal information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编造、故意传播虚假信息罪",
+   "en": "crime of fabricating and spreading false information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协同化犯罪防控机制",
+   "en": "mechanism for coordinated crime prevention and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非法侵入计算机信息系统罪",
+   "en": "crime of illegally intruding into computer information system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络服务渎职罪",
+   "en": "crime of dereliction of duty in network service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内幕交易、泄露内幕信息罪",
+   "en": "crime of performing insider trading or divulging insider information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "帮助信息网络犯罪活动罪",
+   "en": "crime of assistance in information network-related criminal act",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违规披露、不披露重要信息罪",
+   "en": "crime of submitting false reports or reports concealing important facts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "用烯丙基二甘醇碳酸酯（品名CR-39）制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "职务犯罪",
+   "en": "duty crime",
+   "source": "马克思主义",
+   "wordNumber": "03.0779",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家公务人员利用职权，贪污、贿赂、徇私舞弊、滥用职权、玩忽职守，侵犯公民人身权利、民主权利，破坏国家对公务活动的规章规范，依照刑法应当予以刑事处罚的犯罪。职务犯罪的本质特征是以权谋私、权钱交易，是腐败"
+  },
+  {
+   "cn": "完美的罪行",
+   "en": "perfect crime",
+   "source": "马克思主义",
+   "wordNumber": "05.0190",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《完美的罪行》（1996年)中对符号所统治的世界进行了深层次剖析，提出了大胆的假说：科学技术不但扩展了“人的形象”，它还将进一步驱逐“人类的"
+  },
+  {
+   "cn": "食品犯罪",
+   "en": "food crime",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.69",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品生产、销售过程中，违反国家有关食品安全法律法规，危害食品安全，侵害不特定多数人的身体健康和生命安全的行为。包括生产有毒、有害食品罪和生产不符合食品安全标准罪。"
+  },
+  {
+   "cn": "犯罪功能论",
+   "en": "theory of functions of crime",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的关于犯罪作用的理论。他认为犯罪不仅是社会中的正常现象，而且也是社会所需要的现象。犯罪在社会中发挥着重要的功能，对社会的进步起着有益的作用，主要表"
+  },
+  {
+   "cn": "生产有毒有害食品罪",
+   "en": "crime of producing poisonous and harmful food",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.24",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在生产的食品中掺入有毒、有害的非食品原料的犯罪/违法行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

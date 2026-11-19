@@ -1,0 +1,802 @@
+{
+ "key": "outside difference",
+ "term": "outside difference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:00:09+00:00",
+ "status": "ok",
+ "note": "variant=outside difference; 审定公布名词库=587; 海峡两岸名词对照库=187; 其他来源数据库=64; 预公布名词数据库=40; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "外部空间",
+   "en": "outside space",
+   "source": "风景园林名词",
+   "wordNumber": "07.0031",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "建筑周边与建筑本身有着某种关联的没有顶部限定的空间。是建筑的一部分。"
+  },
+  {
+   "cn": "自身的外在",
+   "en": "outside itself",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于身体和精神之外的观点。康德认为灵魂、宇宙和上帝是外在的，不可以被认识。费希特认为“非我”是外在的。黑格尔认为外在是绝对精神的外在，是精神的外壳。费尔巴哈和马克思认为客观物质世界是外在的。"
+  },
+  {
+   "cn": "外径",
+   "en": "outside diameter",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0636",
+   "subjectFullName": "机械工程（一）_传动_带传动_同步带传动",
+   "subjectName": "同步带传动",
+   "publishYear": "2021",
+   "definition": "齿顶圆的直径。"
+  },
+  {
+   "cn": "外折叠",
+   "en": "outside overlap",
+   "source": "冶金学名词",
+   "wordNumber": "09.1159",
+   "subjectFullName": "冶金学_金属加工_产品缺陷",
+   "subjectName": "产品缺陷",
+   "publishYear": "2019",
+   "definition": "由表面夹杂、耳子或表面裂纹造成的缺陷。"
+  },
+  {
+   "cn": "馆外用户",
+   "en": "outside user",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.249",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "某图书馆法定服务对象之外，但需要利用该馆信息服务的个人或团体。"
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0364",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用系统安全脆弱点从外部环境攻击信息系统而造成的威胁。"
+  },
+  {
+   "cn": "外部选择权",
+   "en": "outside option",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1004",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "当事人退出合作时可以得到的机会收益。"
+  },
+  {
+   "cn": "向外算法",
+   "en": "outside algorithm",
+   "source": "语言学名词",
+   "wordNumber": "11.164",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "一种基于概率上下文无关文法的快速计算句子概率的算法。是一种动态规划算法，通过向外变量以及向内变量由外向内以循环叠代的方式计算句子的概率。"
+  },
+  {
+   "cn": "外部材料",
+   "en": "outside matter",
+   "source": "语言学名词",
+   "wordNumber": "06.038",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "辞书宏观结构及正文以外的其他构成单元。包括前置页、中置页和后置页。"
+  },
+  {
+   "cn": "外进汽",
+   "en": "outside admission",
+   "source": "航海科技名词",
+   "wordNumber": "15.0341",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "差异",
+   "en": "difference",
+   "source": "教育学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "以哲学表征事物相互区别和自身区别的范畴来表示身心障碍的不同类别和程度。"
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "数学名词",
+   "wordNumber": "04.0015",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差积",
+   "en": "different",
+   "source": "数学名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[有限]差分",
+   "en": "difference,finite difference",
+   "source": "数学名词",
+   "wordNumber": "010.0198",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "中心差分",
+   "en": "central difference,centered difference",
+   "source": "数学名词",
+   "wordNumber": "010.0203",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差商",
+   "en": "difference quotient,difference coefficient",
+   "source": "数学名词",
+   "wordNumber": "010.0223",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "生理性别差异",
+   "en": "sex difference;biological difference",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.042",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "体现在社交活动中的男女生理结构与生物属性方面的区别与特征。与“社会性别差异”相对。"
+  },
+  {
+   "cn": "辨别阈差试验",
+   "en": "difference limen difference test",
+   "source": "医学名词 第一分册",
+   "wordNumber": "02.170",
+   "subjectFullName": "医学_耳鼻喉科学",
+   "subjectName": "耳鼻喉科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "由外向内信号传递",
+   "en": "outside-in signaling",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0157",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "从细胞外或细胞核外向细胞内或细胞核内进行信号转导的过程。"
+  },
+  {
+   "cn": "由外向内调节",
+   "en": "outside-in regulation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0191",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "由细胞外或细胞核外的某些因素对细胞内或细胞核内的信号转导所进行的调节。"
+  },
+  {
+   "cn": "场外交易",
+   "en": "outside dealing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场外经纪人",
+   "en": "outside broker",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场外市场",
+   "en": "outside market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非上市股票",
+   "en": "outside share",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外部筹资",
+   "en": "outside finance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外部资本，借入资本",
+   "en": "outside capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外部资金",
+   "en": "outside fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外进汽",
+   "en": "outside admission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "外径千分尺",
+   "en": "outside micrometer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外回流比",
+   "en": "outside reflux ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "差分法",
+   "en": "difference method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分方程",
+   "en": "difference equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "差分格式",
+   "en": "difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位相差",
+   "en": "phase difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向后差分",
+   "en": "backward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向前差分",
+   "en": "forward difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迎风差分",
+   "en": "upwind difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "舷外",
+   "en": "outside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边锋",
+   "en": "outside\",\"winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外水道",
+   "en": "outside lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外舷手",
+   "en": "outside hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自外握",
+   "en": "outside grasp",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出接棒区",
+   "en": "go outside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外道",
+   "en": "outside lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外力协助",
+   "en": "outside assistance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外侧部位",
+   "en": "outside line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外线打法",
+   "en": "outside play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边进攻手",
+   "en": "outside attacker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外水道",
+   "en": "outside lane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "左边锋",
+   "en": "left winger\",\"outside left",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从外侧超越",
+   "en": "overtake on the outside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局外人信条",
+   "en": "outsider doctrine",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "认为局外人往往不受某社会群体或阶层偏见等方面的影响，凭借此观察优势，也能获得对该群体或阶层在文化、社会等方面的知识的观点。即“要理解恺撒，你并不一定非得成为恺撒”。"
+  },
+  {
+   "cn": "身处其中的局外人",
+   "en": "outsiders within",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义对于边缘或底层弱势群体尴尬处境的一种描述。认为一方面他们需要在主流社会制定的规则中生存，另一方面他们又被排斥在主流世界之外。但女性主义认为这种处境也使边缘弱势群体具有了认识论上的优势。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "男性和女性在生理、心理、行为及社会文化层面表现出的群体性差异。生物学因素（如基因、激素）奠定生理分化基础（如生殖系统、疾病倾向），而社会文化建构（如性别角色、教育机会、刻板印象）影响行为模式、认知能力"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "source": "消毒学",
+   "wordNumber": "4.6.18.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过工程技术使房间内外产生的气压之差，使空气得以定向流动，防止病原体扩散。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural difference",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "广义指世界不同地域、不同社会的文化之间所存在的差别，狭义指人类信仰与行为层面的差别。一般取其广义。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "阶级差别",
+   "en": "class difference",
+   "source": "马克思主义",
+   "wordNumber": "03.0090",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同阶级之间在经济利益、政治地位、社会地位和思想观念等方面存在的不同。"
+  },
+  {
+   "cn": "差别检验",
+   "en": "difference test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.11",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对比较的产品的总体感官差异或特定感官性质差异进行的感官评价。要求评价员回答两个或两个以上的样品中是否存在感官差异，以得出两个或更多的样品间是否存在差异的结论。差别检验的结果分析是以每一类别的评价员数量"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "外出职业健康检查",
+   "en": "outside occupational health examination",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.26",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "职业健康检查机构在执业登记机关管辖区域内或者卫生行政部门指定区域内开展的在本机构以外的职业健康检查。"
+  },
+  {
+   "cn": "健康差异指数",
+   "en": "health difference index",
+   "source": "社会医学名词",
+   "wordNumber": "9.12",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "健康差异指数",
+   "publishYear": "2025",
+   "definition": "应用差异指数计算原理，综合某个社会经济特征（如收入、教育、职业等）的人口比重和患病比重指标，衡量不同社会经济特征人群的健康状况分布差异。测量健康公平性的指标，取值在0～1 之间，值越小表示公平性越好。"
+  },
+  {
+   "cn": "对外开放",
+   "en": "opening to the outside world",
+   "source": "马克思主义",
+   "wordNumber": "03.0540",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对外开放是全方位的，既包括经济上的开放，也包括文化、艺术和其他领域的开放。是我国一项长期的基本国策。我国全方位、多层次、宽领域开放的新格局已经形成并不断完善。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "校内外体育活动",
+   "en": "sports activity inside and outside the school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在学校内外，以增强学生体质、促进身体正常发育和基本动作发展、提高健康水平为目的组织的教育活动。"
+  },
+  {
+   "cn": "线性生长性别差异",
+   "en": "sex difference in linear growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "随着年龄增加和青春期发育，男女间身高水平和增长速度的差别"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "体脂种族差异",
+   "en": "ethnic difference in body fat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体脂在不同种族间存在差别的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

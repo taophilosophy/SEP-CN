@@ -1,0 +1,462 @@
+{
+ "key": "symmetrical overdetermination",
+ "term": "symmetrical overdetermination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:10:27+00:00",
+ "status": "ok",
+ "note": "variant=symmetrical overdetermination; 审定公布名词库=202; 海峡两岸名词对照库=54; 其他来源数据库=5; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "超定",
+   "en": "overdetermined",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1901",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "待反演的模型参量个数小于不相关观测方程的个数。 "
+  },
+  {
+   "cn": "超定问题",
+   "en": "overdetermined problem",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1895",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "根据观测数据建立的独立观测方程个数多于模型参量个数的反演问题。 "
+  },
+  {
+   "cn": "超定组",
+   "en": "overdetermined system",
+   "source": "数学名词",
+   "wordNumber": "010.0378",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称化子",
+   "en": "symmetrizer",
+   "source": "数学名词",
+   "wordNumber": "04.0854",
+   "subjectFullName": "数学_代数学_代数几何学_型",
+   "subjectName": "型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称碎斑系",
+   "en": "symmetrical porphyroclast",
+   "source": "地质学名词",
+   "wordNumber": "09.06.074",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "残斑尾部形态对称的碎斑系。包括θ型和型。"
+  },
+  {
+   "cn": "对称褶皱",
+   "en": "symmetrical fold",
+   "source": "地质学名词",
+   "wordNumber": "09.03.059",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "两翼夹角被轴面平分的褶皱。"
+  },
+  {
+   "cn": "对称压缩",
+   "en": "symmetrical compression",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.026",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "压缩和解压缩占用相同的计算处理能力和时间的压缩方法。适用于实时压缩和传输场合，如音视频会议系统。"
+  },
+  {
+   "cn": "[电阻率]对称剖面法",
+   "en": "symmetrical profiling",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0090",
+   "subjectFullName": "地球物理学_勘探地球物理学_重_磁_电勘探",
+   "subjectName": "电勘探",
+   "publishYear": "2022",
+   "definition": "工作时，供电和测量的 4 个电极对称于中点，布置在一条测线上，保持电极距离不变，沿剖面逐点观测，每个测点上只观测一个电阻率值。 "
+  },
+  {
+   "cn": "对称缸",
+   "en": "symmetrical cylinder",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1161",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "两腔有效面积相同的液压缸。"
+  },
+  {
+   "cn": "对称膜系",
+   "en": "symmetrical multilayer",
+   "source": "光学名词",
+   "wordNumber": "07.025",
+   "subjectFullName": "光学_光学薄膜",
+   "subjectName": "光学薄膜",
+   "publishYear": "2021",
+   "definition": "具有对称结构(材料厚度相同)的膜系。"
+  },
+  {
+   "cn": "对称信息",
+   "en": "symmetrical information",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1040",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在某种相互对应的经济人关系中，对应双方都掌握有对方所具备的信息度量，也即对应双方都了解对方所具备的知识和所处的环境。"
+  },
+  {
+   "cn": "对称输出",
+   "en": "symmetrical output",
+   "source": "计量学名词",
+   "wordNumber": "10.187",
+   "subjectFullName": "计量学_电磁_电学计量常用测量方法",
+   "subjectName": "电学计量常用测量方法",
+   "publishYear": "2015",
+   "definition": "公共端与其他两端之间的阻抗标称值相等的三端输出电路。"
+  },
+  {
+   "cn": "对称输入",
+   "en": "symmetrical input",
+   "source": "计量学名词",
+   "wordNumber": "10.185",
+   "subjectFullName": "计量学_电磁_电学计量常用测量方法",
+   "subjectName": "电学计量常用测量方法",
+   "publishYear": "2015",
+   "definition": "公共端与其他两端之间的阻抗标称值相等的三端输入电路。"
+  },
+  {
+   "cn": "对称配光型灯具",
+   "en": "symmetrical luminaire",
+   "source": "建筑学名词",
+   "wordNumber": "10.0096",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "具有对称光强分布的灯具。对称性可以是轴对称或平面对称。"
+  },
+  {
+   "cn": "对称性突触",
+   "en": "symmetrical synapse",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0086",
+   "subjectFullName": "人体解剖学_神经系统_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "突触前、后膜厚度基本相等的突触。一般为抑制性突触。"
+  },
+  {
+   "cn": "对称光",
+   "en": "symmetrical beam",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.084",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车灯具",
+   "subjectName": "汽车灯具",
+   "publishYear": "2013",
+   "definition": "以屏幕V线为中心，左右对称的光。"
+  },
+  {
+   "cn": "对称信道",
+   "en": "symmetrical channel",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "正向传送与反向传送具有相同传送速率的信道。"
+  },
+  {
+   "cn": "对称信号",
+   "en": "symmetrical signal",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "相差半周期的所有点大小相等而符号相反的交变信号。"
+  },
+  {
+   "cn": "对称剪裁",
+   "en": "symmetrical cutting",
+   "source": "水产名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "网衣剪口的一侧反向后，两边的边、宕眼和单脚和排列组合相同的剪裁。"
+  },
+  {
+   "cn": "对称光纤",
+   "en": "symmetrical fiber",
+   "source": "电气工程名词",
+   "wordNumber": "05.281",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "对称性突触",
+   "en": "symmetrical synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称分布",
+   "en": "symmetrical distribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对称褶皱",
+   "en": "symmetrical fold",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "对称[列]表",
+   "en": "symmetrical list",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称天线",
+   "en": "symmetrical antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称网络",
+   "en": "symmetrical network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称浸水",
+   "en": "symmetrical flooding",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对称不稳定",
+   "en": "symmetric instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "高分子各向同性膜",
+   "en": "symmetric membrane",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称层合板",
+   "en": "symmetric laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "对称裂变",
+   "en": "symmetric fission",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对称[式]计算机",
+   "en": "symmetric computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码[学]",
+   "en": "symmetric cryptography",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码系统",
+   "en": "symmetric cryptosystem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称信道",
+   "en": "symmetric channel",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称信源",
+   "en": "symmetric source",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称卵裂面",
+   "en": "symmetrical cleavage plane",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "辐射对称型",
+   "en": "radial symmetrical type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "两侧对称分裂",
+   "en": "bilateral symmetrical division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称密码",
+   "en": "symmetric cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元决定",
+   "en": "overdetermination",
+   "source": "马克思主义",
+   "wordNumber": "05.0068",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿尔都塞认为，在决定社会发展的诸因素中，经济因素并不是唯一的决定因素，而是各种因素综合在一起发挥作用的，他以此反对社会发展决定论的观点。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "缓解性血清阴性对称性滑膜炎伴凹陷性水肿",
+   "en": "remitting seronegative symmetrical synovitis with pitting edema，RS3PE",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种病因未明、以非侵蚀性关节炎伴肢端可凹性水肿为主要表现的自身免疫性疾病。其基本病理改变为滑膜炎，以屈（伸）肌腱鞘滑膜的炎症为其显著特点。老年男性多见，通常起病突然，对称性、水肿性、可缓解性关节炎，常"
+  },
+  {
+   "cn": "偏二甲基肼",
+   "en": "unsymmetrical dimethylhydrazine",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.3.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "化学式为C2H8N2，无色透明液体，具有氨样臭味和吸湿性，由二甲胺经亚硝化而制得，是液体火箭推进剂的主要成分。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

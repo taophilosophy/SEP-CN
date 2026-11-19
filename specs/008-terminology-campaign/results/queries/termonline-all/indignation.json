@@ -1,0 +1,342 @@
+{
+ "key": "indignation",
+ "term": "Indignation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:01:10+00:00",
+ "status": "ok",
+ "note": "variant=Indignation; 审定公布名词库=96; 海峡两岸名词对照库=10; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "积滞",
+   "en": "indigestion",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "03.0256",
+   "subjectFullName": "中医药学_儿科学",
+   "subjectName": "儿科学",
+   "publishYear": "2010",
+   "definition": "因乳食内积，脾胃受损所致，以小儿腹胀腹痛，泄泻或便秘，呕吐，为主要表现的疾病。"
+  },
+  {
+   "cn": "积滞",
+   "en": "indigestion",
+   "source": "中医药学名词",
+   "wordNumber": "013.029",
+   "subjectFullName": "中医药学_骨伤科疾病",
+   "subjectName": "骨伤科疾病",
+   "publishYear": "2004",
+   "definition": "因乳食内积，脾胃受损所致，以小儿腹泻或便秘，呕吐，腹胀腹痛为主要表现的肠胃疾病。"
+  },
+  {
+   "cn": "碘化",
+   "en": "iodination",
+   "source": "生理学名词",
+   "wordNumber": "10.104",
+   "subjectFullName": "生理学_内分泌生理学",
+   "subjectName": "内分泌生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标示值",
+   "en": "indication",
+   "source": "电力名词",
+   "wordNumber": "02.144",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "由测量仪器仪表给出的值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "药物、治疗方法所适用的范围及标准。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "核医学名词",
+   "wordNumber": "05.0025",
+   "subjectFullName": "核医学_核医学治疗_外照射治疗",
+   "subjectName": "外照射治疗",
+   "publishYear": "2018",
+   "definition": "根据某些处置、治疗措施或药物的作用特点和潜在风险所决定的其适合应用的疾病、症状、临床状态和人口学指标的范围。"
+  },
+  {
+   "cn": "示值",
+   "en": "indication",
+   "source": "计量学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "由测量仪器或测量系统给出的量值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "药学名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "药学_医院药学与临床药学",
+   "subjectName": "医院药学与临床药学",
+   "publishYear": "2014",
+   "definition": "药物适用于某种疾病症状(或证候)的范围。一般需经相关主管部门审批，是药物的最基本属性。"
+  },
+  {
+   "cn": "表示",
+   "en": "indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0158",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "消化不良",
+   "en": "dyspepsia,indigestion",
+   "source": "医学名词 第四分册",
+   "wordNumber": "03.038",
+   "subjectFullName": "医学_胃肠病学",
+   "subjectName": "胃肠病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication,indicated value",
+   "source": "电子学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单纯性消化不良",
+   "en": "simple indigestion",
+   "source": "兽医学名词",
+   "wordNumber": "15.049",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "由前胃弛缓引起，临床上以厌食、缺乏瘤胃运动和便秘为特征的疾病。呈单发或群发，多发生于乳牛和舍饲肉牛，放牧牛和绵羊 少见。"
+  },
+  {
+   "cn": "迷走神经性消化不良",
+   "en": "vagal indigestion",
+   "source": "兽医学名词",
+   "wordNumber": "15.055",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "支配前胃和皱胃的迷走神经腹侧支受到机械性或物理性损伤，引起前胃和皱胃不同程度的麻痹、弛缓，致使瘤胃功能障碍，瘤胃内容物转运迟滞，发生以瘤胃臌气、消化障碍和排泄糊状粪便为特征的综合征。"
+  },
+  {
+   "cn": "地理标志",
+   "en": "geographical indication",
+   "source": "农学名词",
+   "wordNumber": "19.129",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "用于某个地区的实物和非实物产品的特殊质量和声誉等的标识。"
+  },
+  {
+   "cn": "示值范围",
+   "en": "indication range",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0316",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "由计量器具所显示或指示的最小值至最大值的范围。"
+  },
+  {
+   "cn": "示值误差",
+   "en": "indication error",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0317",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "计量器具的示值和被测量的真值之间的差值。"
+  },
+  {
+   "cn": "输血指征",
+   "en": "transfusion indication",
+   "source": "感染病学名词",
+   "wordNumber": "04.0165",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_医源性感染",
+   "subjectName": "医源性感染",
+   "publishYear": "2019",
+   "definition": "输入血液或血液制品的适应证。如急性大量失血时输入血液是抢救生命所必需。应防止滥输血或滥用血制品。严格掌握输血指征有利于避免因输血感染病原微生物。"
+  },
+  {
+   "cn": "放射性碘标记",
+   "en": "radio iodination",
+   "source": "核医学名词",
+   "wordNumber": "02.0202",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "用放射性碘原子与某些化合物分子基团结合而不影响原有化合物的化学和生物学性质的技术。"
+  },
+  {
+   "cn": "相对适应证",
+   "en": "relative indication",
+   "source": "核医学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "核医学_核医学治疗_外照射治疗",
+   "subjectName": "外照射治疗",
+   "publishYear": "2018",
+   "definition": "在一定条件限制下可以扩大适应证某些指标的范围。"
+  },
+  {
+   "cn": "空白示值",
+   "en": "blank indication",
+   "source": "计量学名词",
+   "wordNumber": "01.112",
+   "subjectFullName": "计量学_计量学通用名词_测量仪器特性",
+   "subjectName": "测量仪器特性",
+   "publishYear": "2015",
+   "definition": "假定所关注的量不存在或对示值没有贡献，而从类似于被研究的量的现象、物体或物质中所获得的示值。"
+  },
+  {
+   "cn": "适应证",
+   "en": "indication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "示值",
+   "en": "indication\",\"indicated value",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差错指示电路",
+   "en": "error indication circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端告警指示",
+   "en": "remote alarm indication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动差错指示",
+   "en": "automatic error indication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主题表示类型",
+   "en": "subject indication type",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "告警指示信号",
+   "en": "alarm indication signal\",\"AIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远端缺陷指示",
+   "en": "remote defect indication\",\"RDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前向显式拥塞指示",
+   "en": "forward explicit congestion indication\",\"FECI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动目标显示雷达",
+   "en": "moving target indication radar，MTI radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发愤著书",
+   "en": "Indignation Spurs One to Write Great Works.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀兵必胜",
+   "en": "An Endangered Army Filled with Indignation Will Be Victorious.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地理标志",
+   "en": "geographical indication, GI",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.49",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "标示某产品来源于某地区的标志，是知识产权的一种，所标志产品的质量、声誉或其他确定的特性由该地区的自然因素或者人文因素所决定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

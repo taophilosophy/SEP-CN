@@ -1,0 +1,22 @@
+{
+ "key": "stupidity",
+ "term": "stupidity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:05:17+00:00",
+ "status": "ok",
+ "note": "variant=stupidity; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "浊流沉积",
+   "en": "tubidity current deposit",
+   "source": "地质学名词",
+   "wordNumber": "05.05.048",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "携带沉积物高速流动的浊流随着坡度变缓，流速逐渐减小，沉积物开始卸载形成的沉积。其典型特征是具粒度递变层构造，即鲍马层序。多形成于大陆边缘或洋盆区。古浊流沉积物常成为有利的油气储层。根据浊流沉积物的物理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

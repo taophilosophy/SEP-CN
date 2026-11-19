@@ -1,0 +1,582 @@
+{
+ "key": "proton",
+ "term": "prôton",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:57:02+00:00",
+ "status": "ok",
+ "note": "variant=prôton; 审定公布名词库=581; 海峡两岸名词对照库=144; 其他来源数据库=17; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "PR方程",
+   "en": "Peng-Robinson equation,PR equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "化学工程_化工热力学_流体的P-T-V关系",
+   "subjectName": "流体的P-T-V关系",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "核科学技术名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "核科学技术_核物理_核物理基础类",
+   "subjectName": "核物理基础类",
+   "publishYear": "2024",
+   "definition": "带一个单位正电荷的一种亚原子粒子。符号p或p+，其质量为1.67262192369(51)×10−27 kg，半径为0.84～0.88 fm。最轻的化学元素氢的原子核，即氢离子，记为1H。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "电力名词",
+   "wordNumber": "17.004",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "即氢核<img src='/root/syzx/static/spz/dianli3.17.004.03.png'/>,是一种自旋为1/2的稳定核子。作为原子核的重要成分,其质量为1.67265<im"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "物理学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "核医学名词",
+   "wordNumber": "02.0015",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "构成原子核的基本粒子之一。质量1.6726231×<img src='/root/syzx/static/spz/heyixue1.02.0016.01.png'/>kg，带1.6×<img src="
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.012",
+   "subjectFullName": "放射医学与防护_放射物理学_原子和原子核",
+   "subjectName": "原子和原子核",
+   "publishYear": "2014",
+   "definition": "原子核的基本成分之一，带正电荷。也是化学元素氢的最轻的同位素的原子核。其电荷量为<img src='/root/syzx/static/spz/fangshefanghu1.02.012.1.png'"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "电子学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "电子学_静电与静磁",
+   "subjectName": "静电与静磁",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "2.0074",
+   "subjectFullName": "化工（八）_化工机器_压缩机",
+   "subjectName": "压缩机",
+   "publishYear": "2021",
+   "definition": "在气缸内做往复运动，起压缩工作腔内气体作用的部件。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "光学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "电磁波(包括光)具有量子特性的最小能量单元。它服从玻色–爱因斯坦分布。其静止质量为零，不带电荷，其能量为普朗克常量和电磁辐射频率的乘积，即E=hν，在真空中以光速c运行，其自旋为1，是一种规范玻色子。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "物理学名词",
+   "wordNumber": "04.2515",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "部分子",
+   "en": "parton",
+   "source": "物理学名词",
+   "wordNumber": "09.1014",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "氚核",
+   "en": "triton",
+   "source": "物理学名词",
+   "wordNumber": "09.0172",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "核医学名词",
+   "wordNumber": "02.0099",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "电磁波的量子形式。静止质量为零，不带电荷，其能量为普朗克常量和电磁辐射频率的乘积，在真空中以光速运行。"
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "计量学名词",
+   "wordNumber": "07.020",
+   "subjectFullName": "计量学_压力、真空_活塞式压力计",
+   "subjectName": "活塞式压力计",
+   "publishYear": "2015",
+   "definition": "活塞压力计测量压力时，承受力平衡状态的圆柱形杆状零件。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "药学名词",
+   "wordNumber": "06.232",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "基本粒子中的一种，是辐射能的最小单位。即光(电磁辐射)的能量量子，稳定，不带电，静止质量等于零。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "放射医学与防护_放射物理学_原子和原子核",
+   "subjectName": "原子和原子核",
+   "publishYear": "2014",
+   "definition": "基本粒子的一种，不带电，静止质量为零。"
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0356",
+   "subjectFullName": "机械工程_动力机械_内燃机_主要运动件",
+   "subjectName": "主要运动件",
+   "publishYear": "2013",
+   "definition": "受燃气压力作用，在发动机气缸内做往复运动的零部件，通常与连杆铰接。"
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.193",
+   "subjectFullName": "机械工程_汽车_发动机_机体和主运动系",
+   "subjectName": "机体和主运动系",
+   "publishYear": "2013",
+   "definition": "受气缸内燃气压力作用，在气缸内做往复运动的零件。它与连杆和曲柄构成一个曲柄连杆机构以实现运动形式的转换和动力传递。"
+  },
+  {
+   "cn": "五邻体",
+   "en": "penton",
+   "source": "微生物学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "二十面体对称排列的病毒粒子的一种结构，每一顶角的壳粒与5个相同的壳粒相邻。"
+  },
+  {
+   "cn": "深成岩",
+   "en": "pluton",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0148",
+   "subjectFullName": "材料科学技术_天然材料_矿物",
+   "subjectName": "矿物",
+   "publishYear": "2011",
+   "definition": "岩浆在地下深处(大于3km)缓慢冷却、凝固而生成的全晶质粗粒岩石。如花岗岩、闪长岩、辉长岩等。"
+  },
+  {
+   "cn": "PR［状态］方程",
+   "en": "Peng-Robinson equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "深成岩",
+   "en": "pluton",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活塞",
+   "en": "piston",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "朊病毒，普里昂",
+   "en": "prion",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "朊病毒, 普里昂",
+   "en": "prion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质子泵",
+   "en": "proton pump",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质子照相术",
+   "en": "proton radiography",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂化质子",
+   "en": "solvated proton",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质子传递",
+   "en": "proton transfer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "智慧监狱",
+   "en": "smart prison",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单光子探测",
+   "en": "single photon detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧监所云",
+   "en": "smart prison cloud",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光子系统量子纠缠现象（法国）",
+   "en": "quantum entanglement in photon system (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核的基本成分之一，带正电荷。也是化学元素氢的最轻的同位素的原子核。其电荷量为1.602×10-19C，静止质量为1.673×10-27kg。"
+  },
+  {
+   "cn": "质子",
+   "en": "proton",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.5",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "构成原子核的基本粒子之一。带正电荷。"
+  },
+  {
+   "cn": "光子",
+   "en": "photon",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "基本粒子的一种，不带电，静止质量为零，包括X射线、γ射线。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  },
+  {
+   "cn": "质子回旋加速器",
+   "en": "proton cyclotron",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.9",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "在恒定导向磁场作用下，使质子做圆周运动并重复受到高频电场的谐掁加速而不断提高能量的加速器。"
+  },
+  {
+   "cn": "反冲质子谱仪",
+   "en": "recoil proton spectrometer",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "通过测量含氢介质内中子弹性散射所产生的反冲质子的能量分布来确定快中子能谱的仪器。"
+  },
+  {
+   "cn": "质子放射治疗",
+   "en": "proton radiation therapy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "利用高能质子束进行肿瘤放射治疗的一种方法。"
+  },
+  {
+   "cn": "质子直线加速器",
+   "en": "proton linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.8",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用高频电场沿直线轨道加速质子的加速器。"
+  },
+  {
+   "cn": "太阳质子事件",
+   "en": "solar proton event",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.4.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "太阳爆发释放出大量高能带电粒子（主要成分为质子）的现象。"
+  },
+  {
+   "cn": "原始语",
+   "en": "proto-language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0075",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "运用历史比较语言学方法构拟的古代语言形式。具体做法是根据现存的语言材料，建立它们之间的语音对应关系，从而构拟或重建（reconstruction）古代原始语的形式，并探求、解释古今语言发展演变的规律。"
+  },
+  {
+   "cn": "质子激发X射线荧光分析",
+   "en": "proton induced X-ray emission analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "一种基于高能质子轰击样品的分析技术。其基础是用高能质子轰击样品，从而产生特征X射线的发射。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像",
+   "en": "single photon emission computed tomography，SPECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "以普通γ射线为探测对象的发射计算机体层显像技术。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

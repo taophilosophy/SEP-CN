@@ -1,0 +1,712 @@
+{
+ "key": "generation and corruption",
+ "term": "Generation and Corruption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:56:48+00:00",
+ "status": "ok",
+ "note": "variant=Generation and Corruption; 审定公布名词库=10000; 海峡两岸名词对照库=2497; 其他来源数据库=1405; 预公布名词数据库=1148; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "讹变",
+   "en": "corruption",
+   "source": "语言学名词",
+   "wordNumber": "02.046",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "使用汉字过程中，由于误解而将字形的某些部分误写成形近但意义有别的其他构形要素，或将某些构形要素有意改造成形近的音符或意符，以致因讹成是造成字形变化的形体演变现象。例如，金文“则”本从鼎从刀，写作“”，"
+  },
+  {
+   "cn": "数据讹误",
+   "en": "data corruption",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.400",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "违背数据一致性的情况。"
+  },
+  {
+   "cn": "网络反腐",
+   "en": "internet anti corruption",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.09",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种基于互联网发展和普及的反腐败形式，包括民间和官方两个层面。在这种形式下，民间反腐主要采取网络报道和曝光的形式，政府反腐包括对互联网舆论的被动反应，以及通过公布举报方式等积极使用网络反腐；前者遵循压"
+  },
+  {
+   "cn": "制化",
+   "en": "restriction and generation",
+   "source": "中医药学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "中医药学_中医基础理论_中医基础理论总论",
+   "subjectName": "中医基础理论总论",
+   "publishYear": "2004",
+   "definition": "制即克制，化即生化。五行之间相互制约，相互化生，化中有制，制中有化，二者相辅相成，才能维持其相对平衡和正常的协调关系。"
+  },
+  {
+   "cn": "公益腐败",
+   "en": "corruption in charitable sector",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0606",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "在公益领域出现的各种滥用委托权力、谋取不当利益的行为。"
+  },
+  {
+   "cn": "邋遢本",
+   "en": "corrupted edition,sloppy edition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.186",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "版面模糊、极不整齐的本子。"
+  },
+  {
+   "cn": "抖动发生器和测试仪",
+   "en": "jitter generator and tester",
+   "source": "计量学名词",
+   "wordNumber": "11.420",
+   "subjectFullName": "计量学_无线电_通信参量",
+   "subjectName": "通信参量",
+   "publishYear": "2015",
+   "definition": "用于同步数字体系和准同步数字体系传输设备或系统的抖动性能测试的仪器。"
+  },
+  {
+   "cn": "信号铃流发生器",
+   "en": "tone and ringing generator",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0081",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "总图运输",
+   "en": "general layout and transportation",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.001",
+   "subjectFullName": "化工（五）_工厂系统与储运_总图储运",
+   "subjectName": "总图储运",
+   "publishYear": "2021",
+   "definition": "根据建厂条件、生产、物料运输等因素，合理确定工厂生产装置、各类设施之间的相对关系和空间位置。"
+  },
+  {
+   "cn": "综合诊断",
+   "en": "general inspection and diagnosis",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.234",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "代",
+   "en": "generation",
+   "source": "档案学名词",
+   "wordNumber": "05.04.022",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "在逐级制作过程中缩微品所处的辈次。"
+  },
+  {
+   "cn": "[世]代",
+   "en": "generation",
+   "source": "动物学名词",
+   "wordNumber": "7.0296",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物从胚胎或卵离开母体到性成熟成体并开始繁殖为止的发育周期。"
+  },
+  {
+   "cn": "代",
+   "en": "generation",
+   "source": "物理学名词",
+   "wordNumber": "09.1067",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "遗传学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "有世代交替的生物体从一个生殖期到下一个生殖期为一个世代。"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "生态学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "具有共同祖先并在系谱上处于同一等级水平的一群生物个体。"
+  },
+  {
+   "cn": "脏腑败坏",
+   "en": "corruption of zang-fu organs",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.093",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "在疮疡病程中出现的身体浮肿，呕吐呃逆，肠鸣泄泻，口糜满布等预后险恶的征象。"
+  },
+  {
+   "cn": "展成法",
+   "en": "generating",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "风景园林名词",
+   "wordNumber": "08.1147",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "将机械能或其他可再生能源转变成电能的能量转换设备。园林中常用轻便式的汽油发电机，用于临时用电。"
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "物理学名词",
+   "wordNumber": "03.0864",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "建筑学名词",
+   "wordNumber": "14.0443",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "将机械能转变成电能的设备。"
+  },
+  {
+   "cn": "数据讹误",
+   "en": "data corruption",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据腐烂",
+   "en": "data corruption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[世]代",
+   "en": "generation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相生",
+   "en": "generation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发电机",
+   "en": "generator",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "综合",
+   "en": "generalization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛化",
+   "en": "generalization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析独立生成",
+   "en": "dependent analysis and independent generation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用词语[数据]库",
+   "en": "general word and phrase database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "孢子体世代（=无性世代）",
+   "en": "sporophyte generation (=asexual generation)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "配子体世代（=有性世代）",
+   "en": "gametophyte generation (=sexual generation)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "放射性核素发生器",
+   "en": "radioisotope generator\",\"radionuclide generator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "关税及贸易总协定",
+   "en": "General Agreement on Tariffs and Trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融腐败",
+   "en": "financial corruption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术反腐",
+   "en": "technology-aided anti-corruption efforts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫领域腐败和作风问题专项治理",
+   "en": "special rectification of corruption and misconduct in poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自生",
+   "en": "Spontaneous Generation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本生成",
+   "en": "text generation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用数据",
+   "en": "general data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "腐败",
+   "en": "corruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0777",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "原意是食品因变质而产生臭气刺激味和毒性物质的一种自然现象，后来被广泛引申到社会和政治领域。广义上指的是行为主体为其特殊利益而滥用职权或偏离公共职责的权利变异现象。狭义上泛指国家公职人员为其特殊利益而滥"
+  },
+  {
+   "cn": "惩治腐败",
+   "en": "punishing and eliminating corruption",
+   "source": "马克思主义",
+   "wordNumber": "04.0184",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "作为全心全意为人民服务的党，是绝不允许腐败现象在党内滋生蔓延。惩治腐败就是对党内腐败分子不能容忍，要与腐败作坚决斗争，这是从严治党和廉政建设的一个极其重要的方面，是中国特色社会主义事业成功不可缺少的重"
+  },
+  {
+   "cn": "预防腐败",
+   "en": "preventing corruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0780",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对腐败问题防患于未然。腐败问题的治理采取“预防为主”的方针，这是世界各国在反腐败问题上的共识。党的十六大以后，我国提出了“标本兼治、综合治理、惩防并举、注重预防”的反腐败战略方针，反腐败斗争开始进入预"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0044",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "辩证法的一对范畴。个别，指单一事物的个体性、独特性，使事物彼此区别；一般，指一类事物或一切事物普遍具有的共性和本质。二者是辩证的统一。一般不能脱离个别而存在，个别总是同一般相联结，一般比个别深刻，个别"
+  },
+  {
+   "cn": "惩治和预防腐败体系",
+   "en": "system of combating corruption through punishment and prevention",
+   "source": "马克思主义",
+   "wordNumber": "03.0663",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党中纪委总结长期廉政建设经验提出的教育、制度、监督并重的惩治和预防腐败体系，是反腐斗争坚持标本兼治、综合治理、惩防并举、注重预防方针的体现。"
+  },
+  {
+   "cn": "反腐倡廉",
+   "en": "combating the corruption and building a clean government",
+   "source": "马克思主义",
+   "wordNumber": "04.0190",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "反对腐败，倡导廉政。反腐倡廉是廉政建设的基本内容，是党政机关和官员思想道德建设的集中体现，是经济发展的重要保证和坚持社会主义的本质要求，更是有关党和国家生死存亡的大事。"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "代沟",
+   "en": "generation gap",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "不同的人因年龄差距而产生的价值观、行为模式、规范认同等层面的差距，是社会变迁在人的心理层面的反映。产生的年龄差距与社会变迁的速度成反比。"
+  },
+  {
+   "cn": "代际流动",
+   "en": "generation mobility",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "上一代人（通常是父亲）的阶级或阶层地位相较下一代人（子女）的阶级或阶层地位发生了改变。社会学家通过其判断某一社会的阶级阶层结构变化和社会的开放程度。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "代沟",
+   "en": "generation gap",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0559",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家米德（Margaret Mead）在《文化与承诺：一项有关代沟问题的研究》一书中从整个人类文化史的纵向考察中发现，史前文化、有史以来的文化以及二战之后的当代文化之间存在着一些基本的差异；出"
+  },
+  {
+   "cn": "臭氧发生器",
+   "en": "ozone generator",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过介质阻挡放电、紫外线照射或电解方式产生臭氧的装置。"
+  },
+  {
+   "cn": "放射性核素发生器",
+   "en": "radionuclide generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.5",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "可以从较长半衰期的放射性核素（母体）中分离出由它衰变而产生的较短半衰期放射性核素（子体）的一种装置。"
+  },
+  {
+   "cn": "中子发生器",
+   "en": "neutron generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.26",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用各种发生器产生某些带电粒子（如质子和氘等）并予以加速，用它们去轰击靶原子核产生中子的装置。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "通用准则",
+   "en": "generic criteria",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.7.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_干预准则与水平",
+   "subjectName": "干预准则与水平",
+   "publishYear": "2025",
+   "definition": "应当采取防护行动和其他响应行动的预期剂量或已接受剂量水平。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

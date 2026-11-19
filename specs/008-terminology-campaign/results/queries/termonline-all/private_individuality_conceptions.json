@@ -1,0 +1,782 @@
+{
+ "key": "private individuality conceptions",
+ "term": "private individuality conceptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:14:22+00:00",
+ "status": "ok",
+ "note": "variant=private individuality conceptions; 审定公布名词库=505; 海峡两岸名词对照库=169; 其他来源数据库=120; 预公布名词数据库=102; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "兽医学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发生妊娠的行为。开始于精子和卵子的 结合。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0040",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "男女性交，两精结合，合而成形的生理过程。"
+  },
+  {
+   "cn": "私有化",
+   "en": "Privatization",
+   "source": "经济学名词",
+   "wordNumber": "06.169",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "公有组织或公有财产的所有权人直接或由其代理人越权将公有组织或公有财产以及这些组织或财产的所有权及其派生权利，合法或非法地由公有组织或公有财产的全体公民或某一集体所有转变为个别私人所有的行为及其过程。"
+  },
+  {
+   "cn": "民营化",
+   "en": "privatization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0151",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "将国有企业、公营的公用事业的所有权或经营权转移到民间，引入市场机制的管理过程和方法。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.504",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "以符号或词的形式对事物本质进行的描述。包括内涵和外延，是构成命题性思想的基本要素。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "反映对象本质属性的思维形式。人类把所感知的事物的共同本质特点抽象出来并加以概括，就成为概念。表达概念的语言形式是词或词组。概念都有内涵和外延，即其含义和适用范围。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0647",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "客观事物基本属性的思维抽象，也是知识和推理的最基本组成单元，通常用一个词语加以概括。它可以通过内涵（对其本质的描述）或外延（所代表的对象的总和）来描述。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "心理学名词",
+   "wordNumber": "02.614",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以符号/词的形式对客观事物本质的描述。包括内涵和外延。"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "source": "经济学名词",
+   "wordNumber": "14.004",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种赋予个人比赋予集体更高的道德价值，提倡让个人尽其所能地使其收益最大化的哲学思想。个人主义的主要特征包括：①资本的私有财产；②鼓励竞争。个人主义的思想源于文艺复兴时期，17世纪，霍布斯（Hobbes"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0982",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "公共选择理论所运用的经济学方法的要素之一，是研究集体行动的出发点，个体反抗权威和所有试图控制自己的行动。"
+  },
+  {
+   "cn": "个体主义",
+   "en": "individualism",
+   "source": "心理学名词",
+   "wordNumber": "04.064",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "现代主义的特征之一。强调个体独立性的价值取向和文化倾向。"
+  },
+  {
+   "cn": "个体",
+   "en": "individual ",
+   "source": "草学名词",
+   "wordNumber": "4.0381",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "个性化",
+   "en": "individualization",
+   "source": "行为医学名词",
+   "wordNumber": "3.142",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "在大众化基础上增加的独特、另类、独具一格，拥有自身特质，与众不同的特性。"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "source": "植物学名词",
+   "wordNumber": "01.0191",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "具有相对独立的结构、对外部刺激发生反应、自主行使功能的生命单元。"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "source": "化学名词",
+   "wordNumber": "03.0119",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "构成总体的1个单位。"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "source": "数学名词",
+   "wordNumber": "09.0440",
+   "subjectFullName": "数学_概率论_数理统计_样本·统计量",
+   "subjectName": "样本?统计量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "任脉",
+   "en": "conception channel,conception vessel",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0032",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "起于胞中，主胞宫和妊娠，并主一身之阴经，下出会阴，向上前行至阴毛部位，沿腹部和胸部正中线直上，经咽喉，至下颌，环绕口唇，沿面颊，分行至目眶下。"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "source": "语言学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "直接揭示所指事物的本质或属性的词。例如“电子计算机”（“电脑”属比喻说法）。"
+  },
+  {
+   "cn": "上位概念",
+   "en": "upperseat concept,upper concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.285",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "与“下位概念”相对。具有从属关系的几个概念间，外延较大的概念。它的外延完全包含着另一个概念的外延。"
+  },
+  {
+   "cn": "个别登记",
+   "en": "individual accession,individual registration",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.412",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆按照图书的种、册进行单独登记的工作。先给被登记的每册（种）图书一个唯一的登记号，然后将每册（种）图书的登记号、书名、著者、版本、书价、来源及总括登记号逐次记入图书馆的财产登记簿中。"
+  },
+  {
+   "cn": "私用，专用",
+   "en": "private",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体性",
+   "en": "individuality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体性",
+   "en": "individuality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "个体主义",
+   "en": "individualism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体化",
+   "en": "individuation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "个体化",
+   "en": "individualization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体化",
+   "en": "individuation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "私人保险，个人保险",
+   "en": "private insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "private saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人存款",
+   "en": "private deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人贷款",
+   "en": "private loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人贸易",
+   "en": "private trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人票据",
+   "en": "private bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人票据",
+   "en": "private note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人投资",
+   "en": "private investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人信贷",
+   "en": "private credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人银行",
+   "en": "private bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人债务",
+   "en": "private debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私有链",
+   "en": "private blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人战术",
+   "en": "individual tactics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人混合泳",
+   "en": "individual medley",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人混合泳运动员",
+   "en": "individual medleyist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "私营化",
+   "en": "privatization",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "泛指国家将公共资产以及服务的所有权或经营权转让给个人或非法定机构的过程或行为。特指20世纪80 、90年代西方国家在公共服务领域进行的以引入市场机制和公共服务机构拍卖、服务外包为主要内容的改革。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "在社会福利领域，崇尚自我依赖和个人独立，反对任何外在力量干预，如国家、社会、家庭或者其他群体和制度对个人利益的干涉。与集体主义相对应的一种意识形态。"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.012",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种强调个人自由、个人利益，强调自我支配，从个人至上出发，以个人为中心来看待世界、看待社会和人际关系的世界观。"
+  },
+  {
+   "cn": "个别化",
+   "en": "individuation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "尊重每个人的个体差异，并据此提供服务的态度和做法。把每一个人看作是唯一的、不同的实体，应该受到不同的对待。"
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "私营企业主",
+   "en": "private entrepreneur",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末（经济改革）以来在中国社会出现的私营企业的经营者。在当时中国是一个新的社会阶层，对社会阶层结构的演变具有重要意义。"
+  },
+  {
+   "cn": "个人开业",
+   "en": "private practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "专业人员个体通过收费来提供服务的方式。服务由私人执业的社会工作者来提供，案主直接与该社会工作者或他所属的私人执业团体订立协议，案主通过保险、医疗保险计划或其他基金等直接为服务支付报酬。近些年在美国较为"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0011",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“生产资料私有制”。在人类社会的一定发展阶段上，由私人占有生产资料和生产成果的经济形式。私有制在历史上有多种存在形式，可分为个体劳动者私有制和剥削阶级占有的私有制，如奴隶制私有制、封建主义私有制和"
+  },
+  {
+   "cn": "非公立医院",
+   "en": "private hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "除公立医院医院以外的其它医院，主要包括联营、股份合作、私营、港澳台投资和国外投资等医院。"
+  },
+  {
+   "cn": "民间借贷",
+   "en": "private lending",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在非正式金融体系中，个人或家庭之间基于信任关系和非正式协议进行的资金借贷活动。这种借贷形式通常不通过银行等官方金融机构，而是通过亲朋好友、邻里乡亲等社会网络完成，具有灵活性高、手续简便的特点。"
+  },
+  {
+   "cn": "私德",
+   "en": "private morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0090000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在私人生活和私人交往中所应当遵循的道德行为准则和规范及所表现的道德品质。"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "基于当前人们对生育行为的科学认识，育龄夫妇有意识地对自己妊娠行为做出的安排。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "健康研究中的一种理论框架。用于直观地描述健康相关问题的关键要素及其相互关系。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "支配人们进行道德判断、评价和道德活动的意识。它是社会物质生活条件的反映，具有时代性、民族性和阶级性。"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "现代社会中普遍存在的一个倾向，即在道德与信仰方面更强调个人的选择，而非首先从宗教传统中寻求指导。"
+  },
+  {
+   "cn": "个体报告",
+   "en": "individual report",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.14.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "通过填写《放射工作人员职业健康检查表》对检查结果进行总结，包括检查结果异常分析和建议，需要复查确定的，应明确复查的内容和时间，将复查结果附上；并由主检医师对检查结果进行审核后给出处理建议和适任性意见并"
+  },
+  {
+   "cn": "个体匹配",
+   "en": "individual matching",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.2.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "以病例和对照的个体为单位进行的匹配方法，包括1:1的配对以及1:r（r≥2）的匹配。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

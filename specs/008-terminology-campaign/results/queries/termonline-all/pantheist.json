@@ -1,0 +1,32 @@
+{
+ "key": "pantheist",
+ "term": "pantheist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:07:10+00:00",
+ "status": "ok",
+ "note": "variant=pantheist; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "泛神论",
+   "en": "pantheism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将神与自然视为同一实体的哲学理论。强调自然界的至高无上，以及神与自然的不可分割性。主张神是万物的本体，万物都是神的体现，自然法则是神的化身。否认超自然的主宰或精神力量，认为神并非独立存在的实体，而是渗"
+  },
+  {
+   "cn": "泛神论",
+   "en": "pantheism",
+   "source": "马克思主义",
+   "wordNumber": "01.0107",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源自希腊语pan（一切）和theos（神）。J.托兰德（Toland.J）首先使用的术语。是指把神和整个宇宙视为同一，即与存在的一切总和视为同一的哲学观，主张神就存在于自然界一切事物之中，没有其他超自"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

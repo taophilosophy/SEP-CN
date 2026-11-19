@@ -1,0 +1,32 @@
+{
+ "key": "gnostike",
+ "term": "gnostikê",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:55:53+00:00",
+ "status": "ok",
+ "note": "variant=gnostikê; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "识别神经元",
+   "en": "gnostic neuron",
+   "source": "生物物理学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "20世纪60年代末一些科学家提出的视觉系统中一种假想的功能高度特异化的细胞。主要是对主体所熟悉的某些复杂对象的图像(如自己的祖母的不同照片)才有剧烈的反应，而对其他对象反应很小。这是对图像稀疏编码的一"
+  },
+  {
+   "cn": "波士顿诊断性失语检查",
+   "en": "Boston dia- gnostic aphasia examination",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "目前英语国家普遍应用的一种标准化失语症检查。此检查由27个分测验组成，分为5个大项目：①会话和自发性言语；②听觉理解；③口语表达；④书面语言理解；⑤书写。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

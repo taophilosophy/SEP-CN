@@ -1,0 +1,642 @@
+{
+ "key": "alleged prohibition",
+ "term": "alleged prohibition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:04:10+00:00",
+ "status": "ok",
+ "note": "variant=alleged prohibition; 审定公布名词库=180; 海峡两岸名词对照库=99; 其他来源数据库=6; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "禁酒运动",
+   "en": "Prohibition Movement",
+   "source": "世界历史名词",
+   "wordNumber": "03.0155",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "20世纪20年代至30年代出现的主张禁止生产、销售和饮用含酒精饮料的社会改革运动。"
+  },
+  {
+   "cn": "违禁广告",
+   "en": "prohibited advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.318",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "广告管理法规禁止发布的广告。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited substance",
+   "source": "运动医学名词",
+   "wordNumber": "09.033",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何被列入禁用清单的物质。"
+  },
+  {
+   "cn": "禁用清单",
+   "en": "prohibited list",
+   "source": "运动医学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "确定禁用物质和禁用方法的清单。"
+  },
+  {
+   "cn": "禁用方法",
+   "en": "prohibited method",
+   "source": "运动医学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "任何被列入禁用清单的方法。"
+  },
+  {
+   "cn": "限制性职业",
+   "en": "prohibited occupation",
+   "source": "教育学名词",
+   "wordNumber": "11.079",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "由法律或政策规定，禁止某类人员（如外籍、未成年人、孕妇等）从事的职业。"
+  },
+  {
+   "cn": "禁飞区",
+   "en": "prohibited area",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.064",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "在一个国家的陆地或领海上空划定的禁止航空器飞行的空域。"
+  },
+  {
+   "cn": "违禁物品",
+   "en": "prohibited articles",
+   "source": "航海科技名词",
+   "wordNumber": "11.0365",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止通行",
+   "en": "traffic prohibited",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.196",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止停车",
+   "en": "parking prohibited",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不准入境",
+   "en": "entrance prohibited",
+   "source": "航海科技名词",
+   "wordNumber": "11.0366",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "禁止发行",
+   "en": "prohibition of distribution;prohibition of circulation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.052",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物发行的行政或司法行为。"
+  },
+  {
+   "cn": "禁止出版",
+   "en": "prohibition of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.046",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物出版的行政或司法行为。"
+  },
+  {
+   "cn": "禁止登载",
+   "en": "prohibition of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.051",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种信息登载的行政或司法行为。"
+  },
+  {
+   "cn": "禁止发售",
+   "en": "prohibition of sale",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.055",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "强制性地禁止某种出版物发售的行政或司法行为。"
+  },
+  {
+   "cn": "戈尔巴乔夫反酗酒运动",
+   "en": "Gorbachev Prohibition Campaign",
+   "source": "世界历史名词",
+   "wordNumber": "05.0506",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1985年5月，苏联全国开展反酗酒运动，收到良好社会效果，但随之而来的是私酿酒和黑市大行其道，造成财政方面的危机和人民的不满。1987年运动结束。"
+  },
+  {
+   "cn": "禁建区",
+   "en": "development-prohibited zone",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.056",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）总体规划",
+   "subjectName": "城市（镇）总体规划",
+   "publishYear": "2021",
+   "definition": "在城乡规划中划定的，为保护生态环境、自然和历史文化环境，除满足基础设施和公共安全等方面需要外，禁止进行城镇开发建设的地区。"
+  },
+  {
+   "cn": "禁止开发区域",
+   "en": "prohibited development zone",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.025",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "依法设立的各级各类自然文化资源保护区域，以及其他禁止进行工业化城镇化开发、需要特殊保护的重点生态功能区。"
+  },
+  {
+   "cn": "禁止建设区",
+   "en": "development-prohibited zone",
+   "source": "建筑学名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "建筑学_城乡规划_总体规划",
+   "subjectName": "总体规划",
+   "publishYear": "2014",
+   "definition": "为保护生态环境、自然和历史文化环境，满足基础设施和公共安全等方面的需要，在总体规划中划定的禁止安排城镇开发项目的地区。"
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited navigation zone",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0051",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "为了国家安全，沿海国在其领海内设立的、限制外国船只航行的特定区域。"
+  },
+  {
+   "cn": "禁止性关税",
+   "en": "prohibitive tariff (=prohibitive duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止性关税",
+   "en": "prohibitive duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "不准入境",
+   "en": "entrance prohibited",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "违禁物品(违禁品)",
+   "en": "prohibited articles",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "禁止性进口关税",
+   "en": "prohibitive import duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁航区",
+   "en": "prohibited navigation zone",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁[止抛]锚区",
+   "en": "anchorage-prohibited area",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "禁止锚泊标",
+   "en": "anchor prohibited mark",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "禁止出口货物",
+   "en": "prohibited article for exportation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "禁止进口货物",
+   "en": "prohibited article for importation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抗增殖蛋白",
+   "en": "prohibitin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "过敏原",
+   "en": "allergen",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变应原",
+   "en": "allergen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "等位基因",
+   "en": "allele",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等位基因",
+   "en": "allele",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联烯",
+   "en": "allene",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等位基因",
+   "en": "allele",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等位基因",
+   "en": "allele",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "等位基因",
+   "en": "allele",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "禁止化学武器组织",
+   "en": "Organisation for the Prohibition of Chemical Weapons",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规定时间",
+   "en": "time allowed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定时间",
+   "en": "time allowed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停止接待群体性聚餐",
+   "en": "Group meals are not allowed. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "禁止面对面就餐",
+   "en": "Diners are not allowed to sit face to face.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "禁止个人崇拜",
+   "en": "prohibition of personal worship",
+   "source": "马克思主义",
+   "wordNumber": "03.0561",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "针对“文革”时期个人崇拜现象严重的问题，党的十二大最早提出“党禁止任何形式的个人崇拜”，这次大会通过的新党章对此做了明确规定。"
+  },
+  {
+   "cn": "禁止商业化原则",
+   "en": "prohibition of commercialization principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.078",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "禁止将人体器官和组织作为商品进行买卖和变相买卖的伦理原则。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "农产品禁止生产区域",
+   "en": "prohibited production area of agricultural products",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "县级以上地方人民政府农业行政主管部门按照保障农产品质量安全的要求，根据农产品品种特性和生产区域大气、土壤、水体中有毒有害物质状况等因素，认为不适宜特定农产品生产的，提出禁止生产的区域。"
+  },
+  {
+   "cn": "禁止化学武器组织",
+   "en": "Organization for the Prohibition of Chemical Weapons,OPCW",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.9",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "成立于1997 年，总部设于荷兰海牙，是致力于实现《禁止化学武器公约》的宗旨和目标，确保公约的各项规定得到执行，并为各缔约国提供一个进行协商和合作论坛的独立国际组织。"
+  },
+  {
+   "cn": "变应原",
+   "en": "allergen",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.12",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "能诱导Ⅰ型超敏反应的抗原。通常限于在特应性个体中能与IgE结合引起变态反应的抗原。包括完全抗原（如微生物、寄生虫、花粉、异种动物血清等）和半抗原（如药物和一些化学制剂）。也可分为天然的和人工合成的两 "
+  },
+  {
+   "cn": "致敏原",
+   "en": "allergen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "能诱导机体产生IgE，引起Ⅰ型超敏反应的抗原物质。"
+  },
+  {
+   "cn": "阿连德社会主义",
+   "en": "Allende socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0253",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "1970—1973年，由萨尔瓦多·阿连德（Salvador Allende，1908—1973）领导的智利人民团结阵线政府在智利推行的一套社会主义理论与实践。主张通过选举和平过渡到民主、自由的社会主义"
+  },
+  {
+   "cn": "致敏原表位",
+   "en": "allergen epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.22",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "是致敏原分子中决定免疫应答特异性的特殊化学基团，是致敏原与T/B 细胞抗原受体或抗体特异性结合的最小结构与功能单位。"
+  },
+  {
+   "cn": "致敏原标识",
+   "en": "allergen labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.58",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "食品包装上对已知的导致过敏反应的食品和配料的说明。"
+  },
+  {
+   "cn": "食物致敏原",
+   "en": "food allergen",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.7",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "存在于食物中能引起过敏反应的物质。"
+  },
+  {
+   "cn": "致敏原阈值",
+   "en": "allergen threshold",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.52",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在不产生任何不良反应的情况下可以耐受的致敏性食物的最大量。"
+  },
+  {
+   "cn": "预防性过敏原标签",
+   "en": "precautionary allergen labelling",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.60",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "存在交叉接触过敏原的情况时，食品包装上告知消费者可能存在的食品致敏原的声明。"
+  },
+  {
+   "cn": "食物致敏原参考剂量",
+   "en": "reference dose for food allergen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.56",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "对致敏原有不良反应的一小部分人摄入后，预计会引起反应症状的最低剂量。"
+  },
+  {
+   "cn": "食物过敏风险评估",
+   "en": "risk assessment of food allergen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.50",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "利用有关交叉接触特征的信息来评估食物过敏个体因消费含有致敏性食物而经历潜在不良反应的风险。"
+  },
+  {
+   "cn": "特定致敏原血清IgE",
+   "en": "allergen-specific IgE in serum",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.38",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "由免疫系统在接触食物中的致敏原后形成的一种能识别特定致敏原的IgE。"
+  },
+  {
+   "cn": "食物过敏原风险管理",
+   "en": "risk management of food allergen",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.51",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "为管理致敏原而制定的程序、政策和实践，是食品安全管理的基本要素。"
+  },
+  {
+   "cn": "食品添加剂超范围使用",
+   "en": "food additive use exceeded allowed scope",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许使用的食品类别外的食品中添加食品添加剂"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

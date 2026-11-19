@@ -1,0 +1,752 @@
+{
+ "key": "movement of animals",
+ "term": "Movement of Animals",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:57:44+00:00",
+ "status": "ok",
+ "note": "variant=Movement of Animals; 审定公布名词库=10000; 海峡两岸名词对照库=7700; 其他来源数据库=1848; 预公布名词数据库=2746; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "运动",
+   "en": "movement",
+   "source": "精神医学名词",
+   "wordNumber": "02.182",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "机体在受到内外环境刺激后出现的由肌肉收缩产生的反射性活动。是机体的一种功能，也是动作和活动的基础。"
+  },
+  {
+   "cn": "1300年运动",
+   "en": "1300 Movement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0259",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "缅甸1938年(缅历1300年)爆发的反英示威运动，沉重打击了英国殖民势力，促进了缅甸民族独立运动的发展。"
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "动物学名词",
+   "wordNumber": "1.0001",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "能自由活动的或至少在生活史某一阶段能自由活动的、多细胞（除原生动物为单细胞外）、无细胞壁的一类异养真核生物。根据其身体中有无脊柱或脊索分为脊椎动物和无脊椎动物两大类。"
+  },
+  {
+   "cn": "五月学潮",
+   "en": "movement may of 1968",
+   "source": "教育学名词",
+   "wordNumber": "05.116",
+   "subjectFullName": "教育学_比较教育_法国教育",
+   "subjectName": "法国教育",
+   "publishYear": "2013",
+   "definition": "1968年3月至5月，由法国大学生占领位于巴黎南郊的巴黎大学南泰尔文学与人文科学学院的办公楼，而引发的震惊世界的法国学潮。学潮的直接原因是大学生人数增加带来的管理问题，深层次原因则是现代文化与传统的冲"
+  },
+  {
+   "cn": "实验动物化",
+   "en": "laboratorization of animal",
+   "source": "兽医学名词",
+   "wordNumber": "09.003",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "从家畜（禽）、野生动物中选择适当物种培育成实验动物的过程。物种选择要遵从具有科学研究所需的重要生物学特性、体型较小、易饲养管理和繁殖的基本原则。"
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.093",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于自然界一切事物和现象都为精灵所控制的学说。是宗教和唯心主义的来源之一。认为人、动植物和自然界的事物，不仅有被感知的特征，而且还有灵魂。灵魂真实存在，具有能动性、可经验性和单子性或绵延性。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.097",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用人的视觉暂留特点把系列关联画面顺序展现，给人以连续的活动景象视觉的绘画艺术表现形式。"
+  },
+  {
+   "cn": "动漫",
+   "en": "anime",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.099",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "将动态漫画的概念与数码合成等技术相结合，在平面上展现动态画面效果的艺术形式。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0280",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "采用图形与图像的处理技术，借助于编程或软件生成一系列的图像画面。以一定的速度（如每秒16张）连续播放静止图像的方法产生物体运动的效果。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "利用人的视觉残留特性使连续播放的静态画面相互衔接而形成的动态效果。"
+  },
+  {
+   "cn": "普通动物",
+   "en": "conventional animal,CV animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "在微生物学控制上要求最低的动物。要求不携带人畜共患病和动物烈性传染病的病原。因价格低，故经常用于教学实验中。"
+  },
+  {
+   "cn": "清洁动物",
+   "en": "clean animal,CL animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0200",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "除普通动物应排除的病原外，不携带对动物危害大和对科学研究干扰大的病原的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0198",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得的动物。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。是实验动物按微生物学控制程度分类中的一种。"
+  },
+  {
+   "cn": "普通级动物",
+   "en": "conventional animal,CV animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "未经规范的微生物学控制，饲养于开放环境，临床表现健康，无人畜共患病原体的动物。"
+  },
+  {
+   "cn": "清洁级动物",
+   "en": "clean animal,CL animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "种群来自无菌动物、悉生动物或无特定病原动物，种系清楚，饲育在较洁净的环境中，饲料、饮水清洁，温度较恒定的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。"
+  },
+  {
+   "cn": "走兽",
+   "en": "squatting animal;running animal",
+   "source": "风景园林名词",
+   "wordNumber": "07.0403",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "垂脊下端上之雕饰。包括龙、凤、狮子、天马、海马、狻猊、狎鱼、獬豸、斗牛、行什。"
+  },
+  {
+   "cn": "片头动画",
+   "en": "title animation;preamble animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.054",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "放在电影、电视剧、电视栏目、电脑游戏等正式内容之前，通常用节目内容典型片段和3D动画组合演绎而成的动画。"
+  },
+  {
+   "cn": "动物检疫审批",
+   "en": "approval of importing animal and animal product",
+   "source": "兽医学名词",
+   "wordNumber": "03.039",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "出入境检验检疫机构对货主或其代理人的申请进行审验，依据国家有关法律、法规决定是否批准其从境外引进或过境动物检疫物要求的过程。"
+  },
+  {
+   "cn": "新构造运动类型",
+   "en": "type of neotectonic movement",
+   "source": "地质学名词",
+   "wordNumber": "09.07.015",
+   "subjectFullName": "地质学_构造地质学_活动构造与新构造学",
+   "subjectName": "活动构造与新构造学",
+   "publishYear": "2026",
+   "definition": "按照一定标准对新构造运动类型进行的划分。如：按照新构造运动所造成的地壳变形和形成的地质构造形态，分为断裂运动、褶皱运动、翘起或掀升运动、弯曲和拗陷运动、上升和下降运动、底辟运动、火山构造运动；按照新构"
+  },
+  {
+   "cn": "活动",
+   "en": "movement",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "movement",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "movements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "运动",
+   "en": "movements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穴居动物,洞穴动物",
+   "en": "cavernicolous animal\",\"burrowing animal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "污水动物",
+   "en": "saprobic animal\",\"saprobiotic animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "普通级动物， 常规动物",
+   "en": "conventional animal， CV animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "清洁级动物， 最低限度疾病动物",
+   "en": "clean animal， CL animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "悉生动物，已知菌动物",
+   "en": "gnotobiotic animal， GN animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币流通",
+   "en": "international movement of money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转舵时间",
+   "en": "time of rudder movement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原动物鉴定",
+   "en": "identification of original animal",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "迁移",
+   "en": "migration\",\"movement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乐章",
+   "en": "movement\",\"partie",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿米巴样运动（=变形运动）",
+   "en": "amoeboid movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胞质运动",
+   "en": "cytoplasmic movement",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不对称动作",
+   "en": "asymmetric movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克运动",
+   "en": "Olympic Movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "岸上动作",
+   "en": "deck movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术移动",
+   "en": "tactical movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动物试验",
+   "en": "animal testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络动漫",
+   "en": "online animation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element\",\"movement\",\"exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动静",
+   "en": "Movement and Stillness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "古文运动",
+   "en": "Classical Prose Movement",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放数据运动",
+   "en": "open data movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开源运动",
+   "en": "open-source movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据行动",
+   "en": "Scientific Data Movement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物有灵论",
+   "en": "animism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种相信自然现象都是具有生命或灵魂、或认为某种神灵能够使物体具有生命现象的信仰观念。"
+  },
+  {
+   "cn": "万物有灵",
+   "en": "animism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0304",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "万物有灵观念有两个基本信条：一是相信所有生物的灵魂在身体死亡或消失之后能够继续存在；二是相信各种神灵可以影响和控制物质世界和人的今生来世，同时神灵和人是相通的，人的行为会引起神灵的高兴或不悦。灵魂以三"
+  },
+  {
+   "cn": "五四运动",
+   "en": "May th Movement of",
+   "source": "马克思主义",
+   "wordNumber": "04.0255",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1919年5月4日爆发的一场以先进青年知识分子为先锋、广大人民群众参加的彻底的反帝反封建的伟大爱国运动。五四运动促进了马克思主义在中国的传播及其与工人运动相结合，是中国革命史上具有划时代意义的事件，标"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "染疫动物处理",
+   "en": "disposal of infected animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.4.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对检疫阳性动物及隔离期间病死畜采取的焚烧、深埋等处理措施。"
+  },
+  {
+   "cn": "天体运动",
+   "en": "nudist movement",
+   "source": "社会学名词",
+   "wordNumber": "3.3.7.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性伦理",
+   "subjectName": "性伦理",
+   "publishYear": "2025",
+   "definition": "提倡裸露身体、回归自然的运动。"
+  },
+  {
+   "cn": "双重运动",
+   "en": "double movement",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "关于自我调节的市场机制与社会的自我保护运动的理论。卡尔·波兰尼分析资本主义文明演化特征的核心框架。"
+  },
+  {
+   "cn": "社会运动",
+   "en": "social movement",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "特定群体以组织化的方式所进行的改变或重建社会秩序的集体行为，旨在促进或抗拒社会变迁。"
+  },
+  {
+   "cn": "环境运动",
+   "en": "environmental movement",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "针对环境问题的各种各样的科学、社会和政治运动。"
+  },
+  {
+   "cn": "青年运动",
+   "en": "youth movement",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.2",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "为了改革或革命，由青年领导或主要由青年组织的政治、宗教或社会的运动。"
+  },
+  {
+   "cn": "学生运动",
+   "en": "student movement",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "由学生组织和参与，旨在改变经济、政治和社会现状的学生活动的总称。不同学生运动的参与主体、规模和社会效果差异巨大。"
+  },
+  {
+   "cn": "复兴运动",
+   "en": "revitalization movement",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "以创造一种更令人满意的文化为目的的社会运动。一般带有宗教色彩，但也有仅以政治和社会目的为主的情形。以某种新文化蓝图或一系列为人所接受的革新为特征，但多具有乌托邦性质、以失败者居多。"
+  },
+  {
+   "cn": "共产主义运动",
+   "en": "communism movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0017",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、为实现共产主义而在世界范围内兴起的运动，是绝大多数人的、为绝大多数人谋利益的运动。共产主义运动以马克思主义即共产主义思想体系为指导，以实现共产主义各阶段任务为目的。要求在废"
+  },
+  {
+   "cn": "工人运动",
+   "en": "labor movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0065",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级团结起来，以有组织的形式、在经济上、政治上、理论上开展反对资产阶级的斗争。在斗争中，工人运动将经历从自发到自觉、从单独到联合、从改良到革命等一系列方式、途径和手段的演进。"
+  },
+  {
+   "cn": "共和运动",
+   "en": "republican movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0073",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级为了反对封建君主专制、建立自己的阶级统治而进行的长久斗争。19世纪30—40年代资产阶级共和派为了反对封建君主专制制度，建立自己的阶级统治，而继承法国大革命精神、发扬共和原则和实行共和制度进行"
+  },
+  {
+   "cn": "合作劳动",
+   "en": "cooperative movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0088",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动群众根据自愿互助的原则联合起来创建合作社的探索实践。"
+  },
+  {
+   "cn": "民主运动",
+   "en": "democratic movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0114",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对独裁统治或专制统治，争取被统治阶级的民主权利的群众运动。它是被统治阶级反抗统治阶级的政治斗争的一种形式，通常具有进步意义。"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  },
+  {
+   "cn": "斯达汉诺夫运动",
+   "en": "Stakhanovite movement",
+   "source": "马克思主义",
+   "wordNumber": "04.0109",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪30年代苏联社会主义工业化建设中的群众性劳动竞赛运动。顿涅茨矿区采煤工人斯达汉诺夫在1935年8月31日创造了一班工作时间内采煤102吨的记录，超过定额十三倍。从这里开始的劳动竞赛运动，立即在"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0488",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "被压迫民族反对压迫民族、争取民族平等或民族解放的斗争。从这个意义上说，民族运动是随着资本主义的产生和发展而形成和发展的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

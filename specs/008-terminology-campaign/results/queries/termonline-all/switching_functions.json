@@ -1,0 +1,702 @@
+{
+ "key": "switching functions",
+ "term": "switching functions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:05:01+00:00",
+ "status": "ok",
+ "note": "variant=switching functions; 审定公布名词库=3195; 海峡两岸名词对照库=788; 其他来源数据库=105; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "开关函数",
+   "en": "switch function",
+   "source": "数学名词",
+   "wordNumber": "012.0514",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切换",
+   "en": "switching",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.089",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻采访编辑制作",
+   "subjectName": "广播电视新闻采访编辑制作",
+   "publishYear": "2022",
+   "definition": "在节目的编辑制作或直播过程中，依据镜头设计或现场要求对镜头进行的转换。在图像切换过程中，一般应按观众的视觉特性遵循自然变换的原则。"
+  },
+  {
+   "cn": "交换",
+   "en": "switching",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "在需要运送信号时，把一些功能单元、传输通路或电信电路互连起来的过程。"
+  },
+  {
+   "cn": "开合",
+   "en": "switching",
+   "source": "电气工程名词",
+   "wordNumber": "09.399",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "切换",
+   "en": "switching",
+   "source": "电气工程名词",
+   "wordNumber": "01.621",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "通断",
+   "en": "switching",
+   "source": "电气工程名词",
+   "wordNumber": "01.620",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "交换",
+   "en": "switching",
+   "source": "电子学名词",
+   "wordNumber": "21.310",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "交换机",
+   "en": "switch",
+   "source": "急救医学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "急救医学_急救调度_调度基本概念_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "一种用于电（光）信号转发的网络设备，交换、控制信令及其他功能单元的通信设备。可以把用户线路、电信电路和（或）其他要互连的功能单元根据用户的请求连接起来。"
+  },
+  {
+   "cn": "交换机",
+   "en": "switch",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.134",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "用于电（光）信号转发的一种网络设备。为接入交换机的任意两个网络节点提供独享的信号通路，最常见的是以太网交换机。"
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "物理学名词",
+   "wordNumber": "03.0795",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0893",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "处于两个或多个电路中，可以接通或断开电路的电子元件。"
+  },
+  {
+   "cn": "交换机",
+   "en": "switch",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0114",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络中执行统计式多路复用和分组交换的装置。"
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "建筑学名词",
+   "wordNumber": "14.0533",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "在正常的电路条件(包括规定的过载工作条件)下，能接通、承载和分断电流，并在规定的非正常电路条件(如短路)下、在规定时间内，能承载电流的机械开关电器。"
+  },
+  {
+   "cn": "交换机",
+   "en": "switch",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "网络节点上话务承载装置、交换级、控制和信令设备以及其他功能单元的集合体。交换机能把用户线路、电信电路和(或)其他要互连的功能单元根据单个用户的请求连接起来。"
+  },
+  {
+   "cn": "转辙器",
+   "en": "switch",
+   "source": "土木工程名词",
+   "wordNumber": "08.262",
+   "subjectFullName": "土木工程_铁路工程_道岔",
+   "subjectName": "道岔",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "电气工程名词",
+   "wordNumber": "09.096",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "转辙器",
+   "en": "switch",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0344",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "电子学名词",
+   "wordNumber": "08.029",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "接地开关",
+   "en": "earthing switch,grounding switch",
+   "source": "电力名词",
+   "wordNumber": "19.215",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "用于将回路接地的一种机械式开关装置。在异常条件(如短路)下,可在规定时间内承载规定的异常电流;但在正常回路条件下,不要求承载电流。有些接地开关还可具有关合短路电流或开合和承载感应电流的能力。"
+  },
+  {
+   "cn": "接地开关",
+   "en": "earthing switch,grounding switch",
+   "source": "建筑学名词",
+   "wordNumber": "14.0536",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "用于将回路接地的一种机械式开关装置。在异常条件(如短路)下，可在规定时间内承载规定的异常电流；但在电路正常工作条件下，不要求承载电流。"
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "开关",
+   "en": "switch",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "类别转换",
+   "en": "class switch\",\"class switching",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最优切换",
+   "en": "optimum switching",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "切换线",
+   "en": "switching line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "捕食者转换",
+   "en": "predator switching",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "柱切换",
+   "en": "column switching",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转录开关",
+   "en": "transcriptional switching",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Q开关",
+   "en": "Q-switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "包交换，[报文]分组交换",
+   "en": "packet switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报文交换，电文交换",
+   "en": "message switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "磁头切换",
+   "en": "head switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电路交换",
+   "en": "circuit switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光[子]交换",
+   "en": "photonic switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合交换",
+   "en": "hybrid switching",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换电路",
+   "en": "switching circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换设备",
+   "en": "switching facility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换系统",
+   "en": "switching system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换中心",
+   "en": "switching center",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守换位",
+   "en": "switch\",\"switching",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换防",
+   "en": "switching",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换机",
+   "en": "switch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "switch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换位",
+   "en": "switch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灾难切换",
+   "en": "disaster switch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "court switch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络交换设备",
+   "en": "network switching equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中心交换机",
+   "en": "data center switch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语码转换",
+   "en": "code-switching",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0109",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "双语或多语环境下说话双方变换使用两种或两种以上语言、方言或语体进行交谈的现象。包括句内语码转换（intrasentential code switching）和句际语码转换（intersententi"
+  },
+  {
+   "cn": "定时开关",
+   "en": "time switch",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "预置照射时间的一种装置。当照射到达预置时间时给出停止照射的信号并终止照射。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "急停开关",
+   "en": "emergency stop switch",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.9.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "安装在放射装置或放射工作场所，在发生紧急事件时可以立即停止设备运行的应急装置。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "职能资本",
+   "en": "functional capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0233",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本运动过程中执行生产剩余价值或实现剩余价值职能的资本，包括产业资本和商业资本。职能资本是与借贷资本相对的资本形式，借贷资本者拥有资本所有权，将货币贷给职能资本者用于执行资本职能。"
+  },
+  {
+   "cn": "职能社会主义",
+   "en": "functional socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0233",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "战后瑞典社会民主党提出的一种理论主张，在瑞典社会主义理论中具有承上启下的地位。主张通过对所有权的一部分职能实行社会化而另一部分职能仍保留非社会化的办法，逐步实现社会主义的目标。该理论是瑞典社民党理论家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

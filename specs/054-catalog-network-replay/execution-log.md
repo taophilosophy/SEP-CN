@@ -49,3 +49,22 @@
 - rules/05 拆分（ADR-0004）＋门禁登记行补录。
 - 每轮 `fetch_catalog` 后重跑 `rebuild_catalog --build`（池随快照重冻）与 `--gate`；漂移时按 A5 停线归因。
 - specs/001 `detect_updates.py`/`compare_versions.py` 仍为未实现契约（本 spec 非目标）。
+
+## 2026-11-19 第二轮：rules/05 触顶处置＋门禁登记补录（用户批准）
+
+`rules/05-ci-and-tools.md` 原 30690 字节（限 30720，余 30），任何新增行都超限 → 按 ADR-0004 拆为目录：
+
+| 子文件 | 内容（原节搬家，正文逐字保留） |
+| ---- | ---- |
+| `rules/05/index.md` | 引言＋子文件索引＋新增门禁/工具的登记路线 |
+| `rules/05/ci-workflows.md` | CI 工作流清单（含本轮新增 `check_catalog_network.py --gate`）＋运行时基线 |
+| `rules/05/tools.md` | 本地工具表（**新增 `rebuild_catalog.py` / `check_catalog_network.py` 两行登记**）＋快速命令＋lint 配置＋表格风格 |
+| `rules/05/site.md` | 站点运行 |
+| `rules/05/batch-rewrite.md` | 生成器与批量改写纪律 |
+| `rules/05/judgment-rights.md` | 判定权与规则所有权（**新增一行：目录↔上游目录账重放 → `check_catalog_network.py`**）＋升门四件套＋测量效度 |
+| `rules/05/commit-policy.md` | 提交策略 |
+| `rules/05/shell-discipline.md` | 本机 shell 工具纪律 |
+
+链接改写：rules/02、03（内部相对引用）、04、06、08、09 的 `[05](05-ci-and-tools.md)` → `[05](05/index.md)`；`rules/README.md` 规则索引与两处快速判例；`AGENTS.md` 必读表；`.vitepress/README.md`；`.github/workflows/checks.yml` 注释。子文件内相对链接整体上移一级（`../0X-*.md`、`../adr/`、`../../.vitepress/`）。旧文件 `git rm`。
+
+验收：`check_doc_size` 达标（rules/ 全部回到限内）、`check_layout` L1–L4 全绿、`check_catalog_network --gate` 四门绿、全量 `check_all` 见下。

@@ -1,0 +1,722 @@
+{
+ "key": "microsomal fraction",
+ "term": "microsomal fraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:03:49+00:00",
+ "status": "ok",
+ "note": "variant=microsomal fraction; 审定公布名词库=4485; 海峡两岸名词对照库=1326; 其他来源数据库=149; 预公布名词数据库=158; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.078",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "在细胞被匀浆破碎时，内膜系统的膜结构破裂后由内质网和高尔基体等膜结构重新封闭所形成的直径为20~200nm的小囊 泡。"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "核医学名词",
+   "wordNumber": "06.0007",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "与核糖体结合的碎片状内质网膜形成的直径介于20 ～ 200 nm的膜泡。"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "02.039",
+   "subjectFullName": "组织学与胚胎学_组织学_细胞",
+   "subjectName": "细胞",
+   "publishYear": "2014",
+   "definition": "在细胞匀浆和差速离心过程中获得的由破碎的内质网膜形成的直径介于20～200nm的小囊泡，具有内质网的基本功能。"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "药学名词",
+   "wordNumber": "05.272",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "在细胞匀浆和差速离心过程中获得的由破碎的内质网自我融合形成的近似球形的膜囊泡状结构。包含内质网膜和核糖体两种基本成分。"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "细胞生物学名词",
+   "wordNumber": "03.142",
+   "subjectFullName": "细胞生物学_细胞结构与细胞外基质",
+   "subjectName": "细胞结构与细胞外基质",
+   "publishYear": "2009",
+   "definition": "在细胞匀浆和差速离心过程中获得的由破碎的内质网膜形成的直径介于20～200nm的膜泡。"
+  },
+  {
+   "cn": "微粒体酶",
+   "en": "microsomal enzyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0743",
+   "subjectFullName": "生物化学与分子生物学_酶_核酶及其他_易位酶",
+   "subjectName": "易位酶",
+   "publishYear": "2024",
+   "definition": "存在于微粒体内的一类酶。主要是过氧化氢酶和过氧化物酶，可防止过氧化氢在细胞内蓄积。微粒体中还有与乙醇的代谢、糖异生和胆固醇代谢有关的酶。"
+  },
+  {
+   "cn": "甲状腺微粒体抗体",
+   "en": "thyroid microsomal antibody;TMAb",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.69",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "由甲状腺上皮细胞质的微粒体抗原诱导产生的一种补体结合型抗体。"
+  },
+  {
+   "cn": "甲状腺微粒体抗体",
+   "en": "thyroid microsome antibody,TmAb",
+   "source": "核医学名词",
+   "wordNumber": "04.0919",
+   "subjectFullName": "核医学_临床核医学_内分泌系统核医学_内分泌系统解剖生理基础",
+   "subjectName": "内分泌系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "一种补体结合型抗体。主要由甲状腺上皮细胞质的微粒体抗原诱导产生，正常人血清中无此抗体。"
+  },
+  {
+   "cn": "甲状腺微粒体抗体",
+   "en": "thyroid microsome antibody;TMAb",
+   "source": "普通外科学名词",
+   "wordNumber": "14.103",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "由甲状腺上皮细胞质的微粒体抗原诱导产生的补体结合型抗体。正常人血清中无此抗体。"
+  },
+  {
+   "cn": "微粒体多功能氧化酶系",
+   "en": "microsomal mixed function oxidases,MFO",
+   "source": "昆虫学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "昆虫学_昆虫毒理与药理",
+   "subjectName": "昆虫毒理与药理",
+   "publishYear": "2000",
+   "definition": "存在于某些细胞的光滑内质网上的一种氧化酶系。在还原辅酶Ⅱ (NADPH)和分子氧存在的情况下，催化各种内源和外源化合物的氧化。如甾体激素、脂肪酸、药物、杀虫剂及环境污染物。它的主要组分有细胞色素P45"
+  },
+  {
+   "cn": "抗肝肾微粒体抗体",
+   "en": "anti-liver-kidney microsome antibody",
+   "source": "消化病学名词",
+   "wordNumber": "12.136",
+   "subjectFullName": "消化病_肝脏_肝脏疾病诊断",
+   "subjectName": "肝脏疾病诊断",
+   "publishYear": "2022",
+   "definition": "一组对肝细胞质、近端肾小管微粒体产生反应的自身抗体。其中Ⅰ型抗体的靶抗原为细胞色素单氧化酶P450-2D6抗原，是2型自身免疫性肝炎的血清标志物。常见于抗核抗体及抗平滑肌抗体阴性的自身免疫性肝炎患者。"
+  },
+  {
+   "cn": "粒级",
+   "en": "fraction",
+   "source": "冶金学名词",
+   "wordNumber": "03.0031",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "为了表示物料粒度的组成情况，常根据粒度的大小将粒度分成若干个级别。每个级别所占的百分数来表示。"
+  },
+  {
+   "cn": "馏分",
+   "en": "fraction",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0023",
+   "subjectFullName": "化工（一）_总论_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2017",
+   "definition": "原油蒸馏时按沸程切割成各种馏分油的通称。有时也指油料中具有一定碳数的组分。"
+  },
+  {
+   "cn": "部分",
+   "en": "fraction",
+   "source": "药学名词",
+   "wordNumber": "05.166",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "分级分离法所得组分的各个个别部分。"
+  },
+  {
+   "cn": "粒组",
+   "en": "fraction",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.076",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）",
+   "subjectName": "土力学（水利）",
+   "publishYear": "1997",
+   "definition": "按粒径范围划分的颗粒组别。"
+  },
+  {
+   "cn": "分数",
+   "en": "fraction",
+   "source": "数学名词",
+   "wordNumber": "04.0062",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分级分离",
+   "en": "fractionation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0018",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_分散与简单分离",
+   "subjectName": "分散与简单分离",
+   "publishYear": "2024",
+   "definition": "根据混合物中各组分的理化性质的差异而将其逐段分开的方法。如蛋白质的分段盐析、凝胶层析中对分子量比较接近的分子的分段分离等。"
+  },
+  {
+   "cn": "分馏",
+   "en": "fractionation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2254",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在水溶混合物中，混合物通过诸如差异溶解度逐级分离的过程。 "
+  },
+  {
+   "cn": "分馏塔",
+   "en": "fractionator",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.164",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "一种塔式气液接触精馏设备。按内件分为板式塔和填料塔。"
+  },
+  {
+   "cn": "分馏",
+   "en": "fractionation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0617",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "各种蒸馏操作的通称。"
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微粒体",
+   "en": "microsome",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微粒体酶类",
+   "en": "microsomal enzymes",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微粒体多功能氧化酶系",
+   "en": "microsomal mixed function oxidases",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "微粒体单氧酶系",
+   "en": "microsomal mono-oxygenase system",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "分率",
+   "en": "fraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分数",
+   "en": "fraction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "部分，流分",
+   "en": "fraction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分馏器",
+   "en": "fractionator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分级",
+   "en": "fractionation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "分级",
+   "en": "fractionation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分馏",
+   "en": "fractionation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分级［分离］",
+   "en": "fractionation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分级[分离]",
+   "en": "fractionation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分馏",
+   "en": "fractionation\",\"fractional distillation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗甲状腺微粒体抗体",
+   "en": "anti-thyroid microsome antibody， anti-TMAb",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分馏塔",
+   "en": "fractionating tower\",\"fractional column",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "同位素分馏",
+   "en": "isotopic fractionation\",\"isotope fractionation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亚细胞部分",
+   "en": "subcellular fraction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分段赛",
+   "en": "fractional lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "infraction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗甲状腺微粒体抗体",
+   "en": "anti-thyroid microsome antibody, anti-TM Ab",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.54",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。其针对的靶抗原是甲状腺过氧化物酶，是自身免疫性甲状腺病的一种抗体之一。"
+  },
+  {
+   "cn": "存活分数",
+   "en": "survival fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某一剂量照射后存活的细胞数占未照射时细胞数的份额。"
+  },
+  {
+   "cn": "吸收分数",
+   "en": "absorbed fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.6.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_放射毒理学",
+   "subjectName": "放射毒理学",
+   "publishYear": "2025",
+   "definition": "在某一源部位内某种辐射类型发射的能量被特定靶组织吸收的分数。"
+  },
+  {
+   "cn": "滞留份额",
+   "en": "retention fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.36",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在组织或器官内滞留量占了该放射性核素初始进入量的份额。"
+  },
+  {
+   "cn": "排除份额",
+   "en": "excretion fraction",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.44",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便等排泄途径的排出量占初始进入量的比例。"
+  },
+  {
+   "cn": "同位素分馏",
+   "en": "isotope fractionation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.61",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "由物理、化学以及生物作用所造成的某一元素同位素在两种物质或两种物相间分配上的差异现象。利用葡萄与水中C、H、O 同位素差异可判断葡萄酒是否加水和不同海拨和经纬度下葡萄同位素差异数据库进行葡萄酒原产地溯"
+  },
+  {
+   "cn": "抗肝肾微粒体抗体",
+   "en": "anti-liver-kidney microsomal antibody, anti-LKM antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.40",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。是诊断II型自身免疫性肝炎的血清学指标，靶抗原为LKM-1、LKM-2、LKM-3和肝微粒体。"
+  },
+  {
+   "cn": "最高纲领派",
+   "en": "maximalist program fraction",
+   "source": "马克思主义",
+   "wordNumber": "04.0352",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1904年在俄国社会革命党内部形成的一个小资产阶级半无政府主义的恐怖集团。最高纲领派无视资产阶级民主革命这一阶段，坚持立即实行社会革命党的最高纲领，即在实行土地社会化的同时实行工厂社会化；认为劳动农民"
+  },
+  {
+   "cn": "人群归因分数",
+   "en": "population attributable fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.17",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人群中因特定暴露而导致特定疾病或其他不良状况的所有病例的比例。"
+  },
+  {
+   "cn": "归因分值",
+   "en": "source attribution fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某危险因素或某来源导致特定疾病的负担占该疾病总负担的比例。"
+  },
+  {
+   "cn": "比吸收分数",
+   "en": "specific absorbed fraction ，SAF",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.22",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "源部位内特定辐射类型发射的能量被1kg靶组织吸收的能量份额。"
+  },
+  {
+   "cn": "有效成分体积分数",
+   "en": "volume fraction of active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "液体消毒剂有效成分的体积与全部溶液体积之比，单位以百分数（％）表示。"
+  },
+  {
+   "cn": "暴露组归因分数",
+   "en": "attributable fraction in exposed group，AFE",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组超额危险可归因于某一危险因素暴露的百分数，是衡量危险因素潜在影响的指标之一。"
+  },
+  {
+   "cn": "胃肠道吸收分数",
+   "en": "fractional absorption in the gastrointestinal tract，f1",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "核素经胃肠道吸收入血液部分占摄入总量的比例，用于国际放射防护委员会出版物30（ICRP，1979年）的胃肠道模型。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

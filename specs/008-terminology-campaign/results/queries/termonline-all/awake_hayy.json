@@ -1,0 +1,472 @@
+{
+ "key": "awake hayy",
+ "term": "Awake Ḥayy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:55:00+00:00",
+ "status": "ok",
+ "note": "variant=Awake Ḥayy; 审定公布名词库=67; 海峡两岸名词对照库=28; 其他来源数据库=4; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "唤醒",
+   "en": "awaking",
+   "source": "睡眠医学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "睡眠医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "发生在睡眠中的醒来事件。"
+  },
+  {
+   "cn": "清醒插管术",
+   "en": "awake intubation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.491",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸和气道管理术",
+   "subjectName": "呼吸和气道管理术",
+   "publishYear": "2024",
+   "definition": "通常在患者清醒、保留自主呼吸的条件下实施的气管插管技术。多用于困难气道及特殊手术患者的麻醉管理。"
+  },
+  {
+   "cn": "清醒拔管",
+   "en": "awake extubation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.502",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_呼吸和气道管理术",
+   "subjectName": "呼吸和气道管理术",
+   "publishYear": "2024",
+   "definition": "在患者意识恢复达到清醒的程度，同时肌肉松弛药等麻醉药物完全代谢，患者呼吸功能恢复正常后，拔除气管导管的技术。"
+  },
+  {
+   "cn": "清醒镇静术",
+   "en": "awake sedation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.552",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_清醒镇静术",
+   "subjectName": "清醒镇静术",
+   "publishYear": "2024",
+   "definition": "使患者安静、不焦虑、注意力下降、遗忘，虽行动迟缓但仍具有语言交流和合作能力，可遵嘱做出反应以配合手术的技术。即利用药物对患者中枢神经系统产生抑制，提高患者的耐受性和依从性，使手术操作得以顺利进行。"
+  },
+  {
+   "cn": "粉蕉",
+   "en": "pisang awak banana; pisang awak group",
+   "source": "农学名词",
+   "wordNumber": "05.091",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "芭蕉科芭蕉属果树。多年生单子叶草本植物。是两种野生蕉杂交产生的三倍体后代（ABB）。果实外形比香蕉的小，富含碳水化合物、膳食纤维和铜元素。用于鲜食。"
+  },
+  {
+   "cn": "术中唤醒麻醉",
+   "en": "intraoperative awake anesthesia",
+   "source": "神经外科学名词",
+   "wordNumber": "16.174",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科治疗技术",
+   "subjectName": "神经外科治疗技术",
+   "publishYear": "2026",
+   "definition": "在麻醉下为患者实施手术，但手术进行到脑重要功能区时，又将患者从麻醉状态唤醒，在此状态下采用电生理技术精确定位脑功能区和病变关系，达到在保持功能区神经功能不受损或轻微损伤前提下最大限度切除病变的目的，以"
+  },
+  {
+   "cn": "清醒插管",
+   "en": "conscious intubation,awake intubation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.123",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "尾流",
+   "en": "wake",
+   "source": "大气科学名词",
+   "wordNumber": "08.187",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "相对于流体保持运动的固体物体后面的湍流。"
+  },
+  {
+   "cn": "尾流",
+   "en": "wake",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.171",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "尾流",
+   "en": "wake",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.042",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "物体后面，由物体上边界层内流来的或由分离引起的充满涡流的流动区域。"
+  },
+  {
+   "cn": "伴流",
+   "en": "wake",
+   "source": "船舶工程名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船舶航行时，其附近的水受船体影响而产生的伴随在船体周围流动的水流。"
+  },
+  {
+   "cn": "尾迹",
+   "en": "wake",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "绕物体流动在边界层分离点下游所形成的旋涡区。"
+  },
+  {
+   "cn": "伴流",
+   "en": "wake",
+   "source": "航海科技名词",
+   "wordNumber": "09.0055",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "尾流",
+   "en": "wake",
+   "source": "化学工程名词",
+   "wordNumber": "04.267",
+   "subjectFullName": "化学工程_化学反应工程_反应器",
+   "subjectName": "反应器",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "伴流测量",
+   "en": "wake measurement,wake survey",
+   "source": "船舶工程名词",
+   "wordNumber": "03.447",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "利用毕托管或伴流仪测定船体桨盘面处伴流的大小、方向及其分布情况。"
+  },
+  {
+   "cn": "上下文感知",
+   "en": "context-aware",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.124",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "系统能发现并有效利用上下文信息（如用户位置、时间、环境参数、邻近的设备和人员、用户活动等）进行计算的一种计算模式。"
+  },
+  {
+   "cn": "唤醒试验",
+   "en": "awaken test",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.157",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "涡旋尾流",
+   "en": "vortex wake",
+   "source": "物理学名词",
+   "wordNumber": "02.0819",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "尾场",
+   "en": "wake field",
+   "source": "物理学名词",
+   "wordNumber": "02.0821",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "尾流阻力",
+   "en": "wake resistance",
+   "source": "物理学名词",
+   "wordNumber": "02.0822",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "尾流，尾涡",
+   "en": "wake",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "瞬现余迹",
+   "en": "wake",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "伴流",
+   "en": "wake",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "迹流",
+   "en": "wake",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伴流",
+   "en": "wake",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伴流测量",
+   "en": "wake measurement\",\"wake survey",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伴流分数",
+   "en": "wake fraction\",\"wake coefficient",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "飞机尾流",
+   "en": "aircraft wake",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尾低压",
+   "en": "wake low",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尾流",
+   "en": "wake flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尾流捕捉",
+   "en": "wake capture",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尾流低压",
+   "en": "wake depression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尾流湍流",
+   "en": "wake turbulence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒",
+   "en": "wake-up",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伴流系数",
+   "en": "wake fraction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航迹灯",
+   "en": "wake light",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尾流",
+   "en": "trailing wake",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伴流模拟",
+   "en": "wake simulation",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "伴流因数",
+   "en": "wake factor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "实效伴流",
+   "en": "effective wake",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艇迹",
+   "en": "wake",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平局！",
+   "en": "Draw contest! Draw! Hiki-wake!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "至乐无乐",
+   "en": "Utmost Happiness Lies in Not Aware of the Happiness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "守灵",
+   "en": "funeral wake",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.026",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "守在灵床、灵柩或灵位旁边。古人认为人死后三天之内要回家探望，所以他们的孩子就在灵堂里等着，等着他的灵魂归来。守灵是召集亲属悼念死者，表达缅怀之情。"
+  },
+  {
+   "cn": "睡眠-觉醒障碍",
+   "en": "sleep-wake disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以入睡困难、睡眠维持困难、过度睡眠、睡眠觉醒周期紊乱或者睡眠行为异常等为表现的一类睡眠相关的临床综合征。"
+  },
+  {
+   "cn": "昼夜节律睡眠-觉醒障碍",
+   "en": "circadian rhythm sleep-wake disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种持续的或反复发作的睡眠中断模式，主要是由昼夜节律系统的改变，或在内源性昼夜节律与个体的躯体环境或社交或职业时间表所要求的睡眠-觉醒周期之间的错位引起的。睡眠中断导致睡意过度或失眠，或两者兼有。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

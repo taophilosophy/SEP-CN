@@ -1,0 +1,682 @@
+{
+ "key": "agitation",
+ "term": "agitation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:56:33+00:00",
+ "status": "ok",
+ "note": "variant=agitation; 审定公布名词库=389; 海峡两岸名词对照库=86; 其他来源数据库=12; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "激越",
+   "en": "agitation",
+   "source": "行为医学名词",
+   "wordNumber": "16.115",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "有明显的坐立不安和过多的肢体活动，并伴有焦虑或其他痛苦体验的精神病理状态。"
+  },
+  {
+   "cn": "激越",
+   "en": "agitation",
+   "source": "精神医学名词",
+   "wordNumber": "02.212",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "有明显的坐立不安和过多的肢体活动，并伴有焦虑或其他痛苦体验的一种精神病理状 态。"
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitation",
+   "source": "冶金学名词",
+   "wordNumber": "03.0499",
+   "subjectFullName": "冶金学_选矿_浮选及药剂",
+   "subjectName": "浮选及药剂",
+   "publishYear": "2019",
+   "definition": "在浮选前用机械搅拌器对矿浆进行搅拌的过程。"
+  },
+  {
+   "cn": "激越",
+   "en": "agitation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "伴有严重运动性不安的焦虑。患者表情痛苦，手足无措，不停地改变身体姿势，有时言语表达也出现问题，句子丧失完整性，语词重复。"
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitation,stirring",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0213",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "用器械（如搅拌器）或手工等在物料中搅动，使得气体、液体或悬浮颗粒混合均匀。"
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitation,stirring",
+   "source": "化学工程名词",
+   "wordNumber": "03.183",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_搅拌与混合",
+   "subjectName": "搅拌与混合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitating",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1589",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "搅动物料使之发生某种方式的循环流动，从而使物料混合均匀或使物理、化学过程加速及强化流体与固体壁面之间的传热的操作。"
+  },
+  {
+   "cn": "松土器",
+   "en": "agitator",
+   "source": "船舶工程名词",
+   "wordNumber": "09.044",
+   "subjectFullName": "船舶工程_专用船特有设备_工程船",
+   "subjectName": "工程船",
+   "publishYear": "1998",
+   "definition": "将河底泥沙搅松的专用机具。如铰刀、斗轮铰刀、耙头、高压冲水器等。"
+  },
+  {
+   "cn": "搅拌器［桨］",
+   "en": "agitator,stirrer",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0214",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "使物料强迫对流并均匀混合的器件，常见的搅拌器（搅拌桨）有涡轮式、锚式、桨式等类型。"
+  },
+  {
+   "cn": "搅拌器",
+   "en": "agitator,stirrer",
+   "source": "化学工程名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_搅拌与混合",
+   "subjectName": "搅拌与混合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitation，stirring",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.133",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "用器械（如搅拌器）或手工等在物料中搅动，使得气体、液体或悬浮颗粒混合均匀的过程。"
+  },
+  {
+   "cn": "搅拌强度",
+   "en": "agitation intensity",
+   "source": "冶金学名词",
+   "wordNumber": "03.0501",
+   "subjectFullName": "冶金学_选矿_浮选及药剂",
+   "subjectName": "浮选及药剂",
+   "publishYear": "2019",
+   "definition": "对矿浆搅拌的时间长短和搅拌器的转速高低的度量。"
+  },
+  {
+   "cn": "搅拌浸出",
+   "en": "agitation leaching",
+   "source": "冶金学名词",
+   "wordNumber": "06.0193",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "用机械搅动使物料在溶液中处于悬浮状态的浸出方法。"
+  },
+  {
+   "cn": "苏醒期躁动",
+   "en": "emergence agitation",
+   "source": "麻醉学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉及麻醉恢复期间严重并发症",
+   "subjectName": "麻醉及麻醉恢复期间严重并发症",
+   "publishYear": "2024",
+   "definition": "麻醉手术患者在术后麻醉苏醒期出现的神经系统过度兴奋并意识模糊的表现。"
+  },
+  {
+   "cn": "热骚动",
+   "en": "thermal agitation",
+   "source": "物理学名词",
+   "wordNumber": "08.1471",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌设备",
+   "en": "agitating equipment",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.16",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "对物料进行搅拌使之均匀混合或进行反应的设备。"
+  },
+  {
+   "cn": "搅拌机构",
+   "en": "agitating mechanism",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1627",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "搅拌设备中完成搅拌运动的部分。包括搅拌器、搅拌轴等。"
+  },
+  {
+   "cn": "胶乳搅拌机",
+   "en": "latex agitator",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0303",
+   "subjectFullName": "化工（七）_合成橡胶_胶乳",
+   "subjectName": "胶乳",
+   "publishYear": "2022",
+   "definition": "利用高速机械搅拌的方法制取均匀的胶乳混合液的装置。"
+  },
+  {
+   "cn": "搅拌机",
+   "en": "agitator;mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1629",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由搅拌机构、传动机构、轴封装置等部分组成的成套装置。"
+  },
+  {
+   "cn": "桨式搅拌器",
+   "en": "paddle agitator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1635",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由两个与旋转平面垂直或倾斜安装的叶片构成的搅拌器。"
+  },
+  {
+   "cn": "搅拌干燥器",
+   "en": "agitated drier\",\"agitator drier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "骚动误差",
+   "en": "agitation error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械搅拌",
+   "en": "mechanical agitation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "充气搅拌",
+   "en": "air agitation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "心理运动性躁动",
+   "en": "psychomotor agitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大气抖动",
+   "en": "atmospheric agitation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌",
+   "en": "agitating\",\"stirring",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌器",
+   "en": "agitator\",\"stirrer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌槽",
+   "en": "agitating tank",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叶轮搅拌器",
+   "en": "impeller agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合搅拌器",
+   "en": "mixing agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自吸搅拌器，空心叶轮搅拌器",
+   "en": "hollow agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涡轮搅拌器",
+   "en": "turbine agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "充气搅拌器",
+   "en": "air agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋桨式搅拌器",
+   "en": "propeller agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锚式搅拌器",
+   "en": "anchor agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涡旋搅拌器",
+   "en": "vortex agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "间歇搅拌器",
+   "en": "batch agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "框式搅拌器",
+   "en": "grid agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "行星式搅拌器",
+   "en": "planet agitator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "喷水装置",
+   "en": "mechanical surface agitation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络动漫",
+   "en": "online animation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧航空",
+   "en": "smart aviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用",
+   "en": "scientific data citation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际民用航空组织",
+   "en": "International Civil Aviation Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据引用标准",
+   "en": "scientific data citation standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拟物立象",
+   "en": "<div> Create Images Through Object Imitation</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "按人头付费",
+   "en": "capitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.11",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "根据合同规定的时间(年、季度或月)，由保险机构依据医疗服务提供者服务的人口数和规定的人均定额标准，预先向服务提供者支付的固定费用。许多国家对全科医疗服务多采用这种预付方法。"
+  },
+  {
+   "cn": "卫生设施",
+   "en": "sanitation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "改善和维护人们健康生活的基本设施。在学校范围内包括与师生健康生活相关的厕所、宿舍、食堂、饮水设施等。"
+  },
+  {
+   "cn": "阵地卫生",
+   "en": "battlefield sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使军队战斗兵力及兵器部署、工事构筑区域的环境达到卫生学标准，实施以医学预防为主的综合性卫生防护与保障措施"
+  },
+  {
+   "cn": "营舍卫生",
+   "en": "barrack sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使部队人员居住和使用的房屋的结构和内部环境质量符合卫生学要求而采取的综合措施。"
+  },
+  {
+   "cn": "食品卫生",
+   "en": "food sanitation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "为确保食品安全性和适用性在食物链所有阶段必须采取的一切条件和措施。包括食品在收获、生产、加工、运输、储存、销售等各个环节被有害物质污染所采取的各项措施, 以保护食用者安全。"
+  },
+  {
+   "cn": "营区卫生",
+   "en": "camp sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使特定明确区域内的营房及相应附属设施等处于良好的卫生学状态并符合相关的卫生标准而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "坑道卫生",
+   "en": "tunnel sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使坑道环境符合卫生学要求而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "航空流行病学",
+   "en": "aviation epidemiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.5",
+   "subjectFullName": "军事预防医学_军队流行病学_航空流行病学",
+   "subjectName": "航空流行病学",
+   "publishYear": "2025",
+   "definition": "研究航空活动所致健康相关问题的分布及影响因素，预防与控制策略及措施，促进健康，保障飞行安全的流行病学分支学科。"
+  },
+  {
+   "cn": "航空医学",
+   "en": "aviation medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "研究人在大气层飞行时，超重、失重等飞行因素对人体生理功能的影响及其防护措施的医学学科。"
+  },
+  {
+   "cn": "航空营养",
+   "en": "aviation nutrition",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.7.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_特殊军事作业人群营养保障",
+   "subjectName": "特殊军事作业人群营养保障",
+   "publishYear": "2025",
+   "definition": "根据航空飞行环境的低气压、缺氧、高噪音等的特点，确定航空人员的能量和营养素需要量，遵循高糖、低脂、适量蛋白质、丰富维生素的膳食配制原则，合理安排饮食制度，以满足飞行人员的营养需求，保障飞行安全与效率。"
+  },
+  {
+   "cn": "驻扎环境卫生",
+   "en": "deployment environmental sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "部队短期或长期停留于有限区域环境，为使其处于良好的卫生学状态并符合相关的卫生标准而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "坑道密闭卫生",
+   "en": "closed tunnel sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.10",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低坑道密闭时各种有害因素对官兵健康的影响而采取的包括物理、化学方法或通风换气、空气再生等技术手段在内的医学预防活动和措施。"
+  },
+  {
+   "cn": "暴露型工事卫生",
+   "en": "open fortification sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低部队短期或长期停留在堑壕、交通壕等露天工事对人员健康的有害影响而实施的医学预防活动和措施。"
+  },
+  {
+   "cn": "坑道驻训卫生",
+   "en": "tunnel training sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.9",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低部队短期或长期在坑道内驻扎、训练等对人员健康的有害影响而实施的医学预防活动和措施。"
+  },
+  {
+   "cn": "营区规划卫生",
+   "en": "camp layout sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "根据部队任务和实际情况，依卫生学理论设计建筑、设施及功能区类型、位置与布局，为在该区域内生活、学习、工作、训练、作战等的部队人员创造良好的生活和作业环境而采取的综合措施。"
+  },
+  {
+   "cn": "野营卫生",
+   "en": "field camp sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使野营环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "掩蔽型工事卫生",
+   "en": "sheltered fortification sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为保障碉堡、掩蔽所、洞库等掩蔽型工事内的官兵健康，防止和降低部队短期或长期停留在掩蔽工事环境对人员健康的有害影响而实施的医学预防活动和措施。"
+  },
+  {
+   "cn": "野外驻训卫生",
+   "en": "field training sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在部队离开永久性固定营区到野外或近似野外条件下较长时间驻留和训练时，为使野外驻训环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "航空救生",
+   "en": "aviation emergency escapement",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.12",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "当飞机出现致命性故障时，使飞行员脱离危险和/或应急返回地面等方式实施自救和营救的过程。"
+  },
+  {
+   "cn": "航空供氧",
+   "en": "aviation oxygen supply",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "为使飞行人员及乘员免受高空缺氧的影响，采用飞机座舱密封增压或设备供氧等方式，为飞行人员及乘员提供适量氧气的操作。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

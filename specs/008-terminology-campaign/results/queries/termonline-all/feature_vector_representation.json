@@ -1,0 +1,742 @@
+{
+ "key": "feature vector representation",
+ "term": "feature vector representation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:58:21+00:00",
+ "status": "ok",
+ "note": "variant=feature vector representation; 审定公布名词库=5174; 海峡两岸名词对照库=1654; 其他来源数据库=205; 预公布名词数据库=233; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "特征向量",
+   "en": "feature vector",
+   "source": "语言学名词",
+   "wordNumber": "11.154",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "在模式识别的特征空间中代表样本的向量。该向量具有若干特征分量，表示样本的若干属性特征。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "特稿",
+   "en": "feature",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "通过讲故事和大量细节描写的方法进行报道的新闻体裁。强调叙述性，一般篇幅较长，具有较高的文学品质。"
+  },
+  {
+   "cn": "特写",
+   "en": "feature",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.101",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过生动、形象化的描绘，再现场景和气氛，使之有强烈的感染力的一种新闻报道体裁。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0248",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "与一定功能和工程语义相结合的几何形状或工程信息表达的集合。"
+  },
+  {
+   "cn": "要素",
+   "en": "feature",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0354",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "构成零件几何特征的理想点、线、面的统称。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0386",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "能表达模式本质的功能或结构特点的可度量属性，如大小、纹理、形状等。好的特征应能使同类模式聚集、不同类模式分离。"
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.617",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "地球空间上可以用数据描述的客观现象，表达了用来描述空间实体的数据集的标识与封装，是客观存在、能看得见的、或纯粹是概念上的(如行政区)具有属性与地理描述信息的实体。"
+  },
+  {
+   "cn": "要素",
+   "en": "feature",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.720",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "空间数据库中代表真实世界实体的一组点、线或多边形。"
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "农学名词",
+   "wordNumber": "15.041",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在分子克隆中，携带外源基因或DNA片段转移进入宿主细胞，并可自我复制的DNA分子。基因工程中广泛使用的载体多来自人工改造的细菌质粒、噬菌体或动植物病毒。"
+  },
+  {
+   "cn": "病媒生物",
+   "en": "vector",
+   "source": "感染病学名词",
+   "wordNumber": "01.0283",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "能够将病原体从人或其他动物传播给人的生物。如蚊、蝇、蚤类等。"
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "物理学名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "植物学名词",
+   "wordNumber": "16.0260",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "可以插入核酸片段、能携带外源核酸进入宿主细胞，并在其中进行独立和稳定的自我复制的核酸分子。基因工程中广泛应用的载体多来自人工改造的细菌质粒、噬菌体或病毒核酸等。多数载体是DNA分子，但某些RNA分子也"
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "核医学名词",
+   "wordNumber": "06.0142",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "在基因工程重组DNA技术中，能将DNA片段(目的基因)转移至受体细胞并能自我复制的DNA分子。最常用的是细菌质粒、噬菌体和病毒。"
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0142",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "具有大小和方向的量。"
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "建筑学名词",
+   "wordNumber": "09.0151",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "具有大小和方向的量。在计算机辅助设计中通常指有向线段。"
+  },
+  {
+   "cn": "矢量表示",
+   "en": "vector representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特征，要素",
+   "en": "feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地物",
+   "en": "feature",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特征",
+   "en": "feature",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "介体",
+   "en": "vector",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "矢量化",
+   "en": "vectorization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "向量化",
+   "en": "vectorization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气象",
+   "en": "Prevailing Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "向量空间",
+   "en": "vector space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支持向量机",
+   "en": "support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行支持向量机",
+   "en": "parallel support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以物观物",
+   "en": "Observe Things Based on Their Own Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新的历史特点的伟大斗争",
+   "en": "the great struggle with many historical features",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "媒介生物",
+   "en": "vector",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "通过生物或机械方式将病原体从传染源或环境传播给人的生物，是某些疾病传播链中必不可少的环节。主要包括节肢动物中的蚊、蝇、蟑螂、蚤、蜱、螨、虱等，以及啮齿动物等，属于公共卫生有害生物。"
+  },
+  {
+   "cn": "媒介",
+   "en": "vector",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.10.3",
+   "subjectFullName": "军事预防医学_军队流行病学_自然疫源性疾病",
+   "subjectName": "自然疫源性疾病",
+   "publishYear": "2025",
+   "definition": "能起到传播病原体作用的吸血昆虫和蜱螨等节肢动物。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "安全设施",
+   "en": "safety feature",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "保障人民生命财产安全和审查运行、提高安全水平的设备。在学校范围内指针对可能对学生安全产生危害的因素所采用的防护设施。"
+  },
+  {
+   "cn": "伴随语言特征",
+   "en": "paralinguistic feature",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0116",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话时伴随语言出现的习惯性声音特征。例如假嗓音、吱嘎声、间断、咯咯声等嗓音特点。音高、音长、音强等超音段语音特征通常存在区别特征和伴随特征的取舍问题。例如藏语拉萨话的声调和元音长短成互补状态，如果确定"
+  },
+  {
+   "cn": "媒介生物传播",
+   "en": "vector transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "被病原体感染的吸血节肢动物，如蚊、人虱、白玲、鼠蚤、蜱和螨等，叮咬时把病原体传给易感者的过程。"
+  },
+  {
+   "cn": "媒介生物传染病",
+   "en": "vector borne disease",
+   "source": "消毒学",
+   "wordNumber": "7.1.7.2",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "由媒介生物即节肢类昆虫和啮齿类动物传播的疾病，包括完全或部分由媒介生物传播的疾病，如疟疾、流行性乙型脑炎、登革热等。"
+  },
+  {
+   "cn": "卫生服务产品特性",
+   "en": "features of health service products",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务产品有别于一般商品的经济学特征，包括以服务形态存在、有大量公共产品、最终产品为健康水平改善等特性。"
+  },
+  {
+   "cn": "卫生服务市场特征",
+   "en": "features of health service market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场是一个存在大量公共产品、具有外部性特征的市场。具有与一般商品市场共同性，同时也表现出特殊市场经济主体、信息不对称、垄断和诱导需求造成服务低效率等与一般商品市场的差异性特征。"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "媒介生物传染病消毒",
+   "en": "disinfection of vector borne disease",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对病媒生物传染病病原体可能污染的环境和物品进行的消毒。"
+  },
+  {
+   "cn": "媒介生物滞留喷洒",
+   "en": "residual spray for vector control",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.3",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "将药液以雾粒悬浮于空间或附着于媒介生物停留、栖息、接触的墙面或地面，以控制媒介生物的喷洒方法。"
+  },
+  {
+   "cn": "军队病媒生物控制",
+   "en": "vector pests control in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "由军队专业技术人员或军队认可的专业技术力量在军事管辖范围内开展的病媒生物管理活动。"
+  },
+  {
+   "cn": "病媒生物抗药性",
+   "en": "pesticides resistance in vector control",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.4",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "在长期的药物选择压力下，媒介生物具有耐受杀死大部分正常种群个体的药量能力，并在其种群内发展起来的现象。"
+  },
+  {
+   "cn": "具有自身免疫特征的间质性肺炎",
+   "en": "interstitial pneumonia with autoimmune features，IPAF",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "一组具有潜在的自身免疫性疾病的临床特点，但尚不能被诊断为某一种具体的结缔组织病的特发性间质性肺炎。以中老年女性居多，呼吸系统症状多为咳嗽、咳痰和呼吸困难；肺外表现最常见的症状是雷诺现象与技工手，CT提"
+  },
+  {
+   "cn": "军队媒介生物生态控制",
+   "en": "ecological control of vectors in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.4",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用媒介生物生态学原理对媒介生物进行控制，以保障军事行动、人员健康和设施设备的方法。"
+  },
+  {
+   "cn": "军队媒介生物化学控制",
+   "en": "chemical control of vectors in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "使用具有毒杀、引诱、驱离、调节生长、阻断交配的功能的化学物质，以不同的剂型、剂量，通过不同途径、杀灭和控制媒介生物的种群数量，进而保障军事行动、人员健康及设施设备的方法。"
+  },
+  {
+   "cn": "军队媒介生物物理控制",
+   "en": "physical control of vectors in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.2",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用物理学原理和技术，结合媒介生物的生活习性，制成相应器具来杀灭阻隔或降低媒介生物侵害，实现对军事行动、人员健康和设施设备保障的方法。"
+  },
+  {
+   "cn": "军队媒介生物环境控制",
+   "en": "environmental control of vectors in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "根据媒介生物的生态学基础，运用环境手段对媒介生物进行控制，以实现保障军事行动、人员健康和设施设备的方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,472 @@
+{
+ "key": "calibration",
+ "term": "calibration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:13:23+00:00",
+ "status": "ok",
+ "note": "variant=calibration; 审定公布名词库=261; 海峡两岸名词对照库=70; 其他来源数据库=1; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "农学名词",
+   "wordNumber": "18.083",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在规定条件下，确定由测量标准提供的量值与相应示值之间的关系，再用此信息确定由示值获得测量结果的一组操作。"
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "天文学名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "(1)确定天文测量中被测量的零点和/或标度因子。(2)确定天文测量仪器的度盘零点或望远镜的正确指向，亦或测定其偏差的改正值。"
+  },
+  {
+   "cn": "标定",
+   "en": "calibration",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2419",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "确定地震仪器的响应函数和灵敏度的过程。 "
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "光学名词",
+   "wordNumber": "14.179",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "用标准的仪器对被标定设备的精度、原始参数(包括零点和比例系数)进行测定的过程。其手段是测定仪器对一个已知辐射特征目标的响应。定标内容分为相对辐射通量定标、绝对辐射通量定标和光谱定标等。定标阶段分为实验"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "电力名词",
+   "wordNumber": "02.145",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "规定条件下,为确定测量仪器仪表或测量系统所指示的量值,或实物量具或参考物质所代表的量值,与对应的由标准所复现的量值之间关系的一组操作,其目的是通过与标准比较确定测量装置的示值。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.596",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "在规定条件下，为确定计量仪器或测量系统的示值或实物量具或标准物质所代表的值与相对应的被测量的已知值之间关系的一组操作。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "物理学名词",
+   "wordNumber": "01.0186",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0003",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "在规定条件下，为确定计量仪器或测量系统的示值或实物量具或标准物质所代表的值与相对应的被测量的已知值之间关系的一组操作。"
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.083",
+   "subjectFullName": "呼吸病学_肺功能_肺功能测定方法",
+   "subjectName": "肺功能测定方法",
+   "publishYear": "2018",
+   "definition": "对各种呼吸测定的情况进行的标准化处理。因为测定肺功能时的环境气压、温度、湿度等经常变化，测定管道的容积也可能出现变化，从而导致测定结果的不一致，因此需要进行标准化处理。主要包括环境定标和容积定标。"
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "核医学名词",
+   "wordNumber": "03.0191",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "用仪器间接测量某个物理量时，确定其物理量标准值与间接测量值之间关系的过程。一般通过测量物理量的标准品实现。与仪器的性能、测量条件、环境等因素相关，当这些因素改变时，需重新定标。在核医学中，用井型γ计数"
+  },
+  {
+   "cn": "校正",
+   "en": "calibration",
+   "source": "化学名词",
+   "wordNumber": "03.0055",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "通过建立校正曲线研究测定组分量(输入量)与响应输出量之间相关关系和确定校正系数。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0054",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在分析系统的要素结构或运动具有某种约束性、呈现某种规律时的状态的基础上，通过各种方法调整模型以最小化模型与真实状态的差距过程。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "计量学名词",
+   "wordNumber": "01.062",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "在规定条件下的一组操作。第一步是确定由测量标准提供的量值与相应示值之间的关系，第二步是用此信息确定由示值获得测量结果的关系。这里测量标准提供的量值与相应示值都具有测量不确定度。校准可以用文字说明、校准"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.582",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "空间分析中为了得到一个能适于代表真实世界状况的模型，选取属性值和计算参数以及使模型与现实情况相符合的过程。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "大气科学名词",
+   "wordNumber": "02.041",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "将仪器的响应示值与其启动信号或与通过其他方法测得的真实值相联系的过程。"
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "生态学名词",
+   "wordNumber": "10.076",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "建模时，微调各参数值，以使得计算的理论值与观察值更加符合。"
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.440",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.043",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "电气工程名词",
+   "wordNumber": "26.130",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "化学工程名词",
+   "wordNumber": "07.003",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定标",
+   "en": "calibration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "calibration",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "校准，标定",
+   "en": "calibration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "校准，标定",
+   "en": "calibration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "校正",
+   "en": "calibration",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "校准器",
+   "en": "calibrator",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标定曲线",
+   "en": "calibration curve",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标定箱",
+   "en": "calibration tank",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "校正曲线",
+   "en": "calibration curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "校准图",
+   "en": "calibration chart",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "定标曲线",
+   "en": "calibration curve",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定标星",
+   "en": "calibration star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定标源",
+   "en": "calibration source",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "校正曲线",
+   "en": "calibration curve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "校准滤光片",
+   "en": "calibration filter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38888-2020 数据采集软件的性能及校准方法》",
+   "en": "GB/T 38888-2020 Performance and calibration methods for data acquisition software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "校准",
+   "en": "calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.20",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在规定条件下，为确定测量仪器或测量系统所指示的量值，或实物量具或参考物质所代表的量值，与对应的由标准所复现的量值之间关系的一组操作。"
+  },
+  {
+   "cn": "效率刻度",
+   "en": "efficiency calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "确定核辐射探测器记录入射粒子效率的实验工作。通过实验测量确定探测器在不同条件下的响应灵敏度，从而确保其准确性和可靠性。"
+  },
+  {
+   "cn": "能量刻度",
+   "en": "energy calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "确定谱仪系统γ射线能量和道址间的对应关系的操作过程。"
+  },
+  {
+   "cn": "无源效率校准",
+   "en": "sourceless efficiency calibration",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "γ能谱仪通过计算机模拟计算给出γ射线能量与效率之间的校准方法。"
+  },
+  {
+   "cn": "无源效率刻度法",
+   "en": "sourceless efficiency calibration method",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.40",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "根据不同直径的测量盘，对应的取样量为铺盘量的“最小取样量”，即当铺盘厚度达到放射性射线的有效饱和厚度时的铺样方法。可用于水质总α放射性浓度的测定。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

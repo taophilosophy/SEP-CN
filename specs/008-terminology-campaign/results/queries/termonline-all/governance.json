@@ -1,0 +1,802 @@
+{
+ "key": "governance",
+ "term": "governance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:11:12+00:00",
+ "status": "ok",
+ "note": "variant=governance; 审定公布名词库=291; 海峡两岸名词对照库=34; 其他来源数据库=202; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "政府",
+   "en": "government",
+   "source": "经济学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "公共部门中以谋取公共利益为行动动机，不从事商品或者劳务的生产经营，以税收等公共收入为主要收入来源，免费或部分免费地向公众提供商品和劳务的行为主体的总和。"
+  },
+  {
+   "cn": "管辖",
+   "en": "government",
+   "source": "语言学名词",
+   "wordNumber": "01.144",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "①一种句法关联性。其中一个词语要求另外一个词语取得某种特定的形态。例如在英语中，介词后面的人称代词必须是宾格形式。②管辖与约束理论中的一种特定句法关系。短语的中心词可以为短语的名词性短语补足语指派格位"
+  },
+  {
+   "cn": "城市治理",
+   "en": "urban governance,city governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.131",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "城市中政府、企业、非政府组织和市民社会等多元利益主体，通过谈判、协商等方式共同参与城市发展与管理，以谋求共同目标、协同行动的一种组织方式。"
+  },
+  {
+   "cn": "教授治校",
+   "en": "professorial governance,faculty governance",
+   "source": "教育学名词",
+   "wordNumber": "08.260",
+   "subjectFullName": "教育学_高等教育_大学理念、教育思潮",
+   "subjectName": "大学理念、教育思潮",
+   "publishYear": "2013",
+   "definition": "源于中世纪巴黎大学的西方大学管理思想，通过一定的规章制度和组织形式，由教授决定办学的方针，掌握学校全部或主要事务（特别是有关学术事务）的决策权力，并对外维护学校的自主与自治。"
+  },
+  {
+   "cn": "电子政务",
+   "en": "electronic government;e government",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.127",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "一种新型的政府管理方式，即运用信息、通信与互联网技术处理、管理和提供政府信息与服务。它可以提高和增强政府的工作效率和服务效能，同时还可降低公共行政成本、增强与社会公众的直接沟通。电子政务的概念涉及计算"
+  },
+  {
+   "cn": "电子政务",
+   "en": "electronic government,e-government",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1283",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "应用信息技术将管理和服务通过网络进行集成，在互联网上实现组织结构和工作流程的优化重组，向社会提供优质和全方位的、规范而透明的、符合国际水准的管理和服务。"
+  },
+  {
+   "cn": "治理理论",
+   "en": "governance theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0123",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "寻求政府、社会与市场三者之间的合作和互动，通过调动各种力量和资源达到善治的社会体制的公共管理理论。"
+  },
+  {
+   "cn": "数据治理",
+   "en": "data governance",
+   "source": "农学名词",
+   "wordNumber": "16.080",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "对数据进行处置和规范化的过程。"
+  },
+  {
+   "cn": "政务公开",
+   "en": "open governance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.091",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "行政机关全面推进决策、执行、管理、服务、结果全过程公开，加强政策解读、回应关切、平台建设、数据开放，保障公众知情权、参与权、表达权和监督权，增强政府公信力执行力，提升政府治理能力的制度安排。"
+  },
+  {
+   "cn": "互联网治理",
+   "en": "internet governance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.111",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "制定和应用共同原则、规范、规则、决策程序及计划以影响互联网演进和使用的诸多方法的总和。制定和应用的主体包括国家政府、企业组织和公民社会。尤查·本科勒(Yochai Benkler)把互联网治理分为三个"
+  },
+  {
+   "cn": "平台治理",
+   "en": "platform governance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.124",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "互联网平台拥有者对应用开发者、用户及其他平台参与者施加影响的机制。包括把关机制、奖惩机制、监控机制、衡量机制和共有规范设计等。"
+  },
+  {
+   "cn": "自治",
+   "en": "self governance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.23",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "自己治理自己。通常指较大规模的行为，即以一个行业、行业团体、宗教、政府等为单位的行为。政治主体治理社会，会有意无意留下某些领域和事务，交由人民自己去管理。自治概念与分权概念相联系。只有权力适当分布在中"
+  },
+  {
+   "cn": "数据治理",
+   "en": "data governance",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.065",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "对数据进行处置、格式化和规范化的过程。数据治理是数据和数据系统管理的基本要素。数据治理涉及数据全生命周期管理，无论数据是处于静态、动态、未完成状态还是交易状态。"
+  },
+  {
+   "cn": "区域治理",
+   "en": "regional governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "为了实现区域公共利益，政府、非政府组织、市场、公民等利益相关者通过谈判、协商等方式进行集体协调与行动的过程。"
+  },
+  {
+   "cn": "乡村治理",
+   "en": "village governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.239",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "以村民自治为基础，包括政府、市场等利益相关者共同参与乡村事务的组织和管理方式。"
+  },
+  {
+   "cn": "社区治理",
+   "en": "community governance",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "为实现社区发展目标，与社区发展相关的各种力量相互协调合作，共同管理和处理社区公共事务的制度安排和互动过程。"
+  },
+  {
+   "cn": "区域治理",
+   "en": "region governance",
+   "source": "经济学名词",
+   "wordNumber": "08.188",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "内生于一个区域的正式或非正式的制度安排。通过这些制度安排，区域主体可以实现区域内部的集体行动，包括设定区域的目标和规则，做出区域公共决策，组织并协调区域的集体活动等。"
+  },
+  {
+   "cn": "图书馆治理",
+   "en": "library governance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.147",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "图书馆所有者或具有所有者代表身份的组织机构，对图书馆事务谋划、组织、协调及行动的过程。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "组织机构通过最小风险与成本实现信息价值最大化的活动和过程。包括确保有效和高效地利用信息使组织实现其目标的过程、作用、政策、标准和指标。"
+  },
+  {
+   "cn": "善治",
+   "en": "good governance",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0125",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在最大限度地推动社会发展的前提下，建立政府组织与公民社会之间的合作关系，实现政府与公民社会对公共事务合作管理的过程。"
+  },
+  {
+   "cn": "治理结构",
+   "en": "governance structure",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市管治",
+   "en": "urban governance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区域管制",
+   "en": "regional governance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "控制方程",
+   "en": "governing equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支配方程",
+   "en": "governing equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "政府贷款",
+   "en": "government loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府贸易",
+   "en": "government trade",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府许可证",
+   "en": "government license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债券",
+   "en": "government paper",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "政府债务",
+   "en": "government debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府",
+   "en": "digital government",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缔约国政府",
+   "en": "contract government",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混合调节",
+   "en": "mixing governing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节流调节",
+   "en": "throttle governing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "喷嘴调节",
+   "en": "nozzle governing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "调节级",
+   "en": "governing stage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "政务电报",
+   "en": "government telegram",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节流调节",
+   "en": "throttle governing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电子政府",
+   "en": "electronic government (e-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务",
+   "en": "mobile government (m-government)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理技术",
+   "en": "governance technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理理念",
+   "en": "governance philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理工具",
+   "en": "governance tool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理权",
+   "en": "governance right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理科技",
+   "en": "Governance Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "仁政",
+   "en": "Benevolent Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霸道",
+   "en": "Despotic Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义政",
+   "en": "Proper Governance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据治理",
+   "en": "Data Governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台治理",
+   "en": "platform governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术治理",
+   "en": "technology governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络化治理",
+   "en": "networked governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精细化治理",
+   "en": "refined governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协同治理",
+   "en": "collaborative governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参与式治理",
+   "en": "participatory governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多利益攸关方治理",
+   "en": "multistakeholder governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多中心治理",
+   "en": "polycentric governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "狭义指国家政治中的治理，即政府运用公权力来管理民众、社会与领土，以便达到社会发展与国家繁荣的目的；广义指包括公司治理、地方自治等在内的各种管理机制。"
+  },
+  {
+   "cn": "治理",
+   "en": "governance",
+   "source": "社会医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "各种公立或私立机构、组织或个人管理其共同事务的方式总和。是确保人们相互冲突的利益得以有效调整，并通过各种正式和非正式制度安排协调一致采取联合行动的过程。"
+  },
+  {
+   "cn": "治理主体",
+   "en": "governance actors",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在卫生政策或公共政策制定、执行、监督和评估过程中，具有决策权、影响力或责任的各类行为体，包括政府部门、社会组织、市场主体与公众等。"
+  },
+  {
+   "cn": "民主执政",
+   "en": "democratic governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0676",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持为人民执政、靠人民执政，发展中国特色社会主义民主政治，推进社会主义民主政治的制度化、规范化、程序化，以民主的制度、民主的形式、民主的手段支持和保证人民当家作主。"
+  },
+  {
+   "cn": "依法执政",
+   "en": "lawbased governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0677",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党坚持依法治国的基本方略，领导人民制定法律，自觉带头遵守法律，采取措施保证法律的实施，不断推进国家经济、政治、文化、社会生活的法制化、规范化，以法治的理念、法治的体制、法治的程序保证党领导人民有效治理"
+  },
+  {
+   "cn": "科学执政",
+   "en": "scientific governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0678",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "结合中国实际不断探索和遵循共产党执政规律、社会主义建设规律、人类社会发展规律，以科学的理论、科学的思想、科学的制度、科学的方式组织和带领人民共同建设中国特色社会主义。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "健康治理",
+   "en": "health governance",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "政府、市场、社会组织及公民等多元主体，为解决健康问题和挑战，通过互动合作建立一系列制度、规则、协作网络，推动协调一致的系统行动以实现全民健康福祉的持续过程。"
+  },
+  {
+   "cn": "社会治理",
+   "en": "social governance",
+   "source": "社会医学名词",
+   "wordNumber": "3.6",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "政府、社会组织、企事业单位、社区及个人等多方主体，通过合作、对话、协商和沟通等方式，依法引导和规范社会事务、组织及生活，以实现公共利益最大化的过程。"
+  },
+  {
+   "cn": "仁政",
+   "en": "benevolent government",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "基于周代理想政治秩序构建的政治与道德合一的君民关系。孟子政治思想的核心，试图重建周代的等级秩序和人心秩序，把亲亲、尊尊作为君与民关系的道德原则。同时着重发挥民本思想，提出一条自下而上建设社会的途径，经"
+  },
+  {
+   "cn": "政府购买",
+   "en": "government purchase",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.26",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "政府向社会组织或其他组织支付资金，并由其来完成某些服务活动的做法，包括分购买项目和购买岗位两种基本形式。一般是由政府将其原来直接提供的公共服务事项，通过直接拨款或公开招标的方式，交给具有资质的社会服务"
+  },
+  {
+   "cn": "廉价政府",
+   "en": "cheap government",
+   "source": "马克思主义",
+   "wordNumber": "03.0109",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“廉价政府”最初是资产阶级革命提出的口号。马克思在总结巴黎公社的经验时赞扬公社真正实现了廉价政府的目标，因为它取消了常备军和官吏两项最大的开支。巴黎公社废除了官吏的高新和特权，所有公职人员领取相当于工"
+  },
+  {
+   "cn": "服务型政府",
+   "en": "serviceoriented government",
+   "source": "马克思主义",
+   "wordNumber": "03.0685",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十六届六中全会提出的强化社会管理和公共管理任务之一。是遵循社会公正和民主，按公共参与和共同治理的法定机制和程序而组建起来的，为公民提供满意服务并承担相应责任的政府。"
+  },
+  {
+   "cn": "政府投资",
+   "en": "government investment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府使用预算安排资金进行固定资产投资建设以影响卫生服务市场行为的活动。分为直接投资和间接投资两大类。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "政府失灵",
+   "en": "government failure",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府在弥补市场机制的缺陷、干预经济运行的过程中，由于自身的局限性和其他因素的制约无法达到社会卫生资源配置的有效和公平的状况。"
+  },
+  {
+   "cn": "国家政府",
+   "en": "central government",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.3.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "在全国范围内行使行政、立法、财政和监管职能的最高级别政府机构，主要包括国家级各部委、国务院、最高人民法院、最高人民检察院及其他直属机关。"
+  },
+  {
+   "cn": "购买治理",
+   "en": "governance of purchasing",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "卫生服务购买组织在卫生服务购买的中观层面上，为提高组织运行效率和实现购买目标的管理过程。"
+  },
+  {
+   "cn": "健康治理机制",
+   "en": "health governance mechanism",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "健康治理体系内多元治理主体，通过一系列制度化的规则、流程与责权划分所确立的彼此角色关系定位、互动流程、协作模式及运作方式总和。"
+  },
+  {
+   "cn": "健康治理能力",
+   "en": "health governance capability",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体，运用多种治理工具和手段，推动健康治理从理念到行动全过程协同所具备的知识、经验、技能等要素总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,552 @@
+{
+ "key": "hos kekhorismenon",
+ "term": "hôs kekhôrismenon",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:57:12+00:00",
+ "status": "ok",
+ "note": "variant=hôs kekhôrismenon; 审定公布名词库=86; 海峡两岸名词对照库=13; 其他来源数据库=16; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "组氨酸",
+   "en": "histidine,His",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0052",
+   "subjectFullName": "食品科学技术_食品营养_基础营养_蛋白质、肽及氨基酸",
+   "subjectName": "蛋白质、肽及氨基酸",
+   "publishYear": "2020",
+   "definition": "2-氨基-3-咪唑基丙酸。一种含有咪唑基侧链的碱性及极性的α-氨基酸。L-组氨酸是蛋白质合成中的编码氨基酸、儿童必需氨基酸和生糖氨基酸。其侧链是弱碱性的咪唑基。天然蛋白质中尚未发现D-组氨酸。"
+  },
+  {
+   "cn": "组氨酸",
+   "en": "histidine,His",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.093",
+   "subjectFullName": "肠外肠内营养学_基础营养_蛋白质",
+   "subjectName": "蛋白质",
+   "publishYear": "2019",
+   "definition": "成人非必需氨基酸之一，对10岁以下的儿童是必需氨基酸。一种杂环、碱性、极性的氨基酸。分子中含有咪唑基。其主要功能是调节代谢，可促进铁的吸收。在脱羧酶作用下，脱羧形成组胺。"
+  },
+  {
+   "cn": "加氢脱硫",
+   "en": "hydrodesulfurization,HDS",
+   "source": "石油名词",
+   "wordNumber": "06.0090",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0542",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "由与组氨酸生物合成有关的10种酶的编码基因及相关调控序列组成的协同转录单位。见于鼠沙门氏菌等细菌中。"
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.094",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由与组氨酸生物合成有关的十种酶的基因及相关调控序列组成的操纵子。见于鼠沙门菌等细菌中。"
+  },
+  {
+   "cn": "硫化氢洗涤塔",
+   "en": "H2S scrubber",
+   "source": "冶金学名词",
+   "wordNumber": "05.0151",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "以液体吸收剂洗涤煤气并吸收其中所含硫化氢的设备。"
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "微生物学名词",
+   "wordNumber": "06.081",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "鼠伤寒沙门氏菌中与组氨酸合成相关的操纵子。"
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "遗传学名词",
+   "wordNumber": "03.479",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "细菌中控制组氨酸降解为可利用碳源和氮源的遗传单位"
+  },
+  {
+   "cn": "硫化氢检测仪",
+   "en": "H2S detector",
+   "source": "石油名词",
+   "wordNumber": "05.0444",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "肝门脉硬化",
+   "en": "hepatoportal sclerosis,HPS",
+   "source": "病理学名词",
+   "wordNumber": "02.467",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "肝内和肝外门静脉系统出现明显血管硬化而导致脾大等非肝硬化性门静脉高压征。"
+  },
+  {
+   "cn": "肝肺综合征",
+   "en": "hepatopulmonary syndrome,HPS",
+   "source": "呼吸病学名词",
+   "wordNumber": "08.291",
+   "subjectFullName": "呼吸病学_呼吸系统疾病_肺循环疾病",
+   "subjectName": "肺循环疾病",
+   "publishYear": "2018",
+   "definition": "发生在严重肝病基础上的低氧血症。主要与肺内血管扩张相关，而既往并无心肺疾病基础。临床表现为严重肝病、肺内血管扩张、低氧血症/肺泡肺动脉氧梯度增大的三联征。"
+  },
+  {
+   "cn": "肝肾综合征",
+   "en": "hepatorenal syndrome,HRS",
+   "source": "核医学名词",
+   "wordNumber": "04.1569",
+   "subjectFullName": "核医学_临床核医学_消化系统核医学_临床常见消化系统疾病",
+   "subjectName": "临床常见消化系统疾病",
+   "publishYear": "2018",
+   "definition": "发生在严重肝病基础上的肾衰竭现象。病理生理特点是全身血流动力学的改变、肾血管收缩，从而产生肝肾功能不全的一系列复杂变化。但肾脏本身无器质性损害。"
+  },
+  {
+   "cn": "肝肾综合征",
+   "en": "hepatorenal syndrome,HRS",
+   "source": "老年医学名词",
+   "wordNumber": "04.251",
+   "subjectFullName": "老年医学_老年临床医学_老年消化系统疾病",
+   "subjectName": "老年消化系统疾病",
+   "publishYear": "2017",
+   "definition": "肝脏疾病患者发生肾内血管强烈收缩、肾小球滤过率与肾血浆流量减少的综合征。见于肝硬化患者失代偿期，发病前原无肾脏疾病，因某些诱因改变了肾脏的血流动力学，发生少尿与氮质血症而引起。常见诱因包括大量放腹水、"
+  },
+  {
+   "cn": "希斯角",
+   "en": "angle of His",
+   "source": "普通外科学名词",
+   "wordNumber": "17.013",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "食管左缘与胃底间的夹角。以德国解剖学家威廉·希斯（Wilhem His）的名字命名。"
+  },
+  {
+   "cn": "噬血细胞综合征",
+   "en": "hemophagocytic syndrome; HPS",
+   "source": "肝病学名词",
+   "wordNumber": "14.10.5.11",
+   "subjectFullName": "肝病学_小儿肝病_儿童系统疾病肝脏受累",
+   "subjectName": "儿童系统疾病肝脏受累",
+   "publishYear": "2024",
+   "definition": "因淋巴细胞、单核细胞和巨噬细胞系统异常激活、增生、分泌炎性细胞因子而引起的一系列过度炎症反应和组织破坏综合征。临床以持续性发热、肝脾大、全血细胞减少及骨髓、淋巴组织出现噬血现象为主要特征。"
+  },
+  {
+   "cn": "组氨酸",
+   "en": "histidine;His;H",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0032",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_氨基酸_蛋白质氨基酸",
+   "subjectName": "蛋白质氨基酸",
+   "publishYear": "2024",
+   "definition": "系统命名为2-氨基-3-咪唑基丙酸。参与蛋白质组成的常见20种氨基酸之一。其侧链含有咪唑基呈弱碱性的一种极性氨基酸。是人体的营养必需氨基酸和生糖氨基酸。"
+  },
+  {
+   "cn": "羟乙基淀粉",
+   "en": "hydroxyethyl starch;HES",
+   "source": "麻醉学名词",
+   "wordNumber": "05.301",
+   "subjectFullName": "麻醉学_重症监护与治疗_危重患者循环支持治疗",
+   "subjectName": "危重患者循环支持治疗",
+   "publishYear": "2024",
+   "definition": "由玉米或土豆的支链淀粉中的葡萄糖经羟乙基化形成的高分子化合物。是现在临床上广泛使用的人工合成的胶体溶液。用于治疗和预防手术、创伤等引起的容量不足和休克。"
+  },
+  {
+   "cn": "血红蛋白S",
+   "en": "hemoglobin S;HbS",
+   "source": "血液学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "血液学_红细胞系统疾病_贫血",
+   "subjectName": "贫血",
+   "publishYear": "2022",
+   "definition": "β肽链基因第6位氨基酸由谷氨酸变为缬氨酸的一种异常血红蛋白。"
+  },
+  {
+   "cn": "肝肾综合征",
+   "en": "hepatorenal syndrome;HRS",
+   "source": "消化病学名词",
+   "wordNumber": "12.31",
+   "subjectFullName": "消化病_肝脏_肝脏疾病",
+   "subjectName": "肝脏疾病",
+   "publishYear": "2022",
+   "definition": "肝病患者肾功能损伤的表现形式。主要为功能性损伤，亦可伴有一定程度的肾实质损伤。是严重肝病患者病程后期出现的功能性肾衰竭。基于肾功能损伤类型可将其分为急性肾损伤、急性肾病和慢性肾病。"
+  },
+  {
+   "cn": "胺液净化系统",
+   "en": "HSS removal system",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.184",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "采用离子交换树脂脱除胺液中热稳定盐的系统。"
+  },
+  {
+   "cn": "组氨酸",
+   "en": "histidine\",\"His",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组氨酸",
+   "en": "histidine\",\"His",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组氨酸",
+   "en": "histidine\",\"His",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "希氏束",
+   "en": "His’ bundle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "组氨酸操纵子",
+   "en": "his operon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人绒毛膜生长催乳素",
+   "en": "human chorionic somatomammotropin\",\"HCS",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生境适宜度指数",
+   "en": "habitat suitability index\",\"HIS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生境适宜度指数",
+   "en": "habitat suitability index\",\"HIS",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混合动态系统",
+   "en": "hybrid dynamic system\",\"HDS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硫酸乙酰肝素，硫酸类肝素",
+   "en": "heparan sulfate\",\"HS",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有害物质报告",
+   "en": "harmful substance report\",\"HS",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "哈勃-桑德奇型变星,HS型变星",
+   "en": "Hubble-Sandage variable star\",\"HS variable star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "工欲善其事，必先利其器",
+   "en": "A Craftsman Must Sharpen His Tools to Do His Job.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性三品",
+   "en": "Human Nature Has Three Levels.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "HS/HR指数",
+   "en": "index HS/HR",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虽天子，必有尊",
+   "en": "Even the Son of Heaven Has Something to Respect.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义进入新时代",
+   "en": "Socialism with Chinese characteristics has entered a new era.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "百龄影徂，千载心在",
+   "en": "The Sage Has Passed Away, but He Will Always Be Remembered.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独乐其志，不厌其道",
+   "en": "One Should Fulfill His Wish Without Deviating from Benevolence and Righteousness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控工作到了关键阶段",
+   "en": "The battle against the epidemic has arrived at a crucial moment.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "见贤思齐",
+   "en": "When Seeing a Person of High Caliber, Strive to Be His Equal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国力量、中国精神、中国效率",
+   "en": "China has demonstrated strength, character and efficiency in fighting against the epidemic. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "善战者致人而不致于人",
+   "en": "A Person Skilled at Warfare Controls His Opponents and Is Not Controlled by Them.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文成规矩，思合符契",
+   "en": "The Sage’s Compositions Set the Rules of Writing, and His Ideas Fit Perfectly with Objective Things.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以武汉市为主战场的全国本土疫情传播已基本阻断",
+   "en": "The domestic coronavirus outbreak, centered in the city of Wuhan, has been contained in China/is now effectively under control in China.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "职能科学、权责法定、执法严明、公开公正、廉洁高效、守法诚信的法治政府",
+   "en": "a rule of law government which has well-conceived functions and statutorily defined powers and responsibilities; which strictly enforces the law and is impartial; and which operates in an open, clean, and efficient way, with strong credibility",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "高黏滞综合征",
+   "en": "hypervisicocity syudrome, HVS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由于血液黏度升高引起的临床综合征。通常由循环免疫球蛋白增高导致，如华氏巨球蛋白血症及多发性骨髓瘤，也可见于血液细胞成分（典型的为红细胞或白细胞）增生过度的情况，如白血病、红细胞增多症、骨髓增生性疾病。"
+  },
+  {
+   "cn": "嗜酸粒细胞增多综合征",
+   "en": "hypereosinophilic syndrome，HES",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "高嗜酸粒细胞增多症伴嗜酸性粒细胞浸润导致的组织脏器损伤或功能障碍的综合征，除外其他因素导致的组织脏器损伤。可分为原发性（克隆性/肿瘤性）、继发性（反应性）和特发性。"
+  },
+  {
+   "cn": "噬血细胞综合征",
+   "en": "hemophagocytic syndrome，HPS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.41",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "HLH）”。由于机体免疫功能紊乱，引起单核巨噬细胞系统反应性增生、损害、浸润器官组织，并释放大量细胞因子，造成机体脏器功能损伤的一种综合征。"
+  },
+  {
+   "cn": "溶血尿毒综合征",
+   "en": "heomlytic uremic syndrome,HUS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.35",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "以急性微血管病性溶血性贫血、血小板减少及急性肾衰竭三大特征为主的危重性综合征，主要见于婴幼儿和学龄儿童。存在多种病因如感染、药物、自身免疫病等所造成的血栓性微血管病，主要影响肾脏。"
+  },
+  {
+   "cn": "《背叛的天使》",
+   "en": "Unfaithful Angels:How Social Work Has Abandoned Its Mission",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "1994年美国社会工作学者斯佩西(Harry Specht）和寇特妮（Mark E.Courtney）出版的反思社会工作现实发展偏离其使命初衷的著作。书中检视了美国社会工作专业的发展历程，指出目前社会"
+  },
+  {
+   "cn": "马克思晚年人类学笔记",
+   "en": "notes on Marx's anthropology in his later years",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0591",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "马克思晚年（1879—1882 年）研究文化人类学的一部分笔记，主要指马克思对M.M.科瓦列夫斯基的《公社土地制及其解体的原因、过程和后果》、L.H.摩尔根的《古代社会》、H.梅恩的《古代法制史讲演录"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

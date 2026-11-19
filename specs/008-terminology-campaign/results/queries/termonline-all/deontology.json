@@ -1,0 +1,312 @@
+{
+ "key": "deontology",
+ "term": "Deontology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:02:31+00:00",
+ "status": "ok",
+ "note": "variant=Deontology; 审定公布名词库=59; 海峡两岸名词对照库=1; 其他来源数据库=2; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "义务论",
+   "en": "deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.092",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "一种规范伦理学理论。主张一个行为的道德性是基于一系列原则来判断这个行为本身是正确的还是错误的，而不是基于行为的结果。由德国哲学家伊曼纽尔·康德提出。"
+  },
+  {
+   "cn": "行动义务论",
+   "en": "act-deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.093",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "义务论的分支。认为不存在任何普遍的道德规则，只有不能加以普遍化的特殊行为、情况，人们在某特殊情况下基于自己所相信或所感觉而做出的决定或采取的行为，该理论不以理性为基础，而是诉诸人的直觉。"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.094",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "义务论的分支。主张作为道德判断的唯一基础的普遍规则是存在的，遵循这些规则的行为就是正确的，与行为的结果无关。"
+  },
+  {
+   "cn": "老年学",
+   "en": "gerontology",
+   "source": "急救医学名词",
+   "wordNumber": "03.826",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "研究老年人的生理、心理特征和社会行为方式等方面的特点与变化规律，以及如何增进老年人身心健康的学科。"
+  },
+  {
+   "cn": "新生仔畜科学",
+   "en": "neonatology",
+   "source": "兽医学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "兽医学_兽医产科学",
+   "subjectName": "兽医产科学",
+   "publishYear": "2023",
+   "definition": "研究新生仔畜生理和疾病的学科。"
+  },
+  {
+   "cn": "老年学",
+   "en": "gerontology",
+   "source": "老年医学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "老年医学_老年医学概论",
+   "subjectName": "老年医学概论",
+   "publishYear": "2017",
+   "definition": "研究老年期人的生理、心理特征和社会行为方式等方面的特点和变化规律，以及如何增进老年人身心健康的学科。"
+  },
+  {
+   "cn": "老年学",
+   "en": "gerontology",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.002",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "新生儿学",
+   "en": "neonatology",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.208",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "工程本体论",
+   "en": "engineering ontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程本根或本体的认识和研究。强调工程相对于科学和技术的独立地位与基础地位，强调工程是直接生产力，是人类生存与发展的根本基础。"
+  },
+  {
+   "cn": "媒介本体论",
+   "en": "media ontology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "探讨媒介存在方式的学说。该学说反对形式-内容二元论，强调媒介物所扮演的基础性角色，认为媒介物以各种方式聚合起来，组织和安排了人与外部世界之间的关系，构成了人的生存境况。"
+  },
+  {
+   "cn": "地理本体",
+   "en": "geo-ontology",
+   "source": "测绘学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理信息科学领域共享概念的明确的形式化规范。"
+  },
+  {
+   "cn": "恶魔论,魔鬼论",
+   "en": "demonology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "义务论",
+   "en": "deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.005",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张人的行为必须遵照某种道德原则或按照某种正当性去行动的理论。其主要内容是在社会中人们应该做什么和不应该做什么，即根据哪些标准来判断行为者的行为是正当的，以及行为者应负的道德责任。可分为规则义务论和行"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张行为的对错要看它是否符合伦理原则和准则，人们的行为只要服从这些规则和准则，就是道德的和正当的，而不必考虑行为效果的理论。"
+  },
+  {
+   "cn": "老年学",
+   "en": "gerontology",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.1",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "运用自然科学和社会科学众多的理论与方法，研究人类个体与群体老龄化的客观规律性、人类老龄化与人类生活的社会环境、生态环境之间的内在联系，以及人类社会与个人如何适应老龄化的一门综合性很强的学科。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "社会老年学",
+   "en": "social gerontology",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "从社会科学的角度研究人类个人和群体老龄化的过程、现状及其规律，研究人类老龄化与社会生活条件的相互关系，以及社会和个人如何适应老龄化等问题的科学群，是老年学的重要组成部分。"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "尚未存在本体论",
+   "en": "ontology of notyetbeing",
+   "source": "马克思主义",
+   "wordNumber": "05.0020",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）提出的本体论理论。布洛赫通过批判二元思维的机械性、静止性与“无人”的自然科学，指出给定存在论的危害在于抹杀了人作为精神性主体对自身、对世界的存在意义；"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

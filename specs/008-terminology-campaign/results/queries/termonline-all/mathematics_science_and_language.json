@@ -1,0 +1,672 @@
+{
+ "key": "mathematics science and language",
+ "term": "Mathematics Science and Language",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:06:55+00:00",
+ "status": "ok",
+ "note": "variant=Mathematics Science and Language; 审定公布名词库=10000; 海峡两岸名词对照库=2096; 其他来源数据库=1362; 预公布名词数据库=1300; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "科学与宗教",
+   "en": "science and religion",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.055",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "两种不同的社会意识形式。在文明史上，二者的关系复杂多变，其中包含冲突、独立、对话、融合。在近代科学革命时期，尤其是基督教中的新教对科学的兴起产生了重要的推动作用。"
+  },
+  {
+   "cn": "科学与文化",
+   "en": "science and culture",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.056",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "属于两种不同的传统。科学主要是指数理传统的研究，文化主要指人文传统的研究。斯诺首次指出两者在近现代以来，存在冲突与断裂。"
+  },
+  {
+   "cn": "科学与治理",
+   "en": "science and governance",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "关于科学和社会治理之间关系的交叉研究。在科学与决策之间建立一种机制，使科学和决策过程以有效、可信、负责和透明的方式协调工作，既优化管理决策和治理过程，也促使科学技术更好地服务于人们的根本利益。"
+  },
+  {
+   "cn": "数理传统",
+   "en": "mathematical and physical tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "自然科学研究的重要传统之一。一般认为，近代科学的数学化始于吉尔伯特和伽利略。数学为自然科学的定量研究提供了方法和工具，数学的运用和自然律的数学化，是近代科学的基本特征。"
+  },
+  {
+   "cn": "数理逻辑语义学",
+   "en": "logical and mathematical semantics",
+   "source": "语言学名词",
+   "wordNumber": "11.184",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "运用数理逻辑方法来描述和分析语义现象的理论。"
+  },
+  {
+   "cn": "国际数学与科学教育成就趋势调查研究",
+   "en": "the trends in international mathematics and science study,TIMSS",
+   "source": "教育学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "教育学_比较教育_学科与国际组织",
+   "subjectName": "学科与国际组织",
+   "publishYear": "2013",
+   "definition": "由国际教育成绩评价协会（IEA）开发的一种针对世界各国4年级和8年级学生数学和科学知识的评价项目。1995年开展了第一轮研究，之后每隔四年开展一次。"
+  },
+  {
+   "cn": "科学技术政策学",
+   "en": "science of science and technology policy",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "以科学技术政策为研究对象的新兴交叉学科。它是随着现代科学技术的迅猛发展和科学技术对社会各个领域的广泛深入的渗透与影响发展起来的一门学科。横跨自然科学和社会科学诸领域，是科学学的重要分支。"
+  },
+  {
+   "cn": "反推数学",
+   "en": "reverse mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "数学基础研究的一个重要领域。追问证明一个数学定理所必需的数学公理。这种研究通常是在二阶算术的一个片段中进行，证明某个经典数学中的定理。例如，有限覆盖定理与二阶算术的某个片段等价。"
+  },
+  {
+   "cn": "工程数学",
+   "en": "engineering mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "服务于工程活动的应用数学。"
+  },
+  {
+   "cn": "计算障碍",
+   "en": "mathematics disorder",
+   "source": "行为医学名词",
+   "wordNumber": "17.039",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "患者对数学符号的认识和运用障碍、失常。不能用精神发育迟滞或明显的教育不当来解释。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "物理学名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "研究和处理模糊性现象的一门数学分支学科。1965年由美国控制论专家扎德(L. A. Zadeh)创立，是一门新兴的数学分支。"
+  },
+  {
+   "cn": "数学课",
+   "en": "mathematics course",
+   "source": "教育学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定单位时间内，进行以数学学科为内容的教学活动。"
+  },
+  {
+   "cn": "两河流域数学",
+   "en": "Mesopotamia Mathematics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "古代两河流域的算术、代数和几何等领域的数学成就的综合。"
+  },
+  {
+   "cn": "直觉主义数学",
+   "en": "intuitionistic mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0126",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纯粹数学",
+   "en": "pure mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0002",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "应用数学",
+   "en": "applied mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学期望",
+   "en": "mathematic expectation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "某个随机变量在大量独立重复试验中客观存在的可以期望的总体平均数。"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色科技",
+   "en": "green science and technology",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "言",
+   "en": "Language",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "民间科学技术",
+   "en": "folk science and technology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0319",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在人类历史上所创建的社会科学文化，往往具有很强的实用性，服务于生产和巩固统治的需要；大多是对生产经验的直接记载或对自然现象的直观描述，具有较强的经验性。在中国，古代民间科学技术主要有农业、医学、天文观"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "马克思主义",
+   "wordNumber": "01.0015",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类生产劳动基础上产生和发展的、按照一定规则表达和交流思想的工具，是具有一定音、形、义的符号系统，是思维、意识的物质载体。除自然语言外，还存在人工语言。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用来表达思想与情感的，可共享的言语和非言语符号系统。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0035",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "索绪尔提出语言研究要注意区分语言（langue）和言语（parole）。语言指说话者共同使用的语言系统或结构，是社会集团为了使个人有可能行使语言机能而采取的必不可少的规约，为社会成员所共同遵守。后来的"
+  },
+  {
+   "cn": "作为意识形态的科学与技术",
+   "en": "science and technology as ideology",
+   "source": "马克思主义",
+   "wordNumber": "05.0115",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯的著作书名。哈贝马斯认为，在发达国家，科学技术不仅是生产力，而且是为资本主义的管理体系和国家政策提供合法性的意识形态。"
+  },
+  {
+   "cn": "科学与伪科学的划界",
+   "en": "demarcation between science and pseudoscience",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.147",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "区分科学与伪科学的一套标准。逻辑实证主义认为是可证实性，证伪主义认为是可证伪性。"
+  },
+  {
+   "cn": "食品安全科学技术",
+   "en": "food safety science and technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.3",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "研究食品中人体健康风险因素的产生机制及控制理论与技术的科学，是公共卫生与食品科学技术的交叉学科。包括食品中内源和外源污染物产生机制与控制技术，食品安全检测技术、溯源与预警技术、风险评估技术和食品安全管"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用科学的方法，研究人类社会种种现象或事物的构成、本质及其变化规律的学科总和。"
+  },
+  {
+   "cn": "科学伦理学",
+   "en": "ethicsof science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从伦理学角度考察科学的一门学科。主要研究科学技术活动领域道德规范之形成和变化规律，分析科学技术与社会道德的相互关系和相互作用，跨越科学学和伦理学，处于哲学、科学社会学、伦理学、科学心理学、科学经济学和"
+  },
+  {
+   "cn": "大科学",
+   "en": "big science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要指具有投资强度大、多学科交叉、研究目标宏大、需要昂贵且复杂的实验设备等特征的规模比较大的科学研究，既包括巨额投资的“工程式”研究，也包括跨学科合作的大规模、大尺度的前沿性科学研究项目。"
+  },
+  {
+   "cn": "小科学",
+   "en": "little science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要以科学家个人或科学小团体的兴趣为主，凭借个人或小团体努力来追求科学真理的科学研究，这种研究往往集中在某个学科内部，是比较典型的传统的科学研究模式。"
+  },
+  {
+   "cn": "硬科学",
+   "en": "hard science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.4",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与技术科学两大系统学科与其交叉学科的统称。因借用电子计算机的“硬件”而得名。其研究内容包括数学、物理学、化学、天文学、地理学、生物科学以及技术工程等学科。"
+  },
+  {
+   "cn": "软科学",
+   "en": "soft science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "自然科学与社会科学相结合的交叉科学。主要研究决策和管理实践中提出的复杂性、系统性课题，其目的是为解决各类复杂社会问题提出可供选择的各种途径、方案、措施和对策。"
+  },
+  {
+   "cn": "常规科学",
+   "en": "normal science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "牢固地建立在一种或多种过去科学成就基础上的研究。这些科学成就为某个科学共同体在一段时期内公认为是进一步实践的基础。"
+  },
+  {
+   "cn": "民族科学",
+   "en": "ethno-science",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "关于原住民人文（属地语言学、历史学、宗教学、经济学等）地理（属地生态学、植物学、动物学、色彩）等方面的文化分类知识体系的研究，目前被延伸至文化遗产的应用性研究。"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "社会科学",
+   "en": "social science",
+   "source": "马克思主义",
+   "wordNumber": "01.0218",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究社会现象的科学，包括经济学、政治学、法学、文学、民族学、史学、语言学、社会学等。广义的社会科学还包括哲学。社会科学除具有科学性质外，还具有上层建筑、意识形态的性质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

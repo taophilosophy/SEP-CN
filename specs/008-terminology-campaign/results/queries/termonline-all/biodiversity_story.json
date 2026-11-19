@@ -1,0 +1,582 @@
+{
+ "key": "biodiversity story",
+ "term": "biodiversity story",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:03:01+00:00",
+ "status": "ok",
+ "note": "variant=biodiversity story; 审定公布名词库=350; 海峡两岸名词对照库=133; 其他来源数据库=19; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "农学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "栖息于一定环境的所有动物、植物和微生物物种所拥有的全部基因以及它们与生存环境所组成的生态系统的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0148",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "生物中的多样化和变异性以及物种生境的生态复杂性。包括植物、动物和微生物的所有种及其组成的群落和生态系统。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0172",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "地球上生物的多样化和可变性。是在遗传、物种和生态系统水平上对变异的度量。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "兽医学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "在一定范围内由多种多样活的有机体(动物、植物、微生物)有规律地结合所构成的稳定生态综合体。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "动物学名词",
+   "wordNumber": "7.0597",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "电力名词",
+   "wordNumber": "13.052",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "在地球不同环境中生物遗传基因的品系、物种和生态系统多样性的总和。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "04.011",
+   "subjectFullName": "化工（四）_可持续发展",
+   "subjectName": "可持续发展",
+   "publishYear": "2020",
+   "definition": "所有来源的活的生物体中的变异性。这些来源包括陆地、海洋和其他水生生态系统及其所构成的生态综合体等。包含物种内部、物种之间和生态系统的多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "植物学名词",
+   "wordNumber": "13.0612",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "一定地区的各种生物以及由这些生物所构成的生命综合体的丰富程度。包括遗传多样性、物种多样性和生态系统多样性。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "微生物学名词",
+   "wordNumber": "07.124",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "地球上所有生物类群层次结构(物种多样性)、基因和功能(遗传多样性)以及由这些生物与环境相互作用所构成的生态系统(生态多样性)的多样化状态。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "资源科学技术名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "资源科学技术_资源生态学",
+   "subjectName": "资源生态学",
+   "publishYear": "2008",
+   "definition": "地球上所有的生物——植物、动物和微生物及其生存环境的总和，包括遗传多样性、物种多样性、生态系统多样性、景观多样性四个层次。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0865",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "遗传基因、物种和生态系统三个层次多样性的总称。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "生态学名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "生物类群层次结构和功能的多样性。包括遗传多样性、物种多样性、生态系统多样性和景观多样性。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "风景园林名词",
+   "wordNumber": "12.0152",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "城市生物多样性",
+   "en": "urban biodiversity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0151",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "城市范围内的生物及其生存环境所形成的生态复合体。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity conservation ",
+   "source": "草学名词",
+   "wordNumber": "3.0227",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性编目",
+   "en": "biodiversity inventory ",
+   "source": "草学名词",
+   "wordNumber": "3.0239",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "动物学名词",
+   "wordNumber": "7.0603",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.181",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "对包括遗传多样性、物种多样性、生态系统多样性和景观多样性在内的生物类群层次结构和功能多样性的保护工作和行动。"
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "植物学名词",
+   "wordNumber": "13.0646",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "以生物多样性保护和可持续利用为目的而开展的基因、物种和生态系统多样性调查和评价活动。"
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "植物学名词",
+   "wordNumber": "13.0645",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "以挽救生物多样性、研究生物多样性和持续、合理利用生物多样性为宗旨的理论研究与实践。"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biodiversity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护",
+   "en": "biodiversity protection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性监测",
+   "en": "biodiversity monitoring",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性信息学",
+   "en": "biodiversity informatics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性热点",
+   "en": "biodiversity hotspot",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "层",
+   "en": "stratum\",\"story",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "故事语法",
+   "en": "story grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "故事分析",
+   "en": "story analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "叠生木栓",
+   "en": "storied cork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠生射线",
+   "en": "storied ray",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叠生芽",
+   "en": "storied bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性保护工程",
+   "en": "biodiversity protection project",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "讲好中国故事",
+   "en": "Tell China's stories",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球生物多样性信息网络",
+   "en": "Global Biodiversity Information Facility (GBIF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗话",
+   "en": "Criticism on Poetry / Shihua (Story-telling with Song and Speech)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词话",
+   "en": "Criticism on Ci Poetry / Cihua (Story-telling with Song and Speech)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传奇",
+   "en": "<p class=\"MsoNormal\"> <i>Chuanqi</i>&nbsp;(Legendary Story / Legendary Play)</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "10级风",
+   "en": "storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字商店",
+   "en": "digital store",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "11级风",
+   "en": "violent storm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "键值存储",
+   "en": "key-value store",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm计算框架",
+   "en": "Storm computing framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Storm Trident方式框架",
+   "en": "Storm Trident framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国“网络风暴”演习",
+   "en": "Cyber Storm exercise (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电商扶贫示范网店",
+   "en": "model online store for poverty alleviation through e-commerce",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "说书",
+   "en": "story telling",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0413",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国曲艺类型之一，“说书”类曲艺以叙事为主要审美特征，包括徒口讲说表演的评书评话类“大书”形式如北京评书、四川评书、湖北评书、苏州评话、扬州评话等，说唱相间表演的弹词鼓书和道情琴书类“小书”形式如苏州"
+  },
+  {
+   "cn": "五月风暴",
+   "en": "May storm",
+   "source": "马克思主义",
+   "wordNumber": "05.0217",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1968年5月，因一系列社会问题在法国巴黎所爆发的社会运动。整个过程，由学生运动开始，继而演变成社会危机，最后甚至导致政治危机,给法国社会带来了深远影响。"
+  },
+  {
+   "cn": "风暴时期的领袖",
+   "en": "leaders of storm periods",
+   "source": "马克思主义",
+   "wordNumber": "04.0084",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "实践精神很强但理论素养很弱的无产阶级领袖。斯大林在《列宁是俄国共产党的组织者和领袖》中指出：“历史上有过一些无产阶级领袖，风暴时期的领袖，实践家领袖，他们是有自我牺牲和勇敢精神的，但是理论上很弱。”他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

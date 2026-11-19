@@ -1,0 +1,212 @@
+{
+ "key": "irrelevance",
+ "term": "Irrelevance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:10:42+00:00",
+ "status": "ok",
+ "note": "variant=Irrelevance; 审定公布名词库=21; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "股利无关论",
+   "en": "dividend irrelevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0574",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "认为在公司投资政策给定的条件下，股利政策不会对公司价值产生任何影响的一种理论。"
+  },
+  {
+   "cn": "无关参量",
+   "en": "irrelevant parameter",
+   "source": "物理学名词",
+   "wordNumber": "05.1047",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "说明的不相干问题",
+   "en": "irrelevance problem of explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.104",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "在C. G. 亨普尔（C. G. Hempel）说明模型中的说明项部分加入完全无关的信息，这样仍然符合说明模型，但是该信息与真正的说明完全没有关系。"
+  },
+  {
+   "cn": "相关度",
+   "en": "relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "信息检索结果对用户信息需求的满足程度。"
+  },
+  {
+   "cn": "相关性",
+   "en": "relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0545",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "被检出的信息与信息用户的需求之间的相关度。"
+  },
+  {
+   "cn": "关联性",
+   "en": "relevance,association",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0644",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统内部各组成部分之间、系统与环境之间所具有的相互依赖、相互作用和相互制约的特性。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.072",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "抽取有助于提高检得结果相关度的关键词用于原有检索式的修改，再据此检得更有用的相关结果。"
+  },
+  {
+   "cn": "相关度排序",
+   "en": "relevance ranking",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "综合运用检索模型（如布尔模型、向量空间模型、概率模型等）对检索结果进行处理，按检索结果与检索表达式的相关程度进行计算和评估比较，根据计算结果对文档排序的一种方法。"
+  },
+  {
+   "cn": "互逆相关性",
+   "en": "reversible relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用以描述查全率、查准率两个指标相对关系的概念，即当查全率增大时查准率减小，查全率减小时查准率增大。"
+  },
+  {
+   "cn": "查准评定",
+   "en": "relevance judgement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.169",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户在某一特定时间按照一定标准对信息检索结果满足用户需求的程度进行评判的过程。"
+  },
+  {
+   "cn": "相关性原理",
+   "en": "relevance principle",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.201",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "系统方法论的基本原则之一，也是情报学的一个基本原理。系统的要素之间、要素与系统整体之间、系统与环境之间是普遍联系的，它们互相制约、互相影响、不可分割开来。任何一种情报结构都是按一定规则相互关联的，研究"
+  },
+  {
+   "cn": "用户相关性",
+   "en": "user relevance",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "用户及其代理与检索系统间的关系。受到用户偏好、兴趣、时效、完整性、信息价值和针对性的影响，是衡量检索系统与用户情报问题匹配程度的重要指标。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0343",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "通过在信息检索过程中加入用户交互过程，从而把检索模式从一次进行变成交互式的多次进行，提高检索的准确率。"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "relevance logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0046",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "基于“蕴涵是意义之间的必然联系”这种观点提出的一类逻辑系统。旨在清除真值蕴涵不要求前件与后件之间具有有意义的联系所导致的“蕴涵怪论”。"
+  },
+  {
+   "cn": "价值相关性",
+   "en": "value relevance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0249",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业的会计数据与其股票价格之间的相关程度。"
+  },
+  {
+   "cn": "相关反馈",
+   "en": "relevance feedback",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0551",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "用户对检索系统返回的检索结果进行相关性判断，检索系统从用户认为相关的文献中选择重要的语词或表达式形成新的查询式，以使二次检索结果更接近用户的查询需求。"
+  },
+  {
+   "cn": "ROI理论",
+   "en": "relevance originality impact",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.035",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "一种实用的广告创意指南。20世纪60年代的广告大师美国威廉·伯恩巴克(William Bernback)根据自身创作积累总结出来的一套创意理论。该理论主张优秀广告必须具备三个基本特征，即关联性(rel"
+  },
+  {
+   "cn": "数据血统关联",
+   "en": "data lineage relevance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0448",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "描述数据演化过程的相关关系。"
+  },
+  {
+   "cn": "著作权保护延及",
+   "en": "relevance of copyright protection",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.020",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "著作权保护所能延及的范围。著作权保护只延及作品的表达形式，不延及作品内容所涉及的思想、原理、技艺、方法和操作过程等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

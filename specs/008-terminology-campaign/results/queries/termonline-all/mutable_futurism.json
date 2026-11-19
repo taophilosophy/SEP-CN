@@ -1,0 +1,802 @@
+{
+ "key": "mutable futurism",
+ "term": "mutable futurism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:06:29+00:00",
+ "status": "ok",
+ "note": "variant=mutable futurism; 审定公布名词库=740; 海峡两岸名词对照库=297; 其他来源数据库=77; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "可突变性",
+   "en": "mutability",
+   "source": "遗传学名词",
+   "wordNumber": "02.289",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "遗传物质产生变异的潜力。"
+  },
+  {
+   "cn": "易突变基因",
+   "en": "mutable gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.24",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "任何不稳定或突变率高的基因。"
+  },
+  {
+   "cn": "易变基因",
+   "en": "mutable gene",
+   "source": "遗传学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "任何不稳定的或突变频率高的基因。"
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "约1909~1913年间兴起于意大利的前卫建筑思潮。源于马里内蒂(Filippo Tommaso Marinetti)提出的未来主义思想，激烈反对旧的文化和美学观念，歌颂新时代的科技、机械、速度、鲁莽"
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "农学名词",
+   "wordNumber": "19.105",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "由期货交易场所统一制定的，将来在某一规定的时间和地点交割一定数量商品的标准化交易合约。"
+  },
+  {
+   "cn": "未来",
+   "en": "future",
+   "source": "物理学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "指向未来",
+   "en": "future pointing,future-pointing",
+   "source": "物理学名词",
+   "wordNumber": "06.0118",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "棉花期货",
+   "en": "cotton futures",
+   "source": "农学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花作为标的物的期货交易品种。中国有郑州商品交易所生成的中国棉花期货和价格，美国有洲际交易所生成的棉花期货和价格。"
+  },
+  {
+   "cn": "期货交易",
+   "en": "futures trading",
+   "source": "农学名词",
+   "wordNumber": "19.106",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "以期货或期权为交易标的的一种交易活动。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "农学名词",
+   "wordNumber": "19.107",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进行期货交易的场所或系统。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "经济学名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "进行期货交易的场所。是多种期货交易关系的总和。从组织结构上看，广义上的期货市场包括期货交易所、结算所或结算公司、经纪公司和期货交易员；狭义上的期货市场仅指期货交易所。"
+  },
+  {
+   "cn": "石油期货",
+   "en": "oil futures",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0133",
+   "subjectFullName": "化工（一）_总论_技术经济",
+   "subjectName": "技术经济",
+   "publishYear": "2017",
+   "definition": "标的物为石油产品（石油、天然气、炼制产品）的期货。是能源期货的一个交易品种。"
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0523",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标的物为实物商品的期货合约。"
+  },
+  {
+   "cn": "期货基金",
+   "en": "futures fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0602",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "专门用于期货合约交易的共同基金。"
+  },
+  {
+   "cn": "金属期货",
+   "en": "metal futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0524",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以金属商品为标的物的期货合约。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0666",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "进行期货合约买卖的市场。根据期货买卖种类的不同，可分为商品期货市场和金融期货市场。"
+  },
+  {
+   "cn": "指数期货",
+   "en": "index futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0519",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以股票指数或其他指数为标的的期货。"
+  },
+  {
+   "cn": "外汇期货",
+   "en": "currency futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0520",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以某种货币为标的的期货。"
+  },
+  {
+   "cn": "黄金期货",
+   "en": "gold futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0522",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以黄金为交易标的物的期货。"
+  },
+  {
+   "cn": "期货合同",
+   "en": "futures contract",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0506",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标准化的金融交易合同。对于要购买或者出售的商品或金融产品，约定在未来一段时间内的交易量和价格，包括数量、价格、交货地点、交货时间、最后一个交易日或结算日等。"
+  },
+  {
+   "cn": "可突变性",
+   "en": "mutability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "易变基因",
+   "en": "mutable gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "货币期货",
+   "en": "currency futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "金融期货",
+   "en": "financial future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货价格",
+   "en": "future price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "future business",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①期货交易所 ②期货外汇",
+   "en": "future exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货市场",
+   "en": "future market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远期交货，期货交割",
+   "en": "future delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指数期货",
+   "en": "index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货交易",
+   "en": "commodity futures trading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货交易所",
+   "en": "commodity futures exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货市场",
+   "en": "commodity futures market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购买期货",
+   "en": "purchase of future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票指数期货",
+   "en": "stock index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "利率期货",
+   "en": "interest rate future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "dealing in future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "未来互联网",
+   "en": "future Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来法学家",
+   "en": "future jurist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来法治",
+   "en": "future rule of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "the community of shared future",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《JR/T 0016-2014 期货交易数据交换协议》",
+   "en": "JR/T 0016-2014 Futures trading data exchange protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间命运共同体",
+   "en": "community with a shared future in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "周边命运共同体",
+   "en": "a neighborhood community with a shared future",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《互联网合作的未来——蒙得维的亚声明》",
+   "en": "Montevideo Statement on the Future of Internet Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建面向未来的亚太伙伴关系",
+   "en": "jointly building the future-oriented Asia-Pacific partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构建人类命运共同体",
+   "en": "building a community with a shared future for humanity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间命运共同体",
+   "en": "building a community with a shared future in cyberspace",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "没有贫困的人类命运共同体",
+   "en": "a poverty-free community with a shared future for mankind",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中国一东盟命运共同体",
+   "en": "the community with a shared future for China and ASEAN",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中非命运共同体",
+   "en": "the community with a shared future for China and Africa",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "前事不忘,后事之师",
+   "en": "Past Experience, If Not Forgotten, Is a Guide for the Future.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中拉命运共同体",
+   "en": "the community with a shared future for China and Latin America",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世界眼光、国际标准、中国特色、高点定位",
+   "en": "global vision, international standards, distinctive Chinese features, and future-oriented goals",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《金融科技未来：英国作为全球金融科技领导者》（英国）",
+   "en": "Fintech Futures: The UK as a World Leader in Financial Technologies (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类命运共同体",
+   "en": "human community with a Shared Future",
+   "source": "马克思主义",
+   "wordNumber": "03.0800",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2011年以来中国政府和领导人关于国际关系和人类社会未来的新理念。其基本内涵是：各国共处一个地球、一个世界，在追求本国利益时应兼顾他国合理关切，在谋求本国发展中要促进各国共同发展。"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  },
+  {
+   "cn": "稳定性戊二醛",
+   "en": "stable glutaraldehyde",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在2%～2.5% 戊二醛中加入适量表面活性剂和缓冲剂形成的pH值中性的戊二醛溶液。"
+  },
+  {
+   "cn": "有效容积",
+   "en": "usable space",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌室内不受固定部件限制，可以放置灭菌负载的有效空间。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "仅由碘的非放射性同位素（127I）组成的碘化合物。经常被用来作为甲状腺阻断剂。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "该同位素不具有放射性。与之相应的碘-131，具有放射性和不稳定性。其有多种存在形式，如碘酸钾、碘化钾等。"
+  },
+  {
+   "cn": "稳定期",
+   "en": "stable phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.97",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物经过一段时间的生长，由于营养物质的消耗，代谢产物的积累限制菌体的高速度增殖，少数菌体开始死亡，新增殖菌体数和死亡菌数几乎相等，处于动态平航，菌体的生长速度趋向于零。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  },
+  {
+   "cn": "流动表",
+   "en": "mobility table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.114",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据相同变量的两种情形将个体予以分配的两维列联表。用以区分发生了变化的个体和未发生变化的个体。"
+  },
+  {
+   "cn": "稀疏表",
+   "en": "sparse table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.117",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "带有许多很少或0频次的列联表。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "建表",
+   "en": "build table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "新生入学时按照相关规范要求，进行健康检查，并将检查结果等信息以纸质表格形式记录的过程。"
+  },
+  {
+   "cn": "存表",
+   "en": "save table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生纸质健康档案建立后,由学校卫生工作人员负责存放在学校卫生室的过程；无卫生室的学校由负责健康体检的单位指导校方保存，并有专人负责保存。"
+  },
+  {
+   "cn": "转表",
+   "en": "transfer table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生转学及升学时将纸质健康档案转入新校的过程。"
+  },
+  {
+   "cn": "稳定性染色体畸变",
+   "en": "stable chromosome aberration",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在细胞分裂过程中，没有力学上的障碍，能在细胞中保留下来，并能保持相对恒定的染色体畸变。如易位、插入、缺失和倒位等。"
+  },
+  {
+   "cn": "稳定碘预防",
+   "en": "stable iodine prophylaxis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "当核或辐射紧急情况已经或可能导致释放放射性碘的情况下，服用稳定性碘化合物，以防止或减少甲状腺对放射性碘的吸收的紧急防护行动。"
+  },
+  {
+   "cn": "“慎重稳进”",
+   "en": "Cautious and Stable",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0066",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "一种对少数民族地区一切工作必须采取慎重缓进，反对激进的做法。1950 年4 月政务院政务会议为把握这一时期民族工作方向和任务，减少民族隔阂矛盾提出一切工作要“慎重缓进”的原则，周恩来总理将其改为“慎重"
+  },
+  {
+   "cn": "桌面演练",
+   "en": "table-top exercise",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.35",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "参演人员利用地图、沙盘、流程图、计算机模拟、视频会议等辅助手段，针对事先假定的演练情景，讨论和推演应急决策及现场处置的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

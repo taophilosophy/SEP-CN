@@ -1,0 +1,752 @@
+{
+ "key": "agnosticism family",
+ "term": "agnosticism family",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:59:24+00:00",
+ "status": "ok",
+ "note": "variant=agnosticism family; 审定公布名词库=620; 海峡两岸名词对照库=163; 其他来源数据库=23; 预公布名词数据库=143; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "动物学名词",
+   "wordNumber": "2.0034",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "介于目和属之间的分类阶元。由亲缘关系相近的亚科或属组成。"
+  },
+  {
+   "cn": "家庭",
+   "en": "family",
+   "source": "计划生育名词",
+   "wordNumber": "01.132",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "基于婚姻关系、血缘关系和收养关系而形成的社会生活共同体，是人口再生产的单位。通常由夫妻、父母子女、兄弟姐妹和其他近亲属组成。"
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "植物学名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "介于目和属之间的生物分类阶元。"
+  },
+  {
+   "cn": "家系",
+   "en": "family",
+   "source": "林学名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "由一个林木基因型有性繁育成的子代群体。不同基因型的子代群体形成不同的家系。"
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "昆虫学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "介于目和属之间的生物分类阶元。"
+  },
+  {
+   "cn": "族",
+   "en": "family",
+   "source": "数学名词",
+   "wordNumber": "01.0078",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "族",
+   "en": "group,family",
+   "source": "化学名词",
+   "wordNumber": "01.0056",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "元素周期表中的纵列。同族元素有相似的价层电子结构，自上而下有相似的但渐变的物理和化学性质。周期表中有18纵列，依次为第1至第18族。"
+  },
+  {
+   "cn": "家庭农场",
+   "en": "family farm",
+   "source": "风景园林名词",
+   "wordNumber": "05.0259",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "以农户家庭为单位经营的农场，以家庭成员为主要劳动力，从事农业规模化、集约化、商品化生产经营，并以农业收入为家庭主要收入来源的新型农业经营主体。包括实行承包经营的家庭林场、家庭渔场、家庭牧场、家庭工厂以"
+  },
+  {
+   "cn": "基因家族",
+   "en": "gene family",
+   "source": "农学名词",
+   "wordNumber": "06.413",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因组中由同一个祖先基因通过基因重复产生的结构和功能都相似的一组基因。"
+  },
+  {
+   "cn": "多基因家族",
+   "en": "multigene family",
+   "source": "农学名词",
+   "wordNumber": "06.414",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "基因组中由同一个祖先的基因经过重复和变异产生的结构和功能都相似的一组基因。成簇地集中在某一条染色体上，或者不同成员成簇地分布在不同染色体上。"
+  },
+  {
+   "cn": "家庭农场",
+   "en": "family farm",
+   "source": "农学名词",
+   "wordNumber": "19.211",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "以家庭为生产经营单位，且以家庭劳力和自我经营为主的农业经营主体。"
+  },
+  {
+   "cn": "家庭全宗",
+   "en": "family fonds",
+   "source": "档案学名词",
+   "wordNumber": "03.01.030",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "以家庭为单位组成的档案有机整体。"
+  },
+  {
+   "cn": "基因家族",
+   "en": "gene family",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.008",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "基因组中存在的来源于同一个祖先、结构和功能相似的一组基因。同一家族这些基因的外显子具有相关性，可在基因组内集中或分散分布。"
+  },
+  {
+   "cn": "蛋白质家族",
+   "en": "protein family",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0081",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "在进化上相关的一组蛋白质。一个蛋白质家族通常有一个相应的基因家族，每一基因编码一个相应的蛋白质。"
+  },
+  {
+   "cn": "产品族",
+   "en": "product family",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.093",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "以产品平台为基础，通过添加不同的个性模块，以满足不同客户需求的一组相关产品。"
+  },
+  {
+   "cn": "密码子家族",
+   "en": "codon family",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.034",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "在密码子中，前两个核苷酸相同，并且编码同一种氨基酸的密码子。"
+  },
+  {
+   "cn": "计划生育",
+   "en": "family planning",
+   "source": "男科及性医学名词",
+   "wordNumber": "15.001",
+   "subjectFullName": "男科及性医学_男性节育",
+   "subjectName": "男性节育",
+   "publishYear": "2023",
+   "definition": "为控制家庭人口规模、提高人口素质等所采取的计划和措施。"
+  },
+  {
+   "cn": "家庭沟通",
+   "en": "family communication",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.054",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "发生在家庭关系语境下的人际沟通与交往活动。主要由核心家庭(父母和子女组成)和大家庭(三代以上同堂)或混合家庭(无生物学联系，如收养、同居)的内部成员之间自发的信息交换与角色互动所构成。"
+  },
+  {
+   "cn": "家庭牧场",
+   "en": "family ranch ",
+   "source": "草学名词",
+   "wordNumber": "2.0519",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "家庭价值观",
+   "en": "family values",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.136",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_电信传播政策",
+   "subjectName": "电信传播政策",
+   "publishYear": "2022",
+   "definition": "家庭内容支持与传递的，以促进家庭和善稳固社会结构为目的的道德与伦理标准。常见的如忠诚、诚实、相互理解、分享、合作等。英美等国的广播电视领域常以此作为评判节目是否符合公序良俗的标准。"
+  },
+  {
+   "cn": "不可知论",
+   "en": "agnosticism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "家族",
+   "en": "family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "家族",
+   "en": "family",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "科",
+   "en": "family",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "平山族",
+   "en": "Hirayama family\",\"Hirayama families#能不用複數者皆免用複數",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "族",
+   "en": "family\",\"group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "超基因家族",
+   "en": "supergene family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多基因家族",
+   "en": "multigene family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因家族",
+   "en": "gene family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新科",
+   "en": "new family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气旋族",
+   "en": "cyclone family",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "云族",
+   "en": "cloud family",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合型家庭",
+   "en": "blended family",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家族相似性",
+   "en": "family resemblance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "核心家庭",
+   "en": "nuclear family",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克大家庭",
+   "en": "Olympic family",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家",
+   "en": "Family-state / Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "列族数据库",
+   "en": "column family database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下一家",
+   "en": "All Under Heaven Are of One Family",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱国如家",
+   "en": "<div> Love the Country as One Loves One’s Family</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修齐治平",
+   "en": "Self-Cultivation, Family Regulation, State Governance, Bringing Peace to All Under Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“两岸一家亲”",
+   "en": "People on both sides of the Taiwan Straits are of the same family.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日常基本生活物资",
+   "en": "daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "Fail-stop方法",
+   "en": "Fail-stop method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无往不复",
+   "en": "Nothing That Disappears Fails to Reappear.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“大而不能倒”风险",
+   "en": "too-big-to-fail risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“亲、诚、惠、容”理念",
+   "en": "the philosophy of “amity, honesty, mutual benefit, and inclusiveness”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解决好生活必需品供应的“最后一公里”问题",
+   "en": "to ensure the “last kilometer” delivery of daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "家庭",
+   "en": "family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.1",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由婚姻、血缘或收养而产生的社会生活的组织形式。广义指群婚制出现后的各种家庭形式，狭义指一夫一妻制个体家庭。"
+  },
+  {
+   "cn": "家庭",
+   "en": "family",
+   "source": "马克思主义",
+   "wordNumber": "03.0012",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们以婚姻、血缘关系或收养关系为纽带而逐步形成的共同生活组织。其成员通常包括父母、子女以及其他共同生活的亲属。广义的家庭包括人类进化不同阶段先后出现的血缘家庭、亚血缘家庭（也称普那路亚家庭）、对偶家庭"
+  },
+  {
+   "cn": "家庭",
+   "en": "family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.037",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "建立在婚姻和血亲基础上的社会组织形式，构成人类最基本的社会生活内容。家庭的发展经历了血缘家庭、普那路亚家庭、对偶家庭、一夫一妻制家庭等几个阶段。"
+  },
+  {
+   "cn": "居家消毒",
+   "en": "family disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.8",
+   "subjectFullName": "消毒学_消毒应用",
+   "subjectName": "消毒应用",
+   "publishYear": "2025",
+   "definition": "对污染或可能污染的家居环境和物品进行的消毒处理。"
+  },
+  {
+   "cn": "家庭角色",
+   "en": "family roles",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.4",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "人们在家庭中的身份和地位，以及与之相应的权利、义务和行为模式。角色理论认为，受社会制度、文化和家庭规定的影响，因性别、年龄、世代的不同，人们对家庭内特定位置有不同的角色期待，即特定位置的家庭成员应有符"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.7",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员的构成及其相互关系状态形成的稳定模式。包含家庭的代数结构和人口结构两个方面，涉及家庭成员及其数量、家庭成员间的代际和亲属关系等内容。"
+  },
+  {
+   "cn": "夫妇式家庭",
+   "en": "conjugal family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "现代城市典型的夫妇与其未婚子女所构成的家庭。强调小家庭相对于亲戚网络的独立性。夫妇间的婚姻联系被视为最重要的关系，不把父系或母系当作唯一重要的世系。"
+  },
+  {
+   "cn": "主干家庭",
+   "en": "stem family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.10",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由两代或两代以上夫妻组成，每代最多不超过一对夫妻且中间无断代的家庭。例如父母和已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "隔代家庭",
+   "en": "grandparent family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.15",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "由祖孙两代组成的家庭。因子代缺损或不在一起生活而形成。"
+  },
+  {
+   "cn": "再婚家庭",
+   "en": "remarried family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.17",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "夫妻中的一方或双方在丧偶或离婚以后与他人再次结婚组建的家庭。"
+  },
+  {
+   "cn": "残缺家庭",
+   "en": "incomplete family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.18",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "核心家庭中配偶一方因离婚、死亡、出走、分居等原因致使家庭成员不全的家庭。相对于完整家庭而言。"
+  },
+  {
+   "cn": "同性恋家庭",
+   "en": "gay family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.19",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "同性恋者组成的家庭。一些国家或地区承认由同性恋者组成的家庭，在法律上与异性恋家庭享有同样的权利，同性恋伴侣的各种权利均受法律保护。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "普那路亚家庭",
+   "en": "punaluan family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.24",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "一定范围内的同辈男女共为夫妻的集团婚，是母系氏族公社时期的婚姻家庭形式。一群同胞的或血缘较远的姊妹和一群同辈而不包括他们的兄弟在内的男子，或一群同胞的或血缘关系较远的兄弟和一群同辈而不包括他们的姊妹在"
+  },
+  {
+   "cn": "对偶制家庭",
+   "en": "pairing family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.25",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "即在或长或短时期内由一男一女组成配偶，保持相对稳定的两性间同居生活的婚姻家庭形式，是由群婚制向一夫一妻制过渡的家庭形态。在外婚制原则下，一个男性在许多妻子中有一个主妻，而这个女子在她的许多丈夫中把这个"
+  },
+  {
+   "cn": "一夫一妻制家庭",
+   "en": "monogamian family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.26",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "一男一女结为夫妻的婚姻和家庭形式，由对偶制家庭发展而来。"
+  },
+  {
+   "cn": "家庭关系",
+   "en": "family relationships",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.35",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员间的人际互动或联系。作为社会关系的一种，包括夫妻关系、亲子关系、兄弟姐妹关系、婆媳关系、妯娌关系、祖孙关系、姑嫂关系、叔侄关系等等。在一夫一妻制下，主要为婚姻（夫妻）关系与血缘（亲子）关系，其"
+  },
+  {
+   "cn": "家庭解体",
+   "en": "family disintegration",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.41",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "个体家庭的消亡解体，或家庭这种组织制度的消亡。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

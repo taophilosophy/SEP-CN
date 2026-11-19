@@ -1,0 +1,662 @@
+{
+ "key": "bare-boned association",
+ "term": "Bare-Boned Association",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:58:58+00:00",
+ "status": "ok",
+ "note": "variant=Bare-Boned Association; 审定公布名词库=3910; 海峡两岸名词对照库=1371; 其他来源数据库=278; 预公布名词数据库=276; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "出白",
+   "en": "baring",
+   "source": "航海科技名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "裸井",
+   "en": "bare hole",
+   "source": "地质学名词",
+   "wordNumber": "16.06.022",
+   "subjectFullName": "地质学_水文地质学_地下水利用与管理",
+   "subjectName": "地下水利用与管理",
+   "publishYear": "2026",
+   "definition": "无井管护壁的水井。"
+  },
+  {
+   "cn": "光管",
+   "en": "bare tube",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0339",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "内外壁均无扩展表面的换热管。"
+  },
+  {
+   "cn": "裸露敷设",
+   "en": "bare laying",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0032",
+   "subjectFullName": "化工（八）_管道_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "穿越管道直接敷设于水域底床上的敷设方式。"
+  },
+  {
+   "cn": "裸态",
+   "en": "bare state",
+   "source": "光学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "采用未耦合的原子能量本征态和光场能量本征态所表示的量子态，它与缀饰态相反。"
+  },
+  {
+   "cn": "裸露敷设",
+   "en": "laying bare",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.129",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "穿越管道直接敷设于水域底床上的敷设方式。"
+  },
+  {
+   "cn": "裸光纤",
+   "en": "bare fiber",
+   "source": "电力名词",
+   "wordNumber": "22.346",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "没有任何被覆层的光纤。"
+  },
+  {
+   "cn": "裸核",
+   "en": "bare nucleus",
+   "source": "物理学名词",
+   "wordNumber": "09.1050",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸电荷",
+   "en": "bare charge",
+   "source": "物理学名词",
+   "wordNumber": "09.1301",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸耦合",
+   "en": "bare coupling",
+   "source": "物理学名词",
+   "wordNumber": "09.1302",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸电子",
+   "en": "bare electron",
+   "source": "物理学名词",
+   "wordNumber": "09.1047",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare land",
+   "source": "植物学名词",
+   "wordNumber": "13.0307",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "没有植物生长的地段。"
+  },
+  {
+   "cn": "裸离子",
+   "en": "bare ion",
+   "source": "物理学名词",
+   "wordNumber": "09.1048",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸质量",
+   "en": "bare mass",
+   "source": "物理学名词",
+   "wordNumber": "09.1049",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸粒子",
+   "en": "bare particle",
+   "source": "物理学名词",
+   "wordNumber": "01.0087",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸冰",
+   "en": "bare ice",
+   "source": "大气科学名词",
+   "wordNumber": "01.266",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "无雪盖的冰面。"
+  },
+  {
+   "cn": "裸地",
+   "en": "bare soil",
+   "source": "大气科学名词",
+   "wordNumber": "01.267",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "无植被、无遮蔽，直接暴露的土地。"
+  },
+  {
+   "cn": "裸露型喀斯特",
+   "en": "bare karst",
+   "source": "地理学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "基岩裸露地表的碳酸盐岩层地区所发育的喀斯特景观。"
+  },
+  {
+   "cn": "裸露泥炭",
+   "en": "bare peat",
+   "source": "地理学名词",
+   "wordNumber": "14.078",
+   "subjectFullName": "地理学_湿地学",
+   "subjectName": "湿地学",
+   "publishYear": "2006",
+   "definition": "分布于地表的泥炭。"
+  },
+  {
+   "cn": "裸光纤",
+   "en": "bare fiber",
+   "source": "电气工程名词",
+   "wordNumber": "05.270",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "裸管",
+   "en": "bare pipe\",\"bare tube",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裸区",
+   "en": "bare area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare land",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare soil",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裸面",
+   "en": "bare surface",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裸热电耦",
+   "en": "bare thermocouple",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对休闲地,无草休闲地",
+   "en": "bare fallow",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无担保合同",
+   "en": "bare contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "裸露泥炭",
+   "en": "bare peat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "裸露型喀斯特",
+   "en": "bare karst",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "裸线",
+   "en": "bare wire",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光船",
+   "en": "bare boat",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "巴林危机",
+   "en": "Baring Crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "联想",
+   "en": "association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群丛",
+   "en": "association",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缔合",
+   "en": "association",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "演替群丛",
+   "en": "associes",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "次生裸地",
+   "en": "secondary bare land",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裸露躯干",
+   "en": "bare torso",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "级别协会",
+   "en": "class association",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "联想网络",
+   "en": "associative network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结社",
+   "en": "association",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0281",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以自愿方式联结而成的人群，联结的纽带是地缘、业缘，经历、兴趣等等，使成员为着共同的目的，形成稳定的社会关系，并且用成文或者不成文的章程加以规定。"
+  },
+  {
+   "cn": "关联",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.69",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个测量的量之间的统计依存关系。"
+  },
+  {
+   "cn": "协会",
+   "en": "association",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "由个人、单个组织或机构为达到某种共同目标，通过签署协议，自愿组成的社会团体或组织。"
+  },
+  {
+   "cn": "团体标准",
+   "en": "association standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "依法成立的社会团体为满足市场和创新需要，协调相关市场主体共同制定的、供团体成员或社会自愿采用的标准。"
+  },
+  {
+   "cn": "同乡会",
+   "en": "hometown association",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由同籍贯的人共同组成的联络、交流、互助、非盈利性、不结盟的民间团体。通常存在于移民中，又称“老乡会”。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "自由人联合体",
+   "en": "community association",
+   "source": "马克思主义",
+   "wordNumber": "03.0018",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯设想的在未来无产阶级国家自行消亡之后，将会产生的一个以生产者自由平等的联合体为基础，按新方式来组织的共产主义社会组织形式。马克思在1848年的《共产党宣言》和1867年的《资本论》中都明"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "骨桥",
+   "en": "bone bridge",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.28",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "两个相邻的骨质之间，因某种因素导致的，骨质的异常增生，而使两骨质融合的部分。"
+  },
+  {
+   "cn": "骨龄",
+   "en": "bone age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "全称“骨骼年龄”。以骨骼骨化中心是否出现，骨的大小、形态、结构和相互关系的变化测定成熟程度对应于群体平均水平所在的年龄。"
+  },
+  {
+   "cn": "骨量",
+   "en": "bone mass",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "骨骼组织中单位体积内骨基质质量和矿物质量。"
+  },
+  {
+   "cn": "骨龄",
+   "en": "bone age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "骨发育过程中，骨化中心、骨骺与骨骺端愈合等形态变化的时间规律性。能较准确地反映个体生长发育水平和成熟程度。"
+  },
+  {
+   "cn": "关联强度",
+   "en": "strength of association",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.72",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以反应两个变量共变趋势和自变量影响因变量程度的量。"
+  },
+  {
+   "cn": "出生缺陷联合征",
+   "en": "birth defect association",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，两个或以上的出生缺陷组合以高于随机水平的频率同时出现在同一个体，且病因或因果关系未明。"
+  },
+  {
+   "cn": "医疗相关感染",
+   "en": "healthcare associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.5.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在接受治疗过程中获得的感染，或医务人员在医疗环境中履行职责时获得的感染。"
+  },
+  {
+   "cn": "器械相关感染",
+   "en": "device-associated infection",
+   "source": "消毒学",
+   "wordNumber": "4.6.22",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "患者在使用某种器械期间或其停止使用某种器械（如呼吸机、导尿管、血管导管等）48小时内出现的与该器械相关的感染。如果停止使用相关器械时间超过48小时后出现了相关感染，应有证据表明此感染与该器械使用有关，"
+  },
+  {
+   "cn": "放射性骨损伤",
+   "en": "radiation bone injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.15",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "全身或局部受到一次或短时间内分次大剂量外照射，或长期多次受到超剂量限值外照射所致的骨组织一系列代谢和病理变化。按其病理改变分为骨质疏松、骨髓炎、病理性骨折、骨坏死和骨发育障碍。"
+  },
+  {
+   "cn": "骨密度",
+   "en": "bone mineral density",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.37",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "全称 “骨骼矿物质密度”。评价骨骼强度的 主要指标之一，即单位面积矿物质含量。 人体在 20~29 岁时达到最高值，以后随衰 老进程而下降。诊断骨质疏松的最基本依 据，通常选择腰椎和Ward三角作为骨"
+  },
+  {
+   "cn": "骨骼强健性体力活动",
+   "en": "bone-strengthening activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_儿童青少年身体活动指南",
+   "subjectName": "儿童青少年身体活动指南",
+   "publishYear": "2025",
+   "definition": "对骨骼产生冲击力或张力，促进骨骼特定部位的生长和强度的体力活动。包括跑步、跳绳和举重等。"
+  },
+  {
+   "cn": "差异交往理论",
+   "en": "theory of differential association",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "“不同接触理论”。解释社会越轨行为的一种理论。认为在与犯罪行为人或者违法团伙的交往和互动中，人们可能会学会越轨或者犯罪行为以及行为背后的价值观，从而对越轨或者犯罪行为予以认可，并加以模仿。由美国社会学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "random element",
+ "term": "random element",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:23+00:00",
+ "status": "ok",
+ "note": "variant=random element; 审定公布名词库=1936; 海峡两岸名词对照库=686; 其他来源数据库=71; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "随机元",
+   "en": "random element",
+   "source": "数学名词",
+   "wordNumber": "09.0054",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "散发",
+   "en": "random",
+   "source": "神经病学名词",
+   "wordNumber": "05.321",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "用于描述脑波的出现方式。单个脑波以不规则的间隔时间出现在某些相同或不同导联中的现象。"
+  },
+  {
+   "cn": "无规",
+   "en": "random",
+   "source": "物理学名词",
+   "wordNumber": "05.0480",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无规性",
+   "en": "randomness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.394",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "偶然性的一种形式。是复杂现象在演变过程中所表现出来的不确定性、无规则性和多种可能性等。在某些条件下可表现出一定的统计规律性。"
+  },
+  {
+   "cn": "无规性",
+   "en": "randomness",
+   "source": "物理学名词",
+   "wordNumber": "05.0481",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "冶金学名词",
+   "wordNumber": "04.0727",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "在一组测定值中，每个测定值都是依一定的概率独立出现的现象。"
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.093",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "为了保证各对比组间在大量不可控制的非处理因素的分布方面尽量保持一致而采取的一种统计学措施。"
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "核医学名词",
+   "wordNumber": "06.0275",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "利用计算机随机技术，使总体或样本中每一个体发生某事件完全按概率原则计算和分配，不与其他因素相关的科学实验设计的一个重要原则。"
+  },
+  {
+   "cn": "随机",
+   "en": "randomization",
+   "source": "林学名词",
+   "wordNumber": "04.192",
+   "subjectFullName": "林学_林木遗传育种_林木遗传测定",
+   "subjectName": "林木遗传测定",
+   "publishYear": "2016",
+   "definition": "为了避免试验材料顺序排列产生的固定邻居效应和立地条件差异引起实验结果的偏差，在试验的不同重复间，参试材料不按固定的次序排列的方法。"
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "化学名词",
+   "wordNumber": "03.0364",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在一组测量值中，每个测量值都依一定概率独立出现的现象。"
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0655",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "所有实验单元在试验空间中的地位是完全随机的，以保证实验误差和处理效应估计的无偏性，使实验结果适合于统计推断的实验原则。"
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "心理学名词",
+   "wordNumber": "03.214",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "使事物随机出现的过程。在一组测定值中，每个测定值都是依一定的概率独立出现。"
+  },
+  {
+   "cn": "随机分布",
+   "en": "random distribution,random disposal",
+   "source": "植物学名词",
+   "wordNumber": "13.0129",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "种群个体间非等距分布、互不影响的分布类型。"
+  },
+  {
+   "cn": "随机试验",
+   "en": "random trial,random experiment",
+   "source": "数学名词",
+   "wordNumber": "09.0004",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "随机[的]",
+   "en": "random,stochastic",
+   "source": "数学名词",
+   "wordNumber": "09.0002",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "随机采样",
+   "en": "random sampling",
+   "source": "地质学名词",
+   "wordNumber": "13.08.076",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "按随机抽样原则和一定的抽样比率，在工作区内任何位置都具相同选中概率的地球化学样品采集方法。因排除了人为约束，可以对总体的物质分布参数作出无偏的估计， 但对于物质分布不均匀的总体，应用此方法会存在估值精"
+  },
+  {
+   "cn": "随机交配",
+   "en": "random mating",
+   "source": "农学名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在一个有性繁殖的生物群体中，任何一个雌性或雄性个体与任何一个相反性别的个体之间在相等概率的情况下进行交配的方式。"
+  },
+  {
+   "cn": "随机整合",
+   "en": "random integration",
+   "source": "农学名词",
+   "wordNumber": "15.383",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "外源DNA片段随机的插入到受体生物基因组中的过程。"
+  },
+  {
+   "cn": "随机聚合酶链反应",
+   "en": "random PCR",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0552",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_聚合酶链反应与等温扩增技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "采用许多序列不相同的（部分随机或全部随机序列）、短的（约10个核苷酸）引物所进行的聚合酶链反应。由于在模板DNA多个不同位置上扩增，所形成的产物长度各异，电泳图谱独特，可用于识别核酸的多态性、研究基因"
+  },
+  {
+   "cn": "随机引物",
+   "en": "random primer",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.058",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_聚合酶链反应与等温扩增技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "8～12个核苷酸的序列部分随机或全部随机排列的引物。用于随机逆转录、随机聚合酶链反应等。"
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "随机性",
+   "en": "randomness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机性",
+   "en": "randomness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "随机化",
+   "en": "randomization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "随机抽样，随机取样",
+   "en": "random sampling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机分布",
+   "en": "random distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机取样（=随机抽样）",
+   "en": "random sampling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机诱变",
+   "en": "random mutagenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机模式",
+   "en": "random model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机强迫",
+   "en": "random forcing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机数",
+   "en": "random number",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机误差",
+   "en": "random error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机样本",
+   "en": "random sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机噪声",
+   "en": "random noise",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无规降解",
+   "en": "random degradation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机扰动",
+   "en": "random disturbance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机数",
+   "en": "random number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "散堆填料",
+   "en": "random packing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随机森林",
+   "en": "random forest",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作",
+   "en": "element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机访问存储器",
+   "en": "random access memory (RAM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据元素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据要素",
+   "en": "data element",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "随机效应模型",
+   "en": "random-effects model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.152",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在方差分析中，每一个自变量上的类别效应被模型作随机变量的模型。"
+  },
+  {
+   "cn": "燃料元件",
+   "en": "fuel element",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核反应堆内具有独立结构的燃料使用单元。包括从单一的圆柱状短棒到结构复杂的大组件。通常指由燃料芯体和包壳组成的燃料单元，如燃料棒、燃料板和燃料球。"
+  },
+  {
+   "cn": "附加要素",
+   "en": "additional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "包括在规范性文件中而不影响其实质内容的信息。就标准而言，主要指封面、目次、前言、引言、资料性附录、参考文献、索引和注等。"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "沟通要素",
+   "en": "communication element",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "心理学家海因以系统论的传播模式为背景提出人际沟通过程的6 个基本要素：信息环境、信息发出者、信息、传递途径、信息接收者、反馈。在医患沟通中，信息发出者既可以是医方，也可以是患方。"
+  },
+  {
+   "cn": "杂质元素",
+   "en": "impurity element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.43",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "残留在金属中的非有意添加的元素。"
+  },
+  {
+   "cn": "动力单元",
+   "en": "kinetic element",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在神经系统支配下，通过肌肉收缩，牵动骨骼以关节为支点产生位置变化，完成运动过程，包括关节在内的某些解剖结构结合在一起可以完成以关节为轴的运动。由肌肉、骨骼、神经、血管组成。"
+  },
+  {
+   "cn": "合金元素",
+   "en": "alloying element",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.44",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "冶炼金属时，为达到某些性能要求（如拉伸强度、硬度、耐磨性、耐腐蚀性、电导率等）而有意添加的一种或多种金属或非金属元素。"
+  },
+  {
+   "cn": "民俗素",
+   "en": "element of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0454",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由若干民俗质构成的一个个民俗单位，是构成民俗的基本要素。任何一个相对独立完整的民俗素，都有一组表现或鲜明或隐晦含义的事物，这些事物的展示形成一个民俗表现形式，传达着或象征着一个民俗意义。"
+  },
+  {
+   "cn": "同位素数据银行",
+   "en": "element isotope databank",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.60",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "构建在分布式存储网络上的数据中心和安全的数据存储和访问的系统，实现不同来源产品同位素数据的存储、备份、归档、调取等需求。如对不同海拨和经纬度葡萄C、H、O 同位素差异建立数据库，用于葡萄酒原产地溯源。"
+  },
+  {
+   "cn": "有毒金属元素",
+   "en": "toxic metal elements",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.9.2.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品污染",
+   "subjectName": "军队食品污染",
+   "publishYear": "2025",
+   "definition": "在较低摄入量的情况下，亦可干扰人体正常生理功能并产生明显的毒性作用的金属元素，如铅、镉、汞等。"
+  },
+  {
+   "cn": "基于随机对照临床试验的经济学评价",
+   "en": "economic evaluation based on randomized controlled clinical trial",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.1.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "将基于随机、盲法和对照原则的药物临床试验与药物经济学研究相结合的经济学评价方法。"
+  },
+  {
+   "cn": "妇幼健康传播要素",
+   "en": "woman and child health communication element",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康传播",
+   "subjectName": "妇幼健康传播",
+   "publishYear": "2025",
+   "definition": "构成妇幼健康传播过程的基本单位，包括妇幼健康传播者、妇幼健康信息、媒介/渠道、受众、传播效果和反馈。"
+  },
+  {
+   "cn": "洗脱液",
+   "en": "eluent",
+   "source": "消毒学",
+   "wordNumber": "6.2.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验对象上的微生物洗下并收集的溶液。"
+  },
+  {
+   "cn": "男用避孕套",
+   "en": "male condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由乳胶或聚氨酯等制成的、在性交时佩戴于男性阴茎上的套状隔膜，具有阻断精子和卵子结合，达到避孕和预防感染性传播疾病的双重保护作用。"
+  },
+  {
+   "cn": "女用避孕套",
+   "en": "female condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由聚氨酯或乳胶制成的柔软、宽松袋状物。性交前置于女性阴道内，覆盖整个阴道内壁和外阴，阻隔精子进入阴道，具有避孕和预防性传播疾病和艾滋病的双重保护作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

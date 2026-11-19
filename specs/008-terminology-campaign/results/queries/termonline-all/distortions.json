@@ -1,0 +1,422 @@
+{
+ "key": "distortions",
+ "term": "distortions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:02:54+00:00",
+ "status": "ok",
+ "note": "variant=distortions; 审定公布名词库=194; 海峡两岸名词对照库=79; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "形变",
+   "en": "distortion",
+   "source": "地质学名词",
+   "wordNumber": "09.02.094",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "物体受力后发生的形状变化。"
+  },
+  {
+   "cn": "失真",
+   "en": "distortion",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.039",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "声音经录制或加工后产生的畸变。一般可分为非线性失真和线性失真两种，前者指声音在录制加工后出现新的频率成分，与原声之间产生差异。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0362",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "相对的。水平均匀层状各向同性介质的表面阻抗为标量阻抗，沿任意水平方向的视电阻率、阻抗相位都是相同的。当介质为横向不均匀介质时，视电阻率和阻抗相位等都偏离了标量阻抗，此时称视电阻率发生了畸变。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0406",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_谐波齿轮传动",
+   "subjectName": "谐波齿轮传动",
+   "publishYear": "2021",
+   "definition": "在传动机构超载的情况下，柔轮齿圈壁厚中性层的实际廓形相对其空载下的原始廓形产生偏离或扭歪现象。"
+  },
+  {
+   "cn": "热处理畸变",
+   "en": "distortion",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.355",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_热处理缺陷",
+   "subjectName": "热处理缺陷",
+   "publishYear": "2021",
+   "definition": "在热处理时工件的原始尺寸或形状发生变化的现象。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "光学名词",
+   "wordNumber": "14.239",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "由于球差的影响，不同视场的主光线通过光学系统后和高斯像面的交点高度与理想像高的差。畸变是一种垂轴像差，只改变轴外物点在理想像面上的成像位置，使像的形状产生失真，但不影响像的清晰度。"
+  },
+  {
+   "cn": "变形",
+   "en": "distortion",
+   "source": "手外科学名词",
+   "wordNumber": "02.0027",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "物体受外力作用而产生的体积或形状改变。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "物理学名词",
+   "wordNumber": "04.0519",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "生物物理学名词",
+   "wordNumber": "02.319",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "在成像系统中，对直线投影的偏离现象，使图像放大率在整个视场范围内不能保持相等而引起形变的一种像差。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0826",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "因反射、干扰等因素导致的信号波形变异。"
+  },
+  {
+   "cn": "变形",
+   "en": "distortion",
+   "source": "林学名词",
+   "wordNumber": "11.258",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "木材干燥和存放过程中所产生的形状改变。包括弓弯、侧弯和扭曲等。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "化学名词",
+   "wordNumber": "04.1875",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "由于外力、残余内应力、缺陷、热振动等原因，晶体的原子偏离平衡位置，使晶格大小和形状发生的变化。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "计量学名词",
+   "wordNumber": "13.415",
+   "subjectFullName": "计量学_光学_光学元器件",
+   "subjectName": "光学元器件",
+   "publishYear": "2015",
+   "definition": "光学系统的横向放大率随物点光束的主光线和主光轴间所成的夹角而变，致使像的几何形状与物不能严格相似的现象。当横向放大率随夹角增加而增大时所产生的畸变称为“正畸变(positive distortion)"
+  },
+  {
+   "cn": "失真",
+   "en": "distortion",
+   "source": "计量学名词",
+   "wordNumber": "11.079",
+   "subjectFullName": "计量学_无线电_失真",
+   "subjectName": "失真",
+   "publishYear": "2015",
+   "definition": "信号特性的畸变。"
+  },
+  {
+   "cn": "失真",
+   "en": "distortion",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "任何非故意造成的且通常不希望有的信号变化。"
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.275",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.048",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_光学仪器一般名词",
+   "subjectName": "光学仪器一般名词",
+   "publishYear": "2003",
+   "definition": "横向放大率随视场的增大而变化所引起的一种失去物像相似的像差，但不影响像的清晰度。"
+  },
+  {
+   "cn": "变形",
+   "en": "distortion",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0018",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "电气工程名词",
+   "wordNumber": "01.152",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "畸变",
+   "en": "distortion",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0814",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "畸变，变形",
+   "en": "distortion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "畸变[差]",
+   "en": "distortion",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "畸变，失真",
+   "en": "distortion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "梯形畸变",
+   "en": "trapezoidal distortion\",\"keystone distortion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回波畸形",
+   "en": "echo distortion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "畸变校正",
+   "en": "distortion correction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "角畸变",
+   "en": "angular distortion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记忆失真，记忆扭曲",
+   "en": "memory distortion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉歪曲",
+   "en": "perceptual distortion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "烧结畸变",
+   "en": "sintering distortion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶格畸变",
+   "en": "lattice distortion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "场畸变",
+   "en": "field distortion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "色畸变",
+   "en": "colour distortion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图像畸变",
+   "en": "image distortion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正畸变",
+   "en": "pincushion distortion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图像畸变",
+   "en": "image distortion",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "几何畸变",
+   "en": "geometric distortion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "随机畸变",
+   "en": "random distortion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "投影变形",
+   "en": "projection distortion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "系统畸变",
+   "en": "systematic distortion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "率失真理论",
+   "en": "rate distortion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "bayesian cognitive science",
+ "term": "Bayesian cognitive science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:58+00:00",
+ "status": "ok",
+ "note": "variant=Bayesian cognitive science; 审定公布名词库=838; 海峡两岸名词对照库=185; 其他来源数据库=66; 预公布名词数据库=82; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.535",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "研究心灵和智能本质的学科。是哲学、心理学、人工智能、神经科学、语言学和人类学等多学科的交叉研究领域。核心假说是，思维能通过心灵的表征结构以及在这些结构上操作的计算程序来理解。"
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "自动化名词",
+   "wordNumber": "05.026",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯主义",
+   "en": "Bayesianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.098",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "将概率看作信念程度，通过贝叶斯定理来研究证据是否提高了科学家对假说的相信程度。"
+  },
+  {
+   "cn": "贝叶斯算法",
+   "en": "Bayesian algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.202",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "通过计算最大后验概率来预测待分类数据类别的计算方法。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "在经典的统计归纳、推理、估计和假设检验的基础上发展起来的一种推理方法。推理时不仅要根据当前所观察到的样本信息，而且还要根据推理者过去有关的经验和知识。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.235",
+   "subjectFullName": "自然辩证法_科学技术方法论_系统与发明",
+   "subjectName": "系统与发明",
+   "publishYear": "2024",
+   "definition": "以英国学者贝叶斯建立的条件概率定理为基础，发展出的一种统计推断方法。将关于未知参数的先验信息与样本信息综合，再根据贝叶斯公式，得出后验信息，然后根据后验信息去推断未知参数的方法。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2311",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "接受概率不仅是经验性直方图的极限，而且是主观性信息表示的一种解释方法。 "
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "动物学名词",
+   "wordNumber": "2.0201",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "基于贝叶斯法则来推算系统发生树后验概率的一种系统发生分析方法。"
+  },
+  {
+   "cn": "贝叶斯分类",
+   "en": "Bayesian classification",
+   "source": "测绘学名词",
+   "wordNumber": "03.600",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "依据贝叶斯准则(两组间最大分离原则)建立的判别函数集进行的图像分类。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "畜牧学名词",
+   "wordNumber": "04.681",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "基于贝叶斯定理的统计分析方法。"
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "植物学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "基于贝叶斯法则来推算系统发育树后验概率的一种系统发育分析方法。"
+  },
+  {
+   "cn": "贝叶斯方法",
+   "en": "Bayesian method",
+   "source": "生物物理学名词",
+   "wordNumber": "02.395",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "一种基于概率统计模型的图像分析方法。在三维重构模型的修正计算过程中，计算在先验模型和实验图像数据的基础上出现各种三维模型的概率，通过对该概率求优获得三维模型的修正。该方法对每一个原始投影图像并不赋予单"
+  },
+  {
+   "cn": "贝叶斯网络",
+   "en": "Bayesian network",
+   "source": "生物物理学名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "一种概率图模型。借由有向非循环图来拟合一组随机变量之间的因果关系，可用来表示大脑神经元或脑区之间的有向作用关系。"
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "生物物理学名词",
+   "wordNumber": "06.050",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "英国科学家贝叶斯(T. Bayes)提出的一种归纳推理统计推断方法。当存在不确定性时应如何进行推理，用概率语言描述不确定性，根据已有的证据去推断事件发生的概率可以实现用先验的知识去计算后验的概率。"
+  },
+  {
+   "cn": "贝叶斯估计",
+   "en": "Bayesian estimation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0260",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "结合关于待估计参数的先验知识和数据的似然函数来估算参数的贝叶斯方法。"
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0258",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "基于贝叶斯公式，通过计算最大后验概率的方法来预测待分类数据类别的分类方法。"
+  },
+  {
+   "cn": "贝叶斯网络",
+   "en": "Bayesian network",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0262",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "一种用有向无环图描述随机变量及其条件依赖关系的概率图模型。"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "地理学名词",
+   "wordNumber": "25.088",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "基于对贝叶斯准则的统计推断。"
+  },
+  {
+   "cn": "贝叶斯学习",
+   "en": "Bayesian learning",
+   "source": "自动化名词",
+   "wordNumber": "05.118",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学哲学",
+   "en": "philosophy of cognitive science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.492",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "涵盖与认知科学研究有关的所有哲学主题。包括认知学科的相关哲学议题，一般科学哲学议题在认知科学各领域的延伸，认知基本概念，以及认知诸领域的方向等。"
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分析",
+   "en": "Bayesian analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类",
+   "en": "Bayesian classification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯定理",
+   "en": "Bayesian theorem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯逻辑",
+   "en": "Bayesian logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知",
+   "en": "cognition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯决策方法",
+   "en": "Bayesian decision method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯决策规则",
+   "en": "Bayesian decision rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理网络",
+   "en": "Bayesian inference network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "认知重建，认知重构",
+   "en": "cognitive restructuring",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知图式",
+   "en": "cognitive schema",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知偏倚，认知偏差",
+   "en": "cognitive bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知工效学",
+   "en": "cognitive ergonomics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯统计",
+   "en": "Bayesian statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯分类器",
+   "en": "Bayesian classifier",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知计算",
+   "en": "cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知盈余",
+   "en": "cognitive surplus",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境认知",
+   "en": "environmental cognition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知功能模拟",
+   "en": "cognitive function simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体感知计算",
+   "en": "cross-media cognitive computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认知与智能服务",
+   "en": "cognitive computing and intelligent service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学",
+   "en": "Data Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公民科学",
+   "en": "citizen science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接科学",
+   "en": "connection science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉利德科学公司",
+   "en": "Gilead Sciences",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认识",
+   "en": "cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0155",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人脑在实践基础上对客观事物的能动反映，体现了认识主体的能动性、选择性和创造性。包括感性认识和理性认识。从生动的直观到抽象的思维，从抽象的思维到实践，是认识的辩证发展过程。"
+  },
+  {
+   "cn": "贝叶斯层次模型",
+   "en": "Bayesian hierarchical model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.91",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种使用贝叶斯方法估计后验分布参数的多层次统计模型。"
+  },
+  {
+   "cn": "认知功能",
+   "en": "cognitive functioning",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "大脑接收、处理、存储和利用信息的一系列高级心理过程。包括时间与地点的定向、理解力、抽象思维、注意力、记忆力以及解决问题的能力等。是个体完成各种活动所需要的基本能力。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  },
+  {
+   "cn": "认知一致",
+   "en": "cognitive agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究者对某些命题或观点所持的相同看法。具体表现为不同的研究者对该命题或观点具有相似的知识结构。不同研究者之间的争论或冲突，常常是因为不同的价值观和利益造成的，而他们在认识上都是一致的。"
+  },
+  {
+   "cn": "认知不协调",
+   "en": "cognitive dissonance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_人际知觉",
+   "subjectName": "人际知觉",
+   "publishYear": "2025",
+   "definition": "当个人的认知系统内的两种及以上的认知（如偏好、态度、观念、价值观或信念）存在不一致时，或者当个人行为与自有的信念、情感或者价值观不一致时所体验到的冲突状态。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "研究心智、语言和文化诸因素的关系，在认知心理学和结构语言学影响下发展起来，同时与结构人类学也有很大渊源。主要关注文化知识在日常生活中的组织和应用（如分类、推理）。"
+  },
+  {
+   "cn": "认知理论",
+   "en": "cognitive theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以认知心理学为基础形成和发展起来的一种社会工作理论。该理论认为人的行为主要受制于理性思考，而不是潜意识的本能。不良行为主要产生于认知上的错误或理性思维能力的缺乏，社会工作的主要任务是帮助服务对象获得对"
+  },
+  {
+   "cn": "认知限制",
+   "en": "cognitive limitation",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.6",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体面对高度复杂的问题，无法实现效用最大化，这为危害健康行为的产生提供了一种解释。"
+  },
+  {
+   "cn": "认知疗法",
+   "en": "cognitive therapy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "认为个体出现心理问题的根源在于其在解释事件时往往带有负性自动化思维，因此主要通过矫正学生心理健康求咨者的不合理信念、不当思维过程来帮助其解决心理问题。"
+  },
+  {
+   "cn": "认知人类学",
+   "en": "cognitive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0597",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的一个分支学科和研究取向，研究人类认知模式在其所处文化与社会情境中形成与变化的过程。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.018",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "与学习记忆及思维判断有关的大脑高级智能加工过程出现异常，引起严重学习、记忆障碍，同时伴有失语、失用、失认或失行等改变的病理状态。"
+  },
+  {
+   "cn": "认知语言学",
+   "en": "cognitive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0013",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。20 世纪70 年代末兴起，认为语言能力是人类认知能力的一部分。对一些重要的语言学问题提出新的解释。例如，在范畴化问题上提出了原型理论，认为在多义词的诸多意义中，原型词义是中心，其他"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social cognition",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "个人对他人的心理状态、行为动机、意向等作出推测与判断的过程。社会认知的过程既是基于认知者的既有经验及对有关线索的分析而进行的，又必须通过认知者的思维活动（包括一定程度的信息加工、推理、分类和归纳）来进"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "理性认识",
+   "en": "rational cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0241",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的高级阶段，是人们在感性认识的基础上，凭借抽象思维把握到的关于事物的本质、内部联系和规律的认识，具有抽象性、间接性、普遍性等特点，表现形式是概念、判断、推理。"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "社会认知理论",
+   "en": "social cognitive theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "常用的人际水平健康行为理论，可以用来识别健康行为的社会心理影响因素，提供促进行为改变的方法。"
+  },
+  {
+   "cn": "认知问题解决",
+   "en": "cognitive problem solving",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "舒尔（Shure）和斯皮瓦克（Spivack）提出的通过提升儿童解决问题的能力，以增强其社会适应能力的干预理论。"
+  },
+  {
+   "cn": "儿童认知治疗",
+   "en": "child cognitive therapy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "治疗师以认知理论为指导，努力挖掘患者隐蔽的、歪曲的不合理认知，通过训练和指导来纠正儿童不合理认知，建立新的更理性和现实的认知方式而达到消除症状、改善情绪和行为，以促进个体社会适应为目的的一类心理治疗方"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,582 @@
+{
+ "key": "imperfection",
+ "term": "imperfection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:04:50+00:00",
+ "status": "ok",
+ "note": "variant=imperfection; 审定公布名词库=206; 海峡两岸名词对照库=21; 其他来源数据库=9; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "不完善度",
+   "en": "imperfection",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.191",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "可能偏差除以分配密度与分选介质密度的差值所得之商。代表符号I。"
+  },
+  {
+   "cn": "焊接缺欠",
+   "en": "weld imperfection",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.301",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "泛指焊接接头中的不连续、不均匀性和其他不健全等焊接缺欠。"
+  },
+  {
+   "cn": "晶体不完整性",
+   "en": "crystal imperfection",
+   "source": "物理学名词",
+   "wordNumber": "08.0278",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "晶体非完美性",
+   "en": "crystal imperfection",
+   "source": "化学名词",
+   "wordNumber": "04.1872",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "相对理想晶体模型而言，实际晶体偏离理想状态，存在某些偏差和不足的性质。例如原子、离子热振动、镶嵌结构、缺陷、表面特殊结构、无公度结构、高分子次晶等，其中有些不足甚至是无法避免。"
+  },
+  {
+   "cn": "初始缺陷",
+   "en": "initial imperfection",
+   "source": "土木工程名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "土木工程_结构工程_钢结构",
+   "subjectName": "钢结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不完全解理",
+   "en": "imperfect cleavage",
+   "source": "地质学名词",
+   "wordNumber": "03.01.087",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物晶体受力后沿解理面分裂较为困难，仅断续见到小而不平滑的不明显解理面。"
+  },
+  {
+   "cn": "成骨不全",
+   "en": "osteogenesis imperfect",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "甲状旁腺与代谢性骨病_骨发育异常及代谢性骨病",
+   "subjectName": "骨发育异常及代谢性骨病",
+   "publishYear": "2025",
+   "definition": "由多种遗传性异常导致结缔组织异常的骨骼疾病。主要表现为低骨量、反复骨折、骨骼畸形，伴牙齿异常及听力减退。"
+  },
+  {
+   "cn": "不完全竞争",
+   "en": "imperfect competition",
+   "source": "经济学名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "存在有限数量卖者的市场结构。不完全竞争分为垄断竞争、寡头垄断和完全垄断。"
+  },
+  {
+   "cn": "非理想气体",
+   "en": "imperfect gas",
+   "source": "物理学名词",
+   "wordNumber": "05.0060",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非理想克隆",
+   "en": "imperfect cloning",
+   "source": "物理学名词",
+   "wordNumber": "11.0366",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不良接地",
+   "en": "imperfect earth",
+   "source": "物理学名词",
+   "wordNumber": "03.0664",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不完全排错",
+   "en": "imperfect debugging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0533",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件中故障没有完全被排除并且有可能引入新的故障。"
+  },
+  {
+   "cn": "缺陷晶体",
+   "en": "imperfect crystal",
+   "source": "化学名词",
+   "wordNumber": "01.0695",
+   "subjectFullName": "化学_无机化学_无机固体化学",
+   "subjectName": "无机固体化学",
+   "publishYear": "2016",
+   "definition": "理想晶体的平移对称性因少量原子的错位、代换、欠缺或填隙而导致的破缺，称为晶体的缺陷。实际晶体都有缺陷，都是缺陷晶体。缺陷有体缺陷、面缺陷、线缺陷和点缺陷之分。晶体缺陷是晶体许多特性的本原。"
+  },
+  {
+   "cn": "釉质发生不全",
+   "en": "amelogenesis imperfect",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "24.099",
+   "subjectFullName": "组织学与胚胎学_胚胎学_鳃弓、咽囊的演变和头、颈的发生",
+   "subjectName": "鳃弓、咽囊的演变和头、颈的发生",
+   "publishYear": "2014",
+   "definition": "由牙釉质母细胞增殖障碍所致的一种遗传性先天畸形。齿呈棕黄色。"
+  },
+  {
+   "cn": "牙本质发生不全",
+   "en": "dentinogenesis imperfect",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "24.100",
+   "subjectFullName": "组织学与胚胎学_胚胎学_鳃弓、咽囊的演变和头、颈的发生",
+   "subjectName": "鳃弓、咽囊的演变和头、颈的发生",
+   "publishYear": "2014",
+   "definition": "一种常染色体显性遗传病，临床上分为3型：Ⅰ型患者除牙本质生成不全外，还伴有成骨不全；Ⅱ型为最常见的遗传性乳光牙本质，无全身骨骼异常；Ⅲ型孤立发生于美国马里兰州隔离民群中。"
+  },
+  {
+   "cn": "不完全阶段",
+   "en": "imperfect state",
+   "source": "微生物学名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "真菌生活史中不发生配子接合，通过营养菌丝进行繁殖的阶段。"
+  },
+  {
+   "cn": "不完美信息博弈",
+   "en": "imperfect information game",
+   "source": "经济学名词",
+   "wordNumber": "03.155",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "每个信息集并不都是单节点的博弈。在博弈论中，若每一个参与人采取行动时不能确切地掌握其他参与人的行动或者在其采取行动之前其他参与人的行动，则称该博弈是不完美信息博弈。"
+  },
+  {
+   "cn": "半知菌",
+   "en": "deuteromycete,imperfect fungus",
+   "source": "植物学名词",
+   "wordNumber": "05.0006",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "进行无性繁殖，尚未发现有性生殖的真菌类群。"
+  },
+  {
+   "cn": "非完全弹性碰撞",
+   "en": "imperfect elastic collision",
+   "source": "物理学名词",
+   "wordNumber": "02.0468",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "半知菌[类]",
+   "en": "deuteromycetes,imperfect fungi",
+   "source": "微生物学名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "进行无性繁殖，尚未发现有性生殖的真菌。"
+  },
+  {
+   "cn": "表面缺陷",
+   "en": "surface imperfection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "牙本质发生不全",
+   "en": "dentinogenesis imperfect",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "釉质发生不全",
+   "en": "amelogenesis imperfect",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不完全雌蕊",
+   "en": "imperfect pistil",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全雄蕊",
+   "en": "imperfect stamen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺陷晶体",
+   "en": "imperfect crystal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全排错",
+   "en": "imperfect debugging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不完全燃烧",
+   "en": "imperfect combustion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同质不完全竞争",
+   "en": "homogeneous imperfect competition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不完全花",
+   "en": "incomplete flower\",\"imperfect flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全阶段（=无性阶段）",
+   "en": "imperfect state (=asexual state)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全叶",
+   "en": "incomplete leaf\",\"imperfect leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不全位错",
+   "en": "imperfect dislocation\",\"partial dislocation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "半知菌类，不完全菌类",
+   "en": "deuteromycetes\",\"imperfect fungi\",\"fungi imperfecti",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全菌类（=半知菌类）",
+   "en": "deuteromycetes\",\"imperfect fungi\",\"fungi imperfecti",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不完全竞争市场",
+   "en": "imperfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "完全竞争市场以外的所有的或多或少带有一定垄断因素的市场。包括完全垄断市场、寡头垄断市场和垄断竞争市场三种类型。卫生服市场不能保持充分竞争，市场作用离开最优状态，因此发生市场失灵。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

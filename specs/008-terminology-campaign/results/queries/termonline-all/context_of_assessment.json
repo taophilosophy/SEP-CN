@@ -1,0 +1,792 @@
+{
+ "key": "context of assessment",
+ "term": "context of assessment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:06:11+00:00",
+ "status": "ok",
+ "note": "variant=context of assessment; 审定公布名词库=10000; 海峡两岸名词对照库=7750; 其他来源数据库=1932; 预公布名词数据库=2835; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "背景",
+   "en": "context",
+   "source": "档案学名词",
+   "wordNumber": "06.01.018",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件所处的环境。文件的构成要素之一。文件的背景信息包括文件之间的相互关系、形成文件的业务活动、文件的技术环境等。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "构成事件、陈述、观念的背景的情境条件。它们据此才能得到完整的理解与评价。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.067",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "沟通行为或交往活动发生的环境或场合。为理解沟通行为与现象提供的背景和参照。"
+  },
+  {
+   "cn": "上下文",
+   "en": "context",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.101",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "位于关键词前部或后部的词句或文字。它是关键词所处的语言环境，影响关键词的含义。通过阅读上下文，有助于理解和鉴别某关键词所具有的准确含义和用法，判断文献是否相关。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0884",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "语言（自然语言或人工语言）上下文环境。它包括语言因素，也包括非语言因素（特别是当涉及自然语言的时候）。"
+  },
+  {
+   "cn": "情景",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0385",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "事件发生时的背景、环境、时间、空间等因素。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "心理学名词",
+   "wordNumber": "02.798",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "话语等语言学信息与说话的场所等非语言信息提供的背景。"
+  },
+  {
+   "cn": "文脉",
+   "en": "context",
+   "source": "建筑学名词",
+   "wordNumber": "07.0324",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "建筑与周围环境的关系。其形成在历史、社会、文化、时间等维度上存在着发展的连续性。"
+  },
+  {
+   "cn": "菌肉",
+   "en": "context",
+   "source": "微生物学名词",
+   "wordNumber": "03.305",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "层菌在担子果的上表面与子实下层或菌髓之间的菌丝组织。"
+  },
+  {
+   "cn": "辩护的语境",
+   "en": "context of justification",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "分析实验观察如何支持理论假说的情境条件。"
+  },
+  {
+   "cn": "发现的语境",
+   "en": "context of discovery",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.125",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学家通过观察、实验、分析、推理等方式就某一主题提出假设、形成信念的心理过程。"
+  },
+  {
+   "cn": "上下文敏感",
+   "en": "context-sensitive,context-aware",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "检索系统自动地对上下文内容、上下文变化及上下文历史进行感知和应用，以便为用户提供完成相关任务的信息和服务。是提高人机交互智能性的重要途径。"
+  },
+  {
+   "cn": "上下文检索",
+   "en": "context search,context retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.102",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "一种嵌入上下文环境中的智能信息检索方法。允许用户通过提问扩展法不断选择和修正与提问有关的上下文属性值，而系统通过来自文档和用户反馈的上下文信息不断拓展和修正，形成与检索词相关的最佳匹配，直至将所需资源"
+  },
+  {
+   "cn": "菌肉",
+   "en": "context,flesh",
+   "source": "植物学名词",
+   "wordNumber": "05.0307",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "层菌在担子果的上表面与子实层下层或菌髓之间的菌丝组织。"
+  },
+  {
+   "cn": "语境原理",
+   "en": "context principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.314",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "不能探寻孤立语词的含义，语词的意义只能在句子中理解。一般认为源于弗雷格。"
+  },
+  {
+   "cn": "工程场境",
+   "en": "engineering context",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.037",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "工程活动或工程系统所在的环境。不但包括自然界方面的时空场景，而且包括社会方面的时空场景。"
+  },
+  {
+   "cn": "上下文感知",
+   "en": "context-aware",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.124",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "系统能发现并有效利用上下文信息（如用户位置、时间、环境参数、邻近的设备和人员、用户活动等）进行计算的一种计算模式。"
+  },
+  {
+   "cn": "技术情境",
+   "en": "technology context",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "对技术有嵌入性作用的社会情境。"
+  },
+  {
+   "cn": "阅读情境",
+   "en": "reading context",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.024",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "阅读主体、阅读客体、周边环境等阅读相关要素及其互动关系的总和。"
+  },
+  {
+   "cn": "背景线索",
+   "en": "context cues",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "在言语和非言语内容上能传递或实现交际功能，体现交际情境的讯息暗示。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语境，上下文",
+   "en": "context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "菌肉",
+   "en": "context\",\"flesh",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情境特殊性",
+   "en": "context specificity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境依赖",
+   "en": "context dependent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上下文效应,语境效应，背景效应",
+   "en": "context effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地域背景",
+   "en": "areal context",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务器上下文（环境）",
+   "en": "server context",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上下文切换",
+   "en": "context switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境分析，上下文分析",
+   "en": "context analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上下文外关键词",
+   "en": "keyword out of context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评估，评价",
+   "en": "assessment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "评估",
+   "en": "assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "征税标准",
+   "en": "basis of assessment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "邻近依赖性调节",
+   "en": "context-dependent regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻近依赖性调节",
+   "en": "context-dependent regulation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上下文内关键词",
+   "en": "keyword in context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大气环境评价",
+   "en": "assessment of atmospheric environment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物多样性评估",
+   "en": "biodiversity assessment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风险评估",
+   "en": "Risk Assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用评估",
+   "en": "credit assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资产评估",
+   "en": "data asset assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化定损",
+   "en": "smart loss assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理评估",
+   "en": "security management assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全评估方案",
+   "en": "security assessment scheme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞评估系统",
+   "en": "vulnerability assessment system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境信用评价制度",
+   "en": "the system of environmental credit assessment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境影响评价制度",
+   "en": "the system of environmental impact assessment",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公共管理硕士；宏观审慎评估",
+   "en": "Master of Public Administration；Macro Prudential Assessment",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险评估",
+   "en": "data security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全风险评估",
+   "en": "information security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全管理评估准则",
+   "en": "security management assessment guideline",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息安全风险评估",
+   "en": "financial information security risk assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全风险评估机制",
+   "en": "data security risk assessment mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "角色和群体间的相互关系构成的网络图形。用以表现个体行为所产生的组织背景。"
+  },
+  {
+   "cn": "文化语境",
+   "en": "cultural context",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "源于语言学及语义学分析，在文本与语境的关系中，特指个别文化事象置身其中、并赖以发生意义的整体性系统。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "民俗语境",
+   "en": "folklore context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0499",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗赖以生成和传演的环境以及赋予民俗以特殊意义的上下文关系。其中“上下文”既可以是一个民俗单元内的上下文，也可以是作为整体民俗与其他相关元素组成的结构关系。"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "预估",
+   "en": "assessment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "收集与服务对象有关的详细资料、了解服务对象问题的形成，并依据既定情境中的事实与特点来推论出有关服务对象问题含义的暂时性结论的逻辑过程。"
+  },
+  {
+   "cn": "评估人群",
+   "en": "population of assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.122",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "作为研究对象对其进行评估的人群"
+  },
+  {
+   "cn": "骨龄评价",
+   "en": "assessment of bone age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.5.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "研究骨龄与实际年龄关系的方法。骨龄测定的方法通常有图谱法、骨骺出现与闭合年龄法、骨化中心计数法和计分法。"
+  },
+  {
+   "cn": "风险评估类型",
+   "en": "types of risk assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "依据风险评估目的或现有资源进行的分类，一般可分为定性评估、半定量评估、定量评估、应急评估等。"
+  },
+  {
+   "cn": "生命质量评价",
+   "en": "quality of life assessment",
+   "source": "社会医学名词",
+   "wordNumber": "5.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量具有一定生命数量的人在一定时点上的生命质量表现。常见测量方法有访谈法、主观报告法、症状定式检查法、标准化量表测定。标准化量表测定是主流。"
+  },
+  {
+   "cn": "卫生评价",
+   "en": "hygienic assessment",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.01",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "评判预定的卫生健康目标进展情况和效果的活动。是卫生领域公认的科学有效的管理工具和持续改善医疗卫生服务质量水平、提高卫生资源利用效率、落实政府监管责任的重要手段。"
+  },
+  {
+   "cn": "风险评估",
+   "en": "risk assessment",
+   "source": "消毒学",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "通过风险分析预测风险发生的概率及损失程度，并结合其他因素评估风险发生的可能性及其危害程度，决定是否需要采取相应措施的过程。"
+  },
+  {
+   "cn": "后果评估",
+   "en": "consequence assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.14",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "对与授权设施或其部分有关的正常运行和可能事故的放射性后果（例如剂量、活度浓度）的评估。"
+  },
+  {
+   "cn": "剂量评估",
+   "en": "dose assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.15",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "对接受照射或可能受照的个人或人群所进行的剂量测量和估算的过程和结果。"
+  },
+  {
+   "cn": "危害评估",
+   "en": "hazard assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.16",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估设施、活动或源有关的危害，以确定可能需要采取防护行动和其他响应行动的那些事件和相关领域，以及可有效减轻事件后果的行动。"
+  },
+  {
+   "cn": "性能评估",
+   "en": "performance assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.17",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估系统或子系统的性能及其对授权设施的防护和安全的影响。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.23",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确认涉及境内外设施的设施、活动或源相关的可能危险而进行的评估过程。已确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果有关的有效的行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

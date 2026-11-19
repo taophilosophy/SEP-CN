@@ -19,7 +19,7 @@
 | [02-style.md](02-style.md) | 编写体例：引号、空格、代码块、表格、图片 | 译文与说明页 |
 | [03-terminology.md](03-terminology.md) | 术语治理：两登记册的职责与登记流程、落地差异处置（D1–D5、禁机械替换、差异查证；ADR-0036/0048） | 译文 |
 | [04-translation-workflow.md](04-translation-workflow.md) | 翻译与三审三校流程、任务联动、重译纪律 | 翻译与校对会话 |
-| [05-ci-and-tools.md](05-ci-and-tools.md) | CI 工作流约定、本地工具清单、提交策略 | 全部会话 |
+| [05/](05/index.md) | CI 工作流约定、本地工具清单、批量改写纪律、判定权与规则所有权、提交策略（2026-11-19 按 ADR-0004 拆为目录） | 全部会话 |
 | [06-governance.md](06-governance.md) | 软件工程治理：单一事实源登记表、变更管理、并发会话纪律、质量门 | 全部会话 |
 | [07-academic-norms.md](07-academic-norms.md) | 哲学学术规范：版本事实、引文文献、禁幻觉引文、结构完整、译注、审校挂钩 | 译文与校对会话 |
 | [08-intent-first.md](08-intent-first.md) | 任务意图与方向先行（知难行易）：方向声明、先问不猜、手段后置、以验收判据验收、开工前标准文献启发式研读 | 全部会话 |
@@ -98,6 +98,6 @@
 * 批次/阶段符合性自检、信息项凭证规格、评审与度量口径 → 按 [09](09-process-standard.md) 三张自检单与字段表（ADR-0044）。
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
 * 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
-* 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05-ci-and-tools.md) 为准。
-* 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) s2.4 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05-ci-and-tools.md)。
+* 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05/index.md) 为准。
+* 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) s2.4 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05/index.md)。
 * 动 `en/` 或 `yuanwen/` 的"看起来错了"处 → 先读 ADR-0062 三出口（文字→全局勘误表＋译注；HTML 格式→`baseline/en-patches/`；转换器缺陷→改 `tools/yuanwen.py`）；`en/` 与 `yuanwen/` 文字一致性由不变量 I2/I3 机检（ADR-0063），禁手改产物。

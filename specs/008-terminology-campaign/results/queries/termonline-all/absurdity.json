@@ -1,0 +1,22 @@
+{
+ "key": "absurdity",
+ "term": "absurdity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:10:02+00:00",
+ "status": "ok",
+ "note": "variant=absurdity; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "归谬法",
+   "en": "reduction to absurdity",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.160",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种反驳的方法。用以证明矛盾的荒谬的结论是按照前提提出的逻辑上必然的结果，因此前提被推翻。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

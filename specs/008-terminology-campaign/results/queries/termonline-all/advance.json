@@ -1,0 +1,782 @@
+{
+ "key": "advance",
+ "term": "advance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:01:30+00:00",
+ "status": "ok",
+ "note": "variant=advance; 审定公布名词库=374; 海峡两岸名词对照库=147; 其他来源数据库=19; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "进占",
+   "en": "advance",
+   "source": "电力名词",
+   "wordNumber": "15.061",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "截流施工时,由岸边向河中抛投土石等物料,逐步推进形成戗堤的施工。"
+  },
+  {
+   "cn": "纵距",
+   "en": "advance",
+   "source": "船舶工程名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "回转试验中，自开始转舵瞬时的船舶重心位置至艏向改变90°瞬时的重心位置沿初始直航向量取的距离。"
+  },
+  {
+   "cn": "进占",
+   "en": "advance",
+   "source": "水利科学技术名词",
+   "wordNumber": "10.093",
+   "subjectFullName": "水利科学技术_防洪、治河_防汛",
+   "subjectName": "防汛",
+   "publishYear": "1997",
+   "definition": "堵口工程节节进堵的实施过程。"
+  },
+  {
+   "cn": "纵距",
+   "en": "advance",
+   "source": "航海科技名词",
+   "wordNumber": "09.0011",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "预发新闻",
+   "en": "advance story",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.125",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "对按照预定时间发生的新闻事实的报道。"
+  },
+  {
+   "cn": "预付款",
+   "en": "advance payment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.560",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "一种付款方式。在合同签订后，买方向卖方支付的部分款项。用于卖方启动项目、购买原材料等工作。"
+  },
+  {
+   "cn": "预订单",
+   "en": "advance order",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.374",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆及其他文献信息机构在书刊出版前签署的订购文献的凭据。"
+  },
+  {
+   "cn": "前进式开采",
+   "en": "advance mining",
+   "source": "冶金学名词",
+   "wordNumber": "02.0741",
+   "subjectFullName": "冶金学_采矿_地下采矿",
+   "subjectName": "地下采矿",
+   "publishYear": "2019",
+   "definition": "从靠近主要开拓巷道的矿块开始逐个依次进行回采的开采方式。"
+  },
+  {
+   "cn": "预付款",
+   "en": "advance payment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0506",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "雇主在合同生效日期后，支付给承包商用于前期支出的费用。"
+  },
+  {
+   "cn": "先行组织者",
+   "en": "advance organizer",
+   "source": "心理学名词",
+   "wordNumber": "09.099",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "在开始新学习之前给学习者提供的用于沟通新旧知识的引导性、概括性的材料。"
+  },
+  {
+   "cn": "进角",
+   "en": "advance angle",
+   "source": "船舶工程名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "叶元体相对于未受扰动水流的运动方向与其沿圆周方向的夹角。"
+  },
+  {
+   "cn": "进速比",
+   "en": "advance ratio",
+   "source": "船舶工程名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "螺旋桨进速与叶梢线速度之比值。以λ表示：λ=VA／πnD式中：VA——进速；n——螺旋桨转速；D——螺旋桨直径。"
+  },
+  {
+   "cn": "进速系数",
+   "en": "advance coefficient",
+   "source": "船舶工程名词",
+   "wordNumber": "03.201",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "螺旋桨每转进程与其直径之比值。以J表示：J=VA/nD式中：VA——进速；n——螺旋桨转速；D——螺旋桨直径。"
+  },
+  {
+   "cn": "超前导坑",
+   "en": "advance heading",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0743",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "超前支护",
+   "en": "advance support",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0772",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "超前巷道",
+   "en": "advance heading",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.084",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "超前于采煤工作面一定距离掘进的巷道。"
+  },
+  {
+   "cn": "前置标志",
+   "en": "advance sign",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.369",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "新型敷料",
+   "en": "advanced dressing",
+   "source": "整形外科名词",
+   "wordNumber": "2.077",
+   "subjectFullName": "整形外科_创伤修复_创面处理",
+   "subjectName": "创面处理",
+   "publishYear": "2026",
+   "definition": "能用于创面覆盖，又能主动参与和促进创面愈合的创面覆盖物。"
+  },
+  {
+   "cn": "高代品系",
+   "en": "advanced line",
+   "source": "农学名词",
+   "wordNumber": "06.142",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "自交或近亲繁殖若干代后所获得的某些遗传性状相当一致的后代。"
+  },
+  {
+   "cn": "积极修辞",
+   "en": "advanced rhetoric",
+   "source": "档案学名词",
+   "wordNumber": "02.04.036",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "修辞手法中的一种。旨在追求将语言表达得生动形象，使人有更高的阅读积极性，乐于阅读。具体方法方面的特点是注重修辞格的使用。"
+  },
+  {
+   "cn": "前移",
+   "en": "advance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纵距",
+   "en": "advance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "纵距",
+   "en": "advance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "预付票据",
+   "en": "advance draft (=advance bill)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垫付费用",
+   "en": "advance charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放款业务",
+   "en": "advance business",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "提前交货",
+   "en": "advance delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预付价格",
+   "en": "advance price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预付款",
+   "en": "advance payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预付票据",
+   "en": "advance bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预付运费",
+   "en": "advance freight",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预付资金",
+   "en": "advance fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预交押金",
+   "en": "advance deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预收款",
+   "en": "advance receipt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预售",
+   "en": "advance sale",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预支票据",
+   "en": "advance note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "涨价",
+   "en": "advance price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先行预约呼叫",
+   "en": "advance call",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进速比",
+   "en": "advance ratio",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "进速系数",
+   "en": "advance coefficient",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "推进",
+   "en": "advance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推进",
+   "en": "advance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进垒",
+   "en": "advance a base\",\"advance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推进",
+   "en": "advance\",\"drive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "先进网络",
+   "en": "Advanced Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先进计算",
+   "en": "Advanced Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级机器学习",
+   "en": "advanced machine learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事前救济",
+   "en": "remedy in advance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "向前移步",
+   "en": "advance\",\"forward step\",\"march",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "出足扫",
+   "en": "advanced foot sweep\",\"de-ashi-barai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿帕网",
+   "en": "Advanced Research Projects Agency (ARPA) Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《为妇女推出数字金融解决方案》",
+   "en": "Digital Financial Solutions to Advance Women’s Economic Participation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国特色社会主义政治发展道路",
+   "en": "the socialist path of making political advance with Chinese characteristics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶层设计和摸着石头过河的关系",
+   "en": "the relationship between Top-level design and advancing with caution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高度信息网络社会（日本）",
+   "en": "advanced information and telecommunications network society (e-Japan, u-Japan, i-Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跳动",
+   "en": "dance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预付资本",
+   "en": "advanced capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0156",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业为获取工人创造的剩余价值，在开始经营时预先以货币或实物形式支付的价值。包括构成资本的全部生产资料和劳动力的价值。"
+  },
+  {
+   "cn": "社会主义先进文化",
+   "en": "advanced socialist culture",
+   "source": "马克思主义",
+   "wordNumber": "03.0643",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "马克思主义政党思想精神上的旗帜，是以马克思主义为指导，以培养有理想、有道德、有文化、有纪律的公民为目标的，面向现代化、面向世界、面向未来的，民族的科学的大众的，健康向上的，具有中国风格、中国特色的社会"
+  },
+  {
+   "cn": "事先支付",
+   "en": "payment in advance",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的实际支付在服务提供之前。"
+  },
+  {
+   "cn": "高级农业生产合作社",
+   "en": "advanced agricultural producers cooperative",
+   "source": "马克思主义",
+   "wordNumber": "02.0365",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "劳动农民依自愿互利原则组织起来的完全社会主义性质的集体经济组织。社员的土地无代价转归集体所有，取消土地报酬，耕畜、大型农具等主要生产资料折价归合作社集体所有，社员间平等互助关系，参加集体劳动，实行按劳"
+  },
+  {
+   "cn": "高龄老人",
+   "en": "the advanced age elderly",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.42",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "年龄在80周岁以上的老年人。"
+  },
+  {
+   "cn": "高龄老年人",
+   "en": "the advanced age elderly",
+   "source": "社会医学名词",
+   "wordNumber": "12.3.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "老年人卫生保健",
+   "publishYear": "2025",
+   "definition": "年龄在80 周岁以上的老年人。"
+  },
+  {
+   "cn": "波浪式前进",
+   "en": "advance in a wavelike manner",
+   "source": "马克思主义",
+   "wordNumber": "04.0137",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平提出中国的经济发展可能是波浪式前进。毛泽东认为,世界上的事物,它们的运动、发展都是波浪式的。波浪式前进是事物发展客观存在的普遍形式。邓小平把这一原理,具体运用到阐明稳定与发展的辩证关系。他指出:"
+  },
+  {
+   "cn": "波浪式的推进政策",
+   "en": "policy of advancing in waves",
+   "source": "马克思主义",
+   "wordNumber": "03.0358",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的创建根据地的正确军事原则。即在民族民主革命战争中，在敌强我弱的情况下，创建革命的根据地，巩固根据地，再依托根据地，扩大发展根据地，既反对保守主义，又反对冒进政策，使巩固根据地与发展根据地相"
+  },
+  {
+   "cn": "党的先进性建设",
+   "en": "construction of the Partys advanced nature",
+   "source": "马克思主义",
+   "wordNumber": "03.0787",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的先进性建设是党的建设的根本，保持和发展党的先进性是马克思主义政党自身建设的根本任务和永恒课题。党的先进性建设是一项综合性建设，要长期从党的思想、组织、作风、制度建设等各个方面来加以推进。2005年"
+  },
+  {
+   "cn": "共产主义的第一阶段和高级阶段",
+   "en": "first stage and the advanced stage of communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0015",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《哥达纲领批判》中预计到，共产主义社会要划分阶段，即第一阶段和高级阶段。这个提法是很留有余地的，因为在第一和高级之间还可以有一个阶段。后来列宁将第一阶段称之为社会主义社会，高级阶段称之为共产主"
+  },
+  {
+   "cn": "粒子辐射度",
+   "en": "particle radiance",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量",
+   "subjectName": "电离辐射场物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内，沿某方向的单位立体角，进入到辐射场以某点为球心的单位截面积小球的粒子数。SI单位为每平方米每秒每球面度，记作m-2·s-1·sr-1。"
+  },
+  {
+   "cn": "能量辐射度",
+   "en": "energy radiance",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.2.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量",
+   "subjectName": "电离辐射场物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内，沿某方向的单位立体角，进入到辐射场以某点为球心的单位截面积小球的辐射能。SI单位为焦耳每平方米每秒每球面度，记作J·m-2·s-1·sr-1。"
+  },
+  {
+   "cn": "民间舞蹈",
+   "en": "folk dance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0396",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "产生和流传于民间、风格鲜明、为广大群众喜闻乐见的舞蹈，是人类创造舞蹈文化的最初形态，凝结着创造者的审美情趣、思想感情、理想愿望。民间舞蹈伴随民众的生产、生活、宗教信仰及各种习俗活动，逐步形成自娱、祭神"
+  },
+  {
+   "cn": "五方狮子舞",
+   "en": "Lion Dance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0645",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "即唐代立部伎第二部《太平乐》。场面很大，五头狮子各立一方，舞者歌者上百，是唐代声势浩大的舞蹈，其音乐和乐器均有龟兹元素。"
+  },
+  {
+   "cn": "舞蹈音乐",
+   "en": "dance music",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0393",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "舞蹈的伴奏音乐；包括在民间产生传承的舞曲、古代宫廷从民间采集并修改完善的古典舞曲、社交场合使用的社交舞曲、欧洲芭蕾音乐，以及作曲家为各种类型舞蹈作品创作的音乐。"
+  },
+  {
+   "cn": "个体健康建议",
+   "en": "individual health advice",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构根据学生体检结果提出针对个体存在的疾病、健康风险、健康问题，进行复诊、转诊或改变行为生活方式的专业性意见，从而有利于提高个体健康水平。"
+  },
+  {
+   "cn": "群体健康建议",
+   "en": "mass health advice",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生健康体检机构根据该学校或区域学校汇总体检结果，针对群体存在的健康问题提出需要采取的相应预防措施的专业性意见，从而有利于提高群体健康水平。"
+  },
+  {
+   "cn": "民间歌舞",
+   "en": "folk song-dance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0397",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "综合音乐、舞蹈、诗歌等艺术手段，边歌边舞的艺术形式。歌舞既能抒情又能叙事，声情并茂，通俗易懂，能表达比较细致复杂的思想感情和广泛的生活内容，具有较强的艺术表现力。"
+  },
+  {
+   "cn": "患病学生建议",
+   "en": "advice for sick student",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在一定单位时间内，为患有某种疾病的学生专门开设的，旨在通过适当的体育活动改善健康状况的教学活动。"
+  },
+  {
+   "cn": "生育保健指导",
+   "en": "advice for fertility care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "指导婚检对象了解受孕过程、男女双方必备的受孕条件、计划受孕的方法和受孕前的准备等知识的服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

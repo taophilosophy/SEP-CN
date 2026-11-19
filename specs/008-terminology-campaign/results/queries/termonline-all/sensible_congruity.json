@@ -1,0 +1,462 @@
+{
+ "key": "sensible congruity",
+ "term": "sensible congruity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T01:59:13+00:00",
+ "status": "ok",
+ "note": "variant=sensible congruity; 审定公布名词库=240; 海峡两岸名词对照库=43; 其他来源数据库=0; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "兽医学名词",
+   "wordNumber": "04.443",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "水分从汗腺分泌的汗液中蒸发的现象。汗液可被机体感觉到。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature ",
+   "source": "草学名词",
+   "wordNumber": "3.0624",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat ",
+   "source": "草学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.358",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜禽产生的经传导、对流、辐射散发到环境中的热量。能引起空气温度变化。"
+  },
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "生理学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "建筑学名词",
+   "wordNumber": "10.0335",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "在物质的吸热或放热过程中，能使其温度发生变化的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "大气科学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在不伴随水的相变的情况下，有温差存在时物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "大气科学名词",
+   "wordNumber": "08.211",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "在不同气温、湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不同气温，湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.213",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.191",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "人与环境间通过对流、辐射和传导途径交换的热量，即非蒸发性散热。"
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "航海科技名词",
+   "wordNumber": "02.0100",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "一致性理论",
+   "en": "congruity theory",
+   "source": "心理学名词",
+   "wordNumber": "07.042",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "奥斯古德(C. E. Osgood) 等人提出的一种社会心理学理论。认为主体、对象和对象来源之间的关系，若三者之间是否定关系或存在一个否定关系，就会出现不协调，此时个体会改变态度达成协调。"
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "农学名词",
+   "wordNumber": "13.021",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "近地层中因空气湍流运动引起的地表面和空气间的热量输送。"
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "林学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "由于温度变化而引起的大气与下垫面之间发生的湍流形式的热流通量。"
+  },
+  {
+   "cn": "显热蓄热",
+   "en": "sensible heat regeneration",
+   "source": "建筑学名词",
+   "wordNumber": "14.1051",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "对蓄热物质在不发生相态变化的条件下，加热升温，使其内能增加，并予以保温储存，用热时释放热量的蓄热方式。"
+  },
+  {
+   "cn": "显燃期",
+   "en": "sensible combustion period",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0783",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "辨别觉训练",
+   "en": "epicritic sensibility training",
+   "source": "手外科学名词",
+   "wordNumber": "06.0080",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "先让患者辨别粗细差别较大物体表面，逐渐进展到差别较小的物体表面的治疗方法。每项训练采用闭眼—睁眼—闭眼方法，反馈、重复地强化训练。"
+  },
+  {
+   "cn": "焊接裂纹敏感性",
+   "en": "welding crack sensibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可感热",
+   "en": "sensible heat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一致性理论,调和理论",
+   "en": "congruity theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感热通量",
+   "en": "sensible heat flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水准器灵敏度",
+   "en": "sensitivity of a bubble\",\"sensibility of level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "老体",
+   "en": "senile",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可行域",
+   "en": "feasible region",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可行解",
+   "en": "feasible solution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗张强度",
+   "en": "tensile strength",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无柄叶",
+   "en": "sessile leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗拉强度",
+   "en": "tensile strength",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸试验",
+   "en": "tensile test",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗拉强度",
+   "en": "tensile strength",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸黏度",
+   "en": "tensile viscosity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "感性",
+   "en": "sensibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0177",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人通过感觉器官感知外在对象而产生感觉、知觉和表象等直观形式的认识能力和感知方式，是认识活动的初级形式，它只能认识对象的表面现象和外部特征，形成对对象的形象、直观、生动的认识。（2）情绪和情感统称"
+  },
+  {
+   "cn": "新感性",
+   "en": "new sensibility",
+   "source": "马克思主义",
+   "wordNumber": "05.0034",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞提出的艺术乌托邦中的一个重要概念。他认为，当人的爱欲获得了解决，人就不再受工具理性的统治，人就是自由的、快乐的人。在新感性降临的社会，人与自然和谐一体，人与人和平相处，人在生活中体验着美妙、安"
+  },
+  {
+   "cn": "老年性阴道炎",
+   "en": "senile vaginitis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_老年期保健",
+   "subjectName": "老年期保健",
+   "publishYear": "2025",
+   "definition": "阴道炎的一种。因老年女性卵巢功能衰退，雌激素水平降低导致阴道黏膜萎缩变薄，局部抵抗力下降而细菌入侵引起的阴道炎症。"
+  },
+  {
+   "cn": "可行的社会主义经济模式",
+   "en": "economic model of feasible socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0174",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "英国亚历克·诺夫（Alec Nove）在《可行的社会主义经济》中提出。主张以国有为主体的混合经济模式；有限制的市场机制，国家以经济手段为主，以行政、法律手段为辅的多种方法对经济加以调控；实行经济民主，"
+  },
+  {
+   "cn": "老龄问题",
+   "en": "senile problem，issue of ageing",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.7",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "由个体老龄化和人口群体的老龄化引起的个体问题与经济社会问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

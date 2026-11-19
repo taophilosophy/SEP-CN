@@ -1,0 +1,802 @@
+{
+ "key": "knowledge acquisition bottleneck",
+ "term": "knowledge acquisition bottleneck",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:15:35+00:00",
+ "status": "ok",
+ "note": "variant=knowledge acquisition bottleneck; 审定公布名词库=570; 海峡两岸名词对照库=158; 其他来源数据库=67; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.037",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "从专家或其他专门知识来源汲取知识并向知识型系统转移的过程。"
+  },
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0618",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "从领域专家那里获取知识的过程。泛指从任何知识源或信息源获取和挖掘知识的过程。"
+  },
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0763",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "将外部环境中的知识转换到内部，能够为其所用的过程。"
+  },
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition",
+   "source": "语言学名词",
+   "wordNumber": "11.247",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "人工智能领域中的一项研究内容。研究如何从各种信息源中获得问题求解所需要的知识。在某个具体领域里知识获取的过程是：识别领域知识的基本结构与特点；寻找恰当的知识表示方法；确定适当的知识存储结构；抽取领域知"
+  },
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition",
+   "source": "自动化名词",
+   "wordNumber": "05.048",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈",
+   "en": "bottleneck",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0509",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "自身能力低于所需能力的设备、功能、部门或资源。"
+  },
+  {
+   "cn": "文本知识获取",
+   "en": "knowledge acquisition from text",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0644",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "从文本中获取知识的过程。其中文本包括领域书籍、万维网网页等。"
+  },
+  {
+   "cn": "瓶颈技术",
+   "en": "technical bottleneck",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.357",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "制约系统发展或系统效能发挥，又难以甚至无法绕开或替代的技术或技术环节。"
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "动物学名词",
+   "wordNumber": "2.0292",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "在进化过程中，当种群内个体数目因某种原因急剧下降时，不管这个种群的个体数目扩展到多大，种群的遗传变异都会严重丢失的现象。"
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "植物学名词",
+   "wordNumber": "02.0326",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "在进化过程中，当种群内个体数目因某种原因急剧下降时，不管这个种群的个体数目扩展到多大，种群的遗传变异都会严重丢失的现象。"
+  },
+  {
+   "cn": "注意瓶颈",
+   "en": "attentional bottleneck",
+   "source": "生物物理学名词",
+   "wordNumber": "04.172",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "当主体同时接收到大量信息时，只能通过注意对其中的部分信息进行处理而被知觉到的现象。这并不意味着其他信息没有进入脑，只是它们未能进入意识层次。通过注意的转移可以改变选取外界信息进入意识层次。这种转移甚至"
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "生态学名词",
+   "wordNumber": "04.137",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "由于种群变小，有害基因被清除，种群基因频率与种群数量急剧减少前的基因频率相差很大的现象。通常发生在那些种群数量先急剧减少，后又增加的种群中。"
+  },
+  {
+   "cn": "交通瓶颈",
+   "en": "traffic bottleneck",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.038",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "光学名词",
+   "wordNumber": "22.177",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "在空间光通信系统激光链路建立前，两个光终端通过瞄准和扫描，探测(接收)到对方发射光束(光信号)的过程。捕获用于激光链路的建立和中断后的恢复，分为单向捕获和双向捕获两种方式：单向捕获指仅通过一个光终端粗"
+  },
+  {
+   "cn": "采集",
+   "en": "acquisition",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.025",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "信号数据的电子测定和获取记录过程。"
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "生物物理学名词",
+   "wordNumber": "04.225",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "个体学习条件刺激与非条件刺激之间建立联系关系的过程。"
+  },
+  {
+   "cn": "收购",
+   "en": "acquisition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0597",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "一家企业用现金或者有价证券购买另一家企业的股票或者资产，以获得对该企业的全部资产或者某项资产的所有权，或对该企业的控制权。"
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "心理学名词",
+   "wordNumber": "02.126",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "通过使某种反应得到强化形成一种条件反射的过程。如经学习获得的新知识和行为等。"
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.599",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信系统中，捕捉信号并实现锁定的过程。"
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.404",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "知识获取",
+   "en": "knowledge acquisition\",\"KA",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈湾",
+   "en": "bottleneck bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈效应",
+   "en": "bottleneck effect",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "习得",
+   "en": "acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "获取",
+   "en": "acquisition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "捕获",
+   "en": "acquisition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资料收集",
+   "en": "data acquisition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "采样时间",
+   "en": "acquisition time",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "碳获取",
+   "en": "carbon acquisition",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "购置成本",
+   "en": "acquisition cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "购置价格",
+   "en": "acquisition price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "技术引进",
+   "en": "technology acquisition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "银行兼并",
+   "en": "banking acquisition",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碳获取",
+   "en": "carbon acquisition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "震波收录",
+   "en": "seismic acquisition",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识用户",
+   "en": "knowledge user",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识编辑器",
+   "en": "knowledge editor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识建模",
+   "en": "knowledge modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识网格",
+   "en": "knowledge grid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算",
+   "en": "knowledge computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识抽取",
+   "en": "knowledge extraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识雇员",
+   "en": "knowledge worker",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0422",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种与农业经济、工业经济等相对应的，以现代科学技术为核心、建立在知识和信息的生产、分配和使用基础上的以知识为主要生产要素的经济。"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "个体通过学习、实践或探索所获得的信息和认识。健康教育评价指标之一，旨在评价个体对健康信息的正确理解程度。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "资源获取模式",
+   "en": "resource acquisition model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.25",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "社会服务活动所需经费、物料等资源的来源途径与取得方式。"
+  },
+  {
+   "cn": "并购",
+   "en": "merger and acquisition",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.3",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "全称“兼并收购”。在卫生服务机构控制权变换过程中，各权利主体依据机构产权制度安排而进行的一种权利让渡行为（两个或多个卫生服务机构合并组成一个机构）。包括兼并和收购两种形式。"
+  },
+  {
+   "cn": "语言习得机制",
+   "en": "language acquisition device",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.005",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "乔姆斯基提出人先天有一种“语言习得机制”，这种机制存在于人脑中，使得人们能够学习语言。这种机制在语言习得关键期以后就会消失。"
+  },
+  {
+   "cn": "知识社会学",
+   "en": "sociology of knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "社会学的一门分支学科，主要研究知识与社会和文化等实质性因素之间的相互关系。早期研究只涉及数学和自然科学知识方面的社会学分析，后又扩展到关于知识生产、知识生产的组织、知识的传播与使用、知识政策、知识系统"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "尊重知识尊重人才",
+   "en": "respect knowledge value talents",
+   "source": "马克思主义",
+   "wordNumber": "04.0183",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平总结我党历史上对待知识分子正反两方面的经验，于1984年10月22日在中顾委第三次会议上正式提出的著名论断。“尊重知识、尊重人才”要求在重视科学技术在现代化建设中的重要作用的同时，要充分认识到知"
+  },
+  {
+   "cn": "营养健康知识讲座",
+   "en": "nutrition and health knowledge lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "授课老师借助教学工具，运用教学的方式向教育对象传播营养健康知识和技能的一种活动形式。"
+  },
+  {
+   "cn": "妇幼健康知识",
+   "en": "woman and child health knowledge",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "针对妇女儿童个体和群体与健康和疾病有关的知识与信息。通常掌握的知识越广越深，采纳妇幼健康相关行为的倾向性越强。"
+  },
+  {
+   "cn": "科学知识增长的累积观",
+   "en": "cumulative view of the growth of scientific knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学发展是一项理性的、客观的积累事业，以渐进的方式进步，否认科学革命和不可通约性。"
+  },
+  {
+   "cn": "宗教裁判所",
+   "en": "Inquisition",
+   "source": "马克思主义",
+   "wordNumber": "04.0026",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "天主教会侦察和审判“异端分子”的机构。教皇洪诺留三世于1220年通令建立。裁判所以教皇为最高首脑，裁判官由教皇任命并直接控制，不受地方教会机构和世俗政权的监督制约。裁判所残酷迫害“异端分子”以及反对封"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,652 @@
+{
+ "key": "function words",
+ "term": "function words",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:12:02+00:00",
+ "status": "ok",
+ "note": "variant=function words; 审定公布名词库=3513; 海峡两岸名词对照库=855; 其他来源数据库=137; 预公布名词数据库=115; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.257",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在文献中仅起语法作用而无屈折变化、无实际意义的词语，如介词、冠词、连接词、代词、助动词等。它们不能反映或代表文献内容，分辨力很低甚至为零。一般作为停用词处理。"
+  },
+  {
+   "cn": "虚词",
+   "en": "function word",
+   "source": "语言学名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“实词”相对。不能够独立充当句子成分，只起语法作用的词。介词、连词、助词、语气词等属于虚词。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0128",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "计算机和信息处理系统中，在存储、传送或操作时，作为一个单元的一组字符或一组二进制位。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "建筑学名词",
+   "wordNumber": "14.0787",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "在计算机和信息处理系统中，在存储、传送或操作时，作为一个单元的一组字符。"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "source": "语言学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "能单独运用的最小的音义结合体。"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "source": "语言学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "语言中最小的独立运用的语法单位。由语素构成。例如“吃”“参加”“大”“干净”“咖啡”“途径”“木头”“爸爸”。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "数学名词",
+   "wordNumber": "04.1854",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "未登录词",
+   "en": "unregistered word,unlisted word,unknown word",
+   "source": "语言学名词",
+   "wordNumber": "11.033",
+   "subjectFullName": "语言学_计算语言学_词处理",
+   "subjectName": "词处理",
+   "publishYear": "2011",
+   "definition": "词表中没有收录的词语。在汉语自动分词中通常指没有在分词底表中登录过的人名、地名、机构名、译名和新词语等。"
+  },
+  {
+   "cn": "词汇词",
+   "en": "lexical word,content word",
+   "source": "语言学名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "与“语法词”（即虚词）相对。具有词汇意义的词。"
+  },
+  {
+   "cn": "同类词",
+   "en": "class word,group word",
+   "source": "语言学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在语音、语义、结构、来源或构词材料等方面有某种联系的一组词。例如，表示颜色的同类词有“红”“黄”“橙”“青”“绿”等，表示文字的同类词有“象形文字”“意音文字”“拼音文字”等。"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "source": "语言学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "直接揭示所指事物的本质或属性的词。例如“电子计算机”（“电脑”属比喻说法）。"
+  },
+  {
+   "cn": "感情色彩词",
+   "en": "emotive word,affective word",
+   "source": "语言学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在理性意义上附加主观评价或感受等感情色彩的词。分为褒义词、贬义词和中性词三类。"
+  },
+  {
+   "cn": "逐词排列法",
+   "en": "word-by-word filing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以词为单位，按照单词的字母顺序，逐词排列的方法。"
+  },
+  {
+   "cn": "讹文",
+   "en": "wrong words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.087",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等形成的错字。"
+  },
+  {
+   "cn": "夺文",
+   "en": "missed words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.088",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等脱漏掉的字句。"
+  },
+  {
+   "cn": "衍文",
+   "en": "surplus words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.089",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等而误增的字句。"
+  },
+  {
+   "cn": "倒文",
+   "en": "reversed words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.090",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等而前后颠倒的字句。"
+  },
+  {
+   "cn": "重文",
+   "en": "repeated words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.091",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等误导致的文字重复。"
+  },
+  {
+   "cn": "误字",
+   "en": "wrong words",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.300",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "因抄写、排版等疏忽而造成的文字错误。"
+  },
+  {
+   "cn": "倒文",
+   "en": "inverted words",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.303",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "（1）古书文句在传抄、刻印中颠倒误置的字。（2）古书中词语顺序、分句顺序或者叙事顺序超出一般情况的特殊倒置现象。"
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "字词联想",
+   "en": "word association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词的使用度",
+   "en": "word usage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词频",
+   "en": "word frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词切分，分词",
+   "en": "word segmentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单纯词",
+   "en": "simple word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成词",
+   "en": "compound word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器字",
+   "en": "machine word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本词",
+   "en": "primary word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "码字",
+   "en": "code word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未登录词",
+   "en": "unlisted word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "译词选择",
+   "en": "word selection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效字",
+   "en": "significant word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词云",
+   "en": "word cloud",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词模型",
+   "en": "word  model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "某些单字或词在档案或文本中出现的次数。可以用来发现写作者用字或词的特征。"
+  },
+  {
+   "cn": "底层词",
+   "en": "substratum words",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0142",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "本地语言被外来语言取代后，遗留在外来语中的本地语成分。例如长江以南有许多古越语（与现代侗台语族语言有渊源关系的语言）的成分遗留在今粤、闽、吴等南方汉语方言中。"
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.04",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人在生前或临终时用口头或书面形式嘱咐身后各事应如何处理的话或字据。"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①亲属语言之间有语音对应规律的共同来源的词。例如古代汉语的ŋa（吾）、miuk（目）和古代藏语的ŋa（我）、miɡ（眼睛）是汉语和藏语的同源词。②同一语言内部由同一根词直接或间接派生出来的词。例如汉语"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "某些社会群体、行业集团或秘密组织出于隐蔽行为的特需而约定的秘密交际语。它的使用者不是黑话流行的黑社会，而是违法犯罪团伙之外的各种群体。"
+  },
+  {
+   "cn": "功能主义",
+   "en": "functionalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "马林诺夫斯基(B.Malinowski）和拉德克利夫-布朗(A.R.Radcliff-Brown）开创的人类学理论范式，注重对社会共同体内诸关系要素的整体性研究，包括制度如何发挥作用以及制度间的功能关"
+  },
+  {
+   "cn": "双词句阶段",
+   "en": "two-word stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从1.5岁左右开始说出由2-3个词组合起来的语句时期。此阶段婴幼儿词语大量增加，可脱离具体情境，把词与物体或动作联系起来，词语特有的功能初步形成。"
+  },
+  {
+   "cn": "滞留函数",
+   "en": "retention function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.37",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "滞留份额的时间函数。"
+  },
+  {
+   "cn": "排除函数",
+   "en": "excretion function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.45",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经尿或粪便排除份额的时间函数。"
+  },
+  {
+   "cn": "链接函数",
+   "en": "link function",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.101",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在广义线性模型中，将相应的预期值与模型中的线性预测变量相关联的函数。"
+  },
+  {
+   "cn": "社会功能",
+   "en": "social function",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.22",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "各种社会因素、成分以及由它们组成的各类社会构成物（各种社会结构、社会体制和机制），按其自身特定的性质及组合方式，对人与社会所发挥的种种可满足其需要的、有利的作用或功效。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "行政功能",
+   "en": "administrative function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于社会工作服务机构的行政运作所发挥的功能作用。在社会工作服务机构中，督导承担一定的行政职能，负责督促检查被督导对象的工作表现，从而保证机构的管理更为有效。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "生产函数",
+   "en": "production function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在时间和技术条件一定的情况下，生产某种产品时投入的生产要素数量与生产出该产品的数量间的关系。"
+  },
+  {
+   "cn": "成本函数",
+   "en": "cost function",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "用来表明生产给定产量与最低成本之间关系的函数"
+  },
+  {
+   "cn": "心肺功能",
+   "en": "cardiopulmonary function",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "心、肺及其所代表的循环系统、呼吸系统为身体活动提供足够氧气和养分的能力。"
+  },
+  {
+   "cn": "家庭功能",
+   "en": "family functions",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.21",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭对人类生存和社会生活所起的作用。一般认为家庭具有生产、消费、人口再生产、抚育和赡养等功能。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "功能显像",
+   "en": "functional imaging",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用显像方法获得机体或器官血流、生理或生化等功能状态图像的技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

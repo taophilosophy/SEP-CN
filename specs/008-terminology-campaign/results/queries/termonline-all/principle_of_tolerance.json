@@ -1,0 +1,732 @@
+{
+ "key": "principle of tolerance",
+ "term": "principle of tolerance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:09:25+00:00",
+ "status": "ok",
+ "note": "variant=principle of tolerance; 审定公布名词库=10000; 海峡两岸名词对照库=7592; 其他来源数据库=1877; 预公布名词数据库=2748; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "容许度",
+   "en": "tolerance",
+   "source": "农学名词",
+   "wordNumber": "18.138",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "单位质量或一定数量农产品中，不符合所标注等级或规格的允许百分比范围。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "麻醉学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "允许偏差",
+   "en": "tolerance",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0053",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "养分的测定值与标明值之间的允许差值。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "行为医学名词",
+   "wordNumber": "15.034",
+   "subjectFullName": "行为医学_成瘾及成瘾相关障碍_成瘾",
+   "subjectName": "成瘾",
+   "publishYear": "2022",
+   "definition": "物质使用者必须增加使用剂量和（或）频率才能获得所需效果，或使用原来的剂量达不到预期效果的一种状态。"
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "精神医学名词",
+   "wordNumber": "03.084",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "由于连续使用某药而对药物某一剂量的反应下降的现象。如经常饮酒或大量饮酒的人，需要更高剂量的酒精才能获得原来较低剂量就能获得的效果。生理和心理社会因素都会对产生这种现象有影响。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "感染病学名词",
+   "wordNumber": "01.0634",
+   "subjectFullName": "感染病学_总论_抗感染治疗",
+   "subjectName": "抗感染治疗",
+   "publishYear": "2019",
+   "definition": "机体对药物反应性降低的一种状态。在长期用药过程中，药物效应会逐渐减弱，需加大剂量才能取得原来强度的效应。也可反映对药物不良反应的耐受性，即从不耐受到耐受的过程。"
+  },
+  {
+   "cn": "容限",
+   "en": "tolerance",
+   "source": "物理学名词",
+   "wordNumber": "04.0539",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.090",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "药物常用剂量对机体不再有疗效的现象。其发生的机制可因药物性质的不同而异。其产生的机制有两种： ①药物代谢加速，绝大多数由于肝药酶活性增加； ②受体数目减少或对药物的亲和力降低。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "生物物理学名词",
+   "wordNumber": "04.294",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "机体对药物(物理、化学刺激作用)反应性降低的一种状态。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1066",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "产品特征或过程特征参数值允许存在的变动量；或者是工作单元完成时间允许存在的差异。"
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "计量学名词",
+   "wordNumber": "02.026",
+   "subjectFullName": "计量学_几何量_几何要素及算法评价",
+   "subjectName": "几何要素及算法评价",
+   "publishYear": "2015",
+   "definition": "上公差限与下公差限之差，或最大允许值与最小允许值之差。是一个没有符号的量。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "药学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "连续用药后药效递减，要增大剂量才可以产生疗效的现象。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.417",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在一定测量条件下规定的测量误差绝对值的允许值。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "生态学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "对不利环境条件的忍耐力。"
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.775",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "允许值",
+   "en": "tolerance",
+   "source": "水产名词",
+   "wordNumber": "08.466",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "主管机构许可的供人类消费的食物中化学物质的残留标准。"
+  },
+  {
+   "cn": "自然减量",
+   "en": "tolerance",
+   "source": "航海科技名词",
+   "wordNumber": "11.0130",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "化学工程名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerence",
+   "source": "心理学名词",
+   "wordNumber": "03.176",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "多元回归中，对于自变量是否存在多重共线性的检验指标。"
+  },
+  {
+   "cn": "耐受性",
+   "en": "toleration",
+   "source": "生态学名词",
+   "wordNumber": "14.202",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "生物对进入其体内的有害元素积累的忍耐能力。"
+  },
+  {
+   "cn": "耐性",
+   "en": "tolerance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容忍度",
+   "en": "tolerance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "容差",
+   "en": "tolerance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "容限，容差",
+   "en": "tolerance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公差",
+   "en": "tolerance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受",
+   "en": "tolerance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性",
+   "en": "tolerance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "耐受极限",
+   "en": "limit of tolerance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "耐受性定律",
+   "en": "law of tolerance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自身耐受",
+   "en": "self-tolerance， auto-tolerance， autologous tolerance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似原则",
+   "en": "principle of similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等势原理",
+   "en": "principle of equipotentiality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "接近原则",
+   "en": "principle of proximity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "微观可逆性原理",
+   "en": "principle of microreversibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配原则",
+   "en": "principle of allocation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互惠原则",
+   "en": "principle of reciprocity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "建构主义原则",
+   "en": "principles of structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "谦抑性",
+   "en": "principle of restraint",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of non-maleficence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准编制原则",
+   "en": "principle of standards compilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流处理容错性",
+   "en": "fault tolerance of stream processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽容",
+   "en": "toleration",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.095",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "宽宏有气量，不计较或不追究。能够包容、容忍、宽恕与自己不同的意见、分歧、信仰等。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  },
+  {
+   "cn": "洗消原则",
+   "en": "principle of decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在洗消处理过程中应遵循的准则。包括以下内容：将洗消与封锁自净紧密结合，对具有重要军事、经济意义以及与人员生活密切相关的污染地区和场所立即进行洗消处理，其他地区和场所则尽量采取封锁自净的处理。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "尊重原则",
+   "en": "principle of respect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0060000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员尊重患者及其家属的人格、尊严、隐私和自主选择权的根本性道德要求。"
+  },
+  {
+   "cn": "效用原则",
+   "en": "principle of utility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以促进个体或集体福祉最大化为目的的公共卫生伦理原则。"
+  },
+  {
+   "cn": "允许原则",
+   "en": "principle of permission",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "美国生命伦理学家H.T.恩格尔哈特（H.Tristram. Engelhard）提出的生命伦理学首要原则。认为在价值多元化社会中，涉及他人的行动必须得到他人的允许，不经他人允许就对他人采取行动是不具备"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  },
+  {
+   "cn": "有利原则",
+   "en": "principle of beneficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.023",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求实施有益于行为对象的行为。医务人员在医学实践中应该切实维护患者或研究参与者的合法权益，促进其减轻病痛、疾病康复、提高生命质量。"
+  },
+  {
+   "cn": "公正原则",
+   "en": "principle of justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0260000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "平等地对待每一个人，不偏不倚。医疗公正指在医学活动中，每一个患者或研究参与者都应享有平等对待的权利，有权利获得所需要卫生资源的机会。"
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of nonmaleficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.017",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员在医学实践中坚决杜绝有意伤害，把不可避免但可控的伤害控制在最低限度内，不使患者或研究参与者受到不应有医疗伤害的伦理原则。"
+  },
+  {
+   "cn": "允许水平",
+   "en": "tolerance level",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对个人剂量系统的性能设定的可接受水平。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "免疫系统对特定抗原的特异性无应答状态。包括天然免疫耐受与诱导免疫耐受。"
+  },
+  {
+   "cn": "热耐受",
+   "en": "heat tolerance",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.8",
+   "subjectFullName": "军事预防医学_热区军事卫生_热耐受",
+   "subjectName": "热耐受",
+   "publishYear": "2025",
+   "definition": "人体在高温环境下，通过生理、生化和行为等机制来适应高温条件，并维持自身生理功能正常运转的能力。"
+  },
+  {
+   "cn": "免疫耐受",
+   "en": "immune tolerance",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "免疫系统对某些抗原的特异性无反应状态。"
+  },
+  {
+   "cn": "疾病认定原则",
+   "en": "principle of disease identification",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "在病因作用下，机体出现自稳调节紊乱并引发一系列代谢、功能或结构的异常改变，其判定有无疾病及病情严重程度主要依据临床表现、相应的辅助检查，并与其他原因导致的类似疾病进行鉴别。"
+  },
+  {
+   "cn": "剂量评估原则",
+   "en": "principle of dose evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射性疾病诊断应进行剂量估算，通过综合分析受照情况和利用各方面收集到的剂量资料，包括个人剂量监测、生物剂量估算、临床早期分类诊断和辐射防护部门提供的其他资料，评估受照者的剂量，确定病情严重程度，以采取"
+  },
+  {
+   "cn": "集体领导原则",
+   "en": "principle of collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0484",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的领导的最高原则之一。是民主集中制在党的领导工作中的体现，也是群众路线在党的领导工作中的具体运用。坚持集体领导原则就要反对个人独裁和分散主义两种偏向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

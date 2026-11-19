@@ -1,0 +1,72 @@
+{
+ "key": "pauperism",
+ "term": "pauperism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:01:00+00:00",
+ "status": "ok",
+ "note": "variant=pauperism; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "杂交弱势",
+   "en": "pauperization",
+   "source": "植物学名词",
+   "wordNumber": "10.0054",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "杂交子代的表型值低于双亲平均表型值的遗传现象。"
+  },
+  {
+   "cn": "杂交弱势",
+   "en": "pauperization",
+   "source": "遗传学名词",
+   "wordNumber": "06.213",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "杂交子代的表型值低于双亲平均表型值的遗传现象。"
+  },
+  {
+   "cn": "杂交弱势",
+   "en": "pauperization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杂交弱势",
+   "en": "pauperization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相对贫困化",
+   "en": "relative pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0171",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义社会中无产阶级在社会国民收入中所得份额相对下降的趋势。随着劳动生产率的提高，使工人工作日中的必要劳动时间缩短，剩余劳动时间延长，因而剩余价值率和剩余价值量不断提高，无产阶级的收入在整个国民收入"
+  },
+  {
+   "cn": "绝对贫困化",
+   "en": "absolute pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0172",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义条件下，无产阶级的生活状况会随着各种经济危机、滞胀或战争而出现不断恶化的现象。通常表现为工人失业、生活费上涨、税捐增加、实际工资下降、居住条件恶化等，而使工人阶级的生存条件绝对地恶化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
