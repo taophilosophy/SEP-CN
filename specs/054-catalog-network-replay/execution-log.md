@@ -76,3 +76,30 @@
 3. 另：`rules/05` 拆分批次被并行会话 `git add -A` 型 sweep 收编进其提交 `8fc52eb0d`；内容经 `git show HEAD:rules/05/*` 核实完整（8 份子文件＋旧文件已删），不重复提交。
 
 两处修复后：两时点 `--check` 仍 sha256 全等（`205a4fec…` / `9a230fc0…`）；`check_catalog_network --gate` 退出 0；单测全绿。
+
+## 2026-11-19 第四轮：遗留 2/3 运营化 ＋ 每日三次 CI（用户批准“不计成本”）
+
+### 遗留 1（直角引号）收口
+`term_flow.build_row` 增加 `_quote_norm`（「」→“”、『』→‘’，rules/02 第 11 条），写册即归一；登记册现存 740 处一次性归弯，键集合 7044 行逐行核验零丢失（`script/tmp/archive-q/verify_sq.py`：非引号差异行 0、丢键 0）。`check_quotes` 全库 0 违例。单测 `test_term_flow_quotes` 5 项。
+
+### 遗留 2（每轮 fetch 后 build/gate）→ 自动化
+- `fetch_catalog.py --snapshot-only`：CI 只落快照不写 baseline（只读检出）。
+- `catalog_drift.py --assembly`：本次快照产临时骨架/残差池 → B3.2 sha256 装配核验；残差超 A5 四类即“格式层漂移”，与目录漂移分栏报出。
+- 本地既有节奏不变：`--build` → `--check` → `--gate`。
+
+### 遗留 3（detect_updates 未实现）→ 实现（只检测，正文更新属其它步骤）
+`tools/detect_updates.py`：new.html NEW/REVISED（90 天窗）＋可选 archinfo.cgi 版次核对 → 队列（new→retranslate／revised→update）。实测两点：①`/sep.xml` 已 404，`sources.feed=unavailable:404`（new.html 为唯一源）；②冻结后修订在 archinfo 上表现为 “is not yet archived”，新增 `pending_change_type` 解析，版次记 `pending-archive`（避免误判“无版次”）。
+
+### CI：`.github/workflows/catalog-drift.yml`（每日三次）
+cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.html → 四方漂移＋装配核验 → new.html/archinfo 变更检测 → 有漂移或待办即开/更新 issue（`sep-upstream-sync`，失败另标 `sep-sync-broken`）；只读只报告，不写账、不改 SUMMARY/mu-lu-s。旧 `sep-sync-check.yml`＋`.github/scripts/sep_sync_check.py`（周频、仅对 official-snapshot）删除，避免双 owner；rules/05/ci-workflows.md 工作流表与网络抓取例外口径同步。
+
+### 首跑实测（2026-11-19，本地同款链路）
+- 上游快照 1873 条（账 1872）：新增 `inquiry`、`privacy-health`；`privacy-medicine` 消失（转别名）；`history` 改名（→ history and historiography, philosophy of）＋作者换；`argument`／`gadamer`／`hedonism`／`special-obligations` 作者增补。
+- 装配核验：sha256 `39bbc60b…` **全等**，残差 194 条（仍全部落在 A5 四类）→ 模板/格式层零漂移。
+- 覆盖：`inquiry`、`privacy-health` 在 SUMMARY 与 mu-lu-s 均缺；`privacy-medicine` 为待裁撤。
+- 变更检测：90 天窗 91 条待办（NEW 14／REVISED 77）。
+- 存量补录：`bioethics-moral-reasoning` 补入 mu-lu-s 应用伦理学节，`mulu-map` 重建（1882 行），G3/G4 复绿。
+
+### 观察项（未处置，留待接续）
+- 上游新增/改名/裁撤（inquiry、privacy-health、privacy-medicine、history）属 intake 落地，按“正文更新由其他步骤做”不在此轮处理；CI 首次运行会以 issue 形式挂出。
+- `check_catalog_network` G1 取 `en/_catalog` 最新快照与 baseline 比时点；每轮正式 `fetch_catalog` 落地后需重跑 `--reparse`＋`--build`（CI 巡检抓的快照在 runner 上用完即弃，不入库）。

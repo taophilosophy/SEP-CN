@@ -2214,6 +2214,7 @@ outline: [1, 6]
 * [恐怖主义 Terrorism (Igor Primoratz)](t/terrorism.md)
 * [动物的道德地位 The Moral Status of Animals (Lori Gruen、Susana Monsó)](m/moral-animal.md)
 * [堕胎的伦理学 The Ethics of Abortion (Elizabeth Harman)](a/abortion.md)
+* [生命伦理学与道德推理 Bioethics and Moral Reasoning (Jennifer Flynn)](b/bioethics-moral-reasoning.md)
 * [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
 * [应用伦理学中的有益原则 The Principle of Beneficence in Applied Ethics (Tom Beauchamp)](p/principle-beneficence.md)
 * [文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)

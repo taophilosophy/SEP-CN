@@ -166,14 +166,22 @@ def parse_entry(html_text):
 
 
 def parse_archinfo(html_text):
-    """解析 archinfo.cgi 输出 → {latest_edition, latest_change_type, history[]}。"""
+    """解析 archinfo.cgi 输出 → {latest_edition, latest_change_type, pending_change_type, history[]}。
+
+    `pending_change_type`：线上版本「尚未归档」（冻结后修订）时的变更类型——SEP 按季冻结，
+    冻结后的修订在新一季 Archive 前不进存档页（2026-11-19 实证 hamann）。
+    """
     text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html_text))
-    out = {"latest_edition": None, "latest_change_type": None, "history": []}
+    out = {"latest_edition": None, "latest_change_type": None,
+           "pending_change_type": None, "history": []}
     m = re.search(r"following archive edition:\s*((Spring|Summer|Fall|Winter) \d{4})"
                   r"\s*\(([^)]*)\)", text)
     if m:
         out["latest_edition"] = m.group(1)
         out["latest_change_type"] = m.group(3).strip()
+    pm = re.search(r"latest version of the entry[^()]*\(([^)]*)\)\s*is not yet archived", text)
+    if pm:
+        out["pending_change_type"] = pm.group(1).strip()
     for hm in re.finditer(r"((Spring|Summer|Fall|Winter) \d{4})\s*\(([^)]*)\)", text):
         if hm.group(1) != out["latest_edition"]:
             out["history"].append({"edition": hm.group(1), "change_type": hm.group(3).strip()})

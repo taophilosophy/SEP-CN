@@ -35,15 +35,20 @@
       与上次快照 diff。
 ```
 
-## detect_updates.py — 更新检测（未实现，T020-21）
+## detect_updates.py — 更新检测（2026-11-19 实现，T020-21）
 
 ```text
-用法: python tools/detect_updates.py [--rss] [--archinfo] [--only <slug>...]
-输出: {"from_rss": [{slug, event: new|revised, date, changes_to: [...]}],
-       "from_archinfo": [{slug, baseline_edition, latest_edition, change_type}],
-       "queue": [{slug, action: retranslate|update, reason}]}
-行为: --rss 解析 sep.xml 与 new.html（三个月窗）；--archinfo 对基线全量或
-      指定子集核对存档版名；queue 为两源合并后的待处理清单（写 baseline/queue.json）。
+用法: python tools/detect_updates.py [--new-html <路径>] [--feed <路径>] [--months N]
+                                     [--archinfo] [--archinfo-max N] [--only <slug>...]
+                                     [--out <路径>] [--md <路径>] [--no-write]
+输出: {"sources", "from_web": [{slug,title,authors,event: new|revised,date,when,changes}],
+       "from_rss": [...], "from_archinfo": [{slug,baseline_edition,latest_edition,change_type,pending}],
+       "queue": [{slug,action: retranslate|update,reason,sources,title,changes}]}
+行为: new.html 的 [NEW]/[REVISED] 条目解析（默认 90 天窗）；sep.xml 若仍是有效 feed 则并采，
+      否则 sources.feed=unavailable（2026-11-19 实测已失效，new.html 为唯一源）；
+      --archinfo 抓 archinfo.cgi 与 baseline/entries.json 版次比对，冻结后未归档的修订记
+      latest_edition=pending-archive；queue 合并两源写 baseline/queue.json（--no-write 不落盘）。
+      只报告：不抓正文、不改内容文件（正文更新属其它步骤）。
 ```
 
 ## compare_versions.py — 快照比较（未实现，T024-25）

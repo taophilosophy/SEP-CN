@@ -4,7 +4,7 @@
 
 | 工具 | 用途 |
 | ---- | ---- |
-| `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；退避重试与失败显式化；2026-11-18 起无最小请求间隔，ADR-0069） |
+| `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；退避重试与失败显式化；2026-11-18 起无最小请求间隔，ADR-0069）。`fetch_catalog.py --snapshot-only`＝只落 `en/_catalog` 快照不写账（CI 巡检用）；`--reparse`／`--reparse-snap`＝离线重解析建账 |
 | `fetch_all.py` | 全量抓取+原文镜像驱动器（并发路数 A=16 / B=64（默认），不设节拍；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
 | `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，ADR-0027 起入库，随抓取批提交）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性）；双账感知（ADR-0046）：已登记分歧且账目相符者计入 `divergent_registered` 不作 `hash_fail` |
@@ -19,6 +19,8 @@
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
 | `rebuild_catalog.py` / `check_catalog_network.py` | 目录域装配器＋四向重放门（specs/054）：`--build` 产骨架账＋噪声池（A5 四类准入，建池冻结）；重放＝账⊕规则⊕池，`--check` sha256 对钉存快照（B3.2 全等）；`--gate`＝G1 装配等值（两时点）/G2 en-SUMMARY 重放/G3 mu-lu 重放（＋文字跟随）/G4 目录↔SUMMARY 对账；禁写回 `en/_catalog/`（oracle 只读） |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003 + ADR-0023 + ADR-0027）：缓存、构建产物、系统杂物命中即退出码 1（`en/`、`yuanwen/` 已入库，不再判违规）；根目录白名单对跟踪清单与工作区双向核对，根级散件无论是否入库一律红灯 |
+| `catalog_drift.py` | 上游目录四方漂移巡检（specs/054 运营化，`catalog-drift.yml` 调用）：上游 contents.html ↔ catalog 账／SUMMARY／mu-lu-s，报增删、改名、作者变、别名变与两向覆盖缺口；`--assembly` 加做 B3.2 装配核验（残差超 A5 四类即格式层漂移）；`--latest` 取最新快照；只报告，退出码 1＝有漂移 |
+| `detect_updates.py` | 上游变更检测（specs/001 T020-21 契约）：`new.html` 的 NEW/REVISED（默认 90 天窗；`sep.xml` 已失效记 `feed=unavailable`）＋ `archinfo.cgi` 版次核对 → 队列（new→retranslate／revised→update）；`--no-write --out <临时>` 供 CI 用 |
 | `check_tables_images.py` | 表格与图片预检（ADR-0037，**告警级**，不进 CI）：表块结构（缺分隔行、列数不一致）、单元格全角空格与多空格填充、表内未译英文散文候选、学术工具节表形态、图片 alt 非中文、引用基座违规与解析失败；`--yuanwen` 扫镜像结构项、`--corpus` 出并集清单；默认退出码 0，`--gate` 时基座违规/解析失败升硬（图片项与 `check_images.py --gate` 重叠处以后者入闸为准） |
 | `check_terms.py` | 术语一致性门禁（specs/002、specs/031）：两登记册自洽（废弃链断裂、同键同译法重复为硬错误，退出码 1）；缺依据/裁定日期、非英语术语缺原文、人名缺籍属生卒为告警；`--docs` 定点核销告警级；`--ledger <路径>` 写判读台账骨架、`--check-ledger <路径>` 校验台账闭合（D 类/三出口/证据/凭证/复核人，ADR-0048） |
 | `register_lib.py` | 登记册共享解析/折叠库（specs/033）：键折叠三口径唯一实现——A `norm_key_quote`（引号折叠，登记册↔正文比对）、B `norm_key`（基础折叠，候选/凭证/核销）、C `fold_nfd`（azsort 节内排序内层，禁改）；行解析 `split_row`/`is_data_row`/`parse_registry*` 与 A–Z 分节 `bucket_of`；消费方（check_terms/registry_azsort/term_*）一律引用，禁再复制函数体 |

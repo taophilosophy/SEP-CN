@@ -30,6 +30,9 @@ def main(argv=None):
                          "不联网（解析器修复后使快照与解析结果重新一致）")
     ap.add_argument("--reparse-snap", default=None,
                     help="specs/054：--reparse 指定快照文件名（默认取最新），供跨时点账重建")
+    ap.add_argument("--snapshot-only", action="store_true",
+                    help="只抓快照落 en/_catalog，不写 baseline/catalog.json（CI 巡检用；"
+                         "避免在只读检出的工作区写跟踪文件）")
     args = ap.parse_args(argv)
     ensure_dirs()
 
@@ -59,6 +62,14 @@ def main(argv=None):
     full = parser.parse_catalog_full(data.decode("utf-8", "replace"))
     # items 保持旧账的 slug 排序（页序由 doc_order 字段承载，specs/054 A1）
     items = sorted(full["items"], key=lambda x: x["slug"])
+    if args.snapshot_only:
+        print(json.dumps({"fetched_at": fetched_at,
+                          "snapshot": "en/_catalog/" + __import__("os").path.basename(raw_path),
+                          "entries": len(items),
+                          "alias_rows": len(full["alias_rows"]),
+                          "cluster_mothers": len(full["cluster_mothers"]),
+                          "snapshot_only": True}, ensure_ascii=False))
+        return 0
     catalog = {"fetched_at": fetched_at,
                "source": "en/_catalog/" + __import__("os").path.basename(raw_path),
                "items": items,

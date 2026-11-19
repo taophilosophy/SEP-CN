@@ -1,0 +1,127 @@
+name: 🔃 SEP 上游目录漂移巡检
+
+# 每日三次抓取 plato.stanford.edu/contents.html，与本地三账（baseline/catalog.json、
+# SUMMARY.md、mu-lu-s.md）四方对比，并做 B3.2 装配核验（specs/054）；有漂移或上游
+# 有 NEW/REVISED 条目时开/更新 issue。
+#
+# 原则（specs/054 §3 单向波纹）：本工作流只读、只报告。
+#   不写 baseline、不改 SUMMARY/mu-lu-s、不提交任何内容文件；落地由人工或本地会话做。
+# 时间：UTC 01/09/17 点 = 北京时间 09:00 / 17:00 / 次日 01:00。
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1,9,17 * * *"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: catalog-drift
+  cancel-in-progress: false
+
+jobs:
+  drift-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: 抓取上游 contents.html（只落快照，不动 baseline）
+        id: fetch
+        run: |
+          set -o pipefail
+          python tools/fetch_catalog.py --snapshot-only | tee "$RUNNER_TEMP/fetch.json"
+          SNAP=$(python -c "import json;print(json.load(open('$RUNNER_TEMP/fetch.json',encoding='utf-8'))['snapshot'])")
+          echo "snapshot=$SNAP" >> "$GITHUB_OUTPUT"
+          cp "$RUNNER_TEMP/fetch.json" "$RUNNER_TEMP/snapshot-meta.json"
+
+      - name: 四方漂移＋装配核验（specs/054）
+        id: drift
+        if: always() && steps.fetch.outputs.snapshot != ''
+        run: |
+          set -o pipefail
+          python tools/catalog_drift.py --fetched "${{ steps.fetch.outputs.snapshot }}" --assembly \
+            --json "$RUNNER_TEMP/drift.json" --md "$RUNNER_TEMP/drift.md" --quiet || true
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s'%str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
+
+      - name: 上游变更检测（new.html ＋ 版次核对）
+        id: updates
+        if: always()
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python tools/detect_updates.py --archinfo --archinfo-max 40 \
+            --no-write --out "$RUNNER_TEMP/queue.json" --md "$RUNNER_TEMP/queue.md" --quiet
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d'%len(d['queue']))" >> "$GITHUB_OUTPUT"
+
+      - name: 归档报告
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: catalog-drift-report
+          path: |
+            ${{ runner.temp }}/drift.json
+            ${{ runner.temp }}/drift.md
+            ${{ runner.temp }}/queue.json
+            ${{ runner.temp }}/snapshot-meta.json
+          if-no-files-found: ignore
+
+      - name: 有漂移/变更时创建或更新 Issue
+        if: always() && (steps.drift.outputs.changed == 'true' || (steps.updates.outputs.count != '' && steps.updates.outputs.count != '0'))
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CHANGED: ${{ steps.drift.outputs.changed }}
+          QCOUNT: ${{ steps.updates.outputs.count }}
+        run: |
+          set -euo pipefail
+          TITLE="SEP 上游变化同步报告"
+          LABEL="sep-upstream-sync"
+          gh label create "$LABEL" --color 5319E6 \
+            --description "SEP 官方目录与本地账存在差异" --force >/dev/null 2>&1 || true
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
+                 --json number --jq '.[0].number' 2>/dev/null || true)
+          {
+            echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+            echo "巡检：contents.html 四方（catalog 账／SUMMARY／mu-lu-s）＋B3.2 装配核验；变更检测：new.html＋archinfo"
+            echo "结果：目录漂移 \`${CHANGED}\`，待办条目 \`${QCOUNT}\`"
+            echo
+            if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无目录漂移报告）"; fi
+            echo
+            if [ -f "$RUNNER_TEMP/queue.md" ]; then
+              cat "$RUNNER_TEMP/queue.md"
+            else
+              echo "（变更检测报告见运行工件 queue.json）"
+            fi
+            echo
+            echo "**落地路线**：本地 `python tools/fetch_catalog.py` → `python tools/summary_sync.py report` → 人工裁定 → `apply-*` → `python tools/rebuild_catalog.py --build` → `python tools/check_catalog_network.py --gate`（详见 specs/054）。"
+          } > "$RUNNER_TEMP/issue-body.md"
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body-file "$RUNNER_TEMP/issue-body.md"
+            gh issue edit "$NUM" --add-label "$LABEL"
+          else
+            gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/issue-body.md" --label "$LABEL"
+          fi
+
+      - name: 抓取/解析失败时另开问题
+        if: failure() || steps.fetch.outputs.snapshot == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TITLE="SEP 上游变化同步报告"
+          gh label create "sep-sync-broken" --color D93F0B \
+            --description "抓取或解析失败，脚本/护栏需人工处理" --force >/dev/null 2>&1 || true
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
+                 --json number --jq '.[0].number' 2>/dev/null || true)
+          MSG="上游目录巡检在运行中失败（run ${GITHUB_RUN_ID}）。请查看 [Actions 日志](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})。"
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body "$MSG"
+            gh issue edit "$NUM" --add-label "sep-sync-broken"
+          else
+            gh issue create --title "$TITLE" --body "$MSG" --label "sep-sync-broken"
+          fi

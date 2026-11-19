@@ -158,15 +158,15 @@ def build(snap_path, skeleton_out=None, residual_out=None):
                 "fixed_rows": skeleton, "tail": tail}
     resid_doc = {"source_snapshot": os.path.basename(snap_path),
                  "count": len(resid), "entries": resid}
-    skel_path = tuple(skeleton_out.split("/")) if skeleton_out else SKELETON_PATH
-    resid_path = tuple(residual_out.split("/")) if residual_out else RESIDUAL_PATH
-    write_json_verified(repo_path(*skel_path), skel_doc)
-    write_json_verified(repo_path(*resid_path), resid_doc)
+    skel_path = _resolve(skeleton_out or "/".join(SKELETON_PATH))
+    resid_path = _resolve(residual_out or "/".join(RESIDUAL_PATH))
+    write_json_verified(skel_path, skel_doc)
+    write_json_verified(resid_path, resid_doc)
     exact = len(events) - len(resid)
     print(json.dumps({"exact": exact, "residual_count": len(resid),
                       "fixed_rows": len(skeleton), "tail_lines": len(tail),
-                      "skeleton": "/".join(skel_path),
-                      "residual": "/".join(resid_path)}, ensure_ascii=False))
+                      "skeleton": skel_path, "residual": resid_path},
+                     ensure_ascii=False))
     return 0
 
 
@@ -204,6 +204,17 @@ def rebuild(account, skel_doc, resid_doc):
     return "\n".join(out)
 
 
+def _resolve(p):
+    """账路径归一：tuple/相对（'/' 分段）→ 仓库内路径；绝对路径（含 Windows 盘符）原样。"""
+    if p is None:
+        return None
+    if isinstance(p, (list, tuple)):
+        return repo_path(*p)
+    if os.path.isabs(p) or re.match(r"^[A-Za-z]:[\\/]", str(p)):
+        return p
+    return repo_path(*str(p).split("/"))
+
+
 def _basename_any(text):
     """双分隔符 basename（Windows 绝对路径在 Linux CI 上 os.path.basename 不切分）。"""
     return os.path.basename(str(text).replace("\\", "/"))
@@ -212,16 +223,16 @@ def _basename_any(text):
 def compute(snap_path, account_path=None, skeleton_path=None, residual_path=None):
     """纯判定层：返回结果 dict（不打印、不写文件）；供 --check 与四向门 G1 复用。"""
     text = open(snap_path, "rb").read().decode("utf-8")
-    account = load_json(repo_path(*account_path)) if account_path else \
+    account = load_json(_resolve(account_path)) if account_path else \
         load_json(repo_path("baseline", "catalog.json"))
     if account.get("source") and \
             _basename_any(account["source"]) != os.path.basename(snap_path):
         return {"equal": False, "error": "账与快照不同时点",
                 "account_source": _basename_any(account["source"]),
                 "snapshot": os.path.basename(snap_path)}
-    skel_doc = load_json(repo_path(*skeleton_path)) if skeleton_path else \
+    skel_doc = load_json(_resolve(skeleton_path)) if skeleton_path else \
         load_json(repo_path(*SKELETON_PATH))
-    resid_doc = load_json(repo_path(*residual_path)) if residual_path else \
+    resid_doc = load_json(_resolve(residual_path)) if residual_path else \
         load_json(repo_path(*RESIDUAL_PATH))
     rebuilt = rebuild(account, skel_doc, resid_doc)
     h_rb = hashlib.sha256(rebuilt.encode("utf-8")).hexdigest()
