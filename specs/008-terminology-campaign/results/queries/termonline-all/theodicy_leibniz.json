@@ -1,0 +1,42 @@
+{
+ "key": "theodicy (leibniz)",
+ "term": "Theodicy (Leibniz)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:13:47+00:00",
+ "status": "ok",
+ "note": "variant=Theodicy (Leibniz); 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "莱布尼茨公式",
+   "en": "Leibniz formula",
+   "source": "数学名词",
+   "wordNumber": "05.0088",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿-莱布尼茨公式",
+   "en": "Newton-Leibniz formula",
+   "source": "数学名词",
+   "wordNumber": "05.0155",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "神义论",
+   "en": "theodicy",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.18",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "莱布尼茨以来重要的哲学观念，论证上帝对人的方式的正确性问题；马克斯·韦伯将其转变为对世界宗教的比较研究的根本问题，即对善与恶等问题的不同解决方式造成了不同性质的人间秩序。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

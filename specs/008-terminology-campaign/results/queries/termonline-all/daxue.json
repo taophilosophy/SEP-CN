@@ -1,0 +1,32 @@
+{
+ "key": "daxue",
+ "term": "Daxue",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:08:12+00:00",
+ "status": "ok",
+ "note": "variant=Daxue; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "雅学",
+   "en": "yaxue",
+   "source": "语言学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "语言学_训诂学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "以《尔雅》及模仿《尔雅》意义训释纂集体例的《小尔雅》《广雅》《埤雅》《骈雅》《通雅》等训诂专书为研究对象的学问。"
+  },
+  {
+   "cn": "大学",
+   "en": "Daxue&nbsp;(Great Learning)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

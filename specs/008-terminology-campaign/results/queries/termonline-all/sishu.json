@@ -1,0 +1,32 @@
+{
+ "key": "sishu",
+ "term": "Sishu",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:13:08+00:00",
+ "status": "ok",
+ "note": "variant=Sishu; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "司书",
+   "en": "si shu",
+   "source": "档案学名词",
+   "wordNumber": "08.03.047",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "职掌文书之职官。商周时掌会计簿书、财政事宜及邦中版图诸事务。民国设于军队，职掌文书缮写，亦协办转发、校对文件事宜。"
+  },
+  {
+   "cn": "三垣四水",
+   "en": "sanyuan sishui;urban design in north west China with three walls and four moats around the city",
+   "source": "风景园林名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "西北修筑城池时的一种特定空间形式，通常由外城、羊马城、内城三重城墙和护城河共同构成，三垣环护、四水贯城是其典型的空间特征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

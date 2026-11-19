@@ -1,0 +1,32 @@
+{
+ "key": "jinsilu",
+ "term": "Jinsilu",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:09:48+00:00",
+ "status": "ok",
+ "note": "variant=Jinsilu; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "原地破碎浸出采矿",
+   "en": "underground insitu crushing and leaching mining",
+   "source": "冶金学名词",
+   "wordNumber": "02.0877",
+   "subjectFullName": "冶金学_采矿_特殊采矿",
+   "subjectName": "特殊采矿",
+   "publishYear": "2019",
+   "definition": "用爆破法将矿体破碎到合理块度，就地从矿堆上部布洒溶浸液浸出有用成分，将浸出液输送到地面回收有用成分的采矿方法。"
+  },
+  {
+   "cn": "地下原地钻孔浸出",
+   "en": "underground insitu boring and mining leaching",
+   "source": "冶金学名词",
+   "wordNumber": "02.0878",
+   "subjectFullName": "冶金学_采矿_特殊采矿",
+   "subjectName": "特殊采矿",
+   "publishYear": "2019",
+   "definition": "在地下巷道中施工注液钻孔向未经转移的矿层注入溶浸液与矿石的有用成分生成可溶性化合物，由矿块下部集液巷道汇集成一定浓度的浸出液，经水冶车间加工提取金属的采矿方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

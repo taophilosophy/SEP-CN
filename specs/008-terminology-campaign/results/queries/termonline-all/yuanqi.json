@@ -1,0 +1,402 @@
+{
+ "key": "yuanqi",
+ "term": "yuanqi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:15:14+00:00",
+ "status": "ok",
+ "note": "variant=yuanqi; 审定公布名词库=163; 海峡两岸名词对照库=5; 其他来源数据库=7; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "关系",
+   "en": "guanxi",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0112",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "通过人际联系而使得他人做出有利于自己事情的人际聚合。"
+  },
+  {
+   "cn": "关系",
+   "en": "guanxi",
+   "source": "心理学名词",
+   "wordNumber": "12.056",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "中国文化中人际互动中形成的认知与情感连接模式。"
+  },
+  {
+   "cn": "《园冶》",
+   "en": "Craft of Gardens,Yuanye",
+   "source": "建筑学名词",
+   "wordNumber": "03.0232",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "为现存中国古代造园艺术的权威性理论著作。明末造园家计成(1580年~?)著。崇祯四年(1631年)成稿，崇祯七年刊行。全书3卷，共12篇，主要内容包括兴造论和园说，以及相地、立基、屋宇、装折、门窗、墙"
+  },
+  {
+   "cn": "三七",
+   "en": "sanqi",
+   "source": "中医药学名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "五加科植物三七"
+  },
+  {
+   "cn": "苑",
+   "en": "imperial park,yuan",
+   "source": "建筑学名词",
+   "wordNumber": "08.0038",
+   "subjectFullName": "建筑学_风景园林_园林史",
+   "subjectName": "园林史",
+   "publishYear": "2014",
+   "definition": "在囿的基础上发展起来的，建有宫室和别墅，供帝王居住、游乐、宴饮的一种园林类型。"
+  },
+  {
+   "cn": "黄土塬",
+   "en": "yuan,loess tableland",
+   "source": "地理学名词",
+   "wordNumber": "03.169",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "顶面平坦宽阔，周边为沟谷所切割的黄土堆积高地。“塬”是中国西北地区群众的一个俗称。"
+  },
+  {
+   "cn": "官契",
+   "en": "guan qi",
+   "source": "档案学名词",
+   "wordNumber": "07.01.134",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民间典卖田宅向官府登记纳税，确认产权的书面契约。官契与私契相对而言，由于向官府登记纳税后，官府会在契约上加盖印章，故又称“红契”“赤契”“印契”。"
+  },
+  {
+   "cn": "焉耆马",
+   "en": "Yanqi horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.426",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。分为山地型和盆地型两类。善于登山涉水、走对侧步。毛色以骝毛、栗毛、黑毛为主。体高129～146cm。产于新疆维吾尔自治区和静县、和硕县、焉耆回族自治县等。"
+  },
+  {
+   "cn": "元始历",
+   "en": "Yuan Shi li;Yuanshi calendar",
+   "source": "中国古代史名词",
+   "wordNumber": "4.307",
+   "subjectFullName": "中国古代史_魏晋南北朝_思想文化",
+   "subjectName": "思想文化",
+   "publishYear": "2022",
+   "definition": "公元412年，北凉赵?所造历法。又称“甲寅元历”，定制600年置221闰月，使历法中回归年与朔望月的关系更趋精密，为后来祖冲之修撰《大明历》所借鉴。"
+  },
+  {
+   "cn": "元嘉历",
+   "en": "Yuan Jia li;Yuanjia calendar",
+   "source": "中国古代史名词",
+   "wordNumber": "4.308",
+   "subjectFullName": "中国古代史_魏晋南北朝_思想文化",
+   "subjectName": "思想文化",
+   "publishYear": "2022",
+   "definition": "南朝宋文帝元嘉二十二年（公元445年）颁行的历法。由何承天主持制订，所测五星会合周期精于前历，又创立强弱二率以调日法，订正了旧历所订的冬至时刻和冬至时日所在位置，影响及于唐宋历法。"
+  },
+  {
+   "cn": "元和中兴",
+   "en": "Yuan He zhong xing;Yuanhe resurgence",
+   "source": "中国古代史名词",
+   "wordNumber": "5.027",
+   "subjectFullName": "中国古代史_隋唐五代_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "唐宪宗元和年间（公元806—820年）出现的复兴局面。其突出成果，是在代宗、德宗以来理财整军的基础上改善其治，重振朝廷权威，先后平定了西川、浙西、淮西、淄青等跋扈藩镇，使长期割据的河北三镇也开始服从朝"
+  },
+  {
+   "cn": "全吉群",
+   "en": "Quanji Group",
+   "source": "地质学名词",
+   "wordNumber": "07.04.174",
+   "subjectFullName": "地质学_地史学与地层学_岩石地层学",
+   "subjectName": "岩石地层学",
+   "publishYear": "2026",
+   "definition": "分布于青海柴达木盆地北缘。命名剖面为青海柴达木盆地北缘大柴旦全吉山剖面。由砂砾岩、砂岩、页岩、石英岩、白云岩、板岩、冰积砾岩等组成，含叠层石、微古植物等化石。时代属南华纪—震旦纪。"
+  },
+  {
+   "cn": "关底组",
+   "en": "Kuanti Formation",
+   "source": "地质学名词",
+   "wordNumber": "07.04.356",
+   "subjectFullName": "地质学_地史学与地层学_岩石地层学",
+   "subjectName": "岩石地层学",
+   "publishYear": "2026",
+   "definition": "分布于云南曲靖—昆明—宜良一带。正层型为云南马龙县城西关底-易龙剖面。为红褐色、红色、黄色页岩与粉砂岩互层。含腕足类、珊瑚、鹦鹉螺、双壳类、腹足类、牙形石、鱼类等化石。时代属志留纪罗德洛世。"
+  },
+  {
+   "cn": "管子学派",
+   "en": "Guanzi school",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.069",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "管仲及其弟子形成的学派。对技术的应用持积极态度，即“立械器以使万物”，认为技术的关键在于顺应自然之道，方法得当才有实用价值。对“奇技淫巧”持激烈的批评态度，主张“强本事，去无用，然后民可使富”的治国方"
+  },
+  {
+   "cn": "蠲痹汤",
+   "en": "juanbi decoction",
+   "source": "中医药学名词",
+   "wordNumber": "07.376",
+   "subjectFullName": "中医药学_方剂学_方剂",
+   "subjectName": "方剂",
+   "publishYear": "2004",
+   "definition": "同名方约有5首，现选(1)《医学心悟》痹鹤膝风方。组成：羌活、独活各一钱，桂心五分，秦艽一钱，当归三钱，川芎七分，甘草（炙）五分，海风藤二钱，桑枝三钱，乳香（透明）、木香各八分。水煎服。(2)《杨氏家"
+  },
+  {
+   "cn": "张元素",
+   "en": "Zhang Yuansu",
+   "source": "中医药学名词",
+   "wordNumber": "02.128",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "金代医学家。撰《脏腑标本药式》、《医学启源》等。"
+  },
+  {
+   "cn": "关底组",
+   "en": "Guandi Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.520",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "元胡止痛片",
+   "en": "yuanhu zhitong tablets,yuanhu zhitong pian",
+   "source": "中医药学名词",
+   "wordNumber": "07.415",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：延胡索（醋制）、白芷。"
+  },
+  {
+   "cn": "三七片",
+   "en": "sanqi tablets",
+   "source": "中医药学名词",
+   "wordNumber": "07.391",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：三七粉。"
+  },
+  {
+   "cn": "蓝旗组",
+   "en": "Lanqi Formation",
+   "source": "地质学名词",
+   "wordNumber": "02.586",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "黄土塬",
+   "en": "yuan\",\"loess tableland",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "relation\",\"guanxi",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "柳井波",
+   "en": "Yanai wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本草衍义",
+   "en": "Bencao Yanyi",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "以日元与人民币结汇",
+   "en": "yen-yuan exchange settlement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "元气",
+   "en": "Yuanqi / Fundamental Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元",
+   "en": "Yuan (Origin)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元和体",
+   "en": "The Yuanhe Style of Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选体",
+   "en": "Xuanti Poetry / Poetry in Prince Zhaoming’s Favorite Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元杂剧",
+   "en": "Zaju of the Yuan Dynasty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传奇",
+   "en": "<p class=\"MsoNormal\"> <i>Chuanqi</i>&nbsp;(Legendary Story / Legendary Play)</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系",
+   "en": "guanxi",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "熟人社会中由伦理人情定义的社会网络。在这种社会中，人与人的社会联系、权利和义务是基于亲属和邻里关系的道德准则来建立的，而不是完全以法律来规定。这种社会联系的维护往往诉诸礼尚往来，这构成了现代社会中的非"
+  },
+  {
+   "cn": "管旗章京",
+   "en": "Guanqi Zhangjing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0225",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清代职官名。内外蒙古、青海蒙古及哈密、吐鲁番各旗札萨克之属官。位在协理台吉之下。每旗一人，掌统管一旗之事。"
+  },
+  {
+   "cn": "花山岩画",
+   "en": "Yuanzi cliff Inscriptions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0316",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古人在天然崖壁上直接刷绘的壁画，位于广西崇左市左江及其支流明江流域，为2000 余年前壮族先民骆越人之遗迹。绘制年代，可追溯到战国至东汉时期。已入选《世界文化遗产名录》。"
+  },
+  {
+   "cn": "袁滋刻石",
+   "en": "Yuanzi Well Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0313",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古磨崖刻石。位于石门（今云南盐津县）。唐贞元十年（636），御史袁滋持节赴云南，册封南诏王异牟寻为云南王，途中撰文抒怀，叙述唐诏重归于好的史实，后人将该文刻写于石门西壁，成为民族团结的象征。"
+  },
+  {
+   "cn": "传奇",
+   "en": "chuanqi drama",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0401",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在宋元南戏基础上，吸收北曲杂剧体制而发展起来的戏曲样式；以文人创作为主体，具有规范化的剧本体制和格律化的音乐体制，是明清两代主要的戏曲形式。"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  },
+  {
+   "cn": "《大元圣政国朝典章》",
+   "en": "Code of Yuan Dynasty",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0279",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝法令公牍文书汇编，简称《元典章》。正集六十卷；附新集，不分卷。编者不详。汇集元世祖至英宗时期之诏旨、律令、条格等而成。资料不加润饰增删，原始真实，是研究元代政治、经济、文化之重要史料。"
+  },
+  {
+   "cn": "《大元大一统志》",
+   "en": "Universal Geography of Great Yuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝官修地理总志。由札马剌丁、虞应龙等编纂，自1285 年起，历时9 年完成初稿；后因新得《云南图志》《甘肃图志》《辽阳图志》，继续重修，1303 年正式告成。凡六百册，一干三百卷。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

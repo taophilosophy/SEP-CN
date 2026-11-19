@@ -1,0 +1,722 @@
+{
+ "key": "wei boyang",
+ "term": "Wei Boyang",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:21:30+00:00",
+ "status": "ok",
+ "note": "variant=Wei Boyang; 审定公布名词库=1420; 海峡两岸名词对照库=247; 其他来源数据库=61; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "谓",
+   "en": "wei",
+   "source": "档案学名词",
+   "wordNumber": "07.02.014",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "下行文书中表示行文关系的用语。"
+  },
+  {
+   "cn": "卫国",
+   "en": "Wei Guo;Wei State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.027",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "周成王分封武王之弟康叔为卫侯所建的姬姓诸侯国。周公平定武庚之乱后，封武王弟康叔于殷都朝歌（今河南淇县）一带。春秋时期曾被狄人攻灭，齐桓公助其重建，都于楚丘（今河南浚县东）。后避狄人，迁都帝丘（今河南濮"
+  },
+  {
+   "cn": "魏国",
+   "en": "Wei Guo;Wei State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.037",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "三家分晋后魏氏建立的诸侯国。周初分封魏侯于今山西南部及陕西东部，为姬姓诸侯国，春秋时为晋所灭。其地被晋献公赐予毕公高之后毕万为采邑，其裔以魏为氏，世为晋卿。三家分晋后周威烈王升之为诸侯，疆域扩至河南北"
+  },
+  {
+   "cn": "魏律",
+   "en": "Wei Lü;Wei Code",
+   "source": "中国古代史名词",
+   "wordNumber": "4.188",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "曹魏明帝时颁行的法律。又称“《新律》”，共为18篇，删约《汉律》及《甲子科》等旧法而成，改《具律》为《刑名》篇移于律首，更依古义制定“五刑”“八议”，对后世刑律影响甚大。"
+  },
+  {
+   "cn": "魏令",
+   "en": "Wei Ling;Wei Statutes",
+   "source": "中国古代史名词",
+   "wordNumber": "4.189",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "曹魏明帝时颁行的法令。有《州郡令》45篇，《尚书官令》《军中令》等180余篇，以治内外官吏及将士。"
+  },
+  {
+   "cn": "围脊",
+   "en": "wei ridge",
+   "source": "风景园林名词",
+   "wordNumber": "07.0391",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "沿着下层檐屋面与木构架（如承椽枋、围脊板等）相交处所做的脊。"
+  },
+  {
+   "cn": "窃惟",
+   "en": "qie wei",
+   "source": "档案学名词",
+   "wordNumber": "07.02.026",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书领述词。又称“窃维”。用以领叙人们熟知的道理，作为立论的根据。“惟”即“维”，是思维的意思，“窃惟”可以译为我想、我考虑。"
+  },
+  {
+   "cn": "为照",
+   "en": "wei zhao",
+   "source": "档案学名词",
+   "wordNumber": "07.02.029",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书领述词。“为照”一词中的“为”字已经虚化，没有实际意义，用来引出不必查阅文件、资料就很清楚的问题，在上行文、平行文、下行文中都可以使用。"
+  },
+  {
+   "cn": "为查",
+   "en": "wei cha",
+   "source": "档案学名词",
+   "wordNumber": "07.02.036",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书领述词。“为”是虚词，没有实际意义。“查”，指查卷，用于领述查卷而得到的情况。"
+  },
+  {
+   "cn": "为此",
+   "en": "wei ci",
+   "source": "档案学名词",
+   "wordNumber": "07.02.075",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书归结词。在叙述完情况之后，用“为此”交代文件要求。下行文中“为此”与命令词连用，上行文与平行文中用“为此”交代行文目的。"
+  },
+  {
+   "cn": "圩猪",
+   "en": "Wei pig",
+   "source": "畜牧学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "畜牧学_家畜家禽品种_猪品种_地方猪品种",
+   "subjectName": "地方猪品种",
+   "publishYear": "2020",
+   "definition": "被毛黑色。产于安徽省宣城市。"
+  },
+  {
+   "cn": "危亦林",
+   "en": "Wei Yilin",
+   "source": "中医药学名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "元代医学家。撰《世医得效方》。"
+  },
+  {
+   "cn": "北魏",
+   "en": "Bei Wei;Northern Wei Dynasty",
+   "source": "中国古代史名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元398年，鲜卑拓跋珪建立的政权。又称“拓跋魏”“元魏”“后魏”。先都平城（今山西大同），至439年太武帝统一北方，其后孝文帝厉行改革，迁都洛阳，促进了民族大融合。534年分裂为东魏与西魏。"
+  },
+  {
+   "cn": "曹魏",
+   "en": "Cao Wei;Cao-Wei Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元220年由曹丕建立的政权。又称“三国魏”“前魏”。建基于曹操挟天子以令诸侯的建安政权，操死之年，其世子丕代汉称帝，国号魏，都洛阳。雄踞北方，后灭蜀汉，至265年被晋取代。"
+  },
+  {
+   "cn": "冉魏",
+   "en": "Ran Wei;Ran-Wei Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "4.015",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元350年由冉闵取代后赵建立的政权。国号魏，都邺城（今河北临漳县西南）。352年为前燕所灭。"
+  },
+  {
+   "cn": "翟魏",
+   "en": "Zhai Wei;Zhai-Wei Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "4.031",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元388年由丁零翟辽建立的政权。定都滑台（今河南滑县东），392年为后燕所灭。"
+  },
+  {
+   "cn": "东魏",
+   "en": "Dong Wei;Eastern Wei Dynasty",
+   "source": "中国古代史名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元534年，高欢拥立北魏孝静帝元善见建立的政权。先后都于洛阳、邺城（今河北临漳县西南），魏室虽存，政在高氏，据有原北魏东部地区。550年为北齐取代。"
+  },
+  {
+   "cn": "西魏",
+   "en": "Xi Wei;Western Wei Dynasty",
+   "source": "中国古代史名词",
+   "wordNumber": "4.045",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "公元534年，宇文泰迎奉西入关中的北魏孝武帝而建立的政权。都长安（今陕西西安），虽立魏帝，政在宇文氏，据有原北魏西部地区。557年为北周取代。"
+  },
+  {
+   "cn": "室韦",
+   "en": "Shi Wei;Shi Wei People",
+   "source": "中国古代史名词",
+   "wordNumber": "4.344",
+   "subjectFullName": "中国古代史_魏晋南北朝_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "南北朝时期分布于勿吉以北的东胡族群。又称“失韦” “失围”。北魏末年遣使朝贡，此后史载不绝。至唐分为20余部，其中部分公元10世纪并入契丹。"
+  },
+  {
+   "cn": "燕尾枋",
+   "en": "yan wei fang",
+   "source": "风景园林名词",
+   "wordNumber": "07.0220",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "清官式建筑大木作构件，为悬山式梁架的特有构件，位于山墙以外伸出的桁檁之下，一端入梁头槽榫，一端与桁头一同插入博风板槽。"
+  },
+  {
+   "cn": "湿碰湿",
+   "en": "wet on wet",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "堰，坝",
+   "en": "weir",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "堰",
+   "en": "weir",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纸幅",
+   "en": "web",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "蹼",
+   "en": "web",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "湿气",
+   "en": "wet",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腹板",
+   "en": "web",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "植物学",
+   "en": "botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弓法",
+   "en": "bowing",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "硼烷",
+   "en": "borane",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镗孔",
+   "en": "boring",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "湿法",
+   "en": "wet method\",\"wet process\",\"wet way",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "胃隔膜（=胃蹼）",
+   "en": "gastric web\",\"antral web",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胃蹼，胃隔膜",
+   "en": "gastric web\",\"antral web",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "营养网（=食物网）",
+   "en": "trophic web (=food web)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "聚醚酰亚胺",
+   "en": "polyetherimide\",\"PEI",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "万维网",
+   "en": "Web\",\"world wide web\",\"WWW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终末网",
+   "en": "terminal web",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "湿害",
+   "en": "wet injury",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿柱头",
+   "en": "wet stigma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "漂浮的",
+   "en": "buoyant",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞠躬",
+   "en": "bow\",\"rei",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击运动",
+   "en": "pugilism\",\"boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络爬虫",
+   "en": "web crawler",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络服务器",
+   "en": "web server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络协作",
+   "en": "web collaboration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "湿货市场",
+   "en": "wet market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "程菲",
+   "en": "Cheng Fei",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "童非",
+   "en": "Tong Fei",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保温服",
+   "en": "wet suit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保温服",
+   "en": "wet suit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宣慰司",
+   "en": "Xuan Wei Si",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0204",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元代创立之政令承转机关，设于行省之下、统辖路府州县，管理军民事务。明清于西北、西南少数民族地区沿用，参用土官。"
+  },
+  {
+   "cn": "建州三卫",
+   "en": "Jian Zhou San Wei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0239",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明朝于东北地区建州女真聚居地区所置三个地方军事行政机构之合称。包括建州卫、建州左卫、建州右卫。由朝廷委任各部首领；依照旧俗，各统其属。"
+  },
+  {
+   "cn": "布央语",
+   "en": "Buyang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0262",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国布央人使用的语言。属汉藏语系侗台语族仡央语支。分布在云南省的广南、富宁两县和广西壮族自治区的那坡县。使用人口2000 多，富宁、广南的布央人归入壮族，那坡的布央人在20 世纪50 年代被识别为瑶族"
+  },
+  {
+   "cn": "布朗族",
+   "en": "Blang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省西部。人口12.73 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用布朗语，属南亚语系孟–高棉语族佤–德昂语支。部分人会讲傣语、佤语或汉语。无文字，部分人"
+  },
+  {
+   "cn": "煨桑",
+   "en": "Bsang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0501",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "宗教祈愿礼俗。藏族民间和佛教徒祭祀鬼神时焚烧的一种混有松柏树枝叶和糌粑等物的烟火。"
+  },
+  {
+   "cn": "保安族",
+   "en": "Bonan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0469",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在甘肃省、青海省、新疆维吾尔自治区等地。人口2.44 万人（2021年，未包括香港、澳门特别行政区和台湾省数据）。使用保安语，属阿尔泰语系蒙古语族；大多数人兼通汉语。一般认为保安族以"
+  },
+  {
+   "cn": "菩提心",
+   "en": "Byang chub sems",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0477",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "佛教名词。菩提心字义为“证悟的心”，意指在相对（世俗谛）的层面上，愿为利益一切众生而证得佛果的愿力，也指为了达到这个目标所必要的慈悲心、六波罗蜜等方法的修持；在究竟（胜义谛）的层面上，它是对究竟本性的"
+  },
+  {
+   "cn": "湿巾",
+   "en": "wet wipe",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.1.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以非织造布、织物、木浆复合布、木浆纸等为载体，适量添加液体原材料制成的产品。"
+  },
+  {
+   "cn": "湿法洗涤器",
+   "en": "wet scrubber",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.7",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "使放射性废气中的微尘或放射性物质通过与水或其他液体相接触而达到净化目的的装置。"
+  },
+  {
+   "cn": "湿法贮存",
+   "en": "wet storage",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "将自释热放射性固体废物或乏燃料放置在水池中冷却贮存的一种方式。"
+  },
+  {
+   "cn": "生鲜市场",
+   "en": "wet market",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "销售新鲜肉类、禽类、海鲜、水果、蔬菜和其他食品的零售市场。特点是产品通常保持未冷冻、未深度加工的状态，摊位会现场宰杀和清理动物，并可能冰鲜保存，导致地面经常潮湿、有积水。"
+  },
+  {
+   "cn": "鲜卑",
+   "en": "Xian Bei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0029",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡一支。魏晋南北朝时期建立北魏、吐谷浑等众多政权。上述政权瓦解后，逐渐融合于汉族及其他民族。"
+  },
+  {
+   "cn": "黑爨",
+   "en": "Hei Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0138",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以乌蛮为黑爨。"
+  },
+  {
+   "cn": "酉阳蛮",
+   "en": "Xiyang Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0155",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "东晋南北朝时期酉阳郡诸民族之总称，以郡名为族称。分布于今湖北黄冈市黄州区、团风县东。南北朝时期发展壮大，与北魏、南朝宋等关系密切，或反或附。后融于汉人。"
+  },
+  {
+   "cn": "末昂语",
+   "en": "Mo'ang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0239",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“末昂”的彝族使用的语言。属汉藏语系藏缅语族彝语支，与彝语差别很大。分布在云南省文山壮族苗族自治州的富宁县，使用人口5000 左右。"
+  },
+  {
+   "cn": "布芒语",
+   "en": "Bumang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0326",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“布芒”的傣族所使用的语言。分布于云南省金平县勐拉乡的曼仗上寨和曼仗下寨两个村，有200 余人。根据基本词汇的词源，可划归南亚语系孟高棉语族。"
+  },
+  {
+   "cn": "绛曲坚赞",
+   "en": "Byang chub rgyal mtshan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0396",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1302 年—1364 年） 藏族历史人物。帕木竹巴地方政权之创立者，内邬栋孜（今西藏山南乃东）人，系吐蕃朗氏家族之后裔。公元1321 年，萨迦帝师贡嘎罗追任命其为帕竹万户长，元英宗赐予其“大司徒”"
+  },
+  {
+   "cn": "布朗语",
+   "en": "Blang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0325",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布朗族使用的语言。属南亚语系孟-高棉语族佤-德昂语支。主要分布在中国云南省西双版纳傣族自治州和普洱、临沧等市，使用人口约7 万。分布朗和乌两个方言，乌方言分乌土语和佤土语。"
+  },
+  {
+   "cn": "卫生湿巾",
+   "en": "hygiene wet wipe",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "以非织造布、织物、木浆复合布、木浆纸等为载体，适量添加生产用水和消毒液等原材料，对手、皮肤、黏膜及普通物体表面等处理对象具有清洁杀菌作用的湿巾。"
+  },
+  {
+   "cn": "湿球温度",
+   "en": "wet bulb temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "将温度计的感温部分（如玻璃泡）用湿润的纱布包裹后，置于流动的空气中所测得的温度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

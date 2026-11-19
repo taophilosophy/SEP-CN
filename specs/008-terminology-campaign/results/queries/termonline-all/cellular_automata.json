@@ -1,0 +1,682 @@
+{
+ "key": "cellular automata",
+ "term": "cellular automata",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:07:24+00:00",
+ "status": "ok",
+ "note": "variant=cellular automata; 审定公布名词库=813; 海峡两岸名词对照库=441; 其他来源数据库=43; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "单元自动演化[算法]",
+   "en": "cellular automata",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "指单指令流多数据流机系统的一种处理单元。构成一个大规模的网络结构，所有处理单元都是相同的，各处理单元同步地工作。"
+  },
+  {
+   "cn": "元胞自动机",
+   "en": "cellular-automata",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2641",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "散布在规则格网中的每一元胞均取有限的离散状态，遵循同样的作用规则，依据确定的局部规则作同步更新的时间和空间都离散的动力系统。大量元胞通过简单的相互作用而构成动态系统的演化。 "
+  },
+  {
+   "cn": "网格自动机模型",
+   "en": "cellular automata model",
+   "source": "生态学名词",
+   "wordNumber": "08.066",
+   "subjectFullName": "生态学_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2006",
+   "definition": "一类由相同单元组成、根据简单邻域规则即能在系统水平上产生复杂结构的离散动态模型。"
+  },
+  {
+   "cn": "量子元胞自动机",
+   "en": "quantum cellular automata",
+   "source": "物理学名词",
+   "wordNumber": "06.0818",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子元胞自动机",
+   "en": "quantum cellular automata",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0019",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "由量子点元胞作为电路器件组成阵列而形成，其中两个电子在元胞中的位置决定了量子点元胞的极化方向，信息的传递是通过传播极化状态来实现的，而计算所需的能量是由量子点元胞间的库仑相互作用所提供，在元胞之间没有"
+  },
+  {
+   "cn": "自动机",
+   "en": "automata",
+   "source": "数学名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量子自动机",
+   "en": "quantum automata",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0122",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "经典自动机的量子推广。能够根据量子力学原理接受和处理量子数据。"
+  },
+  {
+   "cn": "元胞自动机",
+   "en": "cellular automaton",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.712",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "空间、时间和系统状态上都是离散的一类动态模型的总称。它由元胞、元胞空间、邻居及规则四个部分组成。在简单规则的支配下，元胞会迭代出从简单到复杂、从局域到全局的整个过程。"
+  },
+  {
+   "cn": "元胞自动机",
+   "en": "cellular automaton",
+   "source": "物理学名词",
+   "wordNumber": "11.0726",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "元胞自动机",
+   "en": "cellular automaton",
+   "source": "地理学名词",
+   "wordNumber": "25.076",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "一种利用简单编码与仿细胞繁殖机制的非数值算法空间分析模式。"
+  },
+  {
+   "cn": "元胞自动机",
+   "en": "cellular automaton",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量子有限自动机",
+   "en": "quantum finite automata",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0020",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "有限自动机在量子计算领域的推广。包括基于概率的量子有限自动机和基于量子逻辑的量子有限自动机。"
+  },
+  {
+   "cn": "量子下推自动机",
+   "en": "quantum pushdown automata",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0027",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "状态集和栈均取自有限维的希尔伯特空间,状态演化为幺正演化的量子自动机。"
+  },
+  {
+   "cn": "细胞生长",
+   "en": "cellular growth",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.092",
+   "subjectFullName": "下丘脑与垂体疾病_生长发育与生长异常_生长及躯体生长阶段",
+   "subjectName": "生长及躯体生长阶段",
+   "publishYear": "2025",
+   "definition": "（1）单个细胞体积的增加。（2）一个细胞群体的增加。"
+  },
+  {
+   "cn": "泡沫胶黏剂",
+   "en": "cellular adhesive",
+   "source": "精细化工名词",
+   "wordNumber": "07.0074",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "含无数充气微泡，使其表观密度明显降低的胶黏剂。"
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "肝病学名词",
+   "wordNumber": "2.1.5.3",
+   "subjectFullName": "肝病学_肝病实验室、影像与病理检查_肝脏实验室检查",
+   "subjectName": "肝脏实验室检查",
+   "publishYear": "2024",
+   "definition": "T细胞受到抗原刺激后，分化、增殖、转化为致敏T细胞，当相同抗原再次进入机体，致敏T细胞对抗原具有直接杀伤作用，其释放的细胞因子具有协同杀伤作用。"
+  },
+  {
+   "cn": "细胞性呼吸困难",
+   "en": "cellular dyspnea",
+   "source": "兽医学名词",
+   "wordNumber": "13.357",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "由组织利用氧障碍所致的内呼吸障碍性呼吸困难。表现为混合性呼吸困难，见于氢氰酸中毒，其特点是静脉血鲜红。"
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "血液学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "血液学_基础",
+   "subjectName": "基础",
+   "publishYear": "2022",
+   "definition": "（1）狭义的细胞免疫仅指T细胞介导的免疫应答。（2）广义的细胞免疫还包括原始的吞噬作用及NK细胞介导的细胞毒作用。是清除细胞内寄生微生物最为有效的防御反应，也是排斥同种移植物或肿瘤抗原的有效手段。"
+  },
+  {
+   "cn": "多孔橡胶",
+   "en": "cellular rubber",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0797",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "以固体橡胶、液体橡胶、胶乳、热塑性弹性体等为原料，加入发泡剂等配合剂后，通过发泡并硫化而制成的、内部具有无数微小气孔的橡胶。"
+  },
+  {
+   "cn": "细胞癌基因",
+   "en": "cellular oncogene",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.376",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "存在于正常细胞中，与病毒癌基因同源，但通常不被激活的基因。产物有蛋白激酶类、生长因子类、生长因子受体类、细胞酶类、核内蛋白类等。该基因在某些理化因素刺激下可激活成为癌基因，导致细胞癌变。"
+  },
+  {
+   "cn": "网格自动机,细胞自动机",
+   "en": "cellular automata",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单元自动演化[算法]，元胞自动机",
+   "en": "cellular automata",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "蜂窝",
+   "en": "cellular",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞自动机",
+   "en": "cellular automaton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细胞均质化",
+   "en": "cellular homogenization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞组合",
+   "en": "cellular association",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞病理学",
+   "en": "cellular pathology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胞状对流",
+   "en": "cellular convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胞状环流",
+   "en": "cellular circulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微孔材料",
+   "en": "cellular materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "细胞材料",
+   "en": "cellular materials",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "胞状界面",
+   "en": "cellular interface",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "胞状结构",
+   "en": "cellular structure",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫学",
+   "en": "cellular immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞呼吸[作用]",
+   "en": "cellular respiration",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫学",
+   "en": "cellular immunology",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞癌基因",
+   "en": "cellular oncogene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "蜂窝无线电",
+   "en": "cellular radio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "元胞自动机理论",
+   "en": "cellular automata theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动机理论",
+   "en": "automata theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有穷自动机",
+   "en": "finite automaton",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下推自动机",
+   "en": "pushdown automaton",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动分词",
+   "en": "automatic segmentation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动化交易",
+   "en": "automated trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动枪械",
+   "en": "automatic firearm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动步枪",
+   "en": "automatic rifle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动手枪",
+   "en": "automatic pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动猎枪",
+   "en": "automatic shotgun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动手枪",
+   "en": "automatic pistol\",\"pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动柜员机",
+   "en": "automatic teller machine",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动导引车",
+   "en": "Automated Guided Vehicle",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动体外除颤器",
+   "en": "Automated External Defibrillator",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动清算所",
+   "en": "automated clearing house",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.12",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "狭义的细胞免疫仅指T细胞介导的免疫应答，即T细胞受到抗原刺激后，分化、增殖、转化为致敏T细胞，当相同抗原再次进入机体，致敏T细胞对抗原的直接杀伤作用及致敏T细胞所释放的细胞因子的协同杀伤作用。广义还应"
+  },
+  {
+   "cn": "细胞放射生物学",
+   "en": "cellular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从亚细胞、细胞和细胞群体的不同层次结构及细胞间关系，动态系统地阐明电离辐射对细胞单位生命活动影响基本规律的学科。"
+  },
+  {
+   "cn": "纤维素酶",
+   "en": "cellulase",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.5.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "水解纤维素中β-1,4-糖苷键的酶。"
+  },
+  {
+   "cn": "纤维素酶",
+   "en": "cellulase",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.15",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能水解纤维素β-D-糖苷键生成葡萄糖的多组分酶的总称，通常包括C1 酶、Cx 酶和β葡糖苷酶。"
+  },
+  {
+   "cn": "自动投加装置",
+   "en": "automatic feeder",
+   "source": "消毒学",
+   "wordNumber": "4.1.1.7",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "具有消毒剂自动溶解、自动投加和计量功能的水消毒装置。"
+  },
+  {
+   "cn": "自动分装仪",
+   "en": "automated dispenser",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.33",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种可自动完成放射性药物分装的设备。通过远程控制，可完成原液的抽取、稀释、活度测量、药物分装的全过程，无需医护人员直接接触药物。"
+  },
+  {
+   "cn": "内镜自动清洗消毒机",
+   "en": "automatic washer-disinfector for endoscope, automated endoscope reprocessor，AER",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "使用化学消毒方式对软式内镜进行清洗和消毒的自动化设备。"
+  },
+  {
+   "cn": "自动控制系统",
+   "en": "automatic control system",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.58",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中，供给X射线管组件的电能由一个或几个辐射量或相应物理量的测量进行控制或限制的系统。"
+  },
+  {
+   "cn": "自动分装注射仪",
+   "en": "automated injection dispenser",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种自动进行放射性药物的分装与注射的设备。通过远程控制，可完成原液的抽取、稀释、活度测量、药物分装及注射的全过程，无需医护人员直接接触药物。"
+  },
+  {
+   "cn": "自动曝光控制",
+   "en": "automatic exposure control，AEC",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.59",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线成像时，利用X射线探测野内接收光子的强度与设置值进行比对而控制曝光输出的方法。"
+  },
+  {
+   "cn": "食饮具自动清洗消毒机",
+   "en": "automatic washer-disinfector for tableware",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于食饮具清洗和消毒的自动化设备。"
+  },
+  {
+   "cn": "多功能放射性药物自动化合成模块",
+   "en": "automatic synthesizer for multiple radiopharmaceuticals",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "由计算机控制、置于一定放射防护和生产环境下，自动化合成多种放射性药物的一种装置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

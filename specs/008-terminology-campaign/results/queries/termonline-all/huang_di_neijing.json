@@ -1,0 +1,782 @@
+{
+ "key": "huang di neijing",
+ "term": "Huang Di neijing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:09:30+00:00",
+ "status": "ok",
+ "note": "variant=Huang Di neijing; 审定公布名词库=501; 海峡两岸名词对照库=66; 其他来源数据库=23; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "皇帝",
+   "en": "huang di;emperor",
+   "source": "中国古代史名词",
+   "wordNumber": "1.017",
+   "subjectFullName": "中国古代史_通论_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "秦始皇以来王朝最高统治者的正称。秦灭六国后，秦王嬴政认为自己“德高三皇，功过五帝”，遂定此称。历代沿用至帝制结束。"
+  },
+  {
+   "cn": "黄帝",
+   "en": "Huang Di;Yellow Emperor",
+   "source": "中国古代史名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "被奉为华夏族始祖的上古帝王。相传居于渭河支流的姬水一带，有诸多发明创造，为五帝之首。黄帝所部与其他各部经过长期的冲突、融合，到战国时期形成华夏族。"
+  },
+  {
+   "cn": "上书皇帝陛下",
+   "en": "shang shu huang di bi xia",
+   "source": "档案学名词",
+   "wordNumber": "07.02.004",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "章奏文书起首用语。《独断》载：“陛下者，陛阶也，所由升堂也。天子必有近臣执兵陈于陛侧，以戒不虞。谓之陛下者，群臣与天子言，不敢指斥天子，故呼在陛下者而告之，因卑达尊之意也。”［（汉）蔡邕：《独断》，《"
+  },
+  {
+   "cn": "天皇帝",
+   "en": "Tian Huang Di;Emperor of Heaven",
+   "source": "中国古代史名词",
+   "wordNumber": "7.02",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "辽太祖耶律阿保机尊号。"
+  },
+  {
+   "cn": "地皇后",
+   "en": "Di Huang Hou;Empress of Earth",
+   "source": "中国古代史名词",
+   "wordNumber": "7.021",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "辽太祖耶律阿保机妻述律氏尊号。"
+  },
+  {
+   "cn": "氐",
+   "en": "Di;Di People",
+   "source": "中国古代史名词",
+   "wordNumber": "4.334",
+   "subjectFullName": "中国古代史_魏晋南北朝_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "相传源于低地之羌的关陇族群。商周已“氐羌”连称，战国以来定居农耕，自称盘瓠后裔，汉武帝于其地设武都郡（今甘肃礼县、成县一带），曹魏又迁至扶风（今陕西咸阳、宝鸡一带）、天水（今甘肃天水市）等郡，西晋至十"
+  },
+  {
+   "cn": "黄籍",
+   "en": "huang ji",
+   "source": "档案学名词",
+   "wordNumber": "07.01.210",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "两晋南朝时期通行于郡国的户籍册，因用黄纸书写，故称。为官府征税起役的依据。"
+  },
+  {
+   "cn": "引黄",
+   "en": "yin huang",
+   "source": "档案学名词",
+   "wordNumber": "07.03.010",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "古代文书摘要制度。始于唐代。把文书主要内容用黄纸摘录贴于封面或公文正文之前，因多用黄纸书写，故称。"
+  },
+  {
+   "cn": "贴黄",
+   "en": "tie huang",
+   "source": "档案学名词",
+   "wordNumber": "07.03.017",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "古代文书制度。（1）唐代文书纠错制度。唐代诏敕等文书，如需更改之处，用黄纸贴上改写。（2）宋代贴黄，又称为引黄。指奏状等上行文书，如有意所未尽，则揭其要处，以黄纸别书于后。（3）明代奏章摘要制度。明代"
+  },
+  {
+   "cn": "黄册",
+   "en": "huang ce",
+   "source": "档案学名词",
+   "wordNumber": "08.01.025",
+   "subjectFullName": "档案学_中国档案事业史_中国古代档案",
+   "subjectName": "中国古代档案",
+   "publishYear": "2024",
+   "definition": "明清时地方上报中央的人丁、赋役档案，因簿册封面为黄色，故名。始于明洪武十四年（1381），以户为单位，每户登记本户籍贯、丁口、姓名、年龄、田宅、资产。每十年重新编造一次， 将十年内各户人口的生死增减、"
+  },
+  {
+   "cn": "黄[昆]方程组",
+   "en": "Huang equations",
+   "source": "物理学名词",
+   "wordNumber": "08.1467",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "黄[昆]散射",
+   "en": "Huang scattering",
+   "source": "物理学名词",
+   "wordNumber": "08.1046",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "黄昆散射",
+   "en": "Huang scattering",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0142",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "晶体中存在间隙原子、空位等点缺陷和点缺陷团簇时，其X射线衍射图主衍射峰周围出现较大区域的卫星斑点、弧线和条纹花样等漫散射样图。该现象由黄昆教授1947年在理论上预言。"
+  },
+  {
+   "cn": "合罕皇帝",
+   "en": "He Han huang di;Khan Emperor;Khaghan Emperor",
+   "source": "中国古代史名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "蒙古第二代大汗窝阔台的专称。"
+  },
+  {
+   "cn": "开皇礼",
+   "en": "Kai Huang Li;Kai Huang rites",
+   "source": "中国古代史名词",
+   "wordNumber": "5.13",
+   "subjectFullName": "中国古代史_隋唐五代_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "隋文帝开皇年间制订和颁行的礼典。开皇三年（公元583年）由礼部尚书牛弘主持编纂，以五礼为纲，兼采萧梁和北齐仪注，共成百卷，于开皇五年（公元585年）下诏颁行，因总结了南北朝礼制，对唐礼影响极大。"
+  },
+  {
+   "cn": "地穴",
+   "en": "di xue",
+   "source": "风景园林名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "墙垣上辟有门宕而不装门者。"
+  },
+  {
+   "cn": "递角",
+   "en": "di jiao",
+   "source": "档案学名词",
+   "wordNumber": "07.03.011",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "递角即传递公文的意思，公文一封为一角。始称于唐宋时期。指我国古代政府交付驿站发送的公文。"
+  },
+  {
+   "cn": "入递",
+   "en": "ru di",
+   "source": "档案学名词",
+   "wordNumber": "07.03.014",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "入递是指文书通过递铺传递。递铺为宋代通信组织的总称，分为步递、马递和急脚递等不同等级。"
+  },
+  {
+   "cn": "弟窑",
+   "en": "Di kiln",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0164",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "相传宋代有章生一、章生二两兄弟在龙泉烧窑，章生一所主之窑为哥窑；章生二所主为弟窑。宋代的龙泉青瓷有两种，分别为弟窑的白胎青瓷和哥窑的黑胎青瓷。弟窑器以无纹者为贵，粉青釉为最佳。"
+  },
+  {
+   "cn": "帝喾",
+   "en": "Di Ku;Emperor Di Ku",
+   "source": "中国古代史名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "中国古代史_先秦_政治_王朝更替",
+   "subjectName": "王朝更替",
+   "publishYear": "2022",
+   "definition": "都于亳（今河南偃师）的上古帝王。相传上承炎黄，下启尧舜，号“高辛氏”，为商周王室的共同祖先，在位时平定了共工氏的叛乱。"
+  },
+  {
+   "cn": "黄昆散射",
+   "en": "Huang scattering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "脱氧肌苷",
+   "en": "deoxyinosine\",\"dI",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "弟窑",
+   "en": "Di kiln",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "裸体歌舞",
+   "en": "Gymnopédies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Satie, Erik"
+  },
+  {
+   "cn": "黄秉维模型",
+   "en": "Huang‘s model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分歧指数",
+   "en": "divergence index\",\"DI",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解吸电离",
+   "en": "desorption ionization\",\"DI",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "罗马的松树",
+   "en": "Pini di Rome",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Respighi, Ottorino"
+  },
+  {
+   "cn": "罗马的喷泉",
+   "en": "Fontane di Roma",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Respighi, Ottorino"
+  },
+  {
+   "cn": "腾达的贝阿特丽彻",
+   "en": "Beatrice di Tenda",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bellini, Vincenzo"
+  },
+  {
+   "cn": "拉美莫尔的露契亚",
+   "en": "Lucia di Lammermoor",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "塞维利亚的理发师",
+   "en": "Barbiere di Siviglia",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rossini, Gioacchino"
+  },
+  {
+   "cn": "夏莫尼的琳达",
+   "en": "Linda di Chamounix",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "双口道芽",
+   "en": "di-stomodeal budding",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "斯特凡诺",
+   "en": "Stefano\",\"Giuseppe di(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灵与肉的体现",
+   "en": "Rappresentazione di anima e di corpo\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Cavalieri, Emilio de’"
+  },
+  {
+   "cn": "海尔纳迪",
+   "en": "Hernádi\",\"Lajos(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "波佩阿的加冕",
+   "en": "Incoronazione di Poppea\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Monteverdi, Claudio"
+  },
+  {
+   "cn": "清教徒",
+   "en": "Puritani di Scozia\",\"I",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bellini, Vincenzo "
+  },
+  {
+   "cn": "塞维利亚的理发师",
+   "en": "Barbiere di Siviglia\",\"Il",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rossini, Gioachino (Antonio)"
+  },
+  {
+   "cn": "哀悼抗击肺炎疫情牺牲烈士和逝世同胞",
+   "en": "to mourn martyrs who died in the fight against COVID-19 and compatriots who died of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "炎黄",
+   "en": "The Fiery Emperor and the Yellow Emperor / Emperor Yan and Emperor Huang",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王者之迹熄而《诗》亡",
+   "en": "The Book of Songs Died with the Decline of the Kingly Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "悬垂姿势",
+   "en": "hang\",\"hang position\",\"hanging position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前正悬垂",
+   "en": "hang frontways",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊臂悬垂",
+   "en": "dorsal hang",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒悬垂",
+   "en": "inverted hang",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亚太经合组织北京峰会",
+   "en": "APEC Beijing Summit",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "屈体倒悬垂",
+   "en": "bent inverted hang\",\"half-inverted hang",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "南京大屠杀",
+   "en": "Nanjing Massacre",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "北京城市副中心",
+   "en": "Beijing Municipal Administrative Center",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北京奥运精神",
+   "en": "the spirit of the Beijing Olympics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "境外进京人员",
+   "en": "travelers arriving in Beijing from overseas",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同光体",
+   "en": "The Tong-Guang School of Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乘浪前进",
+   "en": "hang on wash\",\"take a wash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "京津冀协同发展",
+   "en": "coordinated development of the Beijing-Tianjin-Hebei Region",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "京津冀协同发展",
+   "en": "Coordinated Development of the Beijing-Tianjin-Hebei Region",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "京津冀协同发展领导小组",
+   "en": "Leading Group for Coordinated Beijing-Tianjin-Hebei Development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "狄",
+   "en": "Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0007",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代北方少数民族之泛称。汉文史料中，亦有记载称其为黄帝后裔者。狄人部落众多；春秋时，以赤狄、白狄、长狄最为著名，活动于秦、晋、齐、鲁、卫等地域，大部分已融入中原民族。"
+  },
+  {
+   "cn": "氐",
+   "en": "Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0005",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋战国时期始见于记载。秦汉之际主要分布于西北，以农业为主，兼营畜牧，其首领多受中原王朝册封。东汉以后被大量迁至关中、中原。建有仇池、前秦、后凉等政权。隋朝以后逐渐融于各民族中。"
+  },
+  {
+   "cn": "黄氏模型",
+   "en": "Huang model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.92",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于描述微生物生长过程的一级模型。"
+  },
+  {
+   "cn": "白狄",
+   "en": "White Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.005",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋前期分布于古雍州，受秦国压迫及晋国和戎政策之诱惑，东迁至晋东、鲁西一带。主要由鲜虞氏、肥氏、鼓氏、仇由氏等 4 个氏族组成；鲜虞氏建立中山国，与燕﹑赵﹑韩﹑魏并称千乘之国。"
+  },
+  {
+   "cn": "长狄",
+   "en": "Long Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0051",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。据《左传》记载，有侨如、焚如、荣如、简如、缘如等五兄弟。春秋时期，活动于齐、鲁、宋、卫之间，后为齐、卫所灭。"
+  },
+  {
+   "cn": "赤狄",
+   "en": "Red Di",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0049",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。春秋时狄人之一支；赤狄隗姓，源自殷及西周之鬼方；乃春秋时期实力最强、影响最大之狄族部落。其至少由6 个氏族组成，即潞氏、皋落氏、留吁氏、甲氏、铎辰氏、廧咎如氏，于西周初期北迁至蒙古高原。"
+  },
+  {
+   "cn": "创新扩散理论",
+   "en": "diffusion of innovation, DI",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "描述一项创新（新观念、新事物或新实践）经由一定的传播渠道，通过一段时间，在一个社会系统中扩散，并逐渐为社会系统成员所了解和采纳的过程的理论。"
+  },
+  {
+   "cn": "壮族",
+   "en": "Zhuang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0426",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在广西、云南、广东等省区，广西壮族自治区最集中。人口1956.85万人（2021 年，未包括香港、澳门特别行政区和台湾省数据），是中国少数民族中人口最多的一个民族。使用壮语，属汉藏语"
+  },
+  {
+   "cn": "止损线",
+   "en": "ceiling",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "投保者的自付金额达到一定限额后，超出部分全部由保险机构支付，投保者不需再行支付的保险设计"
+  },
+  {
+   "cn": "壮语",
+   "en": "Zhuang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0284",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "壮族使用的语言。属汉藏语系侗台语族壮傣语支。分布在广西壮族自治区、云南省文山壮族苗族自治州和广东连山、怀集等县，使用人口约1500 万。分北部和南部两个方言。1955年创制了拉丁字母形式的壮文。"
+  },
+  {
+   "cn": "壮文",
+   "en": "Zhuang writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0388",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国壮族使用的拉丁字母形式的文字。1955 年创制，1957 年经国务院批准推行。1980 年进行修订，全部使用拉丁字母。以北部方言为基础方言，以广西壮族自治区武鸣语音为标准音。壮族曾使用过一种类似汉"
+  },
+  {
+   "cn": "方块壮字",
+   "en": "Zhuang character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0368",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "壮族使用的一种仿汉字系文字。利用汉字的偏旁、部首创制，记录壮族民歌、经书、刻碑、通信和记事等，民间仍保留方块壮字文本千余种。"
+  },
+  {
+   "cn": "乌桓",
+   "en": "Wu Huan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0028",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡的一支，与鲜卑均为东胡部落联盟中之大部，活动于今西拉木伦河两岸及归喇里河西南地区。初臣服于匈奴，后附汉，被迁徙至辽东五郡塞外。魏晋以后，陆续内迁，渐与他族融合。"
+  },
+  {
+   "cn": "玻璃天花板",
+   "en": "glass-ceiling",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "比喻职场上限制妇女到达高层职位的无形障碍。女性主义认为这是职场性别不平等的一种体现。"
+  },
+  {
+   "cn": "壮傣语支",
+   "en": "Zhuang-Dai branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系侗台语族的一个语支。分布在中国及中南半岛和印度部分地区。中国的壮语、布依语、傣语和临高语，泰国的泰语，老挝的老挝语，缅甸的掸语，越南的岱语、侬语等属于该语支。"
+  },
+  {
+   "cn": "南京医用加速器事故",
+   "en": "Nanjing medical linac accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.3.10",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故",
+   "subjectName": "核辐射事故",
+   "publishYear": "2025",
+   "definition": "1985年，江苏省某所在加速器维修后，擅自切断安全联锁，改用手工操作，未检测辐射输出量，致使连续二天发生超剂量照射，致使24名患者（其中恶性肿瘤患者20人，非肿瘤患者4人）受到意外，直接或加速13名患"
+  },
+  {
+   "cn": "抓住机遇加速发展",
+   "en": "seizing opportunity accelerating development",
+   "source": "马克思主义",
+   "wordNumber": "04.0180",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志关于抓住时机，加快速度发展自己，隔几年上一个台阶的思想。从国际经济发展历史看，一些国家在发展过程中，都曾经有过高速发展的时期，或者若干高速发展阶段。因此，“抓住机遇，加速发展”是对现代化发展"
+  },
+  {
+   "cn": "南京“5•7”辐射事故",
+   "en": "Nanjing \"5•7\" radiation accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.3.16",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故",
+   "subjectName": "核辐射事故",
+   "publishYear": "2025",
+   "definition": "2014年5月7日某公司在南京探伤作业时，丢失放射源铱-192一枚（9.6×1011Bq），被一名时年58岁的王某某捡拾并放入右侧裤兜中，受照时间约3.25小时，5月12日入院，体素模型估计右大腿剂量"
+  },
+  {
+   "cn": "农村包围城市武装夺取政权",
+   "en": "encircling the cities from the countryside seizing power with armed force",
+   "source": "马克思主义",
+   "wordNumber": "03.0356",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于中国革命道路的理论。在领导中国革命过程中,毛泽东以马克思主义理论为指导,结合中国革命的具体实际,不断总结中国革命的历史经验,同教条主义、经验主义的错误倾向进行斗争,逐步提出并不断地完善了这个"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

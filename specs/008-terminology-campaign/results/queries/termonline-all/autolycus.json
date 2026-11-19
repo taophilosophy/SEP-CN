@@ -1,0 +1,242 @@
+{
+ "key": "autolycus",
+ "term": "Autolycus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:06:45+00:00",
+ "status": "ok",
+ "note": "variant=Autolycus; 审定公布名词库=14; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "病理学名词",
+   "wordNumber": "01.321",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "细胞或细胞物质被细胞自身所含有的一些酶所消化的现象。"
+  },
+  {
+   "cn": "自溶[作用]",
+   "en": "autolysis",
+   "source": "药学名词",
+   "wordNumber": "05.259",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "生物体内部组织或细胞由于自身产生的酶的作用而发生破坏的过程。"
+  },
+  {
+   "cn": "自溶[现象]",
+   "en": "autolysis",
+   "source": "微生物学名词",
+   "wordNumber": "05.215",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "细胞被自身所含有的酶系所消化的现象。"
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "细胞生物学名词",
+   "wordNumber": "04.083",
+   "subjectFullName": "细胞生物学_细胞生理",
+   "subjectName": "细胞生理",
+   "publishYear": "2009",
+   "definition": "细胞或细胞物质被细胞自身所含有的一些酶所消化的现象。"
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "生态学名词",
+   "wordNumber": "07.259",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "动植物尸体、残株和粪便等不经过微生物的作用就能释放出营养物质的现象。"
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "水产名词",
+   "wordNumber": "08.046",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "动物死后肌肉组织中的酶类对蛋白质、脂肪和核酸等的分解过程。"
+  },
+  {
+   "cn": "自体分解",
+   "en": "autolysis",
+   "source": "昆虫学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "昆虫学_昆虫生理与生化",
+   "subjectName": "昆虫生理与生化",
+   "publishYear": "2000",
+   "definition": "某种细胞或组织由自身的水解酶进行分解或破坏的过程。"
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.111",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "化学工程名词",
+   "wordNumber": "06.218",
+   "subjectFullName": "化学工程_生物化学工程_生化分离工程",
+   "subjectName": "生化分离工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "死后自溶",
+   "en": "postmortem autolysis",
+   "source": "兽医学名词",
+   "wordNumber": "10.071",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "在多种酶的作用下，尸体组织发生的自身溶解。"
+  },
+  {
+   "cn": "自溶法",
+   "en": "autolysis method",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "04.006",
+   "subjectFullName": "化工（六）_生化分离工程_酶固定化_细胞破碎",
+   "subjectName": "细胞破碎",
+   "publishYear": "2021",
+   "definition": "通过调节温度、pH或添加有机溶剂，诱使细胞产生溶解自身的酶的方法。"
+  },
+  {
+   "cn": "自动聚焦机构",
+   "en": "autofocus mechanism",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.202",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "焦痂自溶",
+   "en": "autolysis of eschar",
+   "source": "医学名词 第六分册",
+   "wordNumber": "07.052",
+   "subjectFullName": "医学_烧伤外科学",
+   "subjectName": "烧伤外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "辐射自分解",
+   "en": "radiation self- decompo- sition,radio autolysis",
+   "source": "核医学名词",
+   "wordNumber": "02.0378",
+   "subjectFullName": "核医学_核医学相关基础学科_核药学",
+   "subjectName": "核药学",
+   "publishYear": "2018",
+   "definition": "由于标记化合物分子所含放射性核素的电离辐射作用，致使标记化合物本身的结构被破坏产生化学杂质或放射化学杂质，从而丧失原有特性的现象。"
+  },
+  {
+   "cn": "自分解",
+   "en": "autolysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自溶[现象]",
+   "en": "autolysis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[细胞]自溶",
+   "en": "autolysis",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自溶[作用]",
+   "en": "autolysis",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自体分解",
+   "en": "autolysis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "自动调焦纠正仪",
+   "en": "autofocus rectifier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自动调焦装置",
+   "en": "autofocus mechanism",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自溶",
+   "en": "autolysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.16",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "肌肉在内源性酶的作用下，出现肌肉松弛、色泽发暗、变褐、弹性降低，气味和滋味变劣的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

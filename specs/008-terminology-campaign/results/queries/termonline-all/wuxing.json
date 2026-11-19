@@ -1,0 +1,742 @@
+{
+ "key": "wuxing",
+ "term": "wuxing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:14:26+00:00",
+ "status": "ok",
+ "note": "variant=wuxing; 审定公布名词库=934; 海峡两岸名词对照库=233; 其他来源数据库=24; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "吴兴园林",
+   "en": "garden in Wuxing",
+   "source": "风景园林名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "南宋时的吴兴地区的园林。吴兴位于太湖南岸，周密《癸辛杂识》中的“吴兴园圃”记录当时园林30多所（即《吴兴园林记》）。吴兴园林多依山傍水，在不大的园林中着意经营，追求精炼、模拟自然，假山和置石运用较多。"
+  },
+  {
+   "cn": "涂蜡",
+   "en": "waxing",
+   "source": "农学名词",
+   "wordNumber": "17.035",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "在农产品表面涂一层蜡质的过程。"
+  },
+  {
+   "cn": "打蜡",
+   "en": "waxing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0587",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "人为地在园艺产品表面涂一层蜡质的过程。打蜡的方法主要有起泡法、浸泡法及涂刷法等。"
+  },
+  {
+   "cn": "蜡型制作",
+   "en": "waxing",
+   "source": "医学名词 第二分册",
+   "wordNumber": "08.094",
+   "subjectFullName": "医学_口腔医学_固定义齿修复学",
+   "subjectName": "固定义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "fixing",
+   "source": "精细化工名词",
+   "wordNumber": "07.0108",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶接时，被粘物固定在理想位置上的过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.116",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "用机械的或流体动力的方法，使两种或两种以上物料相互扩散而达到一定均匀程度的过程。"
+  },
+  {
+   "cn": "混匀",
+   "en": "mixing",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0269",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "用机械或人工的方法使两种以上的物料均匀混合的作业。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.109",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "通过加热或其他方法使色粉熔化并固着到承印物上的过程。"
+  },
+  {
+   "cn": "密炼",
+   "en": "mixing",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0912",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "由具有螺旋棱、有速度比并相对回转的转子和室壁，以及上、下顶栓组成的一种物料混炼系统。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.159",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "使两种或多种物料相互分散而达到一定均匀程度的单元操作。"
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.191",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "利用机械力将生胶或塑炼生胶与配合剂、填充物等混合、分散均匀的过程。本质来说是配合剂在生胶中均匀分散的过程，粒状配合剂呈分散相，生胶呈连续相。"
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.221",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_涂料涂装",
+   "subjectName": "涂料涂装",
+   "publishYear": "2021",
+   "definition": "由于热作用、化学作用或光作用，在涂料上形成所需性能连续涂层的缩合、聚合或自氧化过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.080",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "两种或多种不同材料的粉末的均匀掺合。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "测绘学名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "摄影处理中去除未感光或感光后未还原的银盐，使显出的影像得以稳定的过程。"
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "电力名词",
+   "wordNumber": "11.024",
+   "subjectFullName": "电力_汽轮发电机",
+   "subjectName": "汽轮发电机",
+   "publishYear": "2020",
+   "definition": "线棒的股线经过编织换位后,通过环氧树脂在一定的温度下进行浸渍和热烘压制,使多股导线束和绝缘成为一整体的一种工艺过程。"
+  },
+  {
+   "cn": "交混",
+   "en": "mixing",
+   "source": "电力名词",
+   "wordNumber": "17.196",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "反应堆燃料组件内各子通道之间流体横向流动使温度(单相)或含汽率(两相)均匀化的现象。"
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0491",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_腌制",
+   "subjectName": "腌制",
+   "publishYear": "2020",
+   "definition": "将盐、糖、酸、酒等辅料渗入食品组织内的过程。"
+  },
+  {
+   "cn": "拌和",
+   "en": "mixing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1231",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "通过拌混原料，将各种不同的食用色素、香料和调味料均匀地分散到硬糖基体中的过程。"
+  },
+  {
+   "cn": "油管",
+   "en": "tubing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0516",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "油井打好固井之后，在油层套管中设置的钢管。油气从此涌至地面，油管分平式和加厚式。"
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "冶金学名词",
+   "wordNumber": "09.1128",
+   "subjectFullName": "冶金学_金属加工_热处理、表面处理",
+   "subjectName": "热处理、表面处理",
+   "publishYear": "2019",
+   "definition": "通过炉内热气流平衡加热固化已涂层带材的过程。"
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调谐",
+   "en": "tuning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调音",
+   "en": "tuning",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混炼",
+   "en": "mixing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "网线",
+   "en": "ruling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "布线，接线",
+   "en": "wiring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混频",
+   "en": "mixing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静音",
+   "en": "muting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开启引信",
+   "en": "fuzing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调谐",
+   "en": "tuning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "哑控",
+   "en": "muting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "固化",
+   "en": "curing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混合",
+   "en": "mixing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "输液管",
+   "en": "tubing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生长素",
+   "en": "auxin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物生长素",
+   "en": "auxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "五行",
+   "en": "Wuxing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边翼",
+   "en": "wing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护膝两侧",
+   "en": "wing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击运动",
+   "en": "pugilism\",\"boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空拳",
+   "en": "shadow boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击短裤",
+   "en": "boxing trunks\",\"shorts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际拳击联合会",
+   "en": "International Boxing Federation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际业余拳击协会",
+   "en": "International Boxing Association\",\"AIBA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取境",
+   "en": "Qujing (Conceptualize an Aesthetic Feeling)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "打蜡",
+   "en": "waxing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.27",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "人为在园艺产品表面涂一层蜡质的过程。主要方法有起泡法、浸泡法及涂刷法等。"
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.56",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "将盐、糖、酸、酒等辅料渗入食品组织内的过程。"
+  },
+  {
+   "cn": "武陵蛮",
+   "en": "Wuling Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0156",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "汉武陵郡之少数民族，又以居地得名。秦称黔中蛮；分布于今湖南沅江流域、澧水流域与洞庭湖西北。与今苗瑶、土家有渊源关系。"
+  },
+  {
+   "cn": "布兴语",
+   "en": "Buxing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0327",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布兴人使用的语言。属南亚语系孟-高棉语族佤-德昂语支。中国的布兴人约有540 人，主要分布在云南省西双版纳傣族自治州勐腊县，部分划归为哈尼族；在老挝、泰国、柬埔寨、越南等国也有分布。"
+  },
+  {
+   "cn": "语码混合",
+   "en": "code-mixing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个语句含有两种或多种语码的现象。"
+  },
+  {
+   "cn": "擦拭消毒",
+   "en": "wiping disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "使用消毒液对污染物体表面进行擦拭的消毒处理方法。常用于物体表面、体表、车内、室内等污染表面的处理。"
+  },
+  {
+   "cn": "辐射固化",
+   "en": "radiation curing",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "通过辐射，如紫外光（UV）或电子束（EB），将涂布在基材上的无溶剂活性液体转变为固体的加工过程。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于经济地位、政治权势或文化霸权等因素，以组织化方式行使国家权力、管理国家事务的团体。精英统治理论的基本范畴，意大利政治理论家莫斯卡认为，任何社会中都存在统治阶级和被统治阶级。"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "source": "马克思主义",
+   "wordNumber": "03.0183",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在经济上、政治上、思想上占统治地位的阶级。如奴隶社会的奴隶主阶级、封建社会的地主阶级、资本主义社会的资产阶级。无产阶级和劳动人民只有夺取政权，建立无产阶级专政，才能变被统治阶级为统治阶级，尽快发展社会"
+  },
+  {
+   "cn": "九姓回纥",
+   "en": "Jiuxing Uygur",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0098",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。唐时回纥别称。有“外九部”与“内九族”之论。外九部又称九姓铁勒，即回纥、仆骨等九部，其中以回纥部为首。内九族即回纥内部以药葛氏为首的九个氏族。"
+  },
+  {
+   "cn": "买和卖",
+   "en": "buying and selling",
+   "source": "马克思主义",
+   "wordNumber": "02.0074",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品形态变化的两个阶段，从商品所有者的角度看，就是卖和买两种社会行为。商品流通过程需要经历两个相互对立、相互补充的形态变化，首先是W-G，即商品转化为货币的商品的出卖过程；然后是G—W，货币转化为商品"
+  },
+  {
+   "cn": "孕期免疫接种",
+   "en": "immunization during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在孕期用人工方法将免疫原或免疫效应物质输入机体内，使机体通过人工自动免疫或人工被动免疫的方法获得防治某种传染病的能力的方法/措施。理论上孕期可接种灭活的病毒疫苗、菌素、抗毒素。"
+  },
+  {
+   "cn": "孕期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为满足孕妇自身的生理状况和代谢改变及胎儿生长发育需要所摄取各种营养物质的生物学过程。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "妊娠期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在妊娠期为维持生命、保障胎儿生长发育和各种生理活动对营养素需求的生物学过程。"
+  },
+  {
+   "cn": "妊娠期便秘",
+   "en": "constipation during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女由于体内激素变化导致胃肠道蠕动变慢，食物通过胃肠道时间延长，尤其是食物残渣在大肠滞留使水分被吸收，引起排便不畅的现象。"
+  },
+  {
+   "cn": "孕期暴力",
+   "en": "violence during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.7",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "现或前亲密伴侣在女性怀孕期间施加的心理、身体或性虐待的行为。"
+  },
+  {
+   "cn": "发烟硝酸",
+   "en": "fuming nitric acid",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.3.1.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "90%-100%硝酸，含有溶解二氧化氮的浓硝酸，具有强烈的挥发性，不断地有气体从溶液中向外逸出，就像有烟冒出一样。"
+  },
+  {
+   "cn": "气水混合装置",
+   "en": "ozone-water mixing equipment",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.1.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "将臭氧气体和水混合并使臭氧气体充分溶于水的装置。"
+  },
+  {
+   "cn": "在岗期间培训",
+   "en": "training during the job",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员在岗期间应定期接受的放射防护有关知识的再培训，两次培训的时间间隔不超过2年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

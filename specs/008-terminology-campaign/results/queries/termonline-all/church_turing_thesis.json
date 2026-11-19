@@ -1,0 +1,772 @@
+{
+ "key": "church-turing thesis",
+ "term": "Church-Turing thesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:07:41+00:00",
+ "status": "ok",
+ "note": "variant=Church-Turing thesis; 审定公布名词库=1537; 海峡两岸名词对照库=286; 其他来源数据库=58; 预公布名词数据库=63; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.640",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "自然数上的一个函数如果是可以根据一个算法进行人工计算的，那么也一定是在图灵机上可计算的。"
+  },
+  {
+   "cn": "丘奇-图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0109",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "可计算性理论的基本论题：一个函数是可计算的当且仅当可由一部图灵机来计算它。"
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0221",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论题",
+   "en": "thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0018",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "学位论文",
+   "en": "thesis,dissertation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.185",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "高等学校或研究机构的学生为取得学位，在导师指导下完成的科学研究、科学试验成果的书面报告。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "风景园林名词",
+   "wordNumber": "10.0061",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育成果之一，内容包括选题背景与意义；研究内容与方法；国内外研究现状及发展概况、相关理论方法或者实验手段，初步论述、探讨，主要的研究结论等。"
+  },
+  {
+   "cn": "极大性论题",
+   "en": "maximality thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "机器可以生成的所有功能（根据限定的指令程序在限定的输入上工作），这些功能都可以通过图灵机计算。"
+  },
+  {
+   "cn": "李约瑟命题",
+   "en": "Needham thesis",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0052",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "长期致力于中国科技史研究的英国剑桥大学李约瑟教授在撰写《中国科学技术史》的过程中，提出的一个基本问题，本质上是探讨科学技术背后的社会文化问题。"
+  },
+  {
+   "cn": "论文硕士学位",
+   "en": "thesis master",
+   "source": "教育学名词",
+   "wordNumber": "08.243",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "对未修习相应的硕士课程，但经审核被确认具有同等学力，且完成硕士论文并通过答辩者授予的硕士学位。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "教育学名词",
+   "wordNumber": "08.185",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校的应届毕业生在教师指导下独立完成的总结性作业。提交毕业论文并通过答辩评审者，方可获得毕业证书。"
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "地理学名词",
+   "wordNumber": "17.067",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "专指美国殖民的西向推移中边疆起到了“安全阀”作用的一种学说。"
+  },
+  {
+   "cn": "硕士学位论文",
+   "en": "Master's thesis,MA thesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由攻读硕士学位的研究生撰写，作为申请硕士学位评审用的学术论文。"
+  },
+  {
+   "cn": "教会考试",
+   "en": "church examination",
+   "source": "教育学名词",
+   "wordNumber": "05.151",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "德国教会制订考试条例并主持，旨在考核神学专业知识及神职工作能力的一种高校毕业考试。合格者获得神学硕士学位和神职工作从业资格证书。"
+  },
+  {
+   "cn": "教会教育",
+   "en": "church education",
+   "source": "教育学名词",
+   "wordNumber": "04.071",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "欧洲中世纪基督教会设立和管辖的学校中实施的教育总称。"
+  },
+  {
+   "cn": "哥特式教堂",
+   "en": "Gothic Church",
+   "source": "世界历史名词",
+   "wordNumber": "02.1198",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "12世纪至15世纪，随着城市的兴起而在欧洲出现的一种教堂建筑。哥特是野蛮的意思，欧洲人视罗马式教堂建筑为正统，所以将这种新兴起的建筑贬为哥特建筑。"
+  },
+  {
+   "cn": "革新教派",
+   "en": "Renovationist Church",
+   "source": "世界历史名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1917年革命后出现的俄国东正教会中的反对派，主张革新教会，实行宗教仪式现代化，反对20年代采取反苏立场的俄国东正教会领导，宣布拥护苏维埃社会主义改造。1945年以后自行取消。"
+  },
+  {
+   "cn": "教会斯拉夫语",
+   "en": "Church Slavonic",
+   "source": "世界历史名词",
+   "wordNumber": "02.0698",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "一种古斯拉夫语，由于受到斯拉夫活语言的影响而带有地方色彩。在俄国，教会斯拉夫语用于宗教祭祀以及科学文献中，对18世纪前俄罗斯标准语有影响。"
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.665",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "图灵于1950年提出的一个关于判断机器是否能够思考的著名思想实验。测试某机器是否能表现出与人等价或无法区分的智能，测试的谈话仅限于使用唯一的文本管道。"
+  },
+  {
+   "cn": "图灵斑图",
+   "en": "Turing pattern",
+   "source": "物理学名词",
+   "wordNumber": "11.0708",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "生物物理学名词",
+   "wordNumber": "07.147",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国数学家、密码专家和数字计算机的奠基人图灵(A. Turing)提出的一种检验某个对象是否有智能的测试方法。向对象提出各种各样的问题，如果提问的人从对象的答复中无法区别对象究竟是一个人还是一台机器时"
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宗教康塔塔",
+   "en": "church cantata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教会合唱团",
+   "en": "church choir",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基督教",
+   "en": "protestant churches",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测验",
+   "en": "Turing test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵可归约性",
+   "en": "Turing reducibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "普雷维什－辛格命题",
+   "en": "Prebisch-Singer Thesis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算论题",
+   "en": "parallel computation thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇法",
+   "en": "Churchs method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "多带图灵机",
+   "en": "multitape Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多头图灵机",
+   "en": "multihead Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多维图灵机",
+   "en": "multidimensional Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非确定型图灵机",
+   "en": "nondeterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离线图灵机",
+   "en": "offline Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定型图灵机",
+   "en": "deterministic Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通用图灵机",
+   "en": "universal Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间有界图灵机",
+   "en": "space-bounded Turing machine",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵测试",
+   "en": "Turing test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拐点",
+   "en": "turning point",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "旋转靶",
+   "en": "turning target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身池壁",
+   "en": "turning wall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起转身踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳起轮踢",
+   "en": "flying turning kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规定转弯处",
+   "en": "compulsory turning point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转弯处裁判员",
+   "en": "turning point umpire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护理机器人",
+   "en": "caring robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转身裁判员",
+   "en": "inspector of turns\",\"turning judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身裁判员",
+   "en": "inspector of turns\",\"turning judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击环数记录员",
+   "en": "firing point recorder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教会",
+   "en": "church",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.4",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "人们基于共同宗教或信仰的联合，有建筑、仪式、团体等表现形式。宗教社会学中有教会—教派理论，其中的教会指的是具有稳定地位和结构、传统主义取向的宗教组织形式。"
+  },
+  {
+   "cn": "世俗化命题",
+   "en": "secularization thesis",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "世俗化是在哲学、神学、社会科学等领域广泛使用的颇具争议性的概念，涂尔干、马克斯•韦伯等经典社会学家和彼得·伯格（Peter L.Berger）、托马斯·卢克曼（Thomas Luckmann）等诸多当"
+  },
+  {
+   "cn": "东正教",
+   "en": "Orthodox Church",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.031",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "基督教分支中的一个派别，主要是指依循由东罗马帝国所流传下来的基督教传统的教会，是与天主教、基督教新教并立的基督教三大派别之一。"
+  },
+  {
+   "cn": "迪昂-诺伊拉特-蒯因命题",
+   "en": "Duhem-Neurath-Quine thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由P. 迪昂（P. Duhem）、O. 诺伊拉特（O. Neurath）、W. V. 蒯因（W. V. Quine）等分别独立提出。认为无法单独地检验一个科学假设的真假，因为经验检验需要多个背景假设。"
+  },
+  {
+   "cn": "腌制",
+   "en": "curing",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.56",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "将盐、糖、酸、酒等辅料渗入食品组织内的过程。"
+  },
+  {
+   "cn": "辐射固化",
+   "en": "radiation curing",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "通过辐射，如紫外光（UV）或电子束（EB），将涂布在基材上的无溶剂活性液体转变为固体的加工过程。"
+  },
+  {
+   "cn": "肌腱附着点",
+   "en": "enthesis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.23",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "韧带、肌腱和关节囊附着于骨骼的终端。"
+  },
+  {
+   "cn": "卡西人",
+   "en": "Khasis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0032",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。人口约为67 万（2001 年）。主要分布在梅加拉亚邦和阿萨姆邦。属蒙古人种南亚类型，兼有尼格罗—澳大利亚人种维达类型的特征。操卡西语，属南亚语系卡西语族。信仰上多神信仰和祖先崇拜盛行，"
+  },
+  {
+   "cn": "孕期免疫接种",
+   "en": "immunization during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在孕期用人工方法将免疫原或免疫效应物质输入机体内，使机体通过人工自动免疫或人工被动免疫的方法获得防治某种传染病的能力的方法/措施。理论上孕期可接种灭活的病毒疫苗、菌素、抗毒素。"
+  },
+  {
+   "cn": "孕期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "为满足孕妇自身的生理状况和代谢改变及胎儿生长发育需要所摄取各种营养物质的生物学过程。"
+  },
+  {
+   "cn": "孕期用药",
+   "en": "medication during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "孕期使用药物的医疗行为。孕期使用药物可能对母体、胎儿和新生儿造成影响，必须有指征，并在医师的指导下合理用药。"
+  },
+  {
+   "cn": "妊娠期营养",
+   "en": "nutrition during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在妊娠期为维持生命、保障胎儿生长发育和各种生理活动对营养素需求的生物学过程。"
+  },
+  {
+   "cn": "妊娠期便秘",
+   "en": "constipation during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.2.5",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女由于体内激素变化导致胃肠道蠕动变慢，食物通过胃肠道时间延长，尤其是食物残渣在大肠滞留使水分被吸收，引起排便不畅的现象。"
+  },
+  {
+   "cn": "孕期暴力",
+   "en": "violence during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.7",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "现或前亲密伴侣在女性怀孕期间施加的心理、身体或性虐待的行为。"
+  },
+  {
+   "cn": "泰人",
+   "en": "Thais",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0137",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "泰王国的民族之一。人口约有2716 万（2024 年）。分布在泰国各地。属蒙古人种南亚类型。操泰语，属汉藏语系侗台语族，分为多种方言，有文字。大多数泰人信佛教，也有少数人信伊斯兰教和基督教。主要从事农"
+  },
+  {
+   "cn": "灼烧法",
+   "en": "firing method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "直接用火焰或电热丝加热，以高温达到消毒或灭菌的处理。"
+  },
+  {
+   "cn": "焚烧法",
+   "en": "burning method",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "将物品用火焰焚烧至灰烬的消毒处理。多用于废物的无害化的处理。"
+  },
+  {
+   "cn": "杜林主义",
+   "en": "Duhring doctrine",
+   "source": "马克思主义",
+   "wordNumber": "04.0323",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪70年代初出现在德国的一种小资产阶级反动思潮，代表人物是杜林。他著书立说，声称要对哲学、政治经济学和社会主义理论实行“全面的变革”，并且提出了一个用“经济公社”改变分配关系的改造世界的方案。由"
+  },
+  {
+   "cn": "布兴语",
+   "en": "Buxing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0327",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "布兴人使用的语言。属南亚语系孟-高棉语族佤-德昂语支。中国的布兴人约有540 人，主要分布在云南省西双版纳傣族自治州勐腊县，部分划归为哈尼族；在老挝、泰国、柬埔寨、越南等国也有分布。"
+  },
+  {
+   "cn": "在岗期间培训",
+   "en": "training during the job",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员在岗期间应定期接受的放射防护有关知识的再培训，两次培训的时间间隔不超过2年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

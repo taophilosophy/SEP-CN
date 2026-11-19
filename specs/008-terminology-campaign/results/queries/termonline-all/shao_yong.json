@@ -1,0 +1,792 @@
+{
+ "key": "shao yong",
+ "term": "Shao Yong",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:20:42+00:00",
+ "status": "ok",
+ "note": "variant=Shao Yong; 审定公布名词库=1616; 海峡两岸名词对照库=242; 其他来源数据库=84; 预公布名词数据库=94; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "召方",
+   "en": "Shao Fang;Shao State",
+   "source": "中国古代史名词",
+   "wordNumber": "2.479",
+   "subjectFullName": "中国古代史_先秦_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "位于殷商西部的一个方国。又称“刀方”“卲方”，大致在今山西中北部地区，商王武丁在位晚期，曾与之有较大规模的战争。"
+  },
+  {
+   "cn": "绍圣绍述",
+   "en": "Shao Sheng shao shu;Shao­sheng restoration",
+   "source": "中国古代史名词",
+   "wordNumber": "6.028",
+   "subjectFullName": "中国古代史_两宋_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "宋哲宗亲政后恢复熙宁以来新法的举措。公元1094年哲宗亲政，改元绍圣，以继承其父神宗所行之法为国策，起用章惇等新党人士，贬逐旧党人士，尽废元祐法度。此后，新旧党争愈演愈烈。"
+  },
+  {
+   "cn": "涌泉穴",
+   "en": "yong quan point",
+   "source": "兽医学名词",
+   "wordNumber": "19.726",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "牛、驼、羊、猪、犬穴名。位于前肢蹄叉前缘正中稍上方。左右侧各一穴。血针。主治蹄肿、寸子扭伤、中暑、感冒、肚痛、三焦积热等。"
+  },
+  {
+   "cn": "涌滴穴",
+   "en": "yong di point",
+   "source": "兽医学名词",
+   "wordNumber": "19.746",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "犬穴名。前肢称涌泉，后肢称滴水。在第三、四掌（跖）骨间的掌（跖）背侧静脉上，每肢各一穴。血针。主治中暑、感冒、气管炎、风湿、腹泻等。"
+  },
+  {
+   "cn": "少吏",
+   "en": "shao li;junior official",
+   "source": "中国古代史名词",
+   "wordNumber": "3.092",
+   "subjectFullName": "中国古代史_秦汉_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "汉代各地官府中秩百石以下的吏员。与长吏相对而言。"
+  },
+  {
+   "cn": "附庸",
+   "en": "fu yong;vassal state",
+   "source": "中国古代史名词",
+   "wordNumber": "2.15",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "依附于诸侯的小封君。多见于西周，有的直属王室。后世泛指各色依附之国及人员。"
+  },
+  {
+   "cn": "四妙勇安汤",
+   "en": "simiao yong'an decoction",
+   "source": "中医药学名词",
+   "wordNumber": "07.223",
+   "subjectFullName": "中医药学_方剂学_方剂",
+   "subjectName": "方剂",
+   "publishYear": "2004",
+   "definition": "出《验方新编》卷二方。组成：元参、金银花各三两，当归二两，甘草一两。水煎服。一连十剂，永无后患。药味不可减少，减则无效。"
+  },
+  {
+   "cn": "少牢",
+   "en": "shao lao;minor beast sacrifice",
+   "source": "中国古代史名词",
+   "wordNumber": "1.182",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "规格较低的祭祀用牲。西周以来天子中、小祀和诸侯、卿大夫祭祀，多以羊1头为牲，相对于“太牢”而称此。后世沿之，有时也以此为中、小祀用牲羊、猪各1头的合称。"
+  },
+  {
+   "cn": "哭踊",
+   "en": "ku yong;cry and stomp",
+   "source": "中国古代史名词",
+   "wordNumber": "1.206",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "顿足捶胸而哭。又称“擗踊”。西周以来丧礼中，子为父母、臣为君，皆须以此示哀。"
+  },
+  {
+   "cn": "佣耕",
+   "en": "yong geng;hired agricultural worker",
+   "source": "中国古代史名词",
+   "wordNumber": "3.168",
+   "subjectFullName": "中国古代史_秦汉_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "受田主雇佣的耕作活动。起源甚早，流行于秦汉以来，性质相近的还有赁舂等雇佣方式。此后历代有之，方式不一，佣耕者对主家的人身依附逐渐减轻。"
+  },
+  {
+   "cn": "永明律",
+   "en": "Yong Ming Lü;Yongming Code",
+   "source": "中国古代史名词",
+   "wordNumber": "4.196",
+   "subjectFullName": "中国古代史_魏晋南北朝_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "南朝齐在《晋律》及张斐、杜预注基础上制定的刑律。约完成于齐武帝永明九年（公元491年），故名。共为20卷，约1530余条，但未施行，部分内容后来被采入《梁律》。"
+  },
+  {
+   "cn": "永佃",
+   "en": "yong dian;permanent land lease",
+   "source": "中国古代史名词",
+   "wordNumber": "8.372",
+   "subjectFullName": "中国古代史_明清_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "佃户与田主订立长久承租契约的租佃形式。又称“永耕” “长租” “长耕”，始于宋，明清以契约方式流行于土地关系较为发达的地区，获得永佃权者对土地有相对独立的支配权，并受法律保护，甚至可以世袭，可于地上置"
+  },
+  {
+   "cn": "烧钞库",
+   "en": "shao chao ku;paper money incinerator",
+   "source": "中国古代史名词",
+   "wordNumber": "7.104",
+   "subjectFullName": "中国古代史_辽金元_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "元代监督管理烧毁残钞的机构。原名“昏钞库”，后改称“烧钞库”。"
+  },
+  {
+   "cn": "庸客",
+   "en": "yong ke;ordinary guest;hired laborer",
+   "source": "中国古代史名词",
+   "wordNumber": "2.318",
+   "subjectFullName": "中国古代史_先秦_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "出卖劳动力者。又称“佣” “庸” “庸民” “庸夫”，始于战国时期，后世沿称。"
+  },
+  {
+   "cn": "永业田",
+   "en": "yong ye tian;permanently allocated land",
+   "source": "中国古代史名词",
+   "wordNumber": "5.178",
+   "subjectFullName": "中国古代史_隋唐五代_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "均田制下授予民户且可继承、买卖的地亩。北魏称“桑田”，隋唐改称，其买卖限制已放开。"
+  },
+  {
+   "cn": "永嘉学派",
+   "en": "Yong Jia Xue Pai;Yongjia School",
+   "source": "中国古代史名词",
+   "wordNumber": "6.327",
+   "subjectFullName": "中国古代史_两宋_文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "南宋时以薛季瑄、陈傅良、叶适等为代表的学派。因其均系永嘉（今浙江温州）人得名，其学反对空谈性理，主张义利统一，见于实用，重视工商，为南宋浙东学派的重要一支。"
+  },
+  {
+   "cn": "永康学派",
+   "en": "Yong Kang Xue Pai;Yongkang School",
+   "source": "中国古代史名词",
+   "wordNumber": "6.328",
+   "subjectFullName": "中国古代史_两宋_文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "南宋时以陈亮为代表的学派。因陈亮为永康（今浙江永康）人得名，主张义在利欲之中，强调事功，倡言王霸并用，改革图强，为南宋浙东学派的一支。"
+  },
+  {
+   "cn": "绍兴和议",
+   "en": "Shao Xing he yi;Shaoxing peace negotiation",
+   "source": "中国古代史名词",
+   "wordNumber": "6.04",
+   "subjectFullName": "中国古代史_两宋_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "南宋高宗绍兴十一年（公元1141年）与金订立的和约。内容包括南宋向金称臣，岁贡银、绢各25万两、匹，双方以淮河中游至大散关（今陕西宝鸡南部山隘）一线为界，开展互市。为了扫清议和障碍，宋高宗、秦桧还制造"
+  },
+  {
+   "cn": "租庸调",
+   "en": "zu yong diao;zu, yong and diao;land tax, corvée service, cloth tax",
+   "source": "中国古代史名词",
+   "wordNumber": "5.182",
+   "subjectFullName": "中国古代史_隋唐五代_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "隋及唐前期与均田制相辅而行的赋役制度。在均田以丁口为本的前提下，唐初规定成年男丁每年需向官府纳租粟2石；输调绫或绢2丈、绵3两，或改输布2丈2尺、麻3斤；另须服劳役20日，可每日折绢3尺代替，即称庸。"
+  },
+  {
+   "cn": "少宰",
+   "en": "shao zai;junior chief executive or great steward",
+   "source": "中国古代史名词",
+   "wordNumber": "2.163",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "楚、宋等国执政官。位次太宰，后世时亦设之。"
+  },
+  {
+   "cn": "香港股票交易所",
+   "en": "Hong Kong Stock Exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "假怒",
+   "en": "sham rage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赵氏硬度",
+   "en": "Zhao hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "赵学敏",
+   "en": "Zhao Xuemin",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鸣啭，歌鸣",
+   "en": "song",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "号锣",
+   "en": "gong",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "阳",
+   "en": "yang",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赵［广绪］-西得方法",
+   "en": "Chao-Seader method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖，罗伯特",
+   "en": "Shaw\",\"Robert(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "长骨",
+   "en": "long bone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "长肌",
+   "en": "long muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "长脚",
+   "en": "long crus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "长头",
+   "en": "long head",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏循环",
+   "en": "Yang cycle",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "急嘴歌",
+   "en": "patter-song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抗议歌",
+   "en": "protest song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记谱歌曲",
+   "en": "prick-song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "长筒鼓",
+   "en": "long drum",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宫廷恋曲",
+   "en": "court song",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "体用",
+   "en": "Ti and Yong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "港珠澳大桥",
+   "en": "Hong Kong-Zhuhai-Macao Bridge",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "放松",
+   "en": "ease\",\"rest\",\"shio",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歌",
+   "en": "Song",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "锣",
+   "en": "gong",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锣",
+   "en": "gong",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锣",
+   "en": "gong",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长传",
+   "en": "long ball\",\"long pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "远投",
+   "en": "long shot\",\"long-distance shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歌行体",
+   "en": "Poetic Song",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "长角球",
+   "en": "long corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长距离",
+   "en": "long distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大力掷界外球",
+   "en": "long throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长传",
+   "en": "long pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "长传",
+   "en": "long pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "童非",
+   "en": "Tong Fei",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "烧热病",
+   "en": "shao-re disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.8",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "棉酚慢性中毒的典型表现之一，主要表现为热季日光下劳动时发生少汗、无汗以及全身难以忍受的灼热感。"
+  },
+  {
+   "cn": "山戎",
+   "en": "Shan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0088",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。戎人一支。先秦时活动于今河北省北部燕山一带。以林中狩猎和游牧为生，略知农耕。不时南侵中原，成为燕、齐诸国之边患。春秋末期渐衰，后融入邻族。"
+  },
+  {
+   "cn": "港人治港",
+   "en": "Hong Kong people governing Hong Kong",
+   "source": "马克思主义",
+   "wordNumber": "04.0168",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在1997年中国政府恢复对香港行使主权，设立香港特别行政区后，由香港的中国人来治理香港。其界限和标准，就是必须由以爱国者为主体的港人来治理香港。这是邓小平于20世纪80年代提出的解决香港问题新构想。"
+  },
+  {
+   "cn": "羞耻",
+   "en": "sham",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.102",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个人或组织因自身有违道德的意识和言行而产生的自我谴责的心理与道德情感。是个人或组织的道德意识的一种特定表现，是客观存在的各种社会关系在人们主观道德意识中的反映。"
+  },
+  {
+   "cn": "邵语",
+   "en": "Thao language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0352",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国台湾省邵人（Thao）使用的语言。属南岛语系印度尼西亚语族台湾语支排湾语群。分布在中国台湾省日月潭地区。使用人数很少，濒临消亡。分为卜吉和德化2 个方言。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0158",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "先秦古族名。主要活动于长江中游，支系众多，方国林立，不相统属。曾助武王伐商，战国时与楚国互动密切，先后渐渐融合于楚、汉，或部分沿长江而上居于川黔交界地带，今苗族、仡佬族或为其后裔，或与濮人有文化渊源。"
+  },
+  {
+   "cn": "噶厦",
+   "en": "Bkav shag",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0533",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "行政官职，原西藏地方政府官职，藏语音译，指发号施令的官府，也译“内阁”。为清代到新中国初期西藏地方官署名，即原西藏地方政府。乾隆十六年（1751 年）设置，达赖、摄政以下是政府行政机构，长官为噶伦，秉"
+  },
+  {
+   "cn": "香港回归",
+   "en": "Transfer of sovereignty over Hong Kong",
+   "source": "马克思主义",
+   "wordNumber": "04.0272",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1997年7月1日中华人民共和国政府对香港恢复行使主权，中华人民共和国香港特别行政区正式成立香港回归祖国的历史事件。香港回归作为“一国两制”构想的成功实践，对解决澳门、台湾问题具有率先示范的作用。"
+  },
+  {
+   "cn": "侗族",
+   "en": "Dong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0436",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在贵州、湖南、广西、湖北等地。人口349.59 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用侗语，属汉藏语系壮侗语族侗水语支。分南、北部方言。原无文字，沿用汉文"
+  },
+  {
+   "cn": "戎",
+   "en": "Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0008",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代西部民族之泛称。戎作为族称，始于周人，乃周朝劲敌，泛指集中于周原以西陇山地区之氐羌系各部落，故称为西戎。"
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "民歌",
+   "en": "folk song",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0384",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "来源于民间，创作者和创作的年月一般是不确定的，并主要以口头创作、口头流传、不断再创作的方式生存于民间。它是表现民众生活和情感，反映创作者的价值观和趣味的民间艺术形式。"
+  },
+  {
+   "cn": "东越",
+   "en": "Dong Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0149",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代东南越人的一支。有认为是越国后裔者。大致分布于今浙江南部瓯江流域一带。主要从事农业生产，擅长造船航海及习水战，有断发纹身之俗。汉初，封东海王；汉武帝时，徙其众于江淮间。"
+  },
+  {
+   "cn": "东爨",
+   "en": "Dong Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0136",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。分布于今云南、四川南部、贵州西部一带，以乌蛮为主。今云南彝、纳西、僳僳，为其后裔。"
+  },
+  {
+   "cn": "渔歌",
+   "en": "fishing song",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0058",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于中国沿海、沿江、沿河、沿湖渔区的民间歌曲；由众多渔民创作，是广大渔区人民在渔业生产、生活中，为抒发情感、传递情意、消除疲劳、调节情绪而自编自唱。"
+  },
+  {
+   "cn": "东羌",
+   "en": "Dong Qiang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0111",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。东汉时西羌部族内徙之一支。东汉时，分布于朔方、北地、上郡、五原、西河地区。"
+  },
+  {
+   "cn": "骊戎",
+   "en": "Li Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0087",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名，古戎人一支，姬姓。活跃于陕西临潼一带，曾与秦的先世通婚。春秋初，晋献公伐之，得骊姬；后为晋国所并。"
+  },
+  {
+   "cn": "犬戎",
+   "en": "Quan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0084",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。活跃于今陕、甘一带。犬戎之得名，是该民族的先祖以犬或者狼为图腾。申侯曾联合犬戎，摧翻西周王朝。春秋初期，犬戎又成为秦国强敌。汉唐“犬戎”和“戎狄”可泛指西北游牧民族。"
+  },
+  {
+   "cn": "西戎",
+   "en": "Xi Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0083",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族称。古代文献对位于中原之西的各族的泛称。也用来指春秋战国时期一些西戎部落建立的诸侯国。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

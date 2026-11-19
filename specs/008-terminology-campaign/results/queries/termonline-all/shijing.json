@@ -1,0 +1,752 @@
+{
+ "key": "shijing",
+ "term": "Shijing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:12:42+00:00",
+ "status": "ok",
+ "note": "variant=Shijing; 审定公布名词库=618; 海峡两岸名词对照库=191; 其他来源数据库=96; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "市井",
+   "en": "shijing,market and living area",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.025",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "（1）古代城市中集中交易的场所。（2）现多指市民社会。"
+  },
+  {
+   "cn": "划破",
+   "en": "slicing ",
+   "source": "草学名词",
+   "wordNumber": "4.0811",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "滑动",
+   "en": "sliding",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0131",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "摩擦副在固定接触面上的相对运动。"
+  },
+  {
+   "cn": "匀场",
+   "en": "shimming",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.029",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像设备",
+   "subjectName": "磁共振成像设备",
+   "publishYear": "2020",
+   "definition": "通过机械或电器调节的方法建立与磁场非均匀分量相反的磁场，消除磁场非均匀性的过程。常用主动匀场和被动匀场两种方法。"
+  },
+  {
+   "cn": "倒架",
+   "en": "shifting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.538",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "将图书馆全部或部分藏书从一个地方转移到另一个地方的过程。目的通常是使书架过度拥挤的部分腾出一些空位。"
+  },
+  {
+   "cn": "泥化",
+   "en": "sliming",
+   "source": "冶金学名词",
+   "wordNumber": "03.0064",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "矿石经长期风化或在粉磨过程中一部分生成如泥质一样的微细粒级的过程。泥化后由于粒径很细，比表面积很大，使下步分选造成困难。"
+  },
+  {
+   "cn": "锋放电",
+   "en": "spiking",
+   "source": "生物物理学名词",
+   "wordNumber": "07.126",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "表现为连续快速放电而无休止期出现的放电模式。出现在只含有快子系统的模型中，也可以出现在含有快慢变量的模型中。"
+  },
+  {
+   "cn": "着色",
+   "en": "shading",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0695",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "计算给定点颜色的过程。"
+  },
+  {
+   "cn": "匀场",
+   "en": "shimming",
+   "source": "化学名词",
+   "wordNumber": "03.2224",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "核磁共振谱的获得对外加磁场的均匀度要求极高，任何制作的磁体均不可能达到理想的均匀，必须使用匀场线圈调节其中电流大小产生各种空间分布的磁场梯度来补偿磁体固有的不均匀性。"
+  },
+  {
+   "cn": "塑造法",
+   "en": "shaping",
+   "source": "心理学名词",
+   "wordNumber": "15.035",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "采用操作条件作用原理，对当事人的行为分步强化，渐进地形成目标反应的一种治疗方法。"
+  },
+  {
+   "cn": "分片",
+   "en": "slicing",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.158",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "多维数据集合上的一种操作，切片的操作结果是n－1维的数据集。"
+  },
+  {
+   "cn": "削匀",
+   "en": "shaving",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0479",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "利用削匀机中快速转动的刀辊削去皮革在制品中的过厚部分，使皮革厚度均匀一致的操作。"
+  },
+  {
+   "cn": "[切]片",
+   "en": "slicing",
+   "source": "中医药学名词",
+   "wordNumber": "06.101",
+   "subjectFullName": "中医药学_中药学_炮制",
+   "subjectName": "炮制",
+   "publishYear": "2004",
+   "definition": "将净药材切成0.5mm以下的极薄片，或1～2mm的薄片，或2～4mm的厚片。"
+  },
+  {
+   "cn": "临时支撑",
+   "en": "shoring",
+   "source": "土木工程名词",
+   "wordNumber": "03.155",
+   "subjectFullName": "土木工程_土力学与地基基础_土压力和挡土结构",
+   "subjectName": "土压力和挡土结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摇动法",
+   "en": "shaking",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0214",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "缆绳绑扎",
+   "en": "seizing",
+   "source": "航海科技名词",
+   "wordNumber": "08.0302",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "支撑",
+   "en": "shoring",
+   "source": "航海科技名词",
+   "wordNumber": "08.0450",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "分层开采",
+   "en": "slicing",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "煤炭科学技术_煤矿开采_采煤方法",
+   "subjectName": "采煤方法",
+   "publishYear": "1996",
+   "definition": "厚煤层划分为中等厚度的若干分层,再依次开采各分层的开采方式。"
+  },
+  {
+   "cn": "整形",
+   "en": "shaping",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.475",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "移泊",
+   "en": "shifting",
+   "source": "航海科技名词",
+   "wordNumber": "09.0101",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "塑造法",
+   "en": "shaping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "削匀",
+   "en": "shaving",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "匀场",
+   "en": "shimming",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "掺加[示踪剂]",
+   "en": "spiking",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "峰值形成",
+   "en": "spiking",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分片",
+   "en": "slicing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遮蔽",
+   "en": "shading",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "暗影",
+   "en": "shading",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "明暗处理",
+   "en": "shading",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切片",
+   "en": "slicing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缠扎",
+   "en": "seizing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "移泊",
+   "en": "shifting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "支撑",
+   "en": "shoring",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "远足旅游",
+   "en": "hiking",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "苏敬",
+   "en": "Su Jing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "[造纸]施胶",
+   "en": "sizing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "滑雪旅游",
+   "en": "skiing",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "切片",
+   "en": "slicing\",\"sectioning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "成型",
+   "en": "forming\",\"shaping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "资源共享分时系统",
+   "en": "resource sharing time-sharing system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享管理",
+   "en": "sharing management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享行为",
+   "en": "sharing behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型经济",
+   "en": "Sharing Economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享经济",
+   "en": "sharing economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "收益共享",
+   "en": "revenue sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享金融",
+   "en": "sharing finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据分享",
+   "en": "data sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型社会",
+   "en": "Sharing Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享制度",
+   "en": "Sharing System",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据共享",
+   "en": "data sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无条件共享",
+   "en": "unconditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不予共享",
+   "en": "no sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享员工",
+   "en": "employee sharing   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选址",
+   "en": "siting",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "为一个设施选择适宜场址的过程，包括对有关设计基准作出适当的评定和界定。"
+  },
+  {
+   "cn": "史兴语",
+   "en": "Shixing language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.025",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称“史兴”藏族使用的语言。属汉藏语系藏缅语族羌语支。分布在四川省凉山彝族自治州木里藏族自治县水洛河两岸。使用人口约2000 人。"
+  },
+  {
+   "cn": "移动性浊音",
+   "en": "shifting dullness",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.15",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "腹部查体中因体位改变而出现浊音区移动的现象。检查时先让患者仰卧，从腹部中间向左侧叩诊，发现浊音时板指不动，让患者右侧卧再叩诊腹部，如果呈鼓音表明浊音移动。"
+  },
+  {
+   "cn": "共担风险",
+   "en": "risk-sharing",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "参保者和保险机构共同承担参保者接受卫生服务所带来的费用或成本消耗"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "药品费用分担",
+   "en": "drug cost sharing",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "参保患者的药品费用由其个人和医疗保险基金共同分担的机制。"
+  },
+  {
+   "cn": "医院成本转移",
+   "en": "hospital cost shifting",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.4",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "因为付费方没有向医院支付一组患者或服务应支付的金额，从而导致医院向另一组患者或服务收取更多费用的做法。"
+  },
+  {
+   "cn": "器官分享网络",
+   "en": "organ sharing network",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.059",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "在一定范围内建立的统一的器官捐献与分配网络系统。在我国的器官捐献和分配过程中，该网络将全国所获取的捐献器官严格根据公认的医学标准，兼顾患者的病情严重性、等待时间及其与捐献者的近亲关系等，以保证配型过程"
+  },
+  {
+   "cn": "同居共财",
+   "en": "residence and wealth sharing",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.3",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "家庭所有成员长期稳定地居住在一所或毗邻的几所房屋之内（有户籍制度的情况下都登记在国家的一个户籍之中）、家庭的全部生产资料和生活资料为家庭成员所共有、由家长实施支配权的生活组织方式和家产制度。"
+  },
+  {
+   "cn": "抓住机遇加速发展",
+   "en": "seizing opportunity accelerating development",
+   "source": "马克思主义",
+   "wordNumber": "04.0180",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志关于抓住时机，加快速度发展自己，隔几年上一个台阶的思想。从国际经济发展历史看，一些国家在发展过程中，都曾经有过高速发展的时期，或者若干高速发展阶段。因此，“抓住机遇，加速发展”是对现代化发展"
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint construction and sharing",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.10.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "政府、社会、机构和个人等多方协同参与，通过共同建设健康政策、环境和服务体系，实现人人公平可及、普遍受益的健康资源与成果共享的过程。"
+  },
+  {
+   "cn": "健康保险费用分担机制",
+   "en": "health insurance cost-sharing mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "健康保险的投保人通过投保费用彼此连接，并互相承担风险的制度"
+  },
+  {
+   "cn": "美国器官分配联合网络",
+   "en": "united network for organ sharing",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.07",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "负责美国国家范围内器官捐献与分配的私立、非营利性机构。1986 年美国联邦政府与其签订合同，并由其负责运作。其职责是建立全美国范围内的器官分配网络，进行收集、储存、分析、公布患者的移植等候排序表、器官"
+  },
+  {
+   "cn": "疗效风险分担",
+   "en": "performance-based risk sharing agreement,PBRSA，outcome-based risk sharing arrangement，OBRSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医保部门和药企签订协议，将药品在真实世界中的治疗结果作为触发事件，当治疗结果低于预期时，医保将要求药企降价、打折、返还已支付的医保基金，或调整未来医保支付的范围和标准，甚至要求药品退出医保目录的响应行"
+  },
+  {
+   "cn": "药品风险分担机制",
+   "en": "risk sharing agreement for pharmaceuticals,RSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "药品疗效的不确定性或超过医保预算的风险，由医疗保险基金与药企共同承担药品费用的机制。"
+  },
+  {
+   "cn": "健康共建共治共享",
+   "en": "co-building, governance and sharing of health",
+   "source": "社会医学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "治理",
+   "publishYear": "2025",
+   "definition": "政府主导、跨部门协同、专业与社会协作、民众共同参与建设与治理、共享健康相关决策、管理、资源和健康权益的理念和行动。"
+  },
+  {
+   "cn": "农村包围城市武装夺取政权",
+   "en": "encircling the cities from the countryside seizing power with armed force",
+   "source": "马克思主义",
+   "wordNumber": "03.0356",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于中国革命道路的理论。在领导中国革命过程中,毛泽东以马克思主义理论为指导,结合中国革命的具体实际,不断总结中国革命的历史经验,同教条主义、经验主义的错误倾向进行斗争,逐步提出并不断地完善了这个"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0766",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "权为民所用，就是要正确看待和运用手中的权力，用人民赋予的权力服务于人民、造福于人民，绝不以权谋私；情为民所系，就是要坚持与人民群众心连心，倾听群众呼声，关心群众疾苦，切实帮助群众解决实际困难，绝不脱离"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "miscellanies",
+ "term": "Miscellanies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:10:35+00:00",
+ "status": "ok",
+ "note": "variant=Miscellanies; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "东方杂志",
+   "en": "Eastern Miscellany",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.061",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "中国期刊史上重要的大型综合性杂志。1904年3月，由商务印书馆创办，初为月刊，后改半月刊，至1948年12月停刊。"
+  },
+  {
+   "cn": "混杂率",
+   "en": "miscellany rate",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.170",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "产品中错配物的分配率。"
+  },
+  {
+   "cn": "杂辑",
+   "en": "unimportant album； miscellanea",
+   "source": "档案学名词",
+   "wordNumber": "08.02.022",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "例行文件中无关重要者编成的案卷。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

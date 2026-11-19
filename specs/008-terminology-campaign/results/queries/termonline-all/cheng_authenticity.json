@@ -1,0 +1,802 @@
+{
+ "key": "cheng (authenticity)",
+ "term": "cheng (authenticity)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:07:33+00:00",
+ "status": "ok",
+ "note": "variant=cheng (authenticity); 审定公布名词库=412; 海峡两岸名词对照库=25; 其他来源数据库=33; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "呈称",
+   "en": "cheng cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.02.049",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书引述词。公文装叙来文，“呈称”表示征引开始，“呈”为征引文件的文种名称，“称”是说的意思，用于引述上行文，“呈称”即呈文中说。"
+  },
+  {
+   "cn": "呈",
+   "en": "cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.104",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国近代官府往来文书上行文种。民国时期的基本上行文种。呈的用途主要有：下级官署对上级官署，或职官对长官有所陈请或报告；人民对官署有所陈请。"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "档案学名词",
+   "wordNumber": "06.01.019",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件内容、结构和背景与形成时的原始状况相一致的性质。真实的文件满足以下条件：第一，文件用意与其制文目的相符；第二，文件的形成者和发送者与其既定的形成者和发送者相吻合；第三，文件的形成或发送时间与其既定"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.072",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "遗产价值的信息来源真实可靠。对这些与文化遗产的最初与后续特征有关的信息来源及其意义的认识与了解是全面评估真实性的必备基础。这些来源可包括形式与设计、材料与物质、用途与功能、传统与技术、地点与背景、精神"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0061",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "在虚拟市场中确定交易者的实际身份。"
+  },
+  {
+   "cn": "认证鉴别",
+   "en": "authentication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.103",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "验证实体是否具有其宣称的身份的过程和行为。"
+  },
+  {
+   "cn": "认证",
+   "en": "authentication",
+   "source": "电力名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "任何专用于确定传输消息或发信方的有效性的安全措施,或者对接受特定的信息类别的个人授权进行验证的手段。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "authentication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0104",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "判别真伪的证明。"
+  },
+  {
+   "cn": "认证",
+   "en": "authentication",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0066",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "公证机关或专职部门对某事物审查属实后给予的证明。"
+  },
+  {
+   "cn": "呈状",
+   "en": "cheng zhuang",
+   "source": "档案学名词",
+   "wordNumber": "07.01.103",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代官府往来文书上行文种。元明时期向有隶属关系的上级行文用呈状，为级别较高衙门使用的上行文。呈状清代前期仍有使用，后改称呈文。清代呈文用途广泛，用来呈报、呈复、呈送等，一般不需要批示。呈文一直沿用"
+  },
+  {
+   "cn": "签呈",
+   "en": "qian cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.105",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "（1）中国近代官府往来文书上行文种。签呈是用简便的签条纸缮写的上行文。签呈的主要用途有：机关内部的官员对本机关长官陈述事件、请示办法或奉谕呈复；幕僚对其主管官有所呈报或建议。（2）民国时期通用文书，是"
+  },
+  {
+   "cn": "咨呈",
+   "en": "zi cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.123",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "（1）中国古代官府往来文书上行文种。始于元代，为咨文的分支。用途与平行的咨文无太大区别，收文衙门等级地位略高，明清沿袭。（2）民国时期，袁世凯复辟帝制时公文程式规定各部院、各省最高级官署与政事堂行文时"
+  },
+  {
+   "cn": "规程",
+   "en": "gui cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.170",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期各政府机关根据法或条例所制定的关于本机关或所属机关的组织、人员职责、处理事务程序等各项规定的文书。"
+  },
+  {
+   "cn": "章程",
+   "en": "zhang cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.171",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期通用文书，与规程的性质相同，但为非政府机关所制定。"
+  },
+  {
+   "cn": "折呈",
+   "en": "zhe cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.178",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期官吏面见长官陈述事件时，所呈递用作备忘的文书，目的在于防止言者疏漏，听者不能详尽。"
+  },
+  {
+   "cn": "详称",
+   "en": "xiang cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.02.050",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书引述词。公文装叙来文，“详称”表示征引开始，“详”为征引文件的文种名称，“称”是说的意思，用于引述上行文，“详称”即详文的内容是。"
+  },
+  {
+   "cn": "禀称",
+   "en": "bing cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.02.051",
+   "subjectFullName": "档案学_历史文书_文书用语",
+   "subjectName": "文书用语",
+   "publishYear": "2024",
+   "definition": "文书引述词。公文装叙来文，“禀称”表示征引开始，“禀”为征引文件的文种名称，“称”是说的意思，用于引述上行文，“禀称”即禀文的内容是。"
+  },
+  {
+   "cn": "驿丞",
+   "en": "yi cheng",
+   "source": "档案学名词",
+   "wordNumber": "08.03.031",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "职官名。掌管驿站中仪仗、车马、迎送之事，与传递文书关系密切。明代始置。清沿明制，设于全国各州县。"
+  },
+  {
+   "cn": "成无己",
+   "en": "Cheng Wuji",
+   "source": "中医药学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "金代医学家。撰《注解伤寒论》、《伤寒明理论》。"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0364",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "依据文化遗产类别及其文化背景，如果遗产的文化价值的外形和设计，材料和实质，用途和功能，传统、技术和管理体系，位置和环境，语言和其他形式的非物质遗产，精神和感觉，其他内外因素等特征真实可信，则被认为具有"
+  },
+  {
+   "cn": "真实性",
+   "en": "authenticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别",
+   "en": "authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别码，鉴定符",
+   "en": "authenticator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身份验证者",
+   "en": "authenticator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正调式",
+   "en": "authentic mode",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "真实性评价",
+   "en": "authentic assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "报文鉴别",
+   "en": "message authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标识鉴别",
+   "en": "identity authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别交换",
+   "en": "authentication exchange",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别数据",
+   "en": "authentication data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别头",
+   "en": "authentication header",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别信息",
+   "en": "authentication information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实体鉴别",
+   "en": "entity authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证书鉴别",
+   "en": "certificate authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鉴别逻辑",
+   "en": "logic of authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原数据鉴别",
+   "en": "origin data authentication",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对照生药",
+   "en": "authentic crude drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "报文鉴别码",
+   "en": "message authentication code\",\"MAC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证实",
+   "en": "○1authentication\",\"verification○2 confirm\",\"certify",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陈藏器",
+   "en": "Chen Zangqi",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "程菲",
+   "en": "Cheng Fei",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区块链鉴证",
+   "en": "blockchain authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份鉴别",
+   "en": "identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "报文认证",
+   "en": "message authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证服务",
+   "en": "authentication service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证协议",
+   "en": "authentication protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证加密",
+   "en": "Authenticated Encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全认证",
+   "en": "security authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身份认证管理",
+   "en": "identity authentication management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证测试方法",
+   "en": "authentication testing method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份认证体系",
+   "en": "network identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多元化身份认证体系",
+   "en": "diversified identity authentication system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "认证授权技术",
+   "en": "authentication and authorization technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密制消息验证码",
+   "en": "encrypted message authentication code",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消息鉴别码",
+   "en": "message authentication code (MAC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全可控身份认证",
+   "en": "secure and controllable identity authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全方位信息保证认证",
+   "en": "overall information assurance and authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第三方电子认证服务",
+   "en": "third-party e-authentication service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证书强认证",
+   "en": "strong authentication of digital certificates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城",
+   "en": "cheng",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "古时在都邑四周修筑用于防御的墙垣,也指都邑。"
+  },
+  {
+   "cn": "真实",
+   "en": "authentic",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.11",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品产品的各类实际特征与声称相符"
+  },
+  {
+   "cn": "食品真实性",
+   "en": "food authenticity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在性质、来源、特征和声称方面真实，并满足预期属性的状态。食品欺诈的反义词。"
+  },
+  {
+   "cn": "食品真实属性确认",
+   "en": "food authenticity identification",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.13",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过提供客观证据对食品固有的本质特征已得到满足的认定。"
+  },
+  {
+   "cn": "食品真实属性声称",
+   "en": "food authenticity claim",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "在食品标签或销售包装上，对食品的原料、配料、品种、规格、质量、等级、产地等可以判断真假的属性进行的声明和公示。"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  },
+  {
+   "cn": "协庆寺",
+   "en": "Zhe chen dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0563",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教寺院。协庆寺位于四川省甘孜藏族自治州德格县竹庆乡，全称“协庆丹尼达吉林寺”，是藏传佛教“宁玛派六大寺”之一。约在1731 年建成，该寺显密经论并举，注重修行宁玛派大圆满法，法脉传承延续至今，出"
+  },
+  {
+   "cn": "《五大藏》",
+   "en": "Mdzod chen lnga",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0364",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "伏藏文献丛书。蒋贡康楚又名工珠•云丹嘉措编著，是汇集历史上重要伏藏文献的五大丛书，完成于1867 年。内容包括密宗教法论典、密法仪轨、实修方法和秘诀要点等。五大丛书为：《大宝伏藏》63 函、《教传密咒"
+  },
+  {
+   "cn": "钵阐布",
+   "en": "Dpal chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0526",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "吐蕃官职，意为“吐蕃宰相沙门”。798 年赤德松赞即位后，建立高僧掌政制度，设立钵阐布官职，任命佛教高僧勃阑伽•贝吉云丹及娘定埃增为掌政大臣，其地位高于外戚及诸权贵。822 年唐朝和盟专使入蕃与钵阐布"
+  },
+  {
+   "cn": "佐钦寺",
+   "en": "Rdzogs chen dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0569",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "佐钦寺：藏传佛教寺院。位于四川省甘孜藏族自治州德格县竹庆乡，为康藏地区三大宁玛派寺院之一，也是藏传佛教“宁玛派六大寺”之一。于公元1230 年由高僧嘛尼仁青的高徒迦卢巴旦曲丹增仁波切创建，原名生达佐钦"
+  },
+  {
+   "cn": "大乘法王",
+   "en": "Theg chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0431",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓，1413 年萨迦派高僧贡噶扎西（汉籍中称昆泽思巴）应明朝廷之邀抵达南京，被明成祖封为“万行圆融妙法最胜真如慧智弘慈广济护国演教正觉大乘法王西天上善金刚普应大光明佛领天下释教”，简称“"
+  },
+  {
+   "cn": "大圆满法",
+   "en": "Rdzogs pa chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0444",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。宁玛派九乘教法至高无上的法门，即是即身成佛之密法。强调通过对本初智慧的洞察，离于取舍、希惧，而获得解脱。教法传承始自普贤王如来，总的分为远传和近传两种传承，修行次第分加行和正行。"
+  },
+  {
+   "cn": "《隆钦七宝藏论》",
+   "en": "Klong chen mdzod bdun",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.035",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教宁玛派著名丛书。隆钦然降巴（1308 年—1363 年。宁玛派《大圆满法隆钦心髓》密法的开创者）著，丛书包括《宗论藏》、《妙乘藏》、《如意藏》、《窍诀藏》、《法界藏》、《实相藏》、《词义藏》七"
+  },
+  {
+   "cn": "大慈法王",
+   "en": "Byams chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.043",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓，大慈法王·释迦益西（1354－1435 年），格鲁派高僧，曾经代表宗喀巴到京谒见明成祖，回藏后创建色拉寺。曾作永乐、宣德两代的国师，宣德9 年（1434），受封为大慈法王，全称：“万"
+  },
+  {
+   "cn": "《密宗道次第广论》",
+   "en": "Sngags rim chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0352",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教经典名著，宗喀巴（1357 年—1419 年）著，详述了四续密法的修行次第、仪轨、方法等，全文分两大部分。一，如何修习佛法得到解脱的方法，阐述了大、小乘教法与金刚乘密法及其彼此间的关系。二，事"
+  },
+  {
+   "cn": "大手印",
+   "en": "Phyag rgya chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0442",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。系藏传佛教噶举派的教法，由印度大成就者萨惹哈传授。为证悟心性的最直接的修持方法之一，也是金刚乘见地的基本构成部分。显教大手印是以经教证空性，密教大手印以“空乐双运为道”，又名“唯一白法”"
+  },
+  {
+   "cn": "《大宝伏藏》",
+   "en": "Rin chen gter mdzod",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0339",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教伏藏经典文集。编纂者工珠·云丹加措（1813 年—1899 年），又名蒋贡康楚罗卓泰耶。该文集汇集了藏传佛教史上108 位大伏藏师的传记及其获取的伏藏典籍等，共63函木刻版典籍。"
+  },
+  {
+   "cn": "仲译钦莫",
+   "en": "Drung yig chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0539",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "行政官职名称，原西藏地方政府官职，藏语音译，意为大秘书，系“译仓”官员，由四人组成,均系四品僧官,掌管除班禅系统外的西藏地方宗教事务,并负责达赖喇嘛的印信、文书、命令等一应事务,同时也管理僧官培养、任"
+  },
+  {
+   "cn": "大宝法王",
+   "en": "Rin chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓。1406 年，噶玛噶举黑帽系第五世活佛得银协巴（1384 年—1415 年）应明朝永乐皇帝之邀抵达南京，受到明成祖的盛情款待，并受封为万行具足十方最胜圆觉妙智慧善普应佑国演教如来大宝"
+  },
+  {
+   "cn": "《菩提道次第广论》",
+   "en": "Sngags rim chen mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0353",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教经典名著。宗喀巴（1357 年—1419 年）著，是依照阿底峡的《菩提道炬论》、卓隆巴的《道次第论》和《圣教次第论》以及莲花戒的《修道次第论》的思想内容所著成的一部阐述佛教教义和修法的巨著。从"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

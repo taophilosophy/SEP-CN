@@ -1,0 +1,642 @@
+{
+ "key": "quan (discretion)",
+ "term": "quan (discretion)",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:12:20+00:00",
+ "status": "ok",
+ "note": "variant=quan (discretion); 审定公布名词库=681; 海峡两岸名词对照库=69; 其他来源数据库=11; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "券",
+   "en": "quan",
+   "source": "档案学名词",
+   "wordNumber": "07.01.009",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "古代表示信用的凭证类文书统称。一般判为两半，各执其一作为凭证。"
+  },
+  {
+   "cn": "万全",
+   "en": "Wan Quan",
+   "source": "中医药学名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "明代儿科学家。撰《万密斋医学全书》等。"
+  },
+  {
+   "cn": "离散化",
+   "en": "discretization",
+   "source": "大气科学名词",
+   "wordNumber": "05.463",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "将连续问题的解用一组离散要素来表征而近似求解的方法。"
+  },
+  {
+   "cn": "离散化",
+   "en": "discretization",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "离散化",
+   "en": "discretization",
+   "source": "数学名词",
+   "wordNumber": "010.0027",
+   "subjectFullName": "数学_数值分析_数值分析基本概念",
+   "subjectName": "数值分析基本概念",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "离散[的]",
+   "en": "discrete",
+   "source": "数学名词",
+   "wordNumber": "01.0070",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "霸王拳",
+   "en": "ba wang quan",
+   "source": "风景园林名词",
+   "wordNumber": "07.0221",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "清官式建筑大木作构件做法，于角柱之上，平板枋之下，为额枋（阑额）出头形式，由三凸两凹共五段半圆曲线构成，形似握拳形状。"
+  },
+  {
+   "cn": "涌泉穴",
+   "en": "yong quan point",
+   "source": "兽医学名词",
+   "wordNumber": "19.726",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "牛、驼、羊、猪、犬穴名。位于前肢蹄叉前缘正中稍上方。左右侧各一穴。血针。主治蹄肿、寸子扭伤、中暑、感冒、肚痛、三焦积热等。"
+  },
+  {
+   "cn": "权",
+   "en": "quan;temporary assignment",
+   "source": "中国古代史名词",
+   "wordNumber": "6.146",
+   "subjectFullName": "中国古代史_两宋_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "暂理某项事务的任用方式。类似做法早已有之，唐朝始以“权判”“权知”某官某事等方式出现，五代至宋流行。宋神宗元丰改制后，指暂代某官职务，在正式任命时，再据寄禄官品确定其为行或守、试。"
+  },
+  {
+   "cn": "行政自由裁量权",
+   "en": "administrative discretion",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0049",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "行政机关及其工作人员在法律法规授权的范围内依据立法目的和公正合理的原则，自行判断行为条件和事实、自主选择行为的时间和方式、自由做出行政决定的权力。"
+  },
+  {
+   "cn": "离散过程",
+   "en": "discrete process",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "被加工物通过一系列相互独立的工序进行单件加工或批量处理加工，最后形成要求的产品的加工过程。"
+  },
+  {
+   "cn": "离散优化",
+   "en": "discrete optimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.195",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "部分或全部变量被限制在离散集合上取值的优化。离散优化问题的变量可以是整数、二元变量（0和1）以及更抽象的变化对象（如有序集合的排列）。"
+  },
+  {
+   "cn": "离散世代",
+   "en": "discrete generation ",
+   "source": "草学名词",
+   "wordNumber": "2.0119",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "离散型干扰",
+   "en": "discrete disturbance ",
+   "source": "草学名词",
+   "wordNumber": "2.012",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "分立极光",
+   "en": "discrete aurora",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0031",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "由磁层带电粒子沿磁力线加速沉降到电离层而产生的具有明显结构和边界的线状和幕状极光。 "
+  },
+  {
+   "cn": "[机构动力学]离散系统",
+   "en": "discrete system",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0380",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "各处的物理特性参数(如质量、刚度等)不是连续分布的系统。"
+  },
+  {
+   "cn": "离散系统",
+   "en": "discrete system",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0013",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "具有有限个广义坐标的系统。"
+  },
+  {
+   "cn": "离散性状",
+   "en": "discrete trait",
+   "source": "畜牧学名词",
+   "wordNumber": "04.328",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "表型呈离散分布的性状。"
+  },
+  {
+   "cn": "离散变异",
+   "en": "discrete variation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.615",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "如果变量的取值变化是离散性的，则其变化称为离散变异。"
+  },
+  {
+   "cn": "离散[频]谱",
+   "en": "discrete spectrum",
+   "source": "电力名词",
+   "wordNumber": "01.367",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "频率成分在给定频率范围内是离散分布的频谱。"
+  },
+  {
+   "cn": "离散的",
+   "en": "discrete",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不连续沉降",
+   "en": "discrete settling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离散型变量",
+   "en": "discrete variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分立谱带",
+   "en": "discrete band",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "离散型模型",
+   "en": "discrete model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "离散数据",
+   "en": "discrete data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "离散要素",
+   "en": "discrete feature",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分立电路",
+   "en": "discrete circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分立组件",
+   "en": "discrete component",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散对数",
+   "en": "discrete logarithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散分布",
+   "en": "discrete distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散卷积",
+   "en": "discrete convolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散耦合",
+   "en": "discrete coupling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散松弛法",
+   "en": "discrete relaxation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散文本",
+   "en": "discrete text",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散信号",
+   "en": "discrete signal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散指令",
+   "en": "discrete command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分立二发射极",
+   "en": "discrete dynode",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "离散纵标法",
+   "en": "discrete ordinate method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分立能态",
+   "en": "discrete energy state",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散解构",
+   "en": "discrete destructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数据",
+   "en": "discrete data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元",
+   "en": "Yuan (Origin)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄",
+   "en": "Xuan (Mystery)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乾",
+   "en": "Qian(The Heaven Symbol)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元杂剧",
+   "en": "Zaju of the Yuan Dynasty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "嵇志清峻，阮旨遥深",
+   "en": "Elevated Clarity, and Unfathomable Obscurity: the Poetic Voices of Ji Kang and Ruan Ji",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "犬戎",
+   "en": "Quan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0084",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。活跃于今陕、甘一带。犬戎之得名，是该民族的先祖以犬或者狼为图腾。申侯曾联合犬戎，摧翻西周王朝。春秋初期，犬戎又成为秦国强敌。汉唐“犬戎”和“戎狄”可泛指西北游牧民族。"
+  },
+  {
+   "cn": "离散变量",
+   "en": "discrete variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.43",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以计数测定性态并用整数表示的变量。"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "爨",
+   "en": "Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0135",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族系名。三国两晋南北朝时期，由建宁（今云南省曲靖地区）汉族大姓爨氏苗裔繁衍而来，分东爨、西爨两部，均分布于今云南省东部。一直延续到元代和明代。明以后爨专指罗罗。"
+  },
+  {
+   "cn": "东爨",
+   "en": "Dong Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0136",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。分布于今云南、四川南部、贵州西部一带，以乌蛮为主。今云南彝、纳西、僳僳，为其后裔。"
+  },
+  {
+   "cn": "爨碑",
+   "en": "Cuan Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0314",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "《爨龙颜碑》与《爨宝子碑》之合称，均在云南曲靖市境内。前者立于南朝刘宋孝武帝大明二年（458）；后者立于东晋大亨四年（404 年）。魏晋南北朝时期，爨氏曾长期统治云南，碑文主要叙述其家族史及碑主生平事"
+  },
+  {
+   "cn": "阮咸",
+   "en": "Ruan Xian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0647",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "弹拨乐器，古琵琶的一种。在新疆克孜尔等佛窟壁画中常见，可知为西域乐舞主要乐器之一。现代阮发展到十二品，大、中、小三种形制，是器乐合奏、伴奏中的重要乐器。"
+  },
+  {
+   "cn": "西爨",
+   "en": "Xi Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0137",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。在石城（今云南曲靖）、昆川（今云南省昆明市）、曲轭（今云南省马龙县）、晋宁、喻献（今云南省澄江县、江川县）、安宁至龙和城（今云南省禄丰县）一带。唐初，汉族移民融合于当地僰族之中，形成西爨白蛮。"
+  },
+  {
+   "cn": "乌桓",
+   "en": "Wu Huan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0028",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡的一支，与鲜卑均为东胡部落联盟中之大部，活动于今西拉木伦河两岸及归喇里河西南地区。初臣服于匈奴，后附汉，被迁徙至辽东五郡塞外。魏晋以后，陆续内迁，渐与他族融合。"
+  },
+  {
+   "cn": "白爨",
+   "en": "Bai Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0139",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以白蛮为白爨。"
+  },
+  {
+   "cn": "黑爨",
+   "en": "Hei Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0138",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以乌蛮为黑爨。"
+  },
+  {
+   "cn": "宣抚司",
+   "en": "Xuan Fu Si",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0205",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "官署名。金代置于中原地区；元代于西南少数民族地区设置，掌管地方军民政务，官员参用土官。明清沿用，少数民族首领世袭土官。"
+  },
+  {
+   "cn": "宣慰司",
+   "en": "Xuan Wei Si",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0204",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元代创立之政令承转机关，设于行省之下、统辖路府州县，管理军民事务。明清于西北、西南少数民族地区沿用，参用土官。"
+  },
+  {
+   "cn": "《大元圣政国朝典章》",
+   "en": "Code of Yuan Dynasty",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0279",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝法令公牍文书汇编，简称《元典章》。正集六十卷；附新集，不分卷。编者不详。汇集元世祖至英宗时期之诏旨、律令、条格等而成。资料不加润饰增删，原始真实，是研究元代政治、经济、文化之重要史料。"
+  },
+  {
+   "cn": "《大元大一统志》",
+   "en": "Universal Geography of Great Yuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.028",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "元朝官修地理总志。由札马剌丁、虞应龙等编纂，自1285 年起，历时9 年完成初稿；后因新得《云南图志》《甘肃图志》《辽阳图志》，继续重修，1303 年正式告成。凡六百册，一干三百卷。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

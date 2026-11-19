@@ -1,0 +1,62 @@
+{
+ "key": "renshuo",
+ "term": "Renshuo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:12:28+00:00",
+ "status": "ok",
+ "note": "variant=Renshuo; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "人师",
+   "en": "renshi",
+   "source": "教育学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "学识渊博、品行高尚，堪为表率的教师。"
+  },
+  {
+   "cn": "闰绍细胞",
+   "en": "Renshaw cell",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0169",
+   "subjectFullName": "人体解剖学_神经系统_脊髄",
+   "subjectName": "脊髄",
+   "publishYear": "2014",
+   "definition": "位于脊髓前角腹内侧部的细胞。接受α运动神经元轴突返支的突触终末(胆碱能，兴奋性)，发出的轴突(甘氨酸能，抑制性)又终止于发出返支的同一α运动神经元胞体上，形成抑制性负反馈环路，从而保证肌肉运动的稳定性"
+  },
+  {
+   "cn": "人参养荣丸",
+   "en": "renshen yangrong pills,renshen yangrong wan",
+   "source": "中医药学名词",
+   "wordNumber": "07.383",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：人参、白术（土炒）、茯苓、炙甘草、当归、熟地黄、白芍（麸炒）、炙黄芪、陈皮、远志（制）、肉桂、五味子（酒蒸）、鲜姜、大枣。"
+  },
+  {
+   "cn": "人参健脾丸",
+   "en": "renshen jianpi pills,renshen jianpi wan",
+   "source": "中医药学名词",
+   "wordNumber": "07.384",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：人参、白术（麸炒）、甘草、山药、莲子、白扁豆、木香、草豆蔻、陈皮、青皮、六神曲、谷芽、山楂、芡实、薏苡仁、当归、枳壳。"
+  },
+  {
+   "cn": "人参再造丸",
+   "en": "renshen zaizao pills",
+   "source": "中医药学名词",
+   "wordNumber": "07.382",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：乌梢蛇、天麻、羌活、威灵仙、僵蚕、白附子、当归、穿山甲（用代用品）、血竭、乳香、没药、人工牛黄、麝香、朱砂、人参、黄芪。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

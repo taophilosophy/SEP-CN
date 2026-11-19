@@ -1,0 +1,762 @@
+{
+ "key": "gui-shen",
+ "term": "gui-shen",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:09:00+00:00",
+ "status": "ok",
+ "note": "variant=gui-shen; 审定公布名词库=1065; 海峡两岸名词对照库=106; 其他来源数据库=58; 预公布名词数据库=73; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "缆绳",
+   "en": "guy",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0586",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_桅杆起重机",
+   "subjectName": "桅杆起重机",
+   "publishYear": "2013",
+   "definition": "连接桅杆顶部支承件与锚碇间的拉索，用以保持桅杆的稳定与直立。"
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "source": "航海科技名词",
+   "wordNumber": "08.0376",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "牵索",
+   "en": "guy,slewing guy",
+   "source": "船舶工程名词",
+   "wordNumber": "05.171",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "索具中用以摆动吊杆或调整吊杆偏角的绳索。"
+  },
+  {
+   "cn": "井架绷绳",
+   "en": "derrick guy,guy line",
+   "source": "石油名词",
+   "wordNumber": "12.0163",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "规程",
+   "en": "gui cheng",
+   "source": "档案学名词",
+   "wordNumber": "07.01.170",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期各政府机关根据法或条例所制定的关于本机关或所属机关的组织、人员职责、处理事务程序等各项规定的文书。"
+  },
+  {
+   "cn": "规则",
+   "en": "gui ze",
+   "source": "档案学名词",
+   "wordNumber": "07.01.172",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期各机关根据根本法规制定执行方法或处理程序的详细规定的文书。"
+  },
+  {
+   "cn": "叶桂",
+   "en": "Ye Gui",
+   "source": "中医药学名词",
+   "wordNumber": "02.165",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "清代著名医学家。口述《温热论》、《临证指南医案》等。"
+  },
+  {
+   "cn": "天癸",
+   "en": "tian gui",
+   "source": "中医药学名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "肾中精气充盈到一定程度时产生的具有促进人体生殖器官成熟，并维持生殖功能的物质。"
+  },
+  {
+   "cn": "拉线",
+   "en": "guy,stay",
+   "source": "建筑学名词",
+   "wordNumber": "14.0583",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "承受张力，用于连接杆塔上一点与地锚或连接杆塔上两点的钢索。"
+  },
+  {
+   "cn": "绷索",
+   "en": "guy line",
+   "source": "林学名词",
+   "wordNumber": "10.322",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "调整牵引索、起重牵引索松紧程度的绳索或绷紧集材杆的拉索。"
+  },
+  {
+   "cn": "锚碇",
+   "en": "guy anchor",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0588",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_桅杆起重机",
+   "subjectName": "桅杆起重机",
+   "publishYear": "2013",
+   "definition": "埋设于地面下，用以锚固缆绳或地梁的装置。"
+  },
+  {
+   "cn": "拉线绝缘子",
+   "en": "guy insulator",
+   "source": "电气工程名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "电气工程_绝缘子",
+   "subjectName": "绝缘子",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "稳索",
+   "en": "preventer guy",
+   "source": "船舶工程名词",
+   "wordNumber": "05.172",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "牵索索具中用以固定吊杆位置的钢索。"
+  },
+  {
+   "cn": "牵索柱",
+   "en": "guy post",
+   "source": "船舶工程名词",
+   "wordNumber": "05.157",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "设置在舷侧,供系固牵索索具用的短柱。"
+  },
+  {
+   "cn": "牵索眼板",
+   "en": "guy eye",
+   "source": "船舶工程名词",
+   "wordNumber": "05.160",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "位于吊杆头端处，供连接牵索索具用的带孔金属件。"
+  },
+  {
+   "cn": "钢丝牵索",
+   "en": "wire guy",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.135",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "拉索",
+   "en": "guy cable",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拉索式塔架",
+   "en": "guyed tower",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0211",
+   "subjectFullName": "机械工程_动力机械_风力机_结构部件",
+   "subjectName": "结构部件",
+   "publishYear": "2013",
+   "definition": "有塔杆，又有拉索的塔架。"
+  },
+  {
+   "cn": "桅杆",
+   "en": "guyed mast",
+   "source": "土木工程名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "土木工程_建筑结构_特种工程结构",
+   "subjectName": "特种工程结构",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉索塔",
+   "en": "guyed tower",
+   "source": "船舶工程名词",
+   "wordNumber": "13.028",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "以塔型桁架及桩作为支承结构，同时采用多根系泊钢索从塔型桁架四周拉住以保证风浪中稳定性的深水顺应式结构。"
+  },
+  {
+   "cn": "稳索",
+   "en": "guy",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "牵索",
+   "en": "guy",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "古伊",
+   "en": "Gui\",\"Vittorio(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "稳索眼板",
+   "en": "guy eye",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉索塔",
+   "en": "guyed tower",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "罗帕尔茨",
+   "en": "Ropartz\",\"Joseph Guy(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图形用户界面",
+   "en": "graphical user interface\",\"GUI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形用户界面",
+   "en": "graphic user interface\",\"GUI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "孟诜",
+   "en": "Meng Shen",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "货棚",
+   "en": "shed",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "干燥棚",
+   "en": "drying shed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "灰光",
+   "en": "ashen light",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "劳动力源地",
+   "en": "labor shed",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "陈藏器",
+   "en": "Chen Zangqi",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "支索",
+   "en": "guy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "牵索",
+   "en": "guy cable",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下曳索",
+   "en": "down haul\",\"guy\",\"preventer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神",
+   "en": "Shen (Spirit / Spiritual)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "震",
+   "en": "Zhen（Vibration）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护胫",
+   "en": "shin guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪",
+   "en": "gun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鸣炮",
+   "en": "gun",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护腿板",
+   "en": "leg guard\",\"leg pad\",\"shin guard\",\"shin pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兑",
+   "en": "Dui (Marsh)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "火药",
+   "en": "gun powder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪库",
+   "en": "gun room",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪架",
+   "en": "gun rack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "火药",
+   "en": "gun powder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肩手综合征",
+   "en": "shoulder-hand syndrome, SHS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "表现为突然出现的肩部疼痛、运动受限、手浮肿及疼痛，伸手功能受限的疾病，严重者可出现手部肌肉萎缩、手指变形、手部功能完全丧失。多由于卒中、心肌梗死、上肢创伤、截瘫、肺部疾病、肩关节疾病等引起，常影响一侧"
+  },
+  {
+   "cn": "醉谷病",
+   "en": "zui-gu disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.2.2",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "赤霉病麦中毒重症的典型症状之一，表现为呼吸、脉搏、体温及血压波动，四肢酸软、步态不稳、形似醉酒。"
+  },
+  {
+   "cn": "《晶珠本草》",
+   "en": "Shel gong shel phreng",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0347",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族医学名著，分《治病伏魔药物功能直讲•无垢晶球》及《甘露药物物名称功能详解•无垢晶鬘》两部分内容，简称《晶球论》和《品鬘论》。作者为杜玛格西•丹增彭措，约于1735年成书。共收载药物二千二百九十四种"
+  },
+  {
+   "cn": "畲族",
+   "en": "She",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0446",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在福建、浙江、广东、江西、安徽等地。人口74.63 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。畲语属汉藏语系苗瑶语族苗语支。多数畲族人操接近汉语客家方言的语言，少"
+  },
+  {
+   "cn": "山戎",
+   "en": "Shan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0088",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。戎人一支。先秦时活动于今河北省北部燕山一带。以林中狩猎和游牧为生，略知农耕。不时南侵中原，成为燕、齐诸国之边患。春秋末期渐衰，后融入邻族。"
+  },
+  {
+   "cn": "山越",
+   "en": "Shan Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0158",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "先秦古族名。主要活动于长江中游，支系众多，方国林立，不相统属。曾助武王伐商，战国时与楚国互动密切，先后渐渐融合于楚、汉，或部分沿长江而上居于川黔交界地带，今苗族、仡佬族或为其后裔，或与濮人有文化渊源。"
+  },
+  {
+   "cn": "斯文赫定",
+   "en": "Sven Hedin",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0598",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "瑞典著名探险家、地理学家。1893 年起，先后三次在中国新疆、西藏、青海地区进行探险活动。著有《穿越亚洲》、《1889—1902 年中亚科学考察成果》等，在地理上有重要发现，提出罗布泊“游移湖”之说。"
+  },
+  {
+   "cn": "回族",
+   "en": "Hui",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0428",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。散居全国，主要聚居于宁夏回族自治区等地。人口1137.79 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。13 世纪入元，中亚波斯和阿拉伯人为主，融其他民族而成，回族参与近代"
+  },
+  {
+   "cn": "秽",
+   "en": "Hui",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0162",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。夫余、高句骊、沃沮等族之先祖。原居于今山西东部清漳河流域至今河北沧州市一带。汉魏以后大部分融入高句骊族。"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  },
+  {
+   "cn": "畬民",
+   "en": "She People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "畲族古称，始见于南宋末年文献。其族自称盘瓠王之后，分布于今浙江、福建、江西、广东之间的山区。历史上，以刀耕火种之生产方式“畲田”而得名。或谓苗瑶一系，或谓山越后裔，亦或二者皆有。参见“畲族”。"
+  },
+  {
+   "cn": "畲语",
+   "en": "She language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0293",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称为“活聂”的畲族使用的语言，属汉藏语系苗瑶语族苗语支。分布在广东省惠东、海丰、博罗、增城等市县，使用人口仅1000 余人。分为莲花、罗浮两个方言。"
+  },
+  {
+   "cn": "协庆寺",
+   "en": "Zhe chen dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0563",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教寺院。协庆寺位于四川省甘孜藏族自治州德格县竹庆乡，全称“协庆丹尼达吉林寺”，是藏传佛教“宁玛派六大寺”之一。约在1731 年建成，该寺显密经论并举，注重修行宁玛派大圆满法，法脉传承延续至今，出"
+  },
+  {
+   "cn": "《五大藏》",
+   "en": "Mdzod chen lnga",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0364",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "伏藏文献丛书。蒋贡康楚又名工珠•云丹嘉措编著，是汇集历史上重要伏藏文献的五大丛书，完成于1867 年。内容包括密宗教法论典、密法仪轨、实修方法和秘诀要点等。五大丛书为：《大宝伏藏》63 函、《教传密咒"
+  },
+  {
+   "cn": "钵阐布",
+   "en": "Dpal chen po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0526",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "吐蕃官职，意为“吐蕃宰相沙门”。798 年赤德松赞即位后，建立高僧掌政制度，设立钵阐布官职，任命佛教高僧勃阑伽•贝吉云丹及娘定埃增为掌政大臣，其地位高于外戚及诸权贵。822 年唐朝和盟专使入蕃与钵阐布"
+  },
+  {
+   "cn": "佐钦寺",
+   "en": "Rdzogs chen dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0569",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "佐钦寺：藏传佛教寺院。位于四川省甘孜藏族自治州德格县竹庆乡，为康藏地区三大宁玛派寺院之一，也是藏传佛教“宁玛派六大寺”之一。于公元1230 年由高僧嘛尼仁青的高徒迦卢巴旦曲丹增仁波切创建，原名生达佐钦"
+  },
+  {
+   "cn": "植入枪",
+   "en": "implant gun",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.26",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "装载粒籽源并可将其推入植入针的器具。"
+  },
+  {
+   "cn": "电子枪",
+   "en": "electron gun",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.17",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "产生电子并从中引出电子束的器件或装置。"
+  },
+  {
+   "cn": "黄原胶",
+   "en": "xanthan gum",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.14.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "主链骨架为1,4-β-D-葡萄苷重复单元、侧链为1 个葡萄醛酸和两个甘露糖所组成的高分子多糖，由野油菜黄单胞菌以淀粉质为主要原料发酵产生。其水溶液具有良好的增稠性能，在食品加工中可用作增稠剂和稳定剂。"
+  },
+  {
+   "cn": "古儿汗",
+   "en": "Gur Qaghan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0217",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "西辽、蒙古最高统治者的称号。“诸汗之汗”或“大汗”之意。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

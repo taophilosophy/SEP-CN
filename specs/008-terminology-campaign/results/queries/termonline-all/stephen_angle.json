@@ -1,0 +1,552 @@
+{
+ "key": "stephen angle",
+ "term": "Stephen Angle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T16:20:59+00:00",
+ "status": "ok",
+ "note": "variant=Stephen Angle; 审定公布名词库=1378; 海峡两岸名词对照库=392; 其他来源数据库=28; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "角",
+   "en": "angle",
+   "source": "数学名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平面角",
+   "en": "angle,plane angle",
+   "source": "计量学名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "计量学_几何量_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "两条相交射线在其公共平面内，射线方向之间的夹角。"
+  },
+  {
+   "cn": "角度传感器",
+   "en": "angle transducer,angle sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0064",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受角度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "高度角",
+   "en": "elevation angle,altitude angle",
+   "source": "测绘学名词",
+   "wordNumber": "02.253",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "测站至观测目标的方向线与水平面间的夹角。"
+  },
+  {
+   "cn": "关断角",
+   "en": "extinction angle,margin angle",
+   "source": "电力名词",
+   "wordNumber": "21.112",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "从可控阀的正向电流减小到零的时刻至加在阀上的理想正弦换相电压的正向过零点的时间,以电角度表示。关断角γ与超前角β及换相角μ的关系为:γ=βμ。符号“γ”。"
+  },
+  {
+   "cn": "高炉炉身角",
+   "en": "stack angle,shaft angle",
+   "source": "冶金学名词",
+   "wordNumber": "05.0832",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "炉身的下锥角。"
+  },
+  {
+   "cn": "掠射角",
+   "en": "glancing angle,grazing angle",
+   "source": "物理学名词",
+   "wordNumber": "04.0122",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偏移角",
+   "en": "offset angle,shift angle",
+   "source": "物理学名词",
+   "wordNumber": "02.0431",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "辙叉角",
+   "en": "frog angle,crossing angle",
+   "source": "土木工程名词",
+   "wordNumber": "08.268",
+   "subjectFullName": "土木工程_铁路工程_道岔",
+   "subjectName": "道岔",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle,viewing angle",
+   "source": "电气工程名词",
+   "wordNumber": "22.123",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "边界角",
+   "en": "boundary angle,limit angle",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "煤炭科学技术_煤炭矿山测量_开采沉降及防治",
+   "subjectName": "开采沉降及防治",
+   "publishYear": "1996",
+   "definition": "在充分或接近充分采动条件下，移动盆地主断面上的边界点和采空区边界点连线与水平线在煤壁一侧的夹角。"
+  },
+  {
+   "cn": "[断层]滑动角",
+   "en": "rake angle; slip angle",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1302",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "表示断层滑动方向的参量。在做剪切滑动的断层面上，断层上盘相对于下盘的滑动矢量的方向与断层走向的夹角。以顺时针为正，变化范围为 0°～360°。 "
+  },
+  {
+   "cn": "对顶角",
+   "en": "opposite angles,vertical angles",
+   "source": "数学名词",
+   "wordNumber": "08.0038",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "桥小脑角",
+   "en": "cerebellopontine angle",
+   "source": "神经外科学名词",
+   "wordNumber": "2.062",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_脑池",
+   "subjectName": "脑池",
+   "publishYear": "2026",
+   "definition": "脑桥与小脑之间的夹角区域。此区域内除脑桥和小脑外，包括各种脑神经及脑血管。"
+  },
+  {
+   "cn": "下颌角",
+   "en": "mandibular angle",
+   "source": "整形外科名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "整形外科_颅颌面整形_颅面部主要体表标志",
+   "subjectName": "颅面部主要体表标志",
+   "publishYear": "2026",
+   "definition": "下颌升支后缘与下颌骨体下缘的相交处。"
+  },
+  {
+   "cn": "安格尔错𬌗分类",
+   "en": "Angle classification",
+   "source": "整形外科名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面畸形",
+   "subjectName": "颅颌面畸形",
+   "publishYear": "2026",
+   "definition": "根据上下第一恒磨牙的咬合关系将错𬌗畸形分为Ⅰ、Ⅱ、Ⅲ类的一种分类方法。为目前应用最广的错𬌗分类法。由美国爱德华·安格尔（Edward Angle）于1899年提出。"
+  },
+  {
+   "cn": "面角",
+   "en": "facial angle",
+   "source": "整形外科名词",
+   "wordNumber": "12.218",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "眶耳平面与面平面之间的夹角。反映颏部与面部其他部分的相对位置关系。"
+  },
+  {
+   "cn": "鼻唇角",
+   "en": "nasolabial angle",
+   "source": "整形外科名词",
+   "wordNumber": "12.225",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "侧面观通过鼻孔最前点和最后点连线，与面部垂直平面形成的角度。理想角度男性为90°～95°，女性为95°～100°，反映上唇及鼻底的位置关系。"
+  },
+  {
+   "cn": "颅耳角",
+   "en": "cranioauricular angle",
+   "source": "整形外科名词",
+   "wordNumber": "16.014",
+   "subjectFullName": "整形外科_外耳整形与再造_耳廓解剖标志",
+   "subjectName": "耳廓解剖标志",
+   "publishYear": "2026",
+   "definition": "耳廓与乳突区颅骨形成的角度。耳轮上部和乳突平面之间的角度为20°～30°。"
+  },
+  {
+   "cn": "鼻额角",
+   "en": "nasofrontal angle",
+   "source": "整形外科名词",
+   "wordNumber": "17.033",
+   "subjectFullName": "整形外科_鼻整形与美容_鼻部解剖与测量",
+   "subjectName": "鼻部解剖与测量",
+   "publishYear": "2026",
+   "definition": "前额与鼻背线之间的角度。侧面观最明显。由眉间点至鼻根点的连线与鼻根点至鼻尖点的连线相交而成。"
+  },
+  {
+   "cn": "科瓦采维奇",
+   "en": "Kovacevich\",\"Stephen(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "黑勒，斯蒂芬",
+   "en": "Heller\",\"Stephen(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "福斯特，斯蒂芬",
+   "en": "Foster\",\"Stephen Collins(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角[度]",
+   "en": "angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高度角",
+   "en": "elevation angle\",\"altitude angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "时角",
+   "en": "hour angle\",\"meridian angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle\",\"vision angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反射角",
+   "en": "reflection angle\",\"reflecting angle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舵角",
+   "en": "helm angle\",\"rudder angle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舵角",
+   "en": "rudder angle\",\"helm angle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "横摇角",
+   "en": "roll-angle\",\"rolling angle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临界角",
+   "en": "critical angle\",\"danger angle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共轭角",
+   "en": "conjugate angles\",\"explementary  angles",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "耻骨下角",
+   "en": "subpubic angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "蝶角",
+   "en": "sphenoidal angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "额角",
+   "en": "frontal angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肩峰角",
+   "en": "acromial angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "乳突角",
+   "en": "mastoid angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "视角",
+   "en": "visual angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外侧角",
+   "en": "lateral angle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "箭靶角度",
+   "en": "buttress angle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "羽片角度",
+   "en": "fletching angle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出手角度",
+   "en": "angle of release",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助跑角度",
+   "en": "angle of approach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳角度",
+   "en": "take-off angle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小角度射门",
+   "en": "sharp-angled shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳角度",
+   "en": "angle of the take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《时间简史》（〔英〕斯蒂芬·威廉·霍金）",
+   "en": "A Brief History of Time: From the Big Bang to Black Holes (Stephen William Hawking, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天使粒子",
+   "en": "angel particle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护踝",
+   "en": "ankle support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短袜",
+   "en": "ankle sock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护踝",
+   "en": "ankle support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定立体角法",
+   "en": "defined-solid angle counting method",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "通过测量源对探测器入射窗所张某一固定立体角内的计数率来计算源活度的方法。"
+  },
+  {
+   "cn": "盎格鲁-萨克逊人",
+   "en": "Anglo-Saxon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0304",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "古日尔曼人盎格鲁、萨克逊、朱特等部落集团。分布在北欧日德兰半岛、丹麦诸岛及德国西北沿海一带。公元5-6 世纪大量移居大不列颠岛。经过长期战争、同化其他民族，逐渐形成近代英格兰民族。近代常被用来泛指英格"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
