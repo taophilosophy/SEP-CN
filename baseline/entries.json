@@ -7913,7 +7913,7 @@
     },
     {
       "slug": "argument",
-      "fetched_at": "2026-11-16T11:01:45Z",
+      "fetched_at": "2026-11-19T04:16:56Z",
       "source_url": "https://plato.stanford.edu/entries/argument/",
       "title": "Argument and Argumentation",
       "authors": [
@@ -7929,6 +7929,7 @@
       "archinfo": {
         "latest_edition": null,
         "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
           {
             "edition": "Fall 2022",
@@ -7944,8 +7945,8 @@
       "files": [
         {
           "path": "en/argument/index.html",
-          "sha256": "22205c555ebabdbffe7bbbd8281c54d03ce6546d85cdc579f95c02cdf66b7675",
-          "bytes": 200138,
+          "sha256": "ed10edb6750f423a716c58dd2c308811d1ec0395564e688250c6c3b7403f4c10",
+          "bytes": 200140,
           "kind": "main"
         },
         {
@@ -7965,8 +7966,8 @@
       "yuanwen": {
         "md": "yuanwen/a/argument.md",
         "sha256": "a62244453f9b85e655672083ee628fe2a6fd4c15fc34aab25d83b351eaa36458",
-        "source_sha256": "22205c555ebabdbffe7bbbd8281c54d03ce6546d85cdc579f95c02cdf66b7675",
-        "converted_at": "2026-11-16T15:22:00Z",
+        "source_sha256": "ed10edb6750f423a716c58dd2c308811d1ec0395564e688250c6c3b7403f4c10",
+        "converted_at": "2026-11-19T04:31:17Z",
         "cite_markers": 367,
         "cite_defs": 321,
         "supplements": [
@@ -13216,7 +13217,7 @@
     },
     {
       "slug": "berlin",
-      "fetched_at": "2026-11-14T21:36:38Z",
+      "fetched_at": "2026-11-19T04:24:16Z",
       "source_url": "https://plato.stanford.edu/entries/berlin/",
       "title": "Isaiah Berlin",
       "authors": [
@@ -13232,6 +13233,7 @@
       "archinfo": {
         "latest_edition": null,
         "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
           {
             "edition": "Winter 2023",
@@ -13367,8 +13369,8 @@
       "files": [
         {
           "path": "en/berlin/index.html",
-          "sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080",
-          "bytes": 191310,
+          "sha256": "e35212dc4020e22d4e535427ece031be096177a7e5ec26036caa12f218391435",
+          "bytes": 191304,
           "kind": "main"
         },
         {
@@ -13387,16 +13389,16 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/b/berlin.md",
-        "sha256": "90a95ebd02eb937c544757f1959ed5242f1fa4239bdd06caf077d65c82d620d9",
-        "source_sha256": "099fe16573250c2efae773c9b417a7b83aa26649a3d1e312f692c7b6152ec080",
+        "sha256": "238dc1d564e6b4c4c6b1a0b5ac04c83b925b250473c2b14ffa0c8dbeacd964ef",
+        "source_sha256": "e35212dc4020e22d4e535427ece031be096177a7e5ec26036caa12f218391435",
+        "converted_at": "2026-11-19T04:31:17Z",
         "cite_markers": 97,
         "cite_defs": 227,
         "supplements": [],
         "images": [
           "yuanwen/assets/berlin/berlin.png"
         ],
-        "notes": 30,
-        "converted_at": "2026-11-16T21:03:28Z"
+        "notes": 30
       }
     },
     {
@@ -40639,7 +40641,7 @@
     },
     {
       "slug": "emily-elizabeth-constance-jones",
-      "fetched_at": "2026-11-16T11:01:51Z",
+      "fetched_at": "2026-11-19T04:23:40Z",
       "source_url": "https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/",
       "title": "Emily Elizabeth Constance Jones",
       "authors": [
@@ -40654,6 +40656,7 @@
       "archinfo": {
         "latest_edition": null,
         "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
           {
             "edition": "Fall 2020",
@@ -40677,8 +40680,8 @@
       "files": [
         {
           "path": "en/emily-elizabeth-constance-jones/index.html",
-          "sha256": "c162edbc66d416b85749a9e220b7e5d71a7f40cba48c188286d9ee6c63867ab0",
-          "bytes": 111855,
+          "sha256": "4040dc093b4c72f42a474a736ee257d22590bdeafeb7f8765a3eb9ae0e6a0566",
+          "bytes": 111829,
           "kind": "main"
         },
         {
@@ -40697,14 +40700,14 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/e/emily-elizabeth-constance-jones.md",
-        "sha256": "973b3bc55db079f5500b2f5f5eb7b6f2b5cce0a9bfe51ca2319be690064937b1",
-        "source_sha256": "c162edbc66d416b85749a9e220b7e5d71a7f40cba48c188286d9ee6c63867ab0",
+        "sha256": "b3cce877fbc07c0e90122c303dbb0e44a5cd76f18750ebb6480bcbe80088f5c1",
+        "source_sha256": "4040dc093b4c72f42a474a736ee257d22590bdeafeb7f8765a3eb9ae0e6a0566",
+        "converted_at": "2026-11-19T04:31:18Z",
         "cite_markers": 59,
         "cite_defs": 115,
         "supplements": [],
         "images": [],
-        "notes": 3,
-        "converted_at": "2026-11-16T23:28:00Z"
+        "notes": 3
       }
     },
     {
@@ -56416,22 +56419,28 @@
     },
     {
       "slug": "gadamer",
-      "fetched_at": "2026-10-26T20:38:55Z",
+      "fetched_at": "2026-11-19T04:17:29Z",
       "source_url": "https://plato.stanford.edu/entries/gadamer/",
       "title": "Hans-Georg Gadamer",
       "authors": [
-        "Malpas, Jeff"
+        "Malpas, Jeff",
+        "Keane, Niall"
       ],
       "pubinfo": {
         "first_published": "Mar 3, 2003",
-        "substantive_revision": "Aug 22, 2022"
+        "substantive_revision": "Nov 17, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "g/gadamer.md",
       "archinfo": {
-        "latest_edition": "Fall 2025",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
+          {
+            "edition": "Fall 2025",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2022",
             "change_type": "minor correction"
@@ -56494,26 +56503,26 @@
           }
         ]
       },
-      "archive_edition": "Fall 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/gadamer/index.html",
-          "sha256": "1e4c1696d15c4bd6b0dcaf3086c73d251bcba86f5542b050ec3ade0bdc7eb084",
-          "bytes": 85069,
+          "sha256": "3562fb0bfba33a75148c9a130f04ce7945fb700a2e7af4c182c6907b71c09df9",
+          "bytes": 96191,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/g/gadamer.md",
-        "sha256": "ef9fc6a94c29f6642966a835f1d8af0d11d0236aa4a026f9b3a55177c2285993",
-        "source_sha256": "1e4c1696d15c4bd6b0dcaf3086c73d251bcba86f5542b050ec3ade0bdc7eb084",
-        "cite_markers": 42,
-        "cite_defs": 108,
+        "sha256": "bef5fd2c756bfe29aa10fe4a9918f829952cf158937597773dbc4775078ebead",
+        "source_sha256": "3562fb0bfba33a75148c9a130f04ce7945fb700a2e7af4c182c6907b71c09df9",
+        "converted_at": "2026-11-19T04:31:18Z",
+        "cite_markers": 59,
+        "cite_defs": 115,
         "supplements": [],
         "images": [],
-        "notes": 0,
-        "converted_at": "2026-11-16T23:29:12Z"
+        "notes": 0
       }
     },
     {
@@ -61448,22 +61457,28 @@
     },
     {
       "slug": "hedonism",
-      "fetched_at": "2026-10-26T20:39:19Z",
+      "fetched_at": "2026-11-19T04:17:42Z",
       "source_url": "https://plato.stanford.edu/entries/hedonism/",
       "title": "Hedonism",
       "authors": [
-        "Moore, Andrew"
+        "Moore, Andrew",
+        "Burke, Joseph"
       ],
       "pubinfo": {
         "first_published": "Apr 20, 2004",
-        "substantive_revision": "Oct 17, 2013"
+        "substantive_revision": "Nov 17, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "h/hedonism.md",
       "archinfo": {
-        "latest_edition": "Winter 2019",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
+          {
+            "edition": "Winter 2019",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Winter 2018",
             "change_type": "minor correction"
@@ -61486,23 +61501,23 @@
           }
         ]
       },
-      "archive_edition": "Winter 2019",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/hedonism/index.html",
-          "sha256": "23426559563311237e8e1f99821a618980e1ed396d427176743672f4dba35e4c",
-          "bytes": 93972,
+          "sha256": "004ff01fa8c375470da475b08252fc28dab2b52d04a976a166732c18724254cb",
+          "bytes": 112997,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/h/hedonism.md",
-        "sha256": "60f411842ee5e88887e093323ae3ecfcdf8bcfde6a993ca7ffb68e94f26103ff",
-        "source_sha256": "23426559563311237e8e1f99821a618980e1ed396d427176743672f4dba35e4c",
-        "converted_at": "2026-11-16T15:25:59Z",
-        "cite_markers": 16,
-        "cite_defs": 54,
+        "sha256": "b59b4c7ed48dc54ce409f176c795c214a8a9e82b000f142e73c49076b9435938",
+        "source_sha256": "004ff01fa8c375470da475b08252fc28dab2b52d04a976a166732c18724254cb",
+        "converted_at": "2026-11-19T04:31:18Z",
+        "cite_markers": 57,
+        "cite_defs": 98,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -63271,22 +63286,27 @@
     },
     {
       "slug": "history",
-      "fetched_at": "2026-10-26T20:39:31Z",
+      "fetched_at": "2026-11-19T04:16:37Z",
       "source_url": "https://plato.stanford.edu/entries/history/",
-      "title": "Philosophy of History",
+      "title": "Philosophy of History and Historiography",
       "authors": [
-        "Little, Daniel"
+        "Kuukkanen, Jouni-Matti"
       ],
       "pubinfo": {
-        "first_published": "Feb 18, 2007",
-        "substantive_revision": "May 14, 2025"
+        "first_published": "Nov 18, 2026",
+        "substantive_revision": null
       },
       "in_article_markers": true,
       "zh_doc": "h/history.md",
       "archinfo": {
-        "latest_edition": "Summer 2025",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "new, rewritten entry",
         "history": [
+          {
+            "edition": "Summer 2025",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Winter 2020",
             "change_type": "substantive content change"
@@ -63317,23 +63337,23 @@
           }
         ]
       },
-      "archive_edition": "Summer 2025",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/history/index.html",
-          "sha256": "2e8fd228ab2224147288dcac253d821ea492c4dc6a57056f6ff0f461cd743528",
-          "bytes": 175720,
+          "sha256": "d7a30ff56c64c45dee30072a4c17550c8b2a4c5d4026c309f7efd23f07ff4a04",
+          "bytes": 164743,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/h/history.md",
-        "sha256": "0724bfc37b570bde239f6daec3bf20b27263dbbfde582cbf9c0ee1dca04e2dcf",
-        "source_sha256": "2e8fd228ab2224147288dcac253d821ea492c4dc6a57056f6ff0f461cd743528",
-        "converted_at": "2026-11-16T15:26:10Z",
-        "cite_markers": 115,
-        "cite_defs": 172,
+        "sha256": "bf8d71732f121857656ff74fee40a90f4a0d46a42bc0dc178d061a131853cbe0",
+        "source_sha256": "d7a30ff56c64c45dee30072a4c17550c8b2a4c5d4026c309f7efd23f07ff4a04",
+        "converted_at": "2026-11-19T04:31:19Z",
+        "cite_markers": 239,
+        "cite_defs": 193,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -63971,7 +63991,7 @@
     },
     {
       "slug": "horkheimer",
-      "fetched_at": "2026-11-16T11:02:16Z",
+      "fetched_at": "2026-11-19T04:23:31Z",
       "source_url": "https://plato.stanford.edu/entries/horkheimer/",
       "title": "Max Horkheimer",
       "authors": [
@@ -63986,6 +64006,7 @@
       "archinfo": {
         "latest_edition": null,
         "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
           {
             "edition": "Fall 2024",
@@ -64017,8 +64038,8 @@
       "files": [
         {
           "path": "en/horkheimer/index.html",
-          "sha256": "d3de9fa3ca672abaa684c7cd78b4e72a8cda3d863e67d89efc89453af508068f",
-          "bytes": 97207,
+          "sha256": "cebaf8dd1e37ecc7ccc4fa20b2b80c88cdc6ba034b3d11d185eda3ab8797e499",
+          "bytes": 97209,
           "kind": "main"
         },
         {
@@ -64032,8 +64053,8 @@
       "yuanwen": {
         "md": "yuanwen/h/horkheimer.md",
         "sha256": "5aea4e8670425c02289e5220752a22145b7b2fd4444bf3cdfd4efe7f7b476fa2",
-        "source_sha256": "d3de9fa3ca672abaa684c7cd78b4e72a8cda3d863e67d89efc89453af508068f",
-        "converted_at": "2026-11-16T15:26:13Z",
+        "source_sha256": "cebaf8dd1e37ecc7ccc4fa20b2b80c88cdc6ba034b3d11d185eda3ab8797e499",
+        "converted_at": "2026-11-19T04:31:19Z",
         "cite_markers": 30,
         "cite_defs": 56,
         "supplements": [],
@@ -67917,7 +67938,7 @@
     },
     {
       "slug": "incompatibilism-theories",
-      "fetched_at": "2026-10-26T20:40:04Z",
+      "fetched_at": "2026-11-19T04:23:22Z",
       "source_url": "https://plato.stanford.edu/entries/incompatibilism-theories/",
       "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
       "authors": [
@@ -67927,14 +67948,19 @@
       ],
       "pubinfo": {
         "first_published": "Aug 17, 2000",
-        "substantive_revision": "Aug 18, 2021"
+        "substantive_revision": "Nov 17, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "i/incompatibilism-theories.md",
       "archinfo": {
-        "latest_edition": "Fall 2021",
-        "latest_change_type": "substantive content change",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": null,
         "history": [
+          {
+            "edition": "Fall 2021",
+            "change_type": "substantive content change"
+          },
           {
             "edition": "Fall 2020",
             "change_type": "minor correction"
@@ -67973,23 +67999,23 @@
           }
         ]
       },
-      "archive_edition": "Fall 2021",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/incompatibilism-theories/index.html",
-          "sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f",
-          "bytes": 101092,
+          "sha256": "53d55a472af5bd9e200d46f3147f5fb88dc4aa972d8f905548511ca9991bfc2f",
+          "bytes": 106500,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/i/incompatibilism-theories.md",
-        "sha256": "daed8ddff736385b03de110c88e6b582f1986312b693f009a1d9300ae41ae1fb",
-        "source_sha256": "a91596128c56287e0756addf2ccc75d7f3efe1eef13f38ad1d7e8fb45dd4105f",
-        "converted_at": "2026-11-16T15:26:35Z",
-        "cite_markers": 69,
-        "cite_defs": 129,
+        "sha256": "ac410b3506b85b36e4b874d054f46e6b0ca4e30e7600b12a461bda1f59733ab2",
+        "source_sha256": "53d55a472af5bd9e200d46f3147f5fb88dc4aa972d8f905548511ca9991bfc2f",
+        "converted_at": "2026-11-19T04:31:20Z",
+        "cite_markers": 86,
+        "cite_defs": 136,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -69429,6 +69455,58 @@
         "cite_defs": 164,
         "supplements": [],
         "images": [],
+        "notes": 0
+      }
+    },
+    {
+      "slug": "inquiry",
+      "fetched_at": "2026-11-19T04:16:25Z",
+      "source_url": "https://plato.stanford.edu/entries/inquiry/",
+      "title": "Inquiry",
+      "authors": [
+        "Falbo, Arianna",
+        "Thorstad, David",
+        "Whitcomb, Dennis"
+      ],
+      "pubinfo": {
+        "first_published": "Nov 17, 2026",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "i/inquiry.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "new publication",
+        "history": []
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/inquiry/index.html",
+          "sha256": "13ab2baa6317ee7dd7291d687841a93b054d3e6e78c1959acc6d0ee6ca48bb0b",
+          "bytes": 147709,
+          "kind": "main"
+        },
+        {
+          "path": "en/inquiry/abc-line.jpg",
+          "sha256": "73dc722322c424259f8b62ee4fa55ad6af14f1fa1d3a88c58a27395726323c82",
+          "bytes": 7948,
+          "kind": "image"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/i/inquiry.md",
+        "sha256": "c6e7e55ab8367b559c64d329eb92ff32f7720a8adb0a6c45c92de80558803475",
+        "source_sha256": "13ab2baa6317ee7dd7291d687841a93b054d3e6e78c1959acc6d0ee6ca48bb0b",
+        "converted_at": "2026-11-19T04:18:23Z",
+        "cite_markers": 528,
+        "cite_defs": 320,
+        "supplements": [],
+        "images": [
+          "yuanwen/assets/inquiry/abc-line.jpg"
+        ],
         "notes": 0
       }
     },
@@ -116014,58 +116092,42 @@
       }
     },
     {
-      "slug": "privacy-medicine",
-      "fetched_at": "2026-10-26T20:45:04Z",
-      "source_url": "https://plato.stanford.edu/entries/privacy-medicine/",
-      "title": "Privacy and Medicine",
+      "slug": "privacy-health",
+      "fetched_at": "2026-11-19T04:16:31Z",
+      "source_url": "https://plato.stanford.edu/entries/privacy-health/",
+      "title": "Privacy in Health Care and Research",
       "authors": [
-        "Allen, Anita"
+        "Francis, Leslie"
       ],
       "pubinfo": {
-        "first_published": "May 13, 2009",
-        "substantive_revision": "Jan 28, 2021"
+        "first_published": "Nov 17, 2026",
+        "substantive_revision": null
       },
       "in_article_markers": true,
-      "zh_doc": "p/privacy-medicine.md",
+      "zh_doc": "p/privacy-health.md",
       "archinfo": {
-        "latest_edition": "Spring 2021",
-        "latest_change_type": "substantive content change",
-        "history": [
-          {
-            "edition": "Winter 2016",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Fall 2015",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Spring 2011",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Summer 2009",
-            "change_type": "first archived"
-          }
-        ]
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "new publication",
+        "history": []
       },
-      "archive_edition": "Spring 2021",
+      "archive_edition": null,
       "files": [
         {
-          "path": "en/privacy-medicine/index.html",
-          "sha256": "b4587ac0464ed8f1be8c81a974f39175437a54c0631b0ed0e157a059d3a4c931",
-          "bytes": 128498,
+          "path": "en/privacy-health/index.html",
+          "sha256": "099c72a214ecf296b8cd189e66605d28fbb8f256c70a341e4f824ed211238f7d",
+          "bytes": 137795,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
-        "md": "yuanwen/p/privacy-medicine.md",
-        "sha256": "d81332f6eba923efe9a3472e07e3e0dc1b42d56589cb1dea3708a15063156b35",
-        "source_sha256": "b4587ac0464ed8f1be8c81a974f39175437a54c0631b0ed0e157a059d3a4c931",
-        "converted_at": "2026-11-16T15:30:22Z",
-        "cite_markers": 174,
-        "cite_defs": 165,
+        "md": "yuanwen/p/privacy-health.md",
+        "sha256": "7dda5c38049fdcd841323b639ab01170f3cfadb48fedfe2350bdc255814771be",
+        "source_sha256": "099c72a214ecf296b8cd189e66605d28fbb8f256c70a341e4f824ed211238f7d",
+        "converted_at": "2026-11-19T04:31:21Z",
+        "cite_markers": 156,
+        "cite_defs": 169,
         "supplements": [],
         "images": [],
         "notes": 0
@@ -137792,22 +137854,28 @@
     },
     {
       "slug": "special-obligations",
-      "fetched_at": "2026-10-26T20:47:25Z",
+      "fetched_at": "2026-11-19T04:17:46Z",
       "source_url": "https://plato.stanford.edu/entries/special-obligations/",
       "title": "Special Obligations",
       "authors": [
-        "Jeske, Diane"
+        "Jeske, Diane",
+        "Löschke, Jörg"
       ],
       "pubinfo": {
         "first_published": "Oct 17, 2002",
-        "substantive_revision": "Aug 6, 2019"
+        "substantive_revision": "Nov 18, 2026"
       },
       "in_article_markers": true,
       "zh_doc": "s/special-obligations.md",
       "archinfo": {
-        "latest_edition": "Winter 2021",
-        "latest_change_type": "minor correction",
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "substantive content change",
         "history": [
+          {
+            "edition": "Winter 2021",
+            "change_type": "minor correction"
+          },
           {
             "edition": "Fall 2019",
             "change_type": "substantive content change"
@@ -137830,12 +137898,12 @@
           }
         ]
       },
-      "archive_edition": "Winter 2021",
+      "archive_edition": null,
       "files": [
         {
           "path": "en/special-obligations/index.html",
-          "sha256": "3b30a349c08676effe195904566a423d0ef32c9293acdc6d4c572f1e77543787",
-          "bytes": 110914,
+          "sha256": "5382824d48a8b2caad14ebdafc816c625fd7bb1223622a6451d7b8de748ae02b",
+          "bytes": 118296,
           "kind": "main"
         },
         {
@@ -137848,11 +137916,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/s/special-obligations.md",
-        "sha256": "eeb782e29fec546569d5e0708f323482db54b2f2a02e1868d859ebce00ca1ba8",
-        "source_sha256": "3b30a349c08676effe195904566a423d0ef32c9293acdc6d4c572f1e77543787",
-        "converted_at": "2026-11-16T15:32:08Z",
-        "cite_markers": 8,
-        "cite_defs": 63,
+        "sha256": "f55823daf67b72190f5be3628e044f65ab575cc34c18b3d85adc1d8ffd75746c",
+        "source_sha256": "5382824d48a8b2caad14ebdafc816c625fd7bb1223622a6451d7b8de748ae02b",
+        "converted_at": "2026-11-19T04:31:21Z",
+        "cite_markers": 66,
+        "cite_defs": 80,
         "supplements": [],
         "images": [],
         "notes": 3
@@ -151669,5 +151737,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-17T09:00:51Z"
+  "updated_at": "2026-11-19T04:31:21Z"
 }

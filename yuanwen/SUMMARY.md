@@ -875,7 +875,7 @@
   * [正义、不平等和健康 Justice, Inequality, and Health (Douglas MacKay、Gopal Sreenivasan)](j/justice-inequality-health.md)
   * [医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)](j/justice-healthcareaccess.md)
   * \*怀孕、分娩和医学——见怀孕、分娩和医学 pregnancy, birth, and medicine — see pregnancy, birth, and medicine
-  * [隐私与医疗 Privacy and Medicine (Anita Allen)](p/privacy-medicine.md)
+  * [隐私与医疗 Privacy and Medicine (Anita Allen)](p/privacy-health.md)
   * \*公共卫生伦理——见公共卫生：公共卫生伦理 public health ethics — see public health: ethics
   * \*人体器官买卖——见人体器官买卖 the sale of human organs — see sale of human organs
   * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)

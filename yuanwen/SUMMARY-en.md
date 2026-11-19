@@ -162,7 +162,7 @@
 * [Archytas (Carl Huffman)](a/archytas.md)
 * [Hannah Arendt (Tatjana Tömmel, Maurizio Passerin d’Entreves)](a/arendt.md)
 * arete — see Ancient Ethical Theory
-* [Argument and Argumentation (Catarina Dutilh Novaes)](a/argument.md)
+* [Argument and Argumentation (Catarina Dutilh Novaes, Marcin Lewiński)](a/argument.md)
 * arguments for epistemic norms
   * epistemic utility — see epistemic utility arguments for epistemic norms
 * Aristippus — see The Cyrenaics
@@ -859,7 +859,7 @@
   * [Justice, Inequality, and Health (Douglas MacKay, Gopal Sreenivasan)](j/justice-inequality-health.md)
   * [Justice and Access to Health Care (Norman Daniels)](j/justice-healthcareaccess.md)
   * pregnancy, birth, and medicine — see pregnancy, birth, and medicine
-  * [Privacy and Medicine (Anita Allen)](p/privacy-medicine.md)
+  * [Privacy in Health Care and Research (Leslie Francis)](p/privacy-health.md)
   * public health ethics — see public health: ethics
   * the sale of human organs — see sale of human organs
   * [Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
@@ -1027,7 +1027,7 @@
   * [Medieval Theories of Future Contingents (Gloria Frost, Simo Knuuttila)](m/medieval-futcont.md)
 ## G
 
-* [Hans-Georg Gadamer (Jeff Malpas)](g/gadamer.md)
+* [Hans-Georg Gadamer (Jeff Malpas, Niall Keane)](g/gadamer.md)
   * [Gadamer’s Aesthetics (Nicholas Davey, Cynthia Nielsen)](g/gadamer-aesthetics.md)
 * [Galen (P. N. Singer)](g/galen.md)
 * [Galileo Galilei (David Marshall Miller)](g/galileo.md)
@@ -1119,7 +1119,7 @@
 * [Concepts of Disease and Health (Dominic Murphy)](h/health-disease.md)
 * heart-mind, in Chinese Philosophy — see Mind (Heart-Mind) in Chinese Philosophy
 * [Heaven and Hell in Christian Thought (Thomas Talbott)](h/heaven-hell.md)
-* [Hedonism (Andrew Moore)](h/hedonism.md)
+* [Hedonism (Andrew Moore, Joseph Burke)](h/hedonism.md)
 * [Georg Wilhelm Friedrich Hegel (Paul Redding)](h/hegel.md)
   * [Hegel’s Aesthetics (Stephen Houlgate)](h/hegel-aesthetics.md)
   * [Hegel’s Dialectics (Julie E. Maybee)](h/hegel-dialectics.md)
@@ -1143,7 +1143,7 @@
   * controversy with Frege — see The Frege-Hilbert Controversy
   * [Hilbert’s Program (Richard Zach)](h/hilbert-program.md)
 * Hippias — see The Sophists
-* [Philosophy of History (Daniel Little)](h/history.md)
+* [Philosophy of History and Historiography (Jouni-Matti Kuukkanen)](h/history.md)
 * [Thomas Hobbes (Stewart Duncan)](h/hobbes.md)
   * [Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd, Susanne Sreedhar)](h/hobbes-moral.md)
   * [Hobbes’ Philosophy of Science (Marcus P. Adams)](h/hobbes-science.md)
@@ -1276,6 +1276,7 @@
   * [The Historical Controversies Surrounding Innateness (Jerry Samet)](i/innateness-history.md)
   * [Innateness and Language (Gabe Dupre)](i/innateness-language.md)
 * [Inner Speech (Daniel Gregory, Peter Langland-Hassan)](i/inner-speech.md)
+* [Inquiry (Arianna Falbo, David Thorstad, Dennis Whitcomb)](i/inquiry.md)
 * [Insolubles (Stephen Read, Paul Vincent Spade)](i/insolubles.md)
 * instrumental rationality — see rationality: instrumental
 * [Integrity (Damian Cox, Marguerite La Caze, Michael Levine)](i/integrity.md)
@@ -1901,7 +1902,7 @@
   * legal — see legal obligation and authority
 * [Medieval Theories of Obligationes (Mikko Yrjönsuuri)](o/obligationes.md)
 * obligations
-  * [Special Obligations (Diane Jeske)](s/special-obligations.md)
+  * [Special Obligations (Diane Jeske, Jörg Löschke)](s/special-obligations.md)
 * [Obligations to Oneself (Daniel Muñoz)](s/self-obligations.md)
 * [Occasionalism (Sukjae Lee)](o/occasionalism.md)
 * [William of Ockham (Paul Vincent Spade, Claude Panaccio, Jenny Pelletier)](o/ockham.md)

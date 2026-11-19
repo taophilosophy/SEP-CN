@@ -174,7 +174,7 @@
 * [阿尔库塔斯 Archytas (Carl Huffman)](a/archytas.md)
 * [汉娜·阿伦特 Hannah Arendt (Tatjana Tömmel、Maurizio Passerin d’Entreves)](a/arendt.md)
 * \*德性——见伦理学：古代伦理学 arete — see Ancient Ethical Theory
-* [论证与论辩 Argument and Argumentation (Catarina Dutilh Novaes)](a/argument.md)
+* [论证与论辩 Argument and Argumentation (Catarina Dutilh Novaes、Marcin Lewiński)](a/argument.md)
 * \*认知规范的论证 arguments for epistemic norms
   * \*认知效用——见关于认知规范的认知效用论证 epistemic utility — see epistemic utility arguments for epistemic norms
 * \*阿里斯提普斯——见昔勒尼学派 Aristippus — see The Cyrenaics
@@ -875,7 +875,7 @@
   * [正义、不平等和健康 Justice, Inequality, and Health (Douglas MacKay、Gopal Sreenivasan)](j/justice-inequality-health.md)
   * [医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)](j/justice-healthcareaccess.md)
   * \*怀孕、分娩和医学——见怀孕、分娩和医学 pregnancy, birth, and medicine — see pregnancy, birth, and medicine
-  * [隐私与医疗 Privacy and Medicine (Anita Allen)](p/privacy-medicine.md)
+  * [健康照护与研究中的隐私 Privacy in Health Care and Research (Leslie Francis)](p/privacy-health.md)
   * \*公共卫生伦理——见公共卫生：公共卫生伦理 public health ethics — see public health: ethics
   * \*人体器官买卖——见人体器官买卖 the sale of human organs — see sale of human organs
   * [干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)](s/stem-cells.md)
@@ -1045,7 +1045,7 @@
 
 ## G
 
-* [汉斯-格奥尔格·伽达默尔 Hans-Georg Gadamer (Jeff Malpas)](g/gadamer.md)
+* [汉斯-格奥尔格·伽达默尔 Hans-Georg Gadamer (Jeff Malpas、Niall Keane)](g/gadamer.md)
   * [伽达默尔的美学 Gadamer’s Aesthetics (Nicholas Davey、Cynthia Nielsen)](g/gadamer-aesthetics.md)
 * [克劳迪亚斯·盖伦 Galen (P. N. Singer)](g/galen.md)
 * [伽利略·伽利莱 Galileo Galilei (David Marshall Miller)](g/galileo.md)
@@ -1138,7 +1138,7 @@
 * [疾病与健康的概念 Concepts of Disease and Health (Dominic Murphy)](h/health-disease.md)
 * \*中国哲学的心——见中国哲学：中国哲学中的心 heart-mind, in Chinese Philosophy — see Mind (Heart-Mind) in Chinese Philosophy
 * [基督教思想中的天堂与地狱 Heaven and Hell in Christian Thought (Thomas Talbott)](h/heaven-hell.md)
-* [享乐主义 Hedonism (Andrew Moore)](h/hedonism.md)
+* [享乐主义 Hedonism (Andrew Moore、Joseph Burke)](h/hedonism.md)
 * [格奥尔格·威廉·弗里德里希·黑格尔 Georg Wilhelm Friedrich Hegel (Paul Redding)](h/hegel.md)
   * [黑格尔的美学 Hegel’s Aesthetics (Stephen Houlgate)](h/hegel-aesthetics.md)
   * [黑格尔的辩证法 Hegel’s Dialectics (Julie E. Maybee)](h/hegel-dialectics.md)
@@ -1162,7 +1162,7 @@
   * \*与弗雷格的争议——见戈特洛布·弗雷格：弗雷格-希尔伯特争论 controversy with Frege — see The Frege-Hilbert Controversy
   * [希尔伯特纲领 Hilbert’s Program (Richard Zach)](h/hilbert-program.md)
 * \*希庇亚斯——见智者 Hippias — see The Sophists
-* [历史哲学 Philosophy of History (Daniel Little)](h/history.md)
+* [历史与史学史哲学 Philosophy of History and Historiography (Jouni-Matti Kuukkanen)](h/history.md)
 * [托马斯·霍布斯 Thomas Hobbes (Stewart Duncan)](h/hobbes.md)
   * [霍布斯的道德与政治哲学 Hobbes’s Moral and Political Philosophy (Sharon A. Lloyd、Susanne Sreedhar)](h/hobbes-moral.md)
   * [霍布斯的科学哲学 Hobbes’ Philosophy of Science (Marcus P. Adams)](h/hobbes-science.md)
@@ -1296,6 +1296,7 @@
   * [围绕先天的历史争议 The Historical Controversies Surrounding Innateness (Jerry Samet)](i/innateness-history.md)
   * [先天与语言 Innateness and Language (Gabe Dupre)](i/innateness-language.md)
 * [内部言语 Inner Speech (Daniel Gregory、Peter Langland-Hassan)](i/inner-speech.md)
+* [探究 Inquiry (Arianna Falbo、David Thorstad、Dennis Whitcomb)](i/inquiry.md)
 * [不可解命题 Insolubles (Stephen Read、Paul Vincent Spade)](i/insolubles.md)
 * \*工具理性——见理性：工具理性 instrumental rationality — see rationality: instrumental
 * [诚信 Integrity (Damian Cox、Marguerite La Caze、Michael Levine)](i/integrity.md)
@@ -1927,7 +1928,7 @@
   * \*法律——见法律义务和法律权威 legal — see legal obligation and authority
 * [中世纪的义务理论 Medieval Theories of Obligationes (Mikko Yrjönsuuri)](o/obligationes.md)
 * \*义务 obligations
-  * [特殊义务 Special Obligations (Diane Jeske)](s/special-obligations.md)
+  * [特殊义务 Special Obligations (Diane Jeske、Jörg Löschke)](s/special-obligations.md)
 * [对自己的义务 Obligations to Oneself (Daniel Muñoz)](s/self-obligations.md)
 * [偶因论 Occasionalism (Sukjae Lee)](o/occasionalism.md)
 * [奥卡姆的威廉 William of Ockham (Paul Vincent Spade、Claude Panaccio、Jenny Pelletier)](o/ockham.md)
