@@ -1,0 +1,752 @@
+{
+ "key": "rice sheaf sutra",
+ "term": "Rice Sheaf Sūtra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:02:04+00:00",
+ "status": "ok",
+ "note": "variant=Rice Sheaf Sūtra; 审定公布名词库=1558; 海峡两岸名词对照库=699; 其他来源数据库=106; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "层",
+   "en": "sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1083",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "水稻",
+   "en": "rice",
+   "source": "农学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "粮食作物_谷类作物",
+   "subjectName": "谷类作物",
+   "publishYear": "2025",
+   "definition": "禾本科稻属(Oryza)作物的统称。染色体组为AA型，2n=2x=24,基因组大小约为389Mb，原产于中国。秆直立，分蘖。圆锥花序，颖果，喜湿喜温，主要分布在东南亚及中国南方水多、温度高的地区及北方"
+  },
+  {
+   "cn": "米饭",
+   "en": "rice",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0528",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_蒸煮",
+   "subjectName": "蒸煮",
+   "publishYear": "2020",
+   "definition": "碾去谷皮的稻米经水煮制而成的食物。是中国的传统日常主食之一。"
+  },
+  {
+   "cn": "大米",
+   "en": "white rice; milled rice; rice",
+   "source": "农学名词",
+   "wordNumber": "17.114",
+   "subjectFullName": "农产品贮运与加工_粮食加工",
+   "subjectName": "粮食加工",
+   "publishYear": "2025",
+   "definition": "稻谷经清理、砻谷、碾白和成品处理等工序加工成的主产品。"
+  },
+  {
+   "cn": "书本式活页目录",
+   "en": "sheaf catalog",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.688",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "将著有各种款目的纸页按照一定顺序装入活页夹而形成的目录。"
+  },
+  {
+   "cn": "商层",
+   "en": "quotient sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1092",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结构层",
+   "en": "structure sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1096",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "扭曲层",
+   "en": "twisting sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1138",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚层",
+   "en": "coherent sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1139",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶化层",
+   "en": "dualizing sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1156",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切层",
+   "en": "tangent sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1148",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "典范层",
+   "en": "canonical sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1149",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正规层",
+   "en": "normal sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1151",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余正规层",
+   "en": "conormal sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1152",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "软层",
+   "en": "soft sheaf",
+   "source": "数学名词",
+   "wordNumber": "08.1096",
+   "subjectFullName": "数学_几何学_拓扑学_复几何",
+   "subjectName": "复几何",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "摩天大厦层",
+   "en": "skyscraper sheaf",
+   "source": "数学名词",
+   "wordNumber": "08.1097",
+   "subjectFullName": "数学_几何学_拓扑学_复几何",
+   "subjectName": "复几何",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "优层",
+   "en": "fine sheaf",
+   "source": "数学名词",
+   "wordNumber": "08.1095",
+   "subjectFullName": "数学_几何学_拓扑学_复几何",
+   "subjectName": "复几何",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "松弛层",
+   "en": "flabby sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1090",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "常数层",
+   "en": "constant sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1091",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可逆层",
+   "en": "invertible sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1144",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "米糠油",
+   "en": "rice bran oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稻鱼共生系统",
+   "en": "rice-fish system",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "玲珑瓷",
+   "en": "rice perforation\",\"pierced decoration",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "赖斯分布",
+   "en": "Rice distribution\",\"Rician distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "RRK理论",
+   "en": "Rice-Ramsperger-Kassel theory\",\"RRK theory",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "RRKM理论",
+   "en": "Rice-Ramsperger-Kassel-Marcus theory\",\"RRKM theory",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冰架， 陆缘冰",
+   "en": "ice shelf",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冰架",
+   "en": "ice shelf",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冰架",
+   "en": "ice shelf",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "冰架",
+   "en": "ice shelf",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "凇冰",
+   "en": "rime ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "富冰冻土",
+   "en": "ice-rich soil\",\"ice-rich permafrost",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冰架水",
+   "en": "ice shelf water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "冰雾",
+   "en": "ice fog\",\"rime fog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "切变",
+   "en": "shear",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剪切力",
+   "en": "shear",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "剪切",
+   "en": "shear",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雾凇",
+   "en": "soft rime\",\"rime",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剪切带",
+   "en": "shear band\",\"shear banding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "剪板机",
+   "en": "plane shear\",\"guillotine shear",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "径赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参加帆船比赛",
+   "en": "race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取消比赛",
+   "en": "abandoned race\",\"canceled race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑行",
+   "en": "ride\",\"run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "咬住",
+   "en": "jam\",\"ride",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "competition\",\"race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据价格",
+   "en": "data price",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交易价格",
+   "en": "trading price",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨栏比赛",
+   "en": "hurdle race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "径赛主任",
+   "en": "race director",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水稻",
+   "en": "rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.11",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "禾本科谷类作物，学名Oryza L.，一年生草本植物。人类食用部分为颖果。"
+  },
+  {
+   "cn": "米粒体",
+   "en": "rice body",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "在关节腔内或滑囊内,多发的类似于米粒大小的游离体。大部分表面光滑,直径通常为2~7mm,位于积液内，形成米粒体性滑囊炎。部分学者认为米粒体是脱落的滑膜的微梗死灶被滑液中的纤维蛋白包裹所致；还有研究认为"
+  },
+  {
+   "cn": "稻谷",
+   "en": "paddy rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.5",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "禾本科稻属一年生草本植物的籽实。"
+  },
+  {
+   "cn": "糙米",
+   "en": "brown rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "稻谷脱去颖壳后的颖果。由皮层、胚乳和胚组成,质量一般占稻谷的78%~82%。"
+  },
+  {
+   "cn": "方便米饭",
+   "en": "instant cooked rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.10",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为原料，通过熟化处理，使淀粉分子从有序的、不易消化的 β-状态，转变为无序的、易消化的 α-状态，经热风（或冷冻）干燥脱水制成的米饭。加水浸泡后即可食用，具有食用、携带、贮存方便的特点。"
+  },
+  {
+   "cn": "方便米粉",
+   "en": "instant rice noodle",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.18.9",
+   "subjectFullName": "食品卫生学_食品_方便食品",
+   "subjectName": "方便食品",
+   "publishYear": "2025",
+   "definition": "以大米为主要原料，添加或不添加辅料，经加工制成的多种形式的米粉（米线）制品，添加或不添加"
+  },
+  {
+   "cn": "米糠油",
+   "en": "rice bran oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.1.9",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "用米糠（米皮、胚芽）制取的油脂。"
+  },
+  {
+   "cn": "红曲米",
+   "en": "red kojic rice",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.11.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "稻米蒸熟后接种红曲霉发酵制得的聚酮类黄色或红色色素的混合物。主要着色物质为红斑玉红胺、红斑红曲胺、红曲玉红素、红斑红曲素、红曲黄素、红曲素等。可用作食品着色剂。"
+  },
+  {
+   "cn": "黄酒",
+   "en": "huangjiu, chinese rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.1.3",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以稻米、黍米、小米、玉米、小麦、水等为主要原料，经加曲和/或部分酶制剂、酵母等糖化发酵剂酿制而成的发酵酒。"
+  },
+  {
+   "cn": "打破铁饭碗",
+   "en": "break the iron rice bowl",
+   "source": "马克思主义",
+   "wordNumber": "03.0534",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“铁饭碗”指实行劳动者一旦就业以后，国家对其一切都要包下来，职工能进不能出，能升不能降的固定工制度。打破“铁饭碗”是对旧的劳动制度改革。"
+  },
+  {
+   "cn": "日本米骚动事件",
+   "en": "Rice Disturbance Incident in Japan",
+   "source": "马克思主义",
+   "wordNumber": "05.0199",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1918年，日本爆发了历史上第一次全国性的大暴动。这次革命暴动最初是从渔村妇女抢米开端，各地一般也以抢米形式爆发，所以在日本历史上习惯地称为“米骚动”。“米骚动”从抢米而发展到与地主、资本家进行面对面"
+  },
+  {
+   "cn": "糟蛋",
+   "en": "egg preserved in rice wine",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.11",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "用优质鲜蛋在糯米酒糟中糟制而成的一类再制蛋。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "基于体质特征或遗传特点的差异而建构的关于人类的分类概念。"
+  },
+  {
+   "cn": "价格",
+   "en": "price",
+   "source": "马克思主义",
+   "wordNumber": "02.0070",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的货币表现。商品价格同商品的价值成正比，同货币的价值成反比。商品的价格最初表现为一种观念的或抽象的形式，在对商品标明其价格时，无需现实的货币。"
+  },
+  {
+   "cn": "人种",
+   "en": "race",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0068",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "具有区别于其他人群的共同遗传体质特征的人群；主要是根据人类体质的外表性状，如肤色、眼色、发色、发型、头型、面部特征、身材及血型等生理生化特性划分的。"
+  },
+  {
+   "cn": "笄礼",
+   "en": "Hairpin rite",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0245",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国古代女子成年礼仪式，意义与冠礼相同，原始社会已存在，秦汉时期普遍流行。古代女子到了15 岁，把笄插在发髻上象征可以结婚生子。举行加笄礼时，选择面容清秀的童子帮助待加笄女子挽发成结，并带领她拜见亲友"
+  },
+  {
+   "cn": "种族主义",
+   "en": "race racism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "将区别于其他人种的某些共同遗传和体质特征扩大到社会与文化领域的一种解释,并以人种这一社会差异和政治经济不平等的象征符号为核心概念发展出的意识形态和涉及广泛的社会现象。"
+  },
+  {
+   "cn": "成本价格",
+   "en": "cost price",
+   "source": "马克思主义",
+   "wordNumber": "02.0218",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值中，用以补偿消耗的生产资料价值和劳动力价值的部分。它由资本家企业生产商品所耗费的不变资本的价值和可变资本的价值构成。成本价格是历史范畴。在资本主义商品经济中，成本价格是商品销售价格的最低界限，"
+  },
+  {
+   "cn": "生产价格",
+   "en": "production price",
+   "source": "马克思主义",
+   "wordNumber": "02.0223",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品价值的转化形式。它等于商品的成本价格加平均利润。商品价值转化为生产价格以平均利润率的形成为前提。利润转化为平均利润，价值就转化为生产价格。"
+  },
+  {
+   "cn": "垄断价格",
+   "en": "monopoly price",
+   "source": "马克思主义",
+   "wordNumber": "02.0224",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "垄断者凭借自己在经济上的垄断地位所规定的能够获得垄断利润的市场价格。它等于成本价格加垄断利润。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "fuhlen",
+ "term": "Fühlen",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:47:54+00:00",
+ "status": "ok",
+ "note": "variant=Fühlen; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "鹿寨战役",
+   "en": "Battle of Fallen Timbers",
+   "source": "世界历史名词",
+   "wordNumber": "03.0051",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1794年，美军与反抗其殖民扩张的迈阿密族和肖尼族印第安人进行的战斗。"
+  },
+  {
+   "cn": "致阵亡者",
+   "en": "For the Fallen",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Elgar, Edward"
+  },
+  {
+   "cn": "攻击已倒地对手",
+   "en": "attack the fallen opponent",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

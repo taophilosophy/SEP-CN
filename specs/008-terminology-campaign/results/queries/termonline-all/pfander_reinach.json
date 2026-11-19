@@ -1,0 +1,452 @@
+{
+ "key": "pfander reinach",
+ "term": "Pfänder Reinach",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:48:07+00:00",
+ "status": "ok",
+ "note": "variant=Pfänder Reinach; 审定公布名词库=92; 海峡两岸名词对照库=53; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "缓冲设施",
+   "en": "fender system,fender",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.209",
+   "subjectFullName": "水利科学技术_航道与港口_码头（水利）",
+   "subjectName": "码头（水利）",
+   "publishYear": "1997",
+   "definition": "设在码头前面、减小船舶靠泊时对码头的冲击力以免码头结构或船舶遭受损坏的弹性吸能设施。"
+  },
+  {
+   "cn": "挡泥板",
+   "en": "fender",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "15.025",
+   "subjectFullName": "机械工程_拖拉机_驾驶室、驾驶座和覆盖件_覆盖件及其他",
+   "subjectName": "覆盖件及其他",
+   "publishYear": "2013",
+   "definition": "设置在轮胎(履带)上方，用以挡住飞溅的泥水的薄壳总成。"
+  },
+  {
+   "cn": "护舷材",
+   "en": "fender",
+   "source": "船舶工程名词",
+   "wordNumber": "04.098",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "装设在满载水线以上、船侧外板的外表面上，用以保护舷侧的构件。"
+  },
+  {
+   "cn": "碰垫",
+   "en": "fender",
+   "source": "船舶工程名词",
+   "wordNumber": "05.392",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "船舶靠离码头或他船时，为保护船舷和增加缓冲能力而挂在船舷的固定或活动衬垫。"
+  },
+  {
+   "cn": "碰垫",
+   "en": "fender",
+   "source": "航海科技名词",
+   "wordNumber": "08.0271",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "复向期",
+   "en": "reach",
+   "source": "船舶工程名词",
+   "wordNumber": "03.307",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "Z形试验中，从开始首次操舵到船向右舷转艏后返回原艏向瞬时之间的时间间隔。"
+  },
+  {
+   "cn": "挡泥板",
+   "en": "mudguard,fender",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "15.025",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "遮挡车轮转动溅污和卷石的板件。"
+  },
+  {
+   "cn": "感潮河段",
+   "en": "tidal reach,tidal river reach",
+   "source": "土木工程名词",
+   "wordNumber": "10.079",
+   "subjectFullName": "土木工程_港口工程_港口自然环境条件",
+   "subjectName": "港口自然环境条件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "落葵",
+   "en": "malabar spinach; ceylon spinach; Basella alba L.",
+   "source": "农学名词",
+   "wordNumber": "05.255",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "落葵科落葵属蔬菜。一年生缠绕性草本植物。原产亚洲热带地区。单叶互生，卵圆形或近圆形；穗状花序腋生；球形浆果。叶作蔬菜食用。"
+  },
+  {
+   "cn": "格雷巴赫范式",
+   "en": "Greibach normal form",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0497",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "上下文无关文法的一种表示形式。在这种范式中，产生式的右端是这样的一个串：首字符是一个终极符，后面连接一个由变量组成的串。"
+  },
+  {
+   "cn": "测距仪",
+   "en": "range finder",
+   "source": "光学名词",
+   "wordNumber": "19.027",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "测量远方目标至仪器之间距离的光学仪器。"
+  },
+  {
+   "cn": "仿形板",
+   "en": "gauge finder",
+   "source": "冶金学名词",
+   "wordNumber": "09.1584",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在仿形加工中，作为基准的模板。"
+  },
+  {
+   "cn": "取景器",
+   "en": "view finder",
+   "source": "物理学名词",
+   "wordNumber": "04.0477",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "探视器",
+   "en": "view finder",
+   "source": "物理学名词",
+   "wordNumber": "04.0489",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "谱线检索",
+   "en": "spec-finder",
+   "source": "药学名词",
+   "wordNumber": "06.270",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在光谱谱线检索中，通过查找和未知物谱最强吸收谱带具有相同吸收的所有光谱，而后逐个进行比较来确定未知物的标准图谱和名称的方法。"
+  },
+  {
+   "cn": "探鱼仪",
+   "en": "fish finder",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0638",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋生物技术",
+   "subjectName": "海洋生物技术",
+   "publishYear": "2007",
+   "definition": "利用回声定位原理，用超声波来发现和确定鱼群位置的电子仪器。"
+  },
+  {
+   "cn": "探鱼仪",
+   "en": "fish finder",
+   "source": "水产名词",
+   "wordNumber": "09.483",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "利用超声波技术探测鱼群信息的仪器。"
+  },
+  {
+   "cn": "鱼探仪",
+   "en": "fish finder",
+   "source": "船舶工程名词",
+   "wordNumber": "08.154",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "用来探测鱼群的水声设备。是渔用声呐的一种。"
+  },
+  {
+   "cn": "护木",
+   "en": "timber fender",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.211",
+   "subjectFullName": "水利科学技术_航道与港口_码头（水利）",
+   "subjectName": "码头（水利）",
+   "publishYear": "1997",
+   "definition": "安装在码头前沿的木质缓冲装置。"
+  },
+  {
+   "cn": "橡胶护舷",
+   "en": "rubber fender",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.210",
+   "subjectFullName": "水利科学技术_航道与港口_码头（水利）",
+   "subjectName": "码头（水利）",
+   "publishYear": "1997",
+   "definition": "设在码头前面，用橡胶做成各种形状的缓冲装置。"
+  },
+  {
+   "cn": "寻星镜",
+   "en": "finder",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "碰垫，靠把",
+   "en": "fender",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "护舷材",
+   "en": "fender",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "碰垫",
+   "en": "fender",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "横风航驶",
+   "en": "reach",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复向期",
+   "en": "reach",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "格雷巴赫范式",
+   "en": "Greibach normal form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向仪",
+   "en": "direction finder",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "探鱼仪",
+   "en": "fish finder",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "寻星度盘，寻像圈",
+   "en": "finder circle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "寻线机，寻线器",
+   "en": "call finder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻像器",
+   "en": "view-finder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测距仪",
+   "en": "range finder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测向仪",
+   "en": "direction finder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鱼探仪，鱼群探测器",
+   "en": "fish finder",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鱼探仪",
+   "en": "fish finder",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "谱线检索",
+   "en": "spec-finder",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可达包络面",
+   "en": "reach envelope",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第二帝国",
+   "en": "Second Reich",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "河口直段",
+   "en": "sea reach",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测深仪",
+   "en": "depth finder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下学上达",
+   "en": "Study Concrete Things and Reach to a Higher-level Understanding",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靡不有初，鲜克有终",
+   "en": "All Things Have a Beginning, but Few Can Reach the End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "惠及弱势群体策略",
+   "en": "reach vulnerable adolescent strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "加强边缘化、难以接触和脆弱的青少年以及一般年轻人获得综合性保健服务机会的方式及途径。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

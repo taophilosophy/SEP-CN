@@ -1,0 +1,772 @@
+{
+ "key": "republic mimesis",
+ "term": "Republic mimêsis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:51:55+00:00",
+ "status": "ok",
+ "note": "variant=Republic mimêsis; 审定公布名词库=623; 海峡两岸名词对照库=85; 其他来源数据库=138; 预公布名词数据库=147; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "诺夫哥罗德共和国",
+   "en": "Novgorod Republic",
+   "source": "世界历史名词",
+   "wordNumber": "02.0719",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1134-1478年间位于罗斯西北部和北部的共和国。管理机构为贵族会议和谓彻。后被莫斯科罗斯吞并。"
+  },
+  {
+   "cn": "普斯科夫共和国",
+   "en": "Pskkov Republic",
+   "source": "世界历史名词",
+   "wordNumber": "02.0721",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "以普斯科夫为都城的贵族共和国，13世纪以前归属诺夫哥罗德共和国。1510年起归属俄国。"
+  },
+  {
+   "cn": "吉朗共和国",
+   "en": "Gilan Republic",
+   "source": "世界历史名词",
+   "wordNumber": "04.0407",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "1920-1921年，伊朗北部吉朗省成立的民主共和政权。"
+  },
+  {
+   "cn": "魏玛共和国",
+   "en": "Weimar Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0623",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1919年成立的德意志第一个资产阶级议会民主制共和国。"
+  },
+  {
+   "cn": "苏维埃社会主义自治共和国",
+   "en": "Autonomous Republic",
+   "source": "世界历史名词",
+   "wordNumber": "05.0411",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "苏联的苏维埃社会主义国家。按自治原则加入加盟共和国。有自己的宪法，设有最高苏维埃、政府和最高法院。"
+  },
+  {
+   "cn": "海尔维第共和国",
+   "en": "Helvetian Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0843",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_瑞士",
+   "subjectName": "瑞士",
+   "publishYear": "2012",
+   "definition": "1798年4月至1803年2月，在法国支持下，瑞士22个州组成了共和国。"
+  },
+  {
+   "cn": "罗马共和国",
+   "en": "Roman Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0678",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "1849年2月9日，罗马人民进行革命推翻教皇国后建立的政权。"
+  },
+  {
+   "cn": "再版",
+   "en": "republishing;republication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.083",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "经修订或重排后再次印刷发行的出版活动。"
+  },
+  {
+   "cn": "远东共和国",
+   "en": "Far Eastern Republic",
+   "source": "世界历史名词",
+   "wordNumber": "05.0378",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1920年4月6日至1922年11月15日，位于外贝加尔和远东地区由俄国控制建立的共和国，为苏俄与日本之间的“缓冲国”。后并入俄罗斯联邦。"
+  },
+  {
+   "cn": "帕尔马雷斯共和国",
+   "en": "Republic of Palmars",
+   "source": "世界历史名词",
+   "wordNumber": "04.0703",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南美",
+   "subjectName": "南美",
+   "publishYear": "2012",
+   "definition": "1630-1697年，巴西逃亡黑奴在伯南布哥棕榈丛林建立的一个原始国家组织。"
+  },
+  {
+   "cn": "法兰西第四共和国",
+   "en": "French Forth Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0559",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "第二次世界大战后，法国建立的资产阶级共和国（1947-1958）。"
+  },
+  {
+   "cn": "得克萨斯共和国",
+   "en": "Republic of Texas",
+   "source": "世界历史名词",
+   "wordNumber": "04.0611",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲",
+   "subjectName": "墨西哥、中美洲",
+   "publishYear": "2012",
+   "definition": "1836年，美国移民在美国扶植下在原墨西哥领土得克萨斯建立的政权，1845年成为美国一州。"
+  },
+  {
+   "cn": "德意志民主共和国",
+   "en": "German Democratic Republic",
+   "source": "世界历史名词",
+   "wordNumber": "05.0605",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1949年10月，针对德国西部在美英法支持下成立了德意志联邦共和国(西德)，德国东部在苏联支持下成立的又一个德意志国家。"
+  },
+  {
+   "cn": "威尼斯共和国",
+   "en": "Republic of Venice",
+   "source": "世界历史名词",
+   "wordNumber": "02.0609",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "意大利北部城市共和国，位于亚得里亚海北岸，始建于公元687年，1797年为拿破仑·波拿巴所灭，因统治中心在威尼斯而得名。"
+  },
+  {
+   "cn": "热那亚共和国",
+   "en": "Republic of Genoa",
+   "source": "世界历史名词",
+   "wordNumber": "02.0612",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "意大利西北部城市共和国，中心城市热那亚，原为罗马帝国自治市，1100年建立市议会，标志着独立共和国的形成，1860年成为意大利王国的一部分。"
+  },
+  {
+   "cn": "顿河苏维埃共和国",
+   "en": "Don Soviet Republic",
+   "source": "世界历史名词",
+   "wordNumber": "05.0339",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1918年3月至5月在俄罗斯联邦内成立的共和国，后为德国军队和白军哥萨克占领。"
+  },
+  {
+   "cn": "意大利社会共和国",
+   "en": "Italian Social Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0707",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "1943年9月，墨索里尼在萨罗建立的傀儡政权。"
+  },
+  {
+   "cn": "法兰西第二共和国",
+   "en": "French Second Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0517",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1848年，法国二月革命建立的资产阶级共和国。"
+  },
+  {
+   "cn": "美因茨共和国",
+   "en": "Republic of Meinz",
+   "source": "世界历史名词",
+   "wordNumber": "03.0576",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1793年3月至7月在法国占领军组织下建立的以美因茨为中心的德国政权。"
+  },
+  {
+   "cn": "法兰西第五共和国",
+   "en": "French Fifth Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0564",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1958年9月戴高乐在法国建立的资产阶级共和国。"
+  },
+  {
+   "cn": "拟态",
+   "en": "mimicry\",\"mimesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂",
+   "en": "mitosis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂",
+   "en": "mitosis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂",
+   "en": "mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂",
+   "en": "mitosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂",
+   "en": "mitosis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂后期",
+   "en": "mitosis anaphase",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂末期",
+   "en": "mitosis telophase",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂前期",
+   "en": "mitosis prophase",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂中期",
+   "en": "mitosis metaphase",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成熟前有丝分裂",
+   "en": "premeiotic mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多极有丝分裂",
+   "en": "multipolar mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "双星体有丝分裂",
+   "en": "amphiastral mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无星体有丝分裂",
+   "en": "anastral mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有星体有丝分裂",
+   "en": "astral mitosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "C有丝分裂",
+   "en": "C-mitosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "成熟前有丝分裂",
+   "en": "premeiotic mitosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "花粉粒有丝分裂",
+   "en": "pollen grain mitosis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间接分裂（=有丝分裂）",
+   "en": "indirect division (=mitosis)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂促进因子",
+   "en": "mitosis-promoting factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "《数字共和国法》（法国）",
+   "en": "Digital Republic Law (France)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "捷克个人数据保护办公室",
+   "en": "Office for Personal Data Protection (Czech Republic)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国网络安全法》",
+   "en": "Cybersecurity Law of the People’s Republic of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中华人民共和国国家标准化管理委员会",
+   "en": "Standardization Administration of the People’s Republic of China (SAC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国电子商务法》",
+   "en": "E-Commerce Law of the People’s Republic of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国电子签名法》",
+   "en": "Electronic Signature Law of the People’s Republic of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国政府信息公开条例》",
+   "en": "Regulations of the People’s Republic of China on Open Government Information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中华人民共和国工业和信息化部",
+   "en": "Ministry of Industry and Information Technology of the People’s Republic of China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国计算机信息系统安全保护条例》",
+   "en": "Regulations of the People’s Republic of China for Safety Protection of Computer Information Systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《中华人民共和国传染病防治法》",
+   "en": "Law of the People’s Republic of China on Prevention and Treatment of Infectious Diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《公安部关于大力推进基础信息化建设的意见》（中国）",
+   "en": "Opinions of the Ministry of Public Security of the People’s Republic of China on Vigorously Promoting Information Infrastructure Construction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有链",
+   "en": "public blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据",
+   "en": "public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共和国",
+   "en": "republic",
+   "source": "马克思主义",
+   "wordNumber": "03.0071",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“君主国”相对。是指没有君主为国家元首的国家，其国家元首称总统、主席或其他类似的称号。其特点是实行共和制，即国家机关和国家元首由选举产生。它只是一种国家形式，不同阶级专政的国家有不同的性质。在剥削制"
+  },
+  {
+   "cn": "民主共和国",
+   "en": "democratic republic",
+   "source": "马克思主义",
+   "wordNumber": "03.0279",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "国家元首和国家最高权力机关定期由选举产生的国家。它只是一种国家形式，在不同阶级专政的国家有不同性质。在奴隶社会、封建社会和资产阶级社会，民主共和国都是统治阶级专政的一种形式。无产阶级在推翻资产阶级统治"
+  },
+  {
+   "cn": "自治共和国",
+   "en": "autonomous republic",
+   "source": "马克思主义",
+   "wordNumber": "04.0115",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联以民族为基础的一种（一级）行政区划，享有自治权。这些民族的人口较少，不具备成立普通的州或加盟共和国的条件。苏联有20个自治共和国，每个自治共和国在民族院有代表11名。虽然自治权规定了地区政府的独特"
+  },
+  {
+   "cn": "加盟共和国",
+   "en": "union republics",
+   "source": "马克思主义",
+   "wordNumber": "04.0419",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称是“苏维埃社会主义加盟共和国”。苏联加盟共和国是组成苏联的各个共和国。根据苏联宪法第七十三条规定,苏维埃社会主义共和国联盟的职权范围以外,在自己领土上独立行使国家权力。其职权如下:①参加解决苏联职"
+  },
+  {
+   "cn": "无产阶级共和国",
+   "en": "republic of proletariat",
+   "source": "马克思主义",
+   "wordNumber": "03.0191",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级革命推翻资产阶级专政，打碎资产阶级国家机器后建立的新兴国家。它是无产阶级实现自己的阶级统治，进行社会主义改造和建设社会主义的工具。其实现形式有苏维埃和人民代表大会等。"
+  },
+  {
+   "cn": "苏维埃社会主义共和国联盟",
+   "en": "Union of Soviet Socialist Republics",
+   "source": "马克思主义",
+   "wordNumber": "04.0418",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界上第一个取得无产阶级革命胜利并建立了苏维埃共和国的国家联盟。1922年12月29日，苏维埃全权代表团举行会议，根据列宁的建议，在自愿联合又保留每个苏维埃共和国平等权利的基础上，决定组成统一的国家—"
+  },
+  {
+   "cn": "中华人民共和国劳动法",
+   "en": "labor law of the People’s Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.10",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保护劳动者的合法权益，调整劳动关系，建立和维护适应社会主义市场经济的劳动制度，促进经济发展和社会进步而制定的法律。1994年7月5日第八届全国人民代表大会常务委员会第八次会议通过并公布。2009年"
+  },
+  {
+   "cn": "中华人民共和国计量法",
+   "en": "metrology law of the People’s Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.17",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了加强计量监督管理，保障国家计量单位制的统一和量值的准确可靠，有利于生产、贸易和科学技术的发展，适应社会主义现代化建设的需要，维护国家、人民的利益而制定的法律。1985年9月6日第六届全国人民代表大"
+  },
+  {
+   "cn": "苏联最高苏维埃",
+   "en": "Supreme Soviet of the Union of Soviet Socialist Republics",
+   "source": "马克思主义",
+   "wordNumber": "04.0421",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1936年至1988年12月间苏联最高国家权力机关和专门行使苏联立法权的国家机关。根据苏联1936年通过的宪法，最高苏维埃的代表由全体选民根据普遍、平等、直接的选举权以无记名投票的方式选举产生，任期5"
+  },
+  {
+   "cn": "中华人民共和国食品安全法",
+   "en": "food safety law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保证食品安全，保障公众身体健康和生命安全而制定的法律。2009年2月28日第十一届全国人民代表大会常务委员会第七次会议通过并公布。2015年4月24日第十二届全国人民代表大会常务委员会第十四次会议"
+  },
+  {
+   "cn": "中华人民共和国行政许可法",
+   "en": "administrative permission law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了规范行政许可的设定和实施，保护公民、法人和其他组织的合法权益，维护公共利益和社会秩序，保障和监督行政机关有效实施行政管理而制定的法律。2003年8月27日第十届全国人民代表大会常务委员会第四次会议"
+  },
+  {
+   "cn": "中华人民共和国行政诉讼法",
+   "en": "administrative procedure law of the People’s Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.7",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保证人民法院公正、及时审理行政案件，解决行政争议，保护公民、法人和其他组织的合法权益，监督行政机关依法行使职权而制定的法律。1989年4月4日第七届全国人民代表大会第二次会议通过并公布，2014年"
+  },
+  {
+   "cn": "中华人民共和国行政强制法",
+   "en": "administrative compulsion law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.9",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了规范行政强制的设定和实施，保障和监督行政机关依法履行职责，维护公共利益和社会秩序，保护公民、法人和其他组织的合法权益而制定的法律。2011年6月30日第十一届全国人民代表大会常务委员会第二十一次会"
+  },
+  {
+   "cn": "中华人民共和国劳动合同法",
+   "en": "labor contract law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.11",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了完善劳动合同制度，明确劳动合同双方当事人的权利和义务，保护劳动者的合法权益，构建和发展和谐稳定的劳动关系而制定的法律。2007年6月29日第十届全国人民代表大会常务委员会第二十八次会议通过并公布，"
+  },
+  {
+   "cn": "中华人民共和国安全生产法",
+   "en": "work safety law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了加强安全生产工作，防止和减少生产安全事故，保障人民群众生命和财产安全，促进经济社会持续健康发展而制定的法律。2002年6月29日第九届全国人民代表大会常务委员会第二十八次会议通过并公布，2009年"
+  },
+  {
+   "cn": "中华人民共和国工会法",
+   "en": "trade union law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.15",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保障工会在国家政治、经济和社会生活中的地位，确定工会的权利与义务，发挥工会在社会主义现代化建设事业中的作用而制定的法律。1992年4月3日第七届全国人民代表大会第五次会议通过并公布。2001年、2"
+  },
+  {
+   "cn": "中华人民共和国社会保险法",
+   "en": "social insurance law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.16",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了规范社会保险关系，维护公民参加社会保险和享受社会保险待遇的合法权益，使公民共享发展成果，促进社会和谐稳定而制定的法律。2010年10月28日第十一届全国人民代表大会常务委员会第十七次会议通过并公布"
+  },
+  {
+   "cn": "中华人民共和国核安全法",
+   "en": "nuclear safety law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.18",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保障核安全，预防与应对核事故，安全利用核能，保护公众和从业人员的安全与健康，保护生态环境，促进经济社会可持续发展而制定的法律。2017年9月1日第十二届全国人民代表大会常务委员会第二十九次会议通过"
+  },
+  {
+   "cn": "中华人民共和国环境保护法",
+   "en": "environmental protection law of the People's Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.19",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保护和改善环境，防治污染和其他公害，保障公众健康，推进生态文明建设，促进经济社会可持续发展而制定的法律。1989年12月26日第七届全国人民代表大会常务委员会第十一次会议通过并公布。2014年4月"
+  },
+  {
+   "cn": "苏联部长会议",
+   "en": "Council of Ministers of the Union of Soviet Socialist Republics",
+   "source": "马克思主义",
+   "wordNumber": "04.0420",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联政府的名称，苏联国家最高执行和指挥机关。1936年的《苏联宪法》明确规定苏联国家最高执行和号令机关为部长会议。1946年2月，苏联最高苏维埃首次会议决定将苏联政府的原名称-人民委员会改为部长会议。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

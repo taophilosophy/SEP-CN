@@ -1,0 +1,432 @@
+{
+ "key": "jiva-atma",
+ "term": "jīva-ātma",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:47:34+00:00",
+ "status": "ok",
+ "note": "variant=jīva-ātma; 审定公布名词库=21; 海峡两岸名词对照库=23; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "TMA值",
+   "en": "value of trimethylamine",
+   "source": "水产名词",
+   "wordNumber": "08.041",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "水产品体内氧化三甲胺分解产物的含量。"
+  },
+  {
+   "cn": "Java操作系统",
+   "en": "Java operating system,Java OS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0270",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "内核中以Java虚拟机为基本核心，其他部分都用Java语言写成并在Java虚拟机上运行的操作系统。例如JX、JNode、JavaOS。"
+  },
+  {
+   "cn": "Java组件",
+   "en": "Java bean",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0192",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "Java程序中一些符合某种规范的类组合在一起形成的组件。"
+  },
+  {
+   "cn": "Java芯片",
+   "en": "Java chip",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0191",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可以提高Java虚拟机解释执行字节码性能的一种微芯片。"
+  },
+  {
+   "cn": "Java脚本",
+   "en": "Java script",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0187",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "基于ECMAScript语言规范的脚本语言。可为网页编程提供大量的互动或增强显示效果的手段。"
+  },
+  {
+   "cn": "Java包装器",
+   "en": "Java wrapper",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0542",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "Java语言的一个类，用以把非对象的数据包装成对象。"
+  },
+  {
+   "cn": "Java解释程序",
+   "en": "Java interpreter",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0188",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "解释执行Java字节码的程序。"
+  },
+  {
+   "cn": "Java小应用程序",
+   "en": "Java applet",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0189",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "采用Java创建的基于HTML的程序。可通过因特网下载并在本地接收的计算机上运行。"
+  },
+  {
+   "cn": "热力分析",
+   "en": "thermomechanical analysis,TMA",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0617",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品仪器分析",
+   "subjectName": "食品仪器分析",
+   "publishYear": "2020",
+   "definition": "在程序控温和一定气氛下，测量试样的某种物理性质与温度或时间关系的一类技术。"
+  },
+  {
+   "cn": "热机械分析",
+   "en": "thermomechanical analysis,TMA",
+   "source": "化学名词",
+   "wordNumber": "03.2723",
+   "subjectFullName": "化学_分析化学_仪器分析_热分析",
+   "subjectName": "热分析",
+   "publishYear": "2016",
+   "definition": "在程序控温非振动负载下(应力可为压缩、针刺、拉伸或弯曲等不同形式)，测量试样形变与温度或时间的关系。由此测得的是温度-形变曲线。"
+  },
+  {
+   "cn": "鸦胆子",
+   "en": "java brucea fruit",
+   "source": "中医药学名词",
+   "wordNumber": "06.468",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "苦木科植物鸦胆子"
+  },
+  {
+   "cn": "血栓微血管病",
+   "en": "thrombotic micro-angiopathy,TMA",
+   "source": "器官移植学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "器官移植学_器官移植病理学",
+   "subjectName": "器官移植病理学",
+   "publishYear": "2020",
+   "definition": "一类由不同原因导致微血管血栓形成，引起以微血管病性溶血性贫血、血小板减少、血管内血栓形成和脏器功能障碍为特征的临床病理综合征。"
+  },
+  {
+   "cn": "Java企业版",
+   "en": "Java enterprise edition,JEE",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0709",
+   "subjectFullName": "计算机科学技术_系统软件_中间件",
+   "subjectName": "中间件",
+   "publishYear": "2018",
+   "definition": "一种支持用Java语言进行服务器端程序设计的应用服务器平台。在Java标准版平台外提供了安全、事务、容错等企业计算服务。"
+  },
+  {
+   "cn": "Java服务器页面",
+   "en": "Java server pages,JSP",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0599",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "由太阳微系统（Sun Microsystems）公司倡导、许多公司参与共同建立的一种动态网页技术标准。"
+  },
+  {
+   "cn": "Java虚拟机",
+   "en": "Java virtual machine,JVM",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0190",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "运行Java字节码的抽象机。通常采用Java解释程序或者即时编译器来运行输入的字节码。"
+  },
+  {
+   "cn": "Java数据库互连",
+   "en": "Java database connectivity,JDBC",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0598",
+   "subjectFullName": "计算机科学技术_数据库_数据库应用开发",
+   "subjectName": "数据库应用开发",
+   "publishYear": "2018",
+   "definition": "一种用于执行SQL语句的Java API，可以为多种关系数据库提供统一访问，它由一组用Java语言编写的类和接口组成。"
+  },
+  {
+   "cn": "Java管理扩展",
+   "en": "Java management extensions,JMX",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0968",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "SUN公司基于Java平台提出的用来管理和监控网络、设备、应用程序等资源的框架。"
+  },
+  {
+   "cn": "转录介导扩增",
+   "en": "transcription-mediated amplification;TMA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0563",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_聚合酶链反应与等温扩增技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "以RNA或DNA为模板，利用RNA聚合酶和逆转录酶在约42℃等温反应条件下扩增产物为RNA的技术。其原理与核酸序列依赖性扩增（NASBA）基本一致，只是使用带有RNaseH活性和逆转录酶活性的MMLV"
+  },
+  {
+   "cn": "三反消像散系统",
+   "en": "three-mirror anastigmat; TMA",
+   "source": "天文学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "一类同时消除球差、彗差和像散的三镜面反射望远镜，可实现比双镜面反射望远镜更大的视场。又称名以相应通用解的提出者命名。"
+  },
+  {
+   "cn": "血栓性微血管病",
+   "en": "thrombotic microan-giopathy;TMA",
+   "source": "血液学名词",
+   "wordNumber": "9.089",
+   "subjectFullName": "血液学_出血与血栓性疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "一组急性临床综合征。呈微血管病性溶血性贫血、血小板减少及由于微循环中血栓形成造成的器官受累表现。"
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "爪哇海沟",
+   "en": "Java Trench",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Java编译程序",
+   "en": "Java compiler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java操作系统",
+   "en": "Java OS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java脚本",
+   "en": "Java script",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java解释程序",
+   "en": "Java interpreter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java小应用程序",
+   "en": "Java applet",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java芯片",
+   "en": "Java chip",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java应用",
+   "en": "Java application",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java组件",
+   "en": "Java bean",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热机械分析",
+   "en": "thermomechanical analysis\",\"TMA",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "差示热机械分析法",
+   "en": "differential thermomechanical analysis\",\"DTMA",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "翁通爪哇海台",
+   "en": "Ontong Java Plateau",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java program language",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Java本地接口",
+   "en": "Java native interface",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java基础类[库]",
+   "en": "Java foundation class",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java开发工具箱",
+   "en": "Java development kit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java快速编译程序",
+   "en": "Java flash compiler",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java数据库连接",
+   "en": "Java DataBase Connectivity\",\"JDBC",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java虚拟机",
+   "en": "Java virtual machine\",\"JVM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血栓性微血管病",
+   "en": "thrombotic microangiopathy，TMA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.33",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一组以微血管病性溶血性贫血、血小板减少及由于微循环中血栓形成而造成器官受累表现的急性临床综合征。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

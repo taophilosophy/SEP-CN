@@ -1,0 +1,402 @@
+{
+ "key": "gurshabad ratnakar mahankosh",
+ "term": "Gurshabad Ratnakar Mahānkōsh",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:02:45+00:00",
+ "status": "ok",
+ "note": "variant=Gurshabad Ratnakar Mahānkōsh; 审定公布名词库=22; 海峡两岸名词对照库=19; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "NK T细胞",
+   "en": "NK T cell",
+   "source": "免疫学名词",
+   "wordNumber": "2.087",
+   "subjectFullName": "免疫学_免疫系统_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2007",
+   "definition": "同时显示NK细胞和T细胞某些特征的一类免疫细胞，具有细胞毒性和免疫调节作用，可被CD1分子提呈的脂类抗原所激活。"
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "NK细胞蛋白30",
+   "en": "NKp30",
+   "source": "免疫学名词",
+   "wordNumber": "2.668",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD337，属IgSF成员，一种天然细胞毒性受体(NCR3)。分布于静止和活化的NK细胞，通过与含ITAM的CD3ζ-ζ链相连而转导激活信号；与NKp46协作，介导NK细胞的杀伤作用。"
+  },
+  {
+   "cn": "NK细胞蛋白44",
+   "en": "NKp44",
+   "source": "免疫学名词",
+   "wordNumber": "2.669",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD336，属IgSF成员，一种天然细胞毒性受体(NCR2)。表达于活化NK细胞，配体为DAP12，参与介导NK细胞的杀伤活性。"
+  },
+  {
+   "cn": "NK细胞蛋白46",
+   "en": "NKp46",
+   "source": "免疫学名词",
+   "wordNumber": "2.67",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "即CD335，属IgSF成员，一种天然细胞毒性受体(NCR1)。表达于静止和活化的NK细胞，通过与CD3ζ-ζ同源二聚体或ζ-γ异源二聚体相连，可介导NK细胞的杀伤活性。"
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "NK细胞慢性淋巴增殖性疾病",
+   "en": "chronic lymphoproliferative disorder of NK cell",
+   "source": "血液学名词",
+   "wordNumber": "8.079",
+   "subjectFullName": "血液学_淋系肿瘤_成熟细胞毒细胞_细胞肿瘤",
+   "subjectName": "细胞肿瘤",
+   "publishYear": "2022",
+   "definition": "一种罕见的以无明显病因导致外周血持续性（＞6个月）NK细胞增多（通常≥2×109/L）为特征的惰性疾病。"
+  },
+  {
+   "cn": "结外NK/T细胞淋巴瘤",
+   "en": "extranodal NK/T-cell lymphoma",
+   "source": "血液学名词",
+   "wordNumber": "8.085",
+   "subjectFullName": "血液学_淋系肿瘤_成熟细胞毒细胞_细胞肿瘤",
+   "subjectName": "细胞肿瘤",
+   "publishYear": "2022",
+   "definition": "主要侵及鼻、鼻咽部、鼻旁窦和扁桃体、韦氏环、口咽部为主的淋巴瘤。临床呈高度侵袭性，病理以血管损害、破坏、坏死为特征，伴细胞毒性表型及EB病毒阳性。"
+  },
+  {
+   "cn": "NK基因复合体",
+   "en": "NK gene complex,NKC",
+   "source": "免疫学名词",
+   "wordNumber": "2.671",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "位于人第12号染色体或小鼠第6号染色体的一个基因区域。包括NKR-P1A、CD69、AICL、NKG2C/NKG2A、NKG2E、NKG2F/NKG2D和CD94等基因。"
+  },
+  {
+   "cn": "鼻结外NK/T细胞淋巴瘤",
+   "en": "extra-nodal NK/T cell lymphoma of nose",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.11.3",
+   "subjectFullName": "鼻科_鼻恶性肿瘤",
+   "subjectName": "鼻恶性肿瘤",
+   "publishYear": "2025",
+   "definition": "发生于鼻部的淋巴结外淋巴瘤。肿瘤细胞表达T细胞分化抗原和NK细胞相关抗原。"
+  },
+  {
+   "cn": "侵袭性NK细胞白血病",
+   "en": "aggressive NK-cell leukemia",
+   "source": "血液学名词",
+   "wordNumber": "8.08",
+   "subjectFullName": "血液学_淋系肿瘤_成熟细胞毒细胞_细胞肿瘤",
+   "subjectName": "细胞肿瘤",
+   "publishYear": "2022",
+   "definition": "一种以系统性NK细胞恶性增殖为特点的侵袭性白血病。常与EB病毒感染相关，细胞常表达CD2，胞质CD3、CD56和CD16阳性，而膜CD3、CD57阴性。亚洲人多见，预后极差。"
+  },
+  {
+   "cn": "嵌合抗原受体NK细胞治疗",
+   "en": "chimeric antigen receptor NK cell therapy",
+   "source": "血液学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "血液学_特殊治疗_治疗方法",
+   "subjectName": "治疗方法",
+   "publishYear": "2022",
+   "definition": "通过基因工程修饰，在NK细胞表面表达能够与肿瘤特定抗原结合的嵌合抗原受体（CAR），回输后能够特异性识别带有特定抗原的肿瘤细胞，引发免疫反应，从而达到清除肿瘤细胞目的的治疗方法。"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "NK T细胞",
+   "en": "NK T cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞蛋白30",
+   "en": "NKp30",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞蛋白44",
+   "en": "NKp44",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞蛋白46",
+   "en": "NKp46",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞（=自然杀伤细胞）",
+   "en": "natural killer cell\",\"NK cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自然杀伤细胞，NK细胞",
+   "en": "natural killer cell\",\"NK cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞(=自然杀伤细胞)",
+   "en": "[]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自然杀伤细胞，NK细胞",
+   "en": "natural killer cell， NK cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞(=自然杀伤细胞)",
+   "en": "[]",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK细胞缺陷鼠（=米色鼠）",
+   "en": "[]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "米色鼠，NK细胞缺陷鼠",
+   "en": "beige mouse",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自然杀伤细胞，NK细胞，天然杀伤细胞",
+   "en": "natural killer cell\",\"NK cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "NK基因复合体",
+   "en": "NK gene complex， NKC",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

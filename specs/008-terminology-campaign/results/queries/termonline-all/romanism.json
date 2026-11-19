@@ -1,0 +1,502 @@
+{
+ "key": "romanism",
+ "term": "Romanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:53:53+00:00",
+ "status": "ok",
+ "note": "variant=Romanism; 审定公布名词库=149; 海峡两岸名词对照库=89; 其他来源数据库=4; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "罗马斗兽场",
+   "en": "Roman Colosseum",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.123",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "古罗马帝国专供奴隶主、贵族和自由民观看斗兽或奴隶角斗的地方。位于意大利罗马市中心，建于公元72～82年，是古罗马文明的象征。俯瞰时呈椭圆形，占地面积约2万平方米，长轴长约188米，短轴长约156米，圆"
+  },
+  {
+   "cn": "罗马数字",
+   "en": "Roman Numeral",
+   "source": "世界历史名词",
+   "wordNumber": "02.0496",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "古罗马制计数法中所采用的符号。"
+  },
+  {
+   "cn": "罗马法典",
+   "en": "Roman Code",
+   "source": "世界历史名词",
+   "wordNumber": "02.0649",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "公元12世纪《查士丁尼法典》、《查士丁尼法学总论》、《查士丁尼学说汇编》和《查士丁尼新律》四部法典的统称。"
+  },
+  {
+   "cn": "罗马埃及",
+   "en": "Roman Egypt",
+   "source": "世界历史名词",
+   "wordNumber": "02.0122",
+   "subjectFullName": "世界历史_古代中世纪_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "公元前30-641年，罗马人统治埃及时期，因罗马人的统治而得名。"
+  },
+  {
+   "cn": "罗马公民权",
+   "en": "Roman citizenship",
+   "source": "世界历史名词",
+   "wordNumber": "02.0457",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "罗马公民拥有的权利，主要包括公权(iura publica)和私权(iura privata)两部分。"
+  },
+  {
+   "cn": "罗马法",
+   "en": "Roman Law",
+   "source": "世界历史名词",
+   "wordNumber": "02.0497",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "古罗马自公元前753年罗马城建立至5世纪西罗马帝国灭亡时的法律，东罗马帝国则延续使用至1453年。"
+  },
+  {
+   "cn": "罗马平民",
+   "en": "Roman Plebs",
+   "source": "世界历史名词",
+   "wordNumber": "02.0419",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "与“罗马人民”相对应，罗马共和时代的一个重要等级，起源于王政时代，是罗马人民之外的人们，主要由被征服地区的移民组成，到王政时代后期基本形成一个特定等级。"
+  },
+  {
+   "cn": "罗马行省",
+   "en": "Roman Provinces",
+   "source": "世界历史名词",
+   "wordNumber": "02.0442",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "古代罗马在对外征服过程中在意大利以外的征服地派遣总督治理的行政区域。"
+  },
+  {
+   "cn": "罗马广场",
+   "en": "Roman Forum",
+   "source": "世界历史名词",
+   "wordNumber": "02.0494",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "古罗马最重要的广场，位于帕拉丁和卡托利尼两座山丘之间的低地上，是共和国时期公众集会、审判、斗剑的场所，在帝国时期成为宗教仪式和世俗活动场所。"
+  },
+  {
+   "cn": "罗马宗教",
+   "en": "Roman Religion",
+   "source": "世界历史名词",
+   "wordNumber": "02.0498",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "罗马人自公元前8世纪至4世纪初的宗教信仰、仪式及制度。"
+  },
+  {
+   "cn": "罗马新贵",
+   "en": "Roman Nobilities",
+   "source": "世界历史名词",
+   "wordNumber": "02.0439",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "大约在公元前4世纪下半叶和公元前3世纪初，罗马平民上层与贵族逐渐合流，共同把持政权，这些人被称为“罗马新贵”。"
+  },
+  {
+   "cn": "罗马字母",
+   "en": "Roman Alphabet",
+   "source": "世界历史名词",
+   "wordNumber": "02.0492",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "世界上最广泛应用的字母文字体系，由拉丁人创造。"
+  },
+  {
+   "cn": "罗马贵族",
+   "en": "Roman Patricians",
+   "source": "世界历史名词",
+   "wordNumber": "02.0420",
+   "subjectFullName": "世界历史_古代中世纪_罗马",
+   "subjectName": "罗马",
+   "publishYear": "2012",
+   "definition": "罗马共和时代的一个重要等级，起源于王政时代，是从罗马原部落、胞族和氏族的成员即罗马人民演变而来，到王政时代后期逐渐与罗马平民对立起来。"
+  },
+  {
+   "cn": "罗马共和国",
+   "en": "Roman Republic",
+   "source": "世界历史名词",
+   "wordNumber": "03.0678",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "1849年2月9日，罗马人民进行革命推翻教皇国后建立的政权。"
+  },
+  {
+   "cn": "古罗马园林",
+   "en": "ancient Roman garden",
+   "source": "风景园林名词",
+   "wordNumber": "02.0164",
+   "subjectFullName": "风景园林_风景园林史_欧洲",
+   "subjectName": "欧洲",
+   "publishYear": "2025",
+   "definition": "公元前九世纪至公元五世纪，在意大利半岛由古罗马文明兴建的城郊庄园、城市宅园、公共园林等诸多园林。"
+  },
+  {
+   "cn": "古罗马庄园",
+   "en": "ancient Roman villa",
+   "source": "风景园林名词",
+   "wordNumber": "02.0165",
+   "subjectFullName": "风景园林_风景园林史_欧洲",
+   "subjectName": "欧洲",
+   "publishYear": "2025",
+   "definition": "多指公元前五世纪至公元五世纪时期，建在古罗马城郊外供王公、贵族日常享乐消遣的园林，可分为宫苑和贵族园林。多依山就势而建，善于利用地形高差设置观景平台。"
+  },
+  {
+   "cn": "古罗马建筑",
+   "en": "ancient Roman architecture",
+   "source": "建筑学名词",
+   "wordNumber": "03.0261",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "西方古典建筑的高峰(公元前8世纪~公元4世纪)。其建筑类型丰富，以纪念性建筑和公共建筑成就最高。其建筑技术高超，有高水平的拱券结构，发展了梁柱与拱券结合的体系，并发明了火山灰混凝土。其大型建筑风格雄浑"
+  },
+  {
+   "cn": "古罗马浴场",
+   "en": "ancient Roman thermae",
+   "source": "建筑学名词",
+   "wordNumber": "03.0263",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古罗马建筑中功能、空间组合和建筑技术最为复杂的一种类型。不单纯为沐浴之用，而是综合有上流社会的社交、文娱、健身等活动的场所。最初主要包括热水厅、温水厅、冷水厅，浴场地下和墙体内设置管道通热空气和烟取暖"
+  },
+  {
+   "cn": "罗马水道",
+   "en": "viaduct,Roman waterway",
+   "source": "建筑学名词",
+   "wordNumber": "03.0264",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古罗马时期修建的输水道工程。多为天然石材或混凝土砌成拱券，上为输水槽，有单层和多层两种，表面暴露石面或加以遮挡。在法国尼姆城内留存的罗马水道至今仍然还能使用。"
+  },
+  {
+   "cn": "古罗马城市广场",
+   "en": "ancient Roman forum",
+   "source": "建筑学名词",
+   "wordNumber": "03.0262",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "古罗马重要的公共建筑类型之一。其布局和发展与社会性质密切相关：共和国时期，是市民广场，建筑布局自由，建筑类型多样化；帝国时期，广场成为为帝王歌功颂德的场所，布局严谨对称，以象征帝王的神庙为核心，图拉真"
+  },
+  {
+   "cn": "罗马节日",
+   "en": "Feste Romane",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Respighi, Ottorino"
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "罗马高卢",
+   "en": "Roman Gaul",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "罗马天主教,天主教",
+   "en": "Roman Catholicism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地名罗马化",
+   "en": "romanization of geographical name",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生物",
+   "en": "organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有机体",
+   "en": "organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发光生物",
+   "en": "luminous organism\",\"bioluminescent organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模式生物",
+   "en": "model organism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "土壤微生物",
+   "en": "soil organism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "罗马尼亚狂想曲",
+   "en": "Romanian Rhapsodies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Enescu, George"
+  },
+  {
+   "cn": "构件生物",
+   "en": "modular organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "嗜冷生物",
+   "en": "psychrophilic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "固着生物",
+   "en": "sessile organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "单体生物",
+   "en": "unitary organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "流水营养生物",
+   "en": "rheotrophic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多细胞生物",
+   "en": "multicellular organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "漂流生物",
+   "en": "drifting organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大洋生物,远海生物",
+   "en": "pelagic organism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "古典式摔跤运动员",
+   "en": "Greco-Roman wrestler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古典式摔跤",
+   "en": "Greco-Romaine wrestling\",\"Greco-Roman style",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "罗马尼亚人",
+   "en": "Romanian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0294",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "欧洲现代民族，拥有罗马尼亚国籍和公民身份的人们共同体。使用罗马尼亚语，属罗曼语族东罗曼语支，多信奉东正教。"
+  },
+  {
+   "cn": "阿曼人",
+   "en": "Omanis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0115",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "亚洲现代民族（nation)，拥有阿曼苏丹国国籍和公民身份的人们共同体。人口约为449 万（2021 年）。属欧罗巴人种地中海类型。通用阿拉伯语文，属闪含语系闪语族。信仰伊斯兰教，属逊尼派或什叶派。多"
+  },
+  {
+   "cn": "国家有机体学说",
+   "en": "state organism theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0507",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "德国民族学家拉采尔（Friedrich Ratzel）在《政治地理学》一书中提出的有关国家空间增长的理论。该理论把国家比作有生命的有机体，它的社会行为遵循生物规律，适用生物进化的理论，应用与生物的类比"
+  },
+  {
+   "cn": "历史人学人学辩证法",
+   "en": "historical anthropology humanism dialectic",
+   "source": "马克思主义",
+   "wordNumber": "05.0060",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特认为马克思主义有“忽视人”的缺陷，这种缺陷成为存在主义复活的源泉。存在主义从马克思主义那里获得了生命的营养和历史条件，这种新生具体体现在历史人学或者说人学辩证法上。人类主体从集合到群体的演变构成为"
+  },
+  {
+   "cn": "罗马尼亚共产党",
+   "en": "Communist Party of Romania",
+   "source": "马克思主义",
+   "wordNumber": "05.0317",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "罗马尼亚社会主义时期的执政党。前身为1893年成立的罗马尼亚社会民主工党。1921年改名为共产党，并加入共产国际。1948年2月与社会民主党合并为罗马尼亚工人党。1965年又恢复罗马尼亚共产党的名称，"
+  },
+  {
+   "cn": "高温作业机体变化",
+   "en": "organism change working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "在高温环境中从事劳动，人体机能发生变化的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

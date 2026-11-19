@@ -1,0 +1,42 @@
+{
+ "key": "ochemata",
+ "term": "ochêmata",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:45:39+00:00",
+ "status": "ok",
+ "note": "variant=ochêmata; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "旋脊",
+   "en": "chomata",
+   "source": "古生物学名词",
+   "wordNumber": "02.0046",
+   "subjectFullName": "古生物学_古无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2009",
+   "definition": "通道两侧的两条脊状突起，绕中轴旋卷。"
+  },
+  {
+   "cn": "横脊",
+   "en": "chomata,choma",
+   "source": "古生物学名词",
+   "wordNumber": "02.0649",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "牡蛎类中，位近铰合部两壳结合架上，相对应的小脊和小坑的统称。"
+  },
+  {
+   "cn": "图式阅读理论",
+   "en": "schemata reading theory",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.080",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "运用认知心理学的图式概念，分析认知框架在人类阅读过程中的作用的阅读理论。图式阅读理论认为，语言图式、内容图式、形式图式构成了读者的认知框架，意义取决于读者在阅读过程中对认知框架的启动，读者必须利用多方"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

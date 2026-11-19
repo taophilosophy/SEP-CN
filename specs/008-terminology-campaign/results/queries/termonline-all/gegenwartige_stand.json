@@ -1,0 +1,642 @@
+{
+ "key": "gegenwartige stand",
+ "term": "gegenwärtige Stand",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:57:12+00:00",
+ "status": "ok",
+ "note": "variant=gegenwärtige Stand; 审定公布名词库=739; 海峡两岸名词对照库=240; 其他来源数据库=41; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "风景园林名词",
+   "wordNumber": "12.0074",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "树种组成、林冠层次、年龄、郁闭度、起源等内部数据基本相同，而与周围森林有明显区别的一片具体森林。常作为确定森林经营措施的依据，不同的林分需要釆取不同的经营措施。"
+  },
+  {
+   "cn": "群落地段",
+   "en": "stand",
+   "source": "植物学名词",
+   "wordNumber": "13.0204",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "明显区别于周边地段，而内部群落特征相对一致的一个植物群落类型的一块具体地段。当这个植物群落类型指一个群丛类型时，这个群落地段就称“群丛个体(associationindividual)”或“个体植物群"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "林学名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "内部特征大体一致，而与邻近地段又有明显区别的一片树林。"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "资源科学技术名词",
+   "wordNumber": "11.070",
+   "subjectFullName": "资源科学技术_森林资源学",
+   "subjectName": "森林资源学",
+   "publishYear": "2008",
+   "definition": "指群落内部结构特征相同，并与四周邻接部分有显著区别的森林。"
+  },
+  {
+   "cn": "立根",
+   "en": "stand",
+   "source": "石油名词",
+   "wordNumber": "05.0074",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "暂停",
+   "en": "standing",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop;standing stock",
+   "source": "动物学名词",
+   "wordNumber": "7.0543",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统特定时刻全部活有机体的个体数量、重量（狭义的生物量）或含能量。现存的个体数量以N表示，现存的生物量以B表示。"
+  },
+  {
+   "cn": "灯架",
+   "en": "light stand",
+   "source": "风景园林名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "用来承托照明或装饰灯具的架子。"
+  },
+  {
+   "cn": "待命",
+   "en": "stand by",
+   "source": "急救医学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "急救医学_急救质控_院前急救质控_急救时间质控",
+   "subjectName": "急救时间质控",
+   "publishYear": "2025",
+   "definition": "急救人员随时可以接受急救调度指挥中心的指令并执行急救任务的准备状态。包括站内待命和途中待命。"
+  },
+  {
+   "cn": "LED支架",
+   "en": "LED stand",
+   "source": "光学名词",
+   "wordNumber": "10.423",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "对LED起支撑、导电和导热作用的金属片构件。"
+  },
+  {
+   "cn": "机座刚度",
+   "en": "stand rigidity",
+   "source": "冶金学名词",
+   "wordNumber": "09.1335",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "轧机机座承受由轧制力产生弹性变形的能力。一般用机座刚度系数来表示，其物理意义是使机座产生1mm弹性变形所需的轧制力。"
+  },
+  {
+   "cn": "群落地段结构",
+   "en": "stand structure",
+   "source": "植物学名词",
+   "wordNumber": "13.0205",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一个具体群落地段的群落结构。"
+  },
+  {
+   "cn": "林分信息",
+   "en": "stand information",
+   "source": "林学名词",
+   "wordNumber": "06.332",
+   "subjectFullName": "林学_森林经理_森林资源信息管理",
+   "subjectName": "森林资源信息管理",
+   "publishYear": "2016",
+   "definition": "反映林分特征的数据、图像和文件等。"
+  },
+  {
+   "cn": "林分生长量",
+   "en": "stand growth",
+   "source": "林学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分的直径、树高和材积依年龄增加而产生的增长的数量。通常多指材积生长量。"
+  },
+  {
+   "cn": "林龄",
+   "en": "stand age",
+   "source": "林学名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分的年龄。"
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "林学名词",
+   "wordNumber": "06.046",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林木群体各组成成分的空间和时间分布格局。包括组成结构、水平结构、垂直结构和年龄结构。主要决定于树种组成、林分密度、林木配置和树木年龄等。"
+  },
+  {
+   "cn": "林况调查",
+   "en": "stand description",
+   "source": "林学名词",
+   "wordNumber": "06.255",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "查明森林的现状如森林植物区系、森林结构和成林状态等，作为施业法和收获调整的基础，同时也是作为将来决定树种、作业法、轮伐期的资料。"
+  },
+  {
+   "cn": "单层林分",
+   "en": "uniform stand",
+   "source": "林学名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "明显地只有一个林冠层的林分。"
+  },
+  {
+   "cn": "林分表",
+   "en": "stand table",
+   "source": "林学名词",
+   "wordNumber": "06.175",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "按照树种、胸径或树高级分类系统表示林木株数频数的数表。"
+  },
+  {
+   "cn": "林分密度",
+   "en": "stand density",
+   "source": "林学名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "单位面积林地上林木的数量(株数、断面积、蓄积量等)。"
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop\",\"standing yield\",\"standing stock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现存[产]量",
+   "en": "standing yield\",\"standing stock",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop\",\"standing stock",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疏林林分",
+   "en": "open stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭林分,密闭林分",
+   "en": "closed stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分密度",
+   "en": "stand density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯林分",
+   "en": "pure stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混交林分",
+   "en": "mixed stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分气候",
+   "en": "stand climate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "备用",
+   "en": "stand-by",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "停潮",
+   "en": "water stand",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操舵台",
+   "en": "steering stand",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "驻波",
+   "en": "standing wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现存生物量",
+   "en": "standing biomass",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "立木",
+   "en": "standing tree",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "站在池中",
+   "en": "stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "stance\",\"stand\",\"standing position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正立",
+   "en": "facial stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧立",
+   "en": "side stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚尖站立",
+   "en": "toe stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判台",
+   "en": "officials’ stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领奖台",
+   "en": "victory stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船架",
+   "en": "boat stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立姿",
+   "en": "standing position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站立摔",
+   "en": "standing wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站立式起跑",
+   "en": "standing start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体排名",
+   "en": "team standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原地出发",
+   "en": "standing start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静索",
+   "en": "standing rigging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高姿势",
+   "en": "high standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低姿势",
+   "en": "low standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间位置",
+   "en": "middle standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立技",
+   "en": "standing technique\",\"standing throw\",\"tachi-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发令台",
+   "en": "starter’s stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判台",
+   "en": "umpire’s stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶级立场",
+   "en": "class stand",
+   "source": "马克思主义",
+   "wordNumber": "01.0223",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映一定阶级的利益和要求的根本态度。在阶级社会里，人们的阶级立场取决于本人所属的阶级在社会经济结构中的地位。影响一个人的阶级立场有多种复杂的因素，不能以阶级成分、家庭出身为主要依据，而应判明他的思想、"
+  },
+  {
+   "cn": "DNA双链断裂",
+   "en": "DNA double-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中两条互补链于同一对应处或紧密相邻处同时断裂。"
+  },
+  {
+   "cn": "DNA单链断裂",
+   "en": "DNA single-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中有一条链断裂。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

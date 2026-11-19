@@ -1,0 +1,152 @@
+{
+ "key": "corpuscularism",
+ "term": "corpuscularism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:43:39+00:00",
+ "status": "ok",
+ "note": "variant=corpuscularism; 审定公布名词库=12; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "光粒子理论",
+   "en": "corpuscular theory",
+   "source": "光学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "光是一种粒子流的假说。爱因斯坦提出光是一种由具有一定能量的光子所组成的粒子流的理论。光电效应证实了光的粒子性。"
+  },
+  {
+   "cn": "粒子性",
+   "en": "corpuscular property",
+   "source": "物理学名词",
+   "wordNumber": "06.0465",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "微粒说",
+   "en": "corpuscular theory",
+   "source": "物理学名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "物理学_光学、声学",
+   "subjectName": "光学、声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "微粒食",
+   "en": "corpuscular eclipse",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "太阳微粒发射",
+   "en": "solar corpuscular emission",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0253",
+   "subjectFullName": "地球物理学_空间物理学_行星际与太阳",
+   "subjectName": "行星际与太阳",
+   "publishYear": "2022",
+   "definition": "太阳向行星际空间发射带电粒子的现象。 "
+  },
+  {
+   "cn": "太阳微粒发射",
+   "en": "solar corpuscular emission",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "平均红细胞体积",
+   "en": "mean corpuscular volume; MCV",
+   "source": "肝病学名词",
+   "wordNumber": "2.1.1.1.5",
+   "subjectFullName": "肝病学_肝病实验室、影像与病理检查_肝脏实验室检查",
+   "subjectName": "肝脏实验室检查",
+   "publishYear": "2024",
+   "definition": "外周血单个红细胞的平均体积。可直接测得，也可通过公式计算获得，适用于各种贫血的诊断和治疗。"
+  },
+  {
+   "cn": "平均红细胞体积",
+   "en": "mean corpuscular volume;MCV",
+   "source": "兽医学名词",
+   "wordNumber": "13.175",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "每个红细胞的平均体积。以fL（飞升，1L=1015fL）为单位。MCV（fL）=每升血液中的红细胞比容×10 15/每升血液中的红细胞数。"
+  },
+  {
+   "cn": "平均红细胞血红蛋白含量",
+   "en": "mean corpuscular hemoglobin;MCH",
+   "source": "兽医学名词",
+   "wordNumber": "13.176",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "每个红细胞内所含血红蛋白的平均量。以pg（皮克，1g=1012pg）为单位。MCH（pg）=每升血液中的血红蛋白浓度×10 12/每升血液中的红细胞数。"
+  },
+  {
+   "cn": "平均红细胞体积",
+   "en": "mean corpuscular volume;MCV",
+   "source": "血液学名词",
+   "wordNumber": "4.005",
+   "subjectFullName": "血液学_常用检查_血液常规检查_红细胞检测",
+   "subjectName": "红细胞检测",
+   "publishYear": "2022",
+   "definition": "红细胞群体中单个红细胞体积的平均值。"
+  },
+  {
+   "cn": "平均红细胞血红蛋白含量",
+   "en": "mean corpuscular hemoglobin;MCH",
+   "source": "血液学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "血液学_常用检查_血液常规检查_红细胞检测",
+   "subjectName": "红细胞检测",
+   "publishYear": "2022",
+   "definition": "细胞群体中单个红细胞血红蛋白含量的平均值。"
+  },
+  {
+   "cn": "平均红细胞血红蛋白浓度",
+   "en": "mean corpuscular hemoglobin concentration;MCHC",
+   "source": "血液学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "血液学_常用检查_血液常规检查_红细胞检测",
+   "subjectName": "红细胞检测",
+   "publishYear": "2022",
+   "definition": "单位体积红细胞平均所含血红蛋白浓度。"
+  },
+  {
+   "cn": "微粒辐射",
+   "en": "corpuscular radiation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太阳微粒发射",
+   "en": "solar corpuscular emission",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

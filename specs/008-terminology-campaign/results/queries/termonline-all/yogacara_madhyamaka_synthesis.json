@@ -1,0 +1,542 @@
+{
+ "key": "yogacara-madhyamaka synthesis",
+ "term": "Yogācāra-Madhyamaka Synthesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:59:26+00:00",
+ "status": "ok",
+ "note": "variant=Yogācāra-Madhyamaka Synthesis; 审定公布名词库=432; 海峡两岸名词对照库=214; 其他来源数据库=8; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "综合",
+   "en": "synthesis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0134",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "在语法树中，对属性自底向上进行求值的过程。"
+  },
+  {
+   "cn": "合成",
+   "en": "synthesis",
+   "source": "化学名词",
+   "wordNumber": "02.1206",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "为得到目标分子而从事的工作。应尽量做到以简单、安全、环境友好的操作将资源丰富或价廉易得的原料快速高产率地转化为目标分子。"
+  },
+  {
+   "cn": "综合",
+   "en": "synthesis",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0790",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "将现有的观念和因素融入到新的模式中的创新类型。"
+  },
+  {
+   "cn": "矿物合成",
+   "en": "mineral synthesis",
+   "source": "地质学名词",
+   "wordNumber": "13.05.019",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "通过模拟自然条件，合成天然矿物的方法。用以研究了解地质作用的物理化学条件。"
+  },
+  {
+   "cn": "类同合成",
+   "en": "analogue synthesis",
+   "source": "精细化工名词",
+   "wordNumber": "03.0092",
+   "subjectFullName": "精细化工_农药_生产工艺",
+   "subjectName": "生产工艺",
+   "publishYear": "2025",
+   "definition": "从已开发的新农药或确定活性的先导化合物的分子结构出发，谋求开发同一系列衍生物新品种，或者以该衍生物为先导化合物，进行结构改变，期望获得新的二次先导化合物，从而开发出化学结构不同于原化合物的新品种。"
+  },
+  {
+   "cn": "糖原合成",
+   "en": "glycogen synthesis",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "08.055",
+   "subjectFullName": "胰腺与糖尿病及低血糖症_胰岛素与糖代谢",
+   "subjectName": "胰岛素与糖代谢",
+   "publishYear": "2025",
+   "definition": "在糖原合成酶的催化下，活化形式的葡萄糖与未降解完全的糖原分子合成糖原的过程。"
+  },
+  {
+   "cn": "合成氨",
+   "en": "ammonia synthesis",
+   "source": "农学名词",
+   "wordNumber": "09.345",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "催化剂存在时，由氮和氢在高温高压下生成液体氨的过程。"
+  },
+  {
+   "cn": "膜合成",
+   "en": "membrane synthesis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0072",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜流动性",
+   "subjectName": "膜流动性",
+   "publishYear": "2024",
+   "definition": "细胞中新的细胞膜形成的过程。绝大多数脂质在内质网上合成使内质网膜增大，内质网膜通过出芽形成运输囊泡，运输囊泡与其他细胞膜结构融合，这个过程保证整个细胞膜结构的来源。"
+  },
+  {
+   "cn": "星族合成",
+   "en": "population synthesis",
+   "source": "天文学名词",
+   "wordNumber": "08.766",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "用若干不同时期形成的恒星群体模拟星系的星族组成。"
+  },
+  {
+   "cn": "补救合成",
+   "en": "salvage synthesis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.036",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_核酸降解与核苷酸代谢_磷脂代谢",
+   "subjectName": "磷脂代谢",
+   "publishYear": "2024",
+   "definition": "机体内以已有的碱基或核苷为底物生成核苷酸的过程。碱基在核糖磷酸转移酶催化发生核糖磷酸化、核苷在核甘激酶催化下发生磷酸化而生成核苷酸。"
+  },
+  {
+   "cn": "肽合成",
+   "en": "peptide synthesis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0672",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "用人工方法将各种氨基酸按照预先设计顺序依次连接成多肽的方法。目前最常用的是固相合成法，将氨基酸挂在树脂上合成肽链，可以自动化操作。"
+  },
+  {
+   "cn": "梅里菲尔德合成法",
+   "en": "Merrifield synthesis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0674",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "梅里菲尔德（R. B. Merrifield）于1963年提出的固相多肽合成技术。即将氨基酸的羧基末端与不溶性树脂连接，从其氨基端再经过反应添加下一个氨基酸，多余的试剂及副产物则被洗去，如此反复，肽链"
+  },
+  {
+   "cn": "DNA合成",
+   "en": "DNA synthesis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0678",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "按照预定核苷酸的顺序，将脱氧核苷酸逐个进行人工连接合成DNA链的方法。目前多是采用固相合成法，是在多聚体支持物上从3′端延伸核苷酸，可自动化操作。"
+  },
+  {
+   "cn": "现代综合论",
+   "en": "modern synthesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.453",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "综合了生物学各学科，特别是种群遗传学的成就，基于渐进化、自然选择和种群思想，同时符合当时已知的遗传学机制，且考虑到环境因素作用的进化理论。"
+  },
+  {
+   "cn": "扩展综合论",
+   "en": "extended synthesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.454",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "主张引入新的理论特别是进化发育生物学理论及其新概念来对现代综合论进行补充和扩展。"
+  },
+  {
+   "cn": "图像综合",
+   "en": "image synthesis",
+   "source": "天文学名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "(1)对利用干涉原理得到相关信号的振幅和相位进行傅里叶变换处理，综合出更高分辨率的图像的一种图像处理技术。(2)将同一天体在不同波段进行观测所获得的多张图像经过处理合并成含更多信息量的图像的一种图像处"
+  },
+  {
+   "cn": "系统综合",
+   "en": "systems synthesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.774",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "把研究、创造和发明对象看作系统综合整体，并对这一系统综合整体及其要素、层次、结构、功能、联系方式、发展趋势等进行辩证综合的考察，以取得创造性成果的一种方法。"
+  },
+  {
+   "cn": "分子合成",
+   "en": "molecular synthesis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.051",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "两个或两个以上的分子，通过分子间某种相互作用力（包括氢键、疏水相互作用、离子键等）形成更复杂的物质的过程。"
+  },
+  {
+   "cn": "自转综合孔径",
+   "en": "rotation synthesis",
+   "source": "天文学名词",
+   "wordNumber": "06.358",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由若干天线按一定方式排列，利用地球自转获得等效于一个大天线的射电成像观测技术。"
+  },
+  {
+   "cn": "胆固醇合成",
+   "en": "cholesterol synthesis",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.1.2.2.4",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "以羟甲基戊二酰辅酶A还原酶为关键酶的一系列酶促反应。依次可划分为三个阶段，先由乙酰辅酶A合成甲羟戊酸，接着甲羟戊酸经十五碳化合物转变成三十碳鲨烯；最后鲨烯环化为羊毛固醇后转变为胆固醇。"
+  },
+  {
+   "cn": "合成",
+   "en": "synthesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成",
+   "en": "synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合成",
+   "en": "synthesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白质合成",
+   "en": "protein synthesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DNA合成",
+   "en": "DNA synthesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "流程综合",
+   "en": "flowsheet synthesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热合成",
+   "en": "thermal synthesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料合成",
+   "en": "material synthesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成过程",
+   "en": "synthesis process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合成反应器",
+   "en": "synthesis reactor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "氨合成",
+   "en": "ammonia synthesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水热合成",
+   "en": "hydrothermal synthesis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "燃烧合成",
+   "en": "combustion synthesis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "图像综合",
+   "en": "image synthesis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自转综合",
+   "en": "rotation synthesis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "综合孔径",
+   "en": "aperture synthesis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "综合孔径望远镜",
+   "en": "synthesis telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "半合成",
+   "en": "partial synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不对称合成",
+   "en": "asymmetric synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电化学合成",
+   "en": "electrochemical synthesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "语音合成",
+   "en": "voice synthesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "塑胶跑道",
+   "en": "synthetic track\",\"tartan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分析和综合",
+   "en": "analysis and synthesis",
+   "source": "马克思主义",
+   "wordNumber": "01.0042",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "统一的辩证思维过程的两个不同方面和不同方法。分析是深入对象内部，对其各个部分、方面、因素和层次及发展阶段分别加以考察，以找出对象的各个方面和发展阶段的本质特征的思维过程；综合是在分析基础上，将分析揭示"
+  },
+  {
+   "cn": "肌腱附着点",
+   "en": "enthesis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.23",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "韧带、肌腱和关节囊附着于骨骼的终端。"
+  },
+  {
+   "cn": "合成橡胶",
+   "en": "synthetic rubber",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.10.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "通过非生物方法得到的以合成高分子化合物为基础的高弹性材料。可用作胶基糖果中基础剂物质的有丁苯橡胶、聚丁烯、聚乙烯、聚异丁烯、丁基橡胶等。"
+  },
+  {
+   "cn": "合成甜味剂",
+   "en": "synthetic sweetener",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.23.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "人工合成的可产生甜味感觉的非糖类化学物质。甜度一般比蔗糖高10 倍至数百倍，包括糖精钠、安赛蜜、甜蜜素、阿斯巴甜、三氯蔗糖等。"
+  },
+  {
+   "cn": "综合语",
+   "en": "synthetic language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0063",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "根据词语的形态标准确立的一种语言类型。与“分析语”相对。通过词根的形态变化或在词根上附加词素来表示句子成分之间的句法关系。综合语一般又分为黏着语和屈折语，有时也包含多式综合语（polysyntheti"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.19",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "运用系统生物学和工程学原理，以基因组和生化分子合成为基础，整合生物领域化学、物理和信息等技术的学科。旨在设计、改造、重建生物分子、生物组件和生物分化过程，构建具有生命活性的生物组件、系统及人造细胞或生"
+  },
+  {
+   "cn": "阴离子合成洗涤剂",
+   "en": "anion synthetic detergent",
+   "source": "消毒学",
+   "wordNumber": "4.2.2.6",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "由阴离子表面活性剂与相关成分组成的清洗剂。"
+  },
+  {
+   "cn": "食品用合成香料",
+   "en": "synthetic food flavors",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.14",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "通过化学合成方式形成的化学结构明确的食品用香料"
+  },
+  {
+   "cn": "靶向改善病情抗风湿药",
+   "en": "targeted synthetic, disease-modifying antirheumatic drug, ts-DMARD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "针对参与免疫应答或炎症过程的特定致病性靶分子的拮抗药物，以期靶向性阻断疾病的发生发展过程。"
+  },
+  {
+   "cn": "传统改善病情抗风湿药",
+   "en": "conventional synthetic disease-modifying antirheumatic drug，cs-DMARD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "nb-DMARD）”“慢作用抗风湿药（slow-acting anti-rheumatic drug, SAARD）”。类风湿关节炎治疗中用于减缓疾病进展的一类药物，起效较慢，常见的包括甲氨蝶呤、柳氮"
+  },
+  {
+   "cn": "合成T细胞受体和抗原受体T细胞疗法",
+   "en": "syntheric T cell receptor and antigen receptor T-cell therapy, STAR-T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.9",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "一种基于 T 细胞受体( TCR) 复合物的嵌合抗原受体 (CAR)新型靶向疗法，具有靶向性强、不易衰竭的特点，有望在实体肿瘤和自身免疫病治疗中发挥治疗作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

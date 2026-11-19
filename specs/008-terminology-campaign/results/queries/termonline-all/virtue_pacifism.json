@@ -1,0 +1,802 @@
+{
+ "key": "virtue-pacifism",
+ "term": "virtue-pacifism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:46:00+00:00",
+ "status": "ok",
+ "note": "variant=virtue-pacifism; 审定公布名词库=779; 海峡两岸名词对照库=236; 其他来源数据库=95; 预公布名词数据库=36; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "德目",
+   "en": "virtue",
+   "source": "教育学名词",
+   "wordNumber": "01.211",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "用以规定某种品格、行为以及人际关系应有状态的一系列社会历史范畴。"
+  },
+  {
+   "cn": "环境美德",
+   "en": "environmental virtue",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.218",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "社会生活中的主体在生态环境保护行为中所展现的卓越品质。是道德主体在生态环境保护行为中所展示的一种积极主动的道德反应及其内在品格，是通过内化于心的道德禀赋致力于保护生态环境的内在心性，是在对待人与自然界"
+  },
+  {
+   "cn": "美德论",
+   "en": "virtue ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "研究和思考人要生活得好或实现卓越应该具备的品格或道德品质即美德的学说。属于规范伦理学的一种。在西方哲学中该学说的创立者是柏拉图和亚里士多德，在东方则是孔子和孟子。"
+  },
+  {
+   "cn": "美德词",
+   "en": "virtue word",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.035",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "在政治话语中经常使用的一类词，使用抽象概念来发展对政治立场的支持。这些词语通常是没有清晰定义的术语，但试图给出含义清楚的印象。"
+  },
+  {
+   "cn": "社会和平主义",
+   "en": "Social-Pacifism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0097",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "第一次世界大战期间，第二国际所属社会民主党内的一种机会主义思潮，打着社会主义的旗号，宣扬抽象和平，反对一切战争。"
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific plate",
+   "source": "地质学名词",
+   "wordNumber": "10.02.007",
+   "subjectFullName": "地质学_大地构造学_主要大地构造单元",
+   "subjectName": "主要大地构造单元",
+   "publishYear": "2026",
+   "definition": "囊括太平洋海域的板块。东以夏洛特皇后岛转换断层-胡安·德富卡脊-圣安德烈斯转换断层-东太平洋洋隆为界，向南隔太平洋-南极洋中脊与南极洲板块为邻，西、南界为西太平洋和西南太平洋复杂沟-弧-盆系的海沟(日"
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "覆盖太平洋大部区域的海洋板块。北、西、西南部都为深海沟构造，分别与阿留申岛弧、日本岛弧、菲律宾海板块和印澳板块邻接，南部以海岭同南极板块邻接。东北边界的北段为离散边界，分别形成探险家海岭、胡安德富卡海"
+  },
+  {
+   "cn": "太平洋战争",
+   "en": "Pacific War",
+   "source": "世界历史名词",
+   "wordNumber": "01.0303",
+   "subjectFullName": "世界历史_综合_第二次世界大战",
+   "subjectName": "第二次世界大战",
+   "publishYear": "2012",
+   "definition": "以1941年12月7日偷袭珍珠港为标志的日本在亚洲太平洋地区的侵略战争和反法西斯同盟国的反侵略战争。"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "大气科学名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "中心位于南、北太平洋副热带地区上空的高压系统。"
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "海洋科学技术_总论_公用名词",
+   "subjectName": "公用名词",
+   "publishYear": "2007",
+   "definition": "位于亚洲、大洋洲、美洲和南极洲之间的世界上最大、最深、边缘海和岛屿最多的大洋。"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0453",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "中心位于南、北太平洋副热带地区的暖性高压。"
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1347",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "东以太平洋海隆为界，北、西、西南都为深海沟，与阿留申岛弧、日本岛弧、菲律宾板块和印度板块接界，南部以海岭同南极洲板块相接的板块。"
+  },
+  {
+   "cn": "联合中央太平洋铁路",
+   "en": "Union Pacific-Central Pacific Railroad",
+   "source": "世界历史名词",
+   "wordNumber": "03.0106",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1869年建成的美国第一条横贯美洲大陆的铁路线。"
+  },
+  {
+   "cn": "环境美德伦理",
+   "en": "environmental virtue ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.217",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以美德作为环境伦理的核心理念和着力点，是基于环境保护之行为者的道德品质而非某个具体行动来研究环境问题的伦理。聚焦于环境视域中的讲究人类德性素养及其养成的伦理，是人类个体及其群体在保护生态环境行动中所展"
+  },
+  {
+   "cn": "美德伦理",
+   "en": "ethics of virtue",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.029",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "强调通过实践、生活和追求善的传统来培育美德，认为具有美德的人才能够根据不同情况选择合适的道德行为，正确发挥伦理道德的社会作用。代表人物是古代的亚里士多德和现代的A. C. 麦金太尔（A. C. Mac"
+  },
+  {
+   "cn": "四德",
+   "en": "four cardinal virtues",
+   "source": "教育学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊对智慧、勇敢、节制和正义四种品德的总称，是希腊理想人格的基本品质。"
+  },
+  {
+   "cn": "东太平洋海隆",
+   "en": "East Pacific Rise",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0065",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "太平洋海底位于离散边界的洋脊，从北到南将其西面的太平洋板块与东面的北美板块、里韦拉板块、科科斯板块、纳斯卡板块和南极板块分隔。海洋地壳以每年约 70mm移离东太平洋海隆，东面的科科斯板块和纳斯卡板块向"
+  },
+  {
+   "cn": "环太平洋岩区",
+   "en": "circum-Pacific province",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0418",
+   "subjectFullName": "地球物理学_地球动力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "环太平洋火山带的火山岩主要是中性岩浆喷发的产物，形成了钙碱性系列的岩石，最常见的火山岩类型是安山岩，距海沟轴 150～300km的陆地内，安山岩平行于海沟呈弧形分布，形成安山岩线。自海沟向陆地方向岩石"
+  },
+  {
+   "cn": "加拿大太平洋铁路",
+   "en": "Canadian Pacific Railway",
+   "source": "世界历史名词",
+   "wordNumber": "03.0299",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大19世纪80年代修筑的第一条横贯大陆的重要铁路干线。"
+  },
+  {
+   "cn": "北太平洋涛动",
+   "en": "North Pacific Oscillation",
+   "source": "大气科学名词",
+   "wordNumber": "06.318",
+   "subjectFullName": "大气科学_天气学",
+   "subjectName": "天气学",
+   "publishYear": "2009",
+   "definition": "北太平洋地区海平面气压场上南北方向的持续反振动。"
+  },
+  {
+   "cn": "太平洋231号",
+   "en": "Pacific 231",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Honegger, Arthur"
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋",
+   "en": "Pacific Ocean",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋板块",
+   "en": "Pacific Plate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋边缘",
+   "en": "Pacific margin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋高压",
+   "en": "Pacific high",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋卫星",
+   "en": "Pacific Satellite",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "北太平洋流",
+   "en": "North Pacific Current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北太平洋涛动",
+   "en": "North Pacific Oscillation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋副北极海流",
+   "en": "Pacific subarctic current",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋深层水",
+   "en": "Pacific deep water",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋两岸分布",
+   "en": "amphi-Pacific distribution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋经济共同体",
+   "en": "Pacific Economic Community",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "东北太平洋海盆",
+   "en": "Northeast Pacific Basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "东太平洋海隆",
+   "en": "East Pacific Rise",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环太平洋岩区",
+   "en": "Circum-Pacific province",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "南太平洋海盆",
+   "en": "South Pacific Basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "南太平洋群岛",
+   "en": "South Pacific Islands",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋赤道潜流",
+   "en": "Pacific Equatorial Undercurrent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋型海岸",
+   "en": "Pacific-type coast",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "德",
+   "en": "De（Virtue）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比德",
+   "en": "Virtue Comparison",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明德",
+   "en": "Illustrious Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄德",
+   "en": "Unpretentious Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋战场",
+   "en": "Pacific theater",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "大人",
+   "en": "Man of Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为政以德",
+   "en": "Governance Based on Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子",
+   "en": "Junzi (Man of Virtue)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德音",
+   "en": "Music Conforming to Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚太经济合作 组织",
+   "en": "Asia-Pacific Economic Cooperation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨太平洋伙伴关系协定",
+   "en": "Trans-Pacific Partnership Agreement",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚太经济合作组织",
+   "en": "Asia-Pacific Economic Cooperation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上善若水",
+   "en": "Great Virtue Is Like Water.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子之交",
+   "en": "Relations Between Men of Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为仁由己",
+   "en": "Readily Practice Benevolence and Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杀身成仁",
+   "en": "Sacrifice Life to Preserve Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "太平洋地区标准大会",
+   "en": "Pacific Area Standards Congress (PASC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修德振兵",
+   "en": "Cultivate Virtue and Strengthen the Army",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和平主义",
+   "en": "pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0289",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种抽象地、无原则地拥护和鼓吹和平的资产阶级机会主义政治思潮。广义包括非暴力运动和不抵抗运动等；狭义指不区别战争的正义性与非正义性,笼统地反对一切战争、祈求人类永久和平的思想。近代的和平主义始于19世"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "贞操",
+   "en": "virtue/chastity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "传统社会用于束缚妇女身体和性行为的一种道德禁忌，规定女性在婚前要远离异性交往，保持处女膜完整，婚后则要从一而终，丈夫去世后也只能守寡、不能改嫁等，否则就被视为“不贞”、“不洁”，受到相关民俗规约的惩罚"
+  },
+  {
+   "cn": "美德论",
+   "en": "virtue theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以品德、美德为中心，研究和探讨什么是道德完人及如何成为道德完人的理论。美德是指在一定社会的历史条件下经过长期的道德实践而逐渐形成的优秀品质。"
+  },
+  {
+   "cn": "社会和平主义",
+   "en": "social pacifism",
+   "source": "马克思主义",
+   "wordNumber": "04.0370",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战期间在第二国际各国社会民主党内流行的一种机会主义思潮，用社会主义词句装扮起来的资产阶级和平主义，以考茨基等人为主要代表。社会和平主义反对任何军事化和战争，主张通过“废除武装”，缔结“民主"
+  },
+  {
+   "cn": "以德治国",
+   "en": "rule of virtue",
+   "source": "马克思主义",
+   "wordNumber": "03.0649",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的党的第三代领导集体在我国社会经济步入新的发展时期所提出的重要治国方略，是对依法治国方略的重要补充。其核心内容是加强社会主义思想道德建设，以促进人和社会的全面发展。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "西方现代美德论",
+   "en": "western modern virtue theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.004",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "20 世纪后期在西方出现的以阿拉斯代尔•麦金泰尔（Alasdair Chalmers Macintyre）、伊丽莎白•安斯库姆（G.E.M.Anscombe）等为代表人物的美德理论。主张美德评价的对象"
+  },
+  {
+   "cn": "古希腊美德理论",
+   "en": "ancient greek virtue theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.002",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "古希腊时期以美德问题为核心的伦理思想。主要代表人物为亚里士多德（Aristotle），他在继承和批判前人美德思想的基础上形成的关于美德的系统的理论。认为美德生成于人的实践行为，美德的目的在于达到幸福，"
+  },
+  {
+   "cn": "中国传统美德论",
+   "en": "chinese traditional virtue theory 以儒家德性论为基础，以“仁、",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "义、礼、智、信”为核心，强调修身、齐家、治国有机统一的关于人们生活行为准则和修养的道德理论。提出了“君子”“贤人”“仁人”以至“圣人”等道德理想人格，以及这些理想人格应当具备的重要品行。"
+  },
+  {
+   "cn": "《平定准噶尔方略》",
+   "en": "Strategy for the pacification of Junggar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0609",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "乾隆三十七年（1772）傅恒等奉敕编纂。分前、正、续三遍。书以事为纲，以年月日编次。凡有关策妄阿喇布坦、噶尔丹策零、策妄多尔济那木扎勒、喇嘛达尔扎、达瓦齐、阿睦尔撒纳、大小和卓等人情况的奏疏、训谕，均"
+  },
+  {
+   "cn": "三从四德",
+   "en": "three obediences and four virtues for women",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.2",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "中国古代社会针对妇女的道德约束和行为规范，反映了典型的男尊女卑观念。其中“三从”为未嫁从父，既嫁从夫，夫死从子；“四德”包括妇德、妇言、妇容、妇工，规定了妇女在品德、言语、容貌和治家之道方面的行为准则"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  },
+  {
+   "cn": "虚拟组织",
+   "en": "virtual organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "一种区别于传统组织、以信息技术为支撑的人机一体化组织，其特征是以现代通讯技术、信息存储技术、机器智能产品为依托，虚拟出无等级组织结构，其成员可以通过不受时空限制的计算机体系，通过高度自律和共同的价值取"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "虚拟社区",
+   "en": "virtual community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0322",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在互联网技术中介下，建立于共同情感，兴趣，利益与目标基础上的社群集合体，其成员身份可与线下的日常生活身份相符，也可是虚构的角色扮演，或两者兼有。与传统社区一样，虚拟社区为其成员提供信息、情感与社交支持"
+  },
+  {
+   "cn": "马尔堡病毒",
+   "en": "Marburg virus",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "属于丝状病毒科、马尔堡病毒属，一种丝状、单股、负链RNA 病毒，感染能引起马尔堡出血热，可作为病毒类生物战剂的一种病原体。"
+  },
+  {
+   "cn": "病毒株",
+   "en": "virus strain",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "从自然界中分离纯化或在实验室诱导获得生物学性状较稳定的病毒培养物。"
+  },
+  {
+   "cn": "亲水病毒",
+   "en": "hydrophilic virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "表面具有极性分子结构，易溶于极性溶剂，对脂溶剂不敏感而较难被灭活的病毒。如脊髓灰质炎病毒、诺如病毒、柯萨奇病毒等。"
+  },
+  {
+   "cn": "亲脂病毒",
+   "en": "lipophilic virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "一类表面具有脂质包膜，易溶于脂质溶剂的病毒。如流感病毒、新型冠状病毒等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

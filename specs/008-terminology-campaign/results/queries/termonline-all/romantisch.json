@@ -1,0 +1,32 @@
+{
+ "key": "romantisch",
+ "term": "romantisch",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:00:17+00:00",
+ "status": "ok",
+ "note": "variant=romantisch; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "情侣沟通",
+   "en": "romantic interaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.056",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "发生在相互吸引，带有强烈情感欲望的亲密个体之间的人际交往活动。由情侣之间的亲密信息交换与具有情感关系转折点的互动行为所构成。该词起源于西方中世纪的骑士精神。"
+  },
+  {
+   "cn": "浪漫主义",
+   "en": "romanticism,romantic classicism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0340",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "18世纪下半叶到19世纪下半叶在英国、德国、美国等地流行的一种建筑思潮。其艺术上强调个性，提倡自然主义，主张用中世纪风格与学院派的古典主义相抗衡。其建筑上表现为追求脱俗的趣味和异国情调，其建筑形式语言"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

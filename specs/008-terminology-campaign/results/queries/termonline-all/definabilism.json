@@ -1,0 +1,42 @@
+{
+ "key": "definabilism",
+ "term": "definabilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:44:09+00:00",
+ "status": "ok",
+ "note": "variant=definabilism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "可定义性",
+   "en": "definability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0252",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "用简单的逻辑公式来刻画某结构中的特殊对象。"
+  },
+  {
+   "cn": "可定义性",
+   "en": "definability",
+   "source": "数学名词",
+   "wordNumber": "02.0082",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图灵可定义性",
+   "en": "Turing definability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0253",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "图灵度结构中可定义的特殊子集。例如一切计算可枚举度在整个图灵度结构中是否可定义就是一个重要未解决问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,52 @@
+{
+ "key": "geistige anschauung",
+ "term": "geistige Anschauung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:00:10+00:00",
+ "status": "ok",
+ "note": "variant=geistige Anschauung; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "鞘突剩件",
+   "en": "vestige of vaginal process",
+   "source": "男科及性医学名词",
+   "wordNumber": "02.123",
+   "subjectFullName": "男科及性医学_生殖系统解剖",
+   "subjectName": "生殖系统解剖",
+   "publishYear": "2023",
+   "definition": "睾丸下降后鞘突上部闭锁后形成的韧带样结构。含有平滑肌纤维、大量弹力纤维和疏松结缔组织。"
+  },
+  {
+   "cn": "鞘突剩件",
+   "en": "vestige of vaginal process",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0740",
+   "subjectFullName": "人体解剖学_内脏学_泌尿生殖系统、乳腺与会阴",
+   "subjectName": "泌尿生殖系统、乳腺与会阴",
+   "publishYear": "2014",
+   "definition": "胚胎期腹膜鞘突根部的残留物。含有平滑肌纤维、大量弹力纤维和疏松结缔组织"
+  },
+  {
+   "cn": "鞘突剩件，鞘突遗迹",
+   "en": "vestige of vaginal process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鞘突遗迹（=鞘突剩件）",
+   "en": "vestige of vaginal process",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

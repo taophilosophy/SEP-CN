@@ -1,0 +1,602 @@
+{
+ "key": "senghor cesaire",
+ "term": "Senghor Césaire",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:44:38+00:00",
+ "status": "ok",
+ "note": "variant=Senghor Césaire; 审定公布名词库=472; 海峡两岸名词对照库=108; 其他来源数据库=23; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.081",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "信息探测与转换的装置。安装在人的身体上或各种环境空间中，能监测指定的信息，并将获得的信息按一定规律变换成为电信号或其他所需信息形式，以满足信息的传输、处理、存储、显示、记录和控制等要求。常见的有温度传"
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.018",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "能感受被测量的信号，并能将感受到的信号按一定规律变换成为电信号或其他所需形式的信号输出，以满足信号的传输、处理、存储、显示、记录和控制等要求的一种检测装置。"
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "物理学名词",
+   "wordNumber": "03.0853",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1027",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "一种将非电参量转变为可测量的电信号输出的装置。"
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "化学名词",
+   "wordNumber": "03.1564",
+   "subjectFullName": "化学_分析化学_仪器分析_电化学分析",
+   "subjectName": "电化学分析",
+   "publishYear": "2016",
+   "definition": "能感受待测物的量并按一定规律转换成输出信号的器件或装置。"
+  },
+  {
+   "cn": "敏感器",
+   "en": "sensor",
+   "source": "计量学名词",
+   "wordNumber": "01.099",
+   "subjectFullName": "计量学_计量学通用名词_测量设备",
+   "subjectName": "测量设备",
+   "publishYear": "2015",
+   "definition": "测量系统中直接受带有被测量信息的现象、物体或物质作用的测量系统的元件。"
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.789",
+   "subjectFullName": "机械工程_汽车_发动机_发动机管理系统",
+   "subjectName": "发动机管理系统",
+   "publishYear": "2013",
+   "definition": "感知并向电子控制器提供发动机工作状况和汽车行驶状况信息的器件。"
+  },
+  {
+   "cn": "敏感器",
+   "en": "sensor",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "07.126",
+   "subjectFullName": "煤炭科学技术_矿山电气工程_煤矿监测与控制",
+   "subjectName": "煤矿监测与控制",
+   "publishYear": "1996",
+   "definition": "直接响应被测变量，并将它转换成适于测量的信号的元件或器件。敏感器输出信号和输入变量间的关系是固有的，不因外来手段而改变。"
+  },
+  {
+   "cn": "敏感器",
+   "en": "sensor",
+   "source": "电子学名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "电子学_电阻、电容、电感及敏感元",
+   "subjectName": "电阻、电容、电感及敏感元",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "光敏感器",
+   "en": "photo-sensor,optical sensor",
+   "source": "电子学名词",
+   "wordNumber": "07.120",
+   "subjectFullName": "电子学_电阻、电容、电感及敏感元",
+   "subjectName": "电阻、电容、电感及敏感元",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "transducer,sensor",
+   "source": "建筑学名词",
+   "wordNumber": "14.0355",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "能感受规定的被测量并能转换成可用信号的器件。"
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor,pickoff",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor,transducer",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0629",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor,transducer",
+   "source": "航海科技名词",
+   "wordNumber": "15.0979",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "transducer,sensor",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "针阀运动传感器",
+   "en": "needle-motion sensor,SOI-sensor",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.1152",
+   "subjectFullName": "机械工程_动力机械_内燃机_喷油器",
+   "subjectName": "喷油器",
+   "publishYear": "2013",
+   "definition": "当喷油嘴针阀开启时，能发出电信号，指示喷油开始的传感器。"
+  },
+  {
+   "cn": "光纤敏感器",
+   "en": "optical fiber sensor,fiberoptic sensor",
+   "source": "电子学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "电子学_电阻、电容、电感及敏感元",
+   "subjectName": "电阻、电容、电感及敏感元",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "聚偏氟乙烯传感器",
+   "en": "polyvinylidene fluoride sensor;PVDF sensor",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.138",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "睡眠监测中应用聚偏氟乙烯监测呼吸气流温度变化的传感器。还可以置于胸膜带中感受张力变化。"
+  },
+  {
+   "cn": "农业传感器",
+   "en": "agricultural sensor",
+   "source": "农学名词",
+   "wordNumber": "14.314",
+   "subjectFullName": "农业工程_智慧农业工程",
+   "subjectName": "智慧农业工程",
+   "publishYear": "2025",
+   "definition": "用于感知农田土壤、作物和环境等信息的器件或装置。可实现对土壤肥力、墒情、作物生长状况、气象及病虫草害等相关参数的科学测量。"
+  },
+  {
+   "cn": "土壤传感器",
+   "en": "soil sensor",
+   "source": "农学名词",
+   "wordNumber": "14.315",
+   "subjectFullName": "农业工程_智慧农业工程",
+   "subjectName": "智慧农业工程",
+   "publishYear": "2025",
+   "definition": "用于测量土壤各项理化参数（水分、容重、硬度、电导率、有机质和各种养分）的传感器。"
+  },
+  {
+   "cn": "尤利乌斯·凯撒在埃及",
+   "en": "Giulio Cesare in Egitto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Handel George Friedrich"
+  },
+  {
+   "cn": "福尔米基",
+   "en": "Formichi\",\"Cesare(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "谢皮",
+   "en": "Siepi\",\"Cesare(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "敏感器，敏感元件",
+   "en": "sensor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "光敏感器",
+   "en": "photo-sensor\",\"optical sensor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法朗克，塞萨尔",
+   "en": "Franck\",\"César(比利时)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "居伊",
+   "en": "Cui\",\"César(Antonowich)(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor\",\"transducer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "光纤敏感器",
+   "en": "optical fiber sensor\",\"fiberoptic sensor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉基因",
+   "en": "sensor gene",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧风传感器",
+   "en": "crosswind sensor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气动传感器",
+   "en": "pneumatic sensor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水力传感器",
+   "en": "hydraulic sensor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非侵入式传感器",
+   "en": "noninvasive sensor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物传感器",
+   "en": "microbial sensor",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传感器",
+   "en": "sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人传感器",
+   "en": "robot sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感网",
+   "en": "sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重力传感器",
+   "en": "gravity sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感器融合",
+   "en": "sensor fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子传感设备",
+   "en": "new quantum sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线传感网络",
+   "en": "wireless sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能传感器产业",
+   "en": "intelligent sensor industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "车载传感器",
+   "en": "in-vehicle sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道路传感系统",
+   "en": "road sensor system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知节点设备安全",
+   "en": "sensor node security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知节点管理",
+   "en": "sensor node management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线传感器安全性",
+   "en": "wireless sensor security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线多媒体传感网",
+   "en": "wireless multimedia sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大规模传感器网络",
+   "en": "large-scale sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感器网络工作组",
+   "en": "Sensor Network Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知网关节点设备安全",
+   "en": "sensor layer gateway security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "长官司",
+   "en": "Senior Officer Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0207",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "地方政权机构名。元代始于西南少数民族地区置，处理军民事务，长官多任土人。明清沿元制，土官世袭。"
+  },
+  {
+   "cn": "老年活动中心",
+   "en": "senior citizen activity center",
+   "source": "社会学名词",
+   "wordNumber": "3.15.7.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务",
+   "subjectName": "老年社会服务",
+   "publishYear": "2025",
+   "definition": "主要面向健康、生活能够自理的老年人提供休闲娱乐以及教育活动的综合服务设施，还可以根据需要向老年人提供社区养老服务。除具有一般活动站的功能外，有些还设有老年学校、医疗康复站、精神卫生咨询站、婚姻介绍所、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

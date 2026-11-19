@@ -1,0 +1,442 @@
+{
+ "key": "ansatzes uber gravitation",
+ "term": "Ansatzes über Gravitation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:56:17+00:00",
+ "status": "ok",
+ "note": "variant=Ansatzes über Gravitation; 审定公布名词库=228; 海峡两岸名词对照库=82; 其他来源数据库=8; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0795",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "反演过程中设定的初始输入解。 "
+  },
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "物理学名词",
+   "wordNumber": "01.0146",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "数学名词",
+   "wordNumber": "08.1066",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "贝特拟设",
+   "en": "Bethe ansatz",
+   "source": "物理学名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自然拟设",
+   "en": "naïlve ansatz",
+   "source": "物理学名词",
+   "wordNumber": "01.0147",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "引力",
+   "en": "gravitation",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0015",
+   "subjectFullName": "地球物理学_地球重力学_地球重力学总论",
+   "subjectName": "地球重力学总论",
+   "publishYear": "2022",
+   "definition": "宇宙中具有质量的物体之间相互吸引的力。大小与两者距离的平方成反比。 "
+  },
+  {
+   "cn": "引力",
+   "en": "gravitation",
+   "source": "测绘学名词",
+   "wordNumber": "02.115",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "宇宙空间中物质之间按照牛顿万有引力定律相互吸引的力。"
+  },
+  {
+   "cn": "引力",
+   "en": "gravitation",
+   "source": "物理学名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "引力",
+   "en": "gravitation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "重力性皱纹",
+   "en": "gravitative wrinkle;gravitative line",
+   "source": "整形外科名词",
+   "wordNumber": "14.112",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "随老化，骨骼萎缩、肌肉松弛、皮下脂肪减少及皮肤弹性减弱等因素导致皮肤在重力作用下发生松弛下垂而出现的皱纹线。"
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravitation",
+   "source": "天文学名词",
+   "wordNumber": "04.423",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "用量子力学原理来描述引力的尝试性理论。"
+  },
+  {
+   "cn": "自引力",
+   "en": "self-gravitation",
+   "source": "天文学名词",
+   "wordNumber": "04.459",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "天体自身质量产生的引力。"
+  },
+  {
+   "cn": "自重力",
+   "en": "self-gravitation",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0006",
+   "subjectFullName": "地球物理学_地球重力学_地球重力学总论",
+   "subjectName": "地球重力学总论",
+   "publishYear": "2022",
+   "definition": "地球表面或内部的任一质点受到的地球自身引力的作用。 "
+  },
+  {
+   "cn": "重力校正",
+   "en": "gravitation correction",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0080",
+   "subjectFullName": "地球物理学_地球重力学_重力测量",
+   "subjectName": "重力测量",
+   "publishYear": "2022",
+   "definition": "将地球表面任意点的观测重力值归算到该点大地水准面上的换算方法的统称。 "
+  },
+  {
+   "cn": "重力水",
+   "en": "gravitation water",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0070",
+   "subjectFullName": "地球物理学_地壳流体科学_地表水",
+   "subjectName": "地表水",
+   "publishYear": "2022",
+   "definition": "在重力作用下，地层中能自由运动的水。 "
+  },
+  {
+   "cn": "重力性休克",
+   "en": "gravitation shock",
+   "source": "运动医学名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "运动医学_医务监督_运动性疾病",
+   "subjectName": "运动性疾病",
+   "publishYear": "2019",
+   "definition": "运动员剧烈跑动后突然中止运动时，由于肌肉的收缩作用骤然停止，出现血液淤滞在下肢，造成循环血量明显减少，出现大脑暂时性缺血而发生昏厥的现象。多见于径赛运动员，尤以短跑、中跑多见。"
+  },
+  {
+   "cn": "反引力",
+   "en": "repulsive gravitation",
+   "source": "物理学名词",
+   "wordNumber": "06.0322",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "万有引力",
+   "en": "universal gravitation",
+   "source": "物理学名词",
+   "wordNumber": "06.0208",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "重力性皱纹",
+   "en": "gravitation wrinkle",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "随年龄老化，骨骼萎缩、肌肉松弛、皮下脂肪减少及皮肤弹性减弱等因素导致皮肤在重力作用下发生松弛下垂而出现的皱纹线。"
+  },
+  {
+   "cn": "万有引力",
+   "en": "universal gravitation",
+   "source": "石油名词",
+   "wordNumber": "03.0049",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "引力",
+   "en": "gravitation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重力",
+   "en": "gravitation\",\"gravitational force\",\"gravity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "万有引力",
+   "en": "universal gravitation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自引力",
+   "en": "self-gravitation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力常数",
+   "en": "gravitation constant",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重力感受器",
+   "en": "gravitational receptor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重力水",
+   "en": "gravitational water",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重力常数",
+   "en": "gravitational constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "引力场",
+   "en": "gravitational field",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重力过滤器",
+   "en": "gravitational filter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "引力半径",
+   "en": "gravitational radius",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力波",
+   "en": "gravitational wave",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力不稳定性",
+   "en": "gravitational instability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力常数",
+   "en": "gravitational constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力场",
+   "en": "gravitational field",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力潮",
+   "en": "gravitational tide",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力成团",
+   "en": "gravitational clustering",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力分异",
+   "en": "gravitational differentiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力辐射",
+   "en": "gravitational radiation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力红移",
+   "en": "gravitational redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力波",
+   "en": "gravitational wave",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据引力波",
+   "en": "Data Gravitational Wave",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优步",
+   "en": "Uber",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

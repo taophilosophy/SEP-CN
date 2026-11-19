@@ -1,0 +1,32 @@
+{
+ "key": "doxasticism",
+ "term": "doxasticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:46:44+00:00",
+ "status": "ok",
+ "note": "variant=doxasticism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "修行",
+   "en": "monasticism",
+   "source": "教育学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "佛教徒依据佛教教义开展的一种心性锻炼活动。"
+  },
+  {
+   "cn": "僧院制度",
+   "en": "monasticism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.10",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "以弃绝俗世欲念、将个人完全奉献给精神功业的宗教生活形式，尤其以特定历史时期的基督教修道院、佛教寺院为典型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

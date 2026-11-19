@@ -1,0 +1,402 @@
+{
+ "key": "toros donadi",
+ "term": "Toroš Donadi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:55:05+00:00",
+ "status": "ok",
+ "note": "variant=Toroš Donadi; 审定公布名词库=56; 海峡两岸名词对照库=18; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "产生生殖细胞和分泌性激素的内分泌腺。男性的性腺为睾丸，女性的性腺为卵巢。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "男科及性医学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "男科及性医学_生殖系统解剖",
+   "subjectName": "生殖系统解剖",
+   "publishYear": "2023",
+   "definition": "产生配子和性腺激素的腺体。人体的性腺指睾丸和卵巢。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.147",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科胚胎学_性腺发生",
+   "subjectName": "性腺发生",
+   "publishYear": "2022",
+   "definition": "女性和男性能产生生殖细胞和分泌性激素的器官。女性为卵巢，男性为睾丸。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "生理学名词",
+   "wordNumber": "11.011",
+   "subjectFullName": "生理学_生殖生理学",
+   "subjectName": "生殖生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "source": "植物学名词",
+   "wordNumber": "08.0111",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "成熟时，单粒存在并散发的花粉。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "核医学名词",
+   "wordNumber": "04.1664",
+   "subjectFullName": "核医学_临床核医学_泌尿生殖系统核医学_泌尿生殖系统解剖生理基础",
+   "subjectName": "泌尿生殖系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "产生生殖细胞和分泌性激素的器官。包括男性的睾丸和女性的卵巢。"
+  },
+  {
+   "cn": "单子",
+   "en": "monad",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0904",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "范畴论里面的一种函子，可用来进行数据结构的抽象封装，还被用来表示抽象计算概念的范畴论语义。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "心理学名词",
+   "wordNumber": "05.079",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "人或动物产生精子或卵子的腺体。雄性的性腺是睾丸，雌性的性腺是卵巢。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "27.050",
+   "subjectFullName": "组织学与胚胎学_胚胎学_泌尿系统和生殖系统的发生",
+   "subjectName": "泌尿系统和生殖系统的发生",
+   "publishYear": "2014",
+   "definition": "尚未发生性别分化的生殖腺。可分化为睾丸或卵巢。"
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.137",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "性母细胞经异常减数分裂在四分体原位产生的一个细胞。"
+  },
+  {
+   "cn": "单孢体",
+   "en": "monad",
+   "source": "古生物学名词",
+   "wordNumber": "04.0215",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "分散的单体花粉或孢子。常用于与二分体、四分体和其他分散单元相区别。"
+  },
+  {
+   "cn": "生殖腺",
+   "en": "gonad",
+   "source": "昆虫学名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "昆虫学_昆虫内部构造",
+   "subjectName": "昆虫内部构造",
+   "publishYear": "2000",
+   "definition": "昆虫的卵巢或精巢。"
+  },
+  {
+   "cn": "一元逻辑",
+   "en": "monadic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0048",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "只含有一元谓词的逻辑系统。"
+  },
+  {
+   "cn": "单子语义",
+   "en": "monadic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0905",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用单子方法对程序语言系统进行语义解释。"
+  },
+  {
+   "cn": "康拉迪病",
+   "en": "Conradi disease",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0953",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性腺静脉造影[术]",
+   "en": "gonado-venography",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.854",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "双潜能性腺",
+   "en": "bipotential gonad",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "性腺疾病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "具有双向分化潜能的早期性腺。在性别决定过程中，根据体细胞是否表达Y染色体性别决定区基因，最终决定未分化的性腺发育为卵巢或睾丸。"
+  },
+  {
+   "cn": "胎儿性腺",
+   "en": "fetal gonad",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.215",
+   "subjectFullName": "性腺疾病_妊娠内分泌及相关疾病",
+   "subjectName": "妊娠内分泌及相关疾病",
+   "publishYear": "2025",
+   "definition": "胎儿生成生殖细胞和分泌性腺激素的器官。包括男性胎儿的睾丸和女性胎儿的卵巢。"
+  },
+  {
+   "cn": "原始性腺",
+   "en": "primordial gonad",
+   "source": "妇产科学名词",
+   "wordNumber": "8.004",
+   "subjectFullName": "生殖器发育异常_性腺发育",
+   "subjectName": "性腺发育",
+   "publishYear": "2025",
+   "definition": "尚未发生性别分化的生殖腺。由原始生殖细胞迁移分化而来，最终发育成雌性生殖腺卵巢或雄性生殖腺睾丸。"
+  },
+  {
+   "cn": "邦迪吸积",
+   "en": "Bondi accretion",
+   "source": "天文学名词",
+   "wordNumber": "07.188",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种致密天体在星际介质中运动时产生的球对称吸积模型。"
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单花粉",
+   "en": "monad",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生殖腺",
+   "en": "gonad",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "性腺",
+   "en": "gonad",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单分体",
+   "en": "monad",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生殖腺",
+   "en": "gonad",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生殖腺",
+   "en": "gonad\",\"genital gland",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多拉蒂",
+   "en": "Dorati\",\"Antal(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多纳特",
+   "en": "Donath\",\"Helen(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "促性腺[激]素",
+   "en": "gonad-stimulating hormone\",\"gonadotropin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "托维",
+   "en": "Tovey\",\"Donald(Françis)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格劳特",
+   "en": "Grout\",\"Donald Jay(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "给我们安宁",
+   "en": "Dona nobis pacem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Vaughan Williams, Ralph"
+  },
+  {
+   "cn": "蓝色多瑙河",
+   "en": "An der schönen blauen Donau",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss Jr., Johann (Ⅱ)"
+  },
+  {
+   "cn": "虹鳟鱼生殖腺细胞系",
+   "en": "rainbow trout gonad cell line\",\"RTG",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放射性性腺疾病",
+   "en": "radiation induced gonad disease",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.4.14",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "性腺受到一定剂量电离辐射照射后所致的疾病。包括放射性不孕症和放射性闭经。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

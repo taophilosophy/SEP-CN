@@ -1,0 +1,652 @@
+{
+ "key": "austro-marxism",
+ "term": "Austro-Marxism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:44:57+00:00",
+ "status": "ok",
+ "note": "variant=Austro-Marxism; 审定公布名词库=200; 海峡两岸名词对照库=59; 其他来源数据库=9; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "马克思主义",
+   "en": "Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "马克思和恩格斯创立的思想理论体系，无产阶级政党指导思想的理论基础。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.243",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "20世纪70年代全球绿色运动下的一种思潮。将生态学与马克思主义相结合，批判资本主义是人与自然关系的异化及其危机的根源，提出建立生态社会主义社会取代资本主义社会，是当代国外马克思主义的主要流派之一。"
+  },
+  {
+   "cn": "赛博马克思主义",
+   "en": "cyber Marxism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.086",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "侧重于分析并阐释互联网时代的新趋势、新情况、新问题的马克思主义理论。戴尔威瑟夫德(Nick DyerWitheford)用自治主义马克思主义(autonomist Marxism)的理论视角来分析2"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "Legal Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0088",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "19世纪末，打着马克思主义旗号的资产阶级自由主义派别，因其代表人物俄国的司徒卢威而得名。"
+  },
+  {
+   "cn": "新马克思主义",
+   "en": "New-Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0111",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "20世纪50年代，东欧社会主义国家在“非斯大林化”过程中出现的一种资产阶级自由化思潮和政治力量，否定马克思主义基本原理，反对马克思主义“制度化”，对后来东欧巨变有直接影响。"
+  },
+  {
+   "cn": "西方马克思主义",
+   "en": "Western Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0110",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "20世纪20年代，一批西方知识分子从哲学的角度试图重新解读和建构马克思主义，现已成为具有一定国际性影响的、非马克思主义的西方社会思潮。"
+  },
+  {
+   "cn": "普奥战争",
+   "en": "Austro-Prussian War",
+   "source": "世界历史名词",
+   "wordNumber": "01.0220",
+   "subjectFullName": "世界历史_综合_战争",
+   "subjectName": "战争",
+   "publishYear": "2012",
+   "definition": "1866年，普鲁士与奥地利争夺统一德意志领导权的王朝战争。"
+  },
+  {
+   "cn": "德奥同盟",
+   "en": "Austro-German Alliance",
+   "source": "世界历史名词",
+   "wordNumber": "01.0466",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "1879年，德国同奥匈帝国结成的秘密军事同盟。"
+  },
+  {
+   "cn": "奥匈帝国",
+   "en": "Austro-Hungarian Empire",
+   "source": "世界历史名词",
+   "wordNumber": "01.0642",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "奥地利和匈牙利根据1867年协约成立的哈布斯堡王朝帝国。"
+  },
+  {
+   "cn": "南亚语系",
+   "en": "Austro Asiatic family",
+   "source": "语言学名词",
+   "wordNumber": "13.114",
+   "subjectFullName": "语言学_民族语言学_南亚语系",
+   "subjectName": "南亚语系",
+   "publishYear": "2011",
+   "definition": "按谱系分类法划分的一个语系。分为孟—高棉语族、蒙（扪）达语族、 越芒语族和尼科巴语族4个语族，约150种语言。分布在南亚和东南亚以及中国的西南部。辅音系统比较整齐，塞音清浊对立，元音较丰富，大多数语言"
+  },
+  {
+   "cn": "生态学马克思主义",
+   "en": "the ecological Marxism",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.125",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "试图将马克思主义原理及批判功能与当前生态问题结合，以解决生态及人类自身发展的西方马克思主义理念。有多种学说和观点。"
+  },
+  {
+   "cn": "马克思主义政治经济学",
+   "en": "Marxism political economics",
+   "source": "经济学名词",
+   "wordNumber": "14.029",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "马克思和恩格斯在19世纪中期创立的、以社会生产关系为研究对象的经济学科。它阐明了人类社会发展过程中生产、交换和分配的一般规律。其基本思想如下：①以生产关系为主要研究对象；②创立了劳动价值论和剩余价值理"
+  },
+  {
+   "cn": "马克思主义中国化",
+   "en": "Marxism in China",
+   "source": "世界历史名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "中国共产党第十七次全国代表大会报告中提出的、并经第十八次全国代表大会进一步确认的精确论断。其实质就是将马克思主义的基本原理和中国革命与建设的实际情况相结合，从而走出适合中国国情的社会主义革命和建设道路"
+  },
+  {
+   "cn": "马克思主义的三个组成部分",
+   "en": "Three Parts of Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "马克思主义的辩证唯物主义和历史唯物主义、政治经济学、科学社会主义。"
+  },
+  {
+   "cn": "西方马克思主义史学",
+   "en": "History of Western Marxism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "世界历史_综合_世界历史学派、分支学科",
+   "subjectName": "世界历史学派、分支学科",
+   "publishYear": "2012",
+   "definition": "西方历史学研究中的马克思主义流派，主张回到青年马克思、人道的马克思，重新解释马克思。尽管其代表人物声称用马克思主义观点研究历史，但都在某些方面对马克思主义作了修正。"
+  },
+  {
+   "cn": "火星派",
+   "en": "Marsism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0162",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "拥护列宁领导下的《火星报》的俄国马克思主义者。"
+  },
+  {
+   "cn": "马克思主义新闻学",
+   "en": "Marxist journalism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.021",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "中国特色社会主义条件下新闻学的一个研究门类。主要研究马克思主义经典作家及中国共产党主要领导人的新闻传播思想与实践，以及国际共产主义运动中各政党(包括中国共产党)的新闻传播思想与实践。"
+  },
+  {
+   "cn": "马克思主义教育学",
+   "en": "marxist pedagogy",
+   "source": "教育学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "产生于19世纪末，以马克思主义基本原理为理论基础，以马克思主义经典作家关于教育问题的论述为基本内容，运用马克思主义基本立场、观点和方法研究教育现象和问题的教育学说。"
+  },
+  {
+   "cn": "马克思主义史学",
+   "en": "Marxist history",
+   "source": "世界历史名词",
+   "wordNumber": "01.0028",
+   "subjectFullName": "世界历史_综合_世界历史学派、分支学科",
+   "subjectName": "世界历史学派、分支学科",
+   "publishYear": "2012",
+   "definition": "以马克思主义的唯物主义历史观为理论基础的历史科学。"
+  },
+  {
+   "cn": "新火星派",
+   "en": "New Marsism",
+   "source": "世界历史名词",
+   "wordNumber": "01.0163",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1903年，孟什维克篡夺《火星报》的领导权，故被称为“新火星派”，与列宁领导的“火星派”相区别。"
+  },
+  {
+   "cn": "澳洲马来区",
+   "en": "Austro-Malayan region",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义意识形态",
+   "en": "ideology of Marxism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思行动主义",
+   "en": "Marxist activism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义地理学",
+   "en": "Marxist geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义激进份子",
+   "en": "Marxist radicals",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义经济学",
+   "en": "Marxist economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后马克思主义社会学",
+   "en": "post-marxist sociology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "天文航海学",
+   "en": "astro-navigation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "天马[X射线天文卫星]",
+   "en": "Tenma\",\"Astro-B",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "银河号[X射线天文卫星]",
+   "en": "Ginga\",\"Astro-B",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文气候指标",
+   "en": "astro-climatic index",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天文重力水准",
+   "en": "astro-gravimetric leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "四个乡巴佬",
+   "en": "quatro rusteghi\",\"I",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wolf, Hugo"
+  },
+  {
+   "cn": "眼胃脊",
+   "en": "gastro-orbital carina",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "额胃沟",
+   "en": "gastro-frontal groove",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "额胃脊",
+   "en": "gastro-frontal carina",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "肖斯塔科维奇，马克辛",
+   "en": "Shostakovich\",\"Maxim(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "天文大地网平差",
+   "en": "adjustment of astro-geodetic  network",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "音乐大师",
+   "en": "Maestro di Musica\",\"Il",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Honegger, Arthur"
+  },
+  {
+   "cn": "扬松斯",
+   "en": "Yansons\",\"Marris(拉托维亚)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "铭箴",
+   "en": "Epigraph and Maxim",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资本论",
+   "en": "Marx’s theory of capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汽车金融公司",
+   "en": "auto finance company",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人视觉自联想",
+   "en": "robot visual auto-association",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马克思主义",
+   "en": "Marxism",
+   "source": "马克思主义",
+   "wordNumber": "00.0001",
+   "subjectFullName": "马克思主义_总论",
+   "subjectName": "总论",
+   "publishYear": "2025",
+   "definition": "国际无产阶级革命导师马克思恩格斯创立、并由他们的后继者不断丰富和发展的科学理论体系，是以资本主义为批判对象，以通过革命变革，建设社会主义和实现共产主义为目标的科学。马克思主义的理论体系十分完备而严整，"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "将人文理念、生态意识和对资本主义的分析批判结合起来，重新认识资本主义和生态的冲突的理论。是面对日趋严重的全球生态危机，思考生态问题产生原因和寻求人类自身发展出路的的重要理论之一。"
+  },
+  {
+   "cn": "合法马克思主义",
+   "en": "legal Marxism",
+   "source": "马克思主义",
+   "wordNumber": "04.0340",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "19世纪末产生于俄国的一种打着马克思主义旗号的资产阶级改良主义思潮，它把马克思主义哲学歪曲为经济唯物主义，反对马克思的劳动价值论和剩余价值学说，抹杀阶级矛盾，否认社会主义代替资本主义的必然性，反对无产"
+  },
+  {
+   "cn": "西方马克思主义",
+   "en": "Western Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0001",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "产生于20世纪20、30年代，60年代末到70年代初在西欧、美国等发达资本主义国家理论界中较为盛行。其理论和现实指向，是既批判列宁主义和苏联社会主义，也批评西方发达资本主义社会的一些弊病。其特点往往是"
+  },
+  {
+   "cn": "弗洛伊德的马克思主义",
+   "en": "Freudian Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0013",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "试图把马克思主义与弗洛伊德的精神分析学说“综合”起来，用精神分析学补充和改造马克思主义的一个学派。主张运用心理分析的工具方法来分析并解释社会现象。"
+  },
+  {
+   "cn": "存在主义的马克思主义",
+   "en": "Existentialistic Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0014",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主张把存在主义和马克思主义“综合”起来，按照存在主义的精神去“解释”和“补充”马克思主义的一个流派。其内部有两种倾向：一种以列斐伏尔为代表，从马克思主义走向存在主义；另一种是以梅洛·庞蒂（Mauric"
+  },
+  {
+   "cn": "结构主义的马克思主义",
+   "en": "structuralistic Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0015",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代出现的一种西方马克思主义流派，主要代表人物是法国著名哲学家路易·阿尔都塞。重视事物内部结构，反对把马克思主义黑格尔主义化、人道主义化，强调马克思主义的科学性，否定人的历史主体地位，强调"
+  },
+  {
+   "cn": "新实证主义的马克思主义",
+   "en": "Neopositivist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0016",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "主要代表是意大利共产党员德拉·沃尔佩（Della Volpe）及其学生卢西奥·科莱蒂（Lucio Colletti）。强调把马克思辩证法与黑格尔的辩证法对立起来，主张用实证主义来说明和补充马克思主义。"
+  },
+  {
+   "cn": "分析的马克思主义",
+   "en": "analytical Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0078",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在英美等国兴起的具有较大影响的马克思主义研究学派。其特点是将现代数学、数理逻辑和模型分析等分析哲学的研究方法与研究路向应用到重新理解与解读马克思主义。"
+  },
+  {
+   "cn": "生态马克思主义",
+   "en": "ecological Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0079",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末从西方马克思主义研究内部分化出来的一种流派，主要特点是把生态学纳入马克思主义视野中，运用马克思主义立场、观点和方法去分析资本主义的生态危机，探索解决危机的途径，用生态学补充马克思主义"
+  },
+  {
+   "cn": "女权主义的马克思主义",
+   "en": "feminist Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0087",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "产生于20世纪70年代初，把马克思主义的历史分析法和阶级分析法运用于女权主义运动中，分析妇女受压迫与剥削的根源，进而寻求妇女反抗与解放的具体路径而兴起的一个女权主义流派。"
+  },
+  {
+   "cn": "文化马克思主义",
+   "en": "cultural Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0088",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "不同于前苏联马列主义的西方马克思主义的一个分支。诞生于20世纪二三十年代，基本主张是反对苏联教条的马克思主义，反对经济决定论，强调文化在社会生活与反抗资本主义斗争中的重要作用。在英国得到发展壮大，影响"
+  },
+  {
+   "cn": "后现代主义的马克思主义",
+   "en": "postmodern Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0098",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "泛指在后现代主义思潮影响下，批判性地采用马克思主义理论对资本主义经济、社会和文化进行批判的一种社会文化思潮，主要代表人物有弗雷德里克·詹姆逊（Fredric Jameson）、让·鲍德里亚（Jean "
+  },
+  {
+   "cn": "结构马克思主义",
+   "en": "Structural Marxism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0588",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代法国结构主义的马克思主义民族学的出现，在西方被认为是“发生在马克思主义人类学领域的一场革命”。该派把战后兴起的结构主义人类学思想与马克思主义的辩证唯物主义与历史唯物主义思想捏合起来"
+  },
+  {
+   "cn": "南亚语系",
+   "en": "Austro-Asiatic family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0323",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "按谱系分类法划分的一个语系。分为孟-高棉语族、蒙达语族、越芒语族和尼科巴语族4 个语族，约150 种语言。分布在南亚和东南亚以及中国的西南部。中国的南亚语系语言有属孟-高棉语族的佤语、布朗语、德昂语、"
+  },
+  {
+   "cn": "马克思阶级理论",
+   "en": "Marxism class theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由马克思提出的社会分层理论。主要有以下观点：阶级由生产关系所决定，不同阶级之间存在着利益冲突，阶级地位决定个人的思想意识，资本主义社会的两个主要阶级是无产阶级和资产阶级。"
+  },
+  {
+   "cn": "马克思主义中国化",
+   "en": "Sinicization of Marxism",
+   "source": "马克思主义",
+   "wordNumber": "03.0323",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "把马克思主义基本原理同中国具体实际相结合，使马克思主义在中国具体化，赋予马克思主义以鲜明的中国实践特色、民族特色和时代特色。毛泽东1938年在党的六届六中全会上作的题为《抗日民族战争与抗日民族统一战线"
+  },
+  {
+   "cn": "结构马克思主义学派",
+   "en": "structural Marxism school",
+   "source": "马克思主义",
+   "wordNumber": "05.0012",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "起源于20世纪60年代法国的强调结构主义的马克思主义思潮。吕西安·塞巴格（Lucien Sebbag）在1963年发表《马克思主义与结构主义》正式论及结构主义与马克思主义的关系问题。之后，阿尔都塞、列"
+  },
+  {
+   "cn": "新马克思主义阶级理论",
+   "en": "Neo-Marxism class theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "当代社会分层理论的一个重要流派。该派关注工人阶级的异化和新中间阶级的形成问题，对马克思阶级理论进行了一系列的修正，试图使其适应当代社会的新发展状况。其中一个典型代表是赖特(Eric Olin Wrig"
+  },
+  {
+   "cn": "解放神学的马克思主义",
+   "en": "Marxism of liberation theology",
+   "source": "马克思主义",
+   "wordNumber": "05.0097",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代在拉丁美洲产生的一种试图把神学理论同马克思主义“结合”起来的社会思潮，批判资本主义，在马克思主义中寻求救赎。主要代表人物有秘鲁的古铁雷斯（Gutiérrez）、巴西的博夫（Boff）、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

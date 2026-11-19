@@ -1,0 +1,812 @@
+{
+ "key": "poetry uber",
+ "term": "Poetry Über",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T06:00:03+00:00",
+ "status": "ok",
+ "note": "variant=Poetry Über; 审定公布名词库=142; 海峡两岸名词对照库=42; 其他来源数据库=172; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "抒情诗",
+   "en": "Lyric Poetry",
+   "source": "世界历史名词",
+   "wordNumber": "02.0272",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "公元前7世纪至前4世纪，古希腊除六音步韵律诗(史诗、戏剧诗等)以外其他形式的诗歌，供伴随乐器吟唱之用，因主要伴奏乐器为七弦琴(lyre)而得名。"
+  },
+  {
+   "cn": "希腊史诗",
+   "en": "Epic Poetry of Greek",
+   "source": "世界历史名词",
+   "wordNumber": "02.0268",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "古希腊的六音步叙事诗歌，其内容主要记叙神明、英雄和凡人的事迹。"
+  },
+  {
+   "cn": "格律诗",
+   "en": "ge lü shi;metrics poetry",
+   "source": "中国古代史名词",
+   "wordNumber": "5.224",
+   "subjectFullName": "中国古代史_隋唐五代_思想文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "在南朝永明体基础上发展而来的诗体。又称“近体诗” “今体诗”。讲究声律、对偶，通篇须符合平仄相粘的规律。分五言与七言，前者定型于唐高宗及武周时期，后者定型于唐中宗景龙年间。"
+  },
+  {
+   "cn": "黄金时代",
+   "en": "Golden Age of Russian Poetry",
+   "source": "世界历史名词",
+   "wordNumber": "05.0098",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "19世纪上半叶。此一时期，文化(以文学作为主要载体)在俄国历史上第一次得到空前繁荣。"
+  },
+  {
+   "cn": "白银时代",
+   "en": "Silver Age of Russian Poetry",
+   "source": "世界历史名词",
+   "wordNumber": "05.0217",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "19世纪90年代初至20世纪20年代初，俄国文化界(主要是诗歌界)出现了极为繁荣的景象，此一时期被称为“白银时代”。"
+  },
+  {
+   "cn": "曲韵",
+   "en": "rhyming system of the Qu poetry",
+   "source": "语言学名词",
+   "wordNumber": "09.133",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "制曲所遵循的押韵系统。以元代周德清的《中原音韵》为曲韵代表性韵书。"
+  },
+  {
+   "cn": "词韵",
+   "en": "rhyming system of the Ci poetry",
+   "source": "语言学名词",
+   "wordNumber": "09.132",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "填词所遵循的押韵系统。唐至元人皆据口语押韵，明代开始有人用归纳法编撰词韵书，清人戈载的《词林正韵》最为流行。经当代学者研究，宋代词韵当分十八部。"
+  },
+  {
+   "cn": "台阁体",
+   "en": "tai ge ti;Tai-Ge poetry style",
+   "source": "中国古代史名词",
+   "wordNumber": "8.516",
+   "subjectFullName": "中国古代史_明清_思想文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "以明内阁、翰林院文臣为代表的一种文学。形成于永乐至成化年间，以馆阁文臣杨士奇、杨荣、杨溥等为代表。追求雍容典雅，以“颂圣德，歌太平”为主题流行于官场。"
+  },
+  {
+   "cn": "唐宋派",
+   "en": "Tang Song pai;Tang-Song poetry style",
+   "source": "中国古代史名词",
+   "wordNumber": "8.519",
+   "subjectFullName": "中国古代史_明清_思想文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "明嘉靖年间的一个散文流派。代表人物有王慎中、唐顺之、茅坤、归有光等，针对前后七子“文必秦汉”之说，崇尚唐宋古文，讲究道统，主张质美胜于华采，工拙在于心源。"
+  },
+  {
+   "cn": "江湖诗派",
+   "en": "jiang hu shi pai;Jiang hu poetry style",
+   "source": "中国古代史名词",
+   "wordNumber": "6.337",
+   "subjectFullName": "中国古代史_两宋_文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "南宋后期以刘克庄、戴复古、方岳等人为代表的诗派。因书商陈起将诸人之诗刊行为《江湖集》及《续集》、《后集》得名。其诗欣羡隐逸、鄙弃仕途，时或指斥时弊，讥讽朝政，擅古体及七言绝句，诗风平直流畅，为当时社会"
+  },
+  {
+   "cn": "诗韵",
+   "en": "rhyming system for regular poetry,②rhyming system of the Book of Songs",
+   "source": "语言学名词",
+   "wordNumber": "09.130",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "①近体诗所采用的押韵系统，即平水韵。②古音学上指归纳《诗经》韵脚所得的韵部系统。"
+  },
+  {
+   "cn": "诗赋论策",
+   "en": "shi fu lun ce;poetry, rhapsody, argumentation, and policy discussion—the primary test subjects of the Tang/Song examinations",
+   "source": "中国古代史名词",
+   "wordNumber": "6.174",
+   "subjectFullName": "中国古代史_两宋_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "唐宋进士科考试的内容。唐以来进士考试先须帖经，再试诗赋、论、时务策，尤重诗赋，往往被讥华而不实。相沿损益至王安石变法时，进士改试经义、论、策，废除诗赋和专重背诵的帖经、墨义。后仍有调整，南宋时分为诗赋"
+  },
+  {
+   "cn": "髂胫束紧张试验",
+   "en": "Ober sign’s",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.110",
+   "subjectFullName": "中医药学_骨伤科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "患者健侧卧位，腰伸直，屈膝屈髋，检查者在患者后面，一手固定患侧髋部，另一手持患肢踝部使髋关节伸直，膝关节屈曲90°，逐渐内收患肢，如膝不能贴近床面，且在该侧大腿外侧下部可触及呈弓弦状紧张的髂胫束，以判"
+  },
+  {
+   "cn": "奥伯试验",
+   "en": "Ober test",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.251",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "奈奎斯特波数",
+   "en": "Nyquist wavenum-ber",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2563",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "空间抽样距离的一半，即空间抽样率的一半。将原始模拟信号变换到波数域，若奈奎斯特波数小于信号的最大波数时，基于奈奎斯特抽样定理，抽样后产生频率混淆现象，消除频率混淆需提高抽样频率或在抽样前进行低通滤波。"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "source": "经济学名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "按世界银行的定义，贫困是缺少达到最低生活水准的能力。"
+  },
+  {
+   "cn": "糕点",
+   "en": "pastry",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0419",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "以粮、油、糖、蛋等为主料，添加适量辅料，经调制、成型、熟制等工序制成的食品。"
+  },
+  {
+   "cn": "备餐间",
+   "en": "pantry",
+   "source": "建筑学名词",
+   "wordNumber": "02.0042",
+   "subjectFullName": "建筑学_建筑类型及组成_通用建筑类型及组成",
+   "subjectName": "通用建筑类型及组成",
+   "publishYear": "2014",
+   "definition": "厨房制作完成的餐食在供餐用前的准备房间。"
+  },
+  {
+   "cn": "家禽",
+   "en": "poultry",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.040",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "人类为了经济或其他目的而驯化和饲养的禽类。"
+  },
+  {
+   "cn": "黑陶",
+   "en": "carbonized pottery,black pottery",
+   "source": "材料科学技术名词",
+   "wordNumber": "03.0179",
+   "subjectFullName": "材料科学技术_无机非金属材料_陶瓷_传统陶瓷",
+   "subjectName": "传统陶瓷",
+   "publishYear": "2011",
+   "definition": "新石器时代的一种黑色素胎陶质器皿。有夹碳黑陶和渗碳黑陶。典型产品薄如蛋壳，表面光亮润滑，胎的断面里外墨黑。还有一种黑皮陶或黑衣陶，其胎呈灰色或红色仅胎的表面呈黑色。"
+  },
+  {
+   "cn": "德意志至上",
+   "en": "Deutschland über Alles",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "自由而幸福",
+   "en": "Frei aber Froh",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Brahms, Johannes"
+  },
+  {
+   "cn": "配餐间",
+   "en": "pantry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "黑陶",
+   "en": "black pottery\",\"carbonized pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "碱基切除修复",
+   "en": "base excision repair\",\"BER",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "陶器",
+   "en": "earthenware\",\"pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "重试，复执",
+   "en": "retry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "细陶器",
+   "en": "fine pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "精陶",
+   "en": "fine pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "彩陶",
+   "en": "faience pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "粗陶",
+   "en": "crude pottery",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "陶土",
+   "en": "pottery clay\",\"syderolite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "培养皿",
+   "en": "Petri dish",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "培养皿",
+   "en": "Petri dish",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "程序重试",
+   "en": "program retry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命令重试",
+   "en": "command retry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "佩特里网",
+   "en": "Petri net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令重试",
+   "en": "instruction retry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[港务]杂费",
+   "en": "petty average",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "时间佩特里网",
+   "en": "timed Petri net\",\"time Petri net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诗史",
+   "en": "Historical Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗",
+   "en": "Shi (Poetry)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边塞诗",
+   "en": "Frontier Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汉乐府",
+   "en": "Yuefu Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山水诗",
+   "en": "Landscape Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "田园诗",
+   "en": "Idyllic Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄言诗",
+   "en": "Metaphysical Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐逸诗",
+   "en": "Recluse Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗中有画，画中有诗",
+   "en": "Painting in Poetry, Poetry in Painting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗言志",
+   "en": "Poetry Expresses Aspirations.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咏史诗",
+   "en": "Poetry on History",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗缘情",
+   "en": "Poetry Springs from Emotions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正声",
+   "en": "Proper Music / Finest Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五律",
+   "en": "Five-character Rhythmic Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选体",
+   "en": "Xuanti Poetry / Poetry in Prince Zhaoming’s Favorite Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "江西诗派",
+   "en": "The Jiangxi School of Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元和体",
+   "en": "The Yuanhe Style of Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "律诗",
+   "en": "Lüshi (Regulated Verse; Rhythmic Poetry)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "盛唐之音",
+   "en": "Poetry of the Prime Tang Dynasty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "个人、家庭或群体因没有机会或能力获取足够的资源，基本生存及发展需求得不到满足的一种状态。主要有绝对贫困与相对贫困两类。"
+  },
+  {
+   "cn": "贫困",
+   "en": "poverty",
+   "source": "马克思主义",
+   "wordNumber": "03.0132",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个人或家庭必要生活资料缺乏或生活水平处于社会极低水平的状况。分为绝对贫困和相对贫困。绝对贫困是指仅够维持最低生活水平的状态。相对贫困是指收入或生活条件相对于其他集团或个人提高更多来说的贫困状态。资本主"
+  },
+  {
+   "cn": "家禽",
+   "en": "poultry",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.1",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "人类为了经济或其他目的而驯化和饲养的禽类。"
+  },
+  {
+   "cn": "榚点",
+   "en": "pastry",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.5",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "以谷物、豆类、薯类、油脂和糖、蛋等一种或几种为主要原料，添加或不添加其他原料，经调制、成型、焙烤熟制等工序加工而成的焙烤食品。"
+  },
+  {
+   "cn": "胴体",
+   "en": "poultry carcass",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.8",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "畜禽屠宰放血后，去除头、蹄、尾、皮（或不去皮）、毛及内脏后所保留的部分，主要包括肌肉、脂肪、骨骼和结缔组织。"
+  },
+  {
+   "cn": "禽副产品",
+   "en": "poultry offal",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.9",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "活禽（鸡、鸭、鹅等）宰杀、加工后，所得禽内脏、头、颈、尾、翅、脚（爪）、皮、血等可食用的产品，不包括皮毛、毛、蹄壳、三腺等不可食用产品。"
+  },
+  {
+   "cn": "城市贫困",
+   "en": "urban poverty",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "某一部分城市居民因就业不充分等原因成为低收入群体，且难以维持一般的生活标准的状态。通常与失业、非正规就业或低技能、低薪就业相关，往往集中居住，形成贫困社区。"
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员获得的实际收入、拥有的消费资料及服务不能满足其基本生存需要的状态。目前我国城乡居民最低生活保障依据各地物价水平划定的绝对贫困线。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "贫困线",
+   "en": "poverty line",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "对因各种原因造成收入难以维持基本生活的个人或家庭进行救助而制定的收入标准线。以衡量在一定的时间、空间和社会发展阶段的条件下，维持人们的基本生存所必需消费的物品和服务的最低费用。"
+  },
+  {
+   "cn": "贫困救助",
+   "en": "poverty relief",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "国家和社会为保障贫困人口基本生活，为其提供资金、物质和社会服务的社会保障措施。主要包括生活救助、生产救助、医疗救助、教育救助和住房救助等。"
+  },
+  {
+   "cn": "因病致贫发生率",
+   "en": "poverty headcount",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "贫困标准线以下人口中因病致贫的比例。"
+  },
+  {
+   "cn": "禽类罐头",
+   "en": "poultry can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以处理后的鸡、鸭等禽肉及禽蛋为原料制成的罐藏食品。"
+  },
+  {
+   "cn": "孝",
+   "en": "filial piety",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "从家庭伦理出发构建的社会道德和关系准则，是儒家的主要道德原则之一。孔子认为孝主要体现为子女对父母的敬仰，并以此为最基本的道德规范和处理其他社会关系的基础。孟子则增加了“夫妇”、”长幼”和“朋友”而形成"
+  },
+  {
+   "cn": "小资产阶级",
+   "en": "petty bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0211",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "占有一定的生产资料或少量资金的个体劳动者,包括中农、小手工业者、小商人、小业主等。小资产者主要依靠自己的劳动为生,一般不剥削别人,或对别人只有轻微的剥削。既是劳动者,又是小私有者，前者倾向无产阶级，后"
+  },
+  {
+   "cn": "孝顺",
+   "en": "filial piety",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0859999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "孝敬和顺从。尽心奉养父母，顺从父母的意志。现多指尊敬父母，让长辈身体健康、精神愉悦。"
+  },
+  {
+   "cn": "冻禽产品",
+   "en": "frozen poultry products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.6",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "将活禽屠宰、加工后，经冻结处理的产品；包括净膛后的整只禽、整只禽的分割部位（禽肉、禽翅、禽腿等）、禽的副产品[禽头、禽脖、禽内脏、禽脚（爪）等]。"
+  },
+  {
+   "cn": "贫穷文化",
+   "en": "culture of poverty",
+   "source": "社会学名词",
+   "wordNumber": "3.4.8.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市贫困与不平等",
+   "subjectName": "城市贫困与不平等",
+   "publishYear": "2025",
+   "definition": "一种在贫穷人群中存在的特定的价值观念和行为模式。由美国人类学家奥斯卡(Lewis Oscar）通过研究拉美贫穷社区提出，穷人有很强的无助感、边缘感、依赖感和游离感,缺乏阶级意识,很难靠自我奋斗脱离贫困"
+  },
+  {
+   "cn": "健康贫困陷阱",
+   "en": "health poverty trap",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "疾病导致贫困，贫困影响健康，陷于因病致贫、因贫致病循环之中的现象。"
+  },
+  {
+   "cn": "贫困距指数",
+   "en": "poverty gap index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "贫困标准线与人均收入之间的差值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

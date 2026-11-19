@@ -1,0 +1,762 @@
+{
+ "key": "sister juana ines",
+ "term": "Sister Juana Inés",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:51:15+00:00",
+ "status": "ok",
+ "note": "variant=Sister Juana Inés; 审定公布名词库=1339; 海峡两岸名词对照库=505; 其他来源数据库=35; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "姐妹染色单体",
+   "en": "sister chromatid",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.332",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一条染色体复制产生的两条染色单体互称为姐妹染色单体。由一个着丝粒相连，在细胞分裂的间期、前期、中期成对存在。其大小、形态、结构及来源完全相同。"
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "动物学名词",
+   "wordNumber": "2.0177",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "支序图中源自同一分叉的两个支系类群。"
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "植物学名词",
+   "wordNumber": "02.0095",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "互为最近亲缘关系的两个分类单元。"
+  },
+  {
+   "cn": "姐妹染色单体",
+   "en": "sister chromatid",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.177",
+   "subjectFullName": "放射医学与防护_放射生物学_放射遗传学",
+   "subjectName": "放射遗传学",
+   "publishYear": "2014",
+   "definition": "由染色体复制，从同一染色体所产生的相同的两条染色单体。仍由一个着丝粒相连。"
+  },
+  {
+   "cn": "姐妹染色单体",
+   "en": "sister chromatid",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.130",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "染色体在DNA复制之后产生的一对连在一起的染色单体。"
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "古生物学名词",
+   "wordNumber": "01.0077",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "两个类群共有一个不为第三者所有的祖先，即为姐妹群。"
+  },
+  {
+   "cn": "姐妹染色单体",
+   "en": "sister chromatid",
+   "source": "遗传学名词",
+   "wordNumber": "04.179",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "一条染色体复制产生的两条染色单体互称为姐妹染色单体。"
+  },
+  {
+   "cn": "姐妹种",
+   "en": "sister species",
+   "source": "水产名词",
+   "wordNumber": "05.128",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "表型近似但生殖隔离的物种。"
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "昆虫学名词",
+   "wordNumber": "02.029",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "支序图中源自同一分叉的两个支系。"
+  },
+  {
+   "cn": "兄妹交配",
+   "en": "sister brother mating",
+   "source": "兽医学名词",
+   "wordNumber": "09.119",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "有共同父母的雌雄个体之间的交配。是近亲交配的一种。由于亲缘关系极为接近，成为培育近交系动物的主要繁殖方法。"
+  },
+  {
+   "cn": "姐妹染色单体交换",
+   "en": "sister chromatid exchange",
+   "source": "血液学名词",
+   "wordNumber": "4.26",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "同一条染色体上的两条姐妹染色单体在细胞内可自发地或在某些因素作用下在同一位置同时发生断裂，并互换片段后重新接合的现象。"
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.333",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一对同源染色体各自产生的染色单体之间互称为非姐妹染色单体。"
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "植物学名词",
+   "wordNumber": "09.0193",
+   "subjectFullName": "植物学_植物细胞生物学",
+   "subjectName": "植物细胞生物学",
+   "publishYear": "2019",
+   "definition": "一对同源染色体各自产生的染色单体之间互称非姐妹染色单体。"
+  },
+  {
+   "cn": "姐妹染色体互换",
+   "en": "sister chromosome exchange",
+   "source": "药学名词",
+   "wordNumber": "07.275",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "复制染色体的同源位点上，DNA分子交换的形态学反映。"
+  },
+  {
+   "cn": "姐妹染色单体交换",
+   "en": "sister chromatid exchange",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.204",
+   "subjectFullName": "放射医学与防护_放射生物学_放射遗传学",
+   "subjectName": "放射遗传学",
+   "publishYear": "2014",
+   "definition": "某一染色体的两条染色单体之间同源片段的互换。是一种筛检致癌、致畸、致突变物和染色体不稳定性疾病的指标。"
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.131",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "一对同源染色体各自产生的染色单体之间互称非姐妹染色单体。"
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "遗传学名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "一对同源染色体各自产生的染色单体之间互称非姐妹染色单体。"
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.257",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "七姊妹院校",
+   "en": "seven sisters colleges",
+   "source": "教育学名词",
+   "wordNumber": "08.284",
+   "subjectFullName": "教育学_高等教育_大学理念、教育思潮",
+   "subjectName": "大学理念、教育思潮",
+   "publishYear": "2013",
+   "definition": "美国巴纳德学院等7所著名的女子学院的组织。成立于1915年，是美国女子高等教育的先驱，以历史悠久、教学卓越和文化优雅而与“常春藤盟校”齐名。"
+  },
+  {
+   "cn": "同胞种",
+   "en": "sibling species,sister species",
+   "source": "植物学名词",
+   "wordNumber": "02.0071",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "形态特征上很难区分，但相互间有完善生殖隔离的物种。"
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体",
+   "en": "sister chromatid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体，姊妹染色单体",
+   "en": "sister chromatid",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体,姊妹染色单体",
+   "en": "sister chromatid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹群",
+   "en": "sister group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "七姊妹星",
+   "en": "Seven Sisters",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体分离",
+   "en": "sister chromatid segregation\",\"sister chromatid separation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "兄妹交配",
+   "en": "brother-sister mating",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非姐妹染色单体",
+   "en": "non-sister chromatid",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体重组",
+   "en": "sister chromatid recombination",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "姊妹染色单体交换",
+   "en": "sister-chromatid exchange",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹种（=同胞种）",
+   "en": "sibling species\",\"sister species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘种（=同胞种）",
+   "en": "sibling species\",\"sister species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同胞种，姐妹种，亲缘种",
+   "en": "sibling species\",\"sister species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体交换",
+   "en": "sister chromatid exchange\",\"SCE",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "姐妹染色单体交换",
+   "en": "sister chromatid exchange\",\"SCE",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非姐妹标记交换",
+   "en": "non-sister label exchange",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同胞",
+   "en": "Brothers and Sisters of the Same Parents; Compatriots",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万国同胞",
+   "en": "The People of All Countries Are Brothers and Sisters.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民胞物与",
+   "en": "All People Are My Brothers and Sisters, and All Things Are My Companions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "滤光片",
+   "en": "filter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吻钮",
+   "en": "kisser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球员",
+   "en": "batter\",\"hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球员",
+   "en": "batter\",\"hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布隆过滤器",
+   "en": "Bloom filter",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主数据",
+   "en": "master data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络水军",
+   "en": "paid poster",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指定击球员",
+   "en": "designated hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代打击球手",
+   "en": "pinch hitter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "港口主管",
+   "en": "harbour master",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑大师",
+   "en": "fencing master",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举重运动员",
+   "en": "weight lifter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妯娌关系",
+   "en": "sister-in-law relationship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0397",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在一家中兄嫂与弟媳的关系，因兄弟关系而产生。"
+  },
+  {
+   "cn": "过滤器",
+   "en": "filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.7",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "放射治疗设备中用来对有用射束进行预期过滤的材料或装置。"
+  },
+  {
+   "cn": "滑竿",
+   "en": "litter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.009",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国旧式载人交通工具；用两根粗长竹竿绑扎成担架状，中间坐人部位用绳索结成坐兜或设一凉椅，前垂踏脚板，前后各用一人扛抬；主要流行于西南山区（一说仅流行于西南山区）。"
+  },
+  {
+   "cn": "奥尔斯特人",
+   "en": "Olster",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0303",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "英国北爱尔兰地区的民族，占北爱尔兰人口的三分之一，由英格兰殖民者、苏格兰殖民者与土著爱尔兰人混血而成。使用英语，信基督教，多从事农业。"
+  },
+  {
+   "cn": "国际核与辐射事件分级表",
+   "en": "international nuclear and radiological event scale，INES",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "国际原子能机构（IAEA）和经济合作与发展组织核能机构（OECD/NEA）为便于核工业界、媒体和公众相互之间对核与辐射事件的信息沟通而于2008年联合制订和发布的国际核与辐射事件分级管理办法。分级表将"
+  },
+  {
+   "cn": "过滤介质",
+   "en": "filter medium",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "过滤操作中用以拦截液体、空气等介质所含微生物的各种多孔性材料。"
+  },
+  {
+   "cn": "均整器",
+   "en": "flattening filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.4",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "为了使电子束打靶产生的X射线束流在照射野内各点吸收剂量率尽可能均匀而安装在加速器机头内的装置。常采用铜、铁、铅、钨等金属材料制作。"
+  },
+  {
+   "cn": "楔形过滤器",
+   "en": "wedge filter",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "能把有用射束的全部或一部分连续衰减的附加过滤器。包括物理楔形过滤器和动态楔形过滤器两类。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "苦陷症",
+   "en": "bitter pit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "苹果由于高氮低钙营养失调而引起果肉微苦，果实表面出现凹陷圆斑的症状。"
+  },
+  {
+   "cn": "母料",
+   "en": "master batch",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.41",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "将影响塑料材料及制品物理性状的添加剂（如着色剂、填料、增强剂、稳定剂等）超量载附于一种或几种树脂中而制成的、与树脂或塑料材料混合使用才能加工成其他塑料材料及制品的浓缩体。"
+  },
+  {
+   "cn": "蚝油",
+   "en": "oyster sauce",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.55",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "鲜蚝（牡蛎）蒸煮后汁液浓缩或牡蛎肉直接酶解后，加入食糖、食盐、淀粉或改性淀粉等原料，辅以其他配料和食品添加剂制成的味道鲜美醇厚稍甜、红褐或棕褐色半流体状调味品。"
+  },
+  {
+   "cn": "糜烂性毒剂",
+   "en": "blister agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "一类能直接损伤组织细胞，引起皮肤、眼、呼吸道黏膜的局部炎症、坏死，并能通过皮肤、眼、呼吸道黏膜吸收，而导致全身中毒的化学毒剂，主要包括芥子气、氮芥、路易氏剂和光气肟。"
+  },
+  {
+   "cn": "微孔滤膜滤器",
+   "en": "microporous membrane filter",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.2.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "能阻挡液体中直径大于0.2μm颗粒的滤器。"
+  },
+  {
+   "cn": "高氧膜",
+   "en": "high oxygen filter",
+   "source": "消毒学",
+   "wordNumber": "2.2.3.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "吸收有二氧化氯等强氧化剂的复合型过滤材料。能吸附分解空气中的挥发性有机物，过滤空气中的颗粒物并杀灭有害微生物，具有强氧化作用。"
+  },
+  {
+   "cn": "滤纸载体",
+   "en": "filter paper carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以滤纸作为试验微生物的支持物。多制成10mm×10mm大小的正方形，根据特定用途也可用其他尺寸，常用于消毒对象为纸质物品的消毒试验。"
+  },
+  {
+   "cn": "过滤膜法",
+   "en": "filter membrane method",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将适宜孔径的微孔滤膜安装在空气采样器中进行采样，将空气中粒径大于滤膜孔径的携带微生物的粒子阻留在滤膜上，滤膜经实验室洗脱和菌落计数，测定空气中微生物浓度的采样方法。"
+  },
+  {
+   "cn": "家庭寄养",
+   "en": "family foster care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "经过规定的程序，将民政部门监护的儿童委托在家庭中养育的照料模式。这是为孤儿、弃婴回归家庭、融入社会而采取的一种养育方式。"
+  },
+  {
+   "cn": "过滤式防毒面具",
+   "en": "filter type protective mask",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "通过滤毒罐将污染的空气过滤成为洁净空气供人员呼吸，有效地防止化学毒剂、放射性物质或生物战剂气溶胶经呼吸道和眼侵入体内，并可避免头面部皮肤直接受到损伤的一种防毒面具。"
+  },
+  {
+   "cn": "中效空气过滤器",
+   "en": "medium efficiency air filter",
+   "source": "消毒学",
+   "wordNumber": "1.8.20.8",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对粒径≥0.5μm微粒的捕集效率<70%的过滤器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "pfander moritz geiger",
+ "term": "Pfänder Moritz Geiger",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:59:48+00:00",
+ "status": "ok",
+ "note": "variant=Pfänder Moritz Geiger; 审定公布名词库=384; 海峡两岸名词对照库=136; 其他来源数据库=19; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "莫里兹斯坦德流程",
+   "en": "Moritz-Standert process",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0429",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "采用立式混合机和立式回转化成机生产普钙，后来扩展到生产重过磷酸钙的一种工艺流程。"
+  },
+  {
+   "cn": "盖格计数器",
+   "en": "Geiger counter",
+   "source": "冶金学名词",
+   "wordNumber": "04.0652",
+   "subjectFullName": "冶金学_冶金物理化学_冶金物理化学研究方法",
+   "subjectName": "冶金物理化学研究方法",
+   "publishYear": "2019",
+   "definition": "β射线和γ射线强度测量仪。"
+  },
+  {
+   "cn": "盖革−努塔尔定律",
+   "en": "Geiger-Nuttall law",
+   "source": "核科学技术名词",
+   "wordNumber": "1.127",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "描述α衰变能E和衰变常数λ之间的变化规律，即lgλ=a1E−1/2+a2，其中a1和a2为常数。由H. Geiger和J. M. Nuttall于1911年提‍出。"
+  },
+  {
+   "cn": "盖革定位法",
+   "en": "Geiger location method",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0395",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "1912年盖革 (L. C. Geiger)提出的现在普遍采用的，运用地震波初至到时，通过高斯-牛顿法(一种最小二乘最优算法 )多次迭代逼近进行地震定位的方法。 "
+  },
+  {
+   "cn": "盖革-努塔尔定律",
+   "en": "Geiger-Nuttall law",
+   "source": "物理学名词",
+   "wordNumber": "09.0189",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒[计数]管",
+   "en": "Geiger-Müller tube",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.031",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "盖革-米勒计数器的探头。管内含有能淬灭的气体（如氩、氖或乙醇等），可以阻止电压在盖革区时的连续放电，以便再接受射线电离产生的离子，记录新的电脉冲。"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Müller counter",
+   "source": "物理学名词",
+   "wordNumber": "09.0721",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Müller counter",
+   "source": "核医学名词",
+   "wordNumber": "03.0165",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "以盖革-米勒方式工作的气体电离探测器。射线进入计数管电离气体，产生的电子在电场中加速，并使气体分子再次电离，不断重复产生次级电子、三级电子，最后形成雪崩式放大。此种工作方式气体放大倍数大，最终输出脉冲"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Müller counter",
+   "source": "化学名词",
+   "wordNumber": "06.0113",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "施加在其阳极和阴极间的电压应能保证其输出脉冲幅度与待测辐射沉积与其灵敏体积中的能量大小无关的一种气体计数器。"
+  },
+  {
+   "cn": "盖革–米勒区",
+   "en": "Geiger-Müller region",
+   "source": "计量学名词",
+   "wordNumber": "14.096",
+   "subjectFullName": "计量学_光学_粒子注量、电离探测器",
+   "subjectName": "粒子注量、电离探测器",
+   "publishYear": "2015",
+   "definition": "气体放大系数远大于 1，脉冲幅度实际上与单次电离事件在灵敏体积内，最初生成的离子对总数无关的计数管的电压区间。"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Müller counter",
+   "source": "电气工程名词",
+   "wordNumber": "26.114",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒区",
+   "en": "Geiger-Müller region",
+   "source": "电子学名词",
+   "wordNumber": "24.146",
+   "subjectFullName": "电子学_核电子学",
+   "subjectName": "核电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "盖革–米勒计数管",
+   "en": "Geiger-Müller counter tube",
+   "source": "计量学名词",
+   "wordNumber": "14.092",
+   "subjectFullName": "计量学_光学_粒子注量、电离探测器",
+   "subjectName": "粒子注量、电离探测器",
+   "publishYear": "2015",
+   "definition": "工作在盖革–米勒区的计数管。"
+  },
+  {
+   "cn": "盖革-米勒计数管",
+   "en": "Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "一种工作在盖革-米勒区的气体电离探测器。其优点是：① 灵敏度高，不论何种射线，只要在灵敏区能产生一对离子，便能引起放电而被记录。②输出脉冲幅度大，可达几伏甚至几十伏；一般不需放大就可被记录。③稳定性高"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Müller counter;GM counter",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0309",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "一种专门探测电离辐射（α粒子、β粒子、γ射线）强度的记数仪器。由充气的管或小室作探头，当向探头施加的电压达到一定范围时，射线在管内每电离产生一对离子，就能放大产生一个相同大小的电脉冲并被相连的电子装置"
+  },
+  {
+   "cn": "盖革-米勒计数管坪",
+   "en": "plateau of Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.307",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "在盖革-米勒计数管特征曲线上，计数率基本不随外加电压变化的电压工作区间。坪区长度与猝灭气体的性质和含量有关。有机管的坪长一般是150～300V；而卤素管约100V。为了延长计数管的寿命，盖革-米勒计数"
+  },
+  {
+   "cn": "自猝灭盖革-米勒计数管",
+   "en": "self-quenched Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.167",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "只靠所充的工作气体，而不需要任何其他措施就能猝灭的一种盖革-米勒计数管。"
+  },
+  {
+   "cn": "端窗盖革-米勒计数管",
+   "en": "end-window Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.165",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "一种有一根沿柱状阴极轴向放置的阳极丝，丝只固定一端，而另一端有一个薄入射窗的盖革-米勒计数管。主要用于α和β粒子的探测。"
+  },
+  {
+   "cn": "盖革-米勒计数管阈",
+   "en": "threshold of Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "使盖革-米勒计数管工作而应加的最低电压。它相当于计数管坪曲线上的起始电压。有机猝灭计数管的起始电压大约1000V，充<img src='/root/syzx/static/spz/fangshefan"
+  },
+  {
+   "cn": "盖革-米勒计数管特性曲线",
+   "en": "characteristic curve of Geiger-Müller counter tube",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.309",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "在其他参数不变条件下，盖革-米勒计数管的计数率与所加电压之间的关系曲线。坪曲线的主要参数是起始电压、坪斜和坪长。它是衡量计数管性能的重要指标。"
+  },
+  {
+   "cn": "埃格特",
+   "en": "Eggert\",\"Moritz(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "莫什科夫斯基",
+   "en": "Moszkowski\",\"Moritz(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "盖革计数器",
+   "en": "Geiger counter",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "盖革计数器(=盖革-米勒计数器)",
+   "en": "Geiger counter(=Geiger-M黮ler counter)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "柯本-盖格气候",
+   "en": "Köppen Geiger climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒计数器, 盖革计数器",
+   "en": "Geiger-Müller counter",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒区",
+   "en": "Geiger-M ller region",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-M黮ler counter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒［计数］管",
+   "en": "Geiger-M黮ler tube",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "赖纳，弗里茨",
+   "en": "Reiner\",\"Fritz(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "森田疗法",
+   "en": "Morita therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "桑色素",
+   "en": "morin",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "寻星镜",
+   "en": "finder",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "碰垫，靠把",
+   "en": "fender",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "护舷材",
+   "en": "fender",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "碰垫",
+   "en": "fender",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "除冰器",
+   "en": "deicer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "gender",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吸气剂",
+   "en": "getter",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "间歇泉",
+   "en": "geyser",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "京格尔",
+   "en": "Gienger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术分",
+   "en": "technical merit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测深仪",
+   "en": "depth finder",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "京格尔空翻",
+   "en": "Gienger salto",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分布式账本技术",
+   "en": "distributed ledger technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信贷台账系统",
+   "en": "credit ledger system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前踢后手翻",
+   "en": "gainer flic-flac",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别检查",
+   "en": "feminity control\",\"gender test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界账本",
+   "en": "World Wide Ledger (WWL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任人唯贤",
+   "en": "Appoint People Only on Their Merits",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双手背负投",
+   "en": "double-arm shoulder throw\",\"morote-seoi-nage\",\"two-armed shoulder throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《20173824-T-469 信息技术 区块链和分布式账本技术 参考架构》",
+   "en": "20173824-T-469 Information technology — Blockchain and distributed ledger technology — Reference architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Muller counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "一种专门探测电离辐射(α粒子、β粒子、γ射线)强度的计数仪器。由充气的管或小室作探头，当向探头施加的电压达到一定范围时，射线在管内每电离产生一对离子，就能放大产生一个相同大小的电脉冲并被相连的电子装置"
+  },
+  {
+   "cn": "盖格-米勒计数管",
+   "en": "Geiger-Muller counter tube",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "工作在盖革-米勒区的气体电离探测器，优点为灵敏度高、输出脉冲幅度大（几伏至几十伏）、无需放大可记录、稳定性高、电源要求低、低成本、便携；缺点是死时间为0～500μs，不适用高计数率测量。"
+  },
+  {
+   "cn": "盖革-米勒计数管坪",
+   "en": "plateau of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "在盖革-米勒计数管特征曲线上，计数率基本不随外加电压变化的电压工作区间。"
+  },
+  {
+   "cn": "盖革-米勒计数管死时间",
+   "en": "dead time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "盖革-米勒计数管从某一电离事件产生脉冲开始，对后继的电离事件不能响应的一段时间间隔。"
+  },
+  {
+   "cn": "盖革-米勒计数管恢复时间",
+   "en": "recovery time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "从一个被计数脉冲的起点，到它完全恢复到初始状态，并能对输入事件给出最大幅度脉冲所需要的时间。"
+  },
+  {
+   "cn": "森田治疗",
+   "en": "Morita therapy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.5.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "精神病学家森田正马（Morita Shoma，日本）创建的一种治疗神经症的方法。该方法是基于“顺应自然”的原理，主要特点是服从精神的自然状态，不问过去，只重视现实生活、以建设性行动为中心，通过行动改变"
+  },
+  {
+   "cn": "兼并",
+   "en": "merger",
+   "source": "马克思主义",
+   "wordNumber": "02.0165",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业兼并，是一个企业收买另外一个或几个企业的全部资产和部分资产经营权的一种资产转让方式。企业兼并的形式，主要有以下几种：（1）承担债务式；（2）购买式；（3）吸收股份式；（4）控股式。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "两性在社会文化的建构下形成的性别特征和差异, 即社会文化形成的对男女差异的理解, 以及在社会文化中形成的属于男性或女性的群体特征和行为方式。"
+  },
+  {
+   "cn": "社会性别",
+   "en": "gender",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0218",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类社会在人的生理差异基础上建构出的两性文化差异。"
+  },
+  {
+   "cn": "社会性别偏见",
+   "en": "gender bias",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0219",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对男性、女性及具有其他社会性别属性认同者持有某些固定的成见。"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别之间的差异。存在于生理结构和遗传因素中，也存在于社会环境和文化氛围中。女性主义认为它不是性别歧视的理由，不应导致性别不平等。"
+  },
+  {
+   "cn": "性别平等",
+   "en": "gender equality",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.7",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不因性别因素歧视他人或被他人歧视，不同性别间享有平等权利。通常包括不同性别在机会、过程和结果等不同方面的平等。"
+  },
+  {
+   "cn": "性别偏见",
+   "en": "gender bias",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.8",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "基于对性别的偏狭理解所导致的关于不同性别及其关系的不公正看法，通常与性别文化中形成的关于不同性别的刻板印象有关。"
+  },
+  {
+   "cn": "性别偏好",
+   "en": "gender preference",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "对于不同性别重此轻彼的选择性对待。可以发生在职场中，如服务性行业和岗位对女性的偏好。也可以发生在生育养育过程中，如常见的男孩偏好，即认定男婴或男孩的价值大于女婴或女孩。怀孕和生育过程中的性别偏好选择会"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "社会制度和文化规范中有关男女两性的不同分工和责任安排。比如多数社会中男性更多扮演公共的、养家糊口的角色，而女性更多扮演私人的、相夫教子的角色，由此决定了两性之间在家庭和社会中的不同地位。这种的角色分工"
+  },
+  {
+   "cn": "性别认同",
+   "en": "gender identity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "一个人对于社会所规定的自己所属性别的归属感和相应性别规范的接纳，以及对于共享性别标签的同类人群的认同。最典型的就是对于什么是男人和女人、以及自己是男人或女人中的一员的接受和认同。"
+  },
+  {
+   "cn": "性别意识",
+   "en": "gender consciousness",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "儿童伴随整个成长过程形成的关于自身性别的自我意识以及性别观念上的认知和预期，也指成人对于性别的自我认知和敏感度。在女性主义看来，也可以是人们对于社会性别概念的认识和理解。"
+  },
+  {
+   "cn": "性别意识形态",
+   "en": "gender ideology",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "大众文化中已上升为主流、占据主导地位的关于性别的认知和观念。包括性别规范中关于性别角色分工和价值地位的设定等，是推进性别平等或导致性别不平等的重要社会—文化因素。"
+  },
+  {
+   "cn": "性别关系",
+   "en": "gender relationship",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "不同性别在社会中的互动性、互动形态及特质等。受性别观念、制度和文化等多重因素影响。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

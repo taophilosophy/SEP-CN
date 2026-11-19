@@ -1,0 +1,752 @@
+{
+ "key": "word wissenschaft",
+ "term": "word Wissenschaft",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:46:28+00:00",
+ "status": "ok",
+ "note": "variant=word Wissenschaft; 审定公布名词库=1835; 海峡两岸名词对照库=526; 其他来源数据库=163; 预公布名词数据库=203; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0128",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "计算机和信息处理系统中，在存储、传送或操作时，作为一个单元的一组字符或一组二进制位。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "建筑学名词",
+   "wordNumber": "14.0787",
+   "subjectFullName": "建筑学_建筑设备与系统_弱电系统设备与智能设计",
+   "subjectName": "弱电系统设备与智能设计",
+   "publishYear": "2014",
+   "definition": "在计算机和信息处理系统中，在存储、传送或操作时，作为一个单元的一组字符。"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "source": "语言学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "能单独运用的最小的音义结合体。"
+  },
+  {
+   "cn": "词",
+   "en": "word",
+   "source": "语言学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "语言中最小的独立运用的语法单位。由语素构成。例如“吃”“参加”“大”“干净”“咖啡”“途径”“木头”“爸爸”。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "数学名词",
+   "wordNumber": "04.1854",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "未登录词",
+   "en": "unregistered word,unlisted word,unknown word",
+   "source": "语言学名词",
+   "wordNumber": "11.033",
+   "subjectFullName": "语言学_计算语言学_词处理",
+   "subjectName": "词处理",
+   "publishYear": "2011",
+   "definition": "词表中没有收录的词语。在汉语自动分词中通常指没有在分词底表中登录过的人名、地名、机构名、译名和新词语等。"
+  },
+  {
+   "cn": "词汇词",
+   "en": "lexical word,content word",
+   "source": "语言学名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "与“语法词”（即虚词）相对。具有词汇意义的词。"
+  },
+  {
+   "cn": "同类词",
+   "en": "class word,group word",
+   "source": "语言学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在语音、语义、结构、来源或构词材料等方面有某种联系的一组词。例如，表示颜色的同类词有“红”“黄”“橙”“青”“绿”等，表示文字的同类词有“象形文字”“意音文字”“拼音文字”等。"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "source": "语言学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "直接揭示所指事物的本质或属性的词。例如“电子计算机”（“电脑”属比喻说法）。"
+  },
+  {
+   "cn": "感情色彩词",
+   "en": "emotive word,affective word",
+   "source": "语言学名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "在理性意义上附加主观评价或感受等感情色彩的词。分为褒义词、贬义词和中性词三类。"
+  },
+  {
+   "cn": "逐词排列法",
+   "en": "word-by-word filing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以词为单位，按照单词的字母顺序，逐词排列的方法。"
+  },
+  {
+   "cn": "主题词",
+   "en": "thematic word",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.054",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "由受控词表规范地用于标引文献主题以便于检索的词。"
+  },
+  {
+   "cn": "热字",
+   "en": "hot word",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.157",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "一个或多个具有特殊标记的计算机字符，通过点击这些字符，切换到不同的信息内容或处理程序。"
+  },
+  {
+   "cn": "美德词",
+   "en": "virtue word",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.035",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "在政治话语中经常使用的一类词，使用抽象概念来发展对政治立场的支持。这些词语通常是没有清晰定义的术语，但试图给出含义清楚的印象。"
+  },
+  {
+   "cn": "引导词",
+   "en": "guide word",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.245",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "一种特定的用于描述对要素设计目的（意图）偏离的词或短语。"
+  },
+  {
+   "cn": "词聋",
+   "en": "word deafness",
+   "source": "精神医学名词",
+   "wordNumber": "03.376",
+   "subjectFullName": "精神医学_诊断分类_心理发育障碍",
+   "subjectName": "心理发育障碍",
+   "publishYear": "2019",
+   "definition": "口语的理解能力受损的一种发育障碍。通常可归因于优势大脑半球第一颞回接受听觉区域的损伤。纯粹的这种障碍是罕见的。"
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.257",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "在文献中仅起语法作用而无屈折变化、无实际意义的词语，如介词、冠词、连接词、代词、助动词等。它们不能反映或代表文献内容，分辨力很低甚至为零。一般作为停用词处理。"
+  },
+  {
+   "cn": "名词索引",
+   "en": "word index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.801",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "将文献中的名词或字作为标引词的索引。"
+  },
+  {
+   "cn": "款目词",
+   "en": "entry word",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.250",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "主题词表（主表）中作为词目名称出现的词。是词表排序和检索的依据。包括正式主题词和非正式主题词。"
+  },
+  {
+   "cn": "字词索引",
+   "en": "word index",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.819",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "逐一标引文献中所有字词的索引。又分为逐字索引和语词索引。逐字索引以文句中的每一个单字为索引款目标目，并在其下注明该文句的出处；语词索引则以文句中的每个词语为单位编制索引，并注明文句出处。"
+  },
+  {
+   "cn": "字",
+   "en": "word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "词盲",
+   "en": "word blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能词",
+   "en": "function word",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "字词联想",
+   "en": "word association",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键字",
+   "en": "key word",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保留字",
+   "en": "reserved word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词的使用度",
+   "en": "word usage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词频",
+   "en": "word frequency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词切分，分词",
+   "en": "word segmentation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单纯词",
+   "en": "simple word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合成词",
+   "en": "compound word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器字",
+   "en": "machine word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本词",
+   "en": "primary word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "码字",
+   "en": "code word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未登录词",
+   "en": "unlisted word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "译词选择",
+   "en": "word selection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效字",
+   "en": "significant word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词云",
+   "en": "word cloud",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词模型",
+   "en": "word  model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词义消歧",
+   "en": "word sense disambiguation (WSD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "词袋模型",
+   "en": "bag-of-words model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主文而谲谏",
+   "en": "Admonition Through Tactful Wording",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子一言，驷马难追",
+   "en": "A word spoken is a word that must be honored.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "清词丽句",
+   "en": "Refreshing Words and Exquisite Expressions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "木讷",
+   "en": "Simple and Sparing of Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言之无文，行而不远",
+   "en": "Lackluster Wording Never Travels Far.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无一字无来历",
+   "en": "No Word Is Without a Source.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心生而言立",
+   "en": "Words Flow Forth from the Heart.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗嘱",
+   "en": "dying word",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.04",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人在生前或临终时用口头或书面形式嘱咐身后各事应如何处理的话或字据。"
+  },
+  {
+   "cn": "同源词",
+   "en": "cognate word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "①亲属语言之间有语音对应规律的共同来源的词。例如古代汉语的ŋa（吾）、miuk（目）和古代藏语的ŋa（我）、miɡ（眼睛）是汉语和藏语的同源词。②同一语言内部由同一根词直接或间接派生出来的词。例如汉语"
+  },
+  {
+   "cn": "暗语",
+   "en": "code word",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.036",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "某些社会群体、行业集团或秘密组织出于隐蔽行为的特需而约定的秘密交际语。它的使用者不是黑话流行的黑社会，而是违法犯罪团伙之外的各种群体。"
+  },
+  {
+   "cn": "词语计数",
+   "en": "words count",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "某些单字或词在档案或文本中出现的次数。可以用来发现写作者用字或词的特征。"
+  },
+  {
+   "cn": "底层词",
+   "en": "substratum words",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0142",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "本地语言被外来语言取代后，遗留在外来语中的本地语成分。例如长江以南有许多古越语（与现代侗台语族语言有渊源关系的语言）的成分遗留在今粤、闽、吴等南方汉语方言中。"
+  },
+  {
+   "cn": "双词句阶段",
+   "en": "two-word stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从1.5岁左右开始说出由2-3个词组合起来的语句时期。此阶段婴幼儿词语大量增加，可脱离具体情境，把词与物体或动作联系起来，词语特有的功能初步形成。"
+  },
+  {
+   "cn": "藏汉对音",
+   "en": "Chinese transcription of the old Tibetan words",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0033",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "古文献中藏文对译汉语词语的语音，也可以指汉字对译藏语词语的语音。汉字为非表音文字，可通过表音的藏文与汉语词的对译，拟测当时汉语的语音。"
+  },
+  {
+   "cn": "朝汉对音",
+   "en": "Korean transcription of the borrowed Chinese words",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0032",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "朝鲜语中的汉语借词和谚文对译汉语词语的语音。汉字为非表音文字，可通过朝鲜语中汉语借词及谚文与汉语词的対译，拟测当时汉语的语音。"
+  },
+  {
+   "cn": "越汉对音",
+   "en": "Vietnamese transcription of the borrowed Chinese words",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0034",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "越南语中借入的汉语词语的语音。先秦到唐宋不同历史时期进入越南语的汉语借词语音，已经融入越南语的语音系统。"
+  },
+  {
+   "cn": "世界",
+   "en": "world",
+   "source": "马克思主义",
+   "wordNumber": "01.0018",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全部事物组成的统一的集合体，包括自然界、人类社会和思维。世界统一于物质，并处于永恒运动、变化和发展之中；世界是可以被认识的，但人类在特定历史条件下的认识无法穷尽世界。"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "广义指人类创造的一切事物的总和；狭义指个人参与或生活于其中，但又与之相对的人们有意义互动的范围。与“自然界”相对。"
+  },
+  {
+   "cn": "工作班组",
+   "en": "work group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在劳动分工的基础上，按照不同工艺要求或不同产品和管理工作的需要而划分的，从事生产和经营管理活动的企业最基层组织。"
+  },
+  {
+   "cn": "小世界",
+   "en": "small-world",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "网络分析中对陌生人之间距离的一种论述，认为现实社会中陌生人关系的距离比人们感受到的要近很多，其中最为典型的“六度分隔假设”认为，连接两个陌生人的最短连接数不超过6步，这在米尔格拉姆(Milgram）等"
+  },
+  {
+   "cn": "世界体系",
+   "en": "world-system",
+   "source": "社会学名词",
+   "wordNumber": "2.9.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_世界体系理论",
+   "subjectName": "世界体系理论",
+   "publishYear": "2025",
+   "definition": "大于任何从法律上定义的政治单位，具有特定范围、结构、成员集团、生命周期、合理规则和凝聚力的经济实体和社会体系。"
+  },
+  {
+   "cn": "社会工作",
+   "en": "social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "遵循以人为本、助人自助、平等公正的专业价值观，在社会服务及社会管理等领域，综合运用专业知识、技能和方法，帮助有需要的个人、家庭、群体和社区，整合社会资源，协调社会关系，预防和解决社会问题，促进社会稳定"
+  },
+  {
+   "cn": "个案工作",
+   "en": "case work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "以个人或家庭为对象（案主）的社会工作专业方法。"
+  },
+  {
+   "cn": "小组工作",
+   "en": "group work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作方法之一，是小组工作者按照一定的目标组织、通过小组过程和动力去影响小组组员的态度与行为，使其获得行为的改变、社会功能的恢复与发展、问题的解决的实务过程。"
+  },
+  {
+   "cn": "社区工作",
+   "en": "community work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "以社区和社区居民为基础和对象的社会工作方法及其过程。由专业社会工作者本着助人的价值观念和专业技艺，与其所服务的社区居民一起工作，推动与居民福利有关的社会行动的开展及社区方案的制定。通常认为其是社区组织"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "客观世界",
+   "en": "objective world",
+   "source": "马克思主义",
+   "wordNumber": "01.0168",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人们意识之外独立存在的物质世界，包括自然界和人类社会。客观世界是独立存在的，不依赖主观世界，并决定主观世界的内容和变化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

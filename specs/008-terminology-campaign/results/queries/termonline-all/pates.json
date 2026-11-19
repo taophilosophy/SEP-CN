@@ -1,0 +1,22 @@
+{
+ "key": "pates",
+ "term": "pâtes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:43:49+00:00",
+ "status": "ok",
+ "note": "variant=pâtes; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "“动手做”活动",
+   "en": "“La main à la pâte”program",
+   "source": "教育学名词",
+   "wordNumber": "05.129",
+   "subjectFullName": "教育学_比较教育_法国教育",
+   "subjectName": "法国教育",
+   "publishYear": "2013",
+   "definition": "由法国科学家于1994年发起的科学教育计划。通过一系列有组织的活动，加强小学的自然科学教育，让儿童在活动中认识自己的潜力，发挥主动性和创造性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

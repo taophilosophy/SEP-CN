@@ -1,0 +1,32 @@
+{
+ "key": "marczyk wronski",
+ "term": "Marczyk Wroński",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:51:33+00:00",
+ "status": "ok",
+ "note": "variant=Marczyk Wroński; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "朗斯基行列式准则",
+   "en": "criterion via Wronski determinant",
+   "source": "数学名词",
+   "wordNumber": "06.0043",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "马齐",
+   "en": "Martzy\",\"Johanna(匈牙利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

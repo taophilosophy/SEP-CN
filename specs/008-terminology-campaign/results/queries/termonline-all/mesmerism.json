@@ -1,0 +1,122 @@
+{
+ "key": "mesmerism",
+ "term": "mesmerism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:54:55+00:00",
+ "status": "ok",
+ "note": "variant=mesmerism; 审定公布名词库=6; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "条件等色",
+   "en": "metamerism",
+   "source": "精细化工名词",
+   "wordNumber": "05.0359",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "两个样品在一种特定光源下等色，但分别具有不同的反射光谱曲线和透射光谱曲线的现象。"
+  },
+  {
+   "cn": "同色异谱",
+   "en": "metamerism",
+   "source": "光学名词",
+   "wordNumber": "01.286",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "物体在特定照明和观察条件下，不同的光谱看似同样颜色的光学现象。"
+  },
+  {
+   "cn": "分节[现象]",
+   "en": "metamerism",
+   "source": "动物学名词",
+   "wordNumber": "5.0016",
+   "subjectFullName": "动物学_无脊椎动物学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "在胚胎发生过程中，躯体沿前-后轴分成若干节段的变化。从环节动物开始出现真正分节现象。"
+  },
+  {
+   "cn": "同色异谱指数",
+   "en": "metamerism index",
+   "source": "光学名词",
+   "wordNumber": "05.115",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "用具有不同相对光谱分布(或灵敏度)的测试照明体(或观察者)代替参照照明体(或观察者)而计算得到的色差来表示颜色失配程度的指数。"
+  },
+  {
+   "cn": "同律分节",
+   "en": "homonomous metamerism",
+   "source": "动物学名词",
+   "wordNumber": "5.0017",
+   "subjectFullName": "动物学_无脊椎动物学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "动物躯体由多个体节组成，这些体节（除最前2节和最末1节外）在形态、结构和功能上是基本相同的分节现象。从环节动物开始出现。"
+  },
+  {
+   "cn": "异律分节",
+   "en": "heteronomous metamerism",
+   "source": "动物学名词",
+   "wordNumber": "5.0018",
+   "subjectFullName": "动物学_无脊椎动物学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "动物躯体由多个体节组成，不同部位的体节在形态、结构和功能是不同的分节现象。有的明确分为头部、胸部和腹部三部分，有的头部与胸部愈合，分头胸部与腹部两个体区，有的只分头和躯干。从节肢动物开始出现。"
+  },
+  {
+   "cn": "催眠术",
+   "en": "hypnotism\",\"mesmerism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分节",
+   "en": "metamerism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分节",
+   "en": "metamerism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "同律分节",
+   "en": "homonomous metamerism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "异律分节",
+   "en": "heteronomous metamerism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

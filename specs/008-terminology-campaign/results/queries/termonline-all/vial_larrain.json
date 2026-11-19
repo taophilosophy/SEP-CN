@@ -1,0 +1,642 @@
+{
+ "key": "vial larrain",
+ "term": "Vial Larraín",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:50:18+00:00",
+ "status": "ok",
+ "note": "variant=Vial Larraín; 审定公布名词库=311; 海峡两岸名词对照库=72; 其他来源数据库=21; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "计数瓶",
+   "en": "counting vial",
+   "source": "电子学名词",
+   "wordNumber": "24.159",
+   "subjectFullName": "电子学_核电子学",
+   "subjectName": "核电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "瓶子充填加塞和封口机",
+   "en": "vial-filling-stoppering-sealing machine",
+   "source": "药学名词",
+   "wordNumber": "02.412",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "可连续进行玻瓶灌封、加塞和封口的设备。"
+  },
+  {
+   "cn": "拨号盘",
+   "en": "dial",
+   "source": "通信科学技术名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "通信科学技术_通信终端",
+   "subjectName": "通信终端",
+   "publishYear": "2007",
+   "definition": "在自动电话机上，由人工加以操作，发出电话号码的每位数字的部件。"
+  },
+  {
+   "cn": "度盘",
+   "en": "dial",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.063",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_天平仪器_机械天平零部件及附件",
+   "subjectName": "机械天平零部件及附件",
+   "publishYear": "2003",
+   "definition": "载有一个或多个标尺的固定的或可动的指示装置部件。"
+  },
+  {
+   "cn": "拨号盘",
+   "en": "dial",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0083",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "硅铝层",
+   "en": "sial",
+   "source": "地质学名词",
+   "wordNumber": "01.018",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain,vital dye",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.114",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "可使活细胞呈染色反应的物质。如中性红、尼罗兰。某些染色剂对细胞器染色的具有选择性，如詹纳斯绿可专一性地使线粒体着色。"
+  },
+  {
+   "cn": "标度盘",
+   "en": "scale,dial",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.121",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表",
+   "subjectName": "汽车仪表",
+   "publishYear": "2013",
+   "definition": "标有刻度线、数字或符号的仪表盘。"
+  },
+  {
+   "cn": "病毒性肠炎",
+   "en": "viral enteritis",
+   "source": "普通外科学名词",
+   "wordNumber": "19.100",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "由多种病毒引起的急性肠道炎症性疾病。临床特点为起病急、恶心、呕吐、腹痛、腹泻，排水样便或稀便，也可有发热及全身不适等症状，病程短，病死率低。"
+  },
+  {
+   "cn": "病毒性肝炎",
+   "en": "viral hepatitis",
+   "source": "普通外科学名词",
+   "wordNumber": "20.134",
+   "subjectFullName": "医学_普通外科学_肝外科",
+   "subjectName": "肝外科",
+   "publishYear": "2026",
+   "definition": "由嗜肝病毒引起的感染性肝脏炎症。以肝细胞损伤、炎性浸润为特征，可进展为肝纤维化、肝硬化或肝细胞癌。"
+  },
+  {
+   "cn": "病毒性脑炎",
+   "en": "viral encephalitis",
+   "source": "神经外科学名词",
+   "wordNumber": "13.002",
+   "subjectFullName": "医学_神经外科学_中枢神经系统感染性疾病",
+   "subjectName": "中枢神经系统感染性疾病",
+   "publishYear": "2026",
+   "definition": "病毒直接侵犯脑实质引起的脑炎。主要临床表现为脑实质损害和颅内压增高相关症状，如发热、头痛、呕吐、抽搐等，严重者出现昏迷甚至危及生命。"
+  },
+  {
+   "cn": "病毒性睾丸炎",
+   "en": "viral orchitis",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "06.079",
+   "subjectFullName": "性腺疾病_男性内分泌及相关疾病_男性内分泌相关疾病",
+   "subjectName": "男性内分泌相关疾病",
+   "publishYear": "2025",
+   "definition": "由病毒感染引起的一种继发性男性生殖器疾病。多见于腮腺炎病毒、柯萨奇B组病毒及淋巴脉络丛脑膜炎病毒等感染。能引起睾丸的软化和萎缩，如累及双侧可致男性不育。"
+  },
+  {
+   "cn": "病毒载体",
+   "en": "viral vector",
+   "source": "农学名词",
+   "wordNumber": "15.216",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "由病毒序列构建的遗传物质运载工具。将遗传物质，如有研究价值的基因，携带进入靶细胞，使其在靶细胞中表达，以此来研究基因功能、进行基因治疗、开发疫苗和蛋白类药物等。"
+  },
+  {
+   "cn": "病毒性心肌炎",
+   "en": "viral myocarditis",
+   "source": "急救医学名词",
+   "wordNumber": "03.812",
+   "subjectFullName": "急救医学_日常医学急救_儿科学_儿科急症",
+   "subjectName": "儿科急症",
+   "publishYear": "2025",
+   "definition": "病毒感染引起的心肌本身的炎症病变。主要由柯萨奇病毒A组、柯萨奇病毒B组、埃可病毒B组、脊髓灰质炎病毒B组、流行性感冒病毒和人类免疫缺陷病毒等引起。"
+  },
+  {
+   "cn": "病毒性脑炎",
+   "en": "viral encephalitis",
+   "source": "急救医学名词",
+   "wordNumber": "03.822",
+   "subjectFullName": "急救医学_日常医学急救_儿科学_儿科急症",
+   "subjectName": "儿科急症",
+   "publishYear": "2025",
+   "definition": "病毒直接侵入脑实质引起的脑炎。病理特点为局部脑组织有炎症细胞浸润、胶质结节形成及包涵体形成等。临床表现为发热、癫痫、精神行为异常及各种神经系统局灶症状和体征。影像学可见脑组织有局灶性病灶。脑脊液白细胞"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "急救医学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "维持生命存在的最基础的体征。通常指呼吸、脉搏、血压、体温、血氧饱和度等。"
+  },
+  {
+   "cn": "病原病毒",
+   "en": "viral pathogen",
+   "source": "农学名词",
+   "wordNumber": "10.018",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "由RNA或DNA及蛋白质等组成、专营细胞内感染和复制，且结构简单的微生物。"
+  },
+  {
+   "cn": "病毒性肝炎",
+   "en": "viral hepatitis",
+   "source": "肝病学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "肝病学_感染性肝病_病毒性肝炎",
+   "subjectName": "病毒性肝炎",
+   "publishYear": "2024",
+   "definition": "由多种肝炎病毒引起的以肝脏炎症和坏死病变为主的一组传染病。常见嗜肝病毒性肝炎有甲、乙、丙、丁、戊五型。主要表现为乏力、食欲减退、恶心、呕吐、肝大及肝功能损害，部分患者可有黄疸和发热。有些患者可慢性化，"
+  },
+  {
+   "cn": "生命冲动",
+   "en": "lan vital",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "作为精神性本原的生命意志的观点。由柏格森提出和描述。认为生命是带有强烈行动意志色彩的精神力量即意识和“创造需要”。其不受任何原因和条件限制，是完全偶然、盲目的冲动。这种冲动是一切有机体的本质和生物进化"
+  },
+  {
+   "cn": "病毒基因组",
+   "en": "viral genome",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0058",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "一个病毒所携带的所有遗传物质的总和。可以是DNA，也可以是RNA，但两者并不共存于同一病毒中。"
+  },
+  {
+   "cn": "计数瓶",
+   "en": "counting vial",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衍生化反应小管",
+   "en": "derivatizing reaction vial",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圆水准器",
+   "en": "spherical level vial\",\"circular level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "瓶子充填加塞封口机",
+   "en": "vial filling-stoppering-sealing machine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中提琴",
+   "en": "viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "维奥尔琴",
+   "en": "viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "度盘",
+   "en": "dial",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硅铝层",
+   "en": "sial",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "极重要",
+   "en": "vital",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain\",\"vital dye",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拨号",
+   "en": "dialing\",\"DIAL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活染红",
+   "en": "vital red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital dye",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "软膜漏斗",
+   "en": "pial funnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "软膜鞘",
+   "en": "pial sheath",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "刻度盘湿度计",
+   "en": "dial hygrometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刻度盘温度计",
+   "en": "dial thermometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同心刻度盘",
+   "en": "concentric dial",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刻度盘指示器",
+   "en": "dial indicator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "低音维奥尔琴",
+   "en": "bass viol",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精气",
+   "en": "Vital Energy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病毒性肺炎",
+   "en": "viral pneumonia",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拨号使用控制",
+   "en": "dial-up access control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元气",
+   "en": "Yuanqi / Fundamental Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气质之性",
+   "en": "Character Endowed by Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六气",
+   "en": "Six Forms of Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网票据理财",
+   "en": "on-bill financing via Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天地之气",
+   "en": "The Qi (Vital Force) of Heaven and Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阴阳之气",
+   "en": "The Qi (Vital Force) of Yin and Yang",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四抗二平衡：“四抗”，第一是抗病毒；第二是抗休克；第三是抗低氧血症；第四是抗继发感染。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“二平衡”，即维持水电解质、酸碱平衡以及维持微生态平衡。",
+   "en": "combined use of anti-viral, anti-shock, anti-hypoxemia medication, and measures to prevent secondary infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病毒性关节炎",
+   "en": "viral arthritis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.16.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_感染性关节炎",
+   "subjectName": "感染性关节炎",
+   "publishYear": "2025",
+   "definition": "一种非侵蚀性、非进展性关节炎症。表现为关节肿胀，腱鞘炎等，可引起关节炎的病毒有：乙型肝炎和丙型肝炎，人类免疫缺陷病毒、人类细小病毒B19､肠病毒登革病毒、甲型肝炎、流行性腮腺炎、风疹病毒、巨细胞病毒、"
+  },
+  {
+   "cn": "病毒性腹泻",
+   "en": "viral diarrhea",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热带",
+   "subjectName": "热带",
+   "publishYear": "2025",
+   "definition": "一组由多种病毒引起的，以恶心、呕吐、腹痛、腹泻、水样便为主要表现的急性胃肠道感染性疾病。"
+  },
+  {
+   "cn": "镭表盘描涂工",
+   "en": "radium watch-dial painters",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象",
+   "subjectName": "研究对象",
+   "publishYear": "2025",
+   "definition": "特指1916年～1926年在美国镭公司设在新泽西州等工厂中使用含镭放射性发光涂料描绘表盘等数字的美国年轻女工。总人数在4000人左右。工作中她们摄入了大量镭。镭致骨肉瘤索赔抗争在保健物理和职业性肿瘤赔"
+  },
+  {
+   "cn": "病毒性生物战剂",
+   "en": "viral biological warfare agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "在战争中用来伤害人、畜或毁坏农作物的由病毒类致病微生物制成的生物战剂。"
+  },
+  {
+   "cn": "皮肤吸收",
+   "en": "absorption via the skin",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.28",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经皮肤进入体液的过程。"
+  },
+  {
+   "cn": "伤口吸收",
+   "en": "absorption via the wound",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.29",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经伤口进入体液的过程。"
+  },
+  {
+   "cn": "醋酸染色裸眼观察",
+   "en": "visual inspection with acetic acid, VIA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "为宫颈癌筛查的初筛方法之一。通过在子宫颈表面涂抹5%醋酸溶液，观察子宫颈有无醋白反应，来判断子宫颈有无病变及病变程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

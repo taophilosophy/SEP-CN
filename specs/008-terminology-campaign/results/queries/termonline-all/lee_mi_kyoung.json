@@ -1,0 +1,772 @@
+{
+ "key": "lee mi-kyoung",
+ "term": "Lee Mi-Kyoung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:52:30+00:00",
+ "status": "ok",
+ "note": "variant=Lee Mi-Kyoung; 审定公布名词库=656; 海峡两岸名词对照库=175; 其他来源数据库=67; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "李[政道]模型",
+   "en": "Lee model",
+   "source": "物理学名词",
+   "wordNumber": "09.1249",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "source": "大气科学名词",
+   "wordNumber": "05.255",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "气流越过山脉时，在背风坡产生的波动。"
+  },
+  {
+   "cn": "惰锚",
+   "en": "lee anchor",
+   "source": "航海科技名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "密本",
+   "en": "mi ben",
+   "source": "档案学名词",
+   "wordNumber": "07.01.080",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代上奏文书。清代臣民上书皇帝的题奏本章和上书摄政王多尔衮的启本中，事涉机密者用密本。清初奏折广泛应用以前，凡臣子密查密报也用密本。"
+  },
+  {
+   "cn": "皇甫谧",
+   "en": "Huangfu Mi",
+   "source": "中医药学名词",
+   "wordNumber": "02.108",
+   "subjectFullName": "中医药学_医史文献_医家",
+   "subjectName": "医家",
+   "publishYear": "2004",
+   "definition": "魏晋间医学家。撰《针灸甲乙经》等。"
+  },
+  {
+   "cn": "套印不准",
+   "en": "mis register",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.014",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "在多色印刷过程中，不同色版的图像位置相对误差超过规定的范围。"
+  },
+  {
+   "cn": "杨李边",
+   "en": "Yang-Lee edge",
+   "source": "物理学名词",
+   "wordNumber": "05.1042",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "李-凯斯勒方程",
+   "en": "Lee-Kesler equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0136",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "在皮策（Pitzer）对比态原理的基础上，提出的三参数对比态方程。用于预测流体热力学性质。"
+  },
+  {
+   "cn": "李杨理论",
+   "en": "Lee-Yang theory",
+   "source": "物理学名词",
+   "wordNumber": "05.1041",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "侯–李模型",
+   "en": "Ho-Lee model",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0129",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "通过给定的期限结构，推导无套利下期限结构随机变动的金融产品定价模型。"
+  },
+  {
+   "cn": "心肌梗死",
+   "en": "myocardial infarction,MI",
+   "source": "病理学名词",
+   "wordNumber": "09.047",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "冠状动脉供血急剧减少或中断，使相应的心肌严重而持续性缺血所致的心肌缺血性坏死。"
+  },
+  {
+   "cn": "检修停电",
+   "en": "maintenance interruption,MI",
+   "source": "电力名词",
+   "wordNumber": "25.143",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "按检修计划要求安排的停电。按管辖范围的界限,有内部和外部两种情况。"
+  },
+  {
+   "cn": "设备完整性",
+   "en": "mechanical integrity,MI",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.029",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "设备正确地设计、建造、安装及正常地运行，在使用年限内符合预期用途和功能，是安全性、可靠性、维修性等设备特性的综合。"
+  },
+  {
+   "cn": "成熟指数",
+   "en": "maturation index,MI",
+   "source": "计划生育名词",
+   "wordNumber": "03.182",
+   "subjectFullName": "计划生育_计划生育临床_诊断_女性部分",
+   "subjectName": "女性部分",
+   "publishYear": "2019",
+   "definition": "通过计算底层不成熟细胞和中层、表层细胞的百分率获得的指数。阴道细胞学卵巢功能检查最常用的一种。是在低倍显微镜下观察300个鳞状上皮细胞，求得各层细胞的百分率，并按底层/中层/表层顺序写出，如底层5、中"
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information,MI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0607",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "源自信息论，度量两个随机变量之间依赖关系强弱的统计量，或者说描述了一个随机变量中所蕴含的有关另一个随机变量的信息量。"
+  },
+  {
+   "cn": "故障指示器",
+   "en": "malfunction indicator,MI",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0904",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "当连接于车载诊断系统的与排放相关的任何零部件或车载诊断系统本身发生故障时，能清楚地提示汽车驾驶员的一种可视的指示器。"
+  },
+  {
+   "cn": "有丝分裂指数",
+   "en": "mitotic index,MI",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.089",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "一个细胞群体中正在进行有丝分裂的细胞的百分数。"
+  },
+  {
+   "cn": "管理信息",
+   "en": "management information,MI",
+   "source": "通信科学技术名词",
+   "wordNumber": "06.066",
+   "subjectFullName": "通信科学技术_运行、维护与管理",
+   "subjectName": "运行、维护与管理",
+   "publishYear": "2007",
+   "definition": "一种通过管理接入点的信号。"
+  },
+  {
+   "cn": "心肌梗死",
+   "en": "myocardial infarction,MI",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.155",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "环境矿物学",
+   "en": "environmental mi-neralogy",
+   "source": "地质学名词",
+   "wordNumber": "03.01.009",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "从矿物学角度揭示环境污染的实质与过程，针对污染体系的特点，运用某些矿物的特殊性质，对环境进行治理、修复和保护的矿物学分支学科。"
+  },
+  {
+   "cn": "背风波",
+   "en": "lee wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背风槽",
+   "en": "lee trough",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背风面",
+   "en": "lee side",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背风坡低压",
+   "en": "lee depression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背风旋生",
+   "en": "lee cyclogenesis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "惰锚",
+   "en": "lee anchor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下风岸",
+   "en": "lee shore",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下风舷",
+   "en": "lee side",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "预备舵工",
+   "en": "lee helmsman",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "利斯",
+   "en": "Lees\",\"Benjamin(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "山岳背风波",
+   "en": "mountain lee wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中尺度背风[坡]涡旋",
+   "en": "mesoscale lee vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "李-布特效应",
+   "en": "Lee Boot effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂指数",
+   "en": "mitotic index\",\"MI",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有丝分裂指数",
+   "en": "mitotic index\",\"MI",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "送给咪的诗",
+   "en": "Poèmes pour Mi",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Messiaen, Olivier"
+  },
+  {
+   "cn": "管理信息系统",
+   "en": "management information system\",\"MIS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "管理信息系统",
+   "en": "management information system\",\"MIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "米勒管抑制物",
+   "en": "Müllerian tube inhibitor substance， MIS",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "金属-绝缘体-半导体太阳电池",
+   "en": "metal-isolator-semiconductor solar cell，MIS solar cell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let\",\"let service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发！",
+   "en": "Let!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重发球",
+   "en": "let",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重发球！",
+   "en": "Let!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告一次！",
+   "en": "Kyong-go hana!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绊",
+   "en": "leg grappling\",\"leg sweep\",\"leg trip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆动腿",
+   "en": "free leg\",\"swinging leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "leg\",\"relay",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "warn\",\"kyong-go\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腿全旋",
+   "en": "leg circle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前导腿",
+   "en": "leading leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳赛段",
+   "en": "swim leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横风航程",
+   "en": "reaching leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏横步",
+   "en": "leg-yielding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踢腿",
+   "en": "kick the leg\",\"stomp the leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预试七人",
+   "en": "Sad mi bdun",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0578",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名词，又译七觉士，指藏族历史上第一批随寂护出家的七名藏族僧人，即巴赛囊（益西旺波）、桑希、毗卢遮那、甲哇却洋、毗鲁易旺波、玛仁钦却、藏勒珠等。"
+  },
+  {
+   "cn": "糟渍菜",
+   "en": "pickled vegetable with lees",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.34",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "以蔬菜咸坯为原料，用酒糟或醪糟经糟渍加工而成的蔬菜制品。"
+  },
+  {
+   "cn": "米拉日巴",
+   "en": "Mi la ras pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0406",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1040 年—1123 年）藏传佛教著名人物。是藏族历史上最著名的修行大师和密法大成就者。俗名米拉日巴・脱巴噶，法名协巴多杰。生于后藏贡塘地方（今西藏吉隆县北部）。1078 年投从大译师玛尔巴门下，"
+  },
+  {
+   "cn": "辛饶•米沃且",
+   "en": "Gshen rabs mi bo che",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0511",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族苯教祖师，与释迦牟尼同时代，生于象雄魏摩隆仁。其一生有12 件大事：讲苯典、弘苯教、调众生、引度众、主国政、神变嗣、降妖魔、果道兴、成道明、断轮回、证解脱、终成就。82 岁时于九层雍仲山巅，水兔年"
+  },
+  {
+   "cn": "吞弥桑布扎",
+   "en": "Thon mi sam bho Ta",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0418",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族著名历史人物，吐蕃王朝松赞干布的大臣，藏文的创制者。公元7 世纪上半叶，他遵赞普松赞干布之命创制了藏文。其一生对藏族语言、文法等颇有研究。著有《三十颂论》及《文字变化法则》等8 部著作，并翻译佛经"
+  },
+  {
+   "cn": "道德规范十六条",
+   "en": "Mi chos gtsang ma so drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0445",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏学名词。是吐蕃赞普松赞干布为吐蕃民众制定的道德规范条文，其内容如下：1 敬信三宝；2.求修正法；3.报父母恩；4.尊重；5 敬贵尊老；6.利济乡邻；7.直言小心；8.义深亲友；9.追踪上流，远虑高瞻"
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "青年德意志派",
+   "en": "Young  German school",
+   "source": "马克思主义",
+   "wordNumber": "04.0292",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代产生于德国的一个文学团体“青年德意志”的代表，海涅和白尔尼对这一团体有很大的影响。青年德意志派观点的特点是思想上不成熟和政治上不坚定。他们之中的大多数人很快就堕落成为庸俗的资产阶级自由"
+  },
+  {
+   "cn": "蜂花粉",
+   "en": "bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.6",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集植物花粉后，与花蜜及分泌的唾液混合酿制形成的团粒或人工粉碎加工形成的粉末。"
+  },
+  {
+   "cn": "蜂产品",
+   "en": "bee products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "蜜蜂生殖繁衍活动中形成的各种具有营养和药用价值的产品，如蜂蜜、蜂花粉、蜂胶、蜂王浆、蜂蛹等。"
+  },
+  {
+   "cn": "全联盟列宁共产主义青年团",
+   "en": "AllUnion Leninist Young Communist League",
+   "source": "马克思主义",
+   "wordNumber": "04.0435",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "该组织于1918年10月29日创立，时称“俄国共产主义青年团”，1926年3月改为该称，简称共青团。它是苏联青年群众性的社会政治组织，是苏联共产党的积极助手和后备军。其组织章程规定，凡年满14—28岁"
+  },
+  {
+   "cn": "身材匀称",
+   "en": "trunk-leg ratio",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "身体上部（顶臀长、坐高）与身长（高）的比值，反映下肢的生长情况。"
+  },
+  {
+   "cn": "单一品种蜂花粉",
+   "en": "monofloral bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.7",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集一种植物的花粉形成的蜂花粉。"
+  },
+  {
+   "cn": "混合蜂花粉",
+   "en": "multifloral bee pollen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.8",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "工蜂采集两种以上植物的花粉形成的蜂花粉，或两种以上单一品种蜂花粉的混合物。"
+  },
+  {
+   "cn": "摄政",
+   "en": "Rgyal tshab/srid skyong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0541",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "原西藏地方政府官职，俗称“藏王”，1757 年七世达赖喇嘛示寂，乾隆皇帝赐予格鲁派丹吉林第穆六世呼图克图“诺们罕”的名号，命其代理达赖喇嘛的职务，由此开西藏摄政之先河。"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "幼儿配方乳粉",
+   "en": "milk powder formula for young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品和（或）大豆及大豆蛋白制品为主要蛋白来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的产品。适用于幼儿食用，其能量和营养成分能满足正常12~36 月龄幼儿的部"
+  },
+  {
+   "cn": "港人治港",
+   "en": "Hong Kong people governing Hong Kong",
+   "source": "马克思主义",
+   "wordNumber": "04.0168",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在1997年中国政府恢复对香港行使主权，设立香港特别行政区后，由香港的中国人来治理香港。其界限和标准，就是必须由以爱国者为主体的港人来治理香港。这是邓小平于20世纪80年代提出的解决香港问题新构想。"
+  },
+  {
+   "cn": "贝若杂纳",
+   "en": "Bee ro tsa na",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0384",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教著名人物。吐蕃赤松德赞时期的著名大译师，公元8 世纪人，出生于前藏尼木地方。著名的译著有《甘露精义八支密诀》、《药诊诸种要诀》、《月王药诊》等，并撰写有《四续释难明灯》和《词义注释》等论著。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,432 @@
+{
+ "key": "libra astronomica filosofica",
+ "term": "Libra astronómica filosófica",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:51:02+00:00",
+ "status": "ok",
+ "note": "variant=Libra astronómica filosófica; 审定公布名词库=91; 海峡两岸名词对照库=116; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "纵旋纹",
+   "en": "lira",
+   "source": "古生物学名词",
+   "wordNumber": "02.0739",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "壳表上旋向的细线纹。"
+  },
+  {
+   "cn": "图书馆学",
+   "en": "library science;librar ianship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.01.011",
+   "subjectFullName": "编辑与出版学_综论_编辑与出版学相关学科",
+   "subjectName": "编辑与出版学相关学科",
+   "publishYear": "2022",
+   "definition": "研究图书馆事业的产生和发展，文献资料的组织管理、服务及图书馆工作规律的学科。"
+  },
+  {
+   "cn": "天文年历",
+   "en": "astronomical ephemeris,astronomical almanac",
+   "source": "测绘学名词",
+   "wordNumber": "02.269",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "刊登天体位置和天象及有关数据的一种定期出版物。"
+  },
+  {
+   "cn": "消息传递库",
+   "en": "message passing libr-ary,MPL",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0181",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "支持消息传递并行程序设计的函数库。"
+  },
+  {
+   "cn": "天象景观",
+   "en": "astronomical landscape",
+   "source": "风景园林名词",
+   "wordNumber": "05.0217",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "由天文、气象等因素所造成的一类可供观赏的奇特自然现象。"
+  },
+  {
+   "cn": "[天文]观测",
+   "en": "astronomical observation",
+   "source": "天文学名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "借助肉眼、辐射聚集装置和探测器件对宇宙中各种天体和天象进行观察、记录、测量和分析研究的统称。"
+  },
+  {
+   "cn": "天文经度",
+   "en": "astronomical longitude",
+   "source": "天文学名词",
+   "wordNumber": "02.081",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "过地球表面上一点的子午线与格林尼治子午线所交的球面角。"
+  },
+  {
+   "cn": "天文纬度",
+   "en": "astronomical latitude",
+   "source": "天文学名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "过地球上一点的铅垂线与赤道平面的交角。"
+  },
+  {
+   "cn": "天文三角形",
+   "en": "astronomical triangle",
+   "source": "天文学名词",
+   "wordNumber": "02.092",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "由天极、天顶和天球上一点所构成的球面三角形。"
+  },
+  {
+   "cn": "天文日",
+   "en": "astronomical day",
+   "source": "天文学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "从正午开始计量的平太阳日。曾于 1925年以前应用。"
+  },
+  {
+   "cn": "天文单位",
+   "en": "astronomical unit",
+   "source": "天文学名词",
+   "wordNumber": "02.235",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "天文常数系统中定义的空间距离单位。其长度等于 149 597 870 700m，接近日地平均距离。"
+  },
+  {
+   "cn": "天文年历",
+   "en": "astronomical almanac",
+   "source": "天文学名词",
+   "wordNumber": "03.099",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "按年度出版，反映本年度内主要天体运动规律和发生的天象，载有天文和大地测量工作所需的各种基本天文数据的专门历书。"
+  },
+  {
+   "cn": "天文晨昏蒙影",
+   "en": "astronomical twilight",
+   "source": "天文学名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "太阳中心在地平下 18° 时称为天文晨光始或天文昏影终。从天文晨光始到日出或从日没到天文昏影终的一段时间称为天文晨昏蒙影。"
+  },
+  {
+   "cn": "天文光学",
+   "en": "astronomical optics",
+   "source": "天文学名词",
+   "wordNumber": "04.263",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "涉及天文望远镜及其他各种天文仪器的光学系统的成像原理、像差优化、元件工艺等的学科。"
+  },
+  {
+   "cn": "天文望远镜",
+   "en": "astronomical telescope",
+   "source": "天文学名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "收集天体辐射并能确定辐射源方向的天文观测装置。通常指有聚光和成像功能的天文光学望远镜。"
+  },
+  {
+   "cn": "天文干涉仪",
+   "en": "astronomical interferometer",
+   "source": "天文学名词",
+   "wordNumber": "06.350",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由两个或多个望远镜、光收集单元或天线组成信号干涉阵列的天文观测系统，可获得与阵列的最长基线相对应的高角分辨率。"
+  },
+  {
+   "cn": "天文光谱学",
+   "en": "astronomical spectroscopy",
+   "source": "光学名词",
+   "wordNumber": "01.253",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "研究天体目标的辐射光谱的光谱学学科分支。包括天体光谱学和多普勒光谱学。"
+  },
+  {
+   "cn": "天文望远镜",
+   "en": "astronomical telescope",
+   "source": "光学名词",
+   "wordNumber": "20.067",
+   "subjectFullName": "光学_显微镜与望远镜",
+   "subjectName": "显微镜与望远镜",
+   "publishYear": "2021",
+   "definition": "观察天体用的望远镜。"
+  },
+  {
+   "cn": "天文定标",
+   "en": "astronomical calibration",
+   "source": "光学名词",
+   "wordNumber": "21.048",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "利用天文星体对在轨遥感器进行的辐射通量定标或光谱定标的过程。"
+  },
+  {
+   "cn": "天文水准",
+   "en": "astronomical leveling",
+   "source": "测绘学名词",
+   "wordNumber": "02.210",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "用天文大地垂线偏差推算两点间的大地水准面高差或高程异常差的方法。"
+  },
+  {
+   "cn": "天文观测",
+   "en": "astronomic observation\",\"astronomical measurement",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "独立带",
+   "en": "free band\",\"tenia libera",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "天文年历",
+   "en": "astronomical ephemeris\",\"astronomical almanac",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "天文年历",
+   "en": "astronomical ephemeris\",\"astronomical almanac\",\"A.E.",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文曙暮光",
+   "en": "astronomical twilight",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观象台",
+   "en": "[astronomical] observatory",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天体分光光度测量",
+   "en": "astronomical spectrophotometry",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文常数",
+   "en": "astronomical constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文晨昏蒙影",
+   "en": "astronomical twilight",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文垂线",
+   "en": "astronomical vertical",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文底片",
+   "en": "astronomical plate",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文点",
+   "en": "astronomical point",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文电报",
+   "en": "astronomical telegram",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[天文]观测",
+   "en": "[astronomical] observation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文光行差",
+   "en": "astronomical aberration",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文光学",
+   "en": "astronomical optics",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文经度",
+   "en": "astronomical longitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文日",
+   "en": "astronomical day",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文三角形",
+   "en": "astronomical triangle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文时",
+   "en": "astronomical time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天秤币",
+   "en": "Libra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天象",
+   "en": "astronomical phenomena",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统天文学的主要内容，主要观测对象有太阳出没、行星运动、月相变化、彗星、流星、流星雨、陨星、日食、月食、极光、新星、超新星、月掩星、太阳黑子等。中国早在距今三四千年前就注意观测和记录天象，此后历代"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

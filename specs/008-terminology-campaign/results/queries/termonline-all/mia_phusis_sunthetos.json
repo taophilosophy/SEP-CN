@@ -1,0 +1,642 @@
+{
+ "key": "mia phusis sunthetos",
+ "term": "mía phúsis súnthetos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:50:02+00:00",
+ "status": "ok",
+ "note": "variant=mía phúsis súnthetos; 审定公布名词库=450; 海峡两岸名词对照库=63; 其他来源数据库=15; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "淬火pH",
+   "en": "quenching pH",
+   "source": "地质学名词",
+   "wordNumber": "13.05.065",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "由高温高压流体快速降到常温常压下时所测定的pH。由于溶液不具完全的淬火性，这种在室温和常压下测定的pH与高温高压热液的真实pH会存在一定差别。"
+  },
+  {
+   "cn": "土壤pH",
+   "en": "soil pH",
+   "source": "农学名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "与土壤固相处于平衡状态的土壤溶液中氢离子活度的负对数。是表征土壤酸碱度的重要指标。"
+  },
+  {
+   "cn": "最适pH",
+   "en": "optimum pH",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0042",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "在特定条件下，酶显示最大活性时的pH。"
+  },
+  {
+   "cn": "精液pH",
+   "en": "semen pH;ejaculate pH",
+   "source": "男科及性医学名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "男科及性医学_男性生殖系统疾病诊断",
+   "subjectName": "男性生殖系统疾病诊断",
+   "publishYear": "2023",
+   "definition": "反映射出体外的精液中，不同附属性腺分泌液间酸碱平衡后的pH。主要反映碱性的精囊腺分泌液和酸性的前列腺分泌液之间的酸碱平衡。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0200",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "一定浓度的肥料水溶液的氢离子浓度的负对数。"
+  },
+  {
+   "cn": "土壤pH",
+   "en": "soil pH ",
+   "source": "草学名词",
+   "wordNumber": "6.0016",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "蛋pH",
+   "en": "pH of egg",
+   "source": "畜牧学名词",
+   "wordNumber": "06.459",
+   "subjectFullName": "畜牧学_畜产品与加工_蛋_蛋的性质",
+   "subjectName": "蛋的性质",
+   "publishYear": "2020",
+   "definition": "禽蛋可食部分的酸碱性。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "电力名词",
+   "wordNumber": "12.242",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "表示水溶液呈酸性或碱性及其强度的水中氢离子[<img src='/root/syzx/static/spz/dianli3.12.242.01.png'/>]浓度的负对数,水的pH=7时为中性,pH>"
+  },
+  {
+   "cn": "pH记忆",
+   "en": "pH memory",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0461",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品酶工程",
+   "subjectName": "食品酶工程",
+   "publishYear": "2020",
+   "definition": "将酶分子从水溶液转移到有机溶剂中，酶能保持原有的离子化状态，此时的环境因素也不能改变酶分子的这种状态。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "呼吸病学名词",
+   "wordNumber": "11.102",
+   "subjectFullName": "呼吸病学_体液、电解质与酸碱平衡_酸碱平衡",
+   "subjectName": "酸碱平衡",
+   "publishYear": "2018",
+   "definition": "氢离子浓度的负对数，即pH=<img src='/root/syzx/static/spz/huxibing1.11.102.01.png'/>。反映血液的酸碱度，动脉血的正常值范围为7.35~7.4"
+  },
+  {
+   "cn": "pH试纸",
+   "en": "pH test paper",
+   "source": "核医学名词",
+   "wordNumber": "03.0108",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_辅助设备",
+   "subjectName": "辅助设备",
+   "publishYear": "2018",
+   "definition": "用定量化学试剂(甲基红、溴甲酚绿和百里酚蓝)浸渍中性白色试纸制成的比色纸条。用于测定溶液pH。"
+  },
+  {
+   "cn": "土壤pH",
+   "en": "soil pH",
+   "source": "林学名词",
+   "wordNumber": "02.222",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "土壤溶液中氢离子浓度的负对数。"
+  },
+  {
+   "cn": "pH试纸",
+   "en": "pH paper",
+   "source": "化学名词",
+   "wordNumber": "03.0099",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "检验溶液酸碱性的试纸。pH试纸按测量精度可分0.2级、0.1级、0.01级或更高精度。"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter,acidometer",
+   "source": "化学名词",
+   "wordNumber": "03.1559",
+   "subjectFullName": "化学_分析化学_仪器分析_电化学分析",
+   "subjectName": "电化学分析",
+   "publishYear": "2016",
+   "definition": "用于测定溶液pH值的仪器。"
+  },
+  {
+   "cn": "pH标度",
+   "en": "pH scale",
+   "source": "计量学名词",
+   "wordNumber": "15.077",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "在(0~14) pH 范围内，规定几种 pH 标准溶液作为基准点，用规定的仪器和方法复现这些基准点的 pH 值的过程。"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "source": "计量学名词",
+   "wordNumber": "15.335",
+   "subjectFullName": "计量学_化学_化学测量仪器",
+   "subjectName": "化学测量仪器",
+   "publishYear": "2015",
+   "definition": "以玻璃电极为指示电极，甘汞电极为参比电极，根据电位法原理测定溶液 pH 值的仪器。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "建筑学名词",
+   "wordNumber": "14.1035",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "溶液中氢离子(H+)浓度倒数的常用对数值(即pH=-lg[H+])。pH值是表示溶液酸碱程度的一项指标，pH < 7时为酸性溶液；pH=7时为中性溶液；pH > 7时为碱性溶液。水的pH值在0~14。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "大气科学名词",
+   "wordNumber": "04.048",
+   "subjectFullName": "大气科学_大气化学",
+   "subjectName": "大气化学",
+   "publishYear": "2009",
+   "definition": "氢离子浓度指数，表示氢离子浓度的一种方法。它等于水溶液中氢离子浓度的常用对数的负值，即pH=－log[H+]，pH值在1～14。pH值大于7，溶液呈碱性，pH值小于7，溶液呈酸性。pH值越大(越小)，"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "生态学名词",
+   "wordNumber": "16.120",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水的pH值为水中氢离子活度的负对数值。表示在一定温度条件下水溶液酸性或碱性的强度。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "05.014",
+   "subjectFullName": "机械工程_仪器仪表_分析仪器_电化学式分析仪器_电化学式分析仪器一般名词",
+   "subjectName": "电化学式分析仪器一般名词",
+   "publishYear": "2003",
+   "definition": "表示氢离子活度的量。用水溶液中氢离子的活度，常用对数的负值表示，通常在１至１４之间。ｐＨ值等于７时溶液呈中性,ｐＨ值大于７时溶液呈碱性，ｐＨ值小于７时溶液呈酸性。"
+  },
+  {
+   "cn": "pH控制",
+   "en": "pH control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter\",\"acidometer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "pH试纸",
+   "en": "pH paper",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最适pH",
+   "en": "optimum pH",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最适pH",
+   "en": "optimum pH",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "木材pH值",
+   "en": "pH value of wood",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "膜pH梯度",
+   "en": "membrane pH gradient",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "pH敏感器",
+   "en": "pH sensor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "pH分配假说",
+   "en": "pH-partition hypothesis",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "pH电极",
+   "en": "pH electrode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定化pH梯度",
+   "en": "immobilized pH gradient\",\"IPG",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "pH计， 酸度计",
+   "en": "pH meter",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海水pH",
+   "en": "seawater pH",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "酸度计(=pH计)",
+   "en": "[]",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "pH玻璃电极",
+   "en": "pH glass electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "pH敏感电极",
+   "en": "pH-sensitive electrode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海水pE-pH图",
+   "en": "pE-pH figure of seawater",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马艳红",
+   "en": "Ma Yanhong",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真舍身技",
+   "en": "ma-sutemi-waza\",\"rear sacrifice technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定溶液酸碱度的仪器。"
+  },
+  {
+   "cn": "pH值影响试验",
+   "en": "pH influence test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "评价pH值对消毒剂杀菌作用的影响，为制定消毒剂的实用剂量提供参考的试验。"
+  },
+  {
+   "cn": "卡西人",
+   "en": "Khasis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0032",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。人口约为67 万（2001 年）。主要分布在梅加拉亚邦和阿萨姆邦。属蒙古人种南亚类型，兼有尼格罗—澳大利亚人种维达类型的特征。操卡西语，属南亚语系卡西语族。信仰上多神信仰和祖先崇拜盛行，"
+  },
+  {
+   "cn": "核物理学",
+   "en": "nuclear physics",
+   "source": "放射卫生学",
+   "wordNumber": "1.8",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "全称“原子核物理学”。研究原子核的相互作用和转化、原子核的组成和结构规律，射线束的获得、探测和分析技术，以及同核能、核技术应用有关的物理问题。是一门既有深刻理论意义又有重大实践意义的学科。"
+  },
+  {
+   "cn": "退役阶段",
+   "en": "decommissioning phases",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.17",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "从持续的时间上对退役活动所作的划分。"
+  },
+  {
+   "cn": "世俗化命题",
+   "en": "secularization thesis",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "世俗化是在哲学、神学、社会科学等领域广泛使用的颇具争议性的概念，涂尔干、马克斯•韦伯等经典社会学家和彼得·伯格（Peter L.Berger）、托马斯·卢克曼（Thomas Luckmann）等诸多当"
+  },
+  {
+   "cn": "帕西人",
+   "en": "Parsee，Parsis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0046",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。 人口约为6 万（2014 年）。集中生活在印度孟买市及周边地带，班加罗尔和巴基斯坦的喀拉蚩也有分布。属欧罗巴人种印度地中海类型。操古吉拉特语，属印欧语系印度语族。帕西人信拜火教。为波斯"
+  },
+  {
+   "cn": "显微镜下多血管炎",
+   "en": "microscopic polyangiitis，MPA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种主要累及小血管的系统性坏死性血管炎，可侵犯肾脏、皮肤和肺等脏器的小动脉、微动脉、毛细血管和微小静脉。常表现为坏死性肾小球肾炎和肺毛细血管炎。ANCA阳性率约80%。"
+  },
+  {
+   "cn": "肌炎特异性自身抗体",
+   "en": "myositis specific autoantibodies, MSA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "与特发性炎性肌病发病相关的一组自身抗体。具有高度的特异性，可用于定义IIM的疾病亚型，预测其发展和治疗反应。"
+  },
+  {
+   "cn": "肌炎相关性自身抗体",
+   "en": "myositis associated autoantibodies,MAA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "特发性炎性肌病有关的一类自身抗体，特异性不高，也存在于其他自身免疫病中，如抗核抗体，抗Ro-52抗体等。"
+  },
+  {
+   "cn": "手动负压吸引术",
+   "en": "manual vacuum aspiration, MVA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "使用一次性手动负压吸引器和双窗吸管终止10周以内早孕的人工流产方法。使用本方法在手术中不需要常规扩张宫颈及吸宫后不需要常规刮匙搔刮宫腔，从而提高手术的安全性，减少手术的风险和痛苦。"
+  },
+  {
+   "cn": "作用模式",
+   "en": "mode of action, MOA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物在机体不同层次生物学水平发生作用的关键事件和过程，包括外源化学物进入机体与细胞生物分子交互作用开始、由证据权重支持可能导致毒性终点的一组事件。"
+  },
+  {
+   "cn": "最小可探测活度",
+   "en": "minimum detectable activity，MDA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平（一般取95%）能探测到的被测量样品或介质中放射性的最小活度（通常高于本底）。有时被称作活度的探测限或探测下限。"
+  },
+  {
+   "cn": "最小有效活度",
+   "en": "minimum significant activity，MSA",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "在给定的置信水平下，与本底有显著性区别的放射性活度值。"
+  },
+  {
+   "cn": "喇嘛",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0466",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏语 bla-ma 之汉语音译，意为上人、上师、师长、导师。藏语中“喇嘛”有别于一般僧人，是对高僧和导师的尊称，与称作“扎巴”的一般僧人有别。喇嘛相当于梵语guru （古鲁），意即师匠、师范，为古代印"
+  },
+  {
+   "cn": "度母",
+   "en": "Sgrol ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0447",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语，全称圣救度佛母，为观世音菩萨所化现之身。在藏传佛教中则是观世音菩萨悲泪所化现的女性佛母。藏传佛教所有教派极为崇信度母，被认为是由阿弥陀佛之右手放光化现。在汉传佛教中，称为“多罗观自在菩萨"
+  },
+  {
+   "cn": "上师",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0485",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏传佛教对具有高德胜行、堪为世人轨范者之尊称，密宗中又作金刚上师。藏语称为“喇嘛”（bla-ma）。藏传佛教中将合格上师及善知识视为修行成就的必备条件。认为不依上师引导，则不知有佛；不从"
+  },
+  {
+   "cn": "伏藏",
+   "en": "Gter ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0449",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。指西藏古代为后世存留并隐藏起来的密宗经典（或法器等），主要是莲花生大士及其弟子益西措嘉在8 世纪时在西藏各地埋藏，分“地伏藏”和“意伏藏”，发掘人被称为掘藏师。《西藏度亡经》、《大宝伏藏"
+  },
+  {
+   "cn": "迪昂-诺伊拉特-蒯因命题",
+   "en": "Duhem-Neurath-Quine thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由P. 迪昂（P. Duhem）、O. 诺伊拉特（O. Neurath）、W. V. 蒯因（W. V. Quine）等分别独立提出。认为无法单独地检验一个科学假设的真假，因为经验检验需要多个背景假设。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

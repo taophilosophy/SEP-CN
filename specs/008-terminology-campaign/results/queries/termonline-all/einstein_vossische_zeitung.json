@@ -1,0 +1,412 @@
+{
+ "key": "einstein' vossische zeitung",
+ "term": "Einstein’ Vossische Zeitung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:56:56+00:00",
+ "status": "ok",
+ "note": "variant=Einstein’ Vossische Zeitung; 审定公布名词库=93; 海峡两岸名词对照库=23; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "新莱茵报",
+   "en": "Neue Rheinische Zeitung",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.121",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_媒体组织",
+   "subjectName": "媒体组织",
+   "publishYear": "2022",
+   "definition": "马克思和恩格斯创办的共产主义者同盟机关报，被视为第一家无产阶级的日报。1848年6月1日至1849年5月19日在普鲁士王国科隆市出版了301期。马克思为主编，恩格斯等七位同盟成员为编辑。"
+  },
+  {
+   "cn": "爱因斯坦天文台",
+   "en": "Einstein Observatory",
+   "source": "天文学名词",
+   "wordNumber": "06.646",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "为高能天文台系列卫星中的第二号(HEAO-2)，安装有直径60cm的多层重叠的掠射式X射线望远镜。发射于1978年11月，为纪念爱因斯坦而命名。"
+  },
+  {
+   "cn": "爱因斯坦十字状类星体",
+   "en": "Einstein cross",
+   "source": "天文学名词",
+   "wordNumber": "07.338",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一个源(如类星体)经过引力透镜作用后形成的十字形四重影像。"
+  },
+  {
+   "cn": "爱因斯坦半径",
+   "en": "Einstein radius",
+   "source": "天文学名词",
+   "wordNumber": "07.349",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "爱因斯坦环的半径。有时虽然不实际形成爱因斯坦环，但仍可根据公式估算此半径并应用数值在引力透镜计算中。"
+  },
+  {
+   "cn": "爱因斯坦弧",
+   "en": "Einstein arc",
+   "source": "天文学名词",
+   "wordNumber": "07.350",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "引力透镜效应使观测到的光源形状改变呈环形的一部分。"
+  },
+  {
+   "cn": "爱因斯坦环",
+   "en": "Einstein ring",
+   "source": "天文学名词",
+   "wordNumber": "07.351",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "引力透镜效应形成的环状像。"
+  },
+  {
+   "cn": "爱因斯坦张量",
+   "en": "Einstein tensor",
+   "source": "天文学名词",
+   "wordNumber": "07.616",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由里奇张量、标量张量及度规张量组成，在爱因斯坦场方程中描述了时空的曲率，由物质能量动量张量决定。"
+  },
+  {
+   "cn": "爱因斯坦系数",
+   "en": "Einstein coefficient",
+   "source": "光学名词",
+   "wordNumber": "04.119",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "自发跃迁概率和受激吸收跃迁概率、受激发射跃迁概率与外部辐射场单色能量密度的比例系数的总称。"
+  },
+  {
+   "cn": "爱因斯坦关系",
+   "en": "Einstein relation",
+   "source": "光学名词",
+   "wordNumber": "04.120",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "分子运动论中，分子扩散系数与分子迁移率之间存在的正比关系。其比例系数与温度和玻尔兹曼常量有关。由爱因斯坦在1905年和斯莫卢霍夫斯基(Marian Smoluchowski)在1906年分别独立发现。"
+  },
+  {
+   "cn": "爱因斯坦定律",
+   "en": "Einstein law",
+   "source": "光学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "光学_发光学",
+   "subjectName": "发光学",
+   "publishYear": "2021",
+   "definition": "光电阴极受光照所产生的光电子初能量与入射光的频率成正比，与入射光的强度无关。"
+  },
+  {
+   "cn": "爱因斯坦频率",
+   "en": "Einstein frequency",
+   "source": "物理学名词",
+   "wordNumber": "08.1435",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦同步",
+   "en": "Einstein synchronization",
+   "source": "物理学名词",
+   "wordNumber": "06.0048",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦温度",
+   "en": "Einstein temperature",
+   "source": "物理学名词",
+   "wordNumber": "08.1436",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦关系",
+   "en": "Einstein relation",
+   "source": "物理学名词",
+   "wordNumber": "05.0840",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦温度",
+   "en": "Einstein temperature",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0533",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "为了解释固体的热容计算而引入的一个物理量。"
+  },
+  {
+   "cn": "爱因斯坦系数",
+   "en": "Einstein coefficient",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.427",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_激光器件和激光设备_激光器件和激光设备一般名词",
+   "subjectName": "激光器件和激光设备一般名词",
+   "publishYear": "2003",
+   "definition": "自发跃迁概率和受激发吸收跃迁概率、受激发射跃迁概率与外部辐射场单色能量密度的比例系数的总称。"
+  },
+  {
+   "cn": "爱因斯坦方程",
+   "en": "Einstein equation",
+   "source": "数学名词",
+   "wordNumber": "06.0448",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通告周刊",
+   "en": "Avisa Relation oder Zeitung",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "1609年由德国人卢卡斯·舒尔特(Lucas Schulte)在德国刊行的世界上最早的期刊。"
+  },
+  {
+   "cn": "爱因斯坦场方程",
+   "en": "Einstein field equation",
+   "source": "天文学名词",
+   "wordNumber": "07.614",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由爱因斯坦最早导出的定量描述时空曲率与物质能量动量关系的二阶张量微分方程。"
+  },
+  {
+   "cn": "爱因斯坦-希尔伯特拉格朗日量",
+   "en": "Einstein-Hilbert Lagrangian",
+   "source": "天文学名词",
+   "wordNumber": "07.615",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在广义相对论里通过最小作用量法则可以用它导出爱因斯坦场方程。"
+  },
+  {
+   "cn": "爱因斯坦温度",
+   "en": "Einstein temperature",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦弧",
+   "en": "Einstein arc",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦环",
+   "en": "Einstein ring",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦十字",
+   "en": "Einstein cross",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦系数",
+   "en": "Einstein coefficient",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦",
+   "en": "Einstein\",\"Alfred(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "玻色-爱因斯坦分布",
+   "en": "Bose-Einstein distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "玻色-爱因斯坦统计",
+   "en": "Bose-Einstein statistics",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "玻色-爱因斯坦分布",
+   "en": "Bose-Einstein distribution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦天文台",
+   "en": "Einstein Observatory\",\"HEAO-2",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沙滩上的爱因斯坦",
+   "en": "Einstein on the Beach",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Philip Glass"
+  },
+  {
+   "cn": "爱因斯坦-德西特宇宙",
+   "en": "Einstein-de Sitter universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "爱因斯坦-德西特宇宙模型",
+   "en": "Einstein-de Sitter cosmological model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内含肽",
+   "en": "intein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含肽",
+   "en": "intein",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "归巢内含肽",
+   "en": "homing intein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "米尔斯坦",
+   "en": "Milstein\",\"Nathan(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伯恩斯坦",
+   "en": "Bernstein\",\"Leonard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "EB病毒",
+   "en": "Epstein-Barr virus， EBV",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内含肽",
+   "en": "intein\",\"internal protein fragment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

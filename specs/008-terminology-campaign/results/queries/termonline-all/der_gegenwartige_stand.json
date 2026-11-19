@@ -1,0 +1,742 @@
+{
+ "key": "der gegenwartige stand",
+ "term": "Der gegenwärtige Stand",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:56:27+00:00",
+ "status": "ok",
+ "note": "variant=Der gegenwärtige Stand; 审定公布名词库=980; 海峡两岸名词对照库=379; 其他来源数据库=49; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "风景园林名词",
+   "wordNumber": "12.0074",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "树种组成、林冠层次、年龄、郁闭度、起源等内部数据基本相同，而与周围森林有明显区别的一片具体森林。常作为确定森林经营措施的依据，不同的林分需要釆取不同的经营措施。"
+  },
+  {
+   "cn": "群落地段",
+   "en": "stand",
+   "source": "植物学名词",
+   "wordNumber": "13.0204",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "明显区别于周边地段，而内部群落特征相对一致的一个植物群落类型的一块具体地段。当这个植物群落类型指一个群丛类型时，这个群落地段就称“群丛个体(associationindividual)”或“个体植物群"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "林学名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "内部特征大体一致，而与邻近地段又有明显区别的一片树林。"
+  },
+  {
+   "cn": "林分",
+   "en": "stand",
+   "source": "资源科学技术名词",
+   "wordNumber": "11.070",
+   "subjectFullName": "资源科学技术_森林资源学",
+   "subjectName": "森林资源学",
+   "publishYear": "2008",
+   "definition": "指群落内部结构特征相同，并与四周邻接部分有显著区别的森林。"
+  },
+  {
+   "cn": "立根",
+   "en": "stand",
+   "source": "石油名词",
+   "wordNumber": "05.0074",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "暂停",
+   "en": "standing",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "社会民主党人报",
+   "en": "Der Sozialdemokrat",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.122",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_媒体组织",
+   "subjectName": "媒体组织",
+   "publishYear": "2022",
+   "definition": "德国社会主义工人党(1890年改称社会民主党)机关报。1879年9月28日至1890年9月27日先后在苏黎世、伦敦每周出版。最初几期由格·福尔马尔主编，随后由爱·伯恩施坦主编到报纸自动停刊。马克思和恩"
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop;standing stock",
+   "source": "动物学名词",
+   "wordNumber": "7.0543",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统特定时刻全部活有机体的个体数量、重量（狭义的生物量）或含能量。现存的个体数量以N表示，现存的生物量以B表示。"
+  },
+  {
+   "cn": "灯架",
+   "en": "light stand",
+   "source": "风景园林名词",
+   "wordNumber": "11.0277",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "用来承托照明或装饰灯具的架子。"
+  },
+  {
+   "cn": "待命",
+   "en": "stand by",
+   "source": "急救医学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "急救医学_急救质控_院前急救质控_急救时间质控",
+   "subjectName": "急救时间质控",
+   "publishYear": "2025",
+   "definition": "急救人员随时可以接受急救调度指挥中心的指令并执行急救任务的准备状态。包括站内待命和途中待命。"
+  },
+  {
+   "cn": "LED支架",
+   "en": "LED stand",
+   "source": "光学名词",
+   "wordNumber": "10.423",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "对LED起支撑、导电和导热作用的金属片构件。"
+  },
+  {
+   "cn": "机座刚度",
+   "en": "stand rigidity",
+   "source": "冶金学名词",
+   "wordNumber": "09.1335",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "轧机机座承受由轧制力产生弹性变形的能力。一般用机座刚度系数来表示，其物理意义是使机座产生1mm弹性变形所需的轧制力。"
+  },
+  {
+   "cn": "群落地段结构",
+   "en": "stand structure",
+   "source": "植物学名词",
+   "wordNumber": "13.0205",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "一个具体群落地段的群落结构。"
+  },
+  {
+   "cn": "林分信息",
+   "en": "stand information",
+   "source": "林学名词",
+   "wordNumber": "06.332",
+   "subjectFullName": "林学_森林经理_森林资源信息管理",
+   "subjectName": "森林资源信息管理",
+   "publishYear": "2016",
+   "definition": "反映林分特征的数据、图像和文件等。"
+  },
+  {
+   "cn": "林分生长量",
+   "en": "stand growth",
+   "source": "林学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分的直径、树高和材积依年龄增加而产生的增长的数量。通常多指材积生长量。"
+  },
+  {
+   "cn": "林龄",
+   "en": "stand age",
+   "source": "林学名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分的年龄。"
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "林学名词",
+   "wordNumber": "06.046",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林木群体各组成成分的空间和时间分布格局。包括组成结构、水平结构、垂直结构和年龄结构。主要决定于树种组成、林分密度、林木配置和树木年龄等。"
+  },
+  {
+   "cn": "林况调查",
+   "en": "stand description",
+   "source": "林学名词",
+   "wordNumber": "06.255",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "查明森林的现状如森林植物区系、森林结构和成林状态等，作为施业法和收获调整的基础，同时也是作为将来决定树种、作业法、轮伐期的资料。"
+  },
+  {
+   "cn": "单层林分",
+   "en": "uniform stand",
+   "source": "林学名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "明显地只有一个林冠层的林分。"
+  },
+  {
+   "cn": "林分表",
+   "en": "stand table",
+   "source": "林学名词",
+   "wordNumber": "06.175",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "按照树种、胸径或树高级分类系统表示林木株数频数的数表。"
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "林分",
+   "en": "stand\",\"forest stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "玫瑰骑士",
+   "en": "Rosenkavalier\",\"Der",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "市长",
+   "en": "Corregidor\",\"Der",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wolf, Hugo"
+  },
+  {
+   "cn": "胡桃树",
+   "en": "Nussbaum\",\"Der",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schumann, Robert"
+  },
+  {
+   "cn": "吉卜赛男爵",
+   "en": "Der Zigeunerbaron",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss Jr., Johann (Ⅱ)"
+  },
+  {
+   "cn": "剧院经理",
+   "en": "Der Schauspieldirektor",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "侏儒",
+   "en": "Der Zwerg",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop\",\"standing yield\",\"standing stock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "现存[产]量",
+   "en": "standing yield\",\"standing stock",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "现存量",
+   "en": "standing crop\",\"standing stock",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疏林林分",
+   "en": "open stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭林分,密闭林分",
+   "en": "closed stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分密度",
+   "en": "stand density",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯林分",
+   "en": "pure stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混交林分",
+   "en": "mixed stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分气候",
+   "en": "stand climate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "林分结构",
+   "en": "stand structure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "站在池中",
+   "en": "stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "stance\",\"stand\",\"standing position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正立",
+   "en": "facial stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧立",
+   "en": "side stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚尖站立",
+   "en": "toe stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判台",
+   "en": "officials’ stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领奖台",
+   "en": "victory stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船架",
+   "en": "boat stand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立姿",
+   "en": "standing position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站立摔",
+   "en": "standing wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站立式起跑",
+   "en": "standing start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体排名",
+   "en": "team standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原地出发",
+   "en": "standing start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静索",
+   "en": "standing rigging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高姿势",
+   "en": "high standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低姿势",
+   "en": "low standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间位置",
+   "en": "middle standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立技",
+   "en": "standing technique\",\"standing throw\",\"tachi-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阶级立场",
+   "en": "class stand",
+   "source": "马克思主义",
+   "wordNumber": "01.0223",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映一定阶级的利益和要求的根本态度。在阶级社会里，人们的阶级立场取决于本人所属的阶级在社会经济结构中的地位。影响一个人的阶级立场有多种复杂的因素，不能以阶级成分、家庭出身为主要依据，而应判明他的思想、"
+  },
+  {
+   "cn": "朗达玛",
+   "en": "Glang dar ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.04",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "吐蕃末代赞普。旧译达磨。838 年为反佛贵族大臣杰刀热等拥立，下令禁止佛教，封闭寺院强迫僧众还俗，焚毀佛教经典。842 年被佛教僧人拉垅贝多暗杀。其死后，吐蕃统治集团分裂，奴隶、属民起义，吐蕃政权灭亡"
+  },
+  {
+   "cn": "致泻大肠埃希氏菌",
+   "en": "diarrheagenic escherichia coli, DEC",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.12",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一类能引起人体以腹泻症状为主的大肠埃希氏菌，主要包括肠道致病性大肠埃希氏菌、肠道侵袭性大肠埃希氏菌、产肠毒素大肠埃希氏菌、产志贺毒素大肠埃希氏菌和肠道集聚性大肠埃希氏菌。"
+  },
+  {
+   "cn": "数据包络分析",
+   "en": "data envelopment analysis，DEA",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "一种评价生产或服务组织之间相对效率的非参技术效率分析方法。"
+  },
+  {
+   "cn": "《白史》",
+   "en": "Deb ther dkar po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0376",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名著，根敦群培（1903-1951 年）著。作者首次利用敦煌藏文写卷和汉文史料，系统研究和考证了藏文的产生、藏族的族源、地名、服饰、风俗等古代藏族的经济、政治、文化等问题。"
+  },
+  {
+   "cn": "后弘期佛教",
+   "en": "Bstan pa phyi dar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0523",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族史名词。公元九世纪中叶，吐蕃王朝末代赞普朗达玛实行禁佛，经过约一个世纪的“黑暗时代”，佛教从安多（青海）地区和阿里地区进入卫藏地区并得以复兴，从安多传入的路经被称为“下路弘传”，从阿里传入的路经被"
+  },
+  {
+   "cn": "前弘期佛教",
+   "en": "Bstan pa snga dar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0524",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族史名词。公元7 世纪初叶至9 世纪中叶，佛教在藏地经历了初传、发展、兴盛，直至衰败的一个周期，藏族史将其称为“前弘期”。朗达玛赞普（814 年—842 年）即位后，采取种种措施毁灭佛教，朗达玛被弑"
+  },
+  {
+   "cn": "《红史》",
+   "en": "Deb ther dmar po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0344",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族佛教历史名著。噶举派著名学者蔡巴•贡噶多杰（1309 年—1364 年）著，成书於1346年，全书分26 章，有诸多异本。作者运用大量史料，对印、汉、藏等民族历史作了概要性的论述。重点记述了吐番王"
+  },
+  {
+   "cn": "DNA双链断裂",
+   "en": "DNA double-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中两条互补链于同一对应处或紧密相邻处同时断裂。"
+  },
+  {
+   "cn": "DNA单链断裂",
+   "en": "DNA single-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中有一条链断裂。"
+  },
+  {
+   "cn": "班禅额尔德尼",
+   "en": "Pan chen Aer te ni",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0438",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派活佛转世系统称号，“班禅”意为大学者，“额尔德尼”意为“宝师”。其名称始于1583 年，格鲁派高僧罗桑确吉坚赞被认定是罗桑顿珠的转世，1645 年固始汗赠其“班禅博克多”（智之意）称号，"
+  },
+  {
+   "cn": "《新红史》",
+   "en": "Deb ther dmar po gsar ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0374",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "全称《王统幻化之钥新红史》。藏族历史名著，班钦·索南查巴（1478—1544）著，成书于1538 年。全书分印度王统、香跋拉王统、汉地历代帝王更迭史、蒙古王统、西夏王统、吐蕃王统、宋明时期西藏各地方封"
+  },
+  {
+   "cn": "《西藏王臣记》",
+   "en": "Deb ther dpyid kyi rgyal mo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0371",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名著，第五世达赖喇嘛阿旺罗桑嘉措著，成书于1643 年，较详细地介绍了吐蕃王朝历史及元明时期西藏出现的萨迦政权和帕木竹巴政权以及建立西藏甘丹颇章政权的历史。"
+  },
+  {
+   "cn": "内镜自动清洗消毒机",
+   "en": "automatic washer-disinfector for endoscope, automated endoscope reprocessor，AER",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "使用化学消毒方式对软式内镜进行清洗和消毒的自动化设备。"
+  },
+  {
+   "cn": "《青史》",
+   "en": "Bod-kyi yul-du chos-dang chos-smra-ba ji-ltarbyung-bavi rim-pa Deb-ther sngon-po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0297",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全称《青史佛教教法源流》。成书于明成化十二年（1476）。记述了西藏佛教传播的历史，是一部重要的藏族历史文献，作者为古代藏族著名翻译家、大学者管·宣奴贝（vgos lo-tsav-ba gzhon-n"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

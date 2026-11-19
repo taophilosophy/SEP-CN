@@ -1,0 +1,282 @@
+{
+ "key": "arousalism",
+ "term": "arousalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:43:14+00:00",
+ "status": "ok",
+ "note": "variant=arousalism; 审定公布名词库=52; 海峡两岸名词对照库=6; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "觉醒",
+   "en": "arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "1.004",
+   "subjectFullName": "睡眠医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "一种区别于睡眠的生理状态。恢复对外界的反应和主动意识活动。"
+  },
+  {
+   "cn": "觉醒",
+   "en": "arousal",
+   "source": "行为医学名词",
+   "wordNumber": "3.087",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "与“睡眠”相对应的清醒状态。机体清醒状态下才能进行各种脑力和体力活动。包括行为觉醒和脑电觉醒两部分。"
+  },
+  {
+   "cn": "觉醒",
+   "en": "arousal",
+   "source": "神经病学名词",
+   "wordNumber": "05.354",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "从睡眠到清醒的一个动态过程。正常人可从睡眠周期的任何一个阶段觉醒，在没有外来刺激的情况下，通常从非快速眼动睡眠Ⅰ期或Ⅱ期觉醒，也可从非快速眼动睡眠Ⅲ期、Ⅳ期或快速眼动睡眠期时被唤醒，但觉醒阈值较高。"
+  },
+  {
+   "cn": "唤醒",
+   "en": "arousal",
+   "source": "心理学名词",
+   "wordNumber": "14.033",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "有机体总的生理、心理激活的程度。"
+  },
+  {
+   "cn": "觉醒阈",
+   "en": "arousal threshold",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.29",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "中断睡眠的最低临界刺激强度，即使患者从睡眠中觉醒过来的刺激最小值。为衡量睡眠深度的指标。"
+  },
+  {
+   "cn": "微觉醒",
+   "en": "micro-arousal",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.27",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "睡眠中持续时间＜3s（一般为1.5～2s）的脑电频率变化，但不引起睡眠阶段改变的短暂觉醒。"
+  },
+  {
+   "cn": "性唤起",
+   "en": "sexual arousal",
+   "source": "男科及性医学名词",
+   "wordNumber": "18.010",
+   "subjectFullName": "男科及性医学_性反应与性功能",
+   "subjectName": "性反应与性功能",
+   "publishYear": "2023",
+   "definition": "性活动前，机体在各种性刺激作用下出现的生理与心理反应。会诱发男性的阴茎勃起，女性可出现盆腔充血、阴道润滑、外生殖器充盈胀大、乳房充盈胀大和乳头勃起等。"
+  },
+  {
+   "cn": "意识模糊性觉醒",
+   "en": "confusional arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "3.066",
+   "subjectFullName": "睡眠医学_睡眠疾病分类_异态睡眠",
+   "subjectName": "异态睡眠",
+   "publishYear": "2022",
+   "definition": "自慢波睡眠过渡到清醒的移行过程中，意识尚未完全清醒状态下出现的轻微行为障碍。表现为时间和地点定向力障碍、语速减慢、反应迟钝等。"
+  },
+  {
+   "cn": "觉醒事件",
+   "en": "arousal event",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.302",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "可能导致清醒或仅引起一过性睡眠中断的短暂脑电图事件。＜3秒为微觉醒，＞3秒为觉醒。"
+  },
+  {
+   "cn": "皮质觉醒",
+   "en": "cortical arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.303",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "由某种已知或未知原因导致一帧脑电图记录中出现短暂的清醒期脑电表现。睡眠中突发短暂持续至少3秒的脑电图频率变化，持续时间短于一帧记录的50%。"
+  },
+  {
+   "cn": "皮质下觉醒",
+   "en": "subcortical arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.304",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "睡眠中自主神经反应，如血压、心率和呼吸变化等所致的觉醒。"
+  },
+  {
+   "cn": "微觉醒",
+   "en": "micro-arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.305",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "睡眠中持续时间＜3秒（1.5～2秒）的脑电频率变化，但不引起睡眠阶段改变的短暂觉醒。虽然不减少整个睡眠时间，但频繁微觉醒仍可导致日间嗜睡。"
+  },
+  {
+   "cn": "运动相关觉醒",
+   "en": "movement arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.306",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "与运动事件紧密相关的觉醒。觉醒和运动无论哪个在先，同时、重叠或先后开始间隔＜0.5秒。"
+  },
+  {
+   "cn": "行为性觉醒",
+   "en": "behavioral arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.307",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "因睡眠昼夜节律、情绪、自主神经功能和内分泌功能等本能行为引起的觉醒。"
+  },
+  {
+   "cn": "觉醒复合体",
+   "en": "arousal complex",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.309",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "脑电快频率变化和慢频率变化两部分组成的觉醒。根据自主神经系统变化的程度复合性觉醒分为三个亚型：A1亚型，主要为慢频率脑电波（集团性K复合波和δ波），伴有肌电活动、心率、呼吸频率的轻度增加；A2亚型，慢"
+  },
+  {
+   "cn": "觉醒水平",
+   "en": "arousal level",
+   "source": "行为医学名词",
+   "wordNumber": "3.088",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "由睡眠到兴奋觉醒的程度。脑电波呈现去同步化状态、机体表现为清醒状态的水准。"
+  },
+  {
+   "cn": "皮质觉醒",
+   "en": "cortical arousal",
+   "source": "行为医学名词",
+   "wordNumber": "3.089",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "大脑皮质呈现去同步化的快波状态。"
+  },
+  {
+   "cn": "皮质下觉醒",
+   "en": "subcortical arousal",
+   "source": "行为医学名词",
+   "wordNumber": "3.09",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "大脑皮质以下各神经中枢呈去同步化的快波状态。"
+  },
+  {
+   "cn": "行为觉醒",
+   "en": "behavioral arousal",
+   "source": "行为医学名词",
+   "wordNumber": "3.091",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "机体表现出对环境突然改变有探究行为的状态。"
+  },
+  {
+   "cn": "脑电觉醒",
+   "en": "electroencephalographic arousal",
+   "source": "行为医学名词",
+   "wordNumber": "3.092",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "机体脑电波呈去同步化快波，但机体不一定有探究行为的状态。"
+  },
+  {
+   "cn": "唤醒",
+   "en": "arousal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒水平",
+   "en": "arousal level",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最佳唤醒水平",
+   "en": "optimal arousal level",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唤起状态",
+   "en": "state of arousal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒-吸引假说",
+   "en": "arousal attraction hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒-情感模型",
+   "en": "arousal affect model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非快速眼动睡眠唤醒障碍",
+   "en": "non–rapid eye movement sleep arousal disorder, NREM",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "在非快速眼动睡眠期反复发作的从睡眠中不完全的觉醒，伴有睡眠中行走或尖叫哭喊，清醒后对发作遗忘的一种睡眠障碍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

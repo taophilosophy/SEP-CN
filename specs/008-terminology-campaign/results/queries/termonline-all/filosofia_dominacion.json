@@ -1,0 +1,52 @@
+{
+ "key": "filosofia dominacion",
+ "term": "Filosofía dominación",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:50:46+00:00",
+ "status": "ok",
+ "note": "variant=Filosofía dominación; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "控制原理",
+   "en": "domination principle",
+   "source": "数学名词",
+   "wordNumber": "05.0671",
+   "subjectFullName": "数学_分析学_位势论",
+   "subjectName": "位势论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "控制结构",
+   "en": "domination structure",
+   "source": "数学名词",
+   "wordNumber": "011.0264",
+   "subjectFullName": "数学_运筹学_多目标规划",
+   "subjectName": "多目标规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆控制原理",
+   "en": "inverse domination principle",
+   "source": "数学名词",
+   "wordNumber": "05.0672",
+   "subjectFullName": "数学_分析学_位势论",
+   "subjectName": "位势论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力行使的一种方式，指能够使特定人群服从命令的可能性。马克斯•韦伯按照服从的动机和基础将其分为法理型、传统型与卡理斯马型等三种。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

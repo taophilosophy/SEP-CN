@@ -1,0 +1,662 @@
+{
+ "key": "capv ratnakirti",
+ "term": "CAPV Ratnakīrti",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:55:40+00:00",
+ "status": "ok",
+ "note": "variant=CAPV Ratnakīrti; 审定公布名词库=228; 海峡两岸名词对照库=82; 其他来源数据库=18; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "地角",
+   "en": "cape",
+   "source": "地理学名词",
+   "wordNumber": "15.018",
+   "subjectFullName": "地理学_海洋地理学",
+   "subjectName": "海洋地理学",
+   "publishYear": "2006",
+   "definition": "大陆伸入海洋中的规模较大的半岛尖端。"
+  },
+  {
+   "cn": "火雷管",
+   "en": "cap,blasting cap",
+   "source": "冶金学名词",
+   "wordNumber": "02.0419",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "由导火索的火焰冲能激发而引起爆炸的工业雷管。组成部分有管壳、加强帽、装药(装药又分为主发装药和次发装药两种)部分。"
+  },
+  {
+   "cn": "岬角",
+   "en": "headland,cape",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1028",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "沿岸陆地向海或河、湖突出的，形态不规则的高陡基岩陆地。"
+  },
+  {
+   "cn": "岬角",
+   "en": "headland,cape",
+   "source": "航海科技名词",
+   "wordNumber": "07.0341",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "管帽",
+   "en": "cap",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0103",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "与管子端部焊接或螺纹连接的帽状管件。"
+  },
+  {
+   "cn": "帽",
+   "en": "cap",
+   "source": "遗传学名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "mRNA分子5'端的修饰结构。"
+  },
+  {
+   "cn": "管帽",
+   "en": "cap",
+   "source": "电气工程名词",
+   "wordNumber": "15.079",
+   "subjectFullName": "电气工程_电力电子技术",
+   "subjectName": "电力电子技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "管道封头",
+   "en": "cap",
+   "source": "船舶工程名词",
+   "wordNumber": "13.231",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "铺设海底管道时，焊于第一根管子端部的圆盖形钢制封头。"
+  },
+  {
+   "cn": "雷管",
+   "en": "cap,blasting cap,detonator",
+   "source": "冶金学名词",
+   "wordNumber": "02.0412",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "管壳中装有起爆药，通过点火装置使其爆炸而引爆炸药的装置。"
+  },
+  {
+   "cn": "好望角测光",
+   "en": "Cape photometry",
+   "source": "天文学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "由好望角天文台提出的一套测光系统。"
+  },
+  {
+   "cn": "好望角植物区",
+   "en": "Cape kingdom",
+   "source": "植物学名词",
+   "wordNumber": "02.0411",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "位于非洲南部、西南部沿海一带，世界上最小的植物区。"
+  },
+  {
+   "cn": "Z帽蛋白",
+   "en": "CapZ protein",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.110",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "从网柄菌属和棘变形虫属（Acanthamoeba）中发现的微丝加帽蛋白。与横纹肌Z盘细肌丝钩突状末端结合。广泛分布于脊椎动物细胞中，在非肌肉细胞胞核中占优势。与β辅肌动蛋白相同。"
+  },
+  {
+   "cn": "好望角植物区",
+   "en": "Cape kingdom",
+   "source": "地理学名词",
+   "wordNumber": "06.117",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "位于非洲南部、西南部沿海一带，是世界最小的植物区。"
+  },
+  {
+   "cn": "帽",
+   "en": "cap,cappa",
+   "source": "植物学名词",
+   "wordNumber": "15.0024",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "具气囊花粉本体近极面(背面)的外壁加厚部分。"
+  },
+  {
+   "cn": "灯头",
+   "en": "cap,base",
+   "source": "电气工程名词",
+   "wordNumber": "22.229",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "雷管",
+   "en": "detonator,cap",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.279",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "由外界能激发，并可靠地引起其后的起爆材料或猛炸药爆轰的起爆材料。"
+  },
+  {
+   "cn": "有线电视",
+   "en": "cable television,CATV",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0312",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "通过在同轴电缆上传输的射频信号或在光缆上传输的光脉冲把电视节目发放到用户的系统。"
+  },
+  {
+   "cn": "有线电视",
+   "en": "cable television,CATV",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.114",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "通过宽带同轴电缆将多个频道的视频信号传送到各个家庭用户的单向通信系统。"
+  },
+  {
+   "cn": "有线电视",
+   "en": "cable TV,CATV",
+   "source": "电子学名词",
+   "wordNumber": "22.014",
+   "subjectFullName": "电子学_广播电视",
+   "subjectName": "广播电视",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "应变帽",
+   "en": "strain cap",
+   "source": "地质学名词",
+   "wordNumber": "09.06.091",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "在压力影核晶平行主压应力方向，常因易溶成分被溶解、迁移而使难溶物质相对集中，形成增强的面理组构。"
+  },
+  {
+   "cn": "地角",
+   "en": "cape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海岬（＝前陆）",
+   "en": "cape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "王良一（仙后β）",
+   "en": "Caph",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "岬角",
+   "en": "headland\",\"cape",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "岬角（岬）",
+   "en": "headland\",\"cape",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "帽",
+   "en": "cap",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "好望角植物区",
+   "en": "Cape kingdom\",\"Cape floral kingdom",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "头帽期",
+   "en": "cap phase\",\"cap stage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "泡罩",
+   "en": "bubble cap\",\"bubbling cap",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "好望角植物区",
+   "en": "Cape kingdom",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "Z帽蛋白",
+   "en": "CapZ protein",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "帽",
+   "en": "cap\",\"cappa",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顶体帽",
+   "en": "acrosomal cap",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[精子]头帽",
+   "en": "head cap",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小结帽",
+   "en": "nodule cap",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "釉冠",
+   "en": "enamel cap",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "核帽",
+   "en": "nuclear cap",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胚冠",
+   "en": "embryo cap",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "维管束帽",
+   "en": "bundle cap",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冷冠",
+   "en": "cold cap",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "球帽",
+   "en": "ball cap\",\"cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水球帽",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽子",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽子",
+   "en": "cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "火帽",
+   "en": "percussion cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色球帽",
+   "en": "white cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色球帽",
+   "en": "blue cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色球帽",
+   "en": "red cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泳帽",
+   "en": "swim cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳帽",
+   "en": "swimming cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳帽",
+   "en": "swimming cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑手帽",
+   "en": "riding cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑手帽",
+   "en": "headgear\",\"riding cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冠礼",
+   "en": "Cap Wearing Ceremony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深蓝色帽",
+   "en": "dark blue cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CAP原则",
+   "en": "CAP (consistency, availability and partition resistance) principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "佛得角人",
+   "en": "Cape Verdean",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0208",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有佛得角共和国国籍和公民身份的人们共同体，人口约为54.6万人（2020 年）。绝大部分为克里奥尔人，占总人口的71%；黑色人种占28%，欧洲人种占1%。官方语言为葡萄"
+  },
+  {
+   "cn": "工作帽",
+   "en": "working cap",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "防御头部脏污、擦伤、长发被绞碾等伤害的防护装备。"
+  },
+  {
+   "cn": "支出上限制",
+   "en": "expenditure cap",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.14.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者预先依据医疗服务成本及其服务量的增长，设定医疗保险支出的年度预算总额，以该预算总额作为支付的最高限度。"
+  },
+  {
+   "cn": "宫颈帽",
+   "en": "cervical cap",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一种女用物理屏障避孕方法。为小型帽状硅橡胶制品，性交时紧套在子宫颈上，并产生负压，阻挡阴道内精子进入子宫腔。"
+  },
+  {
+   "cn": "冷却帽",
+   "en": "cooling cap",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "利用某些介质的热交换作用，具有使头部温度降低作用的专用帽子。"
+  },
+  {
+   "cn": "二氧化碳冰帽",
+   "en": "CO₂-driven cold caps",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.11.3.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境卫生防护",
+   "subjectName": "热环境卫生防护",
+   "publishYear": "2025",
+   "definition": "用液态二氧化碳充入用腈纶纤维做保护层的特制帽内形成干冰，所制成的具有降温作用的装置。"
+  },
+  {
+   "cn": "灾难性抗磷脂综合征",
+   "en": "catastmphic antiphospholipid syndrome，CAPS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.4.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_系统损伤",
+   "subjectName": "系统损伤",
+   "publishYear": "2025",
+   "definition": "抗磷脂综合征的一种特殊形式。少数APS患者在短时间内（通常为数天内）全身多血管出现广泛的血栓形成，引起急性多器官缺血坏死、功能衰竭，肾脏为最常受累脏器，心、肺、脑及皮肤也常受累。"
+  },
+  {
+   "cn": "冷炎素相关周期性综合征",
+   "en": "cryopyrin-associated periodic syndrome, CAPS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "一种与CIASI基因突变有关的常染色体显性遗传病。临床特征是反复发作的多系统炎症，主要表现为发热、关节痛及荨麻疹，可累及皮肤、肌肉、骨骼、关节、眼、耳以及中枢神经系统。包括3种临床综合征：家族性寒冷性"
+  },
+  {
+   "cn": "计算机辅助访谈",
+   "en": "computer-assisted personal interviewing，CAPI",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "回答人或访谈员位于计算机的终端，使用键盘或鼠标将回答人对问卷的答案输入计算机中的一种访谈方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

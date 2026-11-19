@@ -1,0 +1,192 @@
+{
+ "key": "ansatzes uber",
+ "term": "Ansatzes über",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:56:14+00:00",
+ "status": "ok",
+ "note": "variant=Ansatzes über; 审定公布名词库=14; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0795",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "反演过程中设定的初始输入解。 "
+  },
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "物理学名词",
+   "wordNumber": "01.0146",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "拟设",
+   "en": "ansatz",
+   "source": "数学名词",
+   "wordNumber": "08.1066",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "贝特拟设",
+   "en": "Bethe ansatz",
+   "source": "物理学名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自然拟设",
+   "en": "naïlve ansatz",
+   "source": "物理学名词",
+   "wordNumber": "01.0147",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "髂胫束紧张试验",
+   "en": "Ober sign’s",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.110",
+   "subjectFullName": "中医药学_骨伤科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "患者健侧卧位，腰伸直，屈膝屈髋，检查者在患者后面，一手固定患侧髋部，另一手持患肢踝部使髋关节伸直，膝关节屈曲90°，逐渐内收患肢，如膝不能贴近床面，且在该侧大腿外侧下部可触及呈弓弦状紧张的髂胫束，以判"
+  },
+  {
+   "cn": "奥伯试验",
+   "en": "Ober test",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.251",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "奈奎斯特波数",
+   "en": "Nyquist wavenum-ber",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2563",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "空间抽样距离的一半，即空间抽样率的一半。将原始模拟信号变换到波数域，若奈奎斯特波数小于信号的最大波数时，基于奈奎斯特抽样定理，抽样后产生频率混淆现象，消除频率混淆需提高抽样频率或在抽样前进行低通滤波。"
+  },
+  {
+   "cn": "传输系统误码率",
+   "en": "bit error ratio,BER",
+   "source": "光学名词",
+   "wordNumber": "22.015",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "数字光通信系统(包括数字图像通信系统)中，接收到的码元被错误判决的概率。在长时间测试中，误码率可以表示为错误判决的码元数占总传送的码元数的比例。"
+  },
+  {
+   "cn": "基本编码规则",
+   "en": "basic encoding rule,BER",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0813",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "通过网络传送数据的一个编码标准。"
+  },
+  {
+   "cn": "碱基切除修复",
+   "en": "base excision repair;BER",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0215",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "修复DNA损伤的一种机制。在特定DNA糖苷酶的作用下，从损伤DNA中除去损伤的碱基，产生无碱基位点（AP位点）；再由AP内切酶在其一侧切除，形成缺口；DNA聚合酶在缺口处合成正确的核苷酸；由连接酶将切"
+  },
+  {
+   "cn": "顺丁橡胶",
+   "en": "cis-1,4-polybutadiene rub-ber",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0189",
+   "subjectFullName": "化工（七）_合成橡胶_聚丁二烯橡胶",
+   "subjectName": "聚丁二烯橡胶",
+   "publishYear": "2022",
+   "definition": "顺式-1, 4结构含量大于95%的聚丁二烯橡胶，可采用镍系、钴系或稀土等催化剂生产。"
+  },
+  {
+   "cn": "直接喷射燃烧室",
+   "en": "direct injection combustion cham- ber",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0797",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "枣实蝇",
+   "en": "ber fruit fly,Carpomya vesuviana Costa",
+   "source": "林学名词",
+   "wordNumber": "07.168",
+   "subjectFullName": "林学_森林保护_森林昆虫",
+   "subjectName": "森林昆虫",
+   "publishYear": "2016",
+   "definition": "双翅目实蝇科(Tephritidae)昆虫。危害各种枣树。幼虫取食枣肉并向中间蛀食。幼虫老熟后，脱离枣果落地后在6~15 cm深的土壤中化蛹。原产印度，我国于2007年首次在新疆吐鲁番地区发现其入侵。"
+  },
+  {
+   "cn": "德意志至上",
+   "en": "Deutschland über Alles",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "自由而幸福",
+   "en": "Frei aber Froh",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Brahms, Johannes"
+  },
+  {
+   "cn": "碱基切除修复",
+   "en": "base excision repair\",\"BER",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "优步",
+   "en": "Uber",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
