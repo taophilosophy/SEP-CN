@@ -1,0 +1,762 @@
+{
+ "key": "mutual domination",
+ "term": "mutual domination",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:32:53+00:00",
+ "status": "ok",
+ "note": "variant=mutual domination; 审定公布名词库=1636; 海峡两岸名词对照库=547; 其他来源数据库=83; 预公布名词数据库=80; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "农学名词",
+   "wordNumber": "15.272",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "两个物种在共同生存的过程中以互相依赖和双方受益为必要条件的生存形式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "兽医学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "共生的双方互有裨益，可以发展成一种固定的、永久的关系，达到彼此不可分离程度的共生方式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism ",
+   "source": "草学名词",
+   "wordNumber": "2.0067",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "植物学名词",
+   "wordNumber": "13.0189",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "两种生物生活在一起，彼此有利，两者分开以后都不能独立生活的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "地方病学名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "地方病学_寄生虫病_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "两种生物相互依赖，长期共存，双方均获益的共生关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "微生物学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "两物种以彼此相互依赖为生存之必要条件的相互关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "生态学名词",
+   "wordNumber": "05.158",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "两物种长期共同生活在一起，彼此相互依赖，双方获利且达到了彼此不能离开独立生存之程度的一种共生现象。"
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "地理学名词",
+   "wordNumber": "06.100",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "两种生物生活在一起，相互依赖、双方受益的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "昆虫学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "两种昆虫生活在一起，双方都能从中获益的共生现象。"
+  },
+  {
+   "cn": "互利共栖现象",
+   "en": "mutualism",
+   "source": "土壤学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "生活在同一生境的两种生物相互从对方受益的现象。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominant",
+   "source": "农学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance ",
+   "source": "草学名词",
+   "wordNumber": "2.0361",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "动物学名词",
+   "wordNumber": "7.0413",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "群居性动物中，个体差异（包括行为和生理学水平方面产生差异）对食物或配偶等关键资源的均有优先利用权力者。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "动物学名词",
+   "wordNumber": "7.0462",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "某个种在群落中地位和作用的大小。但其具体定义和计算方法意见不一。法国学者布朗凯（J. Branquet）主张以盖度、所占空间大小或重量来表示优势度，并指出在不同群落中应采用不同指标。另一些学者认为盖度"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.335",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由显性基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "10.0028",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "植物学名词",
+   "wordNumber": "13.0277",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "物种在群落中的作用和地位的大小。通常用多度–盖度级或重要值等来表示。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "林学名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "遗传学名词",
+   "wordNumber": "02.025",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "由显性等位基因决定的，在杂合状态下性状得以表现的现象。"
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "生态学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某个种在群落中所具有的作用和地位的大小。经常用相对多度来表示。"
+  },
+  {
+   "cn": "互利共生,互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生，互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "属音",
+   "en": "dominant",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "显性",
+   "en": "dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "优势者",
+   "en": "dominant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "优势[度]",
+   "en": "dominance",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "优势度",
+   "en": "dominance",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "互溶度",
+   "en": "mutual solubility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "互扩散",
+   "en": "mutual diffusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共同基金，互助基金",
+   "en": "mutual fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄",
+   "en": "mutual saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互保险，互助保险",
+   "en": "mutual insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "主宰",
+   "en": "dominate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互不得分",
+   "en": "mutual loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信互认机制",
+   "en": "mutual recognition and mutual trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主控式创新",
+   "en": "dominant innovation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "制数据权",
+   "en": "data dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主导技术社群",
+   "en": "dominant technical community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字认证互认",
+   "en": "mutual recognition of digital certificates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "供应链互信机制",
+   "en": "supply chain mutual trust mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互利共赢的开放战略",
+   "en": "mutually beneficial opening up strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "国内外标准互认工程",
+   "en": "domestic & foreign standards mutual recognition project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交流互鉴的文明观",
+   "en": "exchanges and mutual learning among civilizations",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“亲、诚、惠、容”理念",
+   "en": "the philosophy of “amity, honesty, mutual benefit, and inclusiveness”",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互助论",
+   "en": "mutualism",
+   "source": "马克思主义",
+   "wordNumber": "04.0310",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以宣扬人类依靠互助的本就能建立和谐的社会生活，而无须借助否定一切权威和政权强制的无政府主义思潮。代表人物有蒲鲁东、克鲁泡特金等。他们反对工人阶级旨在稍稍改善他们状况的一切尝试，如罢工、组织同盟和参与政"
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.9",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "权力行使的一种方式，指能够使特定人群服从命令的可能性。马克斯•韦伯按照服从的动机和基础将其分为法理型、传统型与卡理斯马型等三种。"
+  },
+  {
+   "cn": "主宰",
+   "en": "dominance",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市生态学中用于解释城市中各种因素分布规律的一条准则。通过对于城市土地及其位置的竞争，某些人群或功能因素主导了城市某区域的生态分布。"
+  },
+  {
+   "cn": "男性霸权",
+   "en": "male-dominated",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "男权制社会中以男性为主导和中心的等级制统治模式，男性占据统治者和主导者的地位，拥有统治权和主导权，女性则处在被统治和被支配的地位。"
+  },
+  {
+   "cn": "绝对优势方案",
+   "en": "absolute dominance",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "相比于其他方案，成本较低且效果较好的方案。"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层从作用于机体的大量刺激中，选择最重要、最符合自己目的的少数刺激，在相应大脑皮层区域形成优势兴奋灶，以确保该区域高效工作的活动特性。"
+  },
+  {
+   "cn": "共同参与型模式",
+   "en": "mutual participation model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "萨斯-霍伦德模式的一种。在此模式中，医患双方具有同等的主动性，共同参与诊疗计划的决策、制订和实施。适用大多数慢性疾病和能够清晰表达自己的意愿并有相当医学知识的患者。"
+  },
+  {
+   "cn": "社会支配性取向",
+   "en": "social dominance orientation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "人们对于特定社会环境中不同群体之间等级差异的接受程度，尤其是对于优势群体( superior group) 支配劣势群体(inferior group) 的接受程度。一般来说，具有高社会支配取向的人更"
+  },
+  {
+   "cn": "互助会",
+   "en": "mutual aid saving union",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "员工在工作单位或集体组织支持下自愿集资，以储金借贷方式开展互救互济活动，共同克服自然灾害及其他困难，以保证基本生活需求的民间合作性互助组织。"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "经济互助委员会",
+   "en": "Council for Mutual Economic Assistance",
+   "source": "马克思主义",
+   "wordNumber": "04.0440",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由苏联发起、社会主义国家组成的政治经济合作组织，为继承“莫洛托夫计划”的经济合作计划于1949年成立，总部设在莫斯科。1949年1月，苏联、保加利亚、匈牙利、波兰、罗马尼亚、捷克在莫斯科协议成立。后有"
+  },
+  {
+   "cn": "自助—互助型组织",
+   "en": "self-help or mutual-help organization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.30",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "不依靠组织以外的资源，利用组织成员自己的资源作为支持，通过彼此互助达到解决组织内部或者外部的问题的组织。"
+  },
+  {
+   "cn": "农业生产互助组",
+   "en": "mutual aid team for agricultural production",
+   "source": "马克思主义",
+   "wordNumber": "02.0363",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国农村个体经济向社会主义集体经济过渡的初级形式。劳动农民在个体经济的基础上，为了解决劳力、耕畜、农具缺乏的困难，按照自愿互利原则组织起来的劳动互助组织。一般由几户至或十几户组成，实行共同劳动、分散经"
+  },
+  {
+   "cn": "质量互变规律",
+   "en": "law of mutual change of quality and quantity",
+   "source": "马克思主义",
+   "wordNumber": "01.0221",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物由于内部矛盾所引起的发展是通过量变质变相互转化而实现的。认为事物在其运动发展过程中必然会经历质变量变两种基本状态或基本形式。量变与质变是对立统一的关系，量变是质变发"
+  },
+  {
+   "cn": "中苏友好同盟互助条约",
+   "en": "SinoSoviet treaty of friendship alliance and mutual assistance",
+   "source": "马克思主义",
+   "wordNumber": "04.0127",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1950年2月14日，中苏两国全权代表在莫斯科签订。同年4月11日生效，有效期30年。共六条。主要内容：缔约国双方保证共同采取措施，以期制止日本或与日本相互勾结的任何国家之重新侵略，缔约国一方一旦受到"
+  },
+  {
+   "cn": "公私兼顾劳资两利城乡互助内外交流",
+   "en": "giving consideration to both public and private interests benefit both labor and capital mutual aid between urban and rural areas internal and external communication",
+   "source": "马克思主义",
+   "wordNumber": "02.0353",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月通过的《中国人民政治协商会议共同纲领》中规定的中华人民共和国经济建设的根本方针。毛泽东称其为“四面八方”政策，高度概括了公私、劳资、城乡、内外这四对关系和八个方面，是新民主主义经济理论的"
+  },
+  {
+   "cn": "宗派",
+   "en": "denomination",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.7",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "在多元主义的社会中组织化的宗教，有不同的制度形式，但通常支持既有的社会秩序、包容不同的宗教实践。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "通过资产收购或者合同订立等方式，实现两个或多个卫生服务机构合为一体的行为。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

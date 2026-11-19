@@ -1,0 +1,432 @@
+{
+ "key": "microorganism",
+ "term": "microorganism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:21:17+00:00",
+ "status": "ok",
+ "note": "variant=microorganism; 审定公布名词库=88; 海峡两岸名词对照库=9; 其他来源数据库=2; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "兽医学名词",
+   "wordNumber": "16.002",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "一切肉眼看不见或看不清，通常要用光学显微镜和电子显微镜才能看到的微小生物的 总称。"
+  },
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "结核病学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "结核病学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "难以用肉眼观察到的一切微小生物的统称。"
+  },
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "呼吸病学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "呼吸病学_病因",
+   "subjectName": "病因",
+   "publishYear": "2018",
+   "definition": "一切肉眼看不见或看不清楚的微小生物的统称。是一些个体微小、构造简单的低等生物。大多为单细胞，少数为多细胞，还包括一些没有细胞结构的生物。"
+  },
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "微生物学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "微生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2012",
+   "definition": "个体难以用肉眼观察的一切微小生物之统称。"
+  },
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "化学工程名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "化学工程_生物化学工程_生物化学工程",
+   "subjectName": "生物化学工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "微生物氮",
+   "en": "microorganism nitrogen",
+   "source": "畜牧学名词",
+   "wordNumber": "07.232",
+   "subjectFullName": "畜牧学_饲料与营养_饲料营养价值评定",
+   "subjectName": "饲料营养价值评定",
+   "publishYear": "2020",
+   "definition": "动物消化道内由微生物合成的含氮物质。"
+  },
+  {
+   "cn": "微生物类饲料",
+   "en": "microorganisms feed",
+   "source": "水产名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "有饲用价值的酵母、细菌等微生物。"
+  },
+  {
+   "cn": "微生物类饲料",
+   "en": "microorganisms feed",
+   "source": "水产名词",
+   "wordNumber": "12.071",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "有饲用价值的酵母、细菌等微生物。"
+  },
+  {
+   "cn": "致病［性］微生物",
+   "en": "pathogenic microorganism",
+   "source": "农学名词",
+   "wordNumber": "18.046",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "能够引起人和动植物病害的微生物。"
+  },
+  {
+   "cn": "产毒微生物",
+   "en": "toxigenic microorganism",
+   "source": "农学名词",
+   "wordNumber": "18.047",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "能够产生有毒有害物质的微生物。"
+  },
+  {
+   "cn": "土壤微生物",
+   "en": "soil microorganism",
+   "source": "农学名词",
+   "wordNumber": "09.183",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "土壤中古菌、细菌、真菌、病毒、原生动物及藻类等微小生物的总称。"
+  },
+  {
+   "cn": "瘤胃微生物",
+   "en": "rumen microorganism",
+   "source": "兽医学名词",
+   "wordNumber": "04.342",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "栖居于瘤胃内的厌氧微生物。以纤毛虫和细菌为主，它们与宿主存在共生关系，组成瘤胃内相对稳定的微生物区系，完成瘤胃的发酵功能。"
+  },
+  {
+   "cn": "根际微生物",
+   "en": "rhizospheric microorganism ",
+   "source": "草学名词",
+   "wordNumber": "2.0625",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "田间微生物",
+   "en": "field microorganism ",
+   "source": "草学名词",
+   "wordNumber": "4.0286",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "贮藏微生物",
+   "en": "storage microorganism ",
+   "source": "草学名词",
+   "wordNumber": "4.0287",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "青贮微生物",
+   "en": "silage microorganism ",
+   "source": "草学名词",
+   "wordNumber": "6.0318",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "昆虫病原微生物",
+   "en": "entomopathogenic microorganism ",
+   "source": "草学名词",
+   "wordNumber": "7.0145",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "厌氧微生物",
+   "en": "anaerobic microorganism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.104",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "一类只能在低氧分压或无氧的条件下生长的微生物。"
+  },
+  {
+   "cn": "好氧微生物",
+   "en": "aerobic microorganism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.105",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "在有氧环境中生长繁殖，氧化有机物或无机物的产能代谢过程，以分子氧为最终电子受体进行有氧呼吸的微生物。"
+  },
+  {
+   "cn": "化能异养菌",
+   "en": "chemoheterotrophic microorganism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "05.051",
+   "subjectFullName": "化工（六）_生物化工工艺及产品_农业与环境生物化工技术产品_A_O生物滤池",
+   "subjectName": "O生物滤池",
+   "publishYear": "2021",
+   "definition": "能源和碳源都来自有机物，其中能源来自有机物的氧化分解，ATP通过氧化磷酸化产生，碳源来自有机碳化合物的微生物。"
+  },
+  {
+   "cn": "微生物",
+   "en": "microorganism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微生物",
+   "en": "microbe\",\"microorganism",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "微生物分解",
+   "en": "microorganism decomposition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋微生物",
+   "en": "marine microorganism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "极端微生物",
+   "en": "extreme microorganism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "土壤微生物",
+   "en": "soil microorganism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "食物-微生物比",
+   "en": "food-to-microorganism ratio",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海洋石油降解微生物",
+   "en": "marine petroleum degrading microorganism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "食料微生物比",
+   "en": "food-to-microorganism ratio\",\"F/M ratio",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "全球微生物名录",
+   "en": "Global Catalogue of Microorganisms (GCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指示微生物",
+   "en": "indicator microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学检验中，其抗力等于或略高于其代表的微生物的试验微生物。"
+  },
+  {
+   "cn": "目标微生物",
+   "en": "target microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒对象上的致病微生物或指示微生物，是消毒操作时需要重点关注并确保杀灭的微生物。"
+  },
+  {
+   "cn": "试验微生物",
+   "en": "test microorganism",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒试验中使用的微生物，如铜绿假单胞菌、枯草杆菌黑色变种芽孢、脊髓灰质炎病毒Ⅰ型疫苗株。"
+  },
+  {
+   "cn": "腐败微生物",
+   "en": "spoilage microorganism",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "污染食品后使食品发生化学和物理性质改变,导致食品失去原有的营养价值、组织性状及色、香、味等感官品质特征的微生物。"
+  },
+  {
+   "cn": "微生物污染量",
+   "en": "microorganism contamination level",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "表示物品和环境受微生物污染的程度，是评价物品和环境卫生状况的指标。如一次性卫生用品检测中细菌和真菌的菌落总数、医院环境中空气和物表的菌落总数等。"
+  },
+  {
+   "cn": "微生物暴露评估",
+   "en": "microorganism exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对通过特定食物可能摄入的微生物危害进行定性和/或定量评估。"
+  },
+  {
+   "cn": "微生物暴露途径",
+   "en": "microorganism exposure pathway",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "指示微生物",
+   "en": "indicative microorganism, indicator",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "在常规卫生监测中，用以指示样品卫生质量及安全性的（非致病）微生物（或细菌）。如应用于食品、水、化妆品、空气等卫生监测和质量评价。"
+  },
+  {
+   "cn": "微生物源酶制剂",
+   "en": "microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由传统或通过基因修饰的微生物（包括但不限于细菌、放线菌、真菌菌种）发酵、提取制得，用于食品加工，具有特殊催化功能的生物制品"
+  },
+  {
+   "cn": "微生物性食源性疾病负担",
+   "en": "microorganism-originated foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "细菌、真菌与其毒素以及病毒等微生物致病因子通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "微生物源酶制剂抗菌活性",
+   "en": "antibacterial activity of microorganism-derived enzyme preparation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.15.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "微生物来源的酶制剂抑制或杀灭微生物的能力"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,442 @@
+{
+ "key": "comportment",
+ "term": "comportment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:18:31+00:00",
+ "status": "ok",
+ "note": "variant=comportment; 审定公布名词库=126; 海峡两岸名词对照库=50; 其他来源数据库=0; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "房室",
+   "en": "compartment",
+   "source": "核医学名词",
+   "wordNumber": "03.0789",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_实验核医学示踪技术",
+   "subjectName": "实验核医学示踪技术",
+   "publishYear": "2018",
+   "definition": "房室模型中设定的某种物质的分布和平衡的功能空间或单元。与解剖结构有关但不同于解剖结构；如某物质在几个解剖部位中交换迅速，且运动规律基本相同，对该物质来说这几个解剖部位属同一房室；如果运动规律不同，即使"
+  },
+  {
+   "cn": "林班",
+   "en": "compartment",
+   "source": "林学名词",
+   "wordNumber": "06.251",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "在林场范围内，为便于森林资源调查统计和管理，将土地划分为许多个大小比较一致的基本单位。既是资源统计单位，也是永久性的经营管理单位。"
+  },
+  {
+   "cn": "隔室",
+   "en": "compartment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.052",
+   "subjectFullName": "放射医学与防护_放射毒理学_代谢",
+   "subjectName": "代谢",
+   "publishYear": "2014",
+   "definition": "放射性核素吸收到体液后所经历的部位。表示代谢性质而非解剖学概念，不具体代表某个器官或组织，即不完全等同于体内实际的某生物区间。同类组织在结构、血流速度、对放射性核素的亲和性以及转运放射性核素情况类似，"
+  },
+  {
+   "cn": "区室",
+   "en": "compartment",
+   "source": "遗传学名词",
+   "wordNumber": "05.030",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "发育过程中，节中的相对独立的区域。区室是一个非形态学的概念，由具有相同发育潜能、相对独立的细胞群体构成。"
+  },
+  {
+   "cn": "舱",
+   "en": "compartment",
+   "source": "船舶工程名词",
+   "wordNumber": "02.005",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "一般指主船体内部，由纵、横舱壁或其他构件分隔而成，供船上人员生活、工作或安置、存放、装载各种设备、物品、货物等的空间。"
+  },
+  {
+   "cn": "分室",
+   "en": "compartment",
+   "source": "土壤学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "土壤学_土壤生态与土壤肥力",
+   "subjectName": "土壤生态与土壤肥力",
+   "publishYear": "1998",
+   "definition": "生态系统中能量和物质储存或交换、转移的场所。"
+  },
+  {
+   "cn": "行李舱",
+   "en": "baggage compartment,luggage compartment",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.034",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "放置行李的车身空间。"
+  },
+  {
+   "cn": "货舱",
+   "en": "cargo compartment,freight compartment",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.081",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "货机或客货两用机上装载货物的舱段。"
+  },
+  {
+   "cn": "行李舱",
+   "en": "luggage compartment,baggage compartment",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "客机上装载旅客行李的舱段。"
+  },
+  {
+   "cn": "KTV包房",
+   "en": "karaoke TV compartment,KTV compartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0445",
+   "subjectFullName": "建筑学_建筑类型及组成_游乐休闲建筑",
+   "subjectName": "游乐休闲建筑",
+   "publishYear": "2014",
+   "definition": "提供卡拉OK基本功能和其衍生的餐饮、娱乐、交际等综合服务的房间。"
+  },
+  {
+   "cn": "井口天花",
+   "en": "compartment ceiling",
+   "source": "风景园林名词",
+   "wordNumber": "11.0025",
+   "subjectFullName": "风景园林_风景园林艺术_装折艺术",
+   "subjectName": "装折艺术",
+   "publishYear": "2025",
+   "definition": "清式天花做法之一。是用木支条十字相交搭构大方格网，方格心内镶盖木板，构成露出井口式木肋的顶棚，外露部分做彩画或雕刻等装饰。"
+  },
+  {
+   "cn": "膜区室",
+   "en": "membrane compartment",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0012",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_概述",
+   "subjectName": "概述",
+   "publishYear": "2024",
+   "definition": "线粒体内膜向内伸出许多褶叠的嵴形成的内膜亚隔域。可导致代谢物或酶的不均匀分布。"
+  },
+  {
+   "cn": "房室模型",
+   "en": "compartment model",
+   "source": "麻醉学名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "按药物转运动力学特征划分的、有输入输出相互作用的若干功能单元（如一室、二室、三室模型等）的系统分析模型。若将机体视为一个系统，系统内部可按动力学特点分为若干房室，房室被视为一个假设空间，它的划分与解剖"
+  },
+  {
+   "cn": "电解室",
+   "en": "electrolytic compartment",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0210",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "电解槽内发生电解反应的空间。分为阳极室和阴极室。"
+  },
+  {
+   "cn": "房室模型",
+   "en": "compartment model",
+   "source": "兽医学名词",
+   "wordNumber": "17.098",
+   "subjectFullName": "兽医学_兽医药理学",
+   "subjectName": "兽医药理学",
+   "publishYear": "2023",
+   "definition": "一种定量分析药物在体内的动力学变化的数学模型。把动物机体概念化为几个房室，用适当的数学公式描述各个房室药物动力学过程。一般分为一室模型、二室模型和三室模型。"
+  },
+  {
+   "cn": "流体封存箱",
+   "en": "fluid compartment",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0414",
+   "subjectFullName": "地球物理学_地壳流体科学_石油与天然气",
+   "subjectName": "石油与天然气",
+   "publishYear": "2022",
+   "definition": "由顶、底封闭层和侧面封闭带围限，具有异常孔隙流体压强的单元。 "
+  },
+  {
+   "cn": "微局域",
+   "en": "micro compartment",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.065",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "生物体内的细胞、代谢网络、基因等行使功能的方式是高度区域化的。通常称这类区域为微局域。"
+  },
+  {
+   "cn": "手外侧鞘",
+   "en": "lateral compartment",
+   "source": "手外科学名词",
+   "wordNumber": "03.0406",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "由鱼际筋膜、外侧肌间隔和第一掌骨围成的纤维性管道。内有鱼际肌（拇收肌除外）、拇长屈肌腱及其腱鞘，以及拇指的血管、神经等。"
+  },
+  {
+   "cn": "手中间鞘",
+   "en": "intermediate compartment",
+   "source": "手外科学名词",
+   "wordNumber": "03.0407",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "位于掌腱膜，内、外侧肌间隔，骨间掌侧筋膜内侧部及拇收肌筋膜之间的纤维性管道。内有指浅、深屈肌的8条肌腱，4块蚓状肌，屈肌总腱鞘，以及掌浅弓、指的血管和神经 等。"
+  },
+  {
+   "cn": "手内侧鞘",
+   "en": "medial compartment",
+   "source": "手外科学名词",
+   "wordNumber": "03.0408",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "由小鱼际筋膜、内侧肌间隔和第五掌骨围成的纤维性管道。内有小鱼际肌（掌短肌除外），以及小指的血管、神经等。"
+  },
+  {
+   "cn": "林班",
+   "en": "compartment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "区室",
+   "en": "compartment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隔室",
+   "en": "compartment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舱",
+   "en": "compartment\",\"hold",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "壳板",
+   "en": "compartment\",\"valve\",\"coronal plate(棘皮动物)",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基底室",
+   "en": "basal compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结肠上区",
+   "en": "supracolic compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结肠下区",
+   "en": "infracolic compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "近腔室",
+   "en": "abluminal compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[手]内侧鞘，小鱼际鞘",
+   "en": "medial compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[手]外侧鞘，鱼际鞘",
+   "en": "lateral compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[手]中间鞘",
+   "en": "intermediate compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小鱼际鞘（=[手]内侧鞘）",
+   "en": "medial compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "鱼际鞘（=[手]外侧鞘）",
+   "en": "lateral compartment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分室模型",
+   "en": "compartment model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "膜区室",
+   "en": "membrane compartment",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多克隆发育区",
+   "en": "polyclonal compartment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "侧背腔",
+   "en": "dorsolateral compartment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "侧腹腔",
+   "en": "ventrolateral compartment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "隔室",
+   "en": "compartment",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.40",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素吸收到体液后所经历的部位。表示代谢性质而非解剖学概念，不具体代表某个器官或组织，即不完全等同于体内实际的某生物区间。"
+  },
+  {
+   "cn": "转移隔室",
+   "en": "transfer compartment",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.26",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素由进入途径（呼吸道、胃肠道、皮肤或伤口）吸收后暂短停留的部位。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

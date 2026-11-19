@@ -1,0 +1,712 @@
+{
+ "key": "motive consequentialism",
+ "term": "motive consequentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:19:51+00:00",
+ "status": "ok",
+ "note": "variant=motive consequentialism; 审定公布名词库=1570; 海峡两岸名词对照库=553; 其他来源数据库=85; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "主张一个人的行为的后果是对该行为进行道德判断时，做出正确或错误判断的最终依据和标准。是经典的规范伦理学和目的论伦理学理论。"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0221",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致的零件损坏。"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.068",
+   "subjectFullName": "机械工程_汽车_汽车维修_故障和损伤",
+   "subjectName": "故障和损伤",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致使用零件损坏的现象。"
+  },
+  {
+   "cn": "动机",
+   "en": "motive",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "直接决定一个人的行为和活动的内在原因或动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.197",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体行为的内在驱动力。一般与个体的内心安全需要和客观生存需要结合在一起。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "由目标或对象引导，激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "生理学名词",
+   "wordNumber": "03.625",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "在社会活动过程中直接推动意志行为的力量。由内在需要和外界环境因素引起，是个体为何要达到目的的主观原因的反映。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "计划生育名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "唤起、推动与维持行为去达到一定目标的内部动力。是人行为的直接原因。是促进人从事某种活动的念头或原因。"
+  },
+  {
+   "cn": "激励",
+   "en": "motivating",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0166",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通过组织成员的需要、愿望、欲望等得到满足，来引导他们以组织或领导所期望的方式行事的管理职能。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0084",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "激发和维持个体活动并使活动朝向一定目标的内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "心理学名词",
+   "wordNumber": "02.736",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由目标或对象引导、激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "动机测试",
+   "en": "motive test",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0167",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "在招聘选拨中，对应聘者的动机倾向进行的测验。"
+  },
+  {
+   "cn": "消费者动机",
+   "en": "consumer motive",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0188",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "足够强烈的消费者需要。其促使消费者去寻求满足该需要，需要被唤醒到足够的强度水平就形成了动机。"
+  },
+  {
+   "cn": "帕拉第奥券柱式",
+   "en": "Palladian motive",
+   "source": "建筑学名词",
+   "wordNumber": "03.0294",
+   "subjectFullName": "建筑学_中外建筑历史_外国19世纪末叶以前建筑",
+   "subjectName": "外国19世纪末叶以前建筑",
+   "publishYear": "2014",
+   "definition": "由文艺复兴著名建筑师帕拉第奥在改建维琴察巴西利卡中首创。他在原有的柱间插入两小柱，在小柱上发券，获得了良好的券柱效果，并且由于大、小柱并存，加强了建筑的空间、层次感，丰富了建筑形象。"
+  },
+  {
+   "cn": "购买动机调查",
+   "en": "motivation research",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.019",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "探求读者在选定出版物过程中自己未曾意识到的动机的市场调查。"
+  },
+  {
+   "cn": "消费者动机",
+   "en": "consumer motivation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.169",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "消费者购买并消费商品时最直接的原因和动力。"
+  },
+  {
+   "cn": "遵从动机",
+   "en": "compliance motivation",
+   "source": "行为医学名词",
+   "wordNumber": "2.084",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "一种以符合他人要求或团体规定为目标的动机。表明个体对重要他人期望的遵从程度。"
+  },
+  {
+   "cn": "动机类型",
+   "en": "motivation type",
+   "source": "行为医学名词",
+   "wordNumber": "4.086",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "根据动机的性质、作用、来源及需要，动机可分为不同的类型。包括生理动机、社会动机、原始动机、习得动机、有意识动机、无意识动机、内在动机、外在动机等。"
+  },
+  {
+   "cn": "生理动机",
+   "en": "physiological motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.087",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "有机体与生俱来的以自身生物学需要为基础，具有原始性、自发性且为人和动物所共有的动机。如饥饿、渴、母性和性欲等。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation\",\"motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "匮乏性动机",
+   "en": "deficiency motivation\",\"deficiency motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主导动机",
+   "en": "leading motive",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "竞争动机",
+   "en": "competitive motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作动机",
+   "en": "cooperative motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识动机",
+   "en": "unconscious motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激励理论",
+   "en": "motivation theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪动机",
+   "en": "criminal motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机性遗忘",
+   "en": "motivated forgetting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在动机",
+   "en": "being motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物性动机",
+   "en": "biological motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外在激励",
+   "en": "extrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲和动机",
+   "en": "affiliation motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成长动机",
+   "en": "growth motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机研究",
+   "en": "motivational research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在激励",
+   "en": "intrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境动机",
+   "en": "situational motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机过程",
+   "en": "motivational process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "移动互联网",
+   "en": "mobile Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运动检测",
+   "en": "motion detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动存储[器]",
+   "en": "mobile storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动消费",
+   "en": "mobile consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动支付",
+   "en": "mobile payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "本地虚拟化",
+   "en": "native virtualization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动微法院",
+   "en": "mobile WeCourt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会动机与需要",
+   "subjectName": "社会动机与需要",
+   "publishYear": "2025",
+   "definition": "一种继发性、习得性和心理性动机，指个体经由后天学习而获得的，以社会文化需要为基础的动机。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "终末激发",
+   "en": "terminal motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮质在持续较长时间的功能活动后，兴奋性逐渐降低，但即将结束工作任务的喜悦可反射性引起大脑皮质一过性兴奋性增高的现象。"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家为了实现伟大的科学发现或为了推进科学研究及发展，以获得相应声誉而持有的抱负。通常表现为科学家为此目的而希望在其事业和工作业绩方面有所成就。"
+  },
+  {
+   "cn": "经济利益驱动掺假",
+   "en": "economic motivated adulteration，EMA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.18",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "卖方以欺诈手段添加虚假物质，去除或替代真实物质，但不告知买方，以谋取经济利益的行为。即为了增加食品产品的表观价值或降低生产成本而在产品中欺骗性地、故意替代或添加物质。"
+  },
+  {
+   "cn": "新民主主义革命的动力",
+   "en": "motive forces of newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0330",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级、农民阶级、城市小资产阶级和民族资产阶级是新民主主义革命的动力，而根本的动力是工人和农民。"
+  },
+  {
+   "cn": "发展生产力的社会动力",
+   "en": "social motive force of developing productive forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0517",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "改革能够解放生产力，扫除生产力发展的障碍，从而推动社会生产的发展。邓小平为大力发展生产力，推动社会主义建设事业的前进，积极倡导、设计和领导了我国的社会主义改革和对外开放，强调这是大力发展生产力的必由之"
+  },
+  {
+   "cn": "运动",
+   "en": "motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0021",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的存在方式及其固有属性，包括一切物质形态的一切变化，从简单的位置变动到复杂的人类思维，都是运动形式。运动与物质不可分割，没有不运动的物质，也没有离开物质的运动。运动是永恒的、绝对的。物质运动的源泉"
+  },
+  {
+   "cn": "理性情绪疗法",
+   "en": "rational-emotive therapy",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "由美国临床心理学家艾利斯(A.Ellis）于1955年创立的主要处理情绪问题的个案工作模式。该疗法强调人具有某些生物性、先天性的心理倾向，这种倾向在个人生活中扮演着重要角色；社会工作者应帮助案主找出他"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  },
+  {
+   "cn": "动员剂",
+   "en": "mobile agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能增加自然转换速率而使放射性核素从体内排除的一类化合物。"
+  },
+  {
+   "cn": "移动式探伤",
+   "en": "mobile radiography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.9",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "在探伤室以外的生产车间、工地或安装现场等场地使用移动式探伤机产生的射线对物体进行照射成像，以检查其内部缺陷的方法。"
+  },
+  {
+   "cn": "积极老龄化",
+   "en": "active aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "世界卫生组织在20世纪90年代后期提出的理念。人到老年时，为提高生活质量，使健康、参与和保障的机会最优化的过程。既适用于个体，也适用于人群。"
+  },
+  {
+   "cn": "绝对运动",
+   "en": "absolute motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0024",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运动是物质的固有属性和根本存在方式，运动是普遍的、永恒的、无条件的，因而是绝对的。世界是永恒运动着的物质世界。"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  },
+  {
+   "cn": "运动战",
+   "en": "mobile warfare",
+   "source": "马克思主义",
+   "wordNumber": "03.0422",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东阐述的中国革命战争的主要形式。根据毛泽东在《中国革命战争的战略问题》《论持久战》等文中的解释可归纳为，正规兵团依托较大的作战空间来换取时间移动兵力包围地方，以优势兵力速战速决。运动战的战略战术原"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  },
+  {
+   "cn": "主动干预",
+   "en": "active intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过激发内因（如主动选择安全设备，或采取健康行为方式等）来影响人们的行为。"
+  },
+  {
+   "cn": "积极反应",
+   "en": "active responding",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者通过及时提问、鼓励、复述、具体化、概述以及情感反应等与求咨者进行互动的咨询技术。有助于求咨者的倾诉继续与深入，也有助于求咨者根据咨询者的反应，审视自己的情绪与心理问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "avoision",
+ "term": "avoision",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:39:50+00:00",
+ "status": "ok",
+ "note": "variant=avoision; 审定公布名词库=320; 海峡两岸名词对照库=99; 其他来源数据库=18; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "生态学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "通过防御来抵御恶劣环境条件的一种生存对策。"
+  },
+  {
+   "cn": "避-避冲突",
+   "en": "avoidance-avoidance conflict",
+   "source": "行为医学名词",
+   "wordNumber": "4.099",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体同时面对两件不喜欢或令人厌恶的事物，要回避其一就必然遭遇另一件时所产生的心理冲突。"
+  },
+  {
+   "cn": "避逆性",
+   "en": "stress avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.179",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过各种方式在时间或空间上避开逆境危害，不与逆境相遇的抗逆方式。"
+  },
+  {
+   "cn": "避旱性",
+   "en": "drought avoidance",
+   "source": "农学名词",
+   "wordNumber": "07.226",
+   "subjectFullName": "作物生理生态_逆境生理与生态",
+   "subjectName": "逆境生理与生态",
+   "publishYear": "2025",
+   "definition": "作物通过改变生育进程，使水分敏感期避开干旱，或在严重干旱发生之前完成生活史的特性。"
+  },
+  {
+   "cn": "不确定性规避",
+   "en": "uncertainty avoidance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.056",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "霍夫斯塔德提出的文化维度之一。对不确定性和模糊情景所产生的威胁的一种社会感受，并试图加以摆脱和避免的心态。不同的文化所表现的不确定性规避有显著差异。强调规避不确定的文化成员相对具有情感上的高焦虑和应激"
+  },
+  {
+   "cn": "回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "行为医学名词",
+   "wordNumber": "2.041",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "当厌恶刺激或不愉快情境预示出现，个体做出某种反应，以回避厌恶刺激或不愉快情境的过程。"
+  },
+  {
+   "cn": "回避行为",
+   "en": "avoidance behavior",
+   "source": "行为医学名词",
+   "wordNumber": "2.042",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "个体对厌恶刺激所表现的躲避反应。刺激出现时表现为规避式逃匿。"
+  },
+  {
+   "cn": "回避症状",
+   "en": "avoidance symptom",
+   "source": "行为医学名词",
+   "wordNumber": "10.095",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激相关障碍",
+   "subjectName": "应激相关障碍",
+   "publishYear": "2022",
+   "definition": "创伤事件后，出现持续回避与创伤性事件有关刺激的一种现象。"
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "经济学名词",
+   "wordNumber": "09.093",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "纳税人利用税法上的漏洞或税法允许的办法，做适当的财务安排或税收策划，在不违反税法规定的前提下，达到减轻或解除税负的目的。"
+  },
+  {
+   "cn": "回避性反射",
+   "en": "avoidance reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避系统",
+   "en": "avoidance system",
+   "source": "生理学名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0344",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2020",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0713",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物通过将吸入体内的盐分稀释或将盐排至体外以避免高盐毒害的特性。非盐生植物抗盐主要取此途径。"
+  },
+  {
+   "cn": "回避交叉",
+   "en": "avoided crossing",
+   "source": "物理学名词",
+   "wordNumber": "07.0267",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "御逆性",
+   "en": "stress avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0657",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物通过特定的形态结构消除胁迫因子的影响，使其在逆境下仍能进行基本正常生理活动的特性。如，耐旱植物通过根系发达、叶片小、角质层厚、蒸腾低、输导组织发达等形态特征来抵御干旱胁迫。"
+  },
+  {
+   "cn": "御旱性",
+   "en": "drought avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0681",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "某些植物在干旱环境下，通过其特定的形态结构使其组织维持较高的含水量以抵抗干旱的特性。"
+  },
+  {
+   "cn": "御热性",
+   "en": "heat avoidance",
+   "source": "植物学名词",
+   "wordNumber": "11.0705",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物通过对热胁迫的屏蔽作用，使植物体内温度不致因外界温度增高而升高的特性。"
+  },
+  {
+   "cn": "死锁避免",
+   "en": "deadlock avoidance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0464",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "在系统运行过程中，动态检查进程发出的每一个资源申请，并根据检查结果决定是否分配资源，使得死锁不发生。"
+  },
+  {
+   "cn": "冲突避免",
+   "en": "collision avoidance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0410",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一种多路访问算法。结点在发送数据帧之前通过发送长度较短的控制帧、让接收方应答的交互过程进行通道预约，以避免在接下去的信息传输过程中发生冲突。"
+  },
+  {
+   "cn": "拖延",
+   "en": "avoidable delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1027",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "由主观原因造成的停顿，从手不再工作的瞬间开始到重新工作的瞬间结束。"
+  },
+  {
+   "cn": "回避,逃避",
+   "en": "avoidance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避性",
+   "en": "avoidance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双避冲突",
+   "en": "avoidance avoidance conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "御旱性",
+   "en": "drought avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御逆性",
+   "en": "stress avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御热性",
+   "en": "heat avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "御盐性",
+   "en": "salt avoidance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回避型人格",
+   "en": "avoidant personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避反应",
+   "en": "avoidance response",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避对象",
+   "en": "avoidance object",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避性训练",
+   "en": "avoidance training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避条件反射，回避条件作用",
+   "en": "avoidance conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避应对",
+   "en": "avoidance coping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回避学习",
+   "en": "avoidance learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "避税",
+   "en": "tax avoidance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "避错，故障避免",
+   "en": "fault avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等待避免",
+   "en": "latency avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气象回避",
+   "en": "weather avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "死锁避免",
+   "en": "deadlock avoidance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脱窠臼",
+   "en": "Avoid Stereotypes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"dodge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避",
+   "en": "avoid\",\"duck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "避免去人多的地方",
+   "en": "to avoid crowds",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "避实击虚",
+   "en": "Avoid the Strong and Attack the Weak",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避免使某个国家或特定群体蒙受污名",
+   "en": "to avoid stigmatizing a country or particular group",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器视觉",
+   "en": "machine vision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新发展观",
+   "en": "a new vision on development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《20190805-T-469 信息技术 计算机视觉 术语》",
+   "en": "20190805-T-469 Information technology — Computer vision — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《“一带一路”建设海上合作设想》",
+   "en": "Vision for Maritime Cooperation under the Belt and Road Initiative",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界眼光、国际标准、中国特色、高点定位",
+   "en": "global vision, international standards, distinctive Chinese features, and future-oriented goals",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《共同推进“一带一路”建设农业合作的愿景与行动》",
+   "en": "Vision and Action on Jointly Promoting Agricultural Cooperation on the Belt and Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新时代中国特色社会主义发展战略安排",
+   "en": "the strategic vision for developing socialism with Chinese characteristics for a new era",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》",
+   "en": "Vision and Actions on Jointly Building Silk Road Economic Belt and 21st-Century Maritime Silk Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《推动丝绸之路经济带和21世纪海上丝绸之路能源合作愿景与行动》",
+   "en": "Vision and Actions on Energy Cooperation in Jointly Building Silk Road Economic Belt and 21st-Century Maritime Silk Road",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《推动共建丝绸之路经济带和21世纪 海上丝绸之路的愿景与行动》",
+   "en": "Join Hands to Build a Silk Road Economic Belt and a 21st Century Maritime Silk Road — Vision and Actions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可缩减成本",
+   "en": "avoidable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "在正常经营运行情况下可降低的成本。"
+  },
+  {
+   "cn": "回避型依恋",
+   "en": "avoidant attachment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不良、消极的依恋行为。对母亲的来去无所谓，很少依恋或纠缠母亲。"
+  },
+  {
+   "cn": "避险",
+   "en": "risk avoidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "在危险发生时及时采取正确措施，最大限度减少健康损失的举措。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk avoidance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "通过一些方法来消除风险或降低风险，保护目标免受风险的影响。"
+  },
+  {
+   "cn": "信息规避行为",
+   "en": "information avoidance behavior",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "旨在避免或延迟获取可获得信息的行为，导致信息规避行为的动机大致可以归纳为个人、信息和情景三类因素。"
+  },
+  {
+   "cn": "回避致敏食物",
+   "en": "avoiding allergenic food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "对明确为过敏原的所有食物进行完全的回避，回避期间要选用可保障婴幼儿正常生长发育的其他替代食物进行喂养。"
+  },
+  {
+   "cn": "避免环境有害行为",
+   "en": "avoid environmentally harmful behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对有害环境(包括自然环境和生活环境)采用调试、主动回避、积极应对等维护自身健康的行为。"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "视觉系统的外周感觉器官(眼)接受一定波长范围的光刺激，经中枢编码加工和分析后获得的感觉。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "视力不良",
+   "en": "poor vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "根据《标准对数视力表》（国家标准GB11533-2011）检查远视力，6岁以上儿童少年裸眼视力低于5.0的情况。其中，视力4.9为轻度，4.6≤视力≤4.8为中度，视力≤4.5为重度。"
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以日常生活视力较好眼判断得出的视力或视野功能不足的状态。轻度，4.5（0.3）≤视力<4.7（0.5）；中度，4.0（0.1）≤视力<4.5（0.3）；重度，3.7（0.05）≤视力<4.0（0.1）"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<4.5（0.3）的状态。"
+  },
+  {
+   "cn": "视力残疾筛查",
+   "en": "vision disability screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.3.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "分为初筛和复筛两阶段，通过眼外观检查、儿童发育问题预警征象观察、以及利用红球、聚光手电灯、视力表等器材检查儿童是否存在眼部畸形、病变、视力低下问题，以早期诊断、早期治疗干预的方法。"
+  },
+  {
+   "cn": "战略愿景",
+   "en": "strategic aim and vision",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.3",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "组织对未来的理想状态的清晰表述，具有前瞻性和激励性，通常超越当前的工作范围与环境，为通过努力要达到的长期目标，以解决“我们希望成为什么”的问题。"
+  },
+  {
+   "cn": "明视持久度",
+   "en": "duration of photopic vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "明视时间与注视总时间的百分比。是检查学习、工作效率和疲劳状态，研究照明条件对视疲劳影响的方法之一。"
+  },
+  {
+   "cn": "儿童眼与视力保健",
+   "en": "child's eye and vision health care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "根据不同年龄段正常儿童眼及视觉发育特点，为辖区内0～6岁儿童提供的定期视力检查与眼保健服务。主要包括眼健康教育和保健指导、眼病筛查与干预、转诊、眼健康档案信息登记与管理等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "repressive satisfactions",
+ "term": "repressive satisfactions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:43:59+00:00",
+ "status": "ok",
+ "note": "variant=repressive satisfactions; 审定公布名词库=344; 海峡两岸名词对照库=72; 其他来源数据库=12; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.047",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "阻遏物或阻遏物-辅阻遏物复合物与基因的调控序列结合而将其封闭，从而阻止基因表达的过程。"
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.098",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "基因的表达在mRNA合成（转录）阶段为特异的调节因子（阻遏物）所抑制的过程。"
+  },
+  {
+   "cn": "复压",
+   "en": "repressing",
+   "source": "冶金学名词",
+   "wordNumber": "08.0256",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "为了提高物理和(或)力学性能，对烧结制品进行再压制的过程。"
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "心理学名词",
+   "wordNumber": "15.012",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "个体无意识地把不能接受的冲动、情感和记忆排除在意识之外的一种防御机制。"
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.263",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "心理防御机制的一种。个体将意识不能接受的欲念、情感、冲动经验和记忆放逐到潜意识中去，使之不为意识所觉知，以避免产生焦虑、恐惧、愧疚的过程。"
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "遗传学名词",
+   "wordNumber": "03.509",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "基因转录受阻。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "顾客在比较其对产品服务品质的期望与实际感受后，所感觉的一种愉悦或失望的程度。反映的是顾客的一种心理状态。"
+  },
+  {
+   "cn": "约束满足",
+   "en": "constrained satisfaction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "变量集合中所有变量的取值使得约束集中的每个约束都成立，或更进一步，并使目标函数最大化。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "work satisfaction",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.094",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对自己的工作能够获得最好结果评估的情绪和情感期待。它源自对个体的工作或者工作经历评估的一种快乐或积极的情绪状态。五个维度代表组织成员情感反应的重要特征：(1)工作为个体提供有趣的任务、学习的机"
+  },
+  {
+   "cn": "性满足",
+   "en": "sexual satisfaction",
+   "source": "行为医学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "由性快感趋于性高潮的极度快慰、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "性满足",
+   "en": "sex satisfaction",
+   "source": "计划生育名词",
+   "wordNumber": "08.044",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "由性快感趋于性高潮的极度愉悦、舒畅、惬意的反应。"
+  },
+  {
+   "cn": "读者满意度",
+   "en": "reader satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "读者在接受图书馆一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "用户满意度",
+   "en": "user satisfaction",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.264",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户在接受图书情报机构一次或多次服务之后的内心感受和主观评价，是其接受服务的可感知效果与其期望值比较的程度。"
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0017",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务被感知到的绩效表现达成购买者期望的程度。"
+  },
+  {
+   "cn": "工作满意度",
+   "en": "job satisfaction",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0103",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对工作的信念、评价和情感反应。"
+  },
+  {
+   "cn": "满意度",
+   "en": "satisfaction degree",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0444",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "衡量“满意”这一心理状态的指标。例如社会保障满意度，是指社会保障服务对象对政府及其社会保障服务机构提供社会保障资金和服务的供给能力、服务方式和客观效果的满意程度。"
+  },
+  {
+   "cn": "术后满意度",
+   "en": "postoperative satisfaction",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.062",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对手术效果的满意程度。"
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "心理学名词",
+   "wordNumber": "12.025",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "员工对工作的满意程度。"
+  },
+  {
+   "cn": "满意度评价",
+   "en": "satisfaction evaluation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "以接受服务者的需要是否被满足作为客观评价的尺度，是终末质量评价的一种方法。"
+  },
+  {
+   "cn": "患者满意度",
+   "en": "patient satisfaction",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "由患者主观判断获得的卫生服务满足其需求和期望的程度。"
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复压",
+   "en": "repressing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "工作满意感",
+   "en": "job satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯满意度",
+   "en": "career satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顾客满意度",
+   "en": "customer satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赎回价格",
+   "en": "satisfaction price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "约束满足",
+   "en": "constraint satisfaction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融压制",
+   "en": "financial repression",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反式阻遏[作用]",
+   "en": "trans-repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "翻译阻遏",
+   "en": "translation repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反式阻遏",
+   "en": "trans-repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分解代谢物阻遏",
+   "en": "catabolite repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录阻遏",
+   "en": "transcription repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏酶",
+   "en": "repressible enzyme",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏型操纵子",
+   "en": "repressible operon",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同阻遏,协同抑制",
+   "en": "coordinate repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费满意度",
+   "en": "financial consumer satisfaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "压制型法",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.8",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "反映居支配地位的道德，以维护权威为首要目的，法律机构容易直接受到政治权力影响的一种法律。P.诺内特和P.塞尔兹尼克将社会中的法律现象分为三种类型，即压制型法、自治型法和回应型法。"
+  },
+  {
+   "cn": "满足的极限",
+   "en": "limits to satisfaction",
+   "source": "马克思主义",
+   "wordNumber": "05.0082",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "威廉·莱斯（William Leiss）《满足的极限》从需要、商品和消费的关系出发，研究了发达工业社会中人的需要问题，他认为工业社会将人的需要的满足完全导向于对商品的最大限度的消费与满足。他提出人们应"
+  },
+  {
+   "cn": "卫生服务满意度",
+   "en": "health service satisfaction",
+   "source": "社会医学名词",
+   "wordNumber": "8.12.12",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务评价",
+   "publishYear": "2025",
+   "definition": "居民在卫生服务需求被满足后产生的愉悦感，是对卫生服务期望与实际体验之间关系的反映，即是在接受预防、医疗、康复、健康促进等卫生服务后，对其所获得服务的体验、过程和结果的主观感受的满意程度。"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "压抑性心理机制",
+   "en": "repressed psychological mechanisms",
+   "source": "马克思主义",
+   "wordNumber": "05.0051",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，伴随着科学技术与消费社会为特征的现代社会的发展，人的异化主要不是外在力量的统治与压抑，而是更多地表现为人的“自我异化”，即压抑性的心理机制。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "儿童抑郁症",
+   "en": "depressive disorders in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "发生在儿童期，以情绪显著而持久的低落为基本临床表现，并伴随躯体和认知改变，显著影响到儿童功能的一种精神障碍。有反复发作倾向。"
+  },
+  {
+   "cn": "儿童重性抑郁障碍",
+   "en": "major depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "至少持续2周的发作（尽管绝大多数的发作持续更久），涉及情感、认知和植物神经功能的明显变化和发作间缓解的一种精神疾病。发作时核心症状是抑郁心境，或对几乎所有活动丧失兴趣或愉悦。儿童可能表现为情绪易激惹。"
+  },
+  {
+   "cn": "儿童持续性抑郁障碍",
+   "en": "persistent depressive disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "一种常见的抑郁障碍。至少在2年的多数日子里，一天中的多数时间出现抑郁心境，既可以是主观体验也可以是他人观察到的，儿童、青少年可以表现为易激惹，且持续至少1年。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

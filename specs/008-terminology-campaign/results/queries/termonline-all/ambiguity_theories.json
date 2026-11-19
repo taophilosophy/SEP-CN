@@ -1,0 +1,642 @@
+{
+ "key": "ambiguity theories",
+ "term": "ambiguity theories",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:27:52+00:00",
+ "status": "ok",
+ "note": "variant=ambiguity theories; 审定公布名词库=2108; 海峡两岸名词对照库=724; 其他来源数据库=134; 预公布名词数据库=247; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0529",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自然语言中，人或者机器对同一语言形式有多种解读的现象。"
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.809",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "语言学单位具有多于一种的意义。"
+  },
+  {
+   "cn": "多值性",
+   "en": "ambiguity",
+   "source": "航海科技名词",
+   "wordNumber": "04.0019",
+   "subjectFullName": "航海科学技术_电子航海",
+   "subjectName": "电子航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "source": "电子学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "战略模糊性",
+   "en": "strategic ambiguity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.101",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "通过有目的的模糊手段来获得个人或组织利益的方式。美国著名组织传播学者埃里克·艾森伯格(Eric.M.Eisenberg)1984年首次提出这个命题。他认为，在组织的所有层次上，一个组织的所有组织成员可"
+  },
+  {
+   "cn": "整周模糊度",
+   "en": "integer ambiguity",
+   "source": "测绘学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "接收机开始跟踪卫星信号时载波相位测量所包含的待解未知整周数。"
+  },
+  {
+   "cn": "相位多值性",
+   "en": "phase ambiguity",
+   "source": "测绘学名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "无线电相位定位设备中，相位差所呈现的整周不确定性。"
+  },
+  {
+   "cn": "二义组配",
+   "en": "ambiguity coordination",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "组配标引的结果所表达的含义不准确、存在歧义的现象。"
+  },
+  {
+   "cn": "固有歧义性",
+   "en": "inherent ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0502",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "产生一个上下文无关语言的每一个上下文无关文法都是歧义文法。"
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0530",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "针对歧义现象，运用语境及其他知识，从众多解读中选择出正确解读的过程。"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntactic ambiguity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0520",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "按照给定的句法规则，分析同一自然语言句子或其片段得到不止一种句法结构的现象。"
+  },
+  {
+   "cn": "角色模糊",
+   "en": "role ambiguity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0239",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "对给定角色的期望或规定缺乏明确的理解和认知。"
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.810",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个词具有多种独立意义时出现的歧义。"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntactic ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.811",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个句子中的词能组成多种合理的句法结构时出现的歧义。"
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntactic ambiguity",
+   "source": "语言学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由句法结构因素导致的歧义。包括由于层次构造不同导致的歧义，例如，“支持我的同学”既可以理解为述宾短语，也可以理解为偏正短语；由于语法关系不同导致的歧义，例如，“经济困难”既可以理解为主谓短语，也可以理"
+  },
+  {
+   "cn": "距离模糊",
+   "en": "range ambiguity",
+   "source": "大气科学名词",
+   "wordNumber": "03.205",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "以脉冲方式测距的雷达探测目标物时，目标物距离超过雷达脉冲间隔所确定的距离后，雷达无法确定目标物的确切距离的现象。"
+  },
+  {
+   "cn": "速度模糊",
+   "en": "velocity ambiguity",
+   "source": "大气科学名词",
+   "wordNumber": "03.207",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "脉冲多普勒雷达以脉冲周期为间隔的采集目标物回波信号，在两次采样之间目标物相对雷达运动造成信号中相位的变化超过±180°时,雷达无法确认其准确的相位变化量，也无法确定其准确的多普勒速度的现象。"
+  },
+  {
+   "cn": "模糊距离",
+   "en": "ambiguity range",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.372",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "距离模糊",
+   "en": "range ambiguity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.593",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "方位模糊",
+   "en": "azimuth ambiguity",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.594",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度",
+   "en": "ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧义",
+   "en": "ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多值性（模糊度）",
+   "en": "ambiguity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "句法歧义",
+   "en": "syntax ambiguity\",\"syntactic ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "速度模糊",
+   "en": "velocity ambiguity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方位模糊",
+   "en": "azimuth ambiguity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相位多值性",
+   "en": "phase ambiguity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "固有多义性",
+   "en": "inherent ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离模糊",
+   "en": "range ambiguity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊函数",
+   "en": "ambiguity function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊图",
+   "en": "ambiguity diagram",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧义消解",
+   "en": "ambiguity resolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊度解析",
+   "en": "ambiguity resolution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "歧义刺激，模糊刺激",
+   "en": "ambiguous stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多义密码子",
+   "en": "ambiguous codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多义密码子",
+   "en": "ambiguous codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多义文法",
+   "en": "ambiguous grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相位模糊度解算",
+   "en": "phase ambiguity resolution",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "集合论",
+   "en": "set theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归论",
+   "en": "recursion theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "瘴气说",
+   "en": "miasmatic theories",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.10",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种解释病因的理论，它将特定的环境条件和/或特定地点与疾病暴发联系起来进行解释。"
+  },
+  {
+   "cn": "全球化理论",
+   "en": "globalizationrelated theories",
+   "source": "马克思主义",
+   "wordNumber": "05.0096",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来，以资本主义全球化为主要批判对象的一系列理论的总称，包括依附理论、后殖民理论、世界体系理论、晚期资本主义文化批评理论、后工业社会理论、“第三条道路”理论、文明冲突论等。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

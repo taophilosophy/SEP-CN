@@ -1,0 +1,552 @@
+{
+ "key": "steen benzmuller",
+ "term": "Steen Benzmüller",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:16:52+00:00",
+ "status": "ok",
+ "note": "variant=Steen Benzmüller; 审定公布名词库=898; 海峡两岸名词对照库=330; 其他来源数据库=25; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "冶金学名词",
+   "wordNumber": "01.0046",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "以Fe-C为主的(一般碳含量低于2.0%)并根据服役要求添加某些合金元素的铁基合金。"
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "以铁为主要元素，碳含量一般在2.0%以下并含有其他元素的金属材料。"
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.169",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "艉",
+   "en": "stern",
+   "source": "航海科技名词",
+   "wordNumber": "08.0003",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "型钢",
+   "en": "section steel,structural steel,shaped steel",
+   "source": "建筑学名词",
+   "wordNumber": "12.0213",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "用热轧方式或冷弯加工方式制成各种规定截面形状的钢材。"
+  },
+  {
+   "cn": "钢号",
+   "en": "steel designation,steel grade",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "钢的牌号。是每一种具体钢铁产品的名称。我国的钢号一般采用汉语拼音字母、化学元素符号和阿拉伯数字相结合的方法表示。"
+  },
+  {
+   "cn": "石墨钢",
+   "en": "graphitic steel,graphitizable steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0368",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "有意加入石墨化元素硅铝等经石墨化退火后在其组织中存在一定量石墨的钢。钢水中加入孕育剂则可获得铸态石墨钢。"
+  },
+  {
+   "cn": "优质钢",
+   "en": "special steel,quality steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0212",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "特殊质量非合金钢、特殊质量低合金钢和特殊质量合金钢的总称。硫、磷等杂质、微量残存元素、非金属夹杂的含量的控制及碳含量的波动范围要求较严的钢。"
+  },
+  {
+   "cn": "沸腾钢",
+   "en": "rimming steel,rimmed steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0222",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "未经脱氧或未充分脱氧，浇注时钢液中碳和氧会发生反应产生CO气体而发生沸腾现象的钢。"
+  },
+  {
+   "cn": "钢管",
+   "en": "steel pipe,steel tube",
+   "source": "土木工程名词",
+   "wordNumber": "01.195",
+   "subjectFullName": "土木工程_工程材料_管材",
+   "subjectName": "管材",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尾滚筒",
+   "en": "stern barrel,stern roll",
+   "source": "水产名词",
+   "wordNumber": "09.210",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "起放网的辅助装置而横设于拖网渔船甲板尾端的长滚筒。"
+  },
+  {
+   "cn": "尾滚筒",
+   "en": "stern barrel,stern roll",
+   "source": "船舶工程名词",
+   "wordNumber": "09.227",
+   "subjectFullName": "船舶工程_专用船特有设备_渔船",
+   "subjectName": "渔船",
+   "publishYear": "1998",
+   "definition": "供起放网而横设于拖、围网渔船甲板尾端的长滚筒。"
+  },
+  {
+   "cn": "钢丝",
+   "en": "steel thread;steel wire;wire-steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1094",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "用热轧盘条经冷拉制成的钢产品。"
+  },
+  {
+   "cn": "MSS 序列",
+   "en": "Metropolis-Stein-Stein sequence",
+   "source": "物理学名词",
+   "wordNumber": "11.0505",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "钢模板",
+   "en": "steel form,sheet steel form",
+   "source": "电力名词",
+   "wordNumber": "15.079",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "用于混凝土浇筑成型的钢制模板。"
+  },
+  {
+   "cn": "钢筋",
+   "en": "steel bar,reinforcing steel bar",
+   "source": "建筑学名词",
+   "wordNumber": "12.0207",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "用于混凝土结构构件中的钢条、钢丝和钢绞线的总称。"
+  },
+  {
+   "cn": "无间隙原子钢",
+   "en": "interstitial-free steel,IF steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0291",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "在碳、氮含量极低(碳、氮总含量小于50×1016)的钢中加入超过理想化学配比的钛或铌元素使得室温基体组织为无间隙原子存在的铁素体的超深冲钢。"
+  },
+  {
+   "cn": "针状铁素体钢",
+   "en": "acicular ferrite steel,AF steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0302",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "室温使用态组织为针状铁素体或针状铁素体与等轴铁素体混合物的低碳或超低碳低合金钢。"
+  },
+  {
+   "cn": "耐火钢",
+   "en": "fire-resistant steel,FR steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0296",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "一般规定在600℃1~3小时内的屈服强度大于室温屈服强度的2/3，用于钢结构建筑或高层大型建筑的在一定条件下具有防火抗坍塌功能的工程结构钢。"
+  },
+  {
+   "cn": "钢筋",
+   "en": "steel bar,reinforcing steel bar",
+   "source": "土木工程名词",
+   "wordNumber": "01.160",
+   "subjectFullName": "土木工程_工程材料_配筋材料",
+   "subjectName": "配筋材料",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艉",
+   "en": "stern",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优质钢",
+   "en": "quality steel\",\"special steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "带钢",
+   "en": "steel strip\",\"strip steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢号",
+   "en": "steel designation\",\"steel grade",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "沸腾钢",
+   "en": "rimmed steel\",\"rimming steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "石墨钢",
+   "en": "graphitic steel\",\"graphitizable steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "尾滚筒",
+   "en": "stern barrel\",\"stern roll",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艉部结构",
+   "en": "stern structure\",\"stern construction",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "针状铁素体钢",
+   "en": "acicular ferrite steel\",\"AF steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "无间隙原子钢",
+   "en": "interstitial-free steel\",\"IF steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "耐火钢",
+   "en": "fire-resistant steel\",\"FR steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "严酷气候",
+   "en": "stern climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "铬钢",
+   "en": "chrome steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强力玻璃",
+   "en": "steel glass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镇静钢",
+   "en": "killed steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢纤维",
+   "en": "steel fiber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软钢",
+   "en": "mild steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "艇尾",
+   "en": "stern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌舵",
+   "en": "steer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌舵",
+   "en": "steer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉",
+   "en": "stern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艇尾",
+   "en": "stern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌舵",
+   "en": "cox\",\"steer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉支柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾浪",
+   "en": "stern-wave",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.4",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "以铁为主要元素，碳含量一般在2.0%以下并含有其他元素的金属材料。X、γ射线屏蔽材料，密度为7.8g·cm-3。"
+  },
+  {
+   "cn": "斯坦因",
+   "en": "Aurel Stein",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0596",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "匈牙利裔英国考古学家、地理学家。1900-1931 年期间先后四次在我国新疆、甘肃等西北地区进行探险、考古活动，盗走大量极其珍贵的文物，并基于此撰写出版了《古代和阗》、《西域》、《西域考古记》等。"
+  },
+  {
+   "cn": "不锈钢片载体",
+   "en": "stainless steel sheet carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的直径12mm、厚度0.5mm的不锈钢片作为试验微生物的支持物。多制成圆片，根据特定用途也可制成其他尺寸，常用于手术器械的消毒试验。"
+  },
+  {
+   "cn": "不锈钢针载体",
+   "en": "stainless steel needle carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的直径为 0.4mm，长度为20mm的不锈钢针作为试验微生物的支持物，常用于管腔类医疗器械的消毒试验。"
+  },
+  {
+   "cn": "不锈钢圆筒载体",
+   "en": "stainless steel cylinder carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的表面抛光，直径0.4mm、长度20mm、壁厚1mm±0.5mm的不锈钢圆筒作为试验微生物的支持物。常用于消毒剂消毒效果定性试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,452 @@
+{
+ "key": "colonization",
+ "term": "colonization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:23:56+00:00",
+ "status": "ok",
+ "note": "variant=colonization; 审定公布名词库=147; 海峡两岸名词对照库=42; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "定殖",
+   "en": "colonization",
+   "source": "农学名词",
+   "wordNumber": "15.268",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "生物占据特定生态位的过程。"
+  },
+  {
+   "cn": "定植",
+   "en": "colonization",
+   "source": "兽医学名词",
+   "wordNumber": "16.068",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "细菌通过黏附在宿主消化道、呼吸道、生殖道、尿道、眼结膜及皮肤等处而实现的定居。"
+  },
+  {
+   "cn": "定植",
+   "en": "colonization",
+   "source": "感染病学名词",
+   "wordNumber": "01.0124",
+   "subjectFullName": "感染病学_总论_病原体毒力因子",
+   "subjectName": "病原体毒力因子",
+   "publishYear": "2019",
+   "definition": "病原体在宿主的某一特定部位寄生、繁殖或致病的过程。定植的部位与微生物的入侵门户、黏附性及其他特性相关。"
+  },
+  {
+   "cn": "定居",
+   "en": "colonization",
+   "source": "植物学名词",
+   "wordNumber": "13.0541",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "植物的繁殖体(如孢子、种子、鳞茎、根茎、珠芽等)到达新地段后，在新地段上萌发、生长，并成功繁殖后代和完成生活周期的过程。"
+  },
+  {
+   "cn": "定植",
+   "en": "colonization",
+   "source": "微生物学名词",
+   "wordNumber": "08.282",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "微生物在一定环境(如肠道)中长期存活并繁殖的过程。"
+  },
+  {
+   "cn": "定居",
+   "en": "colonization",
+   "source": "生态学名词",
+   "wordNumber": "05.116",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "生物由原分布区迁入新分布区，并能在新分布区生长发育，成功繁殖的过程。"
+  },
+  {
+   "cn": "拓殖",
+   "en": "colonization",
+   "source": "地理学名词",
+   "wordNumber": "06.134",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "植物的繁殖体在一个新的地区萌发、成长并繁殖后代的过程。"
+  },
+  {
+   "cn": "群集现象",
+   "en": "colonization",
+   "source": "昆虫学名词",
+   "wordNumber": "11.489",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "恙螨幼螨具有集中于物体尖端的习性，物体倾斜度越大，幼螨向尖端集中越多。"
+  },
+  {
+   "cn": "结肠",
+   "en": "colon，colon(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.140",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "肠中前接盲肠，后接直肠的部分。不同动物结肠盘曲的形状有很大差异，如马形成双层马蹄铁形，牛、羊呈圆盘状肠袢，猪形成结肠圆锥。"
+  },
+  {
+   "cn": "肠",
+   "en": "colon",
+   "source": "普通外科学名词",
+   "wordNumber": "19.001",
+   "subjectFullName": "医学_普通外科学_结直肠与腹膜后肿瘤外科",
+   "subjectName": "结直肠与腹膜后肿瘤外科",
+   "publishYear": "2026",
+   "definition": "消化道下段的管腔结构。上接续小肠，下止于直肠。包括盲肠、升结肠、横结肠、降结肠和乙状结肠。主要功能为摄取水、钾和一些脂溶性维生素。"
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "消化病学名词",
+   "wordNumber": "6.001",
+   "subjectFullName": "消化病_结直肠_结直肠解剖",
+   "subjectName": "结直肠解剖",
+   "publishYear": "2022",
+   "definition": "介于盲肠与直肠之间的一段肠道。整体呈M形，包绕于空肠、回肠周围。分为升结肠、横结肠、降结肠和乙状结肠四部分。腔径自起始端的6cm，逐渐递减为乙状结肠末端的2.5cm。"
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "动物学名词",
+   "wordNumber": "6.0858",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2021",
+   "definition": "哺乳动物在盲肠和直肠之间的部分。"
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "核医学名词",
+   "wordNumber": "04.1509",
+   "subjectFullName": "核医学_临床核医学_消化系统核医学_消化系统解剖生理基础",
+   "subjectName": "消化系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "消化管的下段部分。上接续小肠，下止于肛门。包括升结肠(包括盲肠)、横结肠、降结肠和乙状结肠 。主要功能为提取水和盐。"
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0269",
+   "subjectFullName": "人体解剖学_内脏学_消化系统",
+   "subjectName": "消化系统",
+   "publishYear": "2014",
+   "definition": "位于盲肠与直肠之间的一段大肠。分为升结肠、横结肠、降结肠和乙状结肠四部分。"
+  },
+  {
+   "cn": "定植抗力",
+   "en": "colonization resistance",
+   "source": "感染病学名词",
+   "wordNumber": "01.0808",
+   "subjectFullName": "感染病学_总论_感染与微生态",
+   "subjectName": "感染与微生态",
+   "publishYear": "2019",
+   "definition": "微生态系统的原籍菌对外来微生物的拮抗作用或阻抗力。"
+  },
+  {
+   "cn": "定植抗力",
+   "en": "colonization resistance",
+   "source": "烧伤学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤感染及其防治",
+   "subjectName": "烧伤感染及其防治",
+   "publishYear": "2019",
+   "definition": "肠道正常菌群中的厌氧菌能阻止致病的需氧菌在肠黏膜上定植的现象。"
+  },
+  {
+   "cn": "定居速率",
+   "en": "colonization rate",
+   "source": "生态学名词",
+   "wordNumber": "05.117",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "单位时间内生物经扩散到新地区之后成功定居的个体数。"
+  },
+  {
+   "cn": "可口可乐殖民主义",
+   "en": "coca colonization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.036",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "通常指美国以商品输出的形式所进行的文化扩张。这一概念由法国共产党于1949年首次提出，以反对“二战”后可口可乐公司在法国的进一步扩张。在“二战”与“冷战”期间，可口可乐一直被当作“瓶装的美国精神”以及"
+  },
+  {
+   "cn": "滤泡植入",
+   "en": "follicular colonization",
+   "source": "血液学名词",
+   "wordNumber": "4.196",
+   "subjectFullName": "血液学_常用检查_血液病理检测_组织病理学",
+   "subjectName": "组织病理学",
+   "publishYear": "2022",
+   "definition": "肿瘤性边缘区细胞侵入反应性淋巴滤泡中，致淋巴滤泡部分或完全破坏的现象。"
+  },
+  {
+   "cn": "细菌定植",
+   "en": "bacterial colonization",
+   "source": "器官移植学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "器官移植学_器官移植围手术期与术后管理",
+   "subjectName": "器官移植围手术期与术后管理",
+   "publishYear": "2020",
+   "definition": "各种微生物(细菌)从不同环境落到人体，并能在一定部位定居和不断生长、繁殖后代。"
+  },
+  {
+   "cn": "定居，拓殖",
+   "en": "colonization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖（=定居）",
+   "en": "colonization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖",
+   "en": "colonization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖",
+   "en": "colonization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖",
+   "en": "colonization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "建群",
+   "en": "colonization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群集现象",
+   "en": "colonization",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结肠",
+   "en": "colon",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖曲线",
+   "en": "colonization curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "遗传寄生",
+   "en": "genetic colonization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传寄生",
+   "en": "genetic colonization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拓殖率",
+   "en": "colonization rate\",\"rate of colonization",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "横结肠",
+   "en": "transverse colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活动结肠",
+   "en": "mobile colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "降结肠",
+   "en": "descending colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "升结肠",
+   "en": "ascending colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "乙状结肠",
+   "en": "sigmoid colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "定居种，拓殖种，开拓种",
+   "en": "colonizing species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开拓种（=定居种）",
+   "en": "colonizing species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "殖民化",
+   "en": "colonization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.8.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_殖民化",
+   "subjectName": "殖民化",
+   "publishYear": "2025",
+   "definition": "强国将自身的政治经济或文化势力扩张到弱国或不发达地区，将弱国或不发达地区变为自己的附属或建立自己的附庸机构，藉此对外延伸其主权，剥削或奴役弱国或不发达地区的过程。"
+  },
+  {
+   "cn": "生活世界的殖民化",
+   "en": "life-world colonization",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.29",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "现代社会中，系统对生活世界的控制。现代社会的市场机制和官僚制的权力侵蚀了原本属于私人领域和公共领域的非市场和非商品化的行为，以金钱和权力为媒介的系统日益控制着人们的生活世界。"
+  },
+  {
+   "cn": "放射致结肠癌",
+   "en": "radiation induced colon cancer",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.6.2.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病_随机效应",
+   "subjectName": "随机效应",
+   "publishYear": "2025",
+   "definition": "电离辐射致结肠黏膜细胞的恶性病变。这些细胞在射线作用下，失去原有的繁殖特征，增殖失控，不断生长，形成肿块。可分为盲肠癌、升结肠癌、结肠肝曲癌、横结肠癌、结肠脾区癌和乙状结肠癌。"
+  },
+  {
+   "cn": "生活世界的殖民化",
+   "en": "the colonization of the life world",
+   "source": "马克思主义",
+   "wordNumber": "05.0039",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为系统侵入到日常生活世界中，市场机制和官僚制的系统权力侵蚀了原本属于私人领域和公共领域的关系网络，形成共识的可能途径被阻塞，以至于生活世界的原有结构与行为逻辑受到控制与破坏。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

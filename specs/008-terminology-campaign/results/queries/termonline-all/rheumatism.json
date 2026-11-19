@@ -1,0 +1,322 @@
+{
+ "key": "rheumatism",
+ "term": "rheumatism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:21:13+00:00",
+ "status": "ok",
+ "note": "variant=rheumatism; 审定公布名词库=29; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "风湿病",
+   "en": "rheumatism",
+   "source": "兽医学名词",
+   "wordNumber": "18.170",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "一种以胶原纤维发生纤维素样变性为特征的，反复发作的急性或慢性非化脓性炎症。"
+  },
+  {
+   "cn": "风湿病",
+   "en": "rheumatism",
+   "source": "病理学名词",
+   "wordNumber": "09.023",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "一种与A组乙型溶血性链球菌感染有关的变态反应-自身免疫性疾病。主要累及全身结缔组织及血管、心脏。"
+  },
+  {
+   "cn": "风湿病",
+   "en": "rheumatism",
+   "source": "医学名词 第三分册",
+   "wordNumber": "03.390",
+   "subjectFullName": "医学_病理学",
+   "subjectName": "病理学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "风湿性[全]心炎",
+   "en": "rheumatic carditis,rheumatic pancarditis",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.146",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "结核性风湿症",
+   "en": "tuberculous rheumatism",
+   "source": "结核病学名词",
+   "wordNumber": "03.289",
+   "subjectFullName": "结核病学_结核病诊断_结核病分类_肺外结核",
+   "subjectName": "肺外结核",
+   "publishYear": "2019",
+   "definition": "由结核分枝杆菌毒素引起的细胞介导的过敏性免疫反应。常见症状包括发热，多发性、游走性关节疼痛，皮肤损害（如结节性红斑） 等。"
+  },
+  {
+   "cn": "筋痹",
+   "en": "muscular rheumatism",
+   "source": "中医药学名词",
+   "wordNumber": "010.179",
+   "subjectFullName": "中医药学_内科疾病_经络肢体病",
+   "subjectName": "经络肢体病",
+   "publishYear": "2004",
+   "definition": "以四肢筋脉肿胀、疼痛，渐至肌肉、关节肿胀，皮色暗红，屈伸不利为主要表现的肢体痹病类疾病。"
+  },
+  {
+   "cn": "复发性风湿病",
+   "en": "palindromic rheumatism",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.103",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "风湿性舞蹈症",
+   "en": "rheumatic chorea",
+   "source": "麻醉学名词",
+   "wordNumber": "03.092",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "风湿热累及大脑引起的舞蹈症。与A型溶血性链球菌感染有关。主要发生于儿童和青少年，临床表现为无规律性、动作幅度多样性的舞蹈样动作，伴肌张力减低。外周血白细胞数量增加、红细胞沉降率增快、C反应蛋白含量升高"
+  },
+  {
+   "cn": "风湿性舞蹈症",
+   "en": "rheumatic chorea",
+   "source": "行为医学名词",
+   "wordNumber": "17.08",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2022",
+   "definition": "风湿热在神经系统的常见表现。临床特征为舞蹈样动作、肌张力降低、肌力减退和（或）精神症状。"
+  },
+  {
+   "cn": "风湿热",
+   "en": "rheumatic fever",
+   "source": "病理学名词",
+   "wordNumber": "09.024",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "风湿病急性发作期时表现为发热症状的疾病。"
+  },
+  {
+   "cn": "风湿性心包炎",
+   "en": "rheumatic pericarditis",
+   "source": "病理学名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "风湿性心脏病累及心外膜。病变特点是浆液和（或）纤维素渗出，有时可见风湿小体形成。"
+  },
+  {
+   "cn": "风湿性关节炎",
+   "en": "rheumatic arthritis",
+   "source": "病理学名词",
+   "wordNumber": "09.033",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "免疫介导的、累及关节的炎症性病变。多见于成年风湿病患者。以游走性多关节炎为其临床特征。常侵犯大关节，此伏彼起，相继发生。故临床常表现为大关节游走性疼痛。"
+  },
+  {
+   "cn": "风湿性动脉炎",
+   "en": "rheumatic arteritis",
+   "source": "病理学名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "病理学_心血管系统",
+   "subjectName": "心血管系统",
+   "publishYear": "2020",
+   "definition": "风湿病累及血管尤其是小动脉所引发的血管炎症。"
+  },
+  {
+   "cn": "风湿性舞蹈症",
+   "en": "rheumatic chorea",
+   "source": "神经病学名词",
+   "wordNumber": "09.055",
+   "subjectFullName": "神经病学_运动障碍性疾病",
+   "subjectName": "运动障碍性疾病",
+   "publishYear": "2020",
+   "definition": "风湿热累及大脑引起的舞蹈症。与A型溶血性链球菌感染有关。主要发生于儿童和青少年，临床表现为无规律性、动作幅度多样性的舞蹈样动作，伴肌张力减低。外周血白细胞数量增加、血沉增快、C反应蛋白增高、抗链“O”"
+  },
+  {
+   "cn": "风湿热",
+   "en": "rheumatic fever",
+   "source": "感染病学名词",
+   "wordNumber": "03.0807",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "一种常见的反复发作的急性或慢性结缔组织炎症。主要累及心脏、关节、皮肤和皮下组织。"
+  },
+  {
+   "cn": "风湿性疾病",
+   "en": "rheumatic disease",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "风湿热",
+   "en": "rheumatic fever",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.056",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "风湿性关节炎",
+   "en": "rheumatic arthritis",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.057",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "风湿热",
+   "en": "rheumatic fever,RF",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.216",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "一种反复发作的、急性或慢性全身性结缔组织病。主要累及心脏、关节、中枢神经系统、皮肤和皮下组织。临床表现以心脏炎和关节炎为主，可伴有发热、皮疹、皮下小结、舞蹈病等。"
+  },
+  {
+   "cn": "风湿性心脏病",
+   "en": "rheumatic heart disease",
+   "source": "妇产科学名词",
+   "wordNumber": "14.01",
+   "subjectFullName": "妊娠合并内外科疾病_心脏病",
+   "subjectName": "心脏病",
+   "publishYear": "2025",
+   "definition": "孕妇反复发作风湿热，导致心肌和心脏瓣膜损害，再加上妊娠时循环血量增加，造成心脏正常功能受损的严重合并症。"
+  },
+  {
+   "cn": "反复性风湿症",
+   "en": "palindromic rheumatism",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种以复发/缓解的关节炎为主要特征的风湿病。其特点是急性反复发作的关节炎和关节周围炎（如指垫、足跟），一般1周内症状可缓解，一般无全身症状，偶有发作期伴低热，血沉和急性期反应指标可升高，间歇期内无任何"
+  },
+  {
+   "cn": "结核性风湿症",
+   "en": "tuberculous rheumatism",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.17.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_其他风湿免疫病",
+   "subjectName": "其他风湿免疫病",
+   "publishYear": "2025",
+   "definition": "由结核分枝杆菌毒素引起的细胞介导的过敏性免疫反应。常见症状包括发热，多发性、游走性关节疼痛，皮肤损害（如结节性红斑） 等。"
+  },
+  {
+   "cn": "风湿免疫病",
+   "en": "rheumatic disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.1.1",
+   "subjectFullName": "风湿免疫病学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "侵犯关节、骨骼、肌肉、血管及有关软组织或结缔组织为主的疾病，其中部分为自身免疫性疾病。"
+  },
+  {
+   "cn": "风湿性舞蹈症",
+   "en": "rheumatic chorea",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "急性风湿热的神经系统的特征性表现。由抗A组B-溶血性链球菌（GAS)抗体与基底节组织发生免疫交叉反应所致，临床特征为舞蹈病和神经精神症状。"
+  },
+  {
+   "cn": "急性风湿热",
+   "en": "acute rheumatic fever",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "一种链球菌感染后引起的自身免疫性炎症性疾病，通常在甲组乙型溶血性链球菌感染后2-4周，患者出现发热、环形红斑、游走性关节炎、心脏炎和舞蹈症。5岁〜15岁年龄者好发。"
+  },
+  {
+   "cn": "风湿性心脏病",
+   "en": "rheumatic heart disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_器官特异性疾病",
+   "subjectName": "器官特异性疾病",
+   "publishYear": "2025",
+   "definition": "风湿热累及心脏瓣膜的心脏病，造成瓣膜慢性损伤，血液动力学改变可致心脏结构改变及功能失常等。二尖瓣最常受累。临床表现为瓣膜狭窄和关闭不全，初期可无明显症状，后期表现为心功能不全及心律失常等症状。"
+  },
+  {
+   "cn": "副肿瘤风湿综合征",
+   "en": "paraneoplastic rheumatic syndromes PRS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "肿瘤患者出现的以风湿免疫病的临床症状和体征为主要表现的副肿瘤综合征。通常以风湿免疫病的临床表现为首发症状。常与肥厚性骨关节病，多关节炎，皮肌炎/多发性肌炎和副肿瘤性血管炎等有关。"
+  },
+  {
+   "cn": "职业相关性风湿病",
+   "en": "occupation-related rheumatic diseases",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.28",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "职业有害因素引起职业性损伤诱发或导致的风湿病。与工作环境及劳动过程中的某些不良因素有关。常见如骨关节炎、硬皮病、类风湿关节炎、腕管综合征等。"
+  },
+  {
+   "cn": "欧洲抗风湿病联盟干燥综合征疾病活动指数",
+   "en": "European league against rheumatism sjogren’s syndrome disease activity index, ESSDAI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.2.9",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "临床试验中用于评估干燥综合征疾病活动度的指数，对患者的12个变量（一般情况、淋巴肿大/淋巴瘤、外分泌腺增大、关节、皮损、肺损害、肾损伤、肌无力、周围神经系统受累、中枢神经系统受累、血液系统受损、实验室"
+  },
+  {
+   "cn": "欧洲抗风湿病联盟干燥综合征患者报告指数",
+   "en": "European league against rheumatism sjogren’s syndrome patient reported index, ESSPRI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "临床试验中用于评估干燥综合征患者主观症状的严重程度的指数，包括干燥、疼痛及疲劳。每项目评分为0-10。由患者自行评价所得，最终评分为3个项目（干燥+疼痛+疲劳）的平均数，与ESSDAI形成良好互补。"
+  },
+  {
+   "cn": "风湿性多肌痛",
+   "en": "polymyalgia rheumatica，PMR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.11.1.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_软组织风湿病",
+   "subjectName": "软组织风湿病",
+   "publishYear": "2025",
+   "definition": "一种病因不明的以四肢近端和躯干肌肉疼痛和僵硬为特征的综合征。多见于老年人，表现为颈、肩胛带肌和骨盆带肌疼痛伴晨僵。活动期炎症指标明显升高。可与巨细胞动脉炎伴发。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

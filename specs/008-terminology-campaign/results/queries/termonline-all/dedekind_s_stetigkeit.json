@@ -1,0 +1,42 @@
+{
+ "key": "dedekind's stetigkeit",
+ "term": "Dedekind’s Stetigkeit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:27:26+00:00",
+ "status": "ok",
+ "note": "variant=Dedekind’s Stetigkeit; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "戴德金整环",
+   "en": "Dedekind domain",
+   "source": "数学名词",
+   "wordNumber": "04.0958",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "戴德金η函数",
+   "en": "Dedekind η-function",
+   "source": "数学名词",
+   "wordNumber": "04.0329",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "戴德金ζ函数",
+   "en": "Dedekind ζ-function",
+   "source": "数学名词",
+   "wordNumber": "04.0219",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,302 @@
+{
+ "key": "announcements",
+ "term": "announcements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:25:12+00:00",
+ "status": "ok",
+ "note": "variant=announcements; 审定公布名词库=12; 海峡两岸名词对照库=3; 其他来源数据库=13; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "招标公告",
+   "en": "tender announcement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.588",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "招标单位或招标人在工程建设物资采购时，公布标准和条件，提出价格和要求等内容，从中选择供应商的一种文书。"
+  },
+  {
+   "cn": "股利宣布日",
+   "en": "announcement date",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0466",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "正式宣布股利下一次发放给股东的日期。"
+  },
+  {
+   "cn": "露布",
+   "en": "lu bu;announcement",
+   "source": "中国古代史名词",
+   "wordNumber": "1.284",
+   "subjectFullName": "中国古代史_通论_政治_文书",
+   "subjectName": "文书",
+   "publishYear": "2022",
+   "definition": "露而不封宣布于众的公文。始于汉，指各种露而不封的制诏、章奏，意在使众周知。魏晋以来常用作朝廷公告，或为檄书，或告捷，或处罚，或论功。北魏始专指军事告捷文书，或悬旗沿途高呼，隋唐沿此。宋以来又可泛指官私"
+  },
+  {
+   "cn": "链路状态公告",
+   "en": "link state announcement,LSA",
+   "source": "光学名词",
+   "wordNumber": "22.121",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "一种链路状态协议[如开放式最短路优先路由协议(OSPF)]使用的协议报文。它包括有关邻居节点和链路代价的信息，用于将本地的链路状态变化信息传递至子网中的其他节点，实现链路资源信息的同步。"
+  },
+  {
+   "cn": "会话通告协议",
+   "en": "session announcement protocol,SAP",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0097",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "一个通告多播会话信息的协议，典型的，它使用SDP作为会话描述的格式，通告数据使用IP多播和UDP发送。"
+  },
+  {
+   "cn": "公告",
+   "en": "announcement to the public",
+   "source": "档案学名词",
+   "wordNumber": "02.01.062",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "公布性文件的一种。适用于向国内外宣布重要事项或者法定事项。"
+  },
+  {
+   "cn": "新书预告",
+   "en": "announcement of forthcoming books",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.061",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "预先发布新书出版及相关信息的公告。"
+  },
+  {
+   "cn": "公益广告",
+   "en": "public service announcement;PSA",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.194",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "为维护社会公德、倡导良好的社会事业和社会风尚，改善和解决社会公共问题而组织的广告，具有社会的效益性、主题的现实性和表现的号召性三大特点。"
+  },
+  {
+   "cn": "机车接近通知",
+   "en": "approaching announcing in cab",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0437",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "道口通知设备",
+   "en": "highway level crossing announcing  device",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0438",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "传胪",
+   "en": "chuan lu;announcing the gra­duates’ names in the palace",
+   "source": "中国古代史名词",
+   "wordNumber": "1.123",
+   "subjectFullName": "中国古代史_通论_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "新科进士在御前唱名行礼的仪式及其二、三甲第1名之称。始于宋朝，“胪”指宣布，新科进士殿试毕后，须由主考官率领觐见皇帝，在御前宣制录取，并按三甲名次唱名，由卫士齐声传语至阶下，故名。明清一甲3人须一一唱"
+  },
+  {
+   "cn": "临朝称制",
+   "en": "lin chao cheng zhi;privilege of attending court and announcing edicts;a dowager empress or empress is acting as a regent",
+   "source": "中国古代史名词",
+   "wordNumber": "3.094",
+   "subjectFullName": "中国古代史_秦汉_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "皇太后代行皇帝职权。又称“垂帘听政”，临朝指驾临朝会与闻政务，称制指其下令名称和效力同于皇帝制诏，太后临朝时常坐薄帘后，以示男女之防，故名。西汉惠帝死后，吕太后以太子年幼即位，亲自上朝听政。西汉末及东"
+  },
+  {
+   "cn": "进口通知",
+   "en": "import announcement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "招标公告",
+   "en": "bidding announcement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "录音通知，录音播放",
+   "en": "recorded announcement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "announce\",\"call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水动作宣布",
+   "en": "announcement of the dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公示方式法定",
+   "en": "statutory form of public announcement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共资源交易公告",
+   "en": "announcement of public resource transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新食品原料公告",
+   "en": "announcement of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.8",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "根据综合性审查结论，由我国卫生行政部门对符合要求的新食品原料的名称、来源、生产工艺、主要成分、质量规格要求、标签标识要求及其他相关内容进行发布和公示的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

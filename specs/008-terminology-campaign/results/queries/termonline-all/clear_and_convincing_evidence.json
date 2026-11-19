@@ -1,0 +1,802 @@
+{
+ "key": "clear and convincing evidence",
+ "term": "clear and convincing evidence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:40:38+00:00",
+ "status": "ok",
+ "note": "variant=clear and convincing evidence; 审定公布名词库=10000; 海峡两岸名词对照库=1922; 其他来源数据库=1323; 预公布名词数据库=1065; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "准许",
+   "en": "clearing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0191",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "防止协商方使用可能导致其他协商方得出更差结果的策略。"
+  },
+  {
+   "cn": "林中空地",
+   "en": "clearing",
+   "source": "林学名词",
+   "wordNumber": "06.264",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "森林中风折、雪折、病虫害、采伐等自然和非自然因素造成林木死亡，所空出的小片空地。"
+  },
+  {
+   "cn": "透明",
+   "en": "clearing",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.011",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "脱水后的样品，经有机溶剂浸透使之质地透明的过程。"
+  },
+  {
+   "cn": "明显而即刻的危险",
+   "en": "clear and present danger",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.044",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "根据美国法律的规定，针对一些言论尤其是政治煽动性言论是否受到宪法第一修正案的保护所援用的一个判定标准。如果这些言论被证明会对紧急状态下的国家产生一种实际危害效果，那么，对于导致这种效果的言论不受法律保"
+  },
+  {
+   "cn": "清咽",
+   "en": "clearing and nourishing throat",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0325",
+   "subjectFullName": "食品科学技术_食品营养_食物营养价值、营养强化食品_新食品原料、植物化学物与保健食品",
+   "subjectName": "新食品原料、植物化学物与保健食品",
+   "publishYear": "2020",
+   "definition": "缓解咽喉红肿疼痛或不适病症。"
+  },
+  {
+   "cn": "清热攻下",
+   "en": "clearing heat and purgation",
+   "source": "中医药学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有清热、攻下作用的方药治疗胃肠热结证的治法。"
+  },
+  {
+   "cn": "凭证依据作用",
+   "en": "role of evidence",
+   "source": "档案学名词",
+   "wordNumber": "02.01.022",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "公文功能的具体表现形式之一。指其在日常工作中成为工作查考和凭证依据方面的作用。"
+  },
+  {
+   "cn": "循证营养学",
+   "en": "evidence-based nutrition",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0535",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "系统收集现有的最佳证据，结合专业知识在制定营养政策与营养实践中应用的一门学科。"
+  },
+  {
+   "cn": "证据分级",
+   "en": "levels of evidence",
+   "source": "计划生育名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "从原来单纯的治疗性研究证据的分级逐渐发展到病因/危害、诊断、治疗、预防、预后、鉴别诊断、疾病流行病学调查和经济学与决策分析的标准。由原来的五级标准，逐渐细化，进而发展为九级分级标准，强调研究证据的级别"
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collect evidence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0411",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "在安全事件调查中，对计算机系统进行详细检查，以获取对嫌疑攻击者进行调查和起诉的相关可信证据。"
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晴",
+   "en": "clear",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透明",
+   "en": "clearing",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "转晴",
+   "en": "clearing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "准许",
+   "en": "clearing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "皆伐",
+   "en": "clear cutting\",\"clear felling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "效标关联证据",
+   "en": "criterion related evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "清除",
+   "en": "scavenge\",\"clear",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[附睾管]亮细胞",
+   "en": "clear cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[汗腺]明细胞",
+   "en": "clear cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "亮区",
+   "en": "clear zone",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "清亮囊泡",
+   "en": "clear vesicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "纯净冰，透明冰",
+   "en": "clear icing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "晴空",
+   "en": "clear air",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "嘹亮笛音栓",
+   "en": "clear flute",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解围",
+   "en": "clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解围",
+   "en": "clear\",\"clearance\",\"clearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解围",
+   "en": "clear\",\"clearance\",\"clearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防守性高远球",
+   "en": "defensive clear\",\"high clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平高球",
+   "en": "attacking clear\",\"low clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎思明辨",
+   "en": "Careful Reflection and Clear Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解围",
+   "en": "clear\",\"clearance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "清场完毕！",
+   "en": "All clear!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超越",
+   "en": "get clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回表!",
+   "en": "Clear watches!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手高远球",
+   "en": "backhand clear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "循征系统评价",
+   "en": "evidence-based systematic review",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "全面收集所有相关、可靠的高质量临床研究并进行科学的定量合成(荟萃分析)从而得出综合可靠结论的过程"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "士大夫",
+   "en": "literati and officialdom",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "在中国古代封建制度下介乎庶人与卿大夫之间的一个阶级。其中一种是帮助卿大夫佐治政事的有官禄的小吏，另一种是无官禄的“士民”，与农工商同列“四民”。封建解体后，士阶层兴起，成为秦以后中国文化和知识主要担纲"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  },
+  {
+   "cn": "狩猎—采集社会",
+   "en": "hunting and gathering",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "以采集生活地域上的植物、猎捕动物的办法获取食物的社会。据考证大约始于1万年前，是人类早期的生产与生活方式。随着农业与游牧的技术扩张与稳定逐渐走入绝境。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "分析和综合",
+   "en": "analysis and synthesis",
+   "source": "马克思主义",
+   "wordNumber": "01.0042",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "统一的辩证思维过程的两个不同方面和不同方法。分析是深入对象内部，对其各个部分、方面、因素和层次及发展阶段分别加以考察，以找出对象的各个方面和发展阶段的本质特征的思维过程；综合是在分析基础上，将分析揭示"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0044",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "辩证法的一对范畴。个别，指单一事物的个体性、独特性，使事物彼此区别；一般，指一类事物或一切事物普遍具有的共性和本质。二者是辩证的统一。一般不能脱离个别而存在，个别总是同一般相联结，一般比个别深刻，个别"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

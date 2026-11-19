@@ -1,0 +1,402 @@
+{
+ "key": "tattva-samgraha",
+ "term": "Tattva-saṃgraha",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:17:26+00:00",
+ "status": "ok",
+ "note": "variant=Tattva-saṃgraha; 审定公布名词库=57; 海峡两岸名词对照库=16; 其他来源数据库=1; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "source": "免疫学名词",
+   "wordNumber": "2.329",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "一种自身抗体。在类风湿性关节炎中阳性率为40%，特异性98.9%，但类风湿性关节炎早期仅约23%。靶抗原Sa蛋白主要存在于人胎盘、脾脏及RA患者关节滑膜血管翳组织中。"
+  },
+  {
+   "cn": "文身",
+   "en": "tattoo",
+   "source": "整形外科名词",
+   "wordNumber": "7.039",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电技术临床应用",
+   "subjectName": "光声电技术临床应用",
+   "publishYear": "2026",
+   "definition": "用带有染料的针刺入皮肤内，在皮肤上形成单色或彩色的图案或文字。"
+  },
+  {
+   "cn": "文身",
+   "en": "tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.147",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "用针具或电动针将不可溶的颜料刺入真皮及皮下形成不褪色的图案的装饰手法。"
+  },
+  {
+   "cn": "文身",
+   "en": "tattoo",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0611",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "去除文身",
+   "en": "removing tattoo,tattoo removal",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0616",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "外伤性文身",
+   "en": "traumatic tattoo",
+   "source": "整形外科名词",
+   "wordNumber": "7.04",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电技术临床应用",
+   "subjectName": "光声电技术临床应用",
+   "publishYear": "2026",
+   "definition": "因外伤导致外界异物嵌入皮肤内而出现类似于文身的颜色改变。外界异物包括油漆、塑料、金属及灰尘、沙石颗粒等，可深达皮肤全层及脂肪层。"
+  },
+  {
+   "cn": "文身去除术",
+   "en": "tattoo removal",
+   "source": "整形外科名词",
+   "wordNumber": "7.086",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电治疗技术",
+   "subjectName": "光声电治疗技术",
+   "publishYear": "2026",
+   "definition": "通过机械、化学或激光等手段将文身染料破坏或去除的技术。"
+  },
+  {
+   "cn": "外伤性文身",
+   "en": "accidental tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "外伤致体外有色粉尘微粒机械性侵入皮内使其形成不规则的着色。它常见于烟花和化学物质的爆炸及皮肤碾挫伤等。"
+  },
+  {
+   "cn": "美容性文身",
+   "en": "aesthetic tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.148",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "为了美观效果而实施的文身。"
+  },
+  {
+   "cn": "治疗性文身",
+   "en": "therapeutic tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.149",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "通过文饰技术使用染料对瘢痕或皮肤外观异常等进行修饰性治疗的技术。"
+  },
+  {
+   "cn": "文身祛除术",
+   "en": "tattoo removal",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.150",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "用化学的、机械的或激光清除文身的方法。"
+  },
+  {
+   "cn": "美容性文身",
+   "en": "cosmetic tattoo",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0614",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "治疗性文身",
+   "en": "therapeutic tattoo",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0615",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "创伤性文身",
+   "en": "traumatic tattoo",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0613",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "八田数",
+   "en": "Hatta number",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0073",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "在伴有化学反应的吸收中，液膜内化学反应速率与物理吸收速率之比。符号为Ha。"
+  },
+  {
+   "cn": "八田数",
+   "en": "Hatta number",
+   "source": "化学工程名词",
+   "wordNumber": "01.074",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "苜蓿提取物",
+   "en": "Medicago sativa extract",
+   "source": "精细化工名词",
+   "wordNumber": "08.0978",
+   "subjectFullName": "精细化工_其他精细化学品_饲料添加剂",
+   "subjectName": "饲料添加剂",
+   "publishYear": "2025",
+   "definition": "棕黄色粉末，苜蓿全草提取物。含有黄酮、三萜、生物碱等成分。用于抗菌、免疫调节等。"
+  },
+  {
+   "cn": "创伤后修饰性文饰术",
+   "en": "post-traumatic tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.152",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "采用美容文饰技术对创伤后的局部形态细微缺损进行修复，以掩饰各种创伤造成的缺陷的方法。适用于眉部瘢痕、睫毛缺损、唇缘形态缺损、皮肤色素脱失、除皱术后头皮秃发区、唇部创伤后造成瘢痕胡须缺失、面颊除皱术后鬓"
+  },
+  {
+   "cn": "文饰修复术",
+   "en": "remediation for tattoo",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.153",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "因文饰术后没有达到预期的修饰美学效果，甚至出现形态异常、颜色变异、局部皮肤不良反应等状态时，针对性地重新进行美学设计，掌握色彩搭配原则，采用常规标准手法，或借助激光祛除，或手术切除等综合方法加以修复，"
+  },
+  {
+   "cn": "紫花苜蓿",
+   "en": "alfalfa,Lucerne,Medicago sativa",
+   "source": "畜牧学名词",
+   "wordNumber": "10.161",
+   "subjectFullName": "畜牧学_常用牧草_豆科牧草",
+   "subjectName": "豆科牧草",
+   "publishYear": "2020",
+   "definition": "苜蓿属的一个种。多年生草本。由根颈处生长新芽和分枝。茎秆斜上或直立，自叶腋处可产生多分枝。三出复叶，小叶长圆状倒卵形或倒披针形。总状花序腋生，花冠蝶形，紫色或蓝紫色。荚果螺旋形，棕色。种子肾形，黄褐色"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Sa型星系",
+   "en": "Sa galaxy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归营号",
+   "en": "tattoo",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "八田数",
+   "en": "Hatta number",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "齐格勒-纳塔催化剂",
+   "en": "Ziegler-Natta catalyst",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "齐格勒-纳塔催化剂",
+   "en": "Ziegler-Natta catalyst",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "齐格勒-纳塔聚合",
+   "en": "Ziegler-Natta polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "TATA框",
+   "en": "TATA box",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TATA框",
+   "en": "TATA box",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "范阿塔反射器",
+   "en": "Van Atta reflector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁福",
+   "en": "Ruffo\",\"Titta(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "TATA结合蛋白质",
+   "en": "TATA-binding protein\",\"TBP",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TATA结合蛋白",
+   "en": "TATA-binding protein\",\"TBP",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TATA框结合蛋白",
+   "en": "TATA-binding protein\",\"TBP",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "霍格内斯框(=TATA框)",
+   "en": "Hogness box(=TATA box)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TATA框,戈德堡-霍格内斯框",
+   "en": "TATA box\",\"Goldberg-Hogness box",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.27",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。在类风湿关节炎中阳性率为40%，特异性98.9%，但类风湿关节炎早期仅约23%。靶抗原Sa蛋白主要存在于人胎盘、脾脏及RA患者关节滑膜血管翳组织中。"
+  },
+  {
+   "cn": "大麻油",
+   "en": "cannabis sativa oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.22",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为榨汁自大麻,Cannabis sativa L,果实的油脂。"
+  },
+  {
+   "cn": "大麻油中毒",
+   "en": "cannabis sativa oil poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.23",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用大麻油或大麻籽制品所致中毒型食源性疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

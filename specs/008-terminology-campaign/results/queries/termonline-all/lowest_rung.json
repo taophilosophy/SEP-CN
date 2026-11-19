@@ -1,0 +1,682 @@
+{
+ "key": "lowest rung",
+ "term": "lowest rung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:28:58+00:00",
+ "status": "ok",
+ "note": "variant=lowest rung; 审定公布名词库=2667; 海峡两岸名词对照库=657; 其他来源数据库=96; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "龙格-库塔法",
+   "en": "Runge-Kutta method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "微分方程组数值求解的重要方法。为提高用差分代替导数的精度，在一个步长内分成几部分，用各部分差分平均值代替导数。最常用的是四阶龙格-库塔法。"
+  },
+  {
+   "cn": "龙格-库塔法",
+   "en": "Runge-Kutta method",
+   "source": "数学名词",
+   "wordNumber": "010.0287",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "龙格-库塔-费尔贝格法",
+   "en": "Runge-Kutta-Felhberg method",
+   "source": "数学名词",
+   "wordNumber": "010.0288",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最低蓄水位",
+   "en": "lowest storage level",
+   "source": "农学名词",
+   "wordNumber": "12.193",
+   "subjectFullName": "农业水利_农田排水",
+   "subjectName": "农田排水",
+   "publishYear": "2025",
+   "definition": "满足水产、养殖和航运等要求的湖泊、河网和排水沟的最低水位。"
+  },
+  {
+   "cn": "绝对最低温度",
+   "en": "extreme lowest temperature",
+   "source": "林学名词",
+   "wordNumber": "02.046",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "历年中给定时段(如某年、月、日)内可能出现的最低温度的最低值。"
+  },
+  {
+   "cn": "甲状腺最下动脉",
+   "en": "lowest thyroid artery",
+   "source": "显微外科学名词",
+   "wordNumber": "06.004",
+   "subjectFullName": "显微外科学_内分泌腺与生殖系统_内分泌腺_甲状腺",
+   "subjectName": "甲状腺",
+   "publishYear": "2016",
+   "definition": "分布至甲状腺峡部的血管。出现率为13.8%，可发自头臂干、颈总动脉、主动脉弓、甲状颈干或胸廓内动脉等，经气管前方上升，分部到甲状峡部。出现率为10.3%。"
+  },
+  {
+   "cn": "腰最下动脉",
+   "en": "lowest lumbar artery",
+   "source": "人体解剖学名词",
+   "wordNumber": "05.0581",
+   "subjectFullName": "人体解剖学_脉管学_动脉",
+   "subjectName": "动脉",
+   "publishYear": "2014",
+   "definition": "骶正中动脉供应大骨盆侧壁的分支。在第五腰椎高度发自骶正中动脉，与腰动脉同源，行向外侧分布至大骨盆的侧壁。"
+  },
+  {
+   "cn": "最低未占轨道",
+   "en": "lowest unoccupied orbit",
+   "source": "药学名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "在电子未占有的分子轨道中，能量最低的分子轨道。"
+  },
+  {
+   "cn": "极限冷起动温度",
+   "en": "lowest starting temperature",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "09.075",
+   "subjectFullName": "机械工程_拖拉机_整机_整机性能及参数",
+   "subjectName": "整机性能及参数",
+   "publishYear": "2013",
+   "definition": "拖拉机用自身装备的一切辅助起动装置和储备能源起动的最低环境温度。"
+  },
+  {
+   "cn": "最低天文潮位",
+   "en": "lowest astronomical tide",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0265",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天体引潮力最小时引发的最低潮位。"
+  },
+  {
+   "cn": "最低发射条件",
+   "en": "lowest launching condition",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.120",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最低天文潮面",
+   "en": "lowest astronomical tide,LAT",
+   "source": "测绘学名词",
+   "wordNumber": "07.126",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "在平均气象条件和任何天文条件下，可以预报出的最低潮位值。"
+  },
+  {
+   "cn": "最低水位",
+   "en": "lowest water level,LWL",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "理论最低潮面",
+   "en": "theoretical lowest tide surface",
+   "source": "测绘学名词",
+   "wordNumber": "07.097",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "理论上可能出现的潮高最小值。以13个分潮的调和常数，按特定的公式计算得到。"
+  },
+  {
+   "cn": "经评审的最低价评标法",
+   "en": "lowest bidding price method",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0453",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "以投标价格最低为标准，剔除投标价格低于企业成本的投标人后，在投标文件满足招标文件实质性要求的投标人中进行评审的评标方法。"
+  },
+  {
+   "cn": "观察到效应的最低水平",
+   "en": "lowest observed effect level",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.224",
+   "subjectFullName": "放射医学与防护_放射毒理学_毒理学",
+   "subjectName": "毒理学",
+   "publishYear": "2014",
+   "definition": "在规定的暴露条件下，与适当的对照机体比较，一种物质引起机体某种非有害作用(如治疗作用)的最低剂量或浓度。"
+  },
+  {
+   "cn": "平均最低水位",
+   "en": "mean lowest water level",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.095",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "最低回收率",
+   "en": "lowest rate of return",
+   "source": "自动化名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_经济控制",
+   "subjectName": "经济控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "最低可见作用水平",
+   "en": "lowest observed effect level,LOEL",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0311",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "在规定实验条件下，一种物质不引起实验组和对照组目标生物的形态、功能、生长、发育或预期寿命等方面发生在统计或生物学上具有显著差异改变的最低暴露浓度或剂量。"
+  },
+  {
+   "cn": "最低未占分子轨道",
+   "en": "lowest unoccupied molecular orbit,LUMO",
+   "source": "物理学名词",
+   "wordNumber": "07.0258",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "龙格-库塔法",
+   "en": "Runge-Kutta method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最低递盘价",
+   "en": "lowest bid",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低价格",
+   "en": "lowest price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "平均最低潮",
+   "en": "lowest normal tide\",\"lowest tide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "死与净化",
+   "en": "Tod und Verklärung",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "内脏最下神经",
+   "en": "lowest splanchnic nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腰最下动脉",
+   "en": "lowest lumbar artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最低汇率",
+   "en": "lowest exchange rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低利率",
+   "en": "lowest interest rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低限价",
+   "en": "lowest price limit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低征税限额",
+   "en": "lowest taxable limit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低天文潮位",
+   "en": "lowest astronomical tide",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低低潮",
+   "en": "lowest low water",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最低天文潮位",
+   "en": "lowest astronomical tide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最低可用频率",
+   "en": "lowest usable frequency\",\"LUF",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理论最低潮面",
+   "en": "lowest normal low water",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "最低大潮低潮面",
+   "en": "lowest low water springs",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "甲状腺最下动脉",
+   "en": "lowest thyroid artery\",\"arteria thyroidea ima",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺下叶",
+   "en": "lower lobe of lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺",
+   "en": "lung",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "最低分",
+   "en": "lowest mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊环",
+   "en": "ring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击台",
+   "en": "ring\",\"ring area\",\"platform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶移动",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跑",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一场比赛",
+   "en": "run",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观察到有害作用最低水平",
+   "en": "lowest observed adverse effect level，LOAEL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在规定的试验条件下，外源化学物引起实验动物某种可观察到的损害作用的最低剂量或浓度。"
+  },
+  {
+   "cn": "战时陆勤部队日膳食最低能量及营养素供给量",
+   "en": "recommended lowest dietary allowance for ground force in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "在战时短时间内机体不产生不可逆变化，维持陆勤部队军人健康和基本作战能力所需提供的最低能量和营养素的数量，包括3 天和7 天作战时间的供给量。"
+  },
+  {
+   "cn": "戎",
+   "en": "Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0008",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代西部民族之泛称。戎作为族称，始于周人，乃周朝劲敌，泛指集中于周原以西陇山地区之氐羌系各部落，故称为西戎。"
+  },
+  {
+   "cn": "抑菌环",
+   "en": "bacteriostatic ring",
+   "source": "消毒学",
+   "wordNumber": "6.2.35.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "抑菌物质在接种了细菌的固体培养基上向周围扩散形成浓度梯度，培养后出现的围绕抑菌物质周围无菌生长的圆环形区域。"
+  },
+  {
+   "cn": "库拉圈",
+   "en": "Kula ring",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.25",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "流行于西太平洋巴布亚新几内亚特罗布里恩德(Trobriander）群岛的仪式性交换，集船舶制造、航海术、巫术、神话、象征性交换与产品交易于一体。"
+  },
+  {
+   "cn": "肺移植",
+   "en": "lung transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，将器官供体具有正常生理 功能的肺脏移植给器官受体，以代替其病损肺脏的技术。包括单肺移植、双肺移植、心肺移植和肺叶移植等。"
+  },
+  {
+   "cn": "骊戎",
+   "en": "Li Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0087",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名，古戎人一支，姬姓。活跃于陕西临潼一带，曾与秦的先世通婚。春秋初，晋献公伐之，得骊姬；后为晋国所并。"
+  },
+  {
+   "cn": "犬戎",
+   "en": "Quan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0084",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。活跃于今陕、甘一带。犬戎之得名，是该民族的先祖以犬或者狼为图腾。申侯曾联合犬戎，摧翻西周王朝。春秋初期，犬戎又成为秦国强敌。汉唐“犬戎”和“戎狄”可泛指西北游牧民族。"
+  },
+  {
+   "cn": "西戎",
+   "en": "Xi Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0083",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族称。古代文献对位于中原之西的各族的泛称。也用来指春秋战国时期一些西戎部落建立的诸侯国。"
+  },
+  {
+   "cn": "山戎",
+   "en": "Shan Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0088",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。戎人一支。先秦时活动于今河北省北部燕山一带。以林中狩猎和游牧为生，略知农耕。不时南侵中原，成为燕、齐诸国之边患。春秋末期渐衰，后融入邻族。"
+  },
+  {
+   "cn": "桐油",
+   "en": "tung oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.19",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "为桐树果实榨出的油，外观、味道与一般食用植物油相似。"
+  },
+  {
+   "cn": "库拉圈",
+   "en": "kula ring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0538",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "流行于西太平洋巴布亚新几内亚东南端的特罗布里恩德群岛及其周边岛屿的仪式性交换制度，出自英国人类学家马林诺夫斯基（Bronislaw Kaspar Malinowski）的《西太平洋上的航海者》。库拉圈"
+  },
+  {
+   "cn": "姜戎",
+   "en": "Jiang Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0086",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。武王灭商同盟军主力之一。周宣王伐姜戎，战于千亩；申侯引犬戎颠覆西周；秦襄公统治关中时，羌戎各族骤然崛起。石鼓山3 号墓高领袋足鬲被认为是姜戎部族典型器物，户氏属于姜戎贵族代表。"
+  },
+  {
+   "cn": "抑菌环试验",
+   "en": "bacteriostatic ring test",
+   "source": "消毒学",
+   "wordNumber": "6.2.35.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将含抑菌剂的纸片贴到接种了细菌的琼脂平板上，抑菌剂不断溶解，经琼脂扩散形成中心高边缘低的浓度梯度，通过测量抑菌环大小来判断抑菌剂抑菌能力的试验。"
+  },
+  {
+   "cn": "着丝粒环",
+   "en": "centric ring，r",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.2.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "一对具有着丝粒的环形染色单体。常伴有一对无着丝粒断片。"
+  },
+  {
+   "cn": "指环剂量计",
+   "en": "finger-ring dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "戴在手指上测定手部剂量的小型装置。"
+  },
+  {
+   "cn": "阴道避孕环",
+   "en": "vaginal contraceptive ring",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.6.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一种置于女性阴道的缓释避孕系统。将甾体激素（单纯孕激素或雌孕激素合剂）装在载体上，制成环状放入阴道，利用阴道上皮黏膜可直接吸收药物进入血循环，视不同制剂可维持避孕效果1月至1年不等。"
+  },
+  {
+   "cn": "桐油中毒",
+   "en": "tung oil poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.5.21",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用桐油或混有桐油的食用油及其制品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "下层阶级",
+   "en": "lower class",
+   "source": "马克思主义",
+   "wordNumber": "03.0202",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "属于社会最底层,经济、政治、文化等各方面处在劣势和被排斥的那部分人或阶层。实际上是工人阶级的下层，和通常说的“弱势群体”的含义接近。"
+  },
+  {
+   "cn": "止贡替寺",
+   "en": "Vbri gung this dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0567",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派寺院。位于西藏自治区墨竹工卡县东北部。1179 年由喇嘛教噶举派止贡支系创始人止贡巴·仁饮贝主持兴建，是噶举派止贡支系的主要寺院。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

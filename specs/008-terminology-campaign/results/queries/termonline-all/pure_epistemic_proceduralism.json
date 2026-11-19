@@ -1,0 +1,792 @@
+{
+ "key": "pure epistemic proceduralism",
+ "term": "pure epistemic proceduralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:28:15+00:00",
+ "status": "ok",
+ "note": "variant=pure epistemic proceduralism; 审定公布名词库=1345; 海峡两岸名词对照库=348; 其他来源数据库=69; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "程序",
+   "en": "procedure",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "为了进行某项活动或过程所规定的流程、路径或途径。"
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "物理学名词",
+   "wordNumber": "01.0175",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "过程",
+   "en": "procedure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0008",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可被程序调用的相对独立的一个程序模块。通常用于实现程序的部分功能或某个特定功能，可以接受调用方传递的参数，但无返回值。过程调用如需返回调用结果，应采用引用或传递参数等手段。"
+  },
+  {
+   "cn": "规程",
+   "en": "procedures",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0050",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "根据通信环境和用户功能需求制定的通信控制协定。"
+  },
+  {
+   "cn": "程序",
+   "en": "procedure",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0689",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为进行某项活动或过程所规定的途径。"
+  },
+  {
+   "cn": "规程",
+   "en": "procedure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0846",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "工序",
+   "en": "processing procedure,procedure",
+   "source": "冶金学名词",
+   "wordNumber": "05.1619",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "流程中为实现某特定功能而由若干设备组合构成的生产环节。"
+  },
+  {
+   "cn": "纯剪切",
+   "en": "pure shear",
+   "source": "地质学名词",
+   "wordNumber": "09.02.107",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "非旋转应变的一种特例。物体发生均匀平面应变时，其主应变轴方位保持不变，而只改变其长度。"
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "农学名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "通过同一纯合亲本自花授粉得到的后代或由长期连续近交得到的植物高度纯合自交系。"
+  },
+  {
+   "cn": "光谱纯",
+   "en": "spectrum pure",
+   "source": "精细化工名词",
+   "wordNumber": "08.0619",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "用于光谱分析的试剂级别。分为分光光度计标准品、原子吸收光谱标准品和原子发射光谱标准品。"
+  },
+  {
+   "cn": "超纯",
+   "en": "ultra pure",
+   "source": "精细化工名词",
+   "wordNumber": "08.0628",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "远高于优级纯的试剂纯度。是在通用试剂基础上发展起来的，为了专门的使用目的而用特殊方法生产的最高试剂纯度。"
+  },
+  {
+   "cn": "纯音",
+   "en": "pure tone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "单一频率的声音。"
+  },
+  {
+   "cn": "规程",
+   "en": "procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯组分",
+   "en": "pure component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纯音",
+   "en": "pure tone",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纯铁",
+   "en": "pure iron",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯铜",
+   "en": "pure copper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯林分",
+   "en": "pure stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯利润",
+   "en": "pure profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯利息",
+   "en": "pure interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纯网",
+   "en": "pure net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试过程",
+   "en": "test procedure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "程序性记忆",
+   "en": "procedural memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序公平",
+   "en": "procedural justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进口程序",
+   "en": "import procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "再进口手续",
+   "en": "reimport procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁程序",
+   "en": "arbitral procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水程序",
+   "en": "diving procedure",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯素",
+   "en": "Pure and Unadorned",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯线上模式",
+   "en": "pure online mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯平台模式",
+   "en": "pure platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净土",
+   "en": "Sukhāvatīvyūha / Pure Land",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统配置技术管理规程",
+   "en": "technical management procedure for system configuration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简化通关手续",
+   "en": "to simplify procedures for customs clearance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简化对外投资审批程序",
+   "en": "simplify procedures for reviewing outbound investment",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "做好工伤认定和待遇保障",
+   "en": "(to streamline/implement procedures) to identify and facilitate compensation for work-related infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-2-2018 信息技术 自动识别和数据捕获技术 唯一标识 第2部分：登记程序》",
+   "en": "JIS X0532-2:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 2: Registration procedures",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尼莲正东流，西树几春秋。（援助印度，源自玄奘）",
+   "en": "By the Holy Lotus River；Where pure gold flows east.； Looking back to the western shore；At Buddha’s sacred grove for many thousands of autumns.",
+   "source": "新冠肺炎疫情相关词汇中英对照表",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.11",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "从初级生产到最终消费的食品链中（包括原料）的某个点、程序、操作或阶段。"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "纯保费",
+   "en": "pure premium",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "保险中受益人预期支付等于其实际应付医疗费的保险费。是一个期望值，其值等于投保者因病治疗的平均成本。"
+  },
+  {
+   "cn": "消毒程序",
+   "en": "disinfection procedure",
+   "source": "消毒学",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "完成消毒工作的具体步骤和顺序。"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对照标准研判，对于符合报告要求的事件，向所在地区人民政府卫生行政部门或有关单位报告时按规定需遵循的流程。"
+  },
+  {
+   "cn": "程序伦理",
+   "en": "procedural ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注道德决策的过程、方法和程序的正当性，探讨“如何公正地做出道德决定？”的伦理学理论。"
+  },
+  {
+   "cn": "程序公正",
+   "en": "procedural justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.058",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "过程和规则的公正。强调处事不仅要结果公平合理，处理过程也要符合公正的要求。"
+  },
+  {
+   "cn": "纯公共产品",
+   "en": "pure public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在消费方面具有完全的非竞争性或受益上完全的非排他性公共产品。"
+  },
+  {
+   "cn": "快速灭菌程序",
+   "en": "rapid sterilization procedure",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.8.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在快速压力蒸汽灭菌中根据灭菌对象的种类、性质、使用要求设定灭菌参数，灭菌周期一般不包括干燥阶段，灭菌时一般采取裸露灭菌，为了避免污染，灭菌物品应尽快使用，不能储存，无有效期。"
+  },
+  {
+   "cn": "固定剂量法",
+   "en": "fixed-dose procedure",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.10",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "不以动物死亡为终点，而以明显的毒性体征作为终点进行评价的方法。"
+  },
+  {
+   "cn": "心理咨询程序",
+   "en": "psychological counseling procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学生心理健康咨询各环节的时间顺序。依次为：受理面谈、建立信赖、提供心理支持、帮助求咨者勇敢面对生活。"
+  },
+  {
+   "cn": "净观",
+   "en": "Dag snang（Pure Perception）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0461",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。密宗金刚乘视外境为佛剎、视自他为本尊、视音声为咒语、视思想为智慧之展现的观点。"
+  },
+  {
+   "cn": "标准操作规程",
+   "en": "standard operation procedure, SOP",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "为有效和准确实施和完成消毒产品生产或特定试验，对每项相关操作和过程拟定的标准，形成详细的书面文件或管理办法。"
+  },
+  {
+   "cn": "学校传染病疫情报告程序",
+   "en": "infectious disease reporting procedures",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "学校出现传染病或疑似传染病患者，应由班主任上报给学校传染病报告人，传染病报告人报到主管校长，并在规定时限内将传染病或疑似传染病发病时间、人数、主要症状等内容上报给属地疾控机构和教育行政部门的程序。"
+  },
+  {
+   "cn": "食品安全性毒理学评价程序",
+   "en": "food toxicological evaluation procedures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对食品、食品添加剂及食品相关产品中所涉及的可能对健康造成危害的化学、生物和物理因素进行安全性评价的程序。"
+  },
+  {
+   "cn": "标准操作程序",
+   "en": "standard operation procedure, SOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "人员在实验过程中应执行的操作步骤和应遵守的事项"
+  },
+  {
+   "cn": "纯二氧化氯消毒剂发生器",
+   "en": "pure chlorine dioxide disinfectant generator",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "产物中二氧化氯纯度大于等于90%的二氧化氯消毒剂发生器。"
+  },
+  {
+   "cn": "小组工作基本程序",
+   "en": "basic procedure of group work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组工作实务的基本过程。一般包括：潜在组员预估，小组计划，招募组员，小组介入，小组评估，小组结束。"
+  },
+  {
+   "cn": "卫生标准操作程序",
+   "en": "sanitation standard operation procedure，SSOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产企业为使食品符合卫生要求而制定的指导食品加工过程中清洗、消毒和卫生保持的作业指导文件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

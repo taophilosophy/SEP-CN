@@ -1,0 +1,802 @@
+{
+ "key": "double conscience",
+ "term": "double conscience",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:33:04+00:00",
+ "status": "ok",
+ "note": "variant=double conscience; 审定公布名词库=1327; 海峡两岸名词对照库=480; 其他来源数据库=109; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "双根",
+   "en": "double,double joint",
+   "source": "石油名词",
+   "wordNumber": "05.0073",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "合卷",
+   "en": "doubling",
+   "source": "冶金学名词",
+   "wordNumber": "09.0696",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "将2个带卷经焊接合成一卷以备进一步加工的过程。"
+  },
+  {
+   "cn": "覆板",
+   "en": "doubling,doubling plate",
+   "source": "航海科技名词",
+   "wordNumber": "08.0494",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "双交换",
+   "en": "double crossover,double exchange",
+   "source": "植物学名词",
+   "wordNumber": "10.0115",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "两个连锁基因间发生两次交换的现象。"
+  },
+  {
+   "cn": "双重标记",
+   "en": "double labeling,double-tagging",
+   "source": "化学名词",
+   "wordNumber": "06.0686",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "用两种不同的核素同时标记在同一化合物分子的两个不同位置上的一种标记方法。"
+  },
+  {
+   "cn": "双双峰",
+   "en": "double doublet",
+   "source": "化学名词",
+   "wordNumber": "03.2278",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "某磁性核受两个I=1/2的核的耦合，但耦合常数不等时，所呈现的谱线。"
+  },
+  {
+   "cn": "报纸的良心",
+   "en": "conscience of the newspaper",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "马克思用于阐述新闻职业道德的术语。他认为，一家报纸应当以自己恒定的信念取信于读者，不因利益诱惑而无原则地改变观点。报纸应当有自己的理智、见解和良心。后来他进一步谈到不能为了利益而随时准备为任何政体效劳"
+  },
+  {
+   "cn": "重唇",
+   "en": "double lip",
+   "source": "整形外科名词",
+   "wordNumber": "14.084",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部畸形与缺损",
+   "subjectName": "面颈部畸形与缺损",
+   "publishYear": "2026",
+   "definition": "由于唇红内侧口腔黏膜过度发育，导致张口时上唇缘出现内、外两层相互平行红唇的先天性畸形。多见于上唇。"
+  },
+  {
+   "cn": "双折射率",
+   "en": "double refringence",
+   "source": "地质学名词",
+   "wordNumber": "02.00.228",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "非均质体中2个或3个主折射率之间的最大差值。许多晶体光学现象与此有关。"
+  },
+  {
+   "cn": "双单倍体",
+   "en": "double haploid",
+   "source": "农学名词",
+   "wordNumber": "15.112",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "染色体组数两倍于对应单倍体的细胞或个体。通常通过对单倍体进行染色体加倍形成。"
+  },
+  {
+   "cn": "双交",
+   "en": "double cross",
+   "source": "农学名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "两个单交种再杂交的方法。"
+  },
+  {
+   "cn": "双受精",
+   "en": "double fertilization",
+   "source": "农学名词",
+   "wordNumber": "06.263",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "两个精细胞分别与卵细胞和中央细胞相融合的现象。"
+  },
+  {
+   "cn": "双宫颈",
+   "en": "double cervix",
+   "source": "妇产科学名词",
+   "wordNumber": "8.029",
+   "subjectFullName": "生殖器发育异常_常见生殖器发育异常",
+   "subjectName": "常见生殖器发育异常",
+   "publishYear": "2025",
+   "definition": "有两个宫颈阴道部，各自有宫颈管与宫腔及阴道相通，两个宫颈阴道部可分开或相连，宫颈管间也可有交通的一种宫颈发育异常。"
+  },
+  {
+   "cn": "二熟制",
+   "en": "double cropping",
+   "source": "农学名词",
+   "wordNumber": "08.021",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "一年内在同一块农田上接连种植两季作物的种植制度。"
+  },
+  {
+   "cn": "双重性喘鸣",
+   "en": "double stridor",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.7",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "吸气期和呼气期同时出现的喘鸣。阻塞常发生于声门以下部位，喘鸣音大小与阻塞程度有关。"
+  },
+  {
+   "cn": "双重星团",
+   "en": "double cluster",
+   "source": "天文学名词",
+   "wordNumber": "08.609",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "两个在空间相距很近且有共同起源的星团。"
+  },
+  {
+   "cn": "二星流",
+   "en": "double drift",
+   "source": "天文学名词",
+   "wordNumber": "08.694",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "用以解释太阳附近恒星本动速度观测分布的一种理论假设。要点是认为近域恒星分属于总体运动方向恰好相反的2个星流，1904年由荷兰天文学家卡普坦提出，后为施瓦西椭球假设所取代。"
+  },
+  {
+   "cn": "双行排架法",
+   "en": "double shelving",
+   "source": "档案学名词",
+   "wordNumber": "03.03.019",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "档案库房中档案架的每层搁板放置两行档案盒,以增加档案架的容量,提高库房面积利用率。"
+  },
+  {
+   "cn": "双胆囊",
+   "en": "double gallbladder",
+   "source": "肝病学名词",
+   "wordNumber": "12.4.1.5",
+   "subjectFullName": "肝病学_胆系疾病_先天性胆病",
+   "subjectName": "先天性胆病",
+   "publishYear": "2024",
+   "definition": "因胚胎时期常有小囊自肝管或胆总管发生，偶尔这些小囊继续存在，并形成第2个胆囊，并有独立胆囊管的现象。"
+  },
+  {
+   "cn": "双筒天体照相仪",
+   "en": "double astrograph",
+   "source": "天文学名词",
+   "wordNumber": "06.270",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "具有两个平行镜筒的天体照相仪，主要用于天体的发现、证认和双色照相测光等工作。"
+  },
+  {
+   "cn": "良心",
+   "en": "conscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重叠音",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重复旋律",
+   "en": "doubling",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重标记",
+   "en": "double labeling\",\"double-tagging",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双交换",
+   "en": "double crossingover\",\"double exchange",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "双双峰",
+   "en": "double doublet",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "重[复]肾，双肾",
+   "en": "double kidney",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "连体畸形",
+   "en": "double monster",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双胆囊",
+   "en": "double gallbladder",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双螺旋",
+   "en": "double helix",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双肾（=重[复]肾）",
+   "en": "double kidney",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双受精",
+   "en": "double fertilization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双输尿管",
+   "en": "double ureter",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双阴道",
+   "en": "double vagina",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "双阴茎",
+   "en": "double penis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "重瓣品种",
+   "en": "double variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重复授粉",
+   "en": "double pollination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双翅果",
+   "en": "double samara",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "良知",
+   "en": "Liangzhi (Conscience)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连中",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两跳",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划圆转移",
+   "en": "double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打",
+   "en": "doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打",
+   "en": "doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二次运球",
+   "en": "double dribble\",\"double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打比赛",
+   "en": "doubles\",\"doubles match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打比赛",
+   "en": "doubles\",\"doubles match\",\"doubles game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次运球",
+   "en": "discontinue\",\"double dribble\",\"doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空翻两周",
+   "en": "double salto\",\"double somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互中",
+   "en": "double hit\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互中",
+   "en": "double hit\",\"double touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连击",
+   "en": "double contact\",\"double hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复支付",
+   "en": "double spending",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双人双桨",
+   "en": "double sculls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连击",
+   "en": "double contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双方犯规",
+   "en": "double fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则双靶",
+   "en": "regular double",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "良心",
+   "en": "conscience",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.105",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对他人、集体和社会履行义务的道德责任感，是个人意识中各种道德心理因素的有机结合。能够在行为前对行为动机进行自我检查并自我纠正，在行为中进行自我控制，在行为后能够对行为的后果和影响做出自我评价。"
+  },
+  {
+   "cn": "集体意识",
+   "en": "collective conscience",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0524",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指同一个社会中所具有的共同信仰和情感。有别于个体观念，集体观念不是从个人自身的生活经验中所吸取的，而是通过社会环境，即教育、社会舆论、习俗"
+  },
+  {
+   "cn": "职业良心",
+   "en": "professional conscience",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.048",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在职业活动中形成的职业责任感和自我评价能力。是从业人员道德认知、情感和意志的综合体现，在职业行为前具有选择检查作用，在行为中具有监督调整作用，在行为后具有评价作用。"
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "双重运动",
+   "en": "double movement",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.15",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "关于自我调节的市场机制与社会的自我保护运动的理论。卡尔·波兰尼分析资本主义文明演化特征的核心框架。"
+  },
+  {
+   "cn": "双重效应",
+   "en": "double effect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.022",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "行为本身所具有的正面和负面效果。"
+  },
+  {
+   "cn": "双培双带",
+   "en": "double training and double helping",
+   "source": "马克思主义",
+   "wordNumber": "03.0770",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“双培双带”最初是农村党建工作的一种创新机制，即把党员培养成致富带头人，把致富带头人中的先进分子培养成党员。“双培双带”后来在基层党建推广开来，即把党员培养成骨干，把骨干培养成党员。“双培双带”实质上"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "双向免疫扩散试验",
+   "en": "double immunodifusion test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.13",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一种分析鉴定抗原、抗体纯度和抗原特异性的试验。即抗原和抗体分子在凝胶板上扩散，二者相遇并达到最适比例时形成沉淀线。"
+  },
+  {
+   "cn": "双轨征",
+   "en": "double contour sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.17",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "痛风患者做超声检查是见到的一种特殊影像，即在关节透明软骨表面异常的高回声带。与声波角度无关，规则或不规则，连续或间断，能与软骨界面征相鉴别"
+  },
+  {
+   "cn": "双低储藏",
+   "en": "double-low storage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.26",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "即低氧、低药量储粮，是实现低氧后再进行低剂量磷化氢熏蒸的储粮技术组合"
+  },
+  {
+   "cn": "七夕节",
+   "en": "Double Seventh Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0211",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统节日，节期在农历七月初七，既是拜七姐节日也是爱情节日，是一个以“牛郎织女”民间传说为载体，以祈福、乞巧、爱情为主题，以女性为主体的综合性节日。七夕节发源于中国，在部分受汉文化影响的亚洲国家如日"
+  },
+  {
+   "cn": "重阳节",
+   "en": "Double Nine Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0218",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统节日，节期在农历九月初九，古人认为九九重阳是吉祥的日子。古时民间在重阳节有登高祈福、秋游赏菊、佩插茱萸、拜神祭祖及饮宴求寿等习俗；后又添加了敬老等内涵，于重阳之日享宴高会，感恩敬老。登高赏秋与"
+  },
+  {
+   "cn": "人口倍增时间",
+   "en": "population doubling time",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假定保持现在的人口增长速度不变，现在的人口规模翻番需要的时间。"
+  },
+  {
+   "cn": "DNA双链断裂",
+   "en": "DNA double-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中两条互补链于同一对应处或紧密相邻处同时断裂。"
+  },
+  {
+   "cn": "双抗体夹心法",
+   "en": "double antibody sandwich method",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一种酶联免疫吸附测定法。即用已知抗体包被固相载体，加入待测抗原反应，洗涤去除游离成分，再用酶(或核素)标记的抗体参与反应，形成抗体-抗原-酶标抗体三明治样双抗体反应体系。"
+  },
+  {
+   "cn": "农业双层经营体制",
+   "en": "double management system of agriculture",
+   "source": "马克思主义",
+   "wordNumber": "02.0401",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "农村在联产承包责任制基础上形成的家庭分散经营与集体统一经营相结合的农业生产经营形式。由于具有家庭分散经营和集体统一经营两个层次，这种农业经营形式被称为双层经营体制。在这一经营体制下，家庭分散经营与集体"
+  },
+  {
+   "cn": "双链季铵盐消毒剂",
+   "en": "double-chain quaternary ammonium salt disinfectant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "具有两条烷基链的季铵盐类消毒剂，如双葵基甲基氯化氨。"
+  },
+  {
+   "cn": "双扉高压蒸汽灭菌器",
+   "en": "double-door high pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "两侧均有门的压力蒸汽灭菌器，有利于划分污染区和清洁区。"
+  },
+  {
+   "cn": "丁克家庭",
+   "en": "DINK family；double income no kids family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.20",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "“双份收入、不要孩子”的家庭。20世纪80年代首先出现于欧美一些发达国家的一种新的家庭类型。其基本特征是夫妇双方均有职业，无子女，不与其他家人同住。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

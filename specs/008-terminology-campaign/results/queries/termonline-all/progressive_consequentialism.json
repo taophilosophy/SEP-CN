@@ -1,0 +1,632 @@
+{
+ "key": "progressive consequentialism",
+ "term": "progressive consequentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:19:56+00:00",
+ "status": "ok",
+ "note": "variant=progressive consequentialism; 审定公布名词库=217; 海峡两岸名词对照库=47; 其他来源数据库=7; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "主张一个人的行为的后果是对该行为进行道德判断时，做出正确或错误判断的最终依据和标准。是经典的规范伦理学和目的论伦理学理论。"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0221",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致的零件损坏。"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.068",
+   "subjectFullName": "机械工程_汽车_汽车维修_故障和损伤",
+   "subjectName": "故障和损伤",
+   "publishYear": "2013",
+   "definition": "由于其他零件的故障导致使用零件损坏的现象。"
+  },
+  {
+   "cn": "层递",
+   "en": "progressive",
+   "source": "档案学名词",
+   "wordNumber": "02.04.041",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "在公文中有一定应用的修辞格。特点是把描述的两个以上的事物，按照它们的程度差异，逐层上升或下降排列出来。"
+  },
+  {
+   "cn": "循序[的]",
+   "en": "progressive",
+   "source": "数学名词",
+   "wordNumber": "09.0220",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "进展",
+   "en": "progression",
+   "source": "医学名词 第四分册",
+   "wordNumber": "09.047",
+   "subjectFullName": "医学_结核病学",
+   "subjectName": "结核病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "进展性卒中",
+   "en": "progressive stroke",
+   "source": "神经外科学名词",
+   "wordNumber": "8.139",
+   "subjectFullName": "医学_神经外科学_脑血管疾病_缺血性脑血管病",
+   "subjectName": "缺血性脑血管病",
+   "publishYear": "2026",
+   "definition": "卒中发病后神经功能缺失症状在48小时内逐渐进展或呈阶梯式加重的过程。"
+  },
+  {
+   "cn": "前进变质作用",
+   "en": "progressive metamorphism",
+   "source": "地质学名词",
+   "wordNumber": "06.02.014",
+   "subjectFullName": "地质学_变质岩岩石学_变质作用",
+   "subjectName": "变质作用",
+   "publishYear": "2026",
+   "definition": "变质过程中，随温度、压力的逐渐升高，较低温压条件下形成的矿物组合依次转变为较高温压矿物组合的变质作用。"
+  },
+  {
+   "cn": "递进变形",
+   "en": "progressive deformation",
+   "source": "地质学名词",
+   "wordNumber": "09.02.103",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "在同一应力场的持续作用下，通过一系列的增量应变累积实现的岩石变形。"
+  },
+  {
+   "cn": "渐进式放松",
+   "en": "progressive relaxation",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.012",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "一种可以单独或联合应用于处理躯体和情绪不适的心身调节技术。治疗师指导受检者安静、不动，按一定的顺序对肌群进行“收缩—放松—收缩—放松”训练，体会主要肌群的紧张感与放松感，并注意良好的身体感觉，进而学会"
+  },
+  {
+   "cn": "前进波",
+   "en": "progressive wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0732",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波动向前传播的波。 "
+  },
+  {
+   "cn": "进行性脂肪营养不良",
+   "en": "progressive lipodystrophy",
+   "source": "行为医学名词",
+   "wordNumber": "17.115",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_自主神经系统疾病",
+   "subjectName": "自主神经系统疾病",
+   "publishYear": "2022",
+   "definition": "以脂肪组织代谢障碍为特征的自主神经系统疾病。临床特点为缓慢进行性双侧分布基本对称，边界清楚的皮下脂肪组织萎缩或消失。"
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "source": "动物学名词",
+   "wordNumber": "7.0486",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在未经干扰的自然条件下，生物群落从结构比较简单、不稳定或稳定性较小的阶段发展到结构更复杂、更稳定的过程。后一阶段比前一阶段利用环境更充分，改造环境的作用更强烈，导致物种个体数量增多、群落结构复杂化、群"
+  },
+  {
+   "cn": "级进模",
+   "en": "progressive die",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.028",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "在压力机一次行程中，在模具不同部位上完成两道或两道以上的冲压工序的冲模。"
+  },
+  {
+   "cn": "逐行扫描",
+   "en": "progressive scanning",
+   "source": "光学名词",
+   "wordNumber": "15.170",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "在显示设备(如CCD阵列)上同时显示运动图像中每帧所有像素的一种方法。具体做法是在曝光之前将整个图像重置，CCD阵列上探测单元的残余电荷被清除；在曝光过程中积累电荷；曝光结束后，所有电荷同时传送到传感"
+  },
+  {
+   "cn": "逐步平衡",
+   "en": "progressive balancing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0271",
+   "subjectFullName": "机械工程（一）_机械动力学_平衡与平衡装备",
+   "subjectName": "平衡与平衡装备",
+   "publishYear": "2021",
+   "definition": "将一个或两个部件加于平衡轴上，然后在这些部件上校正组装件的不平衡的工艺过程。"
+  },
+  {
+   "cn": "进展性淋巴管瘤",
+   "en": "progressive lymphangioma",
+   "source": "病理学名词",
+   "wordNumber": "11.101",
+   "subjectFullName": "病理学_感觉系统_皮肤",
+   "subjectName": "皮肤",
+   "publishYear": "2020",
+   "definition": "一种良性、局限性缓慢生长的肿瘤。主要由薄壁的内部相互交通的脉管腔构成。见于表皮和皮下组织。"
+  },
+  {
+   "cn": "累进税",
+   "en": "progressive tax",
+   "source": "经济学名词",
+   "wordNumber": "09.073",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "税率随课税对象数额的增加而提高的税。即按照课税对象数额的大小，规定不同等级的税率，课税对象数额越大，税率越高。"
+  },
+  {
+   "cn": "进行性遗忘",
+   "en": "progressive amnesia",
+   "source": "精神医学名词",
+   "wordNumber": "02.168",
+   "subjectFullName": "精神医学_症状与体征_记忆障碍症状",
+   "subjectName": "记忆障碍症状",
+   "publishYear": "2019",
+   "definition": "除遗忘外，同时伴有日益加重的痴呆和淡漠的一种精神病理状态。对再认和回忆影响明显。主要见于阿尔茨海默病受检者。"
+  },
+  {
+   "cn": "累进误差",
+   "en": "progressive error",
+   "source": "物理学名词",
+   "wordNumber": "01.0243",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "递进法则，渐进律",
+   "en": "progressive rule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐进律（=递进法则）",
+   "en": "progressive rule",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐进式进化",
+   "en": "progressive evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐进衰老",
+   "en": "progressive senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逐步冷冻法",
+   "en": "progressive freezing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调性移动",
+   "en": "progressive tonality",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进行性遗忘",
+   "en": "progressive amnesia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "前进波",
+   "en": "progressive wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进步意识形态",
+   "en": "progressive ideology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "进展因素",
+   "en": "progressive factor",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "渐进式进化",
+   "en": "progressive evolution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分色样张",
+   "en": "progressive proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "进展演替",
+   "en": "progressive succession",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "前进波",
+   "en": "progressive wave",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "前进波",
+   "en": "progressing wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "温度历程",
+   "en": "temperature progression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进行",
+   "en": "motion progression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "累计时间",
+   "en": "progressive time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增加重量",
+   "en": "increase of weight\",\"progress of the loading\",\"weight progression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《共建“一带一路”倡议：进展、贡献与展望》",
+   "en": "The Belt and Road Initiative: Progress, Contributions and Prospects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "稳中求进工作总基调",
+   "en": "the underlying principle of pursuing progress while ensuring stability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.2",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "社会现象向着预定方向或目标的前进运动。某些社会学家认为人类社会的组织模式也像生物有机体一样，经历着从相对小型、简单、低级向相对大型、复杂、高级的形态演进过程，这种社会组织形式的进化被称作社会进步，与生"
+  },
+  {
+   "cn": "进步",
+   "en": "progress",
+   "source": "马克思主义",
+   "wordNumber": "04.0047",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会从低级阶段向高级阶段或从简单形式到复杂形式的发展。马克思主义认为，生产方式前进是进步的基本媒介。进步的实质是对立面的斗争——新的和朝气蓬勃的东西同旧的、衰朽的东西之间的斗争。"
+  },
+  {
+   "cn": "渐进反应",
+   "en": "progressive response",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "暴露于一个或多个允许评估达到水平的过程变量后，出现的渐进的可视变化。"
+  },
+  {
+   "cn": "进步力量",
+   "en": "progressive forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0369",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人、农民和城市小资产阶级，他们是统一战线的基础，抗日的主要依靠力量。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "人类社会由低级形态向高级形态合乎规律地运动的过程，以及人类物质文明与精神文明不断升华和发展的过程。伴随启蒙运动而来的一种乐观的社会发展观念。"
+  },
+  {
+   "cn": "社会进步",
+   "en": "social progress",
+   "source": "马克思主义",
+   "wordNumber": "03.0161",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会发展中的向前的、上升的运动，既包括社会生活中社会物质文明和精神文明的渐进发展，也包括社会形态从低级阶段向高级阶段的突变演进。社会发展具有不以人们意志为转移的客观规律性，社会进步代表了社会发展的总趋"
+  },
+  {
+   "cn": "进步的研究纲领",
+   "en": "progressive research programme",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.167",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "研究纲领能够不断地预测新的事实并且预测能得到确证。"
+  },
+  {
+   "cn": "累进性筹资",
+   "en": "progressivity of financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.3",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "在不同收入人群中，随着支付能力增加，卫生支出占可支付能力比例相应增加的卫生筹资类型。"
+  },
+  {
+   "cn": "进行性骨化性肌炎",
+   "en": "myositis ossificans progressive, MOP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "一种罕见的致残性的遗传性结缔组织疾病。本病为ACVR1基因突变所致的常染色体显性遗传性疾病，以先天性大脚趾畸形和进行性骨骼外骨化为特征，主要临床表现为反复出现的疼痛性的炎性包块。"
+  },
+  {
+   "cn": "进行性假性类风湿性发育不良症",
+   "en": "progressive pseudorheumathoid dysplasia, PPD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.7.12",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病",
+   "subjectName": "遗传性疾病",
+   "publishYear": "2025",
+   "definition": "一种罕见的常染色体隐性遗传软骨发育不良疾病，其病因为wntl诱导的信号肽通路蛋白3基因OMJM603400发生了突变。本病好发年龄为3-8岁，临床表现主要为进行性关节肿胀、疼痛、畸形、活动受限，受累关"
+  },
+  {
+   "cn": "党的先进性",
+   "en": "progressiveness of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0625",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以马克思主义为指导、以工人阶级作基础、以优秀分子为成员、以民主集中制为组织原则所形成的具体体现在党的理想、宗旨和路线、纲领、方针、政策之中，体现在党员和党的干部的模范带头作用之中的一种特质。党的先进性"
+  },
+  {
+   "cn": "塞浦路斯劳动人民进步党",
+   "en": "Progressive Party of Working People",
+   "source": "马克思主义",
+   "wordNumber": "05.0290",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "前身是1926年成立的塞浦路斯共产党，1941年改为现名。劳进党以马列主义为指导，以实现社会主义为目标，支持建立一个独立、非军事化的塞浦路斯。1996年该党成为塞浦路斯第二大党，2001年为塞浦路斯第"
+  },
+  {
+   "cn": "社会主义精神文明建设",
+   "en": "socialist ideological and ethical progress",
+   "source": "马克思主义",
+   "wordNumber": "03.0589",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "包括教育科学文化建设和思想道德建设两方面。社会主义精神文明建设以马克思主义为指导，以推动社会主义现代化为目标。它的发展需要物质文明建设提供基础和条件，它的发展又为物质文明建设提供精神动力和智力支持。"
+  },
+  {
+   "cn": "保持共产党员先进性教育活动",
+   "en": "education activities to keep the Partys progressiveness to keep the Partys progressiveness",
+   "source": "马克思主义",
+   "wordNumber": "04.0275",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "从2005年1月开始，在全党开展了以实践“三个代表”重要思想为主要内容的保持共产党员先进性教育活动，历时一年半，到2006年6月基本结束。这是中国共产党在新的历史条件下用发展着的马克思主义武装全党的一"
+  },
+  {
+   "cn": "民族团结进步创建",
+   "en": "Creation of Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0101",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下，由政府主导、各民族群众广泛参与、创造性地推进民族团结和各民族共同进步的社会活动。中国的民族团结进步创建，始于上世纪50 年代吉林省延边朝鲜族自治州的民族团结宣传月活动，现已成为中国"
+  },
+  {
+   "cn": "创新是一个民族进步的灵魂",
+   "en": "innovation is the soul of a nations progress",
+   "source": "马克思主义",
+   "wordNumber": "04.0188",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1995年全国科学技术大会上提出的著名论断。一个民族的进步需要理论创新与实践创新，实践基础上的理论创新和理论指导下的实践创新，是探索中国特色现代化道路的客观要求，只有不断创新才能解决改革进程中"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  },
+  {
+   "cn": "民族团结进步示范区示范单位",
+   "en": "demonstration area and unit of ethnic unity and progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0102",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国民族团结进步创建活动中涌现出来的民族团结工作表现突出、有一定示范作用的地区和单位。根据《全国民族团结进步示范区示范单位创建命名管理办法》，示范区的范围包括市（地区、自治州、盟）、县（市、区、旗）、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

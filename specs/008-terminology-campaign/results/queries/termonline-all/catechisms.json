@@ -1,0 +1,22 @@
+{
+ "key": "catechisms",
+ "term": "catechisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:17:29+00:00",
+ "status": "ok",
+ "note": "variant=catechisms; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "《东正教教义问答》",
+   "en": "Orthodox Catechism",
+   "source": "世界历史名词",
+   "wordNumber": "05.0110",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "主张共和国制度和反对农奴制的革命宣言。是穆拉维约夫—阿波斯托尔和别斯图热夫—留明为切尔尼戈夫团起义(1825)制定的宣言。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

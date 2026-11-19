@@ -1,0 +1,762 @@
+{
+ "key": "immunization techniques",
+ "term": "immunization techniques",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:23:42+00:00",
+ "status": "ok",
+ "note": "variant=immunization techniques; 审定公布名词库=1042; 海峡两岸名词对照库=375; 其他来源数据库=118; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "免疫细胞[组织]化学技术",
+   "en": "immune- ocytochemical [immunohistochemical] technique",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0124",
+   "subjectFullName": "人体解剖学_神经系统_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "利用免疫学抗体与抗原结合的原理和细胞化学技术对组织、细胞特定抗原或抗体进行定性、定位研究的技术。"
+  },
+  {
+   "cn": "免疫法",
+   "en": "immunization",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_临床与治疗",
+   "subjectName": "临床与治疗",
+   "publishYear": "2019",
+   "definition": "采用灭活或毒性很小的菌苗、疫苗、类毒素来激活人体的免疫功能，使人体产生特异性免疫力的方法。"
+  },
+  {
+   "cn": "免疫接种",
+   "en": "immunization",
+   "source": "免疫学名词",
+   "wordNumber": "5.156",
+   "subjectFullName": "免疫学_5应用免疫_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2007",
+   "definition": "一种免疫预防策略。即将抗原引入机体，人为地诱发和加强针对所引入抗原的适应性免疫应答。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immune",
+   "source": "兽医学名词",
+   "wordNumber": "14.002",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "动物机体对自身和非自身物质的识别，并清除非自身的大分子物质，保持机体内、外环境平衡的一种生理性反应。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immune ",
+   "source": "草学名词",
+   "wordNumber": "7.0365",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "免疫性",
+   "en": "immunity ",
+   "source": "草学名词",
+   "wordNumber": "7.0366",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "免蚀态",
+   "en": "immunity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0473",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "当某金属的负电位足够大，它在溶液中的平衡离子活度低于某一临界值时，腐蚀效应消失或者可以忽略不计时腐蚀体系的状态。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "器官移植学名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "机体识别和排除抗原性异物，即机体区分自己与非己而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0145",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。机体抵抗病原微生物感染的免疫机制主要包括非特异性免疫和特异性免疫。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "机体识别和排除抗原性异物即机体区分自己与非己进而排除异己的功能。通常对机体有利，但在某些条件下也可对机体有害。"
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "免疫学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "机体抵抗感染的能力。"
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在传输过程中，接收机或终端设备减少或排除干扰对其有用信号影响的能力。"
+  },
+  {
+   "cn": "免疫",
+   "en": "immunity",
+   "source": "水产名词",
+   "wordNumber": "07.066",
+   "subjectFullName": "水产_水产生物病害及防治",
+   "subjectName": "水产生物病害及防治",
+   "publishYear": "2002",
+   "definition": "机体免疫系统对一切异物或抗原性物质进行非特异或特异性识别和排斥清除的一种生理学功能。"
+  },
+  {
+   "cn": "抗[骚]扰度",
+   "en": "immunity",
+   "source": "电气工程名词",
+   "wordNumber": "30.081",
+   "subjectFullName": "电气工程_电磁干扰和电磁兼容",
+   "subjectName": "电磁干扰和电磁兼容",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.042",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "抗干扰性",
+   "en": "immunity",
+   "source": "石油名词",
+   "wordNumber": "08.0175",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "技法",
+   "en": "technique",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.022",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "发明创造活动所采用的技巧和方法。具有规范性、标准性、基础性和通用性等特点。"
+  },
+  {
+   "cn": "技艺",
+   "en": "technique",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.023",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们利用通过亲历或经验所掌握的技能手艺完成各类加工制作的目的性活动。它可以通过学习得到培养，属于难言性技术知识。"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "planned immunization,immunization program",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.035",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的方 法。"
+  },
+  {
+   "cn": "基础免疫",
+   "en": "basic immunization, fundamental immunity",
+   "source": "感染病学名词",
+   "wordNumber": "01.0369",
+   "subjectFullName": "感染病学_总论_感染病预防",
+   "subjectName": "感染病预防",
+   "publishYear": "2019",
+   "definition": "机体首次完成某种疫苗的接种。一般根据传染病种类及其疫苗制剂的特点，在一定范围内对易感者进行的基本免疫。如对8个月以上未患麻疹的儿童常规进行麻疹预防免疫接种，7岁以下儿童接种百日咳、白喉及破伤风混合疫苗"
+  },
+  {
+   "cn": "免疫作用",
+   "en": "immunization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "免疫接种",
+   "en": "immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫[力]",
+   "en": "immunity",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫性",
+   "en": "immunity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "被动免疫接种",
+   "en": "passive immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初次免疫接种",
+   "en": "primary immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "二次免疫接种",
+   "en": "secondary immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因免疫",
+   "en": "genetic immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计划免疫接种",
+   "en": "planned immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "加强免疫接种",
+   "en": "booster immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫接种策略",
+   "en": "immunization strategy",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工免疫接种",
+   "en": "artificial immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特异性免疫接种",
+   "en": "specific immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "预防性免疫接种",
+   "en": "prophylactic immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主动免疫接种",
+   "en": "active immunization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因免疫",
+   "en": "gene immunization",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "免疫系统",
+   "en": "immune system",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腿法",
+   "en": "foot technique\",\"kick technique\",\"kicking technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻技术",
+   "en": "attacking technique\",\"striking technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出拳技巧",
+   "en": "fist technique\",\"punch technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术",
+   "en": "technic\",\"technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术训练",
+   "en": "technique training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格挡技术",
+   "en": "blocking technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守技术",
+   "en": "defensive technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸技术",
+   "en": "breathing technique",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计划免疫",
+   "en": "planed immunization",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "根据某些特定传染病的疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行免疫接种的策略，以提高人群的免疫水平，达到预防、控制乃至最终消灭相应传染病的目的。"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "immunization programme",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.2.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "按照国家或者地区确定的疫苗品种、免疫程序或者接种方案，在人群中有计划地进行预防接种，以预防和控制特定传染病的发生和流行。"
+  },
+  {
+   "cn": "疫苗筹资",
+   "en": "immunization financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "为了使居民能够接种疫苗而筹集的资金，不仅包括购买疫苗的资金筹集，还包括疫苗接种费用、运输费用、异常反应补偿费用等的筹集。资金来源包括政府、医疗保险、个人以及国际组织和其他国家的捐助。"
+  },
+  {
+   "cn": "免疫接种程序",
+   "en": "immunization schedule",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "根据实际情况制定的合理的预防接种计划，即依据疫病在本地区流行情况及规律，所确定的使用疫苗的种类、时间、性质、免疫途径等。"
+  },
+  {
+   "cn": "免疫规划",
+   "en": "immunization program",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.15",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "根据疫情监测和人群免疫状况分析，按照规定的免疫程序，有计划、有组织地利用疫苗进行预防接种，以提高人群的免疫水平，达到控制乃至最终消灭相应传染病目的的方法。与计划免疫相比，免疫规划更强调国家免疫策略的制"
+  },
+  {
+   "cn": "计划免疫",
+   "en": "planned immunization",
+   "source": "社会医学名词",
+   "wordNumber": "12.2.14",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "儿童卫生保健",
+   "publishYear": "2025",
+   "definition": "根据传染病疫情监测结果和人群免疫水平分析，按照国家规定的免疫程序，有计划地利用疫苗进行的免疫接种，以提高人群免疫水平，达到控制乃至最终消灭传染病的目的。随着中国预防接种工作发展到免疫规划时期，计划免疫"
+  },
+  {
+   "cn": "免疫应答",
+   "en": "immune response",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激的应答过程，即免疫细胞识别、摄取、处理抗原、继而活化、增殖、分化、产生免疫效应的过程,包括识别相、中枢相和效应相。"
+  },
+  {
+   "cn": "固有免疫",
+   "en": "innate immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.2",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "个体在长期进化中所形成的、与生俱有的抵抗病原体侵袭、清除体内抗原性异物的防御能力。由固有免疫分子和固有免疫细胞所执行。并非针对特定抗原，是机体抵御病原体感染的第一道防线。"
+  },
+  {
+   "cn": "适应性免疫",
+   "en": "adaptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体出生后通过与抗原物质接触由淋巴细胞产生的一系列防御功能，主要由T淋巴细胞和B淋巴细胞介导，清除抗原，产生免疫记忆，具有特异性、多样性和记忆性。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体通过获得外源性免疫效应分子(如抗体等)或免疫效应细胞而获得的相应免疫。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "过继免疫",
+   "en": "adoptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "一种被动免疫策略，将已被免疫个体的致敏淋巴细胞或抗体输入另一个体而使之被动获得相应的特异性免疫功能。"
+  },
+  {
+   "cn": "感染免疫",
+   "en": "infection immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体在不清除体内感染的情况下而具备的抵抗大量病原体的免疫能力。宿主的免疫力随病原微生物在体内存在而存在，一旦离开此环境或病原微生物消失，免疫力也随之消失。"
+  },
+  {
+   "cn": "群体免疫",
+   "en": "herd immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.9",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "人群对于传染病的侵入和传播的抵抗力。社区群体中大部分个体已对特定病原体具有免疫力，使一个已患病个体在此群体中传染他人的可能性变小。"
+  },
+  {
+   "cn": "细胞免疫",
+   "en": "cellular immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.12",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "狭义的细胞免疫仅指T细胞介导的免疫应答，即T细胞受到抗原刺激后，分化、增殖、转化为致敏T细胞，当相同抗原再次进入机体，致敏T细胞对抗原的直接杀伤作用及致敏T细胞所释放的细胞因子的协同杀伤作用。广义还应"
+  },
+  {
+   "cn": "体液免疫",
+   "en": "humoral immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.13",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "通过效应B细胞（浆细胞）分泌抗体，并与抗原发生特异性结合来清除抗原，以达到保护目的的免疫机制。"
+  },
+  {
+   "cn": "黏膜免疫",
+   "en": "mucosal immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "存在于黏膜的各种特异性与非特异性细胞免疫和体液免疫因子所构成的黏膜的局部免疫。"
+  },
+  {
+   "cn": "免疫器官",
+   "en": "immune organ",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "免疫细胞发生、发育、成熟和产生免疫应答的器官，分为中枢免疫器官和外周免疫器官。中枢免疫器官包括骨髓和胸腺；外周免疫器官包括淋巴结、脾脏、黏膜相关淋巴组织等。"
+  },
+  {
+   "cn": "免疫复合物",
+   "en": "immune complex",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.41",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "抗体与可溶性抗原结合而形成的复合物。抗体量足以交联抗原时形成大的免疫复合物，由网状内皮系统中表达Fc受体和补体受体的细胞所清除；抗原过量时则形成小的可溶性免疫复合物，沉积于小血管而造成小血管损伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

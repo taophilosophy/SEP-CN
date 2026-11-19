@@ -1,0 +1,682 @@
+{
+ "key": "corvee",
+ "term": "corvée",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:42:13+00:00",
+ "status": "ok",
+ "note": "variant=corvée; 审定公布名词库=1477; 海峡两岸名词对照库=423; 其他来源数据库=33; 预公布名词数据库=51; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "劳役制",
+   "en": "Corvée",
+   "source": "世界历史名词",
+   "wordNumber": "02.0798",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "封建地租的一种，依附于封建主的农民被迫用自己的生产工具在封建主的庄园或土地上进行无偿劳动。在罗斯，劳役制出现在基辅公国时期，从15世纪末起，成为俄国农奴制剥削的主要形式。"
+  },
+  {
+   "cn": "曲线",
+   "en": "curve",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.404",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "具有一定曲率的点的集合。"
+  },
+  {
+   "cn": "曲线",
+   "en": "curve",
+   "source": "数学名词",
+   "wordNumber": "08.0244",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "雕刻",
+   "en": "carve,carving",
+   "source": "林学名词",
+   "wordNumber": "11.601",
+   "subjectFullName": "林学_木材科学与技术_家具与木制品",
+   "subjectName": "家具与木制品",
+   "publishYear": "2016",
+   "definition": "用手工工具或机械设备对工件表面进行刻琢或铣削以获得纹样图案以及雕塑效果的加工过程。"
+  },
+  {
+   "cn": "核心",
+   "en": "core",
+   "source": "兽医学名词",
+   "wordNumber": "16.158",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "由病毒核酸(及其结合蛋白)组成，并被衣壳包围着的病毒粒子的中心部分。"
+  },
+  {
+   "cn": "芯[子]",
+   "en": "core",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.304",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_砂型铸造",
+   "subjectName": "砂型铸造",
+   "publishYear": "2021",
+   "definition": "为获得铸件的内孔或复杂外形，用芯砂或其他材料制成的，组成型腔整体或局部的铸型组元。"
+  },
+  {
+   "cn": "铁心",
+   "en": "core",
+   "source": "电力名词",
+   "wordNumber": "11.004",
+   "subjectFullName": "电力_汽轮发电机",
+   "subjectName": "汽轮发电机",
+   "publishYear": "2020",
+   "definition": "发电机承载磁通和固定定子绕组的重要部件。由硅钢片叠装成的铁心本体、压指和端部压板(压圈)以及防止周向移动的定位筋及拉紧螺杆等组成。"
+  },
+  {
+   "cn": "芯部",
+   "en": "core",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0549",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_蒸煮",
+   "subjectName": "蒸煮",
+   "publishYear": "2020",
+   "definition": "食品的中心部位。"
+  },
+  {
+   "cn": "核心",
+   "en": "core",
+   "source": "感染病学名词",
+   "wordNumber": "03.0153",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "病毒内由包膜包被的结构。包含存储病毒信息的遗传物质(核酸)及复制这些信息必需的酶。"
+  },
+  {
+   "cn": "木芯",
+   "en": "core",
+   "source": "林学名词",
+   "wordNumber": "11.369",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "木段旋切结束所剩余的细长圆柱体。"
+  },
+  {
+   "cn": "片芯",
+   "en": "core",
+   "source": "药学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "包衣片中除去包衣膜的部分。"
+  },
+  {
+   "cn": "核心",
+   "en": "core",
+   "source": "微生物学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "病毒粒子的结构单位，由病毒核酸及相关联的蛋白质组成，由核壳包裹。"
+  },
+  {
+   "cn": "芯[子]",
+   "en": "core",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1115",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "为获得铸件的内孔或复杂外形，用芯砂或其他材料制成的组成型腔整体或局部的铸型组元。"
+  },
+  {
+   "cn": "铁芯",
+   "en": "core",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0863",
+   "subjectFullName": "材料科学技术_金属材料_特殊用途金属材料_磁性材料",
+   "subjectName": "磁性材料",
+   "publishYear": "2011",
+   "definition": "软磁材料制成的具有高起始导磁率、低损耗和磁性能稳定等特点的构件。"
+  },
+  {
+   "cn": "纤芯",
+   "en": "core",
+   "source": "通信科学技术名词",
+   "wordNumber": "08.086",
+   "subjectFullName": "通信科学技术_线缆传输与接入",
+   "subjectName": "线缆传输与接入",
+   "publishYear": "2007",
+   "definition": "在光纤中，大部分光功率由此通过的中心区。"
+  },
+  {
+   "cn": "核心[区]",
+   "en": "core",
+   "source": "土木工程名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "土木工程_工程力学_材料力学",
+   "subjectName": "材料力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "线芯",
+   "en": "core",
+   "source": "水产名词",
+   "wordNumber": "03.204",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "在编线或多股复捻线的中央部位，配置的若干根单纱、长丝或线填充物。"
+  },
+  {
+   "cn": "杆体",
+   "en": "core",
+   "source": "电气工程名词",
+   "wordNumber": "06.059",
+   "subjectFullName": "电气工程_绝缘子",
+   "subjectName": "绝缘子",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "线芯",
+   "en": "core",
+   "source": "电气工程名词",
+   "wordNumber": "05.085",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "堆芯",
+   "en": "core",
+   "source": "航海科技名词",
+   "wordNumber": "15.1208",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "曲线",
+   "en": "curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曲线",
+   "en": "curve",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "曲线",
+   "en": "curve",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "芯[子]",
+   "en": "core",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "谷地",
+   "en": "cove",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "小湾",
+   "en": "cove",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中轴",
+   "en": "core",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "堆芯",
+   "en": "core",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "芯",
+   "en": "core",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "片心",
+   "en": "core",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "存活曲线",
+   "en": "survivorship curve\",\"survival curve",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特性曲线",
+   "en": "characteristic curve\",\"performance curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "退磁曲线",
+   "en": "degaussing curve\",\"demagnetization curve",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑斯谛曲线,S形曲线",
+   "en": "logistic curve\",\"sigmoid curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "存活曲线,生存曲线",
+   "en": "survival curve\",\"survivorship curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "补充曲线,繁殖曲线",
+   "en": "recruiting curve\",\"reproduction curve",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "介曲线，缓和曲线",
+   "en": "transition curve\",\"easement curve",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "轮廓线",
+   "en": "profile curve\",\"silhouette curve",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生长曲线",
+   "en": "curve of growth\",\"growth curve",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "燃烧曲线",
+   "en": "burning-off curve\",\"combustion curve",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "弯道起跑",
+   "en": "curve start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弯道",
+   "en": "bend\",\"curve\",\"turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转向",
+   "en": "turn\",\"bend\",\"curve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核心交互",
+   "en": "core interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弯道起点",
+   "en": "start of the curve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弯道末端",
+   "en": "end of the curve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马背弯曲度",
+   "en": "curve of the back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "徭役",
+   "en": "corvee",
+   "source": "马克思主义",
+   "wordNumber": "03.0213",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古代统治阶级凭借暴力强迫劳动人民提供的无偿劳动。有军役、力役和杂役等形式。一般指剥削阶级国家对劳动人民征发的劳役，也指奴隶主和封建地主（领主）强迫奴隶或农民（农奴）提供的劳役。在徭役形式下，剥削者直接"
+  },
+  {
+   "cn": "存活曲线",
+   "en": "survival curve",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，试验菌的杀灭或存活时间与杀菌因子强度的关系曲线图。"
+  },
+  {
+   "cn": "等剂量曲线",
+   "en": "isodose curve",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.30",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "介质中剂量相等的点连成的曲线。在放射治疗中，用来描述模体内吸收剂量相等的点的连线。"
+  },
+  {
+   "cn": "洛伦茨曲线",
+   "en": "Lorenz curve",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "测量某种物品（通常是收入或财富）分配不平等程度的曲线图，因由美国经济学家洛伦兹(Max O.Lorentz）提出而得名，是推导基尼系数的基础。"
+  },
+  {
+   "cn": "洛伦兹曲线",
+   "en": "Lorenz Curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "将收入或财产按不同人群或地区分为若干等级，横轴表示每一等级的人口数占总人口的累计百分比，纵轴表示每一等级拥有的财富的累计百分比，连接各点，即得反应财富集中程度的的图示。"
+  },
+  {
+   "cn": "集中曲线",
+   "en": "concentration curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "横坐标为按收入水平排序人口累计百分比、纵坐标为健康累计百分比的一条曲线，如果各收入水平人群的健康状况是平等的，则集中曲线和45度对角线重合。"
+  },
+  {
+   "cn": "无差异曲线",
+   "en": "indifference curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "能给消费者带来同等程度满足的两种商品的不同数量组合点的变化轨迹。"
+  },
+  {
+   "cn": "供给曲线",
+   "en": "supply curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在其他条件不变的情况下，反映卫生服务供给量（通常标明在横轴上）与卫生服务价格（通常标明在纵轴上）间关系的曲线。"
+  },
+  {
+   "cn": "等产量曲线",
+   "en": "isoquant curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在技术水平既定的条件下，生产给定产量的两种生产要素有效组合的轨迹。"
+  },
+  {
+   "cn": "等成本线",
+   "en": "isocost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.5.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "表示用既定的成本可以实现的两种及多种生产要素最大数量组合点的轨迹。"
+  },
+  {
+   "cn": "生长曲线",
+   "en": "growth curve",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "描述儿童少年体格指标的测量值或年增长值随年龄变化的曲线图。"
+  },
+  {
+   "cn": "发病曲线",
+   "en": "incidence curve",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "为反映疾病的时间分布特征，以横坐标为时间尺度，纵坐标为病例数，将各单位时间内（小时、日、周、月或年）发生的病例数标记在相应的位置上，所构成的直方图或线图"
+  },
+  {
+   "cn": "战场尸体处理",
+   "en": "battlefield corpse management",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为妥善处理战场敌我双方遗体，控制传染病发生，消除尸臭，以无机化为基本原则，通过火葬、土葬等尸体处理手段及各种物理、化学的尸臭去除方法，对遗体进行的综合处置措施。"
+  },
+  {
+   "cn": "存活曲线法",
+   "en": "survival curve method",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用活菌计数法检测试验菌的存活数量，绘制时间-存活菌数对数曲线，计算D值的方法。"
+  },
+  {
+   "cn": "剂量-效应曲线",
+   "en": "dose-effect curve",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某种生物体系受到照射后的生物学变化与受照剂量之间存在着某种定量关系，可用适当的数学模式表述，并制备出相应的刻度曲线，可用其估算受照射剂量。"
+  },
+  {
+   "cn": "细胞存活曲线",
+   "en": "cell survival curve",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "细胞受到不同剂量的照射后，存活的细胞占接种细胞的份额与所受剂量的关系曲线。"
+  },
+  {
+   "cn": "深度剂量曲线",
+   "en": "depth dose curve",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.28",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在源皮距和辐射野面积一定时，辐射束轴上的吸收剂量随深度而变化的关系曲线。"
+  },
+  {
+   "cn": "边际效用曲线",
+   "en": "marginal utility curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "用图表示不同条件下每增加一单位商品的数量的边际效用的变化情况的曲线。"
+  },
+  {
+   "cn": "边际成本曲线",
+   "en": "marginal cost curve",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "反映增加最后一单位产量所引起的总成本的增加与产量之间关系的曲线。"
+  },
+  {
+   "cn": "剂量-反应曲线",
+   "en": "dose-response curve",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.8",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "以剂量为横坐标，以表示反应强度的百分率或比值为纵坐标绘制得到的曲线"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

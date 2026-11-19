@@ -1,0 +1,702 @@
+{
+ "key": "sensibly determined self-consciousness",
+ "term": "sensibly determined self-consciousness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:36:01+00:00",
+ "status": "ok",
+ "note": "variant=sensibly determined self-consciousness; 审定公布名词库=1490; 海峡两岸名词对照库=603; 其他来源数据库=77; 预公布名词数据库=131; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.585",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主体对作为对象的自我的意识或觉知。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "4.115",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "个体对自己身心状态的认识、体验和愿望。具有目的性和能动性等特点。对人格的形成、发展发挥调节、监控和矫正作用。"
+  },
+  {
+   "cn": "自我决定理论",
+   "en": "self-determination theory",
+   "source": "心理学名词",
+   "wordNumber": "09.063",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "强调个体的自主性和内部动机在适应过程中的重要作用的一种动机理论。"
+  },
+  {
+   "cn": "民族自决",
+   "en": "national self-determination",
+   "source": "地理学名词",
+   "wordNumber": "17.041",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "具有某种明显领土认同感的群体决定自己命运的权力。"
+  },
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "兽医学名词",
+   "wordNumber": "04.443",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "水分从汗腺分泌的汗液中蒸发的现象。汗液可被机体感觉到。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature ",
+   "source": "草学名词",
+   "wordNumber": "3.0624",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat ",
+   "source": "草学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.358",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜禽产生的经传导、对流、辐射散发到环境中的热量。能引起空气温度变化。"
+  },
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "生理学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "建筑学名词",
+   "wordNumber": "10.0335",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "在物质的吸热或放热过程中，能使其温度发生变化的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "大气科学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在不伴随水的相变的情况下，有温差存在时物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "大气科学名词",
+   "wordNumber": "08.211",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "在不同气温、湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不同气温，湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.213",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.191",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "人与环境间通过对流、辐射和传导途径交换的热量，即非蒸发性散热。"
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "航海科技名词",
+   "wordNumber": "02.0100",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识障碍",
+   "en": "disorder of self-consciousness",
+   "source": "行为医学名词",
+   "wordNumber": "16.128",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对自身精神状况和躯体状况的认识异常。包括人格解体、双重人格、自我界限障碍和自知力缺乏等。"
+  },
+  {
+   "cn": "决定",
+   "en": "determination",
+   "source": "动物学名词",
+   "wordNumber": "4.0581",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "细胞的分化方向发生了稳定的不可逆的变化、但分化表型尚未显现时的细胞状态。"
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "物理学名词",
+   "wordNumber": "01.0084",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自我意识",
+   "en": "self consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自我决定理论",
+   "en": "self determination theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "民族自决",
+   "en": "national self-determination",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "公我意识",
+   "en": "public self consciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可感热",
+   "en": "sensible heat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "决定",
+   "en": "determination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行列式",
+   "en": "determinant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "测定",
+   "en": "determination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决定子",
+   "en": "determinant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决定子",
+   "en": "determinant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "决定",
+   "en": "determination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自主决定权",
+   "en": "right to self-determination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "识",
+   "en": "Vijñāna / Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我决定",
+   "en": "self-determination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "在案主清醒和可以衡量后果对案主无害的情况下，社会工作者要充分尊重案主自我选择和自我决定的权利的原则。"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由自我概念、自我评价和自我体验等共同组成的心理过程。"
+  },
+  {
+   "cn": "感性",
+   "en": "sensibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0177",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人通过感觉器官感知外在对象而产生感觉、知觉和表象等直观形式的认识能力和感知方式，是认识活动的初级形式，它只能认识对象的表面现象和外部特征，形成对对象的形象、直观、生动的认识。（2）情绪和情感统称"
+  },
+  {
+   "cn": "自我意识发展",
+   "en": "self-consciousness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对自己存在的觉察和认识的能力随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "自我意识发展",
+   "en": "self-consciousness development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人作为主体对自己以及自己与客观世界关系的意识发生发展的过程。人的自我意识是在实践活动、社会交往中发展起来的。"
+  },
+  {
+   "cn": "自决专业关系",
+   "en": "self-determination professional relationship",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程中，为了专业服务的目的，社会工作者与案主之间建立的充分尊重案主自我选择和自我决定的权利的关系。"
+  },
+  {
+   "cn": "新感性",
+   "en": "new sensibility",
+   "source": "马克思主义",
+   "wordNumber": "05.0034",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞提出的艺术乌托邦中的一个重要概念。他认为，当人的爱欲获得了解决，人就不再受工具理性的统治，人就是自由的、快乐的人。在新感性降临的社会，人与自然和谐一体，人与人和平相处，人在生活中体验着美妙、安"
+  },
+  {
+   "cn": "民族自决权",
+   "en": "right of national self-determination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0021",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "殖民时期指受外国奴役和殖民统治的被压迫民族摆脱殖民统治、建立独立国家，自主选择政治、经济、文化、社会制度的自由和权利。当今社会指各主权国家坚持民族统一、维护国家主权独立的原则和准则，是马克思主义解决民"
+  },
+  {
+   "cn": "决定论",
+   "en": "determinism",
+   "source": "马克思主义",
+   "wordNumber": "01.0195",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "认为世界上一切事物普遍存在着因果制约性、必然性和规律性的哲学学说，与“非决定论”相对。"
+  },
+  {
+   "cn": "意识",
+   "en": "consciousness",
+   "source": "马克思主义",
+   "wordNumber": "01.0011",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质世界长期发展的产物，是人脑的机能，是物质世界在人脑中的主观映像。意识也是社会的产物。意识由物质决定，又具有相对独立性和能动性，能够能动地反映和改造世界。"
+  },
+  {
+   "cn": "社会决定论",
+   "en": "social determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会主体的活动和历史发展主要是由外在于主体的社会环境、社会结构、社会关系、社会文化决定的学说。不排斥经济、技术对社会发展的影响，但强调其归根结底也是一定的伦理、政治与文化等社会价值的体现。与技"
+  },
+  {
+   "cn": "文化决定论",
+   "en": "cultural determinism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "社会研究的一种理论取向，强调社会母系统中的文化子系统对其他子系统（经济、政治等）的决定作用。该取向一方面发掘了文化对社会母系统及其他子系统的推动、引导、决定作用，另一方面却容易导致简单化、以偏概全和脱"
+  },
+  {
+   "cn": "地理决定论",
+   "en": "geographical determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.1",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为地理环境因素决定社会历史状态和民族性格的观点。萌芽于古希腊时代，兴起和流传于近代社会学、地理学和历史哲学中。"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种把社会现象解释为因某些人的生物或遗传的特征所引起的观点。"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technological determinism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "主张依靠科学技术进步来解决所有的生态问题。基于对技术进步的这种认识，认为技术给人类创造了空间的物质利益，尽管同时带来了生态危机的副作用，但它们同样可以用来治理这些副作用。是与自然保护主义相对的一种生态"
+  },
+  {
+   "cn": "技术决定论",
+   "en": "technical determinism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0575",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家怀特（Leslie Alvin White）的核心思想。怀特认为，文化进化是普遍的，任何文化都可分为技术、社会组织和意识形态三种体系，其中技术体系是最基本的，决定着社会组织和意识形态体系的"
+  },
+  {
+   "cn": "社会决定因素",
+   "en": "social determinant",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "在那些直接导致疾病的因素之外，由人们居住和工作环境中社会分层的基本结构和社会条件不同所产生的影响健康的因素。包括人们出生、成长、工作、生活和老去的环境，以及塑造日常生活环境的更广泛的力量和系统。"
+  },
+  {
+   "cn": "结构性决定因素",
+   "en": "structural determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的植根于社会经济和政治背景下的关键因素，体现为权利、财富和资源的分配方式。个体层面包括社会地位、教育、职业、收入、性别、种族和民族，宏观层面包括政治、社会政策和文化、社会规范和价值观。"
+  },
+  {
+   "cn": "中间决定因素",
+   "en": "intermediate determinants",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.7.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼健康决定因素",
+   "subjectName": "妇幼健康决定因素",
+   "publishYear": "2025",
+   "definition": "影响健康的物质环境、心理社会环境、行为和／或生物因素，以及卫生系统本身。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

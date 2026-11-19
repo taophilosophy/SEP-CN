@@ -1,0 +1,152 @@
+{
+ "key": "preconditions",
+ "term": "preconditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:34:40+00:00",
+ "status": "ok",
+ "note": "variant=preconditions; 审定公布名词库=13; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "预处理",
+   "en": "preconditioning",
+   "source": "电气工程名词",
+   "wordNumber": "03.226",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "最弱前置条件",
+   "en": "weakest precondition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0943",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "保证一个语句执行正常结束并满足结果断言的最弱前提条件。"
+  },
+  {
+   "cn": "缺血预适应",
+   "en": "ischemic preconditioning",
+   "source": "普通外科学名词",
+   "wordNumber": "07.032",
+   "subjectFullName": "医学_普通外科学_危重疾病",
+   "subjectName": "危重疾病",
+   "publishYear": "2026",
+   "definition": "多次有目的的短期缺血使机体组织器官对随后更长时间缺血再灌注损伤产生保护作用的一种适应性方法。是一种器官保护  措施。"
+  },
+  {
+   "cn": "缺血预适应",
+   "en": "ischemic preconditioning",
+   "source": "器官移植学名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "在接受短暂的缺血刺激后供者对缺血损伤的耐受性增强，明显延长产生不可逆损伤的时间。通过减少内皮细胞的脱落和基质–金属蛋白酶的活性来延长冷缺血时间。"
+  },
+  {
+   "cn": "低氧预处理",
+   "en": "hypoxia preconditioning",
+   "source": "生理学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺血预适应",
+   "en": "ischemic precondition,IP",
+   "source": "核医学名词",
+   "wordNumber": "04.0629",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_心血管诊疗技术",
+   "subjectName": "心血管诊疗技术",
+   "publishYear": "2018",
+   "definition": "几次短暂的心肌缺血/再灌注能保护长时间冠脉阻塞所致心肌损害的效应。心肌细胞内源性缺血保护机制。"
+  },
+  {
+   "cn": "量子最弱前置条件",
+   "en": "quantum weakest precondition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0114",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "用于证明量子程序的完全正确性。程序 S和谓词P 的最弱前置条件，记为wp. S.P ∈<img src='/root/syzx/static/spz/jsjkx3.12.0114.001.png'/>"
+  },
+  {
+   "cn": "量子最弱自由前置条件",
+   "en": "quantum weakest liberal precondition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0115",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "用于证明量子程序的部分正确性。程序 S和谓词P 的最弱自由前置条件记为wlp. S.P ∈<img src='/root/syzx/static/spz/jsjkx3.12.0114.001.png'"
+  },
+  {
+   "cn": "人力资源会计的一般前提",
+   "en": "general precondition of human resource accounting",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.241",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源会计作为财务会计的范畴，仍然具有建立财务会计所必须的前提条件，这就是财务会计的四个基本假设，即：会计主体、持续经营、会计分期、货币计量。"
+  },
+  {
+   "cn": "人力资源会计的实践前提",
+   "en": "practical precondition of human resource accounting",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.242",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源会计真正运用到实践中，需要一定的时间，更需要具备一定的实际条件，即实践前提：人力资源法制化、加强对人力资源的计量、加强人力资源会计管理。"
+  },
+  {
+   "cn": "预条件子",
+   "en": "preconditioner",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1176",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "为了改善线性方程组系数矩阵的性质，将给定线性方程组转换为更易求解的方程组的变换（矩阵）。主要用于迭代方法的加速收敛。"
+  },
+  {
+   "cn": "修复",
+   "en": "recondition,rework",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0213",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "对单个零件、部件、系统或整机进行彻底检修使其恢复到规定状态的过程。"
+  },
+  {
+   "cn": "修复",
+   "en": "recondition,rework",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.028",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "对单个零件、部件、系统或整车进行彻底检修的过程。"
+  },
+  {
+   "cn": "前[置]条件",
+   "en": "precondition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

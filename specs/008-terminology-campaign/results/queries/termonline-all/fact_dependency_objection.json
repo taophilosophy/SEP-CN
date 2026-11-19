@@ -1,0 +1,752 @@
+{
+ "key": "fact-dependency objection",
+ "term": "fact-dependency objection",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:20:55+00:00",
+ "status": "ok",
+ "note": "variant=fact-dependency objection; 审定公布名词库=2674; 海峡两岸名词对照库=800; 其他来源数据库=142; 预公布名词数据库=121; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "对所要考察实体的数据的一个数值度量。"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中发现的真实可靠的现象或现象之间的关系。"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们通过知觉获得的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由理论推导得出的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "来自“实验室研究”的一个重要概念。布鲁诺·拉图尔（Bruno Latour）和史蒂夫·伍尔加（Steve Woolgar）发现实验室就像一个庞大的“文学铭写”系统，实验室中到处都是“铭写装置”（ins"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.184",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "新闻记者和编辑对搜集到的新闻素材进行确认和修订，以确保写入新闻报道的事实准确无误。这是新闻生产流程中必不可少的一个环节。"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）以客观事实为检索对象，查找某一事件发生的时间、地点及过程的一种检索方法。其检索结果主要是客观事实或为说明事实而提供的相关资料。完成事实型信息检索主要借助于各种指南数据库和全文数据库。（2）对数据"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0428",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "包含业务过程中的事实和度量信息的表。"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0364",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "用来存储事实的度量值及指向各个维表的外键值的数据表。"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "自动化名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "①具备新闻价值的事实、事件和现象。②经由新闻报道呈现和描述的事实。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0325",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "两个软件元素之间的一种关系。对其中一个元素（独立元素）的更改，将影响另一元素（依赖元素）。"
+  },
+  {
+   "cn": "依存",
+   "en": "dependency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0481",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子或短语中，从属词和中心词之间所具有的二元关系。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0237",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "有两个类X与Y，如果修改X的定义可能会导致对Y的定义的修改，或者Y的存在依赖于X的存在，则认为Y依赖于X。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "精神医学名词",
+   "wordNumber": "03.077",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "相依[的]",
+   "en": "dependent",
+   "source": "数学名词",
+   "wordNumber": "09.0042",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0575",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用于表述可用性及其影响因素(可靠性、维修性和保障性)的非定量术语。"
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.003",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "电子学名词",
+   "wordNumber": "18.058",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "事实-价值区分",
+   "en": "fact-value distinction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由D. 休谟（D. Hume）提出。讨论“应然”的价值判断与描述“实然”的经验事实分属不同范畴，前者不能由后者直接推论得出。"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存[关系]",
+   "en": "dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依赖性",
+   "en": "dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "物镜",
+   "en": "objective",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "对象",
+   "en": "object",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系树",
+   "en": "dependency tree\",\"dependent tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路径相关性",
+   "en": "path-dependency",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抚养比",
+   "en": "dependency ratio",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path dependency",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据依赖性",
+   "en": "data dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传递相关性",
+   "en": "transitive dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缘起",
+   "en": "Dependent Origination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据对象",
+   "en": "data object",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客体重用",
+   "en": "object reuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双目标",
+   "en": "dual objectives",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客观信用体系",
+   "en": "objective credit system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道器",
+   "en": "Dao and Objects",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟映射对象",
+   "en": "virtual mapping object",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目标对象域",
+   "en": "target object domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律客体",
+   "en": "object of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反对权",
+   "en": "right to object",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字资源唯一标识符",
+   "en": "digital object identifier (DOI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.12",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "事情的真实情况。指已被正确认识到的客观事物、事件、现象、关系、属性、本质及规律性，是客观存在的事物、现象、关系被人的感觉和思维如实反映，并作为人们进一步认识和行动的依据。作为元伦理范畴，事实与价值对立"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "超越于个人并能从外部给予个人以约束的一切社会事物（社会文化环境、结构、关系等），或普遍存在于社会各处的富有意义和影响的社会现象，具有客观性、强制性和普遍性。由涂尔干提出。"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "没有配偶的男女未进行结婚登记便以夫妻关系同居生活，社会也认为是夫妻关系的两性结合。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0525",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）在《社会学方法的准则》中首次提出，指普遍存在于社会各处并具有其固有存在的行为方式。社会事实有三个特征：外在性、强制性、普遍性。"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.37",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "标有食品能量和营养成分名称、含量及其占营养素参考值百分比的规范性表格。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "客观",
+   "en": "objective",
+   "source": "马克思主义",
+   "wordNumber": "01.0164",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不依赖于意识的独立存在。"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "source": "马克思主义",
+   "wordNumber": "01.0161",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在主客体对象性关系中，主体实践活动、认识活动、价值评价活动、审美活动所指向的对象。随着实践不断扩展，越来越多的自然存在变为客体，客体是被历史地规定的。"
+  },
+  {
+   "cn": "客体性",
+   "en": "objectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0162",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映实践活动、认识活动、价值评价活动、审美活动中客体特性的哲学范畴，它是由客体在主客体关系中的地位、作用、影响规定的，表现为被动、受动、消极、从属等特性。"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0165",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）被意识所反映的物质世界或认识对象的客观实在性。（2）概念、意识、范畴等思维形式的内容不依赖于主体的性质。（3）从实际出发，力求如实地反映事物的本来面目和内在规律的思想方法。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0094",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代中期以后出现于拉丁美洲的一种社会理论，运用马克思主义观点寻找发展中国家经济落后的根源，其心观点是外围国家（即发展中国家）的资源和财富经过不平等交换等机制流向中心国家（发达国家），并导致"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代晚期提出的一套国际关系与发展经济学理论，它将世界划分为先进的中心国家与较落后的边陲国家，后者在世界体系中的地位使之受到中心国的盘剥，故得不到发展，或产生腐败等弊病。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对酒精产生生理和心理上的依赖，无法停止饮酒或控制饮酒量的现象。"
+  },
+  {
+   "cn": "尼古丁依赖",
+   "en": "nicotine dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "无法克制的烟碱（尼古丁）觅求冲动，强迫地、连续地使用烟碱，以体验其带来的欣快感和愉悦感，并避免可能产生戒断症状的行为。"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为受到其他变量（自变量）的因果影响的变量。"
+  },
+  {
+   "cn": "客观分析",
+   "en": "objective analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0166",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按照事物的本来面目认识事物的活动和方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

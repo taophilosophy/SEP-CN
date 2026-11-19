@@ -1,0 +1,742 @@
+{
+ "key": "entirely new science",
+ "term": "entirely new science",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:29:02+00:00",
+ "status": "ok",
+ "note": "variant=entirely new science; 审定公布名词库=1749; 海峡两岸名词对照库=445; 其他来源数据库=213; 预公布名词数据库=164; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "全新产品",
+   "en": "entirely new product",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0087",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "开发、生产出过去未曾生产过的产品。"
+  },
+  {
+   "cn": "全蹼",
+   "en": "entirely webbed;entire web",
+   "source": "动物学名词",
+   "wordNumber": "6.0091",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "一些四足动物均达到趾端、蹼缘凹陷，凹陷最深处超过第二趾第二关节下瘤连线的蹼。"
+  },
+  {
+   "cn": "全架",
+   "en": "entire frame",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "12.008",
+   "subjectFullName": "机械工程_拖拉机_行走系_行走系及机架",
+   "subjectName": "行走系及机架",
+   "publishYear": "2013",
+   "definition": "全部由纵横梁组成的机架。"
+  },
+  {
+   "cn": "整体式履带",
+   "en": "entire crawler",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "12.034",
+   "subjectFullName": "机械工程_拖拉机_行走系_履带拖拉机悬架和行走装置",
+   "subjectName": "履带拖拉机悬架和行走装置",
+   "publishYear": "2013",
+   "definition": "由整体铸造履带板组成的履带。"
+  },
+  {
+   "cn": "整体台车",
+   "en": "entire bogie",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "12.029",
+   "subjectFullName": "机械工程_拖拉机_行走系_履带拖拉机悬架和行走装置",
+   "subjectName": "履带拖拉机悬架和行走装置",
+   "publishYear": "2013",
+   "definition": "由一侧支重轮刚性连接组成的台车。"
+  },
+  {
+   "cn": "超越整函数",
+   "en": "transcendental entire function",
+   "source": "数学名词",
+   "wordNumber": "05.0404",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "科技新闻",
+   "en": "science and technology news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.116",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "对科学技术领域最新进展的报道。"
+  },
+  {
+   "cn": "消息",
+   "en": "news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.076",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "一种以简洁的文字迅速传播新近变动的新闻事实的新闻报道体裁。"
+  },
+  {
+   "cn": "新闻",
+   "en": "news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "①对新近发生或正在发生的具有新闻价值事实的叙述。②新近发生的事实的报道。③新近发生的事实。"
+  },
+  {
+   "cn": "新新媒介",
+   "en": "new new media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.031",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "莱文森将互联网上的第二代媒介称为新新媒介。它们滥觞于20世纪末，是消费者(使用者)和生产者合一的媒介，含社交媒介和自媒体，如博客网、维基网、脸谱网、播客网、优视网、推特网、微博、微信、QQ等。"
+  },
+  {
+   "cn": "整函数",
+   "en": "entire function,integral function",
+   "source": "数学名词",
+   "wordNumber": "05.0403",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[整函数的]型",
+   "en": "type [of entire function]",
+   "source": "数学名词",
+   "wordNumber": "05.0412",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[整函数的]亏格",
+   "en": "genus [of entire function]",
+   "source": "数学名词",
+   "wordNumber": "05.0422",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻、旧闻、无闻",
+   "en": "news,old news,and uncovered news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.11",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "在“以阶级斗争为纲”条件下毛泽东关于发布新闻的政治策略的一种认识。他认为发表什么新闻，要看对无产阶级有利无利，所以新闻有新闻、旧闻、无闻。根据这个原则，有些新闻要及时发表，有些新闻要放一放再发表，有些"
+  },
+  {
+   "cn": "新生产力",
+   "en": "new productivity,new production",
+   "source": "生态学名词",
+   "wordNumber": "16.434",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "由真光层之外提供的新生氮源支持的那一部分初级生产力。"
+  },
+  {
+   "cn": "社会新闻",
+   "en": "social news；city news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.112",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "对最新社会问题和普通民众社会生活的报道。与受众日常生活关系最为密切，也被视为一种软新闻。"
+  },
+  {
+   "cn": "新闻漫画",
+   "en": "news cartoon;news caricature",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.123",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "用简洁和夸张的手法表述新闻的绘画。"
+  },
+  {
+   "cn": "新华通讯社",
+   "en": "Xinhua News Agency；New China News Agency",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.125",
+   "subjectFullName": "新闻学与传播学_新闻史_现代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "中华人民共和国国家通讯社。1931年11月7日创立于江西瑞金，初名红色中华通讯社(简称红中社)，为中华苏维埃共和国临时中央政府机关通讯社。1937年1月，为适应抗日民族统一战线的新形势，改名为新华社，"
+  },
+  {
+   "cn": "新生断层",
+   "en": "new fault",
+   "source": "地质学名词",
+   "wordNumber": "11.01.043",
+   "subjectFullName": "地质学_地震地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由于应力积累超过岩石的破裂强度而在地壳中新形成的断层。"
+  },
+  {
+   "cn": "新型城镇化",
+   "en": "new urbanization",
+   "source": "风景园林名词",
+   "wordNumber": "05.0014",
+   "subjectFullName": "风景园林_风景园林规划_城乡规划",
+   "subjectName": "城乡规划",
+   "publishYear": "2025",
+   "definition": "明确未来城镇化发展路径、主要目标和战略任务，城乡统筹、城乡一体、产业互动、节约集约、生态宜居、和谐发展为基本特征，是大中小城市、小城镇、新型农村社区协调发展、互促共进的城镇化。"
+  },
+  {
+   "cn": "全蹼",
+   "en": "entirely webbed",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "新分类单位",
+   "en": "new taxon",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新系统学",
+   "en": "new systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新科",
+   "en": "new family",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新亚种",
+   "en": "new subspecies",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新枝",
+   "en": "new shoot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新年",
+   "en": "New Year",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Tippet, Michael"
+  },
+  {
+   "cn": "新视野号[探测器]",
+   "en": "New Horizon",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初生冰",
+   "en": "new ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "新生产力",
+   "en": "new productivity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "新城",
+   "en": "new town",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新地理学",
+   "en": "new geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义",
+   "en": "new positivist",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新月",
+   "en": "new moon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新药",
+   "en": "new drugs",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "新种",
+   "en": "new species\",\"neospecies",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新施主缺陷",
+   "en": "new donor defect",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "新银道坐标",
+   "en": "new galactic coordinates",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "新巴塞尔协议",
+   "en": "New Basel Agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "种马",
+   "en": "entire horse\",\"stud",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络新型犯罪",
+   "en": "new cybercrime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新媒体",
+   "en": "new media",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新常态",
+   "en": "new normal",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "创新分",
+   "en": "new value",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据新闻",
+   "en": "data news",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型基础设施建设",
+   "en": "new infrastructure construction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子传感设备",
+   "en": "new quantum sensor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新实体经济",
+   "en": "new real economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新智能经济",
+   "en": "new intelligent economy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型竞争范式",
+   "en": "new competition paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型经营主体",
+   "en": "new business entity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新贸易革命",
+   "en": "New Trade Revolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新阶级",
+   "en": "new class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "一般有两种定义：一是苏共时期（包括东欧社会主义国家）的科层制官僚，被认为是“共产主义”社会中享有特权的统治阶级，由杜拉斯(Djilas）提出；二是指知识分子，是现代社会最先进的力量，将取代资产阶级成为"
+  },
+  {
+   "cn": "新城市主义",
+   "en": "new urbanism",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "城市设计和规划向传统邻里街区回归的主张。兴起于20世纪80年代，代表了对此前大规模城市改造所造成弊端的反思，注重营建公共空间、步行性以及人口与功能的多元化。"
+  },
+  {
+   "cn": "新经济",
+   "en": "new economy",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.46",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "自20世纪末期以来围绕或源自特定产业（主要是信息技术、金融业，及生物科技）的经济形态。新经济的主要特征是信息主义、网络化和全球化。卡斯特尔(Manuel Castells)提出的概念。"
+  },
+  {
+   "cn": "新民族志",
+   "en": "new ethnography",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "具有文学创作色彩的一种“写文化”模式。与“实验民族志”相近。强调人类学者在写文化中加入一些创作成分以呈现自我反思的实验民族志，甚至加入情感色彩或者赋予民族志以政治意图，使其看起来更像是对知识霸权、殖民"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪80年代盛行的社会政治思潮。经济上新自由主义和政治上新保守主义的集合。以里根和撒切尔政府为代表，在国家社会福利政策实施领域接受新自由主义思想，主张自由市场和个人责任，强化私有化，削弱国家的作用"
+  },
+  {
+   "cn": "新托洛茨基主义",
+   "en": "New Trotskyism",
+   "source": "马克思主义",
+   "wordNumber": "04.0374",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第二次世界大战后以托洛茨基主义为旗帜的极左派所主张的政治思想，也指战后第四国际各派别的指导思想。新托洛茨基主义仍是建立在托洛茨基的“不断革命论”和“一国不能实现社会主义”的理论基础之上的。新托洛茨基主"
+  },
+  {
+   "cn": "新感性",
+   "en": "new sensibility",
+   "source": "马克思主义",
+   "wordNumber": "05.0034",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞提出的艺术乌托邦中的一个重要概念。他认为，当人的爱欲获得了解决，人就不再受工具理性的统治，人就是自由的、快乐的人。在新感性降临的社会，人与自然和谐一体，人与人和平相处，人在生活中体验着美妙、安"
+  },
+  {
+   "cn": "新人",
+   "en": "new people",
+   "source": "马克思主义",
+   "wordNumber": "05.0058",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "具有新文化、新道德和新的心理结构并自觉为新社会制度而斗争的人。赖希、马尔库塞等人一般应用马克思关于人的全面发展理论对这一概念进行阐释。"
+  },
+  {
+   "cn": "新思维",
+   "en": "new thinking",
+   "source": "马克思主义",
+   "wordNumber": "05.0226",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "戈尔巴乔夫提出的先是在对外政策、后扩大到政治等领域的一系列改革思想。戈尔巴乔夫认为以往对资本主义总危机理论和向社会主义过渡的规律和速度的认识都应纠正。基于这一判断，提出要对国际形势进行“重新思考和全面"
+  },
+  {
+   "cn": "新左派",
+   "en": "New Left",
+   "source": "马克思主义",
+   "wordNumber": "05.0275",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "20世纪50年代后期，欧洲一些国家的青年学生和知识分子组成许多小的集团和流派，批判资本主义制度，积极寻求改变现状的道路，被称为区别于老左派（社会民主党、共产党）的新左派。由身份不同的人组成，强调民权、"
+  },
+  {
+   "cn": "新媒体",
+   "en": "new media",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "利用数字技术、网络技术，通过互联网、宽带局域网、无线通信网、卫星等渠道，以及计算机、手机、数字电视机等终端，向用户提供信息和娱乐服务的传播形态。"
+  },
+  {
+   "cn": "新喀里多尼亚人",
+   "en": "New Caledonians",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0433",
+   "subjectFullName": "民族学与文化学_世界民族_太平洋地区",
+   "subjectName": "太平洋地区",
+   "publishYear": "2025",
+   "definition": "大洋洲西南部新喀里多尼亚岛拥有法国国籍和公民身份的人们共同体。人口约27 万（2019）。官方语言为法语。60%信仰天主教，30%基督新教。族裔构成包括卡纳克人（Kanak）（40.3%），欧洲裔（2"
+  },
+  {
+   "cn": "新媒体",
+   "en": "new media",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0324",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在以互联网为核心的信息技术支持下以数字产品为终端的传播形态和媒体形态。"
+  },
+  {
+   "cn": "新西兰人",
+   "en": "New Zealanders",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.045",
+   "subjectFullName": "民族学与文化学_世界民族_太平洋地区",
+   "subjectName": "太平洋地区",
+   "publishYear": "2025",
+   "definition": "大洋洲现代民族（nation），拥有新西兰国籍和公民身份的人们共同体。总人口约486 万（2021 年）。通用英语。信仰基督教新教和天主教。全国被分为六大族群（ethnic groups）：欧洲裔（E"
+  },
+  {
+   "cn": "新思想新概念",
+   "en": "new thought and new concepts",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学",
+   "subjectName": "环境社会学",
+   "publishYear": "2025",
+   "definition": "3.14.5.1  环境流  environmental flow"
+  },
+  {
+   "cn": "科学学",
+   "en": "science of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "20世纪30、40年代兴起的一门以科学本身为研究对象的跨学科研究，目的在于认识科学的性质特点、关系结构、运动规律和社会功能，并在认识的基础上研究促进科学发展的一般原理、原则和方法。"
+  },
+  {
+   "cn": "新概念武器",
+   "en": "new concept weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "用新原理、技术、材料、能源、设计思想及结构技术研制的武器，其基本技术原理、杀伤破坏机理、作战方式、威力和部署方式有别于传统武器，主要包括新概念能量、信息、生化、认知战武器等。"
+  },
+  {
+   "cn": "新消毒产品",
+   "en": "new disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.4",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "利用新材料、新工艺技术和新杀菌原理生产的消毒剂和消毒器械。"
+  },
+  {
+   "cn": "新工人阶级",
+   "en": "new working class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "掌握自动化生产技术的白领工人（包括工程师、科学家和技术专家等），区别于传统意义上的工人阶级（低技术性的体力工人）。由法国的左派理论家提出，认为这一群体掌握资本主义生产过程中最先进的技术，可以成为推动社"
+  },
+  {
+   "cn": "新中产阶级",
+   "en": "new middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "处于资产阶级与无产阶级之间的群体。由新马克思主义者提出，主要指受雇于他人的白领工人（领取薪金的非体力劳动者）。其阶级地位既不同于资产阶级（雇主），也不同于工人阶级（受雇的蓝领工人），与老中产阶级所指不"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

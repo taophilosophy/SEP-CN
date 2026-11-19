@@ -1,0 +1,42 @@
+{
+ "key": "dharmottara jnanasrimitra",
+ "term": "Dharmottara Jñānaśrīmitra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:30:41+00:00",
+ "status": "ok",
+ "note": "variant=Dharmottara Jñānaśrīmitra; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "K+Na+交换",
+   "en": "K + Na + exchange",
+   "source": "兽医学名词",
+   "wordNumber": "04.387",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "由于Na +泵的活动，管腔内剩下较多的负离子，从而使K +顺着电位差进入小管液的 过程。"
+  },
+  {
+   "cn": "H+Na+交换",
+   "en": "H + Na + exchange",
+   "source": "兽医学名词",
+   "wordNumber": "04.388",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "小管液中的Na +顺着浓度梯度进入细胞，而细胞内的H +分泌入小管管腔的过程。"
+  },
+  {
+   "cn": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-葡萄糖共转运体",
+   "en": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-glucose cotransporter",
+   "source": "生理学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

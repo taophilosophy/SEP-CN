@@ -1,0 +1,712 @@
+{
+ "key": "reverse sobel sequences",
+ "term": "reverse Sobel sequences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:23:31+00:00",
+ "status": "ok",
+ "note": "variant=reverse Sobel sequences; 审定公布名词库=2283; 海峡两岸名词对照库=928; 其他来源数据库=178; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "换向起动程序",
+   "en": "reverse starting sequence",
+   "source": "航海科技名词",
+   "wordNumber": "15.1020",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "计量学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "计量学_力值、硬度_力值和扭矩测量标准",
+   "subjectName": "力值和扭矩测量标准",
+   "publishYear": "2015",
+   "definition": "能使施加到测力仪(或称重传感器)上的负荷反向的装置。"
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.055",
+   "subjectFullName": "机械工程_仪器仪表_试验机_材料试验机_材料试验机零部件及附件",
+   "subjectName": "材料试验机零部件及附件",
+   "publishYear": "2003",
+   "definition": "使施加的试验力反向的装置。"
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0562",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "植物学名词",
+   "wordNumber": "02.0217",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "衍生的性状状态变回为祖先性状状态的过程。"
+  },
+  {
+   "cn": "极性变换",
+   "en": "reversal",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.082",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "反极",
+   "en": "reversal",
+   "source": "电气工程名词",
+   "wordNumber": "24.047",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物变化具有在一定条件下向逆向进行的属性，即施加于事物的影响作用具有后果可取消的性质。"
+  },
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.238",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_固溶和时效",
+   "subjectName": "固溶和时效",
+   "publishYear": "2021",
+   "definition": "经固溶热处理的合金时效硬化后，在稍高于时效(低于固溶热处理)温度，进行短时间加热而引起的性能复原的现象。"
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.088",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_文化遗产保护",
+   "subjectName": "文化遗产保护",
+   "publishYear": "2021",
+   "definition": "对文物古迹所采取的必要干预和改变，由于历史信息和技术条件的不确定或局限性，宜采取在一定阶段后可以恢复到干预前状态的措施处理。"
+  },
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "冶金学名词",
+   "wordNumber": "07.0242",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "某些经固溶处理的铝合金自然时效硬化后，在低于固溶处理的温度(120~180℃)短时间加热后力学性能恢复到固溶热处理状态的现象。"
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "物理学名词",
+   "wordNumber": "05.0201",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "reversion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1439",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_热处理",
+   "subjectName": "热处理",
+   "publishYear": "2011",
+   "definition": "某些经固溶处理的铝合金自然时效硬化后，在低于固溶处理的温度(120~180℃)短时间加热后力学性能恢复到固溶热处理状态的现象。"
+  },
+  {
+   "cn": "返元",
+   "en": "reversion",
+   "source": "水产名词",
+   "wordNumber": "08.342",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "鱼糜或鱼糜制品已形成的凝胶崩析的现象。"
+  },
+  {
+   "cn": "换向",
+   "en": "reversing",
+   "source": "航海科技名词",
+   "wordNumber": "15.0139",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "序列分析仪",
+   "en": "sequencer",
+   "source": "药学名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "自动测定多肽链中氨基酸序列的一种仪器。其工作原理是基于埃德曼降解法的重复应用。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "换向起动程序",
+   "en": "reverse starting sequence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "reverse",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回复突变",
+   "en": "reversion （=reverse mutation）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "reversing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "换向",
+   "en": "reversing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "序列器",
+   "en": "sequencer",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "chi序列",
+   "en": "chi sequence\",\"χ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ序列",
+   "en": "delta sequence\",\"δ sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反身",
+   "en": "reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身射门",
+   "en": "reverse hit\",\"reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身转进",
+   "en": "reverse\",\"roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手射门",
+   "en": "reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身跳水",
+   "en": "reverse dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳反身",
+   "en": "catalina reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒立鹤式",
+   "en": "reverse crane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反棍传球",
+   "en": "reverse pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝育术后再通",
+   "en": "sterilization reversal",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.11",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将已经结扎、切断的输精管或输卵管重新端端吻合,形成一条通畅的可以输送精子、卵子或受精卵的管道的手术。用于帮助绝育对象恢复生育能力。"
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "逆向毒代动力学",
+   "en": "reverse toxicokinetics, rTK",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "描述外源化学物在人体或其他动物体内的吸收、分布、代谢、排泄的速率，允许研究人员根据外部暴露浓度来估计内部剂量，或根据已知的内部剂量估计外部暴露浓度的学科。"
+  },
+  {
+   "cn": "可逆毒性效应",
+   "en": "reversible toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体停止接触引起毒性效应的外源化学物后已造成的损害可逐渐消失的效应"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "可逆性脑血管收缩综合征",
+   "en": "reversible cerebral vasoconstriction syndrome，RCVS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.21",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种主要继发于使用血管活性药物及产后，以突发雷击样头痛为特征的短暂血管病变。主要表现为多灶性、可逆性、节段性脑血管收缩，雷击样头痛伴或不伴局灶神经功能缺损或癫痫发作。"
+  },
+  {
+   "cn": "长效可逆性避孕方法",
+   "en": "long-acting reversible contraception, LARC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长于1个月，但停用后使用者的生育力可以恢复的避孕方法。包括宫内节育器、皮下埋植剂、长效避孕针"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "反转录聚合酶链反应",
+   "en": "reverse transcription-polymerase chain reaction, RT-PCR",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.123",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "以mRNA 为模板，采用oligo(dT)或随机引物，利用反转录酶反转录成互补DNA 链（cDNA），再以互补链为模板进行PCR 扩增获得目的基因的技术。"
+  },
+  {
+   "cn": "风险储备金",
+   "en": "reserve fund，risk reserve",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "为应付超常风险或由费率预测的误差原因造成保险基金出现赤字而在纯保费之外筹集的专用后备基金"
+  },
+  {
+   "cn": "税收",
+   "en": "tax revenue",
+   "source": "马克思主义",
+   "wordNumber": "02.0252",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力机构为了维持其存在和活动、向社会提供公共产品、满足社会共同需要、参与社会产品的分配，运用权力征收的财富以及货币。税收是剩余价值的派生形式之一，是国民收入再分配的一种形式。"
+  },
+  {
+   "cn": "边际收益",
+   "en": "marginal revenue",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "每增加一单位商品销售所带来的总收益的增加。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "revenue collection",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生系统从政府、家庭或个人、组织或部门以及其他渠道筹措资金的方式。"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "robust anti-discrimination principle",
+ "term": "robust anti-discrimination principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:38:47+00:00",
+ "status": "ok",
+ "note": "variant=robust anti-discrimination principle; 审定公布名词库=1870; 海峡两岸名词对照库=537; 其他来源数据库=156; 预公布名词数据库=207; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1890",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "在反演中适当改变初始或假设的条件后所获得的参量变化不大的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "植物学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物体在内源或外源因素干扰下仍然能保持其自身功能的能力。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在实际条件与实验条件存在一定程度偏差情况下，产品和工艺设计仍能保持正常性能的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统的容错、抗攻击或及时恢复的特性。"
+  },
+  {
+   "cn": "耐用性",
+   "en": "robustness",
+   "source": "药学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在测定条件有小的变动时，测定结果不受影响的承受程度。为常规检验提供依据。"
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "生态学名词",
+   "wordNumber": "07.311",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在环境急剧的大变化中保持稳定的状态。"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "化学工程名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "数学名词",
+   "wordNumber": "09.0798",
+   "subjectFullName": "数学_概率论_数理统计_非参数统计",
+   "subjectName": "非参数统计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "坚韧性",
+   "en": "robustness",
+   "source": "电子学名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "自动化名词",
+   "wordNumber": "02.289",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "16.036",
+   "subjectFullName": "新闻学与传播学_媒体与传播伦理_职业道德与报道伦理",
+   "subjectName": "职业道德与报道伦理",
+   "publishYear": "2022",
+   "definition": "不公正、不公平地对待某类个人或群体的态度、行为、规定和政策。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "经济学名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "仅仅由于种族、宗教集团、性别、年龄或其他个人特征的不同，其他条件相似的个人会得到不同机会的现象。"
+  },
+  {
+   "cn": "鉴别",
+   "en": "discrimination",
+   "source": "物理学名词",
+   "wordNumber": "01.0130",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "02.239",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "感知觉中对于刺激与刺激之间差别的区分能力。"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "心理学名词",
+   "wordNumber": "07.120",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对不属于自身群体成员的消极态度与行为。"
+  },
+  {
+   "cn": "甄别器",
+   "en": "discriminator",
+   "source": "核医学名词",
+   "wordNumber": "03.0261",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "设置一种甄别电压，只允许超过一定高度的电脉冲通过，而将低于该高度的电脉冲“甄别”出去(不予记录)的仪器。可用来消除若干低能量的本底信号干扰提高信噪比。"
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题描述中存在不确定性的一种优化方法。目的是在已知参数不确定的情况下，得到具有如下特性的解：无论参数如何变化，优化命题的解均保持可行性，且目标函数在最坏情况下具有最优性。"
+  },
+  {
+   "cn": "稳健设计",
+   "en": "robust design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0092",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "使机械产品性能对设计变量的变异不敏感，在设计变量发生变化的情况下，仍能满足产品性能需求的一种设计方法。"
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "测绘学名词",
+   "wordNumber": "02.364",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "消除和削弱观测误差中粗差对参数估计的干扰和影响，求解最佳估值的方法。"
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0947",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "过程参数或干扰变化显著时，仍能进行满意的系统辨识。"
+  },
+  {
+   "cn": "鲁棒性（=稳健性）",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分辨",
+   "en": "discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "识别子",
+   "en": "discriminator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定化",
+   "en": "robust stabilization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定性",
+   "en": "robust stabilizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "robust control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "［可］区辨性",
+   "en": "discriminability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗错强韧性，抗错鲁棒性",
+   "en": "error robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差别关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "歧视性关税",
+   "en": "discriminating tariff (=discriminating duty)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒过程控制",
+   "en": "robust process control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融歧视",
+   "en": "financial discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于具有某些个人特征（如年龄、性别、身体素质、地域、国籍、种族、宗教信仰），人们在社会生活的某些方面（如教育、就业、婚姻）受到外界（如某些机构、某方面政策）不同于他人、他群体的不平等、不公正的对待的现"
+  },
+  {
+   "cn": "歧视",
+   "en": "discrimination",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.115",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "不平等地、差别对待个体或群体、组织的行为。"
+  },
+  {
+   "cn": "文化歧视",
+   "en": "cultural discrimination",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.10",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不公正或不平等地对待与自身文化基本上处于平等地位的文化（但从某一角度进行比较时，某一文化会显出某些缺陷与劣势）。通常建立在文化偏见的态度或情感之上。"
+  },
+  {
+   "cn": "性别歧视",
+   "en": "gender discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.17",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别差异而导致的对不同性别群体的差异性和不平等对待，包括带有等级偏见的言论、制度和行为等。最常体现为全社会对女性以及同性恋等性少数群体的差别对待甚至压制和排斥。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.45",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "民族歧视",
+   "en": "ethnic discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0043",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "按照民族成分划分人们的社会地位和法律地位，限制和侵犯某些民族的基本权利的现象。民族歧视对民族团结、社会稳定和人类的文明进步都极其有害，受到大多数国家法律的禁止和人民的反对，只有消灭剥削制度和民族压迫制"
+  },
+  {
+   "cn": "语言歧视",
+   "en": "language discrimination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0169",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "因所使用的语言与主流社会不一致而在社会生活中受到不公正对待的现象。"
+  },
+  {
+   "cn": "社会歧视",
+   "en": "social discrimination",
+   "source": "社会医学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "基于与肤色、国籍、宗教、政治、文化、阶级、性别、年龄等相关联的刻板印象以及种族主义、男性中心主义等观念，在个体和群体间借用权力不公正地对待他者的社会区隔现象。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "辨别效度",
+   "en": "discriminant validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“分歧效度”。基于多重指标所测量的概念或特质的不相关关系，通过计算指标之间的不相关关系而测量其效度的方法。"
+  },
+  {
+   "cn": "劳动力市场歧视",
+   "en": "labor market discrimination",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.56",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在劳动力市场上雇主因为某种社会价值观念、风俗习惯以及个人偏好等非效率、非经济因素，而对具有相同生产率、但具有诸如宗教、种族、区域、性别、年龄等不同个人特征的劳动力进行区别定价、区别的现象。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

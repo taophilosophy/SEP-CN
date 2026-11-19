@@ -1,0 +1,782 @@
+{
+ "key": "pure epistemology",
+ "term": "pure epistemology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:42:43+00:00",
+ "status": "ok",
+ "note": "variant=pure epistemology; 审定公布名词库=953; 海峡两岸名词对照库=273; 其他来源数据库=20; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "研究知识的本质、知识的辩护以及信念的合理性的哲学分支。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.028",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "研究认识的本质及其发展过程的哲学理论。对心理学研究者的科学观与方法论都有重要影响。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.501",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "瑞士心理学家J. 皮亚杰（J. Piaget）提出的一种研究认识（知识）的结构、发生、发展过程及其心理起源的学说。主张把建构主义与结构主义统一起来，将认识论作为目标和起点，采用发生学的方法，以儿童心智"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.818",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "通过社会互动来为集体知识提供理性证成的认识论观点。也指从社会维度对知识和信息的评价，或更简单地理解为社会互动的维度可以提供认知辩护。"
+  },
+  {
+   "cn": "科学认识",
+   "en": "scientific epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由认识主体、认识客体和实现主客体相互作用的中介三个要素组成的，以认识世界、创新知识为目标的动态过程。"
+  },
+  {
+   "cn": "社会认识论",
+   "en": "social epistemology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "美国著名图书馆学家谢拉（J.H.Shera）在20世纪60年代提出的图书馆学理论，是谢拉图书馆学思想体系的理论基础。该理论揭示了社会文化交流的基本规律，明确了社会文化与图书馆学的关系，确定图书馆学的职"
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "心理学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "皮亚杰(J. Piaget)创立的理论。强调用发生学的方法来研究认识发生发展的过程、结构及其心理起源。"
+  },
+  {
+   "cn": "认识整体论",
+   "en": "epistemological holism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由W. V. 蒯因（W. V. Quine）提出。认为必须将科学理论作为整体加以检测，无法孤立地对某一科学假说加以检测。"
+  },
+  {
+   "cn": "技术认识论",
+   "en": "epistemology of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "探究技术知识、技术发明、技术变迁的解释，创造人工物过程中设计的逻辑，技术问题的来源及类型，技术传统，技术设计的层级结构，技术思维等的理论。"
+  },
+  {
+   "cn": "纯剪切",
+   "en": "pure shear",
+   "source": "地质学名词",
+   "wordNumber": "09.02.107",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "非旋转应变的一种特例。物体发生均匀平面应变时，其主应变轴方位保持不变，而只改变其长度。"
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "农学名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "通过同一纯合亲本自花授粉得到的后代或由长期连续近交得到的植物高度纯合自交系。"
+  },
+  {
+   "cn": "光谱纯",
+   "en": "spectrum pure",
+   "source": "精细化工名词",
+   "wordNumber": "08.0619",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "用于光谱分析的试剂级别。分为分光光度计标准品、原子吸收光谱标准品和原子发射光谱标准品。"
+  },
+  {
+   "cn": "超纯",
+   "en": "ultra pure",
+   "source": "精细化工名词",
+   "wordNumber": "08.0628",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "远高于优级纯的试剂纯度。是在通用试剂基础上发展起来的，为了专门的使用目的而用特殊方法生产的最高试剂纯度。"
+  },
+  {
+   "cn": "纯音",
+   "en": "pure tone",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2.3",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "单一频率的声音。"
+  },
+  {
+   "cn": "净丸粒种子",
+   "en": "pure pellet ",
+   "source": "草学名词",
+   "wordNumber": "4.0154",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "纯再生胶",
+   "en": "pure reclaim",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0745",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "以硫化橡胶制品及其边角废料为原料，经过脱硫工序制成可重新使用的胶料。"
+  },
+  {
+   "cn": "纯利他主义",
+   "en": "pure-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.035",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "受外部动机的驱使，做出助人行为以减轻他人的痛苦，目的是为了他人的幸福。"
+  },
+  {
+   "cn": "纯像元",
+   "en": "pure pixel",
+   "source": "光学名词",
+   "wordNumber": "14.029",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "一个像元中只包含一种地物类型的像元。"
+  },
+  {
+   "cn": "纯种发酵",
+   "en": "pure fermentation",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.002",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "在发酵培养基中仅接入一种微生物，通过对该微生物的培养和代谢得到目的产物的发酵技术。"
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "认识学",
+   "en": "epistemology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发生认识论",
+   "en": "genetic epistemology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新实证主义认识论",
+   "en": "neo-positivist epistemology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯组分",
+   "en": "pure component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纯音",
+   "en": "pure tone",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纯铁",
+   "en": "pure iron",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯铜",
+   "en": "pure copper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯林分",
+   "en": "pure stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯利润",
+   "en": "pure profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯利息",
+   "en": "pure interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纯网",
+   "en": "pure net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯种",
+   "en": "pure breed\",\"purebred",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯种",
+   "en": "pure breed\",\"purebred",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纯系育种",
+   "en": "pure line breeding",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯特洛伊群",
+   "en": "pure Trojan group",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯素",
+   "en": "Pure and Unadorned",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯线上模式",
+   "en": "pure online mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯平台模式",
+   "en": "pure platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净土",
+   "en": "Sukhāvatīvyūha / Pure Land",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尼莲正东流，西树几春秋。（援助印度，源自玄奘）",
+   "en": "By the Holy Lotus River；Where pure gold flows east.； Looking back to the western shore；At Buddha’s sacred grove for many thousands of autumns.",
+   "source": "新冠肺炎疫情相关词汇中英对照表",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赛前说明会",
+   "en": "pre-race briefing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预出发线",
+   "en": "pre-start line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥运会测试赛",
+   "en": "pre-Olympic event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电源使用效率",
+   "en": "power usage effectiveness (PUE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赛前检查席",
+   "en": "table for pre-contest control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据预处理工具标准",
+   "en": "standard for data pre-processing tool",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有德者必有言",
+   "en": "Virtuous People Are Sure to Produce Fine Writing.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先胜后战",
+   "en": "Be Sure of Winning Before Engaging in War",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重点防控部位人员的物资保障",
+   "en": "to make sure that essential supplies can be rapidly directed to personnel in key posts",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "认识论",
+   "en": "epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0156",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类认识的来源、本质、过程、方法、检验标准和发展规律的哲学理论，是哲学体系的一个重要组成部分。马克思主义哲学坚持以实践为基础，把辩证法应用于认识论，创立了革命的能动的反映论。"
+  },
+  {
+   "cn": "以兴趣为导向的认识论",
+   "en": "interestoriented epistemology",
+   "source": "马克思主义",
+   "wordNumber": "05.0042",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯以弗洛伊德的心理分析为出发点，认为“兴趣”是人类认识的根本内驱力，指出认识兴趣是多样的，包括技术的认识兴趣、实践的认识兴趣和解放的认识兴趣，只有在“兴趣”的引导下人们才不断产生新的认识领域。"
+  },
+  {
+   "cn": "医学认识论",
+   "en": "medical epistemology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.179",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用认识论的基本观点，研究医学认识的对象、来源、本质、发展过程和规律，以及医学认识与医学实践的关系的理论。"
+  },
+  {
+   "cn": "认识论断裂",
+   "en": "epistemological rupture",
+   "source": "马克思主义",
+   "wordNumber": "05.0067",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》。指理论总问题的转换。阿尔都塞认为马克思以1845年为标志，从早期人道主义的意识形态立场转向了科学的立场。"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "纯保费",
+   "en": "pure premium",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "保险中受益人预期支付等于其实际应付医疗费的保险费。是一个期望值，其值等于投保者因病治疗的平均成本。"
+  },
+  {
+   "cn": "纯公共产品",
+   "en": "pure public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在消费方面具有完全的非竞争性或受益上完全的非排他性公共产品。"
+  },
+  {
+   "cn": "净观",
+   "en": "Dag snang（Pure Perception）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0461",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。密宗金刚乘视外境为佛剎、视自他为本尊、视音声为咒语、视思想为智慧之展现的观点。"
+  },
+  {
+   "cn": "纯二氧化氯消毒剂发生器",
+   "en": "pure chlorine dioxide disinfectant generator",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "产物中二氧化氯纯度大于等于90%的二氧化氯消毒剂发生器。"
+  },
+  {
+   "cn": "永久治愈",
+   "en": "permanent cure",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.20",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "从某种疾病中完全恢复健康。"
+  },
+  {
+   "cn": "临床前期类风湿关节炎",
+   "en": "pre-rheumatoid arthritis, pre-RA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.3.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "出现临床表现(关节疼痛、肿胀)前多年体内就有免疫异常现象和自身免疫反应存在的类风湿关节炎前期状态，包括免疫细胞异常活化、炎性因子、趋化因子水平升高及自身抗体阳性等。。"
+  },
+  {
+   "cn": "子痫前期",
+   "en": "pre-eclampsia",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.7.15",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "妊娠前血压正常的孕妇在妊娠20周以后，出现高血压、蛋白尿的妊娠并发症。"
+  },
+  {
+   "cn": "预处理剂",
+   "en": "pre-cleaning detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "为防止手术器械使用后残留的污物干燥，而使用的具有保湿和一定去污能力的清洁制剂。"
+  },
+  {
+   "cn": "上岗前培训",
+   "en": "pre-post training",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员上岗前应接受的放射防护有关知识的培训，并经考核合格方可参加相应的工作。"
+  },
+  {
+   "cn": "前剂量方法",
+   "en": "pre-dose method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "利用含有可以稳定储存辐射能的石英材料的热释光特性，经高温激活后，对其热释光峰进行测量来达到事故剂量重建目的的方法。"
+  },
+  {
+   "cn": "安全间隔期",
+   "en": "pre-harvest interval",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "最后一次施用农药至农产品收获、使用或消费前必须间隔的最短时间，其目的是通过农药自然降解，使残留量降至国家规定的最大允许残留限量以下，从而保障食品安全，避免对人体健康或环境造成危害"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "岗前培训",
+   "en": "pre-job training",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "卫生人力在正式进入工作岗位之前接受的医疗卫生相关专业培训，帮助其适应工作环境。培训内容包括机构概况、规章制度和基本技能等，也包括卫生人力在正式进入医疗卫生岗位前于学校接受的教育与培训。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

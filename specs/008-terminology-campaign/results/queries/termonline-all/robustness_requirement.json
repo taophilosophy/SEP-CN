@@ -1,0 +1,762 @@
+{
+ "key": "robustness requirement",
+ "term": "robustness requirement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:32:56+00:00",
+ "status": "ok",
+ "note": "variant=robustness requirement; 审定公布名词库=221; 海峡两岸名词对照库=67; 其他来源数据库=121; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1890",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "在反演中适当改变初始或假设的条件后所获得的参量变化不大的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "植物学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物体在内源或外源因素干扰下仍然能保持其自身功能的能力。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在实际条件与实验条件存在一定程度偏差情况下，产品和工艺设计仍能保持正常性能的特性。"
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0115",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "信息系统的容错、抗攻击或及时恢复的特性。"
+  },
+  {
+   "cn": "耐用性",
+   "en": "robustness",
+   "source": "药学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "在测定条件有小的变动时，测定结果不受影响的承受程度。为常规检验提供依据。"
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "生态学名词",
+   "wordNumber": "07.311",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统在环境急剧的大变化中保持稳定的状态。"
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "化学工程名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "数学名词",
+   "wordNumber": "09.0798",
+   "subjectFullName": "数学_概率论_数理统计_非参数统计",
+   "subjectName": "非参数统计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "坚韧性",
+   "en": "robustness",
+   "source": "电子学名词",
+   "wordNumber": "05.147",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "自动化名词",
+   "wordNumber": "02.289",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "工程鲁棒性",
+   "en": "engineering robustness",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "在异常工作环境下，或者在特定子系统功能波动甚至丧失的情况下，工程系统保持正常运行的能力。"
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "source": "化学名词",
+   "wordNumber": "03.0261",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "基于使待估参数拟合残差趋于最小的原理，用总体中心位置稳健估计量拟合回归方程的一种有偏回归算法。是统计学中稳健估计中的一种方法。"
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "source": "数学名词",
+   "wordNumber": "09.0695",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题描述中存在不确定性的一种优化方法。目的是在已知参数不确定的情况下，得到具有如下特性的解：无论参数如何变化，优化命题的解均保持可行性，且目标函数在最坏情况下具有最优性。"
+  },
+  {
+   "cn": "稳健设计",
+   "en": "robust design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0092",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "使机械产品性能对设计变量的变异不敏感，在设计变量发生变化的情况下，仍能满足产品性能需求的一种设计方法。"
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "测绘学名词",
+   "wordNumber": "02.364",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "消除和削弱观测误差中粗差对参数估计的干扰和影响，求解最佳估值的方法。"
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0947",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "过程参数或干扰变化显著时，仍能进行满意的系统辨识。"
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "robust control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0811",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "过程参数或干扰变化显著时，仍能进行满意的控制。"
+  },
+  {
+   "cn": "稳健设计",
+   "en": "robust design",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0116",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "增强产品对抗可能存在的不良影响的能力以便其能在更普遍的条件下仍保持设计功能的一种设计方法。"
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "robust control",
+   "source": "数学名词",
+   "wordNumber": "012.0396",
+   "subjectFullName": "数学_信息论_控制论_系统·控制（数学）",
+   "subjectName": "系统?控制（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性（=稳健性）",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性",
+   "en": "robustness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强壮性",
+   "en": "robustness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稳健性，鲁棒性",
+   "en": "robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳健回归",
+   "en": "robustness regression",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗错强韧性，抗错鲁棒性",
+   "en": "error robustness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定化",
+   "en": "robust stabilization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒稳定性",
+   "en": "robust stabilizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗差估计",
+   "en": "robust estimation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒辨识",
+   "en": "robust identification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒控制",
+   "en": "robust control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需求",
+   "en": "requirement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒过程控制",
+   "en": "robust process control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "需光量",
+   "en": "light requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功需要量",
+   "en": "work requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通风需求",
+   "en": "ventilation requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率需要量",
+   "en": "power requirement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "鲁棒优化",
+   "en": "robust optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规定速度",
+   "en": "speed required",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准化需求",
+   "en": "Data Standardization Requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户文档要求",
+   "en": "user documentation requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏掉规定动作",
+   "en": "missing required element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准扩展性需求",
+   "en": "extensibility requirement of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全通用要求",
+   "en": "general requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全扩展要求",
+   "en": "special requirement for security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用例需求工作组",
+   "en": "Use Cases and Requirements Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善胜兵者，先自修理",
+   "en": "Success in War Requires Good Organization.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据管理系统技术要求",
+   "en": "technical requirement for unstructured data management systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 31782-2015 电子商务可信交易要求》",
+   "en": "GB/T 31782-2015 Electronic commerce trusted trading requirements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功崇惟志，业广惟勤",
+   "en": "Great accomplishments require ambition and tireless effort.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34982-2017 云计算数据中心基本要求》",
+   "en": "GB/T 34982-2017 Cloud computing data center basic requirement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "建筑要求",
+   "en": "construction requirement",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为满足生产、生活的良好环境条件，对建设用地上的建筑物布置和建筑物之间的群体关系做出的技术规定。"
+  },
+  {
+   "cn": "必备要素",
+   "en": "required element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中必不可少的要素。"
+  },
+  {
+   "cn": "儿童能量需要量",
+   "en": "child energy requirement",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童基础代谢、生长所需、食物的热力作用、活动和排泄损耗所需的能量总和。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "平均需要量",
+   "en": "estimated average requirement, EAR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某一特定性别、年龄及生理状况群体中个体对某营养素需求量的平均值。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "青春期女性营养需要",
+   "en": "nutritional requirement of adolescent girl",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在青春期为维持生命、生长发育和各种生理活动对营养素需求的生理状态。"
+  },
+  {
+   "cn": "哺乳期妇女营养需要",
+   "en": "nutritional requirement of lactating woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.6",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "哺乳期女性除了满足自身维持生命和各种生理活动对营养素的需求外，还要满足分泌乳汁的营养需求的生理状态。"
+  },
+  {
+   "cn": "老年女性营养需要",
+   "en": "nutritional requirement of aging woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.5.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "随着老年女性各方面能力的逐渐退化及老化，因基础代谢率下降和活动量减少导致营养素需求变化的生理状态，主要体现为能量需求下降，但微量营养素的需求并不减少。"
+  },
+  {
+   "cn": "军人营养需要",
+   "en": "nutritional requirement for military personnel",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人营养需要",
+   "subjectName": "军人营养需要",
+   "publishYear": "2025",
+   "definition": "能保证军人健康，并充分发挥军事作业效能，完成各项生活、劳动、军事训练和特殊军事任务的军人能量和营养素的需要量。"
+  },
+  {
+   "cn": "放射工作人员健康要求",
+   "en": "health requirements for radiation worker",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.25",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "在正常、异常或紧急情况下，放射工作人员都能准确无误地履行其职责的健康条件。"
+  },
+  {
+   "cn": "中国式现代化的本质要求",
+   "en": "essential requirements of Chinese modernization",
+   "source": "马克思主义",
+   "wordNumber": "03.0822",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持中国共产党领导，坚持中国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构建人类命运共同体，创造人类文明新形态。"
+  },
+  {
+   "cn": "食品用香精技术要求",
+   "en": "technical requirements for food flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "针对食品用香精的功能性、安全性指标的标准化规定，通常包括原料要求、感官要求、理化及微生物指标要求等"
+  },
+  {
+   "cn": "最低执行限量",
+   "en": "minimum required performance limit, MRPL",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.46",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "样品中至少必须检出和确证的分析物的最小含量"
+  },
+  {
+   "cn": "课桌椅基本要求",
+   "en": "basic requirement of desk and chair",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课桌椅的大小型号、功能尺寸、分配使用等的卫生要求。"
+  },
+  {
+   "cn": "育龄妇女营养需要",
+   "en": "nutritional requirement of childbearing age woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "女性在育龄期为维持生命和开展各种生理活动对营养素需求的生理状态。"
+  },
+  {
+   "cn": "食品检验机构资质认定条件",
+   "en": "food testing agency qualification accreditation requirement",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.31",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "食品检验机构在组织、管理体系、检验能力、人员、环境和设施、设备和标准物质等方面应当达到的要求。"
+  },
+  {
+   "cn": "核设施设计安全要求",
+   "en": "safety requirements for nuclear installation design",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.8.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "为达到安全目标，贯彻核安全技术原则，保证高度安全的核设施设计必须满足的要求。"
+  },
+  {
+   "cn": "野营宿舍卫生要求",
+   "en": "health requirements for field camp quarters",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "军事作业野外宿营时，为保障人员健康、舒适而对宿舍环境提出的一系列卫生条件和规范。"
+  },
+  {
+   "cn": "宣传思想工作的四个要求",
+   "en": "four requirements for propaganda and ideological work",
+   "source": "马克思主义",
+   "wordNumber": "03.0618",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在1994年1月的全国宣传思想工作会议上，高屋建瓴地对宣传思想工作提出的四个总要求，即以科学的理论武装人，以正确的舆论引导人，以高尚的精神塑造人，以优秀的作品鼓舞人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

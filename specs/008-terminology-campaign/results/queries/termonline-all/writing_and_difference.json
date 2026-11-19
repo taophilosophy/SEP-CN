@@ -1,0 +1,802 @@
+{
+ "key": "writing and difference",
+ "term": "Writing and Difference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:28:39+00:00",
+ "status": "ok",
+ "note": "variant=Writing and Difference; 审定公布名词库=10000; 海峡两岸名词对照库=2237; 其他来源数据库=1342; 预公布名词数据库=1126; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "写入",
+   "en": "writing",
+   "source": "电子学名词",
+   "wordNumber": "11.075",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差异",
+   "en": "difference",
+   "source": "教育学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "以哲学表征事物相互区别和自身区别的范畴来表示身心障碍的不同类别和程度。"
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "数学名词",
+   "wordNumber": "04.0015",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "差积",
+   "en": "different",
+   "source": "数学名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[有限]差分",
+   "en": "difference,finite difference",
+   "source": "数学名词",
+   "wordNumber": "010.0198",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "编著一体",
+   "en": "integration of editing and writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.078",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "晚清民国时期位居主流的编辑制度。编辑既要负责选题、组稿、审稿、加工、发稿、校对等，也要编撰书稿。除商务印书馆外，其他出版机构的编辑制度均是“编著一体”。"
+  },
+  {
+   "cn": "编著分离",
+   "en": "separation of editing and writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.079",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "晚清民国时期居于支流的编辑制度。编辑的职责与当今相同，一般不从事书稿编撰。"
+  },
+  {
+   "cn": "文字",
+   "en": "script,writing",
+   "source": "语言学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "语言学_文字学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "人类用来记录和传播语言的书写符号系统。"
+  },
+  {
+   "cn": "基因书写",
+   "en": "gene writing",
+   "source": "农学名词",
+   "wordNumber": "06.455",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "利用转座子可以携带目的基因并插入基因组的原理，对转座子进行改造，在不切断DNA双链的情况下将长段DNA序列精准插入基因组中的基因编辑方法。"
+  },
+  {
+   "cn": "新闻写作",
+   "en": "news writing",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.072",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "新闻工作者对采访收集到的各种信息和材料，进行筛选、组合、分析，并按照新闻报道体裁的规范写成新闻作品的过程。"
+  },
+  {
+   "cn": "智能写稿",
+   "en": "AI writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.060",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "应用人工智能技术形成某些类型的稿件的活动。"
+  },
+  {
+   "cn": "文字",
+   "en": "script;writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.061",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "可单独或经组合表达某种或某些语义信息的符号及符号集合。"
+  },
+  {
+   "cn": "写样",
+   "en": "prototype writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.042",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "雕版印刷术的一道工序。把要刻的文字写在纸上形成的纸样。"
+  },
+  {
+   "cn": "试写",
+   "en": "trial writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.012",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "在正式确定某人撰写某稿件之前，尝试性地让其写作小部分稿件内容的著作活动。"
+  },
+  {
+   "cn": "选刊",
+   "en": "selected writing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.03.038",
+   "subjectFullName": "编辑与出版学_出版物_报纸期刊",
+   "subjectName": "报纸期刊",
+   "publishYear": "2022",
+   "definition": "专门选择刊登已发表作品的期刊。"
+  },
+  {
+   "cn": "蒙古文",
+   "en": "Mongolian writing ",
+   "source": "草学名词",
+   "wordNumber": "8.0039",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "书写区",
+   "en": "writing area",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0708",
+   "subjectFullName": "人体解剖学_神经系统_端脑",
+   "subjectName": "端脑",
+   "publishYear": "2014",
+   "definition": "位于额中回后部，相当于布罗德曼6区、8区的一部分。主管书写功能。"
+  },
+  {
+   "cn": "写作教学",
+   "en": "writing instruction",
+   "source": "教育学名词",
+   "wordNumber": "07.162",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "培养学生书面表达能力的教学活动。"
+  },
+  {
+   "cn": "纸草书",
+   "en": "papyrus writing",
+   "source": "教育学名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古埃及人书写于纸莎草制成的草纸上的文献。内容涉及古埃及宗教及世俗社会生活各方面。"
+  },
+  {
+   "cn": "图画文字",
+   "en": "picture writing",
+   "source": "世界历史名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "原始社会末期以图画的形式记录语言当中词的声音与意义的雏形的文字。"
+  },
+  {
+   "cn": "写入",
+   "en": "writing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写",
+   "en": "write",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写磁头",
+   "en": "writing head\",\"write head",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写后写",
+   "en": "write after write\",\"WAW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差",
+   "en": "difference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书写区",
+   "en": "writing area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "声部进行",
+   "en": "part-writing",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "书写纸",
+   "en": "writing paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "热磁写入",
+   "en": "thermomagnetic writing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写任务",
+   "en": "writing task",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写保护",
+   "en": "write protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写访问",
+   "en": "write access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写广播",
+   "en": "write broadcast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写回",
+   "en": "write back",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写锁",
+   "en": "write lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写无效",
+   "en": "write invalidation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写直达，写通过",
+   "en": "write through",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "写周期",
+   "en": "write cycle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "允写环",
+   "en": "write ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference\",\"sex difference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "文笔",
+   "en": "Writing and Writing Technique",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同异",
+   "en": "Unify Similarity and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拘挛补衲",
+   "en": "Florid Prose and Stilted Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文章",
+   "en": "Literary Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以文为戏",
+   "en": "Playful Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记录",
+   "en": "writing down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "腾声飞实",
+   "en": "Fame and Accomplishment Survive Through Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气盛言宜",
+   "en": "Virtue and Knowledge Produce Good Writing.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洗炼",
+   "en": "Make Writing Succinct",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "铺瓦式写记录",
+   "en": "shingled write recording",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光英朗练",
+   "en": "Concise and Clear Wording Makes Writings Shine.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陈诗展义",
+   "en": "Write Poetry to Express Feeling and Aspiration",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拉祜文",
+   "en": "Lahu writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0379",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "拉祜族使用的拉丁字母形式的文字。20 世纪初由外国传教士传入中国。中国拉祜文1957年进行了改进，以拉祜纳方言为基础方言，以云南省澜沧拉祜族自治县城区及近郊拉祜语语音为标准语音。"
+  },
+  {
+   "cn": "苗文",
+   "en": "Miao writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0382",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国苗族使用的拉丁字母形式的文字。包括苗语湘西方言的湘西苗文，以湖南花垣县吉卫乡的苗语语音为标准音；苗语黔东方言的黔东苗文，以贵州凯里市养蒿村的苗语语音为标准音；苗语川黔滇方言的川黔滇苗文，以贵州毕节"
+  },
+  {
+   "cn": "教室书写板",
+   "en": "writing board",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校教学环境和生活设施卫生监督",
+   "subjectName": "学校教学环境和生活设施卫生监督",
+   "publishYear": "2025",
+   "definition": "在学校普通教室、实验室和其他专用教室使用的，供书写、观看、可擦拭后反复使用并用衬板、框架等支撑固定的一种板面结构物。"
+  },
+  {
+   "cn": "藏文",
+   "en": "Tibetan writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0391",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "藏族的拼音文字。相传由图弥三菩札仿梵文系统创制于公元7 世纪。辅音字母分为“基字”“上加字”“下加字”“前加字”“后加字”和“再后加字”。书写方式自左至右横写，音节之间用圆点隔开。文献丰富，有14 世"
+  },
+  {
+   "cn": "傈僳文",
+   "en": "Lisu writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0381",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "傈僳族使用的文字，分新老文字。老傈僳文是以正反、颠倒形式的大写拉丁字母为基础的拼音文字，创于1912～1914 年间。新傈僳文是标准拉丁字母的拼音文字，1957 年创制。以怒江东岸泸水县和福贡县（原碧"
+  },
+  {
+   "cn": "柯尔克孜文",
+   "en": "Kirgiz writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0403",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "柯尔克孜族使用的以阿拉伯字母为基础的拼音文字，20 世纪30～40 年代在察合台文基础上改进。境外吉尔吉斯语十九世纪二十年代曾用拉丁字母形式文字，1940 年改用基里尔字母文字。"
+  },
+  {
+   "cn": "壮文",
+   "en": "Zhuang writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0388",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国壮族使用的拉丁字母形式的文字。1955 年创制，1957 年经国务院批准推行。1980 年进行修订，全部使用拉丁字母。以北部方言为基础方言，以广西壮族自治区武鸣语音为标准音。壮族曾使用过一种类似汉"
+  },
+  {
+   "cn": "佤文",
+   "en": "Va writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0386",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "佤族使用的拉丁字母形式的文字。20 世纪初由西方传教士创制，叫“撒喇文”或老佤文。1957 年新创制了佤语拼音文字方案，称“新佤文”。以巴饶克方言为基础方言，以云南沧源县岩帅的语音为标准音。"
+  },
+  {
+   "cn": "文字",
+   "en": "script; writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0193",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "人类用来记录和传播语言的书写符号系统。"
+  },
+  {
+   "cn": "黎文",
+   "en": "Li writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.038",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "黎族使用的拉丁字母形式的文字。1957 年创制。以黎语哈（原作侾）方言为基础方言，以海南省乐东县保定村黎语语音为标准音。"
+  },
+  {
+   "cn": "纳西文",
+   "en": "Naxi writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0383",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "纳西族的拼音文字。纳西族原有图画文字、象形文字和音节文字。1957 年创制了拉丁字母的纳西文，以纳西语西部方言为基础方言，以云南省丽江市大研街道的纳西语语音为标准音。"
+  },
+  {
+   "cn": "土文",
+   "en": "Monguor writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0385",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "土族使用的拉丁字母形式的文字。1979 年创制。以互助方言的青海省互助县东沟土族语语音为标准音参考点，在可能范围里兼顾民和方言。"
+  },
+  {
+   "cn": "锡伯文",
+   "en": "Xibe writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.04",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "锡伯族的拼音文字。1947 年在满文基础上稍加修改而成。字母表与满文的基本相同，只有个别字母形体略有不同。同一字母因位置不同而变化字形。"
+  },
+  {
+   "cn": "傣文",
+   "en": "Dai writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0392",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "傣族的拼音文字。主要通行于云南省傣族地区。西双版纳等地使用“傣仂文”，又称“西双版纳傣文”；德宏等地使用“傣哪文”，又称“德宏傣文”；瑞丽等地使用“傣绷文”，又称“水傣文”；金平等地使用“傣端文”，又"
+  },
+  {
+   "cn": "载瓦文",
+   "en": "Zaiwa writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0387",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "中国景颇族使用的拉丁字母形式的载瓦语拼音文字。1957 年创制。以云南德宏州潞西县西山区载瓦语龙郡话为语音标准。"
+  },
+  {
+   "cn": "哈萨克文",
+   "en": "Kazak writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0402",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "哈萨克族使用的以阿拉伯字母为基础的拼音文字。境外哈萨克人1941 年改用以斯拉夫字母为基础的文字。"
+  },
+  {
+   "cn": "布依文",
+   "en": "Bouyei writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0375",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "布依族使用的拉丁字母形式的文字。以贵州望谟话为语音标准。1956 年由政府创制文字方案并试验推行，1985 年修订。"
+  },
+  {
+   "cn": "维吾尔文",
+   "en": "Uygur writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0404",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "维吾尔族的拼音文字。现代维吾尔文是在以阿拉伯字母为基础的晚期察合台文基础上形成的。书写方式从右至左横写。正词法以语音原则为主，也参考形态和传统原则。"
+  },
+  {
+   "cn": "羌文",
+   "en": "Qiang writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0384",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "羌族使用的拉丁字母形式的文字。20 世纪90 年代初创制。以羌语北部方言为基础方言，以四川省茂县羌语雅都土语曲谷话为标准音。"
+  },
+  {
+   "cn": "哈尼文",
+   "en": "Hani writing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0377",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "哈尼族使用的拉丁字母形式的文字。1957 年由政府创制并试验推行，1958 年、1983 年先后修订。以哈尼语哈雅方言为基础方言，以云南省绿春县大寨话为标准音。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,502 @@
+{
+ "key": "sadness",
+ "term": "sadness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:29:50+00:00",
+ "status": "ok",
+ "note": "variant=sadness; 审定公布名词库=181; 海峡两岸名词对照库=41; 其他来源数据库=11; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "声门上通气设备",
+   "en": "supraglottic airway device;SAD",
+   "source": "麻醉学名词",
+   "wordNumber": "03.220",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_气道管理设备",
+   "subjectName": "气道管理设备",
+   "publishYear": "2024",
+   "definition": "经口腔或鼻腔放置，位于声门上方的人工通气装置。"
+  },
+  {
+   "cn": "季节性情感障碍",
+   "en": "seasonal affective disorder,SAD",
+   "source": "生物物理学名词",
+   "wordNumber": "05.192",
+   "subjectFullName": "生物物理学_光生物物理学_生物节律",
+   "subjectName": "生物节律",
+   "publishYear": "2018",
+   "definition": "一种与季节变化和日光缺乏相关的情绪失调现象。多出现在北欧国家，因为冬季日照时间减少所引发。主要表现为抑郁。人为增加光照可缓解症状。"
+  },
+  {
+   "cn": "太阳电池阵驱动机构",
+   "en": "solar array drive,SAD",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.562",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "单波长反常散射",
+   "en": "single-wavelength anomalous dispersion,SAD",
+   "source": "生物物理学名词",
+   "wordNumber": "02.272",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "只使用一套反常散射数据解析相位的方法。此法得到的初始相位不一定准确，需要依赖后期的密度修正来提高初始相位的准确性。"
+  },
+  {
+   "cn": "情感障碍和精神分裂症检查提纲",
+   "en": "Schedule for Affective Disorders and Schizophrenia,SADS",
+   "source": "精神医学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国精神医学家施皮策(R. L. Spitzer) 1978年编制的用于各种精神障碍诊断和药理学研究工具的半定式他评量表。有3种版本：普通版，对现症受检者做出诊断；过去史版，用于向知情人调查精神病的遗"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "03.01.096",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "固体抵抗某种外来机械作用(如刻划、压入、研磨)的能力。通常用H表示。在矿物学中常用摩氏硬度和维氏硬度表达矿物的硬度。是鉴定矿物的重要特征之一。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0031",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "材料抵抗变形，特别是压痕或划痕形成的永久变形的能力。"
+  },
+  {
+   "cn": "红度",
+   "en": "redness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "物体红色的深浅程度。"
+  },
+  {
+   "cn": "脂肪丰度",
+   "en": "fatness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "胴体外表脂肪分布与肌肉断面所呈现的脂肪沉积丰富程度。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "冶金学名词",
+   "wordNumber": "08.0039",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料抵抗压入或刻刮的能力。用来衡量固体材料的软硬程度。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "物理学名词",
+   "wordNumber": "08.2341",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "计量学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "计量学_力值、硬度_硬度试验",
+   "subjectName": "硬度试验",
+   "publishYear": "2015",
+   "definition": "材料抵抗弹性变形、塑性变形、划痕或破裂等一种或多种作用的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "药学名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "片剂抵抗硬物压入其表面的性能。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0512",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "用材料抵抗压入或刻刮的性质来衡量固体材料软硬程度的力学性能指标。如布氏硬度、洛氏硬度、维氏硬度等。"
+  },
+  {
+   "cn": "线束",
+   "en": "harness",
+   "source": "通信科学技术名词",
+   "wordNumber": "08.084",
+   "subjectFullName": "通信科学技术_线缆传输与接入",
+   "subjectName": "线缆传输与接入",
+   "publishYear": "2007",
+   "definition": "一组金属线和电缆绑在一起，运载设备之间来往的信号和电源的连接。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "生态学名词",
+   "wordNumber": "16.124",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水沉淀肥皂的能力，大体反映水中钙、镁离子的含量。钙镁浓度的总和称为总硬度，以每升水含碳酸钙的毫克数或毫克当量表示。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "土木工程名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "发红",
+   "en": "redness",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.168",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "固体材料对外界物体压陷、刻划等作用的局部抵抗能力，是衡量材料软硬程度的一个指标。"
+  },
+  {
+   "cn": "季节性情感障碍",
+   "en": "seasonal affective disorder\",\"SAD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "害羞",
+   "en": "shyness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "safeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铠甲",
+   "en": "harness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水质硬度",
+   "en": "water hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度标度",
+   "en": "hardness scale",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "永久硬度",
+   "en": "permanent hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刮痕硬度",
+   "en": "scratch hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压痕硬度",
+   "en": "indentation hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "维氏硬度",
+   "en": "Vickers hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "布氏硬度",
+   "en": "Brinell hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "声无哀乐",
+   "en": "There Is No Such Thing as Joyful or Sad Music.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圣",
+   "en": "Sage / Sageness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "预试七人",
+   "en": "Sad mi bdun",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0578",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名词，又译七觉士，指藏族历史上第一批随寂护出家的七名藏族僧人，即巴赛囊（益西旺波）、桑希、毗卢遮那、甲哇却洋、毗鲁易旺波、玛仁钦却、藏勒珠等。"
+  },
+  {
+   "cn": "源轴距",
+   "en": "source-axis distance，SAD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.42",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "沿着辐射束轴测量的辐射源与机架旋转轴之间的距离。"
+  },
+  {
+   "cn": "性羞涩",
+   "en": "sex shyness",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "与异性接触时表现胆怯、迟疑、退缩的情绪状态，特别是在性接触时。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "one-off voluntarists",
+ "term": "One-off voluntarists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:33:25+00:00",
+ "status": "ok",
+ "note": "variant=One-off voluntarists; 审定公布名词库=10000; 海峡两岸名词对照库=8803; 其他来源数据库=2251; 预公布名词数据库=2859; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "限制时间放牧",
+   "en": "on off grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0334",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "开–关现象",
+   "en": "on-off phenomenon",
+   "source": "药学名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "长期服用左旋多巴的部分患者，突然出现多动不安(开)，而后又出现肌强直运动不能(关)的现象。两种现象可交替出现。"
+  },
+  {
+   "cn": "开关信号",
+   "en": "ON/OFF signal",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.815",
+   "subjectFullName": "机械工程_汽车_发动机_发动机管理系统",
+   "subjectName": "发动机管理系统",
+   "publishYear": "2013",
+   "definition": "由点火开关、空调开关等传送给电子控制器的，只有通和断两种状态的信号。"
+  },
+  {
+   "cn": "开关式控制",
+   "en": "on-off control",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.328",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "通断控制器",
+   "en": "on-off controller",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "02.344",
+   "subjectFullName": "机械工程_仪器仪表_工业自动化仪表与系统_自动控制器及系统_控制器",
+   "subjectName": "控制器",
+   "publishYear": "2003",
+   "definition": "两个离散值中一个为0一个为1的两位控制器。"
+  },
+  {
+   "cn": "通断作用",
+   "en": "on-off action",
+   "source": "电气工程名词",
+   "wordNumber": "16.101",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "通断控制",
+   "en": "on-off control",
+   "source": "化学工程名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "化学工程_过程系统工程_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "通断控制",
+   "en": "on-off control",
+   "source": "自动化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "自动化科学技术_自动化技术通类",
+   "subjectName": "自动化技术通类",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "通断键控",
+   "en": "on-off keying,OOK",
+   "source": "电子学名词",
+   "wordNumber": "03.214",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混合花纹",
+   "en": "on/off-road pattern",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.271",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "适用于多种场合的特殊胎面花纹。如公路花纹与越野花纹的混合花纹、纵向花纹和横向花纹的混合花纹等。"
+  },
+  {
+   "cn": "滚装",
+   "en": "roll on/roll off",
+   "source": "航海科技名词",
+   "wordNumber": "11.0213",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "浮装",
+   "en": "float on/float off",
+   "source": "航海科技名词",
+   "wordNumber": "11.0215",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "设备开停传感器",
+   "en": "equipment on/off transducer",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "煤炭科学技术_矿山电气工程_煤矿监测与控制",
+   "subjectName": "煤矿监测与控制",
+   "publishYear": "1996",
+   "definition": "检测设备开停状态，并转换成约定输出信号的装置。"
+  },
+  {
+   "cn": "吊装",
+   "en": "lift on/lift off",
+   "source": "航海科技名词",
+   "wordNumber": "11.0214",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "断",
+   "en": "off",
+   "source": "电子学名词",
+   "wordNumber": "08.042",
+   "subjectFullName": "电子学_机电元及其他电子元件",
+   "subjectName": "机电元及其他电子元件",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单次投标",
+   "en": "one-off bidding,static bidding",
+   "source": "电力名词",
+   "wordNumber": "06.257",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "在一个交易时段内,投标者只有一次报价机会,市场交易也只出清一次。一般允许在市场出清前修改申报容量,但不得修改申报价格。"
+  },
+  {
+   "cn": "滚装滚卸",
+   "en": "roll on roll off,RORO",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.638",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "在运输船舶上用牵引车牵引载有箱货或其他件货的半挂车或轮式托盘直接进出货舱装卸的方式。"
+  },
+  {
+   "cn": "吊装吊卸",
+   "en": "lift on lift off,LOLO",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.639",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "使用起重机或其他吊机器械从船舶上装载或卸载设备。"
+  },
+  {
+   "cn": "脱靶效应",
+   "en": "on-target/off-tumor recognition",
+   "source": "血液学名词",
+   "wordNumber": "10.012",
+   "subjectFullName": "血液学_特殊治疗_治疗方法",
+   "subjectName": "治疗方法",
+   "publishYear": "2022",
+   "definition": "CAR-T细胞在攻击肿瘤细胞时，误伤了同样表达靶点抗原的正常组织细胞，从而引起正常组织损伤或免疫缺陷的现象。"
+  },
+  {
+   "cn": "高速开关阀",
+   "en": "high speed on-off valve",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1105",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "阀芯可在非常短时间内高速开启和关闭的液压阀。"
+  },
+  {
+   "cn": "开关作用",
+   "en": "on-off action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通断控制",
+   "en": "on-off control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逐次开闭操作",
+   "en": "sequencing on-off operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "通断键控",
+   "en": "on-off keying，OOK",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊装",
+   "en": "lift on/lift off",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浮装",
+   "en": "float on/float off",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滚装",
+   "en": "roll on/roll off",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "断",
+   "en": "off",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滚装船",
+   "en": "ro-on/ro-off ship",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "滚装船",
+   "en": "roll on/roll off ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "双位式调节器",
+   "en": "on-off two position regulator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "偏航",
+   "en": "off way\",\"off course",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滚装运输",
+   "en": "roll-on and roll-off transportation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "滚装船",
+   "en": "roll on-roll off ship\",\"Ro/Ro ship\",\"drive on/drive off ship",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "径流",
+   "en": "run off",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "离线",
+   "en": "off-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脱胶",
+   "en": "boiling-off",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏轴",
+   "en": "off-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶向偏离",
+   "en": "off-orientation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "余额平衡，轧平",
+   "en": "square off",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off\",\"take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off\",\"push-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表内外投资",
+   "en": "on- and off-balance-sheet investment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "send off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分决胜射",
+   "en": "shoot off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推",
+   "en": "push off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踏跳",
+   "en": "take-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平分决胜赛",
+   "en": "play off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解缆",
+   "en": "cast off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进入复赛",
+   "en": "fence-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跳",
+   "en": "take off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复赛",
+   "en": "jump off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场外",
+   "en": "off-site",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "场区以外的区域。该区域通常位于周边有安全围栏或其他指定地界标志的范围以外。也可以是围绕某个辐射源的控制区以外的区域，或由最初响应人员设立的警戒区以外的区域。管理部门在此区域根据应急响应行动准则采取应急"
+  },
+  {
+   "cn": "异常特征",
+   "en": "off-note",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.7",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通常与产品的腐败变质或转化作用相关的，与产品正常情况下具有的感官属性特征不一致的其他感官属性特征。"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.15",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "应急状态之一。核事故辐射后果已超越场区边界,场内、场外有关应急组织和人员实施应急响应与救援行动。"
+  },
+  {
+   "cn": "场外应急",
+   "en": "off-site emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "事故的辐射后果已经或者预期可能超越场区边界，场外需要采取紧急防护行动的状态。需要迅速采取行动缓解事故后果，保护场区人员和受影响的公众。"
+  },
+  {
+   "cn": "小康",
+   "en": "fairly well-off",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "三代之治没落之后，仅次于大同理想的社会模式。最早出现于《诗经》，作为社会模式来理解出自西汉戴圣编的《礼记·礼运》。小康社会中，人们各亲其亲、各子其子，货力为己，虽然还保留选贤任能的民治传统，但更多依赖"
+  },
+  {
+   "cn": "同一健康",
+   "en": "one health",
+   "source": "社会医学名词",
+   "wordNumber": "6.6.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "整合健康治理",
+   "publishYear": "2025",
+   "definition": "基于人类与生态环境一体化健康视角，通过跨部门、跨领域、跨学科综合、统一的理念和方法，旨在实现人类、动物与生态系统健康的可持续平衡与优化。"
+  },
+  {
+   "cn": "放射性废气净化",
+   "en": "radioactive off-gas cleaning",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.6.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "放射性废气在受控条件下排入大气之前、去除或降低废气中的放射性成分的过程。"
+  },
+  {
+   "cn": "内部警戒区",
+   "en": "inner cordoned off area",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.20",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "紧急情况下最初响应人员在潜在辐射危害的周围设立的一个区域，在该区域内采取防护行动和其他应急响应行动，以防止最初响应人员和公众成员免受可能的照射和污染。"
+  },
+  {
+   "cn": "劳动-闲暇替代",
+   "en": "labor-leisure trade-offs",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求模型",
+   "subjectName": "健康需求模型",
+   "publishYear": "2025",
+   "definition": "贝克尔（Gary Becker）的时间分配理论，后被应用在健康需求模型中。个体总闲暇时间可以被用于生产家庭物品或者被雇佣以获得收入。劳动时间增加就会减少闲暇时间，劳动和闲暇是一个替代关系。"
+  },
+  {
+   "cn": "单向方差分析",
+   "en": "one-way anova",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.66",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "只含有一个自变量或因子的方差分析。"
+  },
+  {
+   "cn": "同一健康同一个健康",
+   "en": "one health approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.9",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "在局域、国家和全球层面控制多部门协同工作，获得人、动物和环境的最佳卫生。在实施项目、政策、法规和研究中设计的多部门沟通与一期工作以获得最佳公共卫生结果的策略。"
+  },
+  {
+   "cn": "现场消毒",
+   "en": "disinfection on site",
+   "source": "消毒学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "发生传染病流行、突发公共卫生事件或重大活动卫生保障时对现场环境和物品等进行的消毒。"
+  },
+  {
+   "cn": "就地监测",
+   "en": "on-site monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_流出物监测",
+   "subjectName": "流出物监测",
+   "publishYear": "2025",
+   "definition": "在现场直接进行的辐射监测。可用于测量辐射场的特性，如辐射场的照射量率、剂量率及随时间与空间的变化规律等。也可用于鉴别放射性核素并确定其大致的体积活度或表面活度。"
+  },
+  {
+   "cn": "现场笔录",
+   "en": "on-site transcripts",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "卫生监督员在现场监督时，对现场勘验的结果如实进行记录的文书。"
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "老龄协会",
+   "en": "committee on aging",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.52",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国民政部门主管的老年人社会团体。主要职责是对我国老龄事业发展的方针、政策、规划等问题进行调查研究，提出建议，开展信息交流、咨询服务等与老龄问题有关的社会活动，承办政府交办的其他事项和有关部门委托的工"
+  },
+  {
+   "cn": "一心一意搞建设",
+   "en": "concentrate on development",
+   "source": "马克思主义",
+   "wordNumber": "03.0611",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据历史上的经验教训，从时代的要求出发，邓小平提出：“一心一意搞建设”应当成为工作的中心。除了爆发大规模战争外，全党同志必须贯彻始终地集中力量进行经济建设，一步一步地实现中国的战略目标。"
+  },
+  {
+   "cn": "和平法令",
+   "en": "decree on peace",
+   "source": "马克思主义",
+   "wordNumber": "04.0073",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由列宁起草，于1917年11月8日（俄历10月26日）经全俄第二次苏维埃代表大会通过的苏维埃政府颁布的第一个法令。该法令呼吁参加第一次世界大战的各交战国政府和人民，立即缔结停战协定，缔造正义与民主的和"
+  },
+  {
+   "cn": "土地法令",
+   "en": "decree on land",
+   "source": "马克思主义",
+   "wordNumber": "04.0074",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国十月社会主义革命胜利后，苏维埃政府关于土地问题的第一个立法文件。于1917年11月8日（俄历10月26日）全俄苏维埃第二次代表大会上通过。《土地法令》宣布废除地主土地私有制。附有农民土地问题委托书"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

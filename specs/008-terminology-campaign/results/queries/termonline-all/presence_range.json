@@ -1,0 +1,672 @@
+{
+ "key": "presence range",
+ "term": "presence range",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:34:43+00:00",
+ "status": "ok",
+ "note": "variant=presence range; 审定公布名词库=726; 海峡两岸名词对照库=307; 其他来源数据库=42; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "植物学名词",
+   "wordNumber": "13.0279",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "某物种(或分类单位)在属于同一群落类型但空间上彼此分隔的各个群落地段中所出现的百分率。"
+  },
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "生态学名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某种生物在属于同一群落类型且空间上彼此分隔的各个群落中出现的百分率。"
+  },
+  {
+   "cn": "社交在场感",
+   "en": "social presence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.075",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "一般经由计算机技术作为中介的交流显露出沟通者之间对存在状态的一种主观体验与感受。"
+  },
+  {
+   "cn": "车辆存在监测器",
+   "en": "presence monitor",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0408",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "社交在场论",
+   "en": "social presence theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.135",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "一种通过社交在场感与社交情境线索等解释网络人际沟通与面对面人际沟通形成差异的假说。1976年，由英国学者约翰.肖特(John Short)、埃德林.威廉姆斯(Ederyn Williams)和布鲁斯·"
+  },
+  {
+   "cn": "模拟存在治疗",
+   "en": "simulated presence therapy",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.160",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "通过磁带、电话谈话的方式将患者与家人在一起时的某些回忆展现给患者，模仿亲属存在的治疗方式。"
+  },
+  {
+   "cn": "太阳出现敏感器",
+   "en": "sun presence sensor",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.437",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "存在型车辆检测器",
+   "en": "presence vehicle detector",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.292",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "测距离",
+   "en": "range",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1362",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "测量卫星与地面之间沿视线的距离。 "
+  },
+  {
+   "cn": "量程",
+   "en": "range",
+   "source": "物理学名词",
+   "wordNumber": "01.0298",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "物理学名词",
+   "wordNumber": "09.0699",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "物理学名词",
+   "wordNumber": "01.0299",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "范围",
+   "en": "range",
+   "source": "物理学名词",
+   "wordNumber": "01.0297",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "核医学名词",
+   "wordNumber": "02.0132",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "射线将自身能量全部转移给物质之前，在该物质中运动的直线距离。"
+  },
+  {
+   "cn": "极差",
+   "en": "range",
+   "source": "化学名词",
+   "wordNumber": "03.0199",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在一组测定的量值中最大测量值与最小测量值之差。表征该组测量值的最大分散程度。"
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "化学名词",
+   "wordNumber": "06.0143",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "带电粒子因损失能量失去其电离能力之前穿越介质的距离。β粒子因其径迹曲折，无确定射程。"
+  },
+  {
+   "cn": "全距",
+   "en": "range",
+   "source": "心理学名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "将一组数据按顺序排列后，最大值与最小值之间的差距。"
+  },
+  {
+   "cn": "范围",
+   "en": "range",
+   "source": "药学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "能达到一定精密度、准确度和线性，测试方法适用的高低限浓度或量的区间。"
+  },
+  {
+   "cn": "极差",
+   "en": "range",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.122",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "在资料分析过程中，观察值中的最大值和最小值之差。符号R。"
+  },
+  {
+   "cn": "航程",
+   "en": "range",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.297",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "航空器在无风大气中，沿预定的航线飞行，使用完规定的燃油所经过的水平距离。"
+  },
+  {
+   "cn": "存在度",
+   "en": "presence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "到场有效性",
+   "en": "presence availability",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全距",
+   "en": "range",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "范围",
+   "en": "range",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "因特网平台提供者",
+   "en": "Internet presence provider\",\"IPP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圆-圆定位",
+   "en": "range-range positioning",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "测距",
+   "en": "ranging",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潮差",
+   "en": "tidal range\",\"tide range",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "岭",
+   "en": "ridge\",\"range",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "量程",
+   "en": "span\",\"range",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波段",
+   "en": "wave range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潮差",
+   "en": "tidal range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "惯性区",
+   "en": "inertial range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耗散区",
+   "en": "dissipation range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近地点潮差",
+   "en": "perigean range",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离分辨率",
+   "en": "range resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离归一化",
+   "en": "range normalization",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离混淆",
+   "en": "range aliasing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "存在索引",
+   "en": "presence index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟在场",
+   "en": "virtual presence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射程",
+   "en": "range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据靶场",
+   "en": "Data Range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络战靶场",
+   "en": "cyberwar range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "靶场测量",
+   "en": "range gauging",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "靶场记录",
+   "en": "range register",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效射程",
+   "en": "effective range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击馆",
+   "en": "shooting range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击场",
+   "en": "shooting range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地线裁判员",
+   "en": "range officer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新兴网络靶场",
+   "en": "emerging cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多级靶标系统",
+   "en": "multistage range system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全靶场实验室",
+   "en": "Cybersecurity Range Laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中距离击打",
+   "en": "medium range fighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际射程",
+   "en": "practical range",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.35",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对电子束辐射，模体表面位于正常治疗距离，辐射束轴上吸收剂量分布下降最陡段（斜率最大处）切线的外推与深度吸收剂量分布曲线末端的外推线相交点处所对应的深度。"
+  },
+  {
+   "cn": "极差法",
+   "en": "range method",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "一组数据中最大值减去最小值的计算方法。"
+  },
+  {
+   "cn": "大撒网式检查",
+   "en": "wide range inspection",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床诊断中盲目使用或扩大辅助检查手段及范围的违背诊疗道德规范的行为。"
+  },
+  {
+   "cn": "中程理论",
+   "en": "middle range theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0073",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国考古学家路易斯·宾福德（Lewis Binford）提出的一种理论体系，他将这种理论比作材料解读的罗塞达碑，通过采用民族考古学和实验考古学等方法，试图在残缺不全的考古遗存与现代民族考古学观察和实验"
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子减速到静止所穿行的平均路径长度的近似值。"
+  },
+  {
+   "cn": "关节活动度",
+   "en": "range of motion， ROM",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_活动度评估",
+   "subjectName": "活动度评估",
+   "publishYear": "2025",
+   "definition": "关节运动时所通过的运动弧或转动角度。评定肢体运动功能的最基本指标之一。"
+  },
+  {
+   "cn": "现状",
+   "en": "present situation",
+   "source": "马克思主义",
+   "wordNumber": "03.0205",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "目前的状况，是现有的自然界和社会现象所揭示的事物有规则的存在方式。"
+  },
+  {
+   "cn": "橙色战剂",
+   "en": "orange agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.12.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "由大致等量的2,4-二氯苯氧乙酸（2,4-D）和2,4,5-三氯苯氧乙酸（2,4,5-T）组成的混合物，并含有少量剧毒的二噁英。由美军在越南战争时期使用，因装运容器标识为橙色得名。"
+  },
+  {
+   "cn": "存在死亡危险",
+   "en": "present risk of death",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.5",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "在某一种组合危险分数下，因某种疾病死亡的可能危险性。其计算公式为疾病别平均死亡率乘以该疾病危险分数。"
+  },
+  {
+   "cn": "净现值法",
+   "en": "net present value method,NPV method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "根据货币时间价值的原理，消除货币时间因素的影响，计算计划期内方案各年效益的现值总和与成本现值总和之差的的决策分析法"
+  },
+  {
+   "cn": "古为今用洋为中用",
+   "en": "make the past serve the present and foreign things serve China",
+   "source": "马克思主义",
+   "wordNumber": "03.0464",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年提出的正确对待古代文化遗产和外国文化成果的方针。吸取古代文化遗产中的有益成分，为反映现实服务；学习外国文化成果中有益的东西，为丰富和发展中国文化服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

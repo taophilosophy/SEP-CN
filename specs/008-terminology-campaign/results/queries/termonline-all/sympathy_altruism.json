@@ -1,0 +1,532 @@
+{
+ "key": "sympathy-altruism",
+ "term": "sympathy-altruism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:36:18+00:00",
+ "status": "ok",
+ "note": "variant=sympathy-altruism; 审定公布名词库=70; 海峡两岸名词对照库=21; 其他来源数据库=5; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "动物学名词",
+   "wordNumber": "7.0434",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "动物以降低自身的适合度为代价，来提高其他个体适合度的行为。"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "经济学名词",
+   "wordNumber": "14.005",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种提倡为他人或集体的福利改进而宁愿使自己的福利蒙受损失的哲学思想。作为一种行为准则，它通常和善行、无私等概念密切相关。这一思想由法国实证主义哲学家奥古斯特·孔德（Auguste Comte）于183"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "心理学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "有利于他人而不期望任何个人回报的心理倾向。"
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "遗传学名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "一个个体的行为对接受者带来好处的同时，对行为完成者带来损失的一种行为。"
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.444",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "一个有机体给另一个有机体提供了好处，长期而言可以获得报答或补偿。"
+  },
+  {
+   "cn": "自我利他主义",
+   "en": "ego-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.034",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "助人者通过助人行为来减少自己的痛苦，使自己感到有力量或者体会到一种自我价值。"
+  },
+  {
+   "cn": "纯利他主义",
+   "en": "pure-altruism",
+   "source": "行为医学名词",
+   "wordNumber": "5.035",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "受外部动机的驱使，做出助人行为以减轻他人的痛苦，目的是为了他人的幸福。"
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "动物学名词",
+   "wordNumber": "2.0353",
+   "subjectFullName": "动物学_动物进化与系统学_动物地理",
+   "subjectName": "动物地理",
+   "publishYear": "2021",
+   "definition": "不同物种在同一栖息地出现的现象。"
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "植物学名词",
+   "wordNumber": "02.0379",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "一个种群在分布区内由于生态位分离而逐渐建立若干子种群，群间由于逐步建立的生殖隔离而形成基因库的分离，形成新物种的分布现象。"
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0682",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "一种群在分布区内由于生态位分离而逐渐建立若干子种群，群间由于逐步建立的生殖隔离而形成基因库的分离，形成新物种的分布。"
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "生态学名词",
+   "wordNumber": "16.190",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "一个种群在分布区内由于生态位分离而逐渐建立若干子种群，群间由于逐步建立的生殖隔离而形成基因库的分离，形成新物种的分布。"
+  },
+  {
+   "cn": "肌病",
+   "en": "myopathy",
+   "source": "神经病学名词",
+   "wordNumber": "01.018",
+   "subjectFullName": "神经病学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "由骨骼肌的结构损伤、病变和功能障碍引起的一类疾病。常见病因包括先天性病因、代谢性病因、自身免疫性病因、感染性病因与外伤等。"
+  },
+  {
+   "cn": "肌病",
+   "en": "myopathy",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.423",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "同理心",
+   "en": "empathy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.15",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种能换位思考，从对方角度体验与感受他人世界并重塑自我观点的沟通互动能力。"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "精神医学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "治疗师能够正确地了解受检者内在主观世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "同感",
+   "en": "empathy",
+   "source": "生物物理学名词",
+   "wordNumber": "04.293",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "通过内心模仿产生他人内心活动的类似知觉。对社交生活至关紧要，正是由于有同感才使我们得以和他人共享其情绪、体验、需要和目的。"
+  },
+  {
+   "cn": "移情性",
+   "en": "empathy",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0577",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "设身处地地为顾客着想和对顾客给予特别关注的质量特性。"
+  },
+  {
+   "cn": "移情作用",
+   "en": "empathy",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.065",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "人在聚精会神地观察某一个自然的或艺术的审美对象时，通过由物及我或由我及物而达到物我同一，把人的生命和情趣移注到对象上来，顿时感觉到本无生命和情趣的该外物(审美对象)仿佛也具有人的生命和情趣一样，犹如“"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "心理学名词",
+   "wordNumber": "15.052",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师体认当事人内部世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "一个人认同、理解和感受他人的处境、情感、知觉和思想的心理现象。"
+  },
+  {
+   "cn": "同情",
+   "en": "sympathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "利他行为",
+   "en": "altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "利他现象",
+   "en": "altruism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "相互利他主义",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他行为",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利",
+   "en": "reciprocal altruism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共情-利他假说",
+   "en": "empathy altruism hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同域分布,同地分布",
+   "en": "sympatry distribution\",\"sympatry",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "同域分布",
+   "en": "sympatry",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共情,同感",
+   "en": "empathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交感部",
+   "en": "sympathetic part\",\"sympathic part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感根",
+   "en": "sympathetic root\",\"sympathic root",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感神经节",
+   "en": "sympathetic ganglion\",\"sympathic ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感支",
+   "en": "sympathetic branch\",\"sympathic branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感[神经]干",
+   "en": "sympathetic trunk\",\"sympathic trunk\",\"truncus sympathicus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互惠利他",
+   "en": "reciprocal altruism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知音",
+   "en": "Resonance and Empathy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同情",
+   "en": "sympathy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对他人的苦难、不幸或处境在情感上产生共鸣、关怀、理解，并给予道义上支持或物质上帮助的一种情感反应和行为。"
+  },
+  {
+   "cn": "利他主义",
+   "en": "altruism",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.11",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "关心他人的利益而不考虑自己的利益。不期望任何外部酬劳而自觉自愿的助人，把帮助他人当作唯一目的。"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.13",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "能够从他人的角度考虑问题，感受到他人的情感状态的心理过程。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.20",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "研究者将自己融入研究对象社会群体的情感转移。本概念来自于马林诺夫斯基(B.Malinowski）。在研究的“远·近法”上讲究研究者将自己融入被研究对象的生活世界，通过这种立场转换，实现近距离互动的研究"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者体会和认可求咨者内部世界的态度、能力，以及相应的反应。在学校心理咨询中，指咨询者设身处地地从求咨者的参考标准来看事物和感受事物，同时能以言语或体语准确表达对求咨者内心体会的理解，协助求咨者对其感"
+  },
+  {
+   "cn": "线粒体肌病",
+   "en": "mitochondrial myopathy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "线粒体呼吸链氧化代谢障碍所引起的一组累及骨骼肌的遗传性疾病。临床上以骨骼肌不能耐受疲劳为主要特征，往往轻微活动后即感疲乏，休息后好转。常有肌肉酸痛及压痛。"
+  },
+  {
+   "cn": "化脓性肌病",
+   "en": "purulent myopathy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.10",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "骨骼肌的化脓性感染，由血行播散引起，通常伴有脓肿形成。在热带地区最常见，但也可以发生在温带地区。"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

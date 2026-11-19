@@ -1,0 +1,772 @@
+{
+ "key": "systemic capacity",
+ "term": "systemic capacity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:35:04+00:00",
+ "status": "ok",
+ "note": "variant=systemic capacity; 审定公布名词库=8654; 海峡两岸名词对照库=2411; 其他来源数据库=528; 预公布名词数据库=374; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "系统能力",
+   "en": "system capacity,system capability",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0632",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "系统自身所具有的内部蕴含的与环境进行交流的潜力，一个系统具有多种能力。"
+  },
+  {
+   "cn": "能容",
+   "en": "capacity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1350",
+   "subjectFullName": "机械工程（一）_传动_液力传动_性能参数",
+   "subjectName": "性能参数",
+   "publishYear": "2021",
+   "definition": "液力元件传递能量的能力。"
+  },
+  {
+   "cn": "行为能力",
+   "en": "capacity",
+   "source": "器官移植学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "能以自己的行为依法行使权利和承担义务的能力。"
+  },
+  {
+   "cn": "容量",
+   "en": "capacity",
+   "source": "物理学名词",
+   "wordNumber": "01.0043",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "生产能力",
+   "en": "capacity",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.073",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "化工设备单位时间内通过物料的体积或质量。以原料为依据，称为设备的处理能力；以产品为依据，则称为产量。"
+  },
+  {
+   "cn": "扬量",
+   "en": "capacity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0190",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "泵实际能达到的流量。"
+  },
+  {
+   "cn": "电容量",
+   "en": "capacity",
+   "source": "物理学名词",
+   "wordNumber": "03.0147",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "容量",
+   "en": "capacity",
+   "source": "计量学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "计量学_容量、流量_容量",
+   "subjectName": "容量",
+   "publishYear": "2015",
+   "definition": "在一定条件下容器内可容纳物质的数量(体积或质量)。"
+  },
+  {
+   "cn": "能力",
+   "en": "capacity",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "物理医学与康复_总论_国际功能、残疾和健康分类",
+   "subjectName": "国际功能、残疾和健康分类",
+   "publishYear": "2014",
+   "definition": "国际功能、残疾和健康分类中用于说明活动功能状态的指标，能力作为活动的限定值，是显示个人在既定时刻在活动和参与列表的功能领域中可能达到的最高水平。能力要在统一或标准的环境中进行测量，这样反映出个体在环境"
+  },
+  {
+   "cn": "输气量",
+   "en": "capacity",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "10.0032",
+   "subjectFullName": "机械工程_流体机械_风机、压缩机_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "压缩机末级的排气量。"
+  },
+  {
+   "cn": "通行能力",
+   "en": "capacity",
+   "source": "土木工程名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "土木工程_城市道路工程_道路交通",
+   "subjectName": "道路交通",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "扬量",
+   "en": "capacity",
+   "source": "化学工程名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "化学工程_传递过程与单元操作_流体动力过程_流体流动",
+   "subjectName": "流体流动",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "容量",
+   "en": "capacity",
+   "source": "数学名词",
+   "wordNumber": "05.0657",
+   "subjectFullName": "数学_分析学_位势论",
+   "subjectName": "位势论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "α容量",
+   "en": "α-capacity,alpha-capacity",
+   "source": "数学名词",
+   "wordNumber": "012.0085",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "肺容量",
+   "en": "lung capacity,pulmonary capacity",
+   "source": "生理学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "存储容量",
+   "en": "memory capacity,storage capacity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0342",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "一个内存储器或外存储子系统所能存储的信息总量。以位数或字节数计量。"
+  },
+  {
+   "cn": "散装容积",
+   "en": "bulk capacity,grain capacity",
+   "source": "航海科技名词",
+   "wordNumber": "11.0122",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environmental capacity",
+   "source": "地质学名词",
+   "wordNumber": "18.01.033",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在人类生存和自然环境不致受害变质的前提下,环境所能容纳污染物的最大负荷量。"
+  },
+  {
+   "cn": "热容",
+   "en": "heat capacity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.111",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在不发生相变化和化学变化的前提下，体系与环境所交换的热(dQ)与由此引起的温度变化(dT)之比。通常以符号C表示(dQ/dT=C)。单位为J/K。"
+  },
+  {
+   "cn": "容水度",
+   "en": "water capacity",
+   "source": "地质学名词",
+   "wordNumber": "17.02.133",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "岩土中所能容纳的最大的水体积与岩土体体积之比。以小数或百分数表示。"
+  },
+  {
+   "cn": "容量",
+   "en": "capacity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "澄清能力",
+   "en": "clarification capacity\",\"clarifying capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "研磨能力",
+   "en": "milling capacity\",\"mill capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸附容量",
+   "en": "adsorption capacity\",\"adsorptive capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "散装容积",
+   "en": "grain capacity\",\"bulk capacity",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "货舱容积",
+   "en": "cargo capacity\",\"hold capacity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分蘖力",
+   "en": "tillering capacity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environmental capacity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比容量",
+   "en": "specific capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境容量",
+   "en": "environment capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热容量",
+   "en": "heat capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容量订正",
+   "en": "capacity correction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "容许容量",
+   "en": "acceptance capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "入渗量",
+   "en": "infiltration capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "田间持水量",
+   "en": "field capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸发率",
+   "en": "evaporation capacity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合能力",
+   "en": "mixing capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外在容积",
+   "en": "external capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "喷射器容量",
+   "en": "ejector capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热容量",
+   "en": "thermal capacity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "容量",
+   "en": "capacity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口罩产能",
+   "en": "mask production capacity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-1-1阵型",
+   "en": "4-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-1-2阵型",
+   "en": "3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-2-1阵型",
+   "en": "3-2-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-1-1阵型",
+   "en": "5-3-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-4-3-2阵型",
+   "en": "1-4-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-1-2阵型",
+   "en": "4-3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "1-3-3-3阵型",
+   "en": "1-3-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吸液量",
+   "en": "suction capacity",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.19",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "卫生巾、纸尿裤等吸收性卫生用品一定时间吸收测试溶液的量。"
+  },
+  {
+   "cn": "组织能力",
+   "en": "organizational capacity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "组织为确保其管理效率以及实现组织创新，通过某种组织机制和内部政策来协调和整合不同活动与资源的才能。"
+  },
+  {
+   "cn": "劳动生产力",
+   "en": "labor capacity",
+   "source": "马克思主义",
+   "wordNumber": "02.0044",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "具体劳动的生产能力，可与生产力通用。它与一定量劳动所推动的生产资料量成正比，而和推动一定量生产资料所必需的劳动量成反比。一切生产力都是由劳动发动的生产能力。劳动生产力是由多种情况决定的，其中包括工人的"
+  },
+  {
+   "cn": "运动能力",
+   "en": "exercise capacity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "体能、技战术能力和心理能力等在身体活动中的综合表现，是人类身体活动的基础。"
+  },
+  {
+   "cn": "复水性",
+   "en": "rehydration capacity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.22",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "干制食品吸水后恢复至原来新鲜程度的能力，通常用质量的增加程度表示。"
+  },
+  {
+   "cn": "负载力",
+   "en": "carrying capacity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0226",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个环境条件所允许的最大种群数量。"
+  },
+  {
+   "cn": "消毒服务能力",
+   "en": "disinfection service capacity",
+   "source": "消毒学",
+   "wordNumber": "7.4.3",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "实施各类场所消毒、使用消毒设备、开展消毒质量检测等服务的能力，确保消毒后的环境和物品符合相关标准规定的能力。"
+  },
+  {
+   "cn": "党的执政能力",
+   "en": "partys governance capacity",
+   "source": "马克思主义",
+   "wordNumber": "03.0664",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党提出和运用正确的理论、路线、方针、政策和策略，领导制定和实施宪法和法律，采取科学的领导制度和领导方式，动员和组织人民依法管理国家和社会事务、经济和文化事业，有效治党治国治军，建设社会主义现代化国家的"
+  },
+  {
+   "cn": "供给能力规制",
+   "en": "supply capacity regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "在公共卫生产品供给与需求失去平衡情况下，政府通过法律、行政或市场调节的手段对公共卫生资源供给能力进行调控的制度。"
+  },
+  {
+   "cn": "肉持水性",
+   "en": "water-holding capacity",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "肌肉受外力作用时，如加压、切碎、加热、冷冻、解冻、腌制等加工中保持原有的水分与添加水分的能力。"
+  },
+  {
+   "cn": "国家治理体系和治理能力现代化",
+   "en": "modernization of Chinas system and capacity for governance",
+   "source": "马克思主义",
+   "wordNumber": "03.0805",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出总目标：到我们党成立一百年时，在各方面制度更加成熟更加定型上取得明显成效；到2035年，各方面制度更加完善，基本实现国家治理体系和治理能力现代化；到新中国成立100年时，全面实现国家"
+  },
+  {
+   "cn": "军事体力劳动能力",
+   "en": "military physical work capacity",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.1.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "测定心率在每分钟170次时身体所承担的劳动负荷功率，是可用来评价军事作业人员呼吸循环功能和有氧代谢耐力的定量负荷实验。"
+  },
+  {
+   "cn": "单兵负荷量",
+   "en": "individual soldier load capacity",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1.3.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "士兵个体在徒步行军或战斗时，按规定穿着的服装和随身携带的装备品的总重量，分为行军负荷量和战斗负荷量。气候环境、地域环境、行军速度等影响负荷量的大小。规定其标准是维护士兵健康和战斗力的重要措施。"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "自主能力",
+   "en": "the capacity for autonomous choice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.012",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人根据自己的价值观或意愿做出行为选择的素质和心理特征。"
+  },
+  {
+   "cn": "卫生人力能力建设",
+   "en": "capacity development of health workforce",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "通过培训、教育提升卫生人员的技能和知识水平，并改善卫生服务机构的管理和运作，以增强卫生人力资源的整体能力和素质的过程。"
+  },
+  {
+   "cn": "全身中毒性毒剂",
+   "en": "systemic agents",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "分子中含有氰根离子，进入机体可抑制细胞色素氧化酶，使细胞不能利用氧，供能失调，迅速导致机体功能障碍，进而出现一系列全身中毒症状的一类速杀性毒剂。"
+  },
+  {
+   "cn": "系统性硬化症",
+   "en": "systemic sclerosis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "以局限性或弥漫性皮肤及内脏器官结缔组织纤维化、硬化及萎缩为特点的结缔组织病。其主要特点为皮肤、滑膜、骨骼肌、血管和食道出现纤维化或硬化。"
+  },
+  {
+   "cn": "系统思维",
+   "en": "systems thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0254",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以系统论的原理和观点为指导，对事物进行分析和认识的思维方式。在党的二十大报告中，习近平指出：“必须坚持系统观念。”认为系统观念是具有基础性的思想和工作方法。"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0295",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立前景颇族实行的一种政治制度。山官是当地汉族的称呼，景颇语是贡萨统、杜、杜瓦之意。山官作为统治者在当地的一定辖区内有独立的行使权，他们以山岭、河流等自然标志为界限，山官有大中小三类，大"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

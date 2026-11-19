@@ -1,0 +1,762 @@
+{
+ "key": "merger representation",
+ "term": "merger representation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:27:37+00:00",
+ "status": "ok",
+ "note": "variant=merger representation; 审定公布名词库=1151; 海峡两岸名词对照库=402; 其他来源数据库=81; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "兼并",
+   "en": "merger",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0468",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "广义上指一个企业获得另一个企业的控制权，从而使若干个企业结合成一个整体来经营。狭义上指两个规模大致相当的企业结合起来将其资源整合成一个实体。"
+  },
+  {
+   "cn": "主并合",
+   "en": "major merger",
+   "source": "天文学名词",
+   "wordNumber": "07.225",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "两质量大小相似的旋涡星系以一定角度和速度发生碰撞，期间会有较为强烈的相互作用，将大量气体和尘埃抛出星系。一般在此过程中会伴随着活动星系核的形成，并且通常认为此过程是椭圆星系形成的主要机制。"
+  },
+  {
+   "cn": "次并合",
+   "en": "minor merger",
+   "source": "天文学名词",
+   "wordNumber": "07.226",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在两星系并合过程中，如果一个星系的质量远大于另一星系，则大质量星系将会完全吞并小质量星系，而自身不会受到太大影响。此过程对大质量星系来说为次并合。"
+  },
+  {
+   "cn": "干并合",
+   "en": "dry merger",
+   "source": "天文学名词",
+   "wordNumber": "07.227",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "仅有恒星而几乎没有气体的星系并合。"
+  },
+  {
+   "cn": "湿并合",
+   "en": "wet merger",
+   "source": "天文学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "富气体并合。"
+  },
+  {
+   "cn": "并合率",
+   "en": "merger rate",
+   "source": "天文学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "星系并合发生的速率。"
+  },
+  {
+   "cn": "并合树",
+   "en": "merger tree",
+   "source": "天文学名词",
+   "wordNumber": "07.230",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "表示星系并合历史的树图。"
+  },
+  {
+   "cn": "合并条约",
+   "en": "Merger Treaty",
+   "source": "世界历史名词",
+   "wordNumber": "03.0871",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟",
+   "subjectName": "欧洲联盟",
+   "publishYear": "2012",
+   "definition": "1965年4月8日，欧洲煤钢共同体的6个成员国在布鲁塞尔签订的条约，将欧洲煤钢共同体、欧洲经济共同体和欧洲原子能共同体进行合并，成立了统一的欧洲部长理事会和欧洲委员会。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "债务承担并购",
+   "en": "pay debt merger",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0254",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "在目标公司资不抵债的情况下，并购方以承担目标公司的部分或全部债务为条件，取得目标公司的股权的并购方式。"
+  },
+  {
+   "cn": "跨国并购",
+   "en": "cross-border merger",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0255",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "一国投资者通过购买国外企业的股份或者资产，从而达到控制国外企业的生产经营活动并从中盈利的一种经济活动。"
+  },
+  {
+   "cn": "建筑表现",
+   "en": "architectural representation",
+   "source": "风景园林名词",
+   "wordNumber": "07.0106",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "研究设计方案，表现设计构思的手段。主要有：方案设计阶段研究方案使用的设计草图（包括徒手草图与工具草图）；方案基本确定之后表现与介绍方案所用的各种建筑效果图；方案实施阶段所用的建筑工程图。"
+  },
+  {
+   "cn": "表现技法",
+   "en": "representation technique",
+   "source": "风景园林名词",
+   "wordNumber": "10.0032",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学科学位教育课程之一，讲授内容包括传统表现技法（水彩、水粉、彩色铅笔、马克笔等）、数字表现技术等。"
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.551",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认知科学中心智的计算理论的基本概念。认知状态和认知过程在某种类型的信息载体，如大脑结构中的生成、变换和存储，是认知主体用以反映认知对象的认知加工的对象。广义的理解是具有语义属性的心理对象。"
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "把知识客体中的知识因子与知识关联起来，便于人们识别和理解知识。"
+  },
+  {
+   "cn": "媒介再现",
+   "en": "media representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.035",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "传媒组织或个人通过选择、排除和建构，将散乱的事实元素或符号聚合成一个供受众理解其意义的过程。这一过程通常被看作政治性的。有能力、有权力选择与组合符号并进行传播的人或机构，透过其再现的文本可展示不同的意"
+  },
+  {
+   "cn": "公司合并",
+   "en": "corporate merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "横向兼并",
+   "en": "horizontal merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "混合型兼并",
+   "en": "conglomerate merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "兼并套利",
+   "en": "merger arbitrage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "银行兼并",
+   "en": "bank merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纵向兼并",
+   "en": "vertical merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兼并",
+   "en": "consolidation by merger",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍沃思表达式",
+   "en": "Haworth representation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示方法",
+   "en": "cartographic representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矢量表示",
+   "en": "vector representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "兼并收购",
+   "en": "Mergers and Acquisitions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18142-2017 信息技术 数据元素值表示 格式记法》",
+   "en": "GB/T 18142-2017 Information technology — Representation of data elements values — Notation of the format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务器",
+   "en": "server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报靶员",
+   "en": "marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球队员",
+   "en": "server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颁奖台",
+   "en": "presentation pontoon\",\"victory dais",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世卫组织驻华代表处",
+   "en": "WHO China Representative Office",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兼并",
+   "en": "merger",
+   "source": "马克思主义",
+   "wordNumber": "02.0165",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业兼并，是一个企业收买另外一个或几个企业的全部资产和部分资产经营权的一种资产转让方式。企业兼并的形式，主要有以下几种：（1）承担债务式；（2）购买式；（3）吸收股份式；（4）控股式。"
+  },
+  {
+   "cn": "医院合并",
+   "en": "hospital merger",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.5",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "两家或者两家以上彼此间独立运营的医院通过整合而形成一个主体，换而言之，就是一家医院通过合并的方式控制另一家或几家医院的行为策略。"
+  },
+  {
+   "cn": "并购",
+   "en": "merger and acquisition",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.3",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "全称“兼并收购”。在卫生服务机构控制权变换过程中，各权利主体依据机构产权制度安排而进行的一种权利让渡行为（两个或多个卫生服务机构合并组成一个机构）。包括兼并和收购两种形式。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "代表性个人",
+   "en": "representative person",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.8",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在受照人群中接受剂量较高的能代表人群的个人。国际放射防护委员会（ICRP）在其101号出版物中指出，代表性个人的剂量等于或替代关键人群组的平均剂量，这为评价代表性个人的剂量提供了指导。关键人群组的概念"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "代表性土壤样品",
+   "en": "representative soil samples",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤采集中所获得的一定量的土壤样品，它与被取样的总体在性质与特点上完全相同。"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0086",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "能够区别不同社会群体的语言变异项目。"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "标识时对象满足规定质量要求的能力，一般情况下具有时限性及可变性的特点，即标识对象对应不同的时段可有不同的状态。"
+  },
+  {
+   "cn": "残留标志物",
+   "en": "marker residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "动物用药后在靶组织中与总残留物有明确相关性的残留物，可以是药物原形、相关代谢物，也可以是原形与代谢物的加和，或者是可转为单一衍生物或药物分子片段的残留物总量。"
+  },
+  {
+   "cn": "礼仪标识",
+   "en": "ritual marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0212",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国香港历史学家科大卫（David Faure）提出的概念，即地方社会的成员所认为是重要的客观且可见的礼仪传统标识，包括：称谓、拜祭核心（神、祖先等）、建筑模式（比如家庙）、宗教传统、控产合股、非宗教"
+  },
+  {
+   "cn": "pH计",
+   "en": "pH meter",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定溶液酸碱度的仪器。"
+  },
+  {
+   "cn": "照射量计",
+   "en": "exposure meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "测量X射线、γ射线照射量用仪器。"
+  },
+  {
+   "cn": "剂量仪",
+   "en": "dose meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "可用于测量各种电离辐射束的照射量和照射量率，吸收剂量和吸收剂量率，剂量当量和剂量当量率的仪器、装置或系统的总称。如静电计加上电离室的整套装置。"
+  },
+  {
+   "cn": "巡测仪",
+   "en": "survey meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "检查场所电离辐射水平的携带式仪器。"
+  },
+  {
+   "cn": "放射性活度测量仪",
+   "en": "radioactivity meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.59",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种经过刻度、用以测定辐射体的放射性活度并带有指示器或记录装置的仪器。"
+  },
+  {
+   "cn": "放射性同位素仪表",
+   "en": "radioisotope meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "通过射线与物质相互作用（如电离、激发、吸收、散射等）实现物质非电参数测量的一类仪表。"
+  },
+  {
+   "cn": "放射性活度测量仪",
+   "en": "radioactivity meter",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "测量辐射发射体的放射性活度的辐射测量装置。用于测定放射源或样品中所含放射性物质的放射性活度。测量装置主要包括探测器、探测器的附属装置和信号处理系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,52 @@
+{
+ "key": "intentionalists",
+ "term": "intentionalists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:18:49+00:00",
+ "status": "ok",
+ "note": "variant=intentionalists; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "意向性",
+   "en": "intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.573",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "心灵表征或再现事物、属性或状态的能力，或心理活动关涉事物的指向性。很多心理活动是关涉外部世界的，意向性即是这种指向性或关涉性（aboutness）。F. C. 布伦塔诺（F. C. Brentano）"
+  },
+  {
+   "cn": "意向论",
+   "en": "intentionalism",
+   "source": "心理学名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "胡塞尔(E. Husserl)提出的一种心理学理论。认为意向性是意识的本质特征，意识总是某个对象的意识，总是指向某个意识之外的客体。"
+  },
+  {
+   "cn": "集体意向性",
+   "en": "collective intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.787",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "借鉴于心灵哲学的一种意向性概念。强调集体或社会行动的意向性不同于个人行动的意向性，要求符合“我们在做”而不只是“我在做”的模式。"
+  },
+  {
+   "cn": "技术意向",
+   "en": "technological intentionality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.140",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术朝向现实特定层面的定向性，或是技术人工物具有特定的导向性、倾向，是在使用人工物的过程中所形成的不同的行为模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

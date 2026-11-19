@@ -1,0 +1,812 @@
+{
+ "key": "utilitarianism of rights",
+ "term": "utilitarianism of rights",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:20:00+00:00",
+ "status": "ok",
+ "note": "variant=utilitarianism of rights; 审定公布名词库=10000; 海峡两岸名词对照库=8023; 其他来源数据库=2022; 预公布名词数据库=2743; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "效用论",
+   "en": "utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.089",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "认为道德行为的唯一标准是行为所带来的结果或效用的大小的伦理理论。18世纪和19世纪后期由英国哲学家、经济学家杰里米·边沁和约翰·斯图尔特·穆勒提出。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "经济学名词",
+   "wordNumber": "14.003",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "一种把追求快乐、效用、利益作为道德标准和行为规范的伦理哲学和经济理论。哲学上的功利主义包括3个主要命题：①个人福利是道德行为的目的；②人应该根据其本性判断幸福与否；③社会行为的目的是增进最大多数人的最"
+  },
+  {
+   "cn": "功利主义伦理学",
+   "en": "utilitarianism ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.027",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "一个西方伦理学分支。在技术伦理方面主要体现为强调技术应用要以对绝大多数人有益的最大的善为目的，注重对技术应用的功利效果进行伦理评价，注重技术应用的后果而不是技术人员最初的意向和应承担的义务或责任。"
+  },
+  {
+   "cn": "行动效用论",
+   "en": "act-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当与任何其他的选择相比，所导致的结果至少与其他的选择所导致的结果一样好。"
+  },
+  {
+   "cn": "规则效用论",
+   "en": "rule-utilitarianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.091",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "效用论的分支。主张一个人的行为在道德上是正确的，当且仅当该行为是某个规则要求我们去做的事情，而对此规则的遵守将会比其他的规则带来更大的社会效用。"
+  },
+  {
+   "cn": "伦理的功利观",
+   "en": "utilitarian view of ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0029",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "认为计划和行动应当以绝大多数人受益为原则的伦理观点。"
+  },
+  {
+   "cn": "权利法案",
+   "en": "Bill of Rights",
+   "source": "世界历史名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "1689年10月，议会提出的限制君权的法案，确立了君主立宪制。"
+  },
+  {
+   "cn": "隐私权",
+   "en": "right of privacy",
+   "source": "生殖医学名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "自然人享有的私人生活安宁与私人信息秘密依法受到保护，不被他人非法侵扰、知悉、收集、利用和公开的一种人格权。"
+  },
+  {
+   "cn": "发表权",
+   "en": "right of publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.022",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "决定作品是否公之于众的权利。"
+  },
+  {
+   "cn": "署名权",
+   "en": "right of authorship",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.023",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "表明作者身份，在作品上署名的权利。"
+  },
+  {
+   "cn": "修改权",
+   "en": "right of alteration",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.024",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "修改或者授权他人修改作品的权利。"
+  },
+  {
+   "cn": "保护作品完整权",
+   "en": "right of integrity ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.025",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "保护作品不受歪曲、篡改的权利。"
+  },
+  {
+   "cn": "复制权",
+   "en": "right of reproduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.027",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "以印刷、复印、拓印、录音、录像、翻录、翻拍等方式将作品制作一份或者多份的权利。"
+  },
+  {
+   "cn": "发行权",
+   "en": "right of distribution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.028",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "以出售或者赠予的方式向公众提供作品的原件或者复制件的权利。"
+  },
+  {
+   "cn": "出租权",
+   "en": "right of rental",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.029",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "有偿许可他人临时使用电影作品和以类似摄制电影的方法创作的作品、计算机软件的权利，计算机软件不是出租的主要标的的除外。"
+  },
+  {
+   "cn": "展览权",
+   "en": "right of exhibition",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.030",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "公开陈列美术作品、摄影作品的原件或者复制件的权利。"
+  },
+  {
+   "cn": "表演权",
+   "en": "right of performance",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.031",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "公开表演作品，以及用各种手段公开播送作品的表演的权利。"
+  },
+  {
+   "cn": "放映权",
+   "en": "right of showing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.032",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "通过放映机、幻灯机等技术设备公开再现美术、摄影、电影和以类似摄制电影的方法创作的作品等的权利。"
+  },
+  {
+   "cn": "广播权",
+   "en": "right of broadcast",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.033",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "以无线方式公开广播或者传播作品，以有线传播或者转播的方式公开传播广播的作品，以及通过扩音器或者其他传送符号、声音、图像的类似工具公开传播广播的作品的权利。"
+  },
+  {
+   "cn": "改编权",
+   "en": "right of adaption",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.036",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "改变作品，创作出具有独创性的新作品的权利。"
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义",
+   "en": "utilitarianism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "功利主义者",
+   "en": "utilitarians",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "专利权",
+   "en": "right of patent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "路权",
+   "en": "right-of-way",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "保护权",
+   "en": "right of protection",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保留权",
+   "en": "right of retention",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "捕鱼权",
+   "en": "right of fishery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "代位求偿权",
+   "en": "right of subrogation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非常征用权",
+   "en": "right of angary",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公证权",
+   "en": "right of notary",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航行权",
+   "en": "right of navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "检查权",
+   "en": "right of search",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拘留权",
+   "en": "right of seizure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "旅客权利",
+   "en": "right of passenger",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "请求权",
+   "en": "right of claim",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通行权",
+   "en": "right of passage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "right of priority",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "右板",
+   "en": "right lamina\",\"right plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结肠右曲",
+   "en": "right colic flexure\",\"right flexure of colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "权利冲突",
+   "en": "conflict of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利让渡",
+   "en": "alienation of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利泛化",
+   "en": "generalization of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享权",
+   "en": "right of sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "占有权",
+   "en": "right of possession",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球权",
+   "en": "right of service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上诉权",
+   "en": "right of appeal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航行权",
+   "en": "right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二号位队员",
+   "en": "player of zone 2\",\"right attacker\",\"right front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "产权变革",
+   "en": "reform of property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法理",
+   "en": "Jurisprudence of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然权利学说",
+   "en": "theory of natural rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利束理论",
+   "en": "bundle-of-rights theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利扁平化",
+   "en": "flattening of private rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "功利论",
+   "en": "utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.008",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以行动者的行为所产生的可能或实际效果作为道德价值判断的基础或道德评价依据的伦理学理论。认为道德规范的确立和完善以及伦理行为的决策、评价和辩护等应当强调后果、效用。“最大多数人的最大幸福”是其核心原则。"
+  },
+  {
+   "cn": "功利",
+   "en": "utilitarian",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.126",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "物质或精神上的功效和利益。与“道义”相对。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.009",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人类行为的道德价值应以与之相关的共同准则的功利效果为标准，而不应以具体行为本身的功利结果为标准的理论。也就是说，某一行为是道德的，当且仅当该行为符合效用原则确定的某个规则，遵循这个规则比遵循其他规"
+  },
+  {
+   "cn": "堕胎权",
+   "en": "right of abortion",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "妇女怀孕后自主选择人工流产的权利。在美国，堕胎权一直是司法探讨以及不同政治、宗教和社会团体争论的焦点之一。反对者通常以保护生命权为理由，支持者则以保护女性身体的自主选择权为理由，因而争取堕胎权是女权主"
+  },
+  {
+   "cn": "教育权利",
+   "en": "right of education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.7",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "作为国家公民所享有的受教育的权利，以及受教育者作为学生区别于其他公民所应该享受的具体权利。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "健康权利",
+   "en": "right of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.062999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体享有的免受疾病、残疾及相关风险损害的基本权利。"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "党员的权利",
+   "en": "rights of Party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0720",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章规定的党员应当享有党内的各项权利。按照党章规定，中国共产党党员享有八个方面的权利。"
+  },
+  {
+   "cn": "特殊干涉权",
+   "en": "special right of intervention",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.013999999999999",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在医疗活动中，当患者及其代理人无法或不能正确做出及时选择或做出的选择会给患者、他人或社会带来显而易见的严重损害后果或不可挽回的损失时，医务人员拥有的适当限制患者的自主权利，以践行其防病治病，救死扶伤的"
+  },
+  {
+   "cn": "隐私保护权",
+   "en": "right of privacy protection",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.031000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者依法享有的不公开与其私人生活有关的事实和秘密的权利。"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "公民在政治领域享有的民主权利。公民能参与立法等政治活动，并且其身体、言论、信仰、居住、集会等自由权利要受到法律保护。"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.18",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "业主作为房屋的产权所有人，自己或通过业主委员会组织起来，争取与自己相关的住房及其他权益的活动。"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0167",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "社会成员或群体学习和使用语言的权利。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "民族权利",
+   "en": "ethnic rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "各民族在国家宪法和相关法律规定下享有的权利。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

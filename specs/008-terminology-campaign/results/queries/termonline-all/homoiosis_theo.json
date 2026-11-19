@@ -1,0 +1,782 @@
+{
+ "key": "homoiosis theo",
+ "term": "homoiôsis theô",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:36:54+00:00",
+ "status": "ok",
+ "note": "variant=homoiôsis theô; 审定公布名词库=3162; 海峡两岸名词对照库=520; 其他来源数据库=1251; 预公布名词数据库=584; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "均裂",
+   "en": "homolysis,homolytic 　",
+   "source": "化学名词",
+   "wordNumber": "02.0932",
+   "subjectFullName": "化学_有机化学_物理有机化学_反应机理",
+   "subjectName": "反应机理",
+   "publishYear": "2016",
+   "definition": "导致构成共价键的两个电子分属两个新形成的分子碎片的共价键的裂解过程。<img src='/root/syzx/static/spz/huaxue2.02.0932.1.png'/>"
+  },
+  {
+   "cn": "同源异形转化",
+   "en": "homeosis,homoeosis",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.270",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "由于与发育有关的某一基因错误表达，导致一种器官生长在错误部位的现象。如果蝇该生长触角的部位长成了腿。"
+  },
+  {
+   "cn": "死者书",
+   "en": "the book of the dead",
+   "source": "档案学名词",
+   "wordNumber": "09.01.009",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "俗称“死人簿”“死人书”。古埃及人在死者墓室或棺内放置的写满符咒的符箓。大多是表述死者生前之善行及亡魂之愿望。古王国时期被称为 “金字塔经文”；中王国时期被称为“棺材经文”；帝国时期被称为“死者书”。"
+  },
+  {
+   "cn": "世界新闻报",
+   "en": "The News of the World",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.09",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "英国的一份全国性报纸，自1843年起每周日发行。该报曾为最畅销的英文报纸，2011年因身陷侵权违法丑闻而关闭。"
+  },
+  {
+   "cn": "老年人",
+   "en": "the aged",
+   "source": "急救医学名词",
+   "wordNumber": "03.884",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "一般发达国家指65岁及以上的人，发展中国家指60岁及以上的人。"
+  },
+  {
+   "cn": "长寿老人",
+   "en": "the longeveous",
+   "source": "急救医学名词",
+   "wordNumber": "03.886",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "年龄达到90岁及以上的老年人。"
+  },
+  {
+   "cn": "经济学人",
+   "en": "The Economist",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.078",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "全球有影响力的时政杂志之一。由伦敦经济学人报纸有限公司出版。于1843年9月由詹姆士·威尔逊(James Wilson)创办。"
+  },
+  {
+   "cn": "太阳报",
+   "en": "The Sun",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.139",
+   "subjectFullName": "新闻学与传播学_新闻史_现代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "全英国销量最大的报刊之一。是富商基思·鲁珀特·默多克(Keith Rupert Murdoch)新闻集团(News Corporation)旗下的一份小开本日报(tabloid)。"
+  },
+  {
+   "cn": "时代周刊",
+   "en": "The Time",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.141",
+   "subjectFullName": "新闻学与传播学_新闻史_现代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "美国重要的时事新闻杂志。由亨利·卢斯(Henry Luce)创立于1923年，是较早出现的新闻周刊，在全球范围内依然保持影响力。"
+  },
+  {
+   "cn": "报业",
+   "en": "the press",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.07",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒管理",
+   "subjectName": "传媒管理",
+   "publishYear": "2022",
+   "definition": "以报纸出版发行为核心业务的企业及行业，包括报纸产业链上所有经济活动的集合。"
+  },
+  {
+   "cn": "乌合之众",
+   "en": "The Crowd",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.068",
+   "subjectFullName": "新闻学与传播学_公共关系_公共关系构成",
+   "subjectName": "公共关系构成",
+   "publishYear": "2022",
+   "definition": "来源于法国心理学家古斯塔夫·勒庞(Gustave Le Bon)的同名著作。书名本意为群体，但“乌合之众”的译名融合了书中的观点。勒庞认为，无论构成群体的个体是多么的高尚、智慧，一旦进入群体，个人的品"
+  },
+  {
+   "cn": "新闻信",
+   "en": "The Newsletter",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.012",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "以信件形式向特定受众提供专门的信息、建议和观点的一种非正式新闻出版形式。它起源于17世纪荷兰的“科兰特”，20世纪末随着互联网的发展而再度兴起。"
+  },
+  {
+   "cn": "闲谈者",
+   "en": "The Tatler",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.024",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "英国著名文化生活类杂志。1709年由理查德·斯梯尔(Richard Steele)创办，1711年停刊。"
+  },
+  {
+   "cn": "检查者",
+   "en": "The Examiner",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.025",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "1710年著名作家乔纳森·斯威夫特(Jonathan Swift)创办的政党刊物。1714年停刊。"
+  },
+  {
+   "cn": "旁观者",
+   "en": "The Spectator",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.026",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "英国著名文化生活类杂志。1711年由约瑟夫·艾迪生(Joseph Addison)创办，1712年停刊。"
+  },
+  {
+   "cn": "泰晤士报",
+   "en": "The Times",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "新闻学与传播学_新闻史_古代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "1785年由约翰·沃尔特(John Walter)创立的英国最具声望的报纸。"
+  },
+  {
+   "cn": "健康受损者",
+   "en": "the impaired",
+   "source": "经济学名词",
+   "wordNumber": "06.042",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "在正常情况下可以做全日工作的劳动者，但因营养不良或卫生保健差而无力做全日工作。"
+  },
+  {
+   "cn": "因特网",
+   "en": "the Internet",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0539",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "世界范围的计算机网络。使用TCP/IP协议栈提供多种类型的互联网服务，并且对于拥有公用IP地址的任何用户都是开放的。"
+  },
+  {
+   "cn": "老年人",
+   "en": "the aged",
+   "source": "老年医学名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "一般发达国家指65岁及以上的人群，发展中国家指60岁及以上的人群，我国目前通用标准为60岁及以上的人群。"
+  },
+  {
+   "cn": "长寿老人",
+   "en": "the longeveous",
+   "source": "老年医学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "90岁及以上的老年人群。"
+  },
+  {
+   "cn": "均裂",
+   "en": "homolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同源异形",
+   "en": "homeosis\",\"homoeosis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源异形转化",
+   "en": "homeosis\",\"homoeosis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "赌徒",
+   "en": "Gambler\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Prokofiev, Sergey"
+  },
+  {
+   "cn": "吟唱诗人",
+   "en": "Bard\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Sibelius, Jean"
+  },
+  {
+   "cn": "灯塔",
+   "en": "Lighthouse\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Maxwell, Davis Peter"
+  },
+  {
+   "cn": "电话",
+   "en": "Telephone\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "麻鹬",
+   "en": "Curlew\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Warlock, Peter "
+  },
+  {
+   "cn": "雅各宾党人",
+   "en": "Jacobin\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Dvořák, Antonín"
+  },
+  {
+   "cn": "女巫",
+   "en": "Medium\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "洪水",
+   "en": "Flood\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "领事",
+   "en": "Consul\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "基督使徒",
+   "en": "Apostles\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Elgar, Edward"
+  },
+  {
+   "cn": "钟",
+   "en": "Bells\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rachmaninoff, Sergey "
+  },
+  {
+   "cn": "奥林匹亚众神",
+   "en": "Olympians\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bliss, Arthur "
+  },
+  {
+   "cn": "火鸟",
+   "en": "Firebird\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "霹雳",
+   "en": "Bolt\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Shostakovich, Dmitri (Dmitry)"
+  },
+  {
+   "cn": "卫队侍从",
+   "en": "Yeomen of the Guard\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Sullivan, Arthur"
+  },
+  {
+   "cn": "死之岛",
+   "en": "Isle of the Dead\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rachmaninoff, Sergey "
+  },
+  {
+   "cn": "宝塔王子",
+   "en": "Prince of the Pagodas\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "蒙以养正",
+   "en": "Enlighten the Ignorant and Make Them Follow the Right Path",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得其大者可以兼其小",
+   "en": "The finer details fall into place when they align with the bigger picture.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "保民而王",
+   "en": "Protect the People and then Rule as a King",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟阋于墙，外御其侮",
+   "en": "Brothers Quarrel within the Walls of the Home; Outside They Resist Bullying by Others.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上网",
+   "en": "attack the net\",\"rush the net\",\"take the net",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体国经野，义尚光大",
+   "en": "Portray the Grandeur of the Capital and the Glory of the Countryside",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "击球",
+   "en": "hit the ball\",\"strike the ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闪避攻击",
+   "en": "dodge the attack\",\"evade the attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "踢腿",
+   "en": "kick the leg\",\"stomp the leg",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击打脸部",
+   "en": "attack the face\",\"hit the face",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抓住对手",
+   "en": "grab the opponent\",\"hold the opponent",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举起杠铃",
+   "en": "lift the barbell\",\"raise the barbell",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中国共产党人的初心和使命",
+   "en": "the original aspiration and the mission of the CPC",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗击疫情第一线",
+   "en": "the front line of the battle against the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拖延时间",
+   "en": "freeze the ball\",\"kill the clock\",\"run out the clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区别对待分化瓦解",
+   "en": "differentiate the enemies and make them disintegrate",
+   "source": "马克思主义",
+   "wordNumber": "03.0441",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在1940年的《论政策》提出的中国共产党在民主革命时期的对敌斗争策略之一。强调根据敌对势力内部在对待反共和抗日问题上不一致的态度，加以区别，利用各派别之间的矛盾，采取不同政策，以达到分化、瓦解敌"
+  },
+  {
+   "cn": "又联合又斗争",
+   "en": "unite with them and at the same time struggle against them",
+   "source": "马克思主义",
+   "wordNumber": "03.0433",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党在抗日民族统一战线中正确处理国共两党关系的原则，其实质是坚持共产党在统一战线中的领导权。在本着有利于巩固统一战线的前提下，对国民党实行既团结又斗争的方针，以达到保持阵地和发展阵地"
+  },
+  {
+   "cn": "空巢老人",
+   "en": "the emptynesters",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.41",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "子女长大成人离开后，家中只有本人或与老年配偶独自生活的老人。"
+  },
+  {
+   "cn": "行动",
+   "en": "the act",
+   "source": "马克思主义",
+   "wordNumber": "05.0091",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "齐泽克受拉康驱力思想的启发而形成的概念，指突破资本主义体制的激进行为，对资本主义现存的一切都说“不”，在现存体制下做不可能之事。"
+  },
+  {
+   "cn": "对公众的伦理责任",
+   "en": "the ethical responsibility for the public",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对公众和社会应承担的道德责任和相应遵循的行为准则，包括促进社会公众普遍福利的责任、积极参与的责任等。"
+  },
+  {
+   "cn": "对自己的伦理责任",
+   "en": "the ethical responsibility for the self",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对待自身应承担的道德责任和相应行为准则。社会工作者作为专业人员应有较高的自我要求、具备较全面的综合素质和较强的自我约束力，对专业忠诚，保持诚实严谨的态度。"
+  },
+  {
+   "cn": "有的放矢",
+   "en": "shooting the arrow at the target",
+   "source": "马克思主义",
+   "wordNumber": "01.0248",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东阐释马克思列宁主义的理论必须和中国实际相结合这一原则时经常使用的比喻。他说：“马克思列宁主义理论和中国革命实际，怎样互相联系呢？拿一句通俗的话来讲，就是‘有的放矢’。‘矢’就是箭，‘的’就是靶，"
+  },
+  {
+   "cn": "从群众中来到群众中去",
+   "en": "from the masses to the masses",
+   "source": "马克思主义",
+   "wordNumber": "01.0251",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的领导方法和工作方法，党的群众路线的重要内容。从认识论上说，也是调查研究的过程。将群众的分散的无系统的意见集中起来，经过研究，化为集中的系统的意见，又到群众中去作宣传解释，化为群众的意见，使"
+  },
+  {
+   "cn": "生活世界的殖民化",
+   "en": "the colonization of the life world",
+   "source": "马克思主义",
+   "wordNumber": "05.0039",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为系统侵入到日常生活世界中，市场机制和官僚制的系统权力侵蚀了原本属于私人领域和公共领域的关系网络，形成共识的可能途径被阻塞，以至于生活世界的原有结构与行为逻辑受到控制与破坏。"
+  },
+  {
+   "cn": "坚持党的领导人民当家作主和依法治国有机统一",
+   "en": "integrate the leadership of the party the position of the people as masters of the country and the rule of law",
+   "source": "马克思主义",
+   "wordNumber": "03.0658",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国特色社会主义民主政治的科学内涵，反映我国民主政治建设的基本规律和客观要求。党的领导是人民当家作主和依法治国的根本保证；人民当家作主是社会主义民主政治的本质要求；实现党的领导和人民当家的辩证统一，关"
+  },
+  {
+   "cn": "国家生产单位和生产者个人的关系",
+   "en": "relationship between the state the units of production and the producers",
+   "source": "马克思主义",
+   "wordNumber": "02.0377",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的社会主义建设全局的重要利益关系。必须兼顾国家、集体和个人三个方面。既要提倡艰苦奋斗，又要关心群众生活。"
+  },
+  {
+   "cn": "党政分开",
+   "en": "separate the functions of the Party from those of the government",
+   "source": "马克思主义",
+   "wordNumber": "03.0538",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为解决党政不分、以党代政问题，理顺党与国家政权的关系而进行的一项党和国家领导体制的重大改革。在坚持党的领导前提下，党组织和行政组织职能分开，各司其职，各负其责。根据邓小平的思想，十三大报告在党的正式文"
+  },
+  {
+   "cn": "人民至上",
+   "en": "put the people in the first place",
+   "source": "马克思主义",
+   "wordNumber": "01.0253",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "深刻揭示了人民群众的巨大历史作用，中国共产党根基在人民、血脉在人民。坚持以人民为中心的发展思想，体现了党的理想信念、性质宗旨、初心使命，也是对党的奋斗历程和实践经验的深刻总结。2021年，在党的十九届"
+  },
+  {
+   "cn": "计划和市场的性质",
+   "en": "nature of the plan and the market",
+   "source": "马克思主义",
+   "wordNumber": "02.0394",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1992年邓小平在南方谈话中提出计划和市场都是手段的重要思想。它打破了“计划经济等于社会主义，市场经济等于资本主义”的固有认识，强调“计划多一点还是市场多一点，不是社会主义与资本主义的本质区别”，是邓"
+  },
+  {
+   "cn": "无产阶级反对资产阶级的斗争",
+   "en": "struggle of the proletarian against the bourgeoisie",
+   "source": "马克思主义",
+   "wordNumber": "03.0249",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级反对资产阶级的斗争主要有三种基本形式：经济斗争、政治斗争和思想斗争。这三种斗争形式相互联系、相互融合、相互促进，缺一不可。在资本主义条件下，这三种基本形式，以政治斗争为主，经济斗争和思想斗争从"
+  },
+  {
+   "cn": "军民一致",
+   "en": "unity between the army and the people",
+   "source": "马克思主义",
+   "wordNumber": "03.0410",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1937年10月，毛泽东在同英国记者贝特兰谈话时，把“军民一致”确立为军队政治工作的三大原则之一。毛泽东把这项原则具体解释为：秋毫无犯的民众纪律，宣传、组织、武装民众，减轻民众经济负担，打击危害军民的"
+  },
+  {
+   "cn": "支部建在楼上",
+   "en": "establish the party branches in the buildings",
+   "source": "马克思主义",
+   "wordNumber": "03.0759",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为解决流动党员教育管理难问题，扩大党的组织和工作覆盖面，一些地方党组织实行的以党员工作或生活的楼宇为单位建立党支部的做法。"
+  },
+  {
+   "cn": "救死扶伤",
+   "en": "heal the wounded and rescue the dying",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.003",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "抢救生命垂危的人，照顾受伤的人。形容尽心竭力为伤病员服务的精神。"
+  },
+  {
+   "cn": "儿童权利公约",
+   "en": "convention on the rights of the child",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "首个具法律约束力的国际公约，涵盖公民、经济、政治、文化和社会领域的所有人权，保障儿童权益。"
+  },
+  {
+   "cn": "克什特姆事故",
+   "en": "The Kyshtym accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.3.1",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故",
+   "subjectName": "核辐射事故",
+   "publishYear": "2025",
+   "definition": "1957年9月，位于前苏联乌拉尔南部的克什特姆镇附近的放射性废物储物罐的冷却系统失灵，液体废物逐渐变干，剩下的硝酸铵和醋酸盐发生了剧烈爆炸，1米厚的混凝土顶盖被炸开，大量放射性物质外泄，波及面积达2万"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,462 @@
+{
+ "key": "tartness",
+ "term": "tartness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:30:16+00:00",
+ "status": "ok",
+ "note": "variant=tartness; 审定公布名词库=191; 海峡两岸名词对照库=42; 其他来源数据库=8; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "酸味",
+   "en": "tart flavor",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0141",
+   "subjectFullName": "食品科学技术_食品科学_食品化学_食品风味化学",
+   "subjectName": "食品风味化学",
+   "publishYear": "2020",
+   "definition": "一种基本味觉。主要通过酸性物质解离出的氢离子，在口腔中刺激人的味觉神经而产生。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "03.01.096",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "固体抵抗某种外来机械作用(如刻划、压入、研磨)的能力。通常用H表示。在矿物学中常用摩氏硬度和维氏硬度表达矿物的硬度。是鉴定矿物的重要特征之一。"
+  },
+  {
+   "cn": "拖期",
+   "en": "tardiness",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.206",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "产品加工完毕的日期减去客户要求的交货日期。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "04.0031",
+   "subjectFullName": "机械工程（一）_机械强度_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "材料抵抗变形，特别是压痕或划痕形成的永久变形的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "冶金学名词",
+   "wordNumber": "08.0039",
+   "subjectFullName": "冶金学_金属材料_力学性能",
+   "subjectName": "力学性能",
+   "publishYear": "2019",
+   "definition": "材料抵抗压入或刻刮的能力。用来衡量固体材料的软硬程度。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "物理学名词",
+   "wordNumber": "08.2341",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "计量学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "计量学_力值、硬度_硬度试验",
+   "subjectName": "硬度试验",
+   "publishYear": "2015",
+   "definition": "材料抵抗弹性变形、塑性变形、划痕或破裂等一种或多种作用的能力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "药学名词",
+   "wordNumber": "02.080",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "片剂抵抗硬物压入其表面的性能。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0512",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料性能",
+   "subjectName": "材料性能",
+   "publishYear": "2011",
+   "definition": "用材料抵抗压入或刻刮的性质来衡量固体材料软硬程度的力学性能指标。如布氏硬度、洛氏硬度、维氏硬度等。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "生态学名词",
+   "wordNumber": "16.124",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "水沉淀肥皂的能力，大体反映水中钙、镁离子的含量。钙镁浓度的总和称为总硬度，以每升水含碳酸钙的毫克数或毫克当量表示。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "土木工程名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "固体材料对外界物体压陷、刻划等作用的局部抵抗能力，是衡量材料软硬程度的一个指标。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "地质学名词",
+   "wordNumber": "04.237",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "grade,hardness",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.005",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "表示磨粒在外力作用下从磨具表面完全脱离的难易程度。或指结合剂在外力作用下，抵抗磨粒从磨具表面脱落的抵抗力。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness,firmness",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0271",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品质构特性",
+   "subjectName": "食品质构特性",
+   "publishYear": "2020",
+   "definition": "材料局部抵抗硬物压入其表面的能力。食品领域用来描述食物软硬、咀嚼需要的力度大小的物理指标。"
+  },
+  {
+   "cn": "脂肪丰度",
+   "en": "fatness",
+   "source": "畜牧学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "胴体外表脂肪分布与肌肉断面所呈现的脂肪沉积丰富程度。"
+  },
+  {
+   "cn": "线束",
+   "en": "harness",
+   "source": "通信科学技术名词",
+   "wordNumber": "08.084",
+   "subjectFullName": "通信科学技术_线缆传输与接入",
+   "subjectName": "线缆传输与接入",
+   "publishYear": "2007",
+   "definition": "一组金属线和电缆绑在一起，运载设备之间来往的信号和电源的连接。"
+  },
+  {
+   "cn": "硬度传感器",
+   "en": "hardness transducer,hardness sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0132",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "能感受材料硬度并转换成可用输出信号的传感器。"
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "hardness",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "铠甲",
+   "en": "harness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "硬度",
+   "en": "degree of hardness\",\"hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "耐皂洗［色］牢度",
+   "en": "soap fastness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水质硬度",
+   "en": "water hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度标度",
+   "en": "hardness scale",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "永久硬度",
+   "en": "permanent hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "总硬度",
+   "en": "total hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刮痕硬度",
+   "en": "scratch hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压痕硬度",
+   "en": "indentation hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "维氏硬度",
+   "en": "Vickers hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "布氏硬度",
+   "en": "Brinell hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "邵氏硬度",
+   "en": "Shore hardness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "硬度试验",
+   "en": "hardness test",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "安全索具",
+   "en": "harness",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马具工",
+   "en": "harness maker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同抓好大保护，协同推进大治理",
+   "en": "to work together to protect and harness the Yellow River",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性伴侣数量",
+   "en": "number of sexual partners",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有过性交关系的人数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

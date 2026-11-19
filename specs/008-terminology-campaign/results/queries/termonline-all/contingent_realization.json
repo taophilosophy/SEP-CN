@@ -1,0 +1,672 @@
+{
+ "key": "contingent realization",
+ "term": "contingent realization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:19:18+00:00",
+ "status": "ok",
+ "note": "variant=contingent realization; 审定公布名词库=260; 海峡两岸名词对照库=132; 其他来源数据库=11; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "实现",
+   "en": "realization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0236",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的不继承结构、只继承行为的一种特殊的泛化关系。多数是用来表达接口类和实现(接口的)类之间的关系。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "数学名词",
+   "wordNumber": "012.0478",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "自动化名词",
+   "wordNumber": "02.250",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "强迫输纳制度",
+   "en": "Contingent",
+   "source": "世界历史名词",
+   "wordNumber": "04.0279",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "荷兰东印度公司在印度尼西亚实行的征集实物作为赋税的制度，是掠夺印度尼西亚财富的重要手段之一。"
+  },
+  {
+   "cn": "基本预备费",
+   "en": "contingency",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.149",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "为应对某些不可预见因素（项目范围内的设计变化、一般自然灾害、隐蔽工程开挖和修复等）而预留的储备费。"
+  },
+  {
+   "cn": "或有事项",
+   "en": "contingency",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0078",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "由过去的交易或者事项形成的，其结果须由某些未来事项的发生与否才能决定的不确定事项。"
+  },
+  {
+   "cn": "预备费",
+   "en": "contingency",
+   "source": "建筑学名词",
+   "wordNumber": "05.0018",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "为建设项目不同阶段不可预见的工程和其他费用准备的预留金。包括基本预备费和涨价预备费。"
+  },
+  {
+   "cn": "不可预见费",
+   "en": "contingencies",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.135",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "几何实现",
+   "en": "geometric realization",
+   "source": "数学名词",
+   "wordNumber": "08.0713",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "数学名词",
+   "wordNumber": "012.0477",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现理论",
+   "en": "realization theory",
+   "source": "数学名词",
+   "wordNumber": "012.0476",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "自动化名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "多重实现性",
+   "en": "multiple realizability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.500",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张一类心理状态（属性或事件）可被多种不同物理状态（属性或事件）所实现，即心灵可被多种不同类型的物理载体所实现的观点。"
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche ",
+   "source": "草学名词",
+   "wordNumber": "2.0261",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "动物学名词",
+   "wordNumber": "7.047",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在生物群落中，当有竞争者存在时，物种仅占据基础生态位的一部分，即实际占有的这部分生态位。"
+  },
+  {
+   "cn": "实现遗传力",
+   "en": "realized heritability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.383",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在一个表型选择试验中获得的累积选择反应与选择差的比值。"
+  },
+  {
+   "cn": "实现价差",
+   "en": "realized spread",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0213",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "衡量委托执行价格和委托执行后一段时间的买卖报价中点之间的差额。其反映委托执行后的市场影响成本。"
+  },
+  {
+   "cn": "实现遗传率",
+   "en": "realized heritability",
+   "source": "遗传学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在一个群体中实施表型选择时获得的实际选择反应与选择差的比率。"
+  },
+  {
+   "cn": "酌情筛查",
+   "en": "contingent screening",
+   "source": "妇产科学名词",
+   "wordNumber": "12.022",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_产前筛查",
+   "subjectName": "产前筛查",
+   "publishYear": "2025",
+   "definition": "整合妊娠早、中期指标以评价胎儿染色体异常风险的方法。妊娠期首先进行妊娠早期筛查，筛查结果为胎儿风险高者应进行绒毛活栓术。其他孕妇继续妊娠至中期进行产前筛查，获得综合性风险评估报告的筛查过程。"
+  },
+  {
+   "cn": "或有负债",
+   "en": "contingent liabilities",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0181",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "由过去的交易或事项形成的、其存在须通过未来不确定事项的发生或者不发生予以证实的潜在义务；或由过去的交易或者事项形成的、其履行不是很可能导致经济利益流出企业或其金额不可能可靠计量的现时义务。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可变现价值",
+   "en": "realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可变现资产",
+   "en": "realizable asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可实现的收入",
+   "en": "realizable income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现价格，实际价格",
+   "en": "realized price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现利润",
+   "en": "realized profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现收益",
+   "en": "realized income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现投资",
+   "en": "realized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传率,实现遗传力",
+   "en": "realized heritability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "实际出生率",
+   "en": "realized natality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "现实生态位",
+   "en": "realized niche",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "后效强化",
+   "en": "contingent reinforcement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "或有资产",
+   "en": "contingent asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应变关税",
+   "en": "contingent duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全应急预案",
+   "en": "contingency plan for big data security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深化疫情防控国际合作",
+   "en": "deeper international cooperation on epidemic prevention and control/containment measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2916-2015 基于存储复制技术的数据灾备技术要求》",
+   "en": "YD/T 2916-2015 Technical requirement for disaster recovery based on storage replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偶然性",
+   "en": "contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0052",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“必然性”相对的哲学范畴。事物发展、变化中可能出现也可能不出现，可以这样发生也可以那样发生的状态和趋势。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "source": "马克思主义",
+   "wordNumber": "01.0053",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "揭示事物发生、发展和灭亡的不同趋势的一对范畴。必然性是一般，是事物内在的本质联系，对事物发展起主导和支配作用；偶然性是特殊，是非本质联系，对事物发展其加速或延缓作用。必然性决定偶然性，是偶然性的基础，"
+  },
+  {
+   "cn": "条件价值评估法",
+   "en": "contingent valuation approach,CVA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "通过假定一个特定的情景和描述可能的情况，来询问受试者的最大支付意愿或最小接收意愿的一种为商品或服务估算价值的方法"
+  },
+  {
+   "cn": "公有制实现形式",
+   "en": "realization form of public ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0415",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全民所有制和集体所有制通过公有制以控股的形式建立股份制企业来实现自身的一种方式，是我国公有制企业的一种所有制形式和经营形式的统称。"
+  },
+  {
+   "cn": "军队卫勤保障预案",
+   "en": "contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "军事预防医学保障的一种方案，据此进行平战时卫生保障、战备及突发公共事件时的军事预防医学应急工作。平时用于训练和战备的保障程序和专业技术训练、演练和执行任务时的协同。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案种类",
+   "en": "classification of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.1",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "包括平时、平转战及战时军事预防医学保障方案和突发公共事件应急医学救援预案等种类。根据预案的内容和针对性，可分为综合性预案、专项预案、本单位保障方案和现场保障方案等层次。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案实施",
+   "en": "implementation of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.3",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "保障预案在上级卫生行政部门备案后，卫勤保障训练中，使相关人员掌握程序，熟悉装备，做到需要时能按要求启动预案，迅速按照预案开展工作的过程。"
+  },
+  {
+   "cn": "【军队卫勤保障】预案内容",
+   "en": "the contents of contingency plans for military health service",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤保障预案",
+   "subjectName": "军队卫勤保障预案",
+   "publishYear": "2025",
+   "definition": "综合性预案至少包含10 个部分，包括总则、任务情景风险分析、组织结构及职责、准备、响应、信息管理、后期处置、保障措施、培训与演练、附则和附件。其中，准备部分至保障措施是预案主体。"
+  },
+  {
+   "cn": "包容",
+   "en": "containment",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.1",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "防止放射性物质穿过确定的边界向外界转移或扩散的方法或实体结构，即使在一般事故情况下，这类方法或实体也能阻止放射性物质的外泄达到不可接受程度。"
+  },
+  {
+   "cn": "安全壳",
+   "en": "containment",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.22",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "防止在反应堆失水事故和严重事故下放射性物质向环境释放、并保护反应堆冷却剂压力边界和安全系统抗御外部事件（如台风、飞机坠落和飞射物撞击等）的构筑物。"
+  },
+  {
+   "cn": "安全壳喷淋系统",
+   "en": "containment spray system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.9",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "在核电厂发生失水事故或安全壳内主蒸汽管道发生破裂时，为降低安全壳内的峰值压力和温度以防止安全壳超压失效而设置的系统。"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "医院集团法人化",
+   "en": "legalization of hospital group ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.3.3",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "通过整合医疗资源组建医疗集团、分离医疗机构与行政机构之间的隶属关系，落实公立医疗机构集团的独立法人身份，从而实现政事分开、管办分离，进而使公立医院具备独立法人资格的组织形态。"
+  },
+  {
+   "cn": "安全壳通风和净化系统",
+   "en": "containment ventilation and purge system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.11",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "为创造反应堆运行和停堆换料期间人员进入安全壳所需的环境、排出安全壳中空气热量并去除其中有害物质以及参与失水事故后冷却安全壳内空气而设置的若干系统的总称。"
+  },
+  {
+   "cn": "民主制度的法律化",
+   "en": "legalization of the democratic system",
+   "source": "马克思主义",
+   "wordNumber": "03.0573",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "没有民主就没有社会主义，而没有法制就没有真正的民主。没有法制保障和约束的民主，有可能蜕化为一部分人的专制。为了保障人民民主，必须加强法制，使民主制度法律化，使这种制度不因领导人的改变而改变，不因领导人"
+  },
+  {
+   "cn": "单个公立医院法人化",
+   "en": "legalization of single public hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "建立由政府部门和投资方组成的董事会对院长直接问责的法人治理结构，从而实现政事分开、所有权和经营权分离，明确医院所有权、决策权、经营权和监督权的分配与制衡，成为具有自主运营权、独立承担民事责任的法人实体"
+  },
+  {
+   "cn": "公立医院管理机构法人化",
+   "en": "legalization of public hospital management institution",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.3.3.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "通过成立独立于卫生部门的公立医院管理机构，作为事业单位法人对所属公立医院行使出资人责任，理清出资人与经营管理者的关系，加强对公立医院的管理问责，明确其独立承担民事责任的法人属性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

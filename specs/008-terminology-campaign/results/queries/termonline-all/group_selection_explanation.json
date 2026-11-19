@@ -1,0 +1,752 @@
+{
+ "key": "group-selection explanation",
+ "term": "group-selection explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:26:14+00:00",
+ "status": "ok",
+ "note": "variant=group-selection explanation; 审定公布名词库=5289; 海峡两岸名词对照库=1451; 其他来源数据库=189; 预公布名词数据库=217; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "群体选择",
+   "en": "group selection",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.447",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "个体真正利他合作的群体比个体自私自利的群体更有适应优势的自然选择。"
+  },
+  {
+   "cn": "群选择",
+   "en": "group selection",
+   "source": "生态学名词",
+   "wordNumber": "03.037",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "通过种群内各群体之间存在的生殖能力差异而进行的选择。"
+  },
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "群状择伐",
+   "en": "group-selection cutting",
+   "source": "林学名词",
+   "wordNumber": "05.140",
+   "subjectFullName": "林学_森林培育_抚育与主伐更新",
+   "subjectName": "抚育与主伐更新",
+   "publishYear": "2016",
+   "definition": "在林内成群团状地采伐达到规定径级林木的一种择伐方式。"
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "团体选择",
+   "en": "group selection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群[体]选择",
+   "en": "group selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群[体]选择",
+   "en": "group selection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "类群选择",
+   "en": "group selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "类群选择",
+   "en": "group selection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择",
+   "en": "selection",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "选取，选择",
+   "en": "select",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性",
+   "en": "selectivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基于解释[的]学习",
+   "en": "explanation-based learning\",\"EBL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群体,团体",
+   "en": "group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类群",
+   "en": "group",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代表队",
+   "en": "selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选拔",
+   "en": "select",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "Group",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "grouping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲缘选择",
+   "en": "kin selection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "bunch\",\"group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集团",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了一定的目的组织起来共同行动的团体。在我国多指企业集团、公司集团或多个公司为达成某种特定目标而在业务、流通、生产等方面联系紧密，从而聚集在一起形成的公司（或者企业）联盟。"
+  },
+  {
+   "cn": "小组",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作服务的对象单位，由数个至十数个个人组成。小组的特征包括：有两个或两个以上的人；感到有整体意识且会维持一段时间；互相影响；有控制其成员相互影响的明确规范；有一套角色。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "选择偏倚",
+   "en": "selection bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象的选择不当，导致入选者与未选入者特征上存在差异，如缺乏代表性、暴露组与对照组可比性差等，而导致的研究结果偏离真实，从而产生的系统误差。"
+  },
+  {
+   "cn": "选择性偏误",
+   "en": "selection bias",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.156",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在研究过程中，因样本选择的非随机性而导致结论存在的偏差。"
+  },
+  {
+   "cn": "文化选择",
+   "en": "cultural selection",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "与自然选择相对应的人的实践活动，在不同的存在方式之间所从事的选择。具体到特定社会中，指人们于一定的文化环境下在两种或两种以上的文化及行为方式中所进行的选择。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "风险选择",
+   "en": "risk selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "保险人为追求利润最大化，选择吸纳健康状况良好的人群，拒绝健康状况较差或具有较高健康风险人群参保的行为"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "民俗集团",
+   "en": "folklore group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0029",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民族内部的文化分支，即分布有某些文化特征的地方集团，具有强烈的民族自我意识。"
+  },
+  {
+   "cn": "关键人群组",
+   "en": "critical group",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在某一给定的辐射源和给定的照射途径所涉及的各受照人群组中，其受照水平基本均匀并预期为最高的人群组。其接受的有效剂量或当量剂量可用以度量该给定辐射源和该给定照射途径所产生的个人剂量的上限。"
+  },
+  {
+   "cn": "焦点小组",
+   "en": "focus group",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.14",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "组织一小群研究主体进行讨论的访谈方法。"
+  },
+  {
+   "cn": "社会群体",
+   "en": "social group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "介于个人与组织之间的人群结合体，通过一定的社会关系，由具有一定的共同信仰、理想、目标、兴趣、爱好或情感而结合起来进行共同活动的集体。"
+  },
+  {
+   "cn": "小群体",
+   "en": "small group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "规模较小，并且成员在共同认可的群体规范下，能够面对面直接互动并产生相互作用、相互影响以保持其完整性的社会群体。"
+  },
+  {
+   "cn": "内群体",
+   "en": "in-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员经常参与其间的活动，对其有团结、忠心、亲密及合作感觉，在心理上自觉认同并归属于其中的群体。与“外群体”相对。"
+  },
+  {
+   "cn": "外群体",
+   "en": "out-group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "成员未参加，对其在心理上无任何归属感，由他人结合而成的群体。与“内群体”相对。"
+  },
+  {
+   "cn": "正式群体",
+   "en": "formal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度高，有一定的目标，其成员间的互动采取制度化、规范化的方式，成员彼此间的权利、义务关系都有明确的且常常是书面形式的规定。与“非正式群体”相对。"
+  },
+  {
+   "cn": "非正式群体",
+   "en": "informal group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "正规化程度低，其成员间的互动以个人好恶、兴趣等为基础自发形成，多采取随意的、常规的方式，成员的权利、义务及彼此的关系没有明确的尤其是成文的规定。与“正式群体”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "lived spatiality",
+ "term": "lived spatiality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:23:53+00:00",
+ "status": "ok",
+ "note": "variant=lived spatiality; 审定公布名词库=1924; 海峡两岸名词对照库=281; 其他来源数据库=45; 预公布名词数据库=55; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0648",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种动态性质，关注网系统运行过程中，某个（或全体）变迁是否为活变迁。"
+  },
+  {
+   "cn": "空间性",
+   "en": "spatiality",
+   "source": "地理学名词",
+   "wordNumber": "24.017",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "空间的人文与社会内涵。"
+  },
+  {
+   "cn": "空间规划",
+   "en": "spatial planning,spatial plan",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划及相关规划",
+   "subjectName": "城乡规划及相关规划",
+   "publishYear": "2021",
+   "definition": "以土地和空间使用为主要对象的规划的统称。"
+  },
+  {
+   "cn": "少年生",
+   "en": "short lived ",
+   "source": "草学名词",
+   "wordNumber": "6.0146",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "兽医学名词",
+   "wordNumber": "14.176",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "将细菌、病毒等病原微生物经致弱减毒或利用自然弱毒株制成的疫苗。"
+  },
+  {
+   "cn": "实况广播",
+   "en": "live broadcast",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.02",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "在事件发生的同时进行播出的形式。常用于重大的新闻事件，大型活动，文艺、体育表演等。"
+  },
+  {
+   "cn": "电视新闻现场直播",
+   "en": "live news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.047",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视新闻总论",
+   "subjectName": "广播电视新闻总论",
+   "publishYear": "2022",
+   "definition": "以新闻现场的多机位拍摄、现场编辑和卫星或其他传输方式与事件同步进行的播出和报道形式。以现场新闻即时传送为主体，综合背景资料、相关知识介绍、演播室的串联、述评、现场记者采访，及多个现场之间的交流为一体的"
+  },
+  {
+   "cn": "直播",
+   "en": "live broadcasting",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.155",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视节目编排播出",
+   "subjectName": "广播电视节目编排播出",
+   "publishYear": "2022",
+   "definition": "广播电视的节目制作与播送同步进行的播出方式。节目摄制过程就是播出过程，可分为现场直播和演播室直播。"
+  },
+  {
+   "cn": "回转顶尖",
+   "en": "live center",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "14.057",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_机床附件",
+   "subjectName": "机床附件",
+   "publishYear": "2021",
+   "definition": "头部锥体与尾柄可相对旋转的顶尖。"
+  },
+  {
+   "cn": "活重",
+   "en": "live weight",
+   "source": "畜牧学名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "畜禽活体按规定停止饮食后的质量。"
+  },
+  {
+   "cn": "新蒸汽",
+   "en": "live steam",
+   "source": "电力名词",
+   "wordNumber": "01.559",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "锅炉出口的蒸汽,即未曾做功的蒸汽。"
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "感染病学名词",
+   "wordNumber": "01.0403",
+   "subjectFullName": "感染病学_总论_感染病预防",
+   "subjectName": "感染病预防",
+   "publishYear": "2019",
+   "definition": "应用保留有免疫原性的减毒或无毒的病原生物所制成的一种疫苗。如卡介苗、麻疹活疫苗等。"
+  },
+  {
+   "cn": "活变迁",
+   "en": "live transition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0649",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "说佩特里网Σ中的一个变迁 t是活变迁是指：不论Σ运行到什么标识M，都会有一个变迁发生序列到达标识M′，而变迁t在M′ 是可发生的。"
+  },
+  {
+   "cn": "活线",
+   "en": "live wire",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0447",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "确定图像中轮廓线的方法。用于图像的交互式分割,利用动态规划方法产生图像中给定两点间的最优路径,合理地构造代价函数，选择起始点和目标点,以提取物体的边缘。"
+  },
+  {
+   "cn": "直播课堂",
+   "en": "live classroom",
+   "source": "教育学名词",
+   "wordNumber": "13.141",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "一种远程教学方式。它利用网络和卫星电视等媒体将教师的授课和辅导等实时传送到异地的学习者端，并利用具有双向交互功能的远程通信系统（如双向视频会议系统、电话会议系统等）实现师生之间异地实时交流。"
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "微生物学名词",
+   "wordNumber": "08.193",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "用活病原体制成的疫苗。"
+  },
+  {
+   "cn": "活捕器",
+   "en": "live-trap",
+   "source": "生态学名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "用于捕捉活体动物的装置。如捕鼠笼等。"
+  },
+  {
+   "cn": "活荷载",
+   "en": "live load",
+   "source": "土木工程名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "土木工程_结构工程_结构设计原理",
+   "subjectName": "结构设计原理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活饵料",
+   "en": "live food",
+   "source": "水产名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "水产_饲料和肥料",
+   "subjectName": "饲料和肥料",
+   "publishYear": "2002",
+   "definition": "可作为水产动物食物的各种活体生物的总称。"
+  },
+  {
+   "cn": "活饵料",
+   "en": "live food",
+   "source": "水产名词",
+   "wordNumber": "12.031",
+   "subjectFullName": "水产_水产饲料与肥料",
+   "subjectName": "水产饲料与肥料",
+   "publishYear": "2002",
+   "definition": "可作为水产动物食物的各种活体生物的总称。"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间性",
+   "en": "spatiality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间的",
+   "en": "spatial",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生活空间",
+   "en": "lived space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生活世界",
+   "en": "lived-world",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "新鲜蒸汽",
+   "en": "live steam",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活捕器,活捕陷阱",
+   "en": "live-trap",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活变迁",
+   "en": "live transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活[性]高分子",
+   "en": "living macromolecule",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活性聚合",
+   "en": "living polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生存空间",
+   "en": "living space",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生物体",
+   "en": "living organism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生物资源",
+   "en": "living resources",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "住舱",
+   "en": "living quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空间格局",
+   "en": "spatial pattern",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间隔离",
+   "en": "spatial isolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间异质性",
+   "en": "spatial heterogeneity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间尺度",
+   "en": "spatial scale",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络直播",
+   "en": "live streaming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线直播",
+   "en": "live streaming",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直播平台",
+   "en": "live streaming platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体农贸市场",
+   "en": "live animal market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间人工智能技术",
+   "en": "spatial AI technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "澳大利亚生物多样性信息系统",
+   "en": "Atlas of Living Australia",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境辅助生活技术",
+   "en": "ambient assisted living technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息服务平台",
+   "en": "spatial information service platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息服务企业",
+   "en": "spatial information service enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市空间信息模型",
+   "en": "urban spatial information model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball\",\"ball in play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "政务网络直播",
+   "en": "live streaming of government services",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟“活地球模拟器”项目",
+   "en": "Living Earth Simulator Project (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家空间数据基础设施",
+   "en": "national spatial data infrastructure (NSDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空间信息共享服务网络",
+   "en": "spatial information sharing service network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“空间信息+”产业生态圈",
+   "en": "Spatial Information Plus industry ecosphere",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国土空间开发格局",
+   "en": "the national spatial development pattern",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "活疫苗",
+   "en": "live vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "应用保留有免疫原性的减毒或无毒的病原生物所制成的一种疫苗。如卡介苗、麻疹活疫苗等。"
+  },
+  {
+   "cn": "活产",
+   "en": "live birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.23",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "无论妊娠期长短而自母体完全排出的受孕产物，与母体分离后，不论脐带是否结扎或胎盘是否附着，具有呼吸动作或显示其他生命征象如心脏跳动、脐带搏动或出现明确的随意肌收缩。"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  },
+  {
+   "cn": "活法",
+   "en": "living law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.13",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "实际上支配社会生活的规范。自由法学派创始人欧根·埃利希提出的概念，如日常社会生活中完成的契约和交易，区别于国家实施的法律。"
+  },
+  {
+   "cn": "生活救助",
+   "en": "living assistance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "为保障公民的基本生存权，国家对生活在国家法定或地方法定最低生活保障标准之下的贫困家庭及个人进行现金、实物或服务等救助的社会救助制度。"
+  },
+  {
+   "cn": "生活水平",
+   "en": "living standards",
+   "source": "马克思主义",
+   "wordNumber": "03.0174",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在某一社会生产发展阶段中，居民用以满足物质、文化生活需要的社会产品和劳务的消费程度。又称生活程度。具体内容包括：居民的实际收入水平、消费水平和消费结构、劳动的社会条件和生产条件、社会服务的发达程度、闲"
+  },
+  {
+   "cn": "生活指导",
+   "en": "living guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "有针对性地根据个体或群体的需求，指导个人或群体积极应对生活事件的行动。"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "活态传承",
+   "en": "living inheritance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0165",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在现今传统村落文化遗产延续与发展的环境中，以人为主体，在保存其文化精髓和风格的前提下，在民众的生产生活过程中延续其文化形态的一种传承方式；与“静态保护”相对。"
+  },
+  {
+   "cn": "空间分辨率",
+   "en": "spatial resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "仪器分辨空间物体最小细节的能力。在X射线诊断中，用每毫米多少条线来衡量，即单位为线/毫米（1/mm或mm-1）或者线对/毫米（lp/mm）。在核医学中，指成像系统分辨互相靠近的两个相邻点间的最小距离，"
+  },
+  {
+   "cn": "空间化生产",
+   "en": "spatial production",
+   "source": "马克思主义",
+   "wordNumber": "05.0114",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "列斐伏尔将空间问题作为理解当今资本主义社会的重要方面，提出了“社会空间”的概念，大卫·哈维在此基础上又把空间作为一个积极因素纳入历史唯物主义的分析和阐述框架之中，提出了“空间与资本积累”“不平衡地理发"
+  },
+  {
+   "cn": "空间定向",
+   "en": "spatial orientation",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.7",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员在所处环境中正确辨识方向的知觉反应或能力。"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体存在亲属关系的器官供体。包括器官受体的配偶、直系血亲或者三代以内的旁系血亲。"
+  },
+  {
+   "cn": "活体非亲属供者",
+   "en": "living unrelated donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.029",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体不存在夫妻、直系血亲或者三代以内旁系血亲关系的器官供体。"
+  },
+  {
+   "cn": "配偶活体供者",
+   "en": "living spousal donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体之间为配偶关系的活体器官捐献人。我国卫生政策主管部门《关于规范活体器官移植的若干规定》要求仅限于结婚 3 年以上或者婚后已育有子女的配偶。"
+  },
+  {
+   "cn": "伤残健康损失寿命年",
+   "en": "years lived with disability",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "疾病所致伤残引起的健康寿命损失年数。"
+  },
+  {
+   "cn": "活产数",
+   "en": "number of live birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某国家或地区在某统计年度内出生后有心跳、呼吸、脐带搏动、随意肌收缩4项生命体征之一的新生儿总数。"
+  },
+  {
+   "cn": "达活产时间",
+   "en": "time to live birth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.7",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "从确认临床妊娠到活产日期的时间。"
+  },
+  {
+   "cn": "学校生活设施",
+   "en": "living equipment of school",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校教学环境和生活设施卫生监督",
+   "subjectName": "学校教学环境和生活设施卫生监督",
+   "publishYear": "2025",
+   "definition": "学校中与师生日常生活服务相关的建筑、用房及设施设备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

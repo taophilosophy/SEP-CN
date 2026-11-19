@@ -1,0 +1,772 @@
+{
+ "key": "unrestricted set abstraction",
+ "term": "unrestricted set abstraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:25:23+00:00",
+ "status": "ok",
+ "note": "variant=unrestricted set abstraction; 审定公布名词库=3302; 海峡两岸名词对照库=1333; 其他来源数据库=199; 预公布名词数据库=107; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对对象的属性和行为进行概括得到一类对象的公共性质并加以描述的过程。"
+  },
+  {
+   "cn": "非受限工作",
+   "en": "unrestricted job",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0990",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "工人能够掌控工作节奏的纯手工或人–机联合操作。"
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.171",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则在生成符号串的过程中没有附加任何限制。规则表示为： u::=v，其中u、v为符号串，且u非空。由非限制文法生成的语言称为0型语言，也称为递归可枚举语言。"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.047",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从口头或文字作品中摘录要点以形成新作品的著作活动。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0339",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从事物中抽取出所关心、本质性的要素，而舍弃其非本质、不关注的要素。"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "化学名词",
+   "wordNumber": "02.1154",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物分子上夺取1个原子(常见的是氢原子)，通常形成1个新的自由基中间体的反应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "心理学名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "抽取出某些事物的若干共同属性，并将这些属性推广到一类事物，使之普遍化的思维过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通常指简化观察真实世界物体的一种方式。"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "source": "数学名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "λ抽象",
+   "en": "λ-abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0921",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算中定义函数的方法。"
+  },
+  {
+   "cn": "文摘编制",
+   "en": "abstracting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.868",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "为帮助研究者迅速确定该文章能否满足特定的信息需求，对作品主要内容进行客观、简短的描述的过程。"
+  },
+  {
+   "cn": "论文摘要",
+   "en": "abstract",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.056",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对论文主要内容的概括性介绍。"
+  },
+  {
+   "cn": "文摘",
+   "en": "abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以提供文献内容梗概为目的，不加评论和补充解释，简明、确切地记述文献重要内容的短文。"
+  },
+  {
+   "cn": "无限制潜水艇战",
+   "en": "Unrestricted Submarine Warfare",
+   "source": "世界历史名词",
+   "wordNumber": "01.0289",
+   "subjectFullName": "世界历史_综合_第一次世界大战",
+   "subjectName": "第一次世界大战",
+   "publishYear": "2012",
+   "definition": "1917年2月，德国为封锁英国海上通道，宣布使用潜艇对任何驶往英国的商船不宣而战的作战行动。"
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.653",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "忽略现实世界的非本质细节，用抽象的数据模型来统一描述、表征实际事物的特性，即把实际事物抽象为数据模型的方法。分类、集聚与概括是三种最常用的数据抽象方法。"
+  },
+  {
+   "cn": "科学抽象",
+   "en": "scientific abstraction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "从感性具体的对象中，通过分析、比较、综合，抽取对象的本质方面、特性、关系，概括形成对象的概念、规律。"
+  },
+  {
+   "cn": "抽象模型",
+   "en": "abstraction model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "用符号、图表、数字和概念等来抽象化描述客观事物的特征、性质和规律的模型。"
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstraction thinking",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.206",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在感性认识的基础上，以概念、判断和推理为基本形式，以分析、综合、比较、分类和概括为基本过程，旨在反映事物的本质和规律的思维方式。具有间接性的特点。"
+  },
+  {
+   "cn": "选择性概括",
+   "en": "selective abstraction",
+   "source": "行为医学名词",
+   "wordNumber": "2.11",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "仅根据个别细节或选取局部、特定事例，忽视整体而做出结论。"
+  },
+  {
+   "cn": "制图概括",
+   "en": "cartographic abstraction",
+   "source": "测绘学名词",
+   "wordNumber": "04.229",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "通过缩减制图对象分类分级的数量，减少制图对象在质量和数量方面的差别的过程。"
+  },
+  {
+   "cn": "无限制轨道",
+   "en": "unrestricted orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无限制进口",
+   "en": "unrestricted import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不定用途的信贷",
+   "en": "unrestricted use credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内攫取[反应]",
+   "en": "internal abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象程度",
+   "en": "abstraction level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务处",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学文摘",
+   "en": "Chemical Abstracts",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抽象音乐",
+   "en": "abstract music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstract thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象世界",
+   "en": "abstract universe",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象符号",
+   "en": "abstract symbol",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "达名",
+   "en": "Unrestricted Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二传",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校射",
+   "en": "setting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘点",
+   "en": "set ball\",\"set point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜局",
+   "en": "deciding set\",\"final set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系",
+   "en": "bend\",\"set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "集合论",
+   "en": "set theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指令集",
+   "en": "instruction set",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据集",
+   "en": "data set",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "一种与各种价值观念、信仰、情感和传统联系相脱离的、具有程序性、反思性和非人格化特征的现代科层制社会。社会学用以分析现代社会某些抽象特征的概念或视角。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "source": "马克思主义",
+   "wordNumber": "01.0136",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现实的个人”相对。指抽去了个人所处的现实历史条件和社会关系中的人类个体。近代欧洲思想家把摆脱了自然联系的、处于资本主义自由竞争社会中的单子式的个人,看成是符合人类天性的人类个体的理想状态。“抽象的"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0046",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "撇开劳动的具体形式无差别的一般人类劳动，即人类劳动力生理意义上（包括脑力和体力）的支出。抽象劳动是形成商品价值的惟一源泉，反映了商品生产者相互交换劳动的社会关系。"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "角色丛",
+   "en": "role-set",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体的某一身份有关的各种角色的总合。个体通常有若干社会身份，因而也通常有若干个角色丛。"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府或政策行动者在诸多社会问题中遴选出部分问题，进入其正式讨论与决策议程的过程，是政策进入制度化讨论的入口。"
+  },
+  {
+   "cn": "模糊集合论",
+   "en": "fuzzy set theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.157",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把待考察的对象及反映它的模糊概念作为一定的模糊集合，建立适当的隶属函数的分析方法。"
+  },
+  {
+   "cn": "群体与集合",
+   "en": "group and set",
+   "source": "马克思主义",
+   "wordNumber": "05.0063",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特在《辩证理性批判》中将人际关系的形态区分为群体与集合两种基本类型。集合为群体的形成提供基本的可能性和条件， 群体则是对集合的一种否定和超越。他同时也强调，群体并不是必然地从集合中产生， 而且群体还"
+  },
+  {
+   "cn": "饮水处设置",
+   "en": "setting of drinking water",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "学校饮水处的卫生要求。在教学用建筑内应在每层设饮水处，每处应按每40-45人设置一个饮水水嘴来计算水嘴的数量。"
+  },
+  {
+   "cn": "另起炉灶",
+   "en": "set up a separate kitchen",
+   "source": "马克思主义",
+   "wordNumber": "03.0500",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年春提出的一项外交方针。与“打扫干净屋子再请客”“一边倒”，共同构成新中国成立初期三大外交方针。周恩来在解释“另起炉灶”时说：“就是不承认国民党政府同各国建立的旧的外交关系,而要在新的"
+  },
+  {
+   "cn": "水源设置",
+   "en": "setting of drinking water source",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "学校学生生活饮用水及自备水源的卫生要求。应经市级以上疾病预防控制中心水源水质监测合格后，方可作为供水水源。"
+  },
+  {
+   "cn": "托幼机构健康教育",
+   "en": "health education in childcare setting",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "托幼机构根据儿童发育特点，有组织有计划进行的教育活动。包括根据季节差异、疾病流行等情况制订计划，多途径开展以膳食营养、心理卫生、疾病预防、儿童安全以及行为习惯培养等为主题的活动。"
+  },
+  {
+   "cn": "餐[饮]具消毒",
+   "en": "disinfection of dinner and drinking set",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1.7",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用物理或化学消毒方法，对污染或可能污染病原微生物的餐（饮）具进行处理。"
+  },
+  {
+   "cn": "部队特定场合消杀灭",
+   "en": "disinfection, disinsection and deratization in specific military settings",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "全称“部队特定场合消毒、杀虫和灭鼠”。部队为了预防和控制传染病发生和流行，对特定的场所开展的消毒、杀虫和灭鼠工作。"
+  },
+  {
+   "cn": "讲党性重品行作表率",
+   "en": "observing the Party spirit and ethical standards and setting good examples for the public",
+   "source": "马克思主义",
+   "wordNumber": "03.0746",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七大对全体党员特别是领导干部提出的明确要求。讲党性就是要加强和改进思想作风，保持政治坚定性。重品行就是要加强和改进生活作风，培养高尚的道德情操。作表率就是要树立先锋模范意识，行动上优于一般党员干"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

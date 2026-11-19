@@ -1,0 +1,752 @@
+{
+ "key": "wirkung",
+ "term": "Wirkung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:31:34+00:00",
+ "status": "ok",
+ "note": "variant=Wirkung; 审定公布名词库=371; 海峡两岸名词对照库=56; 其他来源数据库=21; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "芯吸作用",
+   "en": "wicking",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0291",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "超细纤维近水端管口与水接触形成真空孔隙，外部大气压将水压入到纤维孔隙中的现象。超细纤维特有的性能。"
+  },
+  {
+   "cn": "接线",
+   "en": "wiring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1035",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程制造",
+   "subjectName": "计算机工程制造",
+   "publishYear": "2018",
+   "definition": "用导线连通线路的过程。"
+  },
+  {
+   "cn": "工质",
+   "en": "working substance,working fluid",
+   "source": "建筑学名词",
+   "wordNumber": "14.0841",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "用来实现能量相互转换的媒介物。"
+  },
+  {
+   "cn": "工质",
+   "en": "working medium,working fluid",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0078",
+   "subjectFullName": "机械工程_动力机械_锅炉_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "赖以实现热能与机械能相互转换的媒介物质。"
+  },
+  {
+   "cn": "工质",
+   "en": "working medium,working fluid",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0078",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机设计和运行",
+   "subjectName": "发动机设计和运行",
+   "publishYear": "2013",
+   "definition": "在发动机中用于完成工作循环的流体。通常是由空气或空气与燃料和(或)燃烧产物组成的混合气。"
+  },
+  {
+   "cn": "工作平台",
+   "en": "working platform",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.067",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "进行工业检验、测量工作的具体平台。泛指可供进行共同工作、共同作业的条件和环境。"
+  },
+  {
+   "cn": "工作参与度",
+   "en": "working involvement",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.095",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员在心理上对工作的认可程度。参与度高的组织成员对所从事的工作有很强的认同感，且对工作表现和生产效率具有直接的积极影响。"
+  },
+  {
+   "cn": "试验样品",
+   "en": "working sample ",
+   "source": "草学名词",
+   "wordNumber": "4.0057",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "工作记忆",
+   "en": "working memory",
+   "source": "行为医学名词",
+   "wordNumber": "3.122",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "一种对信息暂时加工和存储容量有限的记忆系统。属于临时存储和操作信息的认知结构和过程。从外界接受或从长时程记忆中提取并进行操作。"
+  },
+  {
+   "cn": "[弹簧]工作高度",
+   "en": "working height",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0942",
+   "subjectFullName": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺",
+   "subjectName": "弹簧的设计和工艺",
+   "publishYear": "2021",
+   "definition": "螺旋弹簧承受工作载荷时的高度(或长度)。"
+  },
+  {
+   "cn": "工作压力",
+   "en": "working pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0986",
+   "subjectFullName": "机械工程（一）_机械零件_弹簧_弹簧的设计和工艺",
+   "subjectName": "弹簧的设计和工艺",
+   "publishYear": "2021",
+   "definition": "空气弹簧在工作载荷下的内部压力。"
+  },
+  {
+   "cn": "工作齿面",
+   "en": "working flank",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0062",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "(1)轮齿上的一个齿面，它与配对齿轮的齿面相啮合并传递运动。(2)带齿与轮齿相啮合，传递运动或动力的接触面。"
+  },
+  {
+   "cn": "工作高度",
+   "en": "working depth",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0085",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "两个配对齿轮的齿顶圆柱面各与连心线相交，所得到的交点之间的最短距离。"
+  },
+  {
+   "cn": "啮合侧隙",
+   "en": "working backlash",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0307",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_摆线针轮行星齿轮传动",
+   "subjectName": "摆线针轮行星齿轮传动",
+   "publishYear": "2021",
+   "definition": "当一对相啮合的摆线轮与针轮处于理论啮合位置时，在某一针齿中心与节点的连线上，摆线轮齿廓与针齿齿廓之间量度的最短距离。摆线轮轮齿和针轮轮齿在不同位置啮合时，其啮合侧隙不相等。"
+  },
+  {
+   "cn": "工作油口",
+   "en": "working port",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0980",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "元件中与工作油路相配合连接的油口。"
+  },
+  {
+   "cn": "工作管路",
+   "en": "working line",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1174",
+   "subjectFullName": "机械工程（一）_传动_液压传动_液压传动系统",
+   "subjectName": "液压传动系统",
+   "publishYear": "2021",
+   "definition": "液压系统中用于传输压力流体的主管路。"
+  },
+  {
+   "cn": "工作腔",
+   "en": "working space",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1295",
+   "subjectFullName": "机械工程（一）_传动_液力传动_叶轮及结构参数",
+   "subjectName": "叶轮及结构参数",
+   "publishYear": "2021",
+   "definition": "由叶轮叶片间通道表面和引导工作液体运动的内、外环间的其他表面所限定的空间(不包括液力偶合器的辅助腔)。"
+  },
+  {
+   "cn": "热成形",
+   "en": "hot working",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.098",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_冲压",
+   "subjectName": "冲压",
+   "publishYear": "2021",
+   "definition": "金属在再结晶温度以上完成的成形工艺。"
+  },
+  {
+   "cn": "温成形",
+   "en": "warm working",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.099",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_冲压",
+   "subjectName": "冲压",
+   "publishYear": "2021",
+   "definition": "在高于室温和低于再结晶温度范围内完成的成形工艺。"
+  },
+  {
+   "cn": "冷成形",
+   "en": "cold working",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.100",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_冲压",
+   "subjectName": "冲压",
+   "publishYear": "2021",
+   "definition": "坯料在室温下完成的成形工艺。"
+  },
+  {
+   "cn": "布线，接线",
+   "en": "wiring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流动资金",
+   "en": "working capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工作流体",
+   "en": "working fluid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工作应力",
+   "en": "working stress",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工作记忆",
+   "en": "working memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "修通",
+   "en": "working through",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工作同盟",
+   "en": "working alliance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "塑性加工",
+   "en": "plastic working",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "工作电极",
+   "en": "working electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经营成本",
+   "en": "working cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经营费用",
+   "en": "working expense",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经营合伙人",
+   "en": "working partner",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "营运资本",
+   "en": "working capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工程船",
+   "en": "working craft",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "家庭作业",
+   "en": "home-working",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "工作目录",
+   "en": "working directory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运动摆",
+   "en": "working pendulum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "工作点",
+   "en": "working point",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作集",
+   "en": "working set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作文件",
+   "en": "working file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作台",
+   "en": "working deck",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调教快步",
+   "en": "working trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调教跑步",
+   "en": "working canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参考体系结构工作组",
+   "en": "Reference Architecture Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准技术路线图工作组",
+   "en": "Standards Roadmap Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算工作组",
+   "en": "Cloud Computing Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感器网络工作组",
+   "en": "Sensor Network Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "术语定义和分类工作组",
+   "en": "Definitions and Taxonomies Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全隐私工作组",
+   "en": "Security and Privacy Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专门标准工作组",
+   "en": "ad-hoc working group on standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工作组召集人或注册专家",
+   "en": "working group convener or registered expert",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用例需求工作组",
+   "en": "Use Cases and Requirements Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据工作组(ISO/IEC JTC1/WG9)",
+   "en": "Big Data Working Group (ISO/IEC JTC1/WG9)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据公共工作组",
+   "en": "NIST Big Data Public Working Group (NBD-PWG)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "核辐射工作剂量计",
+   "en": "working dosimeter",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.15",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "经标准剂量计校准过，用来标定辐射场剂量率与测定产品吸收剂量并进行常规剂量监测的剂量计。"
+  },
+  {
+   "cn": "工作帽",
+   "en": "working cap",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "防御头部脏污、擦伤、长发被绞碾等伤害的防护装备。"
+  },
+  {
+   "cn": "工人阶级",
+   "en": "working class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "领取薪金的体力劳动者，即蓝领工人。依马克思最初所作的定义，指不占有生产资料靠出卖劳动力而谋生的人，马克思主义理论家也称之为无产阶级。20世纪以来，这一定义发生了变化，白领工人（不占有生产资料而受雇于他"
+  },
+  {
+   "cn": "工作日",
+   "en": "working day",
+   "source": "马克思主义",
+   "wordNumber": "02.0120",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日是劳动者在一个自然生活日（24小时）内的劳动时间的长度。工作日是由必要劳动时间和剩余劳动时间构成的。工人生产他的劳动力的补偿价值和生产剩余价值的时间之和，构成他的工作日。"
+  },
+  {
+   "cn": "作业区",
+   "en": "working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品直接生产加工的车间或仓库等场所。"
+  },
+  {
+   "cn": "工作菌株",
+   "en": "working cultures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "有标准储备菌株转接后获得的同种菌株"
+  },
+  {
+   "cn": "新工人阶级",
+   "en": "new working class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "掌握自动化生产技术的白领工人（包括工程师、科学家和技术专家等），区别于传统意义上的工人阶级（低技术性的体力工人）。由法国的左派理论家提出，认为这一群体掌握资本主义生产过程中最先进的技术，可以成为推动社"
+  },
+  {
+   "cn": "清洁作业区",
+   "en": "cleaning working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过采取控制措施以满足食品生产过程较高清洁程度要求的食品生产作业区域。"
+  },
+  {
+   "cn": "一般作业区",
+   "en": "common working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.17",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "对于食品生产过程清洁程度无特殊要求的食品生产作业区域。"
+  },
+  {
+   "cn": "渔号子",
+   "en": "fishing working song",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0059",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在渔业生产过程中，为统一步伐，调节呼吸，释放身体负重的压力，渔民们发出的吆喝或呼号。传统民歌体裁劳动号子的一种，产生并应用于渔业生产的民间歌曲，具有协调与指挥劳动的实际功用。"
+  },
+  {
+   "cn": "工作水平月",
+   "en": "working level month，WLM",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "一种沿用的表示氡子体或   子体照射的单位。相当于在1WL条件下暴露1个工作月小时（170h），即3.54mJ·h·m-3。"
+  },
+  {
+   "cn": "工作日的界限",
+   "en": "boundary of working day",
+   "source": "马克思主义",
+   "wordNumber": "02.0121",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工作日的最低界限不能缩短到劳动时间，否则工人便不可能创造剩余价值。工作日的最高界限取决于：（1）劳动力的身体界限。劳动者必须用一部分时间去满足他的生理需要，否则就不能实现劳动力的再生产。（2）道德的界"
+  },
+  {
+   "cn": "工作环境有害因素",
+   "en": "hazard in working environment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "由于生产设备、原材料和工艺过程的特点，或工作中的技术条件，产生可污染工作环境的有害物质或不良要素。包括各种化学物质、物理因素及生物学因素等职业有害因素。"
+  },
+  {
+   "cn": "劳动过程有害因素",
+   "en": "hazard in working process",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "劳动过程本身可能对人体健康产生不良影响的做法，包括劳动组织和劳动制度合理性差、劳动时间过长、劳动强度过大、部分器官系统过度紧张、长时间被迫处于某种单一工作体位等。"
+  },
+  {
+   "cn": "准清洁作业区",
+   "en": "quasi-cleaning working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.16",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "生产过程中根据食品加工工艺需要确定的清洁程度要求介于清洁作业区和一般作业区之间的食品生产作业区域。"
+  },
+  {
+   "cn": "平均病床工作日",
+   "en": "average bed working days",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2.1.1.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "实际占用总床日数与平均开放病床数之比，反映每病床在某区间内的负荷状况。"
+  },
+  {
+   "cn": "工作场所的性骚扰",
+   "en": "sexual harassment in working place",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "发生在工作场所的违背行为对象意愿的具有性含义的行为，包括语言猥亵、肢体触碰以及性器官暴露等。最常见的是男性对女性、尤其是位高权重者对普通无权者的骚扰。女性主义认为这是工作场所性别歧视和性别暴力的体现。"
+  },
+  {
+   "cn": "塞浦路斯劳动人民进步党",
+   "en": "Progressive Party of Working People",
+   "source": "马克思主义",
+   "wordNumber": "05.0290",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "前身是1926年成立的塞浦路斯共产党，1941年改为现名。劳进党以马列主义为指导，以实现社会主义为目标，支持建立一个独立、非军事化的塞浦路斯。1996年该党成为塞浦路斯第二大党，2001年为塞浦路斯第"
+  },
+  {
+   "cn": "职业妇女劳动保护",
+   "en": "labor protection for working woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.9.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女职业卫生保健",
+   "subjectName": "妇女职业卫生保健",
+   "publishYear": "2025",
+   "definition": "在维护妇女劳动权利的同时，根据妇女的生理特点，依法对女性在职业劳动过程中予以特殊保护的措施。目的在于保护女职工在劳动中的安全和身心健康，以及子女的健康发育和成长，提高人口素质。"
+  },
+  {
+   "cn": "高温作业卫生",
+   "en": "hygiene working in hot environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "研究高温环境因素对作业人员健康与作业效率的影响，提出提高作业效能的防护对策的工作总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

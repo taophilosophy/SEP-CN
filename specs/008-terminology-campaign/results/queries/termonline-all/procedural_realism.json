@@ -1,0 +1,802 @@
+{
+ "key": "procedural realism",
+ "term": "procedural realism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:20:42+00:00",
+ "status": "ok",
+ "note": "variant=procedural realism; 审定公布名词库=361; 海峡两岸名词对照库=136; 其他来源数据库=20; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "心理学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种哲学理论。既承认外部世界的客观实在性，也把感觉、观念等看作客观实在，否认精神是物质发展的产物。"
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "语言学名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。主张不要为了维护一种假定、一种原则、一种方法而抛掉某些极其重要的语言事实。即当运用某些结构主义方法不能说明事实的时候，可以不受某一种方法的拘束。"
+  },
+  {
+   "cn": "科学实在论",
+   "en": "scientific realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为科学理论不断逼近客观真理，它们假设的不可观察实体也真实存在。"
+  },
+  {
+   "cn": "外部实在论",
+   "en": "external realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.004",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为外部世界独立于心灵、语言和理论，真理是语言与世界之间的符合，理想理论也有可能是错误的。"
+  },
+  {
+   "cn": "内在实在论",
+   "en": "internal realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.005",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为真理总是在认识上受到限制，是相对于概念体系的，没有“上帝之眼”。"
+  },
+  {
+   "cn": "形而上学实在论",
+   "en": "metaphysical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.006",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为世界独立于人类或其他认知主体而存在，世界的对象及其属性决定了世界的本质。"
+  },
+  {
+   "cn": "建构实在论",
+   "en": "constructive realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "试图既保持科学知识的实在性，又承认相对主义的合理性，主张客观实在是人类进行认识建构的结果。"
+  },
+  {
+   "cn": "关系实在论",
+   "en": "relational realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由相对论、量子物理所启发的实在论立场，认为具有实在性的不是个体对象，而是对象之间的关系。"
+  },
+  {
+   "cn": "结构实在论",
+   "en": "structural realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "约翰·沃勒尔（John Worrall）提出，科学革命前后的理论在数学结构上具有连续性，因此结构是实在的。现有认识结构实在论、本体结构实在论等多个版本。"
+  },
+  {
+   "cn": "反实在论",
+   "en": "anti-realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.010",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学哲学认为不可观测的实体都不真实存在，但通常承认可观察实体真实存在。"
+  },
+  {
+   "cn": "朴素实在论",
+   "en": "naive realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.033",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "根据自己的经验，直观地、朴素地和自发地相信客观世界是不依赖于人的意识而独立存在的宏观实在。"
+  },
+  {
+   "cn": "实体实在论",
+   "en": "entity realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为成熟科学所指明的实体是真实存在的，但关于这些实体的科学理论有可能出错。"
+  },
+  {
+   "cn": "实验实在论",
+   "en": "experimental realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "由I. 哈金（I. Hacking）提出。认为如果我们可以通过实验手段来有效利用实体（如电子），那么该实体就是真实存在的。"
+  },
+  {
+   "cn": "渐近实在论",
+   "en": "convergent realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.218",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "科学不断逼近真理，这往往体现在旧科学理论能够由新科学理论推导得出，科学指称也具有连续性。"
+  },
+  {
+   "cn": "直接实在论",
+   "en": "direct realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.580",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认为知觉主体是直接感知到外部世界中的对象的观点。"
+  },
+  {
+   "cn": "批判实在论",
+   "en": "critical realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.788",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一种研究世界、人类行为者以及二者之间相互作用的实在论学说。主张社会整体性存在的本体论地位，以实现人类自由解放作为社会科学的认识旨趣。"
+  },
+  {
+   "cn": "社会主义现实主义",
+   "en": "Socialist Realism",
+   "source": "世界历史名词",
+   "wordNumber": "05.0437",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "20世纪苏联文学和艺术重要流派，从1932年起得到苏联官方支持，成为唯一的创作方法。"
+  },
+  {
+   "cn": "规程",
+   "en": "procedures",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0050",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "根据通信环境和用户功能需求制定的通信控制协定。"
+  },
+  {
+   "cn": "程序",
+   "en": "procedure",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "自然辩证法_工程哲学_工程知识论",
+   "subjectName": "工程知识论",
+   "publishYear": "2024",
+   "definition": "为了进行某项活动或过程所规定的流程、路径或途径。"
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "物理学名词",
+   "wordNumber": "01.0175",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现实主义",
+   "en": "realism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实在论",
+   "en": "realism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "真实感显示",
+   "en": "realism display，realism rendering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实验真实性",
+   "en": "experimental realism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规程",
+   "en": "procedure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真实感图形",
+   "en": "photo-realism graphic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序性记忆",
+   "en": "procedural memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序公平",
+   "en": "procedural justice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "过程程序设计",
+   "en": "procedural programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程语言",
+   "en": "procedural language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程语义",
+   "en": "procedural semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流程模型",
+   "en": "procedural model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedures",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "遇险求救程序",
+   "en": "distress procedures",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "测试过程",
+   "en": "test procedure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进口程序",
+   "en": "import procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "再进口手续",
+   "en": "reimport procedure",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "简化通关手续",
+   "en": "to simplify procedures for customs clearance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "简化对外投资审批程序",
+   "en": "simplify procedures for reviewing outbound investment",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "系统配置技术管理规程",
+   "en": "technical management procedure for system configuration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "做好工伤认定和待遇保障",
+   "en": "(to streamline/implement procedures) to identify and facilitate compensation for work-related infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X0532-2-2018 信息技术 自动识别和数据捕获技术 唯一标识 第2部分：登记程序》",
+   "en": "JIS X0532-2:2018 Information technology — Automatic identification and data capture techniques — Unique identification — Part 2: Registration procedures",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "Augmented Reality",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实",
+   "en": "Virtual Reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安时处顺",
+   "en": "Face Reality Calmly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增强现实",
+   "en": "augmented reality (AR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚实交互",
+   "en": "virtual reality interaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "审虚实",
+   "en": "Balance Fiction and Reality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重新调整界线",
+   "en": "realign a court line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟现实智能建模技术",
+   "en": "intelligent modeling technology of virtual reality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精骛八极，心游万仞",
+   "en": "Roaming Remote Realms and Soaring to Great Heights",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 38247-2019 信息技术 增强现实 术语》",
+   "en": "GB/T 38247-2019 Information technology — Augmented reality — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "步骤",
+   "en": "procedure",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.11",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "从初级生产到最终消费的食品链中（包括原料）的某个点、程序、操作或阶段。"
+  },
+  {
+   "cn": "程序伦理",
+   "en": "procedural ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关注道德决策的过程、方法和程序的正当性，探讨“如何公正地做出道德决定？”的伦理学理论。"
+  },
+  {
+   "cn": "程序公正",
+   "en": "procedural justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.058",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "过程和规则的公正。强调处事不仅要结果公平合理，处理过程也要符合公正的要求。"
+  },
+  {
+   "cn": "消毒程序",
+   "en": "disinfection procedure",
+   "source": "消毒学",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "完成消毒工作的具体步骤和顺序。"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "报告程序",
+   "en": "reporting procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对照标准研判，对于符合报告要求的事件，向所在地区人民政府卫生行政部门或有关单位报告时按规定需遵循的流程。"
+  },
+  {
+   "cn": "快速灭菌程序",
+   "en": "rapid sterilization procedure",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.8.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在快速压力蒸汽灭菌中根据灭菌对象的种类、性质、使用要求设定灭菌参数，灭菌周期一般不包括干燥阶段，灭菌时一般采取裸露灭菌，为了避免污染，灭菌物品应尽快使用，不能储存，无有效期。"
+  },
+  {
+   "cn": "固定剂量法",
+   "en": "fixed-dose procedure",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.10",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "不以动物死亡为终点，而以明显的毒性体征作为终点进行评价的方法。"
+  },
+  {
+   "cn": "心理咨询程序",
+   "en": "psychological counseling procedure",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "学生心理健康咨询各环节的时间顺序。依次为：受理面谈、建立信赖、提供心理支持、帮助求咨者勇敢面对生活。"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  },
+  {
+   "cn": "标准操作规程",
+   "en": "standard operation procedure, SOP",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "为有效和准确实施和完成消毒产品生产或特定试验，对每项相关操作和过程拟定的标准，形成详细的书面文件或管理办法。"
+  },
+  {
+   "cn": "标准操作程序",
+   "en": "standard operation procedure, SOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "人员在实验过程中应执行的操作步骤和应遵守的事项"
+  },
+  {
+   "cn": "学校传染病疫情报告程序",
+   "en": "infectious disease reporting procedures",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "学校出现传染病或疑似传染病患者，应由班主任上报给学校传染病报告人，传染病报告人报到主管校长，并在规定时限内将传染病或疑似传染病发病时间、人数、主要症状等内容上报给属地疾控机构和教育行政部门的程序。"
+  },
+  {
+   "cn": "食品安全性毒理学评价程序",
+   "en": "food toxicological evaluation procedures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对食品、食品添加剂及食品相关产品中所涉及的可能对健康造成危害的化学、生物和物理因素进行安全性评价的程序。"
+  },
+  {
+   "cn": "小组工作基本程序",
+   "en": "basic procedure of group work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组工作实务的基本过程。一般包括：潜在组员预估，小组计划，招募组员，小组介入，小组评估，小组结束。"
+  },
+  {
+   "cn": "卫生标准操作程序",
+   "en": "sanitation standard operation procedure，SSOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产企业为使食品符合卫生要求而制定的指导食品加工过程中清洗、消毒和卫生保持的作业指导文件。"
+  },
+  {
+   "cn": "中华人民共和国行政诉讼法",
+   "en": "administrative procedure law of the People’s Republic of China",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.2.7",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规_放射卫生相关法律",
+   "subjectName": "放射卫生相关法律",
+   "publishYear": "2025",
+   "definition": "为了保证人民法院公正、及时审理行政案件，解决行政争议，保护公民、法人和其他组织的合法权益，监督行政机关依法行使职权而制定的法律。1989年4月4日第七届全国人民代表大会第二次会议通过并公布，2014年"
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

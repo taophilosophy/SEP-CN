@@ -1,0 +1,52 @@
+{
+ "key": "heterosexualism",
+ "term": "heterosexualism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:42:50+00:00",
+ "status": "ok",
+ "note": "variant=heterosexualism; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "异性恋",
+   "en": "heterosexuality",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "对异性成员持续表现性爱的倾向。包括思想、感情及性爱行为，是常见的性取向。"
+  },
+  {
+   "cn": "异性恋",
+   "en": "heterosexuality",
+   "source": "生殖医学名词",
+   "wordNumber": "8.003",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "对异性产生浪漫情感与性的吸引。"
+  },
+  {
+   "cn": "异性恋",
+   "en": "heterosexuality",
+   "source": "行为医学名词",
+   "wordNumber": "12.017",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "只会对异性产生爱情和性欲的性取向。具有这种性取向的人被称为异性恋者。"
+  },
+  {
+   "cn": "异性性早熟",
+   "en": "heterosexual precocious puberty",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.166",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

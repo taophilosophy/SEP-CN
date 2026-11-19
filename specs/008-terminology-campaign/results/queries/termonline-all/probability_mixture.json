@@ -1,0 +1,752 @@
+{
+ "key": "probability mixture",
+ "term": "probability mixture",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:27:19+00:00",
+ "status": "ok",
+ "note": "variant=probability mixture; 审定公布名词库=1172; 海峡两岸名词对照库=317; 其他来源数据库=18; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "混合物",
+   "en": "mixture",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "由两种或两种以上纯净物混合而成的物质。混合物没有固定的化学式，各种成分之间没有发生化学反应，保持着各自原来的性质。"
+  },
+  {
+   "cn": "合剂",
+   "en": "mixture",
+   "source": "兽医学名词",
+   "wordNumber": "19.470",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "将药材用水或其他溶剂，采用适宜的方法提取、纯化、浓缩制成的内服液体制剂。"
+  },
+  {
+   "cn": "混合物",
+   "en": "mixture",
+   "source": "化学名词",
+   "wordNumber": "01.0063",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "两种或两种以上物质形成的混合体系。混合物可以是均相的，也可以是非均相的。"
+  },
+  {
+   "cn": "合剂",
+   "en": "mixture",
+   "source": "药学名词",
+   "wordNumber": "02.352",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "以水为溶剂含有一种或一种以上的药物成分的内服液体制剂。"
+  },
+  {
+   "cn": "合剂",
+   "en": "mixture",
+   "source": "中医药学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "中医药学_方剂学_剂型、煎服法",
+   "subjectName": "剂型、煎服法",
+   "publishYear": "2004",
+   "definition": "将药材用水或其他溶剂，采用适宜的方法提取、纯化、浓缩制成的内服液体制剂。"
+  },
+  {
+   "cn": "混合料",
+   "en": "mixture",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "配合比",
+   "en": "mixture proportion",
+   "source": "风景园林名词",
+   "wordNumber": "08.0464",
+   "subjectFullName": "风景园林_风景园林工程_风景园林铺装",
+   "subjectName": "风景园林铺装",
+   "publishYear": "2025",
+   "definition": "混合料组成材料之间的比例关系。"
+  },
+  {
+   "cn": "恒沸混合物",
+   "en": "azeotropic mixture",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "在某组成下其平衡气相组成和液相组成相等，其沸点不因蒸发或冷凝而改变，气、液相组成也始终保持恒定的混合物系。"
+  },
+  {
+   "cn": "配料比",
+   "en": "mixture ratio",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0095",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在浓硝酸生产中指稀硝酸与脱水剂（硝酸镁或硫酸）的质量比。"
+  },
+  {
+   "cn": "缩混",
+   "en": "indented mixture",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.033",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "在音乐的后期制作中把各个音轨进行效果处理最终导出一个完整的音乐文件的过程。"
+  },
+  {
+   "cn": "种间混播",
+   "en": "mixture seeding ",
+   "source": "草学名词",
+   "wordNumber": "4.0774",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "混合青贮",
+   "en": "mixture silage ",
+   "source": "草学名词",
+   "wordNumber": "6.0311",
+   "subjectFullName": "草学_饲草生产与加工_饲草加工与利用",
+   "subjectName": "饲草加工与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "发热剂",
+   "en": "exothermic mixture",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.111",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "在一定温度条件下，发生化学反应能放出热量的混合料。"
+  },
+  {
+   "cn": "混合物",
+   "en": "mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "混合物",
+   "en": "mixture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合剂",
+   "en": "mixture",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合花粉",
+   "en": "pollen mixture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡混合物",
+   "en": "equilibrium mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外消旋混合物",
+   "en": "racemic mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共沸混合物",
+   "en": "azeotropic mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多元混合物，多组分混合物",
+   "en": "multicomponent mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗冻混合物",
+   "en": "antifreeze mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学计量混合物",
+   "en": "stoichiometric mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "二元混和物",
+   "en": "binary mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想混合物",
+   "en": "ideal mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "增效混合剂",
+   "en": "synergistic mixture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "全声混合音栓",
+   "en": "full mixture",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颜色混合",
+   "en": "color mixture",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性善恶混",
+   "en": "Human Nature Is a Mixture of Good and Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道不欲杂",
+   "en": "The Fundamental Principle Should Not Be a Mixture of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算可移植性",
+   "en": "computational portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云应用可移植性",
+   "en": "cloud application portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云数据可移植性",
+   "en": "cloud data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准可移植性",
+   "en": "portability of standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "  临床表现",
+   "en": "clinical picture",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据可携权",
+   "en": "right to data portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金相玉质",
+   "en": "The Look of Gold and the Texture of Jade",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS ISO/IEC 19941-2017 信息技术 云计算 互操作性和可移植性》",
+   "en": "BS ISO/IEC 19941:2017 Information technology — Cloud computing — Interoperability and portability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得其大者可以兼其小",
+   "en": "The finer details fall into place when they align with the bigger picture.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "成竹于胸",
+   "en": "<p class=\"MsoNormal\"> Have&nbsp;a Complete Image of the Bamboo Before Drawing It / Have&nbsp;a Fully Formed Picture in the Mind’ Eye</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“四个意识”",
+   "en": "the “Four Consciousnesses” (maintain political integrity, think in terms of the big picture, follow the leadership core, and keep in alignment with the central Party leadership)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "土壤质地",
+   "en": "soil texture",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤中矿物质颗粒的大小和其组合比例，即土壤的粗细、砂粘状况。按土壤中砂粒、粉砂粒和粘粒的含量百分数，可分为粗沙土、沙壤土、壤土、粘壤土和粘土。"
+  },
+  {
+   "cn": "失水",
+   "en": "moisture loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.18",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "在处理、贮藏、运输或市场销售过程中，水果和蔬莱产品的水分蒸发的过程。"
+  },
+  {
+   "cn": "健康保险可携带性",
+   "en": "portability of health insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "参保人可以随工作地或居住地转换而保留健康保险关系及其所积累的健康保险受益值的制度安排，携带方式包括异地就医和保险关系转移接续。"
+  },
+  {
+   "cn": "异常外来水分",
+   "en": "abnormal external moisture",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.13",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "由于自然因素（例如下雨）或人工处理（例如冲洗）而残存于水果或蔬菜表面的水分。但是不包括从冷藏库中取出后，产品表面出现的冷凝水。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "表面抗湿性",
+   "en": "surface moisture resistance",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.19",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物表面抵抗被水润湿的能力。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "水分保持剂",
+   "en": "moisture-retaining agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.19",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能够抵消低湿度空气的吸湿作用，保持食品内部持水性，防止食品变干的物质。"
+  },
+  {
+   "cn": "高水分粮食",
+   "en": "high moisture grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.16",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "水分含量超过安全水分最高值的粮食"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

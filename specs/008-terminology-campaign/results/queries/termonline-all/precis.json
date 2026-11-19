@@ -1,0 +1,432 @@
+{
+ "key": "precis",
+ "term": "précis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:24:35+00:00",
+ "status": "ok",
+ "note": "variant=précis; 审定公布名词库=40; 海峡两岸名词对照库=23; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "PR方程",
+   "en": "Peng-Robinson equation,PR equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "化学工程_化工热力学_流体的P-T-V关系",
+   "subjectName": "流体的P-T-V关系",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "保留上下文索引系统",
+   "en": "Preserved Context Index System,PRECIS",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.836",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "英国图书馆学家主持设计的一种索引专用软件。可用于自动生成比较接近自然语言的轮排主题索引。"
+  },
+  {
+   "cn": "精确栽培",
+   "en": "precise cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "采用栽培方案设计、生长动态监测、因苗管理调控、产量品质预测及农情信息服务等在内的精确化技术措施及装备进行的现代作物栽培管理的方式。"
+  },
+  {
+   "cn": "精密计时器",
+   "en": "precise calculagraph",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0012",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理仪器",
+   "subjectName": "地球物理仪器",
+   "publishYear": "2022",
+   "definition": "以时间同步控制为原理的采集时间同步控制过程器。 "
+  },
+  {
+   "cn": "精密星历",
+   "en": "precise ephemeris",
+   "source": "测绘学名词",
+   "wordNumber": "02.079",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "通过精确观测处理得到的表达卫星轨道位置的参数。"
+  },
+  {
+   "cn": "精密导线测量",
+   "en": "precise traversing",
+   "source": "测绘学名词",
+   "wordNumber": "02.273",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "相邻点位的相对中误差不超过二等及二等以上规范限差要求的导线测量。"
+  },
+  {
+   "cn": "精密水准测量",
+   "en": "precise leveling",
+   "source": "测绘学名词",
+   "wordNumber": "02.303",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "偶然中误差不超过二等和二等以上规范限差要求的水准测量。"
+  },
+  {
+   "cn": "精密水准仪",
+   "en": "precise level",
+   "source": "测绘学名词",
+   "wordNumber": "02.424",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "用于二等水准测量以上的高精度水准仪。"
+  },
+  {
+   "cn": "精密测距",
+   "en": "precise ranging",
+   "source": "测绘学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "对两点间相对精度达到<img src='/root/syzx/static/spz/cehui4.06.114.01.png'/>以上或绝对精度优于0.1mm的长度测定。"
+  },
+  {
+   "cn": "结构应用",
+   "en": "constructional praxis",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "构筑、装配和画图等能力。也是对二维或三维结构作业的能力。"
+  },
+  {
+   "cn": "精确中断",
+   "en": "precise interrupt",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0337",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "流水线处理机的一种中断处理方法。当第 i 条指令在译码时就发现它是非法的（如操作码非法），此时第 i +1条指令就不再进入流水线，但必须等到已经进入流水线的所有指令都处理完毕后，才能转去执行中断处理程"
+  },
+  {
+   "cn": "精密合金",
+   "en": "precise alloy",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "10.002",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表材料_仪器仪表材料一般名词",
+   "subjectName": "仪器仪表材料一般名词",
+   "publishYear": "2003",
+   "definition": "含有多种元素的合金，它要求严格的化学成分范围，特殊的熔炼工艺和热处理工艺，具有一定的物理性能和物理机械性能。"
+  },
+  {
+   "cn": "精密定线",
+   "en": "precise alignment",
+   "source": "土木工程名词",
+   "wordNumber": "14.172",
+   "subjectFullName": "土木工程_土木工程勘察与测量_工程测量",
+   "subjectName": "工程测量",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精密分馏",
+   "en": "precise fractionation",
+   "source": "石油名词",
+   "wordNumber": "06.0030",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "精密伏尔",
+   "en": "precise VOR,PVOR",
+   "source": "电子学名词",
+   "wordNumber": "20.044",
+   "subjectFullName": "电子学_导航",
+   "subjectName": "导航",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精密星历服务",
+   "en": "precise ephemeris service",
+   "source": "测绘学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "为满足大地测量、地球动力学研究等精密应用需求而提供的全球导航卫星系统高精度后处理卫星星历的服务。"
+  },
+  {
+   "cn": "精密测距码",
+   "en": "precise ranging code",
+   "source": "测绘学名词",
+   "wordNumber": "02.582",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "导航卫星播发的一种用于精密测距的伪随机噪声码。通常用于授权服务，也称为军用码。"
+  },
+  {
+   "cn": "精密工程测量",
+   "en": "precise engineering survey",
+   "source": "测绘学名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "采用高精度的测量仪器和专用设备，利用相应的测量方法和数据处理手段，使测量的绝对精度达到毫米量级及以上或相对精度达到<img src='/root/syzx/static/spz/cehui4.06.1"
+  },
+  {
+   "cn": "精密三角高程测量",
+   "en": "precise trigonometric leveling",
+   "source": "测绘学名词",
+   "wordNumber": "06.113",
+   "subjectFullName": "测绘学_工程测量学",
+   "subjectName": "工程测量学",
+   "publishYear": "2020",
+   "definition": "采用两台高精度的全站仪，进行准同时对向观测垂直角（天顶距）和距离，计算高差、传递高程的测量方法。要求观测边长不超过1000m，垂直角不超过10°。"
+  },
+  {
+   "cn": "精密压力表",
+   "en": "precise pressure gauge",
+   "source": "计量学名词",
+   "wordNumber": "07.046",
+   "subjectFullName": "计量学_压力、真空_弹性敏感元件式压力表",
+   "subjectName": "弹性敏感元件式压力表",
+   "publishYear": "2015",
+   "definition": "准确度等级高于 1.0 级的压力表。"
+  },
+  {
+   "cn": "PR［状态］方程",
+   "en": "Peng-Robinson equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精密分馏",
+   "en": "precise fractionation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "南鱼流星群",
+   "en": "Piscis Australids",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "精确切离",
+   "en": "precise excision",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精密测距",
+   "en": "precise ranging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密垂准",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密导线测量",
+   "en": "precise traversing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密水准测量",
+   "en": "precise leveling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密水准仪",
+   "en": "precise level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密星历",
+   "en": "precise ephemeris",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密准直",
+   "en": "precise alignment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密星历",
+   "en": "precise ephemeris",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精密工程测量",
+   "en": "precise engineering survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密水准尺",
+   "en": "precise leveling rod",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密伏尔",
+   "en": "precise VOR，PVOR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精码",
+   "en": "precise code\",\"P code",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "精码，P码",
+   "en": "precise code\",\"P code",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密定位业务",
+   "en": "precise positioning service\",\"PPS",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精密工程控制网",
+   "en": "precise engineering control metwork",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "精密机械安装测量",
+   "en": "precise mechanism installation  survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平准",
+   "en": "Maintain Prices at an Appropriate Level",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

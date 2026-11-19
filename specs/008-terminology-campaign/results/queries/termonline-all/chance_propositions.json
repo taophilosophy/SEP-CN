@@ -1,0 +1,792 @@
+{
+ "key": "chance propositions",
+ "term": "chance propositions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:27:07+00:00",
+ "status": "ok",
+ "note": "variant=chance propositions; 审定公布名词库=2687; 海峡两岸名词对照库=662; 其他来源数据库=162; 预公布名词数据库=98; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "偶然性",
+   "en": "chance",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物存在和变化的因果关系具有的不确定性与特殊性。具有暂时性、随机性、不稳定性，是必然性的破缺，居于从属地位。是人类对事物及其变化进行确定性描述的不完备。与“必然性”相对。"
+  },
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "机遇观察",
+   "en": "chance observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.061",
+   "subjectFullName": "自然辩证法_科学技术方法论_问题与观察",
+   "subjectName": "问题与观察",
+   "publishYear": "2024",
+   "definition": "本来是为了观察某一现象，但在实际观察过程中却意外地发现了另一现象，而后者又比前者具有更大的研究价值。"
+  },
+  {
+   "cn": "偶发故障",
+   "en": "chance fault",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1114",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机维护",
+   "subjectName": "计算机维护",
+   "publishYear": "2018",
+   "definition": "由于环境变化导致硬设备的性能下降或由于不明原因导致系统不能正常运行而引发的偶然性故障。"
+  },
+  {
+   "cn": "机会约束",
+   "en": "chance constraint",
+   "source": "数学名词",
+   "wordNumber": "011.0047",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "随机定律",
+   "en": "law of chance",
+   "source": "农学名词",
+   "wordNumber": "01.199",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在一系列重复的测试中，每个可能的事件都以一个相对频率出现，且这个频率大约等于其概率。"
+  },
+  {
+   "cn": "偶发故障",
+   "en": "chance fault",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定比定律",
+   "en": "law of definite proportions",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气候变化",
+   "en": "climatic change",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球变化",
+   "en": "global change",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "季节变化",
+   "en": "seasonal change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝热变化",
+   "en": "adiabatic change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平流变化",
+   "en": "advective change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候变化",
+   "en": "climatic change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相变",
+   "en": "phase change",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学变化",
+   "en": "chemical change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性质变化",
+   "en": "property change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆变化",
+   "en": "reversible change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负荷变动",
+   "en": "load change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熵变化",
+   "en": "entropy change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变化盲",
+   "en": "change blindness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人格改变",
+   "en": "personality change",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机会",
+   "en": "chance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鹤姿",
+   "en": "crane stance\",\"haktari seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "Change",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of court\",\"change sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调换队员",
+   "en": "crew change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换握",
+   "en": "grip change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速",
+   "en": "change gear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换车轮",
+   "en": "wheel change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换击打",
+   "en": "change-beat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信道",
+   "en": "channel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冲撞",
+   "en": "charge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "变迁",
+   "en": "change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.3",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "描述一切事物的运动变化，而不强调其目的或方向。"
+  },
+  {
+   "cn": "人口变动",
+   "en": "demographic change,population change",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口状况受社会、经济、人口自身等各方面因素的影响，随着时间的推移而不断发生变动。人口变动可分为自然变动、迁移变动和社会变动，它们分别反映人口变动过程的不同侧面。"
+  },
+  {
+   "cn": "可视变化",
+   "en": "visible change",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于一个或多个过程关键变量后，肉眼可观测到的变化。"
+  },
+  {
+   "cn": "社会变迁",
+   "en": "social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "社会的结构性变动。"
+  },
+  {
+   "cn": "内生变迁",
+   "en": "endogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.41",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "根源于内部因素的演变及其互动而产生的制度变迁。在此，制度变迁被看作社会发展的内在结果，外部条件（例如人口和环境）的变化只有通过内部因素的影响才能加速或延缓制度的变迁过程。"
+  },
+  {
+   "cn": "外生变迁",
+   "en": "exogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.42",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "由一些不属于制度的外部社会因素变化引起的具体制度的变迁。这些因素是在长期演化过程中累积而成的，可以是经济的，也可以是政治的、军事的、乃至观念的，如人口的增长和迁移、技术的进步、宗教的兴起和文化的传播等"
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "一个人已经形成的态度在接受某一信息后所发生的相应变化的过程。一种是一致性的改变，指方向不变而仅仅改变原来态度的强度，如由微弱态度变为强烈的态度。另一种是不一致的改变，指以性质相反的新态度取代原有旧态度"
+  },
+  {
+   "cn": "文化变迁",
+   "en": "cultural change",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会的文化模式发生变化的现象。此概念针对“文化模式”和“平衡论”失去活力或平衡的现象而言，其机制分为内部变迁（如发明和革新）与外部变迁（如征服和灾害）。"
+  },
+  {
+   "cn": "质变",
+   "en": "qualitative change",
+   "source": "马克思主义",
+   "wordNumber": "01.0077",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量变”相对。事物根本性质发生的突变，即一种质态向另一种质态的飞跃，事物发展渐进过程中的中断。它是事物的内部矛盾引起的，是量变发展到一定阶段的必然产物。质变是事物发展的关键环节。通过质变，旧事物灭亡"
+  },
+  {
+   "cn": "量变",
+   "en": "quantitive change",
+   "source": "马克思主义",
+   "wordNumber": "01.0082",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质变”相对。事物在数量上的增加或减少，场所改变等方面的变化。是事物运动的基本状态之一。量变的形式是多样的，可以概括为两个基本形式：一是数量上的增减；二是构成事物的要素在排列次序和结构形式上的改变。"
+  },
+  {
+   "cn": "语言演变",
+   "en": "language change",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0103",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言随着时间推移、社会变迁而发生的语音、词汇、语法等结构变化，即语言的历时变化。"
+  },
+  {
+   "cn": "单于",
+   "en": "Chanyu",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0243",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "匈奴部落联盟首领专称，始见匈奴冒顿单于之父头曼单于。匈奴西迁后，乌丸、鲜卑部落联盟首领亦使用单于，两晋十六国时期改称大单于。"
+  },
+  {
+   "cn": "甲顶针样改变",
+   "en": "nail thimble change",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "银屑病出现的指甲顶针样凹陷（>10个/甲）。最多可见于80%的银屑病关节炎患者。"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "最小可测变化",
+   "en": "smallest detectable change, SDC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具能够可靠检测到的最小变化量。需大于测量随机误差。"
+  },
+  {
+   "cn": "癌症告知",
+   "en": "cancer disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.055",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "医务人员在为患者作出癌症诊断后将诊断结论、诊治方案、病情预后及诊治费用等信息完全告知患者和/或其家属的沟通过程。"
+  },
+  {
+   "cn": "消毒通道",
+   "en": "disinfection channel",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.19",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "消毒时，人员和物品进出的路径。"
+  },
+  {
+   "cn": "换源器",
+   "en": "source changer",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用于更换γ射线探伤源组件的屏蔽容器。通常具有两个贮源孔，旧源从其中的一个源孔被推进，新源从另一个源孔中被移出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

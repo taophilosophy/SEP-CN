@@ -1,0 +1,762 @@
+{
+ "key": "non-negativity",
+ "term": "Non-Negativity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:37:34+00:00",
+ "status": "ok",
+ "note": "variant=Non-Negativity; 审定公布名词库=3207; 海峡两岸名词对照库=1007; 其他来源数据库=154; 预公布名词数据库=139; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "非负矩阵",
+   "en": "non-negative matrix",
+   "source": "数学名词",
+   "wordNumber": "04.0663",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非负特征型",
+   "en": "non-negative characteristic form",
+   "source": "数学名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正半定二次估计",
+   "en": "non-negative definite quadratic estimate",
+   "source": "数学名词",
+   "wordNumber": "09.0684",
+   "subjectFullName": "数学_概率论_数理统计_线性模型",
+   "subjectName": "线性模型",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "测绘学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度相反或色彩为互补色的像片。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "物理学名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "否定[的]",
+   "en": "negative",
+   "source": "数学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非负凸函数的极函",
+   "en": "polar of non-negative convex function",
+   "source": "数学名词",
+   "wordNumber": "05.0817",
+   "subjectFullName": "数学_分析学_凸分析",
+   "subjectName": "凸分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "负调控",
+   "en": "negative regulation;negative control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录、翻译或信号转导的调控过程被一些因子（如阻遏蛋白）所阻遏的调控方式。可使基因表达水平下降以及基因产物（RNA或蛋白质）数量减少。"
+  },
+  {
+   "cn": "负离子",
+   "en": "negative ion",
+   "source": "物理学名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "负均衡",
+   "en": "negative balance",
+   "source": "地质学名词",
+   "wordNumber": "16.05.061",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "某一均衡区,在一定均衡期内，总补给量小于总消耗量时的水均衡。"
+  },
+  {
+   "cn": "消极空间",
+   "en": "negative space",
+   "source": "风景园林名词",
+   "wordNumber": "07.0030",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "无计划性、能够让人产生消极的反应，用来分析建筑空间与人之间关系，不能或仅部分满足人的意图的空间。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "总论_激素_激素分泌方式与作用机制",
+   "subjectName": "激素分泌方式与作用机制",
+   "publishYear": "2025",
+   "definition": "靶器官、组织或细胞分泌的激素反向作用于上级内分泌腺体，进而抑制和减弱其激素分泌的作用，使机体系统达到或保持平衡或稳态的调节方式。"
+  },
+  {
+   "cn": "负［向］选择",
+   "en": "negative selection",
+   "source": "农学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "一些等位基因在自然或人工选择中被高频率淘汰的现象。"
+  },
+  {
+   "cn": "负催化",
+   "en": "negative catalysis",
+   "source": "精细化工名词",
+   "wordNumber": "08.0327",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "通过降低反应速率或延缓化学反应的进行，从而抑制反应达到化学平衡的作用。与催化作用相反。"
+  },
+  {
+   "cn": "负吸附",
+   "en": "negative adsorption",
+   "source": "精细化工名词",
+   "wordNumber": "08.0329",
+   "subjectFullName": "精细化工_其他精细化学品_催化剂",
+   "subjectName": "催化剂",
+   "publishYear": "2025",
+   "definition": "吸附质分子吸附到催化剂表面需要更高的能量，导致界面浓度低于本体相时的吸附现象。"
+  },
+  {
+   "cn": "负趋性",
+   "en": "negative taxis",
+   "source": "农学名词",
+   "wordNumber": "10.117",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "离开刺激源的运动。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "10.0027",
+   "subjectFullName": "生物化学与分子生物学_新陈代谢_概述_水溶性维生素",
+   "subjectName": "水溶性维生素",
+   "publishYear": "2024",
+   "definition": "代谢产物通过对酶的调节使代谢速度变慢的过程。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative film",
+   "source": "档案学名词",
+   "wordNumber": "05.04.023",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "载有负像的缩微胶片。用N表示。"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.737",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "控制论中的核心概念之一。在反馈过程中，目标值与输出值的偏差导致偏差缩小的一种控制方式。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "负超螺旋",
+   "en": "negative supercoiling\",\"negative supercoil",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "软性底片",
+   "en": "soft negative\",\"flat negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "负离子",
+   "en": "negative ion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负趋化性",
+   "en": "negative chemotaxis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "负染色",
+   "en": "negative staining",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负干涉",
+   "en": "negative interference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负向地性（=负向重力性）",
+   "en": "negative gravitropism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负向重力性，负向地性",
+   "en": "negative gravitropism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负选择",
+   "en": "negative selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负催化作用",
+   "en": "negative catalysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负电阻",
+   "en": "negative resistance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负吸附",
+   "en": "negative adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负反馈",
+   "en": "negative feedback",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负共沸混合物",
+   "en": "negative azeotrope",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负催化剂",
+   "en": "negative catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "负偏差",
+   "en": "negative deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反向认同",
+   "en": "negative identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "负染",
+   "en": "negative staining",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于不透光液体标本镜检的染色方法。其染色处理过程并非针对菌体本身，生物膜可用此法进行目测观察。"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过直接观察指示微生物在液体培养基中的生长情况，来间接确定试验菌的存活情况计算D值的方法。"
+  },
+  {
+   "cn": "负压病房",
+   "en": "negative pressure room",
+   "source": "消毒学",
+   "wordNumber": "4.6.18",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过特殊通风装置，使病房的空气按照由清洁区向污染区方向流动，病房内的压力低于室外压力的病房。"
+  },
+  {
+   "cn": "负二项分布",
+   "en": "negative binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个已知事件在伯努利试验中每次出现的概率是p，在一连串伯努利试验中，一件事件刚好在第r+k次试验中出现第r次的离散概率分布。其概率函数为。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "负压手术室",
+   "en": "negative pressure operating room",
+   "source": "消毒学",
+   "wordNumber": "4.6.16",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "设独立空气处理系统，室内空气静压低于相邻相通环境空气静压，为伴有经呼吸道（空气或飞沫）传播疾病的患者实施手术的房间。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阴性型）",
+   "en": "polyarticular JIA, RF negative",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阴性。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

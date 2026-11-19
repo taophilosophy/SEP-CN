@@ -1,0 +1,732 @@
+{
+ "key": "self activity",
+ "term": "self activity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:24:42+00:00",
+ "status": "ok",
+ "note": "variant=self activity; 审定公布名词库=2872; 海峡两岸名词对照库=1105; 其他来源数据库=98; 预公布名词数据库=229; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "自理活动",
+   "en": "self-care activity",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.097",
+   "subjectFullName": "物理医学与康复_康复功能评定_日常生活活动能力评定",
+   "subjectName": "日常生活活动能力评定",
+   "publishYear": "2014",
+   "definition": "为了生存与健康，人们每天常规都要进行的基本活动。包括进食、梳洗修饰、洗澡、如厕、移动等。"
+  },
+  {
+   "cn": "自活化时间",
+   "en": "self-activation time",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0182",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀试验及评价",
+   "subjectName": "腐蚀试验及评价",
+   "publishYear": "2021",
+   "definition": "处于钝化电位下的金属，当中断阳极电流后，从钝态转变为活态所需要的时间。"
+  },
+  {
+   "cn": "土壤自净能力",
+   "en": "soil self-purification activity",
+   "source": "土壤学名词",
+   "wordNumber": "07.225",
+   "subjectFullName": "土壤学_土壤生态与土壤肥力",
+   "subjectName": "土壤生态与土壤肥力",
+   "publishYear": "1998",
+   "definition": "土壤通过对污染物吸附、降解、沉淀、络合等作用以消除污染物的能力。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "农学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一植株上的同一朵花的花粉传播到同朵花的雌蕊柱头上，或由同株的花粉传播到同株的雌蕊柱头上的受精过程。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "水产名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "雌雄同体生物的自体受精。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "地质学名词",
+   "wordNumber": "13.01.107",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "为使理想溶液(或极稀溶液)的热力学公式适用于实际溶液，用来代替浓度的一种物理量。在电解质溶液中指实际发挥作用的有效浓度。有效浓度与实际浓度的比值称为“活度系数（activity coefficient"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0174",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）某种物质的化学或物理反应能力。如某种酶、药物、激素或其他物质的效能。 （2）某种放射活性物质的强度。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.084",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "对于生物反应，是表示酶、细胞等促进反应的能力。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "行为医学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "（1）机体运动或为某种目的而行动。（2）一切物体（事物）的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.054",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_电镀与化学镀",
+   "subjectName": "电镀与化学镀",
+   "publishYear": "2021",
+   "definition": "在标准状态下，溶液中组分的热力学浓度。即矫正真实溶液与理想溶液性质的偏差。"
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "运动医学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "运动医学_运动康复_物理治疗技术_运动治疗",
+   "subjectName": "运动治疗",
+   "publishYear": "2019",
+   "definition": "泛指一切物体或事物的动态变化。在运动医学与康复医学范畴特指与躯体运动相关的动态变化。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "冶金学名词",
+   "wordNumber": "04.0159",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "为校正真实溶液对理想液态混合物所产生的偏差引入的概念，为组元在真实溶液中表现出的实际活动能力。活度是与浓度比值或分压比值有关的无量纲量。"
+  },
+  {
+   "cn": "放射性活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1109",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0219",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "为使理想溶液的热力学公式适用于真实溶液，用来代替浓度的一种物理量。即某物质的“有效浓度”。"
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "物理学名词",
+   "wordNumber": "05.1108",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0160",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "能够独立执行的工作单元。是工作流的基本构成单位。"
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "化学名词",
+   "wordNumber": "04.0194",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "表示非理想溶液性质的物理量。其定义为<img src='/root/syzx/static/spz/huaxue2.04.0194.1.png'/>，<img src='/root/syzx/stat"
+  },
+  {
+   "cn": "作业",
+   "en": "activity",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0292",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为了某种目的而进行的消耗资源的活动。"
+  },
+  {
+   "cn": "自燃烟雾信号",
+   "en": "self-activating smoke signal",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生圈自发烟雾信号",
+   "en": "lifebuoy self-activating smoke signal",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活动",
+   "en": "activity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "激活作用",
+   "en": "activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据自激活",
+   "en": "data self-activation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据活动",
+   "en": "data activity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活数据学",
+   "en": "Activation Dataology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自动活化",
+   "en": "self-activation",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.5.4.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "在一定的条件下，神经性毒剂中毒后形成的膦酰化酶可以通过水解而发生脱膦酰基反应恢复催化乙酰胆碱水解功能的过程。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  },
+  {
+   "cn": "自检",
+   "en": "self-inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业根据产品执行标准对所生产的消毒产品自行检验的过程。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "自我评估",
+   "en": "self-assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.19",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "由高级管理人员和其他级别的管理人员执行的常规和持续过程，以评估其所有职责领域的绩效有效性。"
+  },
+  {
+   "cn": "自屏蔽",
+   "en": "self-shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.11",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "源物质本身及其结构材料对源辐射的屏蔽。"
+  },
+  {
+   "cn": "自组织",
+   "en": "self-organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "不存在外部因素的控制、管理和引导，系统按照相互默契的某种规则，各尽其责而又协调地自动地形成有序结构的过程。艾什比(W.R.Ashby）首先提出自组织概念，之后学者将之应用于社会组织分析。与“他组织”相"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我构念",
+   "en": "self construal",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家马库斯(Hazel Markus）与日本心理学家北山(Shinobu Kitayama）在有关东西方文化因素对个体社会化过程影响的分析中提出的概念，指个体自我建构的与他人关系的认知结构性表"
+  },
+  {
+   "cn": "自我认同",
+   "en": "self identity",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "美国心理学家埃里克森(Erik Homburger Erikson）等人在青少年群体心理发展研究中提出的概念，常用于发展心理学领域，指青少年因其需要、情感、能力、目标、价值观等特质被整合为统一的人格框"
+  },
+  {
+   "cn": "自我意象",
+   "en": "self image",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体围绕“我是怎样一个人”、“我能干什么”等问题所“刻画”并认可的自我“图像”或“肖像”。具体包括自己如何看待自己，他人如何看待自己，以及自己如何看待他人如何看待自己等三个方面的内容。既可能是积极的，"
+  },
+  {
+   "cn": "自我意识",
+   "en": "self-consciousness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同但又有所关联的含义：一是指个体对自己身心活动的觉察，指向内在的心理过程、不为人知的私密性特征或经验以及能够为人所观察、知晓的公开性特征或经验；二是指个体在特定社会情境下过于从他人角度关注自我"
+  },
+  {
+   "cn": "自我觉察",
+   "en": "self-awareness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同含义：一是指个体对作为观察与分析客体的自我的知觉，包括身体感觉、动作及心理过程等；二是指个体对自己作为一个与他人相区隔，拥有一己知觉、情绪、情感、思想的独立个体的理解。"
+  },
+  {
+   "cn": "自我知觉",
+   "en": "self-perception",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "贝姆(Daryl Bem)于20世纪70年代提出的理论，认为如果有关自我的内部线索不牢固、模糊或无法解释，人们即有可能通过观察自己的行为并分析其外在背景来获得自我认识，甚至得出为何产生这种行为的逻辑性"
+  },
+  {
+   "cn": "自我图式",
+   "en": "self-schema",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "个体在已有经验基础上所形成的有关“自我”的结构化的心理表征，它既包括以具体的事件和情境为基础的认知表征(如“我昨天在会上发言时犹豫不决”) ，也包括较为概括的、来自本人或他人评价的认知表征(如“我为人"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "自我呈现",
+   "en": "self-presentation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "任何旨在制造、保持、修改他人对自己的印象的行为，系社会互动的一个重要方面。由美国社会学家戈夫曼(Erving Goffman）提出的相关理论认为，人们总是倾向于通过根据当下的社会情景或人际背景，有意识"
+  },
+  {
+   "cn": "自我披露",
+   "en": "self-disclosure",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "在人际沟通过程中，有意识或下意识地将自己的真实想法、情感、愿望、偏好及成败经历等私密性信息告诉他人的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

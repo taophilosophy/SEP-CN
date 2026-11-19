@@ -1,0 +1,762 @@
+{
+ "key": "restricted options argument",
+ "term": "Restricted Options Argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:32:05+00:00",
+ "status": "ok",
+ "note": "variant=Restricted Options Argument; 审定公布名词库=638; 海峡两岸名词对照库=212; 其他来源数据库=66; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "农学名词",
+   "wordNumber": "19.108",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "交易方有权在未来某一规定时间内以特定价格买入或者卖出约定标的物的交易合约。"
+  },
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "经济学名词",
+   "wordNumber": "12.133",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "一种能在未来某特定时间以特定价格买入或卖出一定数量的某种特定商品的权利。"
+  },
+  {
+   "cn": "选项",
+   "en": "option",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0612",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统或应用程序通过人机交互接口提供给用户的可选参数。用以调节或定制系统或程序的功能、性能、开销等特性。"
+  },
+  {
+   "cn": "期权",
+   "en": "option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0544",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "赋予投资者在一定的时期内，以事先确定的价格买卖资产、货币或者期货合约等的权利的一种交易合约。"
+  },
+  {
+   "cn": "选件",
+   "en": "option",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0750",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可选[的]",
+   "en": "optional",
+   "source": "数学名词",
+   "wordNumber": "09.0221",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实物期权",
+   "en": "real option,managerial option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0249",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "期权所有人进行长期资本投资在决策时拥有的、能根据在决策时尚不确定的因素改变行为的权利。"
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "数学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易",
+   "en": "option trading",
+   "source": "农学名词",
+   "wordNumber": "19.109",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "在约定时间内以一定的价格出售或购买一定数量的标的物的权利交易。"
+  },
+  {
+   "cn": "期权交易",
+   "en": "option trading",
+   "source": "电力名词",
+   "wordNumber": "06.432",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "对期权合同的交易。分为交易所交易和柜台交易两种方式。"
+  },
+  {
+   "cn": "期权合同",
+   "en": "option contract",
+   "source": "电力名词",
+   "wordNumber": "06.435",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "一份合同,在此合同中期权的卖方授予期权的买方在规定的时间内(或规定的日期)以确定的价格从卖方处购买或卖给卖方一定电力交易产品的权利。"
+  },
+  {
+   "cn": "共择",
+   "en": "co-option",
+   "source": "植物学名词",
+   "wordNumber": "02.0295",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "基因及其产物在进化过程中产生新的功能，进而替代原有功能的过程。是发育过程在分子水平上进化的主要方式。"
+  },
+  {
+   "cn": "一揽子期权",
+   "en": "basket option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0562",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "收益取决于一个资产投资组合的价值的一种期权。"
+  },
+  {
+   "cn": "指数期权",
+   "en": "index option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0555",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以股票指数或其他指数为标的的期权。"
+  },
+  {
+   "cn": "灵活期权",
+   "en": "flex option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0559",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "在交易所内交易的、条款不同于交易所内标准期权的期权。"
+  },
+  {
+   "cn": "领子期权",
+   "en": "collar option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0596",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "由两个和两个以上的执行价格和到期时间相同的看涨期权或看跌期权构成的期权。通常是卖出看涨期权，同时买进看跌期权。"
+  },
+  {
+   "cn": "外部选择权",
+   "en": "outside option",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1004",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "当事人退出合作时可以得到的机会收益。"
+  },
+  {
+   "cn": "亚式期权",
+   "en": "Asian option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0552",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "期权的一种类型。其最终盈亏的计算是由期权合约有效期内资产的平均价格决定的。"
+  },
+  {
+   "cn": "或有期权",
+   "en": "contingent option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0577",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "持有者行使权力时才需支付期权费的期权。如果不行使权力，期权持有者的成本为零。"
+  },
+  {
+   "cn": "期权市场",
+   "en": "option market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0672",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "对特定时间内以约定价格购买特定商品的权利进行交易的市场。"
+  },
+  {
+   "cn": "选择",
+   "en": "options",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "选件",
+   "en": "option",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可选的",
+   "en": "optional",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部级",
+   "en": "restricted",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "restriction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相克",
+   "en": "restriction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共择",
+   "en": "co-option",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "承购权",
+   "en": "call option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "复式期权",
+   "en": "compound option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票期权",
+   "en": "stock option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币期权",
+   "en": "currency option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖出选择权",
+   "en": "put option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "美式期权",
+   "en": "American Option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "欧式期权",
+   "en": "European Option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货买卖",
+   "en": "option trading",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易",
+   "en": "option dealing",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易合同",
+   "en": "option contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权交易所",
+   "en": "option exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期权市场",
+   "en": "option market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "任选股权",
+   "en": "share option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "碳期权",
+   "en": "carbon option",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选跳越",
+   "en": "optional vault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限定空间",
+   "en": "restricted space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旅行限制",
+   "en": "travel restrictions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自选动作",
+   "en": "optional exercise\",\"voluntary exercise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制处理权",
+   "en": "right to restrict processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "FAIR化有限开放数据",
+   "en": "FAIR data with restricted access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据限制处理权",
+   "en": "right to restrict data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件采购使用限制策略",
+   "en": "software purchase and use restriction policy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择发球权",
+   "en": "choice of throw-on\",\"option of throw-on",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  },
+  {
+   "cn": "可选要素",
+   "en": "optional element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.5",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中存在与否取决于标准具体需求的要素。"
+  },
+  {
+   "cn": "可选择性成分",
+   "en": "optional components",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.6",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可添加或不添加的成分。能够满足适用人群特殊生理阶段或特殊机体状态下不同营养需求的营养成分，添加时其添加量应当符合相关标准限定的范围。"
+  },
+  {
+   "cn": "限制口粮",
+   "en": "restricted rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "要求携带最少装备、短期（少于10 天）内完成特殊任务时食用的单兵口粮，由于携带物品体积和重量的限制，其体积和重量均小于作战口粮。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "受约束的比转换能",
+   "en": "restricted cema",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位质量物质中，电子产生电离、激发过程中，扣除释出的动能大于特定值的δ粒子动能后，其他能量损失的总和。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "权力制约",
+   "en": "power restriction",
+   "source": "马克思主义",
+   "wordNumber": "03.0772",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了防治权力的滥用和腐败，而对权力进行制衡与约束。它既包括公民权利对国家权力的制约，也包括国家权力之间的分权制约，如西方的三权分立。中国共产党借鉴但不照搬西方国家在权力制约的经验，正在探索建立、健全决"
+  },
+  {
+   "cn": "职业限制",
+   "en": "occupational restriction",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "保险公司为了控制风险，对一些高风险职业进行限制或者不承保的现象。"
+  },
+  {
+   "cn": "广告限制",
+   "en": "advertising restriction ",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_健康危害行为公共政策",
+   "subjectName": "健康危害行为公共政策",
+   "publishYear": "2025",
+   "definition": "对危害健康产品的广告加以限制，例如禁止香烟广告。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "非匀称型小于胎龄儿",
+   "en": "asymmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数<2.0（胎龄≤37周）或<2.2（胎龄>37周），身长/头围<1.36的小于胎龄儿。多发生于胎儿晚期，常与母亲营养不良或高血压等有关，出生体重明显低于正常，身长和头围尚与胎龄一致。"
+  },
+  {
+   "cn": "青春期节食",
+   "en": "adolescent restrictive eating",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "儿童青少年尤其是青春期女孩为了获得或保持苗条身材、惧怕体重增加而采取控制食物量或限制食物品种的饮食行为。"
+  },
+  {
+   "cn": "风险管理措施评估",
+   "en": "risk management options assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对风险管理措施进行评估，帮助主管部门决定是否需要对某一物质进行进一步基于管理的风险管理活动，并确定最合适的工具来解决问题。"
+  },
+  {
+   "cn": "禁用物质",
+   "en": "prohibited and restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "不能作为消毒剂原料使用的物质。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "胎儿生长受限",
+   "en": "fetal growth restriction, FGR",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "胎儿在宫内生长发育指标未达到预期值的状态。一般表现为胎儿的估测体重或腹围小于相应胎龄的第10百分位数。"
+  },
+  {
+   "cn": "限制性会阴切开",
+   "en": "restrictive use of episiotomy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.15",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "分娩过程对产妇不进行常规会阴切开，当出现会阴过紧或胎儿过大、估计分娩时会阴撕裂难以避免，或母儿有病理情况急需结束分娩等情况时才考虑实施会阴切开的策略。"
+  },
+  {
+   "cn": "利用限制改造资本主义工商业",
+   "en": "utilizing restricting and transforming capitalist industry and commerce",
+   "source": "马克思主义",
+   "wordNumber": "02.0356",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国资本主义工商业社会主义改造的基本政策。即：通过国家行政机关的管理、国营经济的领导和工人群众的监督，利用资本主义工商业的有利于国计民生的积极作用，限制它们的不利于国计民生的消极作用，鼓励和指导它们转"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

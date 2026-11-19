@@ -1,0 +1,712 @@
+{
+ "key": "contribution view",
+ "term": "contribution view",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:39:35+00:00",
+ "status": "ok",
+ "note": "variant=contribution view; 审定公布名词库=249; 海峡两岸名词对照库=66; 其他来源数据库=12; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "自来稿",
+   "en": "contributions",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.181",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "读者自行向编辑部投送的稿件。这部分稿件需经认真鉴别审定后才能使用。"
+  },
+  {
+   "cn": "污染后果",
+   "en": "pollution contribution",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0044",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_环境",
+   "subjectName": "环境",
+   "publishYear": "2022",
+   "definition": "由于污染所引起事物变化的结果。 "
+  },
+  {
+   "cn": "剩余贡献",
+   "en": "residual contribution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0233",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "剩余项对活度系数的贡献。"
+  },
+  {
+   "cn": "贡献率",
+   "en": "contribution rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0460",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "分析经济效益的一个指标，是指有效或有用成果数量与资源消耗及占用量之比，即产出量与投入量之比，或所得量与所费量之比。"
+  },
+  {
+   "cn": "边际贡献",
+   "en": "contribution margin",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0302",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "销售收入减去变动成本后的余额。"
+  },
+  {
+   "cn": "残余贡献",
+   "en": "residual contribution",
+   "source": "化学工程名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "化学工程_化工热力学_相平衡与化学平衡",
+   "subjectName": "相平衡与化学平衡",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "特约编辑",
+   "en": "contributing editor",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.018",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "编辑部门约请担任编辑工作的编外专业人员的职务名称。"
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "全景",
+   "en": "full view,panoramic view",
+   "source": "物理学名词",
+   "wordNumber": "04.0476",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "基团贡献法",
+   "en": "group contribution method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "把单质和化合物的物理化学性质看成是构成它们的基团对物理化学性质贡献的加和，通过基团的体积参数、表面积参数以及基团之间的交互作用参数来计算活度系数。"
+  },
+  {
+   "cn": "国有资产出资",
+   "en": "national assets contribution",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.226",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "国有资产管理单位代表国家将部分国有资产作为股金投入企业的设立或运营的行为。包括机器、厂房和资金等。"
+  },
+  {
+   "cn": "固定缴款计划",
+   "en": "defined contribution plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0367",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "根据某一固定公式对类资产进行配置来安排雇主出资份额的养老金计划。"
+  },
+  {
+   "cn": "确定供款型养老金计划",
+   "en": "defined-contribution plan",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0732",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "一种养老金计划，雇员或是其雇主单独或共同向雇员的独立的退休账户以确定方式按期缴款，雇员从该账户中提取退休后的收益，收益水平取决于账户投资绩效。一般而言，雇员对账户投资具有一定的控制权，但是雇主不保证雇"
+  },
+  {
+   "cn": "共同海损分摊",
+   "en": "general average contribution",
+   "source": "航海科技名词",
+   "wordNumber": "13.0221",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "稿源",
+   "en": "source of contributions",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.02.005",
+   "subjectFullName": "编辑与出版学_编辑_组稿",
+   "subjectName": "组稿",
+   "publishYear": "2022",
+   "definition": "出版单位的稿件来源。"
+  },
+  {
+   "cn": "贡献源",
+   "en": "contributing source,CSRC",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0833",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "贡献于由一个实时传输协议（RTP）混合器产生的结合流的一个RTP分组流的源。在RTP分组头的贡献源列表中用其同步源标识符表示。"
+  },
+  {
+   "cn": "障景",
+   "en": "blocking view",
+   "source": "风景园林名词",
+   "wordNumber": "02.0096",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "通过视线遮挡、屏障景物，从而增加空间层次，或遮住干扰景观的事物的造景手法。"
+  },
+  {
+   "cn": "残余贡献",
+   "en": "residual contribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共同出资",
+   "en": "joint contribution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信托投资",
+   "en": "fiduciary contribution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反射区",
+   "en": "contributing region",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共同海损分摊",
+   "en": "general average contribution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳环面观",
+   "en": "girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壳面观",
+   "en": "valve view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视因数",
+   "en": "view factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海底观光",
+   "en": "submarine view",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "版面视图",
+   "en": "layout view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表视图",
+   "en": "table view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反视立体图",
+   "en": "pseudoscopic view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实现视点",
+   "en": "implementation view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据视图",
+   "en": "data view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "透视视图",
+   "en": "perspective view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共建共享",
+   "en": "joint contribution and shared benefits",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球治理观",
+   "en": "views on global governance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社保延缴",
+   "en": "(to allow) deferred social security contributions  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《共建“一带一路”倡议：进展、贡献与展望》",
+   "en": "The Belt and Road Initiative: Progress, Contributions and Prospects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《共建“一带一路”：理念、实践与中国的贡献》",
+   "en": "Building the Belt and Road: Concept, Practice and China’s Contribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奏启",
+   "en": "Memorial or Statement to Present One’s View to the Emperor",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对中国人民生命安全和身体健康负责，也是在为世界公共卫生事业作贡献",
+   "en": "to act responsibly in protecting the safety and health of its people, and contribute to safeguarding global public health",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贡献者许可协议",
+   "en": "Contributor License Agreement (CLA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缴费率",
+   "en": "contribution rate",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.6",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "雇员和雇主所缴纳各项社会保险总额占个人工资或用人单位工资总额的比例。"
+  },
+  {
+   "cn": "食物贡献率",
+   "en": "food contribution rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.65",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "摄入某一种食物对某种特定物质（营养素、污染物等）的摄入量的贡献程度。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "社会健康保险筹资",
+   "en": "social health insurance contribution",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "国家通过立法强制要求雇主和雇员按一定的收入比例缴纳社会医疗保险费形成基金池，用于雇员及其家属就医补偿的一种卫生筹资模式。"
+  },
+  {
+   "cn": "商业健康保险筹资",
+   "en": "private health insurance contribution",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "由保险公司提供，消费者自愿参加和选择最适合自己偏好的保险项目，根据个体疾病风险特征缴纳保险费形成基金池的一种卫生筹资模式。"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  },
+  {
+   "cn": "科学贡献的知名度",
+   "en": "visibility of scientific contributions",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.20",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家的科学成果受到同行关注和社会承认的程度。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "积极健康观",
+   "en": "positive health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.2",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "现代医学模式下从生物学、心理学和社会学多个维度改善和控制健康影响因素的健康观。"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "唯物主义死亡观",
+   "en": "materialistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是一种自然现象的观念。世界上任何事物都要经历产生、发展和消亡的过程，死亡是不以人的意志为转移的客观规律，精神依赖于物质性的身体而存在，否认灵魂及灵魂不灭。"
+  },
+  {
+   "cn": "大健康观",
+   "en": "comprehensive view on health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.1",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以大健康为基础，强调从“以治病为中心”转向“以健康为中心”，涵盖了生理、心理、社会适应和道德健康等多维度的健康观。"
+  },
+  {
+   "cn": "二元论死亡观",
+   "en": "dualistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种混合着唯心主义和唯物主义的死亡观念。认为灵魂和身体是两个独立的实体，死亡是灵魂与身体的分离，身体消亡而灵魂不灭。"
+  },
+  {
+   "cn": "唯心主义死亡观",
+   "en": "idealistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是超自然现象的观念。认为人的灵魂不依赖于物质性的身体而存在，灵魂不灭，死亡是灵魂对尘世的超脱。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "健康生产要素边际贡献",
+   "en": "marginal contribution of health production input",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.2.4",
+   "subjectFullName": "卫生经济学名词_健康需求_健康生产",
+   "subjectName": "健康生产",
+   "publishYear": "2025",
+   "definition": "健康生产要素投入的边际产品，一个单位健康生产要素可以产生的健康天数的变化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

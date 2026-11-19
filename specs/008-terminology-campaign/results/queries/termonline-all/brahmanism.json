@@ -1,0 +1,42 @@
+{
+ "key": "brahmanism",
+ "term": "Brahmanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:30:34+00:00",
+ "status": "ok",
+ "note": "variant=Brahmanism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "婆罗门教",
+   "en": "Brahmanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.0236",
+   "subjectFullName": "世界历史_古代中世纪_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "印度晚期吠陀时代统治阶级为了保持阶级统治和压迫而采用的一种带有多神崇拜色彩和宣扬四种姓说的宗教。"
+  },
+  {
+   "cn": "婆罗门寺院",
+   "en": "brahmanical temple",
+   "source": "教育学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古印度婆罗门教开展高等教育的场所。"
+  },
+  {
+   "cn": "婆罗门种姓",
+   "en": "Brahman Caste",
+   "source": "世界历史名词",
+   "wordNumber": "02.0232",
+   "subjectFullName": "世界历史_古代中世纪_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "印度瓦尔那制度的第一种姓或第一等级，其职业是“充任祭司”等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

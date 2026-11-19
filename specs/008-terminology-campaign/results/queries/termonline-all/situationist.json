@@ -1,0 +1,52 @@
+{
+ "key": "situationist",
+ "term": "situationist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:40:23+00:00",
+ "status": "ok",
+ "note": "variant=situationist; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "情境论",
+   "en": "situation theory\",\"situationism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "具体情形",
+   "en": "concrete situations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "情境主义国际",
+   "en": "situationist international",
+   "source": "马克思主义",
+   "wordNumber": "05.0101",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪中后期欧洲一个社会文化的重要思潮，主张发动日常生活的革命来取代资本主义的景观社会，直接影响着消费社会理论与后现代主义激进哲学。代表人物有居伊·德波与鲁尔·瓦纳格姆。"
+  },
+  {
+   "cn": "两个大局",
+   "en": "two overall situations",
+   "source": "马克思主义",
+   "wordNumber": "03.0568",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一是沿海地区加快对外开放，较快地先发展起来，内地要顾全这个大局。另一个是沿海地区发展到一定时期，拿出更多的力量帮助内地发展，沿海地区也要顾全这个大局。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

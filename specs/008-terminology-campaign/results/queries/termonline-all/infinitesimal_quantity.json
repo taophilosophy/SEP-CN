@@ -1,0 +1,772 @@
+{
+ "key": "infinitesimal quantity",
+ "term": "infinitesimal quantity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:22:06+00:00",
+ "status": "ok",
+ "note": "variant=infinitesimal quantity; 审定公布名词库=1095; 海峡两岸名词对照库=201; 其他来源数据库=32; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "无穷小",
+   "en": "infinitesimal",
+   "source": "数学名词",
+   "wordNumber": "02.0120",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无限小应变",
+   "en": "infinitesimal strain",
+   "source": "地质学名词",
+   "wordNumber": "09.02.057",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "地质学中将应变量＜1%的应变视为无限小应变。可以用工程力学中的小变形理论和方法进行分析。"
+  },
+  {
+   "cn": "［微］元",
+   "en": "infinitesimal element",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0018",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "积分号内的微分变量。"
+  },
+  {
+   "cn": "无限小转动",
+   "en": "infinitesimal rotation",
+   "source": "物理学名词",
+   "wordNumber": "02.0520",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无限小转动",
+   "en": "infinitesimal rotation",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[无穷小]生成元",
+   "en": "infinitesimal generator",
+   "source": "数学名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "数学_泛函分析_算子",
+   "subjectName": "算子",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小分析",
+   "en": "infinitesimal analysis",
+   "source": "数学名词",
+   "wordNumber": "02.0121",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小特征[标]",
+   "en": "infinitesimal character",
+   "source": "数学名词",
+   "wordNumber": "04.1550",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无穷小条件",
+   "en": "infinitesimality condition",
+   "source": "数学名词",
+   "wordNumber": "09.0170",
+   "subjectFullName": "数学_概率论_数理统计_极限理论",
+   "subjectName": "极限理论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无限小应变理论",
+   "en": "infinitesimal strain theory",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0486",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "将应变视为无限小应变并对其进行研究的理论。 "
+  },
+  {
+   "cn": "无穷小变换群",
+   "en": "infinitesimal transformation group",
+   "source": "数学名词",
+   "wordNumber": "04.2110",
+   "subjectFullName": "数学_代数学_代数几何学_李群",
+   "subjectName": "李群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "现象、物体或物质的特性，其大小可用一个数和一个参照对象表示。"
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "source": "数学名词",
+   "wordNumber": "01.0005",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "吸附量",
+   "en": "adsorption quantity",
+   "source": "精细化工名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "在固-气和固-液界面上，单位质量或单位表面固体吸附的气体吸附质或溶液中某组分的量（质量、物质的量等）。在液-气和液-液界面上，吸附量等同于表面过剩。"
+  },
+  {
+   "cn": "绿量",
+   "en": "green quantity",
+   "source": "风景园林名词",
+   "wordNumber": "12.0011",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "植物生长中的茎叶所占空间的体积或面积。以立方米（m3）或平方米（m2）为单位。"
+  },
+  {
+   "cn": "量值溯源",
+   "en": "quantity traceability",
+   "source": "农学名词",
+   "wordNumber": "18.096",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "测量结果通过具有适当准确度的中间比较环节，逐级往上追溯至国家计量基准或国家计量标准的过程。"
+  },
+  {
+   "cn": "施肥数量",
+   "en": "fertilization quantity",
+   "source": "农学名词",
+   "wordNumber": "09.264",
+   "subjectFullName": "土壤肥料_植物营养学",
+   "subjectName": "植物营养学",
+   "publishYear": "2025",
+   "definition": "肥料施用过程中施用肥料的数量。"
+  },
+  {
+   "cn": "预算员",
+   "en": "quantity surveyor",
+   "source": "风景园林名词",
+   "wordNumber": "03.0248",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "根据设计图纸和内、外部条件等，计算出工程项目各项造价内容，形成费用总和，工程开始及结束后根据竣工资料与业主确认工程并最终核定工程效益的技能人员。"
+  },
+  {
+   "cn": "数量折扣",
+   "en": "quantity discount",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "企业对大量购买产品的顾客给予的一种减价优惠。分为累计数量折扣和一次性数量折扣两种类型。一般购买量越多，折扣也越大。 "
+  },
+  {
+   "cn": "阅读量",
+   "en": "reading quantity",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.069",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "从出版物看，指阅读其文本的人数；从读者看，指在某一固定时段中人均阅读出版物的册数、篇数或字数。是衡量出版物价值、描述国民阅读状况的系列指标之一，与阅读能力、阅读素养紧密相关。"
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "字量",
+   "en": "Hanzi quantity\",\"character quantity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广延量",
+   "en": "extensive quantity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内在量",
+   "en": "intensive quantity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特征量",
+   "en": "characteristic quantity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "［累计］总量表",
+   "en": "quantity meter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "交货数量",
+   "en": "delivered quantity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易量",
+   "en": "trade quantity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场量",
+   "en": "field quantity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大量生产",
+   "en": "quantity production",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电量",
+   "en": "electric quantities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏摩尔量",
+   "en": "partial molar quantity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏摩尔量",
+   "en": "partial molar quantity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最小检出量",
+   "en": "minimum detectable quantity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数量检验",
+   "en": "inspection of quantity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最高定货量",
+   "en": "maximum order quantity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非保守量",
+   "en": "non-conservative quantity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "量底法",
+   "en": "quantity base method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平差值",
+   "en": "adjusted value\",\"adjusted  quantity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "信息量",
+   "en": "information quantity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进球数",
+   "en": "quantity of goals",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进球数",
+   "en": "quantity of goals",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从制造大国转向制造强国",
+   "en": "transform China from a manufacturer of quantity to one of quality",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球质量溯源体系",
+   "en": "global quality tracking system (GQTS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全国高质量发展样板区",
+   "en": "national pacesetter of high-quality development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情兼雅怨",
+   "en": "A Mixed Quality of Grace and Sorrow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "source": "马克思主义",
+   "wordNumber": "01.0080",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质”相对。可以用数量来表示的规定性。指事物存在的规模、等级、发展的程度以及内部要素的排列结构。任何量是一定事物的量。在一定限度内，量的变化不改变事物质的稳定性。"
+  },
+  {
+   "cn": "残留量",
+   "en": "residual quantity",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "消毒剂使用后，其本体、衍生物、代谢物、降解物在环境中残存的量。"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "不是被测量却能影响测量结果的量。"
+  },
+  {
+   "cn": "测量量",
+   "en": "measured quantity",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.26",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "内照射个人监测结果的量。当采用直接测量法时，测量的是监测对象全身、器官或组织中放射性核素的活度；当采用间接测量法时，测量的是排泄物样本中放射性核素活度。 排泄物采样通常会采取24h内的样本。"
+  },
+  {
+   "cn": "均衡数量",
+   "en": "equilibrium quantity",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在均衡价格水平下的相等的供求数量。"
+  },
+  {
+   "cn": "法律的量",
+   "en": "quantity of law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.6",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "法律作为一个可以进行增减的变量，向司法人员提出请求、对请求的认可、逮捕、搜查以及法律上的任何提前、诉诸或适用都意味着变量的增加。"
+  },
+  {
+   "cn": "量的多样性",
+   "en": "diversity of quantity",
+   "source": "马克思主义",
+   "wordNumber": "01.0081",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在事物存在与发展过程中，其规模、程度、速度以及构成事物的成分在空间的排列次序等量的规定性是多样的，不同事物的量的表现也不同，如事物的大小、运动的快慢等。"
+  },
+  {
+   "cn": "市场供给量",
+   "en": "market supply quantity",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在一定的时期内，在一定价格或成本消耗水平上，所有卫生服务机构愿意而且能够提供的某种卫生服务的数量，是个别卫生服务供给的总和。"
+  },
+  {
+   "cn": "量值",
+   "en": "value of quantity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.69",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "用数和参照对象一起表示的量的大小。参照对象可以是测量单位、测量程序或标准物质。"
+  },
+  {
+   "cn": "供给量变动",
+   "en": "shift in supply quantity",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在供给函数中其他因素保持不变的条件下，仅由卫生服务自身价格变化所导致的服务供给量的变化，表现为沿着同一供给曲线的上下移动。"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.5.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "由于必要资本形成的进入壁垒。生产过程的资本密集程度越高，必要资本量越大，新企业筹措资金越困难，其资本费用就比在位企业高，因此新企业进入市场的难度也就越大。"
+  },
+  {
+   "cn": "S类影响量",
+   "en": "influence quantity of type S",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "使指示值产生偏差的影响量，该偏差与指示值无关。"
+  },
+  {
+   "cn": "F类影响量",
+   "en": "influence quantity of type F",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在响应中影响指示值变化的影响量。"
+  },
+  {
+   "cn": "卫生人力资源数量",
+   "en": "human resource quantity for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在医院、基层医疗卫生机构、专业公共卫生机构及其他医疗卫生机构工作的人员总量，包括卫生技术人员、乡村医生和卫生员、其他技术人员、管理人员和工勤人员。"
+  },
+  {
+   "cn": "量价挂钩",
+   "en": "combination with quantity and price",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "招标前公布药品的采购数量，企业参考数量进行报价，采用大量集中采购以降低药品单价的采购模式。"
+  },
+  {
+   "cn": "质量-数量非营利医院模型",
+   "en": "model of quality-quantity non-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "医院经营者的偏好是最大化质量和数量的组合，反映以提供公益性医疗服务为目的的医疗机构对公众利益的考虑，最大化公众利益的一种经济学模型。"
+  },
+  {
+   "cn": "医疗工作数质量统计",
+   "en": "quantity and quality statistics of medical work",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_医院卫生统计",
+   "subjectName": "医院卫生统计",
+   "publishYear": "2025",
+   "definition": "对医院的医疗工作数质量情况的数据上报和统计分析，包括医疗工作效率分析和医疗工作质量分析两部分。"
+  },
+  {
+   "cn": "质量互变规律",
+   "en": "law of mutual change of quality and quantity",
+   "source": "马克思主义",
+   "wordNumber": "01.0221",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物由于内部矛盾所引起的发展是通过量变质变相互转化而实现的。认为事物在其运动发展过程中必然会经历质变量变两种基本状态或基本形式。量变与质变是对立统一的关系，量变是质变发"
+  },
+  {
+   "cn": "被测量真值最佳估计",
+   "en": "best estimate of the true quantity value of the measurand",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "给定实验结果和被测量的所有先验信息，被测量真值概率分布的期望值。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

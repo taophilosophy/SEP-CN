@@ -1,0 +1,772 @@
+{
+ "key": "non-sensory phenomenology",
+ "term": "non-sensory phenomenology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:18:54+00:00",
+ "status": "ok",
+ "note": "variant=non-sensory phenomenology; 审定公布名词库=3608; 海峡两岸名词对照库=1045; 其他来源数据库=168; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "唯象学",
+   "en": "phenomenology",
+   "source": "物理学名词",
+   "wordNumber": "01.0081",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "现象学",
+   "en": "phenomenology",
+   "source": "心理学名词",
+   "wordNumber": "04.081",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "人文心理学的哲学基础之一。由胡塞尔(E. Husserl)创立，认为现象即本质，本质即直观。"
+  },
+  {
+   "cn": "自然化的现象学",
+   "en": "naturalized phenomenology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.583",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "通过经验科学的证据来加以理解甚至是进行适当调适的现象学。同时也对经验科学所做的基本理论假设进行现象学的考察。"
+  },
+  {
+   "cn": "生态现象学",
+   "en": "ecological phenomenology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.245",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以人类自身为本体，以生命经验为媒介，以现象学为方法，引导人们真实体验生态系统的善和美，尝试为转变人们的实践观念寻找新途径的一种新的生态哲学形态，将现象学和生态学结合来探讨人与自然的关系问题。代表人物为"
+  },
+  {
+   "cn": "线性唯象关系",
+   "en": "phenomenological relation",
+   "source": "冶金学名词",
+   "wordNumber": "04.0192",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "若体系处于比较接近于平衡的非平衡态，所有推动力都较小，可得热力学流与推动力间的关系式<img src='/root/syzx/static/spz/yejin2.04.0192.01.png'/>来表"
+  },
+  {
+   "cn": "唯象理论",
+   "en": "phenomenological theory",
+   "source": "物理学名词",
+   "wordNumber": "01.0082",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "唯象关系",
+   "en": "phenomenological relation",
+   "source": "物理学名词",
+   "wordNumber": "05.0459",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "唯象系数",
+   "en": "phenomenological coefficient",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0113",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "当体系中所有不可逆过程都十分接近于平衡，即热力学力很弱时，关联热力学力和它对应的热力学共轭流之间关系的参数。"
+  },
+  {
+   "cn": "现象心理学",
+   "en": "phenomenological psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.103",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "主张心理学与现象学相结合，在“生活世界”中研究人的心理，以人真实体验到的现实生活为研究的起点。"
+  },
+  {
+   "cn": "唯象系数",
+   "en": "phenomenological coefficient",
+   "source": "化学工程名词",
+   "wordNumber": "02.116",
+   "subjectFullName": "化学工程_化工热力学_热力学分析与热力学循环",
+   "subjectName": "热力学分析与热力学循环",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "建筑现象学",
+   "en": "phenomenology of architecture",
+   "source": "建筑学名词",
+   "wordNumber": "03.0371",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "出现于20世纪70年代的一种建筑思想和方法。以哲学家胡塞尔(Edmund Husserl)、海德格尔(Martin Heidegger)和梅洛·庞蒂(Maurice Merleau-Ponty)的现象"
+  },
+  {
+   "cn": "感觉教育",
+   "en": "sensorial education,sensory education",
+   "source": "教育学名词",
+   "wordNumber": "06.098",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "有目的、有计划地形成与发展幼儿的感知觉与观察力，培养幼儿正确运用感官认识周围环境，为幼儿思维活动的形成和发展奠定良好基础的教育活动。是学前儿童智育的重要组成部分。"
+  },
+  {
+   "cn": "丘脑非特异性感觉中继核",
+   "en": "thalamic non-specific sensory relay nucleus",
+   "source": "生理学名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉性失语症",
+   "en": "sensory aphasia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "以听力理解障碍为主要特征的失语症。患者自发言语流畅，对他人和自己的话语均不能理解，语量多、语调正常、错语较多，伴有复述障碍、听写障碍，以及不同程度的命名、朗读和文字理解障碍。"
+  },
+  {
+   "cn": "感觉性共济失调",
+   "en": "sensory ataxia",
+   "source": "急救医学名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "由深感觉传导路径受损产生关节位置觉、振动觉障碍而导致的共济失调。临床表现为站立不稳，行走时有踩棉花样感觉，视觉辅助可使症状减轻。因此，患者在黑暗处症状加重，睁眼时症状减轻，闭目难立征阳性。见于脊髓型遗"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory dysfunction",
+   "source": "急救医学名词",
+   "wordNumber": "03.146",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "感觉传导通路受损导致的感觉异常。感觉传导通路不同部位受损时其临床症状不同，为定位诊断提供了重要的线索。"
+  },
+  {
+   "cn": "感官特性",
+   "en": "sensory attribute",
+   "source": "农学名词",
+   "wordNumber": "18.055",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "由感觉器官感知的产品特性。一般包括外观、质地、香气、滋味、风味和口感等。"
+  },
+  {
+   "cn": "感知觉",
+   "en": "sensory perception",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人脑对当前作用于感觉器官的客观事物的反映。人类可通过视觉、听觉、嗅觉、触觉等获得性相关感觉信息，并通过大脑的整合产生相应的性心理活动。"
+  },
+  {
+   "cn": "感觉阈",
+   "en": "sensory threshold",
+   "source": "兽医学名词",
+   "wordNumber": "04.509",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "能引起感受器兴奋，产生感觉的最低刺激 强度。"
+  },
+  {
+   "cn": "感觉适应",
+   "en": "sensory adaptation",
+   "source": "兽医学名词",
+   "wordNumber": "04.512",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "较长时间给予感受器固定强度和频率的刺激作用时，所发生的感受阈逐渐增高，而感受功能逐渐下降的现象。"
+  },
+  {
+   "cn": "现象学",
+   "en": "phenomenology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现象学",
+   "en": "phenomenology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "唯象模型",
+   "en": "phenomenological model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "唯象系数",
+   "en": "phenomenological coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "现象学理论",
+   "en": "phenomenological theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现象心理学",
+   "en": "phenomenological psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现象地理学",
+   "en": "phenomenological geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感觉层",
+   "en": "sensory layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉根",
+   "en": "sensory root",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉交叉",
+   "en": "sensory decussation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉区",
+   "en": "sensory area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉上皮",
+   "en": "sensory epithelium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经节",
+   "en": "sensory ganglion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉细胞",
+   "en": "sensory cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉纤维",
+   "en": "sensory fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉反馈",
+   "en": "sensory feedback",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉剥夺",
+   "en": "sensory deprivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉神经元",
+   "en": "sensory neuron",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非现金化收付",
+   "en": "non-cash payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非公共数据",
+   "en": "non-public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可否认性服务",
+   "en": "non-repudiation service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "视觉、听觉、触觉信息的输入，以未加工处理的形式在脑中短暂的保留过程。"
+  },
+  {
+   "cn": "感觉障碍",
+   "en": "sensory disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "通过感觉系统获取信息的过程中出现困难和异常的现象。主要表现为感觉过敏、感觉减退、感觉缺失、感觉倒错和内感性不适。可造成知觉障碍，使运动反馈信息紊乱而导致运动功能失调。"
+  },
+  {
+   "cn": "感知觉发育",
+   "en": "sensory perception development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对作用于感觉器官客观事物的反映能力随年龄增长的发展变化过程。包括视觉、味觉、听觉、嗅觉、触觉、运动觉、空间时间知觉等的发展变化过程。"
+  },
+  {
+   "cn": "感觉讯息处理评估",
+   "en": "sensory processing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.25",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对儿童通过不同的感觉系统（前庭平衡、本体觉、视觉、听觉、触觉、嗅觉、味觉等）接收外界及自身的讯息，并经由中枢神经传送到脑部加以处理、分析、整合以及作出反应的能力进行评估的过程。"
+  },
+  {
+   "cn": "儿童感觉统合治疗",
+   "en": "child sensory integration therapy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.5.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "基于儿童发育过程中神经系统的可塑性, 对感觉统合失调儿童提供一种感觉输入的控制，使其能够统合这些感觉, 促进脑神经生理发展, 达到改善儿童运动协调、语言功能等目的的一类心理治疗方法。"
+  },
+  {
+   "cn": "食品感官检查",
+   "en": "sensory examination of food",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.4",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "利用感觉器官进行食品感观质量评价。包括食品视觉上的澄清、混浊，组织状态上的软、硬、松，色、香、味，以及其他凭感觉所能判定的性质和状态。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  },
+  {
+   "cn": "非焚烧处理",
+   "en": "Non-incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "除传统焚烧处理以外的处理，如高温蒸汽处理、高温干热处理、化学法处理、微波处理等。"
+  },
+  {
+   "cn": "非电离辐射",
+   "en": "non-ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.3",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "不引起物质原子和分子电离、只引起其振动、转动或电子能级改变的辐射。如紫外线、可见光、红外线、微波和高频电磁场。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "非物质文化",
+   "en": "non-material culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "人类在社会历史实践过程中所创造的各种精神文化。包括自然科学、宗教、艺术、哲学、语言文字、风俗道德、法律等。与“物质文化”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

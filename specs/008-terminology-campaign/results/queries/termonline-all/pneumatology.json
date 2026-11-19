@@ -1,0 +1,132 @@
+{
+ "key": "pneumatology",
+ "term": "pneumatology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:18:09+00:00",
+ "status": "ok",
+ "note": "variant=pneumatology; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "风湿病学",
+   "en": "rheumatology",
+   "source": "医学名词 第一分册",
+   "wordNumber": "03.001",
+   "subjectFullName": "医学_风湿病学",
+   "subjectName": "风湿病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "线虫学",
+   "en": "nematology",
+   "source": "动物学名词",
+   "wordNumber": "5.1143",
+   "subjectFullName": "动物学_无脊椎动物学_线虫动物门",
+   "subjectName": "线虫动物门",
+   "publishYear": "2021",
+   "definition": "研究线虫的形态结构、生理功能、分类、流行病学以及线虫与宿主相互关系的科学。"
+  },
+  {
+   "cn": "动物线虫学",
+   "en": "animal nematology",
+   "source": "动物学名词",
+   "wordNumber": "5.1144",
+   "subjectFullName": "动物学_无脊椎动物学_线虫动物门",
+   "subjectName": "线虫动物门",
+   "publishYear": "2021",
+   "definition": "研究动物寄生线虫的形态结构、生理功能、分类、流行病学以及线虫与动物宿主之间相互关系的科学。"
+  },
+  {
+   "cn": "植物线虫学",
+   "en": "plant nematology",
+   "source": "动物学名词",
+   "wordNumber": "5.1145",
+   "subjectFullName": "动物学_无脊椎动物学_线虫动物门",
+   "subjectName": "线虫动物门",
+   "publishYear": "2021",
+   "definition": "研究植物寄生线虫的形态结构、生理功能、分类、流行病学以及线虫和植物宿主之间相互关系的科学。"
+  },
+  {
+   "cn": "线虫学",
+   "en": "nematology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动物线虫学",
+   "en": "animal nematology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "植物线虫学",
+   "en": "plant nematology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "风湿免疫病学",
+   "en": "rheumatology",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "风湿免疫病学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "研究风湿免疫病的流行病学、病因、发病机制、病理、诊断、治疗、康复和预防的医学学科。"
+  },
+  {
+   "cn": "20%美国风湿病学会改善",
+   "en": "American college of rheumatology 20% definition, ACR20",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度变化的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有20%的改善以及下列5项参数中至少3项有20%改善：1"
+  },
+  {
+   "cn": "50%美国风湿病学会改善",
+   "en": "American college of rheumatology 50% definition, ACR50",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度中等的改善标准，是临床试验的标准结局测量指标。定义：关节肿胀和压痛数（28-关节计数法）有50%的改善以及下列5项参数中至少3项有50%改善：1"
+  },
+  {
+   "cn": "70%美国风湿病学会改善",
+   "en": "American college of rheumatology 70% definition, ACR70",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "美国风湿病学会针对类风湿关节炎活动度制定的界定疾病活动度大幅变化的改善标准，是临床试验的标准结局测量指标。其定义为：关节肿胀和压痛数（28-关节计数法）有70%的改善以及下列5项参数中至少3项有70%"
+  },
+  {
+   "cn": "SLICC/ACR损伤指数",
+   "en": "systemic lupus erythematosus international collaborating clinics/American college of rheumatology damage index, SDI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.2.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性红斑狼疮_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "采用积分方法对系统性红斑狼疮12个脏器或系统的损伤程度进行评估的指数，由系统性红斑狼疮国际临床协作组和美国风湿病学会（SLICC/ACR）提出，临床表现一般应持续6个月以上，以排除急性活动期的表现。指"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

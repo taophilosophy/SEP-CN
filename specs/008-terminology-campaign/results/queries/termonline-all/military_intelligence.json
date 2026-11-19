@@ -1,0 +1,802 @@
+{
+ "key": "military intelligence",
+ "term": "military intelligence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:22:41+00:00",
+ "status": "ok",
+ "note": "variant=military intelligence; 审定公布名词库=936; 海峡两岸名词对照库=183; 其他来源数据库=170; 预公布名词数据库=203; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "军事情报学",
+   "en": "military intelligence,military information",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.168",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "以军事情报和军事情报工作实践为研究对象，研究军事情报的搜集、整理、分析、传递及其效用发挥的理论与方法的学科。"
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人类对客观事物进行合理分析、判断、推理及有目的的行动、有效地处理周围环境事宜的综合能力。在高技术领域，它特指机器所具有的逻辑判断、自动控制功能和根据环境信息调节运动动作的性能。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "精神医学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "精神医学_症状与体征_智力障碍症状",
+   "subjectName": "智力障碍症状",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。是一种个性心理特征，反映个体在认识活动方面的差异。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "计划生育名词",
+   "wordNumber": "04.023",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "包括对环境的适应力、学习能力及对经验教训的吸取能力、对抽象事物的思考能力。"
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "核医学名词",
+   "wordNumber": "04.0775",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "一种复杂的精神活动的综合表现。是运用以往积累的知识和经验以获得新知识、形成新概念及解决新问题的能力，是感觉、记忆、理解、思维、判断、行为创造等方面能力的综合反映。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "地方病学名词",
+   "wordNumber": "04.110",
+   "subjectFullName": "地方病学_碘缺乏病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "人们在获得知识以及运用知识解决问题时所必须具备的心理条件或特征。其核心是理解、判断或抽象思维能力。碘缺乏所致脑发育损伤的主要表现就是程度不同的智力低下。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0128",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "个体适应、改造和选择环境的心理能力。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "心理学名词",
+   "wordNumber": "02.749",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体学习和解决问题的综合能力。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "intelligibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0576",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "机器译文的评价准则之一。从目标语的角度衡量机器译文是否流畅规范。"
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "语言学名词",
+   "wordNumber": "11.268",
+   "subjectFullName": "语言学_计算语言学_机器翻译",
+   "subjectName": "机器翻译",
+   "publishYear": "2011",
+   "definition": "评价机器翻译译文的一个标准。表示译文在多大程度上能够让不懂原文的人理解。"
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0148",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "电子学名词",
+   "wordNumber": "21.187",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "精情报",
+   "en": "refined intelligence,deepprocessed intelligence,finished intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_情报研究",
+   "subjectName": "情报研究",
+   "publishYear": "2019",
+   "definition": "与“粗情报”相对。经过分析的、可信赖且能为高层决策者所用的情报。"
+  },
+  {
+   "cn": "情报人员",
+   "en": "intelligence expert,intelligence agent",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.215",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "通过对情报源的搜集、加工、整理、分析研究、编译报道，专门从事情报业务的专业人员。"
+  },
+  {
+   "cn": "客户情报",
+   "en": "customer intelligence,prospect intelligence",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "竞争情报的一种类型。通过搜集和分析客户（包括潜在客户）的概况和行为等相关信息而形成的情报。目的是建立更深入和更高效的客户关系，提高组织的市场战略决策水平。"
+  },
+  {
+   "cn": "军事技术",
+   "en": "military technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.329",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "以军事应用为目的的科学、技术科学和应用技术的统称。包括武器装备研制、生产、使用、维修与管理过程中所涉及的基础科学知识、技术基础理论、基础技术、应用技术，以及军事工程技术、军事系统工程技术及武器装备的操"
+  },
+  {
+   "cn": "军事装备",
+   "en": "military equipment",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.344",
+   "subjectFullName": "自然辩证法_技术哲学_军事技术哲学",
+   "subjectName": "军事技术哲学",
+   "publishYear": "2024",
+   "definition": "用于实施、支援和保障包括作战行动和其他军事活动的武器、武器系统及与之配套的其他军事技术器材，以及军需保障的装备的统称。"
+  },
+  {
+   "cn": "军事工程",
+   "en": "military engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "为军事目的而进行的工程设计、建造、运行和保障活动。也指用于军事目的的构筑物和保障军队作战行动所采取的工程技术措施。"
+  },
+  {
+   "cn": "军事新闻",
+   "en": "military news",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.12",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "关于军队和战争等有关事务的新闻报道。"
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "军事气候志",
+   "en": "military climatography",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军事气象学",
+   "en": "military meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军事心理学",
+   "en": "military psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "军事海洋学",
+   "en": "military oceanology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "军事地理学",
+   "en": "military geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "军用地图",
+   "en": "military map",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "军用地图",
+   "en": "military map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "军用海图",
+   "en": "military chart",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "军用雷达",
+   "en": "military radar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "军事航海",
+   "en": "military navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特殊智力",
+   "en": "specific intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实践智力",
+   "en": "practical intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "晶体智力,晶态智力",
+   "en": "crystallized intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般智力",
+   "en": "general intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验智力",
+   "en": "experiential intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智",
+   "en": "Intelligence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "Business Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算智能",
+   "en": "Computational Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合智能",
+   "en": "hybrid intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商务智能",
+   "en": "business intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群体智能",
+   "en": "swarm intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "群智开放",
+   "en": "Crowd Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式智能",
+   "en": "distributed intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能计算",
+   "en": "intelligent computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能机器人",
+   "en": "Intelligent Robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能终端",
+   "en": "intelligent terminal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能化生产",
+   "en": "intelligent production",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能制造",
+   "en": "intelligent manufacturing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能控制器",
+   "en": "intelligent controller",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能穿戴",
+   "en": "intelligent wearables",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能工厂",
+   "en": "intelligent factory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "认识客观事物和现象并解决实际问题的能力。包括观察力、记忆力、注意力、想象力、分析判定能力、应变能力等。"
+  },
+  {
+   "cn": "军事民主制",
+   "en": "military democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0016",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会后期形成的部落联盟组织制度。是从原始社会向阶级社会过渡时期的一种社会组织形式，适应于当时军事活动的频繁需要而产生。军事民主制是由部落联盟议事会、人民大会、军事首领三者并列组成的机构。"
+  },
+  {
+   "cn": "军事反对派",
+   "en": "Military Oppositionalists",
+   "source": "马克思主义",
+   "wordNumber": "04.0367",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年3月俄共（布）第八次代表大会上出现的反对党的军事路线的派别。其成员主要是过去的“左派共产主义者”集团的成员，也有一部分对托洛茨基在军队中的领导不满的红军指挥员。该派反对在军队中利用旧军事专家"
+  },
+  {
+   "cn": "军队营养",
+   "en": "military nutrition",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养",
+   "subjectName": "军队营养",
+   "publishYear": "2025",
+   "definition": "以军事人员为特定对象，围绕其特殊作业环境、生理负荷和任务需求，通过科学配置饮食与营养支持，保障军人机体功能、提升作战效能、增强环境适应能力，并降低特殊条件下的健康风险。"
+  },
+  {
+   "cn": "军队预防接种",
+   "en": "military vaccination",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.6.2",
+   "subjectFullName": "军事预防医学_军队流行病学_军队传染病预防与控制",
+   "subjectName": "军队传染病预防与控制",
+   "publishYear": "2025",
+   "definition": "在军队人员中接种具有抗原或抗体活性的免疫制品，使群体产生足够的免疫水平，以抵御传染病在军队人群中发生和流行的疾病预防措施。"
+  },
+  {
+   "cn": "军事训练",
+   "en": "military training",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "军事理论教育和作战技能训练的活动。包括学习军事理论、战略战术和军事技术，开展作战相关的体力和智力训练，以及军事专业训练、战术训练、演习演练等，以提高军人和部队的军事素质和战斗力。"
+  },
+  {
+   "cn": "军用食品",
+   "en": "military rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产、供应的各类制式食品，主要供部队不能供应热食时使用，通常由军需部门统一组织生产和调拨，具有营养合理、适口性好、易消化吸收、体积小、重量轻、携带食用方便、安全卫生、耐贮存等特点。"
+  },
+  {
+   "cn": "军事人体工效",
+   "en": "military ergonomics",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事作业中，以作业人员为中心，研究作业人员、军事装备和作业环境之间的相互关系，旨在实现作业人员在军事作业过程中的健康、安全、舒适，同时提高作业效率。"
+  },
+  {
+   "cn": "军事毒理学",
+   "en": "military toxicology",
+   "source": "军事预防医学名词",
+   "wordNumber": "16",
+   "subjectFullName": "军事预防医学_军事毒理学",
+   "subjectName": "军事毒理学",
+   "publishYear": "2025",
+   "definition": "研究化学战剂、放射性核素、军事工业毒物及其他军事活动相关的外源化学物对机体的损害作用、毒作用机制及其医学防护的毒理学分支学科。"
+  },
+  {
+   "cn": "军府制",
+   "en": "Military system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0585",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清朝统一新疆后实行的军事政治制度。1762 年，伊犁将军的设立标志着军府制在新疆的确立。其特点是军政合一。军府制对于清乾隆时期之后新疆地区的社会稳定和经济恢复有一定积极作用。1884 年新疆建省后废弃"
+  },
+  {
+   "cn": "军事劳动",
+   "en": "military work",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.12",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "军队指战员按照军事作训的要求进行的各种脑力和体力活动。"
+  },
+  {
+   "cn": "军队流行病学",
+   "en": "military epidemiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "14",
+   "subjectFullName": "军事预防医学_军队流行病学",
+   "subjectName": "军队流行病学",
+   "publishYear": "2025",
+   "definition": "研究军队人群中疾病或健康的分布、影响因素及预防控制对策和措施的医学学科。"
+  },
+  {
+   "cn": "军事应激",
+   "en": "military stress",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在特殊的军事活动环境中产生的一种特殊情绪状态，是军事作业人员通过对军事作业环境（包括自然环境和社会环境）、军事活动形式（包括平时训练演习和实践等）刺激的认知评价而产生的生理及心理反应。"
+  },
+  {
+   "cn": "智力测试",
+   "en": "intelligence test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价智力水平高低的一种心理测验。"
+  },
+  {
+   "cn": "智力筛查",
+   "en": "intelligence screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "将智力落后个体从群体中区别出来的活动。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "通过一系列标准测试所获得个人认知能力与同年龄段常模的比值。是智力测验中表示一个人智力水平的指数。"
+  },
+  {
+   "cn": "智能武器",
+   "en": "intelligent weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用人工智能技术，通过计算机、网络和自动化系统实现自主侦察、锁定目标、实施攻击的一种武器系统。能够自我识别、自我规划、自我决策和自我执行军事任务，具有高度的自主性和智能化能力。"
+  },
+  {
+   "cn": "军队食品卫生",
+   "en": "military food hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.8",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品卫生",
+   "subjectName": "军队食品卫生",
+   "publishYear": "2025",
+   "definition": "为防止军队食品在生产、收获、加工、运输、储存、销售等各个环节被有害物质（包括物理、化学、微生物等方面）污染所采取的各项措施，从而保证军人健康不受损害。"
+  },
+  {
+   "cn": "军事训练伤",
+   "en": "military training injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事训练医学",
+   "subjectName": "军事训练医学",
+   "publishYear": "2025",
+   "definition": "军事训练直接导致参训人员的组织器官功能障碍或病理改变。包括软组织损伤、骨关节损伤、器官损伤、特殊环境（因素）损伤四大类。训练的强度、方法、计划、场地、科目，以及参训人员身体素质等是主要致伤因素。"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

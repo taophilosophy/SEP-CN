@@ -1,0 +1,642 @@
+{
+ "key": "senescence mortality",
+ "term": "senescence mortality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:26:49+00:00",
+ "status": "ok",
+ "note": "variant=senescence mortality; 审定公布名词库=181; 海峡两岸名词对照库=69; 其他来源数据库=3; 预公布名词数据库=62; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "急救医学名词",
+   "wordNumber": "03.836",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "生物体（包括植物、动物和人类）在其生命过程中，生长发育达到成熟期以后，随着年龄的增长，在形态结构和生理功能方面出现的一系列慢性、进行性、退行性变化，导致机体适应能力、储备能力日趋下降的过程。"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0610",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "植物生长发育的最后阶段。"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "植物学名词",
+   "wordNumber": "11.0639",
+   "subjectFullName": "植物学_植物生理学_植物成熟与衰老生理",
+   "subjectName": "植物成熟与衰老生理",
+   "publishYear": "2019",
+   "definition": "植物个体发育到一定阶段，细胞、器官或植物整体生理活动和功能发生不可逆衰退的过程。"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "老年医学名词",
+   "wordNumber": "01.011",
+   "subjectFullName": "老年医学_老年医学概论",
+   "subjectName": "老年医学概论",
+   "publishYear": "2017",
+   "definition": "生物体(包括植物、动物和人类)在其生命过程中，生长发育达到成熟期以后，随着年龄的增长在形态结构和生理功能方面出现的一系列慢性、进行性、退化性的变化，导致机体适应能力、储备能力日趋下降的过程。"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "林学名词",
+   "wordNumber": "02.449",
+   "subjectFullName": "林学_林学基础_树木生理",
+   "subjectName": "树木生理",
+   "publishYear": "2016",
+   "definition": "成熟的细胞、组织、器官和整个植株自然地终止生命活动的一系列功能衰退过程。"
+  },
+  {
+   "cn": "老年化",
+   "en": "senescence",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.004",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "兽医学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "一定时间内动物群因某病而死亡的病例数与该动物群动物总数之比。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality ",
+   "source": "草学名词",
+   "wordNumber": "7.0232",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.111",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某年某地平均每千人口中的死亡数。反映当地居民总的死亡水平。常用千分率(‰)表示。"
+  },
+  {
+   "cn": "枯损量",
+   "en": "mortality",
+   "source": "林学名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "在一定时期内，林分中由于各种原因死亡树木的总材积或总株数。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0856",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "动物种群中单位时间内，死亡的个体数占整个种群总个数的百分比率。死亡率又分自然死亡率和捕捞死亡率。"
+  },
+  {
+   "cn": "故障率",
+   "en": "mortality",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.095",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一个项目的群体在规定期限内的总故障数与该期限内群体的总工作时间之比。通常以每1 000工作小时的故障数表示。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "水产名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "水产_渔业资源学",
+   "subjectName": "渔业资源学",
+   "publishYear": "2002",
+   "definition": "水生动物种群在一定时期内个体减少的数量与初期该种群个体总数量之比值。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "昆虫学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "昆虫群体在一定发育阶段死亡个体数占总个体数的百分率。"
+  },
+  {
+   "cn": "作物衰老",
+   "en": "crop senescence",
+   "source": "农学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物在自然死亡前生理功能上的一系列衰退过程。"
+  },
+  {
+   "cn": "早衰",
+   "en": "early senescence",
+   "source": "农学名词",
+   "wordNumber": "07.028",
+   "subjectFullName": "作物生理生态_生长与发育生理",
+   "subjectName": "生长与发育生理",
+   "publishYear": "2025",
+   "definition": "作物在生长后期未成熟前，整株叶片黄枯死亡的现象。"
+  },
+  {
+   "cn": "种子衰老",
+   "en": "seed senescence ",
+   "source": "草学名词",
+   "wordNumber": "4.0256",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence;senility",
+   "source": "行为医学名词",
+   "wordNumber": "3.131",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "人体随着年龄的增长，形态结构、生理功能和心理适应能力出现的一系列退行性变化。包括“生理性衰老（physiological senility）”和“病理性衰老（pathological senility"
+  },
+  {
+   "cn": "整体衰老",
+   "en": "overall senescence",
+   "source": "植物学名词",
+   "wordNumber": "11.0642",
+   "subjectFullName": "植物学_植物生理学_植物成熟与衰老生理",
+   "subjectName": "植物成熟与衰老生理",
+   "publishYear": "2019",
+   "definition": "许多一年生植物(如小麦、玉米、水稻、大豆等)即使在适宜生长的条件下，随着果实和种子的产生，植株很快变黄的衰老方式。"
+  },
+  {
+   "cn": "地上部分衰老",
+   "en": "top senescence",
+   "source": "植物学名词",
+   "wordNumber": "11.0641",
+   "subjectFullName": "植物学_植物生理学_植物成熟与衰老生理",
+   "subjectName": "植物成熟与衰老生理",
+   "publishYear": "2019",
+   "definition": "许多多年生草本植物和灌木，在每年的一定时期，地上部衰老死亡，但地下部维持生命，待第二年重新长出茎叶，开始新一年生长的现象。"
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "衰老",
+   "en": "senescence\",\"senility",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "卵巢老化",
+   "en": "ovarian senescence",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "渐进衰老",
+   "en": "progressive senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脱落衰老",
+   "en": "deciduous senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叶片衰老",
+   "en": "leaf senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体衰老",
+   "en": "overall senescence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种老化",
+   "en": "species senescence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态死亡率,实际死亡率",
+   "en": "ecological mortality\",\"realized mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定居期死亡率",
+   "en": "establishment mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扩散前死亡率",
+   "en": "predispersal mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "特定死亡率",
+   "en": "specific mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "总死亡率",
+   "en": "total mortality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "致死因子",
+   "en": "mortality factor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分项",
+   "en": "discipline\",\"modality",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某人群在某个限定的时间内死于某病的概率，分子为该时期内死亡人数，分母为该人群的人数。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.17",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "在一定期间内，某人群中总死亡人数在该人群中所占的比例。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "婴儿死亡",
+   "en": "infant mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于1岁的儿童死亡。"
+  },
+  {
+   "cn": "新生儿死亡",
+   "en": "neonatal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足天龄小于28天的儿童死亡。"
+  },
+  {
+   "cn": "孕产妇死亡",
+   "en": "maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妊娠期或妊娠终止后42天之内的妇女，不论妊娠期长短和何种受孕部位，由于任何与妊娠或妊娠处理有关的或由此而加重了的原因导致的死亡，不包括意外或偶然原因（如车祸、中毒等）导致的死亡。"
+  },
+  {
+   "cn": "死亡率",
+   "en": "mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地平均每千人口中的死亡数。反映居民总的死亡水平，以及居民的健康状况和医疗卫生服务水平。"
+  },
+  {
+   "cn": "战斗死亡率",
+   "en": "battle mortality",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.11",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "阵亡、伤死人数与平均参战人数之比，阵亡、伤死人数不含非战斗死亡。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某个地区未满周岁的婴儿死亡人数与该地该年活产婴儿数的比例，常用千分数表示。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality ratio",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "某年每10万名活产婴儿对应的由于怀孕和分娩而死亡的妇女数。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neo-natal mortality",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.7",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "婴儿出生后第一个月内的死亡率，即未满一个月死亡的婴儿数占同期出生婴儿数的比例，一般以年度为时间计算单位，以千分数表示。"
+  },
+  {
+   "cn": "5岁以下儿童死亡",
+   "en": "under-five mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "死亡时实足年龄小于5岁的儿童死亡。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区出生的活产新生儿在1岁以前死亡的概率，表示为当年发生的婴儿死亡数与活产数的千分比例。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality rate",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某国家或地区内新生儿死亡数与活产数的千分比例。"
+  },
+  {
+   "cn": "孕产妇死亡监测",
+   "en": "maternal mortality surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "在全国或代表性地区内对发生的孕产妇死亡进行长期持续的动态观察，收集孕产妇死亡、死亡原因及影响因素等资料，并进行分析、解释、反馈和应用的过程。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  },
+  {
+   "cn": "孕产妇死亡率",
+   "en": "maternal mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.4",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每万例次活产或每10 万例次活产中，孕产妇从妊娠至产后42 天内，由于妊娠或妊娠处理有关的原因导致的死亡数量，但不包括意外原因死亡的孕产妇。反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "新生儿死亡率",
+   "en": "neonatal mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.1",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000活产儿中出生未满28 天新生儿的死亡数量。常用死亡统计指标，反映居民健康水平和社会经济发展水平。"
+  },
+  {
+   "cn": "全腹泻死亡率",
+   "en": "overall diarrheal mortality",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.18",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某年某地区总人口中死于腹泻疾病的人数所占比例。"
+  },
+  {
+   "cn": "婴儿死亡率",
+   "en": "infant mortality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.2",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "某年某地每1000 活产儿中未满1 周岁婴儿的死亡数量。常用死亡统计指标，反映居民健康水平和社会经济发展水平。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

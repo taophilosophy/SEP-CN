@@ -1,0 +1,72 @@
+{
+ "key": "reminiscence",
+ "term": "réminiscence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:17:41+00:00",
+ "status": "ok",
+ "note": "variant=réminiscence; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "缅怀活动",
+   "en": "reminiscence",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.159",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "利用居住地的照片、个人照片、旧杂志或报纸、老歌曲、熟悉的物品等，帮助患者回忆过去的事情的治疗过程。"
+  },
+  {
+   "cn": "记忆恢复",
+   "en": "reminiscence",
+   "source": "老年医学名词",
+   "wordNumber": "10.008",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "在学习某些材料以后，延缓回忆比识记后立即回忆在内容上更为完整的记忆现象。"
+  },
+  {
+   "cn": "记忆恢复",
+   "en": "reminiscence",
+   "source": "心理学名词",
+   "wordNumber": "02.606",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "识记某种材料后延缓回忆比即时回忆效果更好的现象。"
+  },
+  {
+   "cn": "强迫回忆",
+   "en": "obsessional reminiscence",
+   "source": "行为医学名词",
+   "wordNumber": "16.145",
+   "subjectFullName": "行为医学_其他神经行为障碍_强迫相关障碍",
+   "subjectName": "强迫相关障碍",
+   "publishYear": "2022",
+   "definition": "对既往的经历或做过的事情反复回忆，明知没有必要但无法摆脱的精神病理现象。"
+  },
+  {
+   "cn": "强迫性回忆",
+   "en": "obsessive reminiscence",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.088",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "记忆恢复,复记",
+   "en": "reminiscence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "soundness and completeness",
+ "term": "Soundness and Completeness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:34:33+00:00",
+ "status": "ok",
+ "note": "variant=Soundness and Completeness; 审定公布名词库=10000; 海峡两岸名词对照库=1987; 其他来源数据库=1290; 预公布名词数据库=1061; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0956",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "形式系统的一种性质：语义上为真的推论都可以用推理规则在语法上推导出来。"
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "数学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "齐清定",
+   "en": "completeness;clarity and definiteness",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.027",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "稿件齐全、清楚、确定。编辑加工的基本要求之一，也是发稿的必备条件。"
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "完备化",
+   "en": "completion",
+   "source": "数学名词",
+   "wordNumber": "07.0016",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可靠性",
+   "en": "soundness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0422",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "（1）一个逻辑系统能证明为真的命题必然在语义上是正确的。（2）一个随机算法拒绝一个否定输入的概率。"
+  },
+  {
+   "cn": "可靠性",
+   "en": "soundness",
+   "source": "数学名词",
+   "wordNumber": "02.0114",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大气探测",
+   "en": "atmospheric sounding and observing",
+   "source": "大气科学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "借助各种仪器与装备对大气物理和化学特性进行的直接或间接的探测。"
+  },
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "能引起听觉的声波振动。"
+  },
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0008",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "能引起听觉的声振。"
+  },
+  {
+   "cn": "声[音]",
+   "en": "sound",
+   "source": "物理学名词",
+   "wordNumber": "04.2619",
+   "subjectFullName": "物理学_光学、声学_声学",
+   "subjectName": "声学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "探空",
+   "en": "sounding",
+   "source": "大气科学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "用气球、风筝、滑翔机、飞机、火箭或其他手段携带仪器对大气中的各种要素和现象的测定。"
+  },
+  {
+   "cn": "海图水深",
+   "en": "sounding",
+   "source": "航海科技名词",
+   "wordNumber": "07.0292",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "声[音]",
+   "en": "sound",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "水下完井",
+   "en": "subsea completion,underwater  completion",
+   "source": "石油名词",
+   "wordNumber": "08.0431",
+   "subjectFullName": "石油_海洋石油技术_海上钻井工程",
+   "subjectName": "海上钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满载货",
+   "en": "full and complete cargo",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "探测",
+   "en": "sounding",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水深测量",
+   "en": "sounding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "声音",
+   "en": "sound",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测深",
+   "en": "sounding",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "上层建筑整体吊装",
+   "en": "lifting and mounting complete superstructure",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回声测深",
+   "en": "echo sounding\",\"sonic sounding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "声呐",
+   "en": "sonar\",\"sound navigation and ranging",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "模完整性",
+   "en": "mode completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全叶",
+   "en": "complete leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全熔合反应",
+   "en": "complete fusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "完全显性",
+   "en": "complete dominance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全吞噬",
+   "en": "complete phagocytosis",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗原",
+   "en": "complete antigen",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全外显率",
+   "en": "complete penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全选择",
+   "en": "complete selection",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "测深",
+   "en": "sounding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音",
+   "en": "Musical Sounds",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "声音信号",
+   "en": "sound signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天籁",
+   "en": "Sounds of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全景声采集",
+   "en": "panoramic sound acquisition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "声光警示装置",
+   "en": "sound and light alarm device",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.15",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "能同时发出声响和灯光信号的一种报警信号装置。"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "通过压电或线圈等不同样式，发射出足以威慑或使人员失去行动能力，但对人员或环境不会造成长期危害的高强度声响的声波类武器。"
+  },
+  {
+   "cn": "心包摩擦音",
+   "en": "pericardial friction sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "壁层与脏层心包由于生物性或理化因素致纤维蛋白沉积而粗糙，在心脏搏动时相互摩擦产生的声音，呈抓刮样、粗糙的高频声音。在心前区或胸骨左缘第3、4肋间最响亮，坐位前倾及呼气末更明显。"
+  },
+  {
+   "cn": "肠鸣音亢进",
+   "en": "hyperactive bowel sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.16",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "肠鸣音次数增多且肠鸣音响亮、高亢，甚至呈叮当声或金属音的体征。"
+  },
+  {
+   "cn": "肠鸣音减弱",
+   "en": "hypoactive bowel sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.17",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "肠蠕动减弱或数分钟才能听到一次的体征。"
+  },
+  {
+   "cn": "传音性耳聋",
+   "en": "sound conduction deafness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于与传送声音振动有关的听觉器官结构的异常而产生的一种耳聋。"
+  },
+  {
+   "cn": "青少年自杀死亡",
+   "en": "completed suicide in adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年有意图并采取行动而最终导致死亡的结果。其死亡有鲜明的“自我施予性”。"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "语音障碍",
+   "en": "speech sound disorder, SSD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "持续的语音生成困难影响了语音的可理解度，或妨碍了信息的口语式交流，不符合儿童年龄和发育阶段的预期，且缺陷不是由躯体、结构、神经系统或听力损害引起的一种交流障碍。"
+  },
+  {
+   "cn": "肥胖、减脂手术全营养配方食品",
+   "en": "nutritionally complete formula foods for obesity and fat reduction surgery",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.28",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为适应肥胖、减脂手术病人因代谢紊乱导致的蛋白质和微量营养素摄入不足的情况，在保证较低能量摄入配方的基础上调整蛋白质和微量营养素的比例，使其能作为单一营养来源满足肥胖、减脂手术患者营养需求的配方食品。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

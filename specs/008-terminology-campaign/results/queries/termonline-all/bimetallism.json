@@ -1,0 +1,332 @@
+{
+ "key": "bimetallism",
+ "term": "bimetallism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:35:13+00:00",
+ "status": "ok",
+ "note": "variant=bimetallism; 审定公布名词库=25; 海峡两岸名词对照库=11; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "双金属干扰",
+   "en": "bimetallism disturbance",
+   "source": "石油名词",
+   "wordNumber": "04.0332",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "双金属腐蚀",
+   "en": "bimetallic corrosion",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0514",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "用不同的金属或其他电子导体作为电极而形成的电偶腐蚀。"
+  },
+  {
+   "cn": "双金属系仪表",
+   "en": "bimetallic instrument",
+   "source": "电力名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "电力_电测与计量",
+   "subjectName": "电测与计量",
+   "publishYear": "2020",
+   "definition": "通过直接或间接由焦耳效应加热的双金属元件的变形来产生示值的仪表。"
+  },
+  {
+   "cn": "双金属片",
+   "en": "bimetallic strip",
+   "source": "物理学名词",
+   "wordNumber": "08.1159",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "双金属催化剂",
+   "en": "bimetallic catalyst",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.181",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "以两种不同金属单质或化合物作为活性组分的催化剂。"
+  },
+  {
+   "cn": "双金属酶",
+   "en": "bimetallic enzyme",
+   "source": "化学名词",
+   "wordNumber": "01.0654",
+   "subjectFullName": "化学_无机化学_生物无机",
+   "subjectName": "生物无机",
+   "publishYear": "2016",
+   "definition": "含有双金属活性中心的酶。金属中心之间通过协同效应发挥作用。"
+  },
+  {
+   "cn": "双金属电极",
+   "en": "bimetallic electrode",
+   "source": "化学名词",
+   "wordNumber": "03.1591",
+   "subjectFullName": "化学_分析化学_仪器分析_电化学分析",
+   "subjectName": "电化学分析",
+   "publishYear": "2016",
+   "definition": "用两种金属的合金制成的电极。"
+  },
+  {
+   "cn": "双金属催化剂",
+   "en": "bimetallic catalyst",
+   "source": "化学名词",
+   "wordNumber": "05.0552",
+   "subjectFullName": "化学_高分子化学_聚合与高分子化学反应",
+   "subjectName": "聚合与高分子化学反应",
+   "publishYear": "2016",
+   "definition": "由两种金属化合物组成的催化剂。"
+  },
+  {
+   "cn": "双金属系仪表",
+   "en": "bimetallic instrument",
+   "source": "计量学名词",
+   "wordNumber": "10.197",
+   "subjectFullName": "计量学_电磁_电测量仪器仪表",
+   "subjectName": "电测量仪器仪表",
+   "publishYear": "2015",
+   "definition": "通过直接或间接由焦耳效应加热使双金属元件变形来产生示值的仪表。"
+  },
+  {
+   "cn": "双金属温度计",
+   "en": "bimetallic thermometer",
+   "source": "计量学名词",
+   "wordNumber": "09.098",
+   "subjectFullName": "计量学_温度_接触测温",
+   "subjectName": "接触测温",
+   "publishYear": "2015",
+   "definition": "利用不同膨胀系数的双金属元件来测量温度的温度计。"
+  },
+  {
+   "cn": "双金属片温度计",
+   "en": "bimetallic thermograph",
+   "source": "大气科学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "由两种膨胀系数不同的金属片焊在一起，利用其随温度变化而产生不同形变的特性感应温度,并能自动记录温度随时间变化的仪器。"
+  },
+  {
+   "cn": "双金属温度计",
+   "en": "bimetallic thermometer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "02.043",
+   "subjectFullName": "机械工程_仪器仪表_工业自动化仪表与系统_温度测量仪表_温度测量仪表名称",
+   "subjectName": "温度测量仪表名称",
+   "publishYear": "2003",
+   "definition": "利用双金属元件作为检测元件测量温度的仪表。"
+  },
+  {
+   "cn": "双金属腐蚀",
+   "en": "bimetallic corrosion",
+   "source": "石油名词",
+   "wordNumber": "09.0290",
+   "subjectFullName": "石油_油气收集与储运工程_油田集输的腐蚀",
+   "subjectName": "油田集输的腐蚀",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "双金属片温度传感器",
+   "en": "bimetallic temperature transducer,bimetallic temperature sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0119",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "利用两种不同热膨胀系数的金属结合成的双金属片作为敏感元件的温度传感器。"
+  },
+  {
+   "cn": "双金属式温度表指示器",
+   "en": "bimetallic temperature indicator",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.154",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表",
+   "subjectName": "汽车仪表",
+   "publishYear": "2013",
+   "definition": "利用双金属片受热形变而指示温度的仪器。"
+  },
+  {
+   "cn": "双金属式燃油表指示器",
+   "en": "bimetallic fuel indicator",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.144",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表",
+   "subjectName": "汽车仪表",
+   "publishYear": "2013",
+   "definition": "利用双金属片形变而指示油量的仪器。"
+  },
+  {
+   "cn": "双金属式温度表传感器",
+   "en": "bimetallic temperature sensor",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.155",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表",
+   "subjectName": "汽车仪表",
+   "publishYear": "2013",
+   "definition": "以双金属片受热形变产生脉冲电流作为工作原理的传感器。"
+  },
+  {
+   "cn": "双金属催化重整",
+   "en": "bimetallic catalytic reforming",
+   "source": "石油名词",
+   "wordNumber": "06.0071",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "双金属重整催化剂",
+   "en": "bimetallic reforming catalyst",
+   "source": "石油名词",
+   "wordNumber": "06.0272",
+   "subjectFullName": "石油_石油炼制_石油炼制添加剂和催化剂",
+   "subjectName": "石油炼制添加剂和催化剂",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "双金属复合催化剂",
+   "en": "bimetallic com-posite catalyst",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0041",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "活性组分含有两种金属元素的催化剂。"
+  },
+  {
+   "cn": "国际[金银]复本位制",
+   "en": "international bimetallism",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双金属片温度计",
+   "en": "bimetallic thermograph",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双金属温度计",
+   "en": "bimetallic thermometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双金属催化剂",
+   "en": "bimetallic catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双金属调温计",
+   "en": "bimetallic thermoregulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双金属簇",
+   "en": "bimetallic cluster",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "双金属催化剂",
+   "en": "bimetallic catalyst",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双金属电极",
+   "en": "bimetallic electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双金属酶",
+   "en": "bimetallic enzyme",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "双金属片",
+   "en": "bimetallic strip\",\"bimetal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有载体双金属催化剂",
+   "en": "supported bimetallic catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "复本位制",
+   "en": "bimetallic standard",
+   "source": "马克思主义",
+   "wordNumber": "04.0005",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“单本位制”相对。同时用金、银两种金属铸币作为本位货币并规定其币值对比的一种货币制度。英、美、法等国在确立金本位制以前，都曾在18—19世纪长期采用复本位制。复本位制具有不稳定性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

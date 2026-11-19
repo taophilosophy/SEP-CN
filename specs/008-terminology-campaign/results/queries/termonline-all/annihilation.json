@@ -1,0 +1,302 @@
+{
+ "key": "annihilation",
+ "term": "annihilation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:38:58+00:00",
+ "status": "ok",
+ "note": "variant=annihilation; 审定公布名词库=27; 海峡两岸名词对照库=8; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "湮灭",
+   "en": "annihilation",
+   "source": "天文学名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "粒子与反粒子碰撞后消失并转化为光子的过程。"
+  },
+  {
+   "cn": "湮没",
+   "en": "annihilation",
+   "source": "物理学名词",
+   "wordNumber": "06.0679",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "湮灭",
+   "en": "annihilation",
+   "source": "核医学名词",
+   "wordNumber": "02.0080",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "<img src='/root/syzx/static/spz/heyixue1.02.0055.01.png'/>粒子失去动能后与邻近的自由电子碰撞，粒子与电子消失，转变成两个方向相反的511keV"
+  },
+  {
+   "cn": "湮灭",
+   "en": "annihilation",
+   "source": "化学名词",
+   "wordNumber": "04.0989",
+   "subjectFullName": "化学_物理化学_光化学",
+   "subjectName": "光化学",
+   "publishYear": "2016",
+   "definition": "两个激发分子的相互作用(通常通过碰撞)形成一个激发态分子与另一个基态分子的过程。"
+  },
+  {
+   "cn": "湮灭算符",
+   "en": "annihilation operator",
+   "source": "光学名词",
+   "wordNumber": "02.098",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "在场论的二次量子化中消灭某个粒子的算符，或由此引申出的具有类似意义的算符。"
+  },
+  {
+   "cn": "湮没算符",
+   "en": "annihilation operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0681",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "物理学名词",
+   "wordNumber": "09.0715",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "化学名词",
+   "wordNumber": "06.0452",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "(1)粒子与反粒子碰撞产生的电磁辐射。发生相互作用的粒子与反粒子消失，其静质量转化为光子的能量。(2)特指由正电子和电子湮灭产生的两个0.511MeV的光子。"
+  },
+  {
+   "cn": "粒子对湮灭",
+   "en": "pair annihilation",
+   "source": "天文学名词",
+   "wordNumber": "04.401",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "粒子和其反粒子碰撞，成对湮灭释放能量的过程。"
+  },
+  {
+   "cn": "电荷湮没",
+   "en": "charge annihilation",
+   "source": "物理学名词",
+   "wordNumber": "09.1516",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁[场]湮没",
+   "en": "magnetic annihilation",
+   "source": "物理学名词",
+   "wordNumber": "10.0482",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对湮没",
+   "en": "pair annihilation",
+   "source": "物理学名词",
+   "wordNumber": "09.1554",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "雄虫灭绝",
+   "en": "male annihilation",
+   "source": "昆虫学名词",
+   "wordNumber": "06.224",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "大量释放不育雄虫与田间雄虫竞争雌虫以造成后者不育、控制害虫的方法。"
+  },
+  {
+   "cn": "暗物质湮灭",
+   "en": "dark matter annihilation",
+   "source": "天文学名词",
+   "wordNumber": "07.501",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "暗物质粒子相互湮灭产生标准模型粒子的过程。"
+  },
+  {
+   "cn": "正电子湮灭技术",
+   "en": "positron annihilation technique",
+   "source": "核科学技术名词",
+   "wordNumber": "2.246",
+   "subjectFullName": "核科学技术_核化学与放射化学_放射分析化学",
+   "subjectName": "放射分析化学",
+   "publishYear": "2024",
+   "definition": "一项较新的核物理技术。利用正电子在凝聚物质中的湮灭辐射带出的物质内部的微观结构、电子动量分布及缺陷状态等信息，从而提供一种非破坏性的研究手段的技术。"
+  },
+  {
+   "cn": "正电子湮没",
+   "en": "positron-annihilation apparatus",
+   "source": "物理学名词",
+   "wordNumber": "09.1473",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "双光子湮没",
+   "en": "two-photon annihilation",
+   "source": "物理学名词",
+   "wordNumber": "04.2414",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "三重态-三重态湮灭",
+   "en": "triplet-triplet annihilation",
+   "source": "化学名词",
+   "wordNumber": "04.0990",
+   "subjectFullName": "化学_物理化学_光化学",
+   "subjectName": "光化学",
+   "publishYear": "2016",
+   "definition": "两个处于激发三重态的原子或分子的相互作用(通常经过碰撞)，形成1个处于激发单重态的原子或分子，以及另一个处于基态的单重态的原子或分子的过程。"
+  },
+  {
+   "cn": "正电子湮没辐射",
+   "en": "positron annihilation radiation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "放射医学与防护_放射物理学_电离辐射及其与物质相互作用",
+   "subjectName": "电离辐射及其与物质相互作用",
+   "publishYear": "2014",
+   "definition": "正电子与电子相碰撞，二者同时消失，一起转化为两个能量相等(0.511MeV)、方向相反的光子。"
+  },
+  {
+   "cn": "零化子的互反性",
+   "en": "reciprocity of annihilators",
+   "source": "数学名词",
+   "wordNumber": "04.2047",
+   "subjectFullName": "数学_代数学_代数几何学_拓扑群",
+   "subjectName": "拓扑群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "湮灭",
+   "en": "annihilation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "［正负电子］对湮没",
+   "en": "pair annihilation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "磁湮灭",
+   "en": "magnetic annihilation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "雄虫灭绝",
+   "en": "male annihilation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "正电子湮没术",
+   "en": "positron annihilation spectroscopy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "电子-正电子湮灭",
+   "en": "electron-positron annihilation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "正电子湮没谱学",
+   "en": "positron annihilation spectroscopy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "湮没辐射",
+   "en": "annihilation radiation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.29",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "当一种粒子与其反粒子相互作用并且终止各自的存在，同时将其能量（包括静止能量）全部转化而产生的电离辐射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

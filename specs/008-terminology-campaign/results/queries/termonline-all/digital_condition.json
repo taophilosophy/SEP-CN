@@ -1,0 +1,752 @@
+{
+ "key": "digital condition",
+ "term": "digital condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:31:17+00:00",
+ "status": "ok",
+ "note": "variant=digital condition; 审定公布名词库=2383; 海峡两岸名词对照库=727; 其他来源数据库=270; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0693",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "基本网系统中，条件集 B 的元素称为条件。条件类似于一般佩特里网中的库所，不过它的容量值为1。"
+  },
+  {
+   "cn": "即位条件",
+   "en": "Conditions",
+   "source": "世界历史名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国最高枢密院为限制君主制，于1730年对安娜女皇登基所提出的条件。安娜表示应允，后又拒绝，并解散了最高枢密院。"
+  },
+  {
+   "cn": "调质",
+   "en": "conditioning",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "粉状物料或料坯经水、热处理，特性产生明显变化的工序。可使淀粉部分糊化、蛋白质变性、有害病菌灭活、有害因子钝化及物料软化，提高制粒质量和效能。"
+  },
+  {
+   "cn": "调浆",
+   "en": "conditioning",
+   "source": "冶金学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "将矿粉或矿浆调节成所需要的矿浆浓度或使矿浆与药剂充分混合的过程。"
+  },
+  {
+   "cn": "调温调湿",
+   "en": "conditioning",
+   "source": "林学名词",
+   "wordNumber": "11.163",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "对木材或其他材料的含水量调整，使其达到符合使用要求的水平。"
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "化学_放射化学_核燃料循环化学",
+   "subjectName": "核燃料循环化学",
+   "publishYear": "2016",
+   "definition": "在高放废物储存或地质处置之前，将其中的某些元素转化为适合于安全储存的化学形态的操作。如将易挥发的放射性碘转化为稳定的碘化银。"
+  },
+  {
+   "cn": "老化",
+   "en": "conditioning",
+   "source": "化学名词",
+   "wordNumber": "03.2126",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "色谱柱或分离通道的预处理过程。在气相色谱中一般是在升高温度的同时给色谱柱通载气，以除去色谱柱中的残留溶剂和易挥发性杂质，并使固定相分布更均匀，性能更稳定；在液相色谱中，常常是用流动相通过色谱柱，在毛细"
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0485",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "使干燥后的皮革重新吸收一定量的水分，从而使皮革中的水分分布均匀并使其水分含量符合后续的机械做软需要的操作。"
+  },
+  {
+   "cn": "吐沙",
+   "en": "conditioning",
+   "source": "水产名词",
+   "wordNumber": "08.472",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "将活的贝类放在盛有清洁海水的容器中，以除去其体内的沙子和泥土。"
+  },
+  {
+   "cn": "条件处理",
+   "en": "conditioning",
+   "source": "电气工程名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "净化",
+   "en": "conditioning",
+   "source": "石油名词",
+   "wordNumber": "09.0080",
+   "subjectFullName": "石油_油气收集与储运工程_气田集输及输气管道",
+   "subjectName": "气田集输及输气管道",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "数字",
+   "en": "digital",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.112",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "以计算机可以识别的0和1两个数字符号记录和传输信息的方式。与模拟相对。"
+  },
+  {
+   "cn": "数字化",
+   "en": "digital",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.358",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "将油气管道系统中复杂多变的信息转变为可以度量的数字、数据，再以此建立起模型，将其转化为二进制代码，进行统一处理的过程。"
+  },
+  {
+   "cn": "数字[式]的",
+   "en": "digital",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.581",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用数字表示，尤其用于计算机中。"
+  },
+  {
+   "cn": "数字化",
+   "en": "digitalization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.604",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "将许多复杂多样的信息转换为一系列可以度量的数字、数据的过程。一般用二进制代码表示，以便能够被计算设备统一存储与处理。"
+  },
+  {
+   "cn": "数字化处理",
+   "en": "digitization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.139",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "将模拟信息转化为二进制数字信息并引入计算机统一处理的过程。"
+  },
+  {
+   "cn": "数字采集器",
+   "en": "digitizer",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2367",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "将模拟信号转换成数字信号的设备。 "
+  },
+  {
+   "cn": "数字化",
+   "en": "digitization",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2551",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "将模拟记录的波形 (如以光学方法记录在照相纸上的加速度图 )转换为离散的时间-加速度序列，以便用于随后的计算机处理的过程。 "
+  },
+  {
+   "cn": "数字化",
+   "en": "digitization",
+   "source": "城乡规划学名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "城乡规划学_城乡规划技术科学_城乡规划分析与优化技术",
+   "subjectName": "城乡规划分析与优化技术",
+   "publishYear": "2021",
+   "definition": "将模拟曲线转换成离散数字坐标的过程。"
+  },
+  {
+   "cn": "数字化器",
+   "en": "digitizer",
+   "source": "测绘学名词",
+   "wordNumber": "04.327",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "通过采样和量化过程，把模拟信号转换为数字信号的装置。"
+  },
+  {
+   "cn": "数字化",
+   "en": "digitizing\",\"digitization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "琴键",
+   "en": "digital",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数字的",
+   "en": "digital",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数字的",
+   "en": "digital",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字",
+   "en": "digit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字化",
+   "en": "digitizing",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数字化仪",
+   "en": "digitizer",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数字化器",
+   "en": "digitizer",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数字化",
+   "en": "digitization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字化仪",
+   "en": "digitizer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数字正射影像",
+   "en": "digital orthophoto\",\"digital orthoimage\",\"digital orthoimagery",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "趾吸盘",
+   "en": "digital disc\",\"digital disk",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "数字化",
+   "en": "digitization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字货币",
+   "en": "Digital Currency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字计算机",
+   "en": "digital computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字身份",
+   "en": "digital identity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字媒体",
+   "en": "digital media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字素养",
+   "en": "digital literacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化企业",
+   "en": "digital enterprise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化生活",
+   "en": "digital lifestyle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字原生代",
+   "en": "digital natives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字地球",
+   "en": "Digital Earth",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字中国",
+   "en": "Digital China",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "数字标签",
+   "en": "digital label",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.35",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品包装上采用二维码等信息化手段展示的食品标签。"
+  },
+  {
+   "cn": "数字疗法",
+   "en": "digital medicine",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.3.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "由高质量软件程序驱动，为患者提供基于循证医学的治疗干预措施，用以治疗、管理、预防疾病。可以单独使用或与药物、设备、其他疗法一起使用，以优化患者护理和健康结果。"
+  },
+  {
+   "cn": "数字民族志",
+   "en": "digital ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0325",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以网络和新媒体等数字化形式作为研究与创作媒介的民族志。"
+  },
+  {
+   "cn": "数字化DNA",
+   "en": "digital DNA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.58",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "利用数字化技术记录、存储、追踪和查询食品中具有物种、种群、个体等DNA 信息，实现食品从原料采购、加工制作、仓储运输、销售等环节的透明化管理和记录，应用于食品溯源和安全监管。"
+  },
+  {
+   "cn": "腊肠指/趾",
+   "en": "sausage digit",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.19",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "手指（足趾）弥漫性非凹陷性水肿的症状。有紧绷感，失去了正常的凹凸多峰的轮廓，而从侧面看呈圆的半球状，状似“腊肠样”。"
+  },
+  {
+   "cn": "数字跨度",
+   "en": "digit span",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "选自韦斯勒成人智力量表及韦斯勒记忆量表中的一个语言分项测验，可反应受试者听记忆。"
+  },
+  {
+   "cn": "数字译码",
+   "en": "digit symbol",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "韦氏成人智力量表的一个分测验项目，评价受试者感知-运动速度。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "数字X射线摄影",
+   "en": "digital radiography，DR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.4",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以平板探测器、电荷耦合器件（CCD）等为转换介质，将被照体信息以数字影像形式进行传递的一种X射线摄影技术。"
+  },
+  {
+   "cn": "数字减影血管造影",
+   "en": "digital subtraction angiography，DSA",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "通过人工的方法将对比剂注射到目标血管内进行X射线成像，利用计算机处理对比剂注入前后所得到的数字化影像信息，以消除周围组织结构而使血管影像清晰显示的一种成像技术。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

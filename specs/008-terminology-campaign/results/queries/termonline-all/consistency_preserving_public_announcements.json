@@ -1,0 +1,772 @@
+{
+ "key": "consistency-preserving public announcements",
+ "term": "consistency-preserving public announcements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:34:02+00:00",
+ "status": "ok",
+ "note": "variant=consistency-preserving public announcements; 审定公布名词库=1237; 海峡两岸名词对照库=184; 其他来源数据库=170; 预公布名词数据库=160; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "公告",
+   "en": "announcement to the public",
+   "source": "档案学名词",
+   "wordNumber": "02.01.062",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "公布性文件的一种。适用于向国内外宣布重要事项或者法定事项。"
+  },
+  {
+   "cn": "公益广告",
+   "en": "public service announcement;PSA",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.194",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "为维护社会公德、倡导良好的社会事业和社会风尚，改善和解决社会公共问题而组织的广告，具有社会的效益性、主题的现实性和表现的号召性三大特点。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency,consistence",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1140",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "表征当剪切应力作用于材料时，材料抵抗流动(永久变形)的性质。是材料内部摩擦的一种表现。"
+  },
+  {
+   "cn": "招标公告",
+   "en": "tender announcement",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.588",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "招标单位或招标人在工程建设物资采购时，公布标准和条件，提出价格和要求等内容，从中选择供应商的一种文书。"
+  },
+  {
+   "cn": "股利宣布日",
+   "en": "announcement date",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0466",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "正式宣布股利下一次发放给股东的日期。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "17.02.117",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土随着含水量不同而表现的不同物理状态。如固态、半固态、塑态、流态等。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.217",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在逻辑上没有矛盾。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0323",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_润滑",
+   "subjectName": "润滑",
+   "publishYear": "2021",
+   "definition": "润滑脂在规定的剪切力或剪切速度下变形的程度。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "冶金学名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "不定形耐火材料加水或其他液态结合剂后，在自重和外力作用下流动性能的度量。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "物理学名词",
+   "wordNumber": "01.0395",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0262",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "事务执行的结果必须是使数据库从一个一致性状态变到另一个一致性状态。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "服务提供者在任何时候、任何地方都保持同样的优良服务水平的质量特性。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0574",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "所有被影响的数据都是一致的。"
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "心理学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即归因对象的行为是否一致或经常出现。"
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "土木工程名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "电气工程名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "航海科技名词",
+   "wordNumber": "15.0870",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "consistency",
+   "source": "数学名词",
+   "wordNumber": "02.0078",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "地质学名词",
+   "wordNumber": "09.069",
+   "subjectFullName": "地质学_工程地质学和环境地质学",
+   "subjectName": "工程地质学和环境地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "进口通知",
+   "en": "import announcement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "招标公告",
+   "en": "bidding announcement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "录音通知，录音播放",
+   "en": "recorded announcement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一贯性",
+   "en": "consistency",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，相容性",
+   "en": "consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "preservation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保存",
+   "en": "preservation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "稠度",
+   "en": "consistency\",\"thickness",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "conformance\",\"consistency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "一致性检验",
+   "en": "consistency check",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准稠度",
+   "en": "standard consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稠度试验",
+   "en": "consistency test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热力学一致性",
+   "en": "thermodynamic consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量纲一致性",
+   "en": "dimensional consistency",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公示方式法定",
+   "en": "statutory form of public announcement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共资源交易公告",
+   "en": "announcement of public resource transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "报分",
+   "en": "announce\",\"call",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "广播员",
+   "en": "announcer\",\"speaker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据一致性",
+   "en": "data consistency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水动作宣布",
+   "en": "announcement of the dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宣告结果",
+   "en": "announcement of the results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高度的一致性",
+   "en": "consistency of height",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一致性",
+   "en": "consistency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "不同研究结果的方向和程度彼此差异不大，得到相同或类似的结论的特性。"
+  },
+  {
+   "cn": "防腐剂",
+   "en": "preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或减缓由微生物引起的食品腐败变质、延长食品储存期的物质。"
+  },
+  {
+   "cn": "内部一致性信度",
+   "en": "internal consistency",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.1.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "量表中测量同一个概念的多个计量指标的一致性程度，目前普遍使用克朗巴赫a 系数(Cronbach’s a coefficient)来检验量表的一致性程度。"
+  },
+  {
+   "cn": "一致性评价",
+   "en": "consistency evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.35",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在不同研究、不同生物学层面（如分子、细胞、组织/器官、动物、人群）及不同测试系统中，评价反复观察到某一化学物引起的不良效应的一致性的过程。包括评价毒理学一致性、方法学一致性、统计学一致性和结论一致性"
+  },
+  {
+   "cn": "辐照保鲜",
+   "en": "irradiation preservation",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.4",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "利用γ射线、X射线、电子射线的辐射对食品进行辐照处理，经辐照可达到杀菌、杀虫、抑制蔬菜发芽、延迟果实后熟等目的，从而达到延长果蔬保鲜期的一种方法。"
+  },
+  {
+   "cn": "保温",
+   "en": "heat preservation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿生后即用预热的毛巾擦干，并采取各种保暖措施，使婴儿处于中性温度中。"
+  },
+  {
+   "cn": "皮蛋",
+   "en": "preserved egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.8",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "以鲜蛋为原料，经用氢氧化钠（烧碱）、食盐、茶叶（添加或不添加）、水等辅料和食品添加剂（含食品加工助剂硫酸铜等）配成的料液或料泥腌制、包装等工艺制成的产品。"
+  },
+  {
+   "cn": "果脯",
+   "en": "preserved fruit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.8",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "以果蔬等为主要原料，添加（或不添加）食品添加剂和其他辅料，经糖或蜂蜜或盐腌制（或不腌制）等工艺制成的食品。"
+  },
+  {
+   "cn": "酸性防腐剂",
+   "en": "acidic preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "一类在酸性条件下发挥防腐作用的食品添加剂。"
+  },
+  {
+   "cn": "天然防腐剂",
+   "en": "natural preservative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.20.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由生物体分泌或体内存在的具有抑菌作用的物质，其经人工提取或加工而成的食品防腐剂。"
+  },
+  {
+   "cn": "新食品原料公告",
+   "en": "announcement of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.8",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "根据综合性审查结论，由我国卫生行政部门对符合要求的新食品原料的名称、来源、生产工艺、主要成分、质量规格要求、标签标识要求及其他相关内容进行发布和公示的过程。"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "公众成员所受到的来自计划照射情况、应急照射情况和现存照射情况中的辐射源的照射。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "城市中向公众开放的场所。如街道、广场、公园、图书馆等，可以供人们聚会、交往、休闲娱乐等。"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "由中央或地方政府投资兴建，并以较低租金提供给低收入群体的住房形式。各国实行的方式不同，有的国家允许相当比例的非盈利性社会组织参与融资、兴建、供给或管理，而被称为“社会住房”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "一种介于国家与社会之间并具有自治性的公共空间，是公民个体参与公共事务的媒介。与“私人领域”相对。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

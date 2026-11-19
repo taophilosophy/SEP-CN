@@ -1,0 +1,122 @@
+{
+ "key": "genero",
+ "term": "Género",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:43:41+00:00",
+ "status": "ok",
+ "note": "variant=Género; 审定公布名词库=8; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "云属",
+   "en": "cloud genera",
+   "source": "大气科学名词",
+   "wordNumber": "01.127",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "根据云高、外形和形成过程，对云层进行的分类。其名称和代号为∶卷云(Ci)、卷积云(Cc)、卷层云(Cs)、高积云(Ac)、高层云(As)、雨层云(Ns)、层积云(Sc)、层云(St)、积云(Cu)、积"
+  },
+  {
+   "cn": "属",
+   "en": "genus,genera (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "介于族和种之间的分类阶元，由一个或多个物种组成，它们具有若干相似的鉴别特征，或者具有共同的起源特征。"
+  },
+  {
+   "cn": "洁净煤发电",
+   "en": "clean coal power genera tion",
+   "source": "电力名词",
+   "wordNumber": "07.034",
+   "subjectFullName": "电力_火力发电",
+   "subjectName": "火力发电",
+   "publishYear": "2020",
+   "definition": "高效、低排放的先进燃煤发电。是满足保护环境、节约能源,及应对全球气候变化要求的燃煤发电技术。包括超临界发电、超超临界发电、IGCC发电、燃煤电厂污染物排放控制、多联产、废弃物资源化利用、<img sr"
+  },
+  {
+   "cn": "双绕组同步发电机",
+   "en": "double-wound synchronous genera- tor",
+   "source": "电气工程名词",
+   "wordNumber": "07.049",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "余热锅炉",
+   "en": "heat recovery steam genera tor,HRSG",
+   "source": "电力名词",
+   "wordNumber": "09.027",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "利用各种工业过程中的废气、废料或废液中的显热或(和)其可燃物质燃烧后产生的热量的锅炉,以及在燃油(或燃气)的联合循环机组中,利用从燃气轮机排出的高温烟气热量的锅炉。"
+  },
+  {
+   "cn": "直流高压发生器",
+   "en": "high voltage direct current genera- tor",
+   "source": "电气工程名词",
+   "wordNumber": "12.116",
+   "subjectFullName": "电气工程_绝缘配合和高电压试验技术",
+   "subjectName": "绝缘配合和高电压试验技术",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "直流弧焊发电机",
+   "en": "direct current arc welding genera- tor",
+   "source": "电气工程名词",
+   "wordNumber": "18.032",
+   "subjectFullName": "电气工程_电焊机",
+   "subjectName": "电焊机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "泛发性带状疱疹",
+   "en": "herpes zoster generalisatus,gener-alized zoster",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0106",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "共存属",
+   "en": "binding genera",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "属",
+   "en": "genus\",\"genera (复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "单分散气雾形成接口",
+   "en": "MAGIC （=monodisperse aerosol genera-tion interface）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

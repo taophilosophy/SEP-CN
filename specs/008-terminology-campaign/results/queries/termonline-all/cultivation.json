@@ -1,0 +1,542 @@
+{
+ "key": "cultivation",
+ "term": "cultivation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:30:38+00:00",
+ "status": "ok",
+ "note": "variant=cultivation; 审定公布名词库=126; 海峡两岸名词对照库=26; 其他来源数据库=12; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "培养",
+   "en": "cultivation",
+   "source": "微生物学名词",
+   "wordNumber": "09.171",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "人为地为特定微生物提供适宜条件使其生长繁殖的过程。"
+  },
+  {
+   "cn": "培养",
+   "en": "culture,cultivation",
+   "source": "化学工程名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "化学工程_生物化学工程_生化反应工程_细胞生长与代谢",
+   "subjectName": "细胞生长与代谢",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "栽培床",
+   "en": "cultivation bed",
+   "source": "农学名词",
+   "wordNumber": "14.195",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "按照一定规格修筑，用于作物育苗或种植的设施。"
+  },
+  {
+   "cn": "农耕文化",
+   "en": "cultivation culture",
+   "source": "风景园林名词",
+   "wordNumber": "05.0260",
+   "subjectFullName": "风景园林_风景园林规划_乡村景观规划",
+   "subjectName": "乡村景观规划",
+   "publishYear": "2025",
+   "definition": "由农民在长期农业生产中形成的一种适应农业生产、生活需要的国家制度、礼俗制度、文化教育等的文化集合。"
+  },
+  {
+   "cn": "培养理论",
+   "en": "cultivation theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.079",
+   "subjectFullName": "新闻学与传播学_大众传播_传播效果",
+   "subjectName": "传播效果",
+   "publishYear": "2022",
+   "definition": "认为电视等大众传播媒介通过长期潜移默化的影响，在某种程度上塑造了受众的文化框架、社会认知和思维方式。由美国学者乔治·格伯纳(George Gerbner)提出。"
+  },
+  {
+   "cn": "垦殖指数",
+   "en": "cultivation index",
+   "source": "地理学名词",
+   "wordNumber": "18.258",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "一国或一地区已开垦的耕地面积占其土地总面积的比例，用百分数表示，是衡量一个地区土地资源开发利用程度的指标。"
+  },
+  {
+   "cn": "养殖技术",
+   "en": "cultivation techniques",
+   "source": "水产名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "根据养殖学理论和养殖生产实践经验发展的操作方法与技能。"
+  },
+  {
+   "cn": "森林培育",
+   "en": "forest cultivation",
+   "source": "风景园林名词",
+   "wordNumber": "12.0167",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "通过树木和森林利用太阳能和其他物质进行生物转化，生产人类所需的食物、工业原料、生物能源等的一种生产过程，同时创造并保护人类和生物生存所需的环境的活动。"
+  },
+  {
+   "cn": "撂荒",
+   "en": "shifting cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.023",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "耕地较长时期弃而不种，或休耕年限超过两年以上的土地利用方式。"
+  },
+  {
+   "cn": "精确栽培",
+   "en": "precise cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.073",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "采用栽培方案设计、生长动态监测、因苗管理调控、产量品质预测及农情信息服务等在内的精确化技术措施及装备进行的现代作物栽培管理的方式。"
+  },
+  {
+   "cn": "清洁栽培",
+   "en": "clean cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.074",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "在作物生产全过程中采用清洁的生产程序、技术和管理，尽量少用或不用化学农用品，减少作物生产过程中污染物的产生，确保农产品无毒无害和环境安全的综合栽培措施。"
+  },
+  {
+   "cn": "垄作",
+   "en": "ridge cultivation",
+   "source": "农学名词",
+   "wordNumber": "08.157",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "在耕层筑起垄台和垄沟，将作物种植在垄台上的耕法。"
+  },
+  {
+   "cn": "草地培育",
+   "en": "grassland cultivation ",
+   "source": "草学名词",
+   "wordNumber": "2.0016",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "牧草栽培",
+   "en": "forage cultivation ",
+   "source": "草学名词",
+   "wordNumber": "3.0036",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "草坪耕作",
+   "en": "turf cultivation ",
+   "source": "草学名词",
+   "wordNumber": "4.082",
+   "subjectFullName": "草学_种子和育种_草坪学",
+   "subjectName": "草坪学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "共培养",
+   "en": "co cultivation ",
+   "source": "草学名词",
+   "wordNumber": "5.0125",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "保护种植",
+   "en": "protected cultivation ",
+   "source": "草学名词",
+   "wordNumber": "6.0027",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "逆境栽培",
+   "en": "stress cultivation ",
+   "source": "草学名词",
+   "wordNumber": "6.0149",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "智能化栽培",
+   "en": "intelligence cultivation ",
+   "source": "草学名词",
+   "wordNumber": "6.0151",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "牧草栽培",
+   "en": "forage cultivation",
+   "source": "畜牧学名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "根据牧草生长发育特点与环境要求，通过人工栽培改善并创造牧草生长发育所需的环境条件(如光、热、水、空气、营养等)，以获得最好的牧草产量和品质。"
+  },
+  {
+   "cn": "栽培",
+   "en": "cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "培养器",
+   "en": "cultivator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "栽培",
+   "en": "cultivate",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "培养",
+   "en": "culture\",\"cultivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "垦殖指数",
+   "en": "cultivation index",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表面培养",
+   "en": "surface cultivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绿洲农业",
+   "en": "oasis cultivation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "迁徙耕作",
+   "en": "shifting cultivation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连续培养",
+   "en": "continuous cultivation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "玻片培养",
+   "en": "slide cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "划线培养",
+   "en": "streak cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "斜面培养",
+   "en": "slant cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非纯培养",
+   "en": "xenic cultivation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "无异生培养(纯净培养)",
+   "en": "axenic cultivation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "栽培类型",
+   "en": "cultivated form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "栽培性状",
+   "en": "cultivated character",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "耕作土壤",
+   "en": "cultivated soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "气候栽培界限",
+   "en": "climatic cultivation limit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "补料分批培养",
+   "en": "fed-batch cultivation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "涂布培养",
+   "en": "spread plate cultivation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "养气",
+   "en": "Cultivating Qi",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "企业信用培育",
+   "en": "enterprise credit cultivation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信贷专营机构培育",
+   "en": "cultivation of credit franchise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修己安人",
+   "en": "Cultivate Oneself to Benefit Others",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修德振兵",
+   "en": "Cultivate Virtue and Strengthen the Army",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "致乐以治心",
+   "en": "Cultivate the Mind by Immersing in Music",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "修齐治平",
+   "en": "Self-Cultivation, Family Regulation, State Governance, Bringing Peace to All Under Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "践形",
+   "en": "Cultivate One’s Innate Quality to Be Revealed in One’s Appearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "cultivation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "把外在的社会道德观念灌输于人的社会化或者文化化的过程。荀子认为，人与生俱来的自然本能固然包含不道德的一面，但经灌输道德观念之后，能够理解并运用这些道德准则进行自我约束。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

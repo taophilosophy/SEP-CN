@@ -1,0 +1,772 @@
+{
+ "key": "tracing condition",
+ "term": "tracing condition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:17:05+00:00",
+ "status": "ok",
+ "note": "variant=tracing condition; 审定公布名词库=3971; 海峡两岸名词对照库=908; 其他来源数据库=198; 预公布名词数据库=111; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "痕迹条件反射",
+   "en": "trace conditioned reflex",
+   "source": "生物物理学名词",
+   "wordNumber": "04.233",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "条件刺激先出现，消失一段时间后非条件刺激才开始出现的反射反应。"
+  },
+  {
+   "cn": "追踪",
+   "en": "tracing",
+   "source": "结核病学名词",
+   "wordNumber": "05.031",
+   "subjectFullName": "结核病学_结核病预防与控制_患者发现",
+   "subjectName": "患者发现",
+   "publishYear": "2019",
+   "definition": "结核病患者发现的方式之一。基层医疗卫生机构协助疾病预防控制机构，对已进行疫情报告但未到结核病定点医疗机构就诊的肺结核患者和疑似肺结核患者进行追访，督促其到结核病定点医疗机构接受检查和治疗。"
+  },
+  {
+   "cn": "根查",
+   "en": "tracing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.584",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "传统著录法中的术语。对一种文献所编款目种类及其数量的记载。"
+  },
+  {
+   "cn": "示踪",
+   "en": "tracing",
+   "source": "核医学名词",
+   "wordNumber": "01.0009",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "用微量信号物质指示和跟踪特定物质在生物体及其环境介质中迁移、转化、积累和清除状态的技术。"
+  },
+  {
+   "cn": "迹线",
+   "en": "trace",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2412",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "由地震仪的一个通道记录得到的地震波形的时间历程图。加速度计记录在胶片或熏烟纸上的模拟信号。 "
+  },
+  {
+   "cn": "正程",
+   "en": "trace",
+   "source": "光学名词",
+   "wordNumber": "11.126",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "电视图像在采集与显示过程中，电子束或像素驱动方式是从上到下一行一行、从左到右一列一列扫描，从左到右能够形成图像信号的扫描正向过程。"
+  },
+  {
+   "cn": "[阵]迹",
+   "en": "trace",
+   "source": "物理学名词",
+   "wordNumber": "01.0447",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "被示踪物",
+   "en": "tracee",
+   "source": "化学名词",
+   "wordNumber": "06.0684",
+   "subjectFullName": "化学_放射化学_应用放射化学",
+   "subjectName": "应用放射化学",
+   "publishYear": "2016",
+   "definition": "与示踪剂的物理、化学性质基本相同的被示踪研究的具体对象。在示踪技术中，示踪剂作为被示踪物的化学组成部分或与其混合来研究其物理、化学和生物学等行为和特性。"
+  },
+  {
+   "cn": "语迹",
+   "en": "trace",
+   "source": "语言学名词",
+   "wordNumber": "01.142",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在20世纪70年代中期的转换生成语法中指一种形式手段。标记一个组构成分在派生过程中通过转换移至另一位置前占据的位置。组构成分所移出的那个位置称为语迹（在表征中用t表示），它受那个组构成分的“约束”。移"
+  },
+  {
+   "cn": "道[间]均衡",
+   "en": "trace balancing; trace equalization",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0320",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "对地震记录道之间进行振幅平衡处理，使叠加时所有记录道有相等的灵敏度。 "
+  },
+  {
+   "cn": "叶迹",
+   "en": "folial trace,leaf trace",
+   "source": "植物学名词",
+   "wordNumber": "03.1100",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "连接茎维管柱和叶维管束的维管组织部分。即维管束从茎中分支开始，并穿过皮层到叶柄基部为止的部分。叶中可具一个或多个叶迹。"
+  },
+  {
+   "cn": "咬迹",
+   "en": "biting trace,gnawing trace",
+   "source": "古生物学名词",
+   "wordNumber": "05.0134",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_遗迹学",
+   "subjectName": "遗迹学",
+   "publishYear": "2009",
+   "definition": "动物因取食或捕食，而留下的咬痕。"
+  },
+  {
+   "cn": "质量追溯",
+   "en": "quality tracing",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.230",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "在生产过程中，每完成一个工序或一项工作，都要记录其检验结果及存在问题，记录操作者及检验者的姓名、时间、地点及情况分析，在产品的适当部位做出相应的质量状态标志的行为。"
+  },
+  {
+   "cn": "射线轨迹跟踪",
+   "en": "ray tracing",
+   "source": "核科学技术名词",
+   "wordNumber": "3.047",
+   "subjectFullName": "核科学技术_核聚变_核聚变基础",
+   "subjectName": "核聚变基础",
+   "publishYear": "2024",
+   "definition": "用几何光学近似的方法计算电磁波在等离子体中的传播、吸收和反射的一种方‍法。"
+  },
+  {
+   "cn": "射线追踪",
+   "en": "ray tracing",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0758",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "给定源和台站的位置及介质的波速，求二者之间的射线轨迹及其走时的工作。 "
+  },
+  {
+   "cn": "追随性",
+   "en": "tracing ability",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0897",
+   "subjectFullName": "机械工程（一）_机械零件_机械密封_机械密封性能参数",
+   "subjectName": "机械密封性能参数",
+   "publishYear": "2021",
+   "definition": "当机械密封存在跳动、振动、转轴的窜动和密封端面磨损时，补偿环对于非补偿环保持贴合的性能。"
+  },
+  {
+   "cn": "伴热",
+   "en": "heat tracing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0116",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "为防止管内流体因温度下降而凝结或产生凝液或黏度升高及为保持温度稳定等，在管外或管内采用的间接加热方法。"
+  },
+  {
+   "cn": "蒸汽伴热",
+   "en": "steam tracing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0117",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "以蒸汽为加热介质的伴热。"
+  },
+  {
+   "cn": "电伴热",
+   "en": "electric tracing",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0122",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "以电能为热源的伴热。"
+  },
+  {
+   "cn": "伴热管",
+   "en": "tracing pipe",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0124",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "用于间接加热管内介质，伴随在管道外或内的供热管。"
+  },
+  {
+   "cn": "痕迹性条件作用",
+   "en": "trace conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "追踪",
+   "en": "tracing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "透写图",
+   "en": "tracing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[踪]迹",
+   "en": "trace",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "痕迹",
+   "en": "trace",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微量",
+   "en": "trace",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "叶迹",
+   "en": "folial trace\",\"leaf trace",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "痕量成分",
+   "en": "trace component\",\"trace constituent",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "路径追踪",
+   "en": "path tracing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "随管加热蒸汽",
+   "en": "tracing steam",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "描图纸",
+   "en": "tracing paper",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "描图纸",
+   "en": "tracing paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光线跟踪",
+   "en": "ray tracing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "栅格追踪",
+   "en": "raster tracing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖映绘",
+   "en": "overlay tracing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "跟踪数字化",
+   "en": "tracing digitizing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "描图纸",
+   "en": "tracing paper",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "映绘",
+   "en": "fair tracing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "光线跟踪, 光线追踪",
+   "en": "ray tracing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮廓跟踪",
+   "en": "contour tracing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触者追踪",
+   "en": "contact tracing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字痕迹",
+   "en": "digital trace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "痕迹化管理",
+   "en": "trace management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据血缘追踪技术",
+   "en": "data lineage tracing technique",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诊断、治疗、追踪和筛查",
+   "en": "diagnosis, treatment, tracing and screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "金融业网络攻击溯源",
+   "en": "tracing cyber-attacks in the financial industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症病区",
+   "en": "special ward (for patients with severe conditions)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "效率示踪法",
+   "en": "efficiency-tracing method",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "用4πβ-γ符合法测量纯β发射核素活度的一种方法。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "食源性致病菌分子溯源",
+   "en": "foodborne pathogen molecular tracing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对病人和食品中食源性致病菌分离株进行分子分型和聚类分析，识别聚集性病例，指导病因性食品的溯源调查的监测过程。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "因病缺课缺勤追踪",
+   "en": "tracing of absenteeism due to illness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校卫生工作人员每日对因病缺课/缺勤的师生员工进行登记，追查其主要症状、发病时间、就诊信息、诊断结果、家庭共同生活人员相似症状等，对其病情和转归进行追踪并记录的过程。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组空气（水）源制冷或热泵机组配置多台室内机，通过改变制冷剂流量适应各房间负荷变化的直接膨胀式空调系统。"
+  },
+  {
+   "cn": "集中空调通风系统清洗",
+   "en": "central air conditioning ventilation system cleaning",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用某些技术或方法清除集中空调通风系统风管、风口、空气处理单元和其他部件内与输送空气相接触表面以及空调冷却水塔内积聚的颗粒物、微生物的过程。"
+  },
+  {
+   "cn": "集中空调通风系统消毒",
+   "en": "central air conditioning ventilation system disinfecting",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用物理和（或）化学方法杀灭集中空调通风系统风管、冷却塔、表冷器、风口、空气处理单元和其他部件内与输送空气相接触表面以及冷却水、冷凝水、积尘中的致病微生物的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

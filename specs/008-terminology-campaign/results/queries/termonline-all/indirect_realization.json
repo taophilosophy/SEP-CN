@@ -1,0 +1,782 @@
+{
+ "key": "indirect realization",
+ "term": "indirect realization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:38:11+00:00",
+ "status": "ok",
+ "note": "variant=indirect realization; 审定公布名词库=1343; 海峡两岸名词对照库=397; 其他来源数据库=47; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "实现",
+   "en": "realization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0236",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "类之间的不继承结构、只继承行为的一种特殊的泛化关系。多数是用来表达接口类和实现(接口的)类之间的关系。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "数学名词",
+   "wordNumber": "012.0478",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "自动化名词",
+   "wordNumber": "02.250",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "几何实现",
+   "en": "geometric realization",
+   "source": "数学名词",
+   "wordNumber": "08.0713",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "数学名词",
+   "wordNumber": "012.0477",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现理论",
+   "en": "realization theory",
+   "source": "数学名词",
+   "wordNumber": "012.0476",
+   "subjectFullName": "数学_信息论_控制论_控制论（数学）",
+   "subjectName": "控制论（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最小实现",
+   "en": "minimal realization",
+   "source": "自动化名词",
+   "wordNumber": "02.240",
+   "subjectFullName": "自动化科学技术_控制理论_现代控制论",
+   "subjectName": "现代控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "多重实现性",
+   "en": "multiple realizability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.500",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主张一类心理状态（属性或事件）可被多种不同物理状态（属性或事件）所实现，即心灵可被多种不同类型的物理载体所实现的观点。"
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche ",
+   "source": "草学名词",
+   "wordNumber": "2.0261",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "动物学名词",
+   "wordNumber": "7.047",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在生物群落中，当有竞争者存在时，物种仅占据基础生态位的一部分，即实际占有的这部分生态位。"
+  },
+  {
+   "cn": "实现遗传力",
+   "en": "realized heritability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.383",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "在一个表型选择试验中获得的累积选择反应与选择差的比值。"
+  },
+  {
+   "cn": "实现价差",
+   "en": "realized spread",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0213",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "衡量委托执行价格和委托执行后一段时间的买卖报价中点之间的差额。其反映委托执行后的市场影响成本。"
+  },
+  {
+   "cn": "实现遗传率",
+   "en": "realized heritability",
+   "source": "遗传学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "在一个群体中实施表型选择时获得的实际选择反应与选择差的比率。"
+  },
+  {
+   "cn": "过程的实现",
+   "en": "realization of process",
+   "source": "数学名词",
+   "wordNumber": "09.0193",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.388",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "分别在两个群体中对两个不同的性状实施表型选择，根据获得的实际直接选择反应和间接选择反应所计算的性状间的相关。"
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "在正常生产经营过程中，以资产预计售价减去进一步加工成本和预计销售费用以及相关税费后的净值。"
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "遗传学名词",
+   "wordNumber": "06.116",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "分别在两个群体中对两种数量性状实施表型选择，根据所获得的实际直接选择反应和间接选择反应计算出性状间的相关。"
+  },
+  {
+   "cn": "间接作用",
+   "en": "indirect effect,indirect  action",
+   "source": "核医学名词",
+   "wordNumber": "02.0396",
+   "subjectFullName": "核医学_核医学相关基础学科_辐射损伤与放射生物学",
+   "subjectName": "辐射损伤与放射生物学",
+   "publishYear": "2018",
+   "definition": "射线通过与细胞中的非靶原子或分子(特别是水分子)作用，产生自由基，后者可以扩散一定距离达到并造成靶分子损伤的过程。如射线作用于生物大分子周围环境，通过各种自由基等间接途径造成DNA结构损伤。"
+  },
+  {
+   "cn": "间接测热法",
+   "en": "indirect calorimetry",
+   "source": "普通外科学名词",
+   "wordNumber": "08.039",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "根据一定时间内人体的耗氧量，以及二氧化碳和尿氮排泄量来推算所消耗的代谢物质的成分与数量，再计算出总产热量的方法。"
+  },
+  {
+   "cn": "间接门静脉造影术",
+   "en": "indirect portography",
+   "source": "普通外科学名词",
+   "wordNumber": "21.097",
+   "subjectFullName": "医学_普通外科学_门静脉高压症",
+   "subjectName": "门静脉高压症",
+   "publishYear": "2026",
+   "definition": "将造影剂经导管注入肠系膜上动脉或脾动脉，经过血液循环使门静脉显影成像的检查方法。"
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "释谱",
+   "en": "realize",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可实现性",
+   "en": "realizability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可变现价值",
+   "en": "realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可变现资产",
+   "en": "realizable asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可实现的收入",
+   "en": "realizable income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现价格，实际价格",
+   "en": "realized price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现利润",
+   "en": "realized profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现收益",
+   "en": "realized income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已实现投资",
+   "en": "realized investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传率,实现遗传力",
+   "en": "realized heritability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "实际生态位",
+   "en": "realized niche",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "实际出生率",
+   "en": "realized natality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "现实生态位",
+   "en": "realized niche",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "可变现净值",
+   "en": "net realizable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "实现遗传相关",
+   "en": "realized genetic correlation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "间接分裂",
+   "en": "indirect division",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间接骨化",
+   "en": "indirect ossification",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接任意球",
+   "en": "indirect free kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接的简单还击",
+   "en": "simple indirect riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击地传球",
+   "en": "bounce pass\",\"indirect pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判罚",
+   "en": "penalize\",\"sanction\",\"penalization\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "间接服务",
+   "en": "indirect service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭、小组、组织和社区以至更大的社会系统为关注对象，由社会工作者代表服务对象采取行动，通过介入服务对象以外的其他系统以实现间接帮助的服务行动。"
+  },
+  {
+   "cn": "间接成本",
+   "en": "indirect cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目，但不能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "间接效益",
+   "en": "indirect benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "实行某项干预措施后所增加的患者的健康时间或劳动生产力恢复带来的收益。"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "间接致癌物",
+   "en": "indirect carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "必须经过体内代谢活化才具有致癌作用的化学物。"
+  },
+  {
+   "cn": "间接接触传播",
+   "en": "indirect contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者接触被污染的中间对象（如污染的环境和物品）而导致病原体的传播的过程。"
+  },
+  {
+   "cn": "间接冲击伤",
+   "en": "indirect blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波通过物体、建筑物等作用于人体引起的损伤。"
+  },
+  {
+   "cn": "间接抗球蛋白试验",
+   "en": "indirect antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.26",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一种测定患者血清中不完全抗体(抗红细胞抗体)的试验。用已知抗原的红细胞测定受检血清中相应的不完全抗体，或用已知抗血清测定受检红细胞上相应抗原，可用于鉴定血型和检查血清中不完全抗体、输血前交叉配血试验及"
+  },
+  {
+   "cn": "间接传播方法",
+   "en": "indirect propagation method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "通过机械性、技术性媒介传播信息的方法。"
+  },
+  {
+   "cn": "间接食品添加剂",
+   "en": "indirect food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品生产、加工、包装、运输或存贮过程中与食品直接接触，通过迁移而无意中进入食品的添加剂。"
+  },
+  {
+   "cn": "间接经济损失",
+   "en": "indirect economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于疾病的发病、伤残（失能）和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担；包括因疾病、伤残和过早死亡所损失的工作时间；由于疾病和伤残导致个人工作能力和效率降低而造成的损失；患者陪"
+  },
+  {
+   "cn": "公有制实现形式",
+   "en": "realization form of public ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0415",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全民所有制和集体所有制通过公有制以控股的形式建立股份制企业来实现自身的一种方式，是我国公有制企业的一种所有制形式和经营形式的统称。"
+  },
+  {
+   "cn": "辐射间接作用",
+   "en": "indirect effect of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射诱发水的原发辐射产物（H•、•OH、e、H2、H2O2等）对机体的核酸、蛋白质、酶等生物大分子产生作用，引起这些生物大分子损伤的过程。"
+  },
+  {
+   "cn": "间接使用核材料",
+   "en": "indirect-use nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "除直接使用的核材料以外的所有核材料。"
+  },
+  {
+   "cn": "社会工作间接服务",
+   "en": "indirect social work service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "社会工作者间接向服务对象提供的服务，包括社会工作行政、社会政策与立法、社会工作研究等。"
+  },
+  {
+   "cn": "间接劳动还原法",
+   "en": "indirect labor reduction method",
+   "source": "马克思主义",
+   "wordNumber": "05.0121",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "德国社会民主党和第二国际的首领之一，“奥地利马克思主义”的著名的经济学家希法亭认为，熟练工人创造的价值可分为两个部分：非熟练工人创造的价值和转移的物化在技术中的价值。后者又可以分解为前一时期的非熟练劳"
+  },
+  {
+   "cn": "表面污染间接测量",
+   "en": "indirect measurement of surface contamination",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.2.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_α、β粒子辐射监测技术",
+   "subjectName": "α、β粒子辐射监测技术",
+   "publishYear": "2025",
+   "definition": "通过采样方法对放射性表面污染水平进行的测量。"
+  },
+  {
+   "cn": "间接疾病经济负担",
+   "en": "indirect economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于发病、伤残(失能)和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担。"
+  },
+  {
+   "cn": "间接产科死因",
+   "en": "indirect obstetric causes of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由妊娠以前已存在的疾病或妊娠期新发疾病所引起的、因妊娠生理影响而病情加重所导致的孕产妇死亡，与直接产科原因无关。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

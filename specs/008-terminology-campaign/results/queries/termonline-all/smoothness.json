@@ -1,0 +1,462 @@
+{
+ "key": "smoothness",
+ "term": "smoothness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:16:49+00:00",
+ "status": "ok",
+ "note": "variant=smoothness; 审定公布名词库=135; 海峡两岸名词对照库=46; 其他来源数据库=5; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "平滑度",
+   "en": "smoothness",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.277",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振特殊成像技术_磁共振脑功能成像",
+   "subjectName": "磁共振脑功能成像",
+   "publishYear": "2020",
+   "definition": "影像中相邻体素之间的相关性。如果影像中存在随机噪声，那么影像的平滑度会非常低，但是磁共振成像影像一般都具有非常高的平滑度，不仅因为在影像重建过程中使用了滤波处理，而且因为影像中存在内在的相关性。"
+  },
+  {
+   "cn": "平滑度",
+   "en": "smoothness",
+   "source": "物理学名词",
+   "wordNumber": "01.0553",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "耱地",
+   "en": "smoothing ",
+   "source": "草学名词",
+   "wordNumber": "6.0155",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "突出影像灰阶，使高频噪声受到抑制的处理技术。"
+  },
+  {
+   "cn": "滑腻",
+   "en": "smooth",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0634",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品感官分析",
+   "subjectName": "食品感官分析",
+   "publishYear": "2020",
+   "definition": "组织感觉不出颗粒存在，均匀细腻的质感。多用来形容冰淇淋的柔软爽滑、汤汁的爽口。"
+  },
+  {
+   "cn": "平滑",
+   "en": "smooth",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.055",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "将功能磁共振成像时间序列与一个血流动力学函数进行卷积，以提高信号信噪比的过程。其可消除设备噪声或心跳、呼吸干扰噪声的影响，使刺激引发的脑功能信号增强。"
+  },
+  {
+   "cn": "平滑[的]",
+   "en": "smooth",
+   "source": "植物学名词",
+   "wordNumber": "07.0154",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "细胞壁不具疣或乳头状突起的现象。"
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "数学名词",
+   "wordNumber": "09.0427",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "换档平稳性",
+   "en": "shift smoothness",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.128",
+   "subjectFullName": "机械工程_汽车_底盘_自动传动系统",
+   "subjectName": "自动传动系统",
+   "publishYear": "2013",
+   "definition": "换档过程中传动转矩扰动的程度。"
+  },
+  {
+   "cn": "纸张平滑度",
+   "en": "paper smoothness",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0377",
+   "subjectFullName": "材料科学技术_天然材料_纸",
+   "subjectName": "纸",
+   "publishYear": "2011",
+   "definition": "纸张平滑的程度。在特定的接触状态和一定的压差下，纸张试样面和环形板面之间由大气泄入一定量空气所需的时间。"
+  },
+  {
+   "cn": "平滑剂",
+   "en": "smooth agent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0286",
+   "subjectFullName": "精细化工_其他精细化学品_染整助剂",
+   "subjectName": "染整助剂",
+   "publishYear": "2025",
+   "definition": "用于纺织品后整理，提高织物表面平滑度的助剂。常用的天然平滑剂主要是矿物性润滑油，合成平滑剂主要是有机硅系列高分子化合物。"
+  },
+  {
+   "cn": "耱地",
+   "en": "dragging; smoothing",
+   "source": "农学名词",
+   "wordNumber": "08.150",
+   "subjectFullName": "作物栽培与耕作_土壤耕作",
+   "subjectName": "土壤耕作",
+   "publishYear": "2025",
+   "definition": "耙地之后的平土碎土作业。一般作用于表土，深度为3cm。"
+  },
+  {
+   "cn": "束匀滑",
+   "en": "beam smoothing",
+   "source": "核科学技术名词",
+   "wordNumber": "3.348",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "控制激光光斑的空间相干尺度和时间相干尺度，抑制不稳定性发展的技术手‍段。"
+  },
+  {
+   "cn": "光滑舌",
+   "en": "smooth tongue",
+   "source": "血液学名词",
+   "wordNumber": "3.005",
+   "subjectFullName": "血液学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "舌乳头萎缩消失，上皮全层变薄，舌肌萎缩，舌体较小，舌面光滑呈粉红色或红色的舌象。常见于营养性巨幼细胞贫血、恶性贫血及慢性萎缩性胃炎等。"
+  },
+  {
+   "cn": "形态学平滑",
+   "en": "morphological smoothing",
+   "source": "光学名词",
+   "wordNumber": "17.047",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "利用形态学原理对图像进行平滑和去噪的一种图像处理方法。"
+  },
+  {
+   "cn": "平滑肌",
+   "en": "smooth muscle",
+   "source": "动物学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "动物学_动物组织学_肌肉组织",
+   "subjectName": "肌肉组织",
+   "publishYear": "2021",
+   "definition": "广泛分布于消化道、呼吸道、血管等中空性器官管壁上的肌组织。因没有横纹得名。其收缩缓慢持久、不易疲劳，属于不随意肌。"
+  },
+  {
+   "cn": "平滑预测法",
+   "en": "smoothing algorithm",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.066",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "对不断获得的实际数据和原预测数据给以加权平均，使预测结果更接近于实际情况的预测方法。"
+  },
+  {
+   "cn": "平滑肌",
+   "en": "smooth muscle",
+   "source": "畜牧学名词",
+   "wordNumber": "06.020",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的组织结构",
+   "subjectName": "肉的组织结构",
+   "publishYear": "2020",
+   "definition": "由细胞核位于中心的无横纹的长棱形或椭圆形细胞组成的肌肉组织。"
+  },
+  {
+   "cn": "光面爆破",
+   "en": "smooth blasting",
+   "source": "电力名词",
+   "wordNumber": "15.033",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "爆破开挖时,沿设计开挖轮廓钻孔装药,在开挖区主爆破孔之后起爆,使开挖面沿周边孔连线破裂以获得比较平整的壁面的爆破技术。"
+  },
+  {
+   "cn": "光辊",
+   "en": "smooth roll",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0743",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_谷物与谷类制品",
+   "subjectName": "谷物与谷类制品",
+   "publishYear": "2020",
+   "definition": "表面做成“无泽面”、没有磨齿的磨辊。光辊表面手感轻微粗糙，中部微凸，两端直径在一定长度范围内逐步收缩形成一定锥度。"
+  },
+  {
+   "cn": "平滑[的]",
+   "en": "smooth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平滑",
+   "en": "smoothing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纸张平滑度",
+   "en": "paper smoothness",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "曲面光滑",
+   "en": "surface smoothness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "平滑肌",
+   "en": "smooth muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平滑假根",
+   "en": "smooth rhizoid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二项式平滑",
+   "en": "binomial smoothing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间平滑",
+   "en": "space smoothing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平滑算子",
+   "en": "smoothing operator",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平滑系数",
+   "en": "smoothing coefficient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间平滑",
+   "en": "time smoothing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平滑表面",
+   "en": "smooth surface",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "修匀常数",
+   "en": "smoothing constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "修匀信号",
+   "en": "smoothed signal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平滑肌",
+   "en": "smooth muscle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据平滑",
+   "en": "data smoothing",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "滑膛枪管",
+   "en": "smooth barrel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑膛",
+   "en": "smooth bore",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小浪",
+   "en": "smooth sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打通人流、物流堵点",
+   "en": "to smooth travel and logistics channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗平滑肌抗体",
+   "en": "anti-smooth muscle antibody, anti-SMA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.38",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要见于自身免疫性肝炎，也可见于原发性胆汁性胆管炎、慢性活动性肝炎、急性病毒性肝炎及正常中、老年人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

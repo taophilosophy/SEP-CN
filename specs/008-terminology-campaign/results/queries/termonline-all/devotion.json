@@ -1,0 +1,632 @@
+{
+ "key": "devotion",
+ "term": "devotion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:36:11+00:00",
+ "status": "ok",
+ "note": "variant=devotion; 审定公布名词库=395; 海峡两岸名词对照库=131; 其他来源数据库=9; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "农学名词",
+   "wordNumber": "06.425",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "染色体上某一片段发生丢失的现象。"
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0199",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "DNA分子丢失一些核苷酸或染色体丢失部分片段的现象。染色体端部的缺失称“末端缺失（terminal deletion）”，其他部位的缺失称“中间缺失（interstitial deletion）”。"
+  },
+  {
+   "cn": "汤剂",
+   "en": "decoction",
+   "source": "兽医学名词",
+   "wordNumber": "19.460",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "将一味或多味中药的饮片或粗粒加水煎煮或浸泡，去渣取汁灌服的液体制剂。"
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "血液学名词",
+   "wordNumber": "4.264",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "染色体片段的丢失，使位于这个片段的基因也随之发生丢失的现象。按染色体断裂点的数量和位置可分为末端缺失和中间缺失两类。"
+  },
+  {
+   "cn": "尺寸偏差",
+   "en": "deviation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0333",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "某一尺寸减其基本尺寸所得的代数差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0561",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品化学分析",
+   "subjectName": "食品化学分析",
+   "publishYear": "2020",
+   "definition": "测定值与测定平均值的差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "冶金学名词",
+   "wordNumber": "04.0704",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "观测值与算术平均值的差值。"
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "植物学名词",
+   "wordNumber": "10.0213",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "染色体丢失部分片段或DNA分子丢失一些核苷酸的现象。染色体端部的缺失称“末端缺失(terminal deletion)”，其他部位的缺失称“中间缺失(interstitial deletion)”。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0021",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "物理量某次测量值与其在同一条件下多次测量的平均值之差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "物理学名词",
+   "wordNumber": "01.0248",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "核医学名词",
+   "wordNumber": "06.0350",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "因各种影响因素致使观察和评价结果偏离真值的现象。"
+  },
+  {
+   "cn": "锯材偏差",
+   "en": "deviation",
+   "source": "林学名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "在锯解原木过程中，由于加工机床或刀具精度以及人为方法不够正确，使锯材的尺寸可能引起正负差异的量。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "化学名词",
+   "wordNumber": "03.0169",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "测量列中单次测量值与该测量列的平均值之差。在计量检定中指计量器具实际值与标称值之差。"
+  },
+  {
+   "cn": "离差",
+   "en": "deviation",
+   "source": "心理学名词",
+   "wordNumber": "03.044",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "表示某个数据偏离所在组数据平均值程度的统计量。通常用标准差、平均偏差或平均差来度量。"
+  },
+  {
+   "cn": "减音",
+   "en": "deletion",
+   "source": "语言学名词",
+   "wordNumber": "03.057",
+   "subjectFullName": "语言学_语音学_一般语音学",
+   "subjectName": "一般语音学",
+   "publishYear": "2011",
+   "definition": "一种语流音变现象。指语音串里原来存在的某个音段在语流中被减省或丢失。例如英语单词“cupboard［′kʌpbǝd］”（碗橱）读为［′kʌbǝd］，丢失了［p］。"
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.063",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "染色体组中的染色体或DNA分子发生部分丢失的现象。"
+  },
+  {
+   "cn": "分权",
+   "en": "devolution",
+   "source": "地理学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "把政治权力更多地从中央移交给地方政府的过程。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.153",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "汤剂",
+   "en": "decoction",
+   "source": "中医药学名词",
+   "wordNumber": "07.023",
+   "subjectFullName": "中医药学_方剂学_剂型、煎服法",
+   "subjectName": "剂型、煎服法",
+   "publishYear": "2004",
+   "definition": "将药材饮片或粗粒加水煎煮或浸泡，去渣取汁服用的液体剂型。"
+  },
+  {
+   "cn": "偏斜",
+   "en": "deviation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0021",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离差",
+   "en": "deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分权",
+   "en": "devolution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "绕航",
+   "en": "deviation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自差",
+   "en": "deviation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "煎剂，汤药",
+   "en": "decoction",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "泥盆纪",
+   "en": "Devonian\",\"Devonian period",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均偏差",
+   "en": "average deviation\",\"mean deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中间缺失",
+   "en": "intercalary deletion\",\"interstitial deletion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "偏斜",
+   "en": "skew\",\"deviation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺失",
+   "en": "deletion\",\"deficiency",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "偏差，偏移",
+   "en": "deviation\",\"DEV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互作离差",
+   "en": "interaction deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "末端缺失",
+   "en": "terminal deletion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺失纯合子",
+   "en": "deletion homozygote",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺失突变",
+   "en": "deletion mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏离预警",
+   "en": "deviation warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离度测算",
+   "en": "deviation measuring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对特定类型检验的综合判定指标，是全部照射组单组性能Pi的平均值。"
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在危害分析与关键控制点（HACCP）系统中，不符合关键限值。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "偏离标准偏差",
+   "en": "standard deviation of deviation",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "特定类型检验的综合判定指标，是全部照射组单组性能Pi的标准差。"
+  },
+  {
+   "cn": "杀菌偏差",
+   "en": "process deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.11",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "在热力杀菌过程中，凡是未能满足热力杀菌工艺规程的任何现象。"
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "尺偏畸形",
+   "en": "ulnar deviation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.1.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "常见于类风湿关节炎的一种手指部位的关节畸形。表现为掌指关节半脱位，即除拇指外其余四指远端均以掌指关节为轴心，向小指一侧（即尺侧）偏斜，导致手呈“之”字形。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "眼球偏侧凝视",
+   "en": "conjugate eye deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "霉变甘蔗中毒重症的特征性症状，表现为水平凝视持续向一侧移动，同时无法凝视另一侧，眼底检查正常"
+  },
+  {
+   "cn": "离差评价法",
+   "en": "deviation method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价个体、群体儿童少年生长发育水平和现状的方法。该方法用标准差和平均值表示样本调查值的分布，适用于正态分布的资料。"
+  },
+  {
+   "cn": "情绪和情感发育",
+   "en": "emotion and emotional feeling development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对内外信息的态度体验以及相应的行为和身体反应，与人的社会性需要相联系的主观体验随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "标准差分评价法",
+   "en": "standard deviation score method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用标准差分来评价生长发育一种特殊类型的离差法。标准差分是将个体某测量指标实测值与参考样本均值之差除以参考样本的标准差所得，标准差分在-1和1之间评价为中等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

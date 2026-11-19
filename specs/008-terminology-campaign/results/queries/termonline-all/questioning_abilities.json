@@ -1,0 +1,712 @@
+{
+ "key": "questioning abilities",
+ "term": "Questioning abilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:24:24+00:00",
+ "status": "ok",
+ "note": "variant=Questioning abilities; 审定公布名词库=292; 海峡两岸名词对照库=55; 其他来源数据库=11; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "提问",
+   "en": "question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者通过提问题向采访对象了解新闻事实的新闻采访方式。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "行为医学名词",
+   "wordNumber": "4.107",
+   "subjectFullName": "行为医学_行为的心理学基础_人格与行为",
+   "subjectName": "人格与行为",
+   "publishYear": "2022",
+   "definition": "人们成功完成某项活动所必需的个性心理特征。包括实际能力和潜在能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "心理学名词",
+   "wordNumber": "02.746",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人们成功地完成某种活动所必需的个性心理特征。包括实际能力和潜在能力两个方面。"
+  },
+  {
+   "cn": "直接提问",
+   "en": "overt question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者单刀直入地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "隐含提问",
+   "en": "implied question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者旁敲侧击地向采访对象提出问题的一种手法。"
+  },
+  {
+   "cn": "激将法提问",
+   "en": "prodding question",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "记者在采访时有意使用一些刺激性语言迫使采访对象回应的一种提问手法。"
+  },
+  {
+   "cn": "试验性提问",
+   "en": "test question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为获取最佳检索结果而进行的试验性操作。一般需对服务对象进行探索性提问，制订最初的检索方案，并根据反馈意见不断地修改，直至检索方案与服务对象的需求基本匹配或完全匹配。"
+  },
+  {
+   "cn": "咨询问题",
+   "en": "reference question",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.205",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆用户在寻找专门信息或使用图书馆资源与服务时以现场、电话或互联网的方式提出的请求。"
+  },
+  {
+   "cn": "倾向型问题",
+   "en": "tendentious question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.079",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的表达了自己的倾向，给对方以暗示和诱导的问题。"
+  },
+  {
+   "cn": "复合型问题",
+   "en": "combined question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一句话中包括了两个或两个以上问题的问题。"
+  },
+  {
+   "cn": "试探型问题",
+   "en": "probing question",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "提问者提出的对对方进行试探，以证实某种估测的问题。"
+  },
+  {
+   "cn": "克什米尔问题",
+   "en": "Kashmir Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0703",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "印巴分治后，印度和巴基斯坦之间因克什米尔归属问题而引起的争端。"
+  },
+  {
+   "cn": "魁北克问题",
+   "en": "Quebec Question",
+   "source": "世界历史名词",
+   "wordNumber": "03.0302",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_加拿大",
+   "subjectName": "加拿大",
+   "publishYear": "2012",
+   "definition": "加拿大因为魁北克省的法裔居民要求该省独立而造成的民族矛盾问题。"
+  },
+  {
+   "cn": "东方问题",
+   "en": "Eastern Question",
+   "source": "世界历史名词",
+   "wordNumber": "01.0700",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "世界近代史上欧洲列强为争夺东边奥斯曼帝国所属领土和权益的一系列国际问题。"
+  },
+  {
+   "cn": "特指问句",
+   "en": "specific question",
+   "source": "语言学名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。用疑问代词或由疑问代词加其他词组成的短语对具体的人、物、时间、场所、方式、原因、工具等提出疑问，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。发问者希望对方做出具体的回答。例"
+  },
+  {
+   "cn": "选择问句",
+   "en": "alternative question",
+   "source": "语言学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "疑问句的一种。发问者提出两个或几个具体项目请对方选择，项目之间往往用“还是”连接，句尾可用语气词“呢”“啊”（不用“吗”），全句带疑问语调。例如，“咱们今天去还是明天去？”“你寒假去广州还是深圳？”"
+  },
+  {
+   "cn": "十问",
+   "en": "ten questions",
+   "source": "中医药学名词",
+   "wordNumber": "04.259",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "古人所总结的问诊十项重点内容，即“一问寒热二问汗，三问头身四问便，五问饮食六问胸，七聋八渴俱当辨，九因脉色察阴阳，十从气味章神见”。"
+  },
+  {
+   "cn": "面向提问标引",
+   "en": "questioning-oriented indexing",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.764",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_标引",
+   "subjectName": "标引",
+   "publishYear": "2019",
+   "definition": "从检索语言而不是从实体出发的标引方法。在标引过程中，标引人员吸收了检索语言所提供的概念结构，并将当前实体与大脑中的结构进行比较查对。检索语言起了标引中的检查表的作用。这种标引方法适用于一般性、抽象或理"
+  },
+  {
+   "cn": "泳透力",
+   "en": "throwing ability",
+   "source": "精细化工名词",
+   "wordNumber": "05.0284",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "在电泳涂装时，涂料对工件的内表面、凹穴处及背面的涂覆能力。"
+  },
+  {
+   "cn": "铺展能力",
+   "en": "spreading ability",
+   "source": "精细化工名词",
+   "wordNumber": "08.0719",
+   "subjectFullName": "精细化工_其他精细化学品_日用化学品",
+   "subjectName": "日用化学品",
+   "publishYear": "2025",
+   "definition": "液体（特别是表面活性剂溶液）能自发地覆盖于另一种液体或固体表面上的能力。"
+  },
+  {
+   "cn": "能力",
+   "en": "ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受精能力",
+   "en": "fertilization ability",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能力特质",
+   "en": "ability trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般能力,普通能力",
+   "en": "general ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力测验",
+   "en": "ability test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "能力分组",
+   "en": "ability grouping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析能力",
+   "en": "analytical ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理运动能力",
+   "en": "psychomotor ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知能力",
+   "en": "cognitive ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艺术能力",
+   "en": "artistic ability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "流动性",
+   "en": "flow ability",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心智能力",
+   "en": "mental ability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停船性能",
+   "en": "stopping ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "旋回性",
+   "en": "turning ability",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "问题回答系统",
+   "en": "question answering system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常见问题",
+   "en": "frequently asked questions\",\"FAQ",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特殊配合力",
+   "en": "specific combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一般配合力",
+   "en": "general combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面增强执政本领",
+   "en": "comprehensively strengthening the governance ability",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加强国际传播能力建设",
+   "en": "improve our ability to communicate effectively with international audiences",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "加强领导能力、应对能力、组织动员能力、贯彻执行能力",
+   "en": "to strengthen the ability to lead, respond, mobilize, and to execute orders ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛智能化市政设施",
+   "en": "ubiquitous intelligent municipal facilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型测绘设施",
+   "en": "new surveying and mapping facilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.10-1986 数据处理词汇 第10部分：操作技术和设施》",
+   "en": "GB/T 5271.10-1986 Data processing — Vocabulary — Section 10: Operating techniques and facilities",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-6-2018 信息技术 数据中心设施和基础设施 安全系统》",
+   "en": "BS PD ISO/IEC TS 22237-6:2018 Information technology — Data centre facilities and infrastructures — Security systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-1-2018 信息技术 数据中心设施和基础设施 一般概念》",
+   "en": "BS PD ISO/IEC TS 22237-1:2018 Information technology — Data centre facilities and infrastructures — General concepts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两分问题",
+   "en": "dichotomous question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.63",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "只有两个备择选项的封闭式问题。"
+  },
+  {
+   "cn": "筛选问题",
+   "en": "filter question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.64",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用于确定是否应当问后续问题（如果有的话）的问题。"
+  },
+  {
+   "cn": "动作能力",
+   "en": "motor ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体对基本运动技能的熟练掌握度以及完成各种运动任务的协调与物体控制能力。"
+  },
+  {
+   "cn": "思维能力",
+   "en": "thinking ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "运用分析和综合、抽象和概括等智力操作对感觉信息的加工的能力。"
+  },
+  {
+   "cn": "封闭式问题",
+   "en": "close-ended question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.57",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "给出了备择答案的问题。备择答案既可以明白无遗的，也可以是含蓄的。它们可以有两个备择项（两分问题），如“是”和“否”，或“男性”和“女性”；也可以有多个选项，比如“民主党”、“共和党”及“无党派”。"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "双管式问题",
+   "en": "double-barreled questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.68",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "形式上是一个问题，只允许有一个答案，但实质上涉及了其他问题，可能有多个答案的一种错误的提问方式。"
+  },
+  {
+   "cn": "具体问题具体分析",
+   "en": "concrete question concrete analysis",
+   "source": "马克思主义",
+   "wordNumber": "01.0212",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "矛盾的特殊性原理在理论和实践中的运用。它要求在马克思主义原理指导下，从客观实际出发，具体分析矛盾的特殊性，并找出解决矛盾的正确方法，是马克思主义的重要方法论原则。"
+  },
+  {
+   "cn": "俄国的民族问题",
+   "en": "national questions in russia",
+   "source": "马克思主义",
+   "wordNumber": "04.0069",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁在1912—1916年间写了7本关于民族问题的笔记，其中《民族问题（Ⅱ）笔记》阐述了反对大俄罗斯主义、反对乌克兰资产阶级民族主义观点。在《民族问题提纲》中从十个方面论述俄国民族问题，以及党解决民族"
+  },
+  {
+   "cn": "军事认知能力",
+   "en": "military cognitive ability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军事作业环境中军人对事物的构成、性能、发展、基本规律把握的能力，包括知觉、记忆、注意、思维、想象、反应和执行的能力。"
+  },
+  {
+   "cn": "自理能力",
+   "en": "self-care ability",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.50",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "个体照料和管理自己的日常生活的能力，包括懂得生活常识，比较熟练地解决生活中所遇到的困难，掌握基本的生活技能和劳动技能的能力，是一个人适应自然、适应社会的表现。"
+  },
+  {
+   "cn": "定力",
+   "en": "ability to concentrate",
+   "source": "马克思主义",
+   "wordNumber": "01.0255",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "意指正念坚固，是人们在改造客观世界和主观世界过程中，所表现出来的一种坚强意志、执着信念和道德操守。党的十八大以来，习近平从政治、经济、文化、改革、法治等多个方面，赋予定力新的内涵，形成了关于政治定力、"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "脑力工作能力",
+   "en": "mental work ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "反映大脑工作速度快慢及其准确性的大脑皮质功能状态，是影响学习效率和成绩的关键因素。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  },
+  {
+   "cn": "儿童能力测验",
+   "en": "child ability test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "对儿童顺利完成某种活动所必须具备的个性心理特征的测验，以发现经过必要的训练后即能承担某项工作的潜在能力。分为一般能力测验与特殊能力测验两大类。"
+  },
+  {
+   "cn": "家庭可支付能力",
+   "en": "ability to payment，ATP",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.6.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资系统评价",
+   "subjectName": "卫生筹资系统评价",
+   "publishYear": "2025",
+   "definition": "家庭各项消费总支出，包括家庭消费性支出、缴纳的直接税和社会保险支出"
+  },
+  {
+   "cn": "消化稳定性",
+   "en": "digestive stability, degestion-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.36",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种物质在消化过程中保持稳定的能力。它通常用于描述药物或其他物质在胃肠道中的稳定性，以预测它们在体内的作用和效果。"
+  },
+  {
+   "cn": "热稳定性",
+   "en": "thermal stability, heat-resitance abillity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "在一定的时间尺度内致敏原的结构和性能对温度的耐受或敏感程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

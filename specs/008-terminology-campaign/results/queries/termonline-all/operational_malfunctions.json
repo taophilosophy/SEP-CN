@@ -1,0 +1,702 @@
+{
+ "key": "operational malfunctions",
+ "term": "operational malfunctions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:16:56+00:00",
+ "status": "ok",
+ "note": "variant=operational malfunctions; 审定公布名词库=1890; 海峡两岸名词对照库=405; 其他来源数据库=73; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "功能失常",
+   "en": "malfunction",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.215",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "学校病",
+   "en": "school malfunction",
+   "source": "教育学名词",
+   "wordNumber": "01.155",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "由于学校内外条件异常引起的学校教育功能的失调或学校教育秩序的紊乱。"
+  },
+  {
+   "cn": "起搏器功能障碍",
+   "en": "pacemaker malfunction",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.518",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "故障指示器",
+   "en": "malfunction indicator,MI",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0904",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "当连接于车载诊断系统的与排放相关的任何零部件或车载诊断系统本身发生故障时，能清楚地提示汽车驾驶员的一种可视的指示器。"
+  },
+  {
+   "cn": "故障[指示]灯",
+   "en": "malfunction indicator light",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.079",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车灯具",
+   "subjectName": "汽车灯具",
+   "publishYear": "2013",
+   "definition": "安装在仪表板上，用于显示和提示车辆出现故障的指示灯。"
+  },
+  {
+   "cn": "故障指示灯",
+   "en": "malfunction indicator light,MIL",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0863",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "安装在仪表板上，用于显示和提示车辆出现故障的指示灯。"
+  },
+  {
+   "cn": "故障代码",
+   "en": "fault code,malfunction code",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.120",
+   "subjectFullName": "机械工程_汽车_汽车维修_故障和损伤",
+   "subjectName": "故障和损伤",
+   "publishYear": "2013",
+   "definition": "计算机监测到故障并存储在存储器中的由字母和数字组成的相应代码。"
+  },
+  {
+   "cn": "手术",
+   "en": "operation",
+   "source": "普通外科学名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "医疗机构及其医务人员以诊断或治疗疾病为目的，在人体局部开展去除病变组织、修复损伤、重建形态或功能、移植细胞组织或器官、植入医疗器械等医学操作的医疗技术。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "行为医学名词",
+   "wordNumber": "2.095",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "按照一定的程序和技术要求进行的行为活动。"
+  },
+  {
+   "cn": "工序",
+   "en": "operation",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.011",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "工件在一个工位上被加工或装配所连续完成的所有工步的一部分工艺过程。"
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "物理学名词",
+   "wordNumber": "01.0522",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0243",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "计算机为实现某种功能而执行的动作。如逻辑操作、传送操作、存储操作、算术运算等。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0308",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "面向对象技术中一个用于描述对象行为特征的动作序列。"
+  },
+  {
+   "cn": "运作",
+   "en": "operation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0002",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "一切社会组织将对其输入转化、增值为输出的过程。"
+  },
+  {
+   "cn": "工序",
+   "en": "operation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0051",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "工件在一个工位上被加工或装配所连续完成所有工步的那部分工艺过程。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "教育学名词",
+   "wordNumber": "11.120",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "使用机器或手工具完成某工作任务的单一或多个动作综合，是工序按劳动过程所划分的组成部分。一个或多个操作构成一道工序。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "电气工程名词",
+   "wordNumber": "09.355",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "数学名词",
+   "wordNumber": "01.0057",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "操纵序列",
+   "en": "operator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0537",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "操纵子中与阻遏物结合的一段特定核苷酸序列。对相邻结构基因的转录活动有控制作用。"
+  },
+  {
+   "cn": "术者",
+   "en": "operator",
+   "source": "兽医学名词",
+   "wordNumber": "18.002",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "手术中执刀的人。是手术的主要操作者和组织者。"
+  },
+  {
+   "cn": "误动作",
+   "en": "malfunction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可操作性",
+   "en": "operability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操作员",
+   "en": "operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator gene\",\"operator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "错流操作",
+   "en": "crosscurrent operation\",\"crossflow operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作变量",
+   "en": "operating variable\",\"operational variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作时间",
+   "en": "operating time\",\"operation length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "业务预报",
+   "en": "operational forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作性定义",
+   "en": "operational definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算期,运思期",
+   "en": "operational stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运筹学",
+   "en": "operational research",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "操作测试，运行测试",
+   "en": "operational testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障",
+   "en": "malfunction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作风险",
+   "en": "operational risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作技术",
+   "en": "operational technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "操作系统",
+   "en": "operating system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "军事作业医学",
+   "en": "military operational medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "6",
+   "subjectFullName": "军事预防医学_军事作业医学",
+   "subjectName": "军事作业医学",
+   "publishYear": "2025",
+   "definition": "研究军事作业环境中有害因素的评价、控制和防护，军人作业能力的评估以及如何提高与保障军人在日益信息化的作战环境、数字化的作战模式、高技术化的武器系统中的军事作业能力的一门学科，是军事医学的分支。"
+  },
+  {
+   "cn": "军事作业疲劳",
+   "en": "military operational fatigue",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "军事作业过程中，由于各种体力或脑力原因，不能完成给定的军事作业任务的现象。"
+  },
+  {
+   "cn": "操作性前提方案",
+   "en": "operational prerequisite program",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "为控制食品安全危害在产品或产品加工环境中引入、污染或扩散的可能性，通过危害分析确定的必不可少的前提方案。"
+  },
+  {
+   "cn": "军事作业能力",
+   "en": "military operational capability",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在从事劳动过程中，完成特定工作的能力，或在不改变作业质量指标的条件下，尽可能长时间地维持一定作业水平的能力。"
+  },
+  {
+   "cn": "军事作业生理学",
+   "en": "military operational physiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "研究军事作业过程中机体的调节适应规律、提高作业能力和预防疲劳、保护作业能力的一门学科。"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "对处于在役状态的受污染系统、部件和设备等去污过程。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "巴巴罗萨作战计划",
+   "en": "Barbarossa Operation Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0120",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "法西斯德国侵略苏联的战争计划。以神圣罗马帝国皇帝腓特烈一世的绰号“巴巴罗萨”为代号得名。1940年7月下旬希特勒下令秘密制定该计划，11月底由陆军总司令勃劳希契呈报希特勒，12月18日，以“巴巴罗萨”"
+  },
+  {
+   "cn": "健康保险运行",
+   "en": "health insurance operation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以健康结果为目的的健康经济风险分担和健康维护、风险干预和战略购买的治理、筹资、购买和服务包设计等运行环节的总和"
+  },
+  {
+   "cn": "医院运营管理",
+   "en": "hospital operation management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院提供医疗服务的直接资源进行有效的整合利用，以实现投入产出效率、效益和效能的最优化过程。"
+  },
+  {
+   "cn": "剂量作业试验",
+   "en": "dose operation test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "在限定时间内让被试完成指定的作业，根据其完成作业的数量和产生的错误来判断其高级神经功能状态的方法。"
+  },
+  {
+   "cn": "军事作业环境",
+   "en": "military operation environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在平战时所从事作业的环境，包括自然环境和人工环境。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

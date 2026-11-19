@@ -1,0 +1,42 @@
+{
+ "key": "niscaya",
+ "term": "niścaya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:30:48+00:00",
+ "status": "ok",
+ "note": "variant=niścaya; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "NI-AE模型",
+   "en": "NI-AE model",
+   "source": "经济学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "宏观经济学中描述国民收入和总需求相等关系的基础模型。其中 NI表示国民收入，AE表示总需求。这个模型论述的是国民收入和总需求的关系。在净税收NT和政府购买支出GP以及净出口NX都等于零的两部门（消费品"
+  },
+  {
+   "cn": "尼西亚会议",
+   "en": "Councils of Nicaea",
+   "source": "世界历史名词",
+   "wordNumber": "02.0637",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "325年和787年，为了解决宗教论证问题而在小亚细亚尼西亚城举行的两次世界性基督教大公会议。"
+  },
+  {
+   "cn": "Fe-Ni-Co定膨胀合金",
+   "en": "Fe-Ni-Co controlled-expansion alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
