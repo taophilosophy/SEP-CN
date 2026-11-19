@@ -56,8 +56,12 @@ jobs:
         run: |
           set -o pipefail
           python tools/detect_updates.py --archinfo --archinfo-max 40 \
-            --no-write --out "$RUNNER_TEMP/queue.json" --md "$RUNNER_TEMP/queue.md" --quiet
-          python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d'%len(d['queue']))" >> "$GITHUB_OUTPUT"
+            --out "$RUNNER_TEMP/queue.json" --md "$RUNNER_TEMP/queue.md" --quiet
+          if [ -f "$RUNNER_TEMP/queue.json" ]; then
+            python -c "import json;d=json.load(open('$RUNNER_TEMP/queue.json',encoding='utf-8'));print('count=%d'%len(d['queue']))" >> "$GITHUB_OUTPUT"
+          else
+            echo "count=unknown" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: 归档报告
         if: always()

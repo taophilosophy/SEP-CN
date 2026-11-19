@@ -246,7 +246,9 @@ def main(argv=None):
            "from_rss": feed_items or [],
            "from_archinfo": arch_items,
            "queue": queue}
-    if not args.no_write:
+    # --no-write 只抑制默认落盘（baseline/queue.json）；显式 --out 一律写（CI 写 runner 临时区）
+    explicit_out = any(a == "--out" or a.startswith("--out=") for a in (argv or sys.argv[1:]))
+    if not args.no_write or explicit_out:
         out = args.out if os.path.isabs(args.out) else repo_path(*args.out.split("/"))
         os.makedirs(os.path.dirname(out) or ".", exist_ok=True)
         with io.open(out, "w", encoding="utf-8", newline="\n") as f:
