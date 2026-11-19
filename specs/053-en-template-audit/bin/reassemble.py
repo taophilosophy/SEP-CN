@@ -110,9 +110,10 @@ def _inline_md_to_html(text):
     s = re.sub(r"\^\{([^}]*)\}", r"<sup>\1</sup>", s)
     # 强调／粗体（单层；C 的 em 先于 strong，嵌套粗斜体在像内为 ***x***——
     # 简形词条未出现，残差清单登记）
-    s = re.sub(r"\*\*\*([^*]+)\*\*\*", r"<strong><em>\1</em></strong>", s)
-    s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
-    s = re.sub(r"\*([^*]+)\*", lambda m: _em(m.group(1)), s)
+    # 强调／粗体：小型星解析器——C 输出的强调定界符恒「紧」（内侧无空格，
+    # _md_emphasis strip 保证），据此把裸星三分类：开／闭／字面（W10：
+    # happens* 与 10 * Prob 的乘号/记号星不再被误配对）
+    s = _star_parse(s)
     # 数学占位还原（$x$ → \(x\)；$$x$$ → \[x\]）
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
@@ -126,12 +127,63 @@ def _inline_md_to_html(text):
 
 
 def _em(inner):
-    """*x* → <em>x</em>；孤立希腊斜体回写 \\(\\alpha\\)（ADR-0049 逆映射，
-    反斜杠必须有——C 侧 fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）。"""
+    """孤立希腊斜体回写 \\(\\alpha\\)（ADR-0049 逆映射，反斜杠必须有——C 侧
+    fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
     m = re.fullmatch(r"([A-Za-zα-ωΑ-Ω]+)", inner)
     if m and m.group(0) in GREEK_REV and m.group(0) not in GREEK_C_DEFER:
         return r"\(\%s\)" % GREEK_REV[m.group(0)]
     return "<em>%s</em>" % inner
+
+
+def _star_parse(s):
+    """md 星号 → HTML 强调（C 输出定界符恒紧：内侧无空格）。
+
+    逐 run 决策：开＝下一字符非空白且同级未开；闭＝上一字符非空白且同级已开；
+    其余＝字面星（HTML 文本层原样）。***x*** 为 strong+em 双级（W10：
+    happens* / 10 * Prob 的记号星与乘号星按紧性判为字面，不再被误配对）。
+    """
+    parts = re.split(r"(\*+)", s)
+    out = []
+    marks = {}  # 'strong'/'em' -> out 中内容起始下标
+    for i, p in enumerate(parts):
+        if i % 2 == 0:
+            out.append(p)
+            continue
+        run = parts[i]
+        before = parts[i - 1]
+        after = parts[i + 1] if i + 1 < len(parts) else ""
+        prev_tight = bool(before) and not before[-1:].isspace()
+        next_tight = bool(after) and not after[:1].isspace()
+        # 开星要求左邻非字母数字（(G*1) 类记号星、A* 类字面星不误开）；
+        # 存疑一律按字面——字面星经 C 原样回写，不动点不受损
+        prev_alnum = bool(before) and before[-1:].isalnum()
+        L = len(run)
+        want = ["strong", "em"] if L >= 3 else (["strong"] if L == 2 else ["em"])
+        if all(k in marks for k in want) and prev_tight:
+            start = min(marks.pop(k) for k in want)
+            content = "".join(out[start:])
+            del out[start:]
+            if len(want) == 2:
+                out.append("<strong>%s</strong>"
+                           % ("<em>%s</em>" % content.strip()))
+            elif want[0] == "em":
+                out.append(_em(content.strip()))
+            else:
+                out.append("<strong>%s</strong>" % content)
+        elif not any(k in marks for k in want) and next_tight and not prev_alnum:
+            slot = len(out)
+            for k in want:
+                marks[k] = slot
+            out.append("")
+            marks.setdefault("__runs", {})[slot] = run
+        else:
+            out.append(run)
+    # 未闭合星恢复为字面（(3*) 这类括号内记号星——无配对即字面）
+    runs = marks.pop("__runs", {})
+    for slot, run in runs.items():
+        if slot < len(out) and out[slot] == "":
+            out[slot] = run
+    return "".join(out)
 
 
 def _td(cell):
@@ -161,7 +213,7 @@ def reassemble_article(md, authors):
             i += 1
             continue
         # 前三行的合成层（C 再生，R 不装配）：pubinfo 行与作者行
-        if i <= 3 and re.fullmatch(r"\*\*First published.*\*\*", stripped):
+        if i <= 3 and PUBINFO_LINE_RE.fullmatch(stripped):
             out.append(_pubinfo_html([stripped]) or "")
             i += 1
             continue
@@ -205,12 +257,10 @@ def reassemble_article(md, authors):
                     bib_ul_emitted = True
                 continue
             if text.startswith("Notes（原文脚注"):
-                # 注释节整体剥除——convert_notes 从 notes.html 再生；
-                # 其下的 [^note-*]: 定义行跳过
-                i += 1
-                while i < n and (not lines[i].strip()
-                                 or MD_DEF_RE.match(lines[i])):
-                    i += 1
+                # 注释节是 C 在文末追加的末节（其后仅 cite defs），脚注内容可含
+                # 引块/列表/公式块——一律跳到文件尾（affirmative-action 判例：
+                # 只跳空行+def 行会把脚注里的列表漏成正文）
+                i = n
                 continue
             out.append("<h%d>%s</h%d>" % (lv, _inline_md_to_html(text), lv))
             i += 1
@@ -295,11 +345,14 @@ def _strip_md(text):
     return text.strip()
 
 
+PUBINFO_LINE_RE = re.compile(r"\*\*First published[^*]*\*\*")
+
+
 def _is_block_start(ln):
     s = ln.strip()
     return (not s or s.startswith(">") or s.startswith("|")
             or MD_HEAD_RE.match(ln) or MD_DEF_RE.match(ln)
-            or MD_LIST_RE.match(ln))
+            or MD_LIST_RE.match(ln) or PUBINFO_LINE_RE.fullmatch(s))
 
 
 def _pubinfo_html(lines):

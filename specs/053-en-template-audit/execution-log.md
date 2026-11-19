@@ -62,3 +62,22 @@
 **只读原则**（同 catalog-drift，specs/054 §3）：不写 baseline、不改 en//yuanwen/、不提交内容文件；有变动开/更新 issue（`en-roundtrip-drift`；巡检自身失败 `en-roundtrip-broken`），报告与全量扫描入运行工件。
 
 **本地实测**：同件→changed=false；翻转一 ok→fail／一 fail→ok／删一条＋I2 红灯 → changed=true 且四族逐项报出（script/tmp 实测，产物未入库）。登记：`rules/05/ci-workflows.md` 工作流清单新增一行。
+
+## 2026-11-19 B3.1 第二轮规则迭代（用户“继续”）：1,058 → 1,480（79.1%）
+
+**本批五行修正（全部由残差首差实证驱动）**：
+
+| 修 | 机制 | 判例 |
+| ---- | ---- | ---- |
+| Notes 区整体跳过（跳至文件尾） | C 把 Notes 追加在文末，脚注内容可含引块/列表/公式块；旧逻辑只跳空行+def 行 | abhidharma（引块漏成正文）、affirmative-action（脚注内列表漏成正文） |
+| 星解析器（`_star_parse`） | 裸星三分类：开/闭/字面。开＝右邻紧且左邻非字母数字；闭＝左邻紧；存疑一律字面（字面星经 C 原样回写，不动点不受损） | action `(3*)`、`(G*1)`、`happens*`、`10 * Prob` |
+| 未闭合星恢复 | 无配对的星恢复为字面（原实现吞星） | action `(3*)` |
+| 表题 caption | `***X***` 紧贴表 → `<caption>` | bayes-theorem |
+| pubinfo 行作段落边界 | 图注段落不得吞掉 `**First published…**` | anderson-john |
+| 槽位越界守卫 | 星解析删除内容后未闭合槽位索引失效 | emilie-du-chatelet 等 5 件崩溃 |
+
+**终态：1,872 ＝ 1,480 不动点（79.1%）／392 残差／0 跳过**（较上批 +240）。试金石 15 件 14 过；负向 selftest 绿。
+
+**残差族（392）**：def-line 135（文献分节作者键，W8）＋unclassified 73＋esc-star 48（转义星邻接）＋bold-italic 23＋subsup 19＋其余。CI 基线已同步为本次扫描（`results/assembly-scan-all.json`）。
+
+**教训补充**：①“字面星经 C 原样回写”是关键不变量——存疑按字面处理永不动摇不动点，误判为强调才会；②崩溃与残差必须分开计（skipped 5 件不计入闭合率，修后转残差）。

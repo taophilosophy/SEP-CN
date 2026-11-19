@@ -14,7 +14,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.056
+   "sec": 0.03
   },
   {
    "slug": "david",
@@ -24,7 +24,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.051
+   "sec": 0.021
   },
   {
    "slug": "elias",
@@ -34,7 +34,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.017
+   "sec": 0.014
   },
   {
    "slug": "peirce-benjamin",
@@ -44,7 +44,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.054
+   "sec": 0.024
   },
   {
    "slug": "evolution",
@@ -54,7 +54,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.03
+   "sec": 0.023
   },
   {
    "slug": "reism",
@@ -64,7 +64,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.061
+   "sec": 0.04
   },
   {
    "slug": "holes",
@@ -74,7 +74,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.084
+   "sec": 0.063
   },
   {
    "slug": "lady-masham",
@@ -84,7 +84,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.074
+   "sec": 0.039
   },
   {
    "slug": "richard-sophister",
@@ -94,7 +94,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.058
+   "sec": 0.042
   },
   {
    "slug": "cockburn",
@@ -104,7 +104,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.054
+   "sec": 0.037
   },
   {
    "slug": "penbygull",
@@ -114,7 +114,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.047
+   "sec": 0.033
   },
   {
    "slug": "crathorn",
@@ -124,7 +124,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.056
+   "sec": 0.035
   },
   {
    "slug": "incommensurability",
@@ -134,7 +134,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.219
+   "sec": 0.157
   },
   {
    "slug": "abelard",
@@ -144,7 +144,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.252
+   "sec": 0.15
   },
   {
    "slug": "bayes-theorem",
@@ -156,10 +156,10 @@
    },
    "first_diff": {
     "op": "replace",
-    "md": "/)\n\n## Related Entries\n\nepistemology: Bayesian | probability, interpretations of\n\n## Notes（原文脚注）\n\n[^note-1]: Though one can view conditional",
-    "asm": "factor of [**Q**(*H*)**/****Q**(~ *H*)]**/**[**P**(*H*)**/** **P**(~*H*)] apart.\n\n## Notes（原文脚注）\n\n[^note-1]: Though one can view conditional"
+    "md": "ject to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral",
+    "asm": "to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q\\*\\*\\*P\\*\\*_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral"
    },
-   "sec": 0.233
+   "sec": 0.141
   }
  ]
 }
