@@ -1,0 +1,632 @@
+{
+ "key": "psykhe genetike",
+ "term": "psykhē genetikē",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:07:33+00:00",
+ "status": "ok",
+ "note": "variant=psykhē genetikē; 审定公布名词库=507; 海峡两岸名词对照库=239; 其他来源数据库=12; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.146",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "研究基因的结构、功能、变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究生物遗传与变异的本质及其规律，探索基因的结构、功能、传递、表达及变异规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "物理学名词",
+   "wordNumber": "11.0358",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "研究基因的结构、功能及其变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "器质性精神综合征",
+   "en": "organic psycho-syndrome",
+   "source": "精神医学名词",
+   "wordNumber": "03.006",
+   "subjectFullName": "精神医学_诊断分类_器质性精神障碍",
+   "subjectName": "器质性精神障碍",
+   "publishYear": "2019",
+   "definition": "与一过性或永久性大脑疾病或损伤有关的各种类型的精神功能障碍。包括谵妄、痴呆、幻觉症、人格改变和遗忘障碍。布洛伊勒(E. Bleuler)狭义地将其作为遗忘综合征的同义 语。"
+  },
+  {
+   "cn": "发展心理学",
+   "en": "developmental psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "01.008",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究个体毕生(从产前期至出生、成长和衰亡)心理发生发展规律的分支学科。"
+  },
+  {
+   "cn": "女性主义心理学",
+   "en": "feminist psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "排斥传统心理学中的男性中心偏见，研究应考虑父权制社会下不平等性别关系的心理学学派。"
+  },
+  {
+   "cn": "马克思主义心理学",
+   "en": "Marxist psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以马克思主义哲学为指导的心理学。曾在苏俄、中国心理学界得到广泛的研究。"
+  },
+  {
+   "cn": "支持性心理治疗",
+   "en": "supportive psycho- therapy",
+   "source": "心理学名词",
+   "wordNumber": "15.054",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "采用倾听、支持、鼓励、解释、指导等方式帮助当事人发挥潜能，适应当前环境的一种心理治疗方法。"
+  },
+  {
+   "cn": "航空航天心理学",
+   "en": "aerospace psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "11.003",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "研究航空航天环境中飞行航天员的行为规律和飞行器设备设计中人因工程的分支学科。"
+  },
+  {
+   "cn": "环境心理学",
+   "en": "environmental psycho- logy",
+   "source": "心理学名词",
+   "wordNumber": "11.005",
+   "subjectFullName": "心理学_工程心理学",
+   "subjectName": "工程心理学",
+   "publishYear": "2014",
+   "definition": "研究人的心理和行为与环境之间的相互作用和关系的分支学科。"
+  },
+  {
+   "cn": "心理精神检查",
+   "en": "psycho-psychiatric examination",
+   "source": "航天科学技术名词",
+   "wordNumber": "11.047",
+   "subjectFullName": "航天科学技术_航天医学与载人航天",
+   "subjectName": "航天医学与载人航天",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "法医遗传学",
+   "en": "medicolegal genetics,forensic  genetics",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.018",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "心理教育量表",
+   "en": "Psycho-Educational Profile,PEP",
+   "source": "精神医学名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "精神医学_常用量表",
+   "subjectName": "常用量表",
+   "publishYear": "2019",
+   "definition": "美国精神医学舍普勒(E. Schopler)等1979年编制的用于评估孤独症及相关发育障碍儿童发育水平的他评量表。评定患儿偏离正常发育的特征和程度。1990年版本包括95个条目的功能发展分量表和44个"
+  },
+  {
+   "cn": "遗传进展",
+   "en": "genetic gain,genetic progress",
+   "source": "畜牧学名词",
+   "wordNumber": "04.403",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "群体的平均育种值在不同世代或不同年度中的改变。"
+  },
+  {
+   "cn": "鱼类遗传学",
+   "en": "genetics of fishes,fish genetics",
+   "source": "水产名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "研究鱼类遗传与变异的学科。"
+  },
+  {
+   "cn": "作物遗传学",
+   "en": "crop genetics",
+   "source": "农学名词",
+   "wordNumber": "01.102",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究作物遗传和变异规律的学科。是作物育种学的基础。"
+  },
+  {
+   "cn": "遗传内分泌学",
+   "en": "endocrine genetics",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "研究遗传因素在内分泌疾病发生发展过程中所起作用的学科。"
+  },
+  {
+   "cn": "正向遗传学",
+   "en": "forward genetics",
+   "source": "农学名词",
+   "wordNumber": "15.027",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "遗传学上从性状入手研究决定该性状相关基因结构、定位、功能和遗传变异规律的研究方法。"
+  },
+  {
+   "cn": "反向遗传学",
+   "en": "reversed genetics",
+   "source": "农学名词",
+   "wordNumber": "15.028",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "对目的基因进行修饰和改造，观察所产生的生物学效应，从而确定基因功能的遗传学研究方法。"
+  },
+  {
+   "cn": "心灵",
+   "en": "psyche",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传互补（=遗传拯救）",
+   "en": "genetic complementation (=genetic rescue)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "plant genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行为遗传学",
+   "en": "behavioral genetics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "种群遗传学",
+   "en": "population genetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态遗传学",
+   "en": "ecological genetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生统遗传学",
+   "en": "biometrical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床遗传学",
+   "en": "clinical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "plant genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射遗传学",
+   "en": "radiation genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "毒理遗传学",
+   "en": "toxicological genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人类遗传学",
+   "en": "human genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肿瘤遗传学",
+   "en": "cancer genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传学",
+   "en": "quantitative genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因检测大数据",
+   "en": "genetic testing big data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理分析理论",
+   "en": "psychoanalytic theory，psycho-dynamics",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以弗洛伊德(S.Freud）及其追随者们的著作、学说为基础形成和发展起来的一种社会工作理论。认为不良行为的产生源于由各种本能集合而成的“本我”同“自我”、“超我”之间关系的失衡。社会工作的主要任务就是"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射对受照者后代产生的随机效应。电离辐射通过损伤亲代生殖细胞的遗传物质，使其遗传性状的表型改变在子代中显现出来。"
+  },
+  {
+   "cn": "遗传影响",
+   "en": "genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "个体的特性完全或部分由遗传因素所决定的现象。"
+  },
+  {
+   "cn": "遗传咨询",
+   "en": "genetic counseling",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "由医学遗传学专业人员或咨询师就咨询者提出的家庭中遗传性疾病的发病原因、遗传方式、诊断、预后、复发风险、防治等问题予以解答，并就咨询者提出的婚育问题提出建议和具体指导的服务。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "受照射个体生殖细胞遗传物质发生突变，对胚胎或子代产生的效应。"
+  },
+  {
+   "cn": "生物-心理-社会医学模式",
+   "en": "bio-psycho-social medical model",
+   "source": "社会医学名词",
+   "wordNumber": "2.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "从生物、心理及社会三个维度分析和处理健康与疾病问题的医学观与方法论。"
+  },
+  {
+   "cn": "家族性遗传影响",
+   "en": "familial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "遗传信息在亲-子代间的传递过程。是生长发育的主要遗传方式。"
+  },
+  {
+   "cn": "种族性遗传影响",
+   "en": "racial genetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "共同血缘和一些可稳定遗传的体质特征在上下代之间的传递过程。"
+  },
+  {
+   "cn": "生活方式-遗传失配",
+   "en": "lifestyle - genetic mismatch",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "人类古老的遗传基因无法适应因当代社会生存环境变化而迅速改变的生活方式及饮食习惯，产生的错位现象。"
+  },
+  {
+   "cn": "胚胎植入前遗传学检测",
+   "en": "preimplantation genetic screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "利用现代分子生物学技术与显微操作技术，在受精卵分裂为8细胞时取出1-2个细胞，或在囊胚形成时取3-10个滋养层细胞进行活检，进行特定遗传学性状检测的辅助生殖技术。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "胚胎植入前遗传学诊断",
+   "en": "pre-implantation genetic diagnosis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在体外受精的胚胎发育到4-8细胞期，通过显微技术取出单个卵裂球细胞，进行遗传学分析，以明确是否有遗传缺陷的方法。"
+  },
+  {
+   "cn": "遗传代谢性疾病筛查",
+   "en": "genetic metabolic disease screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "通过血液检查对某些危害严重的先天性代谢病及内分泌病进行的群体筛查，使患儿得以早期诊断，早期治疗，防止机体组织器官发生不可逆的损伤。目前全国普遍筛查的病种包括先天性甲状腺素功能减低症、苯丙酮尿症等。"
+  },
+  {
+   "cn": "出生缺陷遗传咨询",
+   "en": "genetic counseling for birth defect prevention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.2.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "咨询师和咨询对象就某遗传病在家庭中的发生情况、再生风险、诊断和防治等问题交谈，给予咨询对象婚姻和生育指导的保健措施。咨询服务适用于具有遗传病史或风险因素的对象，也适用于广大健康生育年龄的男女。"
+  },
+  {
+   "cn": "严重遗传性疾病占检出疾病百分比",
+   "en": "percentage of severe genetic diseases in designated diseases",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.11.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区婚前医学检查中检出严重遗传性疾病的人数，即由于遗传因素先天形成，患者全部或部分丧失自主生活能力，子代再现风险高，医学上认为不宜生育的疾病人数，与同期当地检出疾病人数之比。"
+  },
+  {
+   "cn": "影响结婚和生育的严重遗传性疾病",
+   "en": "severe genetic disease unsuitable for marriage and reproduction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "由于遗传因素，患者全部或部分丧失自主生活和劳动能力，目前尚无有效治疗方法，子代再现风险高且无法进行产前诊断的遗传性疾病，属于医学上认为不宜生育的严重遗传性疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

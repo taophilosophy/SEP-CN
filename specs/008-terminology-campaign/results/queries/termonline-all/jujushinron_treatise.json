@@ -1,0 +1,522 @@
+{
+ "key": "jujushinron treatise",
+ "term": "jūjūshinron Treatise",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:23:46+00:00",
+ "status": "ok",
+ "note": "variant=jūjūshinron Treatise; 审定公布名词库=142; 海峡两岸名词对照库=16; 其他来源数据库=10; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "论著",
+   "en": "treatise",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.096",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "带有研究性或议论性的著作。"
+  },
+  {
+   "cn": "《历志》",
+   "en": "Calendrical Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.184",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中记载一个朝代历法内容的篇章。"
+  },
+  {
+   "cn": "司牧安骥集",
+   "en": "Treatise on Equine Medicine",
+   "source": "兽医学名词",
+   "wordNumber": "19.017",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "综合性兽医著作。是我国现存最早的兽医学著作，也是我国最早的一部兽医教科书，唐代李石撰。"
+  },
+  {
+   "cn": "八证论",
+   "en": "treatise on eight syndromes",
+   "source": "兽医学名词",
+   "wordNumber": "19.150",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "《马书》和《元亨疗马集》中论述家畜疾病的寒、热、虚、实、表、里、邪、证等八证的兽医古文献名。"
+  },
+  {
+   "cn": "《天文志》",
+   "en": "Tian Wen Zhi; Astronomical Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中专门记载天文学和天文异象的篇章。"
+  },
+  {
+   "cn": "《营造法式》",
+   "en": "Treatise on Architectural Methods,Yingzao Fashi",
+   "source": "建筑学名词",
+   "wordNumber": "03.0230",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "北宋官定的建筑设计、施工专书，为中国现存年代最早、内容最丰富的建筑营造著作。北宋绍圣四年(1097年)将作监李明仲(?~1110年)奉命编修，元符三年(1100年)成书，崇宁二年(1103年)颁行。全"
+  },
+  {
+   "cn": "伤寒论",
+   "en": "Shanghan Lun,Treatise on Cold Pathogenic Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医临床著作，东汉张仲景撰。"
+  },
+  {
+   "cn": "脾胃论",
+   "en": "Piwei Lun,Treatise on Spleen and Stomach",
+   "source": "中医药学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医综合性著作，金代李杲撰。"
+  },
+  {
+   "cn": "《律历志》",
+   "en": "Lu Li Zhi; Tone and Calendar Treatise",
+   "source": "天文学名词",
+   "wordNumber": "05.185",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代纪传体史书中根据“律历一体”观念记载一个朝代乐律和历法内容的篇章。"
+  },
+  {
+   "cn": "《乙巳占》",
+   "en": "Yi Si Zhan; Yisi Treatise on Astrology",
+   "source": "天文学名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文著作，唐代李淳风编撰，是唐以前数十种星占风角书的分类汇编。"
+  },
+  {
+   "cn": "《崇祯历书》",
+   "en": "Chong Zhen Reign-period Treatise on Calendrical Science",
+   "source": "天文学名词",
+   "wordNumber": "05.195",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文著作，明代徐光启、李天经主编，西方传教士龙华民、邓玉函、汤若望、罗雅谷等参加编译。是欧洲古典天文学原理与中国传统历书形式的结合，采用第谷体系和360°制。"
+  },
+  {
+   "cn": "三论宗",
+   "en": "San Lun Zong;three-Lun School;Three Treatise School",
+   "source": "中国古代史名词",
+   "wordNumber": "4.323",
+   "subjectFullName": "中国古代史_魏晋南北朝_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "主要研习《中论》《十二门论》《百论》的佛教学派。此派主张“一切皆空”“诸法性空”，为中国佛教“十宗”的8个大乘宗派之一，起于南北朝，流行于隋唐，宋以来衰落。"
+  },
+  {
+   "cn": "养耕集",
+   "en": "Corpus on Acupuncture and Pharmacology for Treating Farming Cattle Disease;Treatise of Cattle Disease",
+   "source": "兽医学名词",
+   "wordNumber": "19.027",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "有关牛病诊治的兽医著作。清代傅述风撰。"
+  },
+  {
+   "cn": "伤寒杂病论",
+   "en": "Shanghan Zabing Lun,Treatise on Cold Pathogenic and Miscellaneous Diseases",
+   "source": "中医药学名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医临床著作，东汉张仲景撰。已佚。后世根据该书佚文，分别整理成《伤寒论》、《金匮要略》。"
+  },
+  {
+   "cn": "《西洋新法历书》",
+   "en": "Treatise on Calendrical Science According to the New Western Methods",
+   "source": "天文学名词",
+   "wordNumber": "05.196",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "天文历法著作，清初传教士汤若望将《崇祯历书》删改而成。"
+  },
+  {
+   "cn": "处理罐",
+   "en": "treating cylinder",
+   "source": "林学名词",
+   "wordNumber": "11.151",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "一端或两端可开闭的耐压钢罐，通常水平放置。罐内装有加热用蒸气管或喷蒸装置，也有装材台车能自由进出的轻型轨道和防浮装置等。木材和防腐药剂、滞火剂等可置于罐内进行加压处理。"
+  },
+  {
+   "cn": "钝化处理",
+   "en": "passivation treating",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1555",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_表面改性和涂层技术",
+   "subjectName": "表面改性和涂层技术",
+   "publishYear": "2011",
+   "definition": "通过特定溶液与金属的作用在其表面生成稳定膜层的过程。"
+  },
+  {
+   "cn": "馏分油精制",
+   "en": "distillate treating",
+   "source": "石油名词",
+   "wordNumber": "06.0094",
+   "subjectFullName": "石油_石油炼制_石油炼制工艺过程",
+   "subjectName": "石油炼制工艺过程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "三因极一病证方论",
+   "en": "Sanyin Ji Yi Bingzheng Fang Lun,Treatise on Three Categories of Pathogenic Factors",
+   "source": "中医药学名词",
+   "wordNumber": "02.036",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医综合性著作，宋代陈言撰。"
+  },
+  {
+   "cn": "写实色彩",
+   "en": "treat color",
+   "source": "建筑学名词",
+   "wordNumber": "09.0494",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色彩不受主观因素的影响而自然反映出的光在物体上产生的色彩变化。在绘画中受光色关系的制约，客观地表现自然物象的色彩感觉，因此画面的色彩反映了物体和环境在特定的光色下的真实性。是艺术设计中认识色彩的基本方"
+  },
+  {
+   "cn": "净化水",
+   "en": "treated water",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "防腐木",
+   "en": "preservative-treated timber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "天然气处理系统",
+   "en": "natural gas treating system",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "肌酸",
+   "en": "creatine",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "创造心理学",
+   "en": "creative psychology\",\"psychology of creative",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "肌酸磷酸激酶(=肌酸激酶)",
+   "en": "creatine phosphokinase\",\"CPK(=creatine kinase)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "创造性自我",
+   "en": "creative self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造性想象",
+   "en": "creative imagination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造性人格",
+   "en": "creative personality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "創意旅游",
+   "en": "creative tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "肌酸激酶",
+   "en": "creatine kinase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "磷酸肌酸",
+   "en": "creatine phosphate",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "磷酸肌酸",
+   "en": "phosphocreatine\",\"creatine phosphate",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "创造［性］思维测验",
+   "en": "creative thinking test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造设计系统",
+   "en": "creative design system",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造［性］思维,产生式思维",
+   "en": "creative thinking\",\"productive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视人如己",
+   "en": "Treat Others the Way You Treat Yourself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应治尽治",
+   "en": "All confirmed patients should be treated.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视徒如己，反己以教",
+   "en": "Treat Students as You Would Treat Yourself, and Put Yourself in Their Shoes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治病救人",
+   "en": "Treat the Illness and Save the Patient",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "医疗废物日产日清",
+   "en": "to ensure that medical waste is treated within 24 hours ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有病不治，常得中医",
+   "en": "Self-treating an Illness Can Usually Get a Good Result.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集中患者、集中专家、集中资源、集中救治",
+   "en": "to treat the infected in dedicated facilities by medical specialists from all over the country and with all necessary resources ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水处理设备净化水",
+   "en": "treated water",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校饮用水卫生监督",
+   "subjectName": "学校饮用水卫生监督",
+   "publishYear": "2025",
+   "definition": "以市政自来水或二次供水为原水，经过进一步处理，旨在改善饮水水质，去除水中某些有害物质为目的的饮用水"
+  },
+  {
+   "cn": "治疗区",
+   "en": "treated volume，TV",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.5",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床上由放疗医师所确定的某一等剂量线/面所包绕的照射范围，这一范围与计划靶区不一致的情况往往是由于治疗技术的限制而造成的。"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "一种治疗理念，最终目的是对疾病进行长程管理、降低并发症、改善自然病程。应用于类风湿关节炎、系统性红斑狼疮、痛风等疾病的治疗策略中，包括设定严格的治疗目标，密切监测及调整治疗方案以实现治疗目标。"
+  },
+  {
+   "cn": "打扫干净屋子再请客",
+   "en": "clean up the house to treat",
+   "source": "马克思主义",
+   "wordNumber": "03.0501",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年1月31日在西柏坡接见斯大林派来的苏联共产党中央政治局委员米高扬时提出的一项外交方针。1949年3月，毛泽东在党的七届二中全会的报告中，对“打扫干净屋子再请客”、“另起炉灶”的外交方"
+  },
+  {
+   "cn": "创意阶层",
+   "en": "creative class",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "从事知识密集型工作的社会阶层。由加拿大学者理查德·佛罗里达(Richard Florida）提出，主要涉及创造新理念、新科技、新内容工作的阶层，在后工业城市中是经济发展至关重要的推动力。"
+  },
+  {
+   "cn": "创造想象",
+   "en": "creative imagination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不依据现成的语言描述或图样示意，独立地创造出新形象的过程。"
+  },
+  {
+   "cn": "创造性思维能力",
+   "en": "creative thinking skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "思考问题时抛开经验束缚，积极探索其他可能的途径和方式，找到更多、更好的解决问题的方法的能力。有助于个体灵活地应对日常生活中的问题。生活技能的核心技能之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

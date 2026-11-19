@@ -1,0 +1,562 @@
+{
+ "key": "trotte-bebe",
+ "term": "trotte-bébé",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:25:26+00:00",
+ "status": "ok",
+ "note": "variant=trotte-bébé; 审定公布名词库=257; 海峡两岸名词对照库=86; 其他来源数据库=14; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "洞窟",
+   "en": "grotto",
+   "source": "风景园林名词",
+   "wordNumber": "02.0200",
+   "subjectFullName": "风景园林_风景园林史_欧洲",
+   "subjectName": "欧洲",
+   "publishYear": "2025",
+   "definition": "文艺复兴时期意大利和法国园林的人造景观，具有风格主义色彩。其外部由岩石、门廊或岩石悬垂物构成，内部通常被装饰为庙宇、喷泉、钟乳石等。是园林中遮阳庇荫的场所，部分洞窟还被用作浴池、小教堂。"
+  },
+  {
+   "cn": "节流阀",
+   "en": "throttle",
+   "source": "物理学名词",
+   "wordNumber": "05.0156",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "节气门",
+   "en": "throttle",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.344",
+   "subjectFullName": "机械工程_汽车_发动机_进排气系",
+   "subjectName": "进排气系",
+   "publishYear": "2013",
+   "definition": "装在汽油发动机或气体燃料发动机进气歧管前的进气总管内，用来控制进气量的片状阀门。"
+  },
+  {
+   "cn": "石窟",
+   "en": "grotto",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.137",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "古时一种临崖开凿的侧洞，内有壁画、石刻等艺术作品。"
+  },
+  {
+   "cn": "石窟",
+   "en": "grotto,shiku",
+   "source": "建筑学名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "依山就势在山崖陡壁上开凿的窟形佛教建筑，僧人于其内集会礼佛、修禅静坐。此制源于印度，随着佛教传入中国。中国石窟的开凿盛行于南北朝至隋唐时期，著名的有敦煌、云冈、龙门、麦积山等处。"
+  },
+  {
+   "cn": "奥尔洛夫快步马",
+   "en": "Orlov trotter horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.461",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_引入马品种",
+   "subjectName": "引入马品种",
+   "publishYear": "2020",
+   "definition": "乘用型。世界著名的快步马品种。体质结实、干燥。毛色以青毛为主，黑毛和骝毛次之。体高一般在160cm左右。原产于俄罗斯。"
+  },
+  {
+   "cn": "航线",
+   "en": "route",
+   "source": "急救医学名词",
+   "wordNumber": "06.010",
+   "subjectFullName": "急救医学_海上医学救援_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "日常规划的船舶航行线路。"
+  },
+  {
+   "cn": "路由",
+   "en": "route",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0178",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络中的信息传输从源到目的地的通路。"
+  },
+  {
+   "cn": "路径",
+   "en": "route",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.356",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一系列首尾连接的弧段组成的复杂对象。如公交线路等。"
+  },
+  {
+   "cn": "路由",
+   "en": "route",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "网络信息从信源到信宿的路径。"
+  },
+  {
+   "cn": "进路",
+   "en": "route",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0243",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "路线",
+   "en": "route",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.045",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "路由",
+   "en": "route",
+   "source": "电子学名词",
+   "wordNumber": "21.355",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "路由调查",
+   "en": "route investigation,route survey",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0810",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋观测技术",
+   "subjectName": "海洋观测技术",
+   "publishYear": "2007",
+   "definition": "铺设海底管线前对其经过海域进行的海洋地质、地球物理及水文要素的调查。"
+  },
+  {
+   "cn": "迂回进路",
+   "en": "detour route,alternative route",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0154",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "天然碱岩",
+   "en": "tronite rock",
+   "source": "地质学名词",
+   "wordNumber": "05.04.110",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型",
+   "subjectName": "沉积岩岩石类型",
+   "publishYear": "2026",
+   "definition": "由30%以上的天然碱和苏打、芒硝、黏土等混入物所组成的盐岩。"
+  },
+  {
+   "cn": "纸张糟朽",
+   "en": "paper rotten",
+   "source": "档案学名词",
+   "wordNumber": "05.01.034",
+   "subjectFullName": "档案学_档案保护_档案制成材料",
+   "subjectName": "档案制成材料",
+   "publishYear": "2024",
+   "definition": "纸张逐渐腐烂，成为片渣状。"
+  },
+  {
+   "cn": "节流衬套",
+   "en": "throttle bushing",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0853",
+   "subjectFullName": "机械工程（一）_机械零件_机械密封_机械密封零件",
+   "subjectName": "机械密封零件",
+   "publishYear": "2021",
+   "definition": "在机械密封端盖法兰外侧(或轴)的周围形成有限狭小间隙控制流体流量的装置。"
+  },
+  {
+   "cn": "节流阀",
+   "en": "throttle valve",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1011",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "通过改变节流截面或节流长度来控制流体流量的阀。"
+  },
+  {
+   "cn": "节流阀",
+   "en": "throttle valve",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0161",
+   "subjectFullName": "化工（八）_管道_阀门",
+   "subjectName": "阀门",
+   "publishYear": "2021",
+   "definition": "通过启闭件（阀瓣）的运动，改变通路截面积，用以调节流量、压力的阀门。"
+  },
+  {
+   "cn": "罗特琴",
+   "en": "rotte",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "节流",
+   "en": "throttle",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "途径",
+   "en": "route",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "附加段",
+   "en": "trope",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "路径",
+   "en": "route",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "路由",
+   "en": "route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路由调查",
+   "en": "route investigation\",\"route survey",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "迂回路由",
+   "en": "alternate route\",\"alternative route",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航线",
+   "en": "shipping route\",\"trade route",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轮状花冠",
+   "en": "rotate corolla",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "悲伤圆舞曲",
+   "en": "Valse Triste",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Sibelius, Jean"
+  },
+  {
+   "cn": "节流阀",
+   "en": "throttle valve",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节流调节",
+   "en": "throttle governing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节流调节",
+   "en": "throttle governing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航路",
+   "en": "route\",\"passage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "洄游路线",
+   "en": "migration route",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "路径距离",
+   "en": "route distance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "商路",
+   "en": "commercial route",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "查找路径",
+   "en": "find route",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "路径标识",
+   "en": "route identifier",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比赛路线",
+   "en": "itinerary\",\"route",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛路线",
+   "en": "itinerary\",\"route",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮换信号",
+   "en": "signal to rotate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传染途径",
+   "en": "route of transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "八路军",
+   "en": "Eighth Route Army",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "调教快步",
+   "en": "working trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "坐姿快步",
+   "en": "sitting trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中度快步",
+   "en": "medium trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻快步",
+   "en": "rising trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长快步",
+   "en": "extended trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快步",
+   "en": "pace of two times\",\"trot\",\"at the trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传播途径",
+   "en": "transmission route",
+   "source": "消毒学",
+   "wordNumber": "4.6.8",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体从传染源排出体外，经过一定的传播方式，到达与侵入新的易感者的过程。"
+  },
+  {
+   "cn": "暴露路径",
+   "en": "exposure route",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.7",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源因素从释放进入环境，并到达生物体、人群或特定环境的一系列事件或步骤。"
+  },
+  {
+   "cn": "传播途径",
+   "en": "route of transmission",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "病原体由传染源排出后，到达另一个易感者所经过的途径"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,252 @@
+{
+ "key": "sango shiki",
+ "term": "Sangō shīki",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:24:04+00:00",
+ "status": "ok",
+ "note": "variant=Sangō shīki; 审定公布名词库=16; 海峡两岸名词对照库=6; 其他来源数据库=2; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "Ki-67蛋白",
+   "en": "Ki-67 protein",
+   "source": "普通外科学名词",
+   "wordNumber": "23.047",
+   "subjectFullName": "医学_普通外科学_胰腺外科",
+   "subjectName": "胰腺外科",
+   "publishYear": "2026",
+   "definition": "一种与细胞增殖相关的核抗原。处于分裂期及分裂间期的细胞表达，而G₀期细胞不表达，其功能与有丝分裂密切相关。由德国学者研究霍奇金淋巴瘤细胞系核抗原时发现。Ki代表的是德国基尔（Kiel）大学，67是发现"
+  },
+  {
+   "cn": "Ki-67增殖指数",
+   "en": "Ki-67 proliferation index",
+   "source": "普通外科学名词",
+   "wordNumber": "23.048",
+   "subjectFullName": "医学_普通外科学_胰腺外科",
+   "subjectName": "胰腺外科",
+   "publishYear": "2026",
+   "definition": "Ki-67蛋白表达阳性的细胞占总测算细胞的百分比。"
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "磉墩",
+   "en": "sang dun",
+   "source": "风景园林名词",
+   "wordNumber": "07.0447",
+   "subjectFullName": "风景园林_风景园林建筑_石作",
+   "subjectName": "石作",
+   "publishYear": "2025",
+   "definition": "柱顶石下之基础，多用砖、石砌筑。"
+  },
+  {
+   "cn": "丧服",
+   "en": "sang fu;mourning robes",
+   "source": "中国古代史名词",
+   "wordNumber": "1.184",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "居丧期间死者亲属穿着的特定服饰。西周始按血缘亲疏分有服无服，以辨别远亲近亲，有服者又分五等服饰，标志其相应身份及其权利和义务，各有服丧的仪节。又据此确定臣为君、诸侯为天子及大夫、士、庶人为诸侯服丧之制"
+  },
+  {
+   "cn": "丧礼",
+   "en": "sang li;funeral and mourning rites",
+   "source": "中国古代史名词",
+   "wordNumber": "1.183",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "关于丧葬的礼仪。源于原始丧葬仪式，西周始严格区别嫡庶亲疏的身份等级，以此规定丧服规格、服丧时限及安葬、悼念的相应仪节，西晋以来其制续有发展变化，唐初以后因避忌而不预定天子丧制，臣民丧葬之制和习惯仍以身"
+  },
+  {
+   "cn": "桑田",
+   "en": "sang tian;land for mulberry trees",
+   "source": "中国古代史名词",
+   "wordNumber": "4.255",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "北魏均田制下授予农民种植桑、枣、榆树的土地。又称“世业田”“永业田”，男夫每人20亩，计入“倍田”，可以世袭，其买卖限制后来逐渐放宽。"
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "桑吉喇嘛",
+   "en": "Sangs rgyas bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0411",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教人物。是藏传佛教历史上第一位伏藏师,也是嘉色拉吉十三位单转伏藏师中的第一位，大约于十世纪中叶诞生在西藏拉的多措瓦地区，与大译师仁钦桑波（958 年—1055年）同一时期，为一位密咒师。他从西藏"
+  },
+  {
+   "cn": "第巴桑结嘉措",
+   "en": "Sde pa sangs rgyas rgya mtsho",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0388",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1653 年—1705 年）藏族著名历史人物。属拉萨大贵族仲麦巴家族，1679 年五世达赖任命其为“第巴”，管理西藏政教事务。在任期间，把西藏地方分散的政治、经济集权于拉萨，形成政治、经济、文化之中"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

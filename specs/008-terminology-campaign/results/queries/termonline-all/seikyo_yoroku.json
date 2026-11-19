@@ -1,0 +1,32 @@
+{
+ "key": "seikyo yoroku",
+ "term": "Seikyō yōroku",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:16:53+00:00",
+ "status": "ok",
+ "note": "variant=Seikyō yōroku; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "慢棘波样纺锤变异型",
+   "en": "slow spiky spindle variant",
+   "source": "神经病学名词",
+   "wordNumber": "05.161",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "有些正常小儿在非快速眼动睡眠Ⅱ期出现的 6～11Hz 的中高波幅弓形节律。连续5～10 个，负相成分很尖，有时带有切迹，主要位于一侧或双侧额区、中央区。此种波形为睡眠纺锤的正常变异，可单独出现，也可从"
+  },
+  {
+   "cn": "快棘波样纺锤变异型",
+   "en": "fast spiky spindle variant",
+   "source": "神经病学名词",
+   "wordNumber": "05.205",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "一种16～20Hz的纺锤样活动。主要见于3岁左右的幼儿，偶可见于年长儿及青少年。儿童发生率为1/（2000～3000），出现在非快速眼动睡眠Ⅱ～Ⅲ期，分布较广，波形较尖，类似快棘波节律。常见于各种脑损"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

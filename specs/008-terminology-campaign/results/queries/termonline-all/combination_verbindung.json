@@ -1,0 +1,792 @@
+{
+ "key": "combination verbindung",
+ "term": "combination Verbindung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:18:50+00:00",
+ "status": "ok",
+ "note": "variant=combination Verbindung; 审定公布名词库=858; 海峡两岸名词对照库=192; 其他来源数据库=43; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "对于无法取消而又必需的工序或动作，通过合并或将多人操作改进成单人或单台操作，以实现省时简化的方法研究分析原则。"
+  },
+  {
+   "cn": "组合化",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0741",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对不同的显性知识进行组织与加工的过程。比如撰写报告、构建模型等。"
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "微生物学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "由属名和一个或多个加词组成的属以下、种或种以下分类单元的名称。"
+  },
+  {
+   "cn": "搭配",
+   "en": "combination",
+   "source": "语言学名词",
+   "wordNumber": "04.260",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "指词项之间的习惯性同现。例如，“白”表示“雪或霜的颜色”时经常和实体搭配，而表示“没有效果”时经常和动作行为搭配，因此也可以说搭配体现了词的意义上的组合关系。"
+  },
+  {
+   "cn": "联合",
+   "en": "combination",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.036",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "数学名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联合收割机",
+   "en": "combine; combine harvester",
+   "source": "农学名词",
+   "wordNumber": "14.086",
+   "subjectFullName": "农业工程_农业机械化与装备",
+   "subjectName": "农业机械化与装备",
+   "publishYear": "2025",
+   "definition": "能够一次完成谷物收割、脱粒、分离和清选作业的收获联合作业机械。按行走和动力配置分为自走式、悬挂式和牵引式，按谷物喂入方式分为全喂入式和半喂入式。"
+  },
+  {
+   "cn": "转换接箍",
+   "en": "combination coupling,combination collar",
+   "source": "石油名词",
+   "wordNumber": "12.0659",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "混合性皱纹",
+   "en": "combination wrinkle;combination line",
+   "source": "整形外科名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "皮肤组织松弛、表情肌收缩等多种原因引起的皱纹。机制复杂，如鼻唇沟皱纹、口周皱纹等。"
+  },
+  {
+   "cn": "联合基础",
+   "en": "combined footing,combined foundation",
+   "source": "土木工程名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "土木工程_土力学与地基基础_浅基础",
+   "subjectName": "浅基础",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "组合排水",
+   "en": "combination drainage",
+   "source": "农学名词",
+   "wordNumber": "12.161",
+   "subjectFullName": "农业水利_农田排水",
+   "subjectName": "农田排水",
+   "publishYear": "2025",
+   "definition": "采用不同类型排水措施的组合，排除多余的地表水和地下水的措施。"
+  },
+  {
+   "cn": "杂交组合",
+   "en": "hybrid combination",
+   "source": "农学名词",
+   "wordNumber": "06.163",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "杂交育种中亲本的组配方式。"
+  },
+  {
+   "cn": "组合育种",
+   "en": "combination breeding",
+   "source": "农学名词",
+   "wordNumber": "06.332",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "将分属于不同品种和控制不同性状的优良基因随机结合形成不同的基因组合后，再通过定向选择育成集双亲优点于一体的新品种育种工作。"
+  },
+  {
+   "cn": "组合符号纹饰",
+   "en": "combination pattern",
+   "source": "风景园林名词",
+   "wordNumber": "11.0391",
+   "subjectFullName": "风景园林_风景园林艺术_装饰纹样",
+   "subjectName": "装饰纹样",
+   "publishYear": "2025",
+   "definition": "以多种植物、动物、器物、自然符号、文字的形象、线条或变体为基本素材，经过艺术组合加工而成，具有固定吉祥主题的纹样、装饰物。如岁寒三友、二龙戏珠、六合同春、喜上眉梢、五福捧寿、太平景象等主题纹饰，大量出"
+  },
+  {
+   "cn": "凸组合",
+   "en": "convex combination",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "给定向量空间中有限个点，其凸组合为，其中。"
+  },
+  {
+   "cn": "组合法",
+   "en": "combination method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.223",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "把具有内在联系的相关事物、现象和特征加以综合进行技术创造的一种方法。"
+  },
+  {
+   "cn": "组合报道",
+   "en": "combination reports",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.174",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "集中发表一组稿件反映具有相同性、相似性或相反性的事实。通过相互映衬或对比，起到深化主题，增强报道效果的作用。"
+  },
+  {
+   "cn": "合版",
+   "en": "page combination",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.142",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "将多个版面文件通过大样版面制作软件合并成一个文件的工作环节。"
+  },
+  {
+   "cn": "混合销售",
+   "en": "combination sale",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.106",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "多种销售途径与折扣方式并行的销售方式。"
+  },
+  {
+   "cn": "组合育种",
+   "en": "combination breeding ",
+   "source": "草学名词",
+   "wordNumber": "4.0553",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "组合器",
+   "en": "combiner",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串级组合",
+   "en": "cascade combination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合音",
+   "en": "combination tone",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化合",
+   "en": "chemical combination",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组合电极",
+   "en": "combination electrode",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "组合峰",
+   "en": "combination line",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "物种组合",
+   "en": "species combination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混合型债券",
+   "en": "combination bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合交易",
+   "en": "combination deal",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合配额",
+   "en": "combination quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "作物组合",
+   "en": "crop combination",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "亲本组合",
+   "en": "parental combination",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据组合",
+   "en": "data combination",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "禁用组合",
+   "en": "forbidden combination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "栈组合",
+   "en": "stack combination",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合干扰",
+   "en": "combination interference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混装船",
+   "en": "combination carrier",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combine\",\"combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作组合",
+   "en": "complex combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排扣分",
+   "en": "combination fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重障碍",
+   "en": "double combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式多重障碍",
+   "en": "open combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术配合",
+   "en": "tactical combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combined marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人旋转",
+   "en": "combined spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多重障碍",
+   "en": "combination\",\"combination of obstacles\",\"multiple obstacles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combination defense\",\"combined defense\",\"mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "通过资产收购或者合同订立等方式，实现两个或多个卫生服务机构合为一体的行为。"
+  },
+  {
+   "cn": "化合氯",
+   "en": "combined chlorine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "水中氯与氨的化合物，其中包括NH2Cl、NHCl2、NHCl3等。"
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。"
+  },
+  {
+   "cn": "复合效应",
+   "en": "combined effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "机体遭受两种或两种以上致伤因素的作用后所产生的损伤效应。单一伤之间可相互影响，使原单伤的表现不完全相同于单独发生的损伤。"
+  },
+  {
+   "cn": "联合免疫缺陷",
+   "en": "combined immunodeficiencies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "一组因淋巴细胞出现发育缺陷或Ｔ细胞、Ｂ细胞之间相互作用信号障碍，而引起的一类体液免疫与细胞免疫同时缺陷导致的疾病。患者通常为新生儿或婴幼儿。根据免疫缺陷致的病情严可分为严重联合免疫缺陷病和部分性联合免"
+  },
+  {
+   "cn": "放射复合伤",
+   "en": "radiation combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "以放射损伤为主，同时伴有其他因素所致的损伤。核爆炸时，指核辐射和另外一种以上杀伤因素同时作用而发生的复合损伤。"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.26",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由在一个测量模型中各输入量的标准不确定度获得的输出量的标准不确定度。"
+  },
+  {
+   "cn": "器官联合移植",
+   "en": "combined-organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.021",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，一次为器官受体移植两个及以上器官的移植技术。目前器官联合移植包括肝肾联合移植、肝小肠移植、肝胰联合移植、胰肾联合移植、心肺联合移植等。"
+  },
+  {
+   "cn": "烧冻复合伤",
+   "en": "burn-frostbit combined injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区战创伤",
+   "subjectName": "寒区战创伤",
+   "publishYear": "2025",
+   "definition": "烧伤伤员的运动能力下降，遇寒冷环境后，在烧伤的基础上容易并发冻伤的现象。"
+  },
+  {
+   "cn": "放烧复合伤",
+   "en": "combined radiation-burn injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继发生以放射损伤为主，复合烧伤的一类复合损伤。"
+  },
+  {
+   "cn": "放冲复合伤",
+   "en": "combined radiation-blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继发生以放射损伤为主，复合冲击伤的一类复合损伤。"
+  },
+  {
+   "cn": "原则性和灵活性相结合",
+   "en": "combine principle with flexibility",
+   "source": "马克思主义",
+   "wordNumber": "03.0432",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东强调的制定一切政策和策略的指导原则。毛泽东《在中国共产党第七届中央委员会第二次全体会议上的报告》中指出:“我们的原则性必须是坚定的，我们也要有为了贯彻原则性的一切许可的和必需的灵活性。”根据政治"
+  },
+  {
+   "cn": "联合瑞文测验",
+   "en": "combined Raven's test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由心理学家瑞文(JC. Raven, 英国)于 1938年编制的用于评定受检者推理能力的一种非文字测验。适用于5岁半儿童至成人。"
+  },
+  {
+   "cn": "复方激素避孕方法",
+   "en": "combined hormonal contraceptive, CHC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "含有低剂量人工合成雌激素和孕激素的避孕制剂。外源性的雌孕激素作用于下丘脑和垂体，通过负反馈机制阻止排卵、改变子宫内膜发育形态和功能及宫颈黏液性状，通过多个环节协同作用起到高效的避孕作用。"
+  },
+  {
+   "cn": "复方口服避孕药",
+   "en": "combined oral contraceptive, COC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "低剂量人工合成的雌孕激素复方口服避孕制剂。每个服用周期需要连续每日服用至少21或22、24、28天（视不同制剂而异），停药期间（或服用提醒片期间）大多会出现类似月经的药物撤退性出血。"
+  },
+  {
+   "cn": "复方避孕针",
+   "en": "combined injectable contraceptive, CIC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.6.5.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由人工合成的雌激素和孕激素配伍而成的女用长效针剂。一般一次肌注可以维持1个月的避孕效果"
+  },
+  {
+   "cn": "冻冲复合伤",
+   "en": "frostbite-blast combined injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.7.3",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区战创伤",
+   "subjectName": "寒区战创伤",
+   "publishYear": "2025",
+   "definition": "复合寒冷环境暴露加重了冲击波所致的内脏或肢体损伤而发生的失血性休克，内脏损伤进展更为迅速的现象。"
+  },
+  {
+   "cn": "集合暴露",
+   "en": "aggregate exposure，combined exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单个化学物通过多种途径（进口、经皮、吸入）和多种方式（食物、饮水和居住环境）的联合暴露情形。"
+  },
+  {
+   "cn": "统一性和独立性相结合",
+   "en": "combination of unity and independence",
+   "source": "马克思主义",
+   "wordNumber": "02.0379",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的统一性和独立性是对立的统一的思想。要有统一性，也要有独立性。各个生产单位都要有一个与统一性相联系的独立性，才会发展的更加活泼。"
+  },
+  {
+   "cn": "量价挂钩",
+   "en": "combination with quantity and price",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "招标前公布药品的采购数量，企业参考数量进行报价，采用大量集中采购以降低药品单价的采购模式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

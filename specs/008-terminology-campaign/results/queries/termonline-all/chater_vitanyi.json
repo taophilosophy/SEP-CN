@@ -1,0 +1,782 @@
+{
+ "key": "chater vitanyi",
+ "term": "Chater Vitányi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:14:36+00:00",
+ "status": "ok",
+ "note": "variant=Chater Vitányi; 审定公布名词库=1961; 海峡两岸名词对照库=530; 其他来源数据库=143; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "插齿刀",
+   "en": "shaper cutter,gear shaper cutter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.284",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "齿轮状的插齿刀具。用于在插齿机上按展成法加工齿形。"
+  },
+  {
+   "cn": "涂层切齿刀具",
+   "en": "coated gear cutter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.302",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "切削部分镀有涂层材料的切齿刀具。常用的涂层方法有化学气相沉积(CVD)法和物理气相沉积(PVD)法。"
+  },
+  {
+   "cn": "陨击坑",
+   "en": "lmpact crater; crater",
+   "source": "天文学名词",
+   "wordNumber": "10.230",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "类地行星、卫星、小行星等固态天体表面的各种凹坑，大多由撞击作用而形成。对月面早期的观测发现，较大凹坑的四周往往有一圈环状的山体。"
+  },
+  {
+   "cn": "火[山]口",
+   "en": "crater",
+   "source": "地质学名词",
+   "wordNumber": "12.03.035",
+   "subjectFullName": "地质学_火山地质学_火山机构",
+   "subjectName": "火山机构",
+   "publishYear": "2026",
+   "definition": "火山锥顶部呈盆状、碟状、碗状或漏斗状的环形构造。其底部大体相当于火山喷口的位置。火山口形状取决于火山喷发的性质及抛出物的力学性质等。最初形态多为漏斗状，但通常由于火山口壁的垮落掉入喷口，或者熔岩从火山"
+  },
+  {
+   "cn": "火山口",
+   "en": "crater",
+   "source": "风景园林名词",
+   "wordNumber": "04.0082",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "火山顶部或火山侧面的碗状或漏斗状的凹陷。"
+  },
+  {
+   "cn": "缩孔",
+   "en": "crater",
+   "source": "精细化工名词",
+   "wordNumber": "05.0288",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "由表面张力低于涂料的杂质所致的涂膜表面出现的圆形小坑。是一种涂膜外观缺陷。"
+  },
+  {
+   "cn": "章",
+   "en": "chapter",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.033",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍或文章中小于编大于节的结构单元。"
+  },
+  {
+   "cn": "弧坑",
+   "en": "crater",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.278",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "弧焊时，由于断弧或收弧不当，在焊道末端形成的低凹部分。"
+  },
+  {
+   "cn": "颤振",
+   "en": "chatter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.038",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "金属切削过程中由于切屑动态再生引起的工艺系统自激振动现象。"
+  },
+  {
+   "cn": "涂层机",
+   "en": "coater",
+   "source": "冶金学名词",
+   "wordNumber": "09.1530",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "对铝带进行涂层的设备。含化学涂层机、初涂机、精涂机。化学涂层机在带材上辊涂化学涂料，使其表面形成一层致密均匀的转化膜。初、精涂层机则将配置好的涂料辊涂到经化学涂层的带材上。化学涂层机和初涂机采用两辊式"
+  },
+  {
+   "cn": "胎圈包布",
+   "en": "chafer",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.262",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "贴在胎圈外部的胶布条。"
+  },
+  {
+   "cn": "弧坑",
+   "en": "crater",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1666",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_焊接与连接技术",
+   "subjectName": "焊接与连接技术",
+   "publishYear": "2011",
+   "definition": "电弧焊时，由于断弧或收弧不当，在焊道末端形成的低洼部分。"
+  },
+  {
+   "cn": "颤动",
+   "en": "chatter",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_一般力学",
+   "subjectName": "一般力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "火山口",
+   "en": "crater",
+   "source": "地质学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "盘形插齿刀",
+   "en": "disk type cutter,disk gear shaper type cutter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.285",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "圆盘状的插齿刀。"
+  },
+  {
+   "cn": "斜齿插齿刀",
+   "en": "helical type gear shaper cutter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.289",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "用于加工斜齿轮齿形的插齿刀。"
+  },
+  {
+   "cn": "筒形插齿刀",
+   "en": "gear shaper cutter-hub type",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.291",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "安装部分带有孔和同心内螺纹的插齿刀。"
+  },
+  {
+   "cn": "柄式插齿刀",
+   "en": "gear shaper cutter-shank type",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.292",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "安装部分为直柄或锥柄的插齿刀。"
+  },
+  {
+   "cn": "花键插齿刀",
+   "en": "gear shaper cutter for spline",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.294",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "加工花键的插齿刀。按被加工花键的齿廓形状分为渐开线花键插齿刀、矩形花键插齿刀等。"
+  },
+  {
+   "cn": "梳齿刀",
+   "en": "rack type gear shaper cutter",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.295",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具名词",
+   "subjectName": "刀具名词",
+   "publishYear": "2021",
+   "definition": "齿条形的插齿刀。"
+  },
+  {
+   "cn": "弧坑",
+   "en": "crater",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "环形山",
+   "en": "crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "追猎者",
+   "en": "chaser",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "涂布机",
+   "en": "coater",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "航次租船",
+   "en": "trip charter\",\"voyage charter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "风暴追踪",
+   "en": "storm chaser",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刮涂机",
+   "en": "spread coater",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "初级陨击坑",
+   "en": "primary crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "次级陨击坑",
+   "en": "secondary crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "碟形环形山",
+   "en": "saucer crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沟纹环形山",
+   "en": "rille crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环形山底",
+   "en": "crater floor",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文志",
+   "en": "Astronomical Chapter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "月面环形山",
+   "en": "lunar crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "月面陨击坑",
+   "en": "lunar crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "陨击坑",
+   "en": "impact crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "陨星坑",
+   "en": "meteorite crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "银行特许",
+   "en": "bank charter",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "火山口湖",
+   "en": "crater lake",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "月球环形山",
+   "en": "lunar crater",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "租船",
+   "en": "charter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克宪章",
+   "en": "Olympic Charter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中后卫",
+   "en": "center\",\"center back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹膛",
+   "en": "chamber",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回到中心区!",
+   "en": "Center!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹膛",
+   "en": "chamber",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传中",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中锋",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笼头",
+   "en": "halter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中路进攻",
+   "en": "center",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反跑步",
+   "en": "counter-canter\",\"false canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单桅多帆船",
+   "en": "sloop\",\"cutter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球中线",
+   "en": "center service line\",\"center line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中后卫",
+   "en": "center back\",\"center midfield\",\"halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人民宪章",
+   "en": "Peoples Charter",
+   "source": "马克思主义",
+   "wordNumber": "04.0034",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1838年5月8日，宪章派以法案的形式，公布了争取普选权的6点要求，即人民宪章。人民宪章为英国宪章运动的纲领性文件。宪章规定，年满21岁的成年男子都有选举权；无记名投票，保障选民运用其选举权；取消议员"
+  },
+  {
+   "cn": "察哈尔部",
+   "en": "Chahar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0065",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "明清蒙古部族名。自16 世纪初达延汗以来成为蒙古汗廷的直辖万户。入清后，察哈尔末代大汗林丹汗之子额哲及其属民被编为察哈尔扎萨克旗，其余察哈尔诸臣及其属民被编入八旗体系，形成八旗察哈尔。"
+  },
+  {
+   "cn": "气闸室",
+   "en": "airlock chamber",
+   "source": "消毒学",
+   "wordNumber": "1.8.21.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为阻隔室外或邻室污染气流和压差控制而在洁净室出入口设置的缓冲间。"
+  },
+  {
+   "cn": "气雾室",
+   "en": "aerosol chamber",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.25",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "可调节环境温度和相对湿度的体积为20m3～30m3 的密闭空间，带有缓冲间、传递窗和外部操作手套等的装置，用于评价消毒产品空气消毒试验的效果。"
+  },
+  {
+   "cn": "气泡室",
+   "en": "bubble chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种探测高能加速粒子径迹的仪器。通常由室主体、膨胀系统、照相系统和热调节系统等部分组成。"
+  },
+  {
+   "cn": "裂变室",
+   "en": "fission chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "利用裂变反应测量中子的电离室。一般用在反应堆或加速器上监测中子，也有用于中子注量或裂变截面的测量。"
+  },
+  {
+   "cn": "氡室",
+   "en": "radon chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "一种用于刻度氡及其短寿命子体探测器的标准装置。由氡发生器、温湿度控制仪和氡及其子体监测仪等组成。"
+  },
+  {
+   "cn": "电离室",
+   "en": "ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.24",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种利用灵敏体积内气体的电离来测量电离辐射的探测器。电离室通常有两种类型：一种是记录单个辐射粒子的脉冲电离室，用于测量重带电粒子的能量和强度；另一种是记录大量辐射粒子的平均效应的电流电离室，用于测量X"
+  },
+  {
+   "cn": "漂移室",
+   "en": "drift chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.33",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "基于测量电子的漂移时间来确定入射粒子辐射位置的位置灵敏型探测器，工作在气体放电正比区。"
+  },
+  {
+   "cn": "测量腔室",
+   "en": "measuring chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.5.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_氡及其子体测量",
+   "subjectName": "氡及其子体测量",
+   "publishYear": "2025",
+   "definition": "采用不锈钢或有机玻璃等不易吸附氡的材料制作的，具有良好气密性且留有进出气口的规则容器。"
+  },
+  {
+   "cn": "换源器",
+   "en": "source changer",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用于更换γ射线探伤源组件的屏蔽容器。通常具有两个贮源孔，旧源从其中的一个源孔被推进，新源从另一个源孔中被移出。"
+  },
+  {
+   "cn": "骨化中心",
+   "en": "ossification center",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "原始结缔组织膜内首先形成骨组织的部位。"
+  },
+  {
+   "cn": "电离室",
+   "en": "ionization chamber",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "利用灵敏体积内气体电离测量电离辐射的探测器，分两类：脉冲电离室记录单个辐射粒子，测重带电粒子能量与强度；电流电离室记录大量粒子平均效应，测X 射线、γ 射线等的照射量（率）及剂量（率）。"
+  },
+  {
+   "cn": "生发中心",
+   "en": "germinal center, GC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.35",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "适应性免疫应答期间淋巴滤泡中B细胞强烈增殖和分化的位点。位于次级淋巴器官淋巴结和脾脏内，形态上分为富含增殖性B细胞（中心母细胞）的暗区及充满滤泡树突状细胞和较小幼稚淋巴细胞的明区。"
+  },
+  {
+   "cn": "威尔逊云室",
+   "en": "Wilson cloud chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_α、β粒子辐射监测设备",
+   "subjectName": "α、β粒子辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种能显示高速带电粒子径迹的仪器。"
+  },
+  {
+   "cn": "真空电离室",
+   "en": "vacuum ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种空腔内气压很低（压强在1.333×10-3Pa以下）的电离室。其工作原理是收集到的电流主要不是来源于气体电离而是来源于电极间次级电子（δ射线）的转移。特别适合于高剂量测量。"
+  },
+  {
+   "cn": "脉冲电离室",
+   "en": "pulse ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.29",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "对每次探测到的电离事件都产生一个输出脉冲的电离室。"
+  },
+  {
+   "cn": "公共信息中心",
+   "en": "public information center",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "协调向媒体发布的有关突发事件的所有官方信息的地点。"
+  },
+  {
+   "cn": "商会",
+   "en": "chamber of commerce",
+   "source": "社会学名词",
+   "wordNumber": "2.5.8.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_社团组织",
+   "subjectName": "社团组织",
+   "publishYear": "2025",
+   "definition": "商人依法组建的、以维护会员合法权益、促进工商业繁荣为宗旨的社会团体。"
+  },
+  {
+   "cn": "初级骨化中心",
+   "en": "primary ossification center",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.4.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "软骨雏形中央形成初级骨小梁和初级骨髓腔的部位。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

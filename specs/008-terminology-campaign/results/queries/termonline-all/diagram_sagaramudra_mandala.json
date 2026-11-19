@@ -1,0 +1,482 @@
+{
+ "key": "diagram sagaramudra mandala",
+ "term": "Diagram Sāgaramudrā Maṇḍala",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:23:05+00:00",
+ "status": "ok",
+ "note": "variant=Diagram Sāgaramudrā Maṇḍala; 审定公布名词库=484; 海峡两岸名词对照库=182; 其他来源数据库=17; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "简图",
+   "en": "diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0163",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由规定的符号、文字和图线组成示意性的图。"
+  },
+  {
+   "cn": "简图",
+   "en": "diagram",
+   "source": "电气工程名词",
+   "wordNumber": "01.936",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "β图解",
+   "en": "β diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.03.041",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "褶皱变形面任意两点的切面在极射赤平投影图上投影为两个相交的大圆弧，交点称为β点。对于圆筒状褶皱，该点与褶皱枢纽(轴)平行。将褶皱变形面不同点的切面投影后，获得一组交点，代表褶皱枢纽的统计方向，该点称为"
+  },
+  {
+   "cn": "π图解",
+   "en": "π diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.03.042",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "将圆筒状褶皱变形面各部位法线投影在赤平投影图上，获得一个大圆弧，称为π圆，π圆的极点代表β轴，与褶皱枢纽(轴)平行。"
+  },
+  {
+   "cn": "π图",
+   "en": "π-diagram",
+   "source": "地质学名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "β图",
+   "en": "β-diagram",
+   "source": "地质学名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "节理图解",
+   "en": "joint diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.05.052",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "定量分析节理空间方位和发育程度的图件。例如节理玫瑰花图、节理极点图、节理等密图、节理频度图、节理直方图等。"
+  },
+  {
+   "cn": "岩组图",
+   "en": "fabric diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.06.107",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "为了表示结晶学要素的优选方位，通常用等面积网投影形式，将某一特定结晶要素，如光轴、双晶面的极点等投影到投影网上作出的方位等密线图。"
+  },
+  {
+   "cn": "极点图",
+   "en": "point diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.06.108",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "一种将面状构造(如片理、节理、轴面、双晶面等)的法线或线状构造的产状测量数据，以极点投影方式投影在乌尔夫网或施密特网上的岩石组构图。如节理极点图、结晶光轴极点图等。"
+  },
+  {
+   "cn": "等密图",
+   "en": "contour diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.06.111",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "在极点图的基础上，用等值线来表示图内极点密度分布特征和规律的岩石组构图。"
+  },
+  {
+   "cn": "哈克图解",
+   "en": "Harker diagram",
+   "source": "地质学名词",
+   "wordNumber": "04.01.073",
+   "subjectFullName": "地质学_火成岩岩石学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以SiO₂或MgO含量为横坐标，其他主要氧化物含量为纵坐标构成的成分变异图解。反映火成岩中随SiO₂或MgO含量的变化，其他氧化物或参数的变化趋势。"
+  },
+  {
+   "cn": "相图",
+   "en": "phase diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.030",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "表示体系中的相稳定区、相边界与自由度之间关系的图形。"
+  },
+  {
+   "cn": "二元系相图",
+   "en": "binary diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.031",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "独立组分数为2的体系相图。常用压力-组分图、温度-组分图等表示相平衡的关系。"
+  },
+  {
+   "cn": "活度图",
+   "en": "activity diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.032",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "以组分活度为坐标，表示恒温恒压条件下组分活度与相平衡关系的图。"
+  },
+  {
+   "cn": "三元系相图",
+   "en": "ternary diagram",
+   "source": "地质学名词",
+   "wordNumber": "13.05.033",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "独立组分数为3的体系相图。通常用等边三角形相图表示恒温、恒压条件下共存相与各组分浓度的关系。"
+  },
+  {
+   "cn": "ACF图解",
+   "en": "ACF diagram",
+   "source": "地质学名词",
+   "wordNumber": "06.03.024",
+   "subjectFullName": "地质学_变质岩岩石学_变质带与变质相",
+   "subjectName": "变质带与变质相",
+   "publishYear": "2026",
+   "definition": "表示变质相中矿物共生组合与岩石化学成分之间相互关系的一种三元体系图解。一般用等边三角形表示，三角形的3个顶点A、C、F分别代表了岩石中不同组分，其中： A=(Al₂O₃+Fe₂O₃)-(Na₂O+K₂"
+  },
+  {
+   "cn": "AKF图解",
+   "en": "AKF diagram",
+   "source": "地质学名词",
+   "wordNumber": "06.03.025",
+   "subjectFullName": "地质学_变质岩岩石学_变质带与变质相",
+   "subjectName": "变质带与变质相",
+   "publishYear": "2026",
+   "definition": "表示变质矿物共生组合与岩石化学成分之间对应关系的三角形图解。三角形的3个顶点：A=(Al₂O₃+Fe₂O₃)-(Na₂O+K₂O+CaO) 、K=K₂O、F=FeO+MgO+MnO，多用于贫钙变质泥质"
+  },
+  {
+   "cn": "AFM图解",
+   "en": "AFM diagram",
+   "source": "地质学名词",
+   "wordNumber": "06.03.026",
+   "subjectFullName": "地质学_变质岩岩石学_变质带与变质相",
+   "subjectName": "变质带与变质相",
+   "publishYear": "2026",
+   "definition": "表示变质相中矿物共生组合与岩石化学成分之间相互关系的一种四元体系图解，即K₂O与AFM面的四面体图解。含钾矿物是通过白云母或钾长石作投影点，投在AFM面上。其中：A=Al₂O₃ 、F=FeO、M=Mg"
+  },
+  {
+   "cn": "篱笆图解",
+   "en": "fence diagram",
+   "source": "地质学名词",
+   "wordNumber": "07.01.125",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "表示一个区域内地层体在三维空间分布和变化特征的透视图解。"
+  },
+  {
+   "cn": "弗林图解",
+   "en": "Flinn diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.02.068",
+   "subjectFullName": "地质学_构造地质学_应力与应变",
+   "subjectName": "应力与应变",
+   "publishYear": "2026",
+   "definition": "以应变椭球的主轴比a=(1+e₁)/(1+e₂)和b=(1+e₂)/(1+e₃)为轴构成的直角坐标系来表示不同类型均匀应变状态的图解。"
+  },
+  {
+   "cn": "花图式",
+   "en": "flower diagram\",\"floral diagram",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "框图",
+   "en": "block diagram\",\"diagram block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "孢粉图谱",
+   "en": "pollen diagram",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "点聚图",
+   "en": "scatter diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高空图表",
+   "en": "aerological diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝热图",
+   "en": "adiabatic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克拉珀龙图",
+   "en": "Clapeyron diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罗斯贝图解",
+   "en": "Rossby diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能量图",
+   "en": "energy diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热力图",
+   "en": "thermodynamic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向量图",
+   "en": "vector-diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相图",
+   "en": "phase diagram",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "箭头［流程］图",
+   "en": "arrow diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "框图",
+   "en": "block diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "仪表配置图",
+   "en": "instrumentation diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克伦舍尔图",
+   "en": "Kremser diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "示意图",
+   "en": "schematic diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "莫利尔图",
+   "en": "Mollier diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应图",
+   "en": "reaction diagram",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "弧线图",
+   "en": "arc diagram",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据流图",
+   "en": "data flow diagram (DFD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果图模型",
+   "en": "cause and effect diagram model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流程图",
+   "en": "flow diagram",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "生产或制造某特定食品所用的包括整个食品加工操作所有环节的步骤或操作顺序的系统表述。"
+  },
+  {
+   "cn": "三温曲线图",
+   "en": "three temperature curve diagram",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.27",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "反映粮食储藏期间气温、仓温和粮食变化关系的曲线图"
+  },
+  {
+   "cn": "风向频率图",
+   "en": "wind direction frequency diagram",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "将一定时期内各个风向出现的频率按比例在罗盘坐标上绘制形成的图。"
+  },
+  {
+   "cn": "曼札",
+   "en": "ManDala",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.047",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。系梵文译音，为藏传佛教所用供器，供盘自下而上依次分四层，底部盘大，上部盘小，顶部放法幢型装饰，有象征须弥山的三十七供曼扎，另有七供曼扎等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

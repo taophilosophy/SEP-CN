@@ -1,0 +1,412 @@
+{
+ "key": "godel kuroda",
+ "term": "Gödel Kuroda",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:15:39+00:00",
+ "status": "ok",
+ "note": "variant=Gödel Kuroda; 审定公布名词库=25; 海峡两岸名词对照库=17; 其他来源数据库=3; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "哥德尔配数",
+   "en": "GÖdel numbering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0129",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种编码方法。可以把符号及其推演系统对应到自然数集合的方法，并有可能解码，即由一个数利用算法恢复出它所对应的符号表达式。"
+  },
+  {
+   "cn": "哥德尔宇宙",
+   "en": "Godel universe",
+   "source": "天文学名词",
+   "wordNumber": "07.460",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "哥德尔得到的广义相对论场方程的一个特殊解，描述了一个整体旋转的宇宙，其中因存在闭合类时曲线而容许时间旅行发生。"
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0026",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "磁层或太阳风带电粒子注入高层大气使大气原子或分子激发发光的现象。 "
+  },
+  {
+   "cn": "阿芙乐尔号",
+   "en": "Aurora",
+   "source": "世界历史名词",
+   "wordNumber": "05.0321",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄罗斯波罗的海舰队巡洋舰。1917年11月7日晚，“阿芙乐尔”号发射空包弹，作为冲击冬宫的信号。"
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "大气科学名词",
+   "wordNumber": "03.429",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "由于太阳粒子流轰击高层大气气体使其激发或电离的彩色发光现象，常在高纬地区高空出现。"
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "极光粒子",
+   "en": "aurora particle",
+   "source": "核科学技术名词",
+   "wordNumber": "4.028",
+   "subjectFullName": "核科学技术_辐射物理_辐射环境",
+   "subjectName": "辐射环境",
+   "publishYear": "2024",
+   "definition": "在地球高磁纬地区沿磁力线沉降到极光带的辐射带粒子和太阳风粒子‍等。"
+  },
+  {
+   "cn": "北极光",
+   "en": "aurora borealis",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0027",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "北半球发生的极光现象。 "
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0028",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "南半球发生的极光现象。 "
+  },
+  {
+   "cn": "黑极光",
+   "en": "black aurora",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0029",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "高层大气电子沿磁力线加速上行所对应的极光弧之间的黑色斑状结构。 "
+  },
+  {
+   "cn": "弥散极光",
+   "en": "diffuse aurora",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0030",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "由磁层带电粒子沿磁力线散射到电离层而产生的无明显结构和边界的极光。 "
+  },
+  {
+   "cn": "分立极光",
+   "en": "discrete aurora",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0031",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "由磁层带电粒子沿磁力线加速沉降到电离层而产生的具有明显结构和边界的线状和幕状极光。 "
+  },
+  {
+   "cn": "极光激酶A",
+   "en": "Aurora A",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.149",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "极光激酶家族成员之一，为蛋白质丝氨酸/苏氨酸激酶。是一个重要的有丝分裂调节因子。分别先后定位于中心体和纺锤体极，参与G₂/M转换的调节，在早有丝分裂事件中作用于中心体的成熟与分离及纺锤体的组装等。"
+  },
+  {
+   "cn": "极光激酶B",
+   "en": "Aurora B",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.150",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "极光激酶家族成员之一，为蛋白质丝氨酸/苏氨酸激酶。是一个重要的有丝分裂调节因子。分别先后定位于着丝粒和纺锤体中间带，是染色体乘客复合物组分之一，参与多种有丝分裂事件的调节，如参与染色体的凝集、纺锤体的"
+  },
+  {
+   "cn": "极光激酶",
+   "en": "Aurora kinase",
+   "source": "细胞生物学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "细胞生物学_细胞周期与细胞分裂",
+   "subjectName": "细胞周期与细胞分裂",
+   "publishYear": "2009",
+   "definition": "有丝分裂过程中蛋白质丝氨酸/苏氨酸激酶家族的一个亚家族，包括极光激酶A、极光激酶B和极光激酶C三种。由三个域组成：N端域为31~129个氨基酸残基、C端域为15~20个残基，中间为蛋白质激酶域。N端域"
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "大气科学名词",
+   "wordNumber": "03.400",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "在南极地区高层大气中出现的极光。"
+  },
+  {
+   "cn": "北极光",
+   "en": "aurora borealis",
+   "source": "大气科学名词",
+   "wordNumber": "03.401",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "在北极地区高层大气中出现的极光。"
+  },
+  {
+   "cn": "人造极光",
+   "en": "artificial aurora",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.470",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "黑矿型矿床",
+   "en": "kuroko deposit",
+   "source": "地质学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "地质学_矿床地质学",
+   "subjectName": "矿床地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "黑田恒等式",
+   "en": "Kuroda's identities",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "极光",
+   "en": "aurora",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "北极光",
+   "en": "aurora borealis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒定极光",
+   "en": "permanent aurora",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活跃极光",
+   "en": "active aurora",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日耀极光",
+   "en": "sunlit aurora",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北极光",
+   "en": "aurora borealis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "极光激酶A",
+   "en": "Aurora A",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "极光激酶B",
+   "en": "Aurora B",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "南极光",
+   "en": "aurora australis",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "南极光",
+   "en": "Antarctic aurora\",\"Antarctic light",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "北极光",
+   "en": "northern light\",\"aurora borealis",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "北极光",
+   "en": "Aurora borealis\",\"northern polar light",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "曙光女神式",
+   "en": "aurora",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电子克朗（瑞典）",
+   "en": "e-Krona (Sweden)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "库尔德人",
+   "en": "Kurds",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0165",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "西亚民族之一。在土耳其（1525.21 万，2016 年）、伊拉克（572.19—762.92 万，2016 年）、叙利亚（54.99 万，2016 年）、黎巴嫩（6.23 万，2016 年）、伊朗、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

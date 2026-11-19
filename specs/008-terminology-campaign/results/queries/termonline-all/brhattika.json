@@ -1,0 +1,72 @@
+{
+ "key": "brhattika",
+ "term": "Bṛhatṭīkā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:24:36+00:00",
+ "status": "ok",
+ "note": "variant=Bṛhatṭīkā; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "HAT培养基",
+   "en": "HAT medium",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0965",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "含次黄嘌呤（H）、氨基蝶呤（A）和胸腺嘧啶核苷（T）的细胞培养液。在此培养液中，核苷酸从头合成途径因氨基蝶呤（二氢叶酸类似物）的存在而受阻，只有核苷酸合成旁路的酶功能正常的细胞可以生存；而缺陷型细胞，"
+  },
+  {
+   "cn": "HAT培养基",
+   "en": "HAT medium",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.024",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "含次黄嘌呤（H）、氨基蝶呤（A）和胸腺嘧啶核苷（T）的培养基。在此培养基中，次黄嘌呤-鸟嘌呤磷酸核糖基转移酶（HGPRT）或胸腺嘧啶核苷激酶（TK）缺陷型细胞不能生长。"
+  },
+  {
+   "cn": "HAT培养基",
+   "en": "HAT medium",
+   "source": "植物学名词",
+   "wordNumber": "16.0072",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "含次黄嘌呤(H)、氨基蝶呤(A)和胸腺嘧啶核苷(T)的培养基。在此培养基中，次黄嘌呤–鸟嘌呤磷酸核糖基转移酶(HGPRT)或胸腺嘧啶核苷激酶(TK)缺陷型细胞不能生长。"
+  },
+  {
+   "cn": "HAT培养液",
+   "en": "HAT medium",
+   "source": "细胞生物学名词",
+   "wordNumber": "10.99",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "内含次黄嘌呤（H）、氨基蝶呤（A）和胸腺嘧啶核苷（T）的培养液。在此培养液中，次黄嘌呤-鸟嘌呤核苷磷酸核糖基转移酶（HGPRT）或胸腺嘧啶核苷激酶（TK）缺陷型细胞不能生长。"
+  },
+  {
+   "cn": "HAT培养基",
+   "en": "HAT medium",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "HAT培养液",
+   "en": "HAT medium",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

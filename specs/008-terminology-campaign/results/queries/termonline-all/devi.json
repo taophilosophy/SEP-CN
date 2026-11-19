@@ -1,0 +1,72 @@
+{
+ "key": "devi",
+ "term": "devī",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:25:57+00:00",
+ "status": "ok",
+ "note": "variant=devī; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "由近及远发展",
+   "en": "proximal-distal deve- lopment",
+   "source": "心理学名词",
+   "wordNumber": "06.043",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "神经系统对身体的控制从躯干(或近端)到周围部位(或远端)的发展顺序。"
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "植物学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究生物表型遗传变化、发育机制的学科。目的在于揭示发育过程和机制在进化中是如何被修饰，以及曾有或现有的多样性是如何从这些变化中产生的。"
+  },
+  {
+   "cn": "演化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "古生物学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "研究发育和演化相互关系的学科。胚胎发育是一个从祖先基因到新近基因的依次表达过程，个体发育不可能完全重演系统发育的进程，却能显示其中的某些特征。"
+  },
+  {
+   "cn": "偏差，偏移",
+   "en": "deviation\",\"DEV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology\",\"evo-devo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发生生物学",
+   "en": "evolutionary developmental biology\",\"Evo-Devo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

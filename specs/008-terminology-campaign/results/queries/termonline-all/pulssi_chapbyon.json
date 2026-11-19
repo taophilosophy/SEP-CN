@@ -1,0 +1,532 @@
+{
+ "key": "pulssi chapbyon",
+ "term": "Pulssi chapbyŏn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:23:20+00:00",
+ "status": "ok",
+ "note": "variant=Pulssi chapbyŏn; 审定公布名词库=717; 海峡两岸名词对照库=180; 其他来源数据库=4; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "脉冲星",
+   "en": "pulsar",
+   "source": "天文学名词",
+   "wordNumber": "08.357",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "有107～109T强磁场的快速自转中子星。因中子星快速自转致使从其磁极发出的辐射以毫秒至百秒级的短周期扫过地球，呈现为同样周期的脉冲。"
+  },
+  {
+   "cn": "脉冲星",
+   "en": "pulsar",
+   "source": "测绘学名词",
+   "wordNumber": "02.706",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "一种不断发射出非常有规律的无线电脉冲的天体。"
+  },
+  {
+   "cn": "脉冲星",
+   "en": "pulsar",
+   "source": "物理学名词",
+   "wordNumber": "11.0145",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "脉搏",
+   "en": "pulse",
+   "source": "麻醉学名词",
+   "wordNumber": "03.345",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_血流动力学监测",
+   "subjectName": "血流动力学监测",
+   "publishYear": "2024",
+   "definition": "动脉的搏动。正常成人脉率为60～100次/分。"
+  },
+  {
+   "cn": "脉搏",
+   "en": "pulse",
+   "source": "兽医学名词",
+   "wordNumber": "13.036",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "伴随每次心室收缩，向主动脉搏送一定数量血液的同时，引起的动脉搏动。以触诊的方法可感知浅在动脉的搏动。"
+  },
+  {
+   "cn": "脉搏",
+   "en": "pulse",
+   "source": "生理学名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "电力名词",
+   "wordNumber": "01.170",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "一个时变量在短持续时间内突变后迅速回到其初始状态的过程。"
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "核医学名词",
+   "wordNumber": "03.0195",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "一个物理量在发生瞬间突变增大并持续极短时间后又迅速突变回到其初始状态的过程。在探测计数类设备中，每一入射粒子均转换为一个电脉冲输出。"
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0096",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "突变并持续较短时间后迅速回归初态的一种信号。"
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "计量学名词",
+   "wordNumber": "11.177",
+   "subjectFullName": "计量学_无线电_脉冲",
+   "subjectName": "脉冲",
+   "publishYear": "2015",
+   "definition": "自第一额定状态出发，达到第二额定状态，最终又回到第一额定状态的一种波形。典型的脉冲波形有尖脉冲、矩形脉冲、阶跃脉冲等。"
+  },
+  {
+   "cn": "脉搏",
+   "en": "pulse",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.041",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "动脉的搏动。正常成人脉率为60～100次/min。"
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "电气工程名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "电子学名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "脉宽",
+   "en": "pulse width,pulse duration",
+   "source": "生物物理学名词",
+   "wordNumber": "09.058",
+   "subjectFullName": "生物物理学_辐射生物物理学_辐射量及测量",
+   "subjectName": "辐射量及测量",
+   "publishYear": "2018",
+   "definition": "脉冲持续的时间。一般是指脉冲峰值的50%幅度所对应的时间宽度。"
+  },
+  {
+   "cn": "脉冲宽度",
+   "en": "pulse duration,pulse width",
+   "source": "电气工程名词",
+   "wordNumber": "01.091",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲激光",
+   "en": "pulsed laser",
+   "source": "整形外科名词",
+   "wordNumber": "7.055",
+   "subjectFullName": "整形外科_整形外科光声电治疗_光声电设备",
+   "subjectName": "光声电设备",
+   "publishYear": "2026",
+   "definition": "以脉冲形式释放能量的激光。治疗剂量的激光能量在一定时间内（即激光的脉宽）释放出来，称为一个脉冲。"
+  },
+  {
+   "cn": "脉冲星行星",
+   "en": "pulsar planet",
+   "source": "天文学名词",
+   "wordNumber": "10.288",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "围绕脉冲星公转的太阳系外行星。"
+  },
+  {
+   "cn": "脉冲星计时法",
+   "en": "pulsar timing",
+   "source": "天文学名词",
+   "wordNumber": "10.310",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "探测太阳系外行星的一种方法。根据脉冲信号的时间变化，可以追踪脉冲星的轨道运动变化，从而可以推算出可能存在于其旁的行星。第一颗太阳系外行星就是用此种方法检测到的。"
+  },
+  {
+   "cn": "[射电]脉冲双星",
+   "en": "binary pulsar",
+   "source": "天文学名词",
+   "wordNumber": "08.169",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "子星之一是射电脉冲星的物理双星。"
+  },
+  {
+   "cn": "蟹云脉冲星",
+   "en": "Crab pulsar",
+   "source": "天文学名词",
+   "wordNumber": "08.214",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "蟹状星云中心的一颗脉冲星，直径约为28～30km，自转周期为33ms。"
+  },
+  {
+   "cn": "脉冲星",
+   "en": "pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲星",
+   "en": "pulsar",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲",
+   "en": "pulse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲释放",
+   "en": "pulsed release",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光学脉冲星",
+   "en": "optical pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哈佛天文台脉冲星",
+   "en": "Harvard pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "毫秒脉冲星",
+   "en": "millisecond pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "射电脉冲星",
+   "en": "radio pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微秒脉冲星",
+   "en": "microsecond pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再生脉冲星",
+   "en": "recycled pulsar",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "滑移脉冲产生器",
+   "en": "sliding pulser",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲磁控管",
+   "en": "pulsed magnetron",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机脉冲产生器",
+   "en": "random pulser",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲宽度",
+   "en": "duration of pulse\",\"pulse width",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "莫隆格勒脉冲星",
+   "en": "Molonglo pulsar\",\"MP",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲长度",
+   "en": "pulse length",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲雷达",
+   "en": "pulse radar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球脉动",
+   "en": "Global Pulse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲放电",
+   "en": "pulse discharge",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "短时发生电荷大量转移的过程。"
+  },
+  {
+   "cn": "脉冲紫外线消毒器",
+   "en": "pulsed ultraviolet disinfector",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用不含汞的高压脉冲氙灯发光技术和人工智能机器人在无人的条件下自动进行室内空气和物表消毒的紫外线消毒器。其原理是通过高压氙灯发射波长为200nm～1100nm的脉冲强光，在短时间内激发产生波长为200"
+  },
+  {
+   "cn": "脉冲电离室",
+   "en": "pulse ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.29",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "对每次探测到的电离事件都产生一个输出脉冲的电离室。"
+  },
+  {
+   "cn": "脉冲电离探测器",
+   "en": "pulse ionization detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.58",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "能探测单个电离事件的电离探测器。"
+  },
+  {
+   "cn": "脉冲高电压",
+   "en": "pulse high voltage",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.12",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "电压从零很快上升至很高电压（几千伏到几兆伏）并维持较短时间（几纳秒至几毫秒）后又降至零的脉动电压。"
+  },
+  {
+   "cn": "电磁脉冲武器",
+   "en": "electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "一种利用高能射频辐射为杀伤因素，以干扰和破坏敌方电子系统为主要目标的武器。其电磁波能量分散在一个很宽的频段内，任何一种频率对应的能量都极小，对有长电缆的设备干扰和破坏极大。"
+  },
+  {
+   "cn": "核电磁脉冲",
+   "en": "nuclear electromagnetic pulse",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.58",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间，产生于爆心周围的一个强大的电磁场。核武器的重要破坏因素之一，由核爆炸瞬间放出的、约占爆炸总能量0.1%的r 射线对爆心周围空气的电离而产生，其作用半径与爆炸方式、当量大小有关。"
+  },
+  {
+   "cn": "脉冲紫外线消毒灯",
+   "en": "pulsed ultraviolet disinfection lamp",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.2.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "基于瞬间放电的脉冲工程技术，以脉冲形式激发产生波长范围为200nm～280nm紫外线的紫外线消毒灯。"
+  },
+  {
+   "cn": "电磁脉冲武器损伤",
+   "en": "injuries of electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "通过电磁脉冲的能量对目标造成的中枢神经、内分泌、心脏传导、造血、免疫、生殖等系统的损伤。早期为实质细胞变性坏死、血液循环障碍、衰竭及恶病质；晚后期为造血和免疫重建不良、肿瘤生长等。"
+  },
+  {
+   "cn": "离子收集脉冲电离室",
+   "en": "ion collection pulse ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "由全部收集离子和电子而获得输出信号的脉冲电离室。"
+  },
+  {
+   "cn": "脉冲半高宽",
+   "en": "pulse width at half height",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.15",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "纵向时间分布曲线峰值一半处两点间的全宽度，描述加速器脉冲束团粒子密度分布状态的物理量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

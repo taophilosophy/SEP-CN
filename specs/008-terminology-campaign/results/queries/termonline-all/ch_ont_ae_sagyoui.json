@@ -1,0 +1,72 @@
+{
+ "key": "ch'ont'ae sagyoui",
+ "term": "Ch’ŏnt’ae sagyoŭi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:20:22+00:00",
+ "status": "ok",
+ "note": "variant=Ch’ŏnt’ae sagyoŭi; 审定公布名词库=4; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Ae星",
+   "en": "Ae star",
+   "source": "天文学名词",
+   "wordNumber": "08.153",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中具有发射谱线的A型恒星。"
+  },
+  {
+   "cn": "AE指数",
+   "en": "auroral electrojet index; AE index",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0207",
+   "subjectFullName": "地球物理学_空间物理学_电离层",
+   "subjectName": "电离层",
+   "publishYear": "2022",
+   "definition": "描述极光带地磁扰动强度的地磁数字指标。 "
+  },
+  {
+   "cn": "AE指数",
+   "en": "auroral electrojet index,AE index",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_空间物理学",
+   "subjectName": "空间物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "NI-AE模型",
+   "en": "NI-AE model",
+   "source": "经济学名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "宏观经济学中描述国民收入和总需求相等关系的基础模型。其中 NI表示国民收入，AE表示总需求。这个模型论述的是国民收入和总需求的关系。在净税收NT和政府购买支出GP以及净出口NX都等于零的两部门（消费品"
+  },
+  {
+   "cn": "CH星",
+   "en": "CH star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赫比格Ae/Be型星",
+   "en": "Herbig Ae/Be star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

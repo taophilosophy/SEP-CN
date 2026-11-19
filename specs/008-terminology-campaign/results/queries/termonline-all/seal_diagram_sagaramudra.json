@@ -1,0 +1,662 @@
+{
+ "key": "seal diagram sagaramudra",
+ "term": "Seal Diagram Sāgaramudrā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:23:24+00:00",
+ "status": "ok",
+ "note": "variant=Seal Diagram Sāgaramudrā; 审定公布名词库=2003; 海峡两岸名词对照库=839; 其他来源数据库=83; 预公布名词数据库=44; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "密封",
+   "en": "seal",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.014",
+   "subjectFullName": "化工（八）_化工设备_容器",
+   "subjectName": "容器",
+   "publishYear": "2021",
+   "definition": "防止流体或固体微粒从相邻结合面间泄漏，以及防止外界杂质如灰尘与水分等侵入机器设备内部的零部件或措施。可分为静密封和动密封两大类。"
+  },
+  {
+   "cn": "密封件",
+   "en": "seal",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1240",
+   "subjectFullName": "机械工程（一）_传动_液压传动_检测及辅助元件",
+   "subjectName": "检测及辅助元件",
+   "publishYear": "2021",
+   "definition": "用于防止流体或固体微粒从相邻结合面泄漏或防止外界污染物侵入机器内部的元件。"
+  },
+  {
+   "cn": "密封",
+   "en": "seal",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0081",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固–液界面",
+   "subjectName": "固–液界面",
+   "publishYear": "2021",
+   "definition": "防止流体或固体微粒从相邻结合面间泄漏以及防止外界杂质如灰尘与水分等侵入机器设备内部零部件的措施。分为静密封和动密封两大类。"
+  },
+  {
+   "cn": "密封件",
+   "en": "seal",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.072",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "用于车身各部密封的零部件。"
+  },
+  {
+   "cn": "密封件",
+   "en": "seal",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.385",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "密封装置",
+   "en": "seal",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.096",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "防止容腔内的气体或液体向外泄漏的组件。"
+  },
+  {
+   "cn": "密封",
+   "en": "sealing",
+   "source": "农学名词",
+   "wordNumber": "17.181",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "食品容器经封闭后能阻止微生物进入的状态。"
+  },
+  {
+   "cn": "用印",
+   "en": "sealing",
+   "source": "档案学名词",
+   "wordNumber": "02.03.020",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "发文处理的环节之一。发文机关在文件上加盖机关公章的活动及其结果。其作用是发文机关郑重确认文件的法律效力功用，并对文件承担法律责任。"
+  },
+  {
+   "cn": "封缄",
+   "en": "sealed ",
+   "source": "草学名词",
+   "wordNumber": "4.006",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "密封",
+   "en": "sealing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0408",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_罐藏",
+   "subjectName": "罐藏",
+   "publishYear": "2020",
+   "definition": "罐身的翻边和罐盖的圆边在封口机中进行卷封，使罐身和罐盖相互卷合，压紧而形成紧密重叠的卷边的过程。"
+  },
+  {
+   "cn": "封孔",
+   "en": "sealing",
+   "source": "冶金学名词",
+   "wordNumber": "09.1118",
+   "subjectFullName": "冶金学_金属加工_热处理、表面处理",
+   "subjectName": "热处理、表面处理",
+   "publishYear": "2019",
+   "definition": "使阳极氧化或电解着色膜的多孔质层封闭的过程。"
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "药学名词",
+   "wordNumber": "02.407",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "将玻璃瓶口密封的操作。"
+  },
+  {
+   "cn": "气封",
+   "en": "sealing",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0708",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_结构和辅机",
+   "subjectName": "结构和辅机",
+   "publishYear": "2013",
+   "definition": "减少转子与静子间漏气的密封装置。"
+  },
+  {
+   "cn": "封孔",
+   "en": "sealing",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1505",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_表面改性和涂层技术",
+   "subjectName": "表面改性和涂层技术",
+   "publishYear": "2011",
+   "definition": "使阳极氧化膜或经过着色的氧化膜膜孔闭合的处理过程。"
+  },
+  {
+   "cn": "封罐",
+   "en": "sealing",
+   "source": "水产名词",
+   "wordNumber": "08.290",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "使罐身和罐盖（软罐头的袋口）封合的工序。"
+  },
+  {
+   "cn": "加封",
+   "en": "sealing",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0711",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "电子学名词",
+   "wordNumber": "15.277",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "简图",
+   "en": "diagram",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0163",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由规定的符号、文字和图线组成示意性的图。"
+  },
+  {
+   "cn": "简图",
+   "en": "diagram",
+   "source": "电气工程名词",
+   "wordNumber": "01.936",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "β图解",
+   "en": "β diagram",
+   "source": "地质学名词",
+   "wordNumber": "09.03.041",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "褶皱变形面任意两点的切面在极射赤平投影图上投影为两个相交的大圆弧，交点称为β点。对于圆筒状褶皱，该点与褶皱枢纽(轴)平行。将褶皱变形面不同点的切面投影后，获得一组交点，代表褶皱枢纽的统计方向，该点称为"
+  },
+  {
+   "cn": "密封",
+   "en": "seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热合",
+   "en": "sealing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封孔",
+   "en": "sealing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭",
+   "en": "sealing",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "封口",
+   "en": "sealing",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "封底焊",
+   "en": "sealing welding\",\"seal weld",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "花图式",
+   "en": "flower diagram\",\"floral diagram",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "框图",
+   "en": "block diagram\",\"diagram block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "液封",
+   "en": "liquid seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "虹吸式密封",
+   "en": "syphon seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "化学密封",
+   "en": "chemical seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封罐",
+   "en": "seal pot",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无菌密封",
+   "en": "aseptic seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封胶合剂",
+   "en": "seal cement",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "海豹油",
+   "en": "seal oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械密封",
+   "en": "mechanical seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空封接",
+   "en": "vacuum seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水封",
+   "en": "water seal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "弧线图",
+   "en": "arc diagram",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小篆",
+   "en": "<div> Lesser Seal Script / Small Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大篆",
+   "en": "<div> Greater Seal Script / Big Seal Script</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据流图",
+   "en": "data flow diagram (DFD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果图模型",
+   "en": "cause and effect diagram model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "篆刻",
+   "en": "seal carving",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0382",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国具有艺术价值的印章镌刻；一种以书法（主要是篆书）和镌刻（包括凿、铸）相结合，从而制作印章的艺术。它由中国古代的印章制作技艺发展而来，以石材为主要材料，以刻刀为工具，以汉字为表象。"
+  },
+  {
+   "cn": "密封源",
+   "en": "sealed source",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.4",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "永久密封在包壳里的或紧密地固结在覆盖层里并呈固体形态的放射性物质。"
+  },
+  {
+   "cn": "流程图",
+   "en": "flow diagram",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "生产或制造某特定食品所用的包括整个食品加工操作所有环节的步骤或操作顺序的系统表述。"
+  },
+  {
+   "cn": "热封强度试验",
+   "en": "seal strength test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.20",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "评价罐头食品的热封口强度的试验。"
+  },
+  {
+   "cn": "封刀",
+   "en": "seal the knife",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0066",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旧时行业习俗，流行于全国一些地区。厨师一年到头为人操刀掌勺，非常辛苦。春节期间，用红布包上菜刀，休息几天，故称。"
+  },
+  {
+   "cn": "封剪",
+   "en": "seal the scissors",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0067",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "旧时行业习俗。流行于全国一些地区。裁缝师傅一年到头为人操剪裁衣，备极辛劳。春节期间为了好好休息几天，便用红布包住剪刀，表示暂停营业。"
+  },
+  {
+   "cn": "密封容器",
+   "en": "hermetically sealed container",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.9",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "用以防止微生物入侵，从而确保杀菌后食品商业无菌的容器。"
+  },
+  {
+   "cn": "军用密闭舱室",
+   "en": "military sealed cabin",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.3.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军用化学物质毒理安全评价",
+   "subjectName": "军用化学物质毒理安全评价",
+   "publishYear": "2025",
+   "definition": "相对独立于自然环境，以狭小密闭、空气难以流通及存在多种有害因素联合暴露为主要特点的人工军事作业空间。涵盖坦克、装甲车、核潜艇、战斗机、坑道等我军作战与勤务部门主要支撑装备的作业区域。"
+  },
+  {
+   "cn": "核材料封记",
+   "en": "seal of nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "附在容器、物体或物体组上的防干扰的一种标志器，它的完整性表明了容器及其内容物、包括任何特性标志的物体组的完整性。"
+  },
+  {
+   "cn": "窝沟封闭",
+   "en": "pit and fissure sealing",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以流动性材料封闭牙齿表面窝沟，阻止细菌侵入从而预防龋齿的技术。"
+  },
+  {
+   "cn": "封控",
+   "en": "close sealing and control",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.4",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "对生物战剂污染划定区域内人员限制进出的措施。"
+  },
+  {
+   "cn": "三温曲线图",
+   "en": "three temperature curve diagram",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.27",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "反映粮食储藏期间气温、仓温和粮食变化关系的曲线图"
+  },
+  {
+   "cn": "风向频率图",
+   "en": "wind direction frequency diagram",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "将一定时期内各个风向出现的频率按比例在罗盘坐标上绘制形成的图。"
+  },
+  {
+   "cn": "密封放射源容器",
+   "en": "container of sealed radiation sources",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "专用于存放密封放射源且能屏蔽（或减弱）密封源辐射，使容器外部的泄漏辐射水平满足相应标准的容器。"
+  },
+  {
+   "cn": "后倾座椅",
+   "en": "reclining seat",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.5.4",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "为对抗重力加速度对飞行员的高负荷过载，当正加速度开始时，可自动向后仰，以缩短心-眼垂直距离，提高飞行员抗荷耐力的座椅。"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.17",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "被实际适用的规则。美国现实主义法学的代表人物卡尔·卢埃林提出的概念，与纸面规则相对应。"
+  },
+  {
+   "cn": "现实的个人",
+   "en": "real individual",
+   "source": "马克思主义",
+   "wordNumber": "01.0135",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象的个人”相对。指处于现实历史条件和社会关系中的人类个体。马克思以之作为历史的现实前提。认为以一定的方式进行生产活动的一定的个人之间必然会发生一定的社会关系。这种个人不是他们自己或别人想像中的抽"
+  },
+  {
+   "cn": "实际工资",
+   "en": "real wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0146",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“名义工资”相对应。指工人用货币工资所能买到的生活资料和服务的数量。实际工资和名义工资存在着密切的联系。其它条件不变时，工人所得的名义工资越高，所能购买的生活资料和服务数量就越多，因而实际工资也就越"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "椅面",
+   "en": "chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课椅的表面，包括椅深和椅宽，分别指课椅表面前后方向的有效尺寸和课椅表面前缘左右方向的尺寸。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

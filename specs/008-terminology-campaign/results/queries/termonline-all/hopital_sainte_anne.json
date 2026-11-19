@@ -1,0 +1,762 @@
+{
+ "key": "hopital sainte-anne",
+ "term": "Hôpital Sainte-Anne",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:25:20+00:00",
+ "status": "ok",
+ "note": "variant=Hôpital Sainte-Anne; 审定公布名词库=1461; 海峡两岸名词对照库=657; 其他来源数据库=65; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "安娜堡分期",
+   "en": "Ann Arbor stage",
+   "source": "血液学名词",
+   "wordNumber": "8.117",
+   "subjectFullName": "血液学_淋系肿瘤_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "目前公认的淋巴瘤临床分期系统。由1971年安娜堡会议提出。根据淋巴结和结外器官受累范围分为Ⅰ～Ⅳ期，又根据有无系统性症状（发热、盗汗、消瘦）分为A、B两组。"
+  },
+  {
+   "cn": "圣海伦斯火山",
+   "en": "Saint Helens volcano",
+   "source": "地质学名词",
+   "wordNumber": "12.05.024",
+   "subjectFullName": "地质学_火山地质学_典型火山",
+   "subjectName": "典型火山",
+   "publishYear": "2026",
+   "definition": "位于美国华盛顿的喀斯喀特山脉火山群，圣海伦斯火山是其中的一座火山。该区在地质历史时期火山活动频繁，以裂隙式喷发为主，基性玄武岩覆盖面积达50×10⁴km²。圣海伦斯火山自1857年喷发后休眠了123a"
+  },
+  {
+   "cn": "圣维南方程",
+   "en": "Saint-Venant equations",
+   "source": "地理学名词",
+   "wordNumber": "05.087",
+   "subjectFullName": "地理学_水文学",
+   "subjectName": "水文学",
+   "publishYear": "2006",
+   "definition": "由法国科学家圣维南提出的描述水道和其他具有自由表面的浅水体中，渐变不恒定水流运动规律的偏微分方程组。由反映质量守恒定律的连续方程和反映动量守恒律的运动方程组成。"
+  },
+  {
+   "cn": "圣维南原理",
+   "en": "Saint-Venant principle",
+   "source": "土木工程名词",
+   "wordNumber": "02.187",
+   "subjectFullName": "土木工程_工程力学_弹塑性力学",
+   "subjectName": "弹塑性力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圣劳伦斯航道导缆器",
+   "en": "Saint Lawrence fairlead",
+   "source": "船舶工程名词",
+   "wordNumber": "05.264",
+   "subjectFullName": "船舶工程_船舶舾装",
+   "subjectName": "船舶舾装",
+   "publishYear": "1998",
+   "definition": "满足“船舶通过圣劳伦斯航道共同规则”的闭式导缆器。"
+  },
+  {
+   "cn": "圣维南原理",
+   "en": "Saint-Venant principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[人工]神经网络",
+   "en": "[artificial]neural network,ANN",
+   "source": "化学工程名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "安纳·罗贝尔·雅克·杜尔哥",
+   "en": "Anne Robert Jacques Turgot（1727—1781）",
+   "source": "经济学名词",
+   "wordNumber": "16.008",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "18世纪后半叶法国古典经济学家，重农学派主要代表人物。出生于巴黎一个贵族家庭。曾获神学学位，1749年起成为巴黎大学神学院附属修道院修士。1751年初放弃神职转而从政，先后担任过里摩日总督，法国海军大"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network,ANN",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.134",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "用大量的简单计算单元构成的非线性系统，在一定程度上可以模仿人脑神经系统的信息处理、存储及检索功能，具有学习、记忆和计算等智能处理功能。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network,ANN",
+   "source": "冶金学名词",
+   "wordNumber": "04.0792",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "不需要预先规定函数的形式，以科学技术应用中大量需要处理的问题作为神经元，广泛相互连接构成人工神经网络，连接关系引起神经元的不同兴奋状态且能大规模并行处理，最终输出优化的信息参数的网络。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network; ANN",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2642",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "由大量简单的处理单元广泛连接组成的模拟人类大脑神经系统结构和功能的网络。 "
+  },
+  {
+   "cn": "模拟退火静校正",
+   "en": "simulated ann-ealing static",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0261",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "利用模拟退火算法进行的静校正。 "
+  },
+  {
+   "cn": "安妮女王之战",
+   "en": "Queen Anne's War",
+   "source": "世界历史名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1701-1713年西班牙王位继承战争中，英法在北美进行的战事。"
+  },
+  {
+   "cn": "圣帕特里克营",
+   "en": "Saint Patrick's Battalion",
+   "source": "世界历史名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "美墨战争中，美方一个主要由爱尔兰人组成、因宗教信仰受辱叛逃到墨方的团队。"
+  },
+  {
+   "cn": "圣维南原理",
+   "en": "Saint-Venant's principle",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.093",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "说明弹性体小部分面积或体积内荷载作静力等效的变换时，只在局部产生不同效应而对远处没有影响的原理。"
+  },
+  {
+   "cn": "彼得堡专约",
+   "en": "Convention of Saint Petersburg",
+   "source": "世界历史名词",
+   "wordNumber": "05.0076",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1801年6月17日，俄国和英国为解决两国争端签订的协议。两国恢复了外交关系，英国舰队撤出波罗的海。"
+  },
+  {
+   "cn": "圣日耳曼条约",
+   "en": "Treaty of Saint German",
+   "source": "世界历史名词",
+   "wordNumber": "01.0410",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1919年9月巴黎和会上第一次世界大战的战胜国对德国的盟国奥地利签订的条约。"
+  },
+  {
+   "cn": "彼得堡协定",
+   "en": "Conventions of Saint Petersburg",
+   "source": "世界历史名词",
+   "wordNumber": "05.0055",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "分别指1772年、1793年、1795年俄国、奥地利、普鲁士三次关于瓜分波兰王国的协定。"
+  },
+  {
+   "cn": "彼得堡议定书(1907)",
+   "en": "Protocol of Saint Petersburg(1907)",
+   "source": "世界历史名词",
+   "wordNumber": "05.0270",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1907年10月29日，俄国和德国签订的协议，内容是维持波罗的海原状，该地区各领地和岛屿不受侵犯。"
+  },
+  {
+   "cn": "彼得堡和约(1762)",
+   "en": "Treaty of Saint Petersburg(1762)",
+   "source": "世界历史名词",
+   "wordNumber": "05.0045",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "彼得三世继位后，1762年4月24日俄罗斯与普鲁士签订的和约。俄国退出七年战争并将俄军占领的土地交还普鲁士。"
+  },
+  {
+   "cn": "博伊德",
+   "en": "Boyd\",\"Anne(澳大利亚)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "凯费莱克",
+   "en": "Queffélec\",\"Anne(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "圣维南方程",
+   "en": "Saint-Venant equations",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "［人工］神经网络",
+   "en": "artificial neural network\",\"ANN",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "圣-桑斯",
+   "en": "Saint-Saëns\",\"Camille(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "旅游岁月",
+   "en": "Années de pèlerinage",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "阿西西的圣方济各",
+   "en": "Saint François d’Assise",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Messiaen, Olivier"
+  },
+  {
+   "cn": "布里克街的圣者",
+   "en": "Saint of Bleecker Street\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Menotti, Gian Carlo"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural net\",\"artificial neural network，ANN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预计投资",
+   "en": "ex ante investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "安娜·博莱纳",
+   "en": "Anna Bolena",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "安娜·玛格达勒娜曲集",
+   "en": "Anna Magdalena Bach",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "抗痤疮药",
+   "en": "anti-acne drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "阿恩，迈克尔",
+   "en": "Arne\",\"Michael(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "莫福",
+   "en": "Moffo\",\"Anna(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "波拉克",
+   "en": "Pollak\",\"Anna(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诺德海姆",
+   "en": "Nordheim\",\"Arne(挪威)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "涅特列布科",
+   "en": "Netrebko\",\"Anna(俄国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艇首缆",
+   "en": "bow painter\",\"painter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "握手致意！",
+   "en": "Salute!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举剑致礼",
+   "en": "salute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第五姿势",
+   "en": "quinte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第五姿势防守",
+   "en": "quinte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举剑致礼",
+   "en": "salute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行礼",
+   "en": "salute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "都",
+   "en": "Capital/ Metropolis",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资本",
+   "en": "Data Capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字医院",
+   "en": "digital hospital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧医院",
+   "en": "smart hospital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享医院",
+   "en": "shared hospital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "临时医院",
+   "en": "improvised hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "应急医院",
+   "en": "improvised hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "致意",
+   "en": "bow\",\"salute",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圣人崇拜",
+   "en": "saints worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0293",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "对圣化了的人物的供奉与崇拜。所谓圣化，又可称为圣贤化，即对这些人物的崇拜依据既不是死后显现神灵，又不是长生不死显示仙迹，而是其人在世时，表现了大德、大智、大勇，其文治武功大利于民，为世人景仰、敬慕，并"
+  },
+  {
+   "cn": "社会学年刊学派",
+   "en": "L'école de L'année Sociologique",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0515",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（ÉmileDurkheim）于1897 年在巴黎创办《社会学年刊》后形成的学派。该学派的社会学理论继承了法国哲学家孔德的实证主义和古典进化论。他们认为，社会现象不同于心理现象和生物"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0088",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "能够带来剩余价值的价值。资本可以表现为生产要素，而本质是经济活动中人与人之间的关系。私人企业的资本是靠剥削雇佣劳动而带来私人剩余价值的价值。社会主义国有资本和集体资本等公有资本则可以带来公有剩余价值，"
+  },
+  {
+   "cn": "资本",
+   "en": "capital",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0624",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。资本是指对自己和他人未来施加控制的能力，是一种权力的形式，包含四种形态：经济资本——以财产权的形式被制度化，文化资本——以教育资格的形"
+  },
+  {
+   "cn": "抗神经元细胞核抗体",
+   "en": "anti-neuronal nuclear antibody, ANNA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.63",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种针对神经元细胞核内的抗原成分形成的自身抗体。见于副肿瘤综合征性亚急性感觉神经元病、感觉神经元病、副肿瘤综合征性脑脊髓炎及神经精神狼疮患者等。"
+  },
+  {
+   "cn": "社会资本",
+   "en": "social capital",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.9",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "嵌入在社会网络中的实际的或潜在的结构性资源，包括信息网络、互惠性规则、信任等，是行动者投资在社会关系中、并希望在市场上得到回报的资源，可以被行动者激活借以实现工具性或情感性的目的。"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0111",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“可变资本”相对。指在生产中用于生产资料上的那一部分资本。生产资料（即厂房、机器、设备、燃料、原材料和辅助材料等）在生产过程中不会增加价值，而只是把原有的价值转移到新的产品上，故称之为不变资本，用c"
+  },
+  {
+   "cn": "可变资本",
+   "en": "variable capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0112",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“不变资本”相对。指资本家在生产中用于劳动力的那一部分资本。这部分资本在商品的生产过程中发生了价值量的变化，会增殖自己本身的价值，因此称之为可变资本，用v来表示。"
+  },
+  {
+   "cn": "预付资本",
+   "en": "advanced capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0156",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业为获取工人创造的剩余价值，在开始经营时预先以货币或实物形式支付的价值。包括构成资本的全部生产资料和劳动力的价值。"
+  },
+  {
+   "cn": "资本积累",
+   "en": "capital accumulation",
+   "source": "马克思主义",
+   "wordNumber": "02.0159",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把剩余价值再转化为资本，叫做资本积累。它是资本的规模不断扩大的再生产。"
+  },
+  {
+   "cn": "货币资本",
+   "en": "money capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0183",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以货币形式存在的资本。资本在反复循环中不断变换形式来增殖自己的价值。资本价值作为这一过程增殖着的主体，首先需要一个独立的形式。只有在货币形式上它才具有这种独立形式。货币资本是每个价值增殖运动过程的起点"
+  },
+  {
+   "cn": "生产资本",
+   "en": "productive capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0186",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以生产资料和劳动力的形式存在的资本，是产业资本循环过程中的一种特殊的职能形式，是预付的货币资本转化的结果。具体而言，生产资本的职能是生产包含剩余价值的商品。"
+  },
+  {
+   "cn": "商品资本",
+   "en": "commodity capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0188",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以商品形式存在的资本，是资本的直接生产过程的结果，是产业资本在循环中由生产资本形式进一步转化的形式，它还将转化为货币资本形式。"
+  },
+  {
+   "cn": "资本周转",
+   "en": "capital turnover",
+   "source": "马克思主义",
+   "wordNumber": "02.0198",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "产业资本运动中的周期循环或再生产过程。马克思在《资本论》中指出：“资本的循环，不是当作孤立的行为，而是当作周期性的过程时，叫做资本的周转。”"
+  },
+  {
+   "cn": "固定资本",
+   "en": "fixed capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0201",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“流动资本”相对。生产资本中具有独特的流通方式和独特的周转方式的那部分不变资本，具体指由厂房，机器设备等劳动资料构成的那部分生产资本。"
+  },
+  {
+   "cn": "流动资本",
+   "en": "circulating capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0202",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“固定资本”相对。指在形成单个产品时，物质上被全部消费，从而价值全部加入产品并进入流通的那一部分生产资本，包括投在原料、辅助材料等生产资料上和投在劳动力上的那一部分资本。"
+  },
+  {
+   "cn": "资本贬值",
+   "en": "capital depriciation",
+   "source": "马克思主义",
+   "wordNumber": "02.0204",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "现有资本由于某些共同的经济情况（非任何私人资本的特殊遭遇）在价值上的减少。也就是说，预付在生产中的资本，在价值上的降低。"
+  },
+  {
+   "cn": "社会资本",
+   "en": "social capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0207",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全社会互相交错、互为前提、互为条件的所有单个资本的总和。"
+  },
+  {
+   "cn": "产业资本",
+   "en": "indusrial capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0212",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经营物质生产部门的资本，即投在工业、矿业、农业、交通运输业和建筑业等部门中的资本。产业资本的特征是直接生产剩余价值的资料，是资本的基本形式。"
+  },
+  {
+   "cn": "商业资本",
+   "en": "commercial capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0230",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "流通资本（商品资本和货币资本）职能独立化的形态，具有媒介商品流通的机能。分为两种形式，即商品经营资本和货币经营资本，其主要形式是商品经营资本。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

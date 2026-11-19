@@ -1,0 +1,772 @@
+{
+ "key": "paris bibliotheque nationale",
+ "term": "Paris Bibliothèque Nationale",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:07:29+00:00",
+ "status": "ok",
+ "note": "variant=Paris Bibliothèque Nationale; 审定公布名词库=584; 海峡两岸名词对照库=176; 其他来源数据库=126; 预公布名词数据库=159; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "动物学名词",
+   "wordNumber": "5.2061",
+   "subjectFullName": "动物学_无脊椎动物学_节肢动物门_甲壳动物亚门",
+   "subjectName": "甲壳动物亚门",
+   "publishYear": "2021",
+   "definition": "蔓足类甲壳动物壳板的中间部分。"
+  },
+  {
+   "cn": "巴黎绿",
+   "en": "Paris green",
+   "source": "风景园林名词",
+   "wordNumber": "08.1082",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "用砷和铜的化合物制成的颜料。具有翡翠绿颜色的结晶粉末。于空气中对光和热都稳定，对酸和碱不稳定，遇硫化氢变黑。可做杀虫剂、木材防腐剂和颜料。"
+  },
+  {
+   "cn": "巴黎分型",
+   "en": "Paris classification",
+   "source": "消化内镜学名词",
+   "wordNumber": "14.076",
+   "subjectFullName": "消化内镜学_食管疾病_食管肿瘤和肿瘤样病变",
+   "subjectName": "食管肿瘤和肿瘤样病变",
+   "publishYear": "2021",
+   "definition": "消化道早期癌形态学经典分型方法。早期食管癌内镜下主要分为隆起型（0-Ⅰ型）、平坦型（0-Ⅱ型）和凹陷型（0-Ⅲ型）。用于初步评估病变的浸润深度和内镜下的可切除性。"
+  },
+  {
+   "cn": "巴黎原则",
+   "en": "Paris Principles",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.354",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "1961年10月9日至18日国际图书馆协会联合会（IFLA）主持的在巴黎召开的会议上通过的“原则声明”的统称。规定了目录的职能与结构、款目的种类、各种款目的职能与使用、标目的选择等。"
+  },
+  {
+   "cn": "巴黎学派",
+   "en": "Paris school",
+   "source": "心理学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "强调催眠等心理现象的生理、病理原因的学派。以沙尔科(J. M. Charcot)、雅内(P. Janet)为代表。"
+  },
+  {
+   "cn": "巴黎协定",
+   "en": "Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0457",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1973年1月，美国同越南三方在巴黎签订的协议。"
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "世界历史名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1871年普法战争期间，巴黎工人阶级于3月18日革命后建立的政权。是世界上第一个工人阶级政权。"
+  },
+  {
+   "cn": "重楼",
+   "en": "paris root",
+   "source": "中医药学名词",
+   "wordNumber": "06.477",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "百合科植物云南重楼"
+  },
+  {
+   "cn": "帕里斯公式",
+   "en": "Paris formula",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_固体力学",
+   "subjectName": "固体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伦敦—巴黎协定",
+   "en": "London-Paris Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "01.0451",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1954年10月，美英等国为重新武装德国接纳其加入北约而签订的协定。"
+  },
+  {
+   "cn": "巴黎和约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0392",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "法国与反法联盟成员国于1814年、1815年两次签订的和平条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1783年9月3日，北美殖民地与英国在巴黎签署的结束美国独立战争的和平条约，英国承认美国的独立。"
+  },
+  {
+   "cn": "巴黎和会",
+   "en": "Paris Peace Conference",
+   "source": "世界历史名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "①第一次世界大战结束后胜负双方于1919年1月在巴黎举行的和平会议。②1946年7月反法西斯同盟国为同德国的盟国签署和约在巴黎召开的国际会议。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaties of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟",
+   "subjectName": "欧洲联盟",
+   "publishYear": "2012",
+   "definition": "1951年4月18日，法国、西德、意大利、荷兰、卢森堡、比利时在巴黎签署的建立欧洲煤钢共同体的条约。"
+  },
+  {
+   "cn": "巴黎条约",
+   "en": "Treaty of Paris",
+   "source": "世界历史名词",
+   "wordNumber": "01.0396",
+   "subjectFullName": "世界历史_综合_条约",
+   "subjectName": "条约",
+   "publishYear": "2012",
+   "definition": "1856年2月为结束克里米亚战争签署的条约。"
+  },
+  {
+   "cn": "巴黎起义",
+   "en": "Paris Uprising of 1944",
+   "source": "世界历史名词",
+   "wordNumber": "03.0558",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1944年7月，巴黎人民解放首都的武装起义。"
+  },
+  {
+   "cn": "词对轮排",
+   "en": "paried keyword permutation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.785",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "将标引语句中的入口词进行两两组合构成词对，将每个词对进行有序排列，轮流作为主标题和副标题的一种索引款目排列方法。"
+  },
+  {
+   "cn": "建筑石膏",
+   "en": "plaster of Paris,calcined gypsum",
+   "source": "土木工程名词",
+   "wordNumber": "01.115",
+   "subjectFullName": "土木工程_工程材料_石灰、石膏",
+   "subjectName": "石灰、石膏",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎国际大学城",
+   "en": "international university town in paris",
+   "source": "教育学名词",
+   "wordNumber": "05.125",
+   "subjectFullName": "教育学_比较教育_法国教育",
+   "subjectName": "法国教育",
+   "publishYear": "2013",
+   "definition": "位于巴黎第14区，承担巴黎大部分外国留学生和学者食宿的城区。"
+  },
+  {
+   "cn": "关于越南问题的巴黎国际会议",
+   "en": "Paris International Conference on Vietnam",
+   "source": "世界历史名词",
+   "wordNumber": "01.0620",
+   "subjectFullName": "世界历史_综合_国际会议、宣言",
+   "subjectName": "国际会议、宣言",
+   "publishYear": "2012",
+   "definition": "1973年2月，包括越南三方在内的12个政府代表团在巴黎举行的国际会议，通过确认在越南结束战争、恢复和平的决议书。"
+  },
+  {
+   "cn": "壁板",
+   "en": "paries",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎交响曲集",
+   "en": "Paris Symphonies",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "巴黎俱乐部[即十国集团]",
+   "en": "Paris Club",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎证券交易所",
+   "en": "Paris Bourse",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "加兰-帕里斯-谢韦视唱体系",
+   "en": "Galin-Paris-Chevé",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎天文台",
+   "en": "Observatoire de Paris",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "一个美国人在巴黎",
+   "en": "American in Paris\",\"An",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Gershwin, George"
+  },
+  {
+   "cn": "鼻孔",
+   "en": "nostril\",\"naris",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "渐长纬度",
+   "en": "meridional parts",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "线对",
+   "en": "line pairs",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可互换部件",
+   "en": "interchangeable parts",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "零件明细表",
+   "en": "parts list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "侧部",
+   "en": "pars lateralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弓状部",
+   "en": "pars arcuata",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "梳状部",
+   "en": "pars pectinata",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "远侧部",
+   "en": "pars distalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "主部",
+   "en": "pars principalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[核仁]颗粒区",
+   "en": "pars granulosa",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[核仁]无定形区",
+   "en": "pars amorpha",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[核仁]纤维区",
+   "en": "pars fibrosa",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "双人单桨",
+   "en": "pairs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以国家公园为主的自然保护地",
+   "en": "natural reserves with national parks as the main part",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全",
+   "en": "National Cybersecurity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国徽",
+   "en": "national emblem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家单项协会",
+   "en": "national federation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人单桨无舵手赛艇",
+   "en": "coxless pairs\",\"coxswainless pair-oars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全协调员",
+   "en": "national cybersecurity coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家超级计算中心",
+   "en": "National Supercomputing Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家数据主权",
+   "en": "national data sovereignty",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家信息安全漏洞库",
+   "en": "National Vulnerability Database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家奥林匹克委员会",
+   "en": "National Olympic Committee\",\"NOC",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0400",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月法国巴黎的无产阶级和革命群众举行反对资产阶级统治的武装起义并建立的无产阶级政府。1871年3月28日巴黎公社宣告成立。它是无产阶级专政的第一次尝试，实施了一系列带有社会主义性质的措施，但"
+  },
+  {
+   "cn": "巴黎公社革命",
+   "en": "Paris Commune Revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0217",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月18日法国巴黎无产阶级推翻资产阶级、建立工人政权的第一次伟大尝试。起义者选举产生了巴黎公社委员会，采取了一系列社会主义性质的措施。由于种种原因革命失败。马克思在《法兰西内战》一书中系统地"
+  },
+  {
+   "cn": "巴黎公社原则",
+   "en": "Principles of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0252",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年巴黎公社革命中工人阶级创造的、反映无产阶级革命运动中带有普遍意义的基本经验。马克思认为，巴黎公社的基本原则是无产阶级必须打碎资产阶级的国家机器，建立自己的革命专政。工人阶级不能简单地掌握现成"
+  },
+  {
+   "cn": "巴黎国际社会主义者代表大会",
+   "en": "International Socialist Workers Congress  in Paris",
+   "source": "马克思主义",
+   "wordNumber": "04.0485",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1889年7月14日(法国大革命攻占巴士底监狱一百周年纪念日)在巴黎举行的国际社会主义者代表大会。出席大会的有22个国家的393名代表，其中很多人是各国工人运动的活动家和领导人。恩格斯因为忙于《资本论"
+  },
+  {
+   "cn": "巴黎公社一周年纪念大会",
+   "en": "First Anniversary Commemoration of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0475",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1872年3月18日，“国际”会员和前公社社员以及前来参会的工人群众聚集在巴黎公社流亡者协会住所，隆重地举行了纪念巴黎公社革命一周年大会。会议通过了马克思在1872年3月13—18日起草的《巴黎公社一"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "帕西人",
+   "en": "Parsee，Parsis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0046",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。 人口约为6 万（2014 年）。集中生活在印度孟买市及周边地带，班加罗尔和巴基斯坦的喀拉蚩也有分布。属欧罗巴人种印度地中海类型。操古吉拉特语，属印欧语系印度语族。帕西人信拜火教。为波斯"
+  },
+  {
+   "cn": "成品库",
+   "en": "finished-parts storage",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "储存消毒产品成品的仓库。"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "国民财富",
+   "en": "national wealth",
+   "source": "马克思主义",
+   "wordNumber": "02.0026",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定时点上，一国全社会所有成员所拥有的全部物质资料的总和。包括国民财产、自然资源、一国外汇储备和对外债权等。它是一个国家或地区经济繁荣程度的重要标志之一，反映了居民的经济实力和福利水平。"
+  },
+  {
+   "cn": "国债",
+   "en": "national debt",
+   "source": "马克思主义",
+   "wordNumber": "02.0251",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中央政府发行的债务。国家以其信用为基础，按照债的一般原则，通过向社会筹集资金所形成的债权债务关系。"
+  },
+  {
+   "cn": "国家工厂",
+   "en": "national workshop",
+   "source": "马克思主义",
+   "wordNumber": "03.0078",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年二月革命结束后，法国临时政府将因危机和革命失业的工人编进了所谓国家工场，其目的是分裂工人阶级和反对革命。巴黎六月起义失败后，国家工厂解散。"
+  },
+  {
+   "cn": "国民议会",
+   "en": "national assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0085",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由全体国民选举产生拥有立法权的国家权力机关，是西方民主政治制度的一种形式。"
+  },
+  {
+   "cn": "民族解放",
+   "en": "national liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0117",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界各被压迫民族反对帝国主义、殖民主义和种族主义，争取民族独立、民族自决和民族平等的革命运动。它主要指亚洲、非洲和拉丁美洲等帝国主义殖民地和半殖民地民族反抗帝国主义的统治和压迫，争取国家独立的资产阶级"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "民族精神",
+   "en": "national spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0636",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个民族在延续发展过程中所逐渐形成的，为本民族大多数成员所认同的，带有广泛性和普遍性的精神追求。一般说来，它是指民族性格中的优点部分，或民族道德与民族文化中的精华部分，是一个民族赖以生存和发展的精神支"
+  },
+  {
+   "cn": "民族自治",
+   "en": "national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0090",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称“民族区域自治”。多民族的社会主义国家内的少数民族在最高国家机关的统一领导下，以其聚居区为基础建立相应的自治地区，自主管理本民族本地方的事务。这是马克思列宁主义解决多民族国家内民族问题的一项基本政"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

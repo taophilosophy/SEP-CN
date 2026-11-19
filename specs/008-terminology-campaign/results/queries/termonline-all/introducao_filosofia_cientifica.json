@@ -1,0 +1,32 @@
+{
+ "key": "introducao filosofia cientifica",
+ "term": "Introdução Filosofia Científica",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:27:17+00:00",
+ "status": "ok",
+ "note": "variant=Introdução Filosofia Científica; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "线状伪足",
+   "en": "filopodia",
+   "source": "微生物学名词",
+   "wordNumber": "03.061",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "原生动物巴甫鞭虫属(Pavlova )鞭虫细胞表面伸出的纤细而有黏性的若干突起结构。"
+  },
+  {
+   "cn": "丝足",
+   "en": "filopodium\",\"filopodia(复)",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

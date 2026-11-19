@@ -1,0 +1,22 @@
+{
+ "key": "'aql 'aqil",
+ "term": "ʿaql ʿāqil",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:10:59+00:00",
+ "status": "ok",
+ "note": "variant=ʿaql ʿāqil; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "可接受质量水平",
+   "en": "acceptable quality level,AQL",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0769",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "在一批产品中，允许的最大缺陷数或不合格品数的百分比或比率。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

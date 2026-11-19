@@ -1,0 +1,32 @@
+{
+ "key": "tenno",
+ "term": "tennō",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:16:57+00:00",
+ "status": "ok",
+ "note": "variant=tennō; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "天保改革",
+   "en": "Tenpō Reforms",
+   "source": "世界历史名词",
+   "wordNumber": "04.0027",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1830-1843年 (日本阴历天保年间)，日本德川幕府实行的幕政改革。与享保改革、宽政改革并称江户时代三大改革。"
+  },
+  {
+   "cn": "近代天皇制",
+   "en": "Tenno System in Modern Japan",
+   "source": "世界历史名词",
+   "wordNumber": "04.0090",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "日本明治维新以后的君主制统治形态，是天皇作为主权者统率国家的一种政治形态，也是一切政治权力源于天皇而由直属天皇的官僚行使权力的一种政治体制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

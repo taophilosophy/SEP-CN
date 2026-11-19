@@ -1,0 +1,802 @@
+{
+ "key": "nover hajek",
+ "term": "Nover Hájek",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:14:18+00:00",
+ "status": "ok",
+ "note": "variant=Nover Hájek; 审定公布名词库=579; 海峡两岸名词对照库=138; 其他来源数据库=65; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "覆盖",
+   "en": "cover",
+   "source": "风景园林名词",
+   "wordNumber": "08.0302",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "利用枝叶、稻草、麦秆、谷糠、土壤等撒铺在地面上，改善畦面生态环境，防止土壤水分蒸发，使土壤不易板结，改善土壤肥力，并有保温防冻防止鸟害和杂草等作用，有利于出苗、移植后的植株成活和生长的方法。"
+  },
+  {
+   "cn": "封面",
+   "en": "cover",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.088",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "包在书芯外面印有书名、作者、出版者的纸张或其他材料。一般包括封一、封底及书背。"
+  },
+  {
+   "cn": "外胎",
+   "en": "cover",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.242",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "能承受各种作用力的轮胎外壳体。"
+  },
+  {
+   "cn": "总覆盖度",
+   "en": "cover",
+   "source": "资源科学技术名词",
+   "wordNumber": "10.128",
+   "subjectFullName": "资源科学技术_草地资源学",
+   "subjectName": "草地资源学",
+   "publishYear": "2008",
+   "definition": "单位面积草地内所有植物自然伸展的外周对地面垂直投影面积占地表面积的百分比。"
+  },
+  {
+   "cn": "[单体]盖",
+   "en": "cover",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.112",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "盖片",
+   "en": "cover",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.182",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "漫游机器人",
+   "en": "rover",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.109",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动子",
+   "en": "mover",
+   "source": "电气工程名词",
+   "wordNumber": "07.364",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "盖度",
+   "en": "cover,coverage",
+   "source": "林学名词",
+   "wordNumber": "03.061",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "植物地上器官垂直投影面积占样地面积的百分比。"
+  },
+  {
+   "cn": "盖",
+   "en": "cover,lid",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.108",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "遮盖车身孔口的构件。"
+  },
+  {
+   "cn": "盖度",
+   "en": "cover,coverage",
+   "source": "生态学名词",
+   "wordNumber": "06.025",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "植物地上器官垂直投影面积占样地面积的百分比。"
+  },
+  {
+   "cn": "蓄电池盖",
+   "en": "cover,lid",
+   "source": "电气工程名词",
+   "wordNumber": "24.122",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖",
+   "en": "cover,covering",
+   "source": "数学名词",
+   "wordNumber": "01.0059",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "超张拉",
+   "en": "over-stretching,over-tensioning",
+   "source": "土木工程名词",
+   "wordNumber": "13.099",
+   "subjectFullName": "土木工程_工程施工_施工与施工方法",
+   "subjectName": "施工与施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溢卸",
+   "en": "over-landed,over-delivery",
+   "source": "航海科技名词",
+   "wordNumber": "11.0133",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "过粉碎",
+   "en": "over crushing,over breaking",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.070",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "破碎过程中产生大量小于要求粒度的颗粒的现象。"
+  },
+  {
+   "cn": "覆盖作物",
+   "en": "cover crop",
+   "source": "农学名词",
+   "wordNumber": "01.063",
+   "subjectFullName": "总论_作物种类",
+   "subjectName": "作物种类",
+   "publishYear": "2025",
+   "definition": "主栽作物之外附加种植的，用于防止土壤侵蚀和杂草蔓延的作物。"
+  },
+  {
+   "cn": "装饰井盖",
+   "en": "decorative cover",
+   "source": "风景园林名词",
+   "wordNumber": "08.1195",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "防止人或物掉落，表面用植物或硬质铺装等装饰，用来掩盖道路上或绿地中的防御物。一般分为圆形和方形。"
+  },
+  {
+   "cn": "覆盖膜",
+   "en": "cover film",
+   "source": "精细化工名词",
+   "wordNumber": "08.1063",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "覆盖在挠性印制电路板外表面全部或部分导电图形上的绝缘保护层。"
+  },
+  {
+   "cn": "林冠盖度",
+   "en": "canopy cover",
+   "source": "风景园林名词",
+   "wordNumber": "12.0010",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "植物林冠对地面的水平投影大小，通常用百分率表示。"
+  },
+  {
+   "cn": "覆盖",
+   "en": "cover",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "罩壳",
+   "en": "cover",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通话完毕（无线电话用语）",
+   "en": "over",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "溢卸",
+   "en": "over-landed\",\"over-delivery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "箱形舱盖",
+   "en": "pontoon hatch cover\",\"pontoon cover",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖植被",
+   "en": "cover vegetation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冠盖度",
+   "en": "canopy cover",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "积雪",
+   "en": "snow cover",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植被",
+   "en": "vegetation cover",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "土地覆盖",
+   "en": "land cover",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "盖度级",
+   "en": "cover class",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖作物",
+   "en": "cover crop",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "植物覆盖",
+   "en": "plant cover",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖植被",
+   "en": "cover vegetation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地被物",
+   "en": "ground cover",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "冠盖度,林冠盖度",
+   "en": "canopy cover",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黄金准备金",
+   "en": "gold cover",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "绝对保险额",
+   "en": "absolute cover",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总括保险",
+   "en": "blanket cover",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "积雪",
+   "en": "snow cover",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "罩",
+   "en": "cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掩护脸部",
+   "en": "cover up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮圈盖",
+   "en": "wheel cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滚翻",
+   "en": "roll over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "turn over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过线",
+   "en": "step over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换发球！",
+   "en": "Service over!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换发球",
+   "en": "service over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保护",
+   "en": "cover\",\"back up",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防水围裙",
+   "en": "skirt\",\"spray cover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掀翻",
+   "en": "overturn\",\"turn-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "越过",
+   "en": "clear\",\"step over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未出场",
+   "en": "forfeit\",\"walk-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "补垒",
+   "en": "cover a base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "女子67公斤以上级",
+   "en": "over 67kg women",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "男子80公斤以上级",
+   "en": "over 80kg men",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人领骑",
+   "en": "take over from",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背着网接弹腿3/4空翻成站立",
+   "en": "back pull-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖消毒",
+   "en": "cover disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将固体消毒物质人工铺撒附着于待消毒物体表面，以消除污染的处理。"
+  },
+  {
+   "cn": "从不吸烟者",
+   "en": "never smoker",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "从不吸烟或吸烟少于100支的人。"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "过量照射",
+   "en": "over exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "个体所受剂量超过年当量剂量或年有效剂量限值的照射。"
+  },
+  {
+   "cn": "过度专业化",
+   "en": "over-professionalization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "专业的职业活动过于强调细致分工，形成活动领域过分细碎分割的情形；或是只偏重技术运用，而忽视专业宗旨的倾向。在社会工作领域表现为社会工作者过于强调社会工作的专业性，在工作中较少地关注理念，而过于重视科学"
+  },
+  {
+   "cn": "过度剥削",
+   "en": "over exploitation",
+   "source": "马克思主义",
+   "wordNumber": "05.0111",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "福斯特（John Bellamy Foster）认为，垄断仍是当代资本主义的根本趋势，而且垄断正超越国界向全球发展，资本倾向于超越民族国家界限进行积聚和集中。垄断资本主义的剥削所得的总值越来越大，形成"
+  },
+  {
+   "cn": "过熟",
+   "en": "over-ripeness",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.19",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果生理发育过度成熟，导致某些水果果肉变软、产生不正常褐色和香味损失，营养和食用品质下降的过程。"
+  },
+  {
+   "cn": "过度疲劳",
+   "en": "over fatigue",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.3.1.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "军事作业体力疲劳尤其是全身性疲劳的累积未获得适当休息所导致的身体表现，并伴有对健康明显的损害，如疲惫乏力、作业效能显著降低、失眠、消化功能紊乱、心理压力明显等。"
+  },
+  {
+   "cn": "过度检查",
+   "en": "over examination",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.027",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "为患者提供超出其自身疾病和临床诊断实际需求的医疗检查行为。"
+  },
+  {
+   "cn": "防水靴套",
+   "en": "waterproof boot cover",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.16",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "包裹足部，具有防水、防护和耐磨性能的防护装备。"
+  },
+  {
+   "cn": "新食品原料",
+   "en": "novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.2",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "在我国无传统食用习惯的动物、植物、微生物以及从中分离出的成分；原有结构发生改变的食品成分以及其他新研制的食品原料。其基本要求是具备一定的营养价值，且在正常食用情况下对人体不会造成任何危害。"
+  },
+  {
+   "cn": "蛋白质过多",
+   "en": "over-supply protein",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.6.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "每日蛋白质的摄入量经常超过需要量的状况。"
+  },
+  {
+   "cn": "中国永远不称霸",
+   "en": "China never seeks hegemony",
+   "source": "马克思主义",
+   "wordNumber": "04.0178",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "这是中国对外政策的基本原则之一。毛泽东在上世纪70年代初期提出“深挖洞、广积粮、不称霸”，即已表明中国反对霸权主义，自己决不称霸的方针。邓小平在新的历史时期反复强调这一方针。"
+  },
+  {
+   "cn": "医疗废物交接",
+   "en": "medical waste hand over",
+   "source": "消毒学",
+   "wordNumber": "7.2.11",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "医疗废物产生单位将暂时贮存的医疗废物移交给废物运送者，并与运送者在《危险废物转移联单》（医疗废物专用）上签字确认的过程。"
+  },
+  {
+   "cn": "小时未进食",
+   "en": "fasting over 24 hours",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.6.2 超过 24",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "为减肥或控制体重而禁食24小时及以上的行为。"
+  },
+  {
+   "cn": "新食品原料行政许可",
+   "en": "approval of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.5",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "对在我国无传统食用习惯的特定物品进行安全性审查和许可的制度"
+  },
+  {
+   "cn": "新食品原料公告",
+   "en": "announcement of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.8",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "根据综合性审查结论，由我国卫生行政部门对符合要求的新食品原料的名称、来源、生产工艺、主要成分、质量规格要求、标签标识要求及其他相关内容进行发布和公示的过程。"
+  },
+  {
+   "cn": "澳门回归",
+   "en": "Transfer of sovereignty over Macao",
+   "source": "马克思主义",
+   "wordNumber": "04.0273",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1999年12月20日中国政府恢复对澳门行使主权，中华人民共和国澳门特别行政区成立，葡萄牙共和国结束统治澳门的历史事件。澳门回归是祖国统一道路上的又一座丰碑。"
+  },
+  {
+   "cn": "新食品原料安全性审查",
+   "en": "safety review of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.7",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "由技术审评机构组织专家对安全性评估材料进行评审，必要时结合现场核查作出技术评审结论的过程。技术评审结论包括延期再审、建议不批准、终止审查和建议批准四类。"
+  },
+  {
+   "cn": "新食品原料安全性评估",
+   "en": "safety evaluation of novel food ingredients",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.6",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "通过成分分析、卫生学检验、毒理学评价、微生物耐药性试验、微生物产毒能力试验和人群食用情况调查分析等材料，对新食品原料的食用安全性进行评估的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

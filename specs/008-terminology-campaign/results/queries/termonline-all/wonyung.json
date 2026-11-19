@@ -1,0 +1,32 @@
+{
+ "key": "wonyung",
+ "term": "wŏnyung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:23:27+00:00",
+ "status": "ok",
+ "note": "variant=wŏnyung; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "万应锭",
+   "en": "wanying troches,wanying ding",
+   "source": "中医药学名词",
+   "wordNumber": "07.390",
+   "subjectFullName": "中医药学_方剂学_中成药",
+   "subjectName": "中成药",
+   "publishYear": "2004",
+   "definition": "主要成分：胡黄连、黄连、儿茶、冰片、香墨、熊胆、麝香、牛黄、牛胆汁。"
+  },
+  {
+   "cn": "万应散",
+   "en": "wanying powder",
+   "source": "兽医学名词",
+   "wordNumber": "19.563",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "《医学正传》方，组成：槟榔，大黄，皂角，苦楝根皮，黑丑，雷丸，沉香，木香。共为末，温水冲服。攻积杀虫。主治蛔虫、姜片虫、绦虫等虫积证。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

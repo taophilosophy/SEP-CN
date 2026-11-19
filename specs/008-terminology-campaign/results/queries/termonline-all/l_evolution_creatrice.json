@@ -1,0 +1,52 @@
+{
+ "key": "l'evolution creatrice",
+ "term": "L’Évolution créatrice",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:15:46+00:00",
+ "status": "ok",
+ "note": "variant=L’Évolution créatrice; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射测量设备",
+   "subjectName": "电离辐射测量设备",
+   "publishYear": "2014",
+   "definition": "用烯丙基二甘醇碳酸酯(品名 CR-39)制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  },
+  {
+   "cn": "CR-39中子剂量计",
+   "en": "CR-39 neutron dosimeter",
+   "source": "电力名词",
+   "wordNumber": "17.880",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "用烯丙基二甘醇碳酸脂(品名CR-39)制成的一种固体核径迹探测器。"
+  },
+  {
+   "cn": "瘢痕性并指",
+   "en": "cicatrice syndactyly",
+   "source": "整形外科名词",
+   "wordNumber": "19.084",
+   "subjectFullName": "整形外科_躯干及四肢整形_手外科",
+   "subjectName": "手外科",
+   "publishYear": "2026",
+   "definition": "深度烧伤后2个或2个以上的指间有蹼状物形成或互相粘连的手部畸形。分为不全和完全粘连。"
+  },
+  {
+   "cn": "CR-39径迹探测器",
+   "en": "CR-39 track detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "用烯丙基二甘醇碳酸酯（品名CR-39）制成的核径迹探测器。利用其在中子辐射场中的累积照射而形成的可观察径迹来测量中子剂量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,252 @@
+{
+ "key": "hadd awsat",
+ "term": "ḥadd awsaṭ",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:08:42+00:00",
+ "status": "ok",
+ "note": "variant=ḥadd awsaṭ; 审定公布名词库=18; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "拉德手术",
+   "en": "Ladd operation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "06.158",
+   "subjectFullName": "医学_小儿外科学",
+   "subjectName": "小儿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "后加安全",
+   "en": "add-on security",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0217",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在信息系统设计完成后，再增加其安全功能的方法。"
+  },
+  {
+   "cn": "后加件",
+   "en": "add-on part",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0209",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "既不是原来经认证车辆上的零件，也不是替换原配套零件的零件。"
+  },
+  {
+   "cn": "后加件",
+   "en": "add-on part",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.019",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "既不是原来经认证车辆上的零件，也不是替换原配套零件的零件。"
+  },
+  {
+   "cn": "日平均暴露剂量",
+   "en": "average daily dose,ADD",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0304",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "在一定时间内某种化合物平均每天对人体的暴露量。"
+  },
+  {
+   "cn": "注意障碍",
+   "en": "attention deficit disorder,ADD",
+   "source": "精神医学名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "以频繁、不自觉地走神，不能自主控制集中注意的时间和场合为最主要症状的一种障碍。"
+  },
+  {
+   "cn": "注意障碍",
+   "en": "attention deficit disorder,ADD",
+   "source": "心理学名词",
+   "wordNumber": "10.156",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "以频繁地、不自觉地走神，不能决定集中注意力的时间和场合为最主要症状的一种障碍。"
+  },
+  {
+   "cn": "分插复用",
+   "en": "add-drop multiplex,ADM",
+   "source": "通信科学技术名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "通信科学技术_线缆传输与接入",
+   "subjectName": "线缆传输与接入",
+   "publishYear": "2007",
+   "definition": "能在线路(集合)信号中插入和分出支路信号的复用方式，或实现这种复用方式的设备。"
+  },
+  {
+   "cn": "注意障碍",
+   "en": "attention deficit disorder;ADD",
+   "source": "行为医学名词",
+   "wordNumber": "16.002",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "精神活动在一段时间内过度集中或不能集中指向某一事物的过程。常见的有注意增强、注意减退、随境转移、注意范围缩小等。"
+  },
+  {
+   "cn": "可编程上下分插复用器",
+   "en": "programmable add / drop multiplexer",
+   "source": "物理学名词",
+   "wordNumber": "04.1494",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光上/ 下路分插复用器",
+   "en": "optical add / drop multiplexer",
+   "source": "物理学名词",
+   "wordNumber": "04.1492",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "光分插复用器",
+   "en": "optical add/drop multiplexer,OADM",
+   "source": "光学名词",
+   "wordNumber": "22.050",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "从波分复用系统多波长信道中分出或插进一个或多个波长的光波分复用器。有固定型 (fixed OADM)和可重构型(ROADM)两种类型，固定型只能上下一个或多个固定的波长，节点的路由是确定的。"
+  },
+  {
+   "cn": "光分插复用器",
+   "en": "optical add-drop multiplexer,OADM",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.075",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "对多波长光信号,一种能从中分出单个光波长信号,或将单个光波长信号加入到多波长光信号中的光波分复用设备。"
+  },
+  {
+   "cn": "Fas相关死亡结构域蛋白",
+   "en": "Fas-associated protein with death domain,FADD",
+   "source": "免疫学名词",
+   "wordNumber": "2.545",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "一种参与凋亡信号转导的胞质蛋白。其C末端含死亡结构域，可自身相互结合或与其他含死亡结构域的分子(如RIP、TRADD)结合。其与Fas分子胞质区死亡结构域结合，可介导细胞凋亡。"
+  },
+  {
+   "cn": "可重构光分插复用器",
+   "en": "reconfigurable optical add/drop multiplexer,ROADM",
+   "source": "光学名词",
+   "wordNumber": "22.051",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "一种能动态调节上下通道波长从而灵活分配网络的波长资源的光分插复用设备。"
+  },
+  {
+   "cn": "FADD样白介素-1β转换酶",
+   "en": "FADD-like interleukin-1β converting enzyme;FLICE",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0287",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "肿瘤坏死因子受体的抑制蛋白质。与细胞凋亡信号发送途径的另一组分FADD具有同源性。"
+  },
+  {
+   "cn": "增字解经",
+   "en": "add a word(s) to explain classics",
+   "source": "语言学名词",
+   "wordNumber": "10.075",
+   "subjectFullName": "语言学_训诂学_训诂方法与禁忌",
+   "subjectName": "训诂方法与禁忌",
+   "publishYear": "2011",
+   "definition": "在注释中主观地添加与原义无关的字词来生成训条，造成曲解原文意义的错误做法。"
+  },
+  {
+   "cn": "Fas相关死亡结构域蛋白质",
+   "en": "Fas-associated death domain protein;Fas-associated protein with death domain;FADD",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.028",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "其C端含死亡结构域的一种参与凋亡信号转导的胞质溶胶蛋白质。可自身相互结合或与其他含死亡结构域的分子（如RIP、TRADD）结合。其与Fas分子胞质区死亡结构域结合，可介导细胞凋亡。"
+  },
+  {
+   "cn": "后加安全",
+   "en": "add-on security",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意障碍",
+   "en": "attention deficit disorder\",\"ADD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "插分复用",
+   "en": "add/drop multiplexing\",\"ADM",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生长阻滞和DNA损伤",
+   "en": "growth arrest and DNA damage\",\"GADD",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Fas相关死亡结构域蛋白",
+   "en": "Fas-associated protein with death domain， FADD",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,82 @@
+{
+ "key": "redei stoltzner",
+ "term": "Redei Stöltzner",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:14:46+00:00",
+ "status": "ok",
+ "note": "variant=Redei Stöltzner; 审定公布名词库=7; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "ST向量",
+   "en": "ST vector",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.389",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "ST段抬高心肌梗死",
+   "en": "ST segment elevation myocardial infarction,STEMI",
+   "source": "核医学名词",
+   "wordNumber": "04.0486",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_临床常见心血管病",
+   "subjectName": "临床常见心血管病",
+   "publishYear": "2018",
+   "definition": "伴有心电图ST段抬高的心肌梗死。主要病因是冠脉完全闭塞，堵塞动脉的血栓为红血栓。"
+  },
+  {
+   "cn": "非ST段抬高心肌梗死",
+   "en": "non-ST segment elevation myocardial infarction,NSTEMI",
+   "source": "核医学名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "核医学_临床核医学_心血管系统核医学_临床常见心血管病",
+   "subjectName": "临床常见心血管病",
+   "publishYear": "2018",
+   "definition": "不伴有心电图ST段抬高的心肌梗死。主要病因是非完全性冠脉闭塞，或冠脉完全闭塞但有侧支循环保护，其动脉堵塞血栓为白血栓。"
+  },
+  {
+   "cn": "ST段抬高型心肌梗死",
+   "en": "ST-segment elevation myocardial infarction;STEMI",
+   "source": "急救医学名词",
+   "wordNumber": "03.059",
+   "subjectFullName": "急救医学_日常医学急救_内科学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2025",
+   "definition": "发病时在心电图中有ST段抬高表现的心肌梗死。常有冠状动脉完全阻塞，初始治疗目标是早期通过溶栓或经皮冠状动脉介入治疗实行再灌注。"
+  },
+  {
+   "cn": "非ST段抬高型心肌梗死",
+   "en": "non ST-segment elevation myocardial infarction;NSTEMI",
+   "source": "急救医学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "急救医学_日常医学急救_内科学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2025",
+   "definition": "发病时在心电图中没有ST段抬高表现的心肌梗死。"
+  },
+  {
+   "cn": "地震接收点静校正",
+   "en": "seismic recei-ver statics",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0244",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "接收点低降速度带厚度引起的静校正与接收点校正到基准面静校正量之和。 "
+  },
+  {
+   "cn": "一送多受",
+   "en": "single feeding and multiple recei- ving track circuit",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0516",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

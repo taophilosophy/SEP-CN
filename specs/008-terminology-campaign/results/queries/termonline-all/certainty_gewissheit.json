@@ -1,0 +1,582 @@
+{
+ "key": "certainty gewissheit",
+ "term": "certainty Gewissheit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:12:25+00:00",
+ "status": "ok",
+ "note": "variant=certainty Gewissheit; 审定公布名词库=116; 海峡两岸名词对照库=21; 其他来源数据库=2; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "确定性分析",
+   "en": "certainty analysis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.103",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在明确的技术条件、市场环境、投资数据、财税参数等基本假设条件下评价分析项目的净现值、内部收益率、净年金、净终值、投资回收期等常用指标，并进行多方案比较的各类分析。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "只存在一种完全确定的自然状态下的决策，即在已知未来可能发生的情况的条件下，根据每一个备选方案只能产生唯一的结果，从中选择最优方案。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "source": "经济学名词",
+   "wordNumber": "10.172",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "决策者对所要决策的问题具有必要和充分的信息，能够确知面临的状态，并且每个行动只导致唯一的结局时所做的决策。"
+  },
+  {
+   "cn": "确定性因子方法",
+   "en": "certainty factor theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0112",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "最初为专家系统MYCIN开发的处理不确定性的数值方法。用确定性因子刻画证据为真的程度，或当规则前提为真时，其结论为真的程度。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "decision making under certainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0042",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者在决策所需信息都可获得的条件下做出的决策。即决策者确切知道有哪些方案，并且每种方案只有一个确定的结果。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "经济学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "经济主体既不能确定某种经济事件在未来产生的结果，也不能确定经济事件产生各种结果的可能性大小。出现不确定性的原因在于经济主体作为决策者在很大程度上对未来的认识是不完全的，或者经济主体的行为本身就具有不确"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0329",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "当一个事件或变量取值无法准确确定时，通常用可能发生的概率或区间表示。在进行风险特征描述时，应对所有可能的不确定性进行明确的描述和必要的解释。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.593",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "表征合理地赋予被测量值的分散性，与测量结果相联系的参数。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "物理学名词",
+   "wordNumber": "01.0283",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0024",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "表征某随机变量发生的不可靠性的物理量。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化学名词",
+   "wordNumber": "03.0381",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0338",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "系统对于环境信息完全性程度的反馈和可知性程度。"
+  },
+  {
+   "cn": "金融不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0061",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "个体在承受风险情况下其偏好的特征。厌恶风险的人们在相同的成本下更倾向于做出低风险的选择。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "药学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "当一个事件或变量取值无法准确确定，通常用可能发生的概率或区间表示。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "从属于测量结果的一个参数，它表示测量值的离中趋势，从而通过以离中趋势来表明测量结果正确性的精密度。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理学名词",
+   "wordNumber": "25.027",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "系统状态过程随机或者无规律可循。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "化学工程名词",
+   "wordNumber": "07.024",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不定度",
+   "en": "uncertainty",
+   "source": "数学名词",
+   "wordNumber": "012.0028",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "电子学名词",
+   "wordNumber": "17.033",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty,uncertainty of measurement",
+   "source": "计量学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "计量学_计量学通用名词_测量",
+   "subjectName": "测量",
+   "publishYear": "2015",
+   "definition": "根据所用到的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "确定因子",
+   "en": "certainty factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确信度",
+   "en": "certainty factor\",\"CF",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不明阶段",
+   "en": "uncertainty phase",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "最大误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[船位]误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不确定型决策",
+   "en": "decision making under uncertainty",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "污染物达标排放",
+   "en": "pollutant discharge under certain standard",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after date",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "见票后若干日付款的汇票",
+   "en": "bill drawn payable at certain time after sight",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "船舶碰撞民事管辖权某些规定的国际公约",
+   "en": "International Convention on Certain Rules Concerning Civil Jurisdiction in Matters of Collision",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一国有船舶豁免某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Concerning the Immunity of State-owned Ships",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一海船扣押某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Relating to the Arrest of Seagoing Ships",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一海难援助和救助某些法律规定公约",
+   "en": "Convention for Unification of Certain Rules of Law Relating to Assistance and Salvage at Sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一船舶碰撞某些法律规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules of Law with Respect to Collision between Vessels",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一对水上飞机的海难援助和救助及由水上飞机施救的某些规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules Relating to Assistance and Salvage of Aircraft or by Aircraft at Sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据高度不确定性",
+   "en": "high uncertainty of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对所关注的生物体、系统或（亚）人群当前或未来状态的不完全了解的程度。例如缺乏对某一数量“真实”值的了解、缺乏对哪个可选模型最能描述所关注系统的了解，或缺乏哪种分布函数及其参数能代表所关注数值的了解。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "不确定性分析",
+   "en": "uncertainty analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "发现估计值中的不确定性来源并对结果误差的大小和方向进行评估的过程。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor, UF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在制定健康指导值时所应用的从实验动物外推到人（假定人最敏感）或从部分个体外推到一般人群时的复合系数。"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.26",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由在一个测量模型中各输入量的标准不确定度获得的输出量的标准不确定度。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "疾病的不确定性",
+   "en": "uncertainty of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "疾病的发生具有偶然性和突发性，其进展、严重程度、结局状态等难以准确预测。包括个体发病率不确定、疾病治疗效果的不确定、消费者健康状况以及对医疗服务的需求存在不确定性等。"
+  },
+  {
+   "cn": "医疗服务不确定性",
+   "en": "uncertainty of medical service",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的特点。服务前，一种治疗方法对患有特定疾病的特定个体是否有效存在不确定性，服务过程中存在各种不确定因素，导致医疗服务的结果也具有不确定性。既不能确定某事件在未来产生的结果，也不能确定事件产"
+  },
+  {
+   "cn": "标准不确定度A类评定",
+   "en": "type A evaluation of standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.24",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对在规定测量条件下测得的量值用统计分析的方法进行的测量不确定度分量的评定。"
+  },
+  {
+   "cn": "标准不确定度B类评定",
+   "en": "type B evaluation of standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.25",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "用不同于测量不确定度A类评定的方法对测量不确定度分量进行的评定。"
+  },
+  {
+   "cn": "卫生服务需求不确定性",
+   "en": "uncertainty of demand for health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.6.4",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "由于个人发生病伤是偶发事件，且存在个体差异，同一患者在不同时期患同样的疾病，或患同一类疾病的患者，在临床症状、体征、生理生化指标等方面都可能有所不同的特点。"
+  },
+  {
+   "cn": "人不犯我我不犯人人若犯我我必犯人",
+   "en": "we will not attack unless we are attacked if we are attacked we will certainly counterattack",
+   "source": "马克思主义",
+   "wordNumber": "03.0443",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东总结抗日战争期间中国共产党同国民党顽固派斗争的经验提出的军事自卫原则。我们决不打第一枪，也决不可在被人家进攻时不予还击。对于顽固派的军事攻击，必须坚决、彻底、干净、全部消灭之。抗日战争胜利后，为"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,42 @@
+{
+ "key": "grunwald vitanyi",
+ "term": "Grünwald Vitányi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:14:43+00:00",
+ "status": "ok",
+ "note": "variant=Grünwald Vitányi; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "格伦瓦尔德战役",
+   "en": "Battle of Grunwald",
+   "source": "世界历史名词",
+   "wordNumber": "02.0899",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1410年，波兰王国、立陶宛大公国的联合武装力量与条顿骑士团进行的著名战役。"
+  },
+  {
+   "cn": "格林沃尔德密度",
+   "en": "Greenwald density",
+   "source": "核科学技术名词",
+   "wordNumber": "3.251",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "托卡马克中会发生等离子体破裂的电子密度值。由格林沃尔德根据实验总结得到，与等离子体电流及小半径有关，表示为。"
+  },
+  {
+   "cn": "格朗沃尔不等式",
+   "en": "Gronwall inequality",
+   "source": "数学名词",
+   "wordNumber": "06.0018",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

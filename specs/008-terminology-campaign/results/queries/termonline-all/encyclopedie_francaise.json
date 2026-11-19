@@ -1,0 +1,432 @@
+{
+ "key": "encyclopedie francaise",
+ "term": "Encyclopédie française",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:25:16+00:00",
+ "status": "ok",
+ "note": "variant=Encyclopédie française; 审定公布名词库=25; 海峡两岸名词对照库=25; 其他来源数据库=2; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "辞书的一种类型。汇集各种专业语词、专名和术语，以条头为收录和释义单位，系统而详细地解释各学科知识或某一学科门类知识。通常规模很大。"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "source": "语言学名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。汇集各种专业语词、专名和术语，以条头为收录和释义单位，系统而详细地解释各学科知识或某一学科门类知识。通常规模很大。"
+  },
+  {
+   "cn": "特许经营",
+   "en": "franchise",
+   "source": "风景园林名词",
+   "wordNumber": "04.0334",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "许可特定经营者在一定期限和一定范围内取得风景名胜区内项目投资、经营资格的市场准入制度。"
+  },
+  {
+   "cn": "相对免赔额",
+   "en": "franchise",
+   "source": "航海科技名词",
+   "wordNumber": "13.0193",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopaedia;encyclopedia",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.081",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "以条目为单元，系统概述各种知识或某一方面完备知识的大型工具书。"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.105",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "将综合性词条及书目汇集，以某种顺序排列或加以解释，供人们检索、查阅、参考的工具书。"
+  },
+  {
+   "cn": "网络百科全书",
+   "en": "online encyclopedia",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.043",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "基于互联网的、开放式的、由多人协同创作的、涵盖众多知识门类的大型工具书平台。网络百科全书强调自由内容和协同编辑，用户可以通过网络进行创作、浏览、修改和发布内容。"
+  },
+  {
+   "cn": "学科百科全书",
+   "en": "subject encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.110",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "收录某一学科或某一领域知识的百科全书。"
+  },
+  {
+   "cn": "综合性百科全书",
+   "en": "general encyclopedia",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.111",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "收录各学科或领域知识的百科全书。"
+  },
+  {
+   "cn": "百科全书运动",
+   "en": "encyclopedic movement",
+   "source": "教育学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古代罗马学者瓦罗等为实现知识系统化、条理化而开展的编撰百科全书的运动。"
+  },
+  {
+   "cn": "百科词典学",
+   "en": "encyclopedic lexicography",
+   "source": "语言学名词",
+   "wordNumber": "06.007",
+   "subjectFullName": "语言学_辞书学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "词典学的一个分支。研究百科全书、百科词典及类似辞书的设计、编纂、使用、评价和历史等。"
+  },
+  {
+   "cn": "百科条目",
+   "en": "encyclopedic entry",
+   "source": "语言学名词",
+   "wordNumber": "06.057",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“语词条目”相对。辞书中提供百科性知识的条目。以专业词语、术语、人名、地名、历史事件等为释义的对象。"
+  },
+  {
+   "cn": "百科附录",
+   "en": "encyclopedic appendix",
+   "source": "语言学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "附设在辞书正文后面的百科性知识材料。"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。兼有通用词典和百科全书的特征，既提供语言信息，也提供百科信息。"
+  },
+  {
+   "cn": "百科性释义",
+   "en": "encyclopedic definition",
+   "source": "语言学名词",
+   "wordNumber": "06.276",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "与“词汇释义”相对。释义方法的一种。从专业角度揭示字头、词头或条头所涉及的百科知识信息，而非语言性知识。"
+  },
+  {
+   "cn": "百科语料库",
+   "en": "encyclopedic corpus",
+   "source": "语言学名词",
+   "wordNumber": "06.328",
+   "subjectFullName": "语言学_辞书学_辞书现代化",
+   "subjectName": "辞书现代化",
+   "publishYear": "2011",
+   "definition": "以各类专业素材或某些学科门类的资料为内容构建的语料库。"
+  },
+  {
+   "cn": "特许经营组织",
+   "en": "franchise organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0515",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "一种契约式垂直营销系统，该系统中一个被称为特许经营者的渠道成员将生产–分销过程中的各个阶段和各个组织通过契约联系起来。"
+  },
+  {
+   "cn": "特许原因",
+   "en": "franchise factor",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0340",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "特许价值方法将观测到的公司市盈率分成基本市盈率和特许市盈率。其中，特许市盈率等于观测到的市盈率与基本市盈率之差。"
+  },
+  {
+   "cn": "电子辞书",
+   "en": "electronic encyclopedic dictionary ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.04.065",
+   "subjectFullName": "编辑与出版学_出版物_音像制品与电子出版物",
+   "subjectName": "音像制品与电子出版物",
+   "publishYear": "2022",
+   "definition": "以数字代码方式将图、文、声、像等信息存储在磁、光、电介质上，辅以电子技术手段使用的辞书。"
+  },
+  {
+   "cn": "统一特许经营发行通告",
+   "en": "uniform franchise offering circular",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0866",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "美国联邦商务委员会对所有潜在特许授予者要求公告财务事项的通告。"
+  },
+  {
+   "cn": "相对免赔额",
+   "en": "franchise",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不定期特许",
+   "en": "indeterminate franchise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许税",
+   "en": "franchise tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许代理协议",
+   "en": "franchise agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许独占",
+   "en": "franchise monopoly",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许经营商",
+   "en": "franchise dealer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特许权",
+   "en": "franchise right",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有限期的特许",
+   "en": "limited franchise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "给予特许权",
+   "en": "grant of franchise",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "阿西西的圣方济各",
+   "en": "Saint François d’Assise",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Messiaen, Olivier"
+  },
+  {
+   "cn": "弗朗索瓦",
+   "en": "François\",\"Samson(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "库普兰，弗朗索瓦",
+   "en": "Couperin\",\"François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "伯努瓦，弗朗索瓦",
+   "en": "Benoist\",\"François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弗朗赛",
+   "en": "Françaix\",\"Jean(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图尔特",
+   "en": "Tourte\",\"François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科塞",
+   "en": "Cosset\",\"François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿列维",
+   "en": "Halévy\",\"Jacques-François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "博瓦尔迪厄",
+   "en": "Boieldieu\",\"François-Adrien(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "勒絮厄尔",
+   "en": "Lesueur\",\"Jean-François(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "戈塞克",
+   "en": "Gossec\",\"François-Joseph(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信贷专营机构培育",
+   "en": "cultivation of credit franchise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《回疆通志》",
+   "en": "Encyclopedic Records of Huijiang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0614",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "和宁撰。全书十二卷涉及新疆南疆的宗教、习俗、物产等，是研究清代新疆的重要史籍。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

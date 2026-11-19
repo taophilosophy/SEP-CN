@@ -1,0 +1,42 @@
+{
+ "key": "songho sasol",
+ "term": "Sŏngho sasŏl",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:22:40+00:00",
+ "status": "ok",
+ "note": "variant=Sŏngho sasŏl; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "僧制",
+   "en": "seng zhi;sangha precepts",
+   "source": "中国古代史名词",
+   "wordNumber": "1.52",
+   "subjectFullName": "中国古代史_通论_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "约束僧尼行为的仪规和制度。魏晋以来出家僧尼渐多，僧制被陆续制订和强调，包括僧团内部的仪规和朝廷所制条例。前者据戒律约束僧尼修行，摘要制订的有曹魏朱士行《出家服法》，东晋道安《僧尼轨范》，唐代怀海《百丈"
+  },
+  {
+   "cn": "僧祇户",
+   "en": "seng qi hu;sangha household",
+   "source": "中国古代史名词",
+   "wordNumber": "4.24",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "北魏以来割属沙门统以供佛事的人户。北魏文成帝时采纳沙门统昙曜的建议，由官府拨民户充之，后又从“平齐户”中选充，每年输粟60斛以供佛事，亦赈给饥民，称为“僧祇粟”。北周武帝灭佛后，与佛图户一起改为编户。"
+  },
+  {
+   "cn": "僧伽",
+   "en": "sangha",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.11",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "佛教徒的共同体的总称。通常指出家信徒，即“出家四众”或“四僧伽”（比丘、比丘尼、沙弥、沙弥尼）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

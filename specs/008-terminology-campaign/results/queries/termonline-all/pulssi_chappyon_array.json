@@ -1,0 +1,572 @@
+{
+ "key": "pulssi chappyon array",
+ "term": "Pulssi Chappyŏn Array",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:22:12+00:00",
+ "status": "ok",
+ "note": "variant=Pulssi Chappyŏn Array; 审定公布名词库=1026; 海峡两岸名词对照库=306; 其他来源数据库=10; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "阵列",
+   "en": "array",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.098",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_生物芯片技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "将许多核酸片段、多肽、蛋白质或组织、细胞等生物样品有序地固化在惰性载体（玻片、尼龙膜等）表面，组成的生化反应和分析系统。用以提高生物化学、分子生物学分析的效率和范围。"
+  },
+  {
+   "cn": "类列",
+   "en": "array",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.209",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "按照某种标准划分某类目而产生的一组并列的下位类的总称。这些类目相互排斥，整个类列应该穷尽上位类的外延。"
+  },
+  {
+   "cn": "数组",
+   "en": "array",
+   "source": "物理学名词",
+   "wordNumber": "01.0427",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阵列",
+   "en": "array",
+   "source": "物理学名词",
+   "wordNumber": "01.0428",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数组",
+   "en": "array",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "其元素可以通过下标直接选取的线性表。"
+  },
+  {
+   "cn": "阵列",
+   "en": "array",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "存储在计算机内存中的一组数据值，通常使用线性二维方式存储，也可以采用多维方式进行存储。"
+  },
+  {
+   "cn": "数组",
+   "en": "array",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.608",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "存储在计算机中的一组数据值，通常使用线性二维方式存储，也可以采用三维或更多维数来存储。"
+  },
+  {
+   "cn": "阵",
+   "en": "array",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.248",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_声发射检测仪器",
+   "subjectName": "声发射检测仪器",
+   "publishYear": "2003",
+   "definition": "为计算声发射源的位置，检测系统允许换能器按一定几何关系配置的一组排列。"
+  },
+  {
+   "cn": "传感阵列",
+   "en": "transducer array,sensor array",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0057",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "由多个传感器构成、用于输出多点或多参量信号的阵列。"
+  },
+  {
+   "cn": "分面",
+   "en": "facet,array",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.062",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "具有相同内在属性概念的分组。按照分面能将概念分为各种大类，分面下还可划分出次分面。每个分面都有自己的名称和标记符号。"
+  },
+  {
+   "cn": "组合",
+   "en": "array,group",
+   "source": "石油名词",
+   "wordNumber": "03.0390",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "位错列",
+   "en": "dislocation array",
+   "source": "地质学名词",
+   "wordNumber": "09.06.026",
+   "subjectFullName": "地质学_构造地质学_显微构造和岩组学",
+   "subjectName": "显微构造和岩组学",
+   "publishYear": "2026",
+   "definition": "由位错平行排列而成的位错阵列。"
+  },
+  {
+   "cn": "地震台阵",
+   "en": "seismologic array",
+   "source": "地质学名词",
+   "wordNumber": "11.04.039",
+   "subjectFullName": "地质学_地震地质学_地震预报",
+   "subjectName": "地震预报",
+   "publishYear": "2026",
+   "definition": "根据研究目的，在一定研究区，按某一规则(十字形、圆形、方形等)布设的一组地震仪。按工作性质可分为固定地震台阵、流动地震台阵，按控制范围可分为大、中、小孔径地震台阵等。"
+  },
+  {
+   "cn": "地幔趋势线",
+   "en": "mantle array",
+   "source": "地质学名词",
+   "wordNumber": "13.03.204",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "由洋中脊和洋岛玄武岩确定的地幔钕-锶同位素组成的相关曲线。"
+  },
+  {
+   "cn": "面阵探测器",
+   "en": "detector array",
+   "source": "天文学名词",
+   "wordNumber": "06.223",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由多个光子探测单元(即像元)纵横有序紧密排列集成的二维探测器，像元的信号相互独立。"
+  },
+  {
+   "cn": "红外面阵",
+   "en": "infrared array",
+   "source": "天文学名词",
+   "wordNumber": "06.257",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "主要工作在红外波段的二维光子探测器。"
+  },
+  {
+   "cn": "测辐射热计面阵",
+   "en": "bolometer array",
+   "source": "天文学名词",
+   "wordNumber": "06.262",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由多个测辐射热计并排组成的面阵探测器。各测辐射热计可视为像元，因电磁辐射的热效应而发生电阻变化，用于测量远红外、亚毫米波和毫米波时，需在小于1K的极低温下工作。"
+  },
+  {
+   "cn": "天线阵",
+   "en": "antenna array",
+   "source": "天文学名词",
+   "wordNumber": "06.395",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "按特定规则排列并协同工作的一组天线。"
+  },
+  {
+   "cn": "偶极天线阵",
+   "en": "dipole array",
+   "source": "天文学名词",
+   "wordNumber": "06.396",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "由偶极天线组成的射电阵列。"
+  },
+  {
+   "cn": "相控阵",
+   "en": "phased array",
+   "source": "天文学名词",
+   "wordNumber": "06.399",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "通过调节各天线间信号的相对相位来改变辐射方向图，可强化指定方向信号的天线阵。在射电天文中多为排列紧密的偶极天线。"
+  },
+  {
+   "cn": "阵列",
+   "en": "array",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数组",
+   "en": "array",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数组",
+   "en": "array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵列",
+   "en": "array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天线阵",
+   "en": "antenna array\",\"aerial array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "串联排列",
+   "en": "tandem array",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "声[学基]阵",
+   "en": "acoustic array",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位错排",
+   "en": "dislocation array",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "天线阵",
+   "en": "antenna array",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "望远镜阵",
+   "en": "telescope array",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阵列天线",
+   "en": "antenna array",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白质阵列",
+   "en": "protein array",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "寡核苷酸微阵列",
+   "en": "oligonucleotide array",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白质阵列",
+   "en": "protein array",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "寡核苷酸微阵列",
+   "en": "oligonucleotide array",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阵列处理器",
+   "en": "array processor",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串联排列",
+   "en": "tandem array",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阵列摄像机",
+   "en": "array camera",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "阿德科克阵列",
+   "en": "Adcock array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垂射阵列",
+   "en": "broadside array",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现场可编程门阵列",
+   "en": "field programmable gate array (FPGA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平方公里阵列射电望远镜",
+   "en": "Square Kilometer Array (SKA) Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球海洋观测网",
+   "en": "Array for Real-time Geostrophic Oceanography (ARGO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大规模多输入多输出天线阵列",
+   "en": "massive multiple-input multiple-output (MIMO) antenna array",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球脉动",
+   "en": "Global Pulse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脉冲放电",
+   "en": "pulse discharge",
+   "source": "消毒学",
+   "wordNumber": "2.2.9.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "短时发生电荷大量转移的过程。"
+  },
+  {
+   "cn": "脉冲紫外线消毒器",
+   "en": "pulsed ultraviolet disinfector",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.3.5",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用不含汞的高压脉冲氙灯发光技术和人工智能机器人在无人的条件下自动进行室内空气和物表消毒的紫外线消毒器。其原理是通过高压氙灯发射波长为200nm～1100nm的脉冲强光，在短时间内激发产生波长为200"
+  },
+  {
+   "cn": "脉冲电离室",
+   "en": "pulse ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.29",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "对每次探测到的电离事件都产生一个输出脉冲的电离室。"
+  },
+  {
+   "cn": "脉冲电离探测器",
+   "en": "pulse ionization detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.58",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "能探测单个电离事件的电离探测器。"
+  },
+  {
+   "cn": "脉冲高电压",
+   "en": "pulse high voltage",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.12",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "电压从零很快上升至很高电压（几千伏到几兆伏）并维持较短时间（几纳秒至几毫秒）后又降至零的脉动电压。"
+  },
+  {
+   "cn": "电磁脉冲武器",
+   "en": "electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "一种利用高能射频辐射为杀伤因素，以干扰和破坏敌方电子系统为主要目标的武器。其电磁波能量分散在一个很宽的频段内，任何一种频率对应的能量都极小，对有长电缆的设备干扰和破坏极大。"
+  },
+  {
+   "cn": "核电磁脉冲",
+   "en": "nuclear electromagnetic pulse",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.58",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸瞬间，产生于爆心周围的一个强大的电磁场。核武器的重要破坏因素之一，由核爆炸瞬间放出的、约占爆炸总能量0.1%的r 射线对爆心周围空气的电离而产生，其作用半径与爆炸方式、当量大小有关。"
+  },
+  {
+   "cn": "脉冲紫外线消毒灯",
+   "en": "pulsed ultraviolet disinfection lamp",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.2.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "基于瞬间放电的脉冲工程技术，以脉冲形式激发产生波长范围为200nm～280nm紫外线的紫外线消毒灯。"
+  },
+  {
+   "cn": "电磁脉冲武器损伤",
+   "en": "injuries of electromagnetic pulse weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.1.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "通过电磁脉冲的能量对目标造成的中枢神经、内分泌、心脏传导、造血、免疫、生殖等系统的损伤。早期为实质细胞变性坏死、血液循环障碍、衰竭及恶病质；晚后期为造血和免疫重建不良、肿瘤生长等。"
+  },
+  {
+   "cn": "离子收集脉冲电离室",
+   "en": "ion collection pulse ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "由全部收集离子和电子而获得输出信号的脉冲电离室。"
+  },
+  {
+   "cn": "脉冲半高宽",
+   "en": "pulse width at half height",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.15",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "纵向时间分布曲线峰值一半处两点间的全宽度，描述加速器脉冲束团粒子密度分布状态的物理量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
