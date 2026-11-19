@@ -108,3 +108,4 @@
 | [0074](0074-术语在线解禁重抓.md) | 术语在线解禁重抓（仅解除术语在线新增查询、CNKI 维持不新增；`tl_jwt_crawl` JWT 直连＋断点续抓＋节流 8→30s；凭证只作证据、登记仍走人工 A/B/C；取代 rules/03 的 2026-11-14 两源限制中术语在线部分） | accepted |
 | [0075](0075-存量回补与跨机收编账务.md) | 存量回补与跨机收编账务（specs/052：强制集 tighten 档重算记账〔pass 带 gate_version/witness、状态不迁移、fail 即停〕；账实不变量严格档入 check_all；判官崩溃不得读成被 judged 对象失败；18 件跨机收编 synthetic import＋回炉） | accepted |
 | [0076](0076-英文侧审计产物三类目制.md) | 英文侧审计产物三类目制（baseline/ 受控库 T/P/E 三类目：`en-template/` 模板契约正典＋例外登记册、`en-patches/` 原位、`en-errata/` 收编勘误表与分歧账＋译注挂载台账；GB/T 26162/18894＋DA/T 22＋IEEE 828 组合推导并登记标准清单；取代 ADR-0062 决策 3 存放位置条款；specs/053 P0） | accepted |
+| [0077](0077-页面级逆向装配与装配补集池.md) | 页面级逆向装配（B3.2）与装配补集池（`baseline/en-template/` 增 skeleton 冻结模板／page-layout 版式账／article-ledger 结构账／assembly-patches 补集池；分段模型 m/u/r 三类补丁＋P1 文字等值／P2 哈希命中／P3 全覆盖硬谓词；散文只来自 md、账内仅导航标签与字段；池体积为规则闭合率补数，证据语义与 B3.1/B2/I2 分层） | accepted |

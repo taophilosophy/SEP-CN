@@ -26,3 +26,5 @@
 * **bun ≥ 1.4**（本地 1.4.4；`engines`/`packageManager` 钉在构建壳 `taophilosophy.github.io/package.json`，ADR-0055）。
 * PDF 导出线（`create-pdf.yml`）用 Python 3.15（2026-11-16 用户裁定：随仓基线统一；原“暂留 3.13、待 weasyprint 上游支持”注记作废，ADR-0061）。
 * **SBOM 登记**（S07，ADR-0071）：软件物料清单 `specs/046-standards-compliance/results/sbom.json` 登记依赖与版本，可溯源；本仓 `tools/` 零第三方 Python 依赖（纯标准库），前端依赖属壳仓 `taophilosophy.github.io`（ADR-0055）。
+
+**B3.2 页面级判定（本地，未入 CI）**：`python -B specs/053-en-template-audit/bin/page_assemble.py --all`（只读判官：rule／pool／gap／stale 四态，产物 `specs/053-en-template-audit/results/page-scan.json`）；建池 `--build`（唯一写者，写 `baseline/en-template/assembly-patches/`）。口径见 ADR-0077：补集池只承载格式层（P1 文字等值／P2 哈希命中／P3 全覆盖），缺口件不入池保持红。全库约 10 分钟（0.18 s/件＋慢件）。CI 接入待下一批（差集口径同 en-roundtrip）。

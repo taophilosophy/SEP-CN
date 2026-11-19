@@ -14,7 +14,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.03
+   "sec": 0.027
   },
   {
    "slug": "david",
@@ -24,7 +24,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.021
+   "sec": 0.019
   },
   {
    "slug": "elias",
@@ -34,7 +34,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.014
+   "sec": 0.017
   },
   {
    "slug": "peirce-benjamin",
@@ -44,7 +44,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.024
+   "sec": 0.025
   },
   {
    "slug": "evolution",
@@ -54,7 +54,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.023
+   "sec": 0.021
   },
   {
    "slug": "reism",
@@ -64,7 +64,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.04
+   "sec": 0.039
   },
   {
    "slug": "holes",
@@ -74,7 +74,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.063
+   "sec": 0.05
   },
   {
    "slug": "lady-masham",
@@ -84,7 +84,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.039
+   "sec": 0.041
   },
   {
    "slug": "richard-sophister",
@@ -94,7 +94,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.042
+   "sec": 0.036
   },
   {
    "slug": "cockburn",
@@ -104,7 +104,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.037
+   "sec": 0.034
   },
   {
    "slug": "penbygull",
@@ -114,7 +114,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.033
+   "sec": 0.03
   },
   {
    "slug": "crathorn",
@@ -134,7 +134,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.157
+   "sec": 0.138
   },
   {
    "slug": "abelard",
@@ -144,7 +144,7 @@
     "sections": true,
     "parses": true
    },
-   "sec": 0.15
+   "sec": 0.146
   },
   {
    "slug": "bayes-theorem",
@@ -156,10 +156,10 @@
    },
    "first_diff": {
     "op": "replace",
-    "md": "ject to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral",
-    "asm": "to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q\\*\\*\\*P\\*\\*_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral"
+    "md": "*(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay",
+    "asm": "*Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q\\*\\*\\*P_{*E*}(*H*) + (1 −*q)P*_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay"
    },
-   "sec": 0.141
+   "sec": 0.132
   }
  ]
 }

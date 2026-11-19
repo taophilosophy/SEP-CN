@@ -157,3 +157,26 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 - 判官：`specs/047.../bin/verify_structure.py`（B2）、specs/053 装配链（B3.1/B3.2）——P1／建池批次实现。
 - 负向证伪（全部必报）：B2 构造丢一节／丢一脚注 md；B3.1 篡改 md 任意一字节；B3.2 动池任一条或动 md；补丁可逆 fixture 篡改上下文。
 - 凭证产物：`results/structure-scan.json`、`results/assembly-diff-census.json`、sha 全等清单（1,872 行）。
+
+## 10. B3.2 实施记（2026-11-19，ADR-0077）
+
+**装配链**（四件套，全部落地并被本记的实测数字驱动）：
+
+| 件 | 位置 | 语义 |
+| ---- | ---- | ---- |
+| 骨架模板 | `baseline/en-template/skeleton/` | 19 件冻结模板（headA 1／headmid 1／headrest 2／pre 5／postrest 10），槽位 `@S@`（slug）、`@CR@`（版权块）、`@SY@`（站点年） |
+| 版式账 | `baseline/en-template/page-layout.json` | 逐词条字段（标题／作者／日期／版权年／作者主页 URL／邮箱）＋三处时代号 |
+| 结构账 | `baseline/en-template/article-ledger.json` | hids／bib_seq／bib_groups／bib_indices／bib_ids／bib_tree／rel_links／acad_icons／tables／links／entities／greek／toc_block／wrap_width |
+| 装配补集池 | `baseline/en-template/assembly-patches/<slug>.json` | 分段模型 m／u／r 三类补丁＋P1/P2/P3 硬谓词（`assembly_pool.py` v4） |
+
+**实测（同轮，`results/page-scan.json`）**：
+
+- **chrome 层：1,873／1,873 逐字节闭合**（head＋meta＋body 前导＋页脚＋版权块含邮箱混淆规则，零补集）。这是纯规则结果，证据力最强的一档。
+- **页面级：规则 0／池 616（32.9%）／缺口 1,257**；池体积 3.88 MB／页 236 MB＝**1.64%**（T7 口径：规则闭合率约 98.4% 的字节由规则承载）。
+- B3.1 未受影响：试金石 14／15（bayes-theorem 为既有残差）。
+
+**缺口族（首差上下文归类，1,257 件）**：段落行内（`p`）约 58%、表格（`table`）约 10%、列表（`ul`，含嵌套）约 12%、引块 4%、定义列表（`dl`）3%、文献区小节标题错位（adorno 判例：H0 的 `h4` 小节题在 md 中被并入其他层）等。共同根因是 **C 转换层的结构改写**（嵌套列表→文献定义行、表格 thead/tbody 与空单元、松散列表 `<li><p>`、文献区小节题层级），非 B3.2 判定器缺陷。
+
+**已固化的规则（本轮，均以判例驱动）**：星号开星放宽为“左紧且右非字母数字”（Düring 判例）；脚注引用回写 `<sup>[<a href="notes.html#note-N">N</a>]</sup>`（站点规范形）；外链补 `target="other"`（21,345:1,440 实测）；链接文字允许一级方括号（书目 `[X 1997 [2016] …]` 形）；参考文献区散文与 h3/h4 小节题原位发（18thGerman 判例）；`&nbsp;` 计入空白层；同形希腊宏按件出现序账（phi／varphi）。
+
+**口径**：缺口件不入池（A5 残差面谓词拒绝文字层差异），保持红并在本记与 execution-log 逐族登记；池与账为冻结派生件，规则迭代后旧池显“陈旧”即重抽。

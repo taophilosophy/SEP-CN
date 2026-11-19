@@ -59,7 +59,91 @@ SUB_MAP = getattr(yuanwen, "SUB_MAP", {})
 SUP_MAP = getattr(yuanwen, "SUP_MAP", {})
 GREEK_UNI = getattr(yuanwen, "GREEK_UNI", {})
 GREEK_C_DEFER = getattr(yuanwen, "GREEK_C_DEFER", set())
-GREEK_REV = {v: k for k, v in GREEK_UNI.items()}
+GREEK_REV = {}
+for _k, _v in GREEK_UNI.items():
+    GREEK_REV.setdefault(_v, _k)  # 同形多宏取首名（phi 优先于 varphi）
+SUP_REV = {v: k for k, v in SUP_MAP.items()}
+SUB_REV = {v: k for k, v in SUB_MAP.items()}
+_EM = None  # 按件实体策略（codepoint → 实体串）；reassemble_article 入口设置
+_GREEK = None  # 按件希腊宏账（同形字 phi/varphi 按出现序），入口设置
+_GREEK_IDX = {}
+_LINKS = None  # 按件内部链接账（[{text,href}]，文档序）；C 丢弃的内部链接由此还原
+_LINKS_USED = None  # 已消费计数（按 text 出现序）
+
+
+def _stripped_map(s):
+    """去 md 记号（*、\\、_{…}/^{…} 括号）后的可见串 + 位置映射。"""
+    out, pos, stack = [], [], []
+    i = 0
+    while i < len(s):
+        if s.startswith("_{", i) or s.startswith("^{", i):
+            stack.append(1)
+            i += 2
+            continue
+        c = s[i]
+        if c == "}" and stack:
+            stack.pop()
+            i += 1
+            continue
+        if c in "*\\":
+            i += 1
+            continue
+        out.append(c)
+        pos.append(i)
+        i += 1
+    return "".join(out), pos
+
+
+def restore_links(line):
+    """在 md 行内按账还原内部链接：把第 n 次出现的锚文包成 [text](href)。"""
+    if not _LINKS:
+        return line
+    for li, lk in enumerate(_LINKS):
+        t = lk.get("text") or ""
+        if not t or li in _LINKS_USED:
+            continue
+        flat, pos = _stripped_map(line)
+        nth = _LINKS_USED.get(("n", t), 0)
+        k = -1
+        for _ in range(nth + 1):
+            k = flat.find(t, k + 1)
+            if k < 0:
+                break
+        if k < 0:
+            continue
+        a, b = pos[k], pos[k + len(t) - 1] + 1
+        line = line[:a] + "[%s](%s)" % (line[a:b], lk["href"]) + line[b:]
+        _LINKS_USED[li] = True
+        _LINKS_USED[("n", t)] = nth + 1
+    return line
+
+
+def encode_outside_math(s, policy):
+    """文本层非 ASCII 字符按件内实体形态回写；`\\(…\\)`/`\\[…\\]` 段原样保留。"""
+    if not policy:
+        return s
+    keep = []
+
+    def st(m):
+        keep.append(m.group(0))
+        return "\x03%d\x03" % (len(keep) - 1)
+
+    s = re.sub(r"\\\([^)]*\\\)|\\\[[^\]]*\\\]|\x02\d+\x02", st, s)
+    s = "".join(policy.get(c, c) for c in s)
+    for i, v in enumerate(keep):
+        s = s.replace("\x03%d\x03" % i, v)
+    return s
+
+
+def _unsubsup(s, rev, tag):
+    """连续同族上/下标字形段 → 单个 <sup>/<sub> 标签（C 只在整段可映射时产字形）。"""
+    if not rev:
+        return s
+    cls = "".join(re.escape(c) for c in rev)
+
+    def rep(m):
+        return "<%s>%s</%s>" % (tag, "".join(rev[c] for c in m.group(0)), tag)
+    return re.sub("[%s]+" % cls, rep, s)
 
 FIXED_NOTE = ("原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，"
               "完整条目见本文末脚注定义。")
@@ -79,7 +163,11 @@ def _inline_md_to_html(text):
     # 引注标记剥除——link_citations 确定性重生成（keys 同源）
     s = re.sub(r"\[\^(?!note-)[^\]\s]+\]", "", s)
     # 注释引用 → 锚链接（NOTE_REF_RE 可匹配的两种 href 形任选其一）
-    s = re.sub(r"\[\^note-([^\]\s]+)\]", r'<a href="notes.html#note-\1">\1</a>', s)
+    # 注释引用 → 站点原始形（<sup>[<a href="notes.html#note-N">N</a>]</sup>；
+    # 方括号在 sup 内——C 侧 NOTE_REF_RE 的规范形）
+    s = re.sub(r"\[\^note-([^\]\s]+)\]",
+               lambda m: '<sup>[<a href="notes.html#note-%s">%s</a>]</sup>'
+               % (m.group(1), m.group(1)), s)
     # 数学先占位——TeX 内的 _{x}/^{x} 不得被下面的 sub/sup 规则改写
     # （dutch-book 判例：$\pr_{t}$ 曾变 $\pr<sub>t</sub>$ → C 出 ₜ）
     math_store = []
@@ -89,19 +177,29 @@ def _inline_md_to_html(text):
         return "\x02%d\x02" % (len(math_store) - 1)
 
     s = re.sub(r"\$\$[^$]+\$\$|\$[^$]+\$", _stash_math, s)
+    # 原生上/下标 Unicode 字形 → <sup>/<sub>：C 的 _subsup_md 在“整段可映射”
+    # 时直接产 Unicode 字形（6<sup>th</sup> → 6ᵗʰ），右逆须还原为标签段
+    s = _unsubsup(s, SUP_REV, "sup")
+    s = _unsubsup(s, SUB_REV, "sub")
     # 链接（分类还原；页内锚/index.html 链接 C 本就丢弃 → 纯文本）
     def _link(m):
         t, url = m.group(1), m.group(2)
         if url.startswith(("http://", "https://")):
-            return '<a href="%s">%s</a>' % (url, t)
+            # 站点惯例：外链带 target="other"（正文 21,345:1,440 实测；异形入补集）
+            return '<a href="%s" target="other">%s</a>' % (url, t)
         m2 = re.fullmatch(r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
         if m2:
             return '<a href="%s">%s</a>' % (m2.group(1), t)
         m3 = re.fullmatch(r"([a-z0-9-]+)\.([a-z0-9-]+)\.md", url)
         if m3:
             return '<a href="%s.%s">%s</a>' % (m3.group(2), "html", t)
-        return t  # 页内锚／index.html 链接——C 原样丢链接保文本
-    s = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", _link, s)
+        # 内部链接账还原形（C 丢弃的两族：跨词条 `../slug/`、页内 `#anchor`）
+        if url.startswith(("../", "#")):
+            return '<a href="%s">%s</a>' % (url, t)
+        return t  # 其他页内／index.html 链接——C 原样丢链接保文本
+    # 链接文字可含一级方括号（书目形 `[Ervin 1997 [2016] available online](url)`），
+    # 但不得吞掉外层字面括号（`[[text](url)]` 取内层）
+    s = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)\s]+)\)", _link, s)
     # 行内代码
     s = re.sub(r"`([^`]*)`", r"<code>\1</code>", s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
@@ -110,10 +208,14 @@ def _inline_md_to_html(text):
     s = re.sub(r"\^\{([^}]*)\}", r"<sup>\1</sup>", s)
     # 强调／粗体（单层；C 的 em 先于 strong，嵌套粗斜体在像内为 ***x***——
     # 简形词条未出现，残差清单登记）
-    # 强调／粗体：小型星解析器——C 输出的强调定界符恒「紧」（内侧无空格，
+    # 强调／粗体：小型星解析器——C 输出的强调定界符恒“紧”（内侧无空格，
     # _md_emphasis strip 保证），据此把裸星三分类：开／闭／字面（W10：
     # happens* 与 10 * Prob 的乘号/记号星不再被误配对）
     s = _star_parse(s)
+    # 实体策略（按件位，见 article_ledger 的 entities 账）：文本层非 ASCII 字符
+    # 按件内固定形态回写为实体；数学段与已占位公式不参与
+    if _EM:
+        s = encode_outside_math(s, _EM)
     # 数学占位还原（$x$ → \(x\)；$$x$$ → \[x\]）
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
@@ -126,13 +228,32 @@ def _inline_md_to_html(text):
     return s
 
 
+def link_misses():
+    """未消费的内部链接账条目数（账与 md 不一致的硬信号）。"""
+    if not _LINKS:
+        return []
+    return [lk for i, lk in enumerate(_LINKS) if i not in (_LINKS_USED or {})]
+
+
 def _em(inner):
     """孤立希腊斜体回写 \\(\\alpha\\)（ADR-0049 逆映射，反斜杠必须有——C 侧
     fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
     m = re.fullmatch(r"([A-Za-zα-ωΑ-Ω]+)", inner)
     if m and m.group(0) in GREEK_REV and m.group(0) not in GREEK_C_DEFER:
-        return r"\(\%s\)" % GREEK_REV[m.group(0)]
+        name = _greek_next(m.group(0))
+        return r"\(\%s\)" % name
     return "<em>%s</em>" % inner
+
+
+def _greek_next(cp):
+    """按件希腊宏：账内按出现序取，缺省用规范名。"""
+    seq = (_GREEK or {}).get(cp)
+    if seq:
+        i = _GREEK_IDX.get(cp, 0)
+        if i < len(seq):
+            _GREEK_IDX[cp] = i + 1
+            return seq[i]
+    return GREEK_REV.get(cp)
 
 
 def _star_parse(s):
@@ -155,8 +276,10 @@ def _star_parse(s):
         prev_tight = bool(before) and not before[-1:].isspace()
         next_tight = bool(after) and not after[:1].isspace()
         # 开星要求左邻非字母数字（(G*1) 类记号星、A* 类字面星不误开）；
-        # 存疑一律按字面——字面星经 C 原样回写，不动点不受损
+        # 但“左紧右非字母数字”仍是合法开星（Düring 判例：`Animalium*: Critical`
+        # 上游 em 在冒号处另起一段强调）；存疑一律按字面
         prev_alnum = bool(before) and before[-1:].isalnum()
+        next_alnum = bool(after) and after[:1].isalnum()
         L = len(run)
         want = ["strong", "em"] if L >= 3 else (["strong"] if L == 2 else ["em"])
         if all(k in marks for k in want) and prev_tight:
@@ -170,7 +293,8 @@ def _star_parse(s):
                 out.append(_em(content.strip()))
             else:
                 out.append("<strong>%s</strong>" % content)
-        elif not any(k in marks for k in want) and next_tight and not prev_alnum:
+        elif (not any(k in marks for k in want) and next_tight
+              and not (prev_alnum and next_alnum)):
             slot = len(out)
             for k in want:
                 marks[k] = slot
@@ -192,9 +316,30 @@ def _td(cell):
 
 # ------------------------------------------------------------ 块级逆写 ----
 
-def reassemble_article(md, authors):
-    """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。"""
+def reassemble_article(md, authors, entity_map=None, links=None, greek=None):
+    """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
+
+    entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
+    links：内部链接账（C 丢弃的 `../slug/` 与 `#anchor` 链接），按文档序还原；
+           未消费条目经 LINK_MISSES 暴露给判官（账/文不一致即红）。
+    greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
+    global _EM, _LINKS, _LINKS_USED, _GREEK, _GREEK_IDX
+    _GREEK = greek
+    _GREEK_IDX = {}
+    _EM = entity_map
+    _LINKS = links or []
+    _LINKS_USED = {}
     lines = md.split("\n")
+    if _LINKS:
+        infence = False
+        new = []
+        for ln in lines:
+            if ln.strip().startswith("```"):
+                infence = not infence
+                new.append(ln)
+                continue
+            new.append(ln if infence else restore_links(ln))
+        lines = new
     out = []          # HTML 片段
     title = None
     i = 0
@@ -233,23 +378,37 @@ def reassemble_article(md, authors):
             if text == "References（引用注释）":
                 out.append("<h2>Bibliography</h2>")
                 i += 1
-                # 剥固定注（render_blocks 再生）；区散文段按序先发（bib_entries
-                # 次序＝HTML 文档序——abhidharma 判例：prose 先于 ul，
-                # 次序颠倒即全键错位）；文献 li 随后原位发射
+                # 剥固定注（render_blocks 再生）；区内按文档序发题与散文段
+                # （文献题可至 h4、题后散文须原位——18thGerman 判例），
+                # 定义行统一在区末 ul 发射（B3.1 键序＝md 定义序）
                 while i < n and (not lines[i].strip()
                                  or lines[i].startswith("> ")
                                  or lines[i].strip() == ">"):
                     i += 1
-                region_ps = []
                 while i < n:
                     s2 = lines[i].strip()
-                    if (not s2 or s2.startswith("#") or MD_DEF_RE.match(lines[i])
-                            or s2.startswith("|") or MD_LIST_RE.match(lines[i])):
+                    if not s2:
+                        i += 1
+                        continue
+                    if s2.startswith("> ") or s2 == ">":
+                        i += 1
+                        continue
+                    mh = MD_HEAD_RE.match(lines[i])
+                    if mh:
+                        lv2 = len(mh.group(1))
+                        if lv2 <= 2:
+                            break
+                        out.append("<h%d>%s</h%d>" % (
+                            lv2, _inline_md_to_html(mh.group(2).strip()), lv2))
+                        i += 1
+                        continue
+                    if MD_DEF_RE.match(lines[i]):
+                        i += 1
+                        continue
+                    if s2.startswith("|") or MD_LIST_RE.match(lines[i]):
                         break
-                    region_ps.append(s2)
-                    i += 1
-                for s2 in region_ps:
                     out.append("<p>%s</p>" % _inline_md_to_html(s2))
+                    i += 1
                 if bib_defs and not bib_ul_emitted:
                     lis = "".join("<li>%s</li>" % _inline_md_to_html(d)
                                   for d in bib_defs)
