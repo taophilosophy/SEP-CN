@@ -1,0 +1,22 @@
+{
+ "key": "ecumenism",
+ "term": "ecumenism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:41:55+00:00",
+ "status": "ok",
+ "note": "variant=ecumenism; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "人境",
+   "en": "ecumene",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

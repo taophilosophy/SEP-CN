@@ -1,0 +1,482 @@
+{
+ "key": "samtanantarasiddhi proof",
+ "term": "Saṃtānāntarasiddhi Proof",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:43:48+00:00",
+ "status": "ok",
+ "note": "variant=Saṃtānāntarasiddhi Proof; 审定公布名词库=389; 海峡两岸名词对照库=80; 其他来源数据库=4; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.154",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据已知为真的判断，来确定另一判断真实性的思维过程。广义上包括实践检验。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.247",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "将已经初步编辑完成的稿件和版面打印出来准备校对的样张。"
+  },
+  {
+   "cn": "校样",
+   "en": "proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.009",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "根据发排稿排版后印出的供校对使用的样张。"
+  },
+  {
+   "cn": "证[明]",
+   "en": "proof",
+   "source": "数学名词",
+   "wordNumber": "01.0024",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.136",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "在信息载体上，呈现仿真印刷效果的影像，或制作出具有仿真影像的印张。"
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "测绘学名词",
+   "wordNumber": "04.355",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "在正式印刷前，预先复制样图的过程。"
+  },
+  {
+   "cn": "直接证明",
+   "en": "direct proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.156",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑证明的一种方法。依照推理规则直接从论据的真实性推出论题真实性的一种论证。"
+  },
+  {
+   "cn": "间接证明",
+   "en": "indirect proof",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.157",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种与“直接证明”相对的逻辑证明方法。常用的是反证，通过否定一个命题会导致与其他先前已被肯定的命题发生矛盾，从而确立这个命题成立。"
+  },
+  {
+   "cn": "小样",
+   "en": "galley proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "稿件正文和标题录入后打印出的样张。"
+  },
+  {
+   "cn": "清样",
+   "en": "final proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.25",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "小样、大样经过校对修改后打印出的样张。"
+  },
+  {
+   "cn": "清样",
+   "en": "clean proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.029",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "改完版后重新打印的未经再次校对的纸样。"
+  },
+  {
+   "cn": "红样",
+   "en": "dirty proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.030",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "经过校对人员修改过的校样。相对于清样而言。"
+  },
+  {
+   "cn": "处理校样",
+   "en": "proof processing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.035",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "稿件排出校样后，编辑人员进行审读并做出处理的编辑活动。"
+  },
+  {
+   "cn": "纸样",
+   "en": "print proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.144",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "对稿件或版面打印出来的样张总称。"
+  },
+  {
+   "cn": "数字样张",
+   "en": "digital proof",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.139",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "由数字数据在显示器或某种基材上产生的软拷贝或硬拷贝。"
+  },
+  {
+   "cn": "广告证明",
+   "en": "advertising proof",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.313",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "表明广告客户主体资格和广告内容是否真实、合法的文件、证件。《广告管理条例》规定广告客户委托广告经营者办理广告业务时应当提交和交验广告证明文件。"
+  },
+  {
+   "cn": "耐压压力",
+   "en": "proof pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0833",
+   "subjectFullName": "机械工程（一）_传动_液压传动_压力",
+   "subjectName": "压力",
+   "publishYear": "2021",
+   "definition": "在装配后施加的，超过元件或配管的最高额定压力而不引起元件损坏或后期故障的试验压力。"
+  },
+  {
+   "cn": "彩色校样",
+   "en": "color proof",
+   "source": "测绘学名词",
+   "wordNumber": "04.357",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "依照原稿及设计要求预先印刷的彩色样图。以供审批、修改或作为色标使用。"
+  },
+  {
+   "cn": "终止性证明",
+   "en": "termination proof",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0966",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "证明对所有符合要求的输入程序都将终止。"
+  },
+  {
+   "cn": "证明复杂性",
+   "en": "proof complexity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0275",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个数学命题在一个证明系统中最短证明的长度。"
+  },
+  {
+   "cn": "证明",
+   "en": "proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打样",
+   "en": "proofing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "防爆",
+   "en": "explosion proof",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抗腐蚀",
+   "en": "corrosion proof",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "打样图",
+   "en": "proof plot",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "彩色校样",
+   "en": "color proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分色样张",
+   "en": "progressive proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "开印样",
+   "en": "press proof",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "样张",
+   "en": "proof copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "构造性证明",
+   "en": "constructive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交互式证明",
+   "en": "interactive proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正确性证明",
+   "en": "correctness proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明策略",
+   "en": "proof strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证明树",
+   "en": "proof tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识证明",
+   "en": "knowledge proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终止性证明",
+   "en": "termination proof",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防风雨的",
+   "en": "weather-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防水的",
+   "en": "water-proof",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防洪法",
+   "en": "flood proofing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "防水处理",
+   "en": "water proofing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "零知识证明",
+   "en": "zero-knowledge proof",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人行程证明",
+   "en": "proof of travel; travel records ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "患在土崩，不在瓦解",
+   "en": "Calamity Is Collapse Like a Landslide, Not a Few Roof-tiles Coming Loose.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死亡证明",
+   "en": "death proof",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.023",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "基于临床诊断开具的包括死亡时间、地点和原因等在内的具有法律效力的文书。"
+  },
+  {
+   "cn": "营舍防潮",
+   "en": "barrack damp proof",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.1.2.3.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使营舍内的空气湿度、渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度，通过建筑结构或人工措施，以各种物理、化学方法进行通风、排水等的操作。"
+  },
+  {
+   "cn": "坑道防潮",
+   "en": "tunnel moisture proofing",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种物理、化学方法或通风、排水等工程技术手段，使坑道中空气湿度、坑道内的渗水、凝水等减少或降低至不影响人体健康、生活和工作，且不引起人体不舒适、不影响设备设施的正常运行和寿命的程度。"
+  },
+  {
+   "cn": "抗Sa抗体",
+   "en": "anti-Sa antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.27",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。在类风湿关节炎中阳性率为40%，特异性98.9%，但类风湿关节炎早期仅约23%。靶抗原Sa蛋白主要存在于人胎盘、脾脏及RA患者关节滑膜血管翳组织中。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

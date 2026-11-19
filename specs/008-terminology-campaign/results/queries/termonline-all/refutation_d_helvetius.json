@@ -1,0 +1,162 @@
+{
+ "key": "refutation d'helvetius",
+ "term": "Réfutation d’Helvétius",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:44:20+00:00",
+ "status": "ok",
+ "note": "variant=Réfutation d’Helvétius; 审定公布名词库=11; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.159",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "驳斥他人论证的一种逻辑方式。运用已知的真实性判断确定要反驳的判断的虚假性的思维方式。"
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0063",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "证明一个命题的否定成立的过程。"
+  },
+  {
+   "cn": "名誉",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.101",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "特定人(包括自然人和法人)获得的品质、操守、才能及其他素质的社会评价。"
+  },
+  {
+   "cn": "美誉度",
+   "en": "reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.086",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系实务",
+   "subjectName": "公关关系实务",
+   "publishYear": "2022",
+   "definition": "组织获得公众信任、好感、接纳和欢迎的程度。是评价组织声誉好坏的社会指标，侧重于“质”的评价，即公众对组织及其社会影响之善恶、美丑、好坏方面的主观感受，反映了公众对组织的信任和赞美程度。"
+  },
+  {
+   "cn": "信誉",
+   "en": "reputation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0385",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "基于实体（如软件）过去行为的信息对其当前行为及其服务质量等的期望。"
+  },
+  {
+   "cn": "反驳树",
+   "en": "refutation tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0091",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "反驳证明过程的树表示法。"
+  },
+  {
+   "cn": "信誉系统",
+   "en": "reputation system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0210",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "含有信任模型、评定信息传播、信任评价机制的系统。"
+  },
+  {
+   "cn": "组织声誉",
+   "en": "organizational reputation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0265",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织结构与文化",
+   "subjectName": "组织结构与文化",
+   "publishYear": "2016",
+   "definition": "组织的过去行为结果和将来前景对其所有利益相关者的整体吸引力。"
+  },
+  {
+   "cn": "名誉权",
+   "en": "right of reputation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.102",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "公民、法人、非法人组织等享有应该受到社会公正评价和要求他人不得非法损害这种公正评价的权利，名誉权的主体不仅包括自然人，还包括法人、非法人组织、死者等。"
+  },
+  {
+   "cn": "记名",
+   "en": "ji ming;name recording: re­cords of good reputation",
+   "source": "中国古代史名词",
+   "wordNumber": "8.199",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "清朝考绩优异及有功官员可由吏部、军机处等存记其名，以备优先奏请补缺的制度。"
+  },
+  {
+   "cn": "清望官",
+   "en": "qing wang guan;official of a pure and noble reputation",
+   "source": "中国古代史名词",
+   "wordNumber": "5.093",
+   "subjectFullName": "中国古代史_隋唐五代_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "职掌重要且声望清贵的官职。自魏晋以来士族所任官职发展而来，唐指三品以上及三省侍郎、尚书左右丞、太常少卿、秘书少监、太子少詹事、左右庶子、左右率府率及国子司业等官，吏员、伎术官等非正途出身之人一般不得担"
+  },
+  {
+   "cn": "反驳",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证伪",
+   "en": "refutation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "Web信誉服务",
+   "en": "web reputation service (WRS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社区名誉保护原则",
+   "en": "principle of preserving the reputation of the community",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.043",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在疫情防控过程中，为避免将种族、地域等社区特征与传染性疾病相联系，造成对某些社区及其人群的歧视而制定的避免社区名誉受到不正当损害的行为准则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

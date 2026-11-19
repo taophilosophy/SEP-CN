@@ -1,0 +1,22 @@
+{
+ "key": "tappenden ferreiros",
+ "term": "Tappenden Ferreirós",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:42:41+00:00",
+ "status": "ok",
+ "note": "variant=Tappenden Ferreirós; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "附加准直器",
+   "en": "appended collimator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "放射医学与防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2014",
+   "definition": "在利用医用电子直线加速器进行头部立体定向放射治疗时，在辐射头下方安装的不同尺寸的圆形准直器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

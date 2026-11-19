@@ -1,0 +1,722 @@
+{
+ "key": "one's pathe",
+ "term": "one’s pathê",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:42:02+00:00",
+ "status": "ok",
+ "note": "variant=one’s pathê; 审定公布名词库=349; 海峡两岸名词对照库=107; 其他来源数据库=56; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "二进制反码",
+   "en": "one's complement",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0301",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "将一个二进制数中的1变为0、0变为1以后所得的数。例如，1101010的反码为0010101。"
+  },
+  {
+   "cn": "迹线",
+   "en": "path,path line",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0453",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "一组有序的位姿。"
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "物理学名词",
+   "wordNumber": "02.0036",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "路程",
+   "en": "path",
+   "source": "物理学名词",
+   "wordNumber": "02.0035",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "途径",
+   "en": "path",
+   "source": "化学名词",
+   "wordNumber": "04.0044",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统自一个状态变化到另一状态经历的具体路径。"
+  },
+  {
+   "cn": "游步道",
+   "en": "path",
+   "source": "建筑学名词",
+   "wordNumber": "08.0155",
+   "subjectFullName": "建筑学_风景园林_园林工程",
+   "subjectName": "园林工程",
+   "publishYear": "2014",
+   "definition": "园路系统的最末梢，供游人休憩、散步、游览的通幽曲径，可通达园林绿地的各个角落，是到广场、园景的捷径。"
+  },
+  {
+   "cn": "通道",
+   "en": "path",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.038",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "网络中任意两点或两个节点之间的路径。"
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "地理学名词",
+   "wordNumber": "17.096",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "个体在时空间活动的连续轨迹。"
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.037",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "通路",
+   "en": "path",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0004",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "小道",
+   "en": "path",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "途径",
+   "en": "path",
+   "source": "化学工程名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "路",
+   "en": "path",
+   "source": "数学名词",
+   "wordNumber": "03.0084",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "路程",
+   "en": "path",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "道路",
+   "en": "path",
+   "source": "数学名词",
+   "wordNumber": "08.0501",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通道",
+   "en": "path",
+   "source": "电子学名词",
+   "wordNumber": "21.148",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "自动化名词",
+   "wordNumber": "05.177",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "路径",
+   "en": "path,itinerary",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[样本]轨道",
+   "en": "path,trajectory",
+   "source": "数学名词",
+   "wordNumber": "09.0204",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "途径",
+   "en": "path",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "路径",
+   "en": "path",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "路线",
+   "en": "path",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "通路，路径",
+   "en": "path",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最佳途径",
+   "en": "optimal path\",\"optimum path",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "白道",
+   "en": "moon path",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光程",
+   "en": "optical path",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "路径追踪",
+   "en": "path tracing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反应途径",
+   "en": "reaction path",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自由程",
+   "en": "free path",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "迹线",
+   "en": "path line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "临界途径",
+   "en": "critical path",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "路径函数",
+   "en": "path function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "程长",
+   "en": "path length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯途径,职业生涯路径",
+   "en": "career path",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "路径分析",
+   "en": "path analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "路径相关性",
+   "en": "path-dependency",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "白道",
+   "en": "moon's path",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "光程",
+   "en": "optical path",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反应途径",
+   "en": "reaction path",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "以头碰撞",
+   "en": "butt one’s head",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "见闻之知",
+   "en": "Knowledge from One’s Senses",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正心",
+   "en": "Rectify One’s Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲亲",
+   "en": "Affection for One’s Kin",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊德性",
+   "en": "Revere One’s Virtuous Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱类",
+   "en": "Loving One’s Own Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自信",
+   "en": "Believe in One’s Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为我",
+   "en": "For One’s Own Sake",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "践形",
+   "en": "Cultivate One’s Innate Quality to Be Revealed in One’s Appearance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "散郁陶，托风采",
+   "en": "Words Can Dispel One’s Pent-up Feelings and Display One’s Elegance.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "畅神",
+   "en": "Free Flow of One’s Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "与对手保持距离",
+   "en": "keep one’s opponent at distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失去平衡",
+   "en": "take off balance\",\"losing one’s balance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舍生取义",
+   "en": "Give One’s Life to Uphold Righteousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独抒性灵，不拘格套",
+   "en": "Bold Expression of One’s True Self",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "路径准确度",
+   "en": "path accuracy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "路径重复性",
+   "en": "path repeatability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "路径分析",
+   "en": "path analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.123",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "假设一组观测变量间存在因果关系，并以路径图的方式将变量间的因果关系表示出来，再根据模型的拟合程度检验观测数据是否支持假设的因果关系的统计分析法。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  },
+  {
+   "cn": "平均自由程",
+   "en": "mean free path",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.14",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "某种粒子在给定介质中相继发生一种或几种反应或过程之间平均穿行的距离。SI单位为米，记作m。"
+  },
+  {
+   "cn": "最短距离法",
+   "en": "shortest path analysis",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "利用从居住地到最近医疗卫生服务点的距离、时间或费用等数据来衡量空间可及性,通常采用直线距离或交通网络距离来表示的方法。"
+  },
+  {
+   "cn": "摸着石头过河",
+   "en": "grope ones way across the river",
+   "source": "马克思主义",
+   "wordNumber": "03.0522",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年12月在中央工作会议上，陈云讲话称：“我们要改革，但是步子要稳。……随时总结经验，也就是要‘摸着石头过河’”。邓小平对陈云提出的“摸着石头过河说”完全赞同。 邓小平强调“摸着石头过河”, 就"
+  },
+  {
+   "cn": "和平发展道路",
+   "en": "path of peaceful development",
+   "source": "马克思主义",
+   "wordNumber": "03.0670",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过和平的方式实现国家发展,是“和平”与“发展”的完美结合，和平是发展之基，发展是和平之本。内容包括:争取和平的国际环境发展自己，又以自身的发展促进世界和平；依靠自身力量和改革创新实现发展，同时坚持实"
+  },
+  {
+   "cn": "中国式现代化",
+   "en": "Chinese path to modernization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0151",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国式现代化是中国共产党领导的社会主义现代化。既有各国现代化的共同特征，更有基于自己国情的中国特色。中国式现代化是人口规模巨大的现代化，是全体人民共同富裕的现代化，是物质文明和精神文明相协调的现代化，"
+  },
+  {
+   "cn": "血管免疫母细胞性淋巴结病",
+   "en": "Angimmunoblastic lymphadcno pathy with dysprroteineeoda,AILD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.9.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组病因未明的、包含了从良性过度增生到恶性病变的淋巴组织增生性疾病。临床表现复杂，以发热、淋巴结肿大为主要特征，可伴多系统损害，如肝脾肿大、皮疹伴瘙痒、关节肌肉疼痛等，确诊需要结合组织病理学、免疫学、"
+  },
+  {
+   "cn": "中国特色社会主义道路",
+   "en": "socialist path with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0697",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下，立足基本国情，以经济建设为中心，坚持四项基本原则，坚持改革开放，解放和发展社会生产力，建设社会主义市场经济、社会主义民主政治、社会主义先进文化、社会主义和谐社会、社会主义生态文明，"
+  },
+  {
+   "cn": "小道理服从大道理",
+   "en": "minor principles should be subordinated to major ones",
+   "source": "马克思主义",
+   "wordNumber": "04.0139",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志提出的处理和解决全局与局部、大局与小局矛盾的基本原则。1979年3月，邓小平在党的理论工作务虚会上指出：“在社会主义制度之下，个人利益要服从集体利益，局部利益要服从整体利益，暂时利益要服从长"
+  },
+  {
+   "cn": "抓大放小",
+   "en": "to invigorate large enterprises while relaxing control over small ones",
+   "source": "马克思主义",
+   "wordNumber": "02.0411",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在深化国有企业改革、推进国有企业战略性改组中提出的一个重要方针。“抓大”，是指着力培育实力雄厚、竞争力强的大型企业和企业集团，使其可以成为跨地区、跨行业、跨所有制和跨国经营的大企业集团。“放小”，是指"
+  },
+  {
+   "cn": "惩前毖后治病救人",
+   "en": "learn from past mistakes to avoid future ones cure the sickness to save the patient",
+   "source": "马克思主义",
+   "wordNumber": "03.0482",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在延安整风运动中提出的对待犯错误同志的方针，也成为中国共产党解决党内矛盾、开展党内斗争时一贯坚持的重要方针，用以达到既弄清思想，又团结同志的目的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

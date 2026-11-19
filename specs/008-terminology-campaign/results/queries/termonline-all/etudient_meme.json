@@ -1,0 +1,482 @@
+{
+ "key": "etudient meme",
+ "term": "étudient même",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:45:00+00:00",
+ "status": "ok",
+ "note": "variant=étudient même; 审定公布名词库=93; 海峡两岸名词对照库=8; 其他来源数据库=2; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "天文学名词",
+   "wordNumber": "08.304",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中具有明显发射谱线的M型恒星。"
+  },
+  {
+   "cn": "互联网模因",
+   "en": "internet meme",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.05",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "在一种文化中从人到人传播的想法、行为或风格。该词最初源自英国演化生物学家理查德·道金斯(Richard Dawkins)所著的《自私的基因》(1976)一书，其含义是指“在诸如语言、观念、信仰、行为方"
+  },
+  {
+   "cn": "寄宿生",
+   "en": "boarding student,residential student",
+   "source": "教育学名词",
+   "wordNumber": "08.175",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "按规定居住在学校宿舍的全日制学生。"
+  },
+  {
+   "cn": "混合模型方程组",
+   "en": "mixed model equations,MME",
+   "source": "遗传学名词",
+   "wordNumber": "06.199",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "由亨德森(C.R. Henderson)于1953年推导的，以混合模型为基础建立的线性方程组。对这种方程组求解，可得到固定效应的最佳线性无偏估计量和随机效应的最佳线性无偏预测。"
+  },
+  {
+   "cn": "多用途互联网邮件扩展",
+   "en": "multipurpose internet mail extensions,MIME",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0839",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "允许电子邮件不仅可以传送ASCII编码的正文，还可以传送包含其他文字以及图片、影像、声音或二进制数据的应用层协议。"
+  },
+  {
+   "cn": "学生助理馆员",
+   "en": "student assistant",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.210",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在大学或学校图书馆中，兼职从事书架整理、文献外借、清洁等辅助性工作，并获取酬劳的在校学生。"
+  },
+  {
+   "cn": "实习教师",
+   "en": "student teacher",
+   "source": "教育学名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "到初等或中等学校进行教育教学专业实践的高年级师范生。"
+  },
+  {
+   "cn": "助学金",
+   "en": "student subsidy",
+   "source": "教育学名词",
+   "wordNumber": "14.132",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "政府、学校、社会组织或个人对家庭经济困难的学生的一种无须偿还的经济补助。"
+  },
+  {
+   "cn": "学生评价",
+   "en": "student evaluation",
+   "source": "教育学名词",
+   "wordNumber": "07.246",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "以教育目的和各级各类学校的具体培养目标为依据，对学生的现状或发展的情况进行的价值判断。"
+  },
+  {
+   "cn": "学风",
+   "en": "student morale",
+   "source": "教育学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学生在学习过程中体现的精神风貌。"
+  },
+  {
+   "cn": "留学生",
+   "en": "international student",
+   "source": "教育学名词",
+   "wordNumber": "08.222",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "到别国高等学校或其他教育机构学习的学生。按经费来源可分为公费留学生和自费留学生。"
+  },
+  {
+   "cn": "硕士研究生",
+   "en": "master student",
+   "source": "教育学名词",
+   "wordNumber": "08.220",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "已获学士学位（或具有同等学力），获准进入高等学校或科研机构在导师指导下学习和研究，攻读硕士学位的研究生。"
+  },
+  {
+   "cn": "转学生",
+   "en": "transfer student",
+   "source": "教育学名词",
+   "wordNumber": "07.090",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "经转出与转入学校同意，学籍由一所学校转到另一所学校继续学习的学生。"
+  },
+  {
+   "cn": "保送生",
+   "en": "recommended student",
+   "source": "教育学名词",
+   "wordNumber": "08.165",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "符合相关规定要求，无需参加统一升学考试，经所在学校推荐进入更高一级学校就读的学生。"
+  },
+  {
+   "cn": "插班生",
+   "en": "transfer student",
+   "source": "教育学名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "因各种原因从原来的班级转入新班级学习的学生。"
+  },
+  {
+   "cn": "学生伤害事故",
+   "en": "student injury",
+   "source": "教育学名词",
+   "wordNumber": "15.092",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "在学校实施的教育教学活动中或者学校组织的校外活动中，以及在学校负有管理责任的校舍、场地或其他教育教学设施、生活设施内发生的、造成在校学生人身损害后果的事件。"
+  },
+  {
+   "cn": "学生手册",
+   "en": "student handbook",
+   "source": "教育学名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "教育行政管理部门或学校编制的对学生进行指导与管理的小册子。"
+  },
+  {
+   "cn": "借读生",
+   "en": "transient student",
+   "source": "教育学名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "就读于某校而学籍关系不在该校的学生。"
+  },
+  {
+   "cn": "大学生",
+   "en": "college student",
+   "source": "教育学名词",
+   "wordNumber": "08.171",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "中国对普通高等学校学生的统称。通常指专科生和本科生，有时亦包括研究生。"
+  },
+  {
+   "cn": "处境不利学生",
+   "en": "disadvantaged student",
+   "source": "教育学名词",
+   "wordNumber": "07.097",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "由于家庭或自身的不同原因，处于相对困难与不利发展状态的学生。"
+  },
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Me型变星",
+   "en": "Me variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "哑剧演员",
+   "en": "mime",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "哑剧",
+   "en": "mime\",\"mimodrama\",\"pantomime",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "混合模型方程组",
+   "en": "mixed model equations\",\"MME",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多用途因特网邮件扩充",
+   "en": "multipurpose Internet mail-extensions\",\"MIME",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学生王子",
+   "en": "Student Prince\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Romborg, Sigmund"
+  },
+  {
+   "cn": "以学生为中心的教学",
+   "en": "student centered instruction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "网络迷因",
+   "en": "Internet meme",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "终身电子学籍档案",
+   "en": "electronic permanent student record",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学生运动",
+   "en": "student movement",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "由学生组织和参与，旨在改变经济、政治和社会现状的学生活动的总称。不同学生运动的参与主体、规模和社会效果差异巨大。"
+  },
+  {
+   "cn": "学生饮用奶计划",
+   "en": "student milk program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以改善中小学生营养状况、促进中小学生发育成长、提高中小学生健康水平为宗旨，为中小学生提供中国奶业协会许可使用中国学生饮用奶标志的专供中小学生在校饮用的牛奶制品的学生营养改善专项计划。"
+  },
+  {
+   "cn": "学生健康监测",
+   "en": "student health monitoring",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "对学生身体、心理和适应能力状况进行的长期评定过程。"
+  },
+  {
+   "cn": "学生健康素养",
+   "en": "student health literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "学生通过各种渠道获取健康信息，正确理解健康信息，并运用这些信息维护和促进自身健康的能力。"
+  },
+  {
+   "cn": "学生健康行为",
+   "en": "student health behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "学生有利于促进和保持健康的积极行为方式。"
+  },
+  {
+   "cn": "学生宿舍",
+   "en": "dormitory of student",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "按照国家相关标准设置的供各类学生居住、生活的用房。"
+  },
+  {
+   "cn": "学生健康监测指标",
+   "en": "student health monitoring indicator",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康监测指标",
+   "subjectName": "学生健康监测指标",
+   "publishYear": "2025",
+   "definition": "反映学生健康状况等的可测量的、定性的或定量的要素或变量。"
+  },
+  {
+   "cn": "学生营养改善计划",
+   "en": "student nutrition improvement program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "2011年11月由国务院启动，以改善我国贫困农村儿童营养健康状况为目的的计划，即为中西部集中连片特殊困难地区的义务教育阶段中小学生提供膳食营养补助。"
+  },
+  {
+   "cn": "学生餐烹调方法",
+   "en": "student meal cooking method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.7.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由学校食堂或供餐单位为在校学生提供，对食物进行处理，使其具有吸引人的色、香、味、形和口感的方法。包括食材搭配、食材处理、调味品使用、装盘造型等环节。"
+  },
+  {
+   "cn": "患病学生建议",
+   "en": "advice for sick student",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在一定单位时间内，为患有某种疾病的学生专门开设的，旨在通过适当的体育活动改善健康状况的教学活动。"
+  },
+  {
+   "cn": "学生体质健康监测",
+   "en": "student physical fitness surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学生体质与健康状况监测",
+   "subjectName": "学生体质与健康状况监测",
+   "publishYear": "2025",
+   "definition": "根据国家对学生体质健康方面的基本要求，对学生体质健康状况和锻炼效果的长期评定过程。"
+  },
+  {
+   "cn": "能力提升计划",
+   "en": "enhancing international student programs",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过培训、工作坊和课程资源，帮助学生建立社会、文化和交流能力的过程。"
+  },
+  {
+   "cn": "国际学生迎新计划",
+   "en": "international student orientation program",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1.1.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "提供有关文化适应过程的信息，并考虑评估学生的文化适应类型，以提供持续支持的过程。"
+  },
+  {
+   "cn": "学生生活饮用水",
+   "en": "drinking water for student",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "为学生提供的、充足的符合卫生标准的饮用水。"
+  },
+  {
+   "cn": "生均面积",
+   "en": "mean area for student",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "学校宿舍面积与住宿学生总人数之比。"
+  },
+  {
+   "cn": "国家学生体质健康标准",
+   "en": "national student physical health standard",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "从身体形态、身体机能和身体素质等方面综合评定学生个体的体质健康水平的规范性技术文件。是国家学校教育工作的基础性指导文件和教育质量基本标准，是评价学生综合素质、评估学校工作和衡量各地教育发展的重要依据。"
+  },
+  {
+   "cn": "学生餐食物种类",
+   "en": "food type of student meal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.7.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由学校食堂或供餐单位为在校学生提供的早餐、午餐或晚餐的食物类别。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

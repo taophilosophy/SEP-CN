@@ -1,0 +1,242 @@
+{
+ "key": "dwarfism",
+ "term": "dwarfism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:44:53+00:00",
+ "status": "ok",
+ "note": "variant=dwarfism; 审定公布名词库=18; 海峡两岸名词对照库=4; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "侏儒症",
+   "en": "dwarfism",
+   "source": "兽医学名词",
+   "wordNumber": "04.588",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "幼年时生长激素分泌不足所造成的一种以生长停滞及身材矮小为主要特征的内分泌 疾病。"
+  },
+  {
+   "cn": "侏儒",
+   "en": "dwarfism",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0665",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以身材异常矮小，性征缺乏而智力发育正常为主要表现的疾病。"
+  },
+  {
+   "cn": "侏儒",
+   "en": "dwarfism",
+   "source": "中医药学名词",
+   "wordNumber": "010.073",
+   "subjectFullName": "中医药学_内科疾病_脑系疾病",
+   "subjectName": "脑系疾病",
+   "publishYear": "2004",
+   "definition": "以身材异常矮小，性征缺乏而智力发育正常为主要表现的疾病。"
+  },
+  {
+   "cn": "拉伦侏儒症",
+   "en": "Laron dwarfism",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.115",
+   "subjectFullName": "下丘脑与垂体疾病_生长发育与生长异常_生长异常",
+   "subjectName": "生长异常",
+   "publishYear": "2025",
+   "definition": "一类罕见的导致身材矮小、代谢紊乱等临床表现的常染色体隐性遗传性疾病。由肝脏生长激素受体基因突变所致。"
+  },
+  {
+   "cn": "垂体性侏儒",
+   "en": "pituitary dwarfism",
+   "source": "兽医学名词",
+   "wordNumber": "15.173",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "腺垂体机能减退引起生长素分泌不足，导致的生长发育缓慢，身材矮小。"
+  },
+  {
+   "cn": "卑格米侏儒症",
+   "en": "Pygmy dwarfism",
+   "source": "医学遗传学名词",
+   "wordNumber": "6.014",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种多基因遗传病。儿童时期生长激素（GH）和胰岛素样生长因子（IGF）水平正常，青春发育期后及成年后仅IGF-1水平明显降低，故青春期无加速线性生长，最终出现身材矮小。"
+  },
+  {
+   "cn": "心理社会性侏儒",
+   "en": "psychsocial dwarfism",
+   "source": "精神医学名词",
+   "wordNumber": "03.442",
+   "subjectFullName": "精神医学_诊断分类_儿童情绪与行为障碍",
+   "subjectName": "儿童情绪与行为障碍",
+   "publishYear": "2019",
+   "definition": "个体发育早期由于被忽视、虐待或环境不良影响正常生长发育，导致身材矮小、骨龄落后、性发育迟缓，并伴有行为障碍的生存状 态。"
+  },
+  {
+   "cn": "拉伦侏儒症",
+   "en": "Laron dwarfism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.020",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "卑格米侏儒症",
+   "en": "Pygmy dwarfism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.021",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "肾性侏儒综合征",
+   "en": "renal dwarfism syndrome",
+   "source": "医学名词 第四分册",
+   "wordNumber": "02.206",
+   "subjectFullName": "医学_肾脏病学",
+   "subjectName": "肾脏病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "洛兰-勒维侏儒症",
+   "en": "Lorain-Levi dwarfism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.019",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "拉龙综合征",
+   "en": "Laron syndrome;Laron dwarfism",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.204",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由生长激素受体基因GHR（5p13—p12）突变导致的一种常染色体隐性遗传病。患者对生长激素不敏感，出现身材矮小和骨龄延迟等临床症状。"
+  },
+  {
+   "cn": "生长激素缺乏性侏儒症",
+   "en": "growth hormone deficiency dwarfism",
+   "source": "医学名词 第一分册",
+   "wordNumber": "06.018",
+   "subjectFullName": "医学_内分泌病学",
+   "subjectName": "内分泌病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "矮化病",
+   "en": "dwarfing",
+   "source": "植物学名词",
+   "wordNumber": "11.0739",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "一般指由病原体的系统侵染引起的植株矮化症状。"
+  },
+  {
+   "cn": "矮化砧木",
+   "en": "dwarfing rootstock",
+   "source": "农学名词",
+   "wordNumber": "08.097",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "能明显降低果树品种的茎节长度和缩小树冠的砧木类型。"
+  },
+  {
+   "cn": "矮化栽培",
+   "en": "dwarfing culture",
+   "source": "农学名词",
+   "wordNumber": "08.120",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "应用相应的措施降低果树高度和冠幅的栽培方式。"
+  },
+  {
+   "cn": "白矮星序",
+   "en": "sequence of white dwarfs",
+   "source": "天文学名词",
+   "wordNumber": "08.398",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "HR图上白矮星所处的星序，光度级Ⅶ。"
+  },
+  {
+   "cn": "面部红斑侏儒综合征",
+   "en": "facial telangiectasis of dwarfs syndrome",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "02.124",
+   "subjectFullName": "下丘脑与垂体疾病_生长发育与生长异常_生长异常",
+   "subjectName": "生长异常",
+   "publishYear": "2025",
+   "definition": "一种常染色体隐性遗传的染色体不稳定综合征。由15号染色体上布卢姆综合征（BLM）基因突变所致。临床特征为身材矮小而比例相对正常、容易早发多种癌症、面部异常和日光敏感性面部红斑、不育不孕和免疫缺陷。"
+  },
+  {
+   "cn": "侏儒[症]",
+   "en": "dwarfism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "垂体性侏儒症",
+   "en": "pituitary dwarfism",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心理社会性侏儒症",
+   "en": "psychosocial dwarfism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "矮化病",
+   "en": "dwarfing",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "侏儒症",
+   "en": "dwarfism",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "生长激素分泌不足所造成的一种以生长停滞及身材矮小为主要特征的内分泌疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

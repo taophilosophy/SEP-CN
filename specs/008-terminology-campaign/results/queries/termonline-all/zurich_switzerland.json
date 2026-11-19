@@ -1,0 +1,512 @@
+{
+ "key": "zurich switzerland",
+ "term": "Zürich Switzerland",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:42:47+00:00",
+ "status": "ok",
+ "note": "variant=Zürich Switzerland; 审定公布名词库=114; 海峡两岸名词对照库=50; 其他来源数据库=7; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "苏黎世数",
+   "en": "Zürich number",
+   "source": "天文学名词",
+   "wordNumber": "09.129",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "瑞士苏黎世天文台所测定的沃尔夫数，该台的k值取为1。"
+  },
+  {
+   "cn": "苏黎世[黑子]分类",
+   "en": "Zürich classification",
+   "source": "天文学名词",
+   "wordNumber": "09.153",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "瑞士苏黎世天文台提出的太阳黑子类型划分标准。"
+  },
+  {
+   "cn": "苏黎世学派",
+   "en": "Zürich school",
+   "source": "心理学名词",
+   "wordNumber": "04.124",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "荣格(C. G. Jung)的追随者，主要继承其后期风格。"
+  },
+  {
+   "cn": "苏黎世黑子相对数",
+   "en": "Zürich relative sunspot number",
+   "source": "天文学名词",
+   "wordNumber": "09.154",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "按照瑞士苏黎世天文台制定的统计太阳黑子数目的方法所计算出的太阳黑子数目。"
+  },
+  {
+   "cn": "苏黎世成像偏振计",
+   "en": "Zürich imaging polarimeter; ZIMPOL",
+   "source": "天文学名词",
+   "wordNumber": "06.335",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "一种采用隔行转移CCD的高灵敏度的天体成像偏振计。CCD与偏振调制周期保持同步，对光电荷做快速来回转移，以此对不同偏振态实现位置交错的累积曝光成像。因发明地而得名。"
+  },
+  {
+   "cn": "苏黎世—伦敦协议",
+   "en": "Zurich-London Agreement",
+   "source": "世界历史名词",
+   "wordNumber": "04.0388",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_西亚",
+   "subjectName": "西亚",
+   "publishYear": "2012",
+   "definition": "关于确定塞浦路斯独立后国家结构和权力分配的协定。1959年2月由英国、希腊、土耳其三国与塞浦路斯希腊族领导人和土耳其族领导人签署。"
+  },
+  {
+   "cn": "苏黎世三人团",
+   "en": "Zurich Three Mission",
+   "source": "世界历史名词",
+   "wordNumber": "01.0154",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "1878年，德国社会民主党内由伯恩斯坦等三人组成的右倾宗派小集团。"
+  },
+  {
+   "cn": "乌格利奇案件",
+   "en": "Ugrich Trial",
+   "source": "世界历史名词",
+   "wordNumber": "02.0840",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "调查1591年俄国皇子德米特里在乌格利奇离奇死亡和市民暴动的案件。调查认定皇子死亡纯属偶然。其亲属失宠被黜，其母被送往修道院，起义市民被流放西伯利亚。"
+  },
+  {
+   "cn": "发财吧",
+   "en": "Enrich Yourselves",
+   "source": "世界历史名词",
+   "wordNumber": "05.0419",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1925年4月，布哈林为克服“战时共产主义”的影响而提出的口号。"
+  },
+  {
+   "cn": "富煤中心",
+   "en": "coal-rich center,enrich-ment center of coal",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "02.135",
+   "subjectFullName": "煤炭科学技术_煤田地质与勘探_煤田",
+   "subjectName": "煤田",
+   "publishYear": "1996",
+   "definition": "富煤带内煤层总厚度最大的地区。"
+  },
+  {
+   "cn": "苏尼奇-凯综合征",
+   "en": "Zunich-Kaye syndrome",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.409",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种少见的常染色体隐性遗传的先天性鱼鳞病。主要症状为眼部缺损、心脏缺损、鱼鳞状皮肤病、精神发育迟滞、耳缺损或癫 痫。"
+  },
+  {
+   "cn": "富媒体",
+   "en": "rich media",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.210",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "一种整合动画、声音、视频、双向信息通信和用户交互功能的信息传播方法。"
+  },
+  {
+   "cn": "富气",
+   "en": "rich gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0278",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "按液态计，每立方米中丙烷以上烃类 (C₃₊)含量大于 100mL的天然气。"
+  },
+  {
+   "cn": "富矿",
+   "en": "rich ore",
+   "source": "冶金学名词",
+   "wordNumber": "02.0030",
+   "subjectFullName": "冶金学_采矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "矿物含量较高的高品位矿石。"
+  },
+  {
+   "cn": "富渣",
+   "en": "rich slag",
+   "source": "冶金学名词",
+   "wordNumber": "06.0397",
+   "subjectFullName": "冶金学_有色金属冶金_重有色金属冶金",
+   "subjectName": "重有色金属冶金",
+   "publishYear": "2019",
+   "definition": "有价金属含量高、须进一步处理回收金属的炉渣。"
+  },
+  {
+   "cn": "信息富有",
+   "en": "information rich",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.044",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "拥有或能够通过各种途径获取、利用更多有效信息的一种社会现象。"
+  },
+  {
+   "cn": "富油",
+   "en": "rich oil",
+   "source": "冶金学名词",
+   "wordNumber": "05.0122",
+   "subjectFullName": "冶金学_钢铁冶金_炼焦",
+   "subjectName": "炼焦",
+   "publishYear": "2019",
+   "definition": "吸收了煤气中苯族烃(粗苯)后的洗油。"
+  },
+  {
+   "cn": "富相",
+   "en": "rich phase",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0238",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "密相区中的颗粒相。"
+  },
+  {
+   "cn": "富油",
+   "en": "rich oil",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0032",
+   "subjectFullName": "化工（一）_加工工艺_轻烃回收",
+   "subjectName": "轻烃回收",
+   "publishYear": "2017",
+   "definition": "富含轻烃组分的吸收剂。"
+  },
+  {
+   "cn": "富气",
+   "en": "rich gas",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0235",
+   "subjectFullName": "化工（一）_加工工艺_催化裂化",
+   "subjectName": "催化裂化",
+   "publishYear": "2017",
+   "definition": "催化裂化分馏塔顶油气在油气分离罐后、气体吸收前，含有大量乙烷以上液化气组分的气体混合物。"
+  },
+  {
+   "cn": "瑞士联合银行",
+   "en": "United Bank of Switzerland",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "苏黎世学派",
+   "en": "Zürich school",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "苏黎世黄金总库",
+   "en": "Zurich Gold Pool",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "补血",
+   "en": "enrich the blood",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "富相",
+   "en": "rich phase",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浓溶液",
+   "en": "rich solution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "富星团",
+   "en": "rich star cluster，rich cluater of stars\",\"rich cluster",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "格伦伯格",
+   "en": "Gruenberg\",\"Erich(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "莱因斯多夫",
+   "en": "Leinsdorf\",\"Erich(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "富星系团",
+   "en": "rich cluster of galaxies\",\"rich cluster",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富冰冻土",
+   "en": "ice-rich soil\",\"ice-rich permafrost",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "施纳贝尔，卡尔",
+   "en": "Schnabel\",\"Karl Ulrich(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "高能键",
+   "en": "energy-rich bond",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "甲烷富气",
+   "en": "methane rich gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "富锌底漆",
+   "en": "zinc-rich primer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "富氦核",
+   "en": "helium-rich core",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富氦星",
+   "en": "helium-rich star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富金属天体",
+   "en": "metal-rich object",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富金属星",
+   "en": "metal-rich star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "富金属星团",
+   "en": "metal-rich cluster",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "王者富民",
+   "en": "A Ruler Should Enrich People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "海量数据市场",
+   "en": "data-rich market",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据密集型产业",
+   "en": "data-rich industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利用厚生",
+   "en": "Make Full Use of Resources to Enrich the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "先富帮后富",
+   "en": "Those who get rich first help and drive others to get rich later.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法不阿贵",
+   "en": "The Law Does Not Favor the Rich and Powerful.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辞约而旨丰",
+   "en": "<div> Simple in Diction yet Rich in Meaning</div><br />",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "富含氮化合物",
+   "en": "nitrogen-rich compounds",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.6.2",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "分子结构中氮元素含量丰富的化合物，通常氮含量占分子量的30%以上。利用这些化合物中含氮量高的特性，来虚假提高食品或饲料的“蛋白质”检测含量，以牟取暴利。如，三聚氰胺和三聚氰酸等。"
+  },
+  {
+   "cn": "第二国际第三次代表大会",
+   "en": "Third Congress of the Second International in Zurich",
+   "source": "马克思主义",
+   "wordNumber": "04.0487",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1893年8月6—12日在瑞士苏黎世音乐大厅举行的代表大会。出席大会的有来自18个国家的 411名代表。大会筹备委员会决定排斥无政府主义者，只邀请承认有必要进行政治斗争和建立工人政党的工人组织参加。大"
+  },
+  {
+   "cn": "保存富农经济",
+   "en": "keeping rich peasant economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0354",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在解放初期的土地改革运动中提出的一项重要政策。1950年3月，毛泽东提出在今冬开始的南方几省及西北某些地区的土地改革运动中，不但不动资本主义富农，而且不动半封建富农，待到几年以后再去解决半封建富"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

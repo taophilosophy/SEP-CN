@@ -1,0 +1,702 @@
+{
+ "key": "noether cavailles",
+ "term": "Noether Cavaillès",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:42:37+00:00",
+ "status": "ok",
+ "note": "variant=Noether Cavaillès; 审定公布名词库=330; 海峡两岸名词对照库=89; 其他来源数据库=37; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "诺特定理",
+   "en": "Noether theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_一般力学",
+   "subjectName": "一般力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "诺特定理",
+   "en": "Noether’s theorem",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.346",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "数学家E. 诺特（E. Noether）于1915年指出，对于任意具有连续对称性的拉格朗日量，相应地存在一个守恒律。它表明，对于物理系统所呈现的每一种对称性或操作不变性，都存在一个与之相对应的守恒的可"
+  },
+  {
+   "cn": "以太",
+   "en": "ether,aether",
+   "source": "物理学名词",
+   "wordNumber": "06.0012",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "羯羊",
+   "en": "wether",
+   "source": "畜牧学名词",
+   "wordNumber": "02.236",
+   "subjectFullName": "畜牧学_饲养管理_羊饲养",
+   "subjectName": "羊饲养",
+   "publishYear": "2020",
+   "definition": "经去势后并进行育肥的羊。"
+  },
+  {
+   "cn": "乙醚",
+   "en": "ether,diethyl ether",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.164",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "北煤袋",
+   "en": "Northern Coalsack",
+   "source": "天文学名词",
+   "wordNumber": "08.571",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "位于天鹅座中天津四正南方的一片暗星云，属大暗隙结构的起始部分，有别于南十字座中的著名暗星云——煤袋星云。"
+  },
+  {
+   "cn": "北十字",
+   "en": "Northern Cross",
+   "source": "天文学名词",
+   "wordNumber": "08.633",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "由天鹅座中主要亮星组成的十字形星群。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.048",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分子杂交与印迹技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "将经过凝胶电泳分离的RNA转移到适当的微孔膜（如硝酸纤维素膜、尼龙膜等）上的技术。膜上的RNA可再与标记的特异核酸探针杂交以分析特异性RNA。主要用于检测目的基因的转录水平。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.052",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "将电泳分离的RNA从凝胶中转移到纤维素膜或尼龙膜上，用标记的RNA或DNA进行分子杂交检测的技术。主要用于检测目的基因的转录水平。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "畜牧学名词",
+   "wordNumber": "04.255",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "RNA从电泳凝胶转移到固相介质(如尼龙膜或硝酸纤维素膜)上，然后与互补的核苷酸序列杂交的操作过程。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "感染病学名词",
+   "wordNumber": "01.0552",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "用于检测标本中特异RNA片段的技术。原理是RNA经甲醛或乙二醛–二甲基亚砜变性后，在琼脂糖凝胶中进行电泳，然后将RNA从凝胶转移到硝酸纤维素膜，加热将RNA固定于硝酸纤维素上，并与所需的放射性探针杂交"
+  },
+  {
+   "cn": "RNA 印迹法",
+   "en": "Northern blotting",
+   "source": "植物学名词",
+   "wordNumber": "16.0209",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "将电泳分离的RNA从凝胶中转移到纤维素膜或尼龙膜上，用标记的RNA或DNA进行分子杂交检测的技术。主要用于检测目的基因的转录水平。"
+  },
+  {
+   "cn": "RNA印迹",
+   "en": "Northern blot",
+   "source": "药学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "DNA印迹杂交技术的一种改变的方法，其中RNA片段经电泳分离后转移至一特殊的纸上，并共价结合其上，然后同与之互补的放射性RNA或单链DNA探针进行杂交定位。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "放射医学与防护_放射生物学_放射生物学实验技术",
+   "subjectName": "放射生物学实验技术",
+   "publishYear": "2014",
+   "definition": "用于RNA的凝胶印迹杂交技术。首先通过琼脂糖凝胶电泳使完全变性的RNA按大小分离，然后将RNA分子转移到固相支持物上，固定后再采用特异性探针进行杂交，得到的结果可以反映所测核酸样品的信息，常用于基因表"
+  },
+  {
+   "cn": "北方联盟",
+   "en": "Northern League",
+   "source": "世界历史名词",
+   "wordNumber": "03.0718",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_意大利",
+   "subjectName": "意大利",
+   "publishYear": "2012",
+   "definition": "1991年，由意大利北部和中部的几个地方性政党组成的政治联盟，代表中小企业利益。"
+  },
+  {
+   "cn": "北方协会",
+   "en": "Northern Society",
+   "source": "世界历史名词",
+   "wordNumber": "05.0106",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1821-1825年十二月党人的秘密革命组织，试图在俄国建立起共和国。1825年12月26日组织起义，失败之后解散。"
+  },
+  {
+   "cn": "北方方言",
+   "en": "Northern Mandarin",
+   "source": "语言学名词",
+   "wordNumber": "07.045",
+   "subjectFullName": "语言学_方言学_方言分区",
+   "subjectName": "方言分区",
+   "publishYear": "2011",
+   "definition": "分布于长江流域以北区域的汉语方言的统称。与分布于东南沿海的南方方言相对而言，有时也用来指官话方言。"
+  },
+  {
+   "cn": "又音",
+   "en": "another pronunciation",
+   "source": "语言学名词",
+   "wordNumber": "09.151",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "古代注音用语。指某字另外的读音。某个多音字，先注明一个读音，其他读音再用“又音某”或者“又某某切”注出。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.254",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "将电泳分离的RNA从凝胶中转移到纤维素膜或尼龙膜上，用32P标记的RNA或DNA杂交进行检测的方法。主要用于检测目的基因的转录水平。"
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "遗传学名词",
+   "wordNumber": "03.759",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "RNA从电泳凝胶转移到固相介质(如尼龙膜等)上，然后与互补的核苷酸序列杂交的操作过程。"
+  },
+  {
+   "cn": "RNA 印迹法",
+   "en": "Northern blotting",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北半球",
+   "en": "northern hemisphere",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "北半球",
+   "en": "northern hemisphere",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "RNA印迹法, Northern印迹法",
+   "en": "Northern blotting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "RNA杂交, Northern杂交",
+   "en": "Northern hybridization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "RNA印迹法",
+   "en": "Northern blotting",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "北半球",
+   "en": "northern hemisphere",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尖端对接",
+   "en": "apexes together",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "RNA印迹",
+   "en": "Northern blot",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "醚",
+   "en": "ether",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "醚",
+   "en": "ether",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "醚",
+   "en": "ether",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "母细胞核",
+   "en": "mother nucleus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "母液",
+   "en": "mother liquor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "栓缆",
+   "en": "tether cable",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "母城",
+   "en": "mother city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "母胞蚴",
+   "en": "mother sporocyst",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "母雷蚴",
+   "en": "mother redia",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "刺网渔船",
+   "en": "gill netter",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "北曲",
+   "en": "Northern Opera",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "父母之邦",
+   "en": "Mother Country",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "允许再次试举",
+   "en": "grant another attempt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守望相助、同舟共济",
+   "en": "to support each other; to stand closely together in difficult times",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干扰其他船只",
+   "en": "interfere with another boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转院",
+   "en": "to transfer to another hospital",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "君者善群",
+   "en": "A Ruler Should Keep People Together.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众乐",
+   "en": "Share Joy with Other People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性无善无恶",
+   "en": "Human Nature Is Neither Good Nor Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他者",
+   "en": "other",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的研究对象，在学科发展的不同时空语境下有不同的所指。因他者作为主体以外的一个不熟悉的对立面的客体存在，主体的权威才得以界定。基于这样的思想指导下，早期的人类学家以异文化研究为主，试"
+  },
+  {
+   "cn": "单身母亲",
+   "en": "single mother",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "只有子女，无法定配偶的女性，包括未婚妈妈，离异妈妈，丧偶妈妈。"
+  },
+  {
+   "cn": "母语",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0145",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "说话人认同的所属民族的语言，通常也是个人出生后首先习得并熟练掌握的语言。"
+  },
+  {
+   "cn": "母方言",
+   "en": "mother tongue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0066",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "个人出生后首先习得并熟练掌握的所属地区的方言，有别于民族共同语或标准语。"
+  },
+  {
+   "cn": "其他类罐头",
+   "en": "other cans",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "不属于上述畜肉类、禽类、水产类、水果类、蔬菜类等类别的罐藏食品。"
+  },
+  {
+   "cn": "其他残疾",
+   "en": "other disabilities",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "除言语残疾、视力残疾、智力残疾、听力残疾、肢体残疾、精神残疾、多重残疾以外的残疾。"
+  },
+  {
+   "cn": "十溴二苯醚",
+   "en": "decabromodiphenyl ether",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.38",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "化学式C₁₂OBr₁₀，由二苯醚溴化制得，溴系阻燃剂之一，对人的眼睛及皮肤均无刺激。"
+  },
+  {
+   "cn": "其他食品",
+   "en": "other food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "石油醚",
+   "en": "petroleum ether",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "由天然石油分馏制得的沸点在25℃至105℃之间的轻质石油产品，主要成分为混合烷烃（正构和异构）和环烷烃。可在配制酒等食品的加工中用作提取溶剂"
+  },
+  {
+   "cn": "其他类饮料",
+   "en": "other beverages",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.6",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "包装饮用水、果蔬汁类及其饮料、蛋白饮料、碳酸饮料、特殊用途饮料之外的饮料。"
+  },
+  {
+   "cn": "母婴依恋",
+   "en": "infant-mother attachment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.19",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "婴儿出生后依靠天生具有的感知、动作、呼应能力与周围人(通常是母亲)进行交往，这一生物行为机制激励了母亲能够不断照料婴儿，婴儿则对之产生以亲爱和信任为基础的感情依恋关系。"
+  },
+  {
+   "cn": "“四个与共”",
+   "en": "Four Matters of Together",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0123",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族人民休戚与共、荣辱与共、生死与共、命运与共的共同体理念。"
+  },
+  {
+   "cn": "其他蛋白饮料",
+   "en": "other protein beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.3.4",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "含乳饮料、植物蛋白饮料、复合蛋白饮料之外的蛋白饮料。"
+  },
+  {
+   "cn": "三氯羟基二苯醚",
+   "en": "trichloro hydroxydiphenyl ether",
+   "source": "消毒学",
+   "wordNumber": "2.1.9.6",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "化学名为2,4,4´-三氯-2´-羟基二苯醚，可作为消毒剂的有效成分使用。"
+  },
+  {
+   "cn": "其他食源性疾病",
+   "en": "other foodborne diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "由于摄入食物或食物中某些物质而引起的非感染型、中毒型和代谢紊乱型，且原因尚不明确的疾病。"
+  },
+  {
+   "cn": "多溴二苯醚",
+   "en": "polybrominated diphenyl ether, PBDEs",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.45",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "由209个同系物组成，是一类持久性有机污染物。二苯环状结构的溴化程度及溴原子在环状结构中的位置决定了各同系物的同分异构体的数量。常作为阻燃剂被添加到塑料中，可通过环境迁移污染食品。"
+  },
+  {
+   "cn": "其他特殊用途饮料",
+   "en": "other special usage beverage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.5.5",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "运动饮料、营养素饮料、能量饮料、电解质饮料之外的特殊用途饮料。如乳糖酶添加饮料等。"
+  },
+  {
+   "cn": "母婴传播",
+   "en": "mother-to-child transmission，MTCT",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.4.12",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "感染孕产妇在妊娠期和分娩过程中，将其体内的病原体传给子代的传播方式。包括经胎盘传播、上行性传播和分娩时传播。"
+  },
+  {
+   "cn": "母女连名制",
+   "en": "mother and daughter consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0387",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族制时代母名与女儿名相连的命名制度。一般认为产生于母系氏族制繁荣期，因生产力的发展，对偶家庭出现，子女血统以母系计算。"
+  },
+  {
+   "cn": "预防疾病母婴传播",
+   "en": "prevention of mother-to-child transmission",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "预防病原体通过宫内、分娩或产后哺乳等过程传染给胎婴儿，以降低儿童新发感染的综合措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,602 @@
+{
+ "key": "ts'ui pen",
+ "term": "Ts’ui Pên",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:42:54+00:00",
+ "status": "ok",
+ "note": "variant=Ts’ui Pên; 审定公布名词库=306; 海峡两岸名词对照库=81; 其他来源数据库=13; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "消泡剂TS-103",
+   "en": "defoamer TS-103",
+   "source": "精细化工名词",
+   "wordNumber": "06.0090",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "由液体石蜡、硬脂酸等配制而成的乳白色液体。极易分散到任何比例的水中，具有高效消泡能力。用作工业循环冷却水系统清洗及预膜过程中的止泡剂。"
+  },
+  {
+   "cn": "摇镜头",
+   "en": "pan",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.084",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "摄影机机位不做位移运动，利用三脚架、云台拍摄方向可变动的功能让机身做上下、左右转动的镜头手法。"
+  },
+  {
+   "cn": "柱销",
+   "en": "pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0282",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_摆线针轮行星齿轮传动",
+   "subjectName": "摆线针轮行星齿轮传动",
+   "publishYear": "2021",
+   "definition": "在摆线针轮行星传动机构中，固定并均布在销孔输出机构的输出轴盘上相应孔中的圆柱销。"
+  },
+  {
+   "cn": "[链传动]销轴",
+   "en": "pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0687",
+   "subjectFullName": "机械工程（一）_传动_链传动_链条元件",
+   "subjectName": "链条元件",
+   "publishYear": "2021",
+   "definition": "用作链条铰链回转轴的细长圆柱形元件。"
+  },
+  {
+   "cn": "销",
+   "en": "pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0222",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_销",
+   "subjectName": "销",
+   "publishYear": "2021",
+   "definition": "贯穿于两个零件孔中，主要用于定位，也可用于连接或作为安全装置中过载易剪断元件。"
+  },
+  {
+   "cn": "插针",
+   "en": "pin",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0997",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程制造",
+   "subjectName": "计算机工程制造",
+   "publishYear": "2018",
+   "definition": "位于元器件末端、边缘或底部，通过压插或焊接方式连接其他部件的针形金属或金属突出物。"
+  },
+  {
+   "cn": "漫游",
+   "en": "pan",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.304",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将视觉窗口进行向上、向下或向两侧移动，以显示位于视觉窗口外的地理数据集区域。"
+  },
+  {
+   "cn": "平移",
+   "en": "pan",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.333",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "一种操作电子地图的方法。不改变目前计算机的显示比例尺，将显示窗口进行向上、向下或向两侧移动，以显示位于显示窗口外的地理数据集区域。"
+  },
+  {
+   "cn": "双关",
+   "en": "pun",
+   "source": "语言学名词",
+   "wordNumber": "08.214",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。在特定语境中有意利用语音或语义的条件，使一个词语或句子同时具有双重含义，言在此而意在彼。又可分为谐音双关和借义双关两种。"
+  },
+  {
+   "cn": "插销",
+   "en": "pin",
+   "source": "电气工程名词",
+   "wordNumber": "01.611",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "圆柱销",
+   "en": "cylindrical pin,straight pin,paraller pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0223",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_销",
+   "subjectName": "销",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中心销",
+   "en": "center pin,king pin,pivot pin",
+   "source": "铁道科学技术名词",
+   "wordNumber": "05.0211",
+   "subjectFullName": "铁道科学技术_铁道车辆",
+   "subjectName": "铁道车辆",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "圆锥销",
+   "en": "conical pin,taper pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0228",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_销",
+   "subjectName": "销",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "开口销",
+   "en": "cotter pin,split pin",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0240",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_销",
+   "subjectName": "销",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活塞销",
+   "en": "piston pin,gudgeon pin",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0371",
+   "subjectFullName": "机械工程_动力机械_内燃机_主要运动件",
+   "subjectName": "主要运动件",
+   "publishYear": "2013",
+   "definition": "连接活塞和连杆的零件。"
+  },
+  {
+   "cn": "活塞销",
+   "en": "piston pin,gudgeon pin",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.198",
+   "subjectFullName": "机械工程_汽车_发动机_机体和主运动系",
+   "subjectName": "机体和主运动系",
+   "publishYear": "2013",
+   "definition": "活塞和连杆的铰接销。"
+  },
+  {
+   "cn": "插脚灯头",
+   "en": "pin cap,pin base",
+   "source": "电气工程名词",
+   "wordNumber": "22.232",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "搅拌针",
+   "en": "probe,pin",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.209",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_摩擦焊",
+   "subjectName": "摩擦焊",
+   "publishYear": "2021",
+   "definition": "位于搅拌头的顶部，形状各异，可在其表面加工出螺纹或平面的针状部件。在焊接过程中，搅拌针插入母材并高速旋转，带动周围的材料流动以形成接头，并通过旋转摩擦产生部分热量。"
+  },
+  {
+   "cn": "聚丙烯腈",
+   "en": "polyacrylonitrile,PAN",
+   "source": "化学名词",
+   "wordNumber": "05.0245",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "结构重复单元为<img src='/root/syzx/static/spz/huaxue2.05.0245.1.png'/>的聚合物。"
+  },
+  {
+   "cn": "PIN蛋白",
+   "en": "pin-formed protein,PIN protein",
+   "source": "植物学名词",
+   "wordNumber": "11.0483",
+   "subjectFullName": "植物学_植物生理学_植物生长物质",
+   "subjectName": "植物生长物质",
+   "publishYear": "2019",
+   "definition": "不均匀地分布于细胞质膜上，控制生长素运输方向的一种生长素外向转运载体。因形态很像大头针而得名。"
+  },
+  {
+   "cn": "ts突变体(=温度敏感突变体)",
+   "en": "[]",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "温度敏感突变体，ts突变体",
+   "en": "temperature-sensitive mutant\",\"ts mutant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插针",
+   "en": "pin",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引脚",
+   "en": "pin",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缸内晶种",
+   "en": "pan seed\",\"pan seeding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曲线笔",
+   "en": "swivel pen\",\"contour pen",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "打印机",
+   "en": "printer\",\"PRN",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "PIN蛋白",
+   "en": "pin-formed protein\",\"PIN protein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标准蒸发器",
+   "en": "standard pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮式蒸发皿",
+   "en": "floating pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸发皿",
+   "en": "evaporation pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸发皿蒸发",
+   "en": "pan evaporation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉降盘",
+   "en": "sedimentation pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锅盐",
+   "en": "pan salt",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硫化锅",
+   "en": "vulcanizing pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空锅",
+   "en": "vacuum pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "挡板塔盘",
+   "en": "baffle pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加料盘",
+   "en": "pan feeder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "上光盘",
+   "en": "polishing pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排管式蒸发罐",
+   "en": "calandria pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-1-2018 信息技术 数据中心设施和基础设施 一般概念》",
+   "en": "BS PD ISO/IEC TS 22237-1:2018 Information technology — Data centre facilities and infrastructures — General concepts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《BS PD ISO/IEC TS 22237-6-2018 信息技术 数据中心设施和基础设施 安全系统》",
+   "en": "BS PD ISO/IEC TS 22237-6:2018 Information technology — Data centre facilities and infrastructures — Security systems",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准星",
+   "en": "pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鼻夹",
+   "en": "pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全别针",
+   "en": "safety pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "撞针",
+   "en": "fining pin\",\"hammer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双肩着地",
+   "en": "fall\",\"pin\",\"touch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛组织协同",
+   "en": "pan-organizational collaboration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桨架栓",
+   "en": "pin of oarlock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准星平衡杆",
+   "en": "pin sight leveler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "西方式握拍",
+   "en": "frying-pan grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无源光纤网络",
+   "en": "passive optical network (PON)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛美技术标准委员会",
+   "en": "Pan American Standards Commission (COPANT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结节性多动脉炎",
+   "en": "polyarteritis nodosa，PAN",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种累及中小动脉的节段性、坏死性血管炎。随受累动脉的部位不同，临床表现多样，可影响皮肤（结节或破溃）、周围神经系统（多发性单神经炎）和内脏血管（狭窄或微动脉瘤）。"
+  },
+  {
+   "cn": "泛文化研究",
+   "en": "pan-culture study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0656",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对全世界范围的所有已知文化或所有已知原始文化的研究。这种研究是将整个社会或文化作为研究个案，研究这些社会中具有代表性的样本，其目的是验证某些关于人类社会或文化的一般理论，其方法是统计分析方法。泛文化研"
+  },
+  {
+   "cn": "泛非工人大会",
+   "en": "pan African workers congress",
+   "source": "马克思主义",
+   "wordNumber": "05.0261",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "世界劳工联合会于1959年在非洲建立的地区性工会组织，旨在扩大世界劳联在非洲工人运动中的影响。为维护非洲工会运动的团结，在非洲工会统一组织成立后，于1974年自行宣布解散。"
+  },
+  {
+   "cn": "文化适应性规划模型",
+   "en": "PEN-3 model cultural framework",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "由三个相互关联和相互依赖的维度组成、每个维度都有个体（P）、整个家庭（E）、邻居（N）的首字母缩略词的一种追求文化适宜性的规划模型。"
+  },
+  {
+   "cn": "班禅额尔德尼",
+   "en": "Pan chen Aer te ni",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0438",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派活佛转世系统称号，“班禅”意为大学者，“额尔德尼”意为“宝师”。其名称始于1583 年，格鲁派高僧罗桑确吉坚赞被认定是罗桑顿珠的转世，1645 年固始汗赠其“班禅博克多”（智之意）称号，"
+  },
+  {
+   "cn": "萨班•贡噶坚赞",
+   "en": "Sa pan kun dgav rgyal mtshan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.041",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1182 年—1251 年）藏族著名历史人物。原名贝丹顿珠，后藏萨迦人，属款氏家族，他是萨迦派第四代祖师，也是一位学识渊博之学者，世人尊称其为萨迦“班智达” （大学者），1216 年任萨迦寺座主，1"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

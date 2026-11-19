@@ -1,0 +1,422 @@
+{
+ "key": "harmonism",
+ "term": "Harmonism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:45:07+00:00",
+ "status": "ok",
+ "note": "variant=Harmonism; 审定公布名词库=187; 海峡两岸名词对照库=63; 其他来源数据库=4; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "谐音",
+   "en": "harmonics",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "含有多种频率成分的声音，其中有一种为基本频率，其余频率为该基本频率的简单乘积或比值。"
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonic",
+   "source": "语言学名词",
+   "wordNumber": "03.202",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "在周期性复合音中，任何为基频整数倍的频率成分。"
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonic",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "其频率为基波的倍数的辅波或分量。"
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonic",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.158",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonic",
+   "source": "电子学名词",
+   "wordNumber": "03.037",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谐波次数",
+   "en": "harmonic number,harmonic order",
+   "source": "电力名词",
+   "wordNumber": "01.352",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "谐波频率与基波频率之比所得的整数。"
+  },
+  {
+   "cn": "田谐函数",
+   "en": "tesseral harmonics",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0204",
+   "subjectFullName": "地球物理学_地球重力学_重力固体潮",
+   "subjectName": "重力固体潮",
+   "publishYear": "2022",
+   "definition": "球谐函数中次不等于阶也不为零的项。在潮位的球谐展开式中，通常特指二阶一次项。"
+  },
+  {
+   "cn": "球谐函数",
+   "en": "spherical harmonics",
+   "source": "物理学名词",
+   "wordNumber": "01.0397",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "谐波[分量]",
+   "en": "harmonics [component]",
+   "source": "电气工程名词",
+   "wordNumber": "01.078",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "带[调和]函数",
+   "en": "zonal harmonics",
+   "source": "数学名词",
+   "wordNumber": "06.0660",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "田形[调和]函数",
+   "en": "tesseral harmonics",
+   "source": "数学名词",
+   "wordNumber": "06.0661",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "椭球调和函数",
+   "en": "ellipsoidal harmonics",
+   "source": "数学名词",
+   "wordNumber": "06.0718",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "空间谐波",
+   "en": "space harmonics",
+   "source": "电子学名词",
+   "wordNumber": "10.170",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "协调褶皱",
+   "en": "harmonic folds",
+   "source": "地质学名词",
+   "wordNumber": "09.03.124",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "在整个褶皱的岩层中几何形态、波长、对称性都大体保持一致的褶皱。如相似褶皱、平行褶皱等。"
+  },
+  {
+   "cn": "谐波电流",
+   "en": "harmonic current",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0371",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "将非正弦周期性电流函数按傅里叶级数展开时，频率为原周期电流频率整数倍的各正弦分量的电流统称。其危害十分严重，使电能的生产、传输和利用的效率降低，使电气设备过热、产生振动和噪声，并使绝缘材料老化，使用寿"
+  },
+  {
+   "cn": "简谐震颤",
+   "en": "harmonic tremor",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0189",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "与火山喷发相联系的一般常在火山喷发活动的前兆期观测到的、持续几天甚而更长时间的振荡式地面运动。其频谱的成分一般在频率范围 1～5Hz有 1～2个谱峰占优势。 "
+  },
+  {
+   "cn": "简谐波",
+   "en": "harmonic wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0592",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "简谐振动在空间传播时形成的波函数为正弦或余弦函数的波动。 "
+  },
+  {
+   "cn": "调和分析",
+   "en": "harmonic analysis",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2609",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "函数的傅里叶级数展开和傅里叶积分及其性质与应用的研究。 "
+  },
+  {
+   "cn": "二次谐波",
+   "en": "second harmonic",
+   "source": "光学名词",
+   "wordNumber": "01.130",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "对混合的多频光进行分解时，其中为最低频率分量(基频)二倍频的那个频率分量。常用将入射光(基频光)注入非线性光学介质后通过2倍于基频的滤波器获得。如弗兰肯等于1961年将脉冲红宝石激光器产生的波长为69"
+  },
+  {
+   "cn": "三次谐波",
+   "en": "third harmonic",
+   "source": "光学名词",
+   "wordNumber": "01.131",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "入射光波经过某种光学介质的非线性效应作用后，在输出端产生的频率等于原基频 3 倍的频率分量。"
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谐量",
+   "en": "harmonics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "谐波",
+   "en": "harmonic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛音",
+   "en": "harmonics\",\"overtone",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "球面调和函数，球谐函数",
+   "en": "spherical harmonics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然泛音",
+   "en": "natural harmonics",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "球谐函数",
+   "en": "spherical harmonics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重力球谐函数",
+   "en": "gravitational harmonics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "哈特里谐振量",
+   "en": "Hartree harmonics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混频器谐波",
+   "en": "mixer harmonics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "空间谐波",
+   "en": "space harmonics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调和常数",
+   "en": "harmonic constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调和函数",
+   "en": "harmonic function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调和级数",
+   "en": "harmonic series",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调和预测",
+   "en": "harmonic prediction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谐波分析，调和分析",
+   "en": "harmonic analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "谐和平均",
+   "en": "harmonic mean",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "谐波分析",
+   "en": "harmonic analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "谐和循环",
+   "en": "harmonic cycling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乐和民声",
+   "en": "Music Harmonizes the Voices of the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

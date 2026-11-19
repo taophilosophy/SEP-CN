@@ -1,0 +1,362 @@
+{
+ "key": "careerism",
+ "term": "careerism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:44:41+00:00",
+ "status": "ok",
+ "note": "variant=careerism; 审定公布名词库=51; 海峡两岸名词对照库=15; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "职业生涯",
+   "en": "career",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0614",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "职业、职位的变迁及职业相关活动的连续性经历过程。"
+  },
+  {
+   "cn": "职［业生］涯",
+   "en": "career",
+   "source": "教育学名词",
+   "wordNumber": "11.233",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "一个人一生中从事职业的全部历程。这整个历程可以是间断的，也可以是连续的，它包含一个人所有的工作、职业、职位的外在变更和对工作态度、体验的内在变更。"
+  },
+  {
+   "cn": "职业风险",
+   "en": "career risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0934",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "如果创业失败，创业者可能面临无法找到新的工作或回到原来的工作中去的风险。"
+  },
+  {
+   "cn": "职业生涯发展",
+   "en": "career development",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0606",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "组织进行的一种持续的正规化努力，重点集中在根据员工和组织双方的需要来开发和丰富组织的人力资源。"
+  },
+  {
+   "cn": "职业生涯规划",
+   "en": "career planning",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0609",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "个人提出职业目标并制定实现这些目标的计划的过程。"
+  },
+  {
+   "cn": "职业生涯路径",
+   "en": "career path",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0602",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "组织为内部员工设计的自我认知、成长和晋升的管理方案。"
+  },
+  {
+   "cn": "职业生涯曲线",
+   "en": "career curve",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0594",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "表述职业发展轨迹的图形。"
+  },
+  {
+   "cn": "职业锚",
+   "en": "career anchor",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0597",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "自我能力知觉、动机和价值观等使人们形成的职业倾向。"
+  },
+  {
+   "cn": "职业生涯选择",
+   "en": "career choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0619",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "从自己的职业期望、职业理想出发，依据自己的兴趣、能力、特点等自身素质，从社会现有的职业中选择一种适合自己的职业。"
+  },
+  {
+   "cn": "职业生涯培训",
+   "en": "career training",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0533",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "以培养和提高个体生涯发展潜能及职业能力为目的的教育和训练活动。"
+  },
+  {
+   "cn": "多变生涯",
+   "en": "protean career",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0608",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "根据个人的兴趣、能力和价值观以及工作环境的变化而不断发生变化的职业生涯。"
+  },
+  {
+   "cn": "职业生涯高原",
+   "en": "career plateau",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0610",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "员工职业发展中进一步晋升的可能性很小的阶段。"
+  },
+  {
+   "cn": "职业生涯周期",
+   "en": "career cycle",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0595",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "从开始从事职业活动到完全退出职业活动的全过程。"
+  },
+  {
+   "cn": "职业生涯管理",
+   "en": "career management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0601",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "组织和员工对组织及员工个人的职业生涯进行设计、规划、执行、评估、反馈和修正的综合过程。"
+  },
+  {
+   "cn": "生涯咨询",
+   "en": "career counseling",
+   "source": "心理学名词",
+   "wordNumber": "15.107",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "聚焦于升学、职业选择和生涯发展的一种咨询类型。"
+  },
+  {
+   "cn": "职业生涯发展",
+   "en": "career development",
+   "source": "心理学名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "通过员工职业生涯规划、设计、支撑和管理员工的晋升阶梯以实现职业发展的过程。"
+  },
+  {
+   "cn": "生涯教育",
+   "en": "career education",
+   "source": "教育学名词",
+   "wordNumber": "11.196",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "1971年美国教育总署署长西德尼·马兰提出的旨在改变教育与现实生活和劳动相脱节、消除普通教育与职业教育间的鸿沟、使教育贯穿于人的终生、改善人们升学就业状况，以适应现代社会及科技进步的教育。一般分为生涯"
+  },
+  {
+   "cn": "职业生涯探索",
+   "en": "career exploration",
+   "source": "教育学名词",
+   "wordNumber": "11.236",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "个人通过收集相关职业信息、参观工作场所、尝试工作的方法，逐步确定自己职业发展目标的过程。"
+  },
+  {
+   "cn": "职业生涯发展",
+   "en": "career development",
+   "source": "教育学名词",
+   "wordNumber": "11.234",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "个人的职业生涯认知、探索、决策和行动不断从不成熟到成熟发展的动态过程。"
+  },
+  {
+   "cn": "职业生涯目标",
+   "en": "career goal",
+   "source": "教育学名词",
+   "wordNumber": "11.237",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "个人为自己所设定的将来要从事并为其努力的职业。"
+  },
+  {
+   "cn": "职业生涯发展",
+   "en": "career development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯规划",
+   "en": "career planning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生涯咨询",
+   "en": "career counseling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯认同",
+   "en": "career identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯途径,职业生涯路径",
+   "en": "career path",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯满意度",
+   "en": "career satisfaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯管理",
+   "en": "career management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯定位",
+   "en": "career anchor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯教育",
+   "en": "career education",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯自我效能",
+   "en": "career self efficacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯自我管理",
+   "en": "career self management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯兴趣量表",
+   "en": "Career Interest Inventory\",\"CII",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯评价量表",
+   "en": "Career Assessment Inventory\",\"CAI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯信念量表",
+   "en": "Career Belief Inventory\",\"CBI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

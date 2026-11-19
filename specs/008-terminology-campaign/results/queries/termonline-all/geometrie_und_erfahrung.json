@@ -1,0 +1,752 @@
+{
+ "key": "geometrie und erfahrung",
+ "term": "Geometrie und Erfahrung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:46:33+00:00",
+ "status": "ok",
+ "note": "variant=Geometrie und Erfahrung; 审定公布名词库=7910; 海峡两岸名词对照库=1254; 其他来源数据库=1169; 预公布名词数据库=976; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "几何[学]",
+   "en": "geometry",
+   "source": "数学名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何学",
+   "en": "structural geometry",
+   "source": "地质学名词",
+   "wordNumber": "09.01.003",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究不同尺度构造的形状、产状、方位、大小，以及各构造要素之间和相关构造之间的几何和空间关系的构造地质学分支学科。是构造运动学和动力学分析的基础。"
+  },
+  {
+   "cn": "射线几何学",
+   "en": "ray geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0801",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波传播过程中从源到达接收点的射线的几何学。 "
+  },
+  {
+   "cn": "分形几何学",
+   "en": "fractal geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2247",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "以不规则几何形态为研究对象的几何学。 "
+  },
+  {
+   "cn": "旁线装置",
+   "en": "broadside geometry",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0201",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "当发射与接收两线圈一起移动逐点观测时，称为动源系统、动源式装置，其中收发线圈分别在测线与旁线上称为旁线装置。 "
+  },
+  {
+   "cn": "成像几何",
+   "en": "imaging geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述图像与物体投影关系的几何模型。"
+  },
+  {
+   "cn": "射影几何",
+   "en": "projective geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "射影变换下保持不变的图形性质的几何学分支。"
+  },
+  {
+   "cn": "核面几何",
+   "en": "epipolar geometry",
+   "source": "测绘学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "描述同名像点与物点共面关系的几何模型。"
+  },
+  {
+   "cn": "随机几何学",
+   "en": "stochastic geometry",
+   "source": "物理学名词",
+   "wordNumber": "08.0604",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基几何",
+   "en": "Minkowski geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0063",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "内禀几何",
+   "en": "intrinsic geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0240",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空几何",
+   "en": "spacetime geometry",
+   "source": "物理学名词",
+   "wordNumber": "06.0241",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0561",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "采用计算机对几何问题进行表示、查找、度量、计算和分析的一门学科。"
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0605",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "研究具有非整数维几何物体的学科。"
+  },
+  {
+   "cn": "几何着色器",
+   "en": "geometry shader",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0755",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "图形处理流程中生成几何基元（点、线段、三角形）的核心函数。几何着色器在顶点着色器之后运行。"
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0495",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "物体的几何外形产生变化。"
+  },
+  {
+   "cn": "刨花形态",
+   "en": "particle geometry",
+   "source": "林学名词",
+   "wordNumber": "11.420",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "刨花的形状和尺寸。常用形状系数(slender ratio，长度和厚度的比值)描述。"
+  },
+  {
+   "cn": "几何优化",
+   "en": "geometry optimization",
+   "source": "化学名词",
+   "wordNumber": "04.1465",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "改变分子体系中原子核的几何位置，使得体系势能极小化的过程。"
+  },
+  {
+   "cn": "分子几何结构",
+   "en": "molecular geometry",
+   "source": "化学名词",
+   "wordNumber": "04.1290",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "组成分子的所有原子核的位置的集合。"
+  },
+  {
+   "cn": "几何模型",
+   "en": "geometry model",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0755",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "使用几何元素(点、线、曲线、平面、曲面等)构造的产品模型。"
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "几何学",
+   "en": "geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "特里斯坦与伊索尔德",
+   "en": "Tristan und Isolde",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wagner, Richard"
+  },
+  {
+   "cn": "诗人与农夫",
+   "en": "Dichter und Bauder",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Suppé, Franz von "
+  },
+  {
+   "cn": "巴斯蒂安与巴斯蒂安娜",
+   "en": "Bastien und Bastienne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "阿尔方索与埃斯特雷",
+   "en": "Alfonso und Estrella",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "催化剂几何形状",
+   "en": "catalyst geometry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水力几何形态",
+   "en": "hydraulic geometry",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "欧几里得几何学",
+   "en": "Euclidean geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "统一几何空间",
+   "en": "coincident geometry",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "行星几何学",
+   "en": "planetary geometry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "参数几何",
+   "en": "parametric geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分形几何",
+   "en": "fractal geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构造几何",
+   "en": "constructive geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "几何变形",
+   "en": "geometry deformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何[学]",
+   "en": "computational geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像几何学",
+   "en": "image geometry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子几何[结构]",
+   "en": "molecular geometry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计算几何",
+   "en": "computational geometry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半场",
+   "en": "end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组",
+   "en": "end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点",
+   "en": "end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队尾",
+   "en": "end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点",
+   "en": "end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试射箭",
+   "en": "practice end\",\"trial end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "端到端原则",
+   "en": "end-to-end principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半场",
+   "en": "end\",\"side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半场",
+   "en": "end\",\"side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中国—中东欧投资合作基金",
+   "en": "China-Central and Eastern Europe Investment Cooperation Fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳基金",
+   "en": "carbon fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "末端执行器",
+   "en": "end-effector",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崩得",
+   "en": "Bund",
+   "source": "马克思主义",
+   "wordNumber": "04.0425",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "依地语“Bund”一词的音译，意即联盟。立陶宛、波兰和俄罗斯犹太工人总联盟的简称，成立于1897年，参加者主要是俄国西部各省的犹太手工业者。1898年3月，在俄国社会民主工党第一次代表大会上，崩得加入"
+  },
+  {
+   "cn": "公益基金",
+   "en": "non-profit fund，special fund",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "为了特定公益目的，通过捐赠等筹资方法筹集资金、在公募基金会设立的专门基金。一般由各类公益机构和捐赠方共同管理，用于从事某种特定的公益活动。"
+  },
+  {
+   "cn": "住房公积金",
+   "en": "housing fund",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "职工所在单位以及职工个人分别按照职工工资的一定比例逐月强制缴存一定金额的储蓄金，专门用于支付职工住房等所需费用，是国家法律规定的一种住房保障制度。"
+  },
+  {
+   "cn": "劳动基金",
+   "en": "labor fund",
+   "source": "马克思主义",
+   "wordNumber": "02.0155",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会形态下，工人为维持他们的生存和生活所必需的消费资料或其货币形式，是为了维持他们的劳动力生产和再生产所必须的生活资料的基金。马克思认为，它在一切社会生产制度下，都始终必须由劳动者本身来生产和再生"
+  },
+  {
+   "cn": "最终产品",
+   "en": "end product",
+   "source": "马克思主义",
+   "wordNumber": "02.0206",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "最终加入个人消费的产品。用来和社会总产品中的中间成品相区别。最终产品是用于个人消费的，它是用工资和利润来购买的商品。"
+  },
+  {
+   "cn": "宇野学派",
+   "en": "Uno school",
+   "source": "马克思主义",
+   "wordNumber": "05.0166",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪30年代日本马克思经济学界在讲座派与劳农派论战之际，专注于《资本论》研究的日本著名马克思主义经济学家宇野弘藏提出了不同于两派的观点。宇野提出马克思经济学要有“原理论”“阶段论”和“现状分析论”"
+  },
+  {
+   "cn": "基金社会主义",
+   "en": "fund socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0234",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "继职能社会主义后瑞典社会民主党提出的又一种理论主张。强调在现存体制内，通过工人集体控制企业利润和股份，进而逐步控制资本所有权，扩大投资，增加就业和福利，实现经济民主，最后进入社会主义。20世纪90年代"
+  },
+  {
+   "cn": "卫生资金",
+   "en": "health fund",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "卫生资源的货币表现"
+  },
+  {
+   "cn": "基金结余",
+   "en": "fund balance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "基金收支相抵后的期末余额"
+  },
+  {
+   "cn": "嗜中性荨麻疹样皮病",
+   "en": "urticarial dermatosis,NUD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.34",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "主要临床特征是荨麻疹样皮疹，伴发热、肌痛、肝脾淋巴结肿大、骨和/或关节痛。皮肤病理以真皮浅层血管周围及间质内中性粒细胞性炎症为主要表现。该病与单克隆免疫球蛋白相关，特别是IgM型。"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "青少年权益",
+   "en": "right and interest of youth and children",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "青少年依据法律和道义享有的保护自身身心健康、获得有利于自身成长和发展条件的权利。"
+  },
+  {
+   "cn": "流浪乞讨人员救助管理",
+   "en": "assistance and management of vagrants and beggars",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.82",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府及相关机构（如救助站）城市对生活无着的流浪、乞讨人员提供食物、住处、医疗、乘车凭证等措施以保障其基本生活权益的一项临时性社会救助措施。"
+  },
+  {
+   "cn": "物资装备洗消",
+   "en": "cleaning and disinfection of materials and equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.5.3",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "采用物理或化学方法将生物战剂从物资装备外表面清除以达到无害化的措施。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "盲端器械",
+   "en": "blind end device",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.7",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "单端开口、长度与直径的比率≥1的器械。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

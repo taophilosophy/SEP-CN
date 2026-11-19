@@ -1,0 +1,42 @@
+{
+ "key": "cameralism",
+ "term": "Cameralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:46:06+00:00",
+ "status": "ok",
+ "note": "variant=Cameralism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "官房经济学",
+   "en": "cameralism",
+   "source": "经济学名词",
+   "wordNumber": "14.040",
+   "subjectFullName": "经济学_经济思想史",
+   "subjectName": "经济思想史",
+   "publishYear": "2020",
+   "definition": "16世纪到18世纪在德国有重要影响的一门学科。是为封建国家管理公私财务和行政工作而设立的，主要内容包括财政、经济、行政、技术等知识。其代表人物有贝歇尔（Becher）、尤斯蒂(Von Justi)和冯"
+  },
+  {
+   "cn": "气室沉积",
+   "en": "cameral deposits",
+   "source": "古生物学名词",
+   "wordNumber": "02.0719",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "气室内的原生沉积。"
+  },
+  {
+   "cn": "气室膜",
+   "en": "cameral mantle",
+   "source": "古生物学名词",
+   "wordNumber": "02.0725",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "在气室内分泌气室沉积的软组织。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,32 @@
+{
+ "key": "leukantikos diatethenai",
+ "term": "leukantikôs diatethênai",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:41:58+00:00",
+ "status": "ok",
+ "note": "variant=leukantikôs diatethênai; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "NaI(Tl)闪烁体",
+   "en": "NaI(Tl) scintillator",
+   "source": "化学名词",
+   "wordNumber": "06.0122",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "用铊激活的碘化钠单晶做成的一种闪烁晶体。常做成圆柱形，密封于衬氧化镁的圆筒形金属外壳内，供射线进入的一端用金属铍箔做窗口，输出荧光的一端用透明物质做成，多用于γ\n射线和X射线的计数和能谱分析。"
+  },
+  {
+   "cn": "NaI(Tl)闪烁体",
+   "en": "NaI(Tl)scintillator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

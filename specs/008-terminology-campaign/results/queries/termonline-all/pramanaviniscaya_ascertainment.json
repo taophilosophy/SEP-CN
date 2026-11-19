@@ -1,0 +1,42 @@
+{
+ "key": "pramanaviniscaya ascertainment",
+ "term": "Pramāṇaviniścaya Ascertainment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:43:42+00:00",
+ "status": "ok",
+ "note": "variant=Pramāṇaviniścaya Ascertainment; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "确认",
+   "en": "ascertainment",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.435",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "推源",
+   "en": "ascertain paronym",
+   "source": "语言学名词",
+   "wordNumber": "10.065",
+   "subjectFullName": "语言学_训诂学_训诂方法与禁忌",
+   "subjectName": "训诂方法与禁忌",
+   "publishYear": "2011",
+   "definition": "确定派生词的根词或源词的工作。"
+  },
+  {
+   "cn": "娱乐广告",
+   "en": "advertainment",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0598",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "将广告和娱乐融合到一起，用以吸引顾客的途径。代表了娱乐业与广告业的结合。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
