@@ -7,9 +7,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "一致": 2000,
+  "一致": 2004,
   "不一致": 948,
-  "查无": 8822
+  "查无": 8818
  },
  "results": [
   {
@@ -34164,10 +34164,18 @@
    "term": "abhāva",
    "trans": "无体量",
    "basis": "因明传统译名（依缺席之否定证）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "无体量",
+     "en": "abhāva",
+     "source": "中国大百科全书第三版网络版“无体量”条目（中印宗教哲学交流门）：“印度古代哲学中认识论方面的术语”"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34213,7 +34221,7 @@
      "provider": "web-authority",
      "cn": "阿毗达磨",
      "en": "Abhidhamma",
-     "source": "《民族语文》1994 年《北京图书馆藏回鹘文〈阿毗达磨俱舍论〉残卷研究》；《华夏文化》2015 年《略述〈阿毗达磨俱舍论〉的成书及结构》"
+     "source": "《民族语文》1994 年《北京图书馆藏回鹘文〈阿毗达磨俱舍论〉残卷研究》；《华夏文化》2015 年《略述〈阿毗达磨俱舍论〉的成书及结构》；中国大百科全书第三版网络版“《阿毗达磨集论》”条目（印度逻辑史门）：“汇集《阿毗达磨经》要义的佛教论书”；“《摄阿毗达磨义论》”条目（上座部论藏纲要著作）"
     }
    ],
    "providers": [
@@ -34227,10 +34235,18 @@
    "term": "Abhidharma",
    "trans": "阿毗达磨",
    "basis": "佛教论藏通行译名；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "阿毗达磨",
+     "en": "Abhidharma",
+     "source": "中国大百科全书第三版网络版“《阿毗达磨集论》”条目（印度逻辑史门）：“汇集《阿毗达磨经》要义的佛教论书”"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34271,10 +34287,18 @@
    "term": "Abhidharmamahāvibhāṣā",
    "trans": "《大毗婆沙论》",
    "basis": "汉文古译（玄奘译）；文献译名；原文列待考；凭证 2026-11-11",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "大毗婆沙论",
+     "en": "Abhidharmamahāvibhāṣā",
+     "source": "中国大百科全书第三版网络版“《大毗婆沙论》”条目（直接命中）：“小乘佛教说一切有部论书。全称《阿毗达磨大毗婆沙论》”"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34357,7 +34381,7 @@
      "provider": "web-authority",
      "cn": "能力",
      "en": "abilities",
-     "source": "《外语与外语教学》2002 年《语用能力·语言能力·交际能力》"
+     "source": "《外语与外语教学》2002 年《语用能力·语言能力·交际能力》；中国大百科全书第三版网络版“能力”条目（直接命中）：“作为掌握和运用知识技能的条件并决定活动效率的个性心理特征”"
     }
    ],
    "providers": [
@@ -34884,10 +34908,18 @@
    "term": "Academy（Plato's）",
    "trans": "学园",
    "basis": "学界惯例（柏拉图学园通译）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "学园",
+     "en": "Academy（Plato's）",
+     "source": "中国大百科全书第三版网络版“学园派”条目（哲学门）：“从公元前387年柏拉图创立学园到公元前86年苏拉攻陷雅典这段时间内，隶属于柏拉图学园的哲学家”"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -35468,7 +35500,7 @@
      "provider": "web-authority",
      "cn": "承认",
      "en": "acknowledgement (Anerkennung)",
-     "source": "《人文杂志》2008 年《从“认同”到“承认”》（承认理论语境）"
+     "source": "《人文杂志》2008 年《从“认同”到“承认”》（承认理论语境）；中国大百科全书第三版网络版“承认”条目（西方伦理思想门）：“哲学和社会科学的一个概念，也是黑格尔哲学的一个基本概念”"
     }
    ],
    "providers": [
