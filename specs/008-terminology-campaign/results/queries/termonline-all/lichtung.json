@@ -1,0 +1,342 @@
+{
+ "key": "lichtung",
+ "term": "Lichtung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:02:25+00:00",
+ "status": "ok",
+ "note": "variant=Lichtung; 审定公布名词库=152; 海峡两岸名词对照库=6; 其他来源数据库=4; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "照明",
+   "en": "lighting",
+   "source": "电气工程名词",
+   "wordNumber": "22.243",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "过驳",
+   "en": "lighting",
+   "source": "航海科技名词",
+   "wordNumber": "11.0085",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "照明",
+   "en": "lighting",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.455",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "照明",
+   "en": "lighting,illumination",
+   "source": "建筑学名词",
+   "wordNumber": "10.0038",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "光照射到场景、物体及其环境使其可以被看见的过程。"
+  },
+  {
+   "cn": "点火",
+   "en": "lighting,ignition",
+   "source": "土木工程名词",
+   "wordNumber": "12.105",
+   "subjectFullName": "土木工程_燃气与供热_燃气应用",
+   "subjectName": "燃气应用",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "泛光照明",
+   "en": "flood lighting",
+   "source": "风景园林名词",
+   "wordNumber": "08.0763",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "通常用投光灯来照射某一情景或目标，且其照度比其周围照度明显高的照明方式。"
+  },
+  {
+   "cn": "［人工］补光",
+   "en": "supplementary lighting",
+   "source": "农学名词",
+   "wordNumber": "14.184",
+   "subjectFullName": "农业工程_农业生物环境与设施设备",
+   "subjectName": "农业生物环境与设施设备",
+   "publishYear": "2025",
+   "definition": "自然光照不能满足作物生产时，人为增加光照的行为。"
+  },
+  {
+   "cn": "照明系统",
+   "en": "lighting system",
+   "source": "风景园林名词",
+   "wordNumber": "08.0760",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "园林绿化工程项目中由灯具及其配套的配电设施、线路等组成，提供功能性照明、营造光环境的设备统称。"
+  },
+  {
+   "cn": "减轻外掺料",
+   "en": "lighting admixture",
+   "source": "精细化工名词",
+   "wordNumber": "08.0150",
+   "subjectFullName": "精细化工_其他精细化学品_油田化学品",
+   "subjectName": "油田化学品",
+   "publishYear": "2025",
+   "definition": "通过外掺料降低水泥浆密度的添加剂，主要用于油井水泥。"
+  },
+  {
+   "cn": "绿色照明",
+   "en": "green lighting",
+   "source": "风景园林名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "节约能源、保护环境、有益于提高人们的学习、工作效率和生活质量以及保障身心健康的照明。"
+  },
+  {
+   "cn": "轮廓照明",
+   "en": "contour lighting",
+   "source": "风景园林名词",
+   "wordNumber": "08.0765",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "利用灯光直接勾画建筑物或构筑物轮廓的照明方式。"
+  },
+  {
+   "cn": "方向性照明",
+   "en": "directional lighting",
+   "source": "风景园林名词",
+   "wordNumber": "08.0764",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "光源按照指定方向照射的照明方法。"
+  },
+  {
+   "cn": "建筑采光",
+   "en": "architectural lighting",
+   "source": "风景园林名词",
+   "wordNumber": "07.0089",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "为获得良好的自然光照环境，在建筑外围护结构（墙、屋顶）上布置各种形式采光口（窗口）而采取的措施。"
+  },
+  {
+   "cn": "光影手法",
+   "en": "lighting technique",
+   "source": "风景园林名词",
+   "wordNumber": "08.0624",
+   "subjectFullName": "风景园林_风景园林工程_风景园林水景",
+   "subjectName": "风景园林水景",
+   "publishYear": "2025",
+   "definition": "利用光的作用来塑造景观形象的手法。"
+  },
+  {
+   "cn": "景观照明",
+   "en": "landscape lighting",
+   "source": "风景园林名词",
+   "wordNumber": "08.0759",
+   "subjectFullName": "风景园林_风景园林工程_风景园林供电和照明",
+   "subjectName": "风景园林供电和照明",
+   "publishYear": "2025",
+   "definition": "在户外通过人工光以装饰和造景为目的的照明。"
+  },
+  {
+   "cn": "白光照明",
+   "en": "white lighting",
+   "source": "光学名词",
+   "wordNumber": "10.379",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "将LED所产生的白光用于一般的空间照明或用作液晶显示屏背光的照明方式。"
+  },
+  {
+   "cn": "普通照明",
+   "en": "general lighting",
+   "source": "光学名词",
+   "wordNumber": "10.380",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "用于一般的室内外空间、没有特殊要求的照明方式。"
+  },
+  {
+   "cn": "光照制度",
+   "en": "lighting regime",
+   "source": "畜牧学名词",
+   "wordNumber": "02.206",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "结合四季光照变化，为家禽制定补充人工光照时间和执行方案的措施。"
+  },
+  {
+   "cn": "采光系数",
+   "en": "lighting coefficient",
+   "source": "畜牧学名词",
+   "wordNumber": "02.333",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "窗户的有效采光面积与畜舍地面面积之比(设窗户的有效采光面积为1)。采光系数越大，则舍内光照越强。"
+  },
+  {
+   "cn": "恒定光照",
+   "en": "constant lighting",
+   "source": "畜牧学名词",
+   "wordNumber": "02.341",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "培育小母鸡的一种光照制度，自出雏第2天起到开产时和开产后的几个阶段，每日采用相同的光照时间。"
+  },
+  {
+   "cn": "一般照明",
+   "en": "general lighting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应急照明",
+   "en": "emergency lighting",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉点火",
+   "en": "boiler lighting up",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "甲板照明系统",
+   "en": "deck lighting system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "应急照明系统",
+   "en": "emergency lighting system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "机舱照明系统",
+   "en": "engine room lighting system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "灯光",
+   "en": "lighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能灯光控制",
+   "en": "smart lighting control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坑道照明",
+   "en": "tunnel lighting",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "采用各种光源使照度满足坑道内人员工作、生活等的需求。"
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "采光效果",
+   "en": "natural lighting effect",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "通过门窗进行自然采光的程度。"
+  },
+  {
+   "cn": "教室照明",
+   "en": "lighting of classroom",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "利用各种光源照亮教室的措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

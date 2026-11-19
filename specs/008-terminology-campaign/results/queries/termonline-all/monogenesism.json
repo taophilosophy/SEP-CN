@@ -1,0 +1,82 @@
+{
+ "key": "monogenesism",
+ "term": "monogenesism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:06+00:00",
+ "status": "ok",
+ "note": "variant=monogenesism; 审定公布名词库=2; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "单一母语说",
+   "en": "monogenesis",
+   "source": "语言学名词",
+   "wordNumber": "01.089",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "与“多母语说”相对。历史语言学的一种假说。认为所有人类语言都从同一个原始语言演化而来。"
+  },
+  {
+   "cn": "单祖论",
+   "en": "monogenism",
+   "source": "遗传学名词",
+   "wordNumber": "07.051",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "人种起源的一种假说，认为现代人群于10万～20万年前起源于非洲的一个单一群体,后向各大洲扩散并且取代了当地的直立人。"
+  },
+  {
+   "cn": "单祖论",
+   "en": "monogenism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单元[发生]论（=单元起源说）",
+   "en": "monorheithry\",\"monophyletic theory\",\"monogenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单元起源说，单元[发生]论",
+   "en": "monorheithry\",\"monophyletic theory\",\"monogenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一源论",
+   "en": "monogenesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0448",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "芬兰民俗学派提出的观点，即世界各地属同一类型的民间故事都来源于同一地区，然后呈波浪式向各地传播。这就是说，任何一种故事类型，尽管它在不同的国家和地区有几百种口头异文，但是，它们一定是在某个时代，起源于"
+  },
+  {
+   "cn": "单一母语说",
+   "en": "language monogenesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0028",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史语言学的一种假说。与“多母语说”相对。认为人类所有语言都从一个原始语言发展演化而来。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

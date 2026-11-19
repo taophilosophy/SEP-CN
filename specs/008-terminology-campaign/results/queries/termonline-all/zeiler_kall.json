@@ -1,0 +1,592 @@
+{
+ "key": "zeiler kall",
+ "term": "Zeiler Käll",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:53:02+00:00",
+ "status": "ok",
+ "note": "variant=Zeiler Käll; 审定公布名词库=552; 海峡两岸名词对照库=134; 其他来源数据库=13; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "LL(k)文法",
+   "en": "LL(k) grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0015",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "可以通过构造LL( k )分析表进行语法分析的文法，其中 k ≥ 1，为正整数。所有LL( k )文法统称为LL文法, 其分析算法称为LL算法。"
+  },
+  {
+   "cn": "LL(1)语法分析器",
+   "en": "LL(1) parser",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0122",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种采用自左向右扫描输入串和最左推导的LL(1)分析法的自顶向下语法分析器。"
+  },
+  {
+   "cn": "毁伤概率",
+   "en": "kill probability",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.016",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "在一定条件下，预期毁伤目标可能性大小的定量测度。其大小决定于命中概率和目标易毁伤部位等因素。"
+  },
+  {
+   "cn": "压井阀",
+   "en": "kill valve",
+   "source": "石油名词",
+   "wordNumber": "12.0389",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "压井液",
+   "en": "kill fluid",
+   "source": "石油名词",
+   "wordNumber": "05.0373",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "压井管汇",
+   "en": "kill manifold",
+   "source": "石油名词",
+   "wordNumber": "12.0388",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "凯尔系数",
+   "en": "Kell factor",
+   "source": "电子学名词",
+   "wordNumber": "22.025",
+   "subjectFullName": "电子学_广播电视",
+   "subjectName": "广播电视",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有效杀伤半径",
+   "en": "effective kill radius",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.189",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "战斗部爆炸后，自爆炸中心到战斗部有效杀伤区边缘的距离。"
+  },
+  {
+   "cn": "置换压井法",
+   "en": "displacement kill method",
+   "source": "石油名词",
+   "wordNumber": "05.0420",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "顶部压井法",
+   "en": "top kill method",
+   "source": "石油名词",
+   "wordNumber": "05.0421",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "带帽子压井法",
+   "en": "hatting kill well method",
+   "source": "石油名词",
+   "wordNumber": "05.0459",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "经销商",
+   "en": "dealer",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.02.009",
+   "subjectFullName": "编辑与出版学_发行与经营_发行者",
+   "subjectName": "发行者",
+   "publishYear": "2022",
+   "definition": "向供应商采购出版物，以自身或他人名义开展经营活动的发行者。"
+  },
+  {
+   "cn": "蛇形管",
+   "en": "coiler",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.034",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "在一个平面内多次迂回的换热管。"
+  },
+  {
+   "cn": "青年母牛",
+   "en": "heifer",
+   "source": "畜牧学名词",
+   "wordNumber": "02.133",
+   "subjectFullName": "畜牧学_饲养管理_牛饲养",
+   "subjectName": "牛饲养",
+   "publishYear": "2020",
+   "definition": "6月龄到第一次产犊阶段的母牛。"
+  },
+  {
+   "cn": "锅炉",
+   "en": "boiler",
+   "source": "电力名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "利用燃料燃烧释放的热能或其他热能加热水或其他工质,以生产规定参数(温度、压力)和品质的蒸汽、热水或其他工质的设备。"
+  },
+  {
+   "cn": "卷取机",
+   "en": "coiler",
+   "source": "冶金学名词",
+   "wordNumber": "09.1393",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "将长轧件弯曲卷曲成成卷轧件的机械。"
+  },
+  {
+   "cn": "卖方",
+   "en": "seller",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0429",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "提供产品、服务或结果的供应方。"
+  },
+  {
+   "cn": "自营商",
+   "en": "dealer",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0744",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "证券业内以本金买卖而非代理买卖证券，并且为自己的账户进行交易并持有头寸的个人或公司。"
+  },
+  {
+   "cn": "锅炉",
+   "en": "boiler",
+   "source": "建筑学名词",
+   "wordNumber": "14.0943",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "利用燃料燃烧、核燃料裂变(或聚变)、或其他形式的能源转换而释放的热量来加热水或其他工质，以生产规定参数(温度、压力)和品质的蒸汽、热水或其他工质的设备。"
+  },
+  {
+   "cn": "锅炉",
+   "en": "boiler",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0049",
+   "subjectFullName": "机械工程_动力机械_锅炉_类型",
+   "subjectName": "类型",
+   "publishYear": "2013",
+   "definition": "利用燃料燃烧释放的热能或其他热能加热水或其他工质，以生产规定参数(温度、压力)和品质的蒸汽、热水或其他工质的设备。"
+  },
+  {
+   "cn": "凯尔系数",
+   "en": "Kell factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "凯尔",
+   "en": "Kell\",\"Reginald(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "除冰器",
+   "en": "deicer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉",
+   "en": "boiler",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "封堵剂",
+   "en": "sealer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封器",
+   "en": "sealer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "剥皮机",
+   "en": "peeler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "除冰装置",
+   "en": "deicer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "塞尺，量隙规",
+   "en": "feeler",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉",
+   "en": "boiler",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "围网渔船",
+   "en": "seiner",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉外壳",
+   "en": "boiler clothing\",\"boiler casing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "辅锅炉",
+   "en": "auxiliary boiler\",\"donkey boiler",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉本体",
+   "en": "boiler proper\",\"boiler body",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉座",
+   "en": "boiler foundation\",\"boiler bearer",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "面纱细胞",
+   "en": "veiled cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桶式锅炉",
+   "en": "drum boiler",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蒸汽锅炉",
+   "en": "steam boiler",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锅炉钢",
+   "en": "boiler steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "开普勒轨道",
+   "en": "Kepler orbit",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扣杀",
+   "en": "kill\",\"kill shot\",\"overhead\",\"put away\",\"slam\",\"smash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖延时间",
+   "en": "kill time\",\"waste time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣球",
+   "en": "dunk\",\"jam\",\"kill\",\"slam\",\"smash\",\"stuff\",\"spike\",\"kill shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汲水器",
+   "en": "bailer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "兵者凶器,争者逆德",
+   "en": "Weapons Kill; War Is Immoral.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汲水器",
+   "en": "bailer\",\"scoop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动柜员机",
+   "en": "automatic teller machine",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“三光”政策",
+   "en": "“Three Alls” policy (kill all, burn all, loot all)",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "自动柜员机",
+   "en": "automated teller machine (ATM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拖延时间",
+   "en": "freeze the ball\",\"kill the clock\",\"run out the clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存活-杀灭区间",
+   "en": "survival-kill window",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下进行灭菌处理时，生物指示物从全部存活微生物（存活时间）过渡到全部杀灭微生物（杀灭时间）的阶段。"
+  },
+  {
+   "cn": "隐蔽抗原",
+   "en": "veiled antigen",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.7",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "由于特殊的解剖学屏障，与机体免疫系统隔绝的细胞或组织中的抗原。这些组织包括如精子、晶状体等。体内特异性淋巴细胞克隆由于未与该抗原接触而未被清除，一旦该抗原被释放，即可引发自身免疫病。"
+  },
+  {
+   "cn": "存活杀灭特征验证法",
+   "en": "verification method of survival-kill response characteristics",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "使用不少于50个相同的样本，通过存活时间（或存活剂量）和杀灭时间（或杀灭剂量）来验证D值的方法。"
+  },
+  {
+   "cn": "盖革-米勒计数器",
+   "en": "Geiger-Muller counter",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "一种专门探测电离辐射(α粒子、β粒子、γ射线)强度的计数仪器。由充气的管或小室作探头，当向探头施加的电压达到一定范围时，射线在管内每电离产生一对离子，就能放大产生一个相同大小的电脉冲并被相连的电子装置"
+  },
+  {
+   "cn": "盖格-米勒计数管",
+   "en": "Geiger-Muller counter tube",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.3.8",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核辐射侦检",
+   "subjectName": "核辐射侦检",
+   "publishYear": "2025",
+   "definition": "工作在盖革-米勒区的气体电离探测器，优点为灵敏度高、输出脉冲幅度大（几伏至几十伏）、无需放大可记录、稳定性高、电源要求低、低成本、便携；缺点是死时间为0～500μs，不适用高计数率测量。"
+  },
+  {
+   "cn": "盖革-米勒计数管坪",
+   "en": "plateau of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "在盖革-米勒计数管特征曲线上，计数率基本不随外加电压变化的电压工作区间。"
+  },
+  {
+   "cn": "盖革-米勒计数管死时间",
+   "en": "dead time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "盖革-米勒计数管从某一电离事件产生脉冲开始，对后继的电离事件不能响应的一段时间间隔。"
+  },
+  {
+   "cn": "盖革-米勒计数管恢复时间",
+   "en": "recovery time of Geiger-Muller counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "从一个被计数脉冲的起点，到它完全恢复到初始状态，并能对输入事件给出最大幅度脉冲所需要的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

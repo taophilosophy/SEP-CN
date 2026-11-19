@@ -1,0 +1,52 @@
+{
+ "key": "comesana mcgrath",
+ "term": "Comesaña McGrath",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:50:27+00:00",
+ "status": "ok",
+ "note": "variant=Comesaña McGrath; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "短周期地震仪",
+   "en": "short-period seis-mograph",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2445",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "安装有短周期摆的地震仪，摆的固有周期约为 0.1～1.0s，主要用以观测地方震、区域性地震及远震的纵波部分。 "
+  },
+  {
+   "cn": "长周期地震仪",
+   "en": "long-period seis-mograph",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2446",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "安装有长周期摆的地震仪。在传统地震学中，由于受到动态范围的限制，为了记录排除由海浪引起的脉动卓越周期 (约 5s)以外的长周期地震信号，地震仪自然而然地分成两大类：长周期地震仪负责记录周期大于大约 5"
+  },
+  {
+   "cn": "海底地震仪",
+   "en": "ocean bottom seis-mograph; OBS",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2442",
+   "subjectFullName": "地球物理学_地震科学_地震观测技术",
+   "subjectName": "地震观测技术",
+   "publishYear": "2022",
+   "definition": "用于海底地震观测的地震仪。一般有3种装置方式：电缆式、自浮式和锚标式。 "
+  },
+  {
+   "cn": "麦克马斯-皮尔斯望远镜",
+   "en": "McMath –Pierce Telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

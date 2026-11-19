@@ -1,0 +1,812 @@
+{
+ "key": "los filosofos presocraticos",
+ "term": "Los filósofos presocráticos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:59:42+00:00",
+ "status": "ok",
+ "note": "variant=Los filósofos presocráticos; 审定公布名词库=1030; 海峡两岸名词对照库=321; 其他来源数据库=59; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "明暗图案",
+   "en": "LO-pattern",
+   "source": "植物学名词",
+   "wordNumber": "15.0128",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "用明暗分析观察花粉时，雕纹形成的不同图案。"
+  },
+  {
+   "cn": "明暗分析",
+   "en": "LO-analysis",
+   "source": "植物学名词",
+   "wordNumber": "15.0127",
+   "subjectFullName": "植物学_孢粉学",
+   "subjectName": "孢粉学",
+   "publishYear": "2019",
+   "definition": "用光学显微镜调节不同焦距来分析花粉外壁外层结构图案的一种方法。如在高焦距时雕纹分子表现为“明岛”(拉丁文Lux，明)，当在低焦距时则变为“暗岛”(拉丁文Obscuritas，暗)。"
+  },
+  {
+   "cn": "明暗分析",
+   "en": "LO-analysis",
+   "source": "古生物学名词",
+   "wordNumber": "04.0278",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "用光学显微镜高低聚焦分析孢粉外壁组织和纹饰的一种方法。"
+  },
+  {
+   "cn": "眶横距",
+   "en": "distance between bilateral orbitale;Lo-Lo",
+   "source": "整形外科名词",
+   "wordNumber": "12.229",
+   "subjectFullName": "整形外科_颅颌面整形_头影测量",
+   "subjectName": "头影测量",
+   "publishYear": "2026",
+   "definition": "正位X线片上，眼眶侧壁与蝶骨大翼（斜线）之间的距离。反映面上部的宽度。"
+  },
+  {
+   "cn": "局限性硬皮病",
+   "en": "localized scleroderma;LoS",
+   "source": "整形外科名词",
+   "wordNumber": "12.081",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面畸形",
+   "subjectName": "颅颌面畸形",
+   "publishYear": "2026",
+   "definition": "硬皮病的一种。以皮肤及各系统胶原纤维硬化为特征的结缔组织疾病。主要表现为皮肤损害，内脏器官一般不受累及，临床上一般分为硬斑病和线状硬皮病。"
+  },
+  {
+   "cn": "颌",
+   "en": "hé,LO3,jaw",
+   "source": "中医药学名词",
+   "wordNumber": "08.524",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳垂正面后上部。"
+  },
+  {
+   "cn": "牙",
+   "en": "yá,LO1,tooth",
+   "source": "中医药学名词",
+   "wordNumber": "08.522",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳垂正面前上部。"
+  },
+  {
+   "cn": "舌",
+   "en": "shé,LO2,tongue",
+   "source": "中医药学名词",
+   "wordNumber": "03.342",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳垂正面中上部。"
+  },
+  {
+   "cn": "洛凯特工艺",
+   "en": "LO-CAT process",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.191",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "由美国GTP公司开发的一种在液相系统中进行的硫磺回收工艺。在常温、低压条件下操作，依靠螯合铁溶液将硫化氢转化成单质硫，硫回收率能够达到99.9%以上，被广泛应用于多种工业酸性气体的硫化氢脱除。"
+  },
+  {
+   "cn": "颈环",
+   "en": "occipital ring,lo",
+   "source": "古生物学名词",
+   "wordNumber": "02.0288",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "头部轴部最后的一节。"
+  },
+  {
+   "cn": "视线线路",
+   "en": "line of sight,LOS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0397",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一种无线传输线路。从发送方到接收方的通路必须是直线，而且必须无遮挡。"
+  },
+  {
+   "cn": "瞄准线",
+   "en": "line of sight,LOS",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.052",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "观测点(眼点)与用来瞄准目标的瞄准标志之间的连线。"
+  },
+  {
+   "cn": "服务水平",
+   "en": "level of service,LOS",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.162",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "洛杉矶时报",
+   "en": "The Los Angeles Times",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.088",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "美国西部最大的对开日报，被称为美国的第三大报。1881年12月4日在洛杉矶创刊。"
+  },
+  {
+   "cn": "洛杉矶磨损试验",
+   "en": "Los Angeles abrasion test",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0126",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "服务水平量度参数",
+   "en": "effectiveness measures of LOS",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "洛杉矶暴乱",
+   "en": "Los Angeles Riots of 1992",
+   "source": "世界历史名词",
+   "wordNumber": "03.0275",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1992年4月，在美国洛杉矶发生的种族冲突事件。"
+  },
+  {
+   "cn": "眼",
+   "en": "yǎn,LO5,eye",
+   "source": "中医药学名词",
+   "wordNumber": "08.526",
+   "subjectFullName": "中医药学_针灸学_耳穴名称和头皮穴线名称",
+   "subjectName": "耳穴名称和头皮穴线名称",
+   "publishYear": "2004",
+   "definition": "耳穴。在耳垂正面中央部。"
+  },
+  {
+   "cn": "高低压安全切断系统",
+   "en": "Hi-Lo safety system",
+   "source": "石油名词",
+   "wordNumber": "09.0103",
+   "subjectFullName": "石油_油气收集与储运工程_气田集输及输气管道",
+   "subjectName": "气田集输及输气管道",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "兰乔洛斯阿米戈斯认知功能量表",
+   "en": "Rancho Los Amigos scale;RLAS",
+   "source": "神经外科学名词",
+   "wordNumber": "16.088",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "由美国兰乔洛斯阿米戈斯国家康复中心设计的分级评定认知功能障碍严重程度的量表。结合对患者的观察及给予包括声音、影像、触摸或动作等刺激后患者的反应将其认知功能分8个等级。1级最重，8级最轻。"
+  },
+  {
+   "cn": "明暗分析",
+   "en": "LO-analysis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "明暗图案",
+   "en": "LO-pattern",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "药剂师",
+   "en": "Lo Speziale",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Haydn, Franz Joseph"
+  },
+  {
+   "cn": "罗洪先",
+   "en": "Lo Hung-shian",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "洛斯·安赫莱斯",
+   "en": "Los Ángeles\",\"Victoria de(西班牙)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "西班牙花园之夜",
+   "en": "Noches en los jardines de España",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Falla, Manuel de"
+  },
+  {
+   "cn": "兄弟之爱",
+   "en": "Frate ’nnamorato\",\"Lo (brother in love\",\"The）",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Pergolesi, Giovanni Battista "
+  },
+  {
+   "cn": "line-of-sight, LOS",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杂合性丢失",
+   "en": "loss of heterozygosity\",\"LOH",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "杂合性缺失",
+   "en": "loss of heterozygosity， LOH",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "损耗",
+   "en": "loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "丧失",
+   "en": "loss",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原木",
+   "en": "log",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "优势对数",
+   "en": "lod",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[运行]日志",
+   "en": "log",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "损失",
+   "en": "loss",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计程仪",
+   "en": "log",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "圆木",
+   "en": "log",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "计程仪",
+   "en": "log",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "胡格诺教徒",
+   "en": "Huguenots\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Meyerbeer, Giacomo"
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss\",\"lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose\",\"defeat\",\"loss\",\"make",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失误",
+   "en": "lose\",\"loss of the ball\",\"turnover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吊球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计程仪",
+   "en": "log",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放高球",
+   "en": "lob",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "lose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "丧失场地",
+   "en": "lose ground\",\"ground lost\",\"loss of ground",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "失败",
+   "en": "defeat\",\"loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "洛杉矶学派",
+   "en": "Los Angeles School",
+   "source": "社会学名词",
+   "wordNumber": "3.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学",
+   "subjectName": "城市社会学",
+   "publishYear": "2025",
+   "definition": "20世纪80年代以来出现的一批以美国洛杉矶或南加州为研究对象、基于某些共同的理论假设的论著所代表的学科派别。代表了后现代的城市观。与早年芝加哥学派相比，他们强调城市边缘而非中心的作用；全球化、大公司主"
+  },
+  {
+   "cn": "《卫藏通志》",
+   "en": "Dbus gtsang lo rgyus",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0375",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "清代西藏志书，十六卷。作者及成书年代不详，或谓是清驻藏大臣松筠所撰。分类记载卫藏故实，包括考证、疆域、山川、程站、喇嘛、寺庙、番目、兵制、镇抚、钱法、贸易、条例、纪略、抚恤、部落、经典等方面，卷首有御"
+  },
+  {
+   "cn": "洛钦•仁钦桑布",
+   "en": "Lo chen rin chen bzang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0404",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（958 年—1055 年） 藏族著名翻译家。西藏阿里古格宁旺热特那人。公元970 年从益西桑布出家为僧。被古格王意希沃派往印度，先后拜75 位大师闻习大量教理典籍，精通一切显密经论，善于讲辩、著述，"
+  },
+  {
+   "cn": "库恩损失",
+   "en": "Kuhnean loss; Kuhn loss",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的科学革命中，新范式通常会具有比旧范式更强的解谜能力，但也有少部分可能是旧范式能解决但新范式解决不了的。"
+  },
+  {
+   "cn": "复合损失",
+   "en": "recombination loss",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离室中由于电离辐射作用而产生的正负离子重新结合成原子或分子而损失的电荷量。"
+  },
+  {
+   "cn": "放射性同位素测井",
+   "en": "radioisotope log",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.25",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "用注入油井的非密封放射性物质确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "生产力损失",
+   "en": "productivity loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算生产过程中由于发病、伤残（失能）、过早死亡导致生产力损失的间接成本。"
+  },
+  {
+   "cn": "失水",
+   "en": "moisture loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.18",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "在处理、贮藏、运输或市场销售过程中，水果和蔬莱产品的水分蒸发的过程。"
+  },
+  {
+   "cn": "语言丧失",
+   "en": "language loss",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0153",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "群体或个人逐渐丧失使用一种语言的能力的现象。"
+  },
+  {
+   "cn": "角色减退",
+   "en": "role loss",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.048",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体在承担病人角色过程中，因各种原因无法完全或持续履行该角色行为规范的现象。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价杀菌效果时，消毒前后微生物数量的对数值差值。"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价病毒消毒效果时，消毒前后病毒数量的对数值差值。"
+  },
+  {
+   "cn": "失重率",
+   "en": "weight loss rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.5",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "金属样片除去腐蚀产物并清洗干燥后损失的重量与对照样片的比率。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "消费无损耗性",
+   "en": "consumption loss-free",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.6",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息可以为多个信息消费者同时拥有和使用，而不影响信息完整性，且使用后价值不衰减的特征。"
+  },
+  {
+   "cn": "性冷淡",
+   "en": "loss of libido",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对性交缺乏兴趣的多种表现，包括无性欲以至完全拒绝性交；无性高潮，虽有性欲也不拒绝性交，但无法达到性高潮；很少出现性高潮，因而对性生活不感兴趣。"
+  },
+  {
+   "cn": "生理性体重下降",
+   "en": "physiological weight loss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿出生后未能立即进食，或进食量少，加上胎粪排出，尿液、汗液等的水分丧失等因素，造成的暂时性体重下降。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.63",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "当微生物数量以对数表示时，杀菌前后微生物减少的对数值。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  },
+  {
+   "cn": "间接经济损失",
+   "en": "indirect economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于疾病的发病、伤残（失能）和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担；包括因疾病、伤残和过早死亡所损失的工作时间；由于疾病和伤残导致个人工作能力和效率降低而造成的损失；患者陪"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

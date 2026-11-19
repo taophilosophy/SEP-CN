@@ -1,0 +1,772 @@
+{
+ "key": "vocation bestimmung",
+ "term": "vocation Bestimmung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:03:45+00:00",
+ "status": "ok",
+ "note": "variant=vocation Bestimmung; 审定公布名词库=750; 海峡两岸名词对照库=262; 其他来源数据库=30; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "职业资质",
+   "en": "vocational qualifications",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.202",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "从事某一职业需要具备的一定的资格。不仅有学历要求，还会有统一的专业考试来认定。只有经过一定的培训或考试通过获得拟从业岗位或执业的合格证书或资格证书以后，才有资格从业、执业。"
+  },
+  {
+   "cn": "职业教育",
+   "en": "vocational education",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.233",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "受教育者获得某种职业或生产劳动所需要的职业知识、技能和职业道德的教育。如对职工的就业前培训、对下岗职工的再就业培训等各种职业培训以及各种职业高中、中专、技校等职业学校教育等。"
+  },
+  {
+   "cn": "职业康复",
+   "en": "vocational rehabilitation",
+   "source": "手外科学名词",
+   "wordNumber": "06.0072",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "全面康复的领域之一，指使残疾者获得和保持适当的职业，并使其参与或重新参与社会生活而进行帮助的过程，包括评定、计划、实施和追踪等步骤。"
+  },
+  {
+   "cn": "职业康复",
+   "en": "vocational rehabilitation",
+   "source": "烧伤学名词",
+   "wordNumber": "06.039",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "采取各种适当手段，帮助伤残人员恢复健康和工作能力，以及生活自理能力的康复方法。包括肢体、器官、智能的全面和部分恢复，以及适当的职业培训。通过医疗康复和职业康复，达到重返工作岗位或合适的职业，恢复正常生"
+  },
+  {
+   "cn": "职业培训",
+   "en": "vocational training",
+   "source": "计划生育名词",
+   "wordNumber": "01.152",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "为培养、提高劳动者从事各种职业所需要的知识和技能而进行的教育及训练。"
+  },
+  {
+   "cn": "职业咨询",
+   "en": "vocational counseling",
+   "source": "老年医学名词",
+   "wordNumber": "07.022",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "在就业问题方面提供咨询的过程。"
+  },
+  {
+   "cn": "职业康复",
+   "en": "vocational rehabilitation",
+   "source": "老年医学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "采取各种适当手段，帮助伤残人士恢复健康和工作能力，以及料理自己生活能力的康复方法。需要考虑到伤残者的身体能力，使其伤残后的潜在素质与再就业合理结合，即根据伤残者的具体情况帮助其就业，包括肢体、器官、智"
+  },
+  {
+   "cn": "职业咨询顾问",
+   "en": "vocational counselor",
+   "source": "老年医学名词",
+   "wordNumber": "07.023",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "从事职业咨询的专业技术人员。"
+  },
+  {
+   "cn": "职业康复",
+   "en": "vocational rehabilitation",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "为患者修复或重建职业技能，谋求或维持从事适当职业能力的过程。"
+  },
+  {
+   "cn": "职业经历",
+   "en": "vocational experience",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "物理医学与康复_康复功能评定_康复信息",
+   "subjectName": "康复信息",
+   "publishYear": "2014",
+   "definition": "患者就诊前从事职业的记录。"
+  },
+  {
+   "cn": "职业史",
+   "en": "vocational history",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "物理医学与康复_康复功能评定_康复信息",
+   "subjectName": "康复信息",
+   "publishYear": "2014",
+   "definition": "患者就诊、住院前从事职业的记录。"
+  },
+  {
+   "cn": "职业培训",
+   "en": "vocational training",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.307",
+   "subjectFullName": "物理医学与康复_康复治疗_职业康复",
+   "subjectName": "职业康复",
+   "publishYear": "2014",
+   "definition": "对接受培训的人员进行职业知识与实际技能培养和训练的活动，为其进入某行业、工作或职业做准备。"
+  },
+  {
+   "cn": "职业评定",
+   "en": "vocational assessment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.376",
+   "subjectFullName": "物理医学与康复_康复功能评定_职业评定",
+   "subjectName": "职业评定",
+   "publishYear": "2014",
+   "definition": "运用科学系统的理论与方法对残疾人完成某项工作所必需的能力倾向进行的评定。"
+  },
+  {
+   "cn": "职业分析",
+   "en": "vocational analysis",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.377",
+   "subjectFullName": "物理医学与康复_康复功能评定_职业评定",
+   "subjectName": "职业评定",
+   "publishYear": "2014",
+   "definition": "对某项工作制定技能所需的详细职责内容，说明工作人员必须做什么，怎样做，为什么做，需要什么技能，以及使用何种工具和设备。"
+  },
+  {
+   "cn": "职业兴趣",
+   "en": "vocational interest",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.378",
+   "subjectFullName": "物理医学与康复_康复功能评定_职业评定",
+   "subjectName": "职业评定",
+   "publishYear": "2014",
+   "definition": "对某些作业、职业或生涯相关活动或领域存在一定的偏好、关注或好奇。"
+  },
+  {
+   "cn": "职业能力倾向",
+   "en": "vocational aptitude",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.379",
+   "subjectFullName": "物理医学与康复_康复功能评定_职业评定",
+   "subjectName": "职业评定",
+   "publishYear": "2014",
+   "definition": "当提供适当的教育或训练机会时，个人在一些特定领域所表现出的学习和发展能力。"
+  },
+  {
+   "cn": "职业康复",
+   "en": "vocational rehabilitation",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "全面康复的领域之一，指使残疾者获得和保持适当的职业，并使其参与或重新参与社会生活而进行帮助的过程，包括评定、计划、实施和追踪等步骤。"
+  },
+  {
+   "cn": "职业动机",
+   "en": "vocational motivation",
+   "source": "教育学名词",
+   "wordNumber": "11.213",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "直接引起、推动并维持人的职业活动以实现一定职业目标的内部动力或心理动因。"
+  },
+  {
+   "cn": "职业培训",
+   "en": "vocational training",
+   "source": "教育学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "对即将就业者、在职工作者或失业者所进行的技术、技能训练，以使他们适应相关岗位的技能要求。"
+  },
+  {
+   "cn": "职业纲要",
+   "en": "vocational outline",
+   "source": "教育学名词",
+   "wordNumber": "11.046",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "描述某类职业的工作要求、工作流程、生产技术、社会经验、经济报酬、卫生保健、发展前景等方面的资料。一般由国家或地方劳动部门组织行业专家调查编写。"
+  },
+  {
+   "cn": "职业倾向",
+   "en": "vocational aptitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业辅导",
+   "en": "vocational guidance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业兴趣",
+   "en": "vocational interest",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业［能力］倾向测验",
+   "en": "vocational aptitude test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍兰德职业取向模型，霍兰德职业兴趣模型",
+   "en": "Holland vocational model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业兴趣测验",
+   "en": "vocational interest test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业兴趣问卷",
+   "en": "vocational interest blank",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯特朗职业兴趣调查表",
+   "en": "Strong Vocational Interest Blank\",\"SVIB",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业心理学",
+   "en": "occupational psychology\",\"vocational psy chology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "杰克逊职业兴趣调查表",
+   "en": "Jackson Vocational Interest Survey\",\"JVIS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "军队职业能力倾向成套测验",
+   "en": "Armed Services Vocational Aptitude Bat tery\",\"ASVAB",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "evocation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "evocation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "旋光度",
+   "en": "rotation\",\"optical rotation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基群丛",
+   "en": "sociation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网上职业培训",
+   "en": "online vocational training",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线上职业技能培训",
+   "en": "online vocational training",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "产教融合",
+   "en": "to integrate the resources of enterprises with vocational schools and universities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兴",
+   "en": "Evocation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转换位",
+   "en": "rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "twist\",\"rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转投掷",
+   "en": "throwing rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳式转动",
+   "en": "catalina rotation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序",
+   "en": "rotation order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轮转顺序错误",
+   "en": "error in the rotation order\",\"fault in rotation\",\"rotation fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于位置的社交网络",
+   "en": "location-based social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "箭着位置",
+   "en": "location of the arrows",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "公益捐赠",
+   "en": "charity donation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.29",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "自然人、法人或其他组织基于自愿原则，为支持社会公益事业而将自己有权处分的合法财产向相应的社会组织进行捐赠的活动。"
+  },
+  {
+   "cn": "配子赠送",
+   "en": "gamete donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "自愿捐赠精子或者卵子的做法。我国相关法规规定，禁止以任何形式买卖精子、卵子和胚胎，严格禁止各种代孕行为。"
+  },
+  {
+   "cn": "卵子赠送",
+   "en": "oocyte donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "育龄妇女将卵子赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "精子赠送",
+   "en": "sperm donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "由人类精子库采集健康志愿供精者的精液，冻存并通过检疫后提供给男方患不可逆无精子症或有严重遗传疾病的不孕夫妇，以达到治疗不孕或优生的目的的做法。"
+  },
+  {
+   "cn": "胚胎赠送",
+   "en": "embryo donation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.4",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "接受体外受精胚胎移植技术助孕的夫妇将胚胎赠与不育夫妇的做法。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "资本循环",
+   "en": "rotation of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0190",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指产业资本从一定的职能形式出发，顺次经过购买、生产、销售三个阶段，分别地采取货币资本、生产资本、商品资本三种职能形式，实现了价值的增殖，并回到原来出发点的全过程。"
+  },
+  {
+   "cn": "遗体器官捐献准则",
+   "en": "deceased donation rule",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.054",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "自然人生前自愿表示或未明确反对，在其死亡后进行捐献时应遵循的伦理规范和道德要求。包括自愿、无偿，禁止商业化等原则。"
+  },
+  {
+   "cn": "器官捐献协调员",
+   "en": "organ donation coordinator",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.052999999999999",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "参与人体器官捐献的宣传动员、现场见证、信息采集报告等工作并协助完成人体器官捐献其他相关事务的专职或兼职人员。"
+  },
+  {
+   "cn": "器官捐献准则",
+   "en": "organ donation criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.048",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选潜在的活体或遗体器官捐献者的医学、伦理及法律标准。"
+  },
+  {
+   "cn": "器官捐献伦理",
+   "en": "organ donation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.046",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "器官捐献中涉及的伦理问题与道德要求。包括捐献的同意模式、补偿与激励机制等。尊重、有利、不伤害、公正是器官捐献应遵循的基本伦理原则。"
+  },
+  {
+   "cn": "器官捐献法",
+   "en": "organ donation law",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.047",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "规范器官捐献及其相关行为的法律文件。旨在规范人体器官捐献行为，保障捐受双方的合法权益，倡导捐献人体器官挽救生命的人道主义精神，推动社会文明进步。"
+  },
+  {
+   "cn": "交叉换肾",
+   "en": "kidney paired donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "活体肾脏器官移植中，器官受体与家庭内有捐献意愿的供体间配型不符合，但分别与另一家庭中同样情况的受体与供体配型相符，两个家庭亲属间肾源配对互换，进行肾脏器官移植的特定情形，以此扩大肾脏来源，提高配型成功"
+  },
+  {
+   "cn": "燃料破损检测系统",
+   "en": "fuel rupture detection [location] system",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.4",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "监测反应堆燃料元件破损的系统。"
+  },
+  {
+   "cn": "遗体器官捐献系统",
+   "en": "deceased organ donation system",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.055",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由国家或地区建立的，用于规范和管理遗体器官捐献及移植的法律、医疗、伦理及行政机制。一般由 5 部分构成：人体器官捐献志愿登记系统、人体器官获取组织（opo）与人体器官协调员系统、器官捐献人登记及器官匹"
+  },
+  {
+   "cn": "中国人体器官捐献委员会",
+   "en": "china human organ donation committee",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.062000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "对全国人体器官捐献和移植的管理工作进行顶层设计，并拟定有关政策措施的组织。2010 年9 月，中国人体器官捐献工作委员会和中国人体器官捐献办公室成立。 2014 年3 月1 日，中国人体器官捐献与移植"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "省级人体器官捐献委员会",
+   "en": "provincial human organ donation committee",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.067",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "由省级红十字会、卫生行政主管部门和其他相关部门人员组成的人体器官捐献和分配管理组织。从属于中国人体器官捐献体系，下设省级人体器官捐献办公室、省级人体器官捐献专家组和省级人体器官获取组织等，负责管理本行"
+  },
+  {
+   "cn": "尸体器官捐献补偿",
+   "en": "compensation for cadaveric organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.056000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "基于公正原则，对自愿无偿捐献尸体器官的行为给予一定的精神与物质嘉奖，体现对其高尚行为的肯定与激励。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

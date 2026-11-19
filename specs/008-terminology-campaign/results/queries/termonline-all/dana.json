@@ -1,0 +1,572 @@
+{
+ "key": "dana",
+ "term": "dāna",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:51:54+00:00",
+ "status": "ok",
+ "note": "variant=dāna; 审定公布名词库=496; 海峡两岸名词对照库=419; 其他来源数据库=8; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "K+Na+交换",
+   "en": "K + Na + exchange",
+   "source": "兽医学名词",
+   "wordNumber": "04.387",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "由于Na +泵的活动，管腔内剩下较多的负离子，从而使K +顺着电位差进入小管液的 过程。"
+  },
+  {
+   "cn": "H+Na+交换",
+   "en": "H + Na + exchange",
+   "source": "兽医学名词",
+   "wordNumber": "04.388",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "小管液中的Na +顺着浓度梯度进入细胞，而细胞内的H +分泌入小管管腔的过程。"
+  },
+  {
+   "cn": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-葡萄糖共转运体",
+   "en": "<img src='/root/syzx/static/spz/shengli2.Na+.png'/>-glucose cotransporter",
+   "source": "生理学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "畜牧学名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "由四种脱氧核糖核苷酸经磷酸二酯键连接而成的长链聚合物，是遗传信息的载体。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "运动医学名词",
+   "wordNumber": "04.096",
+   "subjectFullName": "运动医学_运动生化_核酸与运动",
+   "subjectName": "核酸与运动",
+   "publishYear": "2019",
+   "definition": "一类带有遗传信息的生物大分子。由4种主要的脱氧核苷酸(dAMP、dGMP、dCMT和dTMP)通过3′，5′-磷酸二酯键连接而成。它们的组成和排列不同，显示的生物功能也不同，如编码功能、复制和转录的调"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "计划生育名词",
+   "wordNumber": "03.718",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "由4种脱氧核糖核苷酸经磷酸二酯键连接而成的长链聚合物。是遗传信息载体。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "物理学名词",
+   "wordNumber": "11.0402",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "生物物理学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "生物物理学_分子与结构生物学_核酸结构",
+   "subjectName": "核酸结构",
+   "publishYear": "2018",
+   "definition": "主要由4种脱氧核糖核苷酸按一定的顺序，通过3′，5′–磷酸二酯键连接而成的一类核酸。为规则的双螺旋结构。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "药学名词",
+   "wordNumber": "05.126",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "由至少几十个脱氧核糖核苷酸通过磷酸二酯键连接而成的一类核酸。是染色体的主要化学成分。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "由四种脱氧核糖核苷酸经磷酸二酯键连接而成的长链聚合物。是遗传信息载体。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "遗传学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "由四种脱氧核糖核苷酸经磷酸二酯键连接而成的长链聚合物，是遗传信息的载体。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "水产名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "主要由4种脱氧核糖核苷酸按一定的顺序，以3′，5′-磷酸二酯键连接而成的一类核酸，是生物遗传信息的载体。"
+  },
+  {
+   "cn": "脱氧核糖核酸",
+   "en": "deoxyribonucleic acid,DNA",
+   "source": "化学工程名词",
+   "wordNumber": "06.012",
+   "subjectFullName": "化学工程_生物化学工程_生物化学工程",
+   "subjectName": "生物化学工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA,T-DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0287",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "整合到土壤农杆菌Ti质粒中的一段DNA。有助于将外源DNA插入植物基因组中。"
+  },
+  {
+   "cn": "外源DNA",
+   "en": "exogenous DNA,foreign DNA",
+   "source": "植物学名词",
+   "wordNumber": "16.0158",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "从一生物体中克隆并被转入另一生物体内或细胞中的DNA片段。"
+  },
+  {
+   "cn": "着丝粒DNA",
+   "en": "centromeric DNA,CEN DNA",
+   "source": "遗传学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "构成着丝粒的DNA序列，富含AT重复序列。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA,T-DNA",
+   "source": "遗传学名词",
+   "wordNumber": "03.650",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "转入植物基因组的Ti质粒片段。"
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA;T-DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0773",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "植物基因工程实验中广泛应用的一种导入外源基因的载体。源于农杆菌Ri质粒中的一段DNA序列，可以从农杆菌中转移并稳定整合到植物核基因组中。"
+  },
+  {
+   "cn": "DNA指导的DNA聚合酶",
+   "en": "DNA- directed DNA polymerase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0312",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "以DNA为模板催化脱氧核苷-5′-三磷酸合成DNA的酶。编号：EC 2.7.7.7。"
+  },
+  {
+   "cn": "四链体DNA",
+   "en": "tetraplex DNA;quadruplex DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0162",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "具有4条富含鸟嘌呤链的DNA。"
+  },
+  {
+   "cn": "类似DNA的RNA",
+   "en": "DNA like RNA\",\"D-RNA\",\"dRNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "超螺旋DNA",
+   "en": "supercoiled DNA\",\"superhelical DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA环",
+   "en": "DNA loop\",\"DNA circle",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "四链体DNA",
+   "en": "tetraplex DNA\",\"quadruplex DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转移DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复DNA",
+   "en": "repetitive DNA\",\"repeated DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化DNA",
+   "en": "transfer DNA\",\"T-DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "着丝粒DNA",
+   "en": "centromeric DNA\",\"CEN DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA微阵列（=DNA芯片）",
+   "en": "DNA microarray (=DNA chip)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA甲基转移酶(=DNA甲基化酶)",
+   "en": "DNA methyltransferase(=DNA methylase)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA微阵列(=DNA芯片)",
+   "en": "DNA microarray(=DNA chip)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA指导的DNA聚合酶",
+   "en": "DNA-directed DNA polymerase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依赖于DNA的DNA聚合酶",
+   "en": "DNA-dependent DNA polymerase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA指导的DNA聚合酶",
+   "en": "DNA-directed DNA polymerase",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "高度重复DNA",
+   "en": "highly repetitive DNA\",\"hyperreiterated DNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "核糖体DNA",
+   "en": "ribosomal DNA\",\"ribosome DNA\",\"rDNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "高度重复DNA",
+   "en": "highly repetitive DNA\",\"hyperreiterated DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "DNA密码",
+   "en": "DNA cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用数据DNA",
+   "en": "credit data DNA",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA barcode",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.59",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "生物体内能够代表该物种的、标准的、有足够变异的、易扩增且相对较短的DNA 片段。"
+  },
+  {
+   "cn": "DNA损伤",
+   "en": "DNA damage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "辐射等外源因素导致DNA分子结构的异常改变。包括链断裂、碱基破坏、交联等。"
+  },
+  {
+   "cn": "DNA交联",
+   "en": "DNA crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "不同DNA链的交错连接，是细胞内发生严重损伤的表现。可影响DNA的正常复制功能，导致突变或肿瘤。"
+  },
+  {
+   "cn": "DNA修复",
+   "en": "DNA repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA受损后细胞恢复DNA原始碱基序列或结构完整性的生物化学过程。"
+  },
+  {
+   "cn": "DNA",
+   "en": "DNA fingerprinting",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将病原体的染色体DNA 用限制性内切酶消化，分离得到不同大小的DNA 片段，再以重复序列中的共有序列作为核酸探针进行杂交，对得到的不同病原体DNA 片段的带型图谱(即DNA 指纹图谱，对每一个体都是独"
+  },
+  {
+   "cn": "数字化DNA",
+   "en": "digital DNA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.58",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "利用数字化技术记录、存储、追踪和查询食品中具有物种、种群、个体等DNA 信息，实现食品从原料采购、加工制作、仓储运输、销售等环节的透明化管理和记录，应用于食品溯源和安全监管。"
+  },
+  {
+   "cn": "DNA链内交联",
+   "en": "DNA intrastrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA分子同一条链中的两个碱基相互共价结合。"
+  },
+  {
+   "cn": "DNA链间交联",
+   "en": "DNA interstrand crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA双螺旋结构中的一条链上的碱基与同一分子另一条链上的碱基以共价键结合。"
+  },
+  {
+   "cn": "DNA蛋白质交联",
+   "en": "DNA protein crosslink",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.3.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA与蛋白质以共价键结合。"
+  },
+  {
+   "cn": "DNA双链断裂",
+   "en": "DNA double-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中两条互补链于同一对应处或紧密相邻处同时断裂。"
+  },
+  {
+   "cn": "DNA单链断裂",
+   "en": "DNA single-strand breakage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA损伤的一种形式，DNA双螺旋结构中有一条链断裂。"
+  },
+  {
+   "cn": "胎儿游离DNA检测",
+   "en": "cell-free fetal DNA test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.5",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "通过抽取孕妇静脉血，对胎儿游离DNA进行测序，从而推断胎儿患病风险的技术。"
+  },
+  {
+   "cn": "抗双链DNA抗体",
+   "en": "anti-double stranded DNA antibody, anti-dsDNA antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "系统性红斑狼疮的高度特异性抗体，与系统性红斑狼疮疾病活动度密切相关。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

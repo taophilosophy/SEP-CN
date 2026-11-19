@@ -1,0 +1,762 @@
+{
+ "key": "earth les damnes",
+ "term": "Earth Les damnés",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:56:29+00:00",
+ "status": "ok",
+ "note": "variant=Earth Les damnés; 审定公布名词库=1517; 海峡两岸名词对照库=571; 其他来源数据库=81; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "国际海事卫星陆地地球站",
+   "en": "INMARSAT land earth station,INMARSAT LES",
+   "source": "航海科技名词",
+   "wordNumber": "14.0248",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "费加罗报",
+   "en": "Le Figaro",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.097",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "法国历史最久的对开日报，世界上著名报纸之一。创办于1826年。1854年，经亨利·德·威尔梅桑(Henri de Villemesant)在巴黎接手后成为定期出版的报纸。"
+  },
+  {
+   "cn": "世界报",
+   "en": "Le Monde",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.153",
+   "subjectFullName": "新闻学与传播学_新闻史_现代新闻史_外国",
+   "subjectName": "外国",
+   "publishYear": "2022",
+   "definition": "法国最有影响的报纸之一。1944年12月19日创刊。创办者贝尔·伯夫梅里(Hubert Beuve Mery)，前身为著名的《时报》(Le Temps)。"
+  },
+  {
+   "cn": "伊代尔",
+   "en": "ide&1&le",
+   "source": "数学名词",
+   "wordNumber": "04.0277",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿代尔",
+   "en": "ade&1&le",
+   "source": "数学名词",
+   "wordNumber": "04.0282",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "地质学名词",
+   "wordNumber": "01.00.003",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "太阳系八大行星之一。按离太阳由近及远的排序为第三颗行星，与太阳的平均距离约1.5×10⁸km。具有圈层结构，分为外部圈层和内部圈层两大部分，外部圈层包括水圈、大气圈和生物圈，内部圈层分为地核、地幔、地"
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "天文学名词",
+   "wordNumber": "10.040",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "太阳系八大行星之一。类地行星的典型，是迄今已知的直径、质量和密度最大的类地行星，也是人类生活所在的地球型行星，是宇宙中唯一已知存在生命的天体。"
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1119",
+   "subjectFullName": "地球物理学_地震科学_地震学与地球内部构造",
+   "subjectName": "地震学与地球内部构造",
+   "publishYear": "2022",
+   "definition": "太阳系八大行星之一。人类生活所在的行星。其平均半径约为 6371km，表面面积为5.1×10⁸km²，体积为1.08×10¹²km³，质量为5.98×10²⁴kg，其内部结构由地壳、地幔和地核组成。"
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "source": "地理学名词",
+   "wordNumber": "01.097",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "环绕太阳运行的九大行星之一，是人类居住的星球。"
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "source": "航天科学技术名词",
+   "wordNumber": "01.010",
+   "subjectFullName": "航天科学技术_航天学综合术语",
+   "subjectName": "航天学综合术语",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "土",
+   "en": "earth",
+   "source": "中医药学名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "中医药学_中医基础理论_中医基础理论总论",
+   "subjectName": "中医基础理论总论",
+   "publishYear": "2004",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "航海科技名词",
+   "wordNumber": "02.0001",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "地质学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "铁勒",
+   "en": "Tie Le;Tie Le Tribal Union",
+   "source": "中国古代史名词",
+   "wordNumber": "5.267",
+   "subjectFullName": "中国古代史_隋唐五代_族部",
+   "subjectName": "族部",
+   "publishYear": "2022",
+   "definition": "魏晋至隋唐广泛分布于漠北至中亚地区的族群。又称“敕勒” “丁零” “高车”。种属繁多，北朝以来先后依附于鲜卑、突厥，隋唐时建有薛延陀、回纥汗国。唐太宗时灭薛延陀汗国，以其地为羁縻府州，至回纥汗国统一铁"
+  },
+  {
+   "cn": "勒福Ⅰ型骨折",
+   "en": "Le Fort Ⅰ fracture",
+   "source": "整形外科名词",
+   "wordNumber": "12.153",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折线经过鼻底，在所有牙根的上方，水平延伸至两侧上颌骨翼突缝附近，造成包括牙槽突、腭骨及上颌结节在内的上颌骨下1/3的整块骨折。"
+  },
+  {
+   "cn": "勒福Ⅱ型骨折",
+   "en": "Le Fort Ⅱ fracture",
+   "source": "整形外科名词",
+   "wordNumber": "12.154",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折线自鼻额缝向两侧延伸，横过鼻梁、泪骨、眶底、颧上颌缝、眶下孔、上颌骨侧壁、翼突至翼上颌窝的上颌骨整块骨折。"
+  },
+  {
+   "cn": "勒福Ⅲ型骨折",
+   "en": "Le Fort Ⅲ fracture",
+   "source": "整形外科名词",
+   "wordNumber": "12.155",
+   "subjectFullName": "整形外科_颅颌面整形_颅面外伤及肿瘤",
+   "subjectName": "颅面外伤及肿瘤",
+   "publishYear": "2026",
+   "definition": "骨折线通过鼻额缝，横越眶底，经颧额缝、颧弓，向后达翼突，形成面中1/3部与颅底完全分离的上颌骨整块骨折。"
+  },
+  {
+   "cn": "勒福Ⅰ型截骨术",
+   "en": "Le Fort Ⅰ osteotomy",
+   "source": "整形外科名词",
+   "wordNumber": "12.235",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面手术",
+   "subjectName": "颅颌面手术",
+   "publishYear": "2026",
+   "definition": "按照上颌骨勒福Ⅰ型骨折线方位进行截骨的术式。截骨线起自梨状孔外下缘，经根尖下，过颧牙槽嵴，至上颌结节上方，水平向后延伸至两侧翼上颌连接，依次切开上颌骨各壁，使截开的上颌牙骨段下降折断，并在此基础上去骨"
+  },
+  {
+   "cn": "勒福Ⅱ型截骨术",
+   "en": "Le Fort Ⅱ osteotomy",
+   "source": "整形外科名词",
+   "wordNumber": "12.236",
+   "subjectFullName": "整形外科_颅颌面整形_颅颌面手术",
+   "subjectName": "颅颌面手术",
+   "publishYear": "2026",
+   "definition": "按照上颌骨勒福Ⅱ型骨折线方位进行截骨的术式。截骨线起自鼻额缝，向两侧横过鼻背，经眶内侧壁、眶底和颧上颌缝，沿上颌骨侧壁至翼上颌连接进行截骨。临床上适用于上颌发育不足或外伤所致的面中部凹陷患者。"
+  },
+  {
+   "cn": "陆地地球站",
+   "en": "land earth station\",\"LES",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事卫星陆地地球站",
+   "en": "INMARSAT land earth station\",\"INMARSAT LES",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "胡格诺教徒",
+   "en": "Huguenots\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Meyerbeer, Giacomo"
+  },
+  {
+   "cn": "仙女们",
+   "en": "Sylphides\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Chopin/Glazunov"
+  },
+  {
+   "cn": "母鹿",
+   "en": "Biches\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Poulenc, Francis"
+  },
+  {
+   "cn": "婚礼",
+   "en": "Les Noces",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "特洛伊人",
+   "en": "Les Troyens",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Berlioz, Hector"
+  },
+  {
+   "cn": "六人团",
+   "en": "Six，Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "夜莺",
+   "en": "Rossignol\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Stravinsky, Igor"
+  },
+  {
+   "cn": "中国贵妇",
+   "en": "Cinesi\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Gluck, Christoph Willibald von"
+  },
+  {
+   "cn": "绞刑架",
+   "en": "Gibet\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ravel, Maurice"
+  },
+  {
+   "cn": "假戏真做（假面具）",
+   "en": "Maschere\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mascagni, Pietro"
+  },
+  {
+   "cn": "熙德",
+   "en": "Cid\",\"Le",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Massenet, Jules"
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "earth",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地球",
+   "en": "Earth",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "接地",
+   "en": "earthing\",\"grounding\",\"earth\",\"earth connection",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "前奏曲",
+   "en": "Les Prélude",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Liszt, Franz (Ferenc)"
+  },
+  {
+   "cn": "享天福的圣身",
+   "en": "Corps glorieux\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Messiaen, Olivier"
+  },
+  {
+   "cn": "襟怀坦白的法官",
+   "en": "Francs Juges\",\"Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Berlioz, Hector"
+  },
+  {
+   "cn": "数字地球",
+   "en": "Digital Earth",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地道",
+   "en": "Way of Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谷歌地球引擎",
+   "en": "Google Earth engine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玻璃地球计划",
+   "en": "Glass Earth Program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地球观测组织",
+   "en": "Group on Earth Observations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "坤",
+   "en": "Kun（The Earth Symbol）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地球大数据挖掘",
+   "en": "Big Earth Data Miner",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合地球观测系统",
+   "en": "integrated earth observation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟“活地球模拟器”项目",
+   "en": "Living Earth Simulator Project (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球综合对地观测系统",
+   "en": "Global Earth Observation System of Systems (GEOSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地球大数据科学工程（中国）",
+   "en": "Big Earth Data Science Engineering Project (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天地之气",
+   "en": "The Qi (Vital Force) of Heaven and Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大乐与天地同和",
+   "en": "Grand Music Reflects Harmony Between Heaven and Earth.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社稷",
+   "en": "<div> Gods of the Earth and the Five Grains / State / State Power</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "擦网重发",
+   "en": "let\",\"let service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《泐史》",
+   "en": "History of Le",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "用傣文记录云南西双版纳（车里）最高统治者世系及政事之编年史书。作者不详。所记史事从傣历542 年（1180） 至傣历1312 年（1950），共770年。"
+  },
+  {
+   "cn": "太空船地球",
+   "en": "spaceship earth",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.7",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "许多学者提出地球是一个“物质有限的和封闭的系统”，就像一个太空船，承载着一个支撑多个种群的生态系统。"
+  },
+  {
+   "cn": "土葬",
+   "en": "earth burial",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0266",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，人们去世最为常见的一种埋葬方式。通常需先将尸体放入棺材之中，再将载有尸体的棺材埋入土中，最后再于埋葬处立上墓碑，用于纪念所葬之人。中国的土葬形式主要有：竖穴墓（土坑墓）、大石墓、瓮棺葬、石板"
+  },
+  {
+   "cn": "土楼",
+   "en": "earth building",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0141",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以生土为主要材料夯筑环状墙体、以生土与木构架结合，不同程度使用石材建造的大型集体住宅建筑；主要分布于中国的福建和广东两省。"
+  },
+  {
+   "cn": "脉、气、明点",
+   "en": "Rtsa rlung thig le",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0469",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。“脉”，密宗无上瑜伽所说身中气血循环的的风依脉而存在。据密典人体中通血液的脉有三十七条，最主要的脉有左、中、右三条，尤以中脉最为重要；“气”，又译“风”，密宗所说人体中内眼看不见的生命能"
+  },
+  {
+   "cn": "稀土族放射性核素",
+   "en": "rare-earth radionuclide",
+   "source": "放射卫生学",
+   "wordNumber": "2.4.6",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "稀土族中具有放射性的核素。主要包括镧、铈、镨、钕、钷、钐、铕、钆、铽、镝、钬、铒、铥、镱、镥、钪和钇。"
+  },
+  {
+   "cn": "眼晶状体剂量计",
+   "en": "eye lens dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "佩戴在眼晶状体附近，用于测定眼晶状体剂量的小型装置。"
+  },
+  {
+   "cn": "嗜酸粒细胞增多综合征",
+   "en": "hypereosinophilic syndrome，HES",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "高嗜酸粒细胞增多症伴嗜酸性粒细胞浸润导致的组织脏器损伤或功能障碍的综合征，除外其他因素导致的组织脏器损伤。可分为原发性（克隆性/肿瘤性）、继发性（反应性）和特发性。"
+  },
+  {
+   "cn": "身材匀称",
+   "en": "trunk-leg ratio",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.20",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "身体上部（顶臀长、坐高）与身长（高）的比值，反映下肢的生长情况。"
+  },
+  {
+   "cn": "不宁腿综合征",
+   "en": "restless legs syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "在坐姿或夜间睡眠时出现的双下肢极度不适感，如感觉蚁走、爬行、麻刺痛、灼烧、或瘙痒，促使肢体进行活动，并在活动后缓解的一种睡眠障碍。"
+  },
+  {
+   "cn": "勒斯-迪茨综合征",
+   "en": "Loeys-Dietz syndrome, LDS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.7.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病",
+   "subjectName": "遗传性疾病",
+   "publishYear": "2025",
+   "definition": "一种常染色体显性遗传病。临床表现为动脉迂曲和动脉瘤、眼距过宽、腭裂、颅缝早闭等。分为四种亚型：Ⅰ型有器官距离过远、腭裂、颅缝早闭症状，ⅠA型由TGFBR1（9q22）基因突变导致，ⅠB型由TGFBR2"
+  },
+  {
+   "cn": "传能线密度",
+   "en": "linear energy transfer，LET",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "射线粒子在单位长度运动径迹上损失的平均能量。单位为千电子伏特每毫米，记作keV·mm-1。其大小取决于粒子所载电荷和粒子质量。"
+  },
+  {
+   "cn": "狼疮细胞",
+   "en": "lupus erythematosus cell，LEC",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "抗DNP抗体（狼疮因子）与破碎细胞核DNA组蛋白（DNP）复合物结合并激活补体，被体内多形核中性粒细胞吞噬，从而形成狼疮细胞。SLE患者骨髓、胸水涂片中可发现狼疮细胞现象，多形核中性粒细胞胞浆中有一个"
+  },
+  {
+   "cn": "《萨迦格言》",
+   "en": "Sa skya legs bshad",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0359",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族文学名著，萨迦班智达著，成书于13 世纪上半叶。藏族第一部哲理格言诗集，内容包括处世、治学、识人、待物等，格言富于哲理而脍炙人口。七言四句的诗歌形式，对后世藏族格言诗的创作奠定了基础，在藏族文学史"
+  },
+  {
+   "cn": "糟渍菜",
+   "en": "pickled vegetable with lees",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.34",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "以蔬菜咸坯为原料，用酒糟或醪糟经糟渍加工而成的蔬菜制品。"
+  },
+  {
+   "cn": "《善说金鬘》",
+   "en": "Legs bshad gser phreng",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.036",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教经典名著，为宗喀巴（1357 年—1419 年）大师著。作者依据《现观庄严论》大乘教义，阐述了修持之课、修炼之道和得道之法。全书体现了宗喀巴大师的思想体系，从而创立了完整的格鲁派教规教义和它的"
+  },
+  {
+   "cn": "肌无力综合征",
+   "en": "Lambert-Eaton Myasthenic Syndrome, LEMS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.3.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种累及神经-肌肉接头突触前膜的自身免疫性疾病。临床表现为四肢近端无力，可累及面部和球部肌肉，症状常波动易疲劳；溴吡斯的明试验阴性或弱阳性。重复神经刺激显示低频刺激波幅递减，高频刺激波幅递增。部分患者"
+  },
+  {
+   "cn": "两条腿走路方针",
+   "en": "policy of walking on two legs",
+   "source": "马克思主义",
+   "wordNumber": "02.0370",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党关于社会主义经济建设的方针。即：在重工业优先发展的条件下，工业和农业同时并举；在集中领导、全面规划、分工协作的条件下，中央工业和地方工业同时并举，大型企业和中小型企业同时并举。党的八大二次会"
+  },
+  {
+   "cn": "《嘉言宝库》",
+   "en": "Legs bshad rin po chevi gter mdzod",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0346",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族苯教史籍，亦译《西藏苯教源流》，是一部系统介绍苯教发展史的著作，夏察•扎西坚参（1848 年—1933 年）著，成书年代不详，全书共7 卷。"
+  },
+  {
+   "cn": "眼晶状体当量剂量",
+   "en": "equivalent dose in the len of the eye",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "特定电离辐射在眼晶状体中产生的平均吸收剂量与该种辐射的辐射权重因数的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

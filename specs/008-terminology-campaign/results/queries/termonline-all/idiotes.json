@@ -1,0 +1,42 @@
+{
+ "key": "idiotes",
+ "term": "idiotēs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:58:11+00:00",
+ "status": "ok",
+ "note": "variant=idiotēs; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "成语词典",
+   "en": "dictionary of idioms,idioms dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。专门收录并诠释成语。"
+  },
+  {
+   "cn": "民间熟语",
+   "en": "folk idioms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.035",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人民大众长期习用、熟悉定型的民间语汇，是在民众口头流传，具有民俗文化内涵的通俗性语句。"
+  },
+  {
+   "cn": "特用型民间熟语",
+   "en": "special folk idioms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0357",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "专用于某种特定的群体或场合的较为定型的词语。它在使用范围上有较强的局限性，但具有特殊的功用，是民间语言中极有特色的组成部分，包括行话、黑话、暗语、吉祥语、忌讳语、咒语、绕口令等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

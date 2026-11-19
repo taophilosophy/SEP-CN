@@ -1,0 +1,42 @@
+{
+ "key": "ensayos ineditos",
+ "term": "Ensayos inéditos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:59:24+00:00",
+ "status": "ok",
+ "note": "variant=Ensayos inéditos; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "论丛",
+   "en": "series of essays",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.099",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "某一领域相关论文的集合图书。"
+  },
+  {
+   "cn": "程文",
+   "en": "cheng wen;model essays",
+   "source": "中国古代史名词",
+   "wordNumber": "8.227",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "明清坊间刊刻供士子参加科举考试模仿的范文。"
+  },
+  {
+   "cn": "性学三论",
+   "en": "three essays on the theory of sexuality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,22 @@
+{
+ "key": "barcelona dialogos",
+ "term": "Barcelona Diálogos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:59:17+00:00",
+ "status": "ok",
+ "note": "variant=Barcelona Diálogos; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "巴塞罗那肝癌临床分期",
+   "en": "Barcelona clinic liver cancer staging; BCLC staging",
+   "source": "肝病学名词",
+   "wordNumber": "10.2.1.4",
+   "subjectFullName": "肝病学_肝脏肿瘤_肝恶性肿瘤",
+   "subjectName": "肝恶性肿瘤",
+   "publishYear": "2024",
+   "definition": "在巴塞罗那国际会议上提出后在全球广泛应用的肝癌临床分期。获得国际上多项指南认可，该分期综合考虑了患者的一般状况、肿瘤情况及肝功能，同时根据不同分期提出首选治疗方案。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

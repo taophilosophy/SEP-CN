@@ -1,0 +1,592 @@
+{
+ "key": "bloser huber",
+ "term": "Blöser Huber",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:32+00:00",
+ "status": "ok",
+ "note": "variant=Blöser Huber; 审定公布名词库=1579; 海峡两岸名词对照库=368; 其他来源数据库=15; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "胡伯尔求积式",
+   "en": "Huber’s formula",
+   "source": "林学名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "测算树干材积的数学公式之一。<img src='/root/syzx/static/spz/linxue2.06.094.1.png'/>。式中：V为树干材积，<img src='/root/syzx"
+  },
+  {
+   "cn": "轮毂",
+   "en": "hub",
+   "source": "电力名词",
+   "wordNumber": "18.065",
+   "subjectFullName": "电力_新能源发电",
+   "subjectName": "新能源发电",
+   "publishYear": "2020",
+   "definition": "将叶片固定到旋转轴上的联接部件。"
+  },
+  {
+   "cn": "枢纽",
+   "en": "hub",
+   "source": "生物物理学名词",
+   "wordNumber": "06.160",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "在生物网络中具有高连接度的节点。"
+  },
+  {
+   "cn": "集线器",
+   "en": "hub",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0111",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在计算机网络中配置成星形的中心功能单元。它协调在站之间的数据通信，并可以提供对其他计算机网络的接入。"
+  },
+  {
+   "cn": "集线器",
+   "en": "hub",
+   "source": "通信科学技术名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "通信科学技术_交换选路",
+   "subjectName": "交换选路",
+   "publishYear": "2007",
+   "definition": "作为网络中枢连接各类节点，以形成星状结构的一种网络设备。"
+  },
+  {
+   "cn": "轮毂",
+   "en": "hub",
+   "source": "航空科学技术名词",
+   "wordNumber": "08.089",
+   "subjectFullName": "航空科学技术_航空机电系统",
+   "subjectName": "航空机电系统",
+   "publishYear": "2003",
+   "definition": "组成机轮的主要承力构件。"
+  },
+  {
+   "cn": "转轮体",
+   "en": "hub,runner hub",
+   "source": "电力名词",
+   "wordNumber": "16.054",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "轴流、斜流与贯流式水轮机安装叶片的圆柱形构件。叶片可转动的水轮机在转轮体内还安装有叶片接力器等部件。转轮体随叶片一起转动并将力矩传送到与之相连的主轴上。"
+  },
+  {
+   "cn": "跷板式桨毂",
+   "en": "seesaw hub,feathering hub",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.207",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "一种半铰接式旋翼或尾桨的桨毂。"
+  },
+  {
+   "cn": "单面凸砂轮",
+   "en": "hubbed wheel",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.035",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_砂轮",
+   "subjectName": "砂轮",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轮毂高度",
+   "en": "hub height",
+   "source": "电力名词",
+   "wordNumber": "18.066",
+   "subjectFullName": "电力_新能源发电",
+   "subjectName": "新能源发电",
+   "publishYear": "2020",
+   "definition": "从地面到风轮扫掠面中心的高度。"
+  },
+  {
+   "cn": "交换型集线器",
+   "en": "switching hub",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0338",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "一种特别类型的局域网集线器。它能够在多个端口之间执行桥接功能，读每个帧的目的地址，并把它们转发到适当的端口。"
+  },
+  {
+   "cn": "有源集线器",
+   "en": "active hub",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0336",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "一种用作中继器的集线器。它提升信号强度，允许把更长的线缆连接到工作站或服务器。"
+  },
+  {
+   "cn": "枢纽机场",
+   "en": "hub airport",
+   "source": "建筑学名词",
+   "wordNumber": "02.0674",
+   "subjectFullName": "建筑学_建筑类型及组成_交通建筑",
+   "subjectName": "交通建筑",
+   "publishYear": "2014",
+   "definition": "在中枢辐射式航线网络中的重要节点，是航空运输的集散中心。航空公司航线多以枢纽机场为中心向外联结各地，并作为中转旅客至下一个目的地的中间停靠机场。"
+  },
+  {
+   "cn": "轮毂高度",
+   "en": "hub height",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0130",
+   "subjectFullName": "机械工程_动力机械_风力机_参数_设计、性能和安全参数",
+   "subjectName": "设计、性能和安全参数",
+   "publishYear": "2013",
+   "definition": "从地面到风轮扫掠面中心的高度。"
+  },
+  {
+   "cn": "转轮体",
+   "en": "runner hub",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "25.0113",
+   "subjectFullName": "机械工程_动力机械_水轮机",
+   "subjectName": "水轮机",
+   "publishYear": "2013",
+   "definition": "支撑轴流式转轮(叶轮)叶片的轴对称部件。"
+  },
+  {
+   "cn": "双枢纽",
+   "en": "dual hubbed",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "两个网络间有两个公共枢纽节点的组网方式。"
+  },
+  {
+   "cn": "信息港",
+   "en": "information hub",
+   "source": "地理学名词",
+   "wordNumber": "18.200",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "通信网络中信息汇集、处理、服务、传输的中心或城市。"
+  },
+  {
+   "cn": "旋翼桨毂",
+   "en": "rotor hub",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.202",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "用于安装旋翼桨叶、并使旋翼与直升机传动系统和操纵系统相连接的中间部件。"
+  },
+  {
+   "cn": "星形柔性桨毂",
+   "en": "starflex hub",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.209",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "一种介于铰接式与无铰式之间的桨毂。由中央星形件、弹性轴承、夹板、黏弹减摆器及球关节轴承等组成，实际上是有弹性约束的铰接式桨毂。"
+  },
+  {
+   "cn": "球形柔性桨毂",
+   "en": "spheriflex hub",
+   "source": "航空科学技术名词",
+   "wordNumber": "02.210",
+   "subjectFullName": "航空科学技术_航空器",
+   "subjectName": "航空器",
+   "publishYear": "2003",
+   "definition": "一种介于铰接式与无铰式之间的桨毂。完全由三铰合一的球面弹性轴承提供挥舞、摆振及变距的运动和弹性约束。"
+  },
+  {
+   "cn": "胡贝尔，汉斯",
+   "en": "Huber\",\"Hans(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "胡贝尔，克劳斯",
+   "en": "Huber\",\"Klaus(瑞士)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集线器",
+   "en": "hub",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集线器",
+   "en": "hub",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息港",
+   "en": "information hub",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "辐射式拓扑",
+   "en": "hub topology",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中心互连",
+   "en": "hub interconnection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "毂径",
+   "en": "hub diameter",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桨毂",
+   "en": "Hub\",\"boss",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桨毂空化",
+   "en": "hub cavitation",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "毂径比",
+   "en": "hub diameter ratio\",\"hub ratio",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航空枢纽",
+   "en": "air transport hub",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交通枢纽城市",
+   "en": "traffic hub city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "干线公路网主枢纽",
+   "en": "arterial hub of highway network",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "武仙BL型星",
+   "en": "BL Her star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "块茎",
+   "en": "tuber\",\"stem tuber",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不定胞芽，块状胞芽",
+   "en": "tuber",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "块状胞芽（=不定胞芽）",
+   "en": "tuber",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灰结节",
+   "en": "cinereal tuber\",\"tuber cinereum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "蚓结节",
+   "en": "tuber of vermis\",\"tuber vermis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "轮毂",
+   "en": "bushing\",\"hub",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技中心城市",
+   "en": "Fintech hub city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际超级物流枢纽",
+   "en": "international super logistics hub",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "徐州智慧城市信息资源枢纽",
+   "en": "Smart City Information Resource Hub of Xuzhou City",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优步",
+   "en": "Uber",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "武汉胜则湖北胜，湖北胜则全国胜",
+   "en": "If Wuhan wins, Hubei wins. If Hubei wins, the whole country wins.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "失败者",
+   "en": "loser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激光级",
+   "en": "Laser",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "激光镭迪尔级",
+   "en": "Laser Radial",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外地滞留在鄂人员安全有序返乡",
+   "en": "People stranded in Hubei return home in a safe and orderly manner.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "武汉市以外地区解除离鄂通道管控",
+   "en": "Areas in Hubei, with the exception of Wuhan City, lifted outbound transport restrictions.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民心相通",
+   "en": "closer people-to-people ties",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "激光",
+   "en": "laser",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.7",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "基于物质受激辐射而产生的高强度相干光，是一种人造的、特殊类型的非电离辐射。"
+  },
+  {
+   "cn": "糜烂性毒剂",
+   "en": "blister agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "一类能直接损伤组织细胞，引起皮肤、眼、呼吸道黏膜的局部炎症、坏死，并能通过皮肤、眼、呼吸道黏膜吸收，而导致全身中毒的化学毒剂，主要包括芥子气、氮芥、路易氏剂和光气肟。"
+  },
+  {
+   "cn": "激光防护",
+   "en": "laser protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.7.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过多种综合手段减少作业环境、作业过程中激光辐射，以保护和改善作业环境，保障作业人员健康的措施和方法。包括激光器、工作环境和个体防护三个方面。"
+  },
+  {
+   "cn": "激光危害",
+   "en": "laser hazard",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.7.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "激光对生物组织的损害效应，主要有热效应、光化学效应、压强效应、电磁场效应及弱激光刺激效应。损伤程度与辐射强度、照射时间、生物组织特性及激光波长、类型等相关，对人体的主要靶器官是眼睛和皮肤。"
+  },
+  {
+   "cn": "激光武器",
+   "en": "laser weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用激光辐射能量摧毁战斗目标或使其丧失战斗力的定向能武器，通过激光光能、热能等外部能量激励物质产生受激辐射，形成方向集中、单色性好的强大光束辐射能量，以此摧毁目标、杀伤人员。"
+  },
+  {
+   "cn": "激光武器损伤",
+   "en": "injuries of laser weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.1.3",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由定向发射的激光束（高能量相干光）作用于生物体或装备，通过热效应、力学效应、光化学效应等机制造成的组织破坏、功能障碍或设备失效的损伤。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

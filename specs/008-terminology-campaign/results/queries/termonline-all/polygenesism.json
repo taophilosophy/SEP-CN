@@ -1,0 +1,82 @@
+{
+ "key": "polygenesism",
+ "term": "polygenesism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:10+00:00",
+ "status": "ok",
+ "note": "variant=polygenesism; 审定公布名词库=2; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "多母语说",
+   "en": "polygenesis",
+   "source": "语言学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "与“单一母语说”相对。历史语言学的一种假说。认为人类语言从不同的原始语言演化而来。"
+  },
+  {
+   "cn": "多祖论",
+   "en": "polygenism",
+   "source": "遗传学名词",
+   "wordNumber": "07.052",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "人种起源的一种假说。认为各大洲的现代人群是由当地的直立人群独立演化而来。"
+  },
+  {
+   "cn": "多元发生",
+   "en": "polygenesis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多源发生说,多祖论",
+   "en": "polygenism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多元[发生]论（=多元起源说）",
+   "en": "polyrheithry\",\"polyphyletic theory\",\"polygenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多元起源说，多元[发生]论",
+   "en": "polyrheithry\",\"polyphyletic theory\",\"polygenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多母语说",
+   "en": "language polygenesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0029",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史语言学的一种假说。与“单一母语说”相对。认为人类语言从多种不同的原始语言发展演化而来。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

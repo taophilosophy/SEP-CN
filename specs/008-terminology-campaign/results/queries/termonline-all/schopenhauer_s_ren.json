@@ -1,0 +1,92 @@
+{
+ "key": "schopenhauer søren",
+ "term": "Schopenhauer Søren",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:45+00:00",
+ "status": "ok",
+ "note": "variant=Schopenhauer Søren; 审定公布名词库=4; 海峡两岸名词对照库=4; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "警笛",
+   "en": "siren",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0653",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "电笛",
+   "en": "motor siren",
+   "source": "船舶工程名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "船舶工程_船舶电气",
+   "subjectName": "船舶电气",
+   "publishYear": "1998",
+   "definition": "由电动机驱动叶轮使空气快速通过喷口发出声响的装置。"
+  },
+  {
+   "cn": "火灾警笛",
+   "en": "fire alarm siren",
+   "source": "石油名词",
+   "wordNumber": "08.0965",
+   "subjectFullName": "石油_海洋石油技术_海洋石油安全、消防、救生与环保",
+   "subjectName": "海洋石油安全、消防、救生与环保",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "号笛控制装置",
+   "en": "whistle and siren control system",
+   "source": "船舶工程名词",
+   "wordNumber": "07.171",
+   "subjectFullName": "船舶工程_船舶电气",
+   "subjectName": "船舶电气",
+   "publishYear": "1998",
+   "definition": "控制船舶汽笛和气喇叭等声号的控制装置。"
+  },
+  {
+   "cn": "气笛",
+   "en": "air horn\",\"siren\",\"syren",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "雾雷",
+   "en": "fog siren",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电动膜片式气笛",
+   "en": "motor siren",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "号笛控制装置",
+   "en": "whistle and siren control system\",\"whistle controller",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

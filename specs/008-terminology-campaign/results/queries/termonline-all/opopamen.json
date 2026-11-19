@@ -1,0 +1,22 @@
+{
+ "key": "opopamen",
+ "term": "opôpamen",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:47:18+00:00",
+ "status": "ok",
+ "note": "variant=opôpamen; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "op小鼠",
+   "en": "ostepetrosis mouse",
+   "source": "兽医学名词",
+   "wordNumber": "09.192",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "骨硬化小鼠。突变基因符号 op 。10日龄就可见头圆顶状，脚短，门齿缺失，长骨6个月内骨髓腔闭合，出现原始海绵骨。常伴有无齿症，病变与人大理石样骨病相似。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

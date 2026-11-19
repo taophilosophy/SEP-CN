@@ -1,0 +1,342 @@
+{
+ "key": "singularity einzelheit",
+ "term": "singularity Einzelheit",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:02:18+00:00",
+ "status": "ok",
+ "note": "variant=singularity Einzelheit; 审定公布名词库=92; 海峡两岸名词对照库=10; 其他来源数据库=5; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.334",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "会使方程或表面等爆掉或退化的点。在奇点处，某些属性会变得无限大。"
+  },
+  {
+   "cn": "奇异",
+   "en": "singularity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0468",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "在雅可比矩阵不满秩时出现的现象。"
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "物理学名词",
+   "wordNumber": "11.0465",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "电子学名词",
+   "wordNumber": "03.326",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singular point,singularity",
+   "source": "数学名词",
+   "wordNumber": "05.0393",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异的",
+   "en": "singular",
+   "source": "数学名词",
+   "wordNumber": "05.0224",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇异性",
+   "en": "strangeness,singularity",
+   "source": "物理学名词",
+   "wordNumber": "11.0464",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙奇点",
+   "en": "cosmological singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.335",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "时空曲率无限大的时空点。奇点被认为存在于黑洞中央，大爆炸之前宇宙的存在状态也被认为是奇点。"
+  },
+  {
+   "cn": "应力奇点",
+   "en": "stress singularity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1520",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "当裂纹端部附近的点与裂纹端部的距离 r趋近于零时，该点的应力值按距离 r.1/2规律趋近于无穷大，称裂纹端部具有 r.1/2阶奇异性，裂纹端点为应力奇点。 "
+  },
+  {
+   "cn": "相位奇点",
+   "en": "phase singularity",
+   "source": "光学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "在光波波前相位面上，相位不确定的点。"
+  },
+  {
+   "cn": "偏振奇点",
+   "en": "polarization singularity",
+   "source": "光学名词",
+   "wordNumber": "01.187",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波传播过程中或者在同一横截面不均匀分布的光场中，强度为零、偏振方向不确定或不连续的特殊位置。"
+  },
+  {
+   "cn": "运动学奇异",
+   "en": "kinematics singularity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0250",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构运动学",
+   "subjectName": "机构运动学",
+   "publishYear": "2021",
+   "definition": "在某些位形下机构的运动副的诸螺旋之间发生线性相关，使机构输出构件的自由度减少的机构运动奇异。"
+  },
+  {
+   "cn": "约束奇异",
+   "en": "constraint singularity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0251",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构运动学",
+   "subjectName": "机构运动学",
+   "publishYear": "2021",
+   "definition": "并联机构在某些位形时锁住所有的主动件，作用在机构或机构输出构件上的约束螺旋变成线性相关，独立的约束数目减少，机构保留的未被约束部分自由度的奇异。"
+  },
+  {
+   "cn": "约束奇异点",
+   "en": "constraint singularity",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0577",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "并联机构在某位形时锁住所有的主动件，作用在机构或机构输出构件上的约束螺旋变成线性相关，独立的约束数目减少，机构保留了未被约束掉的部分自由度，由此产生的奇异点。"
+  },
+  {
+   "cn": "奇异位形",
+   "en": "singularity configuration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0581",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "当机构运动进入某种临界状态时所具有的特定位形。在这种临界状态下，机构的实际自由度数不再与其理论自由度数相等，即存在两种情况：机构丧失了应有的自由度；机构获得了额外的自由度。"
+  },
+  {
+   "cn": "拓扑奇点",
+   "en": "topological singularity",
+   "source": "物理学名词",
+   "wordNumber": "08.0661",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "孤立奇点",
+   "en": "isolated singularity",
+   "source": "物理学名词",
+   "wordNumber": "11.0467",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时空奇点",
+   "en": "spacetime singularity",
+   "source": "物理学名词",
+   "wordNumber": "06.0089",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "实奇点",
+   "en": "real singularity",
+   "source": "物理学名词",
+   "wordNumber": "06.0120",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singularity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇[异]点",
+   "en": "singular point\",\"singularity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单孔",
+   "en": "foramen singulare",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "奇异向量",
+   "en": "singular vectors",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇点",
+   "en": "singular point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "奇异系",
+   "en": "singular set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值分解",
+   "en": "singular value decomposition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙奇点",
+   "en": "singularity of the universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "角度校正",
+   "en": "angularity correction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "技术奇点",
+   "en": "Technological Singularity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "奇异值分解",
+   "en": "singular value decomposition (SVD)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《奇点临近》（〔美〕雷·库兹韦尔）",
+   "en": "The Singularity Is Near: When Humans Transcend Biology (Ray Kurzweil, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

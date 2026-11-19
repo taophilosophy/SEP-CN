@@ -1,0 +1,52 @@
+{
+ "key": "anthropoi",
+ "term": "anthrôpoi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:35+00:00",
+ "status": "ok",
+ "note": "variant=anthrôpoi; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "类人猿型骨盆",
+   "en": "anthropoid pelvis",
+   "source": "生殖医学名词",
+   "wordNumber": "2.133",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "骨盆的一种类型。其入口呈长椭圆形，入口前后径大于横径。骨盆两侧壁稍内聚，坐骨棘较突出，坐骨切迹较宽，耻骨弓较窄，骶骨向后倾斜，故骨盆前部较窄而后部较宽，骨盆较深。"
+  },
+  {
+   "cn": "类人猿型",
+   "en": "anthropoid type",
+   "source": "医学名词 第一分册",
+   "wordNumber": "01.506",
+   "subjectFullName": "医学_妇产科学",
+   "subjectName": "妇产科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "人兽共患传染病",
+   "en": "anthropo zoonosis",
+   "source": "感染病学名词",
+   "wordNumber": "04.0210",
+   "subjectFullName": "感染病学_特殊感染及感染相关问题_动物传染病",
+   "subjectName": "动物传染病",
+   "publishYear": "2019",
+   "definition": "人与脊椎动物共同罹患的传染病。如鼠疫、狂犬病、血吸虫病等。"
+  },
+  {
+   "cn": "人体测量",
+   "en": "anthropo-measurement",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "通过测量仪器和设备对人体整体和局部测量来量化分析、观察和研究人体特征、类型、变异和发展规律的技术方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

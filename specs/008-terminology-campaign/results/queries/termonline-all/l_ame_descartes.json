@@ -1,0 +1,52 @@
+{
+ "key": "l'ame descartes",
+ "term": "l’âme Descartes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:47:11+00:00",
+ "status": "ok",
+ "note": "variant=l’âme Descartes; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "天文学名词",
+   "wordNumber": "08.304",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "光谱中具有明显发射谱线的M型恒星。"
+  },
+  {
+   "cn": "荷叶离褶伞",
+   "en": "fried chicken mushroom; Lyophyllum decastes (Fr.) Singer",
+   "source": "农学名词",
+   "wordNumber": "05.290",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "离褶伞科离褶伞属食用菌。自然分布于东北、华北和华中地区，可全国栽培。子实体幼小时，颜色和形状类似鹿角，丛生或簇生；菌盖呈扁半球形，灰白色或灰黄色；有锁状联合。口感脆，味道浓。"
+  },
+  {
+   "cn": "Me型星",
+   "en": "Me star",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "Me型变星",
+   "en": "Me variable",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

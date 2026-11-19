@@ -1,0 +1,792 @@
+{
+ "key": "sherap rngog blo",
+ "term": "Shérap rNgog Blo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:50:17+00:00",
+ "status": "ok",
+ "note": "variant=Shérap rNgog Blo; 审定公布名词库=482; 海峡两岸名词对照库=111; 其他来源数据库=36; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "SH波",
+   "en": "SH wave",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0652",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "位移分量平行于界面的横波。 "
+  },
+  {
+   "cn": "SH型运动",
+   "en": "SH-type motion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0651",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "振动方向与波传播方向垂直且平行于界面的一种运动。 "
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain,SH domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.031",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "首先在Src蛋白中发现的几个高度保守的结构域。Src的蛋白产物是细胞膜上的酪氨酸蛋白激酶，其家族中其他蛋白与Src具有同源性的结构域。可与受体酪氨酸激酶磷酸化残基以及信号转导蛋白紧密结合，形成多蛋白复"
+  },
+  {
+   "cn": "SH2[结构]域",
+   "en": "src homology 2 domain,SH2 domain",
+   "source": "生理学名词",
+   "wordNumber": "02.259",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain,SH1 domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.032",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "Src家族激酶中具有催化活性的结构域。"
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2,SH2",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、可与磷酸化酪氨酸结合的Src同源区。主要介导蛋白质之间的相互作用。参与形成信号复合体和组成信号转导链。"
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3,SH3",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "胞内信号分子所具有的一个高度保守而无催化活性的、主要与PXXP序列相结合的Src同源区。在分子之间传递信号。"
+  },
+  {
+   "cn": "SH2结构域",
+   "en": "Src homology 2 domain;SH2 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0248",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与磷酸化酪氨酸结合的一段序列。最初在与SRC癌基因家族产物同源的受体酪氨酸激酶中发现，但是因其与SH1催化结构域不同而被命名为SH2结构域。主要介导蛋白质之间的相互作用。参与形"
+  },
+  {
+   "cn": "SH3结构域",
+   "en": "Src homology 3 domain;SH3 domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0249",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "信号转导蛋白质胞内域中能与可以与脯氨酸丰富区结合的一段序列。因为与SRC家族酪氨酸激酶有同源序列，却与其催化结构域SH1不同而命名为SH3结构域。主要介导蛋白质之间的相互作用，是生成信号复合体和组成信"
+  },
+  {
+   "cn": "SH型静态混合器",
+   "en": "SH type static mixer",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1677",
+   "subjectFullName": "化工（八）_化工设备_搅拌与混合设备",
+   "subjectName": "搅拌与混合设备",
+   "publishYear": "2021",
+   "definition": "由双孔道组成SH单元，孔道内放置螺旋片，相邻混合单元双孔道的方位错位90°，混合单元之间设有流体再分配室的混合器。"
+  },
+  {
+   "cn": "废旧物资",
+   "en": "scrap",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.034",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "陈旧、闲置或废弃并可以作为再生资源回收利用的物质。"
+  },
+  {
+   "cn": "碎屑",
+   "en": "scrap",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "沉积岩或沉积物的一种组分，是母岩机械风化的产物。 "
+  },
+  {
+   "cn": "支持带",
+   "en": "strap",
+   "source": "运动医学名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "运动医学_运动创伤_运动创伤总论",
+   "subjectName": "运动创伤总论",
+   "publishYear": "2019",
+   "definition": "用来保护关节稳定，避免受伤韧带和其他组织松弛，限制肌腱肌肉超常范围活动以免已伤组织再伤，并使已伤组织适当休息的装置。通常使用黏膏固定。"
+  },
+  {
+   "cn": "报废",
+   "en": "scrap",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0746",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "为避免不合格产品不符合原有的预期用途而对其采取的措施。"
+  },
+  {
+   "cn": "滴状截面结构",
+   "en": "blob",
+   "source": "核科学技术名词",
+   "wordNumber": "3.206",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "从分界面内的等离子体中间隙性地爆发并对流输运到刮削层的一种相干结构。这种结构沿磁力线方向延伸，其垂直于磁场方向的截面呈液滴状，线度有限，其中的密度和温度均高于刮削层本底等离子‍体。"
+  },
+  {
+   "cn": "博客",
+   "en": "blog",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.065",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "一种以传播个人思想为主，内容不断更新的，能够按时间顺序展示个人知识集合的沟通交流平台。"
+  },
+  {
+   "cn": "打击",
+   "en": "blow",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.291",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻压机器及机械化、自动化_锻压机器性能参数及一般术语",
+   "subjectName": "锻压机器性能参数及一般术语",
+   "publishYear": "2021",
+   "definition": "锤头向下运动时所积蓄的动能在极短的时间内(一般只有千分之几秒)释放出来，使锻件获得塑性变形的过程。"
+  },
+  {
+   "cn": "博客",
+   "en": "blog",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.620",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_数字资源建设",
+   "subjectName": "数字资源建设",
+   "publishYear": "2019",
+   "definition": "由个人管理、不定期张贴新的文章及其他内容的网页，用来抒发情感或分享信息。内容按照时间顺序由近及远排列，并且不断更新。是一种网络个人出版形式。"
+  },
+  {
+   "cn": "打击",
+   "en": "blow",
+   "source": "冶金学名词",
+   "wordNumber": "09.0981",
+   "subjectFullName": "冶金学_金属加工_锻造、冲压及其他",
+   "subjectName": "锻造、冲压及其他",
+   "publishYear": "2019",
+   "definition": "锤头向下运动时所积蓄的动能在极短的时间内(一般只有千分之几秒)释放出来，使锻件获得塑性变形的过程。"
+  },
+  {
+   "cn": "团迹",
+   "en": "blob",
+   "source": "物理学名词",
+   "wordNumber": "08.2455",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "SH2域",
+   "en": "Src homology 2 domain\",\"SH2 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3域",
+   "en": "Src homology 3 domain\",\"SH3 domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH功能域",
+   "en": "Src homology domain\",\"SH domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH1功能域",
+   "en": "Src homology 1 domain\",\"SH1 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH2功能域",
+   "en": "Src homology 2domain\",\"SH2 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "SH3功能域",
+   "en": "Src homology 3domain\",\"SH3 domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "升号",
+   "en": "sharp",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "清晰",
+   "en": "sharp",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "印迹法",
+   "en": "blotting\",\"blot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "废橡胶",
+   "en": "scrap rubber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "清晰分离",
+   "en": "sharp separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重升",
+   "en": "double sharp",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定径带",
+   "en": "calibrating strap",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "废钢",
+   "en": "scrap steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "生物测定[法]",
+   "en": "bio-assay",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泄料池",
+   "en": "blow pit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吹管",
+   "en": "blow pipe",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物渗透",
+   "en": "bio-osmosis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［铸件等］气孔",
+   "en": "blow hole",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排气栓",
+   "en": "blow cock",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "系带",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环带套",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胯下固定带",
+   "en": "strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博客",
+   "en": "blog",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网带",
+   "en": "band\",\"strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下体弹力护身",
+   "en": "jock-strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽带",
+   "en": "chin strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "帽带",
+   "en": "chin strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "趾夹带",
+   "en": "toe strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尼龙绳",
+   "en": "nylon strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颊革",
+   "en": "cheek strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔铁系带",
+   "en": "lip strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肚带系带",
+   "en": "girth strap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肘击",
+   "en": "elbow blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法攻击",
+   "en": "correct blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决定性打击",
+   "en": "decisive blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违规击打",
+   "en": "illegal blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膝顶",
+   "en": "knee blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "夏尔巴人",
+   "en": "Sherpa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0187",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "分布在喜马拉雅山脉沿线中国、印度、尼泊尔三国境内。人口约为4 万人（2015 年）。属蒙古人种南亚类型。操夏尔巴语，属汉藏语系藏缅语族，无文字。信奉佛教。主要从事农业、畜牧业、商业和登山业，以“喜马拉"
+  },
+  {
+   "cn": "报",
+   "en": "bao，reciprocate",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "由一种行动的交互性观念 (爱与憎，赏与罚) 出发，相信在人与人之间，以至人与超自然之间，应存在一种确定的因果关系，从而在社会交往中导致对对方有所反应或回报的预期。回报、回应，往往伴随礼物交换的行为。杨"
+  },
+  {
+   "cn": "司伦",
+   "en": "Srid blon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0537",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "行政官职名称，原西藏地方政府官职，藏语音译，政务大臣之意，达赖喇嘛下面最高行政官，最早设于1907 年，称“伦钦”。由俗官担任，位居四噶伦之上，直接秉承达赖喇嘛的旨意领导噶厦政府。1926 年改称司伦"
+  },
+  {
+   "cn": "生物农药",
+   "en": "bio-pesticide",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.1.17",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "利用生物体或其代谢产物开发的农用抗病虫害制剂。"
+  },
+  {
+   "cn": "喇嘛",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0466",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏语 bla-ma 之汉语音译，意为上人、上师、师长、导师。藏语中“喇嘛”有别于一般僧人，是对高僧和导师的尊称，与称作“扎巴”的一般僧人有别。喇嘛相当于梵语guru （古鲁），意即师匠、师范，为古代印"
+  },
+  {
+   "cn": "生物调节剂",
+   "en": "bio-regulator",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.11.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "生物体内自然产生的微量化学物质，对生物体的生理过程、新陈代谢和神经活动等具有重要的调节作用，是生物体正常生理功能的基础，具有低剂量、高活性、速效性等作用特点。"
+  },
+  {
+   "cn": "上师",
+   "en": "Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0485",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏传佛教对具有高德胜行、堪为世人轨范者之尊称，密宗中又作金刚上师。藏语称为“喇嘛”（bla-ma）。藏传佛教中将合格上师及善知识视为修行成就的必备条件。认为不依上师引导，则不知有佛；不从"
+  },
+  {
+   "cn": "噶伦",
+   "en": "Bkav blon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0528",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "全称“噶藏贡伦”。旧西藏官职。通常为“一僧三俗”四人，有时又称为“顿那敦”（达赖喇嘛前效力），或敬称为“萨旺”  （护持一方）、夏白（  “莲脚”）。噶伦的职责为集体讨论各种行政事务及官员任免等，噶伦"
+  },
+  {
+   "cn": "僰",
+   "en": "Bo",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0116",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。秦以前主要分布在以僰道（治所在今四川宜宾县西南）为中心的今川南、滇东北一带。属氐羌族类。梳椎髻发型，种田为生，有聚居村落，以悬棺葬闻名后世，与白族有较为密切的关系。"
+  },
+  {
+   "cn": "《古代蒙古诸汗源流大黄册》",
+   "en": "Yeke Shira Tuguji",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0278",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "蒙古文历史文献。通称《黄史》或《黄册》。作者为托巴·台吉。该书撰成于1643—1662 年间，是研究蒙古族宗教、哲学、历史的重要史料。书中带有明显的藏传佛教思想。"
+  },
+  {
+   "cn": "拉ト楞寺",
+   "en": "Bla brang dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0557",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派寺院。在甘肃省夏河县境内，系格鲁派六大寺之一。1710 年嘉样协巴多吉在青海河南蒙古亲王资助下兴建。寺内设闻思、上密、下密、时轮、喜金刚、曼巴等六个扎仓，为藏传佛教格鲁派在甘、青、川边地"
+  },
+  {
+   "cn": "论钦陵",
+   "en": "Blon khri vbring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0425",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "西藏历史人物，全名噶尔·赤正赞卓（？—699 年），唐朝时期吐蕃政治家、军事家。藏语称宰相为论，钦陵实为吐蕃宰相。其祖世代为吐蕃贵族，姓薛氏。7 世纪后期噶尔氏专权，论钦陵拥兵自重，赤都松赞发兵攻之，"
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization, ILO",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.3",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "1919年根据《凡尔赛和约》作为国际联盟的附属机构成立，1946年成为联合国负责劳动就业、社会保障等社会事务的专门三方机构。其宗旨是：促进充分就业和提高生活水平；促进劳资双方合作；扩大社会保障措施；保"
+  },
+  {
+   "cn": "儿童锐器伤",
+   "en": "child sharp force injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由于锋利的刀刃或尖端的锐器所造成的儿童机体损伤。常导致皮肤及皮下组织破裂。常见的锐器有刀、斧、剪刀、匕首、玻璃片、金属片等。"
+  },
+  {
+   "cn": "达赖喇嘛",
+   "en": "Tav lavi bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0439",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派活佛转世系统称号之一。达赖，蒙古语意为大海，喇嘛，藏语意为上师。1578 年蒙古土默特部顺义王俺答汗迎请索南嘉措至青海传教，赠其“圣识一切瓦齐尔达喇达赖喇嘛”称号，意为“遍知一切德智如海"
+  },
+  {
+   "cn": "活佛",
+   "en": "Sprul sku; Bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0455",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "汉语中指藏传佛教高僧，即转世化身。有时亦指藏语中的“喇嘛”（bla-ma）或上师。化身或转世化身在藏语中称为“祖古”。藏语中也将上师、“祖古”（化身）称为“仁波切”，意即“珍贵之宝”、“珍宝”、“无价"
+  },
+  {
+   "cn": "雍布拉康",
+   "en": "Yum bu bla sgang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0564",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族古代建筑，藏语意为“母子神殿”，位于西藏自治区乃东县东南部雅龙河东岸。据传始建于公元前二世纪，是西藏历史上第一座古堡，唐代以后形成佛寺。该古堡占地不大，石头砌成雕楼耸立山顶，挺拔雄伟。古堡殿内原供"
+  },
+  {
+   "cn": "桑吉喇嘛",
+   "en": "Sangs rgyas bla ma",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0411",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教人物。是藏传佛教历史上第一位伏藏师,也是嘉色拉吉十三位单转伏藏师中的第一位，大约于十世纪中叶诞生在西藏拉的多措瓦地区，与大译师仁钦桑波（958 年—1055年）同一时期，为一位密咒师。他从西藏"
+  },
+  {
+   "cn": "《十五法典》",
+   "en": "Zhal lce bco lnga",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.038",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族古代法典。西藏帕竹政权时期，大司徒绛曲坚赞以吐蕃时期的“十善法”为立法依据而制定的十五条法典。包括英雄、懦夫的判定，官吏、听讼、逮解、重罪、杀人、伤人、盗窃、离婚、违合约等方面的惩处律法等。"
+  },
+  {
+   "cn": "吞弥桑布扎",
+   "en": "Thon mi sam bho Ta",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0418",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族著名历史人物，吐蕃王朝松赞干布的大臣，藏文的创制者。公元7 世纪上半叶，他遵赞普松赞干布之命创制了藏文。其一生对藏族语言、文法等颇有研究。著有《三十颂论》及《文字变化法则》等8 部著作，并翻译佛经"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

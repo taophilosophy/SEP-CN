@@ -1,0 +1,792 @@
+{
+ "key": "wille und vorstellung",
+ "term": "Wille und Vorstellung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:53:56+00:00",
+ "status": "ok",
+ "note": "variant=Wille und Vorstellung; 审定公布名词库=7724; 海峡两岸名词对照库=1189; 其他来源数据库=1190; 预公布名词数据库=983; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "行为医学名词",
+   "wordNumber": "4.096",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到目的而自觉决定和组织自己行为的心理状态。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "精神医学名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "推动人们采取各种行动以达到某种预定目标的心理活动。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "计划生育名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们自觉地确定目标，并克服困难，用自己的行动去实现目标的心理过程。"
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "心理学名词",
+   "wordNumber": "02.745",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体有选择性地在自己的活动中设置一定目的，并为达到该目的而自觉决定和组织自己的行为的心理过程。"
+  },
+  {
+   "cn": "志",
+   "en": "will",
+   "source": "中医药学名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "志向。"
+  },
+  {
+   "cn": "任性",
+   "en": "willful",
+   "source": "行为医学名词",
+   "wordNumber": "18.017",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "为满足自己的欲望或达到不正当目的，听凭秉性行事，无所顾忌、恣意放纵的行为。"
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.587",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "人们依照其拥有的条件去决定是否做一件事情的能力。它拥有对人自身的最高管理权限。在伦理学中，自由意志意味着个人在道义上要对自己的行为负责；在科学领域，自由意志意味着身体的动作，包括大脑在内，不全由物理因"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.149",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "人们在健康或意识清楚时签署的，用于说明在不可治愈的伤病末期或临终时要求或不要求使用哪些医疗护理的具有法律效力的指示文件。"
+  },
+  {
+   "cn": "意志",
+   "en": "will;volition",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.195",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体依靠主观能动性有计划、有目标地完成一项活动的能力。"
+  },
+  {
+   "cn": "性意志",
+   "en": "sex will",
+   "source": "行为医学名词",
+   "wordNumber": "12.001",
+   "subjectFullName": "行为医学_性行为及其障碍_性行为",
+   "subjectName": "性行为",
+   "publishYear": "2022",
+   "definition": "自我意识调节性行为的能力。"
+  },
+  {
+   "cn": "意志训练",
+   "en": "will training",
+   "source": "心理学名词",
+   "wordNumber": "14.070",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "旨在提高自觉性、独立性、果断性、坚韧性等意志品质的训练。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "教育学名词",
+   "wordNumber": "01.214",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在道德实践过程中，为达成预定道德目的，自觉地克服困难和障碍，坚持或改变道德行为方式而产生的心理状态。"
+  },
+  {
+   "cn": "樱会",
+   "en": "Sakura Will",
+   "source": "世界历史名词",
+   "wordNumber": "04.0111",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1930年秋，日本建立的以陆军省、参谋本部部分年轻军官为主的法西斯秘密团体。"
+  },
+  {
+   "cn": "[发电机组]降低出力状态",
+   "en": "unit derated state,UND",
+   "source": "电力名词",
+   "wordNumber": "25.104",
+   "subjectFullName": "电力_电力可靠性",
+   "subjectName": "电力可靠性",
+   "publishYear": "2020",
+   "definition": "机组达不到毛最大容量运行或备用的状态。降低出力状态分为降低出力运行状态(RUND)和降低出力备用状态(IUND)。降低出力运行状态又分为计划降低出力运行状态(IPD)和非计划降低出力运行状态(IUD)"
+  },
+  {
+   "cn": "民意党",
+   "en": "People's Will",
+   "source": "世界历史名词",
+   "wordNumber": "05.0200",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国革命民粹派组织，1879年8月在彼得堡成立。主张推翻专制制度。采取恐怖活动。1881年以后遭到大规模逮捕，思想上和组织上产生危机。"
+  },
+  {
+   "cn": "肾藏志",
+   "en": "kidney storing will",
+   "source": "中医药学名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "“志”指志向，属精神活动。志虽出于心，但其坚定不移，须依赖于人体精气的充盛。肾藏精，是一身精气之根。肾精充足，志方能坚。"
+  },
+  {
+   "cn": "村民意愿",
+   "en": "opinion of villagers,villagers’ will",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.303",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村民对村庄集体事务及未来发展的看法、想法与愿望。"
+  },
+  {
+   "cn": "意志被替代妄想",
+   "en": "delusion of replacement of will",
+   "source": "精神医学名词",
+   "wordNumber": "02.137",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者感到自己的意志被别的力量或机构有意替代的一种精神病理状态。这种体验是被动的，不受自己意识控制，但甚为憎恶。"
+  },
+  {
+   "cn": "莱茵报",
+   "en": "Rheinische Zeitung fur Politik Handel und Gewerbe",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.119",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_媒体组织",
+   "subjectName": "媒体组织",
+   "publishYear": "2022",
+   "definition": "马克思参与创办的德国一家革命民主主义报纸。该报1842年元旦至1843年3月31日在普鲁斯王国科隆市出版。马克思1842年10月至1843年1月为该报主编，恩格斯为该报通讯员。"
+  },
+  {
+   "cn": "普拉德-威利综合征",
+   "en": "Prader-Willi syndrome",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.582",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "意志",
+   "en": "will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由意志",
+   "en": "free will",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特里斯坦与伊索尔德",
+   "en": "Tristan und Isolde",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Wagner, Richard"
+  },
+  {
+   "cn": "诗人与农夫",
+   "en": "Dichter und Bauder",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Suppé, Franz von "
+  },
+  {
+   "cn": "巴斯蒂安与巴斯蒂安娜",
+   "en": "Bastien und Bastienne",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mozart, Wolfgang Amadeus"
+  },
+  {
+   "cn": "阿尔方索与埃斯特雷",
+   "en": "Alfonso und Estrella",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "汉塞尔和格雷泰尔",
+   "en": "Hänsel und Gretel",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Humperdinck, Engelbert"
+  },
+  {
+   "cn": "夜与梦",
+   "en": "Nacht und Träume",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schubert, Franz"
+  },
+  {
+   "cn": "死与净化",
+   "en": "Tod und Verklärung",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "半音阶幻想曲与赋格",
+   "en": "Chromatische Fantasie und Fuga",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "平静的海和幸福的航行",
+   "en": "Meeresstille und glückliche Fahrt",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mendelssohn (Bartholdy), Felix"
+  },
+  {
+   "cn": "妇女的爱情与生活",
+   "en": "Frauenliebe und-Leben (Women’s Love and Life)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Schumann, Robert"
+  },
+  {
+   "cn": "变星光变史和文献",
+   "en": "Geschichte und Literatur des Lichtwechsels der ver鋘derlichen Sterne\",\"GuL",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "沟纹环形山",
+   "en": "rille crater",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奥特鲁，威廉·范",
+   "en": "Otterloo\",\"Willem van(van Otterloo\",\"Willem)(荷兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "军中女郎",
+   "en": "Fille du Régiment\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "怀尔德",
+   "en": "Wilde\",\"Earl(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "门赫尔贝赫，威廉",
+   "en": "Mengelberg\",\"Willem(荷兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阿佩尔",
+   "en": "Apel\",\"Willi(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布尔梅斯特",
+   "en": "Burmester\",\"Willy(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "意志学说",
+   "en": "will theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心",
+   "en": "Will of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天志",
+   "en": "The Will of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人生自古谁无死，",
+   "en": "Everyone will one day die;",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "区块链遗嘱",
+   "en": "wills and testaments on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客户身份意愿真实性",
+   "en": "authenticity of customer identity and will",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "恃德者昌，恃力者亡",
+   "en": "Those Who Rely on Virtue Will Thrive; Those Who Rely on Force Will Perish.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好战必亡，忘战必危",
+   "en": "Those Who Like to Go to War Will Perish; Those Who Forget War Will Be in Danger.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民无信不立",
+   "en": "Without People’s Trust the State Will Not Survive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师直为壮",
+   "en": "Troops Will Be Powerful When Fighting a Just Cause.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哀兵必胜",
+   "en": "An Endangered Army Filled with Indignation Will Be Victorious.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唇亡齿寒",
+   "en": "Once the Lips Are Gone, the Teeth Will Feel Cold.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "黄河安澜",
+   "en": "When the Yellow River is harnessed, China will enjoy tranquility.",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱人深者求贤急",
+   "en": "Those Who Most Love the People Will Eagerly Seek Talent.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "得人者兴，失人者崩",
+   "en": "He Who Obtains the Support of the People Will Rise; He Who Loses the Support of the People Will Come to Ruin.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知己知彼，百战不殆",
+   "en": "Know Yourself, Know Your Enemy and You Will Know No Peril.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多行不义必自毙",
+   "en": "He Who Repeatedly Commits Wrongdoing Will Come to No Good End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "国家意志",
+   "en": "state will",
+   "source": "马克思主义",
+   "wordNumber": "03.0082",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反映统治阶级的经济统治和政治统治的利益诉求。在阶级社会中，统治阶级将自己的根本利益和集体诉求上升为国家意志，并通过国家这一统治阶级的联合力量和强制机关加以实现。"
+  },
+  {
+   "cn": "人民意志",
+   "en": "peoples will",
+   "source": "马克思主义",
+   "wordNumber": "03.0147",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "广大人民群众的利益、愿望和要求。民主是人民意志的一种实现形式。但在奴隶社会、封建社会和资本主义社会生产资料私有制占统治地位和少数人成为统治阶级的时代，人民的意志并无法以“真正民主”或“实质民主”的形态"
+  },
+  {
+   "cn": "生前预嘱",
+   "en": "living will",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "属于遗嘱的一种特殊形式。具有完全民事行为能力的患者，在其意识清楚时，为自己在丧失意识或行为能力时，预先安排临终前后有关事宜所表达的指示性意愿或签署的指示性文件。"
+  },
+  {
+   "cn": "道德意志",
+   "en": "moral will",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0190000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在做出伦理决策和实施伦理行为过程中，自觉克服内部困难和外部障碍的顽强坚持精神。作为构成个体道德品质的因素之一，是道德认识向道德行为转化的关键。"
+  },
+  {
+   "cn": "中国不允许乱",
+   "en": "China will tolerate no disturbances",
+   "source": "马克思主义",
+   "wordNumber": "04.0151",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1989年3月4日在同中央负责同志谈话时提出的论断。“中国不允许乱”，是我党执政的重要历史经验，是中国人民的根本利益所在，是坚持人民民主专政的应有之义，对于我们治国理政具有重要的现实意义和深远的"
+  },
+  {
+   "cn": "人不犯我我不犯人人若犯我我必犯人",
+   "en": "we will not attack unless we are attacked if we are attacked we will certainly counterattack",
+   "source": "马克思主义",
+   "wordNumber": "03.0443",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东总结抗日战争期间中国共产党同国民党顽固派斗争的经验提出的军事自卫原则。我们决不打第一枪，也决不可在被人家进攻时不予还击。对于顽固派的军事攻击，必须坚决、彻底、干净、全部消灭之。抗日战争胜利后，为"
+  },
+  {
+   "cn": "崩得",
+   "en": "Bund",
+   "source": "马克思主义",
+   "wordNumber": "04.0425",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "依地语“Bund”一词的音译，意即联盟。立陶宛、波兰和俄罗斯犹太工人总联盟的简称，成立于1897年，参加者主要是俄国西部各省的犹太手工业者。1898年3月，在俄国社会民主工党第一次代表大会上，崩得加入"
+  },
+  {
+   "cn": "公益基金",
+   "en": "non-profit fund，special fund",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "为了特定公益目的，通过捐赠等筹资方法筹集资金、在公募基金会设立的专门基金。一般由各类公益机构和捐赠方共同管理，用于从事某种特定的公益活动。"
+  },
+  {
+   "cn": "住房公积金",
+   "en": "housing fund",
+   "source": "社会学名词",
+   "wordNumber": "4.3.8.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_住房保障服务",
+   "subjectName": "住房保障服务",
+   "publishYear": "2025",
+   "definition": "职工所在单位以及职工个人分别按照职工工资的一定比例逐月强制缴存一定金额的储蓄金，专门用于支付职工住房等所需费用，是国家法律规定的一种住房保障制度。"
+  },
+  {
+   "cn": "劳动基金",
+   "en": "labor fund",
+   "source": "马克思主义",
+   "wordNumber": "02.0155",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定社会形态下，工人为维持他们的生存和生活所必需的消费资料或其货币形式，是为了维持他们的劳动力生产和再生产所必须的生活资料的基金。马克思认为，它在一切社会生产制度下，都始终必须由劳动者本身来生产和再生"
+  },
+  {
+   "cn": "最终产品",
+   "en": "end product",
+   "source": "马克思主义",
+   "wordNumber": "02.0206",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "最终加入个人消费的产品。用来和社会总产品中的中间成品相区别。最终产品是用于个人消费的，它是用工资和利润来购买的商品。"
+  },
+  {
+   "cn": "宇野学派",
+   "en": "Uno school",
+   "source": "马克思主义",
+   "wordNumber": "05.0166",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪30年代日本马克思经济学界在讲座派与劳农派论战之际，专注于《资本论》研究的日本著名马克思主义经济学家宇野弘藏提出了不同于两派的观点。宇野提出马克思经济学要有“原理论”“阶段论”和“现状分析论”"
+  },
+  {
+   "cn": "基金社会主义",
+   "en": "fund socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0234",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "继职能社会主义后瑞典社会民主党提出的又一种理论主张。强调在现存体制内，通过工人集体控制企业利润和股份，进而逐步控制资本所有权，扩大投资，增加就业和福利，实现经济民主，最后进入社会主义。20世纪90年代"
+  },
+  {
+   "cn": "卫生资金",
+   "en": "health fund",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "卫生资源的货币表现"
+  },
+  {
+   "cn": "基金结余",
+   "en": "fund balance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "基金收支相抵后的期末余额"
+  },
+  {
+   "cn": "嗜中性荨麻疹样皮病",
+   "en": "urticarial dermatosis,NUD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.34",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "主要临床特征是荨麻疹样皮疹，伴发热、肌痛、肝脾淋巴结肿大、骨和/或关节痛。皮肤病理以真皮浅层血管周围及间质内中性粒细胞性炎症为主要表现。该病与单克隆免疫球蛋白相关，特别是IgM型。"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "青少年权益",
+   "en": "right and interest of youth and children",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "青少年依据法律和道义享有的保护自身身心健康、获得有利于自身成长和发展条件的权利。"
+  },
+  {
+   "cn": "流浪乞讨人员救助管理",
+   "en": "assistance and management of vagrants and beggars",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.82",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国政府及相关机构（如救助站）城市对生活无着的流浪、乞讨人员提供食物、住处、医疗、乘车凭证等措施以保障其基本生活权益的一项临时性社会救助措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

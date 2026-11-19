@@ -1,0 +1,692 @@
+{
+ "key": "carlos alberto sanchez",
+ "term": "Carlos Alberto Sánchez",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:52:49+00:00",
+ "status": "ok",
+ "note": "variant=Carlos Alberto Sánchez; 审定公布名词库=1132; 海峡两岸名词对照库=625; 其他来源数据库=49; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "农学名词",
+   "wordNumber": "18.164",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "通过从各变量既定的概率分布中多次随机取值，模拟分析某个结果的概率分布。通常用于多个不确定性因素的概率分布对模型结果影响的分析。"
+  },
+  {
+   "cn": "蒙特卡罗理论",
+   "en": "Monte Carlo theory",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2708",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "研究实现蒙特卡罗法的理论。 "
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "畜牧学名词",
+   "wordNumber": "04.685",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "一种借助计算机随机模拟技术来为某些无法或难以用数学解析方法求解的数学或统计学问题提供近似解的方法。"
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "冶金学名词",
+   "wordNumber": "04.0753",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "以概率统计理论为指导的一种重要的数值计算方法。使用随机数(或伪随机数)数值多重积分的过程，解决很多计算问题的方法。"
+  },
+  {
+   "cn": "蒙特卡罗法",
+   "en": "Monte Carlo method",
+   "source": "物理学名词",
+   "wordNumber": "05.0922",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "生物物理学名词",
+   "wordNumber": "06.047",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在求解的空间中随机采样并计算目标函数，以在足够多的采样点中找到一个较高质量的最优解作为最终解的一种统计抽样方法。"
+  },
+  {
+   "cn": "蒙特卡罗拟合",
+   "en": "Monte-Carlo fitting",
+   "source": "核医学名词",
+   "wordNumber": "02.0488",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "一种模拟随机过程或统计试验的方法。通过不断产生随机数序列来模拟成像过程中放射性核素衰变、粒子发射及其在介质中输运等问题，或模拟核素的内照射治疗过程中射线在组织内的能量沉积、计算吸收剂量等。"
+  },
+  {
+   "cn": "蒙特卡洛方法",
+   "en": "Monte Carlo method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1169",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "蒙特卡罗法",
+   "en": "Monte Carlo method",
+   "source": "化学名词",
+   "wordNumber": "03.0311",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "通过建立随机模型，利用计算机进行数值计算和随机模拟，得到近似数值解和估计出误差的一种重要数学方法。"
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "药学名词",
+   "wordNumber": "10.063",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "通过从各变量既定的概率分布中多次随机取值，模拟分析某个结果的概率分布。通常用于多个不确定性因素的概率分布对模型结果影响的分析。"
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.455",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "一种统计实验方法。它把所研究的物理问题视作随机事件或随机过程，根据问题的特点构成统计模型和定义随机量，用随机抽样技术把概率分布或数值特征与问题的解答联系起来。用计算机进行模拟实验和统计处理，获得最后结"
+  },
+  {
+   "cn": "蒙特卡罗法",
+   "en": "Monte Carlo method",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0833",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料设计、模拟与计算",
+   "subjectName": "材料设计、模拟与计算",
+   "publishYear": "2011",
+   "definition": "一类基于重复随机取样以计算其结果的计算机模拟算法。通过采用无相关随机数构成的考察变量完成一系列计算机实验，在合理的计算时间内对相空间大量的状态进行研究的方法。"
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte-Carlo method",
+   "source": "大气科学名词",
+   "wordNumber": "05.460",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "用随机数字或序列解决用单纯的系统方法难以解决的数值问题的一种方法。"
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.368",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "化学工程名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡洛法",
+   "en": "Monte-Carlo method",
+   "source": "石油名词",
+   "wordNumber": "02.1064",
+   "subjectFullName": "石油_油气地质勘探_油气资源评价",
+   "subjectName": "油气资源评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗估计",
+   "en": "Monte Carlo estimator",
+   "source": "数学名词",
+   "wordNumber": "010.0626",
+   "subjectFullName": "数学_数值分析_蒙特卡罗方法",
+   "subjectName": "蒙特卡罗方法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "数学名词",
+   "wordNumber": "010.0610",
+   "subjectFullName": "数学_数值分析_蒙特卡罗方法",
+   "subjectName": "蒙特卡罗方法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟法",
+   "en": "Monte Carlo simulation method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.119",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "在随机抽样统计模拟基础上的一种概率统计数值计算方法。以摩纳哥著名赌场蒙特卡罗命名。"
+  },
+  {
+   "cn": "量子蒙特卡罗法",
+   "en": "quantum Monte Carlo method",
+   "source": "物理学名词",
+   "wordNumber": "06.0694",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "弗兰凱蒂",
+   "en": "Franchetti\",\"Alberto(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "李西",
+   "en": "Lysy\",\"Alberto(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "埃瑞德",
+   "en": "Erede\",\"Alberto(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "希纳斯特拉",
+   "en": "Ginastera\",\"Alberto(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "唐卡洛斯",
+   "en": "Don Carlos",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Verdi, Giuseppe"
+  },
+  {
+   "cn": "苏里纳查",
+   "en": "Surinach\",\"Carlos(西班牙)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "瓜斯塔维诺",
+   "en": "Guastavino\",\"Carlos(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "克莱伯，卡洛斯",
+   "en": "Kleiber\",\"Carlos(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "埃斯特拉达",
+   "en": "Estrada\",\"Carlos(乌拉圭)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "索布里诺",
+   "en": "Sobrino\",\"Carlos(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "杰苏阿尔多",
+   "en": "Gesualdo\",\"Carlo(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔贡齐",
+   "en": "Bergonzi\",\"Carlo(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "科苏达",
+   "en": "Cossutta\",\"Carlo(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "泽基，卡洛",
+   "en": "Zecchi\",\"Carlo(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "萨尔泽多",
+   "en": "Salzédo\",\"Carlos(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "戈梅斯",
+   "en": "Gomes\",\"Antonio Carlos(巴西)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "查维斯",
+   "en": "Chávez\",\"Carlos(墨西哥)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模式",
+   "en": "Monte Carlo model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡罗模拟",
+   "en": "Monte Carlo simulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马尔可夫链蒙特卡罗方法",
+   "en": "Markov chain Monte Carlo (MCMC) method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警戒线",
+   "en": "alert line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警戒区",
+   "en": "alert area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "碳金融",
+   "en": "carbon finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳期权",
+   "en": "carbon option",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳租赁",
+   "en": "carbon leasing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳债券",
+   "en": "carbon bond",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蒙特卡洛模拟",
+   "en": "Monte carlo simulation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.85",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种以概率统计理论为指导的算法。该方法通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。"
+  },
+  {
+   "cn": "蒙特卡罗方法",
+   "en": "Monte Carlo method，MCM",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.3.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术",
+   "subjectName": "辐射监测技术",
+   "publishYear": "2025",
+   "definition": "把所研究的物理问题视作随机事件或随机过程，根据问题的特点构成统计模型和定义随机量，用随机抽样技术把概率分布或数值特征与问题的解答联系起来，用计算机进行模拟实验和统计处理，获得最后结果的方法。"
+  },
+  {
+   "cn": "中子反照率",
+   "en": "neutron albedo",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "中子穿过某一介质边界面进入该介质再穿过该边界面返回的概率。"
+  },
+  {
+   "cn": "反照率中子剂量计",
+   "en": "albedo neutron dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "佩戴在人身上，利用中子从人体表面反射的辐射与入射到该表面的总辐射之比来测量中子吸收剂量的一种剂量计。"
+  },
+  {
+   "cn": "食源性警戒事件",
+   "en": "foodborne alert event",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "可能与食品相关的、需要引起高度关注的异常事件。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "龋齿",
+   "en": "dental caries",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "牙齿在多种因素影响下发生慢性进行性破坏的疾病。其特征为牙釉质、牙本质和牙骨质在颜色、形态和质地等方面发生变化，造成牙体组织缺损。"
+  },
+  {
+   "cn": "二氧化碳",
+   "en": "carbon dioxide",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.20.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "由两个氧原子与一个碳原子通过共价键构成的氧化物，化学式为CO₂。常温常压下呈气态，无色无味，密度比空气大，能溶于水，在食品加工中常用作包装气体"
+  },
+  {
+   "cn": "船货崇拜",
+   "en": "cargo cult",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.49",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "西南太平洋的美拉尼西亚人依据圣经里的千禧年语言，相信祖先的亡灵将西方航船所载的大量物品带来之日即为千禧年开启之时的信仰。这种文化复兴运动的形式反映了土著居民反抗西方殖民者、试图摆脱殖民统治的最初形式，"
+  },
+  {
+   "cn": "船货崇拜",
+   "en": "cargo cult",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0316",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "19 世纪末期至20 世纪中叶兴起于大洋洲的多个土著社会中的属于千禧年运动的一种文化复兴运动。船货指的是由欧洲人占有的外国货物。船货崇拜信仰者认为，这些船货本就是属于他们的，终有一天会在祖灵（ance"
+  },
+  {
+   "cn": "猖獗龋齿",
+   "en": "rampant dental caries",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.1.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "多数牙齿、多个牙面在短期内同时患龋的症状，表现为牙齿变黑、片状脱落，仅留有残根，可见于干燥综合征或颌面及颈部接受放疗的患者，因唾液分泌量明显减少而发生。"
+  },
+  {
+   "cn": "龋患率",
+   "en": "caries prevalence rate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "龋病的患病率，以某特定时间内总人口中龋病新旧病例所占的比例表示。因龋病进展较为缓慢，故常以此指标反映其流行情况。"
+  },
+  {
+   "cn": "植物活性炭",
+   "en": "vegetable activated carbon",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.11.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "以竹、木、果壳等植物性原料，经碳化、活化等工序制备而成的具有大比表面积和强吸附能力的多孔炭材料。广泛用作食品加工中的助滤剂和脱色剂"
+  },
+  {
+   "cn": "棋牌",
+   "en": "chess and cards",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0433",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "棋类和牌类智力性娱乐项目的总称，以对弈或博弈为主，属于智力游戏，最早可以追溯到人类的史前文明。棋牌包括中国象棋、国际象棋、围棋、五子棋、跳棋、国际跳棋、桥牌、扑克、麻将等。"
+  },
+  {
+   "cn": "先天性结缔组织发育不全综合征",
+   "en": "Ehlers-Danlos syndrome，EDS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.7.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病",
+   "subjectName": "遗传性疾病",
+   "publishYear": "2025",
+   "definition": "一种由胶原合成和加工相关的基因突变导致的罕见的遗传性结缔组织病，特征性表现为皮肤伸展过度、关节运动过度和组织脆性增加，部分类型可出现自发性动脉破裂、内脏破裂、脊柱侧凸、反复骨折等。"
+  },
+  {
+   "cn": "食品和饲料快速预警系统",
+   "en": "Rapid Alert System for Food and Feed, RASFF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.7",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "欧盟针对各成员国内部由于食品不符合安全要求或标示不准确等原因引起的风险和可能带来的问题及时通报各成员国，使消费者避开风险的一种安全保障系统"
+  },
+  {
+   "cn": "碳稳定同位素比值",
+   "en": "ratio of carbon stable isotope",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.29",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "C3和C4植物光合过程中固定二氧化碳的最初产物分别是三碳的磷酸甘油酸和四碳的草酰乙酸，导致两者具有不同的¹³C 与¹²C 的比值即δ13C 值。由于蜜蜂几乎只采集C3 蜜源植物，当蜂蜜中掺入来源于C4"
+  },
+  {
+   "cn": "货物/车辆辐射检查系统",
+   "en": "cargo/vehicle radiographic inspection system",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.21",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有光子或中子辐射源、辐射探测器等装置及设施，利用辐射成像原理获得货物及车辆等被检物透视图像的检查系统。"
+  },
+  {
+   "cn": "货物/车辆辐射检查系统",
+   "en": "cargo/vehicle radiographic inspection system",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.14",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "带有光子或中子辐射源、辐射探测器等装置及设施，利用辐射成像原理获得货物及车辆等被检物透视图像的检查系统。"
+  },
+  {
+   "cn": "进出境集装箱及货物消毒",
+   "en": "disinfection of entry-exit container and cargo",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.4",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境集装箱及其货物，以清除并杀灭病原体为目的而采取的消毒措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

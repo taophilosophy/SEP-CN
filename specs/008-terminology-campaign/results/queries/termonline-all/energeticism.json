@@ -1,0 +1,172 @@
+{
+ "key": "energeticism",
+ "term": "Energeticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:55:47+00:00",
+ "status": "ok",
+ "note": "variant=Energeticism; 审定公布名词库=9; 海峡两岸名词对照库=7; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "唯能论",
+   "en": "energetism",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.109",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "19世纪末由德国物理化学家F. W. 奥斯特瓦尔德（F. W. Ostwald）提出。他用能量转化的观点解释催化现象，认为能量是比物质更基本的实体，是一切自然、社会和思维现象的基础，物质和精神都是能量"
+  },
+  {
+   "cn": "力能学",
+   "en": "energetics",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1540",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在震源动力学中，研究地震能量流动及转变的学科。 "
+  },
+  {
+   "cn": "力能学",
+   "en": "energetics",
+   "source": "大气科学名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "研究物理体系内部各种形式的能量(主要是内能、势能和动能)的产生、转换、传输和耗散的一门科学。"
+  },
+  {
+   "cn": "黑腔能量学",
+   "en": "hohlraum energetics",
+   "source": "核科学技术名词",
+   "wordNumber": "3.375",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "研究黑腔内不同形式能量间转换过程的一门学科。包括激光-X光转换中的能量分配、激光转换为X光的效率，以及黑腔内部辐射场等特‍性。"
+  },
+  {
+   "cn": "生态能量学",
+   "en": "ecological energetics",
+   "source": "动物学名词",
+   "wordNumber": "7.0509",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "研究生态系统不同营养级之间能量转换的科学。"
+  },
+  {
+   "cn": "生态能量学",
+   "en": "ecological energetics",
+   "source": "生态学名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究生态系统不同营养级之间能量转换的学科。"
+  },
+  {
+   "cn": "生态系统能量学",
+   "en": "ecosystem energetics",
+   "source": "生态学名词",
+   "wordNumber": "01.105",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究生态系统中，生命系统与环境系统之间的能量关系以及能量流动规律的学科。"
+  },
+  {
+   "cn": "生理能量学",
+   "en": "physiological energetics",
+   "source": "生态学名词",
+   "wordNumber": "01.102",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究动物个体水平上的能量转换的学科。"
+  },
+  {
+   "cn": "地核力能学",
+   "en": "Earth core energetics",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0362",
+   "subjectFullName": "地球物理学_地球动力学_地幔地核动力学",
+   "subjectName": "地幔地核动力学",
+   "publishYear": "2022",
+   "definition": "研究地核内部能量流动及转变的地球内部物理学分支学科。 "
+  },
+  {
+   "cn": "能量学",
+   "en": "energetics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大气能量学",
+   "en": "atmospheric energetics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群落能量学",
+   "en": "community energetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统能量学",
+   "en": "ecosystem energetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态能量学",
+   "en": "ecological energetics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态能量学",
+   "en": "ecological energetics",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生态能量学",
+   "en": "ecological energetics\",\"ecoenergetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

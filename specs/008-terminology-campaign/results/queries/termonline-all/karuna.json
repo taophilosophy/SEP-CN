@@ -1,0 +1,42 @@
+{
+ "key": "karuna",
+ "term": "karuṇā",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:52:01+00:00",
+ "status": "ok",
+ "note": "variant=karuṇā; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "库恩-塔克点",
+   "en": "Karush-Kuhn-Tucker point",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.157",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化变量空间中满足库恩-塔克条件的点。"
+  },
+  {
+   "cn": "库恩-塔克条件",
+   "en": "Karush-Kuhn-Tucker condition",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.158",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "对于有约束优化问题，判定解的最优性的一阶必要条件。"
+  },
+  {
+   "cn": "卡伦",
+   "en": "Karun",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0594",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代军事哨所，分为两种：一种是常设卡伦，多在新疆腹地，有的在边界上；二是移设和添设卡伦，设于蒙古和哈萨克游牧地之间，随牧场而转移，不常驻兵。卡伦的设置，起到了缉捕逃犯，维护边境安全、防止侵略的作用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

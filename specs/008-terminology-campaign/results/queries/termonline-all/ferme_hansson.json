@@ -1,0 +1,422 @@
+{
+ "key": "ferme hansson",
+ "term": "Fermé Hansson",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:50:30+00:00",
+ "status": "ok",
+ "note": "variant=Fermé Hansson; 审定公布名词库=129; 海峡两岸名词对照库=22; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "地质学名词",
+   "wordNumber": "17.04.254",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "为便于水下基础施工，将沉井下段做成工作室的结构物。"
+  },
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0041",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋工程",
+   "subjectName": "海洋工程",
+   "publishYear": "2007",
+   "definition": "有底的矩形或其他形状舱板的薄壁钢筋混凝土箱形结构物。"
+  },
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "船舶工程名词",
+   "wordNumber": "13.114",
+   "subjectFullName": "船舶工程_海洋油气开发工程设施与设备",
+   "subjectName": "海洋油气开发工程设施与设备",
+   "publishYear": "1998",
+   "definition": "半潜式平台每个立柱下端所连接的独立浮体。"
+  },
+  {
+   "cn": "沉井",
+   "en": "caisson",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.128",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷掘进",
+   "subjectName": "井巷掘进",
+   "publishYear": "1996",
+   "definition": "由刃脚和井壁筒组成的结构物。"
+  },
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "石油名词",
+   "wordNumber": "08.0504",
+   "subjectFullName": "石油_海洋石油技术_海上油田建设与生产设施",
+   "subjectName": "海上油田建设与生产设施",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "人字式坞门",
+   "en": "mitre caisson,twogate caisson",
+   "source": "船舶工程名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "由两块门扇组成，各自绕在两侧门墩上的枢轴转动，关闭时成外凸人字形，只能单向受压的坞门。"
+  },
+  {
+   "cn": "费米跃迁",
+   "en": "Fermi transition",
+   "source": "核科学技术名词",
+   "wordNumber": "1.132",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "发生β衰变时，如果出射的电子(或正电子)和反中微子(或中微子)的自旋反平行，耦合成总自旋S=0，则遵循费米选择定则，初末态的总角动量改变ΔJ=0。"
+  },
+  {
+   "cn": "费米函数",
+   "en": "Fermi function",
+   "source": "核科学技术名词",
+   "wordNumber": "1.134",
+   "subjectFullName": "核科学技术_核物理_放射性和衰变类",
+   "subjectName": "放射性和衰变类",
+   "publishYear": "2024",
+   "definition": "β 衰变概率公式中考虑了库仑场影响之后添加的一个修正因子，是子核电荷数Z和β粒子能量E的函数，常用F(Z, E)表‍示。"
+  },
+  {
+   "cn": "费米液体",
+   "en": "Fermi liquid",
+   "source": "物理学名词",
+   "wordNumber": "08.3053",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米气体",
+   "en": "Fermi gas",
+   "source": "物理学名词",
+   "wordNumber": "08.3051",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米口袋",
+   "en": "Fermi pocket",
+   "source": "物理学名词",
+   "wordNumber": "05.0596",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米能级",
+   "en": "Fermi level",
+   "source": "冶金学名词",
+   "wordNumber": "04.0467",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "反映电子在能带中填充能级水平高低的参数，该能级上的一个状态被电子占据的概率是二分之一。"
+  },
+  {
+   "cn": "费米面",
+   "en": "Fermi surface",
+   "source": "物理学名词",
+   "wordNumber": "05.0591",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米[中子]年龄",
+   "en": "Fermi age",
+   "source": "物理学名词",
+   "wordNumber": "09.1568",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米动量",
+   "en": "Fermi momentum",
+   "source": "物理学名词",
+   "wordNumber": "05.0588",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米波长",
+   "en": "Fermi wavelength",
+   "source": "物理学名词",
+   "wordNumber": "05.0602",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米跃迁",
+   "en": "Fermi transition",
+   "source": "物理学名词",
+   "wordNumber": "05.0598",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米函数",
+   "en": "Fermi function",
+   "source": "物理学名词",
+   "wordNumber": "09.0217",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米速度",
+   "en": "Fermi velocity",
+   "source": "物理学名词",
+   "wordNumber": "05.0600",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "费米真空",
+   "en": "Fermi vacuum",
+   "source": "物理学名词",
+   "wordNumber": "05.0599",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "沉箱",
+   "en": "caisson",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "费米能级",
+   "en": "Fermi level",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "费米能级",
+   "en": "Fermi level",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费米共振",
+   "en": "Fermi resonance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人字式坞门",
+   "en": "mitre caisson\",\"two-gate caisson",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "宿",
+   "en": "[lunar] mansion",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费米-狄拉克分布",
+   "en": "Fermi-Dirac distribution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "费米加速机制",
+   "en": "Fermi [acceleration] mechanism",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费米-狄拉克分布",
+   "en": "Fermi-Dirac distribution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "费米-狄拉克分布",
+   "en": "Fermi-Dirac distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "费米能级",
+   "en": "Fermi energy level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉森",
+   "en": "Hanson\",\"Howard(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "美好的歌曲",
+   "en": "Bonne Chanson\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Fauré, Gabriel"
+  },
+  {
+   "cn": "坞门",
+   "en": "dock gate\",\"caisson",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "肖松",
+   "en": "Chausson\",\"Ernest(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "詹森",
+   "en": "Janssen\",\"Werner(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "汉森孔径分布",
+   "en": "Hansen aperture distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉森圆形分布",
+   "en": "Hansen circular distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "费米γ射线空间望远镜",
+   "en": "Fermi Gamma-ray Space Telescope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "会同馆",
+   "en": "Huitong Mansion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0253",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元、明、清三朝主管接待边疆少数民族及外国使臣的机构。初设于元至元九年（1272）。乾隆十三年（1748），将四译馆并入，更名为“会同四译馆”，由礼部管辖。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

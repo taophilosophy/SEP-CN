@@ -1,0 +1,612 @@
+{
+ "key": "iii godel",
+ "term": "III Gödel",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:00:10+00:00",
+ "status": "ok",
+ "note": "variant=III Gödel; 审定公布名词库=63; 海峡两岸名词对照库=23; 其他来源数据库=17; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "偶氮胂III",
+   "en": "arsenazo III",
+   "source": "化学名词",
+   "wordNumber": "03.0512",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "广泛应用的络合滴定金属指示剂和光度法测定稀土、钍和铀等的显色剂。其结构简式为：<img src='/root/syzx/static/spz/huaxue2.03.0512.1.png'/>"
+  },
+  {
+   "cn": "偶氮氯膦III",
+   "en": "chlorophosphonazo III",
+   "source": "化学名词",
+   "wordNumber": "03.0513",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "一种光度法测定稀土、铀、锶的重要显色剂。其结构简式为：<img src='/root/syzx/static/spz/huaxue2.03.0513.1.png'/>"
+  },
+  {
+   "cn": "DNA聚合酶III",
+   "en": "DNA polymerase III",
+   "source": "遗传学名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "细菌中主要的DNA复制酶。"
+  },
+  {
+   "cn": "RNA聚合酶III",
+   "en": "RNA polymerase III",
+   "source": "遗传学名词",
+   "wordNumber": "03.721",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "负责tRNA和其他小基因转录的真核RNA聚合酶。"
+  },
+  {
+   "cn": "MP3压缩技术",
+   "en": "moving picture experts group audio layer iii",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.027",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "按音频动态压缩第三层（MPEG Audio Layer 3）将音乐以1∶10 或1∶12 的压缩率压缩成容量较小的文件的一种技术。"
+  },
+  {
+   "cn": "亚历山大大帝征服中亚",
+   "en": "Conquest of Central Asia by Alexander III the Great",
+   "source": "世界历史名词",
+   "wordNumber": "02.0940",
+   "subjectFullName": "世界历史_古代中世纪_中亚",
+   "subjectName": "中亚",
+   "publishYear": "2012",
+   "definition": "公元前330年冬，古代马其顿国王亚历山大灭亡阿黑美尼德王朝后，开始向中亚地区进军，至公元前327年基本上完成了对中亚的征服。"
+  },
+  {
+   "cn": "哥德尔配数",
+   "en": "GÖdel numbering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0129",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种编码方法。可以把符号及其推演系统对应到自然数集合的方法，并有可能解码，即由一个数利用算法恢复出它所对应的符号表达式。"
+  },
+  {
+   "cn": "哥德尔宇宙",
+   "en": "Godel universe",
+   "source": "天文学名词",
+   "wordNumber": "07.460",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "哥德尔得到的广义相对论场方程的一个特殊解，描述了一个整体旋转的宇宙，其中因存在闭合类时曲线而容许时间旅行发生。"
+  },
+  {
+   "cn": "放射免疫显像",
+   "en": "radioimmunoimaging,RII",
+   "source": "核医学名词",
+   "wordNumber": "03.0477",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "根据抗原-抗体反应原理，利用放射性核素标记抗体或抗体衍生物，与体内相应抗原特异性结合，以显示富含相应抗原的病变组织的显像方法。"
+  },
+  {
+   "cn": "宫腔内人工授精",
+   "en": "intrauterine insemination,IUI",
+   "source": "计划生育名词",
+   "wordNumber": "07.003",
+   "subjectFullName": "计划生育_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2019",
+   "definition": "通过非性交的方式，将经过处理的精液注入女性子宫腔内，以达到受孕目的的技术。"
+  },
+  {
+   "cn": "宫腔内人工授精",
+   "en": "intrauterus insemination,IUI",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.389",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "把经过处理的精子送入女方子宫腔内，以达到受孕目的的技术。先决条件是女方至少有一侧输卵管正常。"
+  },
+  {
+   "cn": "宫内人工授精",
+   "en": "intrauterine insemination,IUI",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.121",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "把精液注入子宫腔内的人工授精。"
+  },
+  {
+   "cn": "符号间干扰",
+   "en": "intersymbol interference,ISI",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.127",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在数字通信中，由于脉冲扩展引起的各信号元之间的干扰。"
+  },
+  {
+   "cn": "[阴茎]海绵体内注射",
+   "en": "intracavernous injection;ICI",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.045",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "将血管活性药物注入阴茎海绵体内，以松弛阴茎海绵窦平滑肌和（或）阴茎海绵体动脉平滑肌、提高阴茎海绵体血流量，继而引发阴茎勃起的方法。可用于检查与治疗勃起功能障碍。常用血管活性药物有前列地尔、罂粟碱、酚妥"
+  },
+  {
+   "cn": "[阴茎]海绵体内注射",
+   "en": "intracavernosal injection;ICI",
+   "source": "生殖医学名词",
+   "wordNumber": "5.042",
+   "subjectFullName": "生殖医学_不孕不育诊断与治疗技术_不孕不育诊断技术",
+   "subjectName": "不孕不育诊断技术",
+   "publishYear": "2022",
+   "definition": "向阴茎海绵体内注射血管活性药物，以鉴别血管性、心理性和神经性勃起功能障碍的操作。正常勃起反应判定为注射药物后10min内出现三级以上勃起，持续时间超过30min，提示动脉充血和静脉闭塞功能正常。"
+  },
+  {
+   "cn": "想象互动论",
+   "en": "imagined interactions;IIS",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.131",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "用于塑造人际沟通中的个性与情感特征，使沟通者通过有意识的相互创造想象，激活人们的认知脚本的一种社会认知理论。1987年，由美国传播学者詹姆斯·霍尼克特(James M.Honeycutt)在耶鲁大学美"
+  },
+  {
+   "cn": "IMI混合澄清器",
+   "en": "IMI mixer-settler",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0906",
+   "subjectFullName": "化工（八）_化工设备_萃取设备",
+   "subjectName": "萃取设备",
+   "publishYear": "2021",
+   "definition": "将混合与泵吸作用分开，抽吸装置并不起混合作用，两相的分散是依靠与抽吸装置同轴向安装的搅拌器进行的泵式混合澄清器。分为轴流泵混式和涡轮泵混式。"
+  },
+  {
+   "cn": "因子VII缺乏[症]",
+   "en": "factor VII deficiency",
+   "source": "医学名词 第一分册",
+   "wordNumber": "04.125",
+   "subjectFullName": "医学_血液病学",
+   "subjectName": "血液病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "因子XII缺乏[症]",
+   "en": "factor XII deficiency",
+   "source": "医学名词 第一分册",
+   "wordNumber": "04.130",
+   "subjectFullName": "医学_血液病学",
+   "subjectName": "血液病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "因子XIII缺乏[症]",
+   "en": "factor XIII deficiency",
+   "source": "医学名词 第一分册",
+   "wordNumber": "04.131",
+   "subjectFullName": "医学_血液病学",
+   "subjectName": "血液病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "宫内人工授精",
+   "en": "intrauterine insemination\",\"IUI",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "刺激间距",
+   "en": "interstimulus interval\",\"ISI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光系统Ⅱ",
+   "en": "Photosystem II\",\"PS II",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯兴趣量表",
+   "en": "Career Interest Inventory\",\"CII",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯特朗兴趣调查表",
+   "en": "Strong Interest Inventory\",\"SII",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[美国]国家信息基础设施",
+   "en": "National Information Infrastructure\",\"NII",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全球信息基础设施",
+   "en": "global information infrastructure\",\"GII",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息存储接口",
+   "en": "Information storage interface\",\"ISI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "初始域标识",
+   "en": "initial domain identifier\",\"IDI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家信息基础设施",
+   "en": "national information infrastructure\",\"NII",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全球信息基础设施",
+   "en": "global information infrastructure\",\"GII",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网信息服务器",
+   "en": "Internet information server\",\"IIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能外围接口，IPI接口",
+   "en": "intelligent peripheral interface\",\"IPI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "花粉有丝分裂Ⅱ",
+   "en": "pollen mitosis II\",\"PM II",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国际海洋学院",
+   "en": "International Ocean Institute， IOI",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无限冲激响应",
+   "en": "infinite impulse response，IIR",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等平面集成注入逻辑",
+   "en": "isoplanar integrated injection logic，IIIL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二型冷锋",
+   "en": "type II cold front",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诺里什-II光反应",
+   "en": "Norrish type II photoreaction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "新霉素磷酸转移酶Ⅱ基因",
+   "en": "neomycin phosphotransferase II gene\",\"nptII",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三级",
+   "en": "grade III",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单项决赛",
+   "en": "apparatus final\",\"competition III",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单套比赛",
+   "en": "competition III\",\"pattern competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "七级",
+   "en": "grade VII",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二级",
+   "en": "grade II",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息基础设施发展水平指数",
+   "en": "Information Infrastructure Development Index (IIDI)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《信息与智能系统核心计划》（美国）",
+   "en": "Information and Intelligent Systems (IIS): Core Programs (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个人全能决赛",
+   "en": "competition II\",\"individual all-round finals",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际电信联盟信息化发展指数",
+   "en": "Information Development Index (IDI) of International Telecommunication Union (ITU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 27018-2014 信息技术 安全技术 可识别个人信息（PII）处理者在公有云中保护PII的实践指南》",
+   "en": "ISO/IEC 27018:2014 Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Ⅲ类环境",
+   "en": "class III environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境、空气和物表微生物数有一定要求的场所，如普通病房、血液透析中心（室）、供应室清洁区等。"
+  },
+  {
+   "cn": "Ⅲ级生物安全柜",
+   "en": "class III biological safety cabinet",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "全封闭、无泄露结构的通风柜，其对实验室内的相对负压不低于120Pa。下降气流经高效过滤器过滤后进入安全柜，排出气流经两道高效过滤器过滤或一道高效过滤器过滤后进行焚烧处理。"
+  },
+  {
+   "cn": "III型超敏反应",
+   "en": "type Ⅲ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.18",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "游离抗原与相应抗体结合为循环免疫复合物，未被及时清除的免疫复合物沉积于毛细血管基底膜等部位，通过激活补体，并在血小板、中性粒细胞等参与下，引起血管及其周围组织炎症，导致组织损伤的超敏反应。"
+  },
+  {
+   "cn": "Ⅱ类环境",
+   "en": "class II environment",
+   "source": "消毒学",
+   "wordNumber": "4.6.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "医疗机构内对环境、空气和物表微生物数有较严格要求的场所，如普通手术室、无菌物品保存区、产房、ICU等。"
+  },
+  {
+   "cn": "第二次世界大战",
+   "en": "World War II",
+   "source": "马克思主义",
+   "wordNumber": "04.0241",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1939—1945年,中、苏、美、英等同盟国反对德、意、日等轴心国侵略的全球性反法西斯战争。1929—1933年的世界经济危机,震撼了资本主义世界,加剧了帝国主义国家之间的矛盾。为摆脱危机而走上军国主"
+  },
+  {
+   "cn": "第二类消毒产品",
+   "en": "class II disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "具有中度风险，需要加强管理以保证安全、有效的消毒产品，包括除第一类产品外的消毒剂、消毒器械、化学指示物，以及带有灭菌标识的灭菌物品包装物、抗（抑）菌制剂。"
+  },
+  {
+   "cn": "生物安全二级实验室",
+   "en": "biosafety level II laboratory",
+   "source": "消毒学",
+   "wordNumber": "7.1.2.2",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "具有二级生物安全防护水平，用于从事对人和动植物虽致病但不会对健康成人、动物和环境造成严重危害，且有有效预防和治疗措施的病原微生物的实验活动场所。"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

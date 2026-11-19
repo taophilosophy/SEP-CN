@@ -1,0 +1,772 @@
+{
+ "key": "micro-organisms",
+ "term": "micro-organisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:55:34+00:00",
+ "status": "ok",
+ "note": "variant=micro-organisms; 审定公布名词库=1616; 海峡两岸名词对照库=577; 其他来源数据库=97; 预公布名词数据库=165; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "兼性好氧菌",
+   "en": "facultative aerobic micro organism",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.106",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_发酵工程_混合微生物发酵",
+   "subjectName": "混合微生物发酵",
+   "publishYear": "2021",
+   "definition": "适应范围广，在有氧或无氧的环境中均能生长的微生物。一般以有氧生长为主，有氧时靠呼吸产能；兼具厌氧生长能力，无氧时通过发酵或无氧呼吸产能。"
+  },
+  {
+   "cn": "微生物分解纤维",
+   "en": "micro-organism decomposable fiber",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0786",
+   "subjectFullName": "材料科学技术_高分子材料_纤维_特种纤维",
+   "subjectName": "特种纤维",
+   "publishYear": "2011",
+   "definition": "在土壤或海水中能受微生物作用而完全分解的纤维。"
+  },
+  {
+   "cn": "微微理论",
+   "en": "micro-micro theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0965",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "莱本施泰因(Harvey Leibenstein)对以个人为基本研究单位的X效率理论的命名。"
+  },
+  {
+   "cn": "抗菌性",
+   "en": "bacterial resistance,micro-organism resistance",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1201",
+   "subjectFullName": "材料科学技术_高分子材料_高分子材料性能及其测试方法",
+   "subjectName": "高分子材料性能及其测试方法",
+   "publishYear": "2011",
+   "definition": "材料在细菌或微生物作用下保持不失效的能力。"
+  },
+  {
+   "cn": "微传感器",
+   "en": "micro transducer,micro sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0070",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "利用微加工技术制造的传感器。"
+  },
+  {
+   "cn": "半微微理论",
+   "en": "semi-micro-micro theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0966",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "介于微观理论和微微理论之间的理论。"
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "微滴注射",
+   "en": "micro-injection",
+   "source": "整形外科名词",
+   "wordNumber": "8.012",
+   "subjectFullName": "整形外科_整形外科注射治疗_微滴注射",
+   "subjectName": "微滴注射",
+   "publishYear": "2026",
+   "definition": "采用人工或电子微针的方法将微量注射用材料注射于真皮或真皮下的技术。注射材料包括透明质酸、肉毒毒素、氨基酸、多肽等，用于营养皮肤、改善皮肤含水量、增加皮肤活性、调节皮脂腺和汗腺功能，其中微量肉毒毒素可作"
+  },
+  {
+   "cn": "微灌",
+   "en": "micro-irrigation",
+   "source": "农学名词",
+   "wordNumber": "12.074",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "通过管道系统与安装在末级管道上的灌水器，将水和植物生长所需的养分以较小的流量，均匀准确地直接输送到植物根部附近土壤的一种灌水方法。包括滴灌、微喷灌和涌泉灌等。"
+  },
+  {
+   "cn": "微进化",
+   "en": "micro-evolution",
+   "source": "农学名词",
+   "wordNumber": "06.020",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "在较短时期内，由于突变、选择、基因流和遗传漂变导致群体内等位变异发生的改变。"
+  },
+  {
+   "cn": "微喷头",
+   "en": "micro-sprinkler",
+   "source": "风景园林名词",
+   "wordNumber": "08.0906",
+   "subjectFullName": "风景园林_风景园林工程_风景园林给水",
+   "subjectName": "风景园林给水",
+   "publishYear": "2025",
+   "definition": "将有压水流粉碎成细小水滴，实行喷洒灌溉的微小喷头。"
+  },
+  {
+   "cn": "微觉醒",
+   "en": "micro-arousal",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.3.27",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈症状与检查",
+   "subjectName": "咽喉–头颈症状与检查",
+   "publishYear": "2025",
+   "definition": "睡眠中持续时间＜3s（一般为1.5～2s）的脑电频率变化，但不引起睡眠阶段改变的短暂觉醒。"
+  },
+  {
+   "cn": "小额信贷",
+   "en": "micro credit",
+   "source": "农学名词",
+   "wordNumber": "19.263",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "为具有还款能力的人或企业提供的无需抵押担保的且金额较小的信贷服务。"
+  },
+  {
+   "cn": "微型金融",
+   "en": "micro finance",
+   "source": "农学名词",
+   "wordNumber": "19.283",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "专门针对低收入人群和微型企业提供的小额金融服务。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观工程",
+   "en": "micro engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "自然辩证法_工程哲学_工程本体论",
+   "subjectName": "工程本体论",
+   "publishYear": "2024",
+   "definition": "特定工程项目、企业层面的工程活动。"
+  },
+  {
+   "cn": "微型猪",
+   "en": "micro pig",
+   "source": "兽医学名词",
+   "wordNumber": "09.207",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "6月龄体重≤15kg的供动物实验用的猪。"
+  },
+  {
+   "cn": "微觉醒",
+   "en": "micro-arousal",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.305",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "睡眠中持续时间＜3秒（1.5～2秒）的脑电频率变化，但不引起睡眠阶段改变的短暂觉醒。虽然不减少整个睡眠时间，但频繁微觉醒仍可导致日间嗜睡。"
+  },
+  {
+   "cn": "微睡眠",
+   "en": "micro-sleep",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.311",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "前后两帧睡眠记录均为睡眠期，中间一帧两端为短暂的睡眠期，而居中为超过50%的清醒期。此帧中的片段睡眠不足50%，故名。常见于重度阻塞性睡眠呼吸暂停综合征。"
+  },
+  {
+   "cn": "微博",
+   "en": "micro blog",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.039",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "一个以用户关系为基础的网络信息发布、传播及获取的平台。社交媒体应用的一种。人们在自己微博账号中发布的信息，可以被其关注者看到，信息也可以通过用户的分享得到传播。相比博客，微博发布的信息容量通常有限制，"
+  },
+  {
+   "cn": "微生物分解纤维",
+   "en": "micro-organism decomposable fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "微",
+   "en": "micro",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冬眠孢型",
+   "en": "micro-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "微表情",
+   "en": "micro expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "微观偏析",
+   "en": "micro-segregation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "微导管",
+   "en": "micro catheter",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "微量分析",
+   "en": "micro analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微型色谱仪",
+   "en": "micro-chromatograph",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微地形,微地貌",
+   "en": "micro-topography",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微演替",
+   "en": "micro-succession",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微海洋学",
+   "en": "micro-oceanography",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "微量滴定法",
+   "en": "micro-titration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "微观经济学",
+   "en": "micro-economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "显微解剖",
+   "en": "micro-dissection",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "微奥米伽[系统]",
+   "en": "micro Omega",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微截，微裂",
+   "en": "micro-cleaving",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微理论",
+   "en": "micro-theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微处理器",
+   "en": "micro processor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "微量吸收池",
+   "en": "micro cell",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小型消费者",
+   "en": "micro-consumer",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "小额信贷",
+   "en": "micro loan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "微课",
+   "en": "micro lecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "微传播",
+   "en": "micro communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云组织",
+   "en": "cloud organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组织价值",
+   "en": "organization value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化组织",
+   "en": "Standardization Organizations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组委会",
+   "en": "organizing committee",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微观社会学",
+   "en": "micro-sociology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "对微观或小型社会现象以及个体行为进行研究的社会学分支学科。涉及社会基本单位（群体）、社会角色、人际关系和互动、人的社会化等领域的研究。与“宏观社会学”相对。"
+  },
+  {
+   "cn": "微小气候",
+   "en": "micro climate",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "局部地区小范围内的特定气候,包括气温、气湿、气流等。"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "微观层面购买",
+   "en": "micro-level purchasing",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.1.4.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "基层卫生机构向卫生服务提供者购买服务的模式，该层面的购买规模相对较小。"
+  },
+  {
+   "cn": "微观仿真模型",
+   "en": "micro-simulation model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在卫生经济学评价中，一种利用计算机技术模拟政策对微观决策单元(如个人、家庭或企业)的影响及其产生的宏观效果,用于预测疾病发病或死亡趋势以及总医疗费用的决策分析模型。"
+  },
+  {
+   "cn": "都市微观民族志",
+   "en": "urban micro-ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0101",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "根据在都市的参与观察所获得的资料进行的研究。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T的平均吸收剂量，符号为DT。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "检验组织",
+   "en": "testing organization",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "组织实施个人剂量监测系统性能检验活动的组织或机构。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "正式组织",
+   "en": "formal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们为了达到某种共同目标，将其行为彼此协调与联合起来所形成的具有一定结构和特定功能的社会团体，具有正式、公开的组织目标、组织结构、组织规范和组织活动，其成员间的关系由正式的规章制度加以规定和约束。与“"
+  },
+  {
+   "cn": "非正式组织",
+   "en": "informal organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "人们在正式组织所安排的共同工作和相互接触中自然形成的以感情、爱好等情绪为基础的松散的、没有正式规定的群体。最早由美国管理学家埃尔顿·梅奥(Elton Mayo）通过“霍桑实验”提出。与“正式组织”相对"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "功能组织",
+   "en": "functional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "基于功能或任务建立的一种组织结构类型。在这类组织中，由代表组织的专门人员或单位负责组织程序或目标的实施、评价和控制。"
+  },
+  {
+   "cn": "专业性组织",
+   "en": "professional organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了增进某种特殊专业知识，或为增进从事该专业人士的利益和公众利益而组成的非营利性的组织。"
+  },
+  {
+   "cn": "联盟组织",
+   "en": "union organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.7",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由两个以上自然人、公司、组织或政府（或任何以上之组合）以共享彼此资源为目标，通过参与共同活动、推动共同成果而形成的专业团体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

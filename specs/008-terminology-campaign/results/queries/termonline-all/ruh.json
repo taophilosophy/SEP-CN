@@ -1,0 +1,342 @@
+{
+ "key": "ruh",
+ "term": "rūh",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:05:58+00:00",
+ "status": "ok",
+ "note": "variant=rūh; 审定公布名词库=19; 海峡两岸名词对照库=13; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "再热器",
+   "en": "reheater,RH",
+   "source": "电力名词",
+   "wordNumber": "09.146",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "将汽轮机高压缸或中压缸的排汽再次加热到规定温度的锅炉受热面。"
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity,RH",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0194",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物营养与代谢",
+   "subjectName": "食品微生物营养与代谢",
+   "publishYear": "2020",
+   "definition": "空气中水汽压与饱和水汽压的百分比。用于表征食品所处环境的湿度状况。"
+  },
+  {
+   "cn": "真空循环脱气法",
+   "en": "Rheinstahl-Her-aeus,RH",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0148",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料生产技术",
+   "subjectName": "钢铁材料生产技术",
+   "publishYear": "2011",
+   "definition": "对循环流动状态的钢液进行真空脱气的炉外处理工艺技术。"
+  },
+  {
+   "cn": "辐射杂种细胞",
+   "en": "radiation hybrid,radiation hybridization,RH",
+   "source": "遗传学名词",
+   "wordNumber": "08.085",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "经射线处理生成的带有着丝粒的染色体断片的人体细胞与啮齿类体细胞融合而成的杂合细胞，可用于基因定位和基因组作图。"
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "血液学名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "血液学_特殊治疗_输血",
+   "subjectName": "输血",
+   "publishYear": "2022",
+   "definition": "一种红细胞抗原。Rh血型系统中含有5种常见抗原，即C、c、D、E、e，凡人体血液红细胞含D抗原为Rh阳性，否则为阴性。"
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.405",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种来源于恒河猴的红细胞表面抗原。因最初在恒河猴红细胞表面发现而得名。具有Rh抗原的个体为Rh阳性，没有Rh抗原的个体为Rh阴性。"
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "免疫学名词",
+   "wordNumber": "1.134",
+   "subjectFullName": "免疫学_概论_抗原",
+   "subjectName": "抗原",
+   "publishYear": "2007",
+   "definition": "一种红细胞抗原，因最初在恒河猴(Rhesus monkey)红细胞表面发现而得名，与新生儿红细胞裂解有关。"
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "遗传学名词",
+   "wordNumber": "02.369",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "一种来源于罗猴(Rhesus)的红细胞表面抗原。具有Rh抗原的个体称为Rh阳性，没有Rh抗原的个体称为Rh阴性。"
+  },
+  {
+   "cn": "Rh抗体",
+   "en": "Rh antibody",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.568",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.567",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "Rh缺乏综合征",
+   "en": "Rh deficiency syndrome",
+   "source": "血液学名词",
+   "wordNumber": "5.079",
+   "subjectFullName": "血液学_红细胞系统疾病_贫血",
+   "subjectName": "贫血",
+   "publishYear": "2022",
+   "definition": "一种罕见的常染色体隐性红细胞遗传性疾病。Rh抗原表达缺乏（Rhnull）或者显著降低（Rhmod）。"
+  },
+  {
+   "cn": "铂铑合金",
+   "en": "Pt-Rh alloy",
+   "source": "冶金学名词",
+   "wordNumber": "08.0538",
+   "subjectFullName": "冶金学_金属材料_功能材料",
+   "subjectName": "功能材料",
+   "publishYear": "2019",
+   "definition": "以铂为基，添加铑所组成的合金。由于高熔点、优异的化学、力学性能热电势的稳定性，PtRh10/Pt热电偶是300℃以上测量最准确的热电偶。"
+  },
+  {
+   "cn": "仪表着陆系统基准高",
+   "en": "ILS reference datum height,ILS RDH",
+   "source": "航空科学技术名词",
+   "wordNumber": "16.115",
+   "subjectFullName": "航空科学技术_航行与空中交通管理",
+   "subjectName": "航行与空中交通管理",
+   "publishYear": "2003",
+   "definition": "仪表着陆系统下滑道直线延伸通过跑道中线与跑道入口交点的高。"
+  },
+  {
+   "cn": "辐射杂种细胞图",
+   "en": "radiation hybrid map,RH map,RH linkage map",
+   "source": "遗传学名词",
+   "wordNumber": "08.087",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "通过辐射杂种细胞作图技术所获得的染色体图谱。"
+  },
+  {
+   "cn": "Rh血型系统",
+   "en": "Rh blood group system",
+   "source": "血液学名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "血液学_特殊治疗_输血",
+   "subjectName": "输血",
+   "publishYear": "2022",
+   "definition": "一种血型分类系统。指红细胞表面有无RhD抗原：Rh+，称作“Rh阳性”或“Rh显性”，即红细胞有RhD抗原；Rh−，称作“Rh阴性”或“Rh隐性”，即红细胞没有RhD抗原。"
+  },
+  {
+   "cn": "Rh血型系统",
+   "en": "Rh blood group system",
+   "source": "生理学名词",
+   "wordNumber": "04.136",
+   "subjectFullName": "生理学_血液生理学",
+   "subjectName": "血液生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "Rh血型系统",
+   "en": "Rh blood group system",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.569",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "Rh血型不合溶血病",
+   "en": "Rh blood group incompatibility hemolytic disease",
+   "source": "血液学名词",
+   "wordNumber": "5.139",
+   "subjectFullName": "血液学_红细胞系统疾病_贫血",
+   "subjectName": "贫血",
+   "publishYear": "2022",
+   "definition": "胎儿的D抗原阳性红细胞通过胎盘进入Rh阴性母体血液，使母体产生抗D抗体，当致敏的D抗原阴性妇女再次怀有D抗原阳性的胎儿时，迅速产生大量抗D抗体，从而引起新生儿红细胞破坏的溶血病。"
+  },
+  {
+   "cn": "辐射杂种细胞系",
+   "en": "radiation hybrid cell line,RH cell line",
+   "source": "遗传学名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "人与啮齿类的杂种体细胞经射线处理后，生成带有包含啮齿类染色体和有若干个不同的人体染色体断片的杂种细胞。"
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Rh抗体",
+   "en": "Rh antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Rh抗原",
+   "en": "Rh antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Rh因子",
+   "en": "Rh factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "相对湿度",
+   "en": "relative humidity\",\"RH",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主机航程",
+   "en": "distance by engines RPH",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特氏器",
+   "en": "Trgrdhs organ",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "Rh血型系统",
+   "en": "Rh blood group system",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射杂种细胞",
+   "en": "radiation hybrid\",\"radiation hybridization\",\"RH",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射杂种细胞图",
+   "en": "radiation hybrid map\",\"RH map",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射杂种细胞系",
+   "en": "radiation hybrid cell line\",\"RH cell line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "恒河猴血型系统（=Rh血型系统）",
+   "en": "rhesus blood group system\",\"Rh blood group system",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "Rh血型系统，恒河猴血型系统",
+   "en": "rhesus blood group system\",\"Rh blood group system",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "IgG4相关性垂体炎",
+   "en": "IgG4 related hypophysitis, IgG4-RH",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.10.3.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_IgG4相关疾病_系统损伤",
+   "subjectName": "系统损伤",
+   "publishYear": "2025",
+   "definition": "IgG4相关性疾病之一，其主要特点是浆细胞对垂体和（或）垂体柄的浸润，导致垂体功能改变或占位效应。组织学上表现为弥漫性淋巴细胞和浆细胞浸润，特异性表现包括IgG4阳性浆细胞浸润和席纹状纤维化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

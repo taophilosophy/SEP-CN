@@ -1,0 +1,612 @@
+{
+ "key": "muller's archiv",
+ "term": "Müller’s Archiv",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:03+00:00",
+ "status": "ok",
+ "note": "variant=Müller’s Archiv; 审定公布名词库=851; 海峡两岸名词对照库=166; 其他来源数据库=24; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "档案",
+   "en": "archive",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0577",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "国家机构、社会组织以及个人从事政治、军事、经济、科学、技术、文化、宗教等活动直接形成的，具有保存价值的各种文字、图表、音像等不同形式的原始记录。"
+  },
+  {
+   "cn": "档案室",
+   "en": "archive",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0616",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "集中保存本单位档案，为本单位工作提供档案资料服务的机构。"
+  },
+  {
+   "cn": "档案馆",
+   "en": "archive",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0617",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "收集、保管档案的文化事业机构。其任务是接收和征集档案，科学地管理档案，开发档案信息资源利用等。"
+  },
+  {
+   "cn": "档案",
+   "en": "archives",
+   "source": "档案学名词",
+   "wordNumber": "01.02.001",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "国家机构、社会组织及个人从事社会活动中直接形成的具有保存价值的各种文字、图表、音像、数字等不同形式的历史记录。"
+  },
+  {
+   "cn": "档案馆",
+   "en": "archives",
+   "source": "档案学名词",
+   "wordNumber": "01.04.011",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "集中管理特定范围档案的专门机构。"
+  },
+  {
+   "cn": "档案馆",
+   "en": "archives",
+   "source": "建筑学名词",
+   "wordNumber": "02.0246",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "收集保管、查阅利用、展览陈列、服务公众、史料研究和文化交流等多功能于一体的综合设施。"
+  },
+  {
+   "cn": "存档",
+   "en": "archiving",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将数据存储在永久性的存储介质上。"
+  },
+  {
+   "cn": "散失档案",
+   "en": "removed archives; dispersed archives; displaced archives",
+   "source": "档案学名词",
+   "wordNumber": "01.02.040",
+   "subjectFullName": "档案学_总论_档案及其种类",
+   "subjectName": "档案及其种类",
+   "publishYear": "2024",
+   "definition": "从法定保管处所或原始形成国家中流失的档案。"
+  },
+  {
+   "cn": "档案检索",
+   "en": "archives search; archival retrieval",
+   "source": "档案学名词",
+   "wordNumber": "03.04.049",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "存储和查找档案信息的过程。"
+  },
+  {
+   "cn": "档案行政管理机构",
+   "en": "archives administration；archives authority",
+   "source": "档案学名词",
+   "wordNumber": "01.04.009",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "各级党和政府管理档案事业的职能机构。"
+  },
+  {
+   "cn": "档案局",
+   "en": "archives bureau；archives administration",
+   "source": "档案学名词",
+   "wordNumber": "01.04.010",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "中国县级以上人民政府依法设置的专门负责档案事务的行政机关。"
+  },
+  {
+   "cn": "企业档案馆",
+   "en": "business archives；enterprise archives",
+   "source": "档案学名词",
+   "wordNumber": "01.04.018",
+   "subjectFullName": "档案学_总论_档案事业与档案机构",
+   "subjectName": "档案事业与档案机构",
+   "publishYear": "2024",
+   "definition": "企业设置的管理本企业档案的档案馆。"
+  },
+  {
+   "cn": "档案箱",
+   "en": "archival case; archival boxes",
+   "source": "档案学名词",
+   "wordNumber": "03.03.010",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "多为用木制材料制成的、带盖的保存档案的箱子，能形成相对封闭的空间。"
+  },
+  {
+   "cn": "档案证明",
+   "en": "archival verification；archival authentication",
+   "source": "档案学名词",
+   "wordNumber": "03.05.008",
+   "subjectFullName": "档案学_档案管理_档案利用与编研",
+   "subjectName": "档案利用与编研",
+   "publishYear": "2024",
+   "definition": "档案管理机构依据档案的记载出具的凭证性文件。"
+  },
+  {
+   "cn": "城市档案馆",
+   "en": "city archives; municipal archives",
+   "source": "档案学名词",
+   "wordNumber": "09.02.013",
+   "subjectFullName": "档案学_外国档案事业史_外国档案机构",
+   "subjectName": "外国档案机构",
+   "publishYear": "2024",
+   "definition": "伴随自治城市（如意大利威尼斯）的出现而产生的一种档案管理机构。主要保管国王发给城市的特许状、行政文件、法规条例、诉讼文件、外交文件以及地契、税册、账目等。"
+  },
+  {
+   "cn": "档案",
+   "en": "archive,file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.074",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "分类保存的文件和材料。"
+  },
+  {
+   "cn": "档案销毁",
+   "en": "archive destruction",
+   "source": "档案学名词",
+   "wordNumber": "03.02.023",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "经过鉴定对失去价值的档案作毁灭性处置的过程。"
+  },
+  {
+   "cn": "羊皮纸档案",
+   "en": "parchment archive",
+   "source": "档案学名词",
+   "wordNumber": "09.01.007",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "书写在羊皮纸上的档案。羊皮纸是用羊皮或犊牛皮加工而成，成卷轴形者称“羊皮纸卷”。公元前3世纪至公元13世纪在欧洲各国为主要书写材料，直至14世纪中国造纸技术传入后，才逐渐被纸张所取代。但仍有些国家用它"
+  },
+  {
+   "cn": "祭司档案",
+   "en": "priest archive",
+   "source": "档案学名词",
+   "wordNumber": "09.01.008",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "古罗马贵族的宗教档案。在古代罗马，祭司是奴隶主中的一个特殊阶层，专职掌管宗教仪式，还往往担任民政职务，垄断科学文化知识。在执行宗教、社会和若干国家职能中，自然形成和积累了大量档案，如历法、公务人员更换"
+  },
+  {
+   "cn": "纸草档案",
+   "en": "papyrus archive",
+   "source": "档案学名词",
+   "wordNumber": "09.01.020",
+   "subjectFullName": "档案学_外国档案事业史_外国档案名称与种类",
+   "subjectName": "外国档案名称与种类",
+   "publishYear": "2024",
+   "definition": "以纸草为制作材料的档案。由于具有轻便、易于书写等优点，纸草逐渐成为各国广泛使用的档案书写材料，使用时间从奴隶社会一直延续到封建社会，约4 000年，使用范围从最初的埃及扩展到两河流域、希腊和罗马等地。"
+  },
+  {
+   "cn": "档案",
+   "en": "archive",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存档",
+   "en": "archiving",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "档案研究",
+   "en": "archival study\",\"archival research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据档案",
+   "en": "data archive",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存盘网点",
+   "en": "archive site",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "档案文件",
+   "en": "archive file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归档储存",
+   "en": "archival storage",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "归档文件",
+   "en": "archived file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海洋数据文档， 海洋资料文档",
+   "en": "marine data archive",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间档案及交换格式",
+   "en": "spatial archive and interchange format\",\"SAIF",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据存档及分发系统",
+   "en": "data archive and distribution system\",\"DADS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "米勒肌",
+   "en": "Müller’s muscle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "米勒细胞",
+   "en": "Müller’s cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "米勒纤维",
+   "en": "Müller’s fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "沃勒变性",
+   "en": "Waller’s degeneration",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "卖方负担风险",
+   "en": "seller’s risk",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖方留置权",
+   "en": "seller’s lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖方信贷",
+   "en": "seller’s credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖方选择权",
+   "en": "seller’s option",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "卖主盈余",
+   "en": "seller’s surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电子档案",
+   "en": "e-archive",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字档案馆",
+   "en": "digital archives",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归档",
+   "en": "data archiving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重点闪回归档",
+   "en": "flashback data archive",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归档备份",
+   "en": "archiving and backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会科研数据存档",
+   "en": "Social Science Data Archive (SSDA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "耶鲁大学社会和政策研究开放数据知识库",
+   "en": "ISPS Data Archive of Yale University",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "荷兰数据归档和网络服务",
+   "en": "Data Archiving and Networked Service (the Netherlands)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射箭运动员",
+   "en": "archer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "挺身",
+   "en": "arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弓身",
+   "en": "arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍尾",
+   "en": "back arch\",\"cantle\",\"rear arch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据档案",
+   "en": "data archive",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "获取、存储、传播数字型资料的资源中心。可以帮助以研究和教学为目的的二次分析。"
+  },
+  {
+   "cn": "《满文老档》",
+   "en": "Old Manchu archives",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0275",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "清代皇太极时期以满文所撰官修史书（档册）。记载天命纪元前九年至天命十一年（1607—1626）、天聪元年至六年（1627—1632）和崇德元年（1636）共27 年之史事。"
+  },
+  {
+   "cn": "纸质档案建立",
+   "en": "establishment of paper archives",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "将学生健康档案用洁白纸张印刷并装订成册，以便于保存和管理的过程。"
+  },
+  {
+   "cn": "影像存储与传输系统",
+   "en": "picture archiving and communication system，PACS",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.72",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "与各种医学影像成像设备相连接，以数字化方式获取、压缩、存储归档、管理、传输、查询检索、显示浏览、处理、发布医学影像信息和相关病历资料的信息系统。"
+  },
+  {
+   "cn": "妇女儿童基础档案管理",
+   "en": "management of basic archive for woman and child",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生信息管理",
+   "subjectName": "妇幼卫生信息管理",
+   "publishYear": "2025",
+   "definition": "在开展妇幼卫生工作中日常工作记录或表卡册，如妇女宫颈癌或乳腺癌筛查时的个案登记表、产房分娩登记本、母子健康手册、新生儿疾病筛查登记、儿童预防接种卡、出生缺陷儿登记卡等进行收集、整理、存储的过程。"
+  },
+  {
+   "cn": "穆勒的果蝇研究",
+   "en": "Muller's research on fruit flies",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.1",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "1916年，美国科学家穆勒（Hermann Joseph Muller）在果蝇实验中发现了交叉干扰现象，1927年7月，在Science上发表题为“Artificial Transmutation o"
+  },
+  {
+   "cn": "古代法",
+   "en": "archaic law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "对应古代社会的法律。尼克拉斯·卢曼认为在社会演化过程中存在着古代法、前现代高等文明的法和现代社会的实证法三种法律。古代法对应古代社会，制定法律的行为与依据法律做出决定的行为并未区分开，出现冲突后，人们"
+  },
+  {
+   "cn": "主动脉弓综合征",
+   "en": "aortic arch syndrome",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.37",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由于主动脉及其主要分支管腔狭窄、闭塞，导致组织器官缺血而产生的一系列症状和体征。可能与梅毒、结核杆菌感染、大动脉炎、巨细胞动脉炎等有关。主要表现为肢体跛行、头痛、高血压、肌肉痛、视觉障碍等，多伴两侧肢"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,72 @@
+{
+ "key": "fulle",
+ "term": "Fülle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:04:52+00:00",
+ "status": "ok",
+ "note": "variant=Fülle; 审定公布名词库=1; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "壳细胞",
+   "en": "hülle cell",
+   "source": "植物学名词",
+   "wordNumber": "05.0198",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "某些散囊菌闭囊壳外的厚壁窄腔细胞。"
+  },
+  {
+   "cn": "壳细胞",
+   "en": "hülle cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "军中女郎",
+   "en": "Fille du Régiment\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "昂戈夫人的女儿",
+   "en": "Fille de Madame Angot\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Lecocq, Charles"
+  },
+  {
+   "cn": "珀斯城的少女",
+   "en": "Jolie Fille de Perth\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bizet, Georges"
+  },
+  {
+   "cn": "亚麻色头发女郎",
+   "en": "Fille aux cheveux de lin\",\"la",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Debussy, Claude"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

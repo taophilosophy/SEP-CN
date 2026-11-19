@@ -1,0 +1,522 @@
+{
+ "key": "alberto sanchez",
+ "term": "Alberto Sánchez",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:52:45+00:00",
+ "status": "ok",
+ "note": "variant=Alberto Sánchez; 审定公布名词库=56; 海峡两岸名词对照库=65; 其他来源数据库=11; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "天文学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "表示不发光天体的反射能力，等于所有方向的反射光总流量和入射光总流量之比。"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo ",
+   "source": "草学名词",
+   "wordNumber": "3.0578",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "光学名词",
+   "wordNumber": "21.056",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "漫射物体表面受到正入射的光照射后，漫射到各个方向去的光与入射光之比。"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "大气科学名词",
+   "wordNumber": "03.338",
+   "subjectFullName": "大气科学_大气物理学",
+   "subjectName": "大气物理学",
+   "publishYear": "2009",
+   "definition": "从非发光体表面反射的辐射与入射到该表面的总辐射之比。"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.142",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "从非发光体表面反射的辐射与入射到该表面的总辐射之比。"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "地理学名词",
+   "wordNumber": "04.125",
+   "subjectFullName": "地理学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2006",
+   "definition": "从非发光体表面反射的辐射与入射到该表面的总辐射之比。"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.402",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "小艾伯特实验",
+   "en": "little Albert experiment",
+   "source": "行为医学名词",
+   "wordNumber": "2.032",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "约翰·布罗德斯·华生（John Broadus Watson）和他的助手罗莎莉·雷纳（Rosalie Reina）1920年在约翰斯·霍普金斯大学进行的，以人（小艾伯特）作为受试者进行的关于恐惧形成的"
+  },
+  {
+   "cn": "阿氏染色",
+   "en": "Albert's staining",
+   "source": "微生物学名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "用含苯胺蓝与甲基绿的染液鉴定白喉棒杆菌的染色方法。"
+  },
+  {
+   "cn": "地面反射率",
+   "en": "surface albedo",
+   "source": "地质学名词",
+   "wordNumber": "08.02.062",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "表征地面对太阳辐射的吸收和反射能力大小的量，为地面反射辐射总通量与太阳入射辐射总通量的比值。"
+  },
+  {
+   "cn": "球面反照率",
+   "en": "spherical albedo",
+   "source": "天文学名词",
+   "wordNumber": "04.486",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "表征天体反射本领的物理量。"
+  },
+  {
+   "cn": "腔壁反照率",
+   "en": "wall albedo",
+   "source": "核科学技术名词",
+   "wordNumber": "3.418",
+   "subjectFullName": "核科学技术_核聚变_惯性约束聚变",
+   "subjectName": "惯性约束聚变",
+   "publishYear": "2024",
+   "definition": "在辐射烧蚀材料的过程中烧蚀材料再发射辐射流与入射辐射流之‍比。"
+  },
+  {
+   "cn": "地震反照率",
+   "en": "seismic albedo",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0751",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "散射系数与总衰减系数之比。源于天文学反照率。 "
+  },
+  {
+   "cn": "反照电子",
+   "en": "albedo electron",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0020",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "反照中子衰变时所产生的电子。 "
+  },
+  {
+   "cn": "反照中子",
+   "en": "albedo neutron",
+   "source": "地球物理学名词",
+   "wordNumber": "05.0021",
+   "subjectFullName": "地球物理学_空间物理学_高空大气学",
+   "subjectName": "高空大气学",
+   "publishYear": "2022",
+   "definition": "宇宙线和高层大气碰撞发生核响应所产生的中子。 "
+  },
+  {
+   "cn": "行星反照率",
+   "en": "planetary albedo",
+   "source": "光学名词",
+   "wordNumber": "21.059",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "表征行星表面反射太阳辐射能力强弱的物理量。数值上等于行星表面反射(向上)通量密度与太阳入射(向下)通量密度之比。"
+  },
+  {
+   "cn": "地球反照率",
+   "en": "earth albedo",
+   "source": "光学名词",
+   "wordNumber": "21.060",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "地球–大气系统对太阳光漫反射的出射度与太阳辐射照度之比。"
+  },
+  {
+   "cn": "地表反照率",
+   "en": "surface albedo",
+   "source": "光学名词",
+   "wordNumber": "21.061",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "表征地表反射能力强弱的物理量。数值上等于地表面向上的通量密度与向下的通量密度之比。"
+  },
+  {
+   "cn": "中子反照率",
+   "en": "neutron albedo",
+   "source": "计量学名词",
+   "wordNumber": "14.154",
+   "subjectFullName": "计量学_光学_中子",
+   "subjectName": "中子",
+   "publishYear": "2015",
+   "definition": "穿过一表面进入某区域的中子仍穿过该表面返回的概率。"
+  },
+  {
+   "cn": "中子反照率",
+   "en": "neutron albedo",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.361",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "中子穿过某一介质边界面进入该介质再穿过该边界面返回的概率。对于半无限大的无俘获介质，中子反照率等于1，因为任一中子经过足够长时间扩散之后，必将再度穿过这一边界面。对于某种纯俘获介质，中子反照率等于零。"
+  },
+  {
+   "cn": "弗兰凱蒂",
+   "en": "Franchetti\",\"Alberto(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "李西",
+   "en": "Lysy\",\"Alberto(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "埃瑞德",
+   "en": "Erede\",\"Alberto(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "希纳斯特拉",
+   "en": "Ginastera\",\"Alberto(阿根廷)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "艾伯塔快速低压",
+   "en": "Alberta clipper",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿尔贝蒂低音",
+   "en": "Alberti bass",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "报警器",
+   "en": "alertor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿伯特·赫林",
+   "en": "Albert Herring",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "反照率",
+   "en": "albedo",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "桑切斯·德芬德斯",
+   "en": "Sanchez de Fuentes\",\"Eduardo(古巴)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "alert",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "达尔贝托",
+   "en": "Dalberto\",\"Michel(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "萨蒙斯",
+   "en": "Sammons\",\"Albert(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赖斯",
+   "en": "Reiss\",\"Albert(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "施魏策尔",
+   "en": "Schweitzer\",\"Albert(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "警戒线",
+   "en": "alert line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警戒区",
+   "en": "alert area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过警戒线",
+   "en": "cross the alert line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《爆发：大数据时代预见未来的新思维》（〔美〕艾伯特–拉斯洛·巴拉巴西）",
+   "en": "Bursts: The Hidden Patterns Behind Everything We Do (Albert-László Barabási, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预备姿势",
+   "en": "alert position\",\"anticipatory position\",\"ready position\",\"waiting position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "居安思危",
+   "en": "Be on Alert Against Potential Danger When Living in Peace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中子反照率",
+   "en": "neutron albedo",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "中子穿过某一介质边界面进入该介质再穿过该边界面返回的概率。"
+  },
+  {
+   "cn": "反照率中子剂量计",
+   "en": "albedo neutron dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "佩戴在人身上，利用中子从人体表面反射的辐射与入射到该表面的总辐射之比来测量中子吸收剂量的一种剂量计。"
+  },
+  {
+   "cn": "食源性警戒事件",
+   "en": "foodborne alert event",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "可能与食品相关的、需要引起高度关注的异常事件。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "食品和饲料快速预警系统",
+   "en": "Rapid Alert System for Food and Feed, RASFF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.7",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "欧盟针对各成员国内部由于食品不符合安全要求或标示不准确等原因引起的风险和可能带来的问题及时通报各成员国，使消费者避开风险的一种安全保障系统"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

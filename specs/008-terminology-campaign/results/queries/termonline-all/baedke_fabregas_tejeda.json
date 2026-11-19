@@ -1,0 +1,362 @@
+{
+ "key": "baedke fabregas-tejeda",
+ "term": "Baedke Fábregas-Tejeda",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:52:42+00:00",
+ "status": "ok",
+ "note": "variant=Baedke Fábregas-Tejeda; 审定公布名词库=16; 海峡两岸名词对照库=13; 其他来源数据库=4; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "蛀船虫协议",
+   "en": "teredo protocol",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0633",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "是因特网从IPv4向IPv6迁移的一个过渡协议。它采用UDP隧道，即把IPv6分组封装在IPv4/UDP分组中传输，它的最大特点是其具有对IPv4 NAT（网络地址转换）网关的穿透功能。"
+  },
+  {
+   "cn": "贝克线",
+   "en": "Becke line",
+   "source": "地质学名词",
+   "wordNumber": "02.00.226",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在偏光显微镜下适当缩小孔径光圈，用中倍或高倍物镜观察岩石薄片中折射率不同的两相邻介质(例如矿物与树胶)的接触处时，可见一较明亮细线的现象。可用于判别矿物的正负突起。"
+  },
+  {
+   "cn": "保德组",
+   "en": "Baode Formation",
+   "source": "地质学名词",
+   "wordNumber": "07.04.817",
+   "subjectFullName": "地质学_地史学与地层学_岩石地层学",
+   "subjectName": "岩石地层学",
+   "publishYear": "2026",
+   "definition": "分布于山西保德地区。正层型为山西保德冀家沟剖面。为棕红色黏土、亚黏土夹多层钙质结核及砂砾层或砾岩层。含介形类、鱼类、哺乳类、孢粉等化石。时代属中新世。"
+  },
+  {
+   "cn": "贝克线",
+   "en": "Becke line",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.148",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "在两种不同光程的介质边界上成像的一条明亮线。"
+  },
+  {
+   "cn": "贝克线",
+   "en": "Becke line",
+   "source": "地质学名词",
+   "wordNumber": "04.201",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "寺田屋骚动",
+   "en": "Terada House Commotion",
+   "source": "世界历史名词",
+   "wordNumber": "04.0039",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "1862年(日本阴历文久2年)5月21日，在日本京都近郊伏见的寺田屋旅馆发生的萨摩藩尊攘派志士被害事件。"
+  },
+  {
+   "cn": "胶片剂量计",
+   "en": "film dosemeter,film badge",
+   "source": "电子学名词",
+   "wordNumber": "24.140",
+   "subjectFullName": "电子学_核电子学",
+   "subjectName": "核电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "贝克线色散",
+   "en": "dispersion of Becke line",
+   "source": "地质学名词",
+   "wordNumber": "02.00.227",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在偏光显微镜下用白光观察岩石薄片中折射率比较接近的两相邻介质时，其接触处的贝克线可变为彩色光带的现象。"
+  },
+  {
+   "cn": "自硬黏结剂",
+   "en": "no bake binder",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.108",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_造型材料",
+   "subjectName": "造型材料",
+   "publishYear": "2021",
+   "definition": "不需加热，经由化学反应或失水，可以固化的黏结剂。"
+  },
+  {
+   "cn": "前烘",
+   "en": "before exposure bake",
+   "source": "光学名词",
+   "wordNumber": "11.175",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "在显影之前对涂好光刻胶的基底在一定的温度下进行烘焙的过程。前烘可消除光刻胶中的残余溶剂，增强胶层与基底之间的黏附性。"
+  },
+  {
+   "cn": "后烘",
+   "en": "post exposure bake",
+   "source": "光学名词",
+   "wordNumber": "11.176",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "对显影后的光刻胶光栅在特定温度条件下进行烘焙的过程。后烘可去除光栅基底上残余的显影溶剂，改善掩模与光栅基底的黏附能力，同时使掩模硬化。"
+  },
+  {
+   "cn": "烘烤硬化钢",
+   "en": "bake-hardening steel",
+   "source": "冶金学名词",
+   "wordNumber": "08.0338",
+   "subjectFullName": "冶金学_金属材料_钢铁材料",
+   "subjectName": "钢铁材料",
+   "publishYear": "2019",
+   "definition": "通过成型过程中的应变硬化和烤漆过程中的时效作用来提高构件使用强度的钢。"
+  },
+  {
+   "cn": "T接线路",
+   "en": "tapped line,teed line",
+   "source": "电力名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "带有分支线,构成形如英文字母“T”的线路。"
+  },
+  {
+   "cn": "烘熟",
+   "en": "hot-denaturation,bake-burning",
+   "source": "水产名词",
+   "wordNumber": "08.183",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "鲜鱼、咸鱼在较高温度和通风排湿条件不良的闷热状态下人工干燥时发生的熟化现象。"
+  },
+  {
+   "cn": "耐烘烤性试验",
+   "en": "resistance-to-bake test",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.289",
+   "subjectFullName": "机械工程_汽车_车身_车身附件",
+   "subjectName": "车身附件",
+   "publishYear": "2013",
+   "definition": "确定中空玻璃结构在一段时间内能否承受高温作用的试验。"
+  },
+  {
+   "cn": "楷书吏",
+   "en": "kai shu li； beadle of regular script",
+   "source": "档案学名词",
+   "wordNumber": "08.03.021",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "职官名。掌以楷隶书誊录缮写。晋代始置。唐宋沿置。"
+  },
+  {
+   "cn": "船蛆",
+   "en": "teredo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "象征",
+   "en": "badge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记阅读器",
+   "en": "badge reader",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "烘焙",
+   "en": "bake",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腾达的贝阿特丽彻",
+   "en": "Beatrice di Tenda",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bellini, Vincenzo"
+  },
+  {
+   "cn": "巴德-韦塞林克方法",
+   "en": "Baade-Wesselink method",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "烘焙",
+   "en": "cure （=bake）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔冈扎",
+   "en": "Berganza\",\"Teresa(西班牙)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯蒂克-兰德尔",
+   "en": "Stich-Randall\",\"Teresa(美国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "斯特拉塔丝",
+   "en": "Stratas\",\"Teresa(加拿大)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "齐莉丝-加拉",
+   "en": "Zylis-Gara\",\"Teresa(波兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "胶片剂量计",
+   "en": "film dosemeter\",\"film badge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡雷尼奥",
+   "en": "Carreňo\",\"Teresa(委内瑞拉)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "袖标",
+   "en": "armband\",\"badge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "袖标",
+   "en": "armband\",\"badge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "袖标",
+   "en": "armband\",\"armlet\",\"badge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前直拳",
+   "en": "bandae jireugi\",\"front punch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特雷纳人",
+   "en": "Terena",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.033",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "南美洲巴西境内的土著人，人口大约1.6 万（2001 年）。讲特雷纳语和葡萄牙语。"
+  },
+  {
+   "cn": "跟随剂量计",
+   "en": "control badge",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.18",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "用于测量同期非职业工作场所包括剂量计邮寄过程中受到其他无关照射的剂量计，在个人剂量等监测中需对其读取的剂量予以扣除。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

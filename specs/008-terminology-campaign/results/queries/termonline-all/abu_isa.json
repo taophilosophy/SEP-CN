@@ -1,0 +1,802 @@
+{
+ "key": "abu isa",
+ "term": "Abu Isà",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:06:11+00:00",
+ "status": "ok",
+ "note": "variant=Abu Isà; 审定公布名词库=377; 海峡两岸名词对照库=91; 其他来源数据库=196; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "β-脂蛋白缺乏症",
+   "en": "abetalipoproteinemia,ABL",
+   "source": "病理学名词",
+   "wordNumber": "02.508",
+   "subjectFullName": "病理学_消化系统_肝脏",
+   "subjectName": "肝脏",
+   "publishYear": "2020",
+   "definition": "由微粒体三酰甘油转移蛋白（MTP）基因突变导致肝脏内β-载脂蛋白不能正常产生而引起肝脂肪变性的常染色体隐性遗传性代谢性疾病。"
+  },
+  {
+   "cn": "Alu重复序列",
+   "en": "Alu repetitive sequence,Alu family",
+   "source": "遗传学名词",
+   "wordNumber": "08.017",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "哺乳动物和人基因组中的一种中等重复序列，因该序列中有限制性内切酶Alu的切点而得名。"
+  },
+  {
+   "cn": "拔步床",
+   "en": "babu bed",
+   "source": "风景园林名词",
+   "wordNumber": "11.0257",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "一种床前设有围廊和台阶，形体庞大的架子床。"
+  },
+  {
+   "cn": "Alu聚合酶链反应",
+   "en": "Alu-PCR",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0543",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_聚合酶链反应与等温扩增技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "从复杂来源样品中特异扩增人基因组DNA的方法。Alu是人基因组中特有的高度重复序列，散布于整个人的基因组中。设计能识别Alu保守区序列的聚合酶链反应引物，就能特异地扩增获得人基因组DNA。"
+  },
+  {
+   "cn": "ABO血型配型",
+   "en": "ABO matching",
+   "source": "肝病学名词",
+   "wordNumber": "15.3.1.3.1",
+   "subjectFullName": "肝病学_肝移植_肝移植术后管理",
+   "subjectName": "肝移植术后管理",
+   "publishYear": "2024",
+   "definition": "器官移植前对供、受者进行ABO血型交叉 配型。对受者血清与供者红细胞悬液，供者血清与受者红细胞悬液进行的凝集试验。分为ABO血型相同、ABO血型相符和ABO血型不合。"
+  },
+  {
+   "cn": "透明级ABS",
+   "en": "transparent ABS",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0362",
+   "subjectFullName": "化工（七）_合成树脂_聚苯乙烯和ABS树脂",
+   "subjectName": "聚苯乙烯和ABS树脂",
+   "publishYear": "2022",
+   "definition": "通过以下工艺制备的具有高透明度的ABS树脂。方法一：由甲基丙烯酸甲酯（MMA）、苯乙烯（St）和丙烯腈（AN）单体在聚丁二烯（PB）或丁苯橡胶（SBR）分子链上接枝；方法二：先使St和AN单体在PB或"
+  },
+  {
+   "cn": "Alu序列",
+   "en": "Alu sequence",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.312",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "哺乳动物和人基因组中的一种中等重复序列。人基因组有50万~70万个拷贝，重复单元长约300bp。因该序列中有限制性内切核酸酶Alu的酶切位点而得名。"
+  },
+  {
+   "cn": "ABL家族",
+   "en": "ABL family",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.404",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "与恶性肿瘤的发生发展密切相关的非受体型酪氨酸激酶家族之一。包括Abl、Arg两个成员。Abl基因位于9q34，其编码产物有抑制细胞生长的作用。"
+  },
+  {
+   "cn": "天冬氨酰葡糖胺尿症",
+   "en": "aspartylglucosaminuria;AGU",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.1",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种常染色体隐性遗传的溶酶体贮积症。是7种已鉴定的糖蛋白积累性疾病之一。表现为精神运动性抑制、面部扭曲、肝脾大、腹壁疝、骨骼异常。"
+  },
+  {
+   "cn": "β-脂蛋白缺乏症",
+   "en": "abetalipoproteinemia;ABL",
+   "source": "医学遗传学名词",
+   "wordNumber": "5.165",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种常染色体隐性遗传病。表现为脊髓后索、脊髓小脑束、周围神经脱髓鞘变性。"
+  },
+  {
+   "cn": "ABC分类",
+   "en": "ABC classification",
+   "source": "经济学名词",
+   "wordNumber": "10.147",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "一种对存货进行分类管理的方式。将产品按ABC三类分开，对不同的类分别确定其相应的管理方式。"
+  },
+  {
+   "cn": "ABC模型",
+   "en": "ABC model",
+   "source": "植物学名词",
+   "wordNumber": "08.0392",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "花器官发育的基因调控模型。将调控花器官发育的关键基因根据其功能分为A、B、C三类，A类基因控制萼片(第一轮)的发育，A类和B类基因协作控制花瓣(第二轮)的发育，B类和C类基因协作控制雄蕊(第三轮)的发"
+  },
+  {
+   "cn": "禁忌搜索",
+   "en": "tabu search",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0296",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "对已搜索的局部最优解的一些对象进行标记，并在进一步的迭代搜索中尽量避开这些对象（而不是绝对禁止循环），从而保证对不同的有效搜索途径的探索。"
+  },
+  {
+   "cn": "ABC分类",
+   "en": "ABC classification",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0563",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "将库存物品按品种和占用资金的多少分为特别重要的库存(A类)、一般重要的库存(B类)和不重要的库存(C类)三个等级，然后针对不同等级分别进行管理与控制。"
+  },
+  {
+   "cn": "Alu家族",
+   "en": "Alu family",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.231",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "灵长类动物细胞中主要散在的重复DNA序列。长约300 bp，在基因组中重复百万次以上，含有限制性内切酶AluⅠ的识别位点，可被Alu内切酶切割。"
+  },
+  {
+   "cn": "ABC国家",
+   "en": "ABC Powers",
+   "source": "世界历史名词",
+   "wordNumber": "04.0603",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲",
+   "subjectName": "墨西哥、中美洲",
+   "publishYear": "2012",
+   "definition": "南美洲三个大国阿根廷、巴西和智利。"
+  },
+  {
+   "cn": "Alu家族",
+   "en": "Alu family",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.126",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "灵长类动物细胞的主要散在的重复DNA序列。长约300bp，在基因组中重复百万次以上，含有限制性内切酶AluⅠ的识别位点，可被Alu内切酶切割。"
+  },
+  {
+   "cn": "Alu序列",
+   "en": "Alu sequence",
+   "source": "遗传学名词",
+   "wordNumber": "08.018",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "人基因组约有50万~70万份拷贝，AluI序列长282个核苷酸，由两个同源但略有差别的亚基组成。"
+  },
+  {
+   "cn": "ABC法",
+   "en": "ABC method",
+   "source": "石油名词",
+   "wordNumber": "03.0814",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "异丙肌苷",
+   "en": "isoprinosine,ISO",
+   "source": "免疫学名词",
+   "wordNumber": "5.32",
+   "subjectFullName": "免疫学_应用免疫_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2007",
+   "definition": "人工合成的免疫调节剂。具有抗病毒及免疫调节活性，能增强机体免疫功能(主要是增强细胞免疫功能)。"
+  },
+  {
+   "cn": "Alu-Alu聚合酶链[式]反应",
+   "en": "Alu-Alu PCR",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "天文单位",
+   "en": "astronomical unit\",\"A.U.\",\"a.u.",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "ABC模型",
+   "en": "ABC model",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "ABC评估",
+   "en": "ABC assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "Alu序列",
+   "en": "Alu sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Alu家族",
+   "en": "Alu family",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Alu聚合酶链反应",
+   "en": "Alu-PCR",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Alu家族",
+   "en": "Alu family",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Alu元件",
+   "en": "Alu element",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脱落酸",
+   "en": "abscisic acid\",\"ABA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异丙肌苷",
+   "en": "isoprinosine， ISO",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同等位基因",
+   "en": "iso-allele",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "工业标准体系结构总线",
+   "en": "ISA bus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "ABO血型",
+   "en": "ABO blood group",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "Alu重复序列",
+   "en": "Alu repetitive sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "刺激间距",
+   "en": "interstimulus interval\",\"ISI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "星际闪烁",
+   "en": "interstellar scintillation\",\"ISS",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "星际链路",
+   "en": "intersatellite link\",\"ISL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抗体",
+   "en": "antibody\",\"Ab",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雄激素结合蛋白",
+   "en": "androgen binding protein\",\"ABP",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织大会",
+   "en": "ISO meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织相关标准",
+   "en": "ISO Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基于智能体的建模",
+   "en": "agent-based modeling (ABM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际垒球联合会",
+   "en": "International Softball Federation\",\"ISF",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization (ISO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众志成城",
+   "en": "Unity Is Strength.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物皆数",
+   "en": "All Is Number",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代码即法律",
+   "en": "Code Is Law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团结就是力量。（援助比利时，源自其民族格言）",
+   "en": "   Unity is strength.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以无为本",
+   "en": "Wu Is the Origin.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和为贵",
+   "en": "Harmony  Is Most Precious.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性恶",
+   "en": "Human Nature Is Evil.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性善",
+   "en": "Human Nature Is Good.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 2382-2015 信息技术 词汇》",
+   "en": "ISO/IEC 2382:2015 Information technology — Vocabulary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信以传信，疑以传疑",
+   "en": "Pass Down both What Is Credible and What Is Unverifiable",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专业（性）",
+   "en": "professional(ism)",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "从事一项活动体现出的系统知识和专精品质。在社会工作实践中指具有系统的理论、专业权威、社会认可、道德行为守则和专业文化。"
+  },
+  {
+   "cn": "《中观庄严颂》",
+   "en": "Dbu mavi rgyan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0368",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "著名佛教论典。公元8 世纪（印度）静命（又译寂护）著，由藏族著名佛经翻译家益希德翻译为藏文，全书共计100 颂。此书代表了静命的主要佛教思想，对中观无自性说提出了新的看法，从世俗谛和胜义谛方面提出了“"
+  },
+  {
+   "cn": "大气棕色云团",
+   "en": "atmospheric brown clouds, ABC",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.4.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "空气污染中的微粒飘浮在大气中与云交互作用后形成的混浊云团。"
+  },
+  {
+   "cn": "原位杂交",
+   "en": "in situ hybridization，ISH",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.32",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以标记的已知顺序的特定核酸为探针与细 胞或组织切片中核酸进行杂交，从而对特定 核酸顺序进行精确定量、定位的技术。"
+  },
+  {
+   "cn": "乙酸异丁酸蔗糖酯",
+   "en": "sucrose acetate iso-butyrate",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.11",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "蔗糖分子中8个羟基被乙酰基和异丁酰基取代而形成的酯类混合物，其中乙酸酯和异丁酸酯的比例约为2:6。通常为无色至淡黄色粘稠液体，可用作食品用香精乳化剂"
+  },
+  {
+   "cn": "《入中论》",
+   "en": "Dbu ma la vjug pa",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0358",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏译佛教经典名著，中观应成派根本典籍，是藏传佛教必修的五部大论之一，古印度学者月称（约600 年—650 年）著。全书按照《十地经》10 种发心为纲目，分十一地详细讲述入观的次第、慧度、决择二谛等。从"
+  },
+  {
+   "cn": "国际标准化组织",
+   "en": "International Organization for Standardization，ISO",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.7",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "国际标准组织的官方名称。成立于1947年，是全球最大的国际标准的制订和出版组织，其绝大多数成员均为各国指定的国家标准化机构。负责除电工、电子领域之外的所有其他领域的标准化活动，促进标准化及其相关活动的"
+  },
+  {
+   "cn": "男主外女主内",
+   "en": "husband is breadwinner and wife is homemaker",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "一种传统的家庭性别角色分工模式，丈夫主要承担处理家庭整体的外部事务、提供家庭经济来源的责任；妻子主要负责家庭内部事务的管理和照顾，承担家务劳动和相夫教子、照料老人的责任。"
+  },
+  {
+   "cn": "个人的即政治的",
+   "en": "Personal Is Political",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.6",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女权运动的一个著名口号，认为妇女个人的生活是与政治制度和社会结构紧密联结在一起的，个人经验或感受都可以追寻到社会根源。主张必须从社会—政治层面探讨妇女处于从属地位的原因，从社会层面到个人层面共同推"
+  },
+  {
+   "cn": "哲学就是认识论",
+   "en": "philosophy is epistemology",
+   "source": "马克思主义",
+   "wordNumber": "01.0249",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1964年8月24日就日本物理学家坂田昌一的文章的谈话中提出的哲学命题。这一概括是将哲学作为世界观和方法论的广义认识论来看待的，是对列宁关于哲学是“伟大的认识工具”的科学论断的继承和发挥。"
+  },
+  {
+   "cn": "免疫突触",
+   "en": "immunologic synapse， IS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.27",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "免疫细胞间形成的突起的胞膜结构，用于免疫细胞间的通讯和相互作用。如在T细胞和抗原提呈细胞相互作用中，该结构由黏附分子、细胞骨架蛋白和多个T细胞受体-抗原肽-MHC分子所组成。"
+  },
+  {
+   "cn": "雍布拉康",
+   "en": "Yum bu bla sgang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0564",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族古代建筑，藏语意为“母子神殿”，位于西藏自治区乃东县东南部雅龙河东岸。据传始建于公元前二世纪，是西藏历史上第一座古堡，唐代以后形成佛寺。该古堡占地不大，石头砌成雕楼耸立山顶，挺拔雄伟。古堡殿内原供"
+  },
+  {
+   "cn": "经济范畴人格化",
+   "en": "economic category is personified",
+   "source": "马克思主义",
+   "wordNumber": "02.0152",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "把一定经济关系中的人看做是一定的阶级关系和利益的承担者。也就是说，不是把人看作抽象的人，而是把人看作体现一定经济关系的经济范畴的化身。马克思指出，《资本论》中涉及到的人只是经济范畴的人格化，是一定的阶"
+  },
+  {
+   "cn": "贫穷不是社会主义",
+   "en": "poverty is not socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0577",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1987年4月26日，邓小平会见捷克斯洛伐克总理卢博米尔·什特劳加尔（LubomIr Strougal）。邓小平在会见时指出：搞社会主义，一定要使生产力发达，贫穷不是社会主义。我们坚持社会主义，要建设"
+  },
+  {
+   "cn": "布敦·仁钦珠",
+   "en": "Bu ston rin chen grub",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0385",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1290 年—1364 年）藏传佛教著名佛学大师，是藏文《大藏经•丹珠尔》的编订者，他原属绰浦噶举派，后创建藏传佛教夏鲁派，佛学和西藏历史著述颇多，其《布敦全集》包含200 余种著作。"
+  },
+  {
+   "cn": "自力更生为主争取外援为辅",
+   "en": "selfreliance is the core while seeking foreign aid is the complement",
+   "source": "马克思主义",
+   "wordNumber": "03.0499",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党领导革命和建设的一贯主张。既是新民主主义革命时期中国共产党领导革命斗争和开展根据地建设的战略和策略，也是社会主义经济建设以及外交工作的重要方针。"
+  },
+  {
+   "cn": "发展是硬道理",
+   "en": "Developing is an unyielding principle",
+   "source": "马克思主义",
+   "wordNumber": "03.0542",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1992年南方谈话中提出的重要论断。邓小平指出：“要注意经济稳定、协调地发展，但稳定和协调也是相对的，不是绝对的。发展才是硬道理。这个问题要搞清楚。如果分析不当，造成误解，就会变得谨小慎微，不敢"
+  },
+  {
+   "cn": "稳定压倒一切",
+   "en": "Stability is of overriding importance",
+   "source": "马克思主义",
+   "wordNumber": "04.0171",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平同志针对改革发展稳定关系而提出的在社会主义现代化和改革开放进程中必须千方百计保持社会稳定的重要论断。邓小平在1989年2月26日会见美国总统布什时说：“中国的问题，压倒一切的是需要稳定。没有稳定"
+  },
+  {
+   "cn": "限制反弹道导弹系统条约",
+   "en": "Treaty on the Limitation of Anti-Ballistic Missile System，ABM",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.3",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1972年5月由苏联和美国签署的一项双边条约。条约规定双方保证不研制、试验或部署以海洋、空中、空间为基地和机动的反弹道导弹系统。目前有32个裁军和核不扩散国际条约与这一条约挂钩。"
+  },
+  {
+   "cn": "抗甲状腺过氧化物酶自身抗体",
+   "en": "anti-thyroid peroxidase autoantibody, anti-TPO Ab",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.52",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。IgG型抗TPO抗体常见于桥本甲状腺炎，其水平与疾病活动期相关。靶抗原是含1个亚铁原卟啉辅基的膜相关糖蛋白。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

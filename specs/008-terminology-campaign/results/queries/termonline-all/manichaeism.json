@@ -1,0 +1,32 @@
+{
+ "key": "manichaeism",
+ "term": "Manichaeism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:01:34+00:00",
+ "status": "ok",
+ "note": "variant=Manichaeism; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "魔教",
+   "en": "Mo Jiao;Manichaeism",
+   "source": "中国古代史名词",
+   "wordNumber": "6.374",
+   "subjectFullName": "中国古代史_两宋_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "宋以来统治者对摩尼教的诬称。又称“明教”“吃菜事魔教”。其教徒供奉摩尼，食素戒酒，北宋已有较大社会影响，曾为方腊等起事所利用。"
+  },
+  {
+   "cn": "摩尼教",
+   "en": "Manichaeism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0631",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "源自古代波斯祆教的一种宗教。公元三世纪兴起于波斯，创始人摩尼在琐罗亚斯德教理论基础上，吸收多种宗教教义而成。3—15 世纪流行于亚、非、欧多地。6—7 世纪传入新疆，甘州、高昌、于阗等地均建有摩尼寺院"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

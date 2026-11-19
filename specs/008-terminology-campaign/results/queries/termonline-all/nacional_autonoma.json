@@ -1,0 +1,772 @@
+{
+ "key": "nacional autonoma",
+ "term": "Nacional Autónoma",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:54:43+00:00",
+ "status": "ok",
+ "note": "variant=Nacional Autónoma; 审定公布名词库=464; 海峡两岸名词对照库=112; 其他来源数据库=121; 预公布名词数据库=161; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "不受外界约束和情感支配，按照自己的善良意志和道德律令为人处世的道德原则。其特征是自己约束自己。在科技伦理中，自律是专业岗位上的科技工作者严格要求自己、遵守道德底线的基本准则。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.106",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "源自古希腊语（autos意为“自我”，nomos，意为“治理”）的古老概念。指自治的状态和情况或个人根据自己真实的理性、价值或欲望来指导自己生活的能力。"
+  },
+  {
+   "cn": "自主性",
+   "en": "autonomy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.229",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "理性个人做出知情而非强迫决定的能力。"
+  },
+  {
+   "cn": "自主能力",
+   "en": "autonomy",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0404",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "基于当前状态和感知信息，无人为干预地执行预期任务的能力。"
+  },
+  {
+   "cn": "自治力",
+   "en": "autonomy",
+   "source": "植物学名词",
+   "wordNumber": "13.0554",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统对于发生内部的各种现象的自我控制能力。"
+  },
+  {
+   "cn": "自主权",
+   "en": "autonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1066",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在不违背国家法律和法令的条件下，自己做主，不受外力支配和驱使的权利。"
+  },
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "教育学名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "主体的道德选择和道德行为受主体自身所认同和建构的道德认识、道德情感支配的状况。无需外部监督而能遵循法度，自加约束，为追求道德本身的目的而行动。"
+  },
+  {
+   "cn": "生育自主权",
+   "en": "reproductive autonomy",
+   "source": "生殖医学名词",
+   "wordNumber": "12.006",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "在不违背国家法律和法令的条件下，自己做主，不受外力支配和驱使的生育权利。"
+  },
+  {
+   "cn": "医疗自主权",
+   "en": "medical autonomy",
+   "source": "行为医学名词",
+   "wordNumber": "9.016",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生不受他人的指使和控制，出于维护患者健康和整个社会所赋予的医学目的的自主的诊疗权力。"
+  },
+  {
+   "cn": "村民自治",
+   "en": "village autonomy",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.305",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "村集体成员直接行使民主权利，在法律规定下就村庄集体事务实施自主管理的政治制度。"
+  },
+  {
+   "cn": "智能体自治性",
+   "en": "agent autonomy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0160",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的重要属性之一。表示智能体的自我控制、自主决策能力。"
+  },
+  {
+   "cn": "经营管理自主权",
+   "en": "management autonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1067",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "企业作为相对独立的商品生产者和经营者，所拥有的独立自主地进行生产经营活动的权力。"
+  },
+  {
+   "cn": "大学自治",
+   "en": "university autonomy",
+   "source": "教育学名词",
+   "wordNumber": "08.107",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "大学及其成员有权独立决定和管理大学内部各项事务而不受政府、教会及其他外界力量干预的制度。"
+  },
+  {
+   "cn": "学校自主权",
+   "en": "school autonomy",
+   "source": "教育学名词",
+   "wordNumber": "01.124",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "学校教育机构为实现办学宗旨而依法享有的自主决策、自主实施、自主承担责任的资格和能力。"
+  },
+  {
+   "cn": "浩罕自治",
+   "en": "Kokand Autonomy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0644",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_高加索、中亚",
+   "subjectName": "高加索、中亚",
+   "publishYear": "2012",
+   "definition": "1917年11月至1918年12月民族主义、泛突厥主义分子试图推翻苏维埃政权、重建浩罕汗国。被赤卫队平定。"
+  },
+  {
+   "cn": "卫星自主性",
+   "en": "satellite autonomy",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.069",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "国家书目",
+   "en": "national bibliography,national catalog",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.348",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "揭示报道一个国家一定时期内全部出版物的综合性统计登记书目。是一个国家各项书目工作及国际书目控制的基础，通常采用最详细的级次进行著录。一般由国家图书馆等特定机构依靠呈缴本制度进行，全面充分地反映各类出版"
+  },
+  {
+   "cn": "自主原则",
+   "en": "principle of autonomy",
+   "source": "妇产科学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "遗传咨询、产前筛查与产前诊断_遗传咨询",
+   "subjectName": "遗传咨询",
+   "publishYear": "2025",
+   "definition": "遗传咨询过程中，尊重咨询对象的意愿和决定，确保其任何决策均不受任何压力的胁迫和暗示的原则。"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.059",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "源自迈克尔·波拉尼（Michael Polanyi）《科学的自治》一书。他反对贝尔纳推崇的苏联科学事业的计划模式，指出政府和国家干预科学自主发展的危害。他用科学共同体的概念表达科学家主体意识，认为科学"
+  },
+  {
+   "cn": "教师专业自主权",
+   "en": "teacher professional autonomy",
+   "source": "教育学名词",
+   "wordNumber": "09.177",
+   "subjectFullName": "教育学_教师教育_教师管理",
+   "subjectName": "教师管理",
+   "publishYear": "2013",
+   "definition": "在专业规范下，教师或教师团体所拥有的依据专业职能，对专业任务或工作所享有的自由进行专业判断、不受非专业成员干预的权利。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能自主",
+   "en": "functional autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关税自主[权]",
+   "en": "tariff autonomy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场地自治",
+   "en": "site autonomy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "本国货币",
+   "en": "national currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国定税则",
+   "en": "national tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民待遇",
+   "en": "national treatment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民会计",
+   "en": "national accounting",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民账户",
+   "en": "national account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①[美]联邦特许[注册]银行 ②国家银行 ③国民银行",
+   "en": "national bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国家地图集",
+   "en": "national atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家公园",
+   "en": "national park",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家社会主义",
+   "en": "national-socialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "国家学派",
+   "en": "national schools",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[英国]国家格网",
+   "en": "National Grid",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "国家地图集",
+   "en": "national atlas",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "国家询问",
+   "en": "national enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "国内协调人",
+   "en": "national coordinator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据自治权",
+   "en": "data autonomy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家标准",
+   "en": "National Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全",
+   "en": "National Cybersecurity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国徽",
+   "en": "national emblem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家代表队",
+   "en": "national selection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家单项协会",
+   "en": "national federation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国歌",
+   "en": "national anthem",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家名的字母缩写",
+   "en": "national letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国民生产总值",
+   "en": "Gross National Product",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家网络安全协调员",
+   "en": "national cybersecurity coordinator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家超级计算中心",
+   "en": "National Supercomputing Center",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家数据主权",
+   "en": "national data sovereignty",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家信息安全漏洞库",
+   "en": "National Vulnerability Database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家奥林匹克委员会",
+   "en": "National Olympic Committee\",\"NOC",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家自主创新示范区",
+   "en": "national innovation demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国家数字货币“Estcoin”计划（爱沙尼亚）",
+   "en": "National Cryptocurrency Estcoin (Estonia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民族自治",
+   "en": "national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0090",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称“民族区域自治”。多民族的社会主义国家内的少数民族在最高国家机关的统一领导下，以其聚居区为基础建立相应的自治地区，自主管理本民族本地方的事务。这是马克思列宁主义解决多民族国家内民族问题的一项基本政"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "national cultural autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0091",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初奥地利社会民主党人提出的民族主义理论。认为民族与地域无关，主张用公民自由登记的办法，把散居各地的一些民族成分组成一个法定的民族，在文化事务方面实行自治。列宁斥之为“最精致、最彻底、最有害的民"
+  },
+  {
+   "cn": "民族区域自治法",
+   "en": "law of regional national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0574",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法规定，各少数民族聚居的地方实行区域自治，建立自治机关，行使自治权。《中华人民共和国民族区域自治法》是实施民族区域自治制度的基本法律。1984年5月31日由第六届全国人民代表大会第二次会议通过，20"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.009",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人根据自己的价值观或意愿独立做出的决定。患者自主，指患者对有关自己的健康问题，经过深思熟虑所作出的决定并据以采取的行动。"
+  },
+  {
+   "cn": "公民自治",
+   "en": "civil autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以地方自治为政治基础建设公民社会的主张。来自康有为在其“公民自治篇”中系统阐述的关于中国国家制度建设的主张。其特点是试图把中国古代的乡治传统转化为地方自治的基础，通过本地公民选举议员来共同商议地方重要"
+  },
+  {
+   "cn": "农村自治",
+   "en": "rural autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以中国历史上的乡约制度为基础，自下而上地建立起一个属于全体村民、用于全体村民的社会共同体。共同体内秉承德业相劝、过失相规、礼俗相交、患难相恤的原则。 这是杨开道提出的农村建设运动纲领中的核心思想。"
+  },
+  {
+   "cn": "地方自治",
+   "en": "local autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0051",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "早期资本主义市民阶层以城市特许状为主要形式的城市自治制度体系。在西欧中世纪，随着城乡分离，以商人为主导的市民阶层逐渐崛起，为了维护自身的利益而要求从封建贵族手中取得城市的自治权利。国王为了制约贵族的权"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.8",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家奉行的一种观点，即认为科学是一项独特的事业，来自外界的规定会损害科学共同体，只有允许科学家按照自己的标准和判断行事，才能获得正确的知识并进而得到有效的实际应用。"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "ethnic cultural autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0016",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "19 世纪末到20 世纪初一些奥地利社会民主党人提出的一种民族主义理论。认为民族是由一群现代人组成的和地域无关的文化共同体，消除民族问题的路径是把少数民族组成一个共同的包括各阶级的民族联盟，在文化方面"
+  },
+  {
+   "cn": "国民性",
+   "en": "national character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0558",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一个国家或人群在与自然、社会、历史的多重关系中形成的一系列习惯、态度、情感，奠定其稳定的人格特征和文化品质，使之与其他社会相区别。各个民族都具有区别于其他民族的一些人格特征。"
+  },
+  {
+   "cn": "国家标准",
+   "en": "national standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "由国家标准机构通过并公开发布的标准。此类标准的标准代号，强制性使用GB，推荐性使用GB/T。"
+  },
+  {
+   "cn": "国民财富",
+   "en": "national wealth",
+   "source": "马克思主义",
+   "wordNumber": "02.0026",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在一定时点上，一国全社会所有成员所拥有的全部物质资料的总和。包括国民财产、自然资源、一国外汇储备和对外债权等。它是一个国家或地区经济繁荣程度的重要标志之一，反映了居民的经济实力和福利水平。"
+  },
+  {
+   "cn": "国债",
+   "en": "national debt",
+   "source": "马克思主义",
+   "wordNumber": "02.0251",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "中央政府发行的债务。国家以其信用为基础，按照债的一般原则，通过向社会筹集资金所形成的债权债务关系。"
+  },
+  {
+   "cn": "国家工厂",
+   "en": "national workshop",
+   "source": "马克思主义",
+   "wordNumber": "03.0078",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年二月革命结束后，法国临时政府将因危机和革命失业的工人编进了所谓国家工场，其目的是分裂工人阶级和反对革命。巴黎六月起义失败后，国家工厂解散。"
+  },
+  {
+   "cn": "国民议会",
+   "en": "national assembly",
+   "source": "马克思主义",
+   "wordNumber": "03.0085",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由全体国民选举产生拥有立法权的国家权力机关，是西方民主政治制度的一种形式。"
+  },
+  {
+   "cn": "民族解放",
+   "en": "national liberation",
+   "source": "马克思主义",
+   "wordNumber": "03.0117",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界各被压迫民族反对帝国主义、殖民主义和种族主义，争取民族独立、民族自决和民族平等的革命运动。它主要指亚洲、非洲和拉丁美洲等帝国主义殖民地和半殖民地民族反抗帝国主义的统治和压迫，争取国家独立的资产阶级"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "民族运动",
+   "en": "national movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0119",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "被压迫民族反抗民族压迫与奴役，争取民族平等的社会政治斗争。民族运动是民族压迫的必然产物，贯穿于阶级社会的过程。现代民族运动始于17、18世纪西欧资本主义上升时期，与资产阶级民族的形成和民族国家的建立相"
+  },
+  {
+   "cn": "民族自觉",
+   "en": "national consciousness",
+   "source": "马克思主义",
+   "wordNumber": "03.0121",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "民族自觉是指一个民族对本民族的民族特性、生存状态及生存意义的认识、反思和觉悟。它既包括对本民族的主观的自觉意识，也包括由主观自觉意识所支配的维护民族利益、推动民族发展的各种活动。民族意识有一个由自发转"
+  },
+  {
+   "cn": "民族精神",
+   "en": "national spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0636",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个民族在延续发展过程中所逐渐形成的，为本民族大多数成员所认同的，带有广泛性和普遍性的精神追求。一般说来，它是指民族性格中的优点部分，或民族道德与民族文化中的精华部分，是一个民族赖以生存和发展的精神支"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

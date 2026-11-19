@@ -1,0 +1,292 @@
+{
+ "key": "forderung",
+ "term": "Forderung",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T05:03:12+00:00",
+ "status": "ok",
+ "note": "variant=Forderung; 审定公布名词库=41; 海峡两岸名词对照库=8; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "地质学名词",
+   "wordNumber": "02.00.204",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶格由无序结构向有序结构转变的过程。在低于一定的临界温度或压力（金属学中称居里点）下发生。经历部分有序阶段，逐渐增大长程有序度，最终转变为完全有序结构。"
+  },
+  {
+   "cn": "订货",
+   "en": "ordering",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.085",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "买方向卖方订购出版物。"
+  },
+  {
+   "cn": "排序",
+   "en": "ordering",
+   "source": "动物学名词",
+   "wordNumber": "2.0189",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "决定一个性状三个以上状态极性的过程。"
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "冶金学名词",
+   "wordNumber": "07.0283",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "促使固溶体中组元原子分别占据各自位置的进程。"
+  },
+  {
+   "cn": "订购",
+   "en": "ordering",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.363",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "藏书补充的最经常、最可靠的基本方法。图书馆对出版发行机构发来的出版物征订目录或自行搜集到的出版预告进行选择，按照自身的收藏计划填写订单并送交出版发行机构，文献出版后，出版发行机构根据图书馆订购的品种和"
+  },
+  {
+   "cn": "排序",
+   "en": "ordering",
+   "source": "植物学名词",
+   "wordNumber": "02.0247",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "决定一个性状三个或更多个状态极性的过程。"
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "物理学名词",
+   "wordNumber": "01.0516",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "材料科学技术名词",
+   "wordNumber": "06.0039",
+   "subjectFullName": "材料科学技术_半导体材料_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "多元合金或多元半导体固溶体中发生晶格格点上某元素原子从无序随机分布转变为有序分布的过程。"
+  },
+  {
+   "cn": "排序",
+   "en": "sequencing,ordering",
+   "source": "物理学名词",
+   "wordNumber": "01.0514",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "序",
+   "en": "order,ordering",
+   "source": "数学名词",
+   "wordNumber": "03.0214",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "订货审核",
+   "en": "ordering verification",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.089",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行组织系统内部管理层按照业务操作规程对订货情况进行审查核实。"
+  },
+  {
+   "cn": "添订",
+   "en": "added ordering",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.092",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "买方对已经购进的出版物再次订货。"
+  },
+  {
+   "cn": "序关系",
+   "en": "ordering relation",
+   "source": "测绘学名词",
+   "wordNumber": "05.012",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "描述空间对象间纵向压盖或横向顺序的关系。"
+  },
+  {
+   "cn": "反正规排序",
+   "en": "antinormal ordering",
+   "source": "物理学名词",
+   "wordNumber": "06.0710",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": "算符的。"
+  },
+  {
+   "cn": "正规编序",
+   "en": "normal ordering",
+   "source": "物理学名词",
+   "wordNumber": "06.0709",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": "算符的。"
+  },
+  {
+   "cn": "有序畴",
+   "en": "ordering domain",
+   "source": "冶金学名词",
+   "wordNumber": "07.0281",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "固溶体中组元原子分别占据各自位置的局部小区域。"
+  },
+  {
+   "cn": "电荷有序",
+   "en": "charge ordering",
+   "source": "物理学名词",
+   "wordNumber": "08.3202",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正规编序",
+   "en": "normal ordering",
+   "source": "物理学名词",
+   "wordNumber": "06.0709",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": "算符的。"
+  },
+  {
+   "cn": "编序算符",
+   "en": "ordering operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0708",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偏序",
+   "en": "partial ordering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0193",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定一个集合 P ，确定一个关系 x<img src='/root/syzx/static/spz/jsjkx3.02.0156.001.png'/>y ，满足下面三个条件: ①自反性；②反对称性；③"
+  },
+  {
+   "cn": "排序",
+   "en": "ordering",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有序化",
+   "en": "ordering",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "precedence ordering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "有序能",
+   "en": "ordering energy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "地理有序性",
+   "en": "geographical ordering",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "排序策略",
+   "en": "ordering strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似真性排序",
+   "en": "plausibility ordering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合金的填隙有序",
+   "en": "interstitial ordering in alloy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

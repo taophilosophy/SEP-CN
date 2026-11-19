@@ -1,0 +1,22 @@
+{
+ "key": "dranseika berniunas",
+ "term": "Dranseika Berniūnas",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:53:35+00:00",
+ "status": "ok",
+ "note": "variant=Dranseika Berniūnas; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "NAS并行基准程序",
+   "en": "NAS parallel benchmark,NPB",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0215",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "1991年由美国宇航局在其数值航空动力学模拟（Numerical Aerodynamic Simulation，NAS）项目支持下开发的并行测试程序。其目的是为了比较各种并行计算机机系统的性能，测试范"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

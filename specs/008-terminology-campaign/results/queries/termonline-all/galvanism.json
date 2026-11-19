@@ -1,0 +1,372 @@
+{
+ "key": "galvanism",
+ "term": "galvanism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T04:58:57+00:00",
+ "status": "ok",
+ "note": "variant=galvanism; 审定公布名词库=43; 海峡两岸名词对照库=16; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "直流电疗法",
+   "en": "galvanism,galvanization",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0009",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "直流电疗法",
+   "en": "galvanism",
+   "source": "显微外科学名词",
+   "wordNumber": "05.260",
+   "subjectFullName": "显微外科学_周围神经_周围神经损伤治疗_周围神经损伤常用治疗方法",
+   "subjectName": "周围神经损伤常用治疗方法",
+   "publishYear": "2016",
+   "definition": "应用直流电原理作用于人体达到治疗目的的方法。"
+  },
+  {
+   "cn": "直流电疗法",
+   "en": "galvanism",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "08.046",
+   "subjectFullName": "医学美学与美容医学_美容医疗应用技术",
+   "subjectName": "美容医疗应用技术",
+   "publishYear": "2015",
+   "definition": "使用低电压的平稳直流电通过人体的一定部位以治疗疾病和增进健美的方法。"
+  },
+  {
+   "cn": "流电病变",
+   "en": "galvanism,galvanic lesion",
+   "source": "医学名词 第二分册",
+   "wordNumber": "04.146",
+   "subjectFullName": "医学_口腔医学_口腔病理学",
+   "subjectName": "口腔病理学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0061",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "由于电偶电池的作用而引起或加速阳极金属的腐蚀。如双金属腐蚀。"
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0515",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "由腐蚀电池的作用而产生的腐蚀。"
+  },
+  {
+   "cn": "电偶序",
+   "en": "galvanic series",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0523",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "在某给定环境中，以实测的金属和合金的自然腐蚀电位高低依次排列的顺序。"
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "冶金学名词",
+   "wordNumber": "08.0067",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "处于同一电解质中的异种金属，由于腐蚀电位不相等而产生电偶电流，使得电位较负的金属被加速腐蚀的现象。"
+  },
+  {
+   "cn": "原电池",
+   "en": "galvanic cell",
+   "source": "冶金学名词",
+   "wordNumber": "04.0483",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "由于两个电极的电负性不同，产生电势差，两极上自发地发生化学反应，并使电子流动，产生电流的装置。"
+  },
+  {
+   "cn": "伽伐尼腐蚀",
+   "en": "Galvanic corrosion",
+   "source": "化学名词",
+   "wordNumber": "04.0584",
+   "subjectFullName": "化学_物理化学_电化学",
+   "subjectName": "电化学",
+   "publishYear": "2016",
+   "definition": "由于腐蚀电池的作用而产生的腐蚀。"
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0770",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料环境行为",
+   "subjectName": "材料环境行为",
+   "publishYear": "2011",
+   "definition": "处于同一电解质中的异种金属由于腐蚀电位不相等而产生电偶电流使得电位较负的金属被加速腐蚀的现象。"
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.154",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "原电池",
+   "en": "galvanic cell",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "05.052",
+   "subjectFullName": "机械工程_仪器仪表_分析仪器_电化学式分析仪器_电化学式分析仪器仪器和附件",
+   "subjectName": "电化学式分析仪器仪器和附件",
+   "publishYear": "2003",
+   "definition": "将化学能直接转变成电能的装置。"
+  },
+  {
+   "cn": "电偶序",
+   "en": "galvanic series",
+   "source": "船舶工程名词",
+   "wordNumber": "11.016",
+   "subjectFullName": "船舶工程_船舶腐蚀与防护",
+   "subjectName": "船舶腐蚀与防护",
+   "publishYear": "1998",
+   "definition": "在给定环境中，以实测金属的自然腐蚀电位高低排列的顺序。"
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "船舶工程名词",
+   "wordNumber": "11.015",
+   "subjectFullName": "船舶工程_船舶腐蚀与防护",
+   "subjectName": "船舶腐蚀与防护",
+   "publishYear": "1998",
+   "definition": "由于一种金属与另一种金属或电子导体构成的腐蚀电池的作用而造成的腐蚀。"
+  },
+  {
+   "cn": "原电池腐蚀",
+   "en": "galvanic corrosion",
+   "source": "电气工程名词",
+   "wordNumber": "27.124",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "原电池",
+   "en": "galvanic cell",
+   "source": "电子学名词",
+   "wordNumber": "09.078",
+   "subjectFullName": "电子学_电源",
+   "subjectName": "电源",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "流电刺激",
+   "en": "galvanic shock",
+   "source": "医学名词 第二分册",
+   "wordNumber": "07.089",
+   "subjectFullName": "医学_口腔医学_牙体手术、牙髓病学、牙周病学",
+   "subjectName": "牙体手术、牙髓病学、牙周病学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "流电试验",
+   "en": "galvanic test",
+   "source": "医学名词 第一分册",
+   "wordNumber": "02.190",
+   "subjectFullName": "医学_耳鼻喉科学",
+   "subjectName": "耳鼻喉科学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌板",
+   "en": "galvanized sheet",
+   "source": "冶金学名词",
+   "wordNumber": "09.0467",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "表面镀以锌层的钢板。原料主要为低碳钢及超低碳钢。"
+  },
+  {
+   "cn": "热镀锌",
+   "en": "galvanizing\",\"galvanization",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电镀",
+   "en": "galvanization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌",
+   "en": "galvanization",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原电池",
+   "en": "galvanic cell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电流作用",
+   "en": "galvanic action",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌保护",
+   "en": "galvanic protection",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "原电池",
+   "en": "galvanic cell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电[化腐]蚀",
+   "en": "galvanic corrosion",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电偶腐蚀",
+   "en": "galvanic corrosion",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌",
+   "en": "galvanization\",\"zinc plating",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热镀锌",
+   "en": "hot-dip galvanizing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "镀锌钢板",
+   "en": "zinc-plated steel sheet\",\"galvanized steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "牺牲阳极阴极保护",
+   "en": "sacrificial anode cathodic protection\",\"galvanic anode protection",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤电反应",
+   "en": "galvanic skin response\",\"GSR\",\"skin conductance response\",\"SCR\",\"electrodermal response\",\"EDR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
