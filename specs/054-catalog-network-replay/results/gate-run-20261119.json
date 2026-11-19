@@ -1,0 +1,56 @@
+{
+ "ok": true,
+ "gates": [
+  {
+   "gate": "G1",
+   "ok": true,
+   "checks": [
+    {
+     "equal": true,
+     "sha_rebuilt": "205a4fec4d2b99c642696f8e36075bac46e2842559128ea8d801ef67aeb9f495",
+     "sha_snapshot": "205a4fec4d2b99c642696f8e36075bac46e2842559128ea8d801ef67aeb9f495",
+     "snapshot": "20261114T231750Z-contents.html",
+     "residual_used": 194,
+     "tag": "latest",
+     "ok": true
+    },
+    {
+     "equal": true,
+     "sha_rebuilt": "9a230fc0802d3c33febe295ea4d4432becccf6176693b7e353fbb9f826701631",
+     "sha_snapshot": "9a230fc0802d3c33febe295ea4d4432becccf6176693b7e353fbb9f826701631",
+     "snapshot": "20261027T171130Z-contents.html",
+     "residual_used": 194,
+     "tag": "20261027",
+     "ok": true
+    }
+   ]
+  },
+  {
+   "gate": "G2",
+   "ok": true,
+   "detail": "词条 1872；分组行 821；跳过 13\nenglish summary: 最新（yuanwen\\SUMMARY-en.md）"
+  },
+  {
+   "gate": "G3",
+   "ok": true
+  },
+  {
+   "gate": "G4",
+   "ok": true,
+   "upstream": 1872,
+   "unmapped": [],
+   "unmapped_count": 0,
+   "extra": [],
+   "extra_count": 0,
+   "suspended": [
+    "continental-rationalism",
+    "pineal-gland",
+    "qm-action-distance",
+    "scientific-explanation",
+    "time-experience",
+    "wisdom",
+    "wyclif-political"
+   ]
+  }
+ ]
+}

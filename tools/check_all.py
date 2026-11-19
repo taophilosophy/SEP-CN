@@ -54,6 +54,7 @@ GATES = [
     ("转换保真（yuanwen≡基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
     ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),
     ("账实一致性（清账/过程记录，严格档）", "ledger", "tools/check_taskfile_invariant.py --strict"),
+    ("目录四方重放网络", "catalog-net", "tools/check_catalog_network.py --gate"),
 ]
 UNIT_TESTS = ("管线单元测试", "unittest", "-m unittest discover -s tools/tests")
 OPTIONAL = [

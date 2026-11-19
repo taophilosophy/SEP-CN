@@ -48,7 +48,7 @@
 
 ## 4. 门禁登记（rules/05 判定权表）
 
-新增 gate key：`catalog_net`（判官只读；只增不改既有 16 项）；`gen_en_summary --check` 并入 G2 不单独立 key。门禁登记行同步 `rules/05-ci-and-tools.md` 门禁清单。
+新增 gate key：`catalog-net`（判官只读；只增不改既有 16 项）；`gen_en_summary --check` 并入 G2 不单独立 key。门禁登记行同步 `rules/05-ci-and-tools.md` 门禁清单。
 
 ## 5. 理论落位
 
@@ -62,7 +62,7 @@
 - **A2 装配全等**：rebuild_catalog --check 对最新钉存快照（20261114T231750Z）sha256 全等。
 - **A3 跨时点装配**：对旧快照（20261027T171130Z）以同时点账装配亦 sha256 全等（账由同一 `--offline` 从该快照重建）——变动跟随的实证闭环（账差＝上游变动，装配件各自与其快照全等）。
 - **A4 池纪律**：残差池 ≤200 条且逐条过准入谓词；池冻结（建池后只读，改动须登记）。
-- **A5 门禁**：check_all 含 `catalog_net` 后 17 项全绿；单测 `tools/tests` 全绿。
+- **A5 门禁**：check_all 含 `catalog-net` 后 17 项全绿；单测 `tools/tests` 全绿。
 - **A6 mu-lu 账**：mulu-map.json 覆盖 mu-lu-s.md 全部目录行，重放字节全等；G3 绿。
 - **A7 凭证**：装配 sha 对比记录入 `results/`；execution-log 留干执行记录。
 
