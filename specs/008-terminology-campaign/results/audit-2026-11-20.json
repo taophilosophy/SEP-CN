@@ -7,9 +7,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "一致": 1984,
+  "一致": 2000,
   "不一致": 948,
-  "查无": 8838
+  "查无": 8822
  },
  "results": [
   {
@@ -33935,10 +33935,18 @@
    "term": "a priori knowledge",
    "trans": "先天知识",
    "basis": "学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "先天知识",
+     "en": "a priori knowledge",
+     "source": "《社会科学研究》1999 年《人类知识或学问的概要系统——兼论“先天知识或学问”如何可能》；《今日财富》2010 年《卡尔纳普〈康德的综合先天知识〉解析》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34199,10 +34207,18 @@
    "term": "Abhidhamma",
    "trans": "阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”）",
    "basis": "佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "阿毗达磨",
+     "en": "Abhidhamma",
+     "source": "《民族语文》1994 年《北京图书馆藏回鹘文〈阿毗达磨俱舍论〉残卷研究》；《华夏文化》2015 年《略述〈阿毗达磨俱舍论〉的成书及结构》"
+    }
+   ],
    "providers": [
-    "termonline-standard"
+    "termonline-standard",
+    "web-authority"
    ]
   },
   {
@@ -34223,10 +34239,18 @@
    "term": "Abhidharmakośa",
    "trans": "《阿毗达磨俱舍论》",
    "basis": "汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 11503（p. 63,2），csl-devanagari（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "阿毗达磨俱舍论",
+     "en": "Abhidharmakośa",
+     "source": "《外语教学与研究》2006 年《玄奘译经的语言学考察——以〈阿毗达磨俱舍论〉梵汉对勘为例》；《民族语文》1994 年回鹘文残卷研究"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34307,10 +34331,18 @@
    "term": "abhūtaparikalpa",
    "trans": "虚妄分别",
    "basis": "汉传唯识学千年通行译名；原文列待考；凭证 2026-11-11",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "虚妄分别",
+     "en": "abhūtaparikalpa",
+     "source": "《佛学研究》1999 年《略论唯识古、今学的分野──以虚妄分别为中心》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34319,10 +34351,18 @@
    "term": "abilities",
    "trans": "能力",
    "basis": "学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/abilities））；凭证 2026-11-04",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "能力",
+     "en": "abilities",
+     "source": "《外语与外语教学》2002 年《语用能力·语言能力·交际能力》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34654,10 +34694,18 @@
    "term": "Abstract Right",
    "trans": "抽象法",
    "basis": "黑格尔《法哲学原理》通行汉译（das abstrakte Recht）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "抽象法",
+     "en": "Abstract Right",
+     "source": "《中南大学学报（社会科学版）》2011 年《黑格尔〈法哲学原理〉之“抽象法”解读》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -34690,10 +34738,18 @@
    "term": "abstraction theory",
    "trans": "抽象理论",
    "basis": "学界惯例（逻辑与数学基础通行）；凭证 2026-11-07",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "抽象理论",
+     "en": "abstraction theory",
+     "source": "《井冈山大学学报（社会科学版）》2012 年《观念抽象与“这里的这个”——反思阿多诺对胡塞尔的抽象理论的批判》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -35406,10 +35462,18 @@
    "term": "acknowledgement (Anerkennung)",
    "trans": "承认",
    "basis": "布伦塔诺术语通行译法（与拒绝 Verwerfung 对举）；凭证 2026-11-09",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "承认",
+     "en": "acknowledgement (Anerkennung)",
+     "source": "《人文杂志》2008 年《从“认同”到“承认”》（承认理论语境）"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36366,10 +36430,18 @@
    "term": "advance directives",
    "trans": "预先指示",
    "basis": "学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/advance-directives））；凭证 2026-11-04",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "预先指示",
+     "en": "advance directives",
+     "source": "DOAJ 收录 2019 年《医学生对预先指示的认知及影响因素研究》（生命伦理学语境）"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36463,10 +36535,18 @@
    "term": "aesthetic attitude",
    "trans": "审美态度",
    "basis": "学界惯例（康德/美学通行）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美态度",
+     "en": "aesthetic attitude",
+     "source": "《中国人民大学学报》1991 年《“游”与“游戏”——论中西审美态度的内在差异》；《小说评论》1986 年《纪实：一种新的审美态度——新时期小说漫论之九》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36475,10 +36555,18 @@
    "term": "aesthetic consciousness",
    "trans": "审美意识",
    "basis": "学界惯例（美学/康德译本通行）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美意识",
+     "en": "aesthetic consciousness",
+     "source": "《学术研究》1986 年《论“多向型”审美意识》；《周易研究》1991 年《论〈周易〉的审美意识》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36487,10 +36575,18 @@
    "term": "aesthetic emotion",
    "trans": "审美情感",
    "basis": "美学通行",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美情感",
+     "en": "aesthetic emotion",
+     "source": "《文艺理论研究》2010 年《审美情感·自然情感·道德情感》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36518,10 +36614,18 @@
    "term": "aesthetic idea",
    "trans": "审美理念",
    "basis": "康德《判断力批判》§49 通行汉译；凭证 2026-11-09",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美理念",
+     "en": "aesthetic idea",
+     "source": "《学术月刊》2008 年《论“Asthetiche Idee”（审美理念）的浪漫特质》；《求索》2007 年《论先秦儒家审美理念的发展与演化》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36648,10 +36752,18 @@
    "term": "aesthetic state of mind",
    "trans": "审美心境",
    "basis": "本词条定案（Zustand=状态；席勒审美状态语境）",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美心境",
+     "en": "aesthetic state of mind",
+     "source": "《广东社会科学》1997 年《营建一种自然的审美心境——试论刘勰〈文心雕龙·养气〉篇旨及其“气论”的美学史地位》；《名作欣赏》2015 年《试析〈幽梦影〉中的士人审美心境》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -36684,10 +36796,18 @@
    "term": "aestheticism",
    "trans": "审美主义",
    "basis": "学界通行汉译；凭证 2026-11-07",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "审美主义",
+     "en": "aestheticism",
+     "source": "《温州大学学报（社会科学版）》《中国现代审美主义思想研究的新拓展——评叶世祥〈20世纪中国审美主义思想研究〉》；《当代外国文学》2014 年《当代批评文集〈新审美主义〉评述》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
@@ -39487,10 +39607,18 @@
    "term": "ancien régime",
    "trans": "旧制度（法文原词保留斜体）",
    "basis": "学界通行译法（法国史研究通行，托克维尔译本既名）；凭证 2026-11-07",
-   "status": "查无",
-   "hits": [],
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "web-authority",
+     "cn": "旧制度（法文原词保留斜体）",
+     "en": "ancien régime",
+     "source": "《中国高校社会科学》2013 年《〈旧制度与大革命〉探析（下）》（托克维尔语境）；《环球财经》2014 年《解读〈旧制度与大革命〉》"
+    }
+   ],
    "providers": [
-    "termonline-all"
+    "termonline-all",
+    "web-authority"
    ]
   },
   {
