@@ -677,7 +677,7 @@ The second form of (doctrinal or theoretical) ‘realism’, which is commonly f
 
 [^walicki-2005]: Walicki, Andrzej (ed.), 2005, *Russia, Poland and Marxism: Isaiah Berlin to Andrzej Walicki 1962–1996* [*Dialogue and Universalism* 15 no. 9–10]; includes ‘Isaiah Berlin as I Knew Him’ (5–50), and transcripts of IB’s letters with explanatory footnotes (53–173); reprinted as *Encounters with Isaiah Berlin: Story of an Intellectual Friendship*, Frankfurt am Main: Peter Lang, 2011.
 
-[^acton-1895]: Acton, Lord [John Emerich Edward Dalberg-Acton], 1895, ‘A Lecture on the Study of History Delivered at Cambridge, June 11, 1895’ (London and New York: Macmillan).
+[^acton-1895]: Acton, Lord [John Emerich Edward Dalberg-Acton], 1895, *A Lecture on the Study of History Delivered at Cambridge, June 11, 1895*, London and New York: Macmillan.
 
 [^alfaro-2021]: Alfaro Altamirano, Adriana, 2021, *The Belief in Intuition: Individuality and Authority in Henri Bergson and Max Scheler*, Philadelphia: University of Pennsylvania Press.
 

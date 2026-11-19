@@ -1,1 +1,1 @@
-# 特殊义务 Special Obligations (Diane Jeske)
+# 特殊义务 Special Obligations (Diane Jeske、Jörg Löschke)

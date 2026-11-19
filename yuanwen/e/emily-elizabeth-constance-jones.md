@@ -338,7 +338,7 @@ On historiographical matters, Connell and Janssen-Lauret (2022) discuss the excl
 
 ## Related Entries
 
-Algebra of Logic Tradition | [Feminist History of Philosophy](https://plato.stanford.edu/entries/feminist-history-of-philosophy) | Frege, Gottlob | Jevons, William Stanley | Langer, Susanne | Moore, George Edward | Port Royal Logic | Psychologism | Russell, Bertrand | Russell, Bertrand: Moral Philosophy | Sidgwick, Henry | Stebbing, Susan
+[Feminist History of Philosophy](https://plato.stanford.edu/entries/feminist-history-of-philosophy) | algebra of logic tradition | Frege, Gottlob | Jevons, William Stanley | Langer | Moore | Port Royal Logic | Psychologism | Russell, Bertrand | Russell, Bertrand: moral philosophy | Sidgwick, Henry | Stebbing, Susan
 
 ### Acknowledgements
 

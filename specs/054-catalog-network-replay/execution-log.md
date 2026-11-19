@@ -103,3 +103,22 @@ cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.ht
 ### 观察项（未处置，留待接续）
 - 上游新增/改名/裁撤（inquiry、privacy-health、privacy-medicine、history）属 intake 落地，按“正文更新由其他步骤做”不在此轮处理；CI 首次运行会以 issue 形式挂出。
 - `check_catalog_network` G1 取 `en/_catalog` 最新快照与 baseline 比时点；每轮正式 `fetch_catalog` 落地后需重跑 `--reparse`＋`--build`（CI 巡检抓的快照在 runner 上用完即弃，不入库）。
+
+## 2026-11-19 第五轮：issue #47 结案（目录与条目落地，用户指示）
+
+### 目录（catalog 层）
+`fetch_catalog` 落快照 `20261119T041214Z`（1873 条）；`summary_sync report` → ADD 2／REMOVE 1：
+- `privacy-medicine → privacy-health` 走 `apply-rename`（文件改名、全库链接改写；侧写误改 `specs/016` 历史预览件已还原），SUMMARY/mu-lu-s 标题改「健康照护与研究中的隐私 Privacy in Health Care and Research (Leslie Francis)」；
+- `inquiry` 走 `apply-add --title-zh 探究`（H1 桩＋字母节插入＋baseline zh_doc＋yuanwen 转换）；
+- `history` 改名（历史与史学史哲学 Philosophy of History and Historiography）＋作者换（Kuukkanen）；`argument`／`gadamer`／`hedonism`／`special-obligations` 作者增补，SUMMARY＋mu-lu-s 双向同步，`check_summary --sync-headers` 同步 6 处 H1；
+- 复跑 `report`：add 0／remove 0／mapped 1873（与上游对齐）。
+
+### 条目（en/ 与 yuanwen/）
+按 89 条变更队列批量 `fetch_entry`（5 批、0 失败），实变 11 件：argument／berlin／emily-elizabeth-constance-jones／gadamer／hedonism／history／horkheimer／incompatibilism-theories／special-obligations＋新件 inquiry／privacy-health；`yuanwen.py` 重转对应镜像。旧 slug 包 `en/privacy-medicine/`、`yuanwen/p/privacy-medicine.md` 清除（上游换发，git 历史保留）。
+
+### 任务（状态机）
+- `gadamer`、`incompatibilism-theories`（原 s2.4_termchecked，译文均为 H1 桩）按 **ADR-0051 R3** `reopen --upstream-sync --clear`（reason 引快照 diff＋issue #47）→ cleared；
+- `inquiry`、`privacy-health` `create --kind retranslate`（pending，version_pin＝Nov 17, 2026）。
+
+### 验收
+`check_all` 17 项中 16 绿；唯一红＝图片引用完整性，命中 `specs/008-terminology-campaign/results/audit-2026-11-19.md` 内嵌 `termonline` 数据带来的 `<img src='/root/syzx/...'>`（并行会话的生成报告，非本线产物，见其 term_audit 生成器需 sanitize）；目录四方门 G1–G4 全绿，装配 sha 全等（池 194）。
