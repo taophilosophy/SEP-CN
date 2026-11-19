@@ -204,16 +204,16 @@ def rebuild(account, skel_doc, resid_doc):
     return "\n".join(out)
 
 
-def check(snap_path, account_path, skeleton_path=None, residual_path=None):
+def compute(snap_path, account_path=None, skeleton_path=None, residual_path=None):
+    """纯判定层：返回结果 dict（不打印、不写文件）；供 --check 与四向门 G1 复用。"""
     text = open(snap_path, "rb").read().decode("utf-8")
     account = load_json(repo_path(*account_path)) if account_path else \
         load_json(repo_path("baseline", "catalog.json"))
     if account.get("source") and \
             os.path.basename(str(account["source"])) != os.path.basename(snap_path):
-        print(json.dumps({"error": "账与快照不同时点",
-                          "account_source": os.path.basename(str(account["source"])),
-                          "snapshot": os.path.basename(snap_path)}, ensure_ascii=False))
-        return 1
+        return {"equal": False, "error": "账与快照不同时点",
+                "account_source": os.path.basename(str(account["source"])),
+                "snapshot": os.path.basename(snap_path)}
     skel_doc = load_json(repo_path(*skeleton_path)) if skeleton_path else \
         load_json(repo_path(*SKELETON_PATH))
     resid_doc = load_json(repo_path(*residual_path)) if residual_path else \
@@ -221,11 +221,15 @@ def check(snap_path, account_path, skeleton_path=None, residual_path=None):
     rebuilt = rebuild(account, skel_doc, resid_doc)
     h_rb = hashlib.sha256(rebuilt.encode("utf-8")).hexdigest()
     h_snap = hashlib.sha256(text.encode("utf-8")).hexdigest()
-    ok = h_rb == h_snap
-    print(json.dumps({"equal": ok, "sha_rebuilt": h_rb, "sha_snapshot": h_snap,
-                      "snapshot": os.path.basename(snap_path),
-                      "residual_used": resid_doc.get("count")}, ensure_ascii=False, indent=1))
-    return 0 if ok else 1
+    return {"equal": h_rb == h_snap, "sha_rebuilt": h_rb, "sha_snapshot": h_snap,
+            "snapshot": os.path.basename(snap_path),
+            "residual_used": resid_doc.get("count")}
+
+
+def check(snap_path, account_path, skeleton_path=None, residual_path=None):
+    res = compute(snap_path, account_path, skeleton_path, residual_path)
+    print(json.dumps(res, ensure_ascii=False, indent=1))
+    return 0 if res.get("equal") else 1
 
 
 def main(argv=None):
