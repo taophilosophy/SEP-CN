@@ -26,12 +26,11 @@ import os
 import re
 import sys
 
-_enc = getattr(sys.stdout, 'encoding', None)
-if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
-    try:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    except (AttributeError, ValueError):
-        pass
+# 就地重配置编码：不替换 sys.stdout 对象，避免被 unittest 等宿主导入时缓冲区已关闭
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+except (AttributeError, ValueError, OSError):
+    pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
@@ -47,6 +46,18 @@ def key_of(line):
     return norm_key(cell)
 
 
+def _quote_norm(text):
+    """写册前引号归一（rules/02 第 11 条）：直角引号一律改弯引号。
+
+    rowspec 是人写的判定文本，历史上多次把「」写进依据列致全库引号门禁红
+    （2026-11-19 实测 190 行 306 处）。归一放在写路径，杜绝回流。
+    """
+    if not isinstance(text, str):
+        return text
+    return (text.replace('\u300c', '\u201c').replace('\u300d', '\u201d')
+            .replace('\u300e', '\u2018').replace('\u300f', '\u2019'))
+
+
 def build_row(spec, date):
     en, zh, table = spec['en'], spec['zh'], spec.get('table', 'term')
     basis = spec.get('basis')
@@ -56,12 +67,18 @@ def build_row(spec, date):
             basis = note + '；凭证 ' + date
         else:
             basis = '学界惯例（%s）；凭证 %s' % (note, date)
+    basis = _quote_norm(basis)
     if table == 'term':
-        reg_row = '| %s | %s | %s | %s | %s |' % (
-            en, zh, spec.get('first_seen', '语料回收（标题词）'), basis, date)
+        # 6 列：键｜原文｜译法｜首现｜依据｜裁定日期（原文缺省 —，键即英文原形）
+        reg_row = '| %s | %s | %s | %s | %s | %s |' % (
+            _quote_norm(en), spec.get('orig', '—'), _quote_norm(zh),
+            spec.get('first_seen', '语料回收'), basis, date)
     else:
-        reg_row = '| %s | %s | %s | %s | %s |' % (
-            en, zh, spec.get('first_seen', '语料回收（全目录）'), basis, date)
+        # 8 列：原文｜别名｜译法｜籍属｜生卒｜首现｜依据｜裁定日期
+        reg_row = '| %s | %s | %s | %s | %s | %s | %s | %s |' % (
+            _quote_norm(en), spec.get('alias', '—'), _quote_norm(zh),
+            _quote_norm(spec.get('affiliation', '—')), spec.get('dates', '—'),
+            spec.get('first_seen', '语料回收（全目录）'), basis, date)
     return reg_row
 
 
