@@ -1,0 +1,762 @@
+{
+ "key": "continuous dialectical penetration",
+ "term": "continuous dialectical penetration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:56:12+00:00",
+ "status": "ok",
+ "note": "variant=continuous dialectical penetration; 审定公布名词库=1710; 海峡两岸名词对照库=379; 其他来源数据库=63; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0013",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一个特定环境中某种语言的变体。"
+  },
+  {
+   "cn": "方言化",
+   "en": "dialectalization",
+   "source": "语言学名词",
+   "wordNumber": "12.162",
+   "subjectFullName": "语言学_社会语言学_语言接触与双语",
+   "subjectName": "语言接触与双语",
+   "publishYear": "2011",
+   "definition": "一种语言分化为几个地区方言或各个方言之间差异扩大的现象。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "语言学名词",
+   "wordNumber": "07.002",
+   "subjectFullName": "语言学_方言学_方言学通论",
+   "subjectName": "方言学通论",
+   "publishYear": "2011",
+   "definition": "一个语言的地域性变体，是相对于共同语或标准语而言的。方言自身有自成系统的语音特征、词汇特征和语法特征。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "地理学名词",
+   "wordNumber": "24.099",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "同一语言中因地理区域不同而表现出不同的发音与日常用语。"
+  },
+  {
+   "cn": "[病毒]穿入",
+   "en": "penetration",
+   "source": "感染病学名词",
+   "wordNumber": "03.0173",
+   "subjectFullName": "感染病学_病原体感染_病毒感染",
+   "subjectName": "病毒感染",
+   "publishYear": "2019",
+   "definition": "病毒通过宿主细胞表面受体，或通过细胞吞噬作用，或通过病毒包膜与细胞质膜融合等方式，核衣壳进入细胞的过程。"
+  },
+  {
+   "cn": "食物穿透",
+   "en": "penetration",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.113",
+   "subjectFullName": "物理医学与康复_康复功能评定_吞咽困难评定",
+   "subjectName": "吞咽困难评定",
+   "publishYear": "2014",
+   "definition": "食物或液体进入喉前庭，但未越过声门水平的现象。"
+  },
+  {
+   "cn": "穿入",
+   "en": "penetration",
+   "source": "微生物学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "病毒粒子吸附于敏感的宿主细胞后，尾髓插入宿主细胞，将核酸注入宿主细胞或病毒的其他表面结构结合宿主细胞，通过与胞质膜融合或胞饮， 进入宿主细胞的过程。"
+  },
+  {
+   "cn": "电话普及率",
+   "en": "penetration",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "按行政区划全部人口计算，平均每百人拥有的话机数。计量单位为：部每百人。"
+  },
+  {
+   "cn": "针入度",
+   "en": "penetration",
+   "source": "土木工程名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "土木工程_工程材料_材料性质",
+   "subjectName": "材料性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "穿透",
+   "en": "penetration",
+   "source": "医学名词 第六分册",
+   "wordNumber": "01.634",
+   "subjectFullName": "医学_普通外科学",
+   "subjectName": "普通外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "针入度",
+   "en": "penetration",
+   "source": "公路交通科技名词",
+   "wordNumber": "08.223",
+   "subjectFullName": "公路交通科学技术_筑路用材料及性能",
+   "subjectName": "筑路用材料及性能",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "穿透",
+   "en": "penetration",
+   "source": "医学名词 第四分册",
+   "wordNumber": "03.235",
+   "subjectFullName": "医学_胃肠病学",
+   "subjectName": "胃肠病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "侵彻",
+   "en": "penetration",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "透入性",
+   "en": "penetration",
+   "source": "地质学名词",
+   "wordNumber": "03.154",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "外显率",
+   "en": "penetrance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.347",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一个群体中一定基因型的个体在特定环境中显示预期表型的百分比。"
+  },
+  {
+   "cn": "透入性",
+   "en": "penetrability",
+   "source": "林学名词",
+   "wordNumber": "11.168",
+   "subjectFullName": "林学_木材科学与技术_木材保护与功能性改良",
+   "subjectName": "木材保护与功能性改良",
+   "publishYear": "2016",
+   "definition": "防腐剂渗入木材的深度。"
+  },
+  {
+   "cn": "外显率",
+   "en": "penetrance",
+   "source": "遗传学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "在特定环境中，某一基因型显示预期表型的个体比率。一般用%表示。"
+  },
+  {
+   "cn": "外显率",
+   "en": "penetrance",
+   "source": "生态学名词",
+   "wordNumber": "12.022",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "在特定环境条件中，某一基因型显示预期表型的个体比率。一般用百分比表示。"
+  },
+  {
+   "cn": "渗透液",
+   "en": "penetrant",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.128",
+   "subjectFullName": "机械工程_仪器仪表_试验机_无损检测仪器_渗透探伤机",
+   "subjectName": "渗透探伤机",
+   "publishYear": "2003",
+   "definition": "具有强渗透力的油液与带色染料或荧光染料按一定的比例混合而成的溶液。分为水洗性渗透液，后乳化性渗透液，溶剂去除性渗透液。"
+  },
+  {
+   "cn": "外显率",
+   "en": "penetrance",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "辩证法",
+   "en": "dialectic method\",\"dialectics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "穿透[作用]",
+   "en": "penetration",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "穿透性",
+   "en": "penetrability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "外显率",
+   "en": "penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "穿刺刺丝囊",
+   "en": "penetrant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "渗透剂",
+   "en": "penetrating agent\",\"penetrant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "尺度辯证法",
+   "en": "scale dialectics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续性",
+   "en": "continuity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "毛细穿透",
+   "en": "capillary penetration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "穿透理论",
+   "en": "penetration theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "穿透概率",
+   "en": "penetration probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "渗入测试",
+   "en": "penetration test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "辐射穿透",
+   "en": "radiation penetration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "针入度指数",
+   "en": "penetration index",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "溶合比",
+   "en": "penetration ratio",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "插上",
+   "en": "penetration",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续比赛!",
+   "en": "Continue!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试",
+   "en": "Penetration Test",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "插上犯规",
+   "en": "penetration fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穿透式监管",
+   "en": "penetrating supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "切入",
+   "en": "break\",\"penetrate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切入",
+   "en": "drive\",\"penetrate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互联网普及率",
+   "en": "Internet penetration rate",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "渗透测试库",
+   "en": "penetration testing library",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续数据",
+   "en": "continuous data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续转移",
+   "en": "continuous transfer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续控球",
+   "en": "continuous possession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续旋转",
+   "en": "continuous spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续动作",
+   "en": "continuous movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "穷则变，变则通，通则久",
+   "en": "Extreme –Change –Continuity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辩证法",
+   "en": "dialectics",
+   "source": "马克思主义",
+   "wordNumber": "01.0036",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义哲学中，辩证法是指与形而上学相对立的世界观和方法论，是关于普遍联系和永恒发展的学说，是用联系、发展、全面的观点看待世界的辩证思维方式，它强调事物内在矛盾是事物发展的动力。"
+  },
+  {
+   "cn": "方言",
+   "en": "dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0065",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "通常指一个语言的地域性变体，是相对于共同语或标准语而言的。方言自身有自成系统的语音特征、词汇特征和语法特征。社会语言学认为语言的社会性变体也会形成方言现象。"
+  },
+  {
+   "cn": "辩证唯物主义",
+   "en": "dialectical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0006",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的唯物主义和辩证法相统一的无产阶级的世界观和方法论，揭示了世界的本质及自然界、人类社会和思维发展的最一般规律的科学，是唯物主义的最高形式。"
+  },
+  {
+   "cn": "辩证关系",
+   "en": "dialectical connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0039",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种事物内部要素之间以及不同事物之间既对立又统一的矛盾关系。从世界观角度看，辩证关系是客观事物存在的状态，从方法论角度看，辩证关系是我们认识事物的普遍方法。"
+  },
+  {
+   "cn": "辩证思维",
+   "en": "dialectical thinking",
+   "source": "马克思主义",
+   "wordNumber": "01.0041",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以变化发展视角认识事物的思维方式。在唯物辩证法中，辩证思维是指人们对客观事物辩证发展过程进行正确反映的思维方法。实质就是按照唯物辩证法的原则，在联系和发展中把握认识对象，在对立统一中认识事物。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "科学辩证法",
+   "en": "scientific dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0076",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代德拉·沃尔佩（Galvano DellaVolpe）提出“新实证主义的马克思主义”，认为马克思的辩证法，其本质是“科学的辩证法”，是对客观事物本质和规律的揭示，是一种实证的逻辑，而非抽"
+  },
+  {
+   "cn": "医学辩证法",
+   "en": "medical dialectics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.175",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用辩证法的基本观点，研究生命、健康、疾病与死亡发生发展、运动变化中的本质和一般规律的学科。"
+  },
+  {
+   "cn": "唯物辩证法",
+   "en": "materialistic dialectic",
+   "source": "马克思主义",
+   "wordNumber": "01.0030",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯在批判地继承人类优秀文化遗产、尤其是黑格尔唯心主义辩证法“合理内核”与费尔巴哈人本学唯物主义“基本内核”基础上创立的关于自然、社会和思维发展普遍规律的哲学，是唯物主义与辩证法的统一、革命"
+  },
+  {
+   "cn": "隐语",
+   "en": "secret dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "集团内部为保守秘密而造出的词语。"
+  },
+  {
+   "cn": "社会方言",
+   "en": "social dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0087",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与语言群体的年龄、性别、职业、教育程度等社会身份有关的语言变体。"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "贯穿辐射",
+   "en": "penetrating radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.54",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "在物质中穿透能力强的射线，如γ射线、X 射线或中子射线等引起的辐射。"
+  },
+  {
+   "cn": "启蒙的辩证法",
+   "en": "dialectic of enlightenment",
+   "source": "马克思主义",
+   "wordNumber": "05.0026",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马克斯·霍克海默（M. Max Horkheime）与西奥多·阿多诺（Theodore Adorno）《启蒙辩证法》书中提出的概念。认为启蒙的根本目标就是要使人们摆脱恐惧，树立自主，但是，被彻底启蒙的"
+  },
+  {
+   "cn": "历史人学人学辩证法",
+   "en": "historical anthropology humanism dialectic",
+   "source": "马克思主义",
+   "wordNumber": "05.0060",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特认为马克思主义有“忽视人”的缺陷，这种缺陷成为存在主义复活的源泉。存在主义从马克思主义那里获得了生命的营养和历史条件，这种新生具体体现在历史人学或者说人学辩证法上。人类主体从集合到群体的演变构成为"
+  },
+  {
+   "cn": "期望破灭的辩证法",
+   "en": "dialectic of shattered expectations",
+   "source": "马克思主义",
+   "wordNumber": "05.0081",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "本·阿格尔（Ben Ager）在《西方马克思主义概论》中认为，在资本主义制度下，资本家无限追求利润以及异化消费的出现，必然导致资源浪费、过度开发、环境破坏，爆发生态危机，使人们无限获取商品的期望的破灭"
+  },
+  {
+   "cn": "染色渗透试验",
+   "en": "dye penetration test",
+   "source": "消毒学",
+   "wordNumber": "6.2.36.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "吸纸和浸湿染液的海绵被样品分隔，三者相互紧贴，放置规定时间后，观察吸纸是否沾染染料，评价不透气性灭菌医疗用品包装材料透气性能的试验。"
+  },
+  {
+   "cn": "平均穿透深度",
+   "en": "mean penetration depth",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "辐射粒子进入物体穿行的平均距离。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

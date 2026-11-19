@@ -1,0 +1,732 @@
+{
+ "key": "absolute acceleration",
+ "term": "absolute acceleration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:50:42+00:00",
+ "status": "ok",
+ "note": "variant=absolute acceleration; 审定公布名词库=820; 海峡两岸名词对照库=229; 其他来源数据库=17; 预公布名词数据库=38; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "绝对加速度",
+   "en": "absolute acceleration",
+   "source": "物理学名词",
+   "wordNumber": "02.0074",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "绝对加速度",
+   "en": "absolute acceleration",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对加速度反馈",
+   "en": "absolute acceleration feedback",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1607",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "绝对重力加速度",
+   "en": "absolute gravity acceleration",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0004",
+   "subjectFullName": "地球物理学_地球重力学_地球重力学总论",
+   "subjectName": "地球重力学总论",
+   "publishYear": "2022",
+   "definition": "可以追踪到长度与时间计量标准的、经标定的仪器测量得到的重力加速度绝对值。 "
+  },
+  {
+   "cn": "绝对",
+   "en": "absolute",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "指无条件、永恒和无限的主体，独立自在、唯一的实在。从狭义角度看，既指上帝、自我、绝对精神和无限精神，又指超越主客体之上的绝对同一性。"
+  },
+  {
+   "cn": "独立语",
+   "en": "absolute",
+   "source": "语言学名词",
+   "wordNumber": "04.219",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句中的一个成分。与其他成分之间不存在主谓、偏正、述宾、述补等句法关系，位置比较灵活,前后都有停顿。可以表示感叹、称呼等意义。例如，“哎呀，真冷”“老王，你好”。"
+  },
+  {
+   "cn": "绝对形",
+   "en": "absolute",
+   "source": "数学名词",
+   "wordNumber": "08.0423",
+   "subjectFullName": "数学_几何学_拓扑学_射影几何学·仿射几何学   ",
+   "subjectName": "射影几何学?仿射几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对[的]",
+   "en": "absolute",
+   "source": "数学名词",
+   "wordNumber": "01.0065",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2090",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "质点运动速度随时间的变化率。 "
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0287",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构运动学",
+   "subjectName": "机构运动学",
+   "publishYear": "2021",
+   "definition": "速度关于时间的变化率。"
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0287",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "速度的变化率。"
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "物理学名词",
+   "wordNumber": "02.0066",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "加速制",
+   "en": "acceleration",
+   "source": "教育学名词",
+   "wordNumber": "10.188",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "超常儿童教学的一种形式，采用跳级、提早入学、提前学习某一学科内容、增加单位时间学习内容等教学方式，使超常儿童能以较快速度进行学习、提前完成学习任务。"
+  },
+  {
+   "cn": "“加速”战略",
+   "en": "Acceleration",
+   "source": "世界历史名词",
+   "wordNumber": "05.0505",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "戈尔巴乔夫1985年4月提出的一项政策，要求加速苏联社会和经济的发展，是当时改革的一个主要方向。未能有效执行。"
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "土木工程名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加速",
+   "en": "acceleration",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0106",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "加速度",
+   "en": "acceleration",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加速",
+   "en": "accelerating",
+   "source": "电气工程名词",
+   "wordNumber": "01.832",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "加速剂",
+   "en": "accelerator",
+   "source": "精细化工名词",
+   "wordNumber": "08.1118",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "在印制电路板化学镀工艺中，能高度活化经钯液催化处理的表面的化学药水。"
+  },
+  {
+   "cn": "加速器",
+   "en": "accelerator",
+   "source": "物理学名词",
+   "wordNumber": "09.0854",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "加速剂",
+   "en": "accelerator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加速器",
+   "en": "accelerator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "速凝剂",
+   "en": "accelerator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "促进剂",
+   "en": "accelerator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "加速器",
+   "en": "accelerator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "绝对变率",
+   "en": "absolute variability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不稳定",
+   "en": "absolute instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对高度",
+   "en": "absolute altitude",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对高度表",
+   "en": "absolute altimeter",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对极值",
+   "en": "absolute extreme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对频率",
+   "en": "absolute frequency",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对速度",
+   "en": "absolute velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对温度",
+   "en": "absolute temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对稳定度",
+   "en": "absolute stability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对涡度",
+   "en": "absolute vorticity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对误差",
+   "en": "absolute error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对值",
+   "en": "absolute value",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对压力",
+   "en": "absolute pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对浊度",
+   "en": "absolute turbidity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加速",
+   "en": "acceleration",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加速",
+   "en": "accelerate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "加速区",
+   "en": "acceleration zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体消除绝对贫困现象",
+   "en": "eradicating absolute poverty",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学加速器",
+   "en": "data science accelerator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "硬件加速渲染",
+   "en": "hardware-accelerated rendering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "加快实施自由贸易区战略",
+   "en": "accelerating the free trade zone strategy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《关于加快推进“一带一路”空间信息走廊建设与应用的指导意见 》",
+   "en": "Guidelines on Accelerating the Building and Application of Belt and Road Space Information Corridor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "减速区",
+   "en": "deceleration zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刚毅",
+   "en": "Firm and Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言必信，行必果",
+   "en": "Promises Must Be Kept; Actions Must Be Resolute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净油",
+   "en": "absolute",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "植物来源的浸膏、香脂、香树脂或超临界流体提取物用乙醇提取所得产物，经冷却和过滤去除蜡质，再用蒸馏法去除乙醇后得到的液体"
+  },
+  {
+   "cn": "加速器",
+   "en": "accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.1",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "借助于电场和磁场使带电粒子加速到很高能量的装置。按工作原理可分为一次加速和多次加速的加速器。一次加速是利用直流高压使粒子加速到所需能量，如静电加速器、高压倍加器等。多次加速是在交变电场中实现的，如回旋"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.12",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "在认识或伦理的意义上，主张真与假、正确与错误之间有唯一、绝对的标准。除此之外，在政治上通常还用它来指称17-18世纪那些宣称君权神授并以极权国家为后盾的欧洲君主专制政体。在这个意义上，它是专制主义的同"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "马克思主义",
+   "wordNumber": "01.0207",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“相对主义”相对。一种把事物及认识绝对化的唯心主义和形而上学观点。绝对主义割裂绝对与相对的辩证关系，只承认绝对性，否认相对性。绝对主义者不承认一切过程都有始有终，不承认一过程必然转化为他过程，否认绝"
+  },
+  {
+   "cn": "绝对主义",
+   "en": "absolutism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.139",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为存在一种关于事物的真理和适用规则，从而实现一成不变的绝对真理。"
+  },
+  {
+   "cn": "绝对危险",
+   "en": "absolute risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "研究人群中某事件的观察或计算得出的发生概率。偶指归因分数、超额危险、率差等。"
+  },
+  {
+   "cn": "绝对剥夺",
+   "en": "absolute deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "失去或缺乏满足基本生存需求（如食物、衣物或栖身之所）的手段。与“相对剥夺”相对。"
+  },
+  {
+   "cn": "绝对权力",
+   "en": "absolute power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "没有被加以任何限制或制衡的权力，一种绝对的支配意志，一种专断的权力。英国思想史家阿克顿勋爵认为“权力导致腐败，绝对权力绝对导致腐败”。"
+  },
+  {
+   "cn": "绝对贫困",
+   "en": "absolute poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员获得的实际收入、拥有的消费资料及服务不能满足其基本生存需要的状态。目前我国城乡居民最低生活保障依据各地物价水平划定的绝对贫困线。"
+  },
+  {
+   "cn": "绝对运动",
+   "en": "absolute motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0024",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运动是物质的固有属性和根本存在方式，运动是普遍的、永恒的、无条件的，因而是绝对的。世界是永恒运动着的物质世界。"
+  },
+  {
+   "cn": "绝对精神",
+   "en": "absolute spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0114",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔哲学用语。绝对精神与广义的绝对理念互用，指万物的本原与本质。绝对理念经过逻辑学、自然哲学、精神哲学的否定之否定发展，最后返回自身达到绝对精神，即思与在的绝对同一。"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "source": "马克思主义",
+   "wordNumber": "01.0211",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "真理的绝对性。(1)任何真理都是人脑对客观事物及其规律的正确反映，包含有不以人的意志为转移的客观内容，同谬误有原则区别，在它所反映的范围和限度内是不能被推翻的。这一点是无条件的、绝对的。在这个意义上，"
+  },
+  {
+   "cn": "绝对工资",
+   "en": "absolute wage",
+   "source": "马克思主义",
+   "wordNumber": "02.0147",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“相对工资”相对应。一国工人单位时间的工资水平。"
+  },
+  {
+   "cn": "绝对贫困化",
+   "en": "absolute pauperization",
+   "source": "马克思主义",
+   "wordNumber": "02.0172",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义条件下，无产阶级的生活状况会随着各种经济危机、滞胀或战争而出现不断恶化的现象。通常表现为工人失业、生活费上涨、税捐增加、实际工资下降、居住条件恶化等，而使工人阶级的生存条件绝对地恶化。"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "绝对优势方案",
+   "en": "absolute dominance",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.7.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "相比于其他方案，成本较低且效果较好的方案。"
+  },
+  {
+   "cn": "绝对共性",
+   "en": "absolute universals",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0057",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "所有的语言都会具有的特征。例如任何语言语音都分元音和辅音，词类都有名词、动词等。参见“分布共性”。"
+  },
+  {
+   "cn": "绝对湿度",
+   "en": "absolute humidity",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.2.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "在一定温度下，单位体积湿空气中含有的水汽质量。"
+  },
+  {
+   "cn": "粒子加速器",
+   "en": "particle accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子（如电子、质子、氚核以及α粒子等）加速，使其动能增加（一般指大于0.1 MeV）的装置。"
+  },
+  {
+   "cn": "直线加速器",
+   "en": "linear accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.3",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子沿直线路径加速的粒子加速器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

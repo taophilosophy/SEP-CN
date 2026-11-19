@@ -1,0 +1,632 @@
+{
+ "key": "democracy young",
+ "term": "Democracy Young",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:44:15+00:00",
+ "status": "ok",
+ "note": "variant=Democracy Young; 审定公布名词库=114; 海峡两岸名词对照库=17; 其他来源数据库=6; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy;discursive democracy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.19",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一种民主的形式，将慎议(deliberation)作为制定政治决策的核心。目的是纠正代议民主过度依赖投票表决而形成多数人的偏好、剥夺了少数人意见表达权利的缺陷。主张在公共议题形成决策的过程中，应尽可能"
+  },
+  {
+   "cn": "学术民主",
+   "en": "academic democracy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "自然辩证法_科技伦理_科学伦理",
+   "subjectName": "科学伦理",
+   "publishYear": "2024",
+   "definition": "将民主的投票表决和少数服从多数等原则引入学术组织活动中的民主形式。涉及学术课题的申报和评审、学术成果的鉴定和评奖、学术组织的建立和相应的学术领导机构的产生等。强调在真理面前人人平等，包括学术研究者话语"
+  },
+  {
+   "cn": "电子化民主",
+   "en": "E democracy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.128",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "电子时代新的民主实践形式。其往往以发达的信息技术、网络及其相关技术为运作平台，以直接民主为发展趋向，并以公民的全体、主动、切实参与民主决策、民主选举等民主运作程序为典型特征。这一概念伴随着互联网的兴起"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0138",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "19世纪社会主义运动中出现的一种主张放弃暴力方式，采用合法的议会民主的政治程序，实现从资本主义到社会主义的渐进式和平转变的政治思潮。"
+  },
+  {
+   "cn": "网络民主",
+   "en": "cyber democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0469",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "政府或其他主体搭建的，以计算机网络为媒介的，公民表达政治意愿、参与政治事务的一种新型民主方式。"
+  },
+  {
+   "cn": "协商式民主决策",
+   "en": "deliberative democracy",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0263",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "采取各种对话的方式，通过各方的理性反思和意见交流，共同探索公共议题解决方案的决策过程。"
+  },
+  {
+   "cn": "教育民主",
+   "en": "educational democracy",
+   "source": "教育学名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "政治民主理念在教育中的引申。强调教育过程应以自由、平等、参与、协商、交流、沟通、共识等为价值基础的观念、诉求、制度安排与具体实践。"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "Social Democracy",
+   "source": "世界历史名词",
+   "wordNumber": "01.0099",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "第二国际中，已经蜕化为资产阶级政党的社会民主党的指导思想。颂扬资产阶级民主政治，反对无产阶级革命和建立社会主义政权，是现代修正主义的理论基础。"
+  },
+  {
+   "cn": "波兰国家民主党",
+   "en": "National Democracy",
+   "source": "世界历史名词",
+   "wordNumber": "05.0569",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "在1897-1945年期间活动的波兰资产阶级民族主义政党。"
+  },
+  {
+   "cn": "幼贝",
+   "en": "young mollusk,young shellfish",
+   "source": "水产名词",
+   "wordNumber": "04.194",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "形态已与成贝相同，但性腺尚未成熟或尚未达到商品规格的贝类个体。"
+  },
+  {
+   "cn": "扬氏综合征",
+   "en": "Young syndrome",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.179",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "以慢性鼻窦炎、支气管扩张和梗阻性无精子症三联征为主要表现的临床综合征。患者睾丸生精功能正常，但由于动力性原因导致附睾管阻塞，精子无法排出。"
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0527",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "当胡克定律沿着轴向成立时，沿着该轴的应力与应变的比值。 "
+  },
+  {
+   "cn": "肉鹅",
+   "en": "young goose",
+   "source": "畜牧学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_胴体及其品质",
+   "subjectName": "胴体及其品质",
+   "publishYear": "2020",
+   "definition": "以食肉为目的而饲养的鹅。"
+  },
+  {
+   "cn": "青年兔",
+   "en": "young rabbit",
+   "source": "畜牧学名词",
+   "wordNumber": "08.015",
+   "subjectFullName": "畜牧学_养兔_家兔分类",
+   "subjectName": "家兔分类",
+   "publishYear": "2020",
+   "definition": "12周龄至初配阶段的生长兔。"
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "林学名词",
+   "wordNumber": "06.036",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "处于生长发育初期的的林分。"
+  },
+  {
+   "cn": "扬氏综合征",
+   "en": "Young syndrome",
+   "source": "泌尿外科学名词",
+   "wordNumber": "10.193",
+   "subjectFullName": "泌尿外科学_男科",
+   "subjectName": "男科",
+   "publishYear": "2014",
+   "definition": "生精功能正常，但由于浓缩物质阻塞附睾而表现为无精子的综合征。临床主要表现为慢性鼻窦炎、支气管扩张和梗阻性无精子症三联征。"
+  },
+  {
+   "cn": "青年突尼斯派",
+   "en": "Young Tunisians",
+   "source": "世界历史名词",
+   "wordNumber": "04.0471",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_北非",
+   "subjectName": "北非",
+   "publishYear": "2012",
+   "definition": "19世纪末20世纪初，由爱国知识分子组成的突尼斯民族主义组织。"
+  },
+  {
+   "cn": "青年阿富汗派",
+   "en": "Young Afghans",
+   "source": "世界历史名词",
+   "wordNumber": "04.0142",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_南亚",
+   "subjectName": "南亚",
+   "publishYear": "2012",
+   "definition": "20世纪初，阿富汗由部分官吏和知识分子组成的代表自由派地主和商业资产阶级利益的政治集团，20世纪20年代末逐渐瓦解。"
+  },
+  {
+   "cn": "“青年美国”派",
+   "en": "Young America",
+   "source": "世界历史名词",
+   "wordNumber": "03.0078",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "19世纪40年代中期至50年代初出现的一个民族主义组织，鼓吹对外扩张政策，要把美国的民主制度和价值观扩展到世界。"
+  },
+  {
+   "cn": "杨格计划",
+   "en": "Young Plan",
+   "source": "世界历史名词",
+   "wordNumber": "01.0751",
+   "subjectFullName": "世界历史_综合_世界政治、世界经济",
+   "subjectName": "世界政治、世界经济",
+   "publishYear": "2012",
+   "definition": "1929年2月，七国专家委员会通过的重新审议的德国赔偿计划，因美国人杨格起草而得名。"
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期冰",
+   "en": "young ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼年土壤",
+   "en": "young soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扬，亚历山大",
+   "en": "Young\",\"Alexander(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大仔对策",
+   "en": "large young strategy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模数",
+   "en": "Youngs modulus",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量，弹性模量",
+   "en": "Young's modulus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄期,未成熟期",
+   "en": "immature stage\",\"young stage",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期恒星体",
+   "en": "young stellar object\",\"YSO",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼期， 未成熟期",
+   "en": "young stage\",\"immature stage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "扬，珀西",
+   "en": "Young\",\"Percy M(arshall)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光纤杨氏模量",
+   "en": "Young's modulus for fiber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "青少年管弦乐队指南——普塞尔主题变奏曲与赋格",
+   "en": "Young Persons Guide to the Orchestra",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "杨-亥姆霍兹颜色视觉说",
+   "en": "Young Helmholtz theory of color vision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会主义协商民主",
+   "en": "the socialist consultative democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "民主",
+   "en": "Lord of the People / Democracy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体用",
+   "en": "Ti and Yong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民主",
+   "en": "democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0113",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与专制制度相对立的一种政治制度，原意指大多数人享有权力的政治制度。最早出现于古希腊。现代意义上的民主制是资产阶级革命所建立的君主立宪制或民主共和制。但资产阶级民主制建立在生产资料私有制和金钱政治、寡头"
+  },
+  {
+   "cn": "协商式民主",
+   "en": "deliberative democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "公民以深思熟虑的判断为基础，通过理性沟通、公共辩论等方式参与政治选举和公共决策的政治形态。"
+  },
+  {
+   "cn": "合作式民主",
+   "en": "consociational democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.2",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种以大联合、相互否决与局部自主等联合同意原则为决策方式的民主制度形态。美国学者利日法特提出，与“多数原则的民主”相对。"
+  },
+  {
+   "cn": "参与式民主",
+   "en": "participatory democracy",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种以公民自治为核心的政治形式，强调公民通过公共讨论、集体商议等渠道积极参与公共事务、影响公共决策。"
+  },
+  {
+   "cn": "社会民主主义",
+   "en": "social democracy",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "推崇人道主义精神以及民主制度，以自由、平等、公正、团结、互助为组织社会的基本原则。在社会福利方面强调国家的责任、公民的权利，推崇普遍主义的社会福利模式。"
+  },
+  {
+   "cn": "无产阶级民主",
+   "en": "proletarian democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0198",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级的政治制度。是绝大多数人的民主，贯穿在政治生活、经济生活、文化生活各个方面，反映了人与人之间和个人与社会之间的正确关系。在无产阶级获得政权以后确立，在生产资料所有制的社会主义改造完成以后得到广"
+  },
+  {
+   "cn": "资产阶级民主",
+   "en": "bourgeois democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0235",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义国家规定的以代议制为核心,以分权制、多党制、普选制、法律面前人人平等以及形式上规定的公民权利为主要内容的民主制度。它虽然以全民的、普遍的形式出现,但实际上是以少数人对多数人的统治为前提的民主，"
+  },
+  {
+   "cn": "党内民主",
+   "en": "intraparty democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0280",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "无产阶级政党各级党组织和全体党员都有一律平等地参与党的领导和管理党的事务的权利和遵守党章党纪和党的决定的义务，是党内生活的一种重要制度和基本准则。党内民主的根本作用是确立党员在党内的主人翁地位，即党员"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "社会主义民主",
+   "en": "socialist democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0590",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义国家最广大人民群众的民主，包括对人民民主和对敌人专政两方面，是人类历史上最新、最广泛和最高类型的民主。社会主义民主必须同法制相结合。建设高度的社会主义民主是社会主义建设的根本目标之一。"
+  },
+  {
+   "cn": "基层民主",
+   "en": "communitylevel democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0630",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "公民在所居住的社会基层区域内，依照少数服从多数的民主原则和民主机制参与、管理自身事务的一系列制度和过程的总称。"
+  },
+  {
+   "cn": "人民民主",
+   "en": "peoples democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0763",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义民主的形式之一,社会主义国家人民当家作主、管理国家、实行无产阶级专政的国家形式。在苏联、东欧、中国等社会主义国家实行的一种政治制度，它体现了工人阶级等广大劳动人民的当家作主。人民民主本质上是社"
+  },
+  {
+   "cn": "协商民主",
+   "en": "deliberative democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0764",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过协商的形式对公共事务进行民主讨论，达成共识，做出决策。协商民主的核心要素是协商与共识。协商民主与选举民主，是民主的不同表现形式。协商民主有助于矫正自由主义的不足，实现最广泛的政治参与，包容和吸纳各"
+  },
+  {
+   "cn": "军事民主制",
+   "en": "military democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0016",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会后期形成的部落联盟组织制度。是从原始社会向阶级社会过渡时期的一种社会组织形式，适应于当时军事活动的频繁需要而产生。军事民主制是由部落联盟议事会、人民大会、军事首领三者并列组成的机构。"
+  },
+  {
+   "cn": "革命民主主义",
+   "en": "revolutionary democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0307",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对封建专制制度的过程中形成的社会革命思潮和政治主张。依据革命领导权的不同，又可分为资产阶级革命民主主义和无产阶级革命民主主义。"
+  },
+  {
+   "cn": "后民族民主",
+   "en": "postnational democracy",
+   "source": "马克思主义",
+   "wordNumber": "05.0043",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯在《后民族结构与民主的未来》一文中认为，在全球化的背景下，国际社会需要建立一个全球范围的民主秩序，即把发达国家的民主秩序推广到全球范围。这种全球范围的民主秩序就是后民族民主。"
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "全过程人民民主",
+   "en": "wholeprocess peoples democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0819",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在庆祝中国共产党成立100周年大会上，习近平指出：“践行以人民为中心的发展思想，发展全过程人民民主”。这一重要论断，深刻揭示了人民民主是一种与现实接通、与人民利益相连的具有操作性的民主形态，是我国人民"
+  },
+  {
+   "cn": "斯大林论民主",
+   "en": "Stalin on democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0102",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林在《和一个美国工人代表团的谈话》《在苏联列宁共产主义青年团第八次代表大会上的演说》等著作中谈到民主问题。①社会主义民主是最高类型的民主。无产阶级专政是阶级社会中的最高类型，是代表多数人利益的无产"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "global integration",
+ "term": "global integration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:51:40+00:00",
+ "status": "ok",
+ "note": "variant=global integration; 审定公布名词库=2469; 海峡两岸名词对照库=868; 其他来源数据库=264; 预公布名词数据库=122; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "全球整合",
+   "en": "global integration",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0700",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "国际化经营的企业忽视不同地区的差异而在世界范围内采取相似的经营策略，并将全球业务进行有机协调。"
+  },
+  {
+   "cn": "全球综合观测系统",
+   "en": "integrated global observation system,IGOS",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.343",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "装有多种传感器的能进行对地观测的卫星专用系统。"
+  },
+  {
+   "cn": "整体[的]",
+   "en": "global",
+   "source": "数学名词",
+   "wordNumber": "01.0063",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "11.029",
+   "subjectFullName": "新闻学与传播学_国际传播_全球传播",
+   "subjectName": "全球传播",
+   "publishYear": "2022",
+   "definition": "世界各国和地区之间的社会交往日益密切、相互依赖日趋加深的过程。表征由于经济、技术和传播等综合作用，世界被塑造为一个共同的社会空间，一个地区发生的变动即刻会对另外一个地区的个人或社群产生影响。"
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "经济、社会、文化、政治等要素在全球范围内广泛流动并相互影响的过程。"
+  },
+  {
+   "cn": "完整性",
+   "en": "integrality;integrity",
+   "source": "风景园林名词",
+   "wordNumber": "04.0365",
+   "subjectFullName": "风景园林_风景名胜_世界遗产和其他自然保护地",
+   "subjectName": "世界遗产和其他自然保护地",
+   "publishYear": "2025",
+   "definition": "用来衡量自然和/或文化遗产及其特征的整体性和无缺憾性。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.138",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "将要素或子系统组合成具有结构和功能的系统，以实现系统要素或子系统之间的资源共享和协同工作，形成更有价值和效率的新整体。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "兽医学名词",
+   "wordNumber": "04.545",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "反射中枢对传入神经传来的刺激信息加以分析、综合和储存的过程。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "兽医学名词",
+   "wordNumber": "16.197",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "在病毒携带的整合酶的作用下，前病毒DNA插入细胞基因组DNA的过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.112",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "收录文献丰富、内容全面的类书或丛书。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.035",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一段DNA分子插入基因组DNA的重组过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0518",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "将机器人和其他设备或另一台机器(含其他机器人)组合成能完成如零部件生产的有益工作的机器系统。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "生理学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "整体性",
+   "en": "integration",
+   "source": "生物物理学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "每个意识状态都只觉知到单一的“场景”，不可能把这个场景分解成一些独立的成分，即意识经验是统一的、协调一致的特性。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0292",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "（1）把多个软件、硬件（或两者兼有）合成为一个完整的系统的过程。（2）把多个系统进行整合，使之相互协同工作、信息共享的过程。"
+  },
+  {
+   "cn": "集成性",
+   "en": "integration",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "来自不同的信息源的数据进入数据仓库之前必须进行合理的重组、转换与集成，成为相互关联的数据，是数据仓库的一种特性。"
+  },
+  {
+   "cn": "一体化",
+   "en": "integration",
+   "source": "教育学名词",
+   "wordNumber": "10.028",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "西欧以正常化思想为依据的、用多种方式把残疾儿童安置在普通教育机构中接受教育的一种教育思想和特殊教育组织形式。"
+  },
+  {
+   "cn": "整合",
+   "en": "Integration",
+   "source": "遗传学名词",
+   "wordNumber": "03.562",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "一段DNA分子插入基因组DNA的重组过程。"
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "化学工程名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "积分法",
+   "en": "integration",
+   "source": "数学名词",
+   "wordNumber": "05.0150",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全球综合观测系统",
+   "en": "integrated global observation system\",\"IGOS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球主义",
+   "en": "globalism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整合[作用]",
+   "en": "integration",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成",
+   "en": "integration",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "积分仪",
+   "en": "integrator",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "集成度",
+   "en": "○1integrity○2integration level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "积分",
+   "en": "integral",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "integrity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球变化",
+   "en": "global change",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球变暖",
+   "en": "global warming",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球电路",
+   "en": "global circuit",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球化网络",
+   "en": "Global Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "地球村",
+   "en": "global village",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球脉动",
+   "en": "Global Pulse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球公域",
+   "en": "global commons",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全局事务",
+   "en": "global transaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球伙伴关系",
+   "en": "global partnership",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字全球化",
+   "en": "digital globalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融全球化",
+   "en": "financial globalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据全球化",
+   "en": "data globalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据集成",
+   "en": "data integration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资金融通",
+   "en": "financial integration",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球信息基础设施",
+   "en": "global information infrastructure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球区块链委员会",
+   "en": "Global Blockchain Council",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球性稳定币",
+   "en": "global stable currency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球支付体系",
+   "en": "global payment system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "社会医学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "以科技进步与经济发展为动力，人类社会自资本主义产生以来全球联系增强、全球意识崛起、全球整体化的过程。"
+  },
+  {
+   "cn": "全球化",
+   "en": "globalization",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "以科技进步与经济发展为动力，人类社会自资本主义产生以来全球联系增强、全球意识崛起、全球整体化的过程。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "地球村",
+   "en": "global village",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "现代传媒手段、通信技术和交通工具的发展结束了世界的割裂状态，使得地球的时空距离缩小，成为一个整合的地球村落这样一种现象。由麦克卢汉（m.mcluhan）提出。"
+  },
+  {
+   "cn": "全球性社会",
+   "en": "global society",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "在全球化的进程中，因全球经济、政治、科技、文化等各领域的关联、协同与共变日益明显，人类社会的结构愈益全球化而呈现出来的社会状态。"
+  },
+  {
+   "cn": "全球化经济",
+   "en": "global economy",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "主要的生产要素打破国界限制，形成了全球范围内的经济体系。20世纪80年代以来，主要由于贸易自由化和信息技术的迅猛发展，资本和劳动力都越来越打破国界限制，形成了全球性的生产、运输、贸易、消费网络。"
+  },
+  {
+   "cn": "全球性城市",
+   "en": "global city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "在全球经济系统中占据重要位置、主导全球金融业和商业的某些大城市。会加剧城市之间以及城市内部发展不平衡和社会政治不平等。"
+  },
+  {
+   "cn": "总额预付",
+   "en": "global budget",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.14",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "一种由医疗保险机构和医疗机构根据实际情况预先共同商定的某一医疗机构的年度总预算。该方法规定了医疗机构必须达到的服务目标，是将服务捆绑起来的一揽子服务的提供与付费。"
+  },
+  {
+   "cn": "全球健康",
+   "en": "global health",
+   "source": "社会医学名词",
+   "wordNumber": "3.7.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "把增进健康、实现全世界人人都享有公平的健康置于首位的学习、研究和实践的领域。全球健康强调跨国卫生问题、强调决定因素和解决方案。"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会不同的要素、各组成部分在一定的共同利益、文化精神和社会规范基础上结合为一个统一、协调的整体的过程。与“社会解组”相对。"
+  },
+  {
+   "cn": "垂直一体化",
+   "en": "vertical integration",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "公司通过兼并和收购若干个处于生产经营环节下游的企业将其经营活动向前扩展到销售终端，或通过收购一个或若干供应商向后扩展到原材料供应的一种战略行为。"
+  },
+  {
+   "cn": "纵向整合",
+   "en": "vertical integration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "同类不同层级的卫生机构间，通过自上而下的整顿重组方式，扩大延伸服务范围，为服务对象提供不同层次、相互补充、连续性的服务的过程。"
+  },
+  {
+   "cn": "横向整合",
+   "en": "horizontal integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定范围的医疗服务市场中，同一层次服务机构间为达到降低服务成本、发挥规模经济的目的而形成合作或联盟关系的行为。"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "文化整合",
+   "en": "cultural integration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同文化相互吸收、融化、调和而趋于一体化的过程。"
+  },
+  {
+   "cn": "走出去战略",
+   "en": "going global strategy",
+   "source": "马克思主义",
+   "wordNumber": "04.0186",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府大力支持的海外投资战略，指中国企业充分利用国内和国外“两个市场、两种资源”，通过对外直接投资、对外工程承包、对外劳务合作等形式积极参与国际竞争与合作，实现我国经济可持续发展的现代化强国战略。"
+  },
+  {
+   "cn": "国际金融危机",
+   "en": "global financial crisis",
+   "source": "马克思主义",
+   "wordNumber": "04.0202",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一国所发生的金融危机通过各种渠道传递到其他国家从而引起国际范围内金融危机爆发的一种经济现象。"
+  },
+  {
+   "cn": "全球左翼论坛",
+   "en": "global left forum",
+   "source": "马克思主义",
+   "wordNumber": "05.0279",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "2004年由“世界社会主义学者大会”分化而来，是其中稍微偏左的一支，组委会成员仍来自原“世界社会主义学者大会”。论坛每年邀请世界各国专家、学者以及社会活动分子与会，围绕当代世界面临的紧迫问题交流观点。"
+  },
+  {
+   "cn": "全球健康伦理",
+   "en": "global health ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.209",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "促进全人类健康、保障健康公平，关注跨越国界和地域的健康问题，促进全人类健康服务过程中的伦理规范和要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

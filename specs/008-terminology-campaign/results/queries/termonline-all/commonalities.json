@@ -1,0 +1,742 @@
+{
+ "key": "commonalities",
+ "term": "commonalities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:48:45+00:00",
+ "status": "ok",
+ "note": "variant=commonalities; 审定公布名词库=480; 海峡两岸名词对照库=136; 其他来源数据库=31; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "共同危险",
+   "en": "common peril,common danger",
+   "source": "航海科技名词",
+   "wordNumber": "13.0227",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "普通火山碎屑岩",
+   "en": "common pyroclast",
+   "source": "地质学名词",
+   "wordNumber": "04.04.373",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "主要由火山爆发直接产生的各种碎屑物坠落经压结作用而形成的岩石。火山碎屑物占碎屑总量(体积)的75%以上 (IUGS火成岩分类学分委会 ，而国内为90%)，主要为集块(火山弹、火山岩块)状和火山角砾状的"
+  },
+  {
+   "cn": "普通锶",
+   "en": "common strontium",
+   "source": "地质学名词",
+   "wordNumber": "13.03.218",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "不含铷的岩石和矿物中所含的锶或含铷的矿物或岩石形成时的初始锶。"
+  },
+  {
+   "cn": "共同支",
+   "en": "common limb",
+   "source": "普通外科学名词",
+   "wordNumber": "26.006",
+   "subjectFullName": "医学_普通外科学_减重代谢外科",
+   "subjectName": "减重代谢外科",
+   "publishYear": "2026",
+   "definition": "胃旁路手术等包含胃或十二指肠空肠吻合的手术中，消化液和营养物质在此段汇合并共同经过的小肠通路部分。"
+  },
+  {
+   "cn": "香蒲",
+   "en": "common cattail",
+   "source": "农学名词",
+   "wordNumber": "05.214",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "香蒲科香蒲属(Typha)蔬菜。染色体数2n=22。多年生水生草本植物。分布广泛。根状茎白色，叶条形、带形，花单性同株。栽培种有狭叶香蒲(T. angustifolia L.)和宽叶香蒲(T. lat"
+  },
+  {
+   "cn": "总鼻道",
+   "en": "common meatus",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.1.3.11",
+   "subjectFullName": "鼻科_鼻解剖",
+   "subjectName": "鼻解剖",
+   "publishYear": "2025",
+   "definition": "嗅裂水平以下至鼻底、鼻甲与鼻中隔间的不规则腔隙。"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "农学名词",
+   "wordNumber": "19.238",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "随着社会经济发展，每个阶层人口的收入水平和生活水平都在提高，同时贫富差距不断缩小的状态。"
+  },
+  {
+   "cn": "平年",
+   "en": "common year",
+   "source": "天文学名词",
+   "wordNumber": "02.230",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "阳历或阴历中无闰日的年，或阴阳历中无闰月的年。"
+  },
+  {
+   "cn": "共有包层",
+   "en": "common envelope",
+   "source": "天文学名词",
+   "wordNumber": "08.065",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "在密近双星中的一种现象，其中主星的外层同时包裹了伴星形成的包层。"
+  },
+  {
+   "cn": "公共放牧地",
+   "en": "common pasture ",
+   "source": "草学名词",
+   "wordNumber": "1.0057",
+   "subjectFullName": "草学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "数字共享资源",
+   "en": "digital commons",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.06",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "涉及信息技术的共享资源。与其他数字资源的区别在于创造数字共享资源的群体享有管理其使用和传播方式的权利。数字共享资源内部的信息由包括GUN通用公共许可协议(GNU General Public Lice"
+  },
+  {
+   "cn": "共同途径",
+   "en": "common pathway",
+   "source": "血液学名词",
+   "wordNumber": "9.004",
+   "subjectFullName": "血液学_出血与血栓性疾病",
+   "subjectName": "出血与血栓性疾病",
+   "publishYear": "2022",
+   "definition": "内源性和外源性凝血途径共同拥有的凝血通路。"
+  },
+  {
+   "cn": "常见种",
+   "en": "common species",
+   "source": "动物学名词",
+   "wordNumber": "7.0452",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "在群落中分布很广、出现频率高，但数量不如优势种大的种类。"
+  },
+  {
+   "cn": "公共锥顶",
+   "en": "common apex",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0357",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_锥齿轮传动",
+   "subjectName": "锥齿轮传动",
+   "publishYear": "2021",
+   "definition": "锥齿轮副两节锥的公共顶点，即轴线交点。"
+  },
+  {
+   "cn": "一般镇",
+   "en": "common town",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "市、县域范围内除重点镇之外的其他城镇。"
+  },
+  {
+   "cn": "共芽",
+   "en": "common bud",
+   "source": "动物学名词",
+   "wordNumber": "5.2703",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "狭唇类苔藓动物中汇合出芽带产生的芽体。"
+  },
+  {
+   "cn": "共同知识",
+   "en": "common knowledge",
+   "source": "经济学名词",
+   "wordNumber": "03.159",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "博弈中“所有参与人都知道的、所有参与人都知道所有参与人知道的、所有参与人都知道所有参与人都知道所有参与人知道的……知识”。共同知识在决定博弈信息结构中发挥着重要作用。"
+  },
+  {
+   "cn": "公共资源",
+   "en": "common resources",
+   "source": "经济学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "那些消费上具有竞争性，但受益上并不具有排他性的物品。由于公共资源的这种特性，很容易出现休莫所谓的“公地的悲剧”。"
+  },
+  {
+   "cn": "总告警",
+   "en": "common alarm",
+   "source": "电力名词",
+   "wordNumber": "06.062",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "所有单独告警汇总成的一个告警。"
+  },
+  {
+   "cn": "公共绕组",
+   "en": "common winding",
+   "source": "电力名词",
+   "wordNumber": "19.106",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "自耦变压器绕组的公共部分。"
+  },
+  {
+   "cn": "共同危险",
+   "en": "common danger\",\"common peril",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "体被",
+   "en": "common integument",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "常见种",
+   "en": "common species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总[叶]柄",
+   "en": "common petiole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常用对数",
+   "en": "common logarithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "普通原料",
+   "en": "common stock",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "公共设施",
+   "en": "common utility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "共同特质",
+   "en": "common trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共同因素",
+   "en": "common factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共同命运",
+   "en": "common fate",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普通和弦",
+   "en": "common chord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共有包层",
+   "en": "common envelope",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "普通环",
+   "en": "common ring",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共同关税",
+   "en": "common tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同配额",
+   "en": "common quota",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同市场",
+   "en": "common market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通许可证",
+   "en": "common permit",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "食盐",
+   "en": "common salt",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "习见种， 常见种",
+   "en": "common species",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共同景观",
+   "en": "common landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "全球公域",
+   "en": "global commons",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同异",
+   "en": "Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共池塘资源",
+   "en": "common-pool resources",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大同异/小同异",
+   "en": "Major Commonality and Difference / Minor Commonality and Difference",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共同体",
+   "en": "Common Body of Knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "命运共同体",
+   "en": "community with a common future",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "约定俗成",
+   "en": "Established Through Popular Usage / Accepted Through Common Practice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190810-T-469 信息技术 存储管理 第2部分：通用架构》",
+   "en": "20190810-T-469 Information technology — Storage management — Part 2: Common architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼不下庶人",
+   "en": "The Common People Are Not Bound by Ceremonial Rites.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际信息安全测评认证",
+   "en": "Common Criteria (CC) for Information Security Evaluation and Certification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生安全是人类面临的共同挑战",
+   "en": "Public health security is a common challenge for humanity.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "共同性分析",
+   "en": "commonality analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.126",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一个测量变量或潜变量中被解释或被预测的方差进一步分解成两个组成部分，由每个测量的预测变量单独解释的部分和由预测变量可能的组合共同解释的部分。"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "马克思主义",
+   "wordNumber": "03.0554",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全体人民通过辛勤劳动和相互帮助最终达到丰衣足食的生活水平。共同富裕是邓小平论述社会主义本质的重要内容和根本原则，是对以往社会两极分化的否定。其实现途径是：允许和鼓励一部分地区、一部分人通过诚实劳动和合"
+  },
+  {
+   "cn": "共同纲领",
+   "en": "common programme",
+   "source": "马克思主义",
+   "wordNumber": "04.0133",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商会议共同纲领》（简称《共同纲领》），展示了新中国的宏伟建设蓝图，是新中国的建国纲领。在全国人民代表大会制定宪法前，具有临时宪法"
+  },
+  {
+   "cn": "通用语",
+   "en": "common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0185",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家或地区普遍使用的语言。分国家通用语、地方通用语、区域（跨国）通用语和全球通用语。例如汉语普通话为中国的国家通用语，藏语为中国西藏自治区的地方通用语。"
+  },
+  {
+   "cn": "五个共同",
+   "en": "five common contributions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0147",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华民族历史观的集中体现。我国各民族共同开拓了祖国的辽阔疆域，共同缔造了统一的多民族国家，共同书写了辉煌的中国历史，共同创造了灿烂的中华文化，共同培育了伟大的民族精神。"
+  },
+  {
+   "cn": "一般辐射事故",
+   "en": "common radiation accident",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "Ⅳ类、Ⅴ类放射源丢失、被盗、失控，或者放射性同位素和射线装置失控导致人员受到超过年剂量限值的照射的辐射事故。"
+  },
+  {
+   "cn": "“两个共同”",
+   "en": "Two Common Principles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0125",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即“共同团结奋斗、共同繁荣发展”，是中国共产党在21 世纪初提出的民族工作主题。"
+  },
+  {
+   "cn": "一般作业区",
+   "en": "common working area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.17",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "对于食品生产过程清洁程度无特殊要求的食品生产作业区域。"
+  },
+  {
+   "cn": "国家通用语言",
+   "en": "national common language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0188",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家各民族之间使用最广泛的语言。中国法定的国家通用语言特指汉语普通话。"
+  },
+  {
+   "cn": "公地悲剧",
+   "en": "tragedy of the commons",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.12",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "一种涉及个人利益和公共利益对资源分配冲突的社会陷阱，比喻有限的资源注定因自由进入和不受限制的利用而被过度消耗。"
+  },
+  {
+   "cn": "普通变异型免疫缺陷病",
+   "en": "common variable immunodeficiency, CVID",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "以抗体产生缺陷、低免疫球蛋白血症和反复感染为主要特征，并除外药物或感染引起的低免疫球蛋白血症，以及已知的染色体异常引起的低免疫球蛋白性疾病。其临床表现无特异性，主要表现为反复感染特别是呼吸道和消化道感"
+  },
+  {
+   "cn": "学生常见疾病监测",
+   "en": "students' common diseases surveillance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用抽样调查方法，对确定检测点学校目标人群的发生率较高的一类疾病进行长期动态观察。"
+  },
+  {
+   "cn": "常见疾病预防",
+   "en": "prevention of common diseases",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止儿童青少年常见病，如肥胖、视力不良与近视、营养不良与贫血等发生发展而采取的一系列措施，包括健康促进、环境改善和健康素养提升。"
+  },
+  {
+   "cn": "来访者常见表现",
+   "en": "common performance of clients",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "青少年在心理咨询过程中常见的心理行为表现，如心理阻抗、沉默和移情。"
+  },
+  {
+   "cn": "妇女常见病",
+   "en": "woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "发生在女性生殖器官或乳腺的常见疾病，主要包括宫颈疾病、乳腺疾病、生殖道感染及其他生殖系统疾病。"
+  },
+  {
+   "cn": "孕期常见疾病筛查",
+   "en": "prenatal screening for common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "通过临床检查、血液检测和影像学检查等手段对妊娠期常见疾病进行筛查的服务过程，以早期诊断和治疗危害孕妇和胎儿健康的疾病。"
+  },
+  {
+   "cn": "妇女常见病筛查",
+   "en": "screening of woman's common disease",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "有计划、有组织地为适龄妇女定期筛查发生在生殖器官或乳腺的常见疾病的措施。包括提供相关健康教育和咨询指导，进行专项医学检查，提出医学意见，对发现的异常或可疑情况进行进一步检查、诊断、治疗和随访等服务。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  },
+  {
+   "cn": "军事飞行人员常见病流行病学",
+   "en": "epidemiology of common diseases in military pilots",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.5.4",
+   "subjectFullName": "军事预防医学_军队流行病学_航空流行病学",
+   "subjectName": "航空流行病学",
+   "publishYear": "2025",
+   "definition": "对军事飞行人员常见病的分布、影响因素、预防控制对策和措施的流行病学研究。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

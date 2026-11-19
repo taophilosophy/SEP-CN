@@ -1,0 +1,782 @@
+{
+ "key": "parallel composition hiding",
+ "term": "parallel composition hiding",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:49:26+00:00",
+ "status": "ok",
+ "note": "variant=parallel composition hiding; 审定公布名词库=2736; 海峡两岸名词对照库=1253; 其他来源数据库=232; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "平行[的]",
+   "en": "parallel",
+   "source": "数学名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel,parallel lines",
+   "source": "数学名词",
+   "wordNumber": "08.0024",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution;parallelism",
+   "source": "动物学名词",
+   "wordNumber": "2.0233",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同物种（亲缘关系较近）共存于极为相似的环境中，具有一些共同的生活习性而出现相似的性状或相似行为的现象。"
+  },
+  {
+   "cn": "排比",
+   "en": "parallelism",
+   "source": "档案学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "在公文中有一定应用的修辞格。特点是用结构相同或相似、语气相近或一致的三个或三个以上的语句表示相关或相似内容。"
+  },
+  {
+   "cn": "平行度",
+   "en": "parallelism",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0307",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "限制被测要素的实际方向，与基准相平行的理想方向之间所允许的变动量。"
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0151",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "把串行代码转换成并行代码的一种方法。"
+  },
+  {
+   "cn": "并联[运行]",
+   "en": "paralleling",
+   "source": "电气工程名词",
+   "wordNumber": "07.560",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "平行连晶",
+   "en": "parallel intergrowth;parallel growth",
+   "source": "地质学名词",
+   "wordNumber": "02.00.107",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "同种晶体间呈完全平行一致取向关系(包括各对应的晶轴、对称要素、晶面及晶棱的方向)的规则连生体。"
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0207",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "由部分或个体组合成的集合体。 "
+  },
+  {
+   "cn": "排版",
+   "en": "composition",
+   "source": "测绘学名词",
+   "wordNumber": "04.335",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "按页面设计要求将图文组成规定版式的过程。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0115",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "函数复合算子。例如：给定函数 f(x),g(y) ，复合算子定义函数 h(y)=f(g(y)) 。 "
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0323",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "聚合的一种特殊形式，它表明整体对象与部分对象之间具有紧密的拥有关系和共同的生存周期。"
+  },
+  {
+   "cn": "关系复合",
+   "en": "composition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0121",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "已知 x、y间关系<img src='/root/syzx/static/spz/jsjkx3.08.0121.001.png'/>， y、z间关系<img src='/root/syzx/stati"
+  },
+  {
+   "cn": "组合",
+   "en": "composition",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0234",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "部分和整体具有统一的生存期的整体与部分的关联关系。"
+  },
+  {
+   "cn": "作文",
+   "en": "composition",
+   "source": "教育学名词",
+   "wordNumber": "07.142",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "（1）学生练习写作的活动。（2）学生作为练习所写的文章。"
+  },
+  {
+   "cn": "复合",
+   "en": "composition",
+   "source": "数学名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复合性",
+   "en": "compositeness",
+   "source": "物理学名词",
+   "wordNumber": "09.1242",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "建筑学名词",
+   "wordNumber": "12.0007",
+   "subjectFullName": "建筑学_建筑材料及制品_材料分类",
+   "subjectName": "材料分类",
+   "publishYear": "2014",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。"
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite,composite materials",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "由异质、异性、异形的有机聚合物、无机非金属、金属等材料作为基体或增强体，通过复合工艺组合而成的材料。除具备原材料的性能外，同时能产生新的性能。"
+  },
+  {
+   "cn": "平行导坑",
+   "en": "parallel heading",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0789",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "平行",
+   "en": "parallel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行线",
+   "en": "parallel",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纬圈",
+   "en": "parallel",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallel evolution\",\"parallelism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "并行化",
+   "en": "parallelization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行性",
+   "en": "parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行进化",
+   "en": "parallelism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组成",
+   "en": "composition",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拼版",
+   "en": "composition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "复合材料",
+   "en": "composite materials\",\"composite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "平行纤维",
+   "en": "parallel fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉",
+   "en": "parallel vein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平行脉序",
+   "en": "parallel venation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "并联补偿",
+   "en": "parallel compensation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行过程",
+   "en": "parallel processes",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平行处理",
+   "en": "parallel processing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行操作",
+   "en": "parallel operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平行反应",
+   "en": "parallel reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算",
+   "en": "parallel computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行空间",
+   "en": "parallel space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行宇宙",
+   "en": "parallel universe",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库",
+   "en": "parallel database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "IO并行",
+   "en": "IO parallel",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行查询",
+   "en": "parallel query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理",
+   "en": "parallel processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平行坐标",
+   "en": "parallel coordinates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双杠",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双杠项目",
+   "en": "parallel bars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行障碍",
+   "en": "parallel fence",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平行杆障碍",
+   "en": "parallel poles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息隐藏",
+   "en": "information hiding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "丽辞",
+   "en": "Ornate parallel style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理系统",
+   "en": "parallel processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行数据库体系架构",
+   "en": "parallel database architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体成分",
+   "en": "body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "组成人体质量的各组成成分的含量，包括肌肉、骨骼、脂肪、水和矿物质等。"
+  },
+  {
+   "cn": "表婚",
+   "en": "parallel cousin marriage",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "己身与堂亲和姨表亲的联姻。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "平行从表婚",
+   "en": "parallel-cousin marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0358",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "同性的同胞的子女，即兄弟的子女及姊妹的子女结为夫妻的婚姻形式。按照父系的观念，两兄弟的子女为从兄弟姊妹，两姊妹的子女为姨表兄弟姊妹。姨表兄弟姊妹之间不通婚，其原因可追溯到母系社会的氏族外婚制。"
+  },
+  {
+   "cn": "体成分发育",
+   "en": "body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "身体成分在儿童青少年时期随时间不断变化和完善的过程。"
+  },
+  {
+   "cn": "乳成分标准化",
+   "en": "milk composition standardization",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.25",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "通过调整原料乳中脂肪、蛋白和非脂肪乳固体之间的比例关系，使其符合产品的要求，之后进行加工的方法。"
+  },
+  {
+   "cn": "复合强化食品",
+   "en": "composite fortified food",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.4.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品营养强化剂",
+   "subjectName": "食品营养强化剂",
+   "publishYear": "2025",
+   "definition": "强化了两种或两种以上营养素的食品。"
+  },
+  {
+   "cn": "复合防护材料",
+   "en": "composite protective material",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.12",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "由多种吸收X、γ射线的金属元素和硅沙等按一定比例和粒度混合而成的干粉状防护材料，其基本成分为硫酸钡、氧化铁、氧化铅等，可采用重晶石矿石粉、铁矿粉和铅矿粉等混合制成。"
+  },
+  {
+   "cn": "组合危险分数",
+   "en": "composite risk score",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "当死亡原因存在多种危险因素时计算的危险分数的组合结果，可以反映危险因素之间对健康影响的综合效应。"
+  },
+  {
+   "cn": "资本价值构成",
+   "en": "value composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0160",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不变资本同可变资本之间的比例，即资本中用于生产资料的价值和用于劳动力的价值的比例。资本的价值构成的高低主要取决于资本的技术构成。"
+  },
+  {
+   "cn": "资本技术构成",
+   "en": "technical composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0161",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本总量中生产资料数量同劳动力数量之间的比例，这种比例的大小，取决于生产技术的发展水平，故称为资本技术构成。资本技术构成反映劳动生产率的水平，表现为与资本价值构成。"
+  },
+  {
+   "cn": "资本有机构成",
+   "en": "organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0162",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由资本技术构成决定并反映资本技术构成变化的资本价值构成，用不变资本同可变资本的百分比来表示。资本有机构成随着资本积累的增加和生产技术的发展而不断提高。"
+  },
+  {
+   "cn": "体成分模型",
+   "en": "model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "反映人体内在结构成分特征的形式化表达。"
+  },
+  {
+   "cn": "体成分发育种族差异",
+   "en": "ethnic difference in body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "不同遗传背景下的种族，其体成分发育存在差异性的现象。"
+  },
+  {
+   "cn": "二成分模型",
+   "en": "two-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "将人体内在结构分为体脂重和去脂体重这两种成分的形式化表达。"
+  },
+  {
+   "cn": "多成分模型",
+   "en": "multi-component model of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "在二成分模型基础上将人体内在结构进一步分为多种基本成分的形式化表达。有三成分、四成分、五成分等多种模型。"
+  },
+  {
+   "cn": "体成分发育年龄特征",
+   "en": "age characteristics of body composition development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同年龄儿童中所呈现的特征。"
+  },
+  {
+   "cn": "新民主主义五种经济成分",
+   "en": "five economic compositions of new democracy",
+   "source": "马克思主义",
+   "wordNumber": "02.0341",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在党的七届二中全会上指出，国营经济是社会主义性质的，合作社经济是半社会主义性质的，加上私人资本主义，加上个体经济，加上国家和私人合作的国家资本主义经济，这些就是人民共和国的几种主要的经济成分，这"
+  },
+  {
+   "cn": "体成分发育性别特征",
+   "en": "sex difference in development of body composition",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体成分发育在不同性别儿童中所呈现的特征。"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

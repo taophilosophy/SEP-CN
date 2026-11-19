@@ -1,0 +1,712 @@
+{
+ "key": "fission",
+ "term": "fission",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:45:34+00:00",
+ "status": "ok",
+ "note": "variant=fission; 审定公布名词库=1134; 海峡两岸名词对照库=330; 其他来源数据库=45; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "裂变",
+   "en": "fission",
+   "source": "物理学名词",
+   "wordNumber": "09.0629",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂殖",
+   "en": "fission,schizogenesis",
+   "source": "微生物学名词",
+   "wordNumber": "05.216",
+   "subjectFullName": "微生物学_微生物生理生化",
+   "subjectName": "微生物生理生化",
+   "publishYear": "2012",
+   "definition": "细胞通过分裂或断裂进行增殖的方式。"
+  },
+  {
+   "cn": "裂体生殖",
+   "en": "fissiparity,fission",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.117",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞核先分裂后均匀分布于细胞中，以核为中心，细胞质也进行分割，最后形成一个个后代的生殖方式。是原生动物孢子纲动物特有的无性繁殖方式。"
+  },
+  {
+   "cn": "分裂生殖",
+   "en": "fission,paratomy,schizogony",
+   "source": "植物学名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "母体纵裂或横裂形成两个子体的一种营养繁殖方式。见于低等植物。"
+  },
+  {
+   "cn": "熔合−裂变",
+   "en": "fusion-fission",
+   "source": "核科学技术名词",
+   "wordNumber": "1.346",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "弹核与靶核形成高激发、高角动量的复合核体系，经复杂演化后最终发生裂变的过‍程。"
+  },
+  {
+   "cn": "熔合裂变",
+   "en": "fusion-fission",
+   "source": "物理学名词",
+   "wordNumber": "09.0640",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂变径迹",
+   "en": "fission track",
+   "source": "地质学名词",
+   "wordNumber": "13.03.026",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "矿物内部由铀、钍等放射性同位素的自发裂变而产生的线性损伤痕迹。"
+  },
+  {
+   "cn": "裂变势垒",
+   "en": "fission barrier",
+   "source": "核科学技术名词",
+   "wordNumber": "1.355",
+   "subjectFullName": "核科学技术_核物理_核反应类",
+   "subjectName": "核反应类",
+   "publishYear": "2024",
+   "definition": "可裂变核从初态到断点的形变过程中由于势能变化形成的势垒。其最高点对应于裂变鞍‍点。"
+  },
+  {
+   "cn": "裂变化学",
+   "en": "fission chemistry",
+   "source": "核科学技术名词",
+   "wordNumber": "2.116",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "以可裂变核素和裂变产物为研究对象，用放射化学方法研究核结构及核裂变规律的核化学分支学科。主要的研究内容包括重核素裂变性质、裂变产物质量分布和电荷分布、发现和鉴别新的裂变产物核素、裂变产物化学状态及裂变"
+  },
+  {
+   "cn": "裂变产额",
+   "en": "fission yield",
+   "source": "核科学技术名词",
+   "wordNumber": "2.183",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "裂变中产生某一给定种类裂变产物的份额。细分为原始裂变产额和累计裂变产‍额。"
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "核科学技术名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "核裂变生成的裂变碎片及其衰变产物。裂变产物有200多种核素，质量数在70～160。"
+  },
+  {
+   "cn": "裂变计数器",
+   "en": "fission counter",
+   "source": "核科学技术名词",
+   "wordNumber": "2.189",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "裂变过程中易变核素分裂为不同的核素，对该过程中放射性生长和衰变进行检测的仪器。"
+  },
+  {
+   "cn": "裂变碎片",
+   "en": "fission fragment",
+   "source": "核科学技术名词",
+   "wordNumber": "2.191",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "重核裂变时生成的核。重核裂变成两块碎片的概率比裂变成3块或3块以上的概率要大得多。一般两块碎片的质量分配是不均匀的，一块较重，一块较轻，质量分布呈现明显的两个峰。"
+  },
+  {
+   "cn": "裂变同质异能素",
+   "en": "fission isomer",
+   "source": "核科学技术名词",
+   "wordNumber": "2.192",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "处于裂变双峰势垒第二势阱内的某一能态，具有极短的裂变半衰期的重原子核。其特征是具有长轴与短轴之比约为2∶1的大形‍变。"
+  },
+  {
+   "cn": "裂变中子",
+   "en": "fission neutron",
+   "source": "电力名词",
+   "wordNumber": "17.034",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "裂变反应过程中放出的新的次级中子,其平均能量约为2MeV。每次裂变反应放出的裂变中子平均数与可裂变核的种类及引起裂变的中子能量有关。裂变中子又可分成瞬发中子和缓发中子两类。"
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "电力名词",
+   "wordNumber": "17.184",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "核裂变生成的裂变碎片及其衰变产物的总称。其中,裂变直接产生的、在发射中子前的称原始裂变碎片,简称“裂片”;而发射中子后发生β衰变前的产物称原始、独立或直接裂变产物。"
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "物理学名词",
+   "wordNumber": "09.0647",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂变反应堆",
+   "en": "fission reactor",
+   "source": "物理学名词",
+   "wordNumber": "09.0892",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂变阈",
+   "en": "fission threshold",
+   "source": "物理学名词",
+   "wordNumber": "09.0646",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂变产额",
+   "en": "fission yield",
+   "source": "物理学名词",
+   "wordNumber": "09.0649",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裂变",
+   "en": "fission",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可裂变性",
+   "en": "fissionability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分裂生殖，裂殖",
+   "en": "schizogenesis\",\"fission",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裂殖（=分裂生殖）",
+   "en": "schizogenesis\",\"fission",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裂体生殖",
+   "en": "fissiparity\",\"fission",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "裂变能",
+   "en": "fission energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裂变核燃料",
+   "en": "fission fuel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "裂变产额",
+   "en": "fission yield",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变化学",
+   "en": "fission chemistry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变计数器",
+   "en": "fission counter",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变势垒",
+   "en": "fission barrier",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变碎片",
+   "en": "fission fragment",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变同质异能素",
+   "en": "fission isomer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裂变产物",
+   "en": "fission product",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裂变能",
+   "en": "fission energy",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裂变中子",
+   "en": "fission neutron",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "放射性裂变",
+   "en": "radioactive fission",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热裂变",
+   "en": "thermal fission",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "至情",
+   "en": "True Passion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机视觉",
+   "en": "computer vision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据融合",
+   "en": "data fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器视觉",
+   "en": "machine vision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传感器融合",
+   "en": "sensor fusion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正电子发射断层成像",
+   "en": "Positron-Emission Tomography",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "碳排放权",
+   "en": "carbon emission right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裂变室",
+   "en": "fission chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.3.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_中子监测设备",
+   "subjectName": "中子监测设备",
+   "publishYear": "2025",
+   "definition": "利用裂变反应测量中子的电离室。一般用在反应堆或加速器上监测中子，也有用于中子注量或裂变截面的测量。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  },
+  {
+   "cn": "核裂变",
+   "en": "nuclear fission",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.43",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "一个重原子核分裂成两个或两个以上质量为同一量级的原子核（裂变碎片）的现象。可分为诱发核裂变和自发核裂变两种类型。诱发核裂变属核反应的一种类型，自发核裂变类似于核衰变。最重要的诱发裂变是中子诱发裂变，如"
+  },
+  {
+   "cn": "核裂变",
+   "en": "nuclear fission",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.10",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "一个重原子核分裂为两个或更多个轻原子核、并释放数个自由中子和巨大能量的一类核反应。"
+  },
+  {
+   "cn": "特种可裂变材料",
+   "en": "special fissionable material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "含239Pu、233U、富集了同位素235U或233U的铀或有上述一种或几种物质的任何材料。"
+  },
+  {
+   "cn": "视觉",
+   "en": "vision",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "视觉系统的外周感觉器官(眼)接受一定波长范围的光刺激，经中枢编码加工和分析后获得的感觉。"
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.44",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "轻原子核在特定条件下结合生成较重原子核，同时放出巨大能量的一类核反应。"
+  },
+  {
+   "cn": "文化融合",
+   "en": "culture fusion",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不同的文化系统通过长期的相互接触和相互影响，彼此接近、接纳并融为一体的过程。文化融合会产生新的文化系统，后者是在融合过程中不断扬弃旧文化，并加入新文化要素而产生的，因而有利于文化的发展与进步。"
+  },
+  {
+   "cn": "融合蛋白",
+   "en": "fusion protein",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.26",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "通过基因工程方法将编码不同蛋白质的基因片段按照正确的读框进行重组，将其表达后获得的新蛋白质。"
+  },
+  {
+   "cn": "视力不良",
+   "en": "poor vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "根据《标准对数视力表》（国家标准GB11533-2011）检查远视力，6岁以上儿童少年裸眼视力低于5.0的情况。其中，视力4.9为轻度，4.6≤视力≤4.8为中度，视力≤4.5为重度。"
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以日常生活视力较好眼判断得出的视力或视野功能不足的状态。轻度，4.5（0.3）≤视力<4.7（0.5）；中度，4.0（0.1）≤视力<4.5（0.3）；重度，3.7（0.05）≤视力<4.0（0.1）"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<4.5（0.3）的状态。"
+  },
+  {
+   "cn": "民族融合",
+   "en": "ethnic fusion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0014",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "两个或更多民族在文化和人口上的相互吸收和融会，由此形成新的民族的历史现象，是马克思主义民族理论的基本主题之一，是民族演进过程的必然结果和进步现象。马克思主义民族观认为，民族融合是指各民族随着社会高度发"
+  },
+  {
+   "cn": "核聚变",
+   "en": "nuclear fusion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.11",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "轻原子核在特定条件下结合生成较重的原子核，同时放出巨大能量的一类核反应。"
+  },
+  {
+   "cn": "文化融合",
+   "en": "cultural fusion",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0042",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "两种比较接近的文化体系接触后，原来的文化体系随之消失或改变其形貌，从而产生出一种新的文化体系的过程。"
+  },
+  {
+   "cn": "社会工作使命",
+   "en": "mission of social work",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "社会工作自觉追求达到的目标。首要者在于促进人类福祉，协助全人类满足其基本人性需求，尤其关注弱势族群、受压迫者及贫穷者的需求并增强其力量。"
+  },
+  {
+   "cn": "无产阶级历史使命",
+   "en": "historical mission of proletariat",
+   "source": "马克思主义",
+   "wordNumber": "03.0197",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在自己政党领导下，联合全世界无产者和被压迫民族、被压迫人民，通过无产阶级革命，推翻资产阶级统治，建立无产阶级专政，进而创造条件，消灭阶级和阶级差别，实现共产主义，解放全人类。"
+  },
+  {
+   "cn": "核裂变材料",
+   "en": "nuclear fissile material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "组成物质的原子核可分裂成两个或两个以上质量为同一量级的原子核（裂变碎片）的材料。"
+  },
+  {
+   "cn": "无产阶级的历史使命",
+   "en": "historical mission of the proletarian",
+   "source": "马克思主义",
+   "wordNumber": "03.0248",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级是最先进最革命的阶级，承担着推翻资本主义、建设社会主义和共产主义、解放全人类的历史使命。为实现这一伟大历史使命，必须有无产阶级政党的领导。"
+  },
+  {
+   "cn": "正电子发射体层成像",
+   "en": "positron emission tomography,PET",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "一种正电子核素进行的放射性示踪显像技术，以解剖形态方式显示活体组织器官内生物化 学物质的浓度及其随时间的变化。可显示炎症活跃部位。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

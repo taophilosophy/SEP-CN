@@ -1,0 +1,472 @@
+{
+ "key": "compatibility",
+ "term": "compatibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:06:37+00:00",
+ "status": "ok",
+ "note": "variant=compatibility; 审定公布名词库=163; 海峡两岸名词对照库=65; 其他来源数据库=2; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "精细化工名词",
+   "wordNumber": "05.0346",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "两种或多种物料混合在一起，不会引起不良后果的能力。"
+  },
+  {
+   "cn": "亲和性",
+   "en": "compatibility",
+   "source": "农学名词",
+   "wordNumber": "06.232",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "配子能够相互识别并融合产生合子的特性。"
+  },
+  {
+   "cn": "兼容性",
+   "en": "compatibility",
+   "source": "档案学名词",
+   "wordNumber": "06.02.024",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "在特定情况下，同类环境（如标准、系统）一起使用的适宜性。也指硬件之间、软件之间、软硬件之间的配合程度。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "动物学名词",
+   "wordNumber": "2.0193",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "两种或两种以上物种共存时不产生相互排斥的现象。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "物理学名词",
+   "wordNumber": "07.0083",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "调和配伍性",
+   "en": "compatibility",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0078",
+   "subjectFullName": "化工（一）_总论_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2017",
+   "definition": "在油品调和中，以合适的量加入两种或两种以上的添加剂于同一油品内,以提高其使用性能，但油品不产生沉淀或添加剂不降低自身的性能。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "化学名词",
+   "wordNumber": "05.0883",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "在不相溶高分子共混物或高分子复合物中，各单一组分表现的界面黏结能力。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "药学名词",
+   "wordNumber": "05.310",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "两种或两种以上物质混合时，不产生相斥分离的现象。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.046",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "一项创新与现存价值观、潜在接受者过去的经历以及个体需要的符合程度。越好被采纳速度越快。"
+  },
+  {
+   "cn": "兼容性",
+   "en": "compatibility",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护监测",
+   "subjectName": "放射防护监测",
+   "publishYear": "2014",
+   "definition": "在具体条件下，辐射防护中的诸多产品、过程或服务可一起使用，各自满足相应要求，彼此之间不引起不可接受的相互干扰的适应能力。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0220",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "在两相或多相聚合物共混物或复合物中相与相之间的界面黏结能力。"
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.387",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "兼容性",
+   "en": "compatibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.016",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "电气工程名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "电气工程_绝缘材料",
+   "subjectName": "绝缘材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "航海科技名词",
+   "wordNumber": "15.0859",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "配伍性",
+   "en": "compatibility",
+   "source": "石油名词",
+   "wordNumber": "10.0234",
+   "subjectFullName": "石油_油田化学_采油油田化学_提高采收率采油药剂",
+   "subjectName": "提高采收率采油药剂",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "兼容性",
+   "en": "compatibility",
+   "source": "电子学名词",
+   "wordNumber": "21.056",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "自动化名词",
+   "wordNumber": "03.230",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "亲和",
+   "en": "compatible",
+   "source": "农学名词",
+   "wordNumber": "06.231",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "物种间杂交产生正常后代的能力。"
+  },
+  {
+   "cn": "配装组",
+   "en": "compatibility group",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "03.023",
+   "subjectFullName": "化工（四）_危险化学品与相关管理法规",
+   "subjectName": "危险化学品与相关管理法规",
+   "publishYear": "2020",
+   "definition": "两种或两种以上爆炸品在一起能安全积载或运输，而不会明显地增加事故率或在一定量的情况下不会明显地提高事故危害程度的运输组合。"
+  },
+  {
+   "cn": "兼容性",
+   "en": "compatibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "兼容性，相容性",
+   "en": "compatibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相容性",
+   "en": "compatibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "兼容字符",
+   "en": "compatibility character",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杂交亲和性",
+   "en": "cross-compatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自交亲和性",
+   "en": "self-compatibility",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "化学计量兼容性",
+   "en": "stoichiometric compatibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "心理相容性",
+   "en": "psychological compatibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物力学相容性",
+   "en": "biomechanical compatibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "血液相容性",
+   "en": "blood compatibility",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "自交亲和性",
+   "en": "self-compatibility",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据兼容性",
+   "en": "data compatibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "杂交亲和性",
+   "en": "cross-compatibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "TTL 兼容性",
+   "en": "TTL compatibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性理论",
+   "en": "computability theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "各种材料（如消毒剂、包材、生物材料等）与宿主直接或间接接触时所产生相互反应的能力。"
+  },
+  {
+   "cn": "环境相容性",
+   "en": "environmental compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "使用的消毒方法对环境造成的伤害（损害）在可以接受范围内的能力。"
+  },
+  {
+   "cn": "材料相容性",
+   "en": "material compatibility",
+   "source": "消毒学",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "材料在受到消毒因子作用后对材料造成的伤害（损害）在可以接受的范围内的能力。"
+  },
+  {
+   "cn": "激励相容约束",
+   "en": "incentive compatibility constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。在委托人不知道代理人的类型(不能完全观测到代理人所选择的行动)的情况下，代理人在所设计的机制下必须有积极性选择委托人希望他选择的"
+  },
+  {
+   "cn": "建设规模和国力相适应",
+   "en": "scale of construction compatible with the national strength",
+   "source": "马克思主义",
+   "wordNumber": "02.0382",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "陈云1957年1月总结执行一五计划的经验教训提出的著名论断。建设规模超过国家财力物力的可能，就会出现经济混乱；两者合适，经济就稳定。他主张要在安排好人民生活的基础上扩大建设规模，主张国民经济计划必须坚"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

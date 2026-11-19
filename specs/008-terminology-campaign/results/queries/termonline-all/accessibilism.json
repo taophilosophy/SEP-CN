@@ -1,0 +1,382 @@
+{
+ "key": "accessibilism",
+ "term": "accessibilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:04:59+00:00",
+ "status": "ok",
+ "note": "variant=accessibilism; 审定公布名词库=27; 海峡两岸名词对照库=9; 其他来源数据库=1; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "通达性",
+   "en": "accessibility",
+   "source": "经济学名词",
+   "wordNumber": "08.016",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某特定位置的交通运输条件。包括移动的距离、时间及所涉及的费用。它是衡量区域交通运输发达程度及通达性能的重要指标。"
+  },
+  {
+   "cn": "可获取性",
+   "en": "accessibility",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在条件允许的情况下，用户能够从资源供给方获取信息资源或信息线索，以满足其信息需求的程度。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "建筑学名词",
+   "wordNumber": "07.0338",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "场地可到达的便捷程度。"
+  },
+  {
+   "cn": "可访问性",
+   "en": "accessibility",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.314",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "信息或数据的可读取和可浏览性。通常指Web信息的可访问性，一般用存储时间来衡量。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.011",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "用户可访问数据库和所有授权访问的数据的特性。"
+  },
+  {
+   "cn": "可接入性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.073",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "普遍服务的原则。电话用户在价格、服务和质量方面受同等对待，而与地理位置、种族、性别、宗教等无关。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "地理学名词",
+   "wordNumber": "18.188",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "到达一个地区或一个城市的难易程度。以时间距离表达。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.251",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "数学名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "电子学名词",
+   "wordNumber": "18.094",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可及性",
+   "en": "accessibility",
+   "source": "自动化名词",
+   "wordNumber": "03.348",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "可达性分析",
+   "en": "accessibility analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0107",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "为实现对区域空间结构的可视化，通过对场地可到达的便捷程度的分析。"
+  },
+  {
+   "cn": "染色质可及性",
+   "en": "chromatin accessibility",
+   "source": "农学名词",
+   "wordNumber": "15.308",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "真核生物染色质DNA在核小体或转录因子等蛋白与其结合后，对其他蛋白能否再结合的开放程度。"
+  },
+  {
+   "cn": "空间可达性",
+   "en": "spatial accessibility",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.369",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "城市中某一场地可以到达的容易程度。"
+  },
+  {
+   "cn": "数据可访问性",
+   "en": "data accessibility",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.522",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "系统用户进行查询和修改数据的能力。"
+  },
+  {
+   "cn": "数据可访问性",
+   "en": "data accessibility",
+   "source": "地理学名词",
+   "wordNumber": "30.079",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "信息系统用户进行查询和修改数据的能力。"
+  },
+  {
+   "cn": "可达性指数",
+   "en": "accessibility index",
+   "source": "地理学名词",
+   "wordNumber": "19.174",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "测度网络中可达性的简便方法，代表网络中任一结点或地点到其他结点或地点的距离的总和，可使用成本距离、时间距离或其他相关距离。"
+  },
+  {
+   "cn": "维修可达性",
+   "en": "maintenance accessibility",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.092",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "在维修工作时，对系统、设备、机件不同部位能看见，可触摸到并进行检查、调节、拆装等维修操作的难易程度。"
+  },
+  {
+   "cn": "交通可达性",
+   "en": "traffic accessibility",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "绿地可达性",
+   "en": "accessibility of greenspace",
+   "source": "风景园林名词",
+   "wordNumber": "05.0179",
+   "subjectFullName": "风景园林_风景园林规划_城市绿地系统规划管理",
+   "subjectName": "城市绿地系统规划管理",
+   "publishYear": "2025",
+   "definition": "基于不同交通方式，从任意一点到达某一绿地的难易程度。反映绿地对过程的空间阻力。"
+  },
+  {
+   "cn": "可达性,可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可访问性，可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "易获得性启发法",
+   "en": "accessibility heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达性指数",
+   "en": "accessibility index",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据可访问性",
+   "en": "data accessibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "启动子可及性",
+   "en": "promoter accessibility",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据可访问性，数据可存取性",
+   "en": "data accessibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "互联网可及性数字红利",
+   "en": "Internet accessibility-generated digital dividend",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术可及性",
+   "en": "technical accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，对医疗卫生服务技术可及的机会和条件是均等的特性。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographic accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，获得医疗卫生服务的地理距离是均等的特性。"
+  },
+  {
+   "cn": "经济可及性",
+   "en": "economical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从居民对医疗卫生服务的支付角度，衡量居民是否能够获得所需的医疗卫生服务的能力。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从医疗卫生机构地理位置的角度，以距离、交通方式和路程时间来衡量居民能否方便利用医疗卫生服务的能力。"
+  },
+  {
+   "cn": "卫生服务可及性",
+   "en": "health service accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "人们能够及时、方便、经济、有效地获得所需卫生服务的能力和机会。"
+  },
+  {
+   "cn": "文化心理可及性",
+   "en": "cultural and psychological accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从居民的认知和接受程度角度，衡量居民是否能够获得所需的医疗卫生服务的能力。"
+  },
+  {
+   "cn": "医疗资源空间可及性",
+   "en": "spatial accessibility of health resources",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "居民获取基本医疗卫生需求在空间上的难易程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

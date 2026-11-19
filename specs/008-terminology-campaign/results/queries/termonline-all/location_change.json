@@ -1,0 +1,802 @@
+{
+ "key": "location change",
+ "term": "location change",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:46:35+00:00",
+ "status": "ok",
+ "note": "variant=location change; 审定公布名词库=3489; 海峡两岸名词对照库=1599; 其他来源数据库=208; 预公布名词数据库=133; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "支移",
+   "en": "zhi yi;location changing tax",
+   "source": "中国古代史名词",
+   "wordNumber": "6.265",
+   "subjectFullName": "中国古代史_两宋_社会经济_田土租赋",
+   "subjectName": "田土租赋",
+   "publishYear": "2022",
+   "definition": "因官府变更编户的赋税输纳地点形成的一种杂税。宋时盛行，或因物产和官府需要不同移此输彼，或因户等高低变其远近，可纳脚钱由官府代运，成为两税以外的加税。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "风景园林名词",
+   "wordNumber": "07.0073",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "建筑物或建筑群的建造地点的选择。景观环境中的选址既要考虑与地形地貌相结合，也要考虑人文背景，应通过对环境影响综合评估进行判断。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "经济学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某一经济主体为其社会经济活动所占有的场所（如工业区位、居住区位、城市区位等）。经济区位的实质是反映不同的地理坐标（空间位置）所标识的经济利益差别。"
+  },
+  {
+   "cn": "选址",
+   "en": "location",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0671",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "对应对突发事件的资源等的地址进行论证和决策的过程。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "07.0199",
+   "subjectFullName": "建筑学_城乡规划_详细规划",
+   "subjectName": "详细规划",
+   "publishYear": "2014",
+   "definition": "城市或建设项目、设施的位置与其他城市、建设项目、设施等空间要素的关系。是影响城市和区域发展的基础性因素。"
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "建筑学名词",
+   "wordNumber": "09.0006",
+   "subjectFullName": "建筑学_建筑设计_总图与场地",
+   "subjectName": "总图与场地",
+   "publishYear": "2014",
+   "definition": "场地或建筑物、构筑物等所在或所占的地方。"
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "航海科技名词",
+   "wordNumber": "14.0168",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "定域子",
+   "en": "locator",
+   "source": "物理学名词",
+   "wordNumber": "08.0685",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0621",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "用于确定位置的一种点的输入设备。"
+  },
+  {
+   "cn": "归字",
+   "en": "locate",
+   "source": "语言学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "语言学_音韵学_音类分析和等韵学",
+   "subjectName": "音类分析和等韵学",
+   "publishYear": "2011",
+   "definition": "根据反切上下字确定被切字在切韵图上的音韵地位。"
+  },
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "人员、物料、管理、工艺、技术、设施、标准等永久性或暂时性的变化。"
+  },
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0192",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_整体管理",
+   "subjectName": "整体管理",
+   "publishYear": "2016",
+   "definition": "实施过程中出现的需要修正的偏差。"
+  },
+  {
+   "cn": "变化",
+   "en": "change",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "放射医学与防护_放射生物学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "辐射照射引起的轻微效应。其可能有害，也可能无害。"
+  },
+  {
+   "cn": "公司总部区位",
+   "en": "headquarter location,HQ location",
+   "source": "地理学名词",
+   "wordNumber": "18.131",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "公司总部所在地。在公司空间结构和治理中起关键作用。"
+  },
+  {
+   "cn": "震中位置",
+   "en": "epicentral location; epicenter location",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0416",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震源在地面投影的位置。 "
+  },
+  {
+   "cn": "现场地址",
+   "en": "current location",
+   "source": "急救医学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度任务",
+   "subjectName": "调度任务",
+   "publishYear": "2025",
+   "definition": "呼叫救护车时患者所在的地理位置。"
+  },
+  {
+   "cn": "定位时刻",
+   "en": "location time",
+   "source": "急救医学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "急救医学_急救调度_调度与受理_调度相关时间",
+   "subjectName": "调度相关时间",
+   "publishYear": "2025",
+   "definition": "调度员受理急救电话时在电子地图进行呼叫定位的时间点。"
+  },
+  {
+   "cn": "区位分析",
+   "en": "location analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0093",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "对城市的位置、所属地区、人文环境、气候条件、城市规模和与城市之间的距离等信息的分析。"
+  },
+  {
+   "cn": "档案库位管理",
+   "en": "location management",
+   "source": "档案学名词",
+   "wordNumber": "03.03.023",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "规划档案库房的使用面积和柜架数量、合理布局，便于档案定位的管理活动。"
+  },
+  {
+   "cn": "货位",
+   "en": "stock location",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.111",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "用于存储出版物的有编号的位置。"
+  },
+  {
+   "cn": "区位",
+   "en": "location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "[存储]位置",
+   "en": "location",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "location",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "寻位",
+   "en": "locating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位",
+   "en": "locating",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定位器",
+   "en": "locator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总部区位",
+   "en": "headquarter location\",\"HQ location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "位置配置",
+   "en": "location-allocation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "position\",\"location",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "厂址",
+   "en": "plant location",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位置恒常性",
+   "en": "location constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "工业区位",
+   "en": "industrial location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "交通区位",
+   "en": "traffic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经济区位",
+   "en": "economic location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "居住区位",
+   "en": "residential location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绝对区位",
+   "en": "absolute location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "农业区位",
+   "en": "agricultural location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位比",
+   "en": "location rate",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位地租",
+   "en": "location rent",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "Change",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调换队员",
+   "en": "crew change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换握",
+   "en": "grip change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速",
+   "en": "change gear",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换车轮",
+   "en": "wheel change",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换击打",
+   "en": "change-beat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变方向",
+   "en": "change direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of court\",\"change sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换靶",
+   "en": "target changing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换靶",
+   "en": "target changing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换人",
+   "en": "substitute\",\"change\",\"substitution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速球",
+   "en": "change-up\",\"letup",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转向",
+   "en": "change tacks\",\"tack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.3",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "描述一切事物的运动变化，而不强调其目的或方向。"
+  },
+  {
+   "cn": "人口变动",
+   "en": "demographic change,population change",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口状况受社会、经济、人口自身等各方面因素的影响，随着时间的推移而不断发生变动。人口变动可分为自然变动、迁移变动和社会变动，它们分别反映人口变动过程的不同侧面。"
+  },
+  {
+   "cn": "局灶性硬皮病",
+   "en": "located scleroderma",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_系统性硬化症_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "表现为局灶性皮肤肿胀并逐渐硬化、萎缩而不伴脏器受累。主要分为硬斑病和线状硬皮病两种类型。该病无雷诺现象，无脏器受累，甲褶微循环检查正常，自身抗体阳性率低，一般不进展为系统性硬化症。"
+  },
+  {
+   "cn": "可视变化",
+   "en": "visible change",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于一个或多个过程关键变量后，肉眼可观测到的变化。"
+  },
+  {
+   "cn": "社会变迁",
+   "en": "social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "社会的结构性变动。"
+  },
+  {
+   "cn": "内生变迁",
+   "en": "endogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.41",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "根源于内部因素的演变及其互动而产生的制度变迁。在此，制度变迁被看作社会发展的内在结果，外部条件（例如人口和环境）的变化只有通过内部因素的影响才能加速或延缓制度的变迁过程。"
+  },
+  {
+   "cn": "外生变迁",
+   "en": "exogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.42",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "由一些不属于制度的外部社会因素变化引起的具体制度的变迁。这些因素是在长期演化过程中累积而成的，可以是经济的，也可以是政治的、军事的、乃至观念的，如人口的增长和迁移、技术的进步、宗教的兴起和文化的传播等"
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "一个人已经形成的态度在接受某一信息后所发生的相应变化的过程。一种是一致性的改变，指方向不变而仅仅改变原来态度的强度，如由微弱态度变为强烈的态度。另一种是不一致的改变，指以性质相反的新态度取代原有旧态度"
+  },
+  {
+   "cn": "文化变迁",
+   "en": "cultural change",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会的文化模式发生变化的现象。此概念针对“文化模式”和“平衡论”失去活力或平衡的现象而言，其机制分为内部变迁（如发明和革新）与外部变迁（如征服和灾害）。"
+  },
+  {
+   "cn": "质变",
+   "en": "qualitative change",
+   "source": "马克思主义",
+   "wordNumber": "01.0077",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量变”相对。事物根本性质发生的突变，即一种质态向另一种质态的飞跃，事物发展渐进过程中的中断。它是事物的内部矛盾引起的，是量变发展到一定阶段的必然产物。质变是事物发展的关键环节。通过质变，旧事物灭亡"
+  },
+  {
+   "cn": "量变",
+   "en": "quantitive change",
+   "source": "马克思主义",
+   "wordNumber": "01.0082",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质变”相对。事物在数量上的增加或减少，场所改变等方面的变化。是事物运动的基本状态之一。量变的形式是多样的，可以概括为两个基本形式：一是数量上的增减；二是构成事物的要素在排列次序和结构形式上的改变。"
+  },
+  {
+   "cn": "语言演变",
+   "en": "language change",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0103",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言随着时间推移、社会变迁而发生的语音、词汇、语法等结构变化，即语言的历时变化。"
+  },
+  {
+   "cn": "矛盾性阶级位置",
+   "en": "contradictory class location",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "中产阶级处于资产阶级与无产阶级之间的位置。由美国新马克思主义阶级分析理论家赖特提出，是新马克思主义中产阶级理论的一个核心概念。"
+  },
+  {
+   "cn": "甲顶针样改变",
+   "en": "nail thimble change",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.14",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "银屑病出现的指甲顶针样凹陷（>10个/甲）。最多可见于80%的银屑病关节炎患者。"
+  },
+  {
+   "cn": "民俗文化变迁",
+   "en": "folk culture changes",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0024",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "有广义和狭义之分。广义的民俗文化变迁泛指整个社会民俗文化的变化，它既指整体民俗文化变化的过程，又指整体民俗文化变化的结果；狭义的民俗文化变迁，特指某群体民俗文化事项的内部结构或功能等的变化，它既指某群"
+  },
+  {
+   "cn": "最小重要变化",
+   "en": "minimal important change, MIC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "患者角度认为有治疗或护理效果的最小分数变化。"
+  },
+  {
+   "cn": "最小可测变化",
+   "en": "smallest detectable change, SDC",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具能够可靠检测到的最小变化量。需大于测量随机误差。"
+  },
+  {
+   "cn": "社会变迁理论",
+   "en": "theory of social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "研究社会结构性变动的动力、模式或类型等问题的理论。"
+  },
+  {
+   "cn": "人口自然变动",
+   "en": "natural change of population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "由出生和死亡所引起的人口数量的增减和人口年龄、性别构成变化的过程。"
+  },
+  {
+   "cn": "转变经济发展方式",
+   "en": "change the growth model",
+   "source": "马克思主义",
+   "wordNumber": "03.0701",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济增长的方式由不可持续性向可持续性转变；由粗放型向集约型转变；由出口拉动向出口、消费、投资协调发展转变；由结构失衡型向结构均衡型转变；由高碳经济型向低碳经济型转变；由投资拉动型向技术进步型转变；由技"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

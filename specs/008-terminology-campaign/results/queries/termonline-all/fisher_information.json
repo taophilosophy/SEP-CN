@@ -1,0 +1,672 @@
+{
+ "key": "fisher information",
+ "term": "Fisher information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:16+00:00",
+ "status": "ok",
+ "note": "variant=Fisher information; 审定公布名词库=5975; 海峡两岸名词对照库=1709; 其他来源数据库=616; 预公布名词数据库=143; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "费希尔信息",
+   "en": "Fisher information",
+   "source": "天文学名词",
+   "wordNumber": "07.396",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "统计学中，用来描述可观测的随机变量里所含有未知参数的信息的量，是似然度对数函数对未知参数偏导数的方差。"
+  },
+  {
+   "cn": "费希尔信息函数",
+   "en": "Fisher information function",
+   "source": "数学名词",
+   "wordNumber": "09.0579",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "费希尔分级",
+   "en": "Fisher scale",
+   "source": "神经外科学名词",
+   "wordNumber": "16.076",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "一种基于计算机体层成像评估蛛网膜下腔出血后脑血管痉挛风险的分级系统。共分为4级，分级越高，发生脑血管痉挛的风险越大。由加拿大人查尔斯·米勒·费希尔（Charles Miller Fisher）于195"
+  },
+  {
+   "cn": "费希尔得分",
+   "en": "Fisher scoring",
+   "source": "心理学名词",
+   "wordNumber": "03.108",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一种通过迭代策略估计模型参数的数值分析方法。常用于项目反应理论中的项目或被试能力参数估计。"
+  },
+  {
+   "cn": "刺网渔船",
+   "en": "gill fisher",
+   "source": "水产名词",
+   "wordNumber": "09.033",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "利用刺网捕捞鱼蟹类的专用渔船。"
+  },
+  {
+   "cn": "流[刺]网渔船",
+   "en": "drift fisher",
+   "source": "水产名词",
+   "wordNumber": "09.035",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "从事刺网流放作业的渔船。"
+  },
+  {
+   "cn": "欧文·费雪",
+   "en": "Irving Fisher（1867—1947）",
+   "source": "经济学名词",
+   "wordNumber": "16.045",
+   "subjectFullName": "经济学_国外经济学家",
+   "subjectName": "国外经济学家",
+   "publishYear": "2020",
+   "definition": "美国现代经济学家，货币数量论的主要代表人物。出生于美国纽约。1891年和1998年分别获得耶鲁大学数学硕士学位、经济学博士学位。1892—1895年在耶鲁大学教授数学；1895—1935年长期担任耶鲁"
+  },
+  {
+   "cn": "塔利-费希尔关系",
+   "en": "Tully-Fisher relation",
+   "source": "天文学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "旋涡星系的21cm谱线宽度(旋转速度)与光度之间的经验关系，可用于测量星系距离。"
+  },
+  {
+   "cn": "渔家乐",
+   "en": "fisher home inn",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "以渔民家庭为单位，依托江、河、湖、海自然和文化资源，提供餐饮、住宿、娱乐等休闲活动的经营方式。"
+  },
+  {
+   "cn": "间插血吸虫",
+   "en": "Schistosoma intercalatum Fisher",
+   "source": "地方病学名词",
+   "wordNumber": "09.106",
+   "subjectFullName": "地方病学_寄生虫病_蠕虫病_血吸虫病_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "裂体属内的一个虫种。主要分布于喀麦隆、加蓬、乍得、扎伊尔等国，可引起间插血吸虫病。"
+  },
+  {
+   "cn": "费氏法",
+   "en": "Fisher subsieve sizer",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1751",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_粉体制备技术",
+   "subjectName": "粉体制备技术",
+   "publishYear": "2011",
+   "definition": "测量在给定压力下，单位时间内流过具有给定的横截面积和高度的粉末床的空气的体积，再根据粉末床的透过性与孔隙度推算出粉末的比表面的测试方法。"
+  },
+  {
+   "cn": "米-费综合征",
+   "en": "Miller-Fisher syndrome",
+   "source": "免疫学名词",
+   "wordNumber": "3.02",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_感染免疫",
+   "subjectName": "感染免疫",
+   "publishYear": "2007",
+   "definition": "属格林-巴利综合征的变异型，弯曲菌感染所致免疫异常可能参与疾病发生和发展。"
+  },
+  {
+   "cn": "费希尔判别函数",
+   "en": "Fisher discriminant function",
+   "source": "数学名词",
+   "wordNumber": "09.0763",
+   "subjectFullName": "数学_概率论_数理统计_多元统计分析",
+   "subjectName": "多元统计分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "米勒-费希尔综合征",
+   "en": "Miller-Fisher syndrome,MFS",
+   "source": "神经病学名词",
+   "wordNumber": "13.040",
+   "subjectFullName": "神经病学_周围神经系统疾病",
+   "subjectName": "周围神经系统疾病",
+   "publishYear": "2020",
+   "definition": "一种吉兰-巴雷综合征的变异型。临床表现为共济失调、腱反射减退、眼外肌麻痹，多数病前有感染，脑脊液蛋白质含量升高。可用静脉免疫球蛋白治疗，预后良好。"
+  },
+  {
+   "cn": "F分布",
+   "en": "F-distribution,Fisher distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0089",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "费氏粒度",
+   "en": "Fisher sub-sieve size",
+   "source": "冶金学名词",
+   "wordNumber": "08.0196",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "基于气体透过法，用费氏仪所测定的粉末颗粒平均粒度。"
+  },
+  {
+   "cn": "费希尔Z转换",
+   "en": "Fisher’s Z transformation",
+   "source": "心理学名词",
+   "wordNumber": "03.107",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "将取自同一总体的几个样本的相关系数进行合成时，先将各样本的相关系数r值转换成等距单位的费希尔Z分数的过程。"
+  },
+  {
+   "cn": "海绵采集者皮炎",
+   "en": "sponge fisher’s dermatitis",
+   "source": "医学名词 第七分册",
+   "wordNumber": "03.0305",
+   "subjectFullName": "医学_皮肤病学",
+   "subjectName": "皮肤病学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.09",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "①与物质、能量一起构成基本的存在形式。按照信息论的定义, 信息就是不确定性的消除。②以文字、图像、音视频、姿态、纪念物等符号或空间布局、位置排序等为载体的表现形式，可以被人或其他接收端所采集、感知和识"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "经济学名词",
+   "wordNumber": "10.181",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "世界上一切事物的状态和特征的反映。它普遍存在于自然界、人类社会、人们的认识及思维过程中。"
+  },
+  {
+   "cn": "费希尔得分",
+   "en": "Fisher scoring",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "费氏法",
+   "en": "Fisher subsieve size",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "米-费综合征",
+   "en": "Miller-Fisher syndrome",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "费希尔 Z 转换",
+   "en": "Fisher’s Z transformation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "费希尔对数级数",
+   "en": "Fisher's logarithm series",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "费希尔精确概率测验",
+   "en": "Fisher’s exact probability test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全",
+   "en": "information safety\",\"information security",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位置信息",
+   "en": "positional information",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "信息传递",
+   "en": "information transfer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传信息",
+   "en": "genetic information",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农业气象信息",
+   "en": "agrometeorological information",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息[科学]",
+   "en": "information science",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "信息板",
+   "en": "information board",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息高速公路",
+   "en": "information highway",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "资料性要素",
+   "en": "informative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.3",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "提供有助于理解或使用标准的附加信息的要素。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

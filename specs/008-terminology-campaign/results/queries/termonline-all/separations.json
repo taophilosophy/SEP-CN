@@ -1,0 +1,712 @@
+{
+ "key": "separations",
+ "term": "separations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:46:46+00:00",
+ "status": "ok",
+ "note": "variant=separations; 审定公布名词库=830; 海峡两岸名词对照库=192; 其他来源数据库=13; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "离析物",
+   "en": "separations",
+   "source": "土壤学名词",
+   "wordNumber": "02.461",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "细粒物质在土壤基质内重新排列形成的物质。"
+  },
+  {
+   "cn": "地层断距",
+   "en": "separation",
+   "source": "地质学名词",
+   "wordNumber": "09.04.023",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "断层两盘相当层之间的垂直距离。在垂直于被错断岩层走向的剖面上测量。"
+  },
+  {
+   "cn": "间距",
+   "en": "separation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0282",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "在参考平面 (如沉积床或地表 )测量的、被断层错开的参考平面任意两部分之间的距离。间距是断层的视位移，几乎总是小于实际位移。 "
+  },
+  {
+   "cn": "分选",
+   "en": "separation",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.2413",
+   "subjectFullName": "化工（八）_化工设备_工业废物处理设备",
+   "subjectName": "工业废物处理设备",
+   "publishYear": "2021",
+   "definition": "按固体物料品种、大小、粒径、形状、密度、磁性、电性、摩擦性等的差别，利用一定方式将其分离、分类的过程。可分为筛分、重力分选、磁力分选、电力分选、摩擦及弹性分选以及浮选。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0073",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_浓缩与分离",
+   "subjectName": "浓缩与分离",
+   "publishYear": "2020",
+   "definition": "利用混合物中各组分在物理性质或化学性质上的差异，通过适当的装置或方法，使各组分分配至不同的空间区域或在不同的时间一次分配至同一空间区域的过程。"
+  },
+  {
+   "cn": "分选",
+   "en": "separation",
+   "source": "冶金学名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "用某种选矿方法将混合颗粒或块矿中的有用矿物与废石或其他有用矿物分离的作业。每一分选作业的产品为精矿和尾矿或精矿中矿和尾矿。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "计量学名词",
+   "wordNumber": "15.275",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "将试样中的某组分与其他组分分开的过程。"
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "药学名词",
+   "wordNumber": "05.183",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "根据物质的分子大小、溶解度、电荷、吸附性质、对配体分子的生物学亲和力等不同，将其彼此分开的过程。"
+  },
+  {
+   "cn": "分隔",
+   "en": "separation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.523",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分隔",
+   "en": "separation",
+   "source": "电气工程名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.265",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "边界层脱离绕流物体壁面的现象。"
+  },
+  {
+   "cn": "分卷",
+   "en": "separating",
+   "source": "冶金学名词",
+   "wordNumber": "09.0695",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "将1个带卷分成数卷以备进一步加工的过程。"
+  },
+  {
+   "cn": "[磁拓扑]界线",
+   "en": "separator",
+   "source": "天文学名词",
+   "wordNumber": "09.259",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "不同[磁拓扑]界面的交线。"
+  },
+  {
+   "cn": "可分离性",
+   "en": "separability",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一组对象具有可以按照特征相似程度进行分离的性质。聚类分析中，依此性质进行距离度量，即两个特征之间距离的统计度量（相似度越小，则距离越大），按距离最小逐次合并成一类。"
+  },
+  {
+   "cn": "分离器",
+   "en": "separator",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1226",
+   "subjectFullName": "机械工程（一）_传动_液压传动_检测及辅助元件",
+   "subjectName": "检测及辅助元件",
+   "publishYear": "2021",
+   "definition": "把混合的物质分离成两种或两种以上不同的物质的装置。"
+  },
+  {
+   "cn": "分离机",
+   "en": "separator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1167",
+   "subjectFullName": "化工（八）_化工设备_分离设备",
+   "subjectName": "分离设备",
+   "publishYear": "2021",
+   "definition": "用于分离乳浊液或含少量固体微粒的悬浮液的立式沉降离心机。分离因数一般大于5000。"
+  },
+  {
+   "cn": "分选机",
+   "en": "separator",
+   "source": "冶金学名词",
+   "wordNumber": "03.0013",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "用某种选矿方法将有用矿物与脉石或不同的有用矿物分离出来的机械。"
+  },
+  {
+   "cn": "可分离性",
+   "en": "separability",
+   "source": "物理学名词",
+   "wordNumber": "06.0757",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分离器",
+   "en": "separator",
+   "source": "物理学名词",
+   "wordNumber": "02.0919",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隔票",
+   "en": "separation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "隔离剂",
+   "en": "separant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隔板",
+   "en": "separator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重力分离",
+   "en": "gravitational separation\",\"gravity separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "旋风分离器",
+   "en": "cyclone separator\",\"separation cyclone",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膜分离",
+   "en": "membrane separation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态位分离",
+   "en": "niche separation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "手性分离",
+   "en": "chiral separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "粗略分离",
+   "en": "sloppy separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理分离",
+   "en": "physical separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "磁分离",
+   "en": "magnetic separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "细胞分离",
+   "en": "cell separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分离过程",
+   "en": "separation process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生化分离",
+   "en": "biochemical separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "产品分离",
+   "en": "product separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膜分离",
+   "en": "membrane separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电解分离",
+   "en": "electrolytic separation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分离因子",
+   "en": "separation factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分业监管模式",
+   "en": "separate regulatory model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "横分",
+   "en": "side separation\",\"yoko-wakare",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网业分离（英国）",
+   "en": "separation of telecommunication networks (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权能分离",
+   "en": "separation of property ownership and control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绝地天通",
+   "en": "Keep Earthly and Heavenly Affairs Separate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证照分离",
+   "en": "reform to separate all operating permits from the business license",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道不远人，人无异国。（援助韩国，源自新罗旅唐学者崔致远）",
+   "en": "   Great distance cannot separate us;We all live in a united world.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "青山一道，共担风雨。（援助日本，源自王昌龄）",
+   "en": "Great distance cannot separate us;We all live in a united world.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农村承包地“三权”分置改革",
+   "en": "rural land contract reform: separation of ownership rights, contractors' rights and land management rights",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "山川异域，风月同天。",
+   "en": "While mountains and rivers separate us, we enjoy the same moonlight under the same sky.或Miles apart but close at heart.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分离",
+   "en": "separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.12",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "通过在物品、设施、区域之间留有一定空间，而非通过设置物理阻断的方式进行隔离。"
+  },
+  {
+   "cn": "职能分离",
+   "en": "functional separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "为保证风险评估在科学上的独立性，将风险评估的职能活动与风险管理活动分开的工作原则。"
+  },
+  {
+   "cn": "免疫磁分离技术",
+   "en": "immunomagnetic Separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.73",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "一种将免疫学反应的高度特异性与磁珠的磁响应性相结合的分离技术。利用抗体与磁珠的结合能力，将目标分子（如蛋白质、细胞或微生物等）从混合物中分离出来。"
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.15",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据磁性的不同，利用磁力分离混入食品中的磁性金属杂质的方法。常用于清除谷物、豆类、玉米、小麦、砂糖等食品中的铁杂质。"
+  },
+  {
+   "cn": "磁选机",
+   "en": "magnetic separator",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.16",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "根据不同物质导磁性的差异，借助于磁力将磁性物质从食品中分离开来的设备。"
+  },
+  {
+   "cn": "铀同位素分离",
+   "en": "uranium isotope separation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.16",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "采用特殊工艺方法提高铀元素中丰度的生产过程。同位素分离的方法主要有气体扩散法、离心分离法和激光分离法等。"
+  },
+  {
+   "cn": "分餐制度",
+   "en": "meal separation system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "支持餐饮过程中，餐具、菜（饮）品等的不交叉、无混用的餐饮方式实现的活动安排。"
+  },
+  {
+   "cn": "气液分离装置",
+   "en": "gas-liquid separation device",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在二氧化氯发生器中，为了去除生成二氧化氯时的副产物，对副产物实施分离的装置。"
+  },
+  {
+   "cn": "辅食制作",
+   "en": "separately making complementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "不加盐、糖和其他调味品，可挑选优质食材在家庭中单独烹制的烹调过程，并注意制作过程的卫生，现做现吃，不喂存留的食物。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "离别情绪及其处理",
+   "en": "separation mood and its treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者在结案时对服务对象情绪的关注和疏导，有时也涉及对社会工作者自身相应情绪的处理。"
+  },
+  {
+   "cn": "儿童分离焦虑障碍",
+   "en": "separation anxiety disorder in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童与其依恋对象分离时所表现出焦虑情绪的一种精神疾病，达到与其发育水平不符的程度，甚至出现做噩梦和痛苦的躯体症状。是儿童期最常见的焦虑障碍之一。"
+  },
+  {
+   "cn": "另起炉灶",
+   "en": "set up a separate kitchen",
+   "source": "马克思主义",
+   "wordNumber": "03.0500",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年春提出的一项外交方针。与“打扫干净屋子再请客”“一边倒”，共同构成新中国成立初期三大外交方针。周恩来在解释“另起炉灶”时说：“就是不承认国民党政府同各国建立的旧的外交关系,而要在新的"
+  },
+  {
+   "cn": "政企分开",
+   "en": "separate enterprises from government management",
+   "source": "马克思主义",
+   "wordNumber": "03.0615",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对传统国营企业改革一种理论和政策，强调政府的行政和经济职能应与企业的生产经营职能放开。目的是生产经营权利下放，减少政治权力对经济的支配和干预。"
+  },
+  {
+   "cn": "农村土地三权分置",
+   "en": "separation of three rights of rural land",
+   "source": "马克思主义",
+   "wordNumber": "03.0700",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "是指农村集体经济的土地形成所有权、承包权、经营权三权分置。即土地所有权属于集体，农民有土地承包权和一定规则下的经营权流转。在三权分置基础上，各村可以实行统一集体经营或其他经营方式。它是继家庭联产承包责"
+  },
+  {
+   "cn": "公立医院政事分开",
+   "en": "government functions be separated from institution functions in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将政府作为出资人的举办监督职责和公立医院作为事业单位的自主运营管理权限分开的管理体制。"
+  },
+  {
+   "cn": "公立医院医药分开",
+   "en": "health service be separated from drug sales in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将公立医院的医治和用药分开，取消药品在公立医院加成的管理体制。"
+  },
+  {
+   "cn": "党政分开",
+   "en": "separate the functions of the Party from those of the government",
+   "source": "马克思主义",
+   "wordNumber": "03.0538",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为解决党政不分、以党代政问题，理顺党与国家政权的关系而进行的一项党和国家领导体制的重大改革。在坚持党的领导前提下，党组织和行政组织职能分开，各司其职，各负其责。根据邓小平的思想，十三大报告在党的正式文"
+  },
+  {
+   "cn": "公立医院管办分开",
+   "en": "supervision be separated from day-to-day operations in public hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "将政府对公立医院的监督管理职责与公立医院的经营管理职能分开的管理体制。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

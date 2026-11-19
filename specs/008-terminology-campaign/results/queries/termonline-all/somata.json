@@ -1,0 +1,362 @@
+{
+ "key": "somata",
+ "term": "sōmata",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:48:57+00:00",
+ "status": "ok",
+ "note": "variant=sōmata; 审定公布名词库=35; 海峡两岸名词对照库=14; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "翅果",
+   "en": "samara",
+   "source": "植物学名词",
+   "wordNumber": "03.0555",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "不开裂、具一枚种子，果皮延展呈翅状的果实。如槭属植物。"
+  },
+  {
+   "cn": "气孔",
+   "en": "stomata",
+   "source": "生态学名词",
+   "wordNumber": "02.174",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "植物表皮上两个保卫细胞及其围绕形成的孔隙的总称。"
+  },
+  {
+   "cn": "串行先进技术总线附属接口",
+   "en": "serial advanced technology attachment interface,SATA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0593",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "一种连接存储装置（硬盘、光驱和固态盘）和计算机的串行接口。除连接方式为串行外，传输协议和命令与先进技术总线附属接口相同。"
+  },
+  {
+   "cn": "水平岩层",
+   "en": "horizontal strata",
+   "source": "地质学名词",
+   "wordNumber": "09.01.096",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "层理或层面倾角＜5°，呈水平或近于水平的岩层。"
+  },
+  {
+   "cn": "倾斜岩层",
+   "en": "tilted strata",
+   "source": "地质学名词",
+   "wordNumber": "09.01.097",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "层理或层面倾角＞5°的岩层。"
+  },
+  {
+   "cn": "单斜岩层",
+   "en": "monoclinal strata",
+   "source": "地质学名词",
+   "wordNumber": "09.01.098",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在一定范围内所有岩层大致向同一方向倾斜，层序一致的岩层。"
+  },
+  {
+   "cn": "坂田模型",
+   "en": "Sakata model",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.126",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "日本物理学家坂田昌一1955年提出的粒子物理模型。认为质子p、中子n和Λ粒子是基本粒子，其他已知介子和重子是由它们所构成的复合粒子，并把唯象的奇异数解释为复合粒子所包含的反Λ粒子数。该模型在预言介子方"
+  },
+  {
+   "cn": "坂田模型",
+   "en": "Sakata model",
+   "source": "物理学名词",
+   "wordNumber": "09.1253",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "岩层控制",
+   "en": "strata control",
+   "source": "冶金学名词",
+   "wordNumber": "02.0311",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "为维护岩石工程稳定对岩层移动、破坏采取的防控措施。"
+  },
+  {
+   "cn": "岩层移动",
+   "en": "strata movement",
+   "source": "冶金学名词",
+   "wordNumber": "02.0310",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "地下开挖引起岩层的位移和变形的现象。"
+  },
+  {
+   "cn": "岩层移动",
+   "en": "strata movement",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "煤炭科学技术_煤炭矿山测量_开采沉降及防治",
+   "subjectName": "开采沉降及防治",
+   "publishYear": "1996",
+   "definition": "因采矿引起采空区附近及上覆岩层的移动、变形和破坏的现象和过程。"
+  },
+  {
+   "cn": "矿山压力显现",
+   "en": "strata behaviors",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.153",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "在矿山压力作用下,围岩或支护物呈现的各种力学现象。"
+  },
+  {
+   "cn": "上覆岩层",
+   "en": "overlying strata",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.180",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "煤层或采掘空间之上的岩层。"
+  },
+  {
+   "cn": "岩层控制",
+   "en": "strata control",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.190",
+   "subjectFullName": "煤炭科学技术_煤矿开采_矿山压力与岩层控制",
+   "subjectName": "矿山压力与岩层控制",
+   "publishYear": "1996",
+   "definition": "为控制由采掘工程引起的围岩及岩层变形、移动和破坏而采取的各种技术措施。"
+  },
+  {
+   "cn": "气孔",
+   "en": "stoma,stomata(复)",
+   "source": "细胞生物学名词",
+   "wordNumber": "01.136",
+   "subjectFullName": "细胞生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "植物茎叶表皮层中由成对保卫细胞围成的开口。系植物与环境交换气体的通道。"
+  },
+  {
+   "cn": "盖层",
+   "en": "cover strata,overburden",
+   "source": "地质学名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "地质学_地质学总论",
+   "subjectName": "地质学总论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "翅果",
+   "en": "key fruit;samara ",
+   "source": "草学名词",
+   "wordNumber": "4.003",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "体-树突触",
+   "en": "somato-dendritic synapse",
+   "source": "生理学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体-轴突触",
+   "en": "somato-axonic synapse",
+   "source": "生理学名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体-体突触",
+   "en": "somato-somatic synapse",
+   "source": "生理学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翅果",
+   "en": "samara",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地层",
+   "en": "strata",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "双翅果",
+   "en": "double samara",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克鲁采奏鸣曲",
+   "en": "Kreutzer Sonata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "康科德奏鸣曲",
+   "en": "Concord Sonata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ives, Charles"
+  },
+  {
+   "cn": "三重奏鸣曲",
+   "en": "trio sonata",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奏鸣曲式",
+   "en": "sonata form",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回旋奏鸣曲式",
+   "en": "sonata rondo",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "气孔",
+   "en": "stoma\",\"stomata(复)",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "气孔",
+   "en": "stoma\",\"stomata(复)",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "告别奏鸣曲",
+   "en": "Adieux Sonata，Les",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "苏门答腊-爪哇岛弧",
+   "en": "Sumatra-Java Island Arc",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "萨巴塔",
+   "en": "Sabata\",\"Victor de(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "马塔",
+   "en": "Mata\",\"Edoardo(墨西哥)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内股",
+   "en": "inner thigh throw\",\"uchi-mata",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

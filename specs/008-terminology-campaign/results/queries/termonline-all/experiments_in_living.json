@@ -1,0 +1,752 @@
+{
+ "key": "experiments in living",
+ "term": "experiments in living",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:47:07+00:00",
+ "status": "ok",
+ "note": "variant=experiments in living; 审定公布名词库=5311; 海峡两岸名词对照库=1049; 其他来源数据库=499; 预公布名词数据库=680; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "实验控制",
+   "en": "control in experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.073",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在控制条件下，有目的地对受试对象进行干涉。包括生物的、化学的、物理的或内外环境的干涉，以观察特定干涉对受试对象的影响。"
+  },
+  {
+   "cn": "在体实验",
+   "en": "in vivo experiment",
+   "source": "兽医学名词",
+   "wordNumber": "04.006",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "在麻醉、无痛情况下，借助实验仪器直接观察某一被暴露器官的活动或不同因素对其影响以及不同器官相互关系的实验。属于急性实验。"
+  },
+  {
+   "cn": "离体实验",
+   "en": "in vitro experiment",
+   "source": "兽医学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "从活体动物体内取出某一器官、组织或分离某种细胞，置于适宜的人工环境条件下，使其在短时间内保持一定的生理功能，观察其功能和影响因素的实验。"
+  },
+  {
+   "cn": "规则波中试验",
+   "en": "experiment in regular waves",
+   "source": "船舶工程名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在可以用单一正弦(余弦) 函数表示的波浪中进行的模型试验。"
+  },
+  {
+   "cn": "不规则波中试验",
+   "en": "experiment in irregular waves",
+   "source": "船舶工程名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在由不同频率且具有随机相位的正弦（余弦）波叠加而成的波浪中进行的模型试验。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "风景园林名词",
+   "wordNumber": "10.0049",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育课程之一，讲授内容包括材料与构造、模型、土壤、气象等。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "农学名词",
+   "wordNumber": "18.003",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "通过实际操作来探究自然或社会规律的过程。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "试验",
+   "en": "experiment",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0717",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "按照程序确定一个或多个特性的方法。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "行为医学名词",
+   "wordNumber": "2.137",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "（1）由实践得来的知识或技能。（2）个体在某一时刻所具有的主观精神世界。是一种对客观事物和可以意识到的机体内部过程的态度。是“自我实现理论”的概念之一。"
+  },
+  {
+   "cn": "假想实验",
+   "en": "thought experiment,gedanken experiment",
+   "source": "物理学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "综合试验",
+   "en": "integrated experiment,complex experiment",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.061",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "越冬场",
+   "en": "living ground in winter",
+   "source": "航海科技名词",
+   "wordNumber": "12.0046",
+   "subjectFullName": "航海科学技术_海上作业",
+   "subjectName": "海上作业",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "脱水实验",
+   "en": "dehydration experiment",
+   "source": "地质学名词",
+   "wordNumber": "13.05.018",
+   "subjectFullName": "地质学_地球化学_实验地球化学",
+   "subjectName": "实验地球化学",
+   "publishYear": "2026",
+   "definition": "泛指在高温高压条件下进行的使含水矿物转变为无水矿物的变质反应实验和使含有含水矿物的岩石发生熔融的实验。"
+  },
+  {
+   "cn": "中间试验",
+   "en": "pilot experiment",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.086",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "有针对性地对生产过程做试验，往往是规模较小的局部性的试验，介于小型试验与工业示范试验之间，其目的是验证和求取某些能反映规律性问题的数据和条件。"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "科学实验",
+   "en": "scientific experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.070",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在人工控制的条件下，运用一定的仪器设备，观察研究自然现象及其规律性的特殊的社会实践形式。是获取经验事实和检验科学假说、理论真理性的根本途径。与实验观察相近。"
+  },
+  {
+   "cn": "定性实验",
+   "en": "qualitative experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在实验过程中，注重研究某个或者某些现象或变量是否存在，以及现象或变量关系的变化趋势。"
+  },
+  {
+   "cn": "定量实验",
+   "en": "quantitative experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.076",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在实验过程中，不仅研究某个或者某些现象或变量是否存在，以及现象或变量关系的变化趋势，而且还要研究变量的大小或强度，以及量化的变量关系。"
+  },
+  {
+   "cn": "直接实验",
+   "en": "direct experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.079",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在实际环境中对研究对象进行直接操作完成的实验。"
+  },
+  {
+   "cn": "交叉试验",
+   "en": "crossover experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数值实验",
+   "en": "numerical experiment",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工程实验",
+   "en": "engineering experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "原型试验",
+   "en": "prototype experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "现场实验",
+   "en": "field experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然实验",
+   "en": "natural experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类比实验,模拟实验",
+   "en": "analogue experiment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "田间试验",
+   "en": "field experiment",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水文实验",
+   "en": "hydrological experiment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "船模试验",
+   "en": "tank experiment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "析因实验",
+   "en": "factorial experiment",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "顿悟经验",
+   "en": "“Aha” experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "用户体验",
+   "en": "user experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顶峰体验,巅峰体验",
+   "en": "peak experience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间经验",
+   "en": "spatial experience",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生存世界",
+   "en": "erlebnis\",\"experience",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "冷模试验",
+   "en": "cold-flow model experiment\",\"mockup experiment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "季风试验",
+   "en": "monsoon experiment\",\"MONEX",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "场景体验",
+   "en": "scenario experience",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "体验层次",
+   "en": "experience level",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安居乐业",
+   "en": "Live in Peace and Work in Contentment",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活球",
+   "en": "live ball\",\"ball in play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子互联网实验",
+   "en": "Quantum Internet Experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布丰投针实验",
+   "en": "Buffon’s needle experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新型量子互联网实验",
+   "en": "new quantum Internet experiment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲知",
+   "en": "Knowledge from Personal Experience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生活共同体",
+   "en": "living community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络直播",
+   "en": "live streaming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线直播",
+   "en": "live streaming",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "经验",
+   "en": "experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0202",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人们在实践中通过自己的感觉器官直接感知外界事物而获得的对客观事物的表面现象和外部联系的认识，是人们在社会生活、实践中获得的感性知识。经验是一切科学理论的基础和直接本源；同时也有待于深化，上升为理论。"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "宗教体验",
+   "en": "religious experience",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.23",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "威廉·詹姆士（William James）用来表示任何结合宗教的对象和相应的情感经验的术语，是宗教的一个核心内容，也是宗教性的关键维度。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "自我体验",
+   "en": "self-experience",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体为提高自身的道德水平，在道德实践中根据一定的理论、原则和规范，自觉地进行自我培养的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "婴儿期生活技能培养",
+   "en": "living skill culture in infancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.8",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "从婴儿期即开始培养婴儿良好生活能力，如独立睡眠习惯、进食技能、控制大小便能力的措施，以促进儿童独立能力、控制情绪能力和社会适应能力的发展。"
+  },
+  {
+   "cn": "幼儿期生活技能培养",
+   "en": "living skill culture in toddlerhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.3.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "培养幼儿独立睡眠习惯、进食技能以及促进其独立能力、控制情绪能力和社会适应能力发展的措施。"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "女性经验",
+   "en": "women’s experiences",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "来源于女性日常生活、却被歪曲或排斥在主流知识及知识传承体系之外的经验。女性主义认为它与男性经验之间是不可互为替代的。这种被边缘化的经验具有主流经验所不具备的批判性优势，可证明主流知识并非具有客观性和普"
+  },
+  {
+   "cn": "传帮带",
+   "en": "passing on experience",
+   "source": "马克思主义",
+   "wordNumber": "04.0145",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "前辈对晚辈在文化知识、技术技能、工作经验等方面给予传授、帮助和带动。改革之初，邓小平深刻认识到中国共产党内部干部老化问题以及选好接班人的重要性和紧迫性，强调老干部用实际行动抓紧搞好“传帮带”。"
+  },
+  {
+   "cn": "儿童期不良经历",
+   "en": "childhood adverse experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.3.9",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力",
+   "subjectName": "针对儿童的暴力",
+   "publishYear": "2025",
+   "definition": "18岁以下儿童经历的创伤性事件，包括受到暴力或虐待，被忽视或遗弃，失去至亲，在父母有精神疾病、父母有药物滥用或酒精成瘾、父母坐牢、父母离异家庭中成长等。这些事件会对儿童身心健康和福祉产生持续不良影响。"
+  },
+  {
+   "cn": "濒死体验",
+   "en": "near-death experience",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.004",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "遭受严重创伤或疾病导致即将死亡但又意外获得恢复的人或在毁灭性境遇中侥幸脱险的人所叙述的面临死亡威胁时刻的主观体验。"
+  },
+  {
+   "cn": "跑江湖",
+   "en": "to make a living in Jianghu",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0068",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统民俗文化中的一种社会行为模式，特指民间艺人、商贩、行医者、卖艺者、占卜者、看风水者等为了生计而四处流浪、奔波各地的现象。"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "党在社会主义初级阶段的基本经验",
+   "en": "Partys basic experience in the primary stage of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0703",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持以邓小平理论为指导，不断推进理论创新；坚持以经济建设为中心，用发展的办法解决前进中的问题；坚持改革开放，不断完善社会主义市场经济体制；坚持四项基本原则，发展社会主义民主政治；坚持物质文明和精神文明"
+  },
+  {
+   "cn": "生活社区",
+   "en": "living community",
+   "source": "社会医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区",
+   "publishYear": "2025",
+   "definition": "以居民日常居住为核心功能，融合生活、社交、休闲、服务等功能的综合性地域空间。其本质是通过物理空间与人文环境的有机结合，满足居民从“生存需求”到“生活品质”的多层次需求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

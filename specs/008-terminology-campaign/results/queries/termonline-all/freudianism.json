@@ -1,0 +1,42 @@
+{
+ "key": "freudianism",
+ "term": "Freudianism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:09:01+00:00",
+ "status": "ok",
+ "note": "variant=Freudianism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "弗洛伊德主义",
+   "en": "Freudianism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.502",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由奥地利精神病学家S. 弗洛伊德（S. Freud）创立。主要研究情绪障碍、变态行为、人格异常；探讨潜意识、情绪、动机、人格等更深层次的心理。其主要内容有潜意识理论、人格三结构说（本我、自我和超我）、"
+  },
+  {
+   "cn": "新弗洛伊德理论",
+   "en": "neo Freudian theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弗洛伊德的马克思主义",
+   "en": "Freudian Marxism",
+   "source": "马克思主义",
+   "wordNumber": "05.0013",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "试图把马克思主义与弗洛伊德的精神分析学说“综合”起来，用精神分析学补充和改造马克思主义的一个学派。主张运用心理分析的工具方法来分析并解释社会现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "brain organization research",
+ "term": "brain organization research",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:45:10+00:00",
+ "status": "ok",
+ "note": "variant=brain organization research; 审定公布名词库=3035; 海峡两岸名词对照库=1009; 其他来源数据库=178; 预公布名词数据库=268; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "器质性脑综合征",
+   "en": "organic brain syndrome",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "器质性脑疾病导致的临床神经功能损害表现。急性器质性脑综合征如谵妄综合征，慢性器质性脑综合征如痴呆综合征，表现为记忆、智力障碍和人格改变 等。"
+  },
+  {
+   "cn": "合同研究组织",
+   "en": "contract research organization,CRO",
+   "source": "核医学名词",
+   "wordNumber": "06.0328",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "受研究申办者委托，执行临床试验中某些工作任务的学术或商业机构的组织形式。"
+  },
+  {
+   "cn": "器质性脑病综合征",
+   "en": "organic brain syndrome,OBS",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.166",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经外科学名词",
+   "wordNumber": "2.003",
+   "subjectFullName": "医学_神经外科学_神经外科解剖_概述",
+   "subjectName": "概述",
+   "publishYear": "2026",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干四部分，是人体中主管意识、知觉、运动、思维、记忆等的重要器官，是神经系统的主要部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "动物学名词",
+   "wordNumber": "6.1158",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_脊椎动物比较解剖_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2021",
+   "definition": "脊椎动物头骨中的软神经组织的器官。为感觉、智力和神经活动的协调中心。可区分为5个部分：大脑、间脑、中脑、小脑和延脑。随着脊椎动物的进化，脑5部分分化明显化和脑高级中枢功能向大脑皮质转移。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "神经病学名词",
+   "wordNumber": "02.004",
+   "subjectFullName": "神经病学_临床神经解剖学",
+   "subjectName": "临床神经解剖学",
+   "publishYear": "2020",
+   "definition": "中枢神经系统的重要器官。位于颅腔内，脑沟和脑回将其分为大脑、间脑、小脑和脑干4个部分。有支配精神意识、进行思维活动的功能。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "心理学名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "心理学_生理心理学",
+   "subjectName": "生理心理学",
+   "publishYear": "2014",
+   "definition": "位于颅腔内，由脑干、间脑、小脑和大脑两半球组成。是中枢神经系统的组成部分。"
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "中医药学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "中医药学_中医基础理论_脏象",
+   "subjectName": "脏象",
+   "publishYear": "2004",
+   "definition": "奇恒之腑之一，位于颅内，由髓汇聚而成，为神明汇聚之所，有支配精神意识，进行思维活动的功能。"
+  },
+  {
+   "cn": "研究",
+   "en": "research",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0073",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "针对某个主题的科学知识进行大量的、系统的、反复的探索，对事物现象进行周密调查与反复思索以揭示其本质，是一个重要的科学调查与分析过程。"
+  },
+  {
+   "cn": "科学研究",
+   "en": "research",
+   "source": "教育学名词",
+   "wordNumber": "08.101",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "现代大学职能之一。为了增进人类知识和谋求知识新的应用而进行的创造性工作。可分为基础研究、应用研究和开发性研究三类。"
+  },
+  {
+   "cn": "集中型研发组织",
+   "en": "centralized research and development organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0134",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "具有相对独立、完整的技术研发中心，研发任务集中到组织的一个部门完成的研发组织形式。"
+  },
+  {
+   "cn": "分散型研发组织",
+   "en": "decentralized research and development organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0135",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "研发任务分配至各产品事业部或分公司，只在公司一级保留少数专业人员从事研发的规划组织与协调工作的研发组织形式。"
+  },
+  {
+   "cn": "脑梅毒瘤",
+   "en": "brain syphiloma,brain gumma",
+   "source": "医学名词 第六分册",
+   "wordNumber": "02.156",
+   "subjectFullName": "医学_神经外科学",
+   "subjectName": "神经外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "运筹学",
+   "en": "operations research,operational research",
+   "source": "数学名词",
+   "wordNumber": "011.0001",
+   "subjectFullName": "数学_运筹学_最优化（数学）",
+   "subjectName": "最优化（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "团队型研发组织",
+   "en": "team type research and development organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0137",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_研发管理",
+   "subjectName": "研发管理",
+   "publishYear": "2016",
+   "definition": "由来自各方的专家组成的以小组为基础的研发组织形式。"
+  },
+  {
+   "cn": "脑死亡供器官",
+   "en": "donated organ from brain death donor",
+   "source": "器官移植学名词",
+   "wordNumber": "03.029",
+   "subjectFullName": "器官移植学_供者与供器官的类型",
+   "subjectName": "供者与供器官的类型",
+   "publishYear": "2020",
+   "definition": "由脑死亡后的器官捐献者捐献的供器官。"
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "智力外流",
+   "en": "brain drain",
+   "source": "经济学名词",
+   "wordNumber": "06.054",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "最初主要是指发展中国家在国内完成学业后的高级专门人才，如工程师、科学家、医生、教授等，迁移到发达国家的一种国际移民活动。后来人们把从发展中国家到发达国家接受高级专门教育的留学人员滞留不归也划入智力外流"
+  },
+  {
+   "cn": "人才流失",
+   "en": "brain drain",
+   "source": "计划生育名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "优秀或有特长的人从本地、本单位流动或转移出去而流失的现象。"
+  },
+  {
+   "cn": "人才外流",
+   "en": "brain drain",
+   "source": "教育学名词",
+   "wordNumber": "14.170",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "在一个国家接受教育和培训的专业技术人员迁移到另一个国家去工作的现象。"
+  },
+  {
+   "cn": "割裂脑研究，［分］裂脑",
+   "en": "split brain research研究",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "研究",
+   "en": "research",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "国际细胞研究组织",
+   "en": "International Cell Research Organization\",\"ICRO",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "印度空间研究组织",
+   "en": "Indian Space Research Organization\",\"ISRO",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑",
+   "en": "brain\",\"encephalon",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "脑干",
+   "en": "brain stem",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑屏障",
+   "en": "brain barrier",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑曲",
+   "en": "brain flexure",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑原基",
+   "en": "brain rudiment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脑褶",
+   "en": "brain fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "割裂脑，［分］裂脑",
+   "en": "split brain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑细胞",
+   "en": "brain cell",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑损伤",
+   "en": "brain damage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑可塑性",
+   "en": "brain plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑波",
+   "en": "brain wave",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "脑成像",
+   "en": "brain imaging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑科学",
+   "en": "brain science",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业大脑",
+   "en": "agricultural brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济大脑",
+   "en": "Economic Brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市大脑",
+   "en": "city brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ET大脑",
+   "en": "ET brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "临床前研究",
+   "en": "preclinical research",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类脑计算",
+   "en": "brain-inspired computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑科学",
+   "en": "Brain-Inspired Science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模拟系统",
+   "en": "brain simulation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类脑图谱",
+   "en": "human brain atlas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑处理器",
+   "en": "brain-inspired processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云脑时代",
+   "en": "cloud brain age",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机接口",
+   "en": "Brain-Computer Interface",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑智能",
+   "en": "brain-inspired intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑机协同",
+   "en": "brain-computer synergy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑死亡供体移植",
+   "en": "organ transplantation from brain-dead donors",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.032",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据脑死亡标准，将脑死亡者作为器官供体的移植。"
+  },
+  {
+   "cn": "脑发育",
+   "en": "brain development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑经过神经胚形成、前脑发育、神经元增殖、神经元移行、神经组织全面发展和功能完善、髓鞘形成等六个阶段的发展变化过程。"
+  },
+  {
+   "cn": "脑死亡",
+   "en": "brain death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.025",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "脑血流完全停止和脑部广泛性梗死所致的包括脑干在内的全脑功能不可逆地丧失。它是继心肺死亡标准后的一种科学的死亡标准。"
+  },
+  {
+   "cn": "研究反应堆",
+   "en": "research reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.8",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "利用易裂变核素的可控裂变链式反应所产生的射线束（如中子和γ射线）作为研究手段的核反应堆。"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "指导研究者探究人们怎样理解、经验、阐释和生成社会世界的一系列态度和策略的总称。"
+  },
+  {
+   "cn": "临床研究",
+   "en": "clinical research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在健康照料研究中，为了获取新知识和创新治疗手段而进行的研究。包括辨识、描述、解释生成、解释检验、干预和控制的检验。"
+  },
+  {
+   "cn": "比较研究",
+   "en": "comparative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在社会科学研究中，通过系统地比较两个或多个社会、文化或国家，来发现社会实体间的相似与差异的研究方法。"
+  },
+  {
+   "cn": "评估研究",
+   "en": "evaluation research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为确定一项计划、一种产品、一个组织、一种干预或变革努力的效果而进行的系统的、以数据为基础的研究。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "通过观测或实验从总体中收集数值型数据，运用统计方法研究总体的数量特征的研究方式。"
+  },
+  {
+   "cn": "研究设计",
+   "en": "research design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "论证一项具体研究的问题、假设或命题，以及研究的方法论和方法的逻辑、结构和原则的方案或策略。"
+  },
+  {
+   "cn": "文献研究",
+   "en": "literature research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "为了形成对事实的科学认识，搜集、鉴别、整理和分析文献的研究方法。"
+  },
+  {
+   "cn": "行动研究",
+   "en": "action research",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "由社会情景（教育情景）的参与者，为提高对所从事的社会或教育实践的理性认识、为加深对实践活动及其依赖的背景的理解所进行的反思研究。其关注的不是理论研究者认定的理论问题，而是实际工作者将研究和实践结合起来"
+  },
+  {
+   "cn": "研究纲领",
+   "en": "research programme",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.158",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "I. 拉卡托斯（I. Lakatos）提出的评价科学进步的基本单元。通常包括硬核与保护带。"
+  },
+  {
+   "cn": "研究传统",
+   "en": "research tradition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.190",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由L. 劳丹（L. Laudan）提出。指一系列总的假说，即关于某个研究领域的研究实体和过程，以及这一领域中如何研究问题和构造理论的基本假设。"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0654",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "确定事物某方面量的规定性的科学研究，将问题与现象用数量来表示，进而去分析、考验、解释，从而获得意义的研究方法和过程。定量，就是以数字化符号为基础去测量。定量研究通过对研究对象的特征按某种标准作量的比较"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "一种在自然的情景下，从整体的角度深入探讨和阐述被研究事物的特点及其发生和发展规律，以揭示事物的内在本质的一类研究方法。"
+  },
+  {
+   "cn": "定性研究",
+   "en": "qualitative research",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0655",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "确定事物本质属性的科学研究。它是通过观测、实验和分析等，来考察研究对象是否具有这种或那种属性或特征，以及它们之间是否有关系等。由于它只要求对研究对象的性质作出回答，故称定性研究。研究者运用历史回顾、文"
+  },
+  {
+   "cn": "定量研究",
+   "en": "quantitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "通过收集和分析数值数据来研究现象的方法。其侧重于对研究对象进行量化测量和统计分析，以揭示事物之间的关系和规律。例如：收集人群发生某种事件的数量指标，通过统计分析探讨各种因素与疾病和健康的数量依存关系。"
+  },
+  {
+   "cn": "文献研究",
+   "en": "literature research",
+   "source": "社会医学名词",
+   "wordNumber": "4.7",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "通过收集现存的以文字、数字、符号、图片等信息形式出现的文献资料，采用整理、综合、分析等手段，最终达到研究目的的一种研究方法。"
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

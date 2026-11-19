@@ -1,0 +1,762 @@
+{
+ "key": "access internalist",
+ "term": "access internalist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:04:46+00:00",
+ "status": "ok",
+ "note": "variant=access internalist; 审定公布名词库=1155; 海峡两岸名词对照库=302; 其他来源数据库=86; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "内部方法",
+   "en": "internalist methodology",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.094",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "对科学活动的内部进行研究。如实验室内科学知识的生产、科学争论解决的过程。一般以定性研究为主。"
+  },
+  {
+   "cn": "引道",
+   "en": "access",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.057",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "客车车身内由通道至乘客门和安全门间的过道。"
+  },
+  {
+   "cn": "访问",
+   "en": "access",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.146",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "对磁盘或数据库表中的文件进行读、写、删除、更新等操作。"
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.367",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "接近、进入或使用某一资源的手段、能力或许可。"
+  },
+  {
+   "cn": "访问",
+   "en": "access",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0749",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "电子学名词",
+   "wordNumber": "21.368",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通达性",
+   "en": "accessibility",
+   "source": "经济学名词",
+   "wordNumber": "08.016",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "某特定位置的交通运输条件。包括移动的距离、时间及所涉及的费用。它是衡量区域交通运输发达程度及通达性能的重要指标。"
+  },
+  {
+   "cn": "入藏",
+   "en": "accessioning",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.462",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "对新到馆的文献资料进行接收、登记、加工、管理，使其成为图书馆馆藏的工作。"
+  },
+  {
+   "cn": "入藏新书",
+   "en": "accession",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.470",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_典藏",
+   "subjectName": "典藏",
+   "publishYear": "2019",
+   "definition": "经采访、编目等一系列流程，被图书馆收藏的新到馆的最新图书资料。"
+  },
+  {
+   "cn": "可获取性",
+   "en": "accessibility",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.058",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在条件允许的情况下，用户能够从资源供给方获取信息资源或信息线索，以满足其信息需求的程度。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "建筑学名词",
+   "wordNumber": "07.0338",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "场地可到达的便捷程度。"
+  },
+  {
+   "cn": "可访问性",
+   "en": "accessibility",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.314",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "信息或数据的可读取和可浏览性。通常指Web信息的可访问性，一般用存储时间来衡量。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.011",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "用户可访问数据库和所有授权访问的数据的特性。"
+  },
+  {
+   "cn": "可接入性",
+   "en": "accessibility",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.073",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "普遍服务的原则。电话用户在价格、服务和质量方面受同等对待，而与地理位置、种族、性别、宗教等无关。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "地理学名词",
+   "wordNumber": "18.188",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "到达一个地区或一个城市的难易程度。以时间距离表达。"
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.251",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "数学名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "电子学名词",
+   "wordNumber": "18.094",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可及性",
+   "en": "accessibility",
+   "source": "自动化名词",
+   "wordNumber": "03.348",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "外索引",
+   "en": "external access,outer access",
+   "source": "语言学名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "指宏观结构的索引体系。包括音序排检、形序排检（含部首、笔画、笔形代码排检等）、义序排检。辞书可根据需要采用单索引、双索引和多索引系统。"
+  },
+  {
+   "cn": "存取，访问",
+   "en": "access",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "访问，存取",
+   "en": "access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接入",
+   "en": "access",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达性,可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可访问性，可存取性",
+   "en": "accessibility",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可达性",
+   "en": "accessibility",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "顺序存取",
+   "en": "sequence access\",\"sequential accessing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇通达",
+   "en": "lexical access",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存取安全性",
+   "en": "access security",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取方法",
+   "en": "access method",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取分组",
+   "en": "access group",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取级，访问级",
+   "en": "access level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取技术",
+   "en": "access technology",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取控制",
+   "en": "access control",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取类型",
+   "en": "access type",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取路径",
+   "en": "access path",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取目录",
+   "en": "access directory",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取权限",
+   "en": "access right",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存取时间",
+   "en": "access time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "入口",
+   "en": "access",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统一访问",
+   "en": "unified access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取",
+   "en": "open access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无差别式开放",
+   "en": "undifferentiated access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约式开放",
+   "en": "contractual access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网接入",
+   "en": "Internet access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无条件开放",
+   "en": "unconditional access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普遍开放",
+   "en": "universal access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授权开放",
+   "en": "authorized access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带接入网",
+   "en": "broadband access network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取目录数据知识库",
+   "en": "open-access network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据接入标准",
+   "en": "data access standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能门禁",
+   "en": "smart access control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对进入卫生服务市场需要达到的条件或标准以及进入市场后需要遵守的相关规范所制定的相关制度。"
+  },
+  {
+   "cn": "技术可及性",
+   "en": "technical accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，对医疗卫生服务技术可及的机会和条件是均等的特性。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographic accessibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，获得医疗卫生服务的地理距离是均等的特性。"
+  },
+  {
+   "cn": "经济可及性",
+   "en": "economical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从居民对医疗卫生服务的支付角度，衡量居民是否能够获得所需的医疗卫生服务的能力。"
+  },
+  {
+   "cn": "地理可及性",
+   "en": "geographical accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从医疗卫生机构地理位置的角度，以距离、交通方式和路程时间来衡量居民能否方便利用医疗卫生服务的能力。"
+  },
+  {
+   "cn": "设施获得权",
+   "en": "facility access right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医务人员在医疗活动中拥有的符合国家规定标准的执业基本条件和职业防护装备的权利。卫生健康主管部门和医疗、预防、保健机构应依法为医师提供基本的设施条件。"
+  },
+  {
+   "cn": "卫生服务可及性",
+   "en": "health service accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "人们能够及时、方便、经济、有效地获得所需卫生服务的能力和机会。"
+  },
+  {
+   "cn": "健康服务可及性",
+   "en": "access to health service",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.7.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_流动儿童和留守儿童健康促进",
+   "subjectName": "流动儿童和留守儿童健康促进",
+   "publishYear": "2025",
+   "definition": "流动和留守儿童及时获取健康服务的能力，具有地理可及和服务可及的双重特征。"
+  },
+  {
+   "cn": "入世",
+   "en": "accession to the WTO",
+   "source": "马克思主义",
+   "wordNumber": "02.0425",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“加入世界贸易组织”。世界贸易组织取代关贸总协定之后，中国的“入关”、“复关”也改称为“入世”。自1986年申请重返关贸总协定以来，中国经过长达15年的艰苦努力，于2001年12月11日正式加入该"
+  },
+  {
+   "cn": "文化心理可及性",
+   "en": "cultural and psychological accessibility",
+   "source": "社会医学名词",
+   "wordNumber": "8.7.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务可及性",
+   "publishYear": "2025",
+   "definition": "从居民的认知和接受程度角度，衡量居民是否能够获得所需的医疗卫生服务的能力。"
+  },
+  {
+   "cn": "医疗资源空间可及性",
+   "en": "spatial accessibility of health resources",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.14",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "居民获取基本医疗卫生需求在空间上的难易程度。"
+  },
+  {
+   "cn": "基本公共服务均等化",
+   "en": "equal access to basic public services",
+   "source": "马克思主义",
+   "wordNumber": "03.0706",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政府要为社会成员提供基本的、与经济社会发展水平相适应的、能够体现公平正义原则的大致均等的公共产品和服务，是人们生存和发展最基本的条件的均等。"
+  },
+  {
+   "cn": "卫生服务可及性公平",
+   "en": "equity in access to health care ",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，其接受基本卫生服务的机会和条件是均等的，包括地理可及性和服务技术可及性的特性。"
+  },
+  {
+   "cn": "基本药物可及性公平",
+   "en": "equity in access to essential medicines ",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.3.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "任何家庭或个人，无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，都具有均等的对基本药物的可及性的原则。"
+  },
+  {
+   "cn": "基本公共卫生服务均等化",
+   "en": "equal access to basic public health service",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "每个公民都能平等地获得包括计划免疫、妇幼保健、院前急救、采供血以及传染病、慢性病、地方病的预防控制等基本公共卫生服务的机会。"
+  },
+  {
+   "cn": "质量过剩",
+   "en": "mass excess",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "原子核实际质量（以 u 为单位）与质量数之差，即Δ(Z,A)=M(Z,A)−A。"
+  },
+  {
+   "cn": "超额危险",
+   "en": "excess risk",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "有时指人群超额率，有时指危险之差。前者指暴露组人群的某一疾病率与非暴露组人群该疾病率的差值，它是对人群暴露于某危险因素所致疾病危险的量度。后者指两个危险的绝对差值。"
+  },
+  {
+   "cn": "超额利润",
+   "en": "excess profit",
+   "source": "马克思主义",
+   "wordNumber": "02.0215",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "超过平均利润的利润。利用先进技术设备的企业，生产商品的个别劳动时间低于部分平均必要劳动时间，会产生超额利润。超额利润是剩余价值的一种特殊转化形式，来源于工人的所创造的剩余劳动。"
+  },
+  {
+   "cn": "大课间体育活动",
+   "en": "recess exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在大课间时在校内进行的，以健身活动、保健操为主要内容，以班级为基本组织单位的体育锻炼活动。"
+  },
+  {
+   "cn": "超额死亡",
+   "en": "excess deaths",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.7",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "实际发生的死亡人数与基于大流行未发生年份估算得到的正常死亡人数之间的差额，包括疫情直接导致的死亡和因大流行对卫生系统和社会影响等导致的间接相关死亡，交通事故和工伤等导致的死亡相对减少也被计算在内。反映"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

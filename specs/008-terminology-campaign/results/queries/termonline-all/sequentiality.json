@@ -1,0 +1,442 @@
+{
+ "key": "sequentiality",
+ "term": "sequentiality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:49:29+00:00",
+ "status": "ok",
+ "note": "variant=sequentiality; 审定公布名词库=146; 海峡两岸名词对照库=63; 其他来源数据库=2; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "序列完备",
+   "en": "sequentially complete",
+   "source": "数学名词",
+   "wordNumber": "07.0017",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "复种",
+   "en": "sequential cropping",
+   "source": "农学名词",
+   "wordNumber": "08.005",
+   "subjectFullName": "作物栽培与耕作_种植制度",
+   "subjectName": "种植制度",
+   "publishYear": "2025",
+   "definition": "在同一田地上一年内接连种植两季或两季以上作物的种植方式。有当年复种和跨年复种。"
+  },
+  {
+   "cn": "序贯实验",
+   "en": "sequential experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.095",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在实验优化方向难以预见时，不对实验进行全面的整体设计，而是从一个起点出发逐次进行实验的过程。后续实验需根据先前实验所得结果进行设计，使实验指标不断优化。"
+  },
+  {
+   "cn": "序变模型",
+   "en": "sequential model",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0105",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "美国学者科什兰（Koshland）、内梅蒂（Nemethy）和菲尔默（Filmer）提出的别构酶调节酶活性的机制模型。主张酶分子中的亚基结合小分子物质（底物或调节物）后，亚基构象逐个地依次变化，当底物"
+  },
+  {
+   "cn": "继发裂变",
+   "en": "sequential fission",
+   "source": "核科学技术名词",
+   "wordNumber": "2.173",
+   "subjectFullName": "核科学技术_核化学与放射化学_核化学",
+   "subjectName": "核化学",
+   "publishYear": "2024",
+   "definition": "引发裂变反应后，一代又一代裂变产物成为母体，继续进行裂变的现‍象。"
+  },
+  {
+   "cn": "序贯培养",
+   "en": "sequential culture",
+   "source": "生殖医学名词",
+   "wordNumber": "6.039",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "根据植入前胚胎在不同生长发育阶段对营养物质需求不同，分阶段采用含不同营养成分的培养液进行培养的方式。"
+  },
+  {
+   "cn": "序列结构",
+   "en": "sequential structure",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0118",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "高分子结构单元或单体单元在高分子链中的排列结构。"
+  },
+  {
+   "cn": "序贯平差",
+   "en": "sequential adjustment",
+   "source": "地球物理学名词",
+   "wordNumber": "03.0254",
+   "subjectFullName": "地球物理学_地球重力学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "将观测值分成两组或多组，按组的顺序分别做相关间接平差，从而使其达到与两期网一起做整体平差同样结果的平差方法。 "
+  },
+  {
+   "cn": "序贯化疗",
+   "en": "sequential chemotherapy",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.17",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗模式",
+   "subjectName": "化疗模式",
+   "publishYear": "2022",
+   "definition": "先后给予一定周期数的非交叉耐药的药物或化疗方案。通过序贯化疗，药物易于达到较高的剂量，并且可以避免单一化疗方案对耐药细胞的选择作用。"
+  },
+  {
+   "cn": "顺序扫描",
+   "en": "sequential scanning",
+   "source": "光学名词",
+   "wordNumber": "15.168",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "构成整个图像的各扫描行是依次而连续扫出的扫描方式。"
+  },
+  {
+   "cn": "序贯法",
+   "en": "sequential method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.108",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "根据前轮实验结果来安排后面的实验内容的实验安排方法。"
+  },
+  {
+   "cn": "串行设计",
+   "en": "sequential design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0052",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "产品设计的各个阶段按顺序方式进行，一个阶段的工作完成后，下一个阶段的工作才开始，各个阶段依次进行的设计。"
+  },
+  {
+   "cn": "时序控制",
+   "en": "sequential control",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0421",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "按预定的时间顺序自动完成一系列预定的各项控制。"
+  },
+  {
+   "cn": "序贯平差",
+   "en": "sequential adjustment",
+   "source": "测绘学名词",
+   "wordNumber": "02.370",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "一种逐次递推的平差方法。每增加一组新的观测数据，可按递推公式利用原求出的未知数参数估值和权逆阵，求出参数新估值和权逆阵的方法。"
+  },
+  {
+   "cn": "序贯理性",
+   "en": "sequential rationality",
+   "source": "经济学名词",
+   "wordNumber": "03.171",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在博弈的每一个节点上都会重新优化自己的选择并且把自身在未来的重新优化行为考虑在内。"
+  },
+  {
+   "cn": "序贯治疗",
+   "en": "sequential therapy",
+   "source": "器官移植学名词",
+   "wordNumber": "06.003",
+   "subjectFullName": "器官移植学_免疫抑制治疗",
+   "subjectName": "免疫抑制治疗",
+   "publishYear": "2020",
+   "definition": "器官移植免疫抑制治疗过程中，加用或以一种药物替代前一种或几种药物的治疗。可降低药物的毒副作用，增强疗效，提高患者对治疗的依从性。"
+  },
+  {
+   "cn": "顺序重合",
+   "en": "sequential reclosing",
+   "source": "电力名词",
+   "wordNumber": "05.240",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "为防止重合闸时对主设备和电力系统造成不必要的冲击,线路两侧断路器重合需按事先规定的先后顺序进行的一种重合方式。"
+  },
+  {
+   "cn": "顺排文档",
+   "en": "sequential file",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.778",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_索引",
+   "subjectName": "索引",
+   "publishYear": "2019",
+   "definition": "按照自然顺序存储数据记录的文档。它的组织方式为线型结构，逻辑顺序与物理顺序相一致。"
+  },
+  {
+   "cn": "序贯寻优",
+   "en": "sequential search",
+   "source": "冶金学名词",
+   "wordNumber": "04.0742",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "逐步收缩控制搜索域寻求最优解的一种迭代寻优方法。"
+  },
+  {
+   "cn": "顺序分离",
+   "en": "sequential separation",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.011",
+   "subjectFullName": "化工（二）_工艺过程与设备_通用名词",
+   "subjectName": "通用名词",
+   "publishYear": "2019",
+   "definition": "将原料气中的各组分按照碳数或分子量的顺序逐一分离的工艺。常用于乙烯生产。"
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "顺序操作",
+   "en": "sequential operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列聚合",
+   "en": "sequential polymerization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列共聚物",
+   "en": "sequential copolymer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序贯抽样",
+   "en": "sequential sampling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "序列研究",
+   "en": "sequential research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续系列设计,序贯设计",
+   "en": "sequential design",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列法,序贯法",
+   "en": "sequential method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继发裂变",
+   "en": "sequential fission",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "连续热解分析",
+   "en": "sequential pyrolysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯寻优",
+   "en": "sequential search",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序列共聚物",
+   "en": "sequential copolymer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序列聚合",
+   "en": "sequential polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "顺序雌雄同体",
+   "en": "sequential hermaphrodite",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "序贯抽样",
+   "en": "sequential sampling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "次生地形",
+   "en": "sequential landform",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "序变模型",
+   "en": "sequential model",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依序表达",
+   "en": "sequential expression",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "探索性序列设计",
+   "en": "exploratory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先用定性研究探索研究问题，在此基础上进行第二阶段的定量研究，对定量研究的结果进行分析，最终形成有效的定量研究工具或干预设计，用于正式定量研究的定性、定量混合研究方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,602 @@
+{
+ "key": "fatalist fallacy",
+ "term": "fatalist fallacy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:00:25+00:00",
+ "status": "ok",
+ "note": "variant=fatalist fallacy; 审定公布名词库=616; 海峡两岸名词对照库=124; 其他来源数据库=14; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "宿命性自杀",
+   "en": "fatalistic suicide",
+   "source": "行为医学名词",
+   "wordNumber": "13.038",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "因种种原因个体受外界过分控制及指挥，感到命运完全非自己可以控制时出现的一种自杀。"
+  },
+  {
+   "cn": "自然主义谬误",
+   "en": "naturalistic fallacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "试图从纯描述性的资源中获得规范性结果的尝试，犯了范畴性的错误。"
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.036",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "由于用群体的集合暴露水平或暴露特征代表个体的暴露水平或特征所产生的偏倚。因为群体的暴露水平或特征不一定能充分反映个体的暴露水平或特征，因此在基于群体集合水平的变量间观察到的关联，比如某地区的氡平均水平"
+  },
+  {
+   "cn": "微型人谬误",
+   "en": "homunculus fallacy,fallacy of the homunculus",
+   "source": "生物物理学名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "一种很容易让人相信的错觉。在一个人意识的中心，存在一个有意识的“微型人”，一直在观察着外部世界，并主导一切行动。"
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0164",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "认为在多次判断失误后必有成功结果的预期偏差。"
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "心理学名词",
+   "wordNumber": "02.642",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "随机实验中，结果与期望有偏差时(如抛硬币结果正面远多于反面)，相信随后试验会向相反方向发展的认知偏差。"
+  },
+  {
+   "cn": "沉没成本谬误",
+   "en": "sunk cost fallacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0149",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "在决策判断时忽视备选方案的当前特征，而更多考虑此前投入成本的心理定势。"
+  },
+  {
+   "cn": "基率谬误",
+   "en": "base-rate fallacy",
+   "source": "心理学名词",
+   "wordNumber": "07.046",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "解决概率相关问题时忽略小概率事件发生率的现象。"
+  },
+  {
+   "cn": "后撤模式",
+   "en": "fallback mode",
+   "source": "电力名词",
+   "wordNumber": "17.649",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "当机组某一安全系统或设备出现不影响反应堆安全的不可用,且未能在短于运行技术规格书事先规定的后撤期限内修复运行,则必须转为规定可继续安全运行的另一种运行模式。"
+  },
+  {
+   "cn": "华莱士树",
+   "en": "Wallace tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0319",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "华莱士（C.S. Wallace）于1964年提出的用多个保留进位加法器组成树形结构以实现快速乘法的一种结构。"
+  },
+  {
+   "cn": "诡诈分枝杆菌",
+   "en": "Mycobacterium fallax",
+   "source": "感染病学名词",
+   "wordNumber": "03.1146",
+   "subjectFullName": "感染病学_病原体感染_细菌感染",
+   "subjectName": "细菌感染",
+   "publishYear": "2019",
+   "definition": "非结核分枝杆菌，属于快速生长类分枝杆菌。为条件致病菌。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "精细化工名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "精细化工_通类",
+   "subjectName": "通类",
+   "publishYear": "2025",
+   "definition": "在化学反应中能降低活化能，改变反应物化学反应速率而不改变化学平衡，且本身的质量和化学性质在化学反应前后都没有发生改变的物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0028",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "能提高化学反应速率，但自身组成、化学性质和质量在反应前后不发生变化的物质。如催化性的蛋白质和RNA。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "冶金学名词",
+   "wordNumber": "04.0373",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程动力学与反应工程学",
+   "subjectName": "冶金过程动力学与反应工程学",
+   "publishYear": "2019",
+   "definition": "能参与化学反应中间历程又能选择性地改变化学反应速率，且其本身的数量和化学性质在反应前后基本不变的物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.108",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "能改变化学反应速率而本身不进入最终产物的分子组成中的物质。催化剂不能改变热力学平衡，只能影响反应过程达到平衡的速度。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0024",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "具有催化作用但本身并不进入最终产物分子组成中的一类物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "化学名词",
+   "wordNumber": "04.0635",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "改变反应速率但不改变反应总吉布斯自由能的物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0731",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "能加速化学反应、但本身并不参与化学反应的物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.693",
+   "subjectFullName": "机械工程_汽车_发动机_发动机排放",
+   "subjectName": "发动机排放",
+   "publishYear": "2013",
+   "definition": "加速化学反应，但本身并不参与化学反应的物质。"
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.055",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "能提高化学反应速率，而本身结构不发生永久性改变的物质。如蛋白质性酶和具有催化活性的RNA。"
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基率谬误",
+   "en": "base rate fallacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "华莱士线",
+   "en": "Wallace line",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "华莱士线",
+   "en": "Wallace line",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "华莱士树",
+   "en": "Wallace tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂",
+   "en": "catalyst",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂再生",
+   "en": "catalyst regeneration\",\"catalyst reactivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂载体",
+   "en": "catalyst carrier\",\"catalyst support",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "华莱士",
+   "en": "Wallace\",\"William(苏格兰)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂磨损",
+   "en": "attrition of catalyst\",\"catalyst attrition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "计步器，步程计",
+   "en": "pace counter\",\"fally  register",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂黏结剂",
+   "en": "catalyst binder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加氢重整催化剂",
+   "en": "hydroreforming catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重整催化剂",
+   "en": "reforming catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "氧化催化剂",
+   "en": "oxidation catalyst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂结焦",
+   "en": "catalyst coking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂颗粒",
+   "en": "catalyst pellet",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛选手",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队员",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛队",
+   "en": "finalist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非命",
+   "en": "Rejection of Fatalism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病死率（致死率）",
+   "en": "case fatality rate; death rate",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高收治率和治愈率、降低感染率和病亡率",
+   "en": "to improve the admission and cure rates and reduce the infection and fatality rates",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于生态学研究以各个不同情况的个体“集合”而成的群体（组）为观察和分析的单位，以及存在的混杂因素等原因而造成研究结果与真实情况不符的现象。"
+  },
+  {
+   "cn": "个体论谬误",
+   "en": "individualistic fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据对个体单位的研究得到的事实推论总体的特征所产生的推理错误。"
+  },
+  {
+   "cn": "生态谬误",
+   "en": "ecological fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据较高层次上分析单位的研究结论推论较低层次上分析单位的特征所产生的推理错误。"
+  },
+  {
+   "cn": "自然主义谬误",
+   "en": "naturalistic fallacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "试图从纯描述性的资源中获得规范性结果的尝试，犯了范畴性的错误。"
+  },
+  {
+   "cn": "病死率",
+   "en": "fatality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.1.10.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "某患病人群在某限定时间内死于该种疾病的概率，分子为某限定时间内死于某疾病的人数，分母为该限定时间内患有该病的病例数"
+  },
+  {
+   "cn": "致死率",
+   "en": "case fatality ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一定时间内因某病死亡者占该病患病者的比例。"
+  },
+  {
+   "cn": "病死率",
+   "en": "case fatality rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.22.5",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "死亡率",
+   "publishYear": "2025",
+   "definition": "一定期间内某病死亡病例数占该病全部病例数的比例。反映疾病的严重程度，以及医疗卫生机构的医疗服务水平和质量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

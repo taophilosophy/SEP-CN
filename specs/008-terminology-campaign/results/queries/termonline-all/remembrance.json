@@ -1,0 +1,72 @@
+{
+ "key": "remembrance",
+ "term": "remembrance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:55:32+00:00",
+ "status": "ok",
+ "note": "variant=remembrance; 审定公布名词库=5; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "口膜",
+   "en": "buccal membrance",
+   "source": "动物学名词",
+   "wordNumber": "5.1779",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "头足类软体动物口周围的薄膜。在枪形目和乌贼目口膜常分裂成叶状，各叶的尖端与腕的基部相连。"
+  },
+  {
+   "cn": "膜生物法",
+   "en": "membrance biological process",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.352",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "把生物反应与膜分离相结合，以膜为分离介质替代常规重力沉淀固液分离获得出水，并能改变反应进程和提高反应效率的污水处理方法。"
+  },
+  {
+   "cn": "反渗透膜",
+   "en": "reverse osmosis membrance",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0982",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "能透过水分子而对盐分子有高的截留率的一种膜。用于反渗透过程，一般用高分子材料制成，如醋酸纤维素膜、芳香族聚酰肼膜、芳香族聚酰胺膜。膜表面孔为高分子膜材料的网络孔，直径一般为0.5～10nm，透过性的大"
+  },
+  {
+   "cn": "土工膜防渗坝",
+   "en": "geomembrance seepage protection dam",
+   "source": "电力名词",
+   "wordNumber": "14.028",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "用塑料或合成橡胶等制成的不透水薄膜做防渗体的坝。"
+  },
+  {
+   "cn": "膜上灌",
+   "en": "irrigation on plastic membrance",
+   "source": "水利科学技术名词",
+   "wordNumber": "11.048",
+   "subjectFullName": "水利科学技术_灌溉与排水_灌溉（水利）",
+   "subjectName": "灌溉（水利）",
+   "publishYear": "1997",
+   "definition": "在作物行间铺盖的塑料薄膜上行水，水流从薄膜上的小孔下渗以浸润作物根部土壤的一种节水灌溉方法。"
+  },
+  {
+   "cn": "家族相似性",
+   "en": "family resemblance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,362 @@
+{
+ "key": "perdurance",
+ "term": "perdurance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:59:24+00:00",
+ "status": "ok",
+ "note": "variant=perdurance; 审定公布名词库=59; 海峡两岸名词对照库=9; 其他来源数据库=4; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "续航时间",
+   "en": "endurance",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "航空器耗尽其可用燃料所能持续飞行的时间。"
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance",
+   "source": "水产名词",
+   "wordNumber": "09.104",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "船舶一次装足燃油、滑油和淡水等，在正常装载和海况条件下航行的最大距离。"
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance",
+   "source": "船舶工程名词",
+   "wordNumber": "03.109",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船舶一次装足燃油、滑油和淡水等，按规定的装载和海况条件，以规定航速航行所能达到的最大距离。"
+  },
+  {
+   "cn": "耐久能力",
+   "en": "endurance",
+   "source": "电气工程名词",
+   "wordNumber": "24.052",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "cruising radius,endurance",
+   "source": "航海科技名词",
+   "wordNumber": "08.0062",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "行为医学名词",
+   "wordNumber": "20.101",
+   "subjectFullName": "行为医学_行为干预与治疗_行为康复训练",
+   "subjectName": "行为康复训练",
+   "publishYear": "2022",
+   "definition": "对某项活动或运动耐久能力的训练。"
+  },
+  {
+   "cn": "耐振试验",
+   "en": "endurance test",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0126",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "为检验产品在规定的振动条件下的动强度、疲劳性能及工作性能所做的试验。"
+  },
+  {
+   "cn": "肌肉耐力",
+   "en": "muscular endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.070",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无氧耐力",
+   "en": "anaerobic endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.081",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有氧耐力",
+   "en": "aerobic endurance",
+   "source": "生理学名词",
+   "wordNumber": "12.085",
+   "subjectFullName": "生理学_特殊环境、比较、应用和运动生理学",
+   "subjectName": "特殊环境、比较、应用和运动生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "触点耐久性",
+   "en": "contact endurance",
+   "source": "电力名词",
+   "wordNumber": "05.112",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "在规定条件下,触点能可靠循环(闭合与断开)的次数(或时间)。"
+  },
+  {
+   "cn": "有氧耐力",
+   "en": "aerobic endurance",
+   "source": "运动医学名词",
+   "wordNumber": "02.150",
+   "subjectFullName": "运动医学_运动生理_有氧、无氧工作能力",
+   "subjectName": "有氧、无氧工作能力",
+   "publishYear": "2019",
+   "definition": "机体利用有氧代谢供能，进行长时间工作的能力。"
+  },
+  {
+   "cn": "无氧耐力",
+   "en": "anaerobic endurance",
+   "source": "运动医学名词",
+   "wordNumber": "02.160",
+   "subjectFullName": "运动医学_运动生理_有氧、无氧工作能力",
+   "subjectName": "有氧、无氧工作能力",
+   "publishYear": "2019",
+   "definition": "机体利用无氧代谢提供的能量维持较长时间工作的能力。"
+  },
+  {
+   "cn": "肌肉耐力",
+   "en": "muscle endurance",
+   "source": "运动医学名词",
+   "wordNumber": "06.029",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "肌肉在一段时间内连续收缩产生力的能力。常用肌肉克服某一固定负荷的最多次数(动力性运动)或最长时间(静力性运动)来表示。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.339",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "长时间进行肌肉活动的能力，即对抗疲劳的能力。"
+  },
+  {
+   "cn": "耐折度",
+   "en": "folding endurance",
+   "source": "林学名词",
+   "wordNumber": "12.278",
+   "subjectFullName": "林学_林产化学加工_木材制浆造纸",
+   "subjectName": "木材制浆造纸",
+   "publishYear": "2016",
+   "definition": "在一定张力下纸或纸板所能承受往复折叠直至断裂的次数。"
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "心理学名词",
+   "wordNumber": "16.040",
+   "subjectFullName": "心理学_军事心理学",
+   "subjectName": "军事心理学",
+   "publishYear": "2014",
+   "definition": "通过近似实战的演习和模拟战场情景，加大军人心理负荷，提高其承受高强度和持久刺激能力的训练。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "物理医学与康复_康复功能评定_运动功能评定",
+   "subjectName": "运动功能评定",
+   "publishYear": "2014",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "耐久性试验",
+   "en": "endurance test",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.124",
+   "subjectFullName": "机械工程_汽车_发动机_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "使发动机按国家标准规定工况长时间运转，以考核其零部件的可靠性、耐久性及其动力性和经济性指标稳定性的试验。"
+  },
+  {
+   "cn": "耐久性试验",
+   "en": "endurance test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疲劳极限",
+   "en": "endurance limit",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "耐久[性]试验",
+   "en": "endurance test",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水下逗留时间",
+   "en": "submerged endurance",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance\",\"cruising radius",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "续航力",
+   "en": "endurance\",\"cruising ability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小扰动理论",
+   "en": "small perturbance theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纸张耐折度",
+   "en": "paper folding endurance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "耐热性",
+   "en": "heat resistance\",\"thermal endurance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力",
+   "en": "endurance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力赛",
+   "en": "endurance competition\",\"endurance test",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耐力训练",
+   "en": "endurance training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肌耐力",
+   "en": "muscle endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "骨骼肌重复收缩或者持续收缩的能力。"
+  },
+  {
+   "cn": "心肺耐力",
+   "en": "cardiorespiratory fitness, cardiorespiratory endurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "在较长时间的体力活动中，心血管系统（心脏和血管）和呼吸系统（肺和气道），为工作的肌肉和器官提供氧气的能力。通常表示为测量或估计的最大摄氧量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

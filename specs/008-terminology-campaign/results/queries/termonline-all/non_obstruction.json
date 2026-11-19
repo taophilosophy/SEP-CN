@@ -1,0 +1,812 @@
+{
+ "key": "non-obstruction",
+ "term": "non-obstruction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:08:22+00:00",
+ "status": "ok",
+ "note": "variant=non-obstruction; 审定公布名词库=4007; 海峡两岸名词对照库=1010; 其他来源数据库=202; 预公布名词数据库=176; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "非阻塞性胆管炎",
+   "en": "non-obstructive cholangitis",
+   "source": "消化病学名词",
+   "wordNumber": "13.096",
+   "subjectFullName": "消化病_胆囊与胆道_胆囊与胆道疾病 ",
+   "subjectName": "胆囊与胆道疾病 ",
+   "publishYear": "2022",
+   "definition": "由肠道细菌感染等非梗阻原因导致的胆管炎症性病变。主要表现为上腹不适、胀痛、绞痛等。需与胆管梗阻、胆汁淤积性肝病等相鉴别。"
+  },
+  {
+   "cn": "非梗阻性无精子症",
+   "en": "non-obstructive azoospermia,NOA",
+   "source": "泌尿外科学名词",
+   "wordNumber": "10.168",
+   "subjectFullName": "泌尿外科学_男科",
+   "subjectName": "男科",
+   "publishYear": "2014",
+   "definition": "未发现输精管道梗阻，但精液或性高潮后排出的尿液中未见精子或生精细胞的疾病。临床表现为不育。"
+  },
+  {
+   "cn": "非梗阻性无精子症",
+   "en": "non-obstructive azoospermia;NOA",
+   "source": "男科及性医学名词",
+   "wordNumber": "14.025",
+   "subjectFullName": "男科及性医学_男性不育与辅助生殖",
+   "subjectName": "男性不育与辅助生殖",
+   "publishYear": "2023",
+   "definition": "未发现输精管道梗阻，但精液或性高潮后排出的尿液中未见精子的疾病。主要与睾丸前及睾丸本身因素有关，导致睾丸精子发生障碍，临床表现为无精子症与不育。"
+  },
+  {
+   "cn": "非梗阻性肾盏结石",
+   "en": "non-obstructive calyceal calculus",
+   "source": "泌尿外科学名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "泌尿外科学_尿石症",
+   "subjectName": "尿石症",
+   "publishYear": "2014",
+   "definition": "位于肾盏内，未造成尿路梗阻的结石。可无症状或表现为疼痛或反复尿路感染。"
+  },
+  {
+   "cn": "梗阻",
+   "en": "obstruction",
+   "source": "兽医学名词",
+   "wordNumber": "10.048",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "有腔器官或管道内容物（或分泌物）流通不畅或不能通过的现象。"
+  },
+  {
+   "cn": "天空遮挡物",
+   "en": "obstruction",
+   "source": "建筑学名词",
+   "wordNumber": "10.0141",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "在建筑物外的直接遮挡可看见部分天空的物体。"
+  },
+  {
+   "cn": "碍航物",
+   "en": "obstruction",
+   "source": "航海科技名词",
+   "wordNumber": "07.0339",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "阻碍",
+   "en": "obstruction",
+   "source": "数学名词",
+   "wordNumber": "08.0823",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "非机械性尿路扩张",
+   "en": "non-obstructive urinary tract dilatation",
+   "source": "核医学名词",
+   "wordNumber": "04.1705",
+   "subjectFullName": "核医学_临床核医学_泌尿生殖系统核医学_泌尿生殖系统解剖生理基础",
+   "subjectName": "泌尿生殖系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "没有明确的阻塞因素的肾盂、输尿管扩张现象。因局部容积增大，导致肾盂、输尿管内尿液排出不正常。"
+  },
+  {
+   "cn": "气道阻塞",
+   "en": "airway obstruction",
+   "source": "普通外科学名词",
+   "wordNumber": "14.200",
+   "subjectFullName": "医学_普通外科学_甲状腺与甲状旁腺外科",
+   "subjectName": "甲状腺与甲状旁腺外科",
+   "publishYear": "2026",
+   "definition": "气道管径缩小，气体呼出或吸入障碍的病症。"
+  },
+  {
+   "cn": "吻合口梗阻",
+   "en": "anastomotic obstruction",
+   "source": "普通外科学名词",
+   "wordNumber": "17.195",
+   "subjectFullName": "医学_普通外科学_胃与十二指肠外科",
+   "subjectName": "胃与十二指肠外科",
+   "publishYear": "2026",
+   "definition": "因消化道吻合口水肿、狭窄导致的内容物无法通过的病症。"
+  },
+  {
+   "cn": "绞窄性肠梗阻",
+   "en": "strangulated obstruction",
+   "source": "普通外科学名词",
+   "wordNumber": "18.043",
+   "subjectFullName": "医学_普通外科学_小肠外科",
+   "subjectName": "小肠外科",
+   "publishYear": "2026",
+   "definition": "因肠系膜血管或肠壁小血管受压、血管腔栓塞或血栓形成而使相应肠段出现血运障碍的肠梗阻。可导致肠坏死、穿孔。"
+  },
+  {
+   "cn": "气道阻塞",
+   "en": "airway obstruction",
+   "source": "神经外科学名词",
+   "wordNumber": "17.056",
+   "subjectFullName": "医学_神经外科学_神经外科重症监护_神经外科重症常见并发症及结局",
+   "subjectName": "神经外科重症常见并发症及结局",
+   "publishYear": "2026",
+   "definition": "由异物或者呼吸道异常引起的呼吸道阻塞或者狭窄。通常表现为突发的剧烈刺激性咳嗽、声嘶、呼吸困难和呼吸停止等症状。"
+  },
+  {
+   "cn": "肠梗阻",
+   "en": "intestinal obstruction",
+   "source": "急救医学名词",
+   "wordNumber": "03.364",
+   "subjectFullName": "急救医学_日常医学急救_外科学_胃肠疾病",
+   "subjectName": "胃肠疾病",
+   "publishYear": "2025",
+   "definition": "各种原因引起肠内容物阻塞，不能顺利通过和运行的现象。临床常出现腹胀、腹痛、呕吐、排便障碍等表现，严重者可并发肠穿孔、水电解质紊乱、感染，是临床常见的急腹症之一。"
+  },
+  {
+   "cn": "鼻塞",
+   "en": "nasal obstruction",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "鼻科_鼻症状",
+   "subjectName": "鼻症状",
+   "publishYear": "2025",
+   "definition": "由各种原因导致的鼻腔通气不畅的主观感觉。"
+  },
+  {
+   "cn": "睾丸内梗阻",
+   "en": "intratesticular obstruction",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.147",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "由先天或后天性因素导致的睾丸网梗阻。后天性因素多于先天性因素，临床表现为无精子症与不育，诊断困难。"
+  },
+  {
+   "cn": "附睾梗阻",
+   "en": "epididymal obstruction",
+   "source": "男科及性医学名词",
+   "wordNumber": "09.178",
+   "subjectFullName": "男科及性医学_阴囊及其内容物疾病",
+   "subjectName": "阴囊及其内容物疾病",
+   "publishYear": "2023",
+   "definition": "由各种因素导致精子潴留在附睾管内、无法向输精管输送的疾病。常伴梗阻以上附睾管扩张。是梗阻性无精子症的最常见原因。常见病因包括先天性因素与后天性因素，部分病因不明。"
+  },
+  {
+   "cn": "咽阻塞",
+   "en": "pharyngeal obstruction",
+   "source": "兽医学名词",
+   "wordNumber": "15.043",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "异物、咽部病理性组织等占位于咽腔，使咽腔口径缩小而导致梗阻的一种疾病。"
+  },
+  {
+   "cn": "食道梗塞",
+   "en": "esophageal obstruction",
+   "source": "兽医学名词",
+   "wordNumber": "15.045",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "吞咽的食物或异物过于粗大或咽下机能障碍，导致食道梗阻的一种疾病。"
+  },
+  {
+   "cn": "附睾梗阻",
+   "en": "epididymal obstruction",
+   "source": "生殖医学名词",
+   "wordNumber": "4.226",
+   "subjectFullName": "生殖医学_生殖系统疾病_男性生殖系统疾病",
+   "subjectName": "男性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "梗阻发生于附睾。是非梗阻性无精子症的最常见原因。临床表现为不育。"
+  },
+  {
+   "cn": "障碍物",
+   "en": "obstruction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "碍航物",
+   "en": "obstruction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尿道阻塞",
+   "en": "urethral obstruction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "航行障碍物",
+   "en": "navigation obstruction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "居间障碍物",
+   "en": "intervening obstruction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "障碍物探测",
+   "en": "obstruction sounding",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非等位基因",
+   "en": "non-allele",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不太快",
+   "en": "non presto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不太多",
+   "en": "non molto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不过分",
+   "en": "non tanto",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非势[场]性",
+   "en": "non-potentiality",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非金属",
+   "en": "non-metal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不完全支付",
+   "en": "non-payout",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝承兑",
+   "en": "non-acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不均匀",
+   "en": "non-uniform",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非电解质",
+   "en": "non-electrolyte",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无腐蚀性",
+   "en": "non-corrosiveness",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "非分泌者",
+   "en": "non-secretor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非不变性",
+   "en": "non-stationarity",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不外显",
+   "en": "non-penetrance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "妨碍",
+   "en": "obstruct\",\"obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡！",
+   "en": "Obstruction!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍物",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "obstruct\",\"block\",\"obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妨碍",
+   "en": "obstruct",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "blocking\",\"obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻碍",
+   "en": "blocking\",\"obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "障碍",
+   "en": "obstacle\",\"obstruction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻碍",
+   "en": "jostle\",\"obstruct",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "慢性阻塞性肺病",
+   "en": "chronic obstructive pulmonary disease",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.5.5",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "一种以持续气流受限为特征的肺部疾病。其共同特点为肺实质和小气道受损，导致慢性气道阻塞、呼吸阻力增加和肺功能不全，主要包括慢性支气管炎、支气管哮喘、支气管扩张症和肺气肿等疾病。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  },
+  {
+   "cn": "非焚烧处理",
+   "en": "Non-incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "除传统焚烧处理以外的处理，如高温蒸汽处理、高温干热处理、化学法处理、微波处理等。"
+  },
+  {
+   "cn": "非电离辐射",
+   "en": "non-ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.3",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "不引起物质原子和分子电离、只引起其振动、转动或电子能级改变的辐射。如紫外线、可见光、红外线、微波和高频电磁场。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "非物质文化",
+   "en": "non-material culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "人类在社会历史实践过程中所创造的各种精神文化。包括自然科学、宗教、艺术、哲学、语言文字、风俗道德、法律等。与“物质文化”相对。"
+  },
+  {
+   "cn": "非冗余关系",
+   "en": "non-redundant ties",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.8",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "社会网络中能够带来非重复信息的关系，通常存在于无直接联系的两个行动者之间。"
+  },
+  {
+   "cn": "无文字社会",
+   "en": "non-literary society",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "没有书面语言的族群或文化。一般拥有丰富的口述表达的传统。被认为是人类社会的雏形，比较孤立、人口少、技术简单、变化速度慢，在经济和政治功能方面具有相对的自给自足性、自律性和完整性。"
+  },
+  {
+   "cn": "非政治国家",
+   "en": "non political state",
+   "source": "马克思主义",
+   "wordNumber": "03.0258",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯认为，无产阶级专政是过渡时期的国家政权，到共产主义社会的第一阶段，国家将逐步消亡，而只具有管理职能，这时的国家就是非政治国家。列宁在《国家与革命》中指出：‘正在消亡的国家在它消亡的一定阶"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "非营利医院",
+   "en": "non-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.2.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "为社会公众利益服务而设立和运营的医院，其收入用于弥补医疗服务成本，实际运营中的收支结余只能用于自身的发展，如改善医疗条件、引进技术、开展新的医疗服务项目等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

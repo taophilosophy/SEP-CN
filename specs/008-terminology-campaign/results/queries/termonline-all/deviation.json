@@ -1,0 +1,732 @@
+{
+ "key": "deviation",
+ "term": "deviation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:49:42+00:00",
+ "status": "ok",
+ "note": "variant=deviation; 审定公布名词库=357; 海峡两岸名词对照库=119; 其他来源数据库=18; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "尺寸偏差",
+   "en": "deviation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0333",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_公差、偏差与配合",
+   "subjectName": "公差、偏差与配合",
+   "publishYear": "2021",
+   "definition": "某一尺寸减其基本尺寸所得的代数差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0561",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品化学分析",
+   "subjectName": "食品化学分析",
+   "publishYear": "2020",
+   "definition": "测定值与测定平均值的差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "冶金学名词",
+   "wordNumber": "04.0704",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "观测值与算术平均值的差值。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0021",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "物理量某次测量值与其在同一条件下多次测量的平均值之差。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "物理学名词",
+   "wordNumber": "01.0248",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "核医学名词",
+   "wordNumber": "06.0350",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "因各种影响因素致使观察和评价结果偏离真值的现象。"
+  },
+  {
+   "cn": "锯材偏差",
+   "en": "deviation",
+   "source": "林学名词",
+   "wordNumber": "11.206",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "在锯解原木过程中，由于加工机床或刀具精度以及人为方法不够正确，使锯材的尺寸可能引起正负差异的量。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "化学名词",
+   "wordNumber": "03.0169",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "测量列中单次测量值与该测量列的平均值之差。在计量检定中指计量器具实际值与标称值之差。"
+  },
+  {
+   "cn": "离差",
+   "en": "deviation",
+   "source": "心理学名词",
+   "wordNumber": "03.044",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "表示某个数据偏离所在组数据平均值程度的统计量。通常用标准差、平均偏差或平均差来度量。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.153",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "偏斜",
+   "en": "deviation",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0021",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "电气工程名词",
+   "wordNumber": "01.855",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "偏斜",
+   "en": "deviation",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.291",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "绕航",
+   "en": "deviation",
+   "source": "航海科技名词",
+   "wordNumber": "13.0071",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "自差",
+   "en": "deviation",
+   "source": "航海科技名词",
+   "wordNumber": "06.0026",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "化学工程名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "自动化名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "移位",
+   "en": "shift,deviation",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.092",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "解剖结构的位置移动状态。"
+  },
+  {
+   "cn": "剩余自差",
+   "en": "residual deviation,remaining deviation",
+   "source": "航海科技名词",
+   "wordNumber": "06.0033",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "偏差检查",
+   "en": "deviation check",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.144",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "探测数据现状、历史记录或标准之间的显著变化和偏离的活动。为管理和控制提供了有效的手段。"
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离差",
+   "en": "deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绕航",
+   "en": "deviation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自差",
+   "en": "deviation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "平均偏差",
+   "en": "average deviation\",\"mean deviation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏差，偏移",
+   "en": "deviation\",\"DEV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏斜",
+   "en": "skew\",\"deviation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "偏差变数",
+   "en": "deviation variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偏差形式",
+   "en": "deviation form",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离差分数",
+   "en": "deviation score",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偏折棱镜",
+   "en": "deviation prism",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "偏差控制",
+   "en": "deviation control",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏离指示器",
+   "en": "deviation indicator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏移比，偏差比",
+   "en": "deviation ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绕航变更报告",
+   "en": "deviation report",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自差表",
+   "en": "deviation table",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自差曲线",
+   "en": "deviation curve",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "互作离差",
+   "en": "interaction deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上位离差",
+   "en": "epistatic deviation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏差",
+   "en": "deviation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偏离预警",
+   "en": "deviation warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离度测算",
+   "en": "deviation measuring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离路线",
+   "en": "deviate from the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "酌奇而不失其贞",
+   "en": "Seek Novelty Without Deviating from the Proper Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独乐其志，不厌其道",
+   "en": "One Should Fulfill His Wish Without Deviating from Benevolence and Righteousness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "调解",
+   "en": "mediation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧调解",
+   "en": "smart mediation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧航空",
+   "en": "smart aviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线调解平台",
+   "en": "online mediation platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上调解仲裁",
+   "en": "online mediation and arbitration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际民用航空组织",
+   "en": "International Civil Aviation Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.9",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "对特定类型检验的综合判定指标，是全部照射组单组性能Pi的平均值。"
+  },
+  {
+   "cn": "偏离",
+   "en": "deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.14",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在危害分析与关键控制点（HACCP）系统中，不符合关键限值。"
+  },
+  {
+   "cn": "偏离标准偏差",
+   "en": "standard deviation of deviation",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "特定类型检验的综合判定指标，是全部照射组单组性能Pi的标准差。"
+  },
+  {
+   "cn": "杀菌偏差",
+   "en": "process deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.11",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "在热力杀菌过程中，凡是未能满足热力杀菌工艺规程的任何现象。"
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "尺偏畸形",
+   "en": "ulnar deviation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.1.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "常见于类风湿关节炎的一种手指部位的关节畸形。表现为掌指关节半脱位，即除拇指外其余四指远端均以掌指关节为轴心，向小指一侧（即尺侧）偏斜，导致手呈“之”字形。"
+  },
+  {
+   "cn": "阳性偏差",
+   "en": "positive deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.50",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阴性结果，而可替代方法却得出未经证实的阳性结果，如果后者被证明为阴性，这种偏离便是一个假阳性"
+  },
+  {
+   "cn": "眼球偏侧凝视",
+   "en": "conjugate eye deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "霉变甘蔗中毒重症的特征性症状，表现为水平凝视持续向一侧移动，同时无法凝视另一侧，眼底检查正常"
+  },
+  {
+   "cn": "离差评价法",
+   "en": "deviation method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价个体、群体儿童少年生长发育水平和现状的方法。该方法用标准差和平均值表示样本调查值的分布，适用于正态分布的资料。"
+  },
+  {
+   "cn": "标准差分评价法",
+   "en": "standard deviation score method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用标准差分来评价生长发育一种特殊类型的离差法。标准差分是将个体某测量指标实测值与参考样本均值之差除以参考样本的标准差所得，标准差分在-1和1之间评价为中等。"
+  },
+  {
+   "cn": "利润-背离非营利医院模型",
+   "en": "model of profit-deviating non-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.4.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给者行为",
+   "subjectName": "卫生服务供给者行为",
+   "publishYear": "2025",
+   "definition": "分析非营利性医院行为的一种经济学模型。医院的服务是为了社会公众利益而提供公益性的医疗服务，其收入用于弥补医疗服务成本，实际运营中的收支结余只能用于自身的发展，可能表现出与利润最大化行为相似的特征"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "航空流行病学",
+   "en": "aviation epidemiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.5",
+   "subjectFullName": "军事预防医学_军队流行病学_航空流行病学",
+   "subjectName": "航空流行病学",
+   "publishYear": "2025",
+   "definition": "研究航空活动所致健康相关问题的分布及影响因素，预防与控制策略及措施，促进健康，保障飞行安全的流行病学分支学科。"
+  },
+  {
+   "cn": "航空医学",
+   "en": "aviation medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "研究人在大气层飞行时，超重、失重等飞行因素对人体生理功能的影响及其防护措施的医学学科。"
+  },
+  {
+   "cn": "航空营养",
+   "en": "aviation nutrition",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.7.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_特殊军事作业人群营养保障",
+   "subjectName": "特殊军事作业人群营养保障",
+   "publishYear": "2025",
+   "definition": "根据航空飞行环境的低气压、缺氧、高噪音等的特点，确定航空人员的能量和营养素需要量，遵循高糖、低脂、适量蛋白质、丰富维生素的膳食配制原则，合理安排饮食制度，以满足飞行人员的营养需求，保障飞行安全与效率。"
+  },
+  {
+   "cn": "航空救生",
+   "en": "aviation emergency escapement",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.12",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "当飞机出现致命性故障时，使飞行员脱离危险和/或应急返回地面等方式实施自救和营救的过程。"
+  },
+  {
+   "cn": "航空供氧",
+   "en": "aviation oxygen supply",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "为使飞行人员及乘员免受高空缺氧的影响，采用飞机座舱密封增压或设备供氧等方式，为飞行人员及乘员提供适量氧气的操作。"
+  },
+  {
+   "cn": "航空作业卫生",
+   "en": "hygiene of aviation operation",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.10",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制航空作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "航空供氧装备",
+   "en": "aviation oxygen supply equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.3.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "为使飞行人员及乘员免受高空缺氧的影响，向飞行人员及乘员提供适量氧气的设备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

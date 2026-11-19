@@ -1,0 +1,762 @@
+{
+ "key": "heredity clinic",
+ "term": "heredity clinic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:50:20+00:00",
+ "status": "ok",
+ "note": "variant=heredity clinic; 审定公布名词库=500; 海峡两岸名词对照库=58; 其他来源数据库=19; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "遗传",
+   "en": "heredity",
+   "source": "风景园林名词",
+   "wordNumber": "09.0129",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物亲代与子代之间、子代个体之间相似的现象。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity",
+   "source": "林学名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木亲代与子代性状之间的连续性和相似性程度。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity",
+   "source": "心理学名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "亲代的性状在下代表现的现象。是心理发展的自然前提，为心理发展提供潜在的可能性。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "畜牧学名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity,inheritance",
+   "source": "水产名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "生物世代之间的连续性和相似性。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.096",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "性状由亲代向子代传递的现象或过程。遗传方式主要包括单基因遗传、多基因遗传等。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "行为医学名词",
+   "wordNumber": "3.147",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "性状由亲代向子代传递的现象或过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity;inheritance",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.06",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "（1）性状由亲代向子代传递的现象。（2）性状由亲代向子代传递的过程。"
+  },
+  {
+   "cn": "遗传",
+   "en": "1 heredity 2 inheritance",
+   "source": "遗传学名词",
+   "wordNumber": "01.083",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "(1)性状由亲代向子代传递的现象。(2)性状由亲代向子代传递的过程。"
+  },
+  {
+   "cn": "株型遗传",
+   "en": "plant architecture heredity",
+   "source": "风景园林名词",
+   "wordNumber": "09.0154",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "分枝、叶片和花器官的形成与着生位置等在亲代和子代间遗传的现象。"
+  },
+  {
+   "cn": "花瓣数量遗传",
+   "en": "heredity of petal number",
+   "source": "风景园林名词",
+   "wordNumber": "09.0151",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "观赏植物花瓣数量的遗传变异规律。"
+  },
+  {
+   "cn": "叶色遗传",
+   "en": "heredity of leaf color",
+   "source": "风景园林名词",
+   "wordNumber": "09.0153",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "叶片性状在有性繁殖情况下由亲代传递给子代的遗传变异规律。"
+  },
+  {
+   "cn": "花色遗传",
+   "en": "heredity of flower color",
+   "source": "风景园林名词",
+   "wordNumber": "09.0152",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "花朵颜色在有性繁殖情况下由亲代传递给子代的遗传变异规律。"
+  },
+  {
+   "cn": "医务室",
+   "en": "clinic",
+   "source": "建筑学名词",
+   "wordNumber": "02.0519",
+   "subjectFullName": "建筑学_建筑类型及组成_医疗卫生建筑",
+   "subjectName": "医疗卫生建筑",
+   "publishYear": "2014",
+   "definition": "可进行简易治疗和应急包扎的基层诊疗机构。"
+  },
+  {
+   "cn": "鼠疫菌遗传变异",
+   "en": "heredity and deviance of Yersinia pestis",
+   "source": "地方病学名词",
+   "wordNumber": "07.171",
+   "subjectFullName": "地方病学_鼠疫_鼠疫病原学",
+   "subjectName": "鼠疫病原学",
+   "publishYear": "2016",
+   "definition": "鼠疫菌的亲代与子代之间不相似的现象。"
+  },
+  {
+   "cn": "临床分析",
+   "en": "clinic analysis",
+   "source": "化学名词",
+   "wordNumber": "03.0021",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "以分析化学手段和方法来辅助进行疾病的诊断、治疗及预防，进而帮助查找疾病的病因。"
+  },
+  {
+   "cn": "疼痛门诊",
+   "en": "pain clinic",
+   "source": "医学名词 第六分册",
+   "wordNumber": "11.002",
+   "subjectFullName": "医学_麻醉学",
+   "subjectName": "麻醉学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "老年临床医学",
+   "en": "clinical geriatrics",
+   "source": "急救医学名词",
+   "wordNumber": "03.831",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年学概论",
+   "subjectName": "老年学概论",
+   "publishYear": "2025",
+   "definition": "研究导致老年病残和过早死亡的常见病的学科。涉及所有的临床学科。"
+  },
+  {
+   "cn": "临床营养",
+   "en": "clinical nutrition",
+   "source": "急救医学名词",
+   "wordNumber": "03.974",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年营养",
+   "subjectName": "老年营养",
+   "publishYear": "2025",
+   "definition": "研究合理应用各类食物和营养素来预防、治疗有关疾病，增进健康，延缓衰老的手段。"
+  },
+  {
+   "cn": "临床药理学",
+   "en": "clinical pharmacology",
+   "source": "麻醉学名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "研究药物对人体作用规律及人体与药物间相互作用过程的学科。"
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传",
+   "en": "heredity\",\"inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床分析",
+   "en": "clinic analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "临床解剖学",
+   "en": "clinical anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "临床心理学",
+   "en": "clinical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床评估",
+   "en": "clinical assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床访谈",
+   "en": "clinical interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床显著性",
+   "en": "clinical significance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床预测",
+   "en": "clinical prediction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "临床遗传学",
+   "en": "clinical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床细胞遗传学",
+   "en": "clinical cytogenetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床免疫学",
+   "en": "clinical immunology",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床试验",
+   "en": "clinical trial",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床毒理学",
+   "en": "clinical toxicology",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临床药理学",
+   "en": "clinical pharmacology",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临床药学",
+   "en": "clinical pharmacy",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "临床牙根",
+   "en": "clinical root of tooth",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "临床牙冠",
+   "en": "clinical crown of tooth",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "临床试验规范",
+   "en": "Good Clinical Practice（GCP）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员训练班",
+   "en": "clinic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发热门诊",
+   "en": "fever clinic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床试验",
+   "en": "clinical trials",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  临床表现",
+   "en": "clinical picture",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床数据",
+   "en": "clinical data",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床诊断病例",
+   "en": "clinically diagnosed cases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床症状",
+   "en": "clinical signs and symptoms",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临床辅助决策支持系统",
+   "en": "clinical decision support system (CDSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫苗临床试验和上市使用",
+   "en": "clinical trial and application of vaccines",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感染控制、检验、特诊、放射诊断科室",
+   "en": "infection control, clinical laboratory, special service and radiodiagnosis departments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 21715.4-2011 健康信息学 患者健康卡数据 第4部分：扩展临床数据》",
+   "en": "GB/T 21715.4-2011 Health informatics — Patient healthcard data — Part 4: Extended clinical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近战",
+   "en": "clinch\",\"infighting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体接触",
+   "en": "body contact\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扭抱",
+   "en": "hold\",\"tie up\",\"clinch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "门诊咨询",
+   "en": "clinic counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "专业机构的学生心理健康咨询者，对前来求助的学生通过共同商谈，弄清其心理问题症结或心理疾病本质，给予其专业帮助、启迪和教育的过程。"
+  },
+  {
+   "cn": "助产士门诊",
+   "en": "midwife clinic",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "助产士为孕产妇提供服务的新型模式 ,为有自然分娩意愿和条件的孕妇提供高质量、人性化的妊娠期、分娩期及产后保健和咨询的工作场所。对帮助孕产妇改善分娩方式及结局、促进角色转化和母乳喂养等方面有积极作用。"
+  },
+  {
+   "cn": "村卫生室",
+   "en": "village clinic",
+   "source": "社会医学名词",
+   "wordNumber": "11.4.5",
+   "subjectFullName": "社区卫生",
+   "subjectName": "基层卫生服务机构",
+   "publishYear": "2025",
+   "definition": "农村三级医疗卫生服务体系的最基层单位，由政府主导设立的非营利性村级医疗机构，以行政村为服务范围，以居民健康为中心，通过预防、医疗、保健、康复、健康教育、计划生育技术指导等“六位一体”综合服务，为农村居"
+  },
+  {
+   "cn": "临床研究",
+   "en": "clinical research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在健康照料研究中，为了获取新知识和创新治疗手段而进行的研究。包括辨识、描述、解释生成、解释检验、干预和控制的检验。"
+  },
+  {
+   "cn": "临床路径",
+   "en": "clinical pathway",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16.7",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "根据患者诊断、年龄、疾病严重程度、风险因素评估(包括有没有营养风险、有没有营养不良)、是否手术，结合世界卫生组织(WHO)的国际疾病分类(ICD)编码，将患者分入若干诊断组，对其诊疗的步骤按序列出，并"
+  },
+  {
+   "cn": "临床伦理学",
+   "en": "clinical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.17",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究医学伦理学的基本理论、原则和规范在临床医学和临床实践中具体运用的伦理学理论。重点研究医患之间、医务人员之间及医务人员与社会之间的伦理关系，涉及临床诊疗、检查、康复及新技术临床应用等伦理问题。"
+  },
+  {
+   "cn": "临床思维",
+   "en": "clinical thinking",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.178",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "运用医学、人文社会科学和现代科技等手段，以患者为中心，经病史采集、体格检查和必要的实验室检查等，结合患者的主诉及其他可利用的证据信息，根据患者的症状和社会背景等因素，批判性地分析、综合、推理和鉴别，形"
+  },
+  {
+   "cn": "母乳喂养咨询门诊",
+   "en": "breastfeeding consultation clinic",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "提供咨询指导、促进母乳喂养行为的重要措施。可设在综合医院、妇幼保健院、妇产医院、儿童医院及有条件的乡镇卫生院和社区医院，每周固定门诊时间，专业人员接诊，为家庭提供母乳喂养咨询指导，解决困难和问题。"
+  },
+  {
+   "cn": "临床核医学",
+   "en": "clinical nuclear medicine",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用放射性核素及其制品，通过相应技术方法与设备诊断和治疗疾病的核医学分支学科。"
+  },
+  {
+   "cn": "临床护理伦理",
+   "en": "clinical nursing ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.002999999999999",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护理人员在为患者提供健康评估、外科护理、内科护理、妇产科护理、儿科护理、精神科护理、急救护理、老年护理等服务活动中涉及的伦理问题及应遵循的护理道德规范。"
+  },
+  {
+   "cn": "临床资料分析",
+   "en": "clinical data analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.22.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "临床深度缓解",
+   "en": "clinical deep remission, CliDR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "评估类风湿关节炎疾病深度缓解的复合指标，临床深度缓解定义：没有肿胀及压痛关节（66/68关节计数法）及血沉、CRP水平正常。"
+  },
+  {
+   "cn": "临床靶区",
+   "en": "clinical target volume，CTV",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.21.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "临床上给出的实施放射治疗的范围，包含肿瘤区、亚临床灶、肿瘤可能侵犯的范围及区域淋巴结。这种靶区是在静态影像上确定的，没有考虑器官的运动和治疗方式。"
+  },
+  {
+   "cn": "临床决策支持系统",
+   "en": "clinical decision support systems,CDSS",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "通过应用信息技术，综合分析医学知识和患者信息，为医务人员的临床诊疗活动提供多种形式帮助，支持临床医生为患者制定诊断和治疗方案的一种计算机辅助信息系统。"
+  },
+  {
+   "cn": "临床疾病活动度指数",
+   "en": "clinical disease activity index， CDAI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.1.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_类风湿关节炎_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "一种用于评估类风湿关节炎疾病活动度的指标。由简化疾病活动度指数进一步简化而来，采用以下指标的直接总和：压痛关节数、肿胀关节数（均采用28-关节计数法）、患者总体评估、医生总体评估（均0-10量表）。疾"
+  },
+  {
+   "cn": "药品临床综合评价",
+   "en": "clinical comprehensive evaluation of drug",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.4",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "评价主体运用多种评价方法和工具对临床药品开展的系统化评判活动，通常围绕安全性、有效性、经济性、创新性、适宜性、可及性等6个维度展开数据分析与研判。"
+  },
+  {
+   "cn": "食物中毒临床综合征",
+   "en": "clinical syndrome of food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.18",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一组由食物中毒引起的胃肠道症状、神经系统症状、心血管系统症状等的一系列症状和体征。"
+  },
+  {
+   "cn": "人工智能临床诊疗决策支持系统",
+   "en": "AI in clinical decision support system",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "通过应用人工智能技术，综合分析医学知识和患者信息，辅助医务人员做出临床诊断和治疗决策的工具。"
+  },
+  {
+   "cn": "临床诊疗伦理原则",
+   "en": "Core Ethical Principles in Clinical Practice",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.001",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在医疗实践和医患关系中，医务人员应遵循的基本道德准则。旨在保障患者权益、规范医疗行为并维护医疗行业的公信力。"
+  },
+  {
+   "cn": "中小学卫生室建设",
+   "en": "construction of primary and secondary school clinic",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校物质环境",
+   "subjectName": "学校物质环境",
+   "publishYear": "2025",
+   "definition": "中小学为学校预防保健、健康教育、常见病和传染病预防与控制、学校卫生日常检查，并提供基础医疗服务而设立具有《医疗机构执业许可证》医疗机构的全过程。其需按学生人数六百比一的比例配备专职卫生技术人员。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

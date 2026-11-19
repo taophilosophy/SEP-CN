@@ -1,0 +1,22 @@
+{
+ "key": "vak",
+ "term": "vāk",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:09:50+00:00",
+ "status": "ok",
+ "note": "variant=vāk; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "含混吸引子",
+   "en": "vague attractor [of Kolmogorov],VAK",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "barry øverland",
+ "term": "Barry Øverland",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:59+00:00",
+ "status": "ok",
+ "note": "variant=Barry Øverland; 审定公布名词库=64; 海峡两岸名词对照库=28; 其他来源数据库=27; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "坡面流",
+   "en": "overland flow",
+   "source": "地理学名词",
+   "wordNumber": "05.207",
+   "subjectFullName": "地理学_水文学",
+   "subjectName": "水文学",
+   "publishYear": "2006",
+   "definition": "降水沿坡面和土壤表层汇集流动的过程。"
+  },
+  {
+   "cn": "搬运",
+   "en": "carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.139",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "经过现场必要的处理后，将患者迅速、安全地搬离现场，脱离危险环境，避免损伤加重，并及时送往医院的一种转移方法。主要用于院前急救的过程中，可分为徒手搬运和器械搬运。"
+  },
+  {
+   "cn": "超标雨水行泄通道",
+   "en": "overland flow path",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.558",
+   "subjectFullName": "城乡规划学_城乡规划与设计_工程规划",
+   "subjectName": "工程规划",
+   "publishYear": "2021",
+   "definition": "用于输送超过城市雨水排水系统排水能力的地面雨水通道。"
+  },
+  {
+   "cn": "重叠多边形",
+   "en": "overlaid polygon",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.642",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "一个多边形与其他多边形存在重复的部分。"
+  },
+  {
+   "cn": "倒台阶采煤法",
+   "en": "overhand mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.131",
+   "subjectFullName": "煤炭科学技术_煤矿开采_采煤方法",
+   "subjectName": "采煤方法",
+   "publishYear": "1996",
+   "definition": "在急斜煤层中,布置成下部超前的台阶形的工作面,并沿走向推进的采煤方法。"
+  },
+  {
+   "cn": "浆果",
+   "en": "berry,bacca",
+   "source": "植物学名词",
+   "wordNumber": "03.0565",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "由合生心皮的上位或下位子房形成，外果皮较薄，中果皮和内果皮肉质多浆的一种肉果。含一至数粒种子。如葡萄、柿子、香蕉。"
+  },
+  {
+   "cn": "徒手搬运",
+   "en": "hand carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.140",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "凭人力和技巧、不使用任何器具的一种搬运转移患者的方法。适用于短距离转移患者。"
+  },
+  {
+   "cn": "器械搬运",
+   "en": "equipment carry",
+   "source": "急救医学名词",
+   "wordNumber": "07.141",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_外伤急救技术",
+   "subjectName": "外伤急救技术",
+   "publishYear": "2025",
+   "definition": "借助铲式担架、脊柱板、轮椅、急救担架车、救护车等或利用床单、被褥、木板等作为搬运器材搬运转移患者的方法。适用于长距离转移患者。"
+  },
+  {
+   "cn": "甲状腺侧韧带",
+   "en": "Berry ligament",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.1.5.20.4",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈解剖与组织胚胎",
+   "subjectName": "咽喉–头颈解剖与组织胚胎",
+   "publishYear": "2025",
+   "definition": "位于甲状腺侧叶中部的韧带。使甲状腺侧叶与环状软骨下缘及第1、2气管软骨环侧面相连接，与喉返神经关系紧密。"
+  },
+  {
+   "cn": "柏油便",
+   "en": "tarry stool",
+   "source": "消化内镜学名词",
+   "wordNumber": "5.019",
+   "subjectFullName": "消化内镜学_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2021",
+   "definition": "经肠道排出的附有黏液而黏稠、发亮的黑 便。"
+  },
+  {
+   "cn": "阿萨伊［浆］果",
+   "en": "acai berry",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0217",
+   "subjectFullName": "食品科学技术_食品营养_食物营养价值、营养强化食品_新食品原料、植物化学物与保健食品",
+   "subjectName": "新食品原料、植物化学物与保健食品",
+   "publishYear": "2020",
+   "definition": "产自南美洲棕榈树的果实。果肉呈紫红色，富含丰富抗氧化成分。"
+  },
+  {
+   "cn": "成组进位",
+   "en": "group carry",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0198",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "在先行进位的并行加法电路中，为了提高进位速度而采用将多位加法器分成几组，组内同时形成进位信号，组间采用串行方式产生进位信号的技术。"
+  },
+  {
+   "cn": "机械携带",
+   "en": "mechanical carry-over,moisture carry-over",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0202",
+   "subjectFullName": "机械工程_动力机械_锅炉_原理",
+   "subjectName": "原理",
+   "publishYear": "2013",
+   "definition": "锅筒内饱和蒸汽携带含盐水滴使蒸汽污染的现象。"
+  },
+  {
+   "cn": "匀地播种",
+   "en": "sowing of evenland",
+   "source": "土壤学名词",
+   "wordNumber": "06.290",
+   "subjectFullName": "土壤学_农业化学",
+   "subjectName": "农业化学",
+   "publishYear": "1998",
+   "definition": "在即将进行试验的土地上连续几茬播种密生植物以便均衡土壤肥力差异的方法。"
+  },
+  {
+   "cn": "榷场",
+   "en": "que chang;overland border market",
+   "source": "中国古代史名词",
+   "wordNumber": "6.286",
+   "subjectFullName": "中国古代史_两宋_社会经济_工商等",
+   "subjectName": "工商等",
+   "publishYear": "2022",
+   "definition": "宋朝与辽西夏金元等接界地区的互市市场。常由所在地区的监司及州军长官监管，设有专官稽查货物，征收商税。"
+  },
+  {
+   "cn": "机械携带",
+   "en": "mechanical carry-over",
+   "source": "电力名词",
+   "wordNumber": "09.313",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "锅筒内饱和蒸汽携带含盐水滴使蒸汽污染的现象。机械携带系数为饱和蒸汽中携带水滴的含盐量与锅水含盐量之比。"
+  },
+  {
+   "cn": "溶解携带",
+   "en": "vaporous carry-over",
+   "source": "电力名词",
+   "wordNumber": "09.314",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "锅筒内饱和蒸汽溶解硅酸盐等使蒸汽染污的现象。"
+  },
+  {
+   "cn": "巴利分指试验",
+   "en": "Barre dividigital test",
+   "source": "神经病学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "用于检查手指轻瘫的方法。嘱患者双手五指分开并伸直，数秒后轻瘫侧手指逐渐并拢并屈曲，提示骨间肌力弱。"
+  },
+  {
+   "cn": "保留进位加法器",
+   "en": "carry-save adder",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0216",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "一种用于对大量操作数求和的加法器。输入三个源操作数，输出两个运算结果（和与进位）。"
+  },
+  {
+   "cn": "进位传递加法器",
+   "en": "carry-propagation adder",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0215",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "一种通用加法器。输入两个源操作数，产生一个和，其内部的每一位进位输出都与高一位的进位输入相连。"
+  },
+  {
+   "cn": "漫地流",
+   "en": "overland flow",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "进位",
+   "en": "carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "饱和地面径流",
+   "en": "saturation overland flow",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "重叠多边形",
+   "en": "overlaid polygon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "浆果",
+   "en": "berry\",\"bacca",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "干浆果",
+   "en": "dry berry",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "前滞水",
+   "en": "carry-over",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[成]组进位",
+   "en": "group carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "部分进位",
+   "en": "partial carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全进位",
+   "en": "complete carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逐位进位",
+   "en": "cascaded carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "折断",
+   "en": "carry away",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "超渗地表径流",
+   "en": "infiltration-excess overland flow",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "巴氏小体",
+   "en": "Barr body",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "巴氏小体",
+   "en": "Barr body",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "伯利假旋转机理",
+   "en": "Berry pseudorotation mechanism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "保留进位加法器",
+   "en": "carry-save adder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高速进位",
+   "en": "high-speed carry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进位传递加法器",
+   "en": "carry-propagation adder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防脱结",
+   "en": "overhand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格挡",
+   "en": "parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "持球",
+   "en": "carry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拨挡",
+   "en": "parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格挡防守",
+   "en": "blocking parry\",\"direct parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划圆防守",
+   "en": "circular parry\",\"counter parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复杂防守",
+   "en": "composed parry\",\"compound parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上手发球",
+   "en": "overhand service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上手射门",
+   "en": "overhand shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上手传球",
+   "en": "overhand pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对角防守",
+   "en": "diagonal parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后退格挡",
+   "en": "ceding parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对抗防守",
+   "en": "opposition parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单防守",
+   "en": "simple parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正握",
+   "en": "ordinary grip\",\"overhand grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "继续！",
+   "en": "Carry on!  Yoshi!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背负式摔",
+   "en": "fireman’s carry throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半圆防守",
+   "en": "semi-circular parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格林巴利综合征",
+   "en": "Guillain-Barre syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.1.1.8",
+   "subjectFullName": "食品卫生学_食源性疾病_感染型食源性疾病",
+   "subjectName": "感染型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由空肠弯曲菌感染引起、以神经根和外周神经损害为主、伴有脑脊液中蛋白-细胞分离、脊神经和周围神经脱髓鞘的自身免疫性神经系统疾病。"
+  },
+  {
+   "cn": "执行医嘱",
+   "en": "carry out doctor's order",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.017",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "医护人员根据医师开具的医疗指令（医嘱），准确、及时、规范地实施诊断、治疗、护理等医疗行为的过程。"
+  },
+  {
+   "cn": "食品添加剂带入原则",
+   "en": "carry-over principles for food additives",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.26.9",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "当某种食品添加剂不是直接加入而是通过含有该添加剂的其他食品原（配）料带入到食品中时，需遵循的使用原则，包括配料中不超过最大允许使用量、食品中不超过由配料带入的水平、带入水平低于直接添加到食品中所需水平"
+  },
+  {
+   "cn": "出殡",
+   "en": "carry a coffin to the cemetery",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0264",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "经过初丧、哭丧、做七、送葬等仪式之后的最后环节，掩埋死者遗体，即棺木入土。入葬前往往要看风水、择坟地，谓“择吉地”。送葬时，古代汉族一般是“孝子”在前执绋，挽柩者唱挽歌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

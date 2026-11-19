@@ -1,0 +1,92 @@
+{
+ "key": "omnivorism",
+ "term": "omnivorism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:49+00:00",
+ "status": "ok",
+ "note": "variant=omnivorism; 审定公布名词库=3; 海峡两岸名词对照库=5; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "杂食动物",
+   "en": "omnivore",
+   "source": "动物学名词",
+   "wordNumber": "7.017",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "其食物组成比较广泛，多摄食两种或两种以上食物的动物。"
+  },
+  {
+   "cn": "杂食动物",
+   "en": "omnivore",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0807",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋生物学",
+   "subjectName": "海洋生物学",
+   "publishYear": "2007",
+   "definition": "其食物组成比较广泛，多摄食两种或两种以上性质不同的食物的动物。"
+  },
+  {
+   "cn": "杂食类",
+   "en": "omnivore",
+   "source": "昆虫学名词",
+   "wordNumber": "07.084",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "能以各种植物和(或)动物为食的昆虫。"
+  },
+  {
+   "cn": "杂食动物",
+   "en": "omnivore",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "杂食动物",
+   "en": "omnivore",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "杂食类",
+   "en": "omnivore",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "杂食动物",
+   "en": "omnivore\",\"omnivorous animal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杂食性",
+   "en": "omnivority\",\"omnivory\",\"pantophagy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

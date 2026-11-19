@@ -1,0 +1,312 @@
+{
+ "key": "resignation",
+ "term": "resignation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:03:10+00:00",
+ "status": "ok",
+ "note": "variant=resignation; 审定公布名词库=38; 海峡两岸名词对照库=9; 其他来源数据库=2; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "公务员辞职",
+   "en": "civil servant resignation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0342",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "公务员根据本人意愿，依照法律规定，辞去所任职务，解除与国家机关职务关系，或者辞去所担任的领导职务的行为。"
+  },
+  {
+   "cn": "官当",
+   "en": "guan dang;punishment redeem­able by resignation from office",
+   "source": "中国古代史名词",
+   "wordNumber": "1.263",
+   "subjectFullName": "中国古代史_通论_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "以官爵抵罪减免刑罚。西周有“刑不上大夫”之习，汉有官爵抵刑之制，晋《律》有免官抵3岁刑及夺爵、除名抵罪之法，南北朝始称此。隋唐官当流、徒罪，分公罪、私罪，按五品上下，1官可当徒1年至3年不等，流罪比徒"
+  },
+  {
+   "cn": "终养",
+   "en": "zhong yang;resigning one’s position to support his parents or grandparents",
+   "source": "中国古代史名词",
+   "wordNumber": "8.277",
+   "subjectFullName": "中国古代史_明清_政治_礼法",
+   "subjectName": "礼法",
+   "publishYear": "2022",
+   "definition": "清朝官员按规定返乡侍养尊长的制度。满汉官员为独子者，凡其父母、祖父母年老需人照顾，又符合有关规定者，皆可按规定程序离职，居家侍养。"
+  },
+  {
+   "cn": "引导",
+   "en": "designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.387",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "复燃",
+   "en": "reignition",
+   "source": "电力名词",
+   "wordNumber": "19.247",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "开关在开断过程中,在电流过零且熄弧后,在1/4工频周期以内触头间非剩余电流的电流重现。"
+  },
+  {
+   "cn": "复燃",
+   "en": "re-ignition",
+   "source": "电气工程名词",
+   "wordNumber": "09.013",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "拜耳命名法",
+   "en": "Bayer designation",
+   "source": "天文学名词",
+   "wordNumber": "05.120",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "德国天文学家约翰· 拜耳于1603年在他的《测天图》中为亮星系统命名所采用的方法。他使用小写希腊字母为前导，分配给星座中的每一颗星，再与所在星座的拉丁文名称相连组成恒星的名字。"
+  },
+  {
+   "cn": "弗兰斯蒂德命名法",
+   "en": "Flamsteed designation",
+   "source": "天文学名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "最早出现在 1712 年英国天文学家约翰·弗兰斯蒂德编著的《不列颠星表》中。与拜耳命名法类似，弗兰斯蒂德用数字取代希腊字母，数字最早是随赤经的增加而增加，不过由于岁差的影响，现在已经有了很大出入。这种"
+  },
+  {
+   "cn": "程序引导",
+   "en": "program designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.389",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "仿真引导",
+   "en": "analog designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.390",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "数字引导",
+   "en": "digital designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.391",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "互引导",
+   "en": "mutual designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.392",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "引导范围",
+   "en": "designation range",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.393",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "引导雷达",
+   "en": "designation radar",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.388",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发生层命名",
+   "en": "horizon designation",
+   "source": "土壤学名词",
+   "wordNumber": "02.107",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "以O，A，E，B，C，R等英文字母命名土壤发生层的方法。"
+  },
+  {
+   "cn": "端子代号",
+   "en": "terminal designation",
+   "source": "电气工程名词",
+   "wordNumber": "01.915",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "代号段",
+   "en": "designation block",
+   "source": "电气工程名词",
+   "wordNumber": "01.916",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "项目代号",
+   "en": "item designation",
+   "source": "电气工程名词",
+   "wordNumber": "01.911",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "种类代号",
+   "en": "kind designation",
+   "source": "电气工程名词",
+   "wordNumber": "01.912",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "位置代号",
+   "en": "location designation",
+   "source": "电气工程名词",
+   "wordNumber": "01.913",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "指定",
+   "en": "designation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "再迁入",
+   "en": "remigration",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "再迁入",
+   "en": "remigration",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "返回迁移",
+   "en": "remigration",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "正式命名",
+   "en": "definite designation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "频带标志",
+   "en": "band designation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发射指定码，指定发射码",
+   "en": "emission designation code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "钢号",
+   "en": "steel designation\",\"steel grade",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "图号，图幅编号",
+   "en": "sheet designation\",\"sheet number",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "假名",
+   "en": "Prajñapti /Designation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

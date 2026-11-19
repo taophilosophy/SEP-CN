@@ -1,0 +1,782 @@
+{
+ "key": "immediate observation",
+ "term": "immediate observation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:50:35+00:00",
+ "status": "ok",
+ "note": "variant=immediate observation; 审定公布名词库=761; 海峡两岸名词对照库=327; 其他来源数据库=31; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "直接顶",
+   "en": "immediate roof",
+   "source": "地质学名词",
+   "wordNumber": "14.06.027",
+   "subjectFullName": "地质学_矿床学_煤地质与煤矿床",
+   "subjectName": "煤地质与煤矿床",
+   "publishYear": "2026",
+   "definition": "直接位于伪顶或煤层之上的，具有一定的稳定性，移架或回柱后能自行垮落的岩层。一般由泥岩或粉砂岩组成，常夹有煤线。"
+  },
+  {
+   "cn": "速发作用",
+   "en": "immediate effect",
+   "source": "兽医学名词",
+   "wordNumber": "11.033",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "某些外源化学物与机体接触后，在短时间内即引起毒效应的毒性作用表现。"
+  },
+  {
+   "cn": "速发型变态反应",
+   "en": "immediate hypersensitivity",
+   "source": "兽医学名词",
+   "wordNumber": "14.254",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "已免疫机体再次接受同样变应原刺激所发生的迅速、强烈的反应。"
+  },
+  {
+   "cn": "第1类非计划停运",
+   "en": "immediate outage",
+   "source": "电力名词",
+   "wordNumber": "10.458",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "需要从可用状态立即退出,或汽轮发电机组不能按规定时间启动或启动失败的一种停运状态。"
+  },
+  {
+   "cn": "瞬时记忆",
+   "en": "immediate memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "时间不超过2 s，在这个阶段，外界信息进入感觉通道，并以感觉映像的形式短暂停留的记忆过程。"
+  },
+  {
+   "cn": "立即数寻址",
+   "en": "immediate addressing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0259",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "指令地址码直接给出操作数的值，而不是操作数所在存储器单元的地址。"
+  },
+  {
+   "cn": "立即约束",
+   "en": "immediate constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0215",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "改变数据库状态时立即进行约束条件检查的一种约束。"
+  },
+  {
+   "cn": "瞬时变迁",
+   "en": "immediate transition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0627",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在时延佩特里网中，可能对某些变迁所赋的实数值为0，即时延值等于0的变迁。"
+  },
+  {
+   "cn": "即刻义齿",
+   "en": "immediate denture",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "医学美学与美容医学_美容牙科学",
+   "subjectName": "美容牙科学",
+   "publishYear": "2015",
+   "definition": "拔牙前已预先制成，拔牙后可即刻戴入口内的可摘局部义齿或全口义齿。"
+  },
+  {
+   "cn": "即时转移",
+   "en": "immediate transfer",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "在同一次手术过程中完成皮瓣的形成和转移的方式。"
+  },
+  {
+   "cn": "瞬时记忆",
+   "en": "immediate memory",
+   "source": "心理学名词",
+   "wordNumber": "02.516",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "刺激作用于感觉器官而形成的信息痕迹。按刺激的物理特性对感觉形式进行编码，容量巨大，若不被注意且转入短时记忆即消失。"
+  },
+  {
+   "cn": "即时联想",
+   "en": "immediate association",
+   "source": "心理学名词",
+   "wordNumber": "02.586",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "不借助中介性事物，直接由一个事物的观念引起另一事物的观念的联想。"
+  },
+  {
+   "cn": "即刻义齿",
+   "en": "immediate denture",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0310",
+   "subjectFullName": "材料科学技术_生物材料_口腔材料",
+   "subjectName": "口腔材料",
+   "publishYear": "2011",
+   "definition": "在患者的天然牙拔除前开始制作，在拔牙后立即戴入的一种活动义齿。为过渡性义齿。"
+  },
+  {
+   "cn": "直接成分分析法",
+   "en": "immediate constituent",
+   "source": "语言学名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "一种语法分析方法。布龙菲尔德结构主义语言学使用这种方法。根据说话人的直觉和一些形式上的标准，一个句子可以分解为一系列的句子成分，例如主语+谓语，名词短语+动词短语，这些成分还可以再分解为更小的成分，直"
+  },
+  {
+   "cn": "即时修复",
+   "en": "immediate repair",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0074",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "即时转移",
+   "en": "immediate transfer",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0307",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "紧急危险",
+   "en": "immediate danger",
+   "source": "航海科技名词",
+   "wordNumber": "09.0161",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "速发型超敏反应",
+   "en": "immediate hypersensitivity",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.448",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "即刻义齿",
+   "en": "immediate denture",
+   "source": "医学名词 第二分册",
+   "wordNumber": "09.093",
+   "subjectFullName": "医学_口腔医学_可摘局部义齿修复学、全口义齿修复学",
+   "subjectName": "可摘局部义齿修复学、全口义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.051",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "通过感官（包括使用仪器获得的信息）收集经验证据的过程。"
+  },
+  {
+   "cn": "瞬时记忆",
+   "en": "immediate memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "即刻义齿",
+   "en": "immediate denture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "即期承兑[票据]",
+   "en": "immediate acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期年金",
+   "en": "immediate annuity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "即期资金",
+   "en": "immediate fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立即付现",
+   "en": "immediate cash",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立即交货",
+   "en": "immediate delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立即支付",
+   "en": "immediate payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "流动负债",
+   "en": "immediate liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "流动资产",
+   "en": "immediate asset",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[票据]直接关系人",
+   "en": "immediate party",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直接受益人",
+   "en": "immediate beneficiary",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "立即传输",
+   "en": "immediate transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立即地址",
+   "en": "immediate address",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瞬时变迁",
+   "en": "immediate transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紧急危险（紧迫危险）",
+   "en": "immediate danger",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "直接原因",
+   "en": "immediate cause",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观测员",
+   "en": "observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "及时反击",
+   "en": "immediate riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观",
+   "en": "Observation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观看台",
+   "en": "observation terrace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "观象",
+   "en": "Observing Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合地球观测系统",
+   "en": "integrated earth observation system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两周观察期",
+   "en": "two-week observation period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医学观察",
+   "en": "medical watch; medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地球观测组织",
+   "en": "Group on Earth Observations",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王道无近功",
+   "en": "The Righteous Way Seeks No Immediate Gains.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "美国国家生态观测网络",
+   "en": "National Ecological Observation Network (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天—空—地多尺度观测技术",
+   "en": "space-air-ground multiscale observation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解除医学观察",
+   "en": "to be discharged from medical observation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自觉接受医学观察",
+   "en": "to present yourself to medical observation ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全球综合对地观测系统",
+   "en": "Global Earth Observation System of Systems (GEOSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以物观物",
+   "en": "Observe Things Based on Their Own Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一以贯之",
+   "en": "Observe a Fundamental Principle Throughout One’s Pursuit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见微知著",
+   "en": "Learning About What Is Forthcoming by Observing Tiny Clues",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.17",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者根据研究课题，利用眼睛、耳朵等感觉器官和其他科学手段，有目的地对研究对象进行考察，以取得研究所需资料的一种资料收集方法。"
+  },
+  {
+   "cn": "即刻适应性应答",
+   "en": "immediate adaptive response",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "发育中的个体在宫内或婴儿期对环境变化作出即时、明确的适应性改变的现象。"
+  },
+  {
+   "cn": "即发性食物过敏",
+   "en": "immediate food allergy",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.17",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体暴露于特定食物后几分钟至两小时内出现食物过敏症状的免疫反应。"
+  },
+  {
+   "cn": "实验室观察",
+   "en": "laboratory observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.18",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在实验室中对研究对象、观察情景与条件进行严密控制的情况下进行的观察。"
+  },
+  {
+   "cn": "结构观察",
+   "en": "structured observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一组预先确定的规则和程序而实施的非参与观察。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "由研究者参与到被研究群体的日常生活中，记录他们的经历和观察的定性研究方法。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "生理学法",
+   "en": "physiological observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过测定视觉功能状态，间接反映脑力工作能力的水平，以分析和评价疲劳程度的方法。常用的方法为明视持久度、临界闪光融合频率。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "研究者要深入到被研究群体所在社区的日常生活中，将自己视为社区的成员之一，在与研究对象互动的同时，按事先准备的提纲，观察并记录他们的经历、体验和行为等，获取第一手资料的方法。"
+  },
+  {
+   "cn": "参与观察",
+   "en": "participant observation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "人类学研究中搜集一手资料的最基本的方法。它要求研究者在较长时间内置身于被观察者的社区之中，通过参与他们的日常活动来观察当地社会文化，在参与和观察之间保持一种平衡。"
+  },
+  {
+   "cn": "观察对象",
+   "en": "object of observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "放射工龄大于2年，受到一定剂量照射，具有某些无力型神经衰弱症状，实验室检查显示有某些改变，但尚未达到外照射慢性放射病I度诊断标准者。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "负载理论的观察",
+   "en": "theory-laden observation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.169",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "观察会受观察者所持有的理论预设或信念影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.2.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "观察者不参与观察对象的群组活动，仅仅作为一个旁观者仔细的观察获取与研究相关信息的方法。"
+  },
+  {
+   "cn": "外观",
+   "en": "observing external world",
+   "source": "马克思主义",
+   "wordNumber": "01.0067",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "运用意识、心灵观察心灵之外的外部世界，攫取其特征的过程。"
+  },
+  {
+   "cn": "医学随访",
+   "en": "medical follow-up observation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.24",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "以发现电离辐射远后效应为目的，对受到超剂量限值照射者和意外辐射事故照射者进行系统的长期医学追踪观察。"
+  },
+  {
+   "cn": "全日健康观察",
+   "en": "all day health observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测",
+   "subjectName": "传染病监测",
+   "publishYear": "2025",
+   "definition": "在校期间，每日班主任及任课教师对学生或学生对自己的健康状况进行观察的制度。一旦发现身体不适，如出现发热、皮疹、腹泻、黄疸、结膜充血等传染病或其他疾病症状，班主任或任课老师及时上报学校传染病疫情报告人。"
+  },
+  {
+   "cn": "体征与行为观察法",
+   "en": "sign and behavior observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过观察客观指征、询问主观感觉以及监测健康结局来评价、比较和分析学习负荷的方法。主要包括直接观察法、间接观察法和健康调查法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

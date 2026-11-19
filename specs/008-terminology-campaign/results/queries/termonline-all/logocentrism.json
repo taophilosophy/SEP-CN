@@ -1,0 +1,32 @@
+{
+ "key": "logocentrism",
+ "term": "logocentrism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:45:00+00:00",
+ "status": "ok",
+ "note": "variant=logocentrism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自我中心",
+   "en": "egocentrism",
+   "source": "心理学名词",
+   "wordNumber": "06.089",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "只从自我的角度出发理解事物，不能区分自己的观点与别人的观点。"
+  },
+  {
+   "cn": "自我中心",
+   "en": "egocentrism\",\"egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

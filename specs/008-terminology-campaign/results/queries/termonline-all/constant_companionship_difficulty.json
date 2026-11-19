@@ -1,0 +1,792 @@
+{
+ "key": "constant companionship difficulty",
+ "term": "constant companionship difficulty",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:52:36+00:00",
+ "status": "ok",
+ "note": "variant=constant companionship difficulty; 审定公布名词库=1999; 海峡两岸名词对照库=577; 其他来源数据库=102; 预公布名词数据库=100; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "排尿困难",
+   "en": "urination difficulty",
+   "source": "急救医学名词",
+   "wordNumber": "03.402",
+   "subjectFullName": "急救医学_日常医学急救_外科学_泌尿系统疾病",
+   "subjectName": "泌尿系统疾病",
+   "publishYear": "2025",
+   "definition": "须增加腹压才能排出尿液的现象。可分为功能性和阻塞性两大类。"
+  },
+  {
+   "cn": "排尿困难",
+   "en": "urination difficulty",
+   "source": "结核病学名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "结核病学_结核病诊断_症状和体征",
+   "subjectName": "症状和体征",
+   "publishYear": "2019",
+   "definition": "排尿过程不能顺利进行。多由下尿路感染或占位疾病引起。"
+  },
+  {
+   "cn": "交流困难",
+   "en": "communication difficulty",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.178",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "信息从发送者到接收者的过程发生障碍。不能正确发送信息或正确理解他人发出的信息并做出相应的反应。"
+  },
+  {
+   "cn": "发散困难",
+   "en": "divergence difficulty",
+   "source": "物理学名词",
+   "wordNumber": "09.1420",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "source": "心理学名词",
+   "wordNumber": "03.264",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "项目的难易程度。常用平均得分率或平均通过率作为难度的指标。"
+  },
+  {
+   "cn": "就业困难",
+   "en": "employment difficulty",
+   "source": "教育学名词",
+   "wordNumber": "11.275",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在法定劳动年龄内具有劳动能力的人而无法得到与之相匹配的劳动岗位及待遇的情况。"
+  },
+  {
+   "cn": "学习困难",
+   "en": "learning difficulty",
+   "source": "教育学名词",
+   "wordNumber": "10.160",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "学生智力发育正常，无生理缺陷，学习效果低下，较长期低于同龄学生，达不到国家规定的教学大纲要求的状况。"
+  },
+  {
+   "cn": "繁殖障碍",
+   "en": "breeding difficulty,BD",
+   "source": "畜牧学名词",
+   "wordNumber": "05.207",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "家畜生殖机能紊乱、生殖器官畸形及由此引起的生殖活动异常的现象。"
+  },
+  {
+   "cn": "入睡困难",
+   "en": "difficulty initiating sleep",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "难以正常入睡的现象。通常睡眠潜伏期≥30分钟表明存在入睡困难。"
+  },
+  {
+   "cn": "睡眠维持困难",
+   "en": "difficulty maintaining sleep",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.004",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "夜间醒来再难入睡，或醒来远早于期望起床时间的现象。"
+  },
+  {
+   "cn": "境遇性失眠",
+   "en": "situational sleep difficulty",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.016",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "与特定压力情境相关的失眠。常见压力源包括新的睡眠环境、情境压力、昼夜改变（轮班工作或时差）或使用咖啡因等兴奋剂。当这种情境过去后，睡眠可恢复正常。"
+  },
+  {
+   "cn": "注意集中困难",
+   "en": "difficulty of concentrating",
+   "source": "行为医学名词",
+   "wordNumber": "18.016",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "注意兴奋性地集中困难和缓慢。"
+  },
+  {
+   "cn": "交配困难",
+   "en": "difficulty of mating",
+   "source": "畜牧学名词",
+   "wordNumber": "05.233",
+   "subjectFullName": "畜牧学_繁殖_机能性繁殖障碍",
+   "subjectName": "机能性繁殖障碍",
+   "publishYear": "2020",
+   "definition": "公畜爬跨、阴茎的插入和射精等交配行为发生异常的现象。"
+  },
+  {
+   "cn": "注意集中困难",
+   "en": "difficulty of concentrating",
+   "source": "精神医学名词",
+   "wordNumber": "02.160",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "难以将注意集中到需要注意的事情上，或者保持注意的时间不够长久的一种精神病理状态。"
+  },
+  {
+   "cn": "学习困难",
+   "en": "difficulty of learning",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.134",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "各种原因引起的学业失败的现象。多指由于学习技能的获得与发展障碍等原因致使学习技能丧失或应用障碍，导致学习成绩低 下。"
+  },
+  {
+   "cn": "找词困难",
+   "en": "word finding difficulty",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.166",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "患者在谈话过程中，欲说出恰当词时有困难或不能的现象。多见于名词、动词和形容词。在谈话中因找词困难常出现停顿，甚至沉默或表现出重复结尾词、介词或其他功能词。"
+  },
+  {
+   "cn": "补缩困难区",
+   "en": "feeding difficulty zone",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.1069",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料合成、制备与加工_凝固与铸造技术",
+   "subjectName": "凝固与铸造技术",
+   "publishYear": "2011",
+   "definition": "在铸件凝固过程中，介于冒口区与末端区之间，难以被补缩的区域。"
+  },
+  {
+   "cn": "大便艰难",
+   "en": "difficulty in defecation",
+   "source": "中医药学名词",
+   "wordNumber": "04.444",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉有便意，但大便排出困难的表现。"
+  },
+  {
+   "cn": "排尿困难",
+   "en": "difficulty of urination",
+   "source": "医学名词 第六分册",
+   "wordNumber": "04.739",
+   "subjectFullName": "医学_泌尿外科学",
+   "subjectName": "泌尿外科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "source": "物理学名词",
+   "wordNumber": "01.0061",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "项目难度",
+   "en": "item difficulty",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "补缩困难区",
+   "en": "feeding difficulty zone",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "岁差常数",
+   "en": "precession constant\",\"precessional constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "累积常数",
+   "en": "gross constant\",\"cumulative constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "屏蔽常数",
+   "en": "screening constant\",\"shielding constant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "衰减常数",
+   "en": "attenuation constant\",\"decay constant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分解常数",
+   "en": "decomposition constant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "恒有种",
+   "en": "constant species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "玻耳兹曼常数",
+   "en": "Boltzmann constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反应速率常数",
+   "en": "rate constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光达常数",
+   "en": "lidar constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卡门常数",
+   "en": "Karman constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达常数",
+   "en": "radar constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气体常数",
+   "en": "gas constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间常数",
+   "en": "time constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "衰减常数",
+   "en": "attenuation constant",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "难度",
+   "en": "difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度",
+   "en": "difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "B组难度",
+   "en": "B difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "C组难度",
+   "en": "C difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中等难度",
+   "en": "medium difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "F组难度",
+   "en": "F difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "A组难度",
+   "en": "A difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "E组难度",
+   "en": "E difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高难度",
+   "en": "superior difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "G组难度",
+   "en": "G difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "D组难度",
+   "en": "D difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度分值",
+   "en": "difficulty score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度裁判员",
+   "en": "difficulty judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度系数",
+   "en": "degree of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度级别",
+   "en": "grade of difficulty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "难度裁判员",
+   "en": "judge for difficulties",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "陪伴分娩",
+   "en": "labor companionship",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.29",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "由助产士或其他卫生保健专业人员、产妇配偶等人员在产妇分娩过程中为其提供信息、情感、躯体方面的支持，以帮助妇女获得积极的分娩体验。"
+  },
+  {
+   "cn": "吸奶困难",
+   "en": "pumping difficulty",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.12",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "由于婴儿不能正常吸吮母乳或未进行有效的吸吮，而吃不到足够母乳的现象。常见原因包括早产儿吸吮力低下，母亲乳头扁平/凹陷等，婴儿罹患疾病如鼻塞、鹅口疮，以及口腔、咽部、食管、胃肠道发育不良或疾病等。"
+  },
+  {
+   "cn": "常量喷雾器",
+   "en": "constant sprayer",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.7.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "可将消毒液形成喷雾液滴，其中直径在100μm以上的雾粒占85%以上，使得环境或物品表面全部润湿，从而进行普通喷雾消毒的设备。"
+  },
+  {
+   "cn": "衰变常量",
+   "en": "decay constant",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "特定能态的放射性核素的一个原子核在单位时间内发生自发衰变的概率。符号为λ。其与半衰期（T1/2）的关系为：λ=ln2/T1/2。"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0111",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“可变资本”相对。指在生产中用于生产资料上的那一部分资本。生产资料（即厂房、机器、设备、燃料、原材料和辅助材料等）在生产过程中不会增加价值，而只是把原有的价值转移到新的产品上，故称之为不变资本，用c"
+  },
+  {
+   "cn": "衰变常数",
+   "en": "decay constant",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.9.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "某种放射性核素的一个原子核在单位时间内发生衰变的几率。"
+  },
+  {
+   "cn": "常量喷雾消毒",
+   "en": "constant spraying disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.7.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将消毒液雾化喷洒于物体表面或空间进行的消毒处理。其中雾粒直径在100μm以上占85%以上，常用于物体表面消毒。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "常量喷雾",
+   "en": "constant volume spray",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用喷片孔径1.3mm～1.6mm 的喷雾器，以恒定的压力将浓度在千分之一以上的药物以雾滴直径达到120μm～126μm 程度进行喷洒，以达到对媒介生物进行控制的方法。"
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在自由空气中，距离单位活度点源单位距离处的空气比释动能率，Γδ，记作戈瑞平方米每贝可秒"
+  },
+  {
+   "cn": "规模收益不变",
+   "en": "constant returns to scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在技术水平保持一定的情况下，生产要素投入量与产出量成同比例增加的情况。"
+  },
+  {
+   "cn": "恒压高压发生器",
+   "en": "constant potential high-voltage generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "输出电压波纹率不超过规定值的高压发生器。"
+  },
+  {
+   "cn": "困难型气质",
+   "en": "difficult temperament",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "哭闹无常、烦躁易怒、不易安抚，饮食、睡眠等生理功能活动方面缺乏规律性的人格特征。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "剂量约束",
+   "en": "dose constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "作为在计划照射情况下源的防护与安全最优化的一个参数，用以限定最优化选择的边界。"
+  },
+  {
+   "cn": "危险约束",
+   "en": "risk constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "一个预测的和源相关的个人危险值，在计划照射情况下，作为该源防护和安全最优化的参数，并用作最优化中方案选择范围的一个边界。"
+  },
+  {
+   "cn": "稳定性检测",
+   "en": "constancy test",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.4.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备",
+   "subjectName": "放射诊疗设备",
+   "publishYear": "2025",
+   "definition": "为确定放射诊疗设备在给定条件下获得的数值相对于一个初始状态的变化是否符合控制标准而定期进行的质量控制检测。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。，在委托–代理理论中关于委托人在进"
+  },
+  {
+   "cn": "接触隔离",
+   "en": "contact isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.3",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "避免接触传染源和传染源污染的环境、物品所采取的阻隔措施。"
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体通过手、媒介直接或间接接触导致传播的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

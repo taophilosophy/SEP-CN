@@ -1,0 +1,762 @@
+{
+ "key": "priori distribution",
+ "term": "priori distribution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:02+00:00",
+ "status": "ok",
+ "note": "variant=priori distribution; 审定公布名词库=1521; 海峡两岸名词对照库=565; 其他来源数据库=58; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "植物学名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验界限",
+   "en": "a priori bound",
+   "source": "数学名词",
+   "wordNumber": "06.0329",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验估计",
+   "en": "a priori estimate",
+   "source": "数学名词",
+   "wordNumber": "06.0330",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验估计",
+   "en": "a priori estimate",
+   "source": "自动化名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "先验法",
+   "en": "gestalt method,a priori method",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.337",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "基于词源分析的叙词表构造方法。"
+  },
+  {
+   "cn": "[优势脑电波]采集区",
+   "en": "distribution",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.187",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "多导睡眠监测中，脑电波波幅最高的头皮区域。通常也是神经元生物电最强的部位。"
+  },
+  {
+   "cn": "配送",
+   "en": "distribution",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.058",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "根据客户要求，对出版物进行拣选、加工、包装、组配等作业，并按时送达指定地点的物流活动。"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "经济学名词",
+   "wordNumber": "01.007",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会产品分给社会（或国家）、社会集团以及社会成员的过程和形式。包括生产资料和消费资料的分配，是社会再生产过程的环节之一。由生产决定，但它反过来影响生产。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "物理学名词",
+   "wordNumber": "05.0526",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "配送",
+   "en": "distribution",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0496",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "在经济合理区域范围内，根据客户要求，对物品进行拣选、加工、包装、分割、组配等作业，并按时送达指定地点的物流活动。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "放射医学与防护名词",
+   "wordNumber": "08.033",
+   "subjectFullName": "放射医学与防护_放射毒理学_代谢",
+   "subjectName": "代谢",
+   "publishYear": "2014",
+   "definition": "放射性核素进入体内后沉积到组织或器官内的过程。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "语言学名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "结构主义语言学术语。指一个语言单位（如音位、语素或词）在组合中能出现或不能出现的位置的总和。按结构主义语言学理论，任何语言单位都有其特定的分布特征，按分布特征可以将语言单位分成不同的类别。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分发",
+   "en": "distributing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.001",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "通过联机或脱机处理，给印刷品贴标签、打包并送至目的地。"
+  },
+  {
+   "cn": "ζ分布",
+   "en": "ζ-distribution,zeta-distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0082",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Γ分布",
+   "en": "Γ-distribution,gamma- distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0095",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "β分布",
+   "en": "β-distribution,beta-distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0096",
+   "subjectFullName": "数学_概率论_数理统计_随机变量",
+   "subjectName": "随机变量",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "等概率假设",
+   "en": "postulate of equal a priori probabilities",
+   "source": "物理学名词",
+   "wordNumber": "05.0523",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "等概率原理",
+   "en": "principle of equal a priori probabilities",
+   "source": "化学名词",
+   "wordNumber": "04.1447",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "孤立体系的所有可到达的微观状态出现的概率相等。是统计力学的基本假设。"
+  },
+  {
+   "cn": "集群分布",
+   "en": "contagious distribution,clumped distribution",
+   "source": "植物学名词",
+   "wordNumber": "13.0128",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "种群个体间非等距分布，并成簇或成斑块的分布类型。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "事前比较",
+   "en": "priori comparison",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "先验中误差",
+   "en": "a priori mean square error",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "配电",
+   "en": "distribution",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "χ2分布",
+   "en": "χ2-distribution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配动脉",
+   "en": "distributing artery\",\"distribution artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分配定律",
+   "en": "distribution law\",\"distributive law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "核心分布（=集群分布）",
+   "en": "contagious distribution\",\"clumped distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "集群分布，核心分布",
+   "en": "contagious distribution\",\"clumped distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution\",\"regular distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间分布",
+   "en": "spatial distribution\",\"space distribution",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "间断分布",
+   "en": "discontinuous distribution\",\"disjunctive distribution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布,规则分布",
+   "en": "uniform distribution\",\"regular distribution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "赖斯分布",
+   "en": "Rice distribution\",\"Rician distribution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分配电箱",
+   "en": "distribution board\",\"distribution box",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "规则分布（=均匀分布）",
+   "en": "regular distribution (=uniform distribution)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泊松分布",
+   "en": "Poisson distribution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计分布",
+   "en": "statistical distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配公平化",
+   "en": "fair distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值分配",
+   "en": "value distribution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分配正义",
+   "en": "distributive justice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式数据库",
+   "en": "distributed database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式查询",
+   "en": "distributed query",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式处理",
+   "en": "distributed processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式智能",
+   "en": "distributed intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式支付",
+   "en": "distributed payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子纠缠分发网络",
+   "en": "entanglement distribution network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式处理系统",
+   "en": "distributed processing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式软件系统",
+   "en": "distributed software system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式数据库系统",
+   "en": "distributed database system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.30",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素进入体内后沉积到组织或器官内的过程。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "变量的各个取值上研究单位的出现次数所形成的总体状况。"
+  },
+  {
+   "cn": "分配",
+   "en": "distribution",
+   "source": "马克思主义",
+   "wordNumber": "02.0007",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会再生产过程的一个环节。分为生产要素的分配和消费资料的分配。前者属所有制范畴，后者属个人或经济群体之间的分配范畴。"
+  },
+  {
+   "cn": "分布",
+   "en": "distribution",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "外源化学物被吸收后，随血液或淋巴液分散到全身组织细胞的过程。"
+  },
+  {
+   "cn": "累积分布",
+   "en": "cumulative distribution cumulative distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "按照变量值的大小、顺序排列出累加的观测数的分布形态。"
+  },
+  {
+   "cn": "剂量分布",
+   "en": "dose distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.6",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "最高吸收剂量的极限值和最低吸收剂量在整个批量产品中吸收剂量的空间分布。"
+  },
+  {
+   "cn": "分配系数",
+   "en": "distribution coefficient",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.70",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "一个组分在两个互不相溶的相态中的浓度的比值。"
+  },
+  {
+   "cn": "选择性分布",
+   "en": "selective distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.32",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素选择在某些特定器官或组织分布的现象。"
+  },
+  {
+   "cn": "正态分布",
+   "en": "normal distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "概率密度函数为的统计分布。该分布由两个参数——平均值（）和方差（）决定。其概率密度函数曲线以均值为对称中线单峰统计分布，曲线的高峰位于中央；方差越小，分布越集中在均值附近。"
+  },
+  {
+   "cn": "二项分布",
+   "en": "binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "n个独立的“是/非”试验中成功的次数的离散概率分布。二项分布的概率函数为，表示在n次试验中有x次成功的概率，其中每次试验的成功概率为p。"
+  },
+  {
+   "cn": "t分布",
+   "en": "t distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "具有不同自由度的一组以均值为对称中线的单峰统计分布。假设X服从标准正态分布N（0,1），Y服从，的分布则称为自由度为n的t分布，记为。"
+  },
+  {
+   "cn": "频次分布",
+   "en": "frequency distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个变量所有取值上或类别上的观测数的分布形态。"
+  },
+  {
+   "cn": "f分布",
+   "en": "f distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个服从卡方分布的独立随机变量各除以其自由度后的比值的抽样分布。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "多项分布",
+   "en": "multinomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在每次试验具有多个可能结局的情况下，n次试验独立试验中各种可能结局出现次数的离散概率分布。二项分布的概率函数为，其中为可能结局的出现次数，为每次试验中各个结局出现的概率。"
+  },
+  {
+   "cn": "泊松分布",
+   "en": "Poisson distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "描述单位时间（或单位面积）内随机事件发生次数的离散概率分布。其概率密度函数为，其中λ为单位时间（或单位面积）内随机事件的平均发生率。"
+  },
+  {
+   "cn": "抽样分布",
+   "en": "sampling distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.30",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在既定统计设计条件下，所有可能得到的样本的特定统计值的概率分布。"
+  },
+  {
+   "cn": "人口分布",
+   "en": "population distribution",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "人口居住与分布的模式。"
+  },
+  {
+   "cn": "人群分布",
+   "en": "population distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.29",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "疾病在不同人群中的分布特征。一般按人群的不同年龄、性别、职业、种族等来分组描述疾病的发生、死亡等强度（频率），可以帮助确定危险人群和探索致病因素。"
+  },
+  {
+   "cn": "社会分布",
+   "en": "social distribution",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0081",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "使用同一个或几个语言变项的群体的社会特征。例如语言使用的性别分布、年龄分布、受教育程度的分布等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,692 @@
+{
+ "key": "intuitionism an introduction",
+ "term": "Intuitionism An Introduction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:02:43+00:00",
+ "status": "ok",
+ "note": "variant=Intuitionism An Introduction; 审定公布名词库=455; 海峡两岸名词对照库=40; 其他来源数据库=94; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism; intuitionalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.242",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "以布劳威尔为代表的一种数学哲学立场。认为数学是心灵的构造，一个数学命题的真等同于构造出关于它的证明。在直觉主义数学中，排中律不是普遍有效的，所有实数上的全函数都是连续的。"
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionism",
+   "source": "数学名词",
+   "wordNumber": "02.0305",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionalism",
+   "source": "心理学名词",
+   "wordNumber": "04.053",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "经验和理性不能带来真实的知识，内心体验的直觉才能使人理解事物的真实本质。以贝格松(H. Bergson)等为代表。"
+  },
+  {
+   "cn": "前言",
+   "en": "introduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.058",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "置于正文或目录之前，由作者或编者撰写的有关本书的说明性辅文。"
+  },
+  {
+   "cn": "绪言",
+   "en": "introduction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.060",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍或论文开头说明主题和基本内容的篇章，是正文的有机组成部分。"
+  },
+  {
+   "cn": "引种",
+   "en": "introduction ",
+   "source": "草学名词",
+   "wordNumber": "4.0527",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "引入",
+   "en": "introduction",
+   "source": "动物学名词",
+   "wordNumber": "7.0624",
+   "subjectFullName": "动物学_动物生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2021",
+   "definition": "人工将一个物种或品种引入到新栖息地的过程。"
+  },
+  {
+   "cn": "[林木]引种",
+   "en": "introduction",
+   "source": "林学名词",
+   "wordNumber": "04.031",
+   "subjectFullName": "林学_林木遗传育种_林木引种与驯化",
+   "subjectName": "林木引种与驯化",
+   "publishYear": "2016",
+   "definition": "一个树种或品种被引到其自然分布区以外的地区种植，经生长特性和环境适应性的全面评价，为引种地选择有应用前景新树种的方法。"
+  },
+  {
+   "cn": "引入",
+   "en": "introduction",
+   "source": "林学名词",
+   "wordNumber": "07.192",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "在有害生物防治中，一般指将生物防治物释放到原先没有其存在的生态系统中的过程。"
+  },
+  {
+   "cn": "引入",
+   "en": "introduction",
+   "source": "生态学名词",
+   "wordNumber": "13.028",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "人工将一个品种引入到新的生境的过程。"
+  },
+  {
+   "cn": "引种",
+   "en": "introduction",
+   "source": "水产名词",
+   "wordNumber": "05.117",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "将异地的优良品种、品系或具有某些优良特性的类群引入本地作为育种素材或直接推广应用的育种措施。"
+  },
+  {
+   "cn": "传入途径",
+   "en": "introduction pathway",
+   "source": "农学名词",
+   "wordNumber": "10.311",
+   "subjectFullName": "植物保护_外来入侵生物",
+   "subjectName": "外来入侵生物",
+   "publishYear": "2025",
+   "definition": "物种离开原产地（或原分布区）传入到新生境的过程。"
+  },
+  {
+   "cn": "作物引种",
+   "en": "crop introduction",
+   "source": "农学名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "从国外或国内不同行政区域引进新作物、新品种（品系）和理论研究所需要的各种遗传材料的过程。"
+  },
+  {
+   "cn": "基因导入",
+   "en": "gene introduction",
+   "source": "农学名词",
+   "wordNumber": "06.421",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "将已知基因转移到真核细胞，并且整合到基因组中使其稳定表达的技术。"
+  },
+  {
+   "cn": "简单引种",
+   "en": "direct introduction ",
+   "source": "草学名词",
+   "wordNumber": "4.0427",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "引种号",
+   "en": "introduction number ",
+   "source": "草学名词",
+   "wordNumber": "4.0606",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "介绍蜂王",
+   "en": "queen introduction",
+   "source": "畜牧学名词",
+   "wordNumber": "09.119",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "养蜂过程中，当蜂王成为老弱伤残或丢失时，用先前储备的蜂王予以更换的过程。"
+  },
+  {
+   "cn": "牧草引种",
+   "en": "forage introduction",
+   "source": "畜牧学名词",
+   "wordNumber": "10.059",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "从一地区引进有经济价值的牧草种或品种到另一地区试种，在生产上推广利用或作为育种材料的一种方法。"
+  },
+  {
+   "cn": "直接引入法",
+   "en": "direct introduction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "医学影像技术学_对比剂_对比剂的类型及引入",
+   "subjectName": "对比剂的类型及引入",
+   "publishYear": "2020",
+   "definition": "将对比剂通过人体自然孔道、瘘管和体表穿刺等途径进入体内而达到造影目的的检查方法。包括胃肠道造影、瘘管造影、椎间盘造影、脊髓造影、子宫输卵管造影、支气管造影、脑室造影、选择性心血管造影、支气管动脉造影等"
+  },
+  {
+   "cn": "间接引入法",
+   "en": "indirect introduction",
+   "source": "医学影像技术学名词",
+   "wordNumber": "08.035",
+   "subjectFullName": "医学影像技术学_对比剂_对比剂的类型及引入",
+   "subjectName": "对比剂的类型及引入",
+   "publishYear": "2020",
+   "definition": "将对比剂经口服、静脉注入或静脉滴注后，使对比剂在人体内选择性地经过某一器官的生理性排泄作用，暂时停留在其通道内，使该器官得以显影的检查方法。包括静脉尿路造影、静脉胆系造影、口服碘番酸胆囊造影等。"
+  },
+  {
+   "cn": "直觉主义",
+   "en": "intuitionalism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "引子",
+   "en": "introduction",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "引入",
+   "en": "introduction",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "样品导入",
+   "en": "sample introduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引子与快板",
+   "en": "Introduction and Allegro",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Elgar, Edward"
+  },
+  {
+   "cn": "膜进样质谱法",
+   "en": "membrane introduction mass spectrometry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引进外国技术",
+   "en": "introduction of foreign technology",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "引进外资",
+   "en": "introduction of foreign investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "直接液体进样",
+   "en": "direct liquid introduction（DLI）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "直接液体进样",
+   "en": "DLI （=direct liquid introduction）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "升交点",
+   "en": "ascending node\",\"AN",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一首英国组曲",
+   "en": "English Suite\",\"An",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Jones, Parry "
+  },
+  {
+   "cn": "倍角复测法",
+   "en": "doubling an angle",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "安切尔",
+   "en": "Ančerl\",\"Karel(捷克)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一个美国人在巴黎",
+   "en": "American in Paris\",\"An",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Gershwin, George"
+  },
+  {
+   "cn": "致远方的爱人",
+   "en": "An die ferne Geliebte",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Beethoven, Ludwig van"
+  },
+  {
+   "cn": "图画展览会的图画",
+   "en": "pictures at an exhibition",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mussorgsky, Modest"
+  },
+  {
+   "cn": "自主神经系统",
+   "en": "autonomic nervous system\",\"ANS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "椭圆率",
+   "en": "ellipticity\",\"ellipticity of an  ellipse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "1980西安坐标系",
+   "en": "Xi’an geodetic coordinate system 1980",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内踢",
+   "en": "an chagui",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "提起申诉",
+   "en": "lodge an appeal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压沉对方",
+   "en": "sink an opponent",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重建障碍",
+   "en": "rebuild an obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接近障碍",
+   "en": "approach an obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "越过障碍",
+   "en": "clear an obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直觉主义伦理学",
+   "en": "ethical intuitionism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.159",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德概念和道德判断不能通过经验和理性来认识和确证，只能靠先天的道德直觉来把握的伦理学理论。包括：价值论直觉主义、义务论直觉主义。前者认为“善的”和“善的事物”只能通过直觉来直接接受它或否定它，而不"
+  },
+  {
+   "cn": "《安宁史》",
+   "en": "Anning History",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0305",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "以察哈台维吾尔文撰写。作者为新疆维吾尔族学者毛拉·穆萨·赛拉米（Molla MusaSayrami）。成书于1903—1904 年，现收藏于新疆博物馆。叙述了有关宇宙、人类起源的传说和新疆有史以来至近"
+  },
+  {
+   "cn": "辅食引入",
+   "en": "introduction of supplementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.7",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿6月龄后，随着对营养素需要量的增加，以及消化系统功能发育和心理行为发育的需要，逐渐添加母乳或配方奶之外其他富含能量和各种营养素的半固体食物（泥状食物）和固体食物的实践。"
+  },
+  {
+   "cn": "辅食添加",
+   "en": "introduction of complementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "为了补充乳类营养的不足，添加乳类之外的其他食物，以满足婴幼儿所需的各种营养，向成年期饮食过渡的过程。"
+  },
+  {
+   "cn": "安抚司",
+   "en": "An Fu Si",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0206",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "官署名。金代始置，掌地方军政之务。元代于西南少数民族地区设立，参用当地土官。明清沿元制，成为世袭武职土官衙门。"
+  },
+  {
+   "cn": "保安语",
+   "en": "Bao’an language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0308",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国保安族使用的语言。属阿尔泰语系蒙古语族。主要分布在中国甘肃省临夏回族自治州、青海省同仁县等地。分大河家和同仁2 个方言。使用人口约1 万人。"
+  },
+  {
+   "cn": "应急帮助人员",
+   "en": "helper in an emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "自愿帮助应对核或辐射突发事件的公众成员。该类人员是受保护的，他们能意识到在应对核或辐射紧急情况时可能会暴露在辐射中。"
+  },
+  {
+   "cn": "报丧",
+   "en": "give an obituary notice",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0256",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "传统丧葬习俗，指丧家向亲戚朋友邻里等报告死讯、丧期、葬期，初终后的挑钱、小殓后的报丧，都可以算是其中的内容。"
+  },
+  {
+   "cn": "三里庵辐射事故",
+   "en": "Sanli'an radiation accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故",
+   "subjectName": "核辐射事故",
+   "publishYear": "2025",
+   "definition": "1963年，在中国安徽省合肥市三里庵，存放于野外的一枚估计活度为2.9×1011Bq的辐照研究用源被一名农民发现并拾回家中，9天后被主管部门找回。该农民6名家庭成员患急性放射病（估计全身剂量分别为80"
+  },
+  {
+   "cn": "辅食添加原则",
+   "en": "principle of introduction of complementary food",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "由于婴幼儿对添加食物的适应性存在一定的个体差异，添加辅食的时间、种类、数量及快慢等，应根据具体情况而循序渐进的系列措施。包括继续母乳喂养，由一种到多种、由少量到多量、由细到粗，单独制作，按需喂养和积极"
+  },
+  {
+   "cn": "发展是硬道理",
+   "en": "Developing is an unyielding principle",
+   "source": "马克思主义",
+   "wordNumber": "03.0542",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平1992年南方谈话中提出的重要论断。邓小平指出：“要注意经济稳定、协调地发展，但稳定和协调也是相对的，不是绝对的。发展才是硬道理。这个问题要搞清楚。如果分析不当，造成误解，就会变得谨小慎微，不敢"
+  },
+  {
+   "cn": "延安自然科学院",
+   "en": "Yan’an Academy of Natural Sciences",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.133",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2025",
+   "definition": "延安自然科学院是中国共产党领导的第一所理工科高等学校。前身是成立于1939年5月的延安自然科学研究院，1940年1月中共中央决定将延安自然科学研究院改为延安自然科学院，并于1940年9月正式成立，设有"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

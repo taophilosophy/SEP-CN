@@ -1,0 +1,812 @@
+{
+ "key": "compliance pull",
+ "term": "compliance pull",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:02:06+00:00",
+ "status": "ok",
+ "note": "variant=compliance pull; 审定公布名词库=1031; 海峡两岸名词对照库=285; 其他来源数据库=70; 预公布名词数据库=32; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "兽医学名词",
+   "wordNumber": "04.261",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "弹性组织受外力作用时发生变形扩张的能力。是弹性阻力的倒数。"
+  },
+  {
+   "cn": "依从性",
+   "en": "compliance",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.071",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "患者在遵从医嘱进行睡眠疾病治疗时的服从程度。"
+  },
+  {
+   "cn": "遵从",
+   "en": "compliance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对某一明确的或隐含的请求的服从响应。目标人士可能会也可能不会认识到自己被要求以特定的方式采取行动。社会影响是遵从的推动力。说服和获得遵从是极其重要的社会影响类型，因为它们利用各自的效力来实现其他人的服"
+  },
+  {
+   "cn": "柔顺性",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0476",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机器人或某辅助工具响应外力作用时的柔性。"
+  },
+  {
+   "cn": "柔度",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0018",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "刚度的倒数。"
+  },
+  {
+   "cn": "柔量",
+   "en": "compliance",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0334",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "应变（或应变分量）对应力（或应力分量）之比。"
+  },
+  {
+   "cn": "顺度",
+   "en": "compliance",
+   "source": "物理学名词",
+   "wordNumber": "02.0624",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.290",
+   "subjectFullName": "呼吸病学_肺功能_呼吸力学",
+   "subjectName": "呼吸力学",
+   "publishYear": "2018",
+   "definition": "外力作用下弹性组织的可扩张性。容易扩张者，顺应性大，弹性阻力小；不容易扩张者，顺应性小，弹性阻力大。顺应性是弹性阻力的倒数，用单位压力变化(<img src='/root/syzx/static/sp"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "核医学名词",
+   "wordNumber": "04.1403",
+   "subjectFullName": "核医学_临床核医学_呼吸系统核医学_呼吸系统解剖生理基础",
+   "subjectName": "呼吸系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "单位跨壁压力变化所引起的肺容积变化程度，即外力作用下弹性组织的可扩张性。用来度量肺弹性阻力。"
+  },
+  {
+   "cn": "依从性",
+   "en": "compliance",
+   "source": "核医学名词",
+   "wordNumber": "06.0338",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究对象和研究者遵循和执行临床试验方案规定、要求的行为和程度。是保证研究结果客观、可靠的重要环节。"
+  },
+  {
+   "cn": "依从",
+   "en": "compliance",
+   "source": "心理学名词",
+   "wordNumber": "07.102",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对他人意愿或行为的遵从。"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "药学名词",
+   "wordNumber": "02.236",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "病人或医护人员对所用药品的接受程度，以及对于药品说明书或医嘱的依从程度。"
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.063",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "患者履行医生有关医疗或其他相关忠告的程度。表明了患者与医生合作的主动性或自觉性。"
+  },
+  {
+   "cn": "柔顺性",
+   "en": "compliance",
+   "source": "航天科学技术名词",
+   "wordNumber": "19.060",
+   "subjectFullName": "航天科学技术_航天机器人",
+   "subjectName": "航天机器人",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "医学名词 第四分册",
+   "wordNumber": "01.583",
+   "subjectFullName": "医学_心血管病学",
+   "subjectName": "心血管病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "柔度",
+   "en": "compliance",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "柔顺",
+   "en": "compliance",
+   "source": "自动化名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "提取",
+   "en": "pull",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.121",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "描述因特网内容提供者和因特网用户之间工作方式的术语。“提取”指用户从网站上“拖下”数据。"
+  },
+  {
+   "cn": "[捕捞机械]拉力",
+   "en": "pull",
+   "source": "水产名词",
+   "wordNumber": "09.256",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "捕捞机械运转时作用于渔具的力。"
+  },
+  {
+   "cn": "角深",
+   "en": "pull",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0228",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "顺从性",
+   "en": "compliance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "依从,顺从",
+   "en": "compliance\",\"susmission",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剪切柔量",
+   "en": "shear compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "储能柔量",
+   "en": "storage compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "诱导依从,诱导顺从",
+   "en": "induced compliance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "柔度不变量",
+   "en": "compliance invariant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位流符合性，比特流符合性",
+   "en": "bitstream compliance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "牵拉假说",
+   "en": "pull hypothesis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉",
+   "en": "pull-in",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系桩拉力",
+   "en": "bollard pull",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "钟锤拉索",
+   "en": "bell pull",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "系桩拉力",
+   "en": "bollard pull",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拉封",
+   "en": "pull-seal",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "蒸腾拉力",
+   "en": "transpiration pulling force\",\"transpiration pull",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提拉速率",
+   "en": "pulling rate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "频率牵引",
+   "en": "frequency pulling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳态柔量",
+   "en": "steady-state compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴柔度",
+   "en": "on-axis compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "提铃",
+   "en": "pull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉",
+   "en": "pulling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合规风险",
+   "en": "compliance risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静态柔顺性",
+   "en": "static compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据合规",
+   "en": "data compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "划桨",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全力提杠",
+   "en": "dead pull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划",
+   "en": "row\",\"pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣扳机",
+   "en": "pull the trigger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背着网接弹腿3/4空翻成站立",
+   "en": "back pull-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拔箭",
+   "en": "pull the arrow off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖倒进入寝技",
+   "en": "pull down into ne-waza",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收紧",
+   "en": "haul\",\"pull in\",\"haul in\",\"take in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "钓进腰",
+   "en": "drawing lifting hip throw\",\"lift-pull hip throw\",\"resisting hip throw\",\"tsuri-komi-goshi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船身",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体360度",
+   "en": "full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船体",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艇身",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋",
+   "en": "full-in full-out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依从",
+   "en": "compliance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.5",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "人们为了获得奖励或避免惩罚而采取的与他人要求在表面上相一致的行为，或者说，依从行为并非出于自愿，而是迫于外界强制性的压力而采取的一时性的行为。"
+  },
+  {
+   "cn": "合格评定",
+   "en": "compliance testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对于食品销售和流通过程中怀疑不符合特定法规和准则的特定样品的检验过程。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.042",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者按照医嘱接受医学检查、治疗、康复和预防疾病的行为。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在已知自己患病后，积极配合医生、服从治疗的行为。"
+  },
+  {
+   "cn": "符合性声明",
+   "en": "declaration of compliance",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.71",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "包括产品名称、材质、遵循的食品安全国家标准代号和顺序号、有限制性要求的物质名单及其限制性要求。"
+  },
+  {
+   "cn": "“推拉”理论",
+   "en": "push-pull hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "4.5.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_迁移",
+   "subjectName": "迁移",
+   "publishYear": "2025",
+   "definition": "关于迁移的一种理论，假设原居住地的条件（如贫穷和失业）促使或推动人们离开原居住地而迁往其他条件优越或是具有拉动力的地方（如较高的生活水平和就业率）。"
+  },
+  {
+   "cn": "推拉理论",
+   "en": "push-pull theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0103",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "这一理论认为人口迁移存在两种动因，一是居住地存在着推动人口迁移的力量；二是迁入地存在吸引人口迁移的力量。这两种力量的共同或单方作用导致了人口迁移。"
+  },
+  {
+   "cn": "未遵医嘱使用减肥药物",
+   "en": "non-compliance with prescribed weight loss medication",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "超出医疗范围、自行服用减肥药物的行为。"
+  },
+  {
+   "cn": "满载",
+   "en": "full load",
+   "source": "消毒学",
+   "wordNumber": "1.2.10.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "按照灭菌装置生产厂家说明书规定方式摆放的最高允许装载量。"
+  },
+  {
+   "cn": "全面罩",
+   "en": "full mask",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "与头部密合，能遮盖住眼、面、鼻、口和下颌等的面罩。"
+  },
+  {
+   "cn": "赫尔大厦",
+   "en": "Hull House",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "19世纪后期由珍妮·亚当斯(Jane Addams）在美国芝加哥建立的著名社区中心。为经济能力有限的人提供教育机会和社会服务，并且为移民提供庇护。"
+  },
+  {
+   "cn": "约翰牛",
+   "en": "John bull",
+   "source": "马克思主义",
+   "wordNumber": "04.0036",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原是18世纪英国作家约翰·阿布什诺特（John Arbuthnot）在《约翰·布尔的历史》中所创造的形象——一个矮胖愚笨的绅士，用来讽刺当时辉格党的战争政策。由于“布尔”在英文中是牛的意思，故译为“约"
+  },
+  {
+   "cn": "礼服",
+   "en": "full dress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0123",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "礼仪、社交的专用服装。世界各国、各地区或各民族，由于历史、文化等不同，对穿用礼服的要求也各不相同，一般应合乎社会公认的行为准则。"
+  },
+  {
+   "cn": "满负载单元",
+   "en": "full load unit",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.13.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "低温蒸汽甲醛灭菌器灭菌效果鉴定试验中，由特定规格和质量的PVC软管、聚酰胺棒、不锈钢管等组成的测试最大负载质量的组成测试单元。"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由文件规定或已经确立和证实，对指示物无显著影响的系列终止条件。"
+  },
+  {
+   "cn": "民意测验",
+   "en": "public opinion poll",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "使用抽样调查方法了解公众舆论趋向的一种社会调查。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "full funding system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.8",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一种以远期纵向收支平衡为原则的筹资模式。在预测未来支出的基础上，确定一个可以保证该时段内项目收支平衡的税或费率，以年为单位，分摊到各参保人，期满方可享受相关社保权益。"
+  },
+  {
+   "cn": "充满活力",
+   "en": "full of vitality",
+   "source": "马克思主义",
+   "wordNumber": "04.0200",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "能够使一切有利于社会进步的创造愿望得到尊重，创造活动得到支持，创造才能得到发挥，创造成果得到肯定。"
+  },
+  {
+   "cn": "鸥翼征",
+   "en": "Gull Wing Appearance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.16",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "髋臼骨折累及髋臼顶部时，导致髋臼顶发生压缩性骨折，X线片显示髋臼顶部呈现典型的双弧影，类似于飞行中海鸥张开的翅膀。"
+  },
+  {
+   "cn": "全生命周期健康",
+   "en": "full lifecycle health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "以人的整个生命过程为视角，从生命孕育到生命终点的各阶段，通过系统性的预防、治疗、康复和健康促进措施，持续关注和保障健康，实现生命全程的健康维护与质量提升。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

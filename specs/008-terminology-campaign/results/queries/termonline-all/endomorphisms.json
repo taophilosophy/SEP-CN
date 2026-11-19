@@ -1,0 +1,82 @@
+{
+ "key": "endomorphisms",
+ "term": "endomorphisms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:12+00:00",
+ "status": "ok",
+ "note": "variant=endomorphisms; 审定公布名词库=7; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自同态",
+   "en": "endomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1315",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正自同态",
+   "en": "positive endomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1247",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自同态的迹",
+   "en": "trace of endomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群的自同态",
+   "en": "endomorphism of group",
+   "source": "数学名词",
+   "wordNumber": "04.1765",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "椭圆曲线的自同态",
+   "en": "endomorphism of elliptic curve",
+   "source": "数学名词",
+   "wordNumber": "04.0352",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模自同态",
+   "en": "endomorphism of a module",
+   "source": "数学名词",
+   "wordNumber": "04.0875",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自同态的熵",
+   "en": "entropy of the endomorphism",
+   "source": "数学名词",
+   "wordNumber": "07.0438",
+   "subjectFullName": "数学_泛函分析_遍历理论",
+   "subjectName": "遍历理论",
+   "publishYear": "1993",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

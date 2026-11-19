@@ -1,0 +1,192 @@
+{
+ "key": "aliveness",
+ "term": "aliveness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:09:11+00:00",
+ "status": "ok",
+ "note": "variant=aliveness; 审定公布名词库=11; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "出院存活",
+   "en": "discharged alive",
+   "source": "急救医学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救技能_心肺复苏",
+   "subjectName": "心肺复苏",
+   "publishYear": "2025",
+   "definition": "患者经积极治疗出院时仍活着，存在生命体征的状态。"
+  },
+  {
+   "cn": "保活",
+   "en": "keep alive",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1050",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "通过维持或者接近水产品赖以生存的自然环境，或者通过一系列的措施降低其新陈代谢，从而使其在流通销售过程中不死亡或少死亡的技术。"
+  },
+  {
+   "cn": "保活",
+   "en": "keep alive",
+   "source": "电子学名词",
+   "wordNumber": "11.076",
+   "subjectFullName": "电子学_显示器件与技术",
+   "subjectName": "显示器件与技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "产活仔数",
+   "en": "number born alive",
+   "source": "畜牧学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "畜牧学_饲养管理_猪饲养",
+   "subjectName": "猪饲养",
+   "publishYear": "2020",
+   "definition": "出生时活的仔猪数。"
+  },
+  {
+   "cn": "活体支撑",
+   "en": "bracing with alive tree",
+   "source": "风景园林名词",
+   "wordNumber": "08.0201",
+   "subjectFullName": "风景园林_风景园林工程_风景园林种植",
+   "subjectName": "风景园林种植",
+   "publishYear": "2025",
+   "definition": "栽植同属种青壮龄树木，对不稳固树体进行支撑的工程措施。"
+  },
+  {
+   "cn": "繁殖成活率",
+   "en": "alive fertility rate,AFR",
+   "source": "畜牧学名词",
+   "wordNumber": "05.195",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "本年度内成活仔畜数占上年度终适繁母畜数的百分率。"
+  },
+  {
+   "cn": "产活犊率",
+   "en": "rate of alive calves,RAC",
+   "source": "畜牧学名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "畜牧学_繁殖_繁殖力",
+   "subjectName": "繁殖力",
+   "publishYear": "2020",
+   "definition": "所产活犊数(包括早产的活犊牛数)占配种母牛数的百分率。"
+  },
+  {
+   "cn": "人殉",
+   "en": "ren xun;human sacrifice buried alive",
+   "source": "中国古代史名词",
+   "wordNumber": "2.465",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以活人陪葬的习俗。一般为死者的侍从、姬妾。"
+  },
+  {
+   "cn": "焚书坑儒",
+   "en": "fen shu keng ru;burning of the books and the burying alive of Confucian scholars",
+   "source": "中国古代史名词",
+   "wordNumber": "3.008",
+   "subjectFullName": "中国古代史_秦汉_政治_治乱兴衰大事",
+   "subjectName": "治乱兴衰大事",
+   "publishYear": "2022",
+   "definition": "秦始皇下令焚烧图书，坑杀儒生和方士的事件。公元前213年下令，除秦国史书、博士官收藏的图书及医药、占卜、种植等书外，其余图书严禁民间私藏，多被焚毁。次年，又下令坑杀460余名儒生、方士于咸阳。其事为思"
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0648",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网的一种动态性质，关注网系统运行过程中，某个（或全体）变迁是否为活变迁。"
+  },
+  {
+   "cn": "类药性",
+   "en": "drug likeness",
+   "source": "药学名词",
+   "wordNumber": "03.237",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "化合物与已知药物的相似性。表示某些类似于药物性质又影响药物开发成功与否的概念，内容包含先导化合物的药学性质、药动学参数和药物安全性等。"
+  },
+  {
+   "cn": "保活",
+   "en": "keep alive",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带电线[电]路",
+   "en": "alive circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "liveness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保活",
+   "en": "keep alive",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.19",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "采用降低温度、充氧等方法，使水产品在运输、销售过程中存活的过程。"
+  },
+  {
+   "cn": "充氧水保活运输",
+   "en": "alive transportation with oxygenated water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.20",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "活体水产品运输过程中通过使用充气机、水泵喷淋或直接充入氧气等方法，使装载容器的水体中溶氧量增加的保活运输方式。"
+  },
+  {
+   "cn": "保湿无水保活运输",
+   "en": "alive transportation retaining moisture without water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.21",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "活体水产品运输过程巾采用保湿材料使其体表保持潮湿，并将温度控制在接近其生态冰温的条件"
+  },
+  {
+   "cn": "活水舱保活运输",
+   "en": "alive transportation in cabin with circulating water",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.22",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "在运输船水线下设置装运活体水产品的水舱，并在水舱的上、中、下层开孔与外界水相通，在航行时水舱内水与外界水持续交换的保活运输方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

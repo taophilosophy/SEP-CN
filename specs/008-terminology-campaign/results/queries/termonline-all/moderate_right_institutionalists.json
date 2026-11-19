@@ -1,0 +1,802 @@
+{
+ "key": "moderate right institutionalists",
+ "term": "Moderate Right Institutionalists",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:02:03+00:00",
+ "status": "ok",
+ "note": "variant=Moderate Right Institutionalists; 审定公布名词库=2268; 海峡两岸名词对照库=807; 其他来源数据库=264; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "电力名词",
+   "wordNumber": "17.062",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "热中子堆内用以降低快中子能量的材料。对其主要要求是:慢化能力强、中子吸收弱、与冷却剂和燃料棒包壳以及其他结构材料的相容性好、热和辐照稳定性好、易获取、价格便宜等。常用慢化剂材料有水、重水、石墨和铍等。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "物理学名词",
+   "wordNumber": "09.0610",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "会议监管人",
+   "en": "moderator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0776",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在计算机会议中，对提交的文章可以做出接收、修改或拒绝接收决定的人。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.364",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "反应堆中用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。通常选用石墨、重水、轻水和铍作为反应堆的慢化剂材料。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "林学名词",
+   "wordNumber": "02.200",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "粗腐殖质和细腐殖质的过渡类型。森林土壤表层同时具有未分解和细碎半分解的凋落物层的腐殖质组型。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "土壤学名词",
+   "wordNumber": "02.498",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "弱腐殖化的植物残体。"
+  },
+  {
+   "cn": "中震",
+   "en": "moderate earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.02.021",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "里氏震级≥5级且＜7级的地震。这类地震可造成不同程度破坏。"
+  },
+  {
+   "cn": "中度烧伤",
+   "en": "moderate burn",
+   "source": "整形外科名词",
+   "wordNumber": "2.019",
+   "subjectFullName": "整形外科_创伤修复_急性创伤",
+   "subjectName": "急性创伤",
+   "publishYear": "2026",
+   "definition": "成人烧伤面积在11%～30%（小儿在5%～15%）或Ⅲ度烧伤面积在10%以下（小儿在5%以下），并且无吸入性损伤或者严重并发症的烧伤。"
+  },
+  {
+   "cn": "中坡",
+   "en": "moderate slope",
+   "source": "风景园林名词",
+   "wordNumber": "08.0052",
+   "subjectFullName": "风景园林_风景园林工程_风景园林工程地形整理",
+   "subjectName": "风景园林工程地形整理",
+   "publishYear": "2025",
+   "definition": "地形中坡度在10%～25%的用地。"
+  },
+  {
+   "cn": "中度脱水",
+   "en": "moderate dehydration",
+   "source": "急救医学名词",
+   "wordNumber": "03.272",
+   "subjectFullName": "急救医学_日常医学急救_外科学_体液平衡失调",
+   "subjectName": "体液平衡失调",
+   "publishYear": "2025",
+   "definition": "体液总量的减少（失水量）占5%～10%的体重或相当于体液丢失50～100ml/kg的脱水类型。临床表现为精神萎靡、烦躁，眼泪少，口渴明显，尿量减少，皮肤干燥、苍白、弹性差，黏膜干燥，眼窝凹陷，前囟下陷"
+  },
+  {
+   "cn": "中等热",
+   "en": "moderate heat",
+   "source": "兽医学名词",
+   "wordNumber": "13.030",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "升高1.0~2.0℃的体温。见于呼吸系统、消化系统的一般炎症以及某些亚急性、慢性传染病。"
+  },
+  {
+   "cn": "中度少精子症",
+   "en": "moderate oligozoospermia",
+   "source": "生殖医学名词",
+   "wordNumber": "4.24",
+   "subjectFullName": "生殖医学_生殖系统疾病_男性生殖系统疾病",
+   "subjectName": "男性生殖系统疾病",
+   "publishYear": "2022",
+   "definition": "射出精液的精子浓度≥5×106/ml，但＜10× 106/ml。"
+  },
+  {
+   "cn": "中度放牧",
+   "en": "moderate grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0455",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中度退化",
+   "en": "moderate degradation ",
+   "source": "草学名词",
+   "wordNumber": "2.0583",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中雨",
+   "en": "moderate rain ",
+   "source": "草学名词",
+   "wordNumber": "3.066",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "中速促进剂",
+   "en": "moderate accelerator",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0686",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "基于胍类化合物的促进剂。国际上习惯以噻唑类化合物对天然橡胶的硫化速率为准超速，硫化速率低于此比较基准的则属于慢速或中速促进剂，胍类化合物属于中速促进剂。"
+  },
+  {
+   "cn": "中昏迷",
+   "en": "moderate coma",
+   "source": "行为医学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "程度较重的昏迷状态。意识完全丧失，对外界的正常刺激全无反应，自发动作很少。对强刺激的防御反射、角膜反射和瞳孔对光反射减弱，大小便潴留或失禁。生命体征已有改变。"
+  },
+  {
+   "cn": "中度镇静",
+   "en": "moderate sedation",
+   "source": "消化内镜学名词",
+   "wordNumber": "10.013",
+   "subjectFullName": "消化内镜学_消化内镜麻醉技术_麻醉方式",
+   "subjectName": "麻醉方式",
+   "publishYear": "2021",
+   "definition": "镇静后患者神志淡漠、有意识，对语言和触觉刺激有反应，无须气道干预，心血管功能可维持的状态。"
+  },
+  {
+   "cn": "中度低温",
+   "en": "moderate hypothermia",
+   "source": "器官移植学名词",
+   "wordNumber": "14.012",
+   "subjectFullName": "器官移植学_心脏移植_心脏移植",
+   "subjectName": "心脏移植",
+   "publishYear": "2020",
+   "definition": "体外循环过程中维持26～31℃的体温。"
+  },
+  {
+   "cn": "中昏迷",
+   "en": "moderate coma",
+   "source": "神经病学名词",
+   "wordNumber": "04.007",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "程度较重的昏迷状态。对周围事物及各种刺激无反应，剧痛刺激偶可引起防御反应，吞咽、咳嗽、对光反射迟钝，腱反射减弱。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderator",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁员",
+   "en": "moderator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "4级风，和风",
+   "en": "moderate breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中雨",
+   "en": "moderate rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中度衰落",
+   "en": "moderate fading",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轻雾",
+   "en": "moderate fog",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中能见度（6级）",
+   "en": "visibility moderate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中涌",
+   "en": "moderate swell",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有仲裁的新闻组",
+   "en": "moderated newsgroup",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节制索",
+   "en": "moderator band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "慢化剂材料",
+   "en": "moderator materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "调节效果",
+   "en": "moderation effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "冬干温和[气候]",
+   "en": "winter dry moderate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冬温气候类",
+   "en": "winter moderate climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中温封孔",
+   "en": "moderate temperature sealing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "中等重复序列",
+   "en": "moderately repetitive sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中度重复DNA",
+   "en": "moderately repetitive DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排污权",
+   "en": "emission right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "水权",
+   "en": "water right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私权利",
+   "en": "private right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物权",
+   "en": "real right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人身权",
+   "en": "personal right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人格权",
+   "en": "personality right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据库权",
+   "en": "database right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参与权",
+   "en": "participation right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理权",
+   "en": "governance right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "右上勾拳",
+   "en": "right uppercut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右直拳",
+   "en": "straight right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "温和派",
+   "en": "moderates",
+   "source": "马克思主义",
+   "wordNumber": "04.0337",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初，俄国社会民主工党内出现的一个政治派别。1903年俄国社会民主工党第二次代表大会后，党内分裂为两派，一派以列宁为代表，称为布尔什维克，另一派以马尔托夫为代表，称孟什维克，孟什维克自称“温和派"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。对反应堆，通常选用石墨、重水、轻水和铍作为该材料。"
+  },
+  {
+   "cn": "中度近视",
+   "en": "moderate myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "屈光度（等效球镜）>-6.00D 且≤-3.00D的近视程度。"
+  },
+  {
+   "cn": "中等毒",
+   "en": "moderately toxic",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "50mg/kg<经口LD50≤500mg/kg。"
+  },
+  {
+   "cn": "中子慢化",
+   "en": "neutron moderation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.32",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与介质原子核碰撞，引起中子能量减少而减速的现象。是热中子反应堆内中子运动的基本过程之一。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderating variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "能够改变自变量对因变量的影响的变量。"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "小康社会",
+   "en": "moderately prosperous society",
+   "source": "马克思主义",
+   "wordNumber": "03.0604",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末80年代初，邓小平在规划中国经济社会发展蓝图时提出“小康社会”的战略构想。“小康”是一个具有中国特色的概念，“小康社会”是介于温饱与富裕之间的一个特定发展阶段。"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "个人在性活动中享有的权利，如选择性对象、享受性爱等。"
+  },
+  {
+   "cn": "社会权利",
+   "en": "social right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "公民维持其社会存在的基本权利，包括生存权、健康权、受教育权、工作权、居住权和资产拥有权等。英国社会学家、社会政策学家马歇尔（T.H.Marshall）提出。"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪80年代盛行的社会政治思潮。经济上新自由主义和政治上新保守主义的集合。以里根和撒切尔政府为代表，在国家社会福利政策实施领域接受新自由主义思想，主张自由市场和个人责任，强化私有化，削弱国家的作用"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.004",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医师在执业活动中享有的正当权力和利益。包括法定权利和道德权利。一般说来，医师的法定权利都是其道德权利，而其道德权利不一定是其法定权利，二者并非完全一致，在特定情形下甚至可能会出现冲突。"
+  },
+  {
+   "cn": "健康权",
+   "en": "health right",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "一项基本人权，人人享有能达到的最高体质和心理健康标准的权利。"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "公民在政治领域享有的民主权利。公民能参与立法等政治活动，并且其身体、言论、信仰、居住、集会等自由权利要受到法律保护。"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.18",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "业主作为房屋的产权所有人，自己或通过业主委员会组织起来，争取与自己相关的住房及其他权益的活动。"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0167",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "社会成员或群体学习和使用语言的权利。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

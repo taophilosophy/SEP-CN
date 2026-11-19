@@ -1,0 +1,532 @@
+{
+ "key": "vacuous nothingness",
+ "term": "vacuous nothingness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:08:57+00:00",
+ "status": "ok",
+ "note": "variant=vacuous nothingness; 审定公布名词库=773; 海峡两岸名词对照库=188; 其他来源数据库=8; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "独享型体系结构",
+   "en": "shared-nothing architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0107",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "并行数据库系统中每台计算机具有独立的处理器、内存、磁盘和操作系统。必要时才与其他计算机通信的一种体系结构。"
+  },
+  {
+   "cn": "无共享多处理机系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0065",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机类型",
+   "subjectName": "计算机类型",
+   "publishYear": "2018",
+   "definition": "一种多处理机系统，每个处理机都是一个单独、自给的机器，不共享系统主存或磁盘等资源，运行操作系统的一个副本，处理机之间靠通信联系。"
+  },
+  {
+   "cn": "有或无继电器",
+   "en": "all-or-nothing relay",
+   "source": "电气工程名词",
+   "wordNumber": "14.046",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "万法唯识",
+   "en": "wan fa wei shi;everything is the transformation of Vijñāna;all phenomena are nothing but mind",
+   "source": "中国古代史名词",
+   "wordNumber": "5.251",
+   "subjectFullName": "中国古代史_隋唐五代_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "中国佛教宗派唯识宗的主要教理。认为一切现象均非客观存在，而是依赖主观意识，由心识转化而成，其终极根源在于第八识阿赖耶识。"
+  },
+  {
+   "cn": "液泡",
+   "en": "vacuole",
+   "source": "植物学名词",
+   "wordNumber": "09.0073",
+   "subjectFullName": "植物学_植物细胞生物学",
+   "subjectName": "植物细胞生物学",
+   "publishYear": "2019",
+   "definition": "植物细胞中由单层膜围成的细胞器。主要成分是水，水中溶有有机物、无机盐和色素等。在维持细胞膨压和胞内的酸性环境等方面起着重要作用。"
+  },
+  {
+   "cn": "液泡",
+   "en": "vacuole",
+   "source": "细胞生物学名词",
+   "wordNumber": "03.155",
+   "subjectFullName": "细胞生物学_细胞结构与细胞外基质",
+   "subjectName": "细胞结构与细胞外基质",
+   "publishYear": "2009",
+   "definition": "植物细胞中由单层膜围成的贮存水、离子和营养物质（如葡萄糖，氨基酸等）的细胞器。膜上含有各种转运蛋白。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "电力名词",
+   "wordNumber": "10.381",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "大气压力与凝汽器压力的差值。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "物理学名词",
+   "wordNumber": "01.0126",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "计量学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "计量学_压力、真空_真空",
+   "subjectName": "真空",
+   "publishYear": "2015",
+   "definition": "在指定空间内，低于环境大气压力的气体状态。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "建筑学名词",
+   "wordNumber": "14.1091",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "在指定空间内，气体压强低于当地环境大气压强的稀薄气体状态。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "13.0005",
+   "subjectFullName": "机械工程_流体机械_真空获得与应用设备_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "低于大气压力或大气质量密度的稀薄气体状态。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.558",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.500",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_真空获得仪器与装置_真空获得仪器与装置一般名词",
+   "subjectName": "真空获得仪器与装置一般名词",
+   "publishYear": "2003",
+   "definition": "在指定空间内，低于一个大气压力的气体状态。"
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "电子学名词",
+   "wordNumber": "12.049",
+   "subjectFullName": "电子学_电子光学与真空技术",
+   "subjectName": "电子光学与真空技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "真空夹具",
+   "en": "vacuum fixture,vacuum jig",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "13.014",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_夹具",
+   "subjectName": "夹具",
+   "publishYear": "2021",
+   "definition": "以真空产生的负压将工件定位和夹紧的夹具。"
+  },
+  {
+   "cn": "真空淬火",
+   "en": "vacuum quenching,vacuum hardening",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.145",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "变形",
+   "en": "various form",
+   "source": "地质学名词",
+   "wordNumber": "02.00.079",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶面间角度不为恒定的单形。"
+  },
+  {
+   "cn": "伸缩泡",
+   "en": "contractile vacuole",
+   "source": "动物学名词",
+   "wordNumber": "5.0199",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "存在于多类原生动物体内的泡状结构。因类群而异，随原生质流动而转移。在纤毛虫则通常具有固定的位置和数目，有规律的伸缩频率，舒张至一定大小后收缩，主要功能为调节细胞渗透压和排出代谢废物。"
+  },
+  {
+   "cn": "食物泡",
+   "en": "food vacuole",
+   "source": "动物学名词",
+   "wordNumber": "5.0201",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "原生动物在摄取食物时形成的泡状结构。与质膜脱离后进入细胞质内，经与溶酶体融合并在多种水解酶作用下，食物颗粒在食物泡内消化、被吸收，不能消化的部分最终排出细胞外。"
+  },
+  {
+   "cn": "嗜碘泡",
+   "en": "iodinophilous vacuole",
+   "source": "动物学名词",
+   "wordNumber": "5.032",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "某些黏孢子虫的胚孢质中含有的一种特有泡状结构。内含多糖，因嗜碘而得名。"
+  },
+  {
+   "cn": "无共享的多处理器系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "液泡",
+   "en": "vacuole\",\"vacuolus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "液泡",
+   "en": "vacuole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "液泡",
+   "en": "vacuole",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[液]泡",
+   "en": "vacuole",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "卵黄泡",
+   "en": "yolk vacuole\",\"vitelline vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嗜碘泡",
+   "en": "iodinophilous vacuole\",\"iodophilous vacuole",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "寄生泡",
+   "en": "parasitophorous vacuole\",\"periparasitic vacuole",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "真空",
+   "en": "vacuum",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "真空成型",
+   "en": "vacuum forming\",\"vacuum molding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空脱脂",
+   "en": "vacuum debinding\",\"vacuum degreasing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "真空度",
+   "en": "vacuum\",\"degree of vacuum",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分泌泡",
+   "en": "secretory vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "核液泡",
+   "en": "nuclear vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "浓缩泡",
+   "en": "condensing vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脂泡",
+   "en": "fat vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自[体吞]噬泡",
+   "en": "autophagic vacuole",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "伸缩泡（=收缩泡）",
+   "en": "contractile vacuole",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无往不复",
+   "en": "Nothing That Disappears Fails to Reappear.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兄弟齐心，其利断金",
+   "en": "When brothers come together, there is nothing they cannot achieve.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "顺无不行，果无不彻",
+   "en": "When What You Say Is Justified, There Is Nothing You Cannot Accomplish. When You Act Decisively, You Will Succeed.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "俄罗斯联邦各地区信息化建设评估指标体系",
+   "en": "evaluation index system for informatization in various regions of the Russian Federation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负压吸引术",
+   "en": "vacuum aspiration",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "利用负压通过吸管将早期妊娠组织自宫腔吸出，以达到终止妊娠的手术方式。用于终止10周以内的妊娠。是我国自主发明的人工流产手术。"
+  },
+  {
+   "cn": "真空电离室",
+   "en": "vacuum ionization chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种空腔内气压很低（压强在1.333×10-3Pa以下）的电离室。其工作原理是收集到的电流主要不是来源于气体电离而是来源于电极间次级电子（δ射线）的转移。特别适合于高剂量测量。"
+  },
+  {
+   "cn": "空间真空环境",
+   "en": "space vacuum environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.6",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "在给定空间内低于一个大气压力的气体状态。"
+  },
+  {
+   "cn": "手动负压吸引术",
+   "en": "manual vacuum aspiration, MVA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "使用一次性手动负压吸引器和双窗吸管终止10周以内早孕的人工流产方法。使用本方法在手术中不需要常规扩张宫颈及吸宫后不需要常规刮匙搔刮宫腔，从而提高手术的安全性，减少手术的风险和痛苦。"
+  },
+  {
+   "cn": "负压熏蒸消毒",
+   "en": "fumigation disinfection by vacuum",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.9.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "采用机械抽真空的方式使密闭空间形成负压，注入的消毒因子迅速蒸发，在一定的温度、浓度和作用时间等条件下，对空气和物体表面进行消毒的过程。"
+  },
+  {
+   "cn": "预真空压力蒸汽灭菌器",
+   "en": "pre-vacuum pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用机械抽真空的原理，使灭菌器内形成负压，使蒸汽迅速穿透到物品内部，利用蒸汽释放的潜热使物品达到灭菌要求的灭菌器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,72 @@
+{
+ "key": "impediments",
+ "term": "impediments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:49:00+00:00",
+ "status": "ok",
+ "note": "variant=impediments; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "肠痹",
+   "en": "intestinal painful impediment",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0832",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以腹胀如鼓，腹痛，呕吐，便秘，无肠鸣、矢气为主要表现的疾病。"
+  },
+  {
+   "cn": "暑湿痹",
+   "en": "summerheat dampness with impediment",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0195",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "暑湿侵袭肌肤、经络，以肢体酸痛沉重，面赤，尿黄少等为常见症的暑湿证候。"
+  },
+  {
+   "cn": "胸痹",
+   "en": "chest bi,chest painful impediment",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0485",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "胸阳不振，以胸闷或发作性心胸疼痛为主要表现的疾病。"
+  },
+  {
+   "cn": "脑络痹",
+   "en": "brain collateral bi,brain collateral painful impediment",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0568",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以头痛，头晕，情志改变，或有肢体麻痹、震颤等为主要表现的疾病。"
+  },
+  {
+   "cn": "消渴脉痹",
+   "en": "consumptive thirst with syndrome of vessel painful impediment",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.1187",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "消渴病并发肢体经脉痹阻病。"
+  },
+  {
+   "cn": "悬饮・肺络不畅证",
+   "en": "suspending fluid retention with syndrome of impediments of lung collaterals",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0460",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "水饮内停，肺络不畅，以胸胁疼痛，呼吸不畅，或有闷咳，迁延不已，苔薄，脉弦细等为常见症的悬饮证候。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

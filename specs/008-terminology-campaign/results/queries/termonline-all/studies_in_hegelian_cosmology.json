@@ -1,0 +1,692 @@
+{
+ "key": "studies in hegelian cosmology",
+ "term": "Studies in Hegelian Cosmology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:58:51+00:00",
+ "status": "ok",
+ "note": "variant=Studies in Hegelian Cosmology; 审定公布名词库=4264; 海峡两岸名词对照库=749; 其他来源数据库=440; 预公布名词数据库=653; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "世界历史名词",
+   "wordNumber": "03.0585",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "19世纪30年代，黑格尔哲学解体过程中产生的激进派。"
+  },
+  {
+   "cn": "宇宙论",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于宇宙的本原、存在、结构和运行以及人类在宇宙中地位的理论观点。最早由德国C. 沃尔弗（C. Wolff）使用，并进一步被黑格尔、马克思沿袭。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.322",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "研究宇宙的结构、起源和演化的科学理论。它的主要研究对象为整个可观测时空范围内的大尺度特征和规律。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "从整体上研究宇宙的结构和演化，以及研究河外天体在宇宙年龄时标上演化的学科。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宫内受照者调查",
+   "en": "in utero study",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.101",
+   "subjectFullName": "放射医学与防护_放射流行病学_研究人群及其他",
+   "subjectName": "研究人群及其他",
+   "publishYear": "2014",
+   "definition": "对原爆幸存者的三项重要研究之一。研究对象为原爆时尚未出生但在其母亲子宫内受到了核辐射照射的2800名幸存者，观察指标包括生长发育、智力发育和癌症发病率等。调查开始于1956年，至今发现小头症和智力障碍"
+  },
+  {
+   "cn": "牛顿宇宙学",
+   "en": "Newtonian cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "(1)牛顿提出或在其基本概念框架内建立的宇宙学理论。(2)使用牛顿力学或其推广形式分析宇宙动力学的理论。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究当量子力学效应在整个宇宙尺度上都很重要时的宇宙的理论。"
+  },
+  {
+   "cn": "相对论宇宙学",
+   "en": "relativistic cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "使用广义相对论研究宇宙学的理论。"
+  },
+  {
+   "cn": "观测宇宙学",
+   "en": "observational cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.012",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究宇宙学观测基础及其推论的宇宙学分支。"
+  },
+  {
+   "cn": "比安基宇宙论",
+   "en": "Bianchi cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.459",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "空间均匀但各向异性的宇宙学模型。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "物理学名词",
+   "wordNumber": "06.0328",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相对论[性]宇宙学",
+   "en": "relativistic cosmology",
+   "source": "物理学名词",
+   "wordNumber": "11.0022",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "计算宇宙学",
+   "en": "computational cosmology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1193",
+   "subjectFullName": "计算机科学技术_计算机应用_科学与工程计算",
+   "subjectName": "科学与工程计算",
+   "publishYear": "2018",
+   "definition": "通过数值模拟方法研究宇宙学问题的学科。"
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.323",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "假设宇宙中物质是均匀、各向同性分布的，从而宇宙空间的特性也是均匀和各向同性的。这一假说得到了观测宇宙学一定程度的支持。"
+  },
+  {
+   "cn": "宇宙奇点",
+   "en": "cosmological singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.335",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "时空曲率无限大的时空点。奇点被认为存在于黑洞中央，大爆炸之前宇宙的存在状态也被认为是奇点。"
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "天文学名词",
+   "wordNumber": "07.269",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙膨胀引起的天体谱线红移。"
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "天文学名词",
+   "wordNumber": "07.418",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙在大尺度上保持均匀各向同性的假设。"
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "天文学名词",
+   "wordNumber": "07.427",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "描述宇宙大尺度性质、起源和演化的模型。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙论[观]",
+   "en": "cosmology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "等级式宇宙论",
+   "en": "hierarchic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "动力学宇宙学",
+   "en": "dynamical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反物质宇宙论",
+   "en": "antimatter cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "各向异性宇宙论",
+   "en": "anisotropic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "观测宇宙学",
+   "en": "observational cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌宇宙论",
+   "en": "chaotic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿宇宙论",
+   "en": "Newtonian cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数值宇宙学",
+   "en": "numerical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相对论宇宙论",
+   "en": "relativistic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "运动学宇宙学",
+   "en": "kinematic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙[学]常数",
+   "en": "cosmological constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学距离",
+   "en": "cosmological distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "决策研究",
+   "en": "decision study\",\"D study",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "Examine / Study",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效性和安全性研究",
+   "en": "safety and efficacy studies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冠状病毒工作组",
+   "en": "Coronavirus Study Group (CSG)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长局",
+   "en": "additional inning\",\"extra inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收紧",
+   "en": "haul\",\"pull in\",\"haul in\",\"take in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑格尔哲学",
+   "en": "Hegelianism",
+   "source": "马克思主义",
+   "wordNumber": "01.0112",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔建立的以绝对精神理念为核心的哲学体系。绝对精神作为世界本原，经过纯粹逻辑、自然、人类社会和人类精神等发展阶段，最终在哲学中回归，实现思维与存在绝对同一。黑格尔认为，内在矛盾是事物发展的源泉，以辩"
+  },
+  {
+   "cn": "黑格尔主义",
+   "en": "Hegelianism",
+   "source": "马克思主义",
+   "wordNumber": "01.0113",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔哲学体系影响下不同时期的哲学运动。黑格尔去世前后黑格尔派分化为左（青年黑格尔派）、中（中间派）、右（老年黑格尔派）三派。左派推崇启蒙精神，右派接近旧体系。青年黑格尔派内部的革命派转向唯物主义和马"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "宇宙观",
+   "en": "cosmology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "在社会制度和人的行动中，体现与整个宇宙的关系及宇宙本身的构成和变化规律相关的认识论和信仰体系。不同文化大都基于对世间和超世间世界的关系来呈现其对整个存在的基本看法。"
+  },
+  {
+   "cn": "历史溯源法",
+   "en": "longitudinal studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0665",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在某一社区建立固定调查点，对于一个群体进行有间隔性的长期持续不断的观察，以研究这一群体在总体上或局部上发生的演变，从中发现历史演变的特点、原因和规律。"
+  },
+  {
+   "cn": "受众研究",
+   "en": "audience studies",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "对大众媒介的传播对象的研究。通过社会调查或社会科学的各种统计和分析技术把握大众传播对象的各项特征，如年龄、性别、教育程度、心理特点等，了解传播信息对接受者的影响和接受程度，以便改善和提升传播效果。"
+  },
+  {
+   "cn": "身体研究",
+   "en": "body studies",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "探讨高度现代性社会条件下人与其身体之间关联方式的反思性，亦即自我、身体与死亡之间关系的文明化身体的跨学科研究。"
+  },
+  {
+   "cn": "青年研究",
+   "en": "youth studies",
+   "source": "社会学名词",
+   "wordNumber": "3.16.2.3",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年研究",
+   "subjectName": "青年研究",
+   "publishYear": "2025",
+   "definition": "关注青年的发展、历史、文化、心理和政治的跨学科研究领域。不仅研究具体的青年文化，也研究青年在所处社会中的关系、角色和责任，研究者来自社会学、教育学、文学、历史、政治学、宗教学等人文社会科学学科。"
+  },
+  {
+   "cn": "双语学",
+   "en": "bilingual studies",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究言语社区内使用的两种或多种语言或方言间关系的学问。"
+  },
+  {
+   "cn": "《四川土夷考》",
+   "en": "Study on Tuyi in Sichuan Province",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0303",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古书名。明朝人谭希思撰。系作者在四川为官期间，命布政司官属取全蜀土司土府资料汇集而成。是研究四川土司之珍贵史料。"
+  },
+  {
+   "cn": "队列研究",
+   "en": "cohort study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "将研究人群按是否暴露于某因素或暴露的程度进行分组，在特定的观察时间内，追踪各组与暴露因素相关的结局并比较其差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。"
+  },
+  {
+   "cn": "个案研究",
+   "en": "case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对发生在某一或较少数自然条件下的社会现象进行深入理解的研究策略。"
+  },
+  {
+   "cn": "跨文化研究",
+   "en": "crosscultural study",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.10",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "对他者文化进行的研究行为。起初是人类学之父泰勒(E.Tylor）、摩尔根(L.H.Morgan）建立起的一种解释他者社会文化现象的比较方法，也是当初人类学中文化进化论者广泛使用的方法，运用传统的历史资"
+  },
+  {
+   "cn": "案例分析",
+   "en": "case study",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将案例和一些列思考题提供给学习者，要求学习者根据自己的认知（所学过的知识、生活经验、价值观等）进行思考和分析讨论，提出自己的看法和办法的教学方法。"
+  },
+  {
+   "cn": "学习指导",
+   "en": "study guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "在教学环境中，教师以学生学习的心理过程为依据，为学生的自主学习等创设有利环境，对学生的学习动机、过程、方法进行指导和引导，从而促进学生发展的教学行为方式。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "学习方法",
+   "en": "study method",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "通过学习实践总结出的具有通用性的解决相关问题的规则和程序。"
+  },
+  {
+   "cn": "文献计量法",
+   "en": "bibliometric study",
+   "source": "社会医学名词",
+   "wordNumber": "4.7.5",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "文献研究",
+   "publishYear": "2025",
+   "definition": "针对某一具体研究问题所发表的所有文献，采用统计学量化分析方法描述文献在年代、作者、主题等方面的分布结构及变化规律，从而评价和预测该研究的现状及发展趋势的方法。"
+  },
+  {
+   "cn": "流行病学调查",
+   "en": "epidemiologic study",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "对涉及食物中毒人群中的疾病或者健康状况分布及其决定因素进行调查研究，提出控制食物中毒的措施对策"
+  },
+  {
+   "cn": "社区研究",
+   "en": "community study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0673",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "使用人类学中的田野工作、参与观察、访谈等手段，在具有文化相似性的小型社会中进行相关研究的社会科学基础研究方法。人类学家主张将社区视为一个“整体”，对社区中的政治、经济及文化等方面进行彻底而细微的观察与"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

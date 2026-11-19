@@ -1,0 +1,752 @@
+{
+ "key": "pan-logism",
+ "term": "pan-logism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:54:42+00:00",
+ "status": "ok",
+ "note": "variant=pan-logism; 审定公布名词库=2527; 海峡两岸名词对照库=555; 其他来源数据库=192; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "摇镜头",
+   "en": "pan",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.084",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "摄影机机位不做位移运动，利用三脚架、云台拍摄方向可变动的功能让机身做上下、左右转动的镜头手法。"
+  },
+  {
+   "cn": "漫游",
+   "en": "pan",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.304",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将视觉窗口进行向上、向下或向两侧移动，以显示位于视觉窗口外的地理数据集区域。"
+  },
+  {
+   "cn": "平移",
+   "en": "pan",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.333",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "一种操作电子地图的方法。不改变目前计算机的显示比例尺，将显示窗口进行向上、向下或向两侧移动，以显示位于显示窗口外的地理数据集区域。"
+  },
+  {
+   "cn": "淘选",
+   "en": "panning",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.007",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_离心技术",
+   "subjectName": "离心技术",
+   "publishYear": "2024",
+   "definition": "（1）粗细不等的颗粒物质按其在液体中浮力或沉降速度的差异进行分离的方法。（2）特指从大容量的文库筛选过程中富集所需要克隆的过程。如从噬菌体全套抗体文库中用固相化的抗原富集能够表达特异抗体噬菌体的过程。"
+  },
+  {
+   "cn": "漫游",
+   "en": "panning",
+   "source": "建筑学名词",
+   "wordNumber": "09.0173",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "不断地使显示图像进行移动，以得到图像运动视觉效果的操作。"
+  },
+  {
+   "cn": "聚丙烯腈",
+   "en": "polyacrylonitrile,PAN",
+   "source": "化学名词",
+   "wordNumber": "05.0245",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "结构重复单元为<img src='/root/syzx/static/spz/huaxue2.05.0245.1.png'/>的聚合物。"
+  },
+  {
+   "cn": "盘头",
+   "en": "pan tou",
+   "source": "风景园林名词",
+   "wordNumber": "07.0476",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "硬山墀头戗檐砖下的二线道砖。"
+  },
+  {
+   "cn": "泛基因组",
+   "en": "pan-genome",
+   "source": "农学名词",
+   "wordNumber": "06.358",
+   "subjectFullName": "作物基因组学与遗传育种_作物基因组学",
+   "subjectName": "作物基因组学",
+   "publishYear": "2025",
+   "definition": "一个物种全部基因的集合。包括“核心泛基因组(core pan-genome)”“壳泛基因组(shell pan-genome)”“云泛基因组（cloud pan-genome）”。核心泛基因组由在所有"
+  },
+  {
+   "cn": "盐田",
+   "en": "salt pan",
+   "source": "风景园林名词",
+   "wordNumber": "04.0207",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "借助于蒸发制盐的大型盐池。"
+  },
+  {
+   "cn": "犁底层",
+   "en": "plow pan",
+   "source": "农学名词",
+   "wordNumber": "09.064",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "长期受农具耕犁压实，在耕作层下形成的紧实亚表层。"
+  },
+  {
+   "cn": "圆盘造粒机",
+   "en": "pan granulator",
+   "source": "农学名词",
+   "wordNumber": "09.358",
+   "subjectFullName": "土壤肥料_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2025",
+   "definition": "一个具有一定仰角和倾角且转速可调的浅盘型造粒机。"
+  },
+  {
+   "cn": "判日",
+   "en": "pan ri",
+   "source": "档案学名词",
+   "wordNumber": "07.03.021",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "文件标明日期，由主管官用朱笔填写，称为“判日”。"
+  },
+  {
+   "cn": "受液盘",
+   "en": "receiving pan",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0818",
+   "subjectFullName": "化工（八）_化工设备_塔设备",
+   "subjectName": "塔设备",
+   "publishYear": "2021",
+   "definition": "接受上一层塔盘自降液管流下的液体，使其水平流入塔盘的构件。有凹形与平形两种。"
+  },
+  {
+   "cn": "过滤圆盘",
+   "en": "filter pan",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1228",
+   "subjectFullName": "化工（八）_化工设备_分离设备",
+   "subjectName": "分离设备",
+   "publishYear": "2021",
+   "definition": "由扇形滤板组成的圆盘形过滤部件。"
+  },
+  {
+   "cn": "槽型板式输送机",
+   "en": "pan conveyor",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1776",
+   "subjectFullName": "化工（八）_化工设备_固体物料输送设备",
+   "subjectName": "固体物料输送设备",
+   "publishYear": "2021",
+   "definition": "以槽型构件作为承载构件的板式输送机。"
+  },
+  {
+   "cn": "全面编辑",
+   "en": "pan-editing",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.027",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "将核苷酸广泛插入核苷酸数目已缩减的RNA分子中，以产生有功能的RNA的过程。"
+  },
+  {
+   "cn": "连续煮糖罐",
+   "en": "continuous pan",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1170",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "真空条件下，将糖浆、糖蜜连续地煮成糖膏的设备。"
+  },
+  {
+   "cn": "晶种罐",
+   "en": "seed pan",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1171",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "养晶用的设备。"
+  },
+  {
+   "cn": "盘式烧结机",
+   "en": "sintering pan",
+   "source": "冶金学名词",
+   "wordNumber": "05.0593",
+   "subjectFullName": "冶金学_钢铁冶金_烧结与球团",
+   "subjectName": "烧结与球团",
+   "publishYear": "2019",
+   "definition": "备有简易的布料、点火、抽风机械，采用间歇作业方式的小型烧结，有圆形与矩形两种。"
+  },
+  {
+   "cn": "轮碾机",
+   "en": "pan mill",
+   "source": "冶金学名词",
+   "wordNumber": "05.0360",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "以碾砣和碾盘为主要工作部件而构成的物料破粉碎或混练的设备。"
+  },
+  {
+   "cn": "平移",
+   "en": "pan\",\"panning\",\"translation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "淘选",
+   "en": "panning",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缸内晶种",
+   "en": "pan seed\",\"pan seeding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "标准蒸发器",
+   "en": "standard pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "浮式蒸发皿",
+   "en": "floating pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸发皿",
+   "en": "evaporation pan",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "蒸发皿蒸发",
+   "en": "pan evaporation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "沉降盘",
+   "en": "sedimentation pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "锅盐",
+   "en": "pan salt",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硫化锅",
+   "en": "vulcanizing pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "真空锅",
+   "en": "vacuum pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "挡板塔盘",
+   "en": "baffle pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加料盘",
+   "en": "pan feeder",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "上光盘",
+   "en": "polishing pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "排管式蒸发罐",
+   "en": "calandria pan",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "泛星计划 (=全景巡天望远镜和快速反应系统)",
+   "en": "Pan-STARRS",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "包衣锅",
+   "en": "coating pan",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "锅包衣",
+   "en": "pan coating",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "泛顶极",
+   "en": "panclimax\",\"pan-climax",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "盐场",
+   "en": "saltern\",\"salt pan",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "泛组织协同",
+   "en": "pan-organizational collaboration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "西方式握拍",
+   "en": "frying-pan grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泛美技术标准委员会",
+   "en": "Pan American Standards Commission (COPANT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "利己主义",
+   "en": "egoism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准星",
+   "en": "pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鼻夹",
+   "en": "pin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垫",
+   "en": "pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "man-to-man checking\",\"man-to-man marking\",\"man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "man-to-man defense\",\"man-to-man marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触板",
+   "en": "contact pad\",\"touch pad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球迷",
+   "en": "fan\",\"supporter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人盯人防守",
+   "en": "individual marking\",\"man-to-man marking\",\"man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破人盯人防守",
+   "en": "man-to-man offense\",\"offense against man-to-man defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结节性多动脉炎",
+   "en": "polyarteritis nodosa，PAN",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种累及中小动脉的节段性、坏死性血管炎。随受累动脉的部位不同，临床表现多样，可影响皮肤（结节或破溃）、周围神经系统（多发性单神经炎）和内脏血管（狭窄或微动脉瘤）。"
+  },
+  {
+   "cn": "泛文化研究",
+   "en": "pan-culture study",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0656",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "对全世界范围的所有已知文化或所有已知原始文化的研究。这种研究是将整个社会或文化作为研究个案，研究这些社会中具有代表性的样本，其目的是验证某些关于人类社会或文化的一般理论，其方法是统计分析方法。泛文化研"
+  },
+  {
+   "cn": "泛非工人大会",
+   "en": "pan African workers congress",
+   "source": "马克思主义",
+   "wordNumber": "05.0261",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "世界劳工联合会于1959年在非洲建立的地区性工会组织，旨在扩大世界劳联在非洲工人运动中的影响。为维护非洲工会运动的团结，在非洲工会统一组织成立后，于1974年自行宣布解散。"
+  },
+  {
+   "cn": "班禅额尔德尼",
+   "en": "Pan chen Aer te ni",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0438",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教格鲁派活佛转世系统称号，“班禅”意为大学者，“额尔德尼”意为“宝师”。其名称始于1583 年，格鲁派高僧罗桑确吉坚赞被认定是罗桑顿珠的转世，1645 年固始汗赠其“班禅博克多”（智之意）称号，"
+  },
+  {
+   "cn": "萨班•贡噶坚赞",
+   "en": "Sa pan kun dgav rgyal mtshan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.041",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1182 年—1251 年）藏族著名历史人物。原名贝丹顿珠，后藏萨迦人，属款氏家族，他是萨迦派第四代祖师，也是一位学识渊博之学者，世人尊称其为萨迦“班智达” （大学者），1216 年任萨迦寺座主，1"
+  },
+  {
+   "cn": "南蛮",
+   "en": "Nan Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0152",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代南方少数民族泛称或总称；最早作为“五方之民”（东夷、南蛮、西戎、北狄）之一，见于周《礼记》，与苗、僚、濮、越相关，包涵苗瑶、壮侗、氐羌、土家等族系之先民。亦有融于汉族者。"
+  },
+  {
+   "cn": "现收现付制",
+   "en": "pay-as-you-go plan",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以同期所需支付的社会保险费用为依据，当期筹集当期使用，保持近期收付平衡的一种保险制度"
+  },
+  {
+   "cn": "整体观",
+   "en": "holism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "把一个文化视为有机整体的观点，又称“全貌观”。强调研究每一文化元素时，都应将其置于整个文化框架中，探讨它与其他文化元素以及各种外界条件之间的内在联系，由此建立一种全面而系统的认识。"
+  },
+  {
+   "cn": "利己主义",
+   "en": "egoism",
+   "source": "马克思主义",
+   "wordNumber": "04.0293",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个人主义的一种公开的表现形式，泛指毫不避讳地把个人利益放在第一位的生活态度，把个人幸福看得高于一切的行为规范。利己主义作为私有制经济的产物，是奴隶主阶级、地主阶级和资产阶级共同的道德原则。利己主义从“"
+  },
+  {
+   "cn": "整体论",
+   "en": "holism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0005",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。人类学观察人类社会文化的手段，主张对所观察的事物做通盘考虑，强调人类整体性的认识论，即将人类社会视为过去、现在和将来的动态的整体，作历时性和共时性双重考察，作生物和文化上"
+  },
+  {
+   "cn": "疼痛",
+   "en": "pain",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "一种与实际或潜在组织损伤相关的不愉快的身体局部或整体的感觉。"
+  },
+  {
+   "cn": "计划",
+   "en": "plan",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作实务中，面对案主的问题，社会工作者和案主一起探讨并确立一套针对性行动的过程，其内容包括解决问题的途径、方法、步骤，可用资源和预期达成的目标等。"
+  },
+  {
+   "cn": "汉族",
+   "en": "Han",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0425",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。中国的主体民族，分布在全国各地。人口12.84 亿人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。汉族的族称，是在中国统一的多民族国家形成、发展过程中确立的。汉族的语言通称汉语，"
+  },
+  {
+   "cn": "满族",
+   "en": "Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。分布于全国各地，以辽宁省最多。人口1042.33 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。语言属阿尔泰语系满–通古斯语族满语支；满文是16 世纪参照蒙古文字母创制的，后"
+  },
+  {
+   "cn": "对数单位",
+   "en": "logit",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.102",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生或一个状态存在的几率的自然对数。"
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "东谢蛮",
+   "en": "Dongxie Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0141",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。主要分布于当今黔东南及黔南一带。因其首领姓谢而得名。"
+  },
+  {
+   "cn": "果冻及果酱类水果罐头",
+   "en": "jam can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.4.7",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以新鲜、冷藏、冷冻或速冻的一种或几种水果为原料，经压榨或打浆等处理后，加入（或不加）白砂糖、柠檬酸和果胶等配料制成的罐藏食品。"
+  },
+  {
+   "cn": "帕伊塔维特拉人",
+   "en": "Pai Tavytera",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0404",
+   "subjectFullName": "民族学与文化学_世界民族_美洲地区",
+   "subjectName": "美洲地区",
+   "publishYear": "2025",
+   "definition": "南美洲瓜拉尼人的一支，位于巴拉圭东部，人口约1 万7 千人（2007 年）。讲民族语言，属瓜拉尼语系。从事农业生产，主要作物为玉米。佩戴木珠和谷物颗粒项链。"
+  },
+  {
+   "cn": "藻类罐头",
+   "en": "algae can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.3.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "选用新鲜、冷藏或干燥良好的藻类，经加工处理、预煮或不预煮，分选装罐后调味或不调味而制成的罐藏食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

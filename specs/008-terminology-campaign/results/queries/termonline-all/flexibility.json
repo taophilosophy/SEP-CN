@@ -1,0 +1,512 @@
+{
+ "key": "flexibility",
+ "term": "flexibility",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:54:52+00:00",
+ "status": "ok",
+ "note": "variant=flexibility; 审定公布名词库=254; 海峡两岸名词对照库=48; 其他来源数据库=9; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.082",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物体受力后变形，作用力失去之后物体自身不能恢复原来形状的一种物理性质。"
+  },
+  {
+   "cn": "曲挠性",
+   "en": "flexibility",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0099",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "橡胶承受反复周期弯曲变形的性能。"
+  },
+  {
+   "cn": "柔韧性",
+   "en": "flexibility",
+   "source": "运动医学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "人体各关节的活动幅度，即关节的肌肉、肌腱和韧带等软组织的伸展能力。通常用关节活动度来表示。"
+  },
+  {
+   "cn": "［操作］弹性",
+   "en": "flexibility",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0761",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "塔设备在能够维持正常操作的情况下，最大负荷(即最大处理量)与最小负荷(即最小处理量)之比。"
+  },
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "生物物理学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质结构",
+   "subjectName": "蛋白质结构",
+   "publishYear": "2018",
+   "definition": "对于给定外界扰动，肽链会发生较大构象变化的特性。可衡量蛋白质构象发生改变的可能性。二级结构单元一般具有较小的柔性，而环区和无规卷曲区域的柔性往往较大。"
+  },
+  {
+   "cn": "灵活性",
+   "en": "flexibility",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.1395",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机管理",
+   "subjectName": "计算机管理",
+   "publishYear": "2018",
+   "definition": "高质量程序应具备的性质之一。通常指程序的易修改、易扩充和易改进等特性。"
+  },
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0089",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "制造系统响应内外环境变化的能力。"
+  },
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "药学名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子能够通过单键自由旋转改变其构象的性质。"
+  },
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "化学工程名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "柔度",
+   "en": "flexibility,compliance",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.021",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[操作]弹性",
+   "en": "flexibility,turndown ratio",
+   "source": "化学工程名词",
+   "wordNumber": "03.483",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_气液传质设备",
+   "subjectName": "气液传质设备",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "软聚氯乙烯",
+   "en": "flexible polyvinylchloride,flexible PVC",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0386",
+   "subjectFullName": "材料科学技术_高分子材料_塑料",
+   "subjectName": "塑料",
+   "publishYear": "2011",
+   "definition": "加入较多(通常大于25%)增塑剂的聚氯乙烯。其柔韧性和加工性比较好，常作为膜材料及软管材料。"
+  },
+  {
+   "cn": "柔性分析",
+   "en": "flexibility analysis",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.423",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "对管道自身的变形吸收热胀、冷缩和其他位移的能力进行的判断和分析。"
+  },
+  {
+   "cn": "柔性系数",
+   "en": "flexibility factor",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.430",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "在管道元件中，由给定的力矩产生的每单位长度元件的角变形，与相同直径及厚度的直管受同样力矩产生的角变形的比值。"
+  },
+  {
+   "cn": "弹性工资",
+   "en": "flexibility wages",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.314",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "依据一定标准，按照一定尺度自动调整工资数额的一种工资形式。"
+  },
+  {
+   "cn": "柔度矩阵",
+   "en": "flexibility matrix",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.050",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "柔度法",
+   "en": "flexibility method",
+   "source": "土木工程名词",
+   "wordNumber": "02.147",
+   "subjectFullName": "土木工程_工程力学_结构力学",
+   "subjectName": "结构力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "柔度矩阵",
+   "en": "flexibility matrix",
+   "source": "土木工程名词",
+   "wordNumber": "02.148",
+   "subjectFullName": "土木工程_工程力学_结构力学",
+   "subjectName": "结构力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "调磁变速比",
+   "en": "flexibility ratio",
+   "source": "电气工程名词",
+   "wordNumber": "20.163",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "挠性罗经",
+   "en": "flexibility gyrocompass",
+   "source": "航海科技名词",
+   "wordNumber": "06.0083",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "变通性，灵活性",
+   "en": "flexibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灵活性",
+   "en": "flexibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔韧性",
+   "en": "flexibility",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "柔性",
+   "en": "flexibility",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "软聚氯乙烯",
+   "en": "flexible polyvinylchloride\",\"flexible PVC",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "挠性罗经",
+   "en": "flexibility gyrocompass",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "挠性陀螺仪",
+   "en": "flexibility gyroscope",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "操作弹性",
+   "en": "operating flexibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "链柔性",
+   "en": "chain flexibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "货币弹性",
+   "en": "money flexibility",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "柔性链",
+   "en": "flexible chain",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "柔性链",
+   "en": "flexible chain",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "浮动汇率",
+   "en": "flexible rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "伸缩关税，弹性关税",
+   "en": "flexible tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "弹性生产",
+   "en": "flexible production",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "柔性专业化",
+   "en": "flexible specialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "柔性波导",
+   "en": "flexible waveguide",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软波导",
+   "en": "flexible waveguide",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软导线",
+   "en": "flexible conductor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹[挠]性联轴器",
+   "en": "flexible coupling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "柔韧性",
+   "en": "flexibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔韧性",
+   "en": "flexibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "活法",
+   "en": "Literary Flexibility",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "柔性制造",
+   "en": "flexible manufacturing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缺乏柔韧性",
+   "en": "lack of flexibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多渠道灵活就业",
+   "en": "flexible employment through multiple channels",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灵活复工",
+   "en": "to apply a flexible approach to the resumption of work",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "柔韧性",
+   "en": "flexibility",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体各关节的活动幅度，即关节的肌肉、肌腱和韧带等软组织的伸展能力。通常用关节活动度来表示。"
+  },
+  {
+   "cn": "软式内镜",
+   "en": "flexible endoscope",
+   "source": "消毒学",
+   "wordNumber": "4.6.23.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "可插入人体体腔和脏器内腔进行直接观察，用于疾病诊断、治疗的可弯曲内镜。"
+  },
+  {
+   "cn": "原则性和灵活性相结合",
+   "en": "combine principle with flexibility",
+   "source": "马克思主义",
+   "wordNumber": "03.0432",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东强调的制定一切政策和策略的指导原则。毛泽东《在中国共产党第七届中央委员会第二次全体会议上的报告》中指出:“我们的原则性必须是坚定的，我们也要有为了贯彻原则性的一切许可的和必需的灵活性。”根据政治"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

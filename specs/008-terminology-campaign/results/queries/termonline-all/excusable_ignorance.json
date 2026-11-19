@@ -1,0 +1,312 @@
+{
+ "key": "excusable ignorance",
+ "term": "excusable ignorance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:05:06+00:00",
+ "status": "ok",
+ "note": "variant=excusable ignorance; 审定公布名词库=20; 海峡两岸名词对照库=7; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "免疫忽视",
+   "en": "immunological ignorance,immune ignorance",
+   "source": "免疫学名词",
+   "wordNumber": "3.279",
+   "subjectFullName": "免疫学_免疫病理、临床免疫_移植免疫及其他",
+   "subjectName": "移植免疫及其他",
+   "publishYear": "2007",
+   "definition": "自身耐受的一种被动形式，指体内存在自身反应性淋巴细胞和自身抗原，但并不发生对自身抗原的免疫应答，可能由调节性T细胞或抑制性T细胞的负调节作用所致。"
+  },
+  {
+   "cn": "可原谅的拖期",
+   "en": "excusable delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0419",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "对承包商来说，若工期延误不是承包商的责任，这种工期延误是可以得到原谅的拖期。"
+  },
+  {
+   "cn": "互斥变迁",
+   "en": "excusive transition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0647",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个佩特里网中，若两个变迁的前集有公共元素（库所），且该库所在运行过程中最多有一个标码，那么说它们为互斥变迁，因为任何时候，它们中最多只有一个可发生。"
+  },
+  {
+   "cn": "理性的无知",
+   "en": "rational ignorance",
+   "source": "经济学名词",
+   "wordNumber": "05.065",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在面对信息搜寻上的成本和不确定性时不获取某些知识的行为。也就是说，在知识搜寻成本高昂而成果又不确定的情况下，人们只获取特定的部分信息并保留对其他信息的无知是合乎理性的。“无知”是理性的表现，它是一"
+  },
+  {
+   "cn": "免疫忽略",
+   "en": "immunological ignorance",
+   "source": "器官移植学名词",
+   "wordNumber": "02.031",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "自身耐受的一种被动形式。体内存在自身反应性淋巴细胞和自身抗原，但并不发生对自身抗原的免疫应答，可能由调节性T细胞或抑制性T细胞的负调节作用所致。"
+  },
+  {
+   "cn": "可遗坐标",
+   "en": "ignorable coordinate",
+   "source": "物理学名词",
+   "wordNumber": "02.0598",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可遗坐标",
+   "en": "ignorable coordinate",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不可原谅的拖期",
+   "en": "non-excusable delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0420",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "由于承包商的原因引起的，如施工组织不好，工效不高，设备材料供应不足，以及应由承包商担任风险的工期延误。"
+  },
+  {
+   "cn": "无知之幕",
+   "en": "veil of ignorance",
+   "source": "经济学名词",
+   "wordNumber": "09.039",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "罗尔斯(John Bordley Rawls)在《正义论》中提出。他强加给要确定支配社会基本结构的正义原则的参加者的主要条件：所有的参加者都处在无知之幕背后，每一个人都不知道自己将会在走出这个幕布后将"
+  },
+  {
+   "cn": "可原谅并给予补偿的拖期",
+   "en": "excusable and compensable delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0421",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "对于可原谅的拖期，如果拖期的责任者是业主或咨询工程师，承包商不仅得到工期延长，还可得到经济补偿的拖期。"
+  },
+  {
+   "cn": "可原谅但不给予补偿的拖期",
+   "en": "excusable but not compensable delay",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0422",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_风险管理",
+   "subjectName": "风险管理",
+   "publishYear": "2016",
+   "definition": "由于客观原因造成的，承包商得到工期延长，但得不到经济补偿的拖期。"
+  },
+  {
+   "cn": "可兴奋细胞",
+   "en": "excitable cell",
+   "source": "兽医学名词",
+   "wordNumber": "04.061",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "接受刺激后容易产生动作电位的细胞。包括神经细胞、肌细胞和腺细胞。"
+  },
+  {
+   "cn": "可兴奋细胞",
+   "en": "excitable cell",
+   "source": "生理学名词",
+   "wordNumber": "02.302",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可兴奋细胞",
+   "en": "excitable cell",
+   "source": "生物物理学名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "生物物理学_神经生物物理学_神经信号产生",
+   "subjectName": "神经信号产生",
+   "publishYear": "2018",
+   "definition": "能自发或在外界信号刺激下产生动作电位的细胞。典型的有神经细胞、肌细胞和腺细胞等。"
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0639",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种可由操作系统启动运行的二进制文件。由链接程序将目标文件链接而成。"
+  },
+  {
+   "cn": "可执行程序",
+   "en": "executable program",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0330",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "可以直接在执行环境（操作系统或虚拟机）上加载执行的程序。通常是二进制编码形式。"
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.317",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在操作系统中，可加载到内存中，并由操作系统加载程序执行的代码。它可以是 .exe文件、.sys文件、.com文件、.bat文件等。"
+  },
+  {
+   "cn": "胃肠道可兴奋细胞",
+   "en": "gastrointestinal excitable cell",
+   "source": "消化病学名词",
+   "wordNumber": "17.008",
+   "subjectFullName": "消化病_功能性胃肠病_功能性胃肠病生理",
+   "subjectName": "功能性胃肠病生理",
+   "publishYear": "2022",
+   "definition": "胃肠道解剖范围内受到阈上刺激后能产生动作电位的细胞。一般认为，神经细胞、腺细胞、肌细胞都属于可兴奋细胞，受刺激后都能基于电压门控钠通道或电压门控钙通道激活而产生动作电位。"
+  },
+  {
+   "cn": "可执行测试套",
+   "en": "executable test suite",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.316",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用来对其他系统进行测试的一整套方法。"
+  },
+  {
+   "cn": "价格排他性公共品",
+   "en": "price excludable public goods",
+   "source": "经济学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "那些效益可以定价，从而可以在技术上实现排他的公共物品或劳务。"
+  },
+  {
+   "cn": "免疫忽视",
+   "en": "immunological ignorance， immune ignorance",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多数无知现象",
+   "en": "pluralistic ignorance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "漠视型父母",
+   "en": "ignoring parents",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可执行程序",
+   "en": "executable program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可执行测试套件",
+   "en": "executable test suite",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "痴",
+   "en": "Obsessiveness / Ignorance / Perplexity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "野无遗贤",
+   "en": "No Sagacious Person Ignored",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蒙以养正",
+   "en": "Enlighten the Ignorant and Make Them Follow the Right Path",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

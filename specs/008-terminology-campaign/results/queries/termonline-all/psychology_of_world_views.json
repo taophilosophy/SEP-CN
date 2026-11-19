@@ -1,0 +1,662 @@
+{
+ "key": "psychology of world views",
+ "term": "Psychology of World Views",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:04:07+00:00",
+ "status": "ok",
+ "note": "variant=Psychology of World Views; 审定公布名词库=10000; 海峡两岸名词对照库=7716; 其他来源数据库=1907; 预公布名词数据库=2764; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "世界观",
+   "en": "world view",
+   "source": "教育学名词",
+   "wordNumber": "01.186",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们对世界以及人与世界关系的总的、根本的看法。"
+  },
+  {
+   "cn": "视场",
+   "en": "viewing field,field of view",
+   "source": "物理学名词",
+   "wordNumber": "04.0469",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "视景",
+   "en": "view",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2021",
+   "definition": "从一个给定观察点所见的客观画面。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0217",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "根据有关标准和规定，用正投影法将机件向投影面投影所得到的图形。"
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0009",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "供用户和数据库管理员了解和使用的数据库的逻辑结构。每个视图抽象地描述了整个数据库的一个侧面。"
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "航海科技名词",
+   "wordNumber": "07.0293",
+   "subjectFullName": "航海科学技术_航海保证",
+   "subjectName": "航海保证",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "工程观",
+   "en": "views of engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程活动的基本观点和基本认识。包括工程系统观、工程伦理观、工程生态观、工程文化观等。"
+  },
+  {
+   "cn": "科学观",
+   "en": "view of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "对科学的基本的总体看法。通过把科学作为探究和反思的对象，概括科学的性质、特征，提出关于科学的总体性的、基础性的观念。"
+  },
+  {
+   "cn": "自然观",
+   "en": "view of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "自然辩证法_自然哲学_自然观",
+   "subjectName": "自然观",
+   "publishYear": "2024",
+   "definition": "对自然界本源、结构、演化规律以及人与自然关系等的总看法。是世界观的组成部分和重要基石。经历了神话或原始宗教自然观、古代朴素唯物主义自然观、中世纪宗教神学自然观、近代机械论自然观、辩证唯物主义自然观等典"
+  },
+  {
+   "cn": "物质观",
+   "en": "view of matter",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.338",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "关于物质的构成、结构、运动形式及其相互作用规律的总体性观点。大致经历了以自然哲学、经典物理和当代物理学为背景的三个阶段。"
+  },
+  {
+   "cn": "视场",
+   "en": "field of view",
+   "source": "天文学名词",
+   "wordNumber": "01.120",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "一个天文观测装置在指向固定时，所能观测到的天区的大小。"
+  },
+  {
+   "cn": "人生观",
+   "en": "view of life",
+   "source": "教育学名词",
+   "wordNumber": "01.187",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们对人生的目的、价值和意义的根本看法和态度。包括幸福观、苦乐观、生死观、荣辱观、恋爱观等。"
+  },
+  {
+   "cn": "性心理学",
+   "en": "psychology of sex,sexual psychology",
+   "source": "计划生育名词",
+   "wordNumber": "08.003",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "研究人类的性心理活动及其规律的学科。是心理学的一个分支。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "aging psychology,psychology of aging",
+   "source": "心理学名词",
+   "wordNumber": "06.005",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "发展心理学的一个分支。研究老年期(60岁以上)个体的心理活动及变化规律的学科。"
+  },
+  {
+   "cn": "世界图景",
+   "en": "picture of world",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.007",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "基于某种思想认识或者文化传统，人在自己的概念框架中形成的关于经验世界的总括性整体图景。如辩证唯物主义的世界图景和宗教的世界图景等。"
+  },
+  {
+   "cn": "人工物世界",
+   "en": "world of artifacts",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "由各种各样的人工物所组成的人类生存环境的总称。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "视场",
+   "en": "field of view\",\"viewing field",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "视图",
+   "en": "view",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对景图",
+   "en": "view",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "老年心理学",
+   "en": "psychology of aging\",\"aging psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "创造心理学",
+   "en": "creative psychology\",\"psychology of creative",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表现世界",
+   "en": "world of appearances",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "差异世界",
+   "en": "world of difference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习心理学",
+   "en": "psychology of learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律心理学",
+   "en": "psychology of law",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "女性心理学，妇女心理学",
+   "en": "women psychology\",\"female psychology\",\"feminine psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view\",\"FOV",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view\",\"FOV",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自我心理学",
+   "en": "ego psychology\",\"self psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "咨询心理学",
+   "en": "counseling psychology\",\"consulting psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "赤道面观",
+   "en": "equatorial view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极面观",
+   "en": "polar view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视场",
+   "en": "field of view (FOV)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界银行",
+   "en": "World Bank",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "镜像世界",
+   "en": "mirror world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟世界",
+   "en": "virtual world",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界纪录",
+   "en": "world record",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "健康观",
+   "en": "view of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.03",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对健康的根本观点和态度。传统的健康观认为“无病即健康”，世界卫生组织提出：“健康不仅指一个人身体有没有出现疾病或虚弱现象，而是指一个人生理、心理和社会适应能力的完好状态”。人的健康应是综合性的、全"
+  },
+  {
+   "cn": "死亡观",
+   "en": "view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.026",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对死亡的根本观点。不同文化、不同宗教有着不同的死亡态度。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "世界",
+   "en": "world",
+   "source": "马克思主义",
+   "wordNumber": "01.0018",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全部事物组成的统一的集合体，包括自然界、人类社会和思维。世界统一于物质，并处于永恒运动、变化和发展之中；世界是可以被认识的，但人类在特定历史条件下的认识无法穷尽世界。"
+  },
+  {
+   "cn": "宗教心理学",
+   "en": "psychology of religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "将宗教现象当作研究对象加以描述、进而以心理学理论与原则加以解释的研究领域。"
+  },
+  {
+   "cn": "老年心理学",
+   "en": "psychology of aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.3.6",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年和老龄化研究相关学科",
+   "subjectName": "老年和老龄化研究相关学科",
+   "publishYear": "2025",
+   "definition": "研究老年期个体和群体在与环境相互作用过程中各个阶段心理的发生、发展和变化过程中的制约因素、特点和规律的科学。"
+  },
+  {
+   "cn": "发现的心理学",
+   "en": "psychology of discovery",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.187",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "科学发现不遵从普遍适用的合理性规则，因而不是逻辑学而只能是心理学的研究对象。"
+  },
+  {
+   "cn": "唯物主义死亡观",
+   "en": "materialistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是一种自然现象的观念。世界上任何事物都要经历产生、发展和消亡的过程，死亡是不以人的意志为转移的客观规律，精神依赖于物质性的身体而存在，否认灵魂及灵魂不灭。"
+  },
+  {
+   "cn": "二元论死亡观",
+   "en": "dualistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "一种混合着唯心主义和唯物主义的死亡观念。认为灵魂和身体是两个独立的实体，死亡是灵魂与身体的分离，身体消亡而灵魂不灭。"
+  },
+  {
+   "cn": "唯心主义死亡观",
+   "en": "idealistic view of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为死亡是超自然现象的观念。认为人的灵魂不依赖于物质性的身体而存在，灵魂不灭，死亡是灵魂对尘世的超脱。"
+  },
+  {
+   "cn": "核爆炸景象",
+   "en": "view of nuclear explosion",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.45",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核爆炸时，产生特异的外观景象。除地下（水下）爆炸外，其共同的特点是依次出现闪光、火球、蘑菇状烟云，并发出巨大响声。"
+  },
+  {
+   "cn": "历史观",
+   "en": "historical view",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0138",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对历史发展演变规律的认知，包括对自身国家、民族、文化发展历史的认同和认知，以及自身国家、民族、文化同他者交往历史的认知。在中国，核心是对中华人民共和国、中华民族发展历史的认同。"
+  },
+  {
+   "cn": "健康观",
+   "en": "health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "人类对健康与疾病的本质认识，建立在特定医学模式基础上，并随着医学模式的演变而改变。"
+  },
+  {
+   "cn": "世界的物质性",
+   "en": "materiality of the world",
+   "source": "马克思主义",
+   "wordNumber": "01.0193",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界的本原是不依赖于意识而存在但又被意识所反映的客观实在。"
+  },
+  {
+   "cn": "世界多样性",
+   "en": "diversity of the world",
+   "source": "马克思主义",
+   "wordNumber": "04.0193",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我们党在世界多极化全球化趋势下提出来的政治理论新思维。它不仅形成了我们党和国家在新时期的国际战略构想,而且发展创新了马克思主义世界观方法论,已经成为党在新时期制定方针政策，建设有中国特色社会主义伟大事"
+  },
+  {
+   "cn": "世界记忆遗产",
+   "en": "memory of the world",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0058",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由世界记忆工程国际咨询委员会（the International Advisory Committee，IAC）推荐、由联合国教科文组织总干事认可的、符合世界重要性和突出普遍价值标准的档案文献遗产。"
+  },
+  {
+   "cn": "社会世界",
+   "en": "social world",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "广义指人类创造的一切事物的总和；狭义指个人参与或生活于其中，但又与之相对的人们有意义互动的范围。与“自然界”相对。"
+  },
+  {
+   "cn": "小世界",
+   "en": "small-world",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "网络分析中对陌生人之间距离的一种论述，认为现实社会中陌生人关系的距离比人们感受到的要近很多，其中最为典型的“六度分隔假设”认为，连接两个陌生人的最短连接数不超过6步，这在米尔格拉姆(Milgram）等"
+  },
+  {
+   "cn": "世界体系",
+   "en": "world-system",
+   "source": "社会学名词",
+   "wordNumber": "2.9.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_世界体系理论",
+   "subjectName": "世界体系理论",
+   "publishYear": "2025",
+   "definition": "大于任何从法律上定义的政治单位，具有特定范围、结构、成员集团、生命周期、合理规则和凝聚力的经济实体和社会体系。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "simple enumerative induction",
+ "term": "simple enumerative induction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:00:39+00:00",
+ "status": "ok",
+ "note": "variant=simple enumerative induction; 审定公布名词库=4798; 海峡两岸名词对照库=1022; 其他来源数据库=128; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "枚举归纳",
+   "en": "enumerative induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.141",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "列举出某一类事物的部分对象具有某种属性，且没有遇到相反情况，于是得出这一类事物都具有这种属性的一般性结论的归纳推理。与“不完全归纳”相近。"
+  },
+  {
+   "cn": "电子号码",
+   "en": "ENUM",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.153",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "把E.164电话号码映射为域名的一种标准。"
+  },
+  {
+   "cn": "列举目录",
+   "en": "enumerative bibliography",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.342",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "与“分析目录”相对。西方目录学范畴的概念。将每一图书的信息及其材料按照一定的系统化规则进行编排的图书目录。每条记录通常包含作品的著者、题名、出版时间、相关文献等信息，可以通过著者、主题、分类等主要信息"
+  },
+  {
+   "cn": "等级列举式分类法",
+   "en": "enumerative classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.154",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "文献分类法的一种类型。一般以学科体系为依据，尽量列举已知类目，并将所有类目组织成一个等级系统而编成的图书分类法。强调按知识的系统性去组织文献，便于读者按学科、专业系统检索图书资料，也便于图书馆按学科体"
+  },
+  {
+   "cn": "简单枚举归纳推理",
+   "en": "simple enumeration inductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0107",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "根据某类中的部分对象（分子或子类）具有或不具有某一属性，并且未遇反例之前提，推出该类对象全部具有或不具有该属性。"
+  },
+  {
+   "cn": "体系分类法",
+   "en": "hierachical classification,enumerative classification",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0395",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "以科学分类为基础，依据概念的划分与概括原理，把概括文献内容与事物的各种类目组成一个层层隶属、详细列举的等级结构体系的一种文献分类法。"
+  },
+  {
+   "cn": "归纳",
+   "en": "induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "从经验观察的特例中推论出普遍的定律或原理。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0468",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "可诱导基因在一定的环境中表达增强的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "动物学名词",
+   "wordNumber": "4.0551",
+   "subjectFullName": "动物学_动物胚胎学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2021",
+   "definition": "在胚胎发育中，一个细胞群体或组织引起另一个细胞群体或组织定向分化的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "生理学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "核医学名词",
+   "wordNumber": "04.0048",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "通过物理、化学或生物因素活化体内潜伏性病原导致发病的过程。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "20.068",
+   "subjectFullName": "组织学与胚胎学_胚胎学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "在胚胎发育中，一个细胞群体或组织引起另一个细胞群体或组织定向分化的过程。"
+  },
+  {
+   "cn": "入职教育",
+   "en": "induction",
+   "source": "教育学名词",
+   "wordNumber": "09.136",
+   "subjectFullName": "教育学_教师教育_教育、培训层次、类别、内容",
+   "subjectName": "教育、培训层次、类别、内容",
+   "publishYear": "2013",
+   "definition": "进入专业岗位前接受的，与从事岗位工作需要相关的专业教育。"
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "遗传学名词",
+   "wordNumber": "05.028",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "(1)胚胎中的一个区域影响另一个区域，使其沿一条新途径进行分化。(2)某些环境因子的刺激使基因或操纵子进入转录状态。"
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "昆虫学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "活化潜伏性病原导致发病。"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0034",
+   "subjectFullName": "地球物理学_地球电磁学_地电学",
+   "subjectName": "地电学",
+   "publishYear": "2022",
+   "definition": "闭合回路的一种属性。当通过闭合回路的电流改变时，会出现电动势抵抗电流的改变。分为自感和互感。 "
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "电力名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "对于端子为A和B的电感性二端元件,磁通链ψ除以元件中电流i的商:<img src='/root/syzx/static/spz/dianli3.01.197.01.png'/>式中:ψ的符号由该磁通链"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "物理学名词",
+   "wordNumber": "03.0613",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "计量学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "计量学_电磁_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "描述由于线圈电流变化，在本线圈中或在另一线圈中引起感应电动势效应的电路参数。单位是亨利(H)。"
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "电气工程名词",
+   "wordNumber": "01.415",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "电感",
+   "en": "inductance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电介质常数",
+   "en": "inductivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成花诱导，开花诱导",
+   "en": "floral induction\",\"flower induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开花诱导（=成花诱导）",
+   "en": "floral induction\",\"flower induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导期",
+   "en": "induction period\",\"induction phase",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive reasoning\",\"inductive inferenec",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性诱导",
+   "en": "noncontact induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "接触性诱导",
+   "en": "contact induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎诱导",
+   "en": "embryonic induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "相互诱导",
+   "en": "reciprocal induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导学说",
+   "en": "induction theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "允诺性诱导",
+   "en": "permissive induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "指令性诱导",
+   "en": "instructive induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光化学诱导",
+   "en": "photochemical induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光周期诱导",
+   "en": "photoperiodic induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "胚[胎]诱导",
+   "en": "embryonic induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "归纳学习",
+   "en": "inductive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单瑞士式",
+   "en": "simple Swiss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单荷兰式",
+   "en": "simple Hollander",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单动作",
+   "en": "simple action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单防守",
+   "en": "simple parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单进攻",
+   "en": "simple attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接的简单还击",
+   "en": "simple indirect riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接的简单还击",
+   "en": "simple direct riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简易换腿",
+   "en": "simple change of legs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "萧散简远",
+   "en": "Natural, Leisurely, Simple yet Profound",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "催经止孕",
+   "en": "menstrual induction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "事后避孕的一种方式。在发生无保护性交后，特别是多次无保护性交后，在月经延迟1周内使用负压吸引或药物诱导月经来潮。其目的是有孕止孕、无孕催经。"
+  },
+  {
+   "cn": "归纳法",
+   "en": "inductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.21",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "就某个特定的主题，观察和收集数据，积累事实，从而得出一般原理的推理程序。"
+  },
+  {
+   "cn": "简单劳动",
+   "en": "simple labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0054",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "没有任何专长的普通人的机体平均具有的简单劳动力的耗费，即在一定的社会条件下一般劳动者都能胜任，无需特别的技术专长、知识和技能训练的劳动。简单劳动在教育和科技不断发展的社会中会有变化，它与复杂劳动相对应"
+  },
+  {
+   "cn": "简单再生产",
+   "en": "simple reproductoin",
+   "source": "马克思主义",
+   "wordNumber": "02.0153",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产过程在原有规模上的重复进行。在资本主义生产方式下，如果资本家把榨取的剩余价值完全用于他们的个人消费，没有资本积累，生产规模不扩大，那么，在其他条件不变的情况下，这就是资本主义的简单再生产。"
+  },
+  {
+   "cn": "单纯性近视",
+   "en": "simple myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼球在发育期发展形成的近视，发育停止后近视也趋于稳定，屈光度数一般在﹣6.00D之内。其中绝大多数眼底无病理变化，用适当光学镜片即可将视力矫正至正常。"
+  },
+  {
+   "cn": "简单社会",
+   "en": "simple society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工简单，人口规模较小的社会组织形态，与复杂社会相对。简单社会的规模相对较小，其人数由相应狭小地域内的各社会政治单位组合在一起，一般以血缘为基础、以家庭为纽带、以个人为中心。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "单一型香辛料调味品",
+   "en": "simple spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.11",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由单一香辛料制成的调味品。"
+  },
+  {
+   "cn": "简易厕坑",
+   "en": "simple pit latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在一般应超过1.5 米的较大深度厕沟基础上，沿沟缘地面修筑一定高度的完全或不完全围护及开孔顶覆结构，形成的坐式或蹲式厕所。可供较长时间连续使用。"
+  },
+  {
+   "cn": "反应时",
+   "en": "simple reaction time",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "机体从接受刺激到做出反应动作所需的时间，即从刺激到反应的时距。主要反映人体神经于肌肉系统的协调性和快速反应能力。"
+  },
+  {
+   "cn": "简易防护器材",
+   "en": "simple protective equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "利用就便材料制作的一类个人防护器材，包括简易呼吸道和皮肤防护器材两类，如泳镜、雨衣和雨靴等。"
+  },
+  {
+   "cn": "简单的价值形式",
+   "en": "simple form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0061",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的原始阶段。一商品的价值偶然地以另一不同种商品来表现的价值形式。它与原始社会后期原始公社之间偶然地、间或地物物交换阶段相一致。在简单价值形式中，价值形式两极的对立很不固定。"
+  },
+  {
+   "cn": "简单收益率法",
+   "en": "simple rate of return method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "以达到设计产量的年份(即正常年度)所取得的现金净流量与原投资额之比，来确定方案是否可行的决策分析法"
+  },
+  {
+   "cn": "电感耦合等离子体质谱法",
+   "en": "inductively coupled plasma mass spectrometry, ICP-MS",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "用氩形成的等离子体使待测元素原子化和离子化，如此形成的离子通过一系列的锥孔，进入高真空质量分析室，元素的同位素由其质荷比鉴别，元素的量由特征的质谱峰的强度计算。是一种痕量(10-6~10-9)和超痕量"
+  },
+  {
+   "cn": "复杂劳动向简单劳动还原问题",
+   "en": "issue of reduction of complex labor to simple labor",
+   "source": "马克思主义",
+   "wordNumber": "05.0120",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "西方一些学者曾质疑马克思《资本论》“比较复杂的劳动只是自乘的或不如说多倍的简单劳动”的观点，认为这是马克思劳动价值论中应该解决却未能解决好的问题，甚至认为马克思对复杂劳动向简单劳动还原问题的处理是零碎"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,62 @@
+{
+ "key": "pittsburgh dialogos",
+ "term": "Pittsburgh Diálogos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:51:30+00:00",
+ "status": "ok",
+ "note": "variant=Pittsburgh Diálogos; 审定公布名词库=5; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "匹兹堡调查",
+   "en": "Pittsburgh survey",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0430",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "赫茨伯格(Frederick Herzberg)于20世纪50年代末主持的关于人类需要的调查，他认为人类具有摆脱苦难的需要和追求自身成长的需要，为了验证这两类需要，他在匹兹堡的11个组中选取了200个"
+  },
+  {
+   "cn": "匹兹堡睡眠质量指数",
+   "en": "Pittsburgh sleep quality index",
+   "source": "神经外科学名词",
+   "wordNumber": "16.097",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "由美国匹兹堡大学精神科医生比斯（Buysse）等于1989年编制的睡眠质量量表。适用于睡眠障碍、精神障碍患者的睡眠质量评估，同时也适用于一般人睡眠质量的评估。"
+  },
+  {
+   "cn": "匹兹堡脑干评分",
+   "en": "Pittsburgh brain stem score;PBS",
+   "source": "神经外科学名词",
+   "wordNumber": "16.048",
+   "subjectFullName": "医学_神经外科学_神经外科专科技术_神经外科诊断",
+   "subjectName": "神经外科诊断",
+   "publishYear": "2026",
+   "definition": "一种利用睫毛反射、角膜反射等技术评估脑干功能的评分系统。0分，临床死亡；1～6分，不同程度脑损伤；7～10分，神经系统正常或轻微异常，预后较好。"
+  },
+  {
+   "cn": "匹兹堡睡眠质量指数",
+   "en": "Pittsburgh sleep quality index;PSQI",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.458",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_睡眠相关量表和问卷",
+   "subjectName": "睡眠相关量表和问卷",
+   "publishYear": "2022",
+   "definition": "一种用于评估睡眠质量的量表。由美国匹兹堡大学的比斯（Buysse）等于1989年编制，由19个自评条目及5个他评条目组成。该量表适用于评估睡眠障碍患者、精神障碍患者近2个月的睡眠质量，同时也适用于一般"
+  },
+  {
+   "cn": "匹兹堡睡眠质量指数量表",
+   "en": "Pittsburgh sleep quality index;PSQI",
+   "source": "行为医学名词",
+   "wordNumber": "19.096",
+   "subjectFullName": "行为医学_行为心理评估_心理评估_症状评定量表",
+   "subjectName": "症状评定量表",
+   "publishYear": "2022",
+   "definition": "美国匹兹堡大学精神科医生丹尼尔·J. 拜瑟（Daniel J. Buysse）等于1993年编制的用于评定受测者最近一个月睡眠质量的量表。由19个自评问题和5个他评问题组成。仅将19个自评问题积分，得"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

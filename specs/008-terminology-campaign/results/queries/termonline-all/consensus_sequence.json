@@ -1,0 +1,642 @@
+{
+ "key": "consensus sequence",
+ "term": "consensus sequence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:56:16+00:00",
+ "status": "ok",
+ "note": "variant=consensus sequence; 审定公布名词库=732; 海峡两岸名词对照库=396; 其他来源数据库=19; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0139",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "在不同但相关的DNA、RNA或蛋白质分子序列的同源区中出现频率较高的相同的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.237",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "通过序列比较发现相似但不完全相同的核苷酸序列或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "动物学名词",
+   "wordNumber": "2.0192",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "多条同源序列经过比对之后，大多数序列的同源区中出现的共同的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "植物学名词",
+   "wordNumber": "02.0251",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "多条同源序列经过比对之后，大多数序列的同源区中出现的共同的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "一致性序列",
+   "en": "consensus sequence",
+   "source": "生物物理学名词",
+   "wordNumber": "06.079",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "在一组序列比对结果中每个位置出现频率最高的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.133",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "在不同但相关的DNA、RNA或蛋白质分子序列的同源区中出现的共同的核苷酸或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "遗传学名词",
+   "wordNumber": "03.030",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "一些遗传元件(如启动子)中反复出现且很少有改变的DNA序列。不同种生物编码同一种蛋白质的基因也会有共有序列。通过序列比较发现相似但不一定完全相同的核苷酸序列或氨基酸序列。"
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.691",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "科扎克共有序列",
+   "en": "Kozak consensus sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0351",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "真核生物mRNA中的起始密码子AUG上下游通常存在的非常保守的核苷酸序列：。促使核糖体识别其中的AUG并起始翻译，该序列由科扎克（Kozak）发现而得名。"
+  },
+  {
+   "cn": "一致性",
+   "en": "consensus",
+   "source": "心理学名词",
+   "wordNumber": "07.039",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "凯利归因理论中进行归因时所利用的一类信息，即归因对象的行为是否也出现在其他人身上。"
+  },
+  {
+   "cn": "普林斯顿共识",
+   "en": "Princeton consensus",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.023",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "关于心血管疾病患者性功能异常临床治疗的专家共识。由于性功能异常和心血管疾病之间有密切关系，而且性活动本身存在着潜在心脏危险性，故于2000年在普林斯顿大学成立的专家组制定该共识，并将患者心脏风险分为低"
+  },
+  {
+   "cn": "共识沟通",
+   "en": "consensus communication",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.120",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_风险沟通",
+   "subjectName": "风险沟通",
+   "publishYear": "2014",
+   "definition": "能使许多团体或个人就风险应如何管理得到共识的风险沟通。在开始沟通时不同团体对风险的程度和性质的认识常常是不一致的。"
+  },
+  {
+   "cn": "共用模体",
+   "en": "consensus motif",
+   "source": "免疫学名词",
+   "wordNumber": "2.759",
+   "subjectFullName": "免疫学_免疫系统_主要组织相容性复合体和遗传",
+   "subjectName": "主要组织相容性复合体和遗传",
+   "publishYear": "2007",
+   "definition": "特定MHC分子抗原结合槽所接纳的各种抗原肽，在关键性结合部位所拥有的相同或相似的氨基酸残基。不同MHC分子所接纳的抗原肽，其共用模体组成往往不同。"
+  },
+  {
+   "cn": "互感反应",
+   "en": "consensual reaction",
+   "source": "生理学名词",
+   "wordNumber": "03.361",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肠杆菌基因间重复共有序列",
+   "en": "enterobacterial repetitive intergenic consensus sequences,ERIC sequences",
+   "source": "微生物学名词",
+   "wordNumber": "06.114",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "在大肠杆菌中发现的染色体转录区域中以126 bp为一个单元的重复序列，位于多顺反子的基因间区或开放阅读框上游或下游的非翻译区内。"
+  },
+  {
+   "cn": "一致树",
+   "en": "consensus tree,CST",
+   "source": "植物学名词",
+   "wordNumber": "02.0237",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "把两个或多个不同支序图中关于分群的信息结合形成的一个普遍一致的系统发育树。"
+  },
+  {
+   "cn": "一致树",
+   "en": "consensus tree;CST",
+   "source": "动物学名词",
+   "wordNumber": "2.0179",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "把两个或多个不同支序图中关于分群的信息结合而形成的一个普遍一致的支序图。"
+  },
+  {
+   "cn": "严格一致树",
+   "en": "strict consensus tree",
+   "source": "动物学名词",
+   "wordNumber": "2.018",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "只显示在所有最短树中都存在单系类群的一种系统发生树类型。"
+  },
+  {
+   "cn": "多数一致树",
+   "en": "majority consensus tree",
+   "source": "动物学名词",
+   "wordNumber": "2.0181",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "显示在大多数（如50%以上）最简约树中存在支系的一种系统发生树类型。"
+  },
+  {
+   "cn": "严格一致树",
+   "en": "strict consensus tree",
+   "source": "植物学名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "只显示在所有最短树中都存在的单系类群的一种一致树类型。"
+  },
+  {
+   "cn": "共有序列，一致序列",
+   "en": "consensus sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致序列（=共有序列）",
+   "en": "consensus sequence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共有序列",
+   "en": "consensus sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "科扎克共有序列",
+   "en": "Kozak consensus sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "集成平均",
+   "en": "consensus average\",\"consensus averaging",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致性，共识性",
+   "en": "consensus\",\"congruence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集成预报",
+   "en": "consensus forecast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "共有模体",
+   "en": "consensus motif",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "共用模体，共用基序",
+   "en": "consensus motif",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "合意指标",
+   "en": "consensus index",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合意树",
+   "en": "consensus tree",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "合意法",
+   "en": "consensus method",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "科扎克共有序列",
+   "en": "Kozak consensus suquence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "合意树（=一致树）",
+   "en": "consensus tree\",\"CST",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一致树，合意树",
+   "en": "consensus tree\",\"CST",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "严格合意树（=严格一致树）",
+   "en": "strict consensus tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "严格一致树，严格合意树",
+   "en": "strict consensus tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚假共识效应",
+   "en": "false consensus effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“九二共识”",
+   "en": "the 1992 Consensus",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《国家大数据综合试验区建设正定共识》（中国）",
+   "en": "Zhengding Consensus on the Construction of the National Big Data Comprehensive Pilot Zone (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模式微生物基因组测序、数据挖掘及功能解析全球合作计划",
+   "en": "Global Catalogue of Microorganisms 10K Type Strain Sequencing Project",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 12054-1989 数据处理 转义序列的登记规程》",
+   "en": "GB/T 12054-1989 Data processing — Procedure for registration of escape sequences",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "DeepVariant（可将基因组信息转换成图像进行分析）",
+   "en": "DeepVariant (an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共识",
+   "en": "consensus",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.4",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一个社会中不同阶层和群体的人们所共同持有的价值规范、行为方式或习惯等内容的总和。美国学者乔•萨托利认为，共识存在于共同体、政体与政府决策三个不同的层次。"
+  },
+  {
+   "cn": "九二共识",
+   "en": "consensus",
+   "source": "马克思主义",
+   "wordNumber": "03.0544",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "用于概括海峡两岸关系协会与海峡交流基金会在1992年香港会谈中就“一个中国”问题及其内涵进行讨论所形成之认识见解的名词。其核心内容与精神是“海峡两岸均坚持一个中国原则”。"
+  },
+  {
+   "cn": "华盛顿共识",
+   "en": "washington consensus",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "1989年在美国华盛顿召开的关于拉美经济改革的研讨会上，美国国际经济研究所的约翰·威廉姆森就拉美国家的经济改革提出的以新自由主义理念为基础，鼓吹市场化、私有化、贸易自由化的10条政策措施与参会者达成的"
+  },
+  {
+   "cn": "科学共识",
+   "en": "consensus in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.2",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "在科学家之间或科学共同体内部形成的、具有学术意义的共同观点和看法，以及通常做法和传统规范。"
+  },
+  {
+   "cn": "靶向测序",
+   "en": "targeted sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "利用多重聚合酶链反应或杂交捕获的方法对目标基因 组区域进行富集并测序的一种技术。优 势在于有效降低成本、获得更深的覆盖度。"
+  },
+  {
+   "cn": "测序技术",
+   "en": "sequencing techniques",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.70",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "对多聚体中单体排列顺序进行测定的方法。如测定DNA、寡肽、多糖链基本组成单位残基(核苷酸、氨基酸、单糖等)的排列顺序。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "二代测序",
+   "en": "next-generation sequencing",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "一次可以对几十万至数亿条DNA模板同时进行序列测定的技术。是对传统桑格 （Sanger）测序革命性的改变， 核心思想是边合成边测序。"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "后遗症",
+   "en": "sequelae",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.1.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "某些疾病在恢复期过后，某些组织或器官仍长期留有不能消失的损害或功能障碍。"
+  },
+  {
+   "cn": "长期后遗症",
+   "en": "long term sequelae",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11.21",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某种疾病恢复后持续存在的对患者健康的长期影响。"
+  },
+  {
+   "cn": "电报句阶段",
+   "en": "telegraph sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "从2岁或2岁半开始已经出现有3-4个词构成的多词语和更长的句子时期。此时双词句以及经过有限扩展的多词句虽较单词句明确，但其形式是断续的、简略的、结构不完整的。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

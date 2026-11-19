@@ -1,0 +1,682 @@
+{
+ "key": "predication operator",
+ "term": "predication operator",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:09:08+00:00",
+ "status": "ok",
+ "note": "variant=predication operator; 审定公布名词库=2012; 海峡两岸名词对照库=482; 其他来源数据库=73; 预公布名词数据库=91; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "述语",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.190",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。可以指述宾短语的组成成分，由动词性成分充当，在述宾短语的前部，例如，“吃饭”；也可以指述补短语的组成成分，由动词或形容词性成分充当，在述补短语的前部，例如，“吃完”“好极了”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“体词”相对。指主要充当谓语的词。动词、形容词等属于谓词。"
+  },
+  {
+   "cn": "直谓[的]",
+   "en": "predicative",
+   "source": "数学名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓语",
+   "en": "predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“主语”相对。句法成分之一。通常由谓词性成分充当，少数情况下也可由体词性成分充当。通常位于主语的后边，是对主语作出的陈述。例如，“花开了”“今天星期一”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词性宾语",
+   "en": "predicative object",
+   "source": "语言学名词",
+   "wordNumber": "04.192",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由谓词性成分充当的宾语。例如，“喜欢游泳”“觉得很好”。"
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate transformer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0938",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由埃德斯加·迪杰斯特拉（Edsger Dijkstra）引进的描述程序语义的方法，把程序的执行看成是状态空间上的谓词转换。"
+  },
+  {
+   "cn": "包容谓词",
+   "en": "inclusive predicates",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0927",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "如果当谓词对递增序列（链）所有元素都成立（取值为真），它就对该序列的上确界也成立，那么该谓词是包容的。"
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0936",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑最基本的形式系统，在命题演算的基础上扩展引入了客体变元、量词、谓词和函数。其中，客体表示某一个物体或元素，量词（如全称或存在）限定客体数量，谓词描述客体的一种属性，函数代表抽象的计算。"
+  },
+  {
+   "cn": "体词性谓语",
+   "en": "nominal predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.189",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由体词性成分充当的谓语。前边大多可以加上动词“是”（否定句用“不是”），变成动词性谓语。例如，“他（是）广东人”“今天（不是）星期一”“苹果才五十斤”。"
+  },
+  {
+   "cn": "谓词变元",
+   "en": "predicate variable",
+   "source": "数学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术谓词",
+   "en": "arithmetical predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "自动化名词",
+   "wordNumber": "05.034",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "区别词",
+   "en": "on predicative adjective",
+   "source": "语言学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示事物的属性，有区别分类作用的词。例如“雌”“大型”“慢性”“西式”。其语法特征是：不能充当谓语；不能前加“不”或“很”；只能作名词的定语，或跟结构助词“的”形成“的字短语”。"
+  },
+  {
+   "cn": "直谓集合论",
+   "en": "predicative set theory",
+   "source": "数学名词",
+   "wordNumber": "02.0153",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词/变迁系统",
+   "en": "predicate/transition system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0606",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "一种高级佩特里网，有向弧和标码都用一阶谓词加以标注。对谓词逻辑中的变量作不同的赋值，就得到网系统的不同运行。"
+  },
+  {
+   "cn": "谓词转换语义",
+   "en": "predicate transformer semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0908",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一种公理语义，它包含了有关语句执行前后变量值的断言。"
+  },
+  {
+   "cn": "谓词数据模型",
+   "en": "predicate data model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0062",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "用一阶谓词逻辑来描述数据对象、模式以及它们之间的关系和语义的一种数据模型。"
+  },
+  {
+   "cn": "原始递归谓词",
+   "en": "primitive recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0120",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果一个谓词所确定的集合是原始递归的，则称它是原始递归谓词。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词变量",
+   "en": "predicate variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词符号",
+   "en": "predicate symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate converter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词-变迁系统",
+   "en": "predicate/transition system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定使用",
+   "en": "predicate use\",\"p-use",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操作员",
+   "en": "operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator gene\",\"operator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可操作性",
+   "en": "operability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "错流操作",
+   "en": "crosscurrent operation\",\"crossflow operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分牌操作员",
+   "en": "scoreboards operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "核设施操纵员",
+   "en": "unclear installation operator",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.8.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "在核设施主控室中担任操作或者指导他人操作核设施控制系统工作的运行值班人员。"
+  },
+  {
+   "cn": "食品从业人员",
+   "en": "food business operator",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.26",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "在食品生产经营任何阶段负责从事操作的实体。可以是食品生产经营企业的负责人、食品安全管理人员、关键环节操作人员和其他相关从业人员。"
+  },
+  {
+   "cn": "普通手术部",
+   "en": "general operation department",
+   "source": "消毒学",
+   "wordNumber": "4.6.15",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "由非洁净手术室、非洁净辅助用房等一部分或全部组成的独立的功能区域。"
+  },
+  {
+   "cn": "在役去污",
+   "en": "decontamination in operation",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "对处于在役状态的受污染系统、部件和设备等去污过程。"
+  },
+  {
+   "cn": "操作学习理论",
+   "en": "operation reinforcement theory",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.32",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以斯金纳(B.F.Skinner）为代表人物提出的关于人类行为习得的理论。其重视环境对行为的影响，提出人的行为B=f(E）（环境）的公式，认为人们的一生都处在学习的环境之中，获得满足的行为会得到增强，"
+  },
+  {
+   "cn": "巴巴罗萨作战计划",
+   "en": "Barbarossa Operation Plan",
+   "source": "马克思主义",
+   "wordNumber": "04.0120",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "法西斯德国侵略苏联的战争计划。以神圣罗马帝国皇帝腓特烈一世的绰号“巴巴罗萨”为代号得名。1940年7月下旬希特勒下令秘密制定该计划，11月底由陆军总司令勃劳希契呈报希特勒，12月18日，以“巴巴罗萨”"
+  },
+  {
+   "cn": "健康保险运行",
+   "en": "health insurance operation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以健康结果为目的的健康经济风险分担和健康维护、风险干预和战略购买的治理、筹资、购买和服务包设计等运行环节的总和"
+  },
+  {
+   "cn": "医院运营管理",
+   "en": "hospital operation management ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院提供医疗服务的直接资源进行有效的整合利用，以实现投入产出效率、效益和效能的最优化过程。"
+  },
+  {
+   "cn": "剂量作业试验",
+   "en": "dose operation test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "在限定时间内让被试完成指定的作业，根据其完成作业的数量和产生的错误来判断其高级神经功能状态的方法。"
+  },
+  {
+   "cn": "军事作业环境",
+   "en": "military operation environment",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "军人在平战时所从事作业的环境，包括自然环境和人工环境。"
+  },
+  {
+   "cn": "军事作业卫生",
+   "en": "military operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "针对军事作业环境因素对官兵健康与军事作业能力的影响，研究和评价其影响规律，提出维护军人军事作业能力、保障军人健康的对策和措施的多学科交叉的前沿新学科。"
+  },
+  {
+   "cn": "潜水作业卫生",
+   "en": "diving operation hygiene",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.9.7",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "识别、评价、预测和控制潜水作业环境中的不良因素对作业者健康和作业效能的影响，创造安全、健康和高效的作业环境和作业方式，提高作业效率，保障作业者健康的卫生措施。"
+  },
+  {
+   "cn": "平均手术时间",
+   "en": "average operation time",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.5",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "伤员平均手术所需时间(分),可了解每个手术台24 小时能做多少手术，为战时卫勤领导部门组织安排手术提供依据。"
+  },
+  {
+   "cn": "专用操作区",
+   "en": "special operation area",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.21",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "为防止食品受到污染，以分离方式设置的清洁程度要求较高的加工直接入口食品的操作区域。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

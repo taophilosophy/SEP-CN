@@ -1,0 +1,52 @@
+{
+ "key": "triplicity",
+ "term": "triplicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:54:26+00:00",
+ "status": "ok",
+ "note": "variant=triplicity; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "三份法",
+   "en": "triplicate",
+   "source": "化学名词",
+   "wordNumber": "03.0698",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "即至少需用3个含量不同的已知标准试样制作工作曲线的方法。"
+  },
+  {
+   "cn": "三倍复制",
+   "en": "triplication",
+   "source": "血液学名词",
+   "wordNumber": "4.265",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "一条染色体上的某一片段增加了两份，使这些片段上的基因也增加了两倍的现象。发生的原因是同源染色体之间的不等交换或染色单体之间的不等交换，以及同源染色体片段的插入等。"
+  },
+  {
+   "cn": "三分支",
+   "en": "triplication",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0887",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "由速度随深度急剧增大引起的同一震中距有 3种波同时到达，从而走时曲线呈相互交叉的 3个分支的现象。这种现象出现于当部分地震射线由速度随深度增加的层的下方反射后出现于比该层上方反射后的射线更短的距离时。"
+  },
+  {
+   "cn": "三次设计",
+   "en": "triplication design",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0681",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "将产品或工艺过程的设计分为系统设计、参数设计和容差设计三个阶段来完成的设计方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

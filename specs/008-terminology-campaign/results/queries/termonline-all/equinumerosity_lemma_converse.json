@@ -1,0 +1,522 @@
+{
+ "key": "equinumerosity lemma converse'",
+ "term": "Equinumerosity Lemma Converse’",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:47:33+00:00",
+ "status": "ok",
+ "note": "variant=Equinumerosity Lemma Converse’; 审定公布名词库=771; 海峡两岸名词对照库=242; 其他来源数据库=16; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "外稃",
+   "en": "lemma",
+   "source": "植物学名词",
+   "wordNumber": "03.0514",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "禾本科植物小穗中包住小花的外苞片。其中脉明显，常可延长成芒。"
+  },
+  {
+   "cn": "词目",
+   "en": "lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "处于词条首位的词项。语词在各种语境的词汇变体的抽象形式，既是释义的对象，也是词典的基本查检单位。"
+  },
+  {
+   "cn": "引理",
+   "en": "lemma",
+   "source": "数学名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "λ引理",
+   "en": "λ-lemma,lambda-lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0187",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "法尔卡斯引理",
+   "en": "Farkas’ lemma",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "线性不等式系统的可求解性定理，也是支撑线性规划对偶性的关键理论结果。"
+  },
+  {
+   "cn": "极限引理",
+   "en": "limit lemma",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0217",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "停机问题刚好是可计算函数序列的极限。一般地，对任何自然数函数 f 及自然数集合 A ， f<img src='/root/syzx/static/spz/jsjkx3.02.0217.001.png'"
+  },
+  {
+   "cn": "泵引理",
+   "en": "pumping Lemma",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0544",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一个语言 L 满足泵引理指的是，对 L 中长度大于某常数的任意一个串w，都可以把它分成若干段（3或5段），把其中某（某些）段删去或重复任意多次，得到的新串仍是 L 的成员。正规语言和上下文无关语言具有"
+  },
+  {
+   "cn": "副词条",
+   "en": "secondary lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“主词条”相对。宏观结构的构成单元，但没有独立释文，需要参见主词条或其他词条才能理解其意义。"
+  },
+  {
+   "cn": "佐恩引理",
+   "en": "Zorn lemma",
+   "source": "数学名词",
+   "wordNumber": "02.0158",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "覆盖引理",
+   "en": "covering lemma",
+   "source": "数学名词",
+   "wordNumber": "05.0303",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "封闭引理",
+   "en": "closing lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0167",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "福科什引理",
+   "en": "Farkas lemma",
+   "source": "数学名词",
+   "wordNumber": "011.0056",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "索伯列夫引理",
+   "en": "Sobolev lemma",
+   "source": "数学名词",
+   "wordNumber": "06.0507",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伊藤定理",
+   "en": "Itô’s lemma",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0045",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "规定了对随机过程函数求微分的方法。其微分过程与普通的微分过程(求导)相比，结果会多出伊藤项。"
+  },
+  {
+   "cn": "立目",
+   "en": "selection of lemma",
+   "source": "语言学名词",
+   "wordNumber": "06.045",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "按照一定的编纂宗旨，以统计学与经验相结合的方式，在语料中挑选一部辞书应收录的语言单位，并确立为词目。例如确定一部字典的字头、词典的词头、百科全书的条头等。"
+  },
+  {
+   "cn": "山路引理",
+   "en": "mountain pass lemma",
+   "source": "数学名词",
+   "wordNumber": "07.0379",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "conversion",
+   "source": "档案学名词",
+   "wordNumber": "06.02.005",
+   "subjectFullName": "档案学_电子文件管理_系统与技术",
+   "subjectName": "系统与技术",
+   "publishYear": "2024",
+   "definition": "在确保档案原有信息（内容）不发生变化的前提下，变更档案的载体形式或文件格式。"
+  },
+  {
+   "cn": "转化",
+   "en": "conversion",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0008",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "SO₂与O₂反应生成SO₃的过程。一般以空气作为氧化剂，在催化剂上进行反应。"
+  },
+  {
+   "cn": "交谈",
+   "en": "conversation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.063",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "两人或更多人之间用来传递信息、赋予意义和做事情的一种互动的语言交际行为。"
+  },
+  {
+   "cn": "换流",
+   "en": "conversion",
+   "source": "电力名词",
+   "wordNumber": "21.047",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "将交流电转换为直流电或将直流电转换为交流电的过程。"
+  },
+  {
+   "cn": "外稃",
+   "en": "lemma",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泵作用引理",
+   "en": "pumping lemma",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化率",
+   "en": "conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "conversion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "会话",
+   "en": "conversation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基因转变,基因转换",
+   "en": "gene conversion\",\"conversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最优转化率",
+   "en": "optimal conversion\",\"optimum conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基因转换",
+   "en": "gene conversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "催化转化",
+   "en": "catalytic conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "煤转化",
+   "en": "coal conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化深度",
+   "en": "conversion level",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡转化率",
+   "en": "equilibrium conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀转化",
+   "en": "uniform conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化原理",
+   "en": "conversion principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝热转化",
+   "en": "adiabatic conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转换涂层",
+   "en": "conversion coating",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化温度",
+   "en": "conversion temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "换算曲线",
+   "en": "conversion curve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化时间",
+   "en": "conversion time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模数转换",
+   "en": "analog-to-digital conversion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20180019-T-469 数字化城市管理信息系统 智能井盖基础信息》",
+   "en": "20180019-T-469 Information system for digitized supervision and management of city — Basic information of intelligent manhole covers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "皈依",
+   "en": "conversion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.9",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "通过一定的思想道德、价值观的变化，以特定仪式完成的向上帝或神的转向或依归。"
+  },
+  {
+   "cn": "谈话分析",
+   "en": "conversation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对参与者在对话过程中口头和非口头的行为进行分析的方法。认为参与者通过组织这些行为从事社会行动和社会事务。"
+  },
+  {
+   "cn": "会话分析",
+   "en": "conversational analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0114",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "泛指对会话结构、会话策略、会话风格等进行的研究。通常根据实际会话的录音，研究人们通过语言而交互作用时系统地运用了哪些策略。"
+  },
+  {
+   "cn": "内转换电子",
+   "en": "internal conversion electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "激发态原子核把能量直接转给核外电子，使之获得动能，脱离原子形成的自由电子。"
+  },
+  {
+   "cn": "食物转换因子",
+   "en": "food conversion factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.60",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "食物的可燃总能量（或理论最大能量）转换为食物成分中最终能被人体利用的能量的方程的输入系数。"
+  },
+  {
+   "cn": "二氧化氯收率",
+   "en": "conversion rate of chlorine dioxide",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "一定时间内测定的二氧化氯产量与按主反应方程式计算的理论产量的百分比。"
+  },
+  {
+   "cn": "核燃料转换时间",
+   "en": "conversion time of nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "把不同形式的核材料转换成核爆炸装置用的金属部件所需的时间。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

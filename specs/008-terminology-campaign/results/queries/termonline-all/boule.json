@@ -1,0 +1,32 @@
+{
+ "key": "boule",
+ "term": "boulê",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:57:24+00:00",
+ "status": "ok",
+ "note": "variant=boulê; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "五百人议事会",
+   "en": "Boule",
+   "source": "世界历史名词",
+   "wordNumber": "02.0320",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "克利斯提尼改革中建立起来的民主议事会，由500名公民组成。"
+  },
+  {
+   "cn": "博尔特",
+   "en": "Boult\",\"Adrian(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

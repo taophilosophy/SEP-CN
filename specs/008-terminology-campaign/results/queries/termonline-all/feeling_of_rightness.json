@@ -1,0 +1,812 @@
+{
+ "key": "feeling of rightness",
+ "term": "Feeling of Rightness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:01:52+00:00",
+ "status": "ok",
+ "note": "variant=Feeling of Rightness; 审定公布名词库=10000; 海峡两岸名词对照库=7982; 其他来源数据库=2020; 预公布名词数据库=2777; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "感觉范畴",
+   "en": "scope of feeling",
+   "source": "行为医学名词",
+   "wordNumber": "4.017",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "人类的感觉器官只能对一定范围内的刺激做出反应并产生感觉的现象。"
+  },
+  {
+   "cn": "情感两极性",
+   "en": "bipolarity of feeling",
+   "source": "行为医学名词",
+   "wordNumber": "4.071",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "情感的各维度均可以用两种对立状态来表达的特征。"
+  },
+  {
+   "cn": "丧失情感体验能力",
+   "en": "feeling of loss",
+   "source": "精神医学名词",
+   "wordNumber": "02.236",
+   "subjectFullName": "精神医学_症状与体征_游离转换症状",
+   "subjectName": "游离转换症状",
+   "publishYear": "2019",
+   "definition": "受检者可以肯定地叙述，但与自己的正常情况相比，丧失了情感体验能力的一种精神病理状态。不过，受检者能记住几个月或几年前曾经有过的情感体验。"
+  },
+  {
+   "cn": "情感两极性",
+   "en": "bipolarity of feeling",
+   "source": "心理学名词",
+   "wordNumber": "02.731",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "情感的各维度均可以用两种对立状态来表达的特征。"
+  },
+  {
+   "cn": "情感反映",
+   "en": "reflection of feeling",
+   "source": "心理学名词",
+   "wordNumber": "15.079",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师把当事人言语与非言语中的情感信息反馈给当事人的一种会谈技术。"
+  },
+  {
+   "cn": "游戏性体验",
+   "en": "feeling of playfulness",
+   "source": "教育学名词",
+   "wordNumber": "06.111",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "在游戏活动中产生的对于游戏活动本身的主观感受或心理体验。包括兴趣性体验、自主性体验、胜任感体验等“愉悦体验”。"
+  },
+  {
+   "cn": "感觉性增高",
+   "en": "feeling high",
+   "source": "兽医学名词",
+   "wordNumber": "13.160",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "神经对感觉刺激的兴奋阈降低，轻微刺激或抚触即可引起强烈反应的现象。除炎症外，由感觉神经或其传导通路被损害所致。"
+  },
+  {
+   "cn": "切脉",
+   "en": "pulse feeling",
+   "source": "兽医学名词",
+   "wordNumber": "19.129",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "用手指按摸动物的动脉，根据脉象了解和推断病情的诊断方法。"
+  },
+  {
+   "cn": "色彩感觉",
+   "en": "color feeling",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.165",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "不同波长色彩的光信息作用于人的视觉器官，通过视觉神经传入大脑后，结合事物的不同属性和以往经验进行整合而形成整体印象的过程。感知对象包括色调、色温、色差等，睡眠环境宜选择柔和色彩。"
+  },
+  {
+   "cn": "理智感",
+   "en": "rational feeling",
+   "source": "行为医学名词",
+   "wordNumber": "4.068",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "认识和评价事物时所产生的情感体验和自我感受。"
+  },
+  {
+   "cn": "道德感",
+   "en": "moral feeling",
+   "source": "行为医学名词",
+   "wordNumber": "4.069",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "根据一定的道德标准在评价人的思想、意图和行为时所产生的主观体验。"
+  },
+  {
+   "cn": "美感",
+   "en": "aesthetic feeling",
+   "source": "行为医学名词",
+   "wordNumber": "4.07",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "根据一定的审美标准评价事物时所产生的愉悦的情感体验。"
+  },
+  {
+   "cn": "感觉评估",
+   "en": "feeling assessment",
+   "source": "手外科学名词",
+   "wordNumber": "06.0213",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "感觉神经的功能评估。一般可以测定该神经皮肤支配区的痛觉、触觉、温度、两点分辨觉、实体觉等。"
+  },
+  {
+   "cn": "矛盾情感",
+   "en": "ambivalent feeling",
+   "source": "精神医学名词",
+   "wordNumber": "02.231",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "在同一时刻出现两种截然相反、相互矛盾的情感体验的一种精神病理状态。见于精神分裂症受检者。"
+  },
+  {
+   "cn": "自卑感",
+   "en": "inferiority feeling",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "一种对自我的负面的情感。"
+  },
+  {
+   "cn": "理智感",
+   "en": "rational feeling",
+   "source": "心理学名词",
+   "wordNumber": "02.728",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对认知和评价事物的自我感受。"
+  },
+  {
+   "cn": "美感",
+   "en": "aesthetic feeling",
+   "source": "心理学名词",
+   "wordNumber": "02.730",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据一定审美标准评价事物时产生的愉悦的情感体验。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral feeling",
+   "source": "教育学名词",
+   "wordNumber": "01.213",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们依据一定的道德标准对现实的道德关系和自己或他人的道德行为进行感知、理解和评价时所产生的爱憎好恶等心理体验。"
+  },
+  {
+   "cn": "口感",
+   "en": "mouth feel",
+   "source": "农学名词",
+   "wordNumber": "18.060",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "口腔对食品质地感觉的总称。包括稀稠、干湿、老嫩、松脆、油性、冷热、蜡质、粉质、丝滑和清凉等多种感觉。"
+  },
+  {
+   "cn": "口感",
+   "en": "mouth feel",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品质构特性",
+   "subjectName": "食品质构特性",
+   "publishYear": "2020",
+   "definition": "口腔对食品质地感觉的总称。包括稀稠、干湿、老嫩、松脆、油性、冷热、蜡质、粉质、丝滑、清凉等多种感觉。"
+  },
+  {
+   "cn": "情感反映",
+   "en": "reflection of feeling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自卑感",
+   "en": "inferiority feeling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉型",
+   "en": "feeling type",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知道感",
+   "en": "feeling of knowing\",\"FOK",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "专利权",
+   "en": "right of patent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "路权",
+   "en": "right-of-way",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "保护权",
+   "en": "right of protection",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保留权",
+   "en": "right of retention",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "捕鱼权",
+   "en": "right of fishery",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "代位求偿权",
+   "en": "right of subrogation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "非常征用权",
+   "en": "right of angary",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "公证权",
+   "en": "right of notary",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航行权",
+   "en": "right of navigation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "检查权",
+   "en": "right of search",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拘留权",
+   "en": "right of seizure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "旅客权利",
+   "en": "right of passenger",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "请求权",
+   "en": "right of claim",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通行权",
+   "en": "right of passage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优先权",
+   "en": "right of priority",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "结肠右曲",
+   "en": "right colic flexure\",\"right flexure of colon",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "怊怅述情",
+   "en": "Release of Melancholic Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "讽咏",
+   "en": "Chanting with Feeling",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利冲突",
+   "en": "conflict of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利让渡",
+   "en": "alienation of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "权利泛化",
+   "en": "generalization of rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平等权",
+   "en": "right of equality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享权",
+   "en": "right of sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "占有权",
+   "en": "right of possession",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球权",
+   "en": "right of service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上诉权",
+   "en": "right of appeal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航行权",
+   "en": "right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二号位队员",
+   "en": "player of zone 2\",\"right attacker\",\"right front",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右手拳",
+   "en": "right\",\"right-hand blow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右前卫",
+   "en": "inside right\",\"right halfback",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优先裁判权",
+   "en": "priority\",\"right of way",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "产权变革",
+   "en": "reform of property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权法理",
+   "en": "Jurisprudence of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关节摩擦感",
+   "en": "joint friction feeling",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.6",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "关节活动时触及粗糙的摩擦感，骨关节炎的体征之一，以膝关节多见。"
+  },
+  {
+   "cn": "胸膜摩擦感",
+   "en": "pleural friction feeling",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胸膜炎症时，渗出的纤维蛋白于脏、壁层胸膜沉积，使胸膜表面粗糙，呼吸时两层胸膜相互摩擦，触诊时可有皮革摩擦的感觉。该体征在患侧的腋中线、腋下部最为清晰。"
+  },
+  {
+   "cn": "堕胎权",
+   "en": "right of abortion",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "妇女怀孕后自主选择人工流产的权利。在美国，堕胎权一直是司法探讨以及不同政治、宗教和社会团体争论的焦点之一。反对者通常以保护生命权为理由，支持者则以保护女性身体的自主选择权为理由，因而争取堕胎权是女权主"
+  },
+  {
+   "cn": "教育权利",
+   "en": "right of education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.7",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "作为国家公民所享有的受教育的权利，以及受教育者作为学生区别于其他公民所应该享受的具体权利。"
+  },
+  {
+   "cn": "继承权",
+   "en": "right of inheritance",
+   "source": "马克思主义",
+   "wordNumber": "04.0014",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继承人依法取得被继承人遗产的权利。包括两种含义：（1）客观意义上的继承权。它是指继承开始前，公民依照法律的规定或者遗嘱的指定而接受被继承人遗产的资格，即继承人所具有的继承遗产的权利能力。（2）主观意义"
+  },
+  {
+   "cn": "健康权利",
+   "en": "right of health",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.062999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "个体享有的免受疾病、残疾及相关风险损害的基本权利。"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "党员的权利",
+   "en": "rights of Party members",
+   "source": "马克思主义",
+   "wordNumber": "03.0720",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章规定的党员应当享有党内的各项权利。按照党章规定，中国共产党党员享有八个方面的权利。"
+  },
+  {
+   "cn": "特殊干涉权",
+   "en": "special right of intervention",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.013999999999999",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在医疗活动中，当患者及其代理人无法或不能正确做出及时选择或做出的选择会给患者、他人或社会带来显而易见的严重损害后果或不可挽回的损失时，医务人员拥有的适当限制患者的自主权利，以践行其防病治病，救死扶伤的"
+  },
+  {
+   "cn": "隐私保护权",
+   "en": "right of privacy protection",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.031000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者依法享有的不公开与其私人生活有关的事实和秘密的权利。"
+  },
+  {
+   "cn": "民权",
+   "en": "civil rights",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "公民在政治领域享有的民主权利。公民能参与立法等政治活动，并且其身体、言论、信仰、居住、集会等自由权利要受到法律保护。"
+  },
+  {
+   "cn": "性权利",
+   "en": "sex right",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "个人在性活动中享有的权利，如选择性对象、享受性爱等。"
+  },
+  {
+   "cn": "业主维权",
+   "en": "homeowners rights",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.18",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "业主作为房屋的产权所有人，自己或通过业主委员会组织起来，争取与自己相关的住房及其他权益的活动。"
+  },
+  {
+   "cn": "社会权利",
+   "en": "social right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.10",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "公民维持其社会存在的基本权利，包括生存权、健康权、受教育权、工作权、居住权和资产拥有权等。英国社会学家、社会政策学家马歇尔（T.H.Marshall）提出。"
+  },
+  {
+   "cn": "新右派",
+   "en": "new right",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "20世纪80年代盛行的社会政治思潮。经济上新自由主义和政治上新保守主义的集合。以里根和撒切尔政府为代表，在国家社会福利政策实施领域接受新自由主义思想，主张自由市场和个人责任，强化私有化，削弱国家的作用"
+  },
+  {
+   "cn": "权利平等",
+   "en": "equal rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0139",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人与人之间在政治、经济、文化等方面具有的同等地位和同等权利。马克思主义认为，真正的权利平等只有在消灭了阶级的共产主义社会才能实现。而权利平等又包含权利相对平等和绝对平等两重涵义。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "法权",
+   "en": "legal rights",
+   "source": "马克思主义",
+   "wordNumber": "05.0157",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国艾蒂安·巴里巴尔（Etienne Balibar）认为“所有权”的关系就是所有制，“所有权”的法律，就是法律意义上的所有权或法权。在其看来，政治与构建政治的暴力之间的关系是不能通过权利、制度、意识"
+  },
+  {
+   "cn": "语言权",
+   "en": "language rights",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0167",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "社会成员或群体学习和使用语言的权利。"
+  },
+  {
+   "cn": "医师权利",
+   "en": "physician right",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.004",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医师在执业活动中享有的正当权力和利益。包括法定权利和道德权利。一般说来，医师的法定权利都是其道德权利，而其道德权利不一定是其法定权利，二者并非完全一致，在特定情形下甚至可能会出现冲突。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

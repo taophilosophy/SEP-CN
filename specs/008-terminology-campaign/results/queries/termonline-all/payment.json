@@ -1,0 +1,792 @@
+{
+ "key": "payment",
+ "term": "payment",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:49:33+00:00",
+ "status": "ok",
+ "note": "variant=payment; 审定公布名词库=540; 海峡两岸名词对照库=295; 其他来源数据库=57; 预公布名词数据库=83; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "支付",
+   "en": "payment",
+   "source": "数学名词",
+   "wordNumber": "011.0391",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "进度款",
+   "en": "interim payment,progress payment",
+   "source": "土木工程名词",
+   "wordNumber": "13.048",
+   "subjectFullName": "土木工程_工程施工_施工管理",
+   "subjectName": "施工管理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "支付方式",
+   "en": "payment method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.236",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "技术合同的价款、报酬和使用费支付的形式。"
+  },
+  {
+   "cn": "支付网关",
+   "en": "payment gateway",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1299",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "银行金融网络系统和互联网之间的接口。是由银行操作的将互联网上传输的数据转换为金融机构内部数据的一组服务器设备，或由指派的第三方处理商家支付信息和顾客的支付指令。"
+  },
+  {
+   "cn": "支付安全",
+   "en": "payment security",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0063",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "商务交易中的支付活动所表现出的经济安全。"
+  },
+  {
+   "cn": "支付风险",
+   "en": "payment risk",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0053",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "支付交易全过程中，由于伪造支付指令、资金头寸不足和支付过程各环节软件、硬件设备失误、人为破坏、操作失误等因素所造成的支付延误、资金损失等风险。"
+  },
+  {
+   "cn": "付款证书",
+   "en": "payment certificate",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0541",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "根据合同颁发的，列明证明人认为届期应付承包商的款项的证书。"
+  },
+  {
+   "cn": "付款凭证",
+   "en": "payment voucher",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0052",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据现金和银行存款付出业务的原始凭证编制的、专门用来填列付款业务会计分录的记账凭证。"
+  },
+  {
+   "cn": "移动支付",
+   "en": "mobile payment",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "使用移动设备进行付款的服务。单位或个人通过移动设备、互联网或者近距离传感直接或间接向银行金融机构发送支付指令而产生货币支付与资金转移的行为，从而实现移动支付功能。"
+  },
+  {
+   "cn": "电子支付",
+   "en": "electronic payment",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.149",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "单位、个人直接或授权他人通过电子终端发出支付指令，实现货币支付与资金转移的行为。"
+  },
+  {
+   "cn": "移动支付",
+   "en": "mobile payment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.198",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "运用互联网、移动通信、近场通信等信息技术手段，通过移动终端向银行等金融机构发送支付指令，用以购买商品或服务，并产生货币支付与资金转移的行为。"
+  },
+  {
+   "cn": "电子支付",
+   "en": "electronic payment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.128",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "单位、个人直接或授权他人通过电子终端发出支付指令，实现货币支付与资金转移的行为。按照不同的支付指令发起方式，可以分为网上支付、电话支付、移动支付、销售点终端支付、自动柜员机支付和其他电子支付等。"
+  },
+  {
+   "cn": "内容付费",
+   "en": "content payment",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.05.021",
+   "subjectFullName": "编辑与出版学_著作权_著作权利用和转移",
+   "subjectName": "著作权利用和转移",
+   "publishYear": "2022",
+   "definition": "将媒体、教育的知识内容变现为图文、音频、电视剧、书籍、杂志、公众号文章、视频等各知识付费平台的内容，形成出版产品或服务，以实现商业价值。"
+  },
+  {
+   "cn": "最终付款",
+   "en": "final payment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.561",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "采购的设备、材料到达现场验收合格后，向卖方支付的剩余的设备材料款。"
+  },
+  {
+   "cn": "预付款",
+   "en": "advance payment",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.560",
+   "subjectFullName": "化工（五）_工程建设_工程采购",
+   "subjectName": "工程采购",
+   "publishYear": "2021",
+   "definition": "一种付款方式。在合同签订后，买方向卖方支付的部分款项。用于卖方启动项目、购买原材料等工作。"
+  },
+  {
+   "cn": "转移支付",
+   "en": "transfer payment",
+   "source": "经济学名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "政府或企业的一种不以取得商品或劳务作补偿的方式无偿地支付给个人或下级政府，以增加其收入和购买力的支出。是一种收入再分配的形式。"
+  },
+  {
+   "cn": "移动支付",
+   "en": "mobile payment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1296",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "交易双方为了某种货物或者业务，通过移动设备进行商业交易。移动支付所使用的移动终端可以是手机、掌上电脑、笔记本电脑等。"
+  },
+  {
+   "cn": "电子支付",
+   "en": "electronic payment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1294",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "电子交易的当事人，包括消费者、厂商和金融机构，使用安全电子支付手段，通过网络进行的货币支付或资金流转。"
+  },
+  {
+   "cn": "电话支付",
+   "en": "telephone payment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1295",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "电子支付的一种线下实现形式。指消费者使用电话或其他类似的终端设备，通过银行系统就能从个人银行账户里直接完成付款的方式。"
+  },
+  {
+   "cn": "网上支付",
+   "en": "online payment",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0043",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "客户、商家、网络银行(或第三方支付)之间使用安全电子手段，利用电子现金、银行卡、电子支票等支付工具通过互联网传送到银行或相应的处理机构，从而完成支付的行为和过程。"
+  },
+  {
+   "cn": "支付",
+   "en": "payment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "付款保证",
+   "en": "payment guarantee",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款不足",
+   "en": "payment insufficient",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款凭单",
+   "en": "payment statement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款手续费",
+   "en": "payment commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "付款通知",
+   "en": "payment order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "缴款通知",
+   "en": "payment notice",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[贸易合同中的]付款条件",
+   "en": "payment terms",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "延期付款",
+   "en": "payment respite",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付差额",
+   "en": "payment balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付调整",
+   "en": "payment adjustment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付汇票",
+   "en": "payment bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付凭单",
+   "en": "payment voucher",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付凭证",
+   "en": "payment instrument",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "支付协定",
+   "en": "payment agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支不平衡",
+   "en": "payments disequilibrium",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[国际]收支差额",
+   "en": "payments balance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支赤字",
+   "en": "payments deficit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支平衡",
+   "en": "payments equilibrium",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际收支盈余",
+   "en": "payments surplus",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电子支付",
+   "en": "e-payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付场景",
+   "en": "payment scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付平台",
+   "en": "payment platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付网关",
+   "en": "payment gateway",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付标记化",
+   "en": "payment tokenization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子支付",
+   "en": "Electronic Payment",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上支付",
+   "en": "online payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网支付",
+   "en": "Internet payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动支付",
+   "en": "mobile payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电话支付",
+   "en": "telephone payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "指纹支付",
+   "en": "fingerprint payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虹膜支付",
+   "en": "iris payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式支付",
+   "en": "distributed payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触支付",
+   "en": "contactless payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "替代支付",
+   "en": "alternative payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无缝支付",
+   "en": "seamless payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电视支付",
+   "en": "payment on TV",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付方式",
+   "en": "payment method",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "资金从所有者或具有配置权力的主体（政府、第三方支付者或患者）转移到卫生服务提供者的具体方式。"
+  },
+  {
+   "cn": "转移支付",
+   "en": "transfer payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府或其他单位无偿地支付给个人以及下级政府以增加其收入和购买力费用的行为，是一种收入再分配的形式。"
+  },
+  {
+   "cn": "捆绑支付",
+   "en": "bundled payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.18",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "是一种基于临床界定的服务疗程的支付方式，包括不同卫生服务提供者提供的一系列卫生服务。"
+  },
+  {
+   "cn": "定额自付",
+   "en": "co-payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.1.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "参保患者在就医时自己支付一笔固定费用，剩余的医疗费用全部由医疗保险基金承担的费用分担机制。"
+  },
+  {
+   "cn": "事先支付",
+   "en": "payment in advance",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的实际支付在服务提供之前。"
+  },
+  {
+   "cn": "事后支付",
+   "en": "payment after delivery",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的实际支付在服务提供之后。"
+  },
+  {
+   "cn": "支付手段",
+   "en": "means of payment",
+   "source": "马克思主义",
+   "wordNumber": "02.0085",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的职能之一。货币用于清偿债务、支付租金、赋税、利息、工资等的职能。从货币作为支付手段的职能中直接产生了信用货币，表现了货币对商品生产和商品交换的适应。"
+  },
+  {
+   "cn": "纵向转移支付",
+   "en": "vertical transfer payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "上级政府对下级政府的财政转移支付。"
+  },
+  {
+   "cn": "横向转移支付",
+   "en": "horizontal transfer payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.5.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "同级政府之间财政资金的平行转移，一般是财力富裕的地区无偿向财力不足的地区转移支付。"
+  },
+  {
+   "cn": "一般性转移支付",
+   "en": "general transfer payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "上级政府依法将其财政资金转作下级政府财政收入的一种补助方式，是政府间财政关系的重要组成部分。目的是缩小地区间贫富差异。"
+  },
+  {
+   "cn": "专项转移支付",
+   "en": "special transfer payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.5.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "中央财政为实现特定的宏观政策及事业发展战略目标, 以及对委托地方政府代理的一些事务进行补偿而设立的专项补助资金。重点用于教育、医疗卫生、社会保障、支农等公共服务领域。"
+  },
+  {
+   "cn": "预付制",
+   "en": "prospective payment system",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "在医疗费用发生之前，医疗保险方预先向医疗服务提供方设定医疗服务的范围和支付标准的方式。"
+  },
+  {
+   "cn": "后付制",
+   "en": "retrospective payment system",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "医疗保险方在费用发生后，以被保险人实际发生的医疗费用为基础向医疗服务机构进行支付的方式。"
+  },
+  {
+   "cn": "基于投入支付",
+   "en": "input-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.5",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者的工资、设备费用等投入进行支付。"
+  },
+  {
+   "cn": "基于产出支付",
+   "en": "output-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.6",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对服务提供者提供的服务数量和费用等产出进行支付。"
+  },
+  {
+   "cn": "单一支付方式",
+   "en": "single payment method",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.8",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "购买者对所有服务采取同一种支付方式。"
+  },
+  {
+   "cn": "按病种支付",
+   "en": "disease-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.16",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "对覆盖某个病种或疾病的所有服务以固定费用进行支付的方式，多用于住院患者费用支付。"
+  },
+  {
+   "cn": "按床日支付",
+   "en": "per diem payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.2.17.1",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务供方支付制度",
+   "subjectName": "卫生服务供方支付制度",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者按照覆盖一个住院日所发生的所有费用进行支付的方式。一般应用于对住院服务的支付，以床日为支付单元。"
+  },
+  {
+   "cn": "赔付率",
+   "en": "rate of payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "保险机构对投保者发生的保险范围内医疗费用的补偿比例"
+  },
+  {
+   "cn": "优绩优酬",
+   "en": "performance-based payment",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4.2",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "体现医务人员成绩、成效或业绩大小的分配方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

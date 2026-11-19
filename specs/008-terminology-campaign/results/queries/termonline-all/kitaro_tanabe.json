@@ -1,0 +1,432 @@
+{
+ "key": "kitaro tanabe",
+ "term": "Kitarō Tanabe",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:03:38+00:00",
+ "status": "ok",
+ "note": "variant=Kitarō Tanabe; 审定公布名词库=73; 海峡两岸名词对照库=19; 其他来源数据库=1; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "鞣酸酶",
+   "en": "tannase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0376",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_水解酶",
+   "subjectName": "水解酶",
+   "publishYear": "2024",
+   "definition": "催化鞣酸酰基水解的酶。由各种青霉或曲霉在鞣酸存在时产生的一种诱导酶，能切断儿茶酚与没食子酸间的酯键，从鞣酸中释放没食子酸阴离子。编号：EC 3.1.1.20。"
+  },
+  {
+   "cn": "紫杉烷",
+   "en": "taxane",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.188",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤化学治疗_化疗药物",
+   "subjectName": "化疗药物",
+   "publishYear": "2022",
+   "definition": "从裸子植物红豆杉的树皮或针叶中提取或半合成的抗肿瘤药物。基本碳骨架以6/8/6三环并合方式而形成的一类化合物。其中紫杉醇及其类似物作用于微管，干扰细胞内微管的正常装配、分解和稳定，从而在有丝分裂期阻止"
+  },
+  {
+   "cn": "紫杉烷[类]",
+   "en": "taxane",
+   "source": "化学名词",
+   "wordNumber": "02.0497",
+   "subjectFullName": "化学_有机化学_有机化合物_天然产物类名词",
+   "subjectName": "天然产物类名词",
+   "publishYear": "2016",
+   "definition": "基本骨架以6/8/6三环并合方式而形成的化合物。此化合物中的紫杉醇及其类似物是作用于微管类的抗肿瘤药物。<img src='/root/syzx/static/spz/huaxue2.02.0497."
+  },
+  {
+   "cn": "索洛维-基塔耶夫定理",
+   "en": "Solovay-Kitaev theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0082",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "对于任意作用在单量子位上的量子门 U ，可以通过一个有限集合的门操作有效地逼近。"
+  },
+  {
+   "cn": "可调谐滤光片",
+   "en": "tunable filter",
+   "source": "光学名词",
+   "wordNumber": "09.026",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "滤光片的中心波长以及带宽都可以根据需要进行调节的一种滤光片。"
+  },
+  {
+   "cn": "可调谐激光器",
+   "en": "tunable laser",
+   "source": "光学名词",
+   "wordNumber": "10.148",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "输出的激光波长(或频率)可在一定的范围内受控变化的激光器。"
+  },
+  {
+   "cn": "神经原纤维缠结",
+   "en": "neurofibrillary tangle",
+   "source": "神经病学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "神经病学_神经病理学",
+   "subjectName": "神经病理学",
+   "publishYear": "2020",
+   "definition": "神经元胞质内不可溶性的双螺旋丝状物质聚集成团的现象。主要成分是高磷酸化的τ 蛋白，并含有神经丝蛋白和泛素成分，异常聚集呈粗纤维状。见于老龄脑组织、阿尔茨海默病、脑炎后帕金森病、进行性核上性麻痹、唐氏综"
+  },
+  {
+   "cn": "可调谐激光器",
+   "en": "tunable laser",
+   "source": "物理学名词",
+   "wordNumber": "04.2211",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "位错缠结",
+   "en": "dislocation tangle",
+   "source": "物理学名词",
+   "wordNumber": "08.0488",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "涡旋缠结",
+   "en": "vortex tangle",
+   "source": "物理学名词",
+   "wordNumber": "08.3043",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "缠结理论",
+   "en": "tangle theory",
+   "source": "物理学名词",
+   "wordNumber": "01.0552",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "田中奏折",
+   "en": "Tanaka Memorandum",
+   "source": "世界历史名词",
+   "wordNumber": "04.0108",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东北亚",
+   "subjectName": "东北亚",
+   "publishYear": "2012",
+   "definition": "中国方面揭露的、日本内阁总理大臣田中义一根据1927年7月东方会议的决定提出的秘密奏折，具体论述了征服和经营满蒙的政策，暴露了征服中国和世界的野心。"
+  },
+  {
+   "cn": "可调谐激光器",
+   "en": "tunable laser",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.159",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "能以连续方式或同步增长方式改变光谱辐射波长的一种激光器。"
+  },
+  {
+   "cn": "可调谐激光器",
+   "en": "tunable laser",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.487",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_激光器件和激光设备_激光器名称",
+   "subjectName": "激光器名称",
+   "publishYear": "2003",
+   "definition": "输出波长在一定范围内可连续变化的激光器。"
+  },
+  {
+   "cn": "田中公式",
+   "en": "Tanaka formula",
+   "source": "数学名词",
+   "wordNumber": "09.0258",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "海带",
+   "en": "kelp,sea-tangle",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1075",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2020",
+   "definition": "在低温海水中生长的大型海生褐藻植物。常用的食用藻类，含有丰富的碘，热量低、蛋白质含量中等、矿物质丰富，具有降血脂、降血糖、调节免疫、抗凝血、抗肿瘤、排铅解毒和抗氧化等多种效果。"
+  },
+  {
+   "cn": "神经原纤维缠结",
+   "en": "neurofibrillary tangle,NFT",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "03.030",
+   "subjectFullName": "阿尔茨海默病_分子生物学与病理学",
+   "subjectName": "分子生物学与病理学",
+   "publishYear": "2019",
+   "definition": "神经细胞内由过度磷酸化的τ蛋白错误折叠形成的纤维聚集体的异常结构。由双股螺旋细丝组成。正常人脑组织中数量较少，阿尔茨海默病患者脑神经元中大量出现，主要成分有泛素蛋白、神经中间纤维、肌动蛋白和τ 蛋白等"
+  },
+  {
+   "cn": "神经原纤维缠结",
+   "en": "neurofibrillary tangle,NFT",
+   "source": "核医学名词",
+   "wordNumber": "04.0795",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_临床常见神经系统疾病",
+   "subjectName": "临床常见神经系统疾病",
+   "publishYear": "2018",
+   "definition": "阿尔茨海默病的典型病理表现之一。是神经元趋于死亡的标志，也是唯一与临床痴呆症状正相关的一种病理特征。主要由异常过度磷酸化的τ蛋白在神经细胞内聚积致神经原纤维增粗扭曲形成。"
+  },
+  {
+   "cn": "可调谐染料激光器",
+   "en": "tunable dye laser",
+   "source": "光学名词",
+   "wordNumber": "10.051",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "以受激辐射可调频的有机染料溶液作为工作物质的激光器。"
+  },
+  {
+   "cn": "可调谐光发射机",
+   "en": "tunable optical transmitter",
+   "source": "光学名词",
+   "wordNumber": "22.022",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "输出光波长可以动态调节的光发射机。"
+  },
+  {
+   "cn": "基萨拉琴",
+   "en": "kithara",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鞣制",
+   "en": "tannage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "卡纳尔琴",
+   "en": "canale",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "紫杉烷[类]",
+   "en": "taxane",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鞣酸酶",
+   "en": "tannase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "铬鞣",
+   "en": "chrome tannage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "树脂鞣法",
+   "en": "resin tannage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "铁鞣",
+   "en": "iron tannage",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可调谐激光",
+   "en": "tunable laser",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可调谐激光晶体",
+   "en": "tunable laser crystal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "可调谐激光光源",
+   "en": "tunable laser source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最低应税收入",
+   "en": "minimum taxable income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最低征税限额",
+   "en": "lowest taxable limit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "电调滤波器",
+   "en": "electrically tunable filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "电调振荡器",
+   "en": "electrically tunable oscillator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "渡边晓雄",
+   "en": "Watanabe\",\"Akeo(日本)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拉贝",
+   "en": "Raabe\",\"Peter(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "声光可调滤光器",
+   "en": "acousto-optical tunable filter\",\"AOTF",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高压可调谐CO2激光器",
+   "en": "high pressure tunable CO2 laser",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理财正辞",
+   "en": "Manage Wealth Properly and Speak Correctly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治国必先治党治党务必从严",
+   "en": "manage the country first we must well manage the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0653",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2000年1月，江泽民在中共中央纪律检查委员会第四次全体会议上，向全党提出了“治国必先治党，治党务必从严”的治国治党理念。这是党中央对我党70多年的历史和世界社会主义运动的曲折历程的经验与教训的总结和"
+  },
+  {
+   "cn": "用经济方法管理经济",
+   "en": "manage the economy with economic approach",
+   "source": "马克思主义",
+   "wordNumber": "03.0613",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "面对改革的新形势和经济建设的新问题，经济管理人员特别是领导干部必须努力学习现代科学管理方法和有关专业知识，认识和掌握经济规律，按经济规律办事，用经济方法管理经济。只有这样，才能真正提高企业管理水平。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

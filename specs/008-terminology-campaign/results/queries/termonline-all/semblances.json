@@ -1,0 +1,32 @@
+{
+ "key": "semblances",
+ "term": "semblances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:09:18+00:00",
+ "status": "ok",
+ "note": "variant=semblances; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "相似度",
+   "en": "semblance",
+   "source": "石油名词",
+   "wordNumber": "03.0621",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "象",
+   "en": "Xiang (Semblance)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

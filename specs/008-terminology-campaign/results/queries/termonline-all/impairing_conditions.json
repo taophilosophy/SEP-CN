@@ -1,0 +1,762 @@
+{
+ "key": "impairing conditions",
+ "term": "impairing conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:52:55+00:00",
+ "status": "ok",
+ "note": "variant=impairing conditions; 审定公布名词库=1121; 海峡两岸名词对照库=303; 其他来源数据库=26; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "手外科学名词",
+   "wordNumber": "06.0019",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "各种原因所致的身体结构、外形、器官或系统生理功能及心理功能的障碍。干扰了个人正常生活活动（如关节疼痛、活动受限、呼吸困难、骨折等），对日常生活、工作的速度、效率及质量产生一定影响，但实际操作仍能独立完"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "烧伤学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "烧伤学_烧伤康复与整形_烧伤康复治疗",
+   "subjectName": "烧伤康复治疗",
+   "publishYear": "2019",
+   "definition": "患者心理、生理或解剖结构或功能上的由某种原因所导致的功能障碍。"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "老年医学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "各种原因所致的身体结构、外形、器官或系统生理功能以及心理功能的障碍。干扰了个人正常生活活动(如关节疼痛、活动受限、呼吸困难、骨折等)，对日常生活、工作的速度、效率质量产生一定影响，但实际操作仍能独立完"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "就健康范畴而言，是指心理、生理或解剖结构或功能上的损伤或异常。"
+  },
+  {
+   "cn": "损伤",
+   "en": "impairment",
+   "source": "教育学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "心理、生理或解剖上的结构或功能的伤害。"
+  },
+  {
+   "cn": "病损",
+   "en": "impairment",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0234",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": "器官水平的障碍。"
+  },
+  {
+   "cn": "认知损害",
+   "en": "cognitive impairment",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.08",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "各种病因导致的大脑高级功能损害。表现为记忆障碍、计算力下降、思维判断障碍、空间定向力损害、言语功能受损等。"
+  },
+  {
+   "cn": "认知障碍",
+   "en": "cognitive impairment",
+   "source": "行为医学名词",
+   "wordNumber": "17.024",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "认知的缺陷或异常。包括感知障碍、记忆障碍和思维障碍。"
+  },
+  {
+   "cn": "健康受损者",
+   "en": "the impaired",
+   "source": "经济学名词",
+   "wordNumber": "06.042",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "在正常情况下可以做全日工作的劳动者，但因营养不良或卫生保健差而无力做全日工作。"
+  },
+  {
+   "cn": "认知损害",
+   "en": "cognitive impairment",
+   "source": "神经病学名词",
+   "wordNumber": "04.040",
+   "subjectFullName": "神经病学_神经病学症状与体征",
+   "subjectName": "神经病学症状与体征",
+   "publishYear": "2020",
+   "definition": "各种病因导致的大脑高级功能损害，。表现为记忆障碍、计算力下降、思维判断障碍、空间定向力损害、言语功能受损等。"
+  },
+  {
+   "cn": "意识损害",
+   "en": "impaired consciousness",
+   "source": "感染病学名词",
+   "wordNumber": "02.0298",
+   "subjectFullName": "感染病学_系统感染_神经系统感染",
+   "subjectName": "神经系统感染",
+   "publishYear": "2019",
+   "definition": "高级神经中枢处于抑制状态而产生的各种临床表现，包括意识模糊、谵妄、昏睡、昏迷等。"
+  },
+  {
+   "cn": "感觉损伤",
+   "en": "sensory impairment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.089",
+   "subjectFullName": "物理医学与康复_康复功能评定_感觉知觉评定",
+   "subjectName": "感觉知觉评定",
+   "publishYear": "2014",
+   "definition": "在意识清晰的前提下，感觉刺激的阈值增高，即患者对刺激的反应降低的现象。是由于感觉神经遭受破坏性损害，是感受器冲动全部或部分不能传导到感觉中枢所致。"
+  },
+  {
+   "cn": "重听",
+   "en": "hearing impairment",
+   "source": "中医药学名词",
+   "wordNumber": "04.396",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "听觉迟钝的表现，属轻度耳聋。"
+  },
+  {
+   "cn": "惊恐伤肾",
+   "en": "fear impairing kidney",
+   "source": "中医药学名词",
+   "wordNumber": "03.474",
+   "subjectFullName": "中医药学_中医基础理论_病因",
+   "subjectName": "病因",
+   "publishYear": "2004",
+   "definition": "过度惊恐可使肾气不固，气泄于下，而致二便失禁，惊慌失措等症。"
+  },
+  {
+   "cn": "悲忧伤肺",
+   "en": "melancholy impairing lung",
+   "source": "中医药学名词",
+   "wordNumber": "03.475",
+   "subjectFullName": "中医药学_中医基础理论_病因",
+   "subjectName": "病因",
+   "publishYear": "2004",
+   "definition": "过度悲忧可使肺气抑郁，意志消沉，肺气耗伤，而致气短乏力等症。"
+  },
+  {
+   "cn": "思虑伤脾",
+   "en": "worry impairing spleen",
+   "source": "中医药学名词",
+   "wordNumber": "03.476",
+   "subjectFullName": "中医药学_中医基础理论_病因",
+   "subjectName": "病因",
+   "publishYear": "2004",
+   "definition": "思虑劳神过度可伤神损脾，使脾气郁结，运化失职，而致纳呆、腹胀、便溏等症。"
+  },
+  {
+   "cn": "大怒伤肝",
+   "en": "rage impairing liver",
+   "source": "中医药学名词",
+   "wordNumber": "03.478",
+   "subjectFullName": "中医药学_中医基础理论_病因",
+   "subjectName": "病因",
+   "publishYear": "2004",
+   "definition": "过度愤怒可使肝气横逆上冲，血随气逆，并走于上，而致气急上逆，面红目赤，或呕血，甚则昏厥等症。"
+  },
+  {
+   "cn": "空腹血糖受损",
+   "en": "impaired fasting glucose",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "08.080",
+   "subjectFullName": "胰腺与糖尿病及低血糖症_糖尿病_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "糖尿病前期，由正常糖代谢向糖尿病转化的过渡阶段。以空腹血糖达6.1～7.0mmol/L为主要标志。"
+  },
+  {
+   "cn": "轻度认知损害",
+   "en": "mild cognitive impairment",
+   "source": "急救医学名词",
+   "wordNumber": "03.934",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年精神病学",
+   "subjectName": "老年精神病学",
+   "publishYear": "2025",
+   "definition": "有记忆障碍和（或）轻度的其他认知功能障碍，但个体的社会职业或日常生活功能未受影响，亦不能由已知的医学或神经精神疾病解释的，介于正常老化与轻度痴呆之间的一种临床状态。按临床表现可分为遗忘型和非遗忘型。"
+  },
+  {
+   "cn": "综合征性[耳]聋",
+   "en": "syndromic hearing impairment",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.9.1.4.1.3",
+   "subjectFullName": "耳科_耳鸣耳聋",
+   "subjectName": "耳鸣耳聋",
+   "publishYear": "2025",
+   "definition": "伴有身体其他器官异常的遗传性耳聋。"
+  },
+  {
+   "cn": "传输损伤",
+   "en": "transmission impairment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字系统损伤",
+   "en": "digital system impairment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "边界条件",
+   "en": "boundary conditions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区位条件",
+   "en": "locational conditions",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "发育条件",
+   "en": "developmental condition",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遍历条件",
+   "en": "ergodic condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不稳定条件",
+   "en": "unstable condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "初始条件",
+   "en": "initial condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "间冰期状况",
+   "en": "interglacial condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候条件",
+   "en": "climatic condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天空状况",
+   "en": "sky condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "厌氧条件",
+   "en": "anaerobic condition",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症病区",
+   "en": "special ward (for patients with severe conditions)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宜水则水、宜山则山，宜粮则粮、宜农则农，宜工则工、宜商则商",
+   "en": "to make use of the water and mountain resources, grow crops, and develop agriculture, industry or business where conditions permit",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编排",
+   "en": "pairing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排",
+   "en": "pairing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判",
+   "en": "umpire\",\"umpiring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排表",
+   "en": "pairing sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视力损伤",
+   "en": "vision impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以日常生活视力较好眼判断得出的视力或视野功能不足的状态。轻度，4.5（0.3）≤视力<4.7（0.5）；中度，4.0（0.1）≤视力<4.5（0.3）；重度，3.7（0.05）≤视力<4.0（0.1）"
+  },
+  {
+   "cn": "发育受损",
+   "en": "impaired development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "不良环境暴露影响发育进程，导致不可逆损伤的现象。"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "书面表达困难",
+   "en": "impairment in written expression",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在拼写准确性、语法和标点准确性、书面表达清晰度或条理性方面存在明显困难的一种现象。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "听力障碍性言语障碍",
+   "en": "speech disability caused by hearing impairment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于听力障碍所致的言语障碍。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

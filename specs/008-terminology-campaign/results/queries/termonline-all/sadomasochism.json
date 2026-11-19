@@ -1,0 +1,42 @@
+{
+ "key": "sadomasochism",
+ "term": "sadomasochism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:45:21+00:00",
+ "status": "ok",
+ "note": "variant=sadomasochism; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "施虐受虐症",
+   "en": "sadomasochism",
+   "source": "男科及性医学名词",
+   "wordNumber": "19.014",
+   "subjectFullName": "男科及性医学_性心理障碍",
+   "subjectName": "性心理障碍",
+   "publishYear": "2023",
+   "definition": "将捆绑、施加痛苦或侮辱带入性活动的一种性欲倒错障碍。"
+  },
+  {
+   "cn": "施虐受虐症",
+   "en": "sadomasochism",
+   "source": "精神医学名词",
+   "wordNumber": "03.347",
+   "subjectFullName": "精神医学_诊断分类_人格与性心理障碍",
+   "subjectName": "人格与性心理障碍",
+   "publishYear": "2019",
+   "definition": "喜好在性活动中涉及遭受痛苦、侮辱或奴役的一种性偏好障碍。经常是一个人既可以从施虐也可以从受虐获得性兴奋。"
+  },
+  {
+   "cn": "虐恋",
+   "en": "Sadomasochism(SM）",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.8",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一种将快感与痛感联系在一起的性活动，个人通过肉体痛苦（如鞭打）获得性的快感，最重要的特征是快感的非性器官化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

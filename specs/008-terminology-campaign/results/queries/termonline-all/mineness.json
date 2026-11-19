@@ -1,0 +1,672 @@
+{
+ "key": "mineness",
+ "term": "mineness",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:58:44+00:00",
+ "status": "ok",
+ "note": "variant=mineness; 审定公布名词库=653; 海峡两岸名词对照库=68; 其他来源数据库=17; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "矿山",
+   "en": "mine",
+   "source": "冶金学名词",
+   "wordNumber": "02.0007",
+   "subjectFullName": "冶金学_采矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "在一定开采境界内，能形成一定采掘规模的矿石生产经营单位。"
+  },
+  {
+   "cn": "矿山",
+   "en": "mine",
+   "source": "资源科学技术名词",
+   "wordNumber": "16.104",
+   "subjectFullName": "资源科学技术_矿产资源学",
+   "subjectName": "矿产资源学",
+   "publishYear": "2008",
+   "definition": "是开采矿石或生产矿物原料的场所，一般包括一个或几个露天采场、矿井和坑口，以及保证生产所需要的各种辅助车间。按矿山规模大小，可分为大型矿山，中型矿山和小型矿山。"
+  },
+  {
+   "cn": "矿[山]",
+   "en": "mine",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "煤炭科学技术_煤炭科技总论",
+   "subjectName": "煤炭科技总论",
+   "publishYear": "1996",
+   "definition": "(1) 广义：指有完整独立的生产系统，经营管理上相对独立的矿产品生产单位。(2) 狭义:指矿井或露天采场。"
+  },
+  {
+   "cn": "矿用经纬仪",
+   "en": "mine theodolite,mine transit",
+   "source": "冶金学名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "冶金学_采矿_矿山测量",
+   "subjectName": "矿山测量",
+   "publishYear": "2019",
+   "definition": "适用于矿山环境条件的一种经纬仪。主要特点是防爆、防潮，可在急倾斜矿床条件下使用等。"
+  },
+  {
+   "cn": "航空水雷",
+   "en": "aerial mine,airlaunched mine",
+   "source": "航空科学技术名词",
+   "wordNumber": "09.037",
+   "subjectFullName": "航空科学技术_航空武器系统",
+   "subjectName": "航空武器系统",
+   "publishYear": "2003",
+   "definition": "由航空器投放布撒攻击水面和水中目标或限制水面和水中目标活动区域的水雷。"
+  },
+  {
+   "cn": "房式采煤法",
+   "en": "room mining,chamber mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.127",
+   "subjectFullName": "煤炭科学技术_煤矿开采_采煤方法",
+   "subjectName": "采煤方法",
+   "publishYear": "1996",
+   "definition": "每隔一定距离开采煤房,在煤房之间保留煤柱以支撑顶板的采煤方法。"
+  },
+  {
+   "cn": "矿用绞车",
+   "en": "mine winch,mine winder",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.167",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_矿山运输",
+   "subjectName": "矿山运输",
+   "publishYear": "1996",
+   "definition": "用于矿山，借助于钢丝绳牵引以实现其工作目的的设备。包括“摩擦轮运输绞车(friction haulage winch)”，“调度绞车 (dispatching winch)”，“回柱绞车(prop-p"
+  },
+  {
+   "cn": "上行式开采",
+   "en": "ascending mining,upward mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.059",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "分段、区段、分层或煤层由下向上的开采顺序。"
+  },
+  {
+   "cn": "下行式开采",
+   "en": "descending mining,downward mining",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "煤炭科学技术_煤矿开采_井田开拓和采区准备",
+   "subjectName": "井田开拓和采区准备",
+   "publishYear": "1996",
+   "definition": "分段、区段、分层或煤层由上向下的开采顺序。"
+  },
+  {
+   "cn": "矿井提升机",
+   "en": "mine winder,mine hoist",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.171",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_矿井提升",
+   "subjectName": "矿井提升",
+   "publishYear": "1996",
+   "definition": "安装在地面，借助于钢丝绳带动提升容器沿井筒或斜坡道运行的提升机械。分“缠绕式提升机(mine drum winder)”和“摩擦式提升机(mine friction winder)”。"
+  },
+  {
+   "cn": "矿山粉尘",
+   "en": "mine dust",
+   "source": "地质学名词",
+   "wordNumber": "18.02.016",
+   "subjectFullName": "地质学_环境地质学_矿山地质环境",
+   "subjectName": "矿山地质环境",
+   "publishYear": "2026",
+   "definition": "矿山开采过程中，由于放炮、机械凿动、切割、摩擦、振动而产生的岩尘、矿尘等细微颗粒物的总称。粉尘漂游于空气或沉落在巷道中，是构成矿尘爆炸隐患、作业人员职业病和生产环境恶化的主要因素之一。"
+  },
+  {
+   "cn": "矿山噪声",
+   "en": "mine noise",
+   "source": "地质学名词",
+   "wordNumber": "18.02.017",
+   "subjectFullName": "地质学_环境地质学_矿山地质环境",
+   "subjectName": "矿山地质环境",
+   "publishYear": "2026",
+   "definition": "矿山开采和矿石选冶过程中，由于机械、材料与矿体、围岩、原矿石的相互作用(如摩擦、切割、放炮、放顶、高压、冲击等)，产生的噪声。可能会恶化生产环境，危害作业人员身体健康，影响安全生产。"
+  },
+  {
+   "cn": "矿山振动",
+   "en": "mine vibration",
+   "source": "地质学名词",
+   "wordNumber": "18.02.018",
+   "subjectFullName": "地质学_环境地质学_矿山地质环境",
+   "subjectName": "矿山地质环境",
+   "publishYear": "2026",
+   "definition": "矿山开采过程中，因采空顶板压力释放、放顶、放炮、机械与矿体、岩体冲击、摩擦、切割等动力作业产生的振动。强烈的矿山振动是矿山发生安全事故的隐患之一。"
+  },
+  {
+   "cn": "矿震",
+   "en": "mine earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.03.021",
+   "subjectFullName": "地质学_地震地质学_地震类型",
+   "subjectName": "地震类型",
+   "publishYear": "2026",
+   "definition": "矿山开采时形成大面积空洞，破坏了原有应力、应变平衡，在局部形成高应力集中区，在一定的诱发条件下发生的中、小地震。一般震级＜4.5级。"
+  },
+  {
+   "cn": "矿区",
+   "en": "mining area",
+   "source": "地质学名词",
+   "wordNumber": "14.01.017",
+   "subjectFullName": "地质学_矿床学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "泛指曾经开采、正在开采或准备开采的矿床及其毗邻地区。其范围一般没有明确的规定。"
+  },
+  {
+   "cn": "矿山地质学",
+   "en": "mining geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.128",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "研究从矿山建设、生产直至开采结束与矿山地质工作有关的地质理论和方法，为矿山建设和生产提供地质学资料服务的学科。"
+  },
+  {
+   "cn": "矿坑排水",
+   "en": "mine drainage",
+   "source": "地质学名词",
+   "wordNumber": "16.07.008",
+   "subjectFullName": "地质学_水文地质学_矿床水文地质",
+   "subjectName": "矿床水文地质",
+   "publishYear": "2026",
+   "definition": "矿山建设或生产过程中排出进入矿山的地下水和地表水的过程。矿坑排水量的大小取决于井下地质条件和生产方式。"
+  },
+  {
+   "cn": "矿井疏干",
+   "en": "mine draining",
+   "source": "地质学名词",
+   "wordNumber": "16.07.055",
+   "subjectFullName": "地质学_水文地质学_矿床水文地质",
+   "subjectName": "矿床水文地质",
+   "publishYear": "2026",
+   "definition": "用人工排水措施，降低有关含水层的水位(或水压)，使某个采矿水平(中段)的地下水部分或全部被排除，以及使承压含水层的水头降至低于安全水头的过程。根据排水与开采时间的关系，可分为预先疏干、开采疏干和综合疏"
+  },
+  {
+   "cn": "采矿废弃物",
+   "en": "mining waste",
+   "source": "地质学名词",
+   "wordNumber": "17.02.056",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "采矿过程中所产生的无工业价值的矿物和碎石等杂物。"
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "农学名词",
+   "wordNumber": "16.091",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "从大量不完全的有噪声数据集中识别有效和有价值的数据，并进行数据价值发现的过程。"
+  },
+  {
+   "cn": "采矿",
+   "en": "mining",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "水雷",
+   "en": "mine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "矿用炸药",
+   "en": "mining explosive",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矿用钢",
+   "en": "mining steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "海底采矿",
+   "en": "submarine mining",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "海洋采矿业",
+   "en": "marine mining",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "采矿工程师",
+   "en": "mining engineer",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矿业城市",
+   "en": "mining city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "露天开采",
+   "en": "strip mining",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据挖掘",
+   "en": "data mining",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矿山测量",
+   "en": "mine survey",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "矿山测量图",
+   "en": "mining map",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "矿山测量学",
+   "en": "mine surveying",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "矿山经纬仪",
+   "en": "mining theodolite",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数据采掘，数据挖掘",
+   "en": "data mining",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本采掘，文本挖掘",
+   "en": "text mining",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "猎雷舰",
+   "en": "mine hunter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "采矿船",
+   "en": "mining dredger",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "沉雷（水雷）",
+   "en": "sunken mine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "雷锚",
+   "en": "mine anchor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "观点挖掘",
+   "en": "opinion mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系挖掘",
+   "en": "relationship mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社团挖掘算法",
+   "en": "community mining algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比特币挖矿机",
+   "en": "Bitcoin mining computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据价值挖掘",
+   "en": "data value mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色矿山建设",
+   "en": "green mining construction",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "矿业大数据",
+   "en": "big data of mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据挖掘技术标准",
+   "en": "technical standard for data mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据挖掘：概念与技术》（〔美〕韩家炜、〔美〕米什莱恩·坎伯）",
+   "en": "Data Mining: Concepts and Techniques (Jiawei Han & Micheline Kamber, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "农业农村部农批市场价格挖掘及可视化平台",
+   "en": "Agricultural Product Wholesale Market Price Mining and Visualization Platform of the Ministry of Agriculture and Rural Affairs",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "岂曰无衣，与子同裳。",
+   "en": "Fear not the want of armor, for mine is also yours to wear.或Together we stand, my armors thine.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "慈",
+   "en": "Kindness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "投桃报李",
+   "en": "Return Kindness with Kindness / Return Goodwill in Kind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "旷达",
+   "en": "Broad-mindedness / Unconstrained Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚壹而静",
+   "en": "Open-mindedness, Concentration, and Tranquility",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一画",
+   "en": "All Forms of Painting as Multiplied from a Single Stroke / Oneness in Painting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矿业民俗",
+   "en": "mining folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0085",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "与矿业生产和矿区生活密切相关的一系列传统习俗、信仰、仪式和社会行为，主要包括民间探矿、采矿、矿产运输与加工、贸易等一系列民俗，涉及五行地脉、矿工组织、生产工具、运输工具、安全防护、行业神崇拜、行会、规"
+  },
+  {
+   "cn": "铀矿井通风",
+   "en": "ventilation in uranium mines",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "从地面向铀矿井内不断地供给足够的新鲜空气，同时将井内污浊的空气不断地排至地面的过程。"
+  },
+  {
+   "cn": "铀矿山治理",
+   "en": "remediation of uranium mine",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.15",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过一定的工程措施把铀矿山采矿活动造成的放射性污染控制在可接受的范围内的过程。"
+  },
+  {
+   "cn": "铀矿露天开采",
+   "en": "open pit of uranium mining",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过从地表线剥离覆盖岩层，而后开采铀矿石的开采方式。"
+  },
+  {
+   "cn": "伴生放射性矿",
+   "en": "mines associated with natural radioactivity",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.18",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "原矿、中间产品、尾矿、尾渣或者其他残留物中铀（钍）系单个核素活度浓度超过 1Bq/g的非铀（钍）矿。"
+  },
+  {
+   "cn": "铀矿冶废物",
+   "en": "wastes from mining and milling of uranium ore",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "来自铀矿开采和铀矿石的加工、精制过程中产生的放射性废物。"
+  },
+  {
+   "cn": "仁慈",
+   "en": "kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁爱慈善。是人们在处理人际关系时应努力做到与人为善，不求回报，随时注意关怀、爱戴、宽容、帮助、体贴和理解他人的境遇或需求。它与“爱”“同情”“仁爱”或“利他主义”相联系。"
+  },
+  {
+   "cn": "过熟",
+   "en": "over-ripeness",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.19",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "水果生理发育过度成熟，导致某些水果果肉变软、产生不正常褐色和香味损失，营养和食用品质下降的过程。"
+  },
+  {
+   "cn": "慈爱",
+   "en": "loving-kindness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0659999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对于晚辈或脆弱者的怜爱、帮助及善举。"
+  },
+  {
+   "cn": "蔬菜成熟度",
+   "en": "vegetable ripeness",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.19",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "蔬菜生物学成熟度和商品成熟度的统称。生物学成熟度，指种子或生理成熟的程度，商品成熟度，又称食用成熟度，指产品器官质量符合商品要求的程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

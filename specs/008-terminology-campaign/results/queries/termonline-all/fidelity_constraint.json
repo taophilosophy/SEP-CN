@@ -1,0 +1,632 @@
+{
+ "key": "fidelity constraint",
+ "term": "fidelity constraint",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:45:31+00:00",
+ "status": "ok",
+ "note": "variant=fidelity constraint; 审定公布名词库=864; 海峡两岸名词对照库=376; 其他来源数据库=11; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "物理学名词",
+   "wordNumber": "01.0275",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "植物学名词",
+   "wordNumber": "13.0281",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "指示物种分布局限于某个群落类型的程度。总是对应于某个群落类型而言的，分为5级，由其局限于某个群落类型的程度由高到低分别称为确限种、偏宜种、适宜种、随遇种、偶见种。"
+  },
+  {
+   "cn": "保真性",
+   "en": "fidelity",
+   "source": "物理学名词",
+   "wordNumber": "01.0276",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0039",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "度量两个量子态（量子数据）相似程度的量。对于纯量子态，由两个量子态内积的模平方表示。"
+  },
+  {
+   "cn": "忠实度",
+   "en": "fidelity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0575",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "机器译文的评价准则之一。衡量机器译文表达原文信息的程度。"
+  },
+  {
+   "cn": "忠实度",
+   "en": "fidelity",
+   "source": "语言学名词",
+   "wordNumber": "11.267",
+   "subjectFullName": "语言学_计算语言学_机器翻译",
+   "subjectName": "机器翻译",
+   "publishYear": "2011",
+   "definition": "评价机器翻译译文的一个标准。表示译文和原文内容差异的程度。"
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "生态学名词",
+   "wordNumber": "06.039",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "某个种局限于某一群落类型的局限性程度。"
+  },
+  {
+   "cn": "保真度",
+   "en": "fidelity",
+   "source": "电子学名词",
+   "wordNumber": "03.302",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0241",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录产生的RNA与对应的DNA模板碱基序列配对的正确性。为准确传递遗传信息所必需。"
+  },
+  {
+   "cn": "声音逼真度",
+   "en": "acoustic fidelity",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0646",
+   "subjectFullName": "地球物理学_勘探地球物理学_井筒_放射性勘探",
+   "subjectName": "放射性勘探",
+   "publishYear": "2022",
+   "definition": "声音仿真对仿真对象某个侧面或整体的外部状态和行为的复现程度，用界于0和 1之间的小数表示， 0表示仿真与仿真对象之间没有任何相似的地方； 1表示仿真完全精确地复现了仿真对象。 "
+  },
+  {
+   "cn": "信息保真",
+   "en": "information fidelity",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.216",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "信息处理和传输中对原有实质内容的真实保存。"
+  },
+  {
+   "cn": "克隆保真度",
+   "en": "cloning fidelity",
+   "source": "物理学名词",
+   "wordNumber": "11.0367",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "课程实施的忠实取向",
+   "en": "fidelity orientation",
+   "source": "教育学名词",
+   "wordNumber": "02.074",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "一种课程实施取向。在课程实施过程中忠实地执行课程方案，衡量课程实施成功与否的基本标准是课程实施过程实现预定的课程方案的程度。"
+  },
+  {
+   "cn": "模型逼真度",
+   "en": "model fidelity",
+   "source": "自动化名词",
+   "wordNumber": "04.589",
+   "subjectFullName": "自动化科学技术_控制技术_仿真",
+   "subjectName": "仿真",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "约束条件",
+   "en": "constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.090",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题中，对优化变量（包括状态和决策变量）取值的限制条件。具有等式与不等式、线性与非线性、代数与（偏）微分等形式。"
+  },
+  {
+   "cn": "约束条件",
+   "en": "constraint",
+   "source": "冶金学名词",
+   "wordNumber": "04.0734",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "对目标函数求最优值所伴随的限制条件。"
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0134",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "刻画变量间关系和变量取值限制的一个断言。"
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0511",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "妨碍系统取得与目标有关的更高绩效水平的任何要素或因素。约束可能是实体的，如机器或缺少原材料；也可能是管理政策和方法造成的。"
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0511",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "解数学规划问题时，变量与变量之间的关系。"
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.620",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "给予模型限定。"
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保真度，逼真度",
+   "en": "fidelity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "fidelity\",\"exclusiveness",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确限度",
+   "en": "exclusiveness\",\"fidelity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转录保真性",
+   "en": "transcription fidelity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像逼真[度]",
+   "en": "image fidelity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制",
+   "en": "constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "约束［条件］",
+   "en": "constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "constraint",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "约束",
+   "en": "restriction\",\"constraint",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "发育制约",
+   "en": "developmental constraint",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候约束[因子]",
+   "en": "climatic constraint",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等式约束",
+   "en": "equality constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理约束",
+   "en": "physical constraint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "约束方程",
+   "en": "constraint equation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "剂量约束",
+   "en": "dose constraint",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "能力制约",
+   "en": "capability constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "权威制约",
+   "en": "authority constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "组合制约",
+   "en": "coupling constraint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "无线（局域）网",
+   "en": "wireless fidelity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日新",
+   "en": "Constant Renewal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经/权",
+   "en": "Constant and Temporary",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "彝伦",
+   "en": "Yilun / Constant Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常",
+   "en": "Constant Laws of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天行有常",
+   "en": "Nature’s Ways Are Constant.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心无常，惟惠之怀",
+   "en": "The People’s Hearts Know No Constant Leader; They Yearn Only for Kind-hearted Leadership.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剂量约束",
+   "en": "dose constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "作为在计划照射情况下源的防护与安全最优化的一个参数，用以限定最优化选择的边界。"
+  },
+  {
+   "cn": "危险约束",
+   "en": "risk constraint",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "一个预测的和源相关的个人危险值，在计划照射情况下，作为该源防护和安全最优化的参数，并用作最优化中方案选择范围的一个边界。"
+  },
+  {
+   "cn": "参与约束",
+   "en": "participation constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。，在委托–代理理论中关于委托人在进"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "激励相容约束",
+   "en": "incentive compatibility constraint",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "在委托–代理理论中关于委托人在进行激励机制的设计时所面临的一个约束条件。在委托人不知道代理人的类型(不能完全观测到代理人所选择的行动)的情况下，代理人在所设计的机制下必须有积极性选择委托人希望他选择的"
+  },
+  {
+   "cn": "常量喷雾器",
+   "en": "constant sprayer",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.7.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "可将消毒液形成喷雾液滴，其中直径在100μm以上的雾粒占85%以上，使得环境或物品表面全部润湿，从而进行普通喷雾消毒的设备。"
+  },
+  {
+   "cn": "衰变常量",
+   "en": "decay constant",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "特定能态的放射性核素的一个原子核在单位时间内发生自发衰变的概率。符号为λ。其与半衰期（T1/2）的关系为：λ=ln2/T1/2。"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0111",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“可变资本”相对。指在生产中用于生产资料上的那一部分资本。生产资料（即厂房、机器、设备、燃料、原材料和辅助材料等）在生产过程中不会增加价值，而只是把原有的价值转移到新的产品上，故称之为不变资本，用c"
+  },
+  {
+   "cn": "衰变常数",
+   "en": "decay constant",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.9.4",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "某种放射性核素的一个原子核在单位时间内发生衰变的几率。"
+  },
+  {
+   "cn": "常量喷雾消毒",
+   "en": "constant spraying disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.7.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将消毒液雾化喷洒于物体表面或空间进行的消毒处理。其中雾粒直径在100μm以上占85%以上，常用于物体表面消毒。"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.071",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家提倡的人与人之间的道德标准。指五种道德意识和道德规范，即仁、义、礼、智、信。"
+  },
+  {
+   "cn": "常量喷雾",
+   "en": "constant volume spray",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "利用喷片孔径1.3mm～1.6mm 的喷雾器，以恒定的压力将浓度在千分之一以上的药物以雾滴直径达到120μm～126μm 程度进行喷洒，以达到对媒介生物进行控制的方法。"
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在自由空气中，距离单位活度点源单位距离处的空气比释动能率，Γδ，记作戈瑞平方米每贝可秒"
+  },
+  {
+   "cn": "规模收益不变",
+   "en": "constant returns to scale",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在技术水平保持一定的情况下，生产要素投入量与产出量成同比例增加的情况。"
+  },
+  {
+   "cn": "恒压高压发生器",
+   "en": "constant potential high-voltage generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "输出电压波纹率不超过规定值的高压发生器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

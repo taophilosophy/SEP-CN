@@ -1,0 +1,812 @@
+{
+ "key": "collective consumption",
+ "term": "collective consumption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:47:03+00:00",
+ "status": "ok",
+ "note": "variant=collective consumption; 审定公布名词库=1068; 海峡两岸名词对照库=233; 其他来源数据库=47; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "农学名词",
+   "wordNumber": "19.033",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "将生产出来的物质产品或精神产品用于满足个人生活需要的行为和过程。是社会再生产过程中的一个重要环节。"
+  },
+  {
+   "cn": "消费",
+   "en": "consumption ",
+   "source": "草学名词",
+   "wordNumber": "2.0449",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消耗",
+   "en": "consumption",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0210",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_其他",
+   "subjectName": "其他",
+   "publishYear": "2022",
+   "definition": "因使用或受损失而逐渐减少。 "
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "经济学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "经济学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "社会再生产过程的环节之一，人们使用物质资料满足生产和生活需要的过程。包括生产消费和生活消费。前者指生产过程中工具、原料、燃料等的消耗，后者指人们为满足其生活需要而耗费各种物质资料和精神产品。"
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "生态学名词",
+   "wordNumber": "07.181",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "被食者被消费者所取食的部分。"
+  },
+  {
+   "cn": "集",
+   "en": "collection",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.063",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "由单个作品汇集编选而成的出版物。"
+  },
+  {
+   "cn": "收集",
+   "en": "collection ",
+   "source": "草学名词",
+   "wordNumber": "4.0641",
+   "subjectFullName": "草学_种子和育种_牧草种质资源",
+   "subjectName": "牧草种质资源",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "馆藏评估",
+   "en": "collection assessment,collection evaluation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.012",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "图书馆依照一定的标准，对已采集和收藏的文献资源及其效用进行调查、分析与评价的过程。主要涉及馆藏的物理状态、馆藏的范围与结构、资源的规模与质量、资源的利用及满足读者需求的情况等方面的内容。"
+  },
+  {
+   "cn": "藏书补缺",
+   "en": "collection supplement,collection replacement",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.344",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "图书馆针对因书籍亡佚、系列藏书不完整等造成的已有藏书不足，或者因为用户新需求、服务对象范围扩展等引起的对新书籍进行的藏书补充活动。"
+  },
+  {
+   "cn": "用水量",
+   "en": "water consumption",
+   "source": "风景园林名词",
+   "wordNumber": "08.0867",
+   "subjectFullName": "风景园林_风景园林工程_风景园林给水",
+   "subjectName": "风景园林给水",
+   "publishYear": "2025",
+   "definition": "用水对象消耗的水量。"
+  },
+  {
+   "cn": "消费结构",
+   "en": "consumption structure",
+   "source": "农学名词",
+   "wordNumber": "19.034",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "各类消费支出在总消费支出中所占的比重结构。"
+  },
+  {
+   "cn": "消费倾向",
+   "en": "consumption tendency",
+   "source": "农学名词",
+   "wordNumber": "19.036",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费随着收入的增加而增加，但消费增加量一般小于收入增加量的现象。常用消费支出占收入的比例表示。"
+  },
+  {
+   "cn": "消费支出",
+   "en": "consumption expenditure",
+   "source": "农学名词",
+   "wordNumber": "19.039",
+   "subjectFullName": "农业经济与管理_应用经济",
+   "subjectName": "应用经济",
+   "publishYear": "2025",
+   "definition": "消费者购买最终产品和服务的支出。"
+  },
+  {
+   "cn": "绿色消费",
+   "en": "green consumption",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.216",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "国际消费者联盟于1963年正式提出的概念。指消费者以崇尚自然、保护生态和避免环境破坏为目的，以有益人类健康、满足自然界生态平衡需要为基本内涵，有意识地选择符合人的健康和环境保护标准的绿色产品或服务的消"
+  },
+  {
+   "cn": "消耗预测",
+   "en": "consumption prediction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.128",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "基于多维度统计数据，对单位的能耗/物耗的年度生产规划进行预测，把握消耗趋势，控制存储量，减少浪费，降低生产成本的活动。"
+  },
+  {
+   "cn": "氧耗",
+   "en": "oxygen consumption",
+   "source": "麻醉学名词",
+   "wordNumber": "03.379",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_血流动力学监测",
+   "subjectName": "血流动力学监测",
+   "publishYear": "2024",
+   "definition": "机体单位时间内通过有氧代谢等消耗氧的量。反映组织摄取氧和利用氧的能力。因为机体摄取的氧绝大部分用于消耗，因此用测定的摄取氧量来代表氧耗量。一般用每分钟消耗氧的毫升数表示。取决于机体组织的功能代谢状态。"
+  },
+  {
+   "cn": "油墨消耗量",
+   "en": "ink consumption",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.085",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "使用某一印版印刷时所需要的油墨的湿体积。"
+  },
+  {
+   "cn": "可持续消费",
+   "en": "sustainable consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.0259",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生态消费",
+   "en": "ecological consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.026",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "绿色消费",
+   "en": "green consumption ",
+   "source": "草学名词",
+   "wordNumber": "3.0261",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "消耗量",
+   "en": "consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "收集",
+   "en": "collection",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标本收藏",
+   "en": "collection",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "采集，采收",
+   "en": "collection",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "能量损耗",
+   "en": "energy consumption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "功率消耗",
+   "en": "power consumption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "氧耗量,耗氧量",
+   "en": "oxygen consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "食物消费量",
+   "en": "food consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸消费量",
+   "en": "respiratory consumption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大量消费",
+   "en": "heavy consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "公共消费",
+   "en": "public consumption",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "消费基金",
+   "en": "consumption fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "耗氧量",
+   "en": "oxygen consumption",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大众消费",
+   "en": "mass consumption",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "消耗试验",
+   "en": "consumption test",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "耗氧量",
+   "en": "oxygen-consumption",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "燃油消耗量",
+   "en": "fuel consumption",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "勒马",
+   "en": "collect\",\"collection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消费多元化",
+   "en": "diversified consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协同消费",
+   "en": "collaborative consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动消费",
+   "en": "mobile consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体智慧",
+   "en": "collective wisdom",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集体拦网",
+   "en": "collective block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据采集",
+   "en": "Data Collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字典藏",
+   "en": "digital collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缩短快步",
+   "en": "collected trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短跑步",
+   "en": "collected canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智慧用能",
+   "en": "intelligent energy consumption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "服务消费",
+   "en": "consumption of services",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实物消费",
+   "en": "consumption of products ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电子不停车收费",
+   "en": "Electronic Toll Collection",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总集",
+   "en": "General Collection / Anthology",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "暴力催收",
+   "en": "violent debt collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合规采集",
+   "en": "compliant data collection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费",
+   "en": "consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0024",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们为满足物质、文化精神生活等各种需要而对物品和服务的消耗与花费的行为和过程。是社会再生产过程中的一个重要环节，是恢复人们劳动力和劳动力再生产必不可少的条件。消费又分为生产消费和个人消费。"
+  },
+  {
+   "cn": "集体",
+   "en": "collectivity",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.13",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "许多人以共同价值、共同活动目的和任务为基础，高度组织起来的具有团结性、整合水平较高的群体。是群体发展的高级阶段。与“个体”相对。"
+  },
+  {
+   "cn": "炫耀性消费",
+   "en": "conspicuous consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.28",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "富裕的上层阶级对物品超出实用和生存所必需的浪费性、奢侈性消费。这种消费用来向他人炫耀和展示自己的金钱财力和社会地位，并享受这种地位所带来的荣耀、声望和名誉。由凡勃伦(Thorstein Bunde V"
+  },
+  {
+   "cn": "符号消费",
+   "en": "symbolic consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.42",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "指向消费品所象征和代表的审美、品质、情调和气氛等符号意义的消费。消费的过程也是消费者进行意义建构、趣味区分、文化分类和社会关系再生产的过程。在这种消费中，消费的主体地位被取消了，商品所对应的外在符号体"
+  },
+  {
+   "cn": "文化消费",
+   "en": "cultural consumption",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.28",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "以文化产品为对象的消费活动。"
+  },
+  {
+   "cn": "个人消费",
+   "en": "individual consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0157",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "本来意义上的消费，是有别于生产消费的个人生活消费，即人们为了满足个人物质和文化生活需要而对各种产品和劳务的使用。"
+  },
+  {
+   "cn": "生产消费",
+   "en": "productive consumption",
+   "source": "马克思主义",
+   "wordNumber": "02.0158",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质资料生产过程中生产资料和劳动力的消费。人们生产产品，必须消耗某些原料、燃料和辅助材料，机器、工具和厂房也会磨损，这是生产资料的消费；与此同时，劳动者还要支出脑力和体力，这是劳动力的消费。"
+  },
+  {
+   "cn": "消费异化",
+   "en": "consumption alienation",
+   "source": "马克思主义",
+   "wordNumber": "05.0080",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "当代资本主义社会普遍发生的人与消费品的异化现象，虚假需要的出现，消费由日常生活消费走向炫耀性消费。"
+  },
+  {
+   "cn": "健康消费",
+   "en": "health consumption",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.3.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "健康可以使个体感到舒适，个体可以从健康直接获得效用的行为。"
+  },
+  {
+   "cn": "食物消费量",
+   "en": "food consumption",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.47",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "个体或群体消费固体食物、饮料（包括饮水）、膳食补充剂的量"
+  },
+  {
+   "cn": "消费频次",
+   "en": "consumption frequency",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.68",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "个体或群体在一定时间内食用某种食品的频率。可以用每年食用该食物的天数、一年中的用餐次数、年度进食的次数、一年内食用该食物的次数，或者一年内食用的100 克食物的份数等表示。"
+  },
+  {
+   "cn": "消费系数",
+   "en": "consumption index",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.63",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某种特定食品接触材料包装的食品重量占所有食品接触材料包装的食品重量的比例。"
+  },
+  {
+   "cn": "集体行为",
+   "en": "collective behavior",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "在人群聚集的场合下，受共同的情绪或心境影响而产生思想和活动的过程，其中既缺少领导结构又不受现有社会规范的控制，通常是无明确目的、无行动计划的众多人的行为，具有自发性、狂热性和非结构性等特点。美国社会学"
+  },
+  {
+   "cn": "集体制",
+   "en": "collective ownership",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "生产资料归一定范围的劳动群众共同所有的集体所有制产权和组织管理形式，亦即劳动者与生产资料在该集体范围内结合并实行按劳分配的一种经济形式。该制度广泛存在于中国城乡组织体系内，作为社会主义公有制的一种补充"
+  },
+  {
+   "cn": "集体行动",
+   "en": "collective action",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "集体行为组织化的形式，指有少数或许多个体参加的、涉及群体利益、集团利益或共同利益的、具有很大自发性的非正式的群体行为或制度外的政治行为，后者属于社会运动范畴。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "群体自尊",
+   "en": "collective esteem",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "个体会对其所属的群体产生的价值判断和情感体验。克罗克(Jennifer Crocker)和卢赫塔宁(Riia Luttanen)在社会认同理论的基础上提出。"
+  },
+  {
+   "cn": "集体农庄",
+   "en": "collective farm",
+   "source": "马克思主义",
+   "wordNumber": "02.0302",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联农业集体经济组织的基本形式。苏联在农业集体化运动中曾出现三种集体经济的组织形式：共耕社、农业劳动组合和农业公社。1930年联共（布）中央确定农业劳动组合是集体农庄运动的基本形式，通常就把它称为“集"
+  },
+  {
+   "cn": "集体利益",
+   "en": "collective interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0179",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“个人主义”相对。有两种不同的涵义：(1)即“社会利益”。(2)组成集体的各个个体的共同利益或根本利益。在社会主义条件下，个人利益、集体利益和社会利益三者在本质上是一致的。当个人利益与集体利益、集体"
+  },
+  {
+   "cn": "集体领导",
+   "en": "collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0261",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "集体领导是无产阶级政党和社会主义国家的领导原则。它的主要内容是：一切重大问题由各级党的委员会集体民主讨论决定；决定问题必须严格遵守少数服从多数的原则；集体领导和个人分工负责相结合；集体领导作出的决定要"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

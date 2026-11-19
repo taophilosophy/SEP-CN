@@ -1,0 +1,792 @@
+{
+ "key": "godel's fixed",
+ "term": "Gödel’s Fixed",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:52:22+00:00",
+ "status": "ok",
+ "note": "variant=Gödel’s Fixed; 审定公布名词库=1244; 海峡两岸名词对照库=327; 其他来源数据库=25; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "定位",
+   "en": "fixing",
+   "source": "精细化工名词",
+   "wordNumber": "07.0108",
+   "subjectFullName": "精细化工_胶黏剂",
+   "subjectName": "胶黏剂",
+   "publishYear": "2025",
+   "definition": "胶接时，被粘物固定在理想位置上的过程。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.109",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "通过加热或其他方法使色粉熔化并固着到承印物上的过程。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "测绘学名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "摄影处理中去除未感光或感光后未还原的银盐，使显出的影像得以稳定的过程。"
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "物理学名词",
+   "wordNumber": "04.0806",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "固定剂",
+   "en": "fixative",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "组织学与胚胎学_组织学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "固定细胞、组织用的化学物质。"
+  },
+  {
+   "cn": "固定剂",
+   "en": "fixative",
+   "source": "细胞生物学名词",
+   "wordNumber": "11.73",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "固定样品的化学试剂。可快速穿过细胞质膜，并将细胞中的生物大分子固相化，从而使死细胞的结构接近原生活状态。常用的固定剂有乙醇、冰醋酸、甲醛、戊二醛等。"
+  },
+  {
+   "cn": "固定支座",
+   "en": "fixed support,fixed bearing",
+   "source": "土木工程名词",
+   "wordNumber": "05.172",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混合式种植",
+   "en": "fixed planting",
+   "source": "风景园林名词",
+   "wordNumber": "09.0300",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "在一定单元面积上采用规则式与不规则式相结合的配植方式。"
+  },
+  {
+   "cn": "固定模型",
+   "en": "fixed model",
+   "source": "农学名词",
+   "wordNumber": "01.196",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "描述受固定因素支配的现象或过程的定量化关系表达。除随机误差外，仅包含固定效应。其中各个处理的平均效应是一个固定的常量。"
+  },
+  {
+   "cn": "固定碳",
+   "en": "fixed carbon",
+   "source": "农学名词",
+   "wordNumber": "14.218",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "生物质除去水分、灰分和挥发分后的固态产物。主要成分为碳元素。"
+  },
+  {
+   "cn": "固定床",
+   "en": "fixed-bed",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.113",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "在进行多相过程的设备中，若有固相参与，且处于静止状态时，设备内的固体颗粒物料层称为固定床。"
+  },
+  {
+   "cn": "固定资产",
+   "en": "fixed asset",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.025",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "企业为生产商品、提供劳务、出租或者经营管理而持有的、使用寿命超过一个会计年度、价值达到一定标准的有形资产。"
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.037",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在一定时期和一定业务量范围内，不受业务量增减变动影响保持不变的成本。如折旧、修理费、管理费用等。"
+  },
+  {
+   "cn": "固定式装置",
+   "en": "fixed mounting",
+   "source": "天文学名词",
+   "wordNumber": "06.101",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "指向的仰角和方位角基本或完全固定的望远镜机架形式，为天顶望远镜等采用。"
+  },
+  {
+   "cn": "固定碳",
+   "en": "fixed carbon",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0346",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "煤经热解出挥发分之后，剩下的不挥发物称为焦渣，焦渣减去灰分后的剩余部分。"
+  },
+  {
+   "cn": "固定症状",
+   "en": "fixed symptom",
+   "source": "兽医学名词",
+   "wordNumber": "13.307",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在整个疾病过程中必然出现的特征性症状。"
+  },
+  {
+   "cn": "固定资产",
+   "en": "fixed asset",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.072",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "核算书刊发行企业持有的单项价值1 000元及以上、使用期限在1年以上，而且在使用过程中基本保持其原有实物形态的那部分劳动工具、劳动条件和其他物品。"
+  },
+  {
+   "cn": "固定放牧",
+   "en": "fixed grazing ",
+   "source": "草学名词",
+   "wordNumber": "2.0505",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "定模",
+   "en": "fixed die",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0843",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "挤出注塑设备中，模具从分模线位置分开，此时模具有一边是固定不动的，称为定模。"
+  },
+  {
+   "cn": "大定源装置",
+   "en": "fixed circle",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0320",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "瞬变电磁法探测中沿着穿过发射电流环剖面各测点测量磁场信号的装置。 "
+  },
+  {
+   "cn": "固定剂",
+   "en": "fixative",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定影",
+   "en": "fixing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "固定巨噬细胞",
+   "en": "fixed macrophage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "固定细胞",
+   "en": "fixed cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "固定资本",
+   "en": "fixed capital",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定费用",
+   "en": "fixed charge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不挥发油",
+   "en": "fixed oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定床",
+   "en": "fixed bed",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定氮",
+   "en": "fixed nitrogen",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定消耗量",
+   "en": "fixed charge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "固定因素",
+   "en": "fixed factor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定期票据",
+   "en": "fixed bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定贷款",
+   "en": "fixed loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定费用",
+   "en": "fixed charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定负债",
+   "en": "fixed liability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定关税",
+   "en": "fixed duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定汇兑",
+   "en": "fixed exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定价格",
+   "en": "fixed price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "固定定价",
+   "en": "fixed pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固定点出发",
+   "en": "fixed start",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定齿轮",
+   "en": "fixed pinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定压舱物",
+   "en": "fixed ballast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "固定障碍",
+   "en": "fixed obstacle\",\"solid obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诗无达诂",
+   "en": "Poetry Defies Fixed Interpretation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定点扶贫",
+   "en": "fixed-point poverty alleviation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动产质押融资模式",
+   "en": "non-fixed  asset financing model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定额不限次网上小额贷款",
+   "en": "unlimited online small loans with fixed quota",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "mixed defense",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正反握",
+   "en": "mixed grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合区",
+   "en": "mixed zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合赛制",
+   "en": "mixed system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合双打",
+   "en": "mixed doubles",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合旋转",
+   "en": "mixed spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合现实",
+   "en": "mixed reality (MR)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "固定污染",
+   "en": "fixed contamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "正常工作条件下进行操作时，不会受到人和仪器的机械运动强度影响的表面放射性污染。通常需要采用高效去污方法来清除的污染。"
+  },
+  {
+   "cn": "固定资本",
+   "en": "fixed capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0201",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“流动资本”相对。生产资本中具有独特的流通方式和独特的周转方式的那部分不变资本，具体指由厂房，机器设备等劳动资料构成的那部分生产资本。"
+  },
+  {
+   "cn": "定息",
+   "en": "fixed interest",
+   "source": "马克思主义",
+   "wordNumber": "02.0361",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在资本主义工商业社会主义改造中，国家在全行业公私合营后，对资本家所有的生产资料实行赎买的一种形式。根据清产核资的估价，资本家按资本额每年收取5%的定息。实行定息后，资本家的剥削收入被限制在固定的股息内"
+  },
+  {
+   "cn": "固定投入",
+   "en": "fixed input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在短期内生产者无法进行数量调整的那部分要素投入。"
+  },
+  {
+   "cn": "固定成本",
+   "en": "fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额在一定时期和一定业务范围内，服务量增减变动时保持一定的成本。"
+  },
+  {
+   "cn": "护色剂",
+   "en": "color fixative",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.12",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能与肉及肉制品中呈色物质作用，使之在食品加工、保藏等过程中不致分解、破坏，呈现良好色泽的物质。"
+  },
+  {
+   "cn": "固定剂量法",
+   "en": "fixed-dose procedure",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.10",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "不以动物死亡为终点，而以明显的毒性体征作为终点进行评价的方法。"
+  },
+  {
+   "cn": "定群研究",
+   "en": "fixed cohort study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.3.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在随访观察开始之后没有研究对象再进入队列的队列研究。"
+  },
+  {
+   "cn": "定位模板",
+   "en": "fixed pattern plate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.27",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "保证粒籽源在植入孔内注入方向不改变的模板。"
+  },
+  {
+   "cn": "固定式监测仪表",
+   "en": "fixed monitoring instrument",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.3.9",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用",
+   "subjectName": "工业辐照应用",
+   "publishYear": "2025",
+   "definition": "固定在工作场所某个位置，用于测量工作场所辐射水平的装置。"
+  },
+  {
+   "cn": "固定效应模型",
+   "en": "fixed-effects model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.151",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在方差分析中，每一个自变量上的类别效应都被模型作固定值的模型。属于广义线性分析的特例。"
+  },
+  {
+   "cn": "半固定成本",
+   "en": "semi fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额在某一时期内，当服务量超过一定范围时才会变动的成本。"
+  },
+  {
+   "cn": "平均固定成本",
+   "en": "average fixed cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "平均每生产一单位产品所耗费的固定成本。"
+  },
+  {
+   "cn": "目标年薪制",
+   "en": "fixed annual salary",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.4.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "医院根据绩效目标设定医务人员年度薪酬的分配方式，通常由基础年薪和绩效年薪两部分构成，旨在体现医务人员技术劳务价值、调动医务人员积极性、提高医疗服务质量和水平。"
+  },
+  {
+   "cn": "固定式宫内节育器",
+   "en": "fixed intrauterine device",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由特制放置针固定在子宫底部肌层的无支架含铜的活性宫内节育器。为6个小铜套穿在一根尼龙线上，上、下2个固定在线上，中间4个可活动，铜表面积为330平方毫米。特别适用于子宫颈口松弛及反复发生节育器脱落的女"
+  },
+  {
+   "cn": "固定式剂量率报警仪",
+   "en": "fixed dose rate alarm",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "固定安装在场所的某一位置、当探测到的电离辐射超过预定值时能发出声光等报警信号的装置。"
+  },
+  {
+   "cn": "固定资本形成费用",
+   "en": "Gross fixed capital formation",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1.3",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "固定资本形成费用是指核算期内卫生服务提供机构获得的资产（扣除同类资产的处置价值），即在卫生服务提供过程中重复使用或者使用期限在一年以上的资产总价值，反映卫生服务提供机构提供医疗卫生用品和服务的资本性投"
+  },
+  {
+   "cn": "包产到户",
+   "en": "fixing output quota for individual household",
+   "source": "马克思主义",
+   "wordNumber": "02.0389",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在土地等基本生产资料集体所有的前提下，农户以家庭为单位进行承包，包工、包产、包费用，并根据产量获得相应报酬的农业生产责任制形式，是家庭承包经营的一种形式。随着农村改革的逐步深入和发展，包产到户逐步演变"
+  },
+  {
+   "cn": "混合流",
+   "en": "mixed flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "单向流和非单向流组合的气流。"
+  },
+  {
+   "cn": "混合设计",
+   "en": "mixed designs",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.159",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "既包含非重复测量因素，又包含重复测量因素的实验设计。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

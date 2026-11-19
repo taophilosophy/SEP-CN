@@ -1,0 +1,792 @@
+{
+ "key": "violence not sex",
+ "term": "violence not sex",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:44:29+00:00",
+ "status": "ok",
+ "note": "variant=violence not sex; 审定公布名词库=5035; 海峡两岸名词对照库=1809; 其他来源数据库=326; 预公布名词数据库=250; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "暴力内容",
+   "en": "violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "在传媒中呈现的，运用肢体或器具，以对生物(指人、动物、超自然生物和拟人化物体)或物品构成肉体上的痛苦、伤害或损毁的威胁或行为。对于此类威胁或行为的描述或呈现可能诱发受众特别是心智尚未成熟的未成年人进行"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "行为医学名词",
+   "wordNumber": "7.061",
+   "subjectFullName": "行为医学_健康相关行为_健康危害行为",
+   "subjectName": "健康危害行为",
+   "publishYear": "2022",
+   "definition": "实施有意图或可能导致损害或破坏的行为。往往将暴力活动施加于他人，可能造成人身或财产损害。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.097",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "校园暴力",
+   "en": "campus violence;school violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.013",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  },
+  {
+   "cn": "网络暴力",
+   "en": "internet violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.175",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "由网民个体或群体交互行动所实施的，以言语攻击、形象恶搞、隐私披露、舆论审判等形式呈现出来的，可能致使当事人的名誉权、隐私权等人格权益受损的一系列网络失范行为。网络暴力多局限于舆论范围，尽管网络暴力可能"
+  },
+  {
+   "cn": "媒介暴力",
+   "en": "media violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.095",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "①大众媒介中含有可能会对人们正常生活造成不良影响的暴力内容；如对攻击性行为的描写、对暴力快感的渲染或者对暴力行为的肯定和褒扬等。20世纪70年代美国研究者在对电视传播效果研究中认为，媒介暴力的出现与儿"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "暴力行为",
+   "en": "violence behavior",
+   "source": "行为医学名词",
+   "wordNumber": "14.007",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "蓄意运用躯体力量或权力，对自身、他人、群体或社会进行威胁或伤害，造成或极有可能造成损伤、死亡、精神伤害、发育障碍或权益被剥夺的行为。"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.009",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "群体暴力",
+   "en": "intergroup violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.01",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "由群体或团体实施的暴力行为。如种族清洗、恐怖主义、战争等。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "family violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.012",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "家庭成员之间以殴打、捆绑、残害、限制人身自由及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "home violence",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "行为人以殴打、捆绑、残害、强行限制人身自由或者其他手段，给其家庭成员的身体、精神等方面造成一定伤害后果的行为。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "教育学名词",
+   "wordNumber": "15.093",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "学校内部或者外部人员在学校里对学生实施的暴力行为。"
+  },
+  {
+   "cn": "直接暴力",
+   "en": "direct violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.098",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "间接暴力",
+   "en": "indirect violence",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.099",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "sex",
+   "source": "男科及性医学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "男科及性医学_学科概论",
+   "subjectName": "学科概论",
+   "publishYear": "2023",
+   "definition": "男性和女性个体的特征性区别。这些特征包括生殖结构、功能、表型和基因型等。"
+  },
+  {
+   "cn": "性别",
+   "en": "sex",
+   "source": "兽医学名词",
+   "wordNumber": "07.214",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "雌雄两性的特质区别。"
+  },
+  {
+   "cn": "性别鉴定",
+   "en": "sex discrimination,sexing",
+   "source": "畜牧学名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "对初生雏禽进行公、母性别判别。分为肛门鉴别、仪器鉴别和伴性性状自别等方法。"
+  },
+  {
+   "cn": "非门",
+   "en": "NOT gate",
+   "source": "物理学名词",
+   "wordNumber": "03.1055",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非门",
+   "en": "NOT gate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0160",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "使输入信号反相的逻辑电路。当输入是0时，输出为1，反之亦然。"
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非我",
+   "en": "not me",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sex\",\"sexuality",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sex\",\"sexuality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "性别分化",
+   "en": "sex differentiation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别决定",
+   "en": "sex determination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性别嵌合体",
+   "en": "sex mosaic",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性染色质",
+   "en": "sex chromatin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "遗传性别",
+   "en": "genetic sex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性反转，性逆转，性转换",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性激素",
+   "en": "sex hormone",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性逆转（=性反转）",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性指数",
+   "en": "sex index",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性转换（=性反转）",
+   "en": "sex reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性别歧视",
+   "en": "sex discrimination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性驱力",
+   "en": "sex drive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性染色体",
+   "en": "sex chromosome",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "网络暴力攻击",
+   "en": "cyber violence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效",
+   "en": "muko\",\"not valid",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效箭",
+   "en": "arrow not regarded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "和而不同",
+   "en": "Harmony but Not Uniformity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "光而不耀",
+   "en": "Bright but Not Dazzling",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "述而不作",
+   "en": "Record but Not Write",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比而不党",
+   "en": "Be Close but Not Cliquish",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停止接待群体性聚餐",
+   "en": "Group meals are not allowed. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不战在我",
+   "en": "<div> Do not Engage the Enemy If Victory Is Not Guaranteed.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子不器",
+   "en": "A Gentleman Is Not an Implement.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信言不美，美言不信",
+   "en": "Trustworthy Words May Not Be Fine-sounding; Fine-sounding Words May Not Be Trustworthy.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵贵胜，不贵久",
+   "en": "In War, Seek Quick Victory, Not Prolongation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "白马非马",
+   "en": "A White Horse Is Not a Horse",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天命靡常",
+   "en": "Heaven-bestowed Supreme Power Is Not Eternal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "勇于不敢",
+   "en": "Courage Lies in Not Venturing into Action.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意下水道的通畅",
+   "en": "to ensure that sewers are not clogged",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暴力",
+   "en": "violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0031",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级斗争或政治活动中一种激烈而强制性的力量。在阶级社会，统治阶级运用国家政权及其军队、警察、监狱等暴力机构维护其统治。被统治阶级通常也通过武装斗争等暴力手段进行反抗。因而暴力具有鲜明的阶级性。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.40",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员之间的身体、精神、性等方面的侵害行为。发生于有血缘、婚姻、收养关系而生活在一起的家庭成员之间，如丈夫对妻子、父母对子女、成年子女对父母等。"
+  },
+  {
+   "cn": "性别暴力",
+   "en": "gender violence",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.18",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "基于性别因素而对他人（包括异性和同性）实施的暴力行为，包括身体暴力、精神暴力、语言暴力、性暴力、经济控制、行为控制等多种形式。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "政治暴力",
+   "en": "political violence",
+   "source": "马克思主义",
+   "wordNumber": "03.0217",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "为了政治目的而使用的包括军队、警察、法庭、监狱等所有物质力量。它是政治权力的基础和后盾，但不是政治权力本身。政治暴力往往是在政治权力的合法性得不到认同时所诉诸的最后手段。"
+  },
+  {
+   "cn": "校园暴力",
+   "en": "school violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "发生在校园内外，主要针对教育者和被教育者，破坏教学秩序和校园安全的暴力行为。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。"
+  },
+  {
+   "cn": "社会暴力",
+   "en": "social violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "社会上的个人、集体或网络、媒体等对某件事或人的漠视或过度关注，造成个人或家庭生活及工作上的精神折磨的行为。"
+  },
+  {
+   "cn": "网络暴力",
+   "en": "internet violence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过网络发表具有攻击性、煽动性、侮辱性言论的行为。这些言论打破道德底线，造成当事人名誉受损。"
+  },
+  {
+   "cn": "暴力预防",
+   "en": "violence prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止校园内所有的暴力行为发生发展而采取的一系列措施。"
+  },
+  {
+   "cn": "躯体暴力",
+   "en": "physical violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "有意使用体力、武器或其他物体导致他人发生实际或潜在伤害的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "在任何地点发生的由任何人强行施加与受害者的性行为、性行为企图或其它直接针对他人性特征的强迫行为，而不论该行为人与受害人的关系如何。"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "任何有意为之并损害女性心理健康和造成精神痛苦的的言语或行为，主要包括恐吓、威胁、吼叫、嘲笑、侮辱、霸道、监视控制、歧视等。"
+  },
+  {
+   "cn": "约会暴力",
+   "en": "dating violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.4",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "发生在正约会交往或曾约会交往者、现有或曾有性关系者、同居关系者之间，以殴打、捆绑、禁闭、残害或者其他手段对约会对方从身体、精神、性等方面进行伤害和摧残以及经济控制的行为。"
+  },
+  {
+   "cn": "经济暴力",
+   "en": "economic violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.5",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "控制女性获得、使用以及保持经济收入的行为，目的是使女性在经济上无自主权并强化男性在家庭中的主导地位。"
+  },
+  {
+   "cn": "人际暴力",
+   "en": "interpersonal violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "发生在人与人之间，由个体直接做出，对他人身体和（或）心理造成伤害的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.7",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "结构性暴力",
+   "en": "structural violence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0245",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由美国人类学家方马尔（Paul Edward Farmer）提出的医学人类学概念，认为政治、经济的不平等在处于社会边缘的人群身上可能体现为大规模的暴力性疾病。"
+  },
+  {
+   "cn": "家庭暴力",
+   "en": "domestic violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.1",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "家庭成员之间的身体、精神、性等方面的侵害行为。发生于有血缘、婚姻、收养关系而生活在一起的家庭成员之间，如丈夫对妻子、父母对子女、成年子女对父母等。"
+  },
+  {
+   "cn": "生理性别",
+   "en": "sex",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "生理学和解剖学意义划分不同性别的标准，被认为是两性之间与生俱来的天然差别。简称“性别”。3.2.1.2  社会性别  gender"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

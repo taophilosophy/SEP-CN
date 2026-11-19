@@ -1,0 +1,542 @@
+{
+ "key": "ausserordentlicher professor",
+ "term": "außerordentlicher Professor",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:47:43+00:00",
+ "status": "ok",
+ "note": "variant=außerordentlicher Professor; 审定公布名词库=91; 海峡两岸名词对照库=49; 其他来源数据库=6; 预公布名词数据库=7; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "［正］教授",
+   "en": "professor",
+   "source": "教育学名词",
+   "wordNumber": "08.134",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校教师专业技术职务的最高一级。由学术造诣深厚、教学经验丰富的教师担任，对所在学科专业的教学科研负有指导责任。"
+  },
+  {
+   "cn": "讲座教授",
+   "en": "chair professor",
+   "source": "教育学名词",
+   "wordNumber": "08.143",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "在德国、日本等国高等学校主持教学、科研基层单位讲座的教授。"
+  },
+  {
+   "cn": "助理教授",
+   "en": "assistant professor",
+   "source": "教育学名词",
+   "wordNumber": "08.136",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "美、加等国高等学校教师专业技术职务名称之一。一般低于副教授而高于讲师。"
+  },
+  {
+   "cn": "副教授",
+   "en": "associate professor",
+   "source": "教育学名词",
+   "wordNumber": "08.135",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校教师高级专业技术职务名称之一。仅次于教授。"
+  },
+  {
+   "cn": "客座教授",
+   "en": "visiting professor",
+   "source": "教育学名词",
+   "wordNumber": "08.145",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校聘请的来自国内外高等学校或其他学术机构的专家、学者。他们或在一段时间内以全部或部分时间在校工作，或仅不定期地提供有关的学术咨询。"
+  },
+  {
+   "cn": "名誉教授",
+   "en": "honorary professor",
+   "source": "教育学名词",
+   "wordNumber": "08.144",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校聘请著名的教授、学者担任的荣誉职务。一般无报酬，无任职期限和固定工作要求。"
+  },
+  {
+   "cn": "兼职教授",
+   "en": "part-time professor,adjunct professor",
+   "source": "教育学名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "兼任某高等学校教学、科研工作的教授。不占学校编制，不定教学工作量，根据兼任的工作量取酬。"
+  },
+  {
+   "cn": "红色教授学院",
+   "en": "institute of red professorate",
+   "source": "教育学名词",
+   "wordNumber": "04.193",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "20世纪二三十年代在苏联出现的一种为高等学校培养社会科学学科教师、为政府部门和科研机构培养工作人员的高级教学科研机构。"
+  },
+  {
+   "cn": "专业",
+   "en": "profession",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "随着人类社会科学技术的进步，在人类生活生产实践中，用来描述职业生涯某一阶段、某一人群为了谋生而长时期从事的具体业务和作业规范。也指高等学校或中等专业学校根据社会分工的需要设立的学业类别。"
+  },
+  {
+   "cn": "职业",
+   "en": "occupation,profession",
+   "source": "计划生育名词",
+   "wordNumber": "01.146",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "劳动者为了获得维持本人和家庭生活所需，通过劳动发挥个人才能并为社会做贡献的工作。"
+  },
+  {
+   "cn": "新闻行业",
+   "en": "journalism profession",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "新闻学与传播学_新闻理论_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "专职从事新闻采集、制作、传播的各个专业领域，以及与这些领域相关的管理和经营系统、传播技术系统的统称。"
+  },
+  {
+   "cn": "教师专业",
+   "en": "teacher profession",
+   "source": "教育学名词",
+   "wordNumber": "09.036",
+   "subjectFullName": "教育学_教师教育_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2013",
+   "definition": "以教书育人为主要职责的、具有独特知识和能力要求和专门条件，经过规定时间的专门训练，形成合格素质的一种专业。"
+  },
+  {
+   "cn": "图书馆职业研究",
+   "en": "library profession studies",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.148",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "将图书馆作为一门独立的社会职业进行考察与研究的学问。主要包括对图书馆的社会角色、基本职能、职业特征、职业道德规范与职业素质、与相关职业的关系等方面的研究。"
+  },
+  {
+   "cn": "播音主持业务",
+   "en": "broadcasting and hosting profession",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "5.126",
+   "subjectFullName": "新闻学与传播学_应用新闻_广播电视实务_广播电视播音主持",
+   "subjectName": "广播电视播音主持",
+   "publishYear": "2022",
+   "definition": "中国播音学的三大基本领域之一。主要指广播电视各专业门类的实务。可分为广播播音主持和电视播音主持两大类。广播播音主持又分为新闻播音、评论播音、通讯播音、文艺播音、谈话节目主持；电视播音主持可分为新闻节目"
+  },
+  {
+   "cn": "建筑师执业知识",
+   "en": "knowledge on architectural profession",
+   "source": "建筑学名词",
+   "wordNumber": "04.0025",
+   "subjectFullName": "建筑学_建筑教育_建筑教育内容",
+   "subjectName": "建筑教育内容",
+   "publishYear": "2014",
+   "definition": "与建筑师职业相关的专业知识。包括建筑师工作职责、建设领域相关法规、设计规范、项目设计程序和建设流程等。"
+  },
+  {
+   "cn": "师范专业思想",
+   "en": "student's disposition towards teaching profession",
+   "source": "教育学名词",
+   "wordNumber": "09.225",
+   "subjectFullName": "教育学_教师教育_教师专业素养",
+   "subjectName": "教师专业素养",
+   "publishYear": "2013",
+   "definition": "师范专业学生应具备的对从事教师工作的理想、信念、意义、价值等问题的基本认识。"
+  },
+  {
+   "cn": "伎作户",
+   "en": "ji zuo hu;skilled profession household;",
+   "source": "中国古代史名词",
+   "wordNumber": "4.236",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "南北朝以来直属官府的匠作、伎乐之户。包括各种工匠及乐舞艺人，有专籍，隶于主管官府，世代强制服役，身份往往高于奴婢，低于平民。为保障官府需要，常放免后又增加。隋唐以来仍多有之，后渐以雇役为主，后世仅某些"
+  },
+  {
+   "cn": "富含AU的元件",
+   "en": "AU-rich element;ARE",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.396",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "天然不稳定mRNA3端非编码区的AUUUA重复序列。是一种顺式作用元件。"
+  },
+  {
+   "cn": "富含AU的元件",
+   "en": "AU-rich element,ARE",
+   "source": "遗传学名词",
+   "wordNumber": "03.521",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "天然不稳定mRNA3'端非翻译区的AUUUA重复序列，是顺式调控元件。"
+  },
+  {
+   "cn": "处理器",
+   "en": "processor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0284",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "计算机中解释和执行指令并对指令流进行控制的部件，是硬件的核心。"
+  },
+  {
+   "cn": "富含AU元件",
+   "en": "AU-rich element\",\"ARE",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行处理器",
+   "en": "parallel processor",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阵列处理器",
+   "en": "array processor",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标量处理器",
+   "en": "scalar processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理机对",
+   "en": "processor pair",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理机利用率",
+   "en": "processor utilization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理器分配",
+   "en": "processor allocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理器管理",
+   "en": "processor management",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理器调度",
+   "en": "processor scheduling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多语种处理机",
+   "en": "multilanguage processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "附属处理器",
+   "en": "attached processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关联处理机",
+   "en": "associative processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "流水线处理器",
+   "en": "pipeline processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命令处理程序",
+   "en": "command processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视频处理器",
+   "en": "video processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数组处理器",
+   "en": "array processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双处理器",
+   "en": "dual processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "通信处理机",
+   "en": "communication processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外围处理机",
+   "en": "peripheral processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文本处理器",
+   "en": "text processor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "处理者",
+   "en": "processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人处理器",
+   "en": "robot processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子处理器",
+   "en": "quantum processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类脑处理器",
+   "en": "brain-inspired processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字信号处理器",
+   "en": "digital signal processor (DSP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 27018-2014 信息技术 安全技术 可识别个人信息（PII）处理者在公有云中保护PII的实践指南》",
+   "en": "ISO/IEC 27018:2014 Information technology — Security techniques — Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律职业",
+   "en": "legal profession",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "与法律有关的、以专业法律知识为基础的职业。如法官、检察官和律师等。"
+  },
+  {
+   "cn": "医疗专业",
+   "en": "health professions",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "专业(profession）是一种需要广泛、系统性知识、技能或科学训练的职业。具备对知识体系的独占或垄断能力，并获得社会大众对此权威的认可，是专业不可或缺的要件。医疗专业即医疗领域中符合上述条件的职业"
+  },
+  {
+   "cn": "社会工作职业",
+   "en": "social work profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "从事社会工作相关活动的人员所构成的专门职业。该职业需要专门的技能与方法，从业者必须通过专门的技能培训和职业资格考试，遵守相关的职业道德，被社会普遍认同，并在相应的机构从事服务工作。"
+  },
+  {
+   "cn": "专业的特质",
+   "en": "trait of profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "1957年格林伍德所著的分析专业特征的著作。专业的职业应当具有5个特质：一个专业应该有一套系统的、支持其活动的理论体系；该种活动具有专业权威；职业内部有伦理守则；它已被社会广泛认可；这一职业群体形成了"
+  },
+  {
+   "cn": "社会工作相近专业",
+   "en": "social work-related profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.10.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作教育",
+   "subjectName": "社会工作教育",
+   "publishYear": "2025",
+   "definition": "高等教育体系中与社会工作专业邻近的专业。社会学、经济学、政治学、法学、伦理学、社会心理学、教育学、管理学以及环境科学等专业。"
+  },
+  {
+   "cn": "三百六十行",
+   "en": "all trades and professions",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0061",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "古代行业的分类。行业之说，始于唐代。据《清波杂录》记载，唐代有三十六行；到了宋代，随着生产技术的发展，社会行业的增多，改称为七十二行；到了元代，人们又把七十二行改称为一百二十行。到了明代，又有“三百六"
+  },
+  {
+   "cn": "对专业的伦理责任",
+   "en": "ethical responsibility for the profession",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者对于所属的整个社会工作专业应承担的道德责任和相应行为准则，包括维持专业正直、社区服务、发展知识的责任。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

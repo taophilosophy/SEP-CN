@@ -1,0 +1,462 @@
+{
+ "key": "complements",
+ "term": "complements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T02:53:13+00:00",
+ "status": "ok",
+ "note": "variant=complements; 审定公布名词库=127; 海峡两岸名词对照库=70; 其他来源数据库=3; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0338",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一类存在于人和脊椎动物血清中协助免疫反应的一组血清蛋白质。可被抗原-抗体复合物或微生物所激活，导致病原微生物裂解或被吞噬。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.3.1.1",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "广泛存在于血清、组织液和细胞膜表面，具有调控机制的蛋白质反应系统。包括30余种组分。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "兽医学名词",
+   "wordNumber": "14.129",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "存在于正常动物和人血清中的一组不耐热酶原。活化后产生级联反应，在体内发挥重要的生物学效能。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "器官移植学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成，是一个具有精密调控机制的蛋白质反应系统。其可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、免疫"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "运动医学名词",
+   "wordNumber": "04.173",
+   "subjectFullName": "运动医学_运动生化_激素、免疫、细胞因子与运动",
+   "subjectName": "激素、免疫、细胞因子与运动",
+   "publishYear": "2019",
+   "definition": "一组具有酶活性的血清蛋白质。与抗体结合可使细菌或其他细胞溶解。其主要成分有：C1~C9、B因子、C1抑制因子和C4结合蛋白等，其中C1的活化可以引起其他成分的连续顺序性活化。其介导的生物学效应有：溶解"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "药学名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "原指血清中引起免疫性细胞溶解的不耐热因子；现指至少由20种截然不同的血清蛋白组成的完整功能相关系统，该系统不仅是细胞性溶解的效应物，而且也是生物功能的效应物。"
+  },
+  {
+   "cn": "补语",
+   "en": "complement",
+   "source": "语言学名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。是述补短语的组成成分，位于述语之后，主要由形容词和少数动词性成分充当，用来补充说明动作的结果、程度或状态。例如，“吃〈完〉”“洗〈干净〉”。个别副词也可以作补语，例如“好〈极〉了”。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "一类存在于人和脊椎动物血清中协助免疫反应的一组血清蛋白质。可被抗原-抗体复合物或微生物所激活，导致病原微生物裂解或被吞噬。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "免疫学名词",
+   "wordNumber": "2.357",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成，是一个具有精密调控机制的蛋白质反应系统。该系统可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.319",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "补码器",
+   "en": "complementer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0226",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机逻辑部件",
+   "subjectName": "计算机逻辑部件",
+   "publishYear": "2018",
+   "definition": "产生一个数的补码的逻辑电路。"
+  },
+  {
+   "cn": "互补",
+   "en": "complementation",
+   "source": "兽医学名词",
+   "wordNumber": "16.245",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "两种病毒混合感染时，由于一种病毒为另一种病毒提供了其必需的但又不能自己合成的基因产物，从而促进其增殖的现象；或者两种病毒互相为对方提供所必需的基因产物，使双方的增殖均有所促进的现象。"
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "植物学名词",
+   "wordNumber": "10.0098",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "两对基因分别处于纯合显性或杂合显性状态时共同决定一种性状的发育，当只有一对基因是显性或两对基因都是隐性时，则表现为另一种性状的现象。子二代(<img src='/root/syzx/static/sp"
+  },
+  {
+   "cn": "互补[作用]",
+   "en": "complementation",
+   "source": "微生物学名词",
+   "wordNumber": "06.066",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "一个基因使细胞中功能缺失的同源基因表型得以正常化的相互补充作用。"
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "遗传学名词",
+   "wordNumber": "02.375",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "在一个二倍体细胞里，两个亲本的基因组各自补足另一个基因组所缺失功能的过程。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement, C",
+   "source": "感染病学名词",
+   "wordNumber": "01.0197",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "存在于正常人和动物血清、组织液和细胞膜表面的一组不耐热、经活化后具有酶活性的蛋白质。因可帮助抗体消灭细菌而得名。可分为补体固有成分、补体调控成分和补体受体。"
+  },
+  {
+   "cn": "补体系统",
+   "en": "complement system",
+   "source": "兽医学名词",
+   "wordNumber": "14.130",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "由参与补体激活和调控的各种成分及补体受体所组成的多分子系统。"
+  },
+  {
+   "cn": "补体系统",
+   "en": "complement system",
+   "source": "感染病学名词",
+   "wordNumber": "01.0198",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成的一个具有精密调控机制的蛋白质反应系统。可通过3条既相对独立又相互联系的途径被激活，从而发挥调节吞噬、裂解细胞、介导炎症、调节免疫"
+  },
+  {
+   "cn": "补体结合",
+   "en": "complement fixation",
+   "source": "感染病学名词",
+   "wordNumber": "01.0199",
+   "subjectFullName": "感染病学_总论_宿主防御机制",
+   "subjectName": "宿主防御机制",
+   "publishYear": "2019",
+   "definition": "在抗原与抗体的相互作用过程中活化补体系统的过程。经典补体活化顺序伴随着免疫溶血，此时补体因子C1～C9以连锁反应的方式依次被活化，最终结果是表面承担抗原抗体系统相互作用的红细胞被溶解。"
+  },
+  {
+   "cn": "配补本",
+   "en": "complement edition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.198",
+   "subjectFullName": "图书馆·情报与文献学_文献学_版本学",
+   "subjectName": "版本学",
+   "publishYear": "2019",
+   "definition": "集合不同书版印成的书。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补码",
+   "en": "complement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船员定员",
+   "en": "complement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补码器",
+   "en": "complementer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "α互补",
+   "en": "alpha complemention\",\"α-complementation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体系统",
+   "en": "complement system",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "补体蛋白质",
+   "en": "complement protein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体[固有]成分",
+   "en": "complement component",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体[系统]",
+   "en": "complement [system]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体激活",
+   "en": "complement activation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体结合",
+   "en": "complement fixation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体偏离",
+   "en": "complement deviation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体受体",
+   "en": "complement receptor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体抑制因子",
+   "en": "complement inhibitor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体受体",
+   "en": "complement receptor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "染色体组",
+   "en": "chromosome complement",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.44",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "一个具有精密调控机制的蛋白质反应系统，由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成。可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、免疫调节"
+  },
+  {
+   "cn": "原发性补体缺陷",
+   "en": "primary complement deficiency disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "由于先天性补体缺陷导致的疾病，大多数属常染色体隐性遗传。可出现反复感染，或伴发系统性红斑狼疮和慢性肾炎等。C1抑制剂缺陷患者表现为特有的遗传性血管神经性水肿。"
+  },
+  {
+   "cn": "自力更生为主争取外援为辅",
+   "en": "selfreliance is the core while seeking foreign aid is the complement",
+   "source": "马克思主义",
+   "wordNumber": "03.0499",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党领导革命和建设的一贯主张。既是新民主主义革命时期中国共产党领导革命斗争和开展根据地建设的战略和策略，也是社会主义经济建设以及外交工作的重要方针。"
+  },
+  {
+   "cn": "国务院实施《中华人民共和国民族区域自治法》若干规定",
+   "en": "State Council Implements Several Provisions of Law of People's Republic of China on Regional Ethnic Autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.007",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "国务院制定的实施民族区域自治法的第一部行政法规。2005 年5 月19 日公布，5 月31 日起施行，主要是对民族区域自治法第六章上级国家的职责的内容进行细化，始终将进一步规范上级国家机关对民族自治地"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
