@@ -1,0 +1,562 @@
+{
+ "key": "bridges vita",
+ "term": "Bridges Vîță",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:23:01+00:00",
+ "status": "ok",
+ "note": "variant=Bridges Vîță; 审定公布名词库=1022; 海峡两岸名词对照库=237; 其他来源数据库=35; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "连接梁",
+   "en": "bridge",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.380",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床零部件",
+   "subjectName": "机床零部件",
+   "publishYear": "2021",
+   "definition": "连接两立柱上端的零件。"
+  },
+  {
+   "cn": "甲桥",
+   "en": "bridge",
+   "source": "动物学名词",
+   "wordNumber": "6.0212",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_爬行纲",
+   "subjectName": "爬行纲",
+   "publishYear": "2021",
+   "definition": "爬行动物龟鳖类腹甲的舌板和下板向两侧延伸的部分。以韧带或骨缝与背甲相连。"
+  },
+  {
+   "cn": "桥接器",
+   "en": "bridge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0112",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在局域网中工作在数据链路层、连接两个或多个相同或相似的局域网的功能单元。"
+  },
+  {
+   "cn": "桥梁",
+   "en": "bridge",
+   "source": "建筑学名词",
+   "wordNumber": "03.0167",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "架在水上或山间以便通行的构筑物。"
+  },
+  {
+   "cn": "桥架",
+   "en": "bridge",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0067",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_机构和零部件",
+   "subjectName": "机构和零部件",
+   "publishYear": "2013",
+   "definition": "供起重机小车在其上横移用的桥架型起重机主要承载结构，或门式和半门式起重机支腿之间的结构件。"
+  },
+  {
+   "cn": "桥",
+   "en": "bridge",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.169",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "跨越河流、山谷、障碍物或其他交通线而修建的架空通道。"
+  },
+  {
+   "cn": "网桥",
+   "en": "bridge",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "一种在链路层实现中继，常用于连接两个或更多个局域网的网络互连设备。"
+  },
+  {
+   "cn": "桥楼",
+   "en": "bridge",
+   "source": "船舶工程名词",
+   "wordNumber": "04.186",
+   "subjectFullName": "船舶工程_船体结构、强度及振动",
+   "subjectName": "船体结构、强度及振动",
+   "publishYear": "1998",
+   "definition": "船中部的船楼。"
+  },
+  {
+   "cn": "驾驶台",
+   "en": "bridge",
+   "source": "航海科技名词",
+   "wordNumber": "08.0022",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "桥[梁]",
+   "en": "bridge",
+   "source": "公路交通科技名词",
+   "wordNumber": "04.146",
+   "subjectFullName": "公路交通科学技术_桥、涵、隧道、渡口工程",
+   "subjectName": "桥、涵、隧道、渡口工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "电桥",
+   "en": "bridge",
+   "source": "电子学名词",
+   "wordNumber": "17.076",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "网桥",
+   "en": "bridge",
+   "source": "电子学名词",
+   "wordNumber": "21.366",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "搭桥",
+   "en": "bridging",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.110",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形",
+   "subjectName": "压制及成形",
+   "publishYear": "2021",
+   "definition": "粉末体形成拱形孔穴的现象。"
+  },
+  {
+   "cn": "桥接",
+   "en": "bridging",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.370",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "基于公共的链路层协议将两个通信网络互连，并基于链路地址选择要传递的数据的过程。"
+  },
+  {
+   "cn": "舟桥",
+   "en": "boat bridge,pontoon bridge,bateau bridge",
+   "source": "土木工程名词",
+   "wordNumber": "06.043",
+   "subjectFullName": "土木工程_桥梁工程_桥梁类型",
+   "subjectName": "桥梁类型",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "浮桥",
+   "en": "pontoon bridge,floating bridge,bateau bridge",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0395",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "陆桥",
+   "en": "continental bridge,land bridge",
+   "source": "植物学名词",
+   "wordNumber": "02.0364",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "因地壳上升或海平面下降而露出水面，连接两个大陆或陆块而成为动植物迁移通道的陆地。"
+  },
+  {
+   "cn": "人行桥",
+   "en": "pedestrian bridge,foot bridge",
+   "source": "土木工程名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "土木工程_桥梁工程_桥梁类型",
+   "subjectName": "桥梁类型",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桥位",
+   "en": "bridge site,bridge location",
+   "source": "土木工程名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "土木工程_桥梁工程_桥梁总体规划与设计",
+   "subjectName": "桥梁总体规划与设计",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "梁式桥",
+   "en": "girder bridge,beam bridge",
+   "source": "土木工程名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "土木工程_桥梁工程_桥梁类型",
+   "subjectName": "桥梁类型",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电桥",
+   "en": "bridge",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "琴马",
+   "en": "bridge",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连接部",
+   "en": "bridge",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "电桥",
+   "en": "bridge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网桥",
+   "en": "bridge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "甲桥",
+   "en": "bridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "驾驶台",
+   "en": "bridge",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桥楼",
+   "en": "bridge",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连续像片衔接",
+   "en": "bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "陆桥",
+   "en": "continental bridge\",\"land bridge",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "驾驶台间通信",
+   "en": "bridge-to-bridge communication",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桥连碳正离子",
+   "en": "bridged carbocation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "鼻梁",
+   "en": "nasal bridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "动静脉桥",
+   "en": "arteriovenous bridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "横桥",
+   "en": "cross bridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞质桥",
+   "en": "cytoplasmic bridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "染色单体桥",
+   "en": "chromatid bridge",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色质桥",
+   "en": "chromatin bridge",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "[细]胞间桥",
+   "en": "intercellular bridge",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原生质桥",
+   "en": "protoplasmic bridge",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做桥",
+   "en": "bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角力桥",
+   "en": "bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桥",
+   "en": "bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高桥",
+   "en": "high bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半桥",
+   "en": "half bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低桥",
+   "en": "low bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆脱桥",
+   "en": "bridge escape",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桥接性指数",
+   "en": "bridging index",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "压桥",
+   "en": "break the bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新亚欧大陆桥",
+   "en": "New Eurasian Land Bridge",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关系“桥”",
+   "en": "bridge",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "社会网络中，提供给两节点之间唯一联系的一条线。两节点之间只能通过这一特定路径，实现信息或影响力的流动，属于弱关系。"
+  },
+  {
+   "cn": "骨桥",
+   "en": "bone bridge",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.28",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "两个相邻的骨质之间，因某种因素导致的，骨质的异常增生，而使两骨质融合的部分。"
+  },
+  {
+   "cn": "索桥",
+   "en": "suspension bridge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0095",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "用竹索或藤索、铁索等为骨干相拼悬吊起的大桥，主要由桥塔、主缆、加劲梁、锚碇、吊索、鞍座及桥面结构等组成，索有藤、竹、皮绳和铁链等几种，多建于水流急不易做桥墩的陡岸险谷；主要见于中国西南地区。"
+  },
+  {
+   "cn": "风雨桥",
+   "en": "wind-rain bridge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0096",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "全身由木料筑成，桥面铺板，两旁设栏杆、长凳，桥顶盖瓦，形成长廊式走道的建筑物。整体由桥、塔、亭组成。多建于交通要道，流行于湖南、贵州、广西、湖北、浙江等省。"
+  },
+  {
+   "cn": "[美国]橡树岭国家实验室",
+   "en": "Oak Ridge National Laboratory，ORNL",
+   "source": "放射卫生学",
+   "wordNumber": "10.1.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2025",
+   "definition": "美国能源部所属国家实验室，成立于1943年，最初是作为美国曼哈顿计划的一部分，以生产和分离铀和钚为主要目的建造的。2000年4月以后由田纳西大学和Battelle纪念研究所共同管理。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

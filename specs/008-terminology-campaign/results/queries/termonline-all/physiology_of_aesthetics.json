@@ -1,0 +1,732 @@
+{
+ "key": "physiology of aesthetics",
+ "term": "Physiology of Aesthetics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:31:35+00:00",
+ "status": "ok",
+ "note": "variant=Physiology of Aesthetics; 审定公布名词库=10000; 海峡两岸名词对照库=7462; 其他来源数据库=1825; 预公布名词数据库=2698; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "美容生理学",
+   "en": "aesthetic physiology",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.003",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "研究人体各器官系统的生长发育、生理功能和新陈代谢等与人体健美关系的基础医学学科。"
+  },
+  {
+   "cn": "美感生理-心理学机制",
+   "en": "mechanism of aesthetic physiology and psychology",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.156",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "美感效应的形成机制，即关于人的大脑与审美关系的研究的核心内容。20世纪初以来的美学基础研究的重要课题之一。20世纪80年代兴起的医学美学及进入21世纪以来兴起的神经美学为此研究提供了重要的科学依据。"
+  },
+  {
+   "cn": "美学性",
+   "en": "aesthetics",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0556",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "反映产品外观是否具有吸引力和艺术性的质量特性。包括外观、感觉、嗅觉和味觉等。"
+  },
+  {
+   "cn": "美学",
+   "en": "aesthetics",
+   "source": "教育学名词",
+   "wordNumber": "01.095",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以艺术与审美活动为主要对象，研究客观世界的美和人对美的感受的学科。"
+  },
+  {
+   "cn": "微眼",
+   "en": "aesthete",
+   "source": "动物学名词",
+   "wordNumber": "5.1803",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "多板类软体动物缺乏真正意义上的眼，其体表具有感光功能的器官。其中有角膜、晶体、色素层、虹彩和网膜，其基本构造与眼近似。"
+  },
+  {
+   "cn": "生理学",
+   "en": "physiology",
+   "source": "兽医学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "研究生物体机能活动及其规律的科学。"
+  },
+  {
+   "cn": "生理学",
+   "en": "physiology",
+   "source": "生理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸生理",
+   "en": "physiology of testis",
+   "source": "生殖医学名词",
+   "wordNumber": "3.259",
+   "subjectFullName": "生殖医学_生殖生理与内分泌_男性生殖生理与内分泌",
+   "subjectName": "男性生殖生理与内分泌",
+   "publishYear": "2022",
+   "definition": "睾丸产生男性生殖细胞（精子）和分泌雄激素的一系列生理过程。"
+  },
+  {
+   "cn": "附睾生理",
+   "en": "physiology of epididymis",
+   "source": "生殖医学名词",
+   "wordNumber": "3.293",
+   "subjectFullName": "生殖医学_生殖生理与内分泌_男性生殖生理与内分泌",
+   "subjectName": "男性生殖生理与内分泌",
+   "publishYear": "2022",
+   "definition": "附睾储存精子，供给精子营养，促进精子发育成熟的一系列生物过程。"
+  },
+  {
+   "cn": "鱼类生理学",
+   "en": "physiology of fishes",
+   "source": "水产名词",
+   "wordNumber": "01.118",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "研究鱼类机体生理活动规律的学科。"
+  },
+  {
+   "cn": "眼生理学",
+   "en": "physiology of eye",
+   "source": "医学名词 第五分册",
+   "wordNumber": "01.005",
+   "subjectFullName": "医学_眼科学_眼科学总论与防盲",
+   "subjectName": "眼科学总论与防盲",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "细胞生理学",
+   "en": "cell physiology,cellular physiology",
+   "source": "生理学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动生理学",
+   "en": "exercise physiology,athletic physiology",
+   "source": "生理学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生理干旱",
+   "en": "physiological drought;physiological aridity",
+   "source": "风景园林名词",
+   "wordNumber": "08.0252",
+   "subjectFullName": "风景园林_风景园林工程_风景园林养护",
+   "subjectName": "风景园林养护",
+   "publishYear": "2025",
+   "definition": "植物因水分生理方面原因不能吸收土壤中水分而造成的干旱。"
+  },
+  {
+   "cn": "人体美学解剖学",
+   "en": "anatomy of body aesthetics",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "为改善或重塑容貌美、形体美而研究人体各局部结构和器官的位置、形态及其相互之间的毗邻、比例和层次关系，并探讨和揭示容貌形体美的美学规律和标准的人体解剖学。"
+  },
+  {
+   "cn": "医学审美主体",
+   "en": "subject of medical aesthetics",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0030",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "医学审美客体",
+   "en": "object of medical aesthetics",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0031",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "面部审美分区",
+   "en": "aesthetic unit of face",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "医学美学与美容医学_美容医学生物学基础",
+   "subjectName": "美容医学生物学基础",
+   "publishYear": "2015",
+   "definition": "按美容解剖学要求，将人的面部分为12区：眶区、鼻区、唇区、颏区、耳区、颧区、眶下区、颊区、腮腺咬肌区、面侧深区、额面、颞面。"
+  },
+  {
+   "cn": "鼻美容术",
+   "en": "aesthetic surgery of nose",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "04.229",
+   "subjectFullName": "医学美学与美容医学_美容外科学",
+   "subjectName": "美容外科学",
+   "publishYear": "2015",
+   "definition": "改善鼻部形态及大小的美容手术。"
+  },
+  {
+   "cn": "医疗美容技师",
+   "en": "technologist of medical aesthetic",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "医学美学与美容医学_其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "具备执业技师资格，经执业技师注册机关注册，具有实施医疗美容技术能力的专业执业技师。"
+  },
+  {
+   "cn": "微眼",
+   "en": "aesthete",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "旅游美学",
+   "en": "tourism aesthetics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "审美心理学",
+   "en": "aesthetic psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "审美享受",
+   "en": "aesthetic pleasure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发育生理学",
+   "en": "developmental physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境生理学",
+   "en": "environmental physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆境生理学",
+   "en": "stress physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "器官生理学",
+   "en": "organ physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实验生理学",
+   "en": "experimental physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "野外生理学",
+   "en": "field physiology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候生理学",
+   "en": "climatic physiology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境生理学",
+   "en": "environmental physiology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高气压生理学",
+   "en": "hyperbaric physiology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水生理学",
+   "en": "diving physiology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环境生理学",
+   "en": "environmental physiology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动物生理学",
+   "en": "animal physiology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "昆虫生理学",
+   "en": "insect physiology",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "生理屏障",
+   "en": "physiologic barrier",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞生理学",
+   "en": "cell physiology\",\"cytophysiology\",\"cellular physiology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生理梯度",
+   "en": "physiological gradient",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "艺术分",
+   "en": "aesthetic score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术裁判员",
+   "en": "aesthetic judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取境",
+   "en": "Qujing (Conceptualize an Aesthetic Feeling)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "境生象外",
+   "en": "Aesthetic Conception Transcends Concrete Objects Described.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数十秒",
+   "en": "count of 10",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点顺序",
+   "en": "order of arrival\",\"order of finish",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺少练习",
+   "en": "lack of practice\",\"lack of training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逃剑",
+   "en": "absence of blade\",\"absence of contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "审美",
+   "en": "aesthetic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0254",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类理解世界的一种特殊形式，指人与世界（社会和自然）形成一种无功利的、形象的和情感的关系状态。"
+  },
+  {
+   "cn": "审美文化",
+   "en": "aesthetic culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.30",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一种与审美活动相关的文化符号系统。"
+  },
+  {
+   "cn": "性生理",
+   "en": "sex physiology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "受到适当的性刺激，在性心理的驱动下，神经、内分泌和生殖系统协调产生的一系列生理反应的过程。"
+  },
+  {
+   "cn": "围绝经期生理",
+   "en": "perimenopausal physiology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7.4",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "围绝经期妇女因卵巢功能衰退产生的一系列生理变化。"
+  },
+  {
+   "cn": "生理性黄疸",
+   "en": "physiologic jaundice",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "新生儿正常发育过程中，由于胆红素代谢的特点所致的一过性血胆红素增高的现象，血清胆红素<15-20mg/mL，通常于出生后2-3天开始出现，10天左右消退。"
+  },
+  {
+   "cn": "生理性老化",
+   "en": "physiological aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "随着年龄的增长而出现的生理性退化，也就是人体在体质方面随年龄而发生变化，这是一切生物的普遍规律。"
+  },
+  {
+   "cn": "生理性远视",
+   "en": "physiological hyperopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "正常情况下儿童时期眼睛处于生长发育阶段，眼睛的前后轴较短、眼轴未达到成人水平时的远视状态。"
+  },
+  {
+   "cn": "生理学法",
+   "en": "physiological observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过测定视觉功能状态，间接反映脑力工作能力的水平，以分析和评价疲劳程度的方法。常用的方法为明视持久度、临界闪光融合频率。"
+  },
+  {
+   "cn": "生理评价",
+   "en": "physiological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用机体的血压、心率、体心温度、心电图、发汗量等生理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "军事体力作业分类",
+   "en": "category of military operational physiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "对军事体力作业进行分类，分为军事动态作业和军事静态作业两类。"
+  },
+  {
+   "cn": "军事作业生理学",
+   "en": "military operational physiology",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "研究军事作业过程中机体的调节适应规律、提高作业能力和预防疲劳、保护作业能力的一门学科。"
+  },
+  {
+   "cn": "生理性体重下降",
+   "en": "physiological weight loss",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.5",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "婴儿出生后未能立即进食，或进食量少，加上胎粪排出，尿液、汗液等的水分丧失等因素，造成的暂时性体重下降。"
+  },
+  {
+   "cn": "生理等效高度",
+   "en": "physiological equivalent altitude",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "通过综合评估环境中的气压、氧气分压、温度等因素，量化人体生理反应与某一海拔高度下的等效程度，衡量特定环境（如低气压、低氧、低温等）对人体生理影响的等效海拔高度值。"
+  },
+  {
+   "cn": "生理性高原",
+   "en": "physiological high altitude",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原",
+   "subjectName": "高原",
+   "publishYear": "2025",
+   "definition": "使人体产生明显生物学效应的海拔2500m 以上地域。"
+  },
+  {
+   "cn": "生理毒代动力学",
+   "en": "physiology-based toxicokinetic, PBTK",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.48",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "以人体生理学为基础，结合人群特征和化学物特性对外源化学物在人体或其他动物体内的吸收、分布、代谢、排泄进行定量描述的学科。"
+  },
+  {
+   "cn": "教育心理结合法",
+   "en": "combined method of physiology and educational psychology",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "生理学和教育心理学相结合以分析和评价疲劳程度的方法。最常见的方法是剂量作业试验和语言强化运动条件反射法。"
+  },
+  {
+   "cn": "妊娠期生理性贫血",
+   "en": "physiological anemia during pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.3.1.1",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "孕期妇女为满足妊娠需要血容量和血红蛋白、红细胞等都不断增加，但是由于血红蛋白和红细胞的增加速度和幅度都跟不上血容量增加，出现血液稀释的现象。"
+  },
+  {
+   "cn": "高温作业生理变化",
+   "en": "Physiological changes during work in hot environments",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "在高温环境中从事劳动，人体出现水盐代谢、心血管系统、呼吸系统、消化系统、神经系统、泌尿系统、免疫系统等的异常现象。"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

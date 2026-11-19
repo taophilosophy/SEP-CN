@@ -1,0 +1,742 @@
+{
+ "key": "algebraic valuations",
+ "term": "algebraic valuations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:18:13+00:00",
+ "status": "ok",
+ "note": "variant=algebraic valuations; 审定公布名词库=904; 海峡两岸名词对照库=89; 其他来源数据库=51; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "估值",
+   "en": "valuation",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0012",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "评定资产当时价值的过程。"
+  },
+  {
+   "cn": "赋值",
+   "en": "valuation",
+   "source": "数学名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "赋值",
+   "en": "valuation",
+   "source": "数学名词",
+   "wordNumber": "02.0040",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "指数赋值",
+   "en": "exponential valuation,Krull valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0467",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "评价装置",
+   "en": "valuation device",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.068",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用于完成对研究对象的评比和筛选工作的装置。"
+  },
+  {
+   "cn": "品牌估价",
+   "en": "brand valuation",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0371",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "估计一个品牌总的财务价值的过程。"
+  },
+  {
+   "cn": "土地估价",
+   "en": "land valuation",
+   "source": "资源科学技术名词",
+   "wordNumber": "14.083",
+   "subjectFullName": "资源科学技术_土地资源学",
+   "subjectName": "土地资源学",
+   "publishYear": "2008",
+   "definition": "在一定的市场条件下，根据土地的权利状况和经济、自然属性，按土地在经济活动中的一般收益能力，综合评定出在某一时点某宗土地或某一等级土地在某一权利状态下的价格。"
+  },
+  {
+   "cn": "赋值论",
+   "en": "valuation theory",
+   "source": "数学名词",
+   "wordNumber": "04.0464",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "赋值环",
+   "en": "valuation ring",
+   "source": "数学名词",
+   "wordNumber": "04.0470",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "亨泽尔赋值",
+   "en": "Hensel valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0478",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "典范赋值",
+   "en": "canonical valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0473",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "离散赋值",
+   "en": "discrete valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0493",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "平凡赋值",
+   "en": "trivial valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0468",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正规赋值",
+   "en": "normal valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0494",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "source": "数学名词",
+   "wordNumber": "04.0397",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "source": "数学名词",
+   "wordNumber": "04.1472",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "source": "数学名词",
+   "wordNumber": "04.0388",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1993",
+   "subjectFullName": "数学_代数学_代数几何学_代数群",
+   "subjectName": "代数群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "赋值等价",
+   "en": "equivalence of valuations",
+   "source": "数学名词",
+   "wordNumber": "04.0469",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "科学的评价",
+   "en": "valuation of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.207",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "依据某些规范性标准，对科学活动及其结果进行的评价。"
+  },
+  {
+   "cn": "[海运保险中的]船舶双重估值",
+   "en": "dual valuation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[资产]估价利润",
+   "en": "valuation profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "双重价额条款",
+   "en": "dual valuation clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权估值",
+   "en": "valuation of SDR",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有价证券估价",
+   "en": "valuation of security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别提款权估值",
+   "en": "valuation of special drawing rights (=valuation of SDR)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数码",
+   "en": "algebraic code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语言",
+   "en": "algebraic language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数数据类型",
+   "en": "algebraic data type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "评分表",
+   "en": "evaluation table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "评分",
+   "en": "evaluate\",\"judge\",\"evaluation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机性能评估",
+   "en": "computer performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化过程评估",
+   "en": "standardization process evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RPO评价标准",
+   "en": "RPO evaluation criteria",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "银行绿色评价机制",
+   "en": "green bank evaluation mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色信贷业绩评价",
+   "en": "green credit performance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化评估改进",
+   "en": "standardization evaluation and improvement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "条件价值评估法",
+   "en": "contingent valuation approach,CVA",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.3",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "通过假定一个特定的情景和描述可能的情况，来询问受试者的最大支付意愿或最小接收意愿的一种为商品或服务估算价值的方法"
+  },
+  {
+   "cn": "评估",
+   "en": "evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "运用科学的研究方法和技术，系统地评价社会工作的介入结果。通过总结整个介入过程，以考察社会工作是否有效，是否达到了预期目的、目标。"
+  },
+  {
+   "cn": "可靠性评价",
+   "en": "reliability evaluation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.33",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价检测报告或发表论文的内在质量的方法。仅与试验过程以及所产生的结果有关。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对用人单位工作场所职业病危害因素及其接触水平、职业病防护设施及其他职业病防护措施与效果、职业病危害因素对劳动者的健康影响情况等进行的综合评价。"
+  },
+  {
+   "cn": "评估研究",
+   "en": "evaluation research",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为确定一项计划、一种产品、一个组织、一种干预或变革努力的效果而进行的系统的、以数据为基础的研究。"
+  },
+  {
+   "cn": "过程评估",
+   "en": "process evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "监测整个介入过程，对工作过程的每一步骤、每一个阶段分别作出评估。其关心的重点是工作中的各种步骤和程序怎样促成了最终的介入结果，方法是通过了解和描述介入活动的内容来回答服务过程中发生了什么，以及为什么发"
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "评估的方式方法",
+   "en": "evaluation method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "对社会工作服务进行评估所采用的主要方式和具体方法。一般来说，个案工作者有以下几种可能的评估方式：1.与案主一起对服务的效果和效率进行评估；2.与同事一起对服务提供联合评估；3.利用原定计划表进行评估。"
+  },
+  {
+   "cn": "诊断性评估",
+   "en": "diagnostic evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "了解学生实习的起点、特点及实习上的困难，以便有针对性地进行实习教学，通常在实习开始前与有实习困难时进行的活动。"
+  },
+  {
+   "cn": "总结性评估",
+   "en": "summative evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "按照一定的价值及技术标准对一个行动方案或具体行动的结果所做出判断。在社会工作中即是对实习效果的评估。"
+  },
+  {
+   "cn": "自我评价",
+   "en": "self-evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的想法、期望、行为及人格特征的判断与评估。"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门按照一定的标准和程序,对学校突发公共卫生事件现场调查处理、患者救治、所采取的措施效果进行综合评估的活动。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施前对项目方案进行可行性评判的过程。包括对项目执行学校的组织能力，人力和物力资源、信息管理水平等进行评估，及时发现问题，解决问题，保证干预方案能顺利实施。"
+  },
+  {
+   "cn": "过程评价",
+   "en": "process evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施中对其进展、问题和风险进行监控和评估的过程。目的是找出偏差，发现问题，及时改进和调整。"
+  },
+  {
+   "cn": "效果评价",
+   "en": "effectiveness evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在实施系列健康教育计划后，对学校在创建健康促进学校的近、中、远期工作目标达成程度方面进行测评的过程。"
+  },
+  {
+   "cn": "影响评价",
+   "en": "impact evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "通过成本效益分析的方法，从社会效益和经济效益方面分析项目对社会疾病负担产生的影响。"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "监测评价",
+   "en": "surveillance evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测评价”。又称“妇幼健康监测评价”。根据监测信息，系统、有效的评估监测目标进展、干预措施效果等，并不断优化监测系统，以确保完成监测目标的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

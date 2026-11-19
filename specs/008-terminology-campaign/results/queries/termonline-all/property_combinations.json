@@ -1,0 +1,752 @@
+{
+ "key": "property combinations",
+ "term": "property combinations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:19:08+00:00",
+ "status": "ok",
+ "note": "variant=property combinations; 审定公布名词库=1184; 海峡两岸名词对照库=215; 其他来源数据库=216; 预公布名词数据库=72; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "属性",
+   "en": "property",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.066",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "一事物和他事物发生联系时表现出来的，构成实体本质且不能离开实体独立存在的质。广延性是物质实体的质，思维是精神实体的质。"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0127",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "各类有价值和使用价值的房屋、房屋附属设施以及相关场地等。"
+  },
+  {
+   "cn": "物业",
+   "en": "property",
+   "source": "建筑学名词",
+   "wordNumber": "06.0118",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_房地产市场",
+   "subjectName": "房地产市场",
+   "publishYear": "2014",
+   "definition": "正在使用中和已经可以投入使用的各类建筑物及附属设备、配套设施、相关场地等组成的单宗房地产实体以及依托于该实体上的权益。"
+  },
+  {
+   "cn": "星特性",
+   "en": "star-property,*-property",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0265",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "贝尔-拉帕杜拉安全模型的一条规则。按照该规则只有主体安全等级不高于客体安全等级时，才允许主体写客体。"
+  },
+  {
+   "cn": "冲天炉综合性能测试仪",
+   "en": "tester for combined property of cupola",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "07.470",
+   "subjectFullName": "机械工程_仪器仪表_实验室仪器和装置_铸造仪器名称_冲天炉及铸造合金测试仪",
+   "subjectName": "冲天炉及铸造合金测试仪",
+   "publishYear": "2003",
+   "definition": "自动连续检测、打印并记录冲天炉熔炼过程中的风量、风压、熔化速度、铁水温度以及料位高度等多功能的仪器。"
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "对于无法取消而又必需的工序或动作，通过合并或将多人操作改进成单人或单台操作，以实现省时简化的方法研究分析原则。"
+  },
+  {
+   "cn": "组合化",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0741",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对不同的显性知识进行组织与加工的过程。比如撰写报告、构建模型等。"
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "微生物学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "由属名和一个或多个加词组成的属以下、种或种以下分类单元的名称。"
+  },
+  {
+   "cn": "搭配",
+   "en": "combination",
+   "source": "语言学名词",
+   "wordNumber": "04.260",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "指词项之间的习惯性同现。例如，“白”表示“雪或霜的颜色”时经常和实体搭配，而表示“没有效果”时经常和动作行为搭配，因此也可以说搭配体现了词的意义上的组合关系。"
+  },
+  {
+   "cn": "联合",
+   "en": "combination",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.036",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "数学名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "联合收割机",
+   "en": "combine; combine harvester",
+   "source": "农学名词",
+   "wordNumber": "14.086",
+   "subjectFullName": "农业工程_农业机械化与装备",
+   "subjectName": "农业机械化与装备",
+   "publishYear": "2025",
+   "definition": "能够一次完成谷物收割、脱粒、分离和清选作业的收获联合作业机械。按行走和动力配置分为自走式、悬挂式和牵引式，按谷物喂入方式分为全喂入式和半喂入式。"
+  },
+  {
+   "cn": "黏结性",
+   "en": "caking property,bonding property",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "02.252",
+   "subjectFullName": "化工（二）_原料与产品",
+   "subjectName": "原料与产品",
+   "publishYear": "2019",
+   "definition": "煤在外力作用下黏结成团的能力。"
+  },
+  {
+   "cn": "转换接箍",
+   "en": "combination coupling,combination collar",
+   "source": "石油名词",
+   "wordNumber": "12.0659",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "混合性皱纹",
+   "en": "combination wrinkle;combination line",
+   "source": "整形外科名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "皮肤组织松弛、表情肌收缩等多种原因引起的皱纹。机制复杂，如鼻唇沟皱纹、口周皱纹等。"
+  },
+  {
+   "cn": "膨胀性",
+   "en": "swelling property",
+   "source": "地质学名词",
+   "wordNumber": "17.02.153",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土吸水后体积增大的特性。"
+  },
+  {
+   "cn": "企业性质",
+   "en": "enterprise property",
+   "source": "风景园林名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "风景园林_风景园林管理_企业管理",
+   "subjectName": "企业管理",
+   "publishYear": "2025",
+   "definition": "企业的所有制形式。其类型分别有国有企业、集体企业、联营企业、股份合作制企业、私营企业、个体户、合伙企业、有限责任公司、股份有限公司等。"
+  },
+  {
+   "cn": "流变性",
+   "en": "rheologic property",
+   "source": "精细化工名词",
+   "wordNumber": "05.0394",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "涂料流动和形变的性质。"
+  },
+  {
+   "cn": "施工性",
+   "en": "application property",
+   "source": "精细化工名词",
+   "wordNumber": "05.0399",
+   "subjectFullName": "精细化工_涂料_涂装",
+   "subjectName": "涂装",
+   "publishYear": "2025",
+   "definition": "涂料施工的难易程度。涂料施工性良好，一般是指涂料易施涂（刷、喷、浸等），流平性良好，不出现流挂、起皱、缩边、渗色、咬底；干性适中，易打磨，重涂性好，以及对施工环境要求低等。"
+  },
+  {
+   "cn": "脱水性质",
+   "en": "dehydration property",
+   "source": "急救医学名词",
+   "wordNumber": "03.274",
+   "subjectFullName": "急救医学_日常医学急救_外科学_体液平衡失调",
+   "subjectName": "体液平衡失调",
+   "publishYear": "2025",
+   "definition": "脱水状态下，现存体液相对于生理状态出现的渗透压改变。可以反映水和电解质的相对丢失量。钠是决定细胞外液渗透压的主要成分，所以临床根据血清钠的水平将脱水分为低渗性脱水、高渗性脱水和等渗性脱水3种。"
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "组合器",
+   "en": "combiner",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热物理性质",
+   "en": "thermophysical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "驻点性质",
+   "en": "stagnation property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运输性质",
+   "en": "transport property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理性质",
+   "en": "physical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产税",
+   "en": "property tax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性质",
+   "en": "measurable property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成性",
+   "en": "additive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力性质",
+   "en": "kinetic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封性能",
+   "en": "sealing property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运动性质",
+   "en": "kinematic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "触变性质",
+   "en": "thixotropic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强度性质",
+   "en": "intensive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combine\",\"combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动作组合",
+   "en": "complex combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排扣分",
+   "en": "combination fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "马克思主义",
+   "wordNumber": "04.0038",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "财产最初意味着劳动的主体把自己的生产或再生产的条件看作是自己的东西。马克思认为财产是在复杂的阶级和社会阶层的制度中起重要作用的一种基本关系。财产形式的变化是标志经济社会形态演替的主要特征。"
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "通过资产收购或者合同订立等方式，实现两个或多个卫生服务机构合为一体的行为。"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.18",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物能够防止被水润湿和浸透的能力。"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "source": "马克思主义",
+   "wordNumber": "02.0426",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济主体凭借拥有的动产（如银行存款、有价证券等）、不动产（如房屋、车辆、土地、收藏品等）所获得的收入。它包括出让财产使用权所获得的利息、租金、专利收入，以及财产营运所获得的红利收入、财产增值收益等。"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0149",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "宗族的公有财产，是维持家族制度的经济支柱。民间族产包括土地、耕牛、山场、桥渡、沿海滩涂及水利工程、水碓、碾房等生产和生活设施。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "化合氯",
+   "en": "combined chlorine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "水中氯与氨的化合物，其中包括NH2Cl、NHCl2、NHCl3等。"
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。"
+  },
+  {
+   "cn": "复合效应",
+   "en": "combined effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "机体遭受两种或两种以上致伤因素的作用后所产生的损伤效应。单一伤之间可相互影响，使原单伤的表现不完全相同于单独发生的损伤。"
+  },
+  {
+   "cn": "联合免疫缺陷",
+   "en": "combined immunodeficiencies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "一组因淋巴细胞出现发育缺陷或Ｔ细胞、Ｂ细胞之间相互作用信号障碍，而引起的一类体液免疫与细胞免疫同时缺陷导致的疾病。患者通常为新生儿或婴幼儿。根据免疫缺陷致的病情严可分为严重联合免疫缺陷病和部分性联合免"
+  },
+  {
+   "cn": "家庭财产调查",
+   "en": "family property survey",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "在社会救助制度中为考察救助申请人家庭收入及财产等方面状况，鉴定申请者是否具备获得某项社会救助资格的一种制度或手段。"
+  },
+  {
+   "cn": "放射复合伤",
+   "en": "radiation combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "以放射损伤为主，同时伴有其他因素所致的损伤。核爆炸时，指核辐射和另外一种以上杀伤因素同时作用而发生的复合损伤。"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.26",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由在一个测量模型中各输入量的标准不确定度获得的输出量的标准不确定度。"
+  },
+  {
+   "cn": "器官联合移植",
+   "en": "combined-organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.021",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过外科手术，一次为器官受体移植两个及以上器官的移植技术。目前器官联合移植包括肝肾联合移植、肝小肠移植、肝胰联合移植、胰肾联合移植、心肺联合移植等。"
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "source": "马克思主义",
+   "wordNumber": "02.0423",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以法律的形式明确企业出资者的所有权与企业法人的财产权，使二者权利和责任的界定清晰，即企业在产权的所有、占有、使用、处置和收益等相关权利的归属明确。"
+  },
+  {
+   "cn": "医院产权理论",
+   "en": "hospital property right theory ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.1.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "将产权理论引入医院管理，关于医院产权、激励与经济行为的关系，探讨医院不同的产权结构对收益–报酬制度及资源配置的影响，强调产权医院不同产权在经济交易中作用的理论。"
+  },
+  {
+   "cn": "烧冻复合伤",
+   "en": "burn-frostbit combined injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区战创伤",
+   "subjectName": "寒区战创伤",
+   "publishYear": "2025",
+   "definition": "烧伤伤员的运动能力下降，遇寒冷环境后，在烧伤的基础上容易并发冻伤的现象。"
+  },
+  {
+   "cn": "放烧复合伤",
+   "en": "combined radiation-burn injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继发生以放射损伤为主，复合烧伤的一类复合损伤。"
+  },
+  {
+   "cn": "放冲复合伤",
+   "en": "combined radiation-blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继发生以放射损伤为主，复合冲击伤的一类复合损伤。"
+  },
+  {
+   "cn": "原则性和灵活性相结合",
+   "en": "combine principle with flexibility",
+   "source": "马克思主义",
+   "wordNumber": "03.0432",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东强调的制定一切政策和策略的指导原则。毛泽东《在中国共产党第七届中央委员会第二次全体会议上的报告》中指出:“我们的原则性必须是坚定的，我们也要有为了贯彻原则性的一切许可的和必需的灵活性。”根据政治"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "hybrid monetary constitution",
+ "term": "hybrid monetary constitution",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:26:49+00:00",
+ "status": "ok",
+ "note": "variant=hybrid monetary constitution; 审定公布名词库=842; 海峡两岸名词对照库=424; 其他来源数据库=24; 预公布名词数据库=56; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "分子中原子相互连接的方式和次序，可以说明分子中原子的连接次序和键性（单、双键等）。"
+  },
+  {
+   "cn": "体质",
+   "en": "constitution",
+   "source": "运动医学名词",
+   "wordNumber": "06.063",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "在遗传性和获得性基础上表现出来的人体形态结构、生理机能和心理因素等综合的、相对稳定的特征。人的生命活动和工作能力的物质基础。主要包括身体形态发育水平、生理功能水平、身体素质和运动能力发展水平、心理发展"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "化学名词",
+   "wordNumber": "02.0652",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机立体化学",
+   "subjectName": "有机立体化学",
+   "publishYear": "2016",
+   "definition": "描述组成分子的原子种类、数量及相互间的连接方式(包括单键或重键)。不考虑其空间结构。"
+  },
+  {
+   "cn": "货币资本",
+   "en": "monetary capital",
+   "source": "经济学名词",
+   "wordNumber": "04.026",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "货币形式存在的资本。它是产业资本在其循环过程中所采取的一种职能形式。它的职能是购买生产资料和劳动力，为生产剩余价值准备条件。"
+  },
+  {
+   "cn": "货币政策",
+   "en": "monetary policy",
+   "source": "经济学名词",
+   "wordNumber": "09.029",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "通过中央银行调节货币供应量，影响利息率及经济中的信贷供应程度来间接影响总需求，以达到总需求与总供给趋于理想的均衡的一系列措施。一般主要工具包括再贴现政策、存款准备金政策和公开市场业务。"
+  },
+  {
+   "cn": "货币乘数",
+   "en": "monetary multiplier",
+   "source": "经济学名词",
+   "wordNumber": "12.011",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "在基础货币(高能货币)基础上货币供给量通过商业银行的创造存款货币功能产生派生存款的作用产生的信用扩张倍数。是货币供给扩张的倍数。"
+  },
+  {
+   "cn": "货币存量",
+   "en": "monetary aggregate",
+   "source": "经济学名词",
+   "wordNumber": "12.012",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "一国在某一时点上各经济部门所持有的现金、存款货币和可变现的证券的总量。"
+  },
+  {
+   "cn": "货币经济",
+   "en": "monetary economy",
+   "source": "经济学名词",
+   "wordNumber": "12.029",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "货币渗透到社会一切经济活动之中的一种社会经济形态。与自给自足的实物经济相对应。"
+  },
+  {
+   "cn": "货币商品",
+   "en": "monetary commodity",
+   "source": "经济学名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "从商品世界中分离出来独占一般等价物地位，或者说专门充当一般等价物的特殊商品。"
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary system",
+   "source": "经济学名词",
+   "wordNumber": "12.039",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "国家对货币的有关要素、货币流通的组织与管理等加以规定所形成的制度。完善的货币制度能够保证货币和货币流通的稳定，保障货币正常发挥各项职能。"
+  },
+  {
+   "cn": "货币性资产",
+   "en": "monetary assets",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0089",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业持有的货币资金以及将以固定或可确定的金额收取的资产。"
+  },
+  {
+   "cn": "币制改革",
+   "en": "Monetary Reform",
+   "source": "世界历史名词",
+   "wordNumber": "02.0806",
+   "subjectFullName": "世界历史_古代中世纪_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1534年，俄国的第一次中央币制改革，终止所有旧币和外币的流通，改用新币——戈比。"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "地质学名词",
+   "wordNumber": "03.01.025",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "以(OH)⁻、H⁺、(H₃O)⁺的形式，占据晶体结构中的固定配位位置，并有确定含量比的水。"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0120",
+   "subjectFullName": "地球物理学_地壳流体科学_地下水类型",
+   "subjectName": "地下水类型",
+   "publishYear": "2022",
+   "definition": "呈氢离子(H⁺)、羟基(OH–)和水合氢离子(H₃O⁺)形式参加矿物晶格的离子。这些离子在晶格中占有确定的位置，数量上与其他元素成一定的比例，在温度升高、晶格破坏时，从矿物中析出。"
+  },
+  {
+   "cn": "经济宪法",
+   "en": "economic constitution",
+   "source": "经济学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "特定时代有关经济秩序的政治基本体制，也指所有包括经济内容并对经济制度进行规定的宪法规范。经济宪法所涵盖的内容极其重要，因为经济宪法优先适用于普通法上的经济公法规定，而且对法律适用过程中的法律解释也有重"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "source": "化学名词",
+   "wordNumber": "03.0820",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "某些物质中需加热至600~700℃才能脱除的化学结合水。"
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "source": "化学名词",
+   "wordNumber": "05.1111",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "旨在消除橡胶-纳米二氧化硅体系在混炼后停放过程中因填料聚集而变硬现象(结构化)的物质。"
+  },
+  {
+   "cn": "欧盟宪法",
+   "en": "European Constitution",
+   "source": "世界历史名词",
+   "wordNumber": "03.0928",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_欧洲联盟",
+   "subjectName": "欧洲联盟",
+   "publishYear": "2012",
+   "definition": "由欧盟宪法委员会起草，提交欧盟全体成员国统一采用的宪法草案。2005年因在法国和荷兰率先被否决而搁置，后被里斯本条约取代。"
+  },
+  {
+   "cn": "魏玛宪法",
+   "en": "Weimar Constitution",
+   "source": "世界历史名词",
+   "wordNumber": "03.0622",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_德国、奥地利",
+   "subjectName": "德国、奥地利",
+   "publishYear": "2012",
+   "definition": "1919年7月31日，德国通过的资产阶级宪法，正式宣告废除帝制，建立共和国。"
+  },
+  {
+   "cn": "马洛洛斯宪法",
+   "en": "Malolos Constitution",
+   "source": "世界历史名词",
+   "wordNumber": "04.0325",
+   "subjectFullName": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚",
+   "subjectName": "东南亚",
+   "publishYear": "2012",
+   "definition": "1898年9月，菲律宾革命政府在马洛洛斯召开的革命议会通过的资产阶级宪法。"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "货币性和非货币性项目法",
+   "en": "monetary/non-monetary method",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币制度",
+   "en": "monetary institution",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币本位制",
+   "en": "monetary standard",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币比价调整",
+   "en": "monetary realignment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币不稳定",
+   "en": "monetary instability",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币单位",
+   "en": "monetary unit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币分析",
+   "en": "monetary analysis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币功能",
+   "en": "monetary function",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币幻觉",
+   "en": "monetary crank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币黄金",
+   "en": "monetary gold",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币基础",
+   "en": "monetary base",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币集团",
+   "en": "monetary bloc",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币价值",
+   "en": "monetary value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①货币结构 ②货币机制",
+   "en": "monetary mechanism",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币紧缩",
+   "en": "monetary deflation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币紧缩",
+   "en": "monetary squeeze",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币扩张",
+   "en": "monetary expansion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币利息",
+   "en": "monetary interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币联盟",
+   "en": "monetary union",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币基金 组织",
+   "en": "International Monetary Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合计算机",
+   "en": "hybrid computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合智能",
+   "en": "hybrid intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合模式",
+   "en": "hybrid model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合增强计算",
+   "en": "hybrid-augmented computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混合增强智能",
+   "en": "hybrid-augmented intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "依宪治国",
+   "en": "governance of the country on the basis of its constitution",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "混合增强智能新架构和新技术",
+   "en": "new architecture and technology for hybrid-augmented intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "短促支撑",
+   "en": "momentary support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "宪法",
+   "en": "constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0204",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中确定国家基本阶级关系和统治架构的根本法律。通常规定国家的社会制度和国家制度的基本原则，国家机关的组织和活动的基本原则，以及公民的基本权利和义务等重要内容。宪法具有最高的法律效力，是制定其他法"
+  },
+  {
+   "cn": "货币市场",
+   "en": "monetary market",
+   "source": "马克思主义",
+   "wordNumber": "02.0258",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币资本贷出和借入的领域或场所。在货币市场上，货币作为资本商品让渡，其使用价值为作为资本执行职能并在平均条件下生产平均利润。资本商品的“价格”是利息。"
+  },
+  {
+   "cn": "社会构成",
+   "en": "social constitution",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上的、人与自然环境及社会相互作用形成的人类组合。自然环境、人口、社会-文化是其要素，其中自然环境和人口则是更为基本的要素。"
+  },
+  {
+   "cn": "党章",
+   "en": "Party constitution",
+   "source": "马克思主义",
+   "wordNumber": "03.0718",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党章是一个政党为保证全党在政治上、思想上的一致和组织上、行动上的统一所制定的章程。一个政党的党章主要包括该党的性质、指导思想、纲领任务、组织结构、组织制度，党员的条件、权利、义务和纪律等内容。1921"
+  },
+  {
+   "cn": "斯大林宪法",
+   "en": "Stalins constitution",
+   "source": "马克思主义",
+   "wordNumber": "04.0105",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1936年通过的苏联宪法，由斯大林领导起草。斯大林称之为“世界上最民主的一部宪法”。它代替了1922年由列宁起草的苏维埃宪法。该宪法被1976年勃列日涅夫指导下制定的宪法取代。"
+  },
+  {
+   "cn": "身体素质指标",
+   "en": "constitution parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年肌肉力量、速度、耐力、爆发力、力量、投掷力、灵敏性和柔韧性等身体素质的指标。"
+  },
+  {
+   "cn": "立宪君主制",
+   "en": "constitutional monarchy",
+   "source": "马克思主义",
+   "wordNumber": "03.0069",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级国家政体的一种形式。资产阶级革命早期，因资产阶级力量薄弱，不得不与封建君主妥协。君主仍为国家最高元首，但权力受到议会和宪法不同程度的限制。按照君主权力受到限制的程度不同，又可分为二元君主立宪制"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "source": "马克思主义",
+   "wordNumber": "03.0106",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "制定宪法，并依照宪法的规定设立国家机构和政府组织来管理社会的统治形式。立宪君主制和立宪共和制都是立宪统治的具体形式。但无论那种立宪制度，只要是生产资料私有制占据统治地位，就没有改变资产阶级专政的统治实"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "source": "马克思主义",
+   "wordNumber": "04.0427",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1905年10月成立的俄国自由君主派资产阶级的主要政党。领袖是帕·尼·米留可夫（Milyukov，Pavel Nikolayevich）。该党企图用立宪君主制的形式保存沙皇君主制。十月革命胜利后，多次"
+  },
+  {
+   "cn": "语言混合",
+   "en": "hybridization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0137",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "两种或多种语言及其变体因频繁接触而形成结构上混合的现象。"
+  },
+  {
+   "cn": "新民主主义宪政",
+   "en": "newdemocratic constitutional government",
+   "source": "马克思主义",
+   "wordNumber": "03.0340",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "新民主主义宪政是中国共产党在民主革命时期，主要是抗日战争时期，针对国民党的一党专政提出来的,向国民党政府争取民主自由的武器。新民主主义宪政的具体内容就是几个革命阶级联合起来对于汉奸反动派的民主专政。"
+  },
+  {
+   "cn": "体质性生长发育延迟",
+   "en": "constitutional growth delay",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "个体出生时身长与体重正常，出生后生长速度缓慢、身材矮小、青春期发育延迟的现象。"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。"
+  },
+  {
+   "cn": "细胞杂交",
+   "en": "cell hybrid",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "在体外条件下，通过人工培养和诱导将不同种生物或同种生物不同类型的两个或多个细胞合并成一个双核或多核细胞的过程。"
+  },
+  {
+   "cn": "劳动时间的货币表示",
+   "en": "monetary expression of labor time",
+   "source": "马克思主义",
+   "wordNumber": "05.0133",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪80年代初，美国学者弗利（D.K.Foley）给出的定义是：一定时期内以即期价格计算的纯产品与生产中活劳动消耗的比值。"
+  },
+  {
+   "cn": "原位杂交",
+   "en": "in situ hybridization，ISH",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.32",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以标记的已知顺序的特定核酸为探针与细 胞或组织切片中核酸进行杂交，从而对特定 核酸顺序进行精确定量、定位的技术。"
+  },
+  {
+   "cn": "荧光原位杂交",
+   "en": "fluorescence in situ hybridization，FISH",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "一种非放射性原位杂交技术。将变性后的标记核苷酸探针与变性后的染色体、细胞、组织中的核酸按照碱基互补配对原则进行杂交，经洗脱后直接分析或通过免疫荧光系统检测，最后在荧光显微镜下观察。"
+  },
+  {
+   "cn": "中国学生体质与健康调研",
+   "en": "Chinese national surveillance on students' constitution and health, CNSSCH",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "为了解我国不同学生群体体质健康状况、生长发育水平和学生常见病、多发病情况及其变化趋势而每五年开展一次的全国性调查活动。是全民体质健康调查的一部分，调查对象为全国所有省份共28个民族7～22岁大中小学生"
+  },
+  {
+   "cn": "多色荧光原位杂交",
+   "en": "multiple color fluorescence in situ hybridization，M-FISH",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "利用多种荧光素组合标记探针的一种光谱染色体核型分析方法。通过计算机软件辅助，采用一系列荧光素特异滤光片来检测特定的24种染色体。"
+  },
+  {
+   "cn": "党必须在宪法和法律的范围内活动",
+   "en": "Party must act within the scope prescribed by the constitution and laws",
+   "source": "马克思主义",
+   "wordNumber": "03.0725",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法是国家的最高权威，法律是我国一切个人和组织的行为准则。党是一种组织，要在宪法和法律的范围内活动。1982年党的十二大党章首次规定：“党必须在宪法和法律的范围内活动”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

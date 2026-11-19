@@ -1,0 +1,732 @@
+{
+ "key": "eidetic intuition",
+ "term": "eidetic intuition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:22:18+00:00",
+ "status": "ok",
+ "note": "variant=eidetic intuition; 审定公布名词库=809; 海峡两岸名词对照库=209; 其他来源数据库=53; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.579",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种不经逻辑分析而认识、了解事物的无意识的思维方式。具有快速、冲动的特点。包括认知、情感和行为等成分。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0395",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "人脑所具有的一种不经过逻辑推理或没有任何根据而突发性地直接把握对象的本质的能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "心理学名词",
+   "wordNumber": "02.676",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一种不经过分析、推理的认识过程而直接快速地进行判断的认识能力。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "语言直觉",
+   "en": "linguistic intuition",
+   "source": "语言学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指人们对于自己使用的语言的判断能力，特别是判断一个句子是否能够接受以及句子之间是否具有关联性。既指对语言的直觉，也指如何对语言作分析的直觉。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitional knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.077",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "体现为一种先验的道德意识、内在的道德判断能力，同时也是主体的自觉性。当遇到不可预定的变化时，不必求助他人或经典，仅凭直觉就可以做出反应，判断道德上的是非问题，采取合适的道德行为。"
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.657",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对事物现象及其变化的直接感触而做判断的思维方式。"
+  },
+  {
+   "cn": "直观教学",
+   "en": "intuitional instruction",
+   "source": "教育学名词",
+   "wordNumber": "04.088",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "欧洲近代以经验主义和自然主义为基础，根据儿童思维发展的特点，在教学过程中采用具体形象的语言和教具进行教学的教育原则和方法。"
+  },
+  {
+   "cn": "直观法",
+   "en": "intuitional method",
+   "source": "教育学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "让幼儿运用看、听、闻、尝、触、摸等多种感官活动，直接感知所要认识的事物或现象，形成关于事物与现象的初步认识的教学方法。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体不以概念为媒介而对医学审美客体的直接观察和认识作用，经过内在心理的特殊处理而形成的一种顿悟性反映。"
+  },
+  {
+   "cn": "直观性原则",
+   "en": "principle of intuition",
+   "source": "教育学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教学原则之一。在教学中要通过学生观察所学事物、利用直观教具或教师语言的形象描述引导学生形成对所习得之事物、过程的清晰表象，丰富他们的感性知识，从而有利于他们正确理解书本知识和发展认识能力。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0039",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "直观分析法",
+   "en": "intuitive analysis method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.120",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用比较极差大小的方法来分析各因素的影响的一种定性分析方法。"
+  },
+  {
+   "cn": "直觉思维法",
+   "en": "intuitive thinking method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0084",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "充分利用直觉思维和灵感思维来得到问题新的解法或新的发现的方法。"
+  },
+  {
+   "cn": "直觉决策",
+   "en": "intuitive decision making",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0045",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者将以往积累的、在某一特定领域丰富的知识、经验等信息重新加以认知，从而迅速做出的决策。"
+  },
+  {
+   "cn": "直觉的政策预测",
+   "en": "intuitive policy forecasting",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "预测者通过主观判断，而非基于归纳或演绎的推理方法，对未来情况所做的政策预测。"
+  },
+  {
+   "cn": "直觉动作思维",
+   "en": "intuitive-action thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.658",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "依靠对事物的直接感知和实际动作解决问题的思维方式。"
+  },
+  {
+   "cn": "致良知",
+   "en": "zhi liang zhi;extension of innate or intuitive knowledge",
+   "source": "中国古代史名词",
+   "wordNumber": "8.504",
+   "subjectFullName": "中国古代史_明清_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "王阳明提出的以先天良知为目标的个人修养方法。"
+  },
+  {
+   "cn": "微波动态电感探测器",
+   "en": "microwave kinetic induction detector; MKID",
+   "source": "天文学名词",
+   "wordNumber": "06.264",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "以超导材料制成的高Q值的微波共面波导谐振器作为探测单元的光子探测器。光子破坏库珀对造成电路中动态电感的改变，进而导致谐振相移，以此实现单光子测量。"
+  },
+  {
+   "cn": "归纳",
+   "en": "induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "从经验观察的特例中推论出普遍的定律或原理。"
+  },
+  {
+   "cn": "遗觉像",
+   "en": "eidetic image",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉学习",
+   "en": "intuitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "诱导",
+   "en": "induction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诱发",
+   "en": "induction",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "特有的",
+   "en": "endemic",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "成花诱导，开花诱导",
+   "en": "floral induction\",\"flower induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开花诱导（=成花诱导）",
+   "en": "floral induction\",\"flower induction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诱导期",
+   "en": "induction period\",\"induction phase",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "催吐药",
+   "en": "emetic",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吐酒石",
+   "en": "emetic tartar\",\"tartar emetic",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性诱导",
+   "en": "noncontact induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "接触性诱导",
+   "en": "contact induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎诱导",
+   "en": "embryonic induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "相互诱导",
+   "en": "reciprocal induction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "诱导学说",
+   "en": "induction theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动能",
+   "en": "kinetic energy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "战胜疫情",
+   "en": "to prevail over the epidemic; to beat the epidemic; to win the battle against the epidemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数字抗疫",
+   "en": "combating epidemic with digital technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据病源追踪",
+   "en": "big data-enabled epidemic tracking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "差异化精准防控策略",
+   "en": "precise and differentiated epidemic control strategies",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "科学中的直觉",
+   "en": "intuition in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中由移情作用、共同生活和社会心理状态等感性器官提供直接的感官证据。这些由生活体验构成的感官见证，对科学发现和研究起着激发作用，是证明有效科学知识的重要基础。"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由致病性生物因子如细菌、病毒等引起的传染性疾病及其发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "催吐剂",
+   "en": "emetic",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "引发呕吐促使胃里放射性核素排除体外的制剂。"
+  },
+  {
+   "cn": "催经止孕",
+   "en": "menstrual induction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "事后避孕的一种方式。在发生无保护性交后，特别是多次无保护性交后，在月经延迟1周内使用负压吸引或药物诱导月经来潮。其目的是有孕止孕、无孕催经。"
+  },
+  {
+   "cn": "动力链",
+   "en": "kinetic chain",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "两个以上动力单元的组合，可以在较大的范围内完成复杂的动作。"
+  },
+  {
+   "cn": "地区分布",
+   "en": "endemic distribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.28",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "物中毒在不同地区的分布特征。一般是对某一地区人群中发生的一种疾病按一定地域空间的自然环境（如地理、气温、地形等）和社会环境（经济、文化、生活习惯等）等的不同来分组描述，反映致病因子在这些地区作用的差别"
+  },
+  {
+   "cn": "动力单元",
+   "en": "kinetic element",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在神经系统支配下，通过肌肉收缩，牵动骨骼以关节为支点产生位置变化，完成运动过程，包括关节在内的某些解剖结构结合在一起可以完成以关节为轴的运动。由肌肉、骨骼、神经、血管组成。"
+  },
+  {
+   "cn": "疫区",
+   "en": "epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "遭受生物战剂袭击区域出现病例后，经过评估划分需要实施管控的病例所在区域。"
+  },
+  {
+   "cn": "疫情发布",
+   "en": "epidemic information release",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.019",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由疫情发生地及以上人民政府或政府委托的相关部门依法按规定进行及时、准确、客观、全面的疫情信息公开的工作。"
+  },
+  {
+   "cn": "动态浊度法",
+   "en": "kinetic turbidimetric assay",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "检测反应混合物的浊度上升某一预先设定的吸光度所需要的反应时间，或是检测浊度增加速度的方法。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "疫点消毒",
+   "en": "disinfection in epidemic focus",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.11",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对传染源所在家庭及其周围或居住场所开展的消毒。"
+  },
+  {
+   "cn": "疫区消毒",
+   "en": "disinfection in epidemic area",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.12",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对病原体可能传播的区域开展的消毒。"
+  },
+  {
+   "cn": "防疫物资储备",
+   "en": "epidemic prevention materials reserve",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "学校根据可能发生的传染病疫情，按照学校规模、学生数量以及传染病预防控制要求储备一定数量的物资，掌握物资储备要求、使用方法、注意事项和使用期限等，并对物资进行管理的过程。"
+  },
+  {
+   "cn": "学校传染病疫情报告人",
+   "en": "school epidemic information reporter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.2.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校传染病防控卫生监督",
+   "subjectName": "学校传染病防控卫生监督",
+   "publishYear": "2025",
+   "definition": "负责传染病疫情及相关突发公共卫生事件报告的学校专职或兼职卫生专业技术人员、保健教师，或经培训合格的学校其他在编人员。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

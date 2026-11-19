@@ -1,0 +1,772 @@
+{
+ "key": "something-from-nothing transformations",
+ "term": "something-from-nothing transformations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:29:36+00:00",
+ "status": "ok",
+ "note": "variant=something-from-nothing transformations; 审定公布名词库=2146; 海峡两岸名词对照库=596; 其他来源数据库=133; 预公布名词数据库=145; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "由实转虚",
+   "en": "deficiency transformed from excess",
+   "source": "中医药学名词",
+   "wordNumber": "03.802",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "疾病本来是以邪气盛为矛盾主要方面的实性病变，由于失治、误治，或病情迁延，伤及正气，向以正气虚损为矛盾主要方面的虚性病变转化的病理变化。"
+  },
+  {
+   "cn": "从阴化寒",
+   "en": "cold transformed from yin",
+   "source": "中医药学名词",
+   "wordNumber": "03.799",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "指病邪入里，因阴盛体质而转化为寒性病变。"
+  },
+  {
+   "cn": "从阳化热",
+   "en": "heat transformed from yang",
+   "source": "中医药学名词",
+   "wordNumber": "03.800",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "指病邪入里，因阳盛体质而转化为热性病变。"
+  },
+  {
+   "cn": "独享型体系结构",
+   "en": "shared-nothing architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0107",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "并行数据库系统中每台计算机具有独立的处理器、内存、磁盘和操作系统。必要时才与其他计算机通信的一种体系结构。"
+  },
+  {
+   "cn": "事权",
+   "en": "power to do something",
+   "source": "经济学名词",
+   "wordNumber": "11.010",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "某项财政事务归哪一级政府财政管理的权力。是有关法律、制度规定的各级政府对所管理的财政事务的行政性权力，反映的各级政府财政管理职能的划分，突出的是行政隶属关系。"
+  },
+  {
+   "cn": "无共享多处理机系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0065",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机类型",
+   "subjectName": "计算机类型",
+   "publishYear": "2018",
+   "definition": "一种多处理机系统，每个处理机都是一个单独、自给的机器，不共享系统主存或磁盘等资源，运行操作系统的一个副本，处理机之间靠通信联系。"
+  },
+  {
+   "cn": "有或无继电器",
+   "en": "all-or-nothing relay",
+   "source": "电气工程名词",
+   "wordNumber": "14.046",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "农学名词",
+   "wordNumber": "15.211",
+   "subjectFullName": "农业生物技术_蛋白质工程",
+   "subjectName": "蛋白质工程",
+   "publishYear": "2025",
+   "definition": "外源遗传物质转入受体细胞并在受体细胞中复制保存的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0767",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "（1）外源遗传物质（如质粒DNA等）进入细菌，引起细菌遗传变化的过程。外源DNA并不整合到宿主基因组中。（2）细胞在病毒、化学致癌物或X射线等多种因素作用下发生遗传变异，产生丧失接触抑制等恶性行为的过"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "兽医学名词",
+   "wordNumber": "16.082",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "受体菌直接摄取周围环境中游离的DNA片段或质粒，获得新性状的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.056",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "（1）外源遗传物质（如质粒DNA等）进入细菌，引起细菌遗传变化的现象。但外源DNA并不整合到宿主染色体DNA上，这是其与“转导”概念不同之处。（2）用病毒、化学致癌物或X线诱发培养的细胞发生遗传变异的"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.244",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "将质粒或以其为载体构建的重组DNA导入处于感受态的宿主细胞，并使其获得新表型的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0504",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "外源遗传物质（如质粒、DNA等）进入受体细胞，使后者遗传物质变化的现象。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "植物学名词",
+   "wordNumber": "16.0297",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "外源遗传物质转入受体细胞并在受体细胞中复制保存的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "核医学名词",
+   "wordNumber": "06.0141",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "将外源DNA整合到某一细胞基因组中的过程。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "药学名词",
+   "wordNumber": "05.355",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "细菌接纳外源DNA而引入新的基因标记。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "微生物学名词",
+   "wordNumber": "06.099",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "某一基因型的受体细胞从外界摄入另一基因型的DNA并使其遗传特性发生相应改变的过程。"
+  },
+  {
+   "cn": "变易",
+   "en": "transformation",
+   "source": "语言学名词",
+   "wordNumber": "10.048",
+   "subjectFullName": "语言学_训诂学_训诂所见字、词、句音义关系",
+   "subjectName": "训诂所见字、词、句音义关系",
+   "publishYear": "2011",
+   "definition": "意义不变而字形变化的同词异字现象。例如“厷”写为“肱”。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "细胞生物学名词",
+   "wordNumber": "010.181",
+   "subjectFullName": "细胞生物学_细胞培养与细胞工程",
+   "subjectName": "细胞培养与细胞工程",
+   "publishYear": "2009",
+   "definition": "通常指正常细胞经各种致癌剂处理后成为癌细胞的过程。也可指因外源基因导入使基因型和表型发生永久性遗传改变的现象。"
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "遗传学名词",
+   "wordNumber": "03.670",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "体外培养的真核细胞转变为生长失控状态，类似于肿瘤细胞的生长。"
+  },
+  {
+   "cn": "无共享的多处理器系统",
+   "en": "shared nothing multiprocessor system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform\",\"transformation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "换算",
+   "en": "transformation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "转化",
+   "en": "transformation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变换",
+   "en": "transform",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变压器",
+   "en": "transformer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化体, 转化子",
+   "en": "transformant",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转化体",
+   "en": "transformant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变量器",
+   "en": "transformer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转化子",
+   "en": "transformant",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "起始结点",
+   "en": "from-node",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隔离",
+   "en": "separated from",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下行(来自)",
+   "en": "bound from",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有待",
+   "en": "Having Something to Depend on",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无往不复",
+   "en": "Nothing That Disappears Fails to Reappear.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据变换",
+   "en": "data transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化转型",
+   "en": "Digital Transformation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闻知",
+   "en": "Knowledge from Hearsay",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "换人领骑",
+   "en": "take over from",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背后铲球",
+   "en": "tackle from behind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "虽负贩，必有尊",
+   "en": "Even Peddlers Have Something to Be Respected for",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物化",
+   "en": "Transformation of Things",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗缘情",
+   "en": "Poetry Springs from Emotions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离坚白",
+   "en": "Separate Hardness from Whiteness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和出于适",
+   "en": "Harmony Comes from Appropriateness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "细胞转化",
+   "en": "cell transformation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "具有正常生长特性的细胞转变为具有无限分裂恶性肿瘤生长特性细胞的过程。正常细胞在体外经辐射、病毒或化学致癌物等处理以及长期的体外培养，均有可能向恶性转化。"
+  },
+  {
+   "cn": "社会转型",
+   "en": "social transformation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.6.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会活动",
+   "subjectName": "社会活动",
+   "publishYear": "2025",
+   "definition": "伴随着经济和政治体制、社会结构、社会形态、文化价值系统、行为方式、生活方式等发生深刻变化，社会系统由一种类型向另一种类型过渡。"
+  },
+  {
+   "cn": "社会主义改造",
+   "en": "socialist transformation",
+   "source": "马克思主义",
+   "wordNumber": "02.0335",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1953年至1956年中国共产党领导的在全国范围内变生产资料私有制为社会主义公有制的社会主义革命。包括农业社会主义改造、手工业社会主义改造和资本主义工商业社会主义改造。社会主义改造的完成标志社会着主义"
+  },
+  {
+   "cn": "文化转型",
+   "en": "culture transformation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0051",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "因内部或外部力量推动而导致某个族群文化发生改变和适应的过程。"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "植物类露酒",
+   "en": "lujiu made from plants",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.3.1",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "利用食用或药食两用（或符合相关规定）植物的花、叶、根、茎、果为香源及营养源，经再加工制成的、具有明显植物香及有用成分的露酒。"
+  },
+  {
+   "cn": "雷公藤碱",
+   "en": "alkaloids from tripterygium wilfordii",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.21",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "中药雷公藤中百余种生物碱的统称，是雷公藤具有抗炎免疫抑制、活血通络、消肿镇痛、杀虫抗病毒等效应的重要药理成分，也是其损伤肝、肾、胃肠道、神经和造血系统的主要毒性成分，是食用蜜蜂采集雷公藤花粉花蜜酿制的"
+  },
+  {
+   "cn": "医疗机构污水",
+   "en": "sewage from medical institution",
+   "source": "消毒学",
+   "wordNumber": "7.2.7",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "诊疗活动及其相关配套服务过程中排出的污水。如医疗机构门诊、病房、手术室、检验室、病理解剖室、放射室、洗衣房、太平间等排出的诊疗、生活及粪便污水。"
+  },
+  {
+   "cn": "康普顿散射干扰",
+   "en": "disturbance from Compton scattering",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.11",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "辐射源发射多个能量的光子，其中较高能量光子的康普顿散射计数对较低能量光子的全吸收峰分析产生的干扰。这种干扰大多数表现为较低能量光子的（全）能峰下的连续谱的基底计数的增加。"
+  },
+  {
+   "cn": "密度差异干扰",
+   "en": "disturbance from density difference",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.13",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "待测样品与刻度源间的密度差异（如超过10%）对于待测物理量的干扰。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "弹射离机过载",
+   "en": "overload from ejection departure",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.1",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员由于各种原因被迫利用弹射方式应急离机时出现的冲击性过载，易造成脊柱骨压缩性骨折和椎间盘脱出。"
+  },
+  {
+   "cn": "逆推顺述",
+   "en": "backward observation from now",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0213",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "将在自己的田野点观察到的、依然活着的结构要素，推到它们有材料可证的历史起点，然后再从这个起点，将这些结构要素一一向晚近叙述，最后概括出该区域历史的结构过程。"
+  },
+  {
+   "cn": "经污染环境传播",
+   "en": "transmission from polluted environment",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "通过与食品无关的环境污染源而造成的疾病传播途径。"
+  },
+  {
+   "cn": "动物类露酒",
+   "en": "lujiu made from animals",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.3.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "利用食用或药食两用（或符合相关规定）动物及其制品为香源和营养源，经再加工制成的、具有明显动物有用成分的露酒。"
+  },
+  {
+   "cn": "着陆冲击过载",
+   "en": "overload from landing shock",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.5",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "跳伞者着陆或着水瞬间，降落速度骤然消失所产生的过载。"
+  },
+  {
+   "cn": "发酵替代蛋白",
+   "en": "alternative proteins from fermentation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.32",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "通过微生物发酵技术，以植物基材料为主要原料，生产出的具有与动物蛋白相似营养价值和口感的蛋白。"
+  },
+  {
+   "cn": "不含外来杂质",
+   "en": "free from extraneous material",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.15",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "果蔬产品中不含叶子、枝条、木屑、泥土、虫卵、昆虫、昆虫残片或其他类似外来物的状态。"
+  },
+  {
+   "cn": "气动力减速过载",
+   "en": "overload from aerodynamic deceleration",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.3",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞行员由于各种原因被迫使用人-椅系统弹射系统离机瞬间，迎面气流产生的向后加速度导致飞行员出现视力模糊、视力丧失、甚至失去意识的现象。"
+  },
+  {
+   "cn": "钩吻生物碱",
+   "en": "alkaloids from gelsemium elegans",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.16.20",
+   "subjectFullName": "食品卫生学_食品_蜂产品",
+   "subjectName": "蜂产品",
+   "publishYear": "2025",
+   "definition": "剧毒植物钩吻的主要毒性成分，具有强烈的神经尤其是中枢神经毒性。钩吻具有消肿止痛、调节免疫和抗肿瘤等药用价值，但也是常见的有毒蜜源植物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

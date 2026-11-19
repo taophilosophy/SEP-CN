@@ -1,0 +1,792 @@
+{
+ "key": "post hoc rationalization",
+ "term": "post hoc rationalization",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:28:44+00:00",
+ "status": "ok",
+ "note": "variant=post hoc rationalization; 审定公布名词库=2893; 海峡两岸名词对照库=771; 其他来源数据库=124; 预公布名词数据库=208; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "事后比较",
+   "en": "post hoc comparison",
+   "source": "心理学名词",
+   "wordNumber": "03.151",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "在方差分析基础上进一步确定数据两两均值之间关系的统计方法。"
+  },
+  {
+   "cn": "自组织网络",
+   "en": "ad-hoc network",
+   "source": "农学名词",
+   "wordNumber": "16.103",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "一个所有的节点都是由移动主机构成的不需要有线基础设施支持的无线移动网络。一般是暂时的，可以在任何地方为了某个目的自发组成，并且在有限时间之后自行解散。"
+  },
+  {
+   "cn": "特设性假说",
+   "en": "ad hoc hypothesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.191",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "为了保护某种假说或理论不被反例证伪，而专门做出的无法推导出新的可检验推理的保护性假说。"
+  },
+  {
+   "cn": "即席型工作流",
+   "en": "ad hoc workflow",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0158",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "业务过程在操作中通过协商确定的工作流。"
+  },
+  {
+   "cn": "特定处理",
+   "en": "ad hoc processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0367",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "用户根据自己的需求，灵活地选择查询条件，生成相应的统计报表。"
+  },
+  {
+   "cn": "特定团队",
+   "en": "ad hoc team",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.030",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "根据需要，为某个患者或某一事件组成的团队形式的临时服务小组。"
+  },
+  {
+   "cn": "特别联网",
+   "en": "ad hoc networking",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.064",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "具有动态自组织能力的短距离无线通信联网。"
+  },
+  {
+   "cn": "驿站",
+   "en": "post",
+   "source": "风景园林名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "风景园林_风景园林史_中国",
+   "subjectName": "中国",
+   "publishYear": "2025",
+   "definition": "古代供传递军事情报的官员途中食宿、换马的场所。"
+  },
+  {
+   "cn": "立柱",
+   "en": "post",
+   "source": "冶金学名词",
+   "wordNumber": "02.0588",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "为保持巷道的稳定性，减小空间跨度，在巷道中间安设的垂直支柱结构。"
+  },
+  {
+   "cn": "发帖",
+   "en": "post",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0771",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "把一个消息提供给论坛或公告板。"
+  },
+  {
+   "cn": "过账",
+   "en": "posting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0058",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据已编制的记账凭证、科目汇总表或日记账登记分类账，以便分类反映各会计要素的程序。"
+  },
+  {
+   "cn": "无线自组织网络",
+   "en": "wireless ad hoc network",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0440",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一个所有的结点都是由移动主机构成的不需要有线基础设施支持的无线移动网络。它一般是暂时的，可以在任何地方为了某个目的自发组成，并且在有限时间之后解散。"
+  },
+  {
+   "cn": "后硫化",
+   "en": "post cure,post vulcanization",
+   "source": "化学名词",
+   "wordNumber": "05.1022",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "橡胶经一次硫化或预硫化之后再次进行硫化的过程。"
+  },
+  {
+   "cn": "移动自组织网络",
+   "en": "mobile ad-hoc network,MANET",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0441",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "一种由移动设备通过无线链路连接的自我配置的网状网络。每个设备都可能在任意方向上独立移动，频繁地改变到达其他设备的链路，每个设备还需要具有路由功能，为其他设备提供转发服务。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "行为医学名词",
+   "wordNumber": "10.078",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体以个人需要为理由解释自己不能改变的事实，或为自己辩解，用自我能接受、能宽恕的理由代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "合理化",
+   "en": "rationalization",
+   "source": "心理学名词",
+   "wordNumber": "08.090",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "用自我能接受、超我能宽恕的理由来代替自己行为的真实动机或理由的一种自我防御机制。"
+  },
+  {
+   "cn": "支柱",
+   "en": "pillar,post",
+   "source": "土木工程名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "立柱",
+   "en": "leg,post",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.199",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "在杆件式支架或液压支架中，立于底板、底梁或底座上，用于支撑顶梁的构件或部件（如液压缸)。"
+  },
+  {
+   "cn": "后造山作用",
+   "en": "post orogenesis",
+   "source": "地质学名词",
+   "wordNumber": "10.01.082",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "造山期后发生的造山带伸展再活化，导致其构造格局发生不同程度破坏、改造与重塑的作用。"
+  },
+  {
+   "cn": "拴马桩",
+   "en": "hitching post",
+   "source": "风景园林名词",
+   "wordNumber": "08.1237",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "中国北方独有的传统民间石刻艺术品，原本是拴系骡马的条石，以坚固耐磨的整块青石雕凿而成，常栽立在农家民居建筑大门的两侧，和门前的石狮一样，既有装点建筑炫耀富有的作用，同时还被赋予了避邪镇宅的意义，人们称"
+  },
+  {
+   "cn": "事后比较",
+   "en": "post hoc comparison\",\"posteriori comparison",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "特别委员会",
+   "en": "ad hoc committee",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标桩",
+   "en": "post",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "后硫化",
+   "en": "post vulcanization\",\"post cure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合理化,文饰［作用］",
+   "en": "rationalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性化",
+   "en": "rationalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后处理",
+   "en": "post processing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后经验主义",
+   "en": "post empiricism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "音柱",
+   "en": "sound-post",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "后聚合",
+   "en": "post polymerization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "二次成型",
+   "en": "post forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "后收缩率",
+   "en": "post-shrinkage",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "后聚合",
+   "en": "post polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "后顶极",
+   "en": "post climax",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "后期幼体",
+   "en": "post larva",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "后福特主义",
+   "en": "post-Fordism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post-colonialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "驿道",
+   "en": "post road",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "驿舍",
+   "en": "post house",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "标志杆",
+   "en": "identification post",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "门柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角柱",
+   "en": "corner post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "终点标志",
+   "en": "finishing post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球门柱",
+   "en": "goal post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艉支柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高位",
+   "en": "high post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腰位",
+   "en": "middle post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低位",
+   "en": "low post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "net post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "尾柱",
+   "en": "stern post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "support post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专门标准工作组",
+   "en": "ad-hoc working group on standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动自组网安全性",
+   "en": "mobile ad-hoc network (MANET) security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后涂尔干主义",
+   "en": "post-Durkheimism",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.23",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "美国社会学家格仑斯基(David Grusky）和索伦森(Jesper B.Sorensen）等人从涂尔干的《社会劳动分工论》中汲取思想，认为当代的社会分层主要以职业分化为基础，当代社会存在的阶级是职"
+  },
+  {
+   "cn": "后现代性",
+   "en": "post-modernity",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.6",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "一种与现代性相悖的思潮，质疑启蒙运动理性精神及其在社会进程中的体现。"
+  },
+  {
+   "cn": "后生产主义",
+   "en": "post-productivism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.14",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "将农村地区变成不仅是消费基地，而且是环境保护基地的思想。改变那种只追求更高利润和更高生产力的生产主义思想。"
+  },
+  {
+   "cn": "后殖民主义",
+   "en": "post colonialism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种跨越并影响人文学科、社会科学及哲学的学术思潮，研究殖民现象给殖民者和被殖民者带来的文化影响和殖民关系的衍生品，以及现在的表现形式和实际情况。"
+  },
+  {
+   "cn": "事件事后评估",
+   "en": "post evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "在突发公共卫生事件结束后，卫生行政部门按照一定的标准和程序,对学校突发公共卫生事件现场调查处理、患者救治、所采取的措施效果进行综合评估的活动。"
+  },
+  {
+   "cn": "理性",
+   "en": "rationality",
+   "source": "马克思主义",
+   "wordNumber": "01.0172",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）思维发展的高级阶段，与“感性”相对，指形成概念，进行判断、分析、综合、比较、推理、计算等方面的能力和活动。（2）与感觉、知觉、情感和欲望相对的性格特征，指按照事物存在的真实状况和发展的内在规律处"
+  },
+  {
+   "cn": "唯理论",
+   "en": "rationalism",
+   "source": "马克思主义",
+   "wordNumber": "01.0175",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）与经验主义相对，认为具有普遍必然性的可靠知识不是、也不可能来自经验，而是从先天的、不可否认的“自明之理”出发，经过严密的逻辑推理得到的。（2）轻视感性经验的作用，仅从概念出发，用逻辑推理和理性思"
+  },
+  {
+   "cn": "灾后消毒",
+   "en": "post-disaster disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.23",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "灾害发生后对灾区污染物品和场所进行的消毒处理。"
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "上岗前培训",
+   "en": "pre-post training",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射工作人员上岗前应接受的放射防护有关知识的培训，并经考核合格方可参加相应的工作。"
+  },
+  {
+   "cn": "后工业社会",
+   "en": "post-industrial society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以信息和知识为关键变量，高端制造业和高科技、金融等服务业在经济中占突出地位的工业社会。现代科技革命和工业社会进一步发展的产物。"
+  },
+  {
+   "cn": "后现代社会",
+   "en": "post-modern society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "伴随西方启蒙运动以来各种宏大叙事和乌托邦的幻灭以及现代社会-文化诸多领域发生一定变迁和历史性断裂而形成的超现代性社会。一种理论上被用来与启蒙运动思想造就的现代性社会相区别的术语或概念。"
+  },
+  {
+   "cn": "后工业化城市",
+   "en": "post-industrial city",
+   "source": "社会学名词",
+   "wordNumber": "3.4.2.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市的变迁",
+   "subjectName": "城市的变迁",
+   "publishYear": "2025",
+   "definition": "基于信息、金融和服务业为主导的城市形态。20世纪70年代，随着发达国家的经济发展从工业产品生产转到信息、金融、服务业等，城市也经历了传统工业衰落、制造业就业机会减少的过程，城市中心的工业用地则通过土地"
+  },
+  {
+   "cn": "后工业社会主义",
+   "en": "post industrial socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0231",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "20世纪末兴起的一种思潮，以新科技革命和社会主义前途之间的关系为理论主题，从时代变换的宏观视角探讨苏东剧变后世界社会主义的命运和未来。主张把新科技革命带来的社会发展的质的变化引入社会主义，力图从人类整"
+  },
+  {
+   "cn": "小儿麻痹后遗症",
+   "en": "post-polio syndrome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "脊髓灰质炎发病两年以后仍不能恢复的瘫痪、畸形、骨关节变性等表现。"
+  },
+  {
+   "cn": "事后避孕方法",
+   "en": "post-coital contraception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "性交后使用的阻止精卵结合或受精卵着床的一类方法。通常用于性交时发生避孕方法使用失误或未使用任何避孕措施，存在一定的意外怀孕的风险，需要临时采取避孕补救的情形。"
+  },
+  {
+   "cn": "暴露后预防",
+   "en": "post exposure prophylaxis",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.2.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "暴露于某种病原体后，在一定时间内，为防止由该病原体引起的感染或减轻疾病严重程度进行的预防性治疗。"
+  },
+  {
+   "cn": "产蛋后污染",
+   "en": "post-laying contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.21",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "蛋壳在泄殖腔、不洁的产蛋场所以及运输与储藏过程中受到的微生物污染。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "价值理性",
+   "en": "value rationality",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "行动者相信特定的行为无条件地具有价值，行动者强调追求动机的纯正和选择正确的手段去实现目的，而不管其结果如何的行动取向。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

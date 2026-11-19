@@ -1,0 +1,742 @@
+{
+ "key": "neighborhood interval logic",
+ "term": "neighborhood interval logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:19:30+00:00",
+ "status": "ok",
+ "note": "variant=neighborhood interval logic; 审定公布名词库=2317; 海峡两岸名词对照库=666; 其他来源数据库=70; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "source": "风景园林名词",
+   "wordNumber": "13.0013",
+   "subjectFullName": "风景园林_其他_景观社会学",
+   "subjectName": "景观社会学",
+   "publishYear": "2025",
+   "definition": "在地缘关系的基础上，通过经久相处、友好往来而逐步形成的守望相助、共同生活的小型人群。"
+  },
+  {
+   "cn": "里",
+   "en": "neighborhood",
+   "source": "建筑学名词",
+   "wordNumber": "07.0285",
+   "subjectFullName": "建筑学_城乡规划_城市历史与保护",
+   "subjectName": "城市历史与保护",
+   "publishYear": "2014",
+   "definition": "中国古代城市中以围墙或街道所限定的居民生活区。"
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "source": "地理学名词",
+   "wordNumber": "19.180",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "在所限定的区域内，存在确定的由其中多数居民构成的亚文化群体。"
+  },
+  {
+   "cn": "邻域",
+   "en": "neighborhood",
+   "source": "数学名词",
+   "wordNumber": "08.0446",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "区间时态逻辑",
+   "en": "interval temporal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0041",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "可以表示一段时间内某些性质成立的时态逻辑。"
+  },
+  {
+   "cn": "小区游园",
+   "en": "neighborhood garden",
+   "source": "风景园林名词",
+   "wordNumber": "05.0060",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "为一个居住小区的居民服务、配套建设的集中绿地。面积一般不小于0.4hm2。"
+  },
+  {
+   "cn": "邻里公园",
+   "en": "neighborhood park",
+   "source": "风景园林名词",
+   "wordNumber": "05.0092",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "依城市道路、商业街区、居住区等建设的具有园艺景观、游憩服务和文化展示等功能的小型绿地。"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_城市规划理论与方法",
+   "subjectName": "城市规划理论与方法",
+   "publishYear": "2021",
+   "definition": "美国学者佩里（Clarence Arthur Perry）提出的一种居住区规划模式。以小学的服务范围来组织居住区的基本单元。"
+  },
+  {
+   "cn": "邻里社区",
+   "en": "neighborhood community",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "基于邻里关系认同、维系与发展的社区形式。"
+  },
+  {
+   "cn": "邻里效应",
+   "en": "neighborhood effect",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "城乡规划学_社区与住房规划_城乡社区发展及规划理论与方法",
+   "subjectName": "城乡社区发展及规划理论与方法",
+   "publishYear": "2021",
+   "definition": "由于生活在相邻地区而形成的地方社会环境互动，对人们的思想和行为方式产生的趋同性影响。"
+  },
+  {
+   "cn": "邻里关系",
+   "en": "neighborhood relationship",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.076",
+   "subjectFullName": "城乡规划学_社区与住房规划_城市更新规划",
+   "subjectName": "城市更新规划",
+   "publishYear": "2021",
+   "definition": "因居住临近而形成的社会关系。"
+  },
+  {
+   "cn": "街坊花园",
+   "en": "neighborhood garden",
+   "source": "林学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "林学_风景园林_风景园林规划与设计",
+   "subjectName": "风景园林规划与设计",
+   "publishYear": "2016",
+   "definition": "位于街坊的花园。"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "source": "建筑学名词",
+   "wordNumber": "07.0296",
+   "subjectFullName": "建筑学_城乡规划_城市历史与保护",
+   "subjectName": "城市历史与保护",
+   "publishYear": "2014",
+   "definition": "1929年美国人佩里(Clarence Arthur Perry)提出，根据一所小学的服务范围来组织居住区的基本单位。设有满足居民日常生活需要的道路交通设施、绿化空间和公共服务设施。城市道路不穿越邻里"
+  },
+  {
+   "cn": "邻域分析",
+   "en": "neighborhood analysis",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.292",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地理信息系统中，基于距离或方向关系进行空间分析的一种方法。"
+  },
+  {
+   "cn": "相邻种群区",
+   "en": "neighborhood area",
+   "source": "生态学名词",
+   "wordNumber": "12.088",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "一个种群内的区域，能够为所研究植株提供95%的亲本。在随机交配的条件下，遗传上的相邻种群区等同于整个种群。"
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "source": "生态学名词",
+   "wordNumber": "12.089",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "相邻种群区的基株数量。"
+  },
+  {
+   "cn": "平衡邻里",
+   "en": "balanced neighborhood",
+   "source": "地理学名词",
+   "wordNumber": "19.198",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "用于抵制能在城市居住形成自然区的隔离过程。作为取代社会集团分别居住在不同区域的一项措施，以使整个城市社会形成均衡的微观结构。"
+  },
+  {
+   "cn": "邻里中心",
+   "en": "neighborhood center",
+   "source": "地理学名词",
+   "wordNumber": "19.184",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "城市商业中心等级结构中最低级的中心，服务仅限于本地，提供最常用的商品。"
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "source": "地理学名词",
+   "wordNumber": "19.181",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "为适应现代城市因交通发展而带来的规划结构的变化提出的一种新的居住区规划理论。指城市中一个相对完备的居住地区。"
+  },
+  {
+   "cn": "邻里效应",
+   "en": "neighborhood effect",
+   "source": "地理学名词",
+   "wordNumber": "19.182",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "地方社会环境的特点可以影响人们的思想和行为的方式。用于解释某些地理类型，例如对教育地理类型和选举的地理类型。"
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "邻域",
+   "en": "neighborhood",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区间时态逻辑",
+   "en": "interval temporal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相邻种群大小",
+   "en": "neighborhood size",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "邻里单位",
+   "en": "neighborhood unit",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "邻里演变",
+   "en": "neighborhood evolution",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "邻里中心",
+   "en": "neighborhood center",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "平衡邻里",
+   "en": "balanced neighborhood",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "邻域分析",
+   "en": "neighborhood analysis",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻域函数",
+   "en": "neighborhood functions",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻域统计",
+   "en": "neighborhood statistics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "邻元法",
+   "en": "neighborhood method",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "邻域运算",
+   "en": "neighborhood operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "音程",
+   "en": "interval",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "里坊",
+   "en": "residential area\",\"neighborhood",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "邻域分类规则",
+   "en": "neighborhood classification rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世代间隔",
+   "en": "generation interval",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "采样间隔",
+   "en": "sampling interval",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等高线[间]距",
+   "en": "contour interval",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "局间休息",
+   "en": "interval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局间休息",
+   "en": "interval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局间休息",
+   "en": "interval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发时间间隔",
+   "en": "time interval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能小区管理系统",
+   "en": "smart neighborhood management system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由速度训练",
+   "en": "fartlek\",\"interval training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局间休息",
+   "en": "interval between sets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能小区防盗报警系统",
+   "en": "smart neighborhood anti-theft alarm system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中场休息",
+   "en": "half time\",\"intermission\",\"interval",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "邻里",
+   "en": "neighborhood",
+   "source": "社会学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_聚类群体",
+   "subjectName": "聚类群体",
+   "publishYear": "2025",
+   "definition": "在地域上靠近这一自然条件基础上，结合了友好往来和亲威、朋友关系而逐步形成的守望相助、共同生活的群体。"
+  },
+  {
+   "cn": "保甲制",
+   "en": "neighborhood administration system",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "起源于宋代的一种乡兵制度。后被用于户籍管理。若干户编为一甲，设甲长。若干甲编为一保，设保长。以此实行连坐法及征收赋税。"
+  },
+  {
+   "cn": "定距尺度",
+   "en": "interval scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.39",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "对测量对象之间真实差距进行鉴别的测量方式。定距尺度除具有定类尺度和定序尺度的特征外，其测量值之间的距离是有实际意义的。定距测量的量可以进行加减运算。"
+  },
+  {
+   "cn": "置信区间",
+   "en": "donfidence interval",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在一定的置信水平下，由样本统计量所构造的总体参数的估计空间。"
+  },
+  {
+   "cn": "妊娠间隔",
+   "en": "interpregnancy interval",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "前次分娩或流产至再次妊娠开始的间期。"
+  },
+  {
+   "cn": "安全间隔期",
+   "en": "pre-harvest interval",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "最后一次施用农药至农产品收获、使用或消费前必须间隔的最短时间，其目的是通过农药自然降解，使残留量降至国家规定的最大允许残留限量以下，从而保障食品安全，避免对人体健康或环境造成危害"
+  },
+  {
+   "cn": "高强度间歇运动",
+   "en": "high intensity interval training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.11",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "一种多次短时间的高强度运动与以低强度运动或休息形式形成的间歇期交替进行的运动训练方式。"
+  },
+  {
+   "cn": "分娩间隔",
+   "en": "birth-to-birth interval",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "前次分娩至再次分娩的间期。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "决定手术至胎儿娩出时间",
+   "en": "decision-to-delivery interval, DDI",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.11",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "决定紧急剖宫产与胎儿实际娩出的时间间隔，应控制在30分钟内。"
+  },
+  {
+   "cn": "剖宫产后再次妊娠间隔",
+   "en": "cesarean section-to-pregnancy interval",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "前次剖宫产分娩至再次妊娠开始的间期。"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "放射性同位素测井",
+   "en": "radioisotope log",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.25",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "用注入油井的非密封放射性物质确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价杀菌效果时，消毒前后微生物数量的对数值差值。"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价病毒消毒效果时，消毒前后病毒数量的对数值差值。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.63",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "当微生物数量以对数表示时，杀菌前后微生物减少的对数值。"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.80",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种非负随机结果变量的统计回归模型。常用于拟合生物活性测定中的S 型剂量-反应曲线。"
+  },
+  {
+   "cn": "测井中子发生器",
+   "en": "neutron generator for well logging",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "由中子管和中子管外接电路组成的装置，中子管外接电路通常由离子源电路和密封加速高压组成。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

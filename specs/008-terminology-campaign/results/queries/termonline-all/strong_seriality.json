@@ -1,0 +1,792 @@
+{
+ "key": "strong seriality",
+ "term": "strong seriality",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:15:37+00:00",
+ "status": "ok",
+ "note": "variant=strong seriality; 审定公布名词库=1748; 海峡两岸名词对照库=464; 其他来源数据库=127; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "连载",
+   "en": "serialization",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.092",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "分多次连续登载一部作品的出版形式。"
+  },
+  {
+   "cn": "连续出版物",
+   "en": "serial",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "具有统一题名，定期或不定期以连续分册形式计划无限期出版，有卷期或年月标识的出版物。分印刷或非印刷形式，包括期刊、报纸、年度出版物（年鉴、年刊等），以及成系列的报告、学会会刊、会议录和专著丛刊，但并不包"
+  },
+  {
+   "cn": "序列化",
+   "en": "serialization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0147",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "一种将对象的状态信息转换为可存储、可传输形式的过程。用于保存对象的当前状态，并支持对对象状态的重建。"
+  },
+  {
+   "cn": "系列遗产",
+   "en": "serial properties,serial heritage",
+   "source": "建筑学名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "建筑学_中外建筑历史_文化遗产",
+   "subjectName": "文化遗产",
+   "publishYear": "2014",
+   "definition": "由几个相关部分组成的遗产。这些组成部分属于同一历史文化群体；具有某一地域特征的同一类型遗产；同一地质、地形构造，同一生物地理亚区，或同类生态系统；同时，作为一个整体(而不是其中个别部分)必须具有突出的"
+  },
+  {
+   "cn": "强纲领",
+   "en": "strong program",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.091",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由爱丁堡学派较为系统地阐发的科学知识社会学主张。相关研究不仅仅是要求重视社会因素对科学的影响，而且声称社会因素是首要的和决定性的。"
+  },
+  {
+   "cn": "强相互作用",
+   "en": "strong interaction",
+   "source": "核科学技术名词",
+   "wordNumber": "1.065",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "自然界四种基本相互作用中的一种，由夸克通过带有颜色的胶子传递的相互作用。在1 fm距离上，其强度约为电磁相互作用的137倍、弱相互作用的106倍、引力相互作用的1038倍。"
+  },
+  {
+   "cn": "强引力透镜",
+   "en": "strong lensing",
+   "source": "天文学名词",
+   "wordNumber": "07.341",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "产生多种像或者一些光弧的引力透镜。"
+  },
+  {
+   "cn": "强阿片类药物",
+   "en": "strong opioid",
+   "source": "麻醉学名词",
+   "wordNumber": "07.044",
+   "subjectFullName": "麻醉学_疼痛诊疗_疼痛治疗",
+   "subjectName": "疼痛治疗",
+   "publishYear": "2024",
+   "definition": "一类作用于阿片受体的中枢性强镇痛药物。适用于中至重度疼痛，包括吗啡、芬太尼、氢吗啡酮、美沙酮、羟考酮等。"
+  },
+  {
+   "cn": "强联系",
+   "en": "strong tie",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.186",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "互动频繁、感情较深、关系紧密、互惠多而广的关系。美国社会学家马克·格拉诺维特(Mark Granovetter)从互动的频繁程度、感情力量、关系紧密程度以及互惠交换等方面对社会网络中的社交关系作了强与"
+  },
+  {
+   "cn": "强震",
+   "en": "strong earthquake",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0158",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "震级大于等于 6级、小于 7级的中震。 "
+  },
+  {
+   "cn": "强碱性",
+   "en": "strong alkaline",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0137",
+   "subjectFullName": "地球物理学_地壳流体科学_水化学性质",
+   "subjectName": "水化学性质",
+   "publishYear": "2022",
+   "definition": "物质在水溶液中能够电离为金属离子和氢氧根离子的化学性质。 "
+  },
+  {
+   "cn": "强酸性",
+   "en": "strong acid",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0139",
+   "subjectFullName": "地球物理学_地壳流体科学_水化学性质",
+   "subjectName": "水化学性质",
+   "publishYear": "2022",
+   "definition": "物质在溶液中能将氢离子(H+)完全电离出来的化学性质。 "
+  },
+  {
+   "cn": "强极化",
+   "en": "strong polarization",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0149",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀试验及评价",
+   "subjectName": "腐蚀试验及评价",
+   "publishYear": "2021",
+   "definition": "极化值与对应外加电流密度的对数呈直线关系。"
+  },
+  {
+   "cn": "强启动子",
+   "en": "strong promoter",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.284",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "对RNA聚合酶具有高亲和力、指导合成大量mRNA的启动子。"
+  },
+  {
+   "cn": "强关联",
+   "en": "strong correlation",
+   "source": "物理学名词",
+   "wordNumber": "08.3142",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "强聚焦",
+   "en": "strong focusing",
+   "source": "物理学名词",
+   "wordNumber": "09.1627",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "强电解质",
+   "en": "strong electrolyte",
+   "source": "冶金学名词",
+   "wordNumber": "04.0414",
+   "subjectFullName": "冶金学_冶金物理化学_冶金电化学",
+   "subjectName": "冶金电化学",
+   "publishYear": "2019",
+   "definition": "溶解在溶剂中能够完全电离为自由离子的电解质。"
+  },
+  {
+   "cn": "强相互作用",
+   "en": "strong interaction",
+   "source": "物理学名词",
+   "wordNumber": "09.0213",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "强局域",
+   "en": "strong localization",
+   "source": "物理学名词",
+   "wordNumber": "08.3463",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "强[作用]衰变",
+   "en": "strong decay",
+   "source": "物理学名词",
+   "wordNumber": "09.1102",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "序列主义",
+   "en": "serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列化",
+   "en": "serialization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "串行化",
+   "en": "serialization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串化器，并串行转换器",
+   "en": "serializer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整体序列主义",
+   "en": "total serialism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "6级风，强风",
+   "en": "strong breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "9级风，烈风",
+   "en": "strong gale",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强电解质",
+   "en": "strong electrolyte",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "坚挺货币",
+   "en": "strong currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强启动子",
+   "en": "strong promoter",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "强反型",
+   "en": "strong inversion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强类型",
+   "en": "strong type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强一致性",
+   "en": "strong consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "6级风",
+   "en": "strong breeze",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "9级风",
+   "en": "strong gale",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "连续切片",
+   "en": "serial section",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "连续突触",
+   "en": "serial synapse",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "系列同源性",
+   "en": "serial homology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串行通信",
+   "en": "serial communications",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串行过程",
+   "en": "serial process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强关系",
+   "en": "strong ties",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "6级风",
+   "en": "strong breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "9级风",
+   "en": "strong gale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强侧",
+   "en": "strong side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "瘦硬",
+   "en": "Thin and Strong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠理论",
+   "en": "strong reciprocity theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用串行总线",
+   "en": "universal serial bus (USB)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证书强认证",
+   "en": "strong authentication of digital certificates",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字文化大国",
+   "en": "country with a strong digital culture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边界控制强逻辑隔离",
+   "en": "strong logical isolation for boundary control",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵强而无义者残",
+   "en": "A Strong Army Without Righteousness Is Destructive.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "避实击虚",
+   "en": "Avoid the Strong and Attack the Weak",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会强关系资金扶助",
+   "en": "financial support based on strong social tie",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欲强兵者，务富其民",
+   "en": "A Strong Army Depends on a Prosperous Populace.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚起战胜疫情的强大合力",
+   "en": "to form strong synergies to beat the pandemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "兵之所以强者，民也",
+   "en": "The Military Is Strong Because It Enjoys Popular Support.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "爱丁堡学派代表人物布鲁尔(David Bloor）提出的科学知识社会学研究纲领。主张所有人类知识都是处于一定的社会建构过程中的信念，这些信念都是相对的、由社会因素决定的。科学知识的社会学研究应遵循四个"
+  },
+  {
+   "cn": "序列相关",
+   "en": "serial correlation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.155",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个时间序列过程的接续的值有非零的协方差时的相关关系。"
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "通过压电或线圈等不同样式，发射出足以威慑或使人员失去行动能力，但对人员或环境不会造成长期危害的高强度声响的声波类武器。"
+  },
+  {
+   "cn": "系列遗产",
+   "en": "serial cultural heritage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0062",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "拥有两个或两个以上具有明确关联的组成部分的遗产。系列遗产的各组成部分应反映一段时间里文化、社会或功能方面的联系，这些联系在相关领域提供了景观、生态、进化或生境的连通性。"
+  },
+  {
+   "cn": "原强",
+   "en": "essence of strong nation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过提倡“群学”这一修齐治平之学，来培养和提高民众素质，建立良好社会基础，以达到国家富强的主张与做法。是严复主张的民本原则的体现。严复在《原强》一文中，强调强国保种在于培植民众在体、智、德三方面的潜力"
+  },
+  {
+   "cn": "强声武器损伤",
+   "en": "injuries of strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由超130 分贝(最高超180 分贝)定向发射装置构成，属“非致命性武器”。借大功率声波发生器产生高能声脉冲或高频声波，作用于人群可致听觉损伤、内脏紊乱、神经应激甚至行为失能。"
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "strategy for making China strong by training competent personnel",
+   "source": "马克思主义",
+   "wordNumber": "03.0684",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依靠人才兴邦，走人才强国之路，大力提升国家核心竞争力和综合国力，是人才强国战略的核心要义。"
+  },
+  {
+   "cn": "科教兴国战略",
+   "en": "strategy for making China strong by developing science and education",
+   "source": "马克思主义",
+   "wordNumber": "03.0631",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "把科技和教育进步放在经济、社会发展的关键地位，使经济建设真正转到依靠科技进步和提高劳动者素质的轨道上来而制定的兴国战略，是我国现阶段的一项基本战略。"
+  },
+  {
+   "cn": "铸牢中华民族共同体意识",
+   "en": "forging a strong sense of community for the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0108",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "就是要引导各族人民牢固树立休戚与共、荣辱与共、生死与共、命运与共的共同体理念，推动各民族树立正确的国家观、历史观、民族观、文化观、宗教观，增强国家意识、公民意识、法治意识，坚定对伟大祖国、中华民族、中"
+  },
+  {
+   "cn": "老年",
+   "en": "senility",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.1",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "正常生命历程的最后阶段。目前，发展中国家一般以60岁作为起点，发达国家多把65岁作为起点。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "无菌检验",
+   "en": "sterility test",
+   "source": "消毒学",
+   "wordNumber": "6.2.33",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "为确定单元产品或其部分上有无活微生物而进行的检验。"
+  },
+  {
+   "cn": "商业无菌",
+   "en": "commercial sterility",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.8",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头食品经过适度热杀菌后，不含有致病性微生物，也不含有在通常温度下能在其中繁殖的非致病性微生物的状态。"
+  },
+  {
+   "cn": "无菌保证期",
+   "en": "sterility assurance period",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.6",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "灭菌包装内的物品灭菌后可以保持无菌状态的时间。"
+  },
+  {
+   "cn": "无菌性保持试验",
+   "en": "sterility maintenance test",
+   "source": "消毒学",
+   "wordNumber": "6.2.32",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "测定包装完整的灭菌医疗用品在规定的条件下贮存是否保持无菌，来确定灭菌医疗用品包装材料的无菌有效期的测试方法。"
+  },
+  {
+   "cn": "全面性教育",
+   "en": "comprehensive sexuality education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "基于课程的关于性的认知、情感、身体和社会层面的意义的教学过程。旨在使儿童和年轻人具备一定的知识、技能、态度和价值观，确保其健康、福祉和尊严。"
+  },
+  {
+   "cn": "五弦",
+   "en": "Five string lute",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0644",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代西域弹拨乐器。传入中原后盛行于南北朝、隋唐时期。形制与四弦琵琶相似，唯颈直而音箱略小。在克孜尔等新疆佛窟壁画中常见，可知为西域乐舞主要乐器之一。"
+  },
+  {
+   "cn": "噶·东赞",
+   "en": "Mgar stong btsan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0424",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "西藏历史人物，？－667 年，吐蕃著名政治家、军事家和外交家，松赞干布时期担任大相之职，为吐蕃建立政治、经济制度方面多有建树。公元640 年，受松赞干布派遣，出使唐朝，成功促成文成公主入蕃和亲。"
+  },
+  {
+   "cn": "布拉格之春",
+   "en": "Prague Spring",
+   "source": "马克思主义",
+   "wordNumber": "05.0218",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1968年1月新当选的捷克斯洛伐克共产党第一书记杜布切克全面开展政治经济改革，西方把这称为“布拉格之春”。4月，捷共制定《行动纲领》，决定实行政治民主，党政分开；经济上发挥市场机制的作用，扩大企业自主"
+  },
+  {
+   "cn": "苏龙语",
+   "en": "Sulong language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0251",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国珞巴族苏龙支系使用的语言。属汉藏语系藏缅语族景颇语支或喜马拉雅语支。主要分布在中印边境传统习惯线以北我国西藏珞隅、错那县达旺以东等地区。使用人口约3000人。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

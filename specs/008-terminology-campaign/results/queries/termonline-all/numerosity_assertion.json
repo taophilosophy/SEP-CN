@@ -1,0 +1,442 @@
+{
+ "key": "numerosity assertion",
+ "term": "numerosity assertion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:20:11+00:00",
+ "status": "ok",
+ "note": "variant=numerosity assertion; 审定公布名词库=170; 海峡两岸名词对照库=77; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0118",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "断定一个特定前提为真的陈述。"
+  },
+  {
+   "cn": "论断",
+   "en": "assertion",
+   "source": "数学名词",
+   "wordNumber": "01.0011",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "管理层认定",
+   "en": "management assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0411",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "管理层在财务报表中对财务报表组成要素的确认、计量、报告所做出的明确或隐含的表达。"
+  },
+  {
+   "cn": "角色主张",
+   "en": "role assertion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0943",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "创业者基于公司利益至上的思想，以新创企业的名义所做出的对公司有利的不道德的事。"
+  },
+  {
+   "cn": "决断力训练",
+   "en": "assertiveness training",
+   "source": "精神医学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "一种用于增强社交技能的行为治疗方法。运用人际关系的情景，训练受检者正确地和适当地与他人交往，顺畅自如地表达自己的情绪、情感，主张自己的权益，实现自己的目的，有勇气拒绝别人的不合理要求。"
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training",
+   "source": "心理学名词",
+   "wordNumber": "15.039",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "帮助退缩或被动的人学习以适时、适当的方式表达他们所想、所需的一种训练方法。"
+  },
+  {
+   "cn": "安全断言置标语言",
+   "en": "security assertion markup language,SAML",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.051",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "一种实现Web服务安全产品之间互操作，保证端到端、机构内部以及从企业到企业的安全性的建议标准。"
+  },
+  {
+   "cn": "消费资本资产定价模型",
+   "en": "consumption-based capital assert pricing model,consumption-based CAPM,CCAPM",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0092",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "投资者在最优化其跨期消费的总效用实现均衡时，所用的资本资产定价模型。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0194",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "DNA或RNA的一种突变形式。其多核苷酸链内参入了一个或多个额外核苷酸。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "血液学名词",
+   "wordNumber": "4.248",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "一条染色体发生两次断裂，两个断裂点之间的片段插入到另一条染色体短臂或长臂中间的过程。插入片段可以在新的位置保持原始方向，也可以保持相反的方向。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "药学名词",
+   "wordNumber": "05.354",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "(1)DNA或RNA的一种突变形式，在多核苷酸链内插入了一个或多个额外核苷酸的过程。(2)在DNA或RNA链中增加一个或多个额外核苷酸的过程。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "遗传学名词",
+   "wordNumber": "03.166",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "在DNA或RNA链中增加一个或多个额外核苷酸的过程。"
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.207",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "胫骨粗隆",
+   "en": "tibial tuberosity,tuberosity of tibia",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0781",
+   "subjectFullName": "人体解剖学_运动系统_附肢骨",
+   "subjectName": "附肢骨",
+   "publishYear": "2014",
+   "definition": "胫骨上端前面与胫骨体交界处的三角形粗糙隆起。其上部隆凸而光滑，有髌韧带附着，下部粗糙，可在体表扪及。"
+  },
+  {
+   "cn": "星点",
+   "en": "asterion",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0898",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "人字缝、枕乳突缝和顶乳突缝的交点。若此处有缝间骨存在，则以3缝之主轴的交点为星点。"
+  },
+  {
+   "cn": "坐骨结节",
+   "en": "ischial tuberosity",
+   "source": "生殖医学名词",
+   "wordNumber": "2.114",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "坐骨体与坐骨支移行处后部粗糙肥厚的隆起。"
+  },
+  {
+   "cn": "三角肌粗隆",
+   "en": "deltoid tuberosity",
+   "source": "手外科学名词",
+   "wordNumber": "03.0138",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "肱骨体中部外侧面呈“V”形的粗糙隆起。为同名肌肉附着处。"
+  },
+  {
+   "cn": "桡骨粗隆",
+   "en": "radial tuberosity",
+   "source": "手外科学名词",
+   "wordNumber": "03.0152",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "桡骨颈内下侧的骨性突起。"
+  },
+  {
+   "cn": "尺骨粗隆",
+   "en": "ulnar tuberosity",
+   "source": "手外科学名词",
+   "wordNumber": "03.0161",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "冠突下方的粗糙隆起。为肱肌及前臂骨间膜的斜索附着处。"
+  },
+  {
+   "cn": "尺骨粗隆",
+   "en": "ulnar tuberosity",
+   "source": "运动医学名词",
+   "wordNumber": "01.134",
+   "subjectFullName": "运动医学_运动解剖_人体运动执行体系",
+   "subjectName": "人体运动执行体系",
+   "publishYear": "2019",
+   "definition": "尺骨冠突下方的一粗糙隆起。"
+  },
+  {
+   "cn": "断言",
+   "en": "assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言",
+   "en": "inductive assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输出断言",
+   "en": "output assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入断言",
+   "en": "input assertion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳断言法",
+   "en": "inductive assertion method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自信训练",
+   "en": "assertiveness training\",\"self confidence trai ning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "坐骨结节",
+   "en": "sciatic tuberosity\",\"ischiadic tuberosity\",\"tuberosity of ischium",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "插入",
+   "en": "insertion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尺骨粗隆",
+   "en": "ulnar tuberosity\",\"tuberosity of ulna",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胫骨粗隆",
+   "en": "tibial tuberosity\",\"tuberosity of tibia",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "桡骨粗隆",
+   "en": "radial tuberosity\",\"tuberosity of radius",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "星点",
+   "en": "asterion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "骶骨粗隆",
+   "en": "sacral tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "髂粗隆",
+   "en": "iliac tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "三角肌粗隆",
+   "en": "deltoid tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "臀肌粗隆",
+   "en": "gluteal tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "旋前肌粗隆",
+   "en": "pronator tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "咬肌粗隆",
+   "en": "masseteric tuberosity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "无为者帝",
+   "en": "Taking a Non-assertive Action Makes a Good Emperor.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放置后出血",
+   "en": "bleeding after insertion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "放置节育器后，由于节育器本身原因或使用者合并其他妇科疾病出现经期延长、经量增多、点滴出血、不规则出血、下腹疼痛、阴道分泌物增多等临床表现，常见于放置后最初3-6个月。"
+  },
+  {
+   "cn": "放置宫内节育器并发症",
+   "en": "complications of intrauterine contraceptive device insertion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "放置宫内节育器手术中或手术后，因为宫内节育器本身原因、手术操作或使用者自身原因，发生的感染、子宫及邻近脏器损伤等医学问题。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

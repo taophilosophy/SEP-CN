@@ -1,0 +1,292 @@
+{
+ "key": "infomorphism",
+ "term": "infomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:17:25+00:00",
+ "status": "ok",
+ "note": "variant=infomorphism; 审定公布名词库=53; 海峡两岸名词对照库=8; 其他来源数据库=1; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "自同态",
+   "en": "endomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1315",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新生变形作用",
+   "en": "neomorphism",
+   "source": "地质学名词",
+   "wordNumber": "05.02.039",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积成岩作用",
+   "subjectName": "沉积成岩作用",
+   "publishYear": "2026",
+   "definition": "包括重结晶、应变重结晶和同质异象体转变的矿物变形作用。该变形过程中，矿物总化学成分基本不变，仅矿物大小和形态发生变化。有时指单纯的重结晶作用，趋向于晶体长大时称为进变新生变形；特殊情况下也可出现晶体缩"
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.179",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体结构中某些质点(离子、原子或分子)被其他类似的质点代替，仅使晶格常数发生不大的变化，而结构形式并不改变的现象。影响元素位置置换能力的因素包括离子类型及键能、离子或原子半径、原子价数、置换的能量效应"
+  },
+  {
+   "cn": "同[晶]形性",
+   "en": "isomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0762",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0501",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "两个数学对象之间双向唯一且保持对象结构不变的映射。"
+  },
+  {
+   "cn": "类质同晶型",
+   "en": "isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1893",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "晶体中的原子、离子被相似性质的原子、离子彻底取代或部分取代后，其组分原子、键型和物理化学性质皆相似，晶体结构型式相同(晶胞参数仅微小变动)的现象。"
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "药学名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "化学组成类似的不同物质形成结构相同或很相近似的晶体的现象。"
+  },
+  {
+   "cn": "同构",
+   "en": "isomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0118",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新生变形[作用]",
+   "en": "neomorphism",
+   "source": "地质学名词",
+   "wordNumber": "05.233",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism,allomerism",
+   "source": "地质学名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正自同态",
+   "en": "positive endomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1247",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.182",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，相互替代的离子的电价相等。"
+  },
+  {
+   "cn": "异价类质同象",
+   "en": "heterovalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.183",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，由电价不等的离子(原子)进行置换所形成的类质同象。由于异价替代将引起电荷不平衡，必须采用成对替代以保持电价平衡，这种替代方式又称耦合替代。"
+  },
+  {
+   "cn": "极性类质同象",
+   "en": "polarity isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.184",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在形成类质同象混晶时，元素间的置换具有一定方向性而极少成反方向置换关系的现象。"
+  },
+  {
+   "cn": "补偿类质同象",
+   "en": "compensation isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.185",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "当形成类质同象混晶时，介质中形成某晶体的某种元素浓度不足时,由介质中性质近似的其他元素以类质同象置换方式进入晶格进行补偿的现象。"
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0775",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "给定两个图<img src='/root/syzx/static/spz/jsjkx3.02.0775.001.png'/>，若它们的顶点集合<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "反类质同晶",
+   "en": "anti-isomorphism",
+   "source": "化学名词",
+   "wordNumber": "04.1894",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "在离子晶体结构中，处在非等当位置的正负离子，替换为电价绝对值不变、电价符号相反的其他离子，而晶体结构型式不变的现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "化学名词",
+   "wordNumber": "05.0834",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "相同共聚物链或不同均聚物链之间，不同组成重复单元的共晶现象。"
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0222",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "共聚物链内或链间，或不同均聚物链间，不同重复单元形成共晶的现象。"
+  },
+  {
+   "cn": "序同构",
+   "en": "order isomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0222",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类质同象",
+   "en": "isomorphism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "同晶型",
+   "en": "isomorphism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高分子[异质]同晶现象",
+   "en": "macromolecular isomorphism",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图同构",
+   "en": "graph isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网同构",
+   "en": "net isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图的非同构",
+   "en": "graph non-isomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图同构的交互式证明系统",
+   "en": "graph isomorphism interactive proof system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

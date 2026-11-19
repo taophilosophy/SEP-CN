@@ -1,0 +1,702 @@
+{
+ "key": "conceptual integration",
+ "term": "conceptual integration",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:25:08+00:00",
+ "status": "ok",
+ "note": "variant=conceptual integration; 审定公布名词库=1429; 海峡两岸名词对照库=440; 其他来源数据库=108; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "兽医学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "由受精卵进一步发育形成的早期胚胎结构。包括胚胎本身、胎盘和胎膜。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "畜牧学名词",
+   "wordNumber": "05.299",
+   "subjectFullName": "畜牧学_繁殖_受精、妊娠、分娩",
+   "subjectName": "受精、妊娠、分娩",
+   "publishYear": "2020",
+   "definition": "孕畜子宫内的胎儿、胎膜和胎水三者的总称。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "21.028",
+   "subjectFullName": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育",
+   "subjectName": "配子发生、受精和胚前期发育",
+   "publishYear": "2014",
+   "definition": "受精卵分裂分化所产生的早胚结构的统称。包括胚体及其附属结构。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学对象是人心中的概念或观念，是某种心理对象。它肯定数学对象存在（区别于唯名论），但否认这些对象独立于我们而存在（区别于柏拉图主义）。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.612",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在信息科学中，对为某些目的而选取的一部分世界而建立的抽象、简化的视图。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "心理学名词",
+   "wordNumber": "15.093",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师对当事人及其心理问题形成的整体的、专业的理解。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "语言学名词",
+   "wordNumber": "01.186",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "一种哲学观点。认为普遍性只以概念的形式存在于人的心智之中。乔姆斯基把语言看做人脑中的心理客体，这种语言观归属于心智主义（mentalism）。"
+  },
+  {
+   "cn": "概念相交组配",
+   "en": "conceptual intersection",
+   "source": "档案学名词",
+   "wordNumber": "03.04.048",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "用两个或两个以上具有概念交叉关系的同级主题词组配表达其相应的下位概念。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.076",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "化工工艺过程开发中的一个重要环节。它依据新工艺的基础研究和模型试验的结果进行工业规模生产流程的预想设计。"
+  },
+  {
+   "cn": "概念规划",
+   "en": "conceptual planning",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.014",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_发展规划",
+   "subjectName": "发展规划",
+   "publishYear": "2021",
+   "definition": "对发展中具有方向性、战略性的重大问题进行集中专门研究的成果，从经济、社会、环境的角度提出发展的综合目标体系和发展战略，强调思路的创新性、前瞻性和指导性，是介于发展战略规划和建设规划之间的一种新的规划。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.134",
+   "subjectFullName": "化工（五）_研发与工程化_工程化研究",
+   "subjectName": "工程化研究",
+   "publishYear": "2021",
+   "definition": "依据基础研究的结果、文献中的数据以及现有类似装置的操作数据和工程经验，按照所开发的新技术工业化规模所做出的预设计，用以指导过程研究及提出对开展基础研究进一步的试验要求。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0020",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计流程",
+   "subjectName": "设计流程",
+   "publishYear": "2021",
+   "definition": "在明确任务之后，经过抽象化，拟定功能结构，寻求适当的作用原理及其组合，确定出基本的求解路径，得出求解方案的设计。"
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0008",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "数据库中数据的整体逻辑结构的描述。"
+  },
+  {
+   "cn": "概念图",
+   "en": "conceptual graph",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0648",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "描述概念和关系的一种图形化知识表示方法。其中概念用方框表示（节点），关系用圆表示（边）。概念图不仅可以表示不同形式的知识，而且具有良好的推理方法。"
+  },
+  {
+   "cn": "概念技能",
+   "en": "conceptual skill",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "管理者对复杂情况进行认识和分析、发现问题并解决问题的能力。"
+  },
+  {
+   "cn": "概念型风格",
+   "en": "conceptual style",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者具有宏观的观点，愿意考察更多的备选方案，关注决策的长期影响，并乐于寻找创造性的方案的决策风格。"
+  },
+  {
+   "cn": "概念设计",
+   "en": "conceptual design",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0077",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_管理阶段与模式",
+   "subjectName": "管理阶段与模式",
+   "publishYear": "2016",
+   "definition": "基于需求分析而产生的设计问题，创造性地运用工程科学和技术、实际工程经验以及相关的非工程类知识，确立解决问题的基本构思和方案，并做出关键性决策和选择的过程。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0157",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "用来界定和解释事物、事物属性及其之间关系的描述性数据模型。不涉及具体细节，只用于表达系统的整体概念。"
+  },
+  {
+   "cn": "概念系统",
+   "en": "conceptual system",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0655",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "由概念、原理、原则、方法、制度、程序等概念性的非物质元素所构成的系统。"
+  },
+  {
+   "cn": "概念体系",
+   "en": "conceptual system",
+   "source": "心理学名词",
+   "wordNumber": "02.624",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由一组相关的概念构成的一个整体。每个概念在体系中都占据一个确切的位置，层次分明，结构合理。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概念式触发",
+   "en": "conceptual priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念效标",
+   "en": "conceptual criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念变量",
+   "en": "conceptual variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念分析",
+   "en": "conceptual analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念检索",
+   "en": "conceptual retrieval",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念库",
+   "en": "conceptual base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "conceptual graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念相关，概念依赖",
+   "en": "conceptual dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念因素",
+   "en": "conceptual factor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念聚类",
+   "en": "conceptual clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据集成",
+   "en": "data integration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资金融通",
+   "en": "financial integration",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集成电路",
+   "en": "integrated circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络化诚信",
+   "en": "networked integrity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "整型数据",
+   "en": "integral data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "为了得出有理论意义的结论，对日常生活中使用的词语进行明确界定的过程。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "概念唯名论",
+   "en": "conceptual nominalism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是人为构建出来的，在现实中并没有对应的存在物，是一种名义上的存在物的学说。"
+  },
+  {
+   "cn": "概念史",
+   "en": "conceptual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.22",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种关于概念的历史形成及其转化对社会科学的影响的研究，亦即关于概念形成的历史社会学。在英语世界中，它以观念论取向的语境脉络分析为主，而在德语世界中，是以社会取向的语境脉络分析为主，两者均属于历史社会学"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "概念聚类阵",
+   "en": "conceptually clustered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把同概念相关的术语汇集起来的行列交叉表格。其基本原则是概念的一致性。"
+  },
+  {
+   "cn": "整合",
+   "en": "integration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.27",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "泛指把分散的诸要素组合在一起，形成一个有序的整体。社会学区分了社会整合与系统整合，前者指社会行动者之间和谐或冲突的关系，而后者则指社会系统作为一个整体，各部分之间相容与不相容的关系。"
+  },
+  {
+   "cn": "社会整合",
+   "en": "social integration",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会不同的要素、各组成部分在一定的共同利益、文化精神和社会规范基础上结合为一个统一、协调的整体的过程。与“社会解组”相对。"
+  },
+  {
+   "cn": "垂直一体化",
+   "en": "vertical integration",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.6",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "公司通过兼并和收购若干个处于生产经营环节下游的企业将其经营活动向前扩展到销售终端，或通过收购一个或若干供应商向后扩展到原材料供应的一种战略行为。"
+  },
+  {
+   "cn": "纵向整合",
+   "en": "vertical integration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "同类不同层级的卫生机构间，通过自上而下的整顿重组方式，扩大延伸服务范围，为服务对象提供不同层次、相互补充、连续性的服务的过程。"
+  },
+  {
+   "cn": "横向整合",
+   "en": "horizontal integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "在一定范围的医疗服务市场中，同一层次服务机构间为达到降低服务成本、发挥规模经济的目的而形成合作或联盟关系的行为。"
+  },
+  {
+   "cn": "实体整合",
+   "en": "real integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.7",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "卫生服务提供者以资产和所有权整合为基础，形成一个独立法人机构对机构内资源统一管理和调配的资源整合形式。"
+  },
+  {
+   "cn": "虚拟整合",
+   "en": "virtual integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "以技术和管理等卫生系统要素为纽带，卫生服务提供者通过签订契约或组建集团的方式形成联合体的资源整合形式，可以在没有共同持有资产和所有权下分享资源。是一种没有财务责任、易解散的松散型整合。"
+  },
+  {
+   "cn": "文化整合",
+   "en": "cultural integration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0043",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同文化相互吸收、融化、调和而趋于一体化的过程。"
+  },
+  {
+   "cn": "食品完整性",
+   "en": "food integrity",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "研究食品的质量、安全和真实性的科学问题，确保在食品供应链的各个环节中，防止食品受到污染、掺假或欺诈，从而保障消费者的健康和权益，属于食品安全的延伸和深化。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "包装密封性",
+   "en": "package integrity",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.20",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "产品的包装系统防止微生物或异物侵入以及维持产品各项质量指标持续符合安全和质量要求的能力。"
+  },
+  {
+   "cn": "整合的实务",
+   "en": "integrated practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "综合性地运用社会工作的个案、小组、社区三大方法，以实现以下一个或多个目标的社会工作实务模式：帮助人们获得实质性的服务；为个人、家庭和群体提供咨询和心理治疗；帮助社区或群体提供或改善社会服务与卫生服务；"
+  },
+  {
+   "cn": "城乡统筹",
+   "en": "urban-rural integration",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.3.5",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金统筹",
+   "subjectName": "卫生资金统筹",
+   "publishYear": "2025",
+   "definition": "整合城镇居民基本医疗保险和新型农村合作医疗两项制度，建立统一的城乡居民基本医疗保险制度，实行统一的覆盖范围、筹资政策、保障待遇、医保目录、定点管理、基金管理的一种卫生资金统筹机制。"
+  },
+  {
+   "cn": "城乡融合",
+   "en": "urban-rural integration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0115",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "相对发达的城市和相对落后的农村，打破相互分割的壁垒，逐步实现生产要素的合理流动和优化组合，促使生产力在城市和乡村之间合理分布，城乡经济和社会生活紧密结合与协调发展，逐步缩小直至消灭城乡之间的基本差别，"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

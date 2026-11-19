@@ -1,0 +1,732 @@
+{
+ "key": "many-sorted abstract conditions",
+ "term": "many-sorted abstract conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:18:01+00:00",
+ "status": "ok",
+ "note": "variant=many-sorted abstract conditions; 审定公布名词库=2265; 海峡两岸名词对照库=640; 其他来源数据库=107; 预公布名词数据库=81; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "多种类谓词演算",
+   "en": "many sorted predicate calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0072",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.177",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一个集合中的两个或两个以上的元素与另一个集合中的两个或两个以上的元素相互对应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对对象的属性和行为进行概括得到一类对象的公共性质并加以描述的过程。"
+  },
+  {
+   "cn": "论文摘要",
+   "en": "abstract",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.056",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对论文主要内容的概括性介绍。"
+  },
+  {
+   "cn": "文摘",
+   "en": "abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以提供文献内容梗概为目的，不加评论和补充解释，简明、确切地记述文献重要内容的短文。"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.047",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从口头或文字作品中摘录要点以形成新作品的著作活动。"
+  },
+  {
+   "cn": "文摘编制",
+   "en": "abstracting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.868",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "为帮助研究者迅速确定该文章能否满足特定的信息需求，对作品主要内容进行客观、简短的描述的过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0339",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从事物中抽取出所关心、本质性的要素，而舍弃其非本质、不关注的要素。"
+  },
+  {
+   "cn": "λ抽象",
+   "en": "λ-abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0921",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算中定义函数的方法。"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "化学名词",
+   "wordNumber": "02.1154",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物分子上夺取1个原子(常见的是氢原子)，通常形成1个新的自由基中间体的反应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "心理学名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "抽取出某些事物的若干共同属性，并将这些属性推广到一类事物，使之普遍化的思维过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通常指简化观察真实世界物体的一种方式。"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "source": "数学名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拣剔",
+   "en": "sorting",
+   "source": "农学名词",
+   "wordNumber": "17.276",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "拣出或剔除不符合成品茶品质要求的茶梗、筋、朴片、茶籽及非茶类杂物等的工序。"
+  },
+  {
+   "cn": "分拣",
+   "en": "sorting",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0138",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜运输与膜转运",
+   "subjectName": "膜运输与膜转运",
+   "publishYear": "2024",
+   "definition": "受体介导的胞吞过程中的一个环节。泛指生物大分子在细胞内的定向转运过程。可特指受体和配体复合体内化后，将配体留在早期内体，而将膜受体纳入新生的内体小泡并转运回到质膜上，实现受体的再循环的过程。"
+  },
+  {
+   "cn": "拣选",
+   "en": "sorting",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.041",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "按订单或出库单的要求，从储存场所拣出货物的作业。"
+  },
+  {
+   "cn": "拣选",
+   "en": "sorting",
+   "source": "冶金学名词",
+   "wordNumber": "03.0071",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "由人眼或敏感组件分辨物料物理性质的差异，再由人工或执行机构逐个拣出某种物料的过程。"
+  },
+  {
+   "cn": "排序",
+   "en": "sorting",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0100",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "将一组数据元素按某种顺序排列的过程。"
+  },
+  {
+   "cn": "分拣",
+   "en": "sorting",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0511",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "配送中心依据顾客的订单要求或配送计划，迅速、准确地将商品从其储位或其他区位拣取出来，并按一定的方式进行分类、集中的作业过程。"
+  },
+  {
+   "cn": "排序",
+   "en": "sort",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.328",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "将一个数据元素(或记录)的任意序列，重新排列成一个按关键字有序的序列。"
+  },
+  {
+   "cn": "多类逻辑",
+   "en": "many-sorted logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多对多",
+   "en": "many-to-many",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多对多关系",
+   "en": "many-to-many-relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多对多联系",
+   "en": "many-to-many relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "［纤维］分级",
+   "en": "sorting",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分选作用",
+   "en": "sorting",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分选作用",
+   "en": "sorting",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分拣, 分选",
+   "en": "sorting",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "sort",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "整理",
+   "en": "sorting",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象音乐",
+   "en": "abstract music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstract thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象世界",
+   "en": "abstract universe",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象符号",
+   "en": "abstract symbol",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序算法",
+   "en": "sorting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据排序",
+   "en": "data sorting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络排序",
+   "en": "network sorting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式排序算法",
+   "en": "distributed sorting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能垃圾分类",
+   "en": "smart garbage sorting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超射",
+   "en": "extra shot\",\"too many shots fired",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "新的历史特点的伟大斗争",
+   "en": "the great struggle with many historical features",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "一种与各种价值观念、信仰、情感和传统联系相脱离的、具有程序性、反思性和非人格化特征的现代科层制社会。社会学用以分析现代社会某些抽象特征的概念或视角。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "source": "马克思主义",
+   "wordNumber": "01.0136",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现实的个人”相对。指抽去了个人所处的现实历史条件和社会关系中的人类个体。近代欧洲思想家把摆脱了自然联系的、处于资本主义自由竞争社会中的单子式的个人,看成是符合人类天性的人类个体的理想状态。“抽象的"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0046",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "撇开劳动的具体形式无差别的一般人类劳动，即人类劳动力生理意义上（包括脑力和体力）的支出。抽象劳动是形成商品价值的惟一源泉，反映了商品生产者相互交换劳动的社会关系。"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

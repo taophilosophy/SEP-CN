@@ -1,0 +1,522 @@
+{
+ "key": "baseline entitlements",
+ "term": "baseline entitlements",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:29:25+00:00",
+ "status": "ok",
+ "note": "variant=baseline entitlements; 审定公布名词库=178; 海峡两岸名词对照库=74; 其他来源数据库=8; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "受资助城市",
+   "en": "entitlement city",
+   "source": "地理学名词",
+   "wordNumber": "19.228",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "由政府规定有资格接受资助计划、项目基金或赠款的城市地区。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.182",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "多导睡眠监测中一些生物信号以连续变化的波形表现，其中通过波中央的水平线或受试者在正常平静无干扰状态下波的基础水平。"
+  },
+  {
+   "cn": "基准线",
+   "en": "baseline",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0029",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "评定表面粗糙度参数的给定线。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "测绘学名词",
+   "wordNumber": "02.306",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "三角测量中推算三角锁、网起算边长所依据的基本长度边。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.277",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "进行学术评价时需要参照的一些基本标尺或基准数据，如一定范围内的论文篇均被引次数。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0405",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件文档或源码（或其他产出物）的一个稳定版本。一般经过证实审核和同意，可作为进一步开发的基础。对基线的更改必须遵循变更控制规程。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "化学名词",
+   "wordNumber": "03.1906",
+   "subjectFullName": "化学_分析化学_仪器分析_色谱分析",
+   "subjectName": "色谱分析",
+   "publishYear": "2016",
+   "definition": "在实验条件下，只有流动相通过色谱柱时检测器的响应曲线。"
+  },
+  {
+   "cn": "基准",
+   "en": "baseline",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0208",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "经批准的按时间安排的计划，加上或减去经批准的项目范围、费用、进度和技术变更。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.129",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "台链中两个台在地面上的最短(大圆弧)连线。"
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "航海科技名词",
+   "wordNumber": "06.0223",
+   "subjectFullName": "航海科学技术_航海仪器",
+   "subjectName": "航海仪器",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "石油名词",
+   "wordNumber": "08.0136",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "进度基准",
+   "en": "schedule baseline",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.014",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "经过批准的进度模型。只有通过正式的变更控制程序才能进行变更，用作与实际结果进行比较的依据。"
+  },
+  {
+   "cn": "基线检测",
+   "en": "baseline inspection",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.285",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "管道建成投产后的第一次对管道本体的全面检测。包括管道的空间位置、钢管截面几何尺寸、腐蚀状况等。"
+  },
+  {
+   "cn": "重力基线",
+   "en": "gravimetric baseline",
+   "source": "测绘学名词",
+   "wordNumber": "02.159",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "由若干个高精度重力点组成的作为重力仪格值检测基准的基线。"
+  },
+  {
+   "cn": "基线网",
+   "en": "baseline network",
+   "source": "测绘学名词",
+   "wordNumber": "02.307",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "将直接丈量的较短的基线扩大成较长的起算边长所组成的图形。"
+  },
+  {
+   "cn": "基线测量",
+   "en": "baseline measurement",
+   "source": "测绘学名词",
+   "wordNumber": "02.308",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "利用因瓦线基线尺直接丈量基线长度或水平控制网中的起始边长的测量技术和方法。"
+  },
+  {
+   "cn": "干涉基线",
+   "en": "interferometry baseline",
+   "source": "测绘学名词",
+   "wordNumber": "03.460",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "主、辅合成孔径雷达影像获取时雷达天线的相对位置关系。"
+  },
+  {
+   "cn": "临界基线",
+   "en": "critical baseline",
+   "source": "测绘学名词",
+   "wordNumber": "03.461",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "使两根天线回波信号之间的相关性降低到零的基线长度。"
+  },
+  {
+   "cn": "换能器基线",
+   "en": "transducer baseline",
+   "source": "测绘学名词",
+   "wordNumber": "07.074",
+   "subjectFullName": "测绘学_海洋测绘学",
+   "subjectName": "海洋测绘学",
+   "publishYear": "2020",
+   "definition": "回声测深仪收发换能器中心之间的连线。"
+  },
+  {
+   "cn": "基线变量",
+   "en": "baseline variable",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.064",
+   "subjectFullName": "呼吸病学_机械通气_呼吸机",
+   "subjectName": "呼吸机",
+   "publishYear": "2018",
+   "definition": "呼气时的控制参数。尽管压力、容积或流量都能作为基线变量，但压力是最常见的基线变量，如可设置基线压力超过大气压。"
+  },
+  {
+   "cn": "受资助城市",
+   "en": "entitlement city",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基线",
+   "en": "baseline",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "权利管理信息",
+   "en": "entitlement management message",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权利控制信息",
+   "en": "entitlement control message",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本底监测",
+   "en": "baseline monitoring",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天体测量基线",
+   "en": "astrometric baseline",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基线法",
+   "en": "baseline method",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基线漂移",
+   "en": "baseline drift",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基线噪声",
+   "en": "baseline noise",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "直线基线",
+   "en": "straight baseline",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "换能器基线",
+   "en": "transducer baseline",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基线测量",
+   "en": "baseline measurement",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基线网",
+   "en": "baseline network",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "底线",
+   "en": "baseline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底线型球员",
+   "en": "baseline player\",\"baseliner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底线裁判员",
+   "en": "baseline judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底线球",
+   "en": "deep ball\",\"baseliner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底线打法",
+   "en": "backcourt play\",\"baseline game\",",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "端线",
+   "en": "back boundary line\",\"baseline",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36329-2018 信息技术 软件资产管理 授权管理》",
+   "en": "GB/T 36329-2018 Information technology — Software asset management — Entitlement management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "基线暴露",
+   "en": "baseline exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.9.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "人群在研究初始时间点的暴露情境。"
+  },
+  {
+   "cn": "基线风险",
+   "en": "baseline risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.28",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在没有对当前系统进行任何更改的情况下所带来的食品安全风险水平，即现有风险水平。"
+  },
+  {
+   "cn": "基线模型",
+   "en": "baseline model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.84",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种在没有采取任何控制措施的情况下，对当前风险水平进行描述的方法。常用于比较不同风险控制措施的效果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

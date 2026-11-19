@@ -1,0 +1,762 @@
+{
+ "key": "welfare-based conception",
+ "term": "welfare-based conception",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:28:47+00:00",
+ "status": "ok",
+ "note": "variant=welfare-based conception; 审定公布名词库=2239; 海峡两岸名词对照库=751; 其他来源数据库=235; 预公布名词数据库=165; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "兽医学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发生妊娠的行为。开始于精子和卵子的 结合。"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0040",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "男女性交，两精结合，合而成形的生理过程。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.504",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "以符号或词的形式对事物本质进行的描述。包括内涵和外延，是构成命题性思想的基本要素。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "反映对象本质属性的思维形式。人类把所感知的事物的共同本质特点抽象出来并加以概括，就成为概念。表达概念的语言形式是词或词组。概念都有内涵和外延，即其含义和适用范围。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0647",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "客观事物基本属性的思维抽象，也是知识和推理的最基本组成单元，通常用一个词语加以概括。它可以通过内涵（对其本质的描述）或外延（所代表的对象的总和）来描述。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "心理学名词",
+   "wordNumber": "02.614",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以符号/词的形式对客观事物本质的描述。包括内涵和外延。"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "source": "风景园林名词",
+   "wordNumber": "03.0055",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "为保障动物生理和心理健康所提供的适宜环境和管理行为。"
+  },
+  {
+   "cn": "福利管理",
+   "en": "welfare management",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "对选择福利项目、确定福利标准、制定各种福利发放明细表等福利方面的管理工作。一般将健康保险、带薪假期等形式，作为企业成员福利的一部分，奖励给职工个人或者员工小组。"
+  },
+  {
+   "cn": "益世报",
+   "en": "Social Welfare",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "3.072",
+   "subjectFullName": "新闻学与传播学_新闻史_近代新闻史_中国",
+   "subjectName": "中国",
+   "publishYear": "2022",
+   "definition": "民国时期一家隶属于天主教会的报纸。由比利时籍神父雷鸣远(雷明远，Vincent Lebbe)于1915年10月10日在天津注册创办，被称为民国四大报刊之一。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.164",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）泛指一种社会状态。即人们普遍健康、正常而幸福的存在。（2）国家依法为所有公民提供旨在保证一定生活水平和尽可能提高生活质量的资金和服务的社会保障制度。"
+  },
+  {
+   "cn": "福利性住房",
+   "en": "welfare housing",
+   "source": "城乡规划学名词",
+   "wordNumber": "05.024",
+   "subjectFullName": "城乡规划学_社区与住房规划_住房政策与规划",
+   "subjectName": "住房政策与规划",
+   "publishYear": "2021",
+   "definition": "（1）由国家或单位作为一种间接性的报酬或作为一种社会保障方式提供给使用者使用的住房。（2）义同“保障性住房”。（3）在我国特指计划经济时代，根据职工的级别、家庭情况等一系列标准，由单位分配的“公房”。"
+  },
+  {
+   "cn": "动物福利",
+   "en": "animal welfare",
+   "source": "畜牧学名词",
+   "wordNumber": "02.018",
+   "subjectFullName": "畜牧学_饲养管理_饲养管理基础",
+   "subjectName": "饲养管理基础",
+   "publishYear": "2020",
+   "definition": "维持动物健康与行为自由表达，免受不必要痛苦的环境管理理念及其饲养模式。"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "经济学名词",
+   "wordNumber": "03.196",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "一种国家形态。通过国家创办和资助社会公共事业，实行和完善一套社会福利政策和制度，对社会经济生活进行干预，保证社会次序和经济生活正常运行；福利国家以社会保障制度为主体，政府保证所有公民享有最低标准的收入"
+  },
+  {
+   "cn": "福利标准",
+   "en": "welfare criterion",
+   "source": "经济学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "用来判定某种经济变革是否应该推行的标准。主要有帕累托标准：如果在不损害他人福利的情况下能够提高一些人的福利，则就应该推行这种经济变革；希克斯－卡尔多标准（Hicks-Kaldor criterion）"
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "source": "经济学名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "研究经济活动对经济体福利的影响的经济学。主要研究内容包括效率标准（帕累托最优以及次优理论）、收入分配与福利、存在外部性的经济活动的成本—收益分析等。福利经济学在很大程度上等同于规范经济学。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "经济学名词",
+   "wordNumber": "07.095",
+   "subjectFullName": "经济学_劳动经济学",
+   "subjectName": "劳动经济学",
+   "publishYear": "2020",
+   "definition": "国家或社会为提高国民福利水平而对公民提供一定资金和服务的社会保障制度。社会福利有广义和狭义之分，广义的社会福利是指提高全体公民福利水平的各种政策和社会服务；狭义的社会福利是指对特定范围的公民（主要是生"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "一个社会全体成员个人福利的总和或个人福利的集合。是福利经济学的主要研究对象。"
+  },
+  {
+   "cn": "福祉管理",
+   "en": "welfare management",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0777",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "对选择福利项目、确定福利标准、制定各种福利发放明细表等福利方面的管理工作。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.086",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "国家为满足其公民对社会、经济、教育和健康需求而建立的社会服务项目、津贴和服务体系的总和。"
+  },
+  {
+   "cn": "生活福利建筑",
+   "en": "welfare facility",
+   "source": "建筑学名词",
+   "wordNumber": "02.0904",
+   "subjectFullName": "建筑学_建筑类型及组成_工业建筑",
+   "subjectName": "工业建筑",
+   "publishYear": "2014",
+   "definition": "工厂中为员工服务的卫生设施(如更衣、存衣、脱衣、盥洗、淋浴、厕所等用房)和福利设施(如进餐、食堂、会议休息、急救医疗等用房)等所组成的建筑物。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "当事人权益，咨客权益",
+   "en": "client welfare",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "福利地理学",
+   "en": "welfare geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "福利经济学",
+   "en": "welfare economics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念发展",
+   "en": "concept development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念学习",
+   "en": "concept learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间概念",
+   "en": "time concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "空间概念",
+   "en": "space concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念形成",
+   "en": "concept formation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件概念",
+   "en": "conditional concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合取概念",
+   "en": "conjunctive concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念结构",
+   "en": "concept structure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我概念",
+   "en": "self concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "整体概念",
+   "en": "holistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "个体论概念",
+   "en": "individualistic concept",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "模糊概念",
+   "en": "fuzzy concept",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物联网概念模型",
+   "en": "IoT concept model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共福利性",
+   "en": "nature of public welfare",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new concept for development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "场景化",
+   "en": "scenario-based",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "底托",
+   "en": "base\",\"head",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "福利国家",
+   "en": "welfare state",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "国家行使权力建立保障公民福利的管理模式和体制。强调公民社会权利，在收入、卫生健康、教育、住房和社会服务等领域内建立保障措施的国家形式，基于其原则和内容已发展成为不同模式。"
+  },
+  {
+   "cn": "福利危机",
+   "en": "welfare crisis",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "20世纪70年代中期，经济的全球化、财政危机、失业人口增长以及老龄化加剧等因素造成西方福利国家内部政治、经济、社会福利之间的失衡现象，高额的社会支出和财政赤字迫使很多福利国家开始福利改革。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "制度型福利",
+   "en": "institutional welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "国家通过税收制度和设施建设，保障全体社会成员医疗、教育、住房、养老、托幼等公共服务的社会福利模式。强调国家的责任与公民的社会权利。对应于普遍主义，社会成员获得社会福利服务的机会以及其标准一致。"
+  },
+  {
+   "cn": "剩余型福利",
+   "en": "residual welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "基于家庭财产调查，对部分特定人群或家庭提供救助以满足最基本的需要。仅当家庭或市场的福利功能失灵，个人基本需要不能满足时，国家出面提供救助的最基本的安全网。具有临时、替代和标签污名化的特性。"
+  },
+  {
+   "cn": "选择型福利",
+   "en": "selective welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "提供社会救助或社会支持给部分特定人群，特别是困难群体，基于家庭财产调查的社会福利模式。在某种程度上等同于剩余型福利。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家、社会以及企事业单位为各类特殊的社会弱势群体（妇女、儿童、老人、残疾人、精神病人等）和本单位职工提供的福利性收入与服务保障。"
+  },
+  {
+   "cn": "儿童福利",
+   "en": "child welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向儿童提供社会福利的制度及其给付，包括补缺型或补救性的福利提供，和普惠或适度普惠的福利提供。"
+  },
+  {
+   "cn": "青少年福利",
+   "en": "youth welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "面向青少年提供社会福利的制度及其给付，包括青少年所获得的各种福利提供及相应的制度安排。"
+  },
+  {
+   "cn": "福利国家论",
+   "en": "welfare statism",
+   "source": "马克思主义",
+   "wordNumber": "05.0143",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪中后期，德国法兰克福学派第三代主要代表人物克劳斯·奥菲（Claus Offe）从马克思主义视角对福利国家及其性质、功能作了新的理解，并对现代福利国家的矛盾和危机作了分析。他认为福利国家无法完全"
+  },
+  {
+   "cn": "公益性",
+   "en": "public welfare",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "卫生服务供给的特点。一个项目或者一个团体具有非营利性和社会效益性，其行动要遵循社会大众的共同利益，最终的结果要符合绝大多数人的利益。"
+  },
+  {
+   "cn": "社会福利",
+   "en": "social welfare",
+   "source": "社会医学名词",
+   "wordNumber": "3.11.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会保障体系",
+   "publishYear": "2025",
+   "definition": "国家、社会以及企事业单位为各类特殊的社会弱势群体（妇女、儿童、老人、残疾人、精神病人等）和本单位职工提供的福利性收入与服务保障。"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "基于当前人们对生育行为的科学认识，育龄夫妇有意识地对自己妊娠行为做出的安排。"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "健康研究中的一种理论框架。用于直观地描述健康相关问题的关键要素及其相互关系。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "社会学名词",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我",
+   "subjectName": "自我",
+   "publishYear": "2025",
+   "definition": "个人在社会化过程中逐渐形成的关于自身及其与所处环境之间关系的多维度、多层次的认知和评价，其中包括对自身生理特征、心理特征、人际关系状况、社会角色与地位、成长史、未来发展预期等方面内容的认知和评价。"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己各个方面的看法和情感的总和。"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "支配人们进行道德判断、评价和道德活动的意识。它是社会物质生活条件的反映，具有时代性、民族性和阶级性。"
+  },
+  {
+   "cn": "社会福利设施",
+   "en": "social welfare facilitie",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家、集体以及社会举办的福利性企事业单位和场所，一般包括福利院、养老院（托老所）、托儿所和精神病院等。"
+  },
+  {
+   "cn": "福利彩票事业",
+   "en": "welfare lottery project",
+   "source": "社会学名词",
+   "wordNumber": "4.3.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会福利",
+   "subjectName": "社会福利",
+   "publishYear": "2025",
+   "definition": "国家以“扶老助残，济困救孤”为宗旨，通过彩票筹集社会福利资金，兴办残疾人、老年人、孤儿福利事业，以帮助有困难的人为目标的社会福利事业。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

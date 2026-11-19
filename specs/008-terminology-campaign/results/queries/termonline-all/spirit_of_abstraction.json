@@ -1,0 +1,812 @@
+{
+ "key": "spirit of abstraction",
+ "term": "spirit of abstraction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:21:52+00:00",
+ "status": "ok",
+ "note": "variant=spirit of abstraction; 审定公布名词库=10000; 海峡两岸名词对照库=7626; 其他来源数据库=1920; 预公布名词数据库=2724; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "抽象",
+   "en": "abstraction,abstraction",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0227",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对对象的属性和行为进行概括得到一类对象的公共性质并加以描述的过程。"
+  },
+  {
+   "cn": "摘要",
+   "en": "abstraction",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.047",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "从口头或文字作品中摘录要点以形成新作品的著作活动。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0339",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从事物中抽取出所关心、本质性的要素，而舍弃其非本质、不关注的要素。"
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "化学名词",
+   "wordNumber": "02.1154",
+   "subjectFullName": "化学_有机化学_有机合成和有机反应",
+   "subjectName": "有机合成和有机反应",
+   "publishYear": "2016",
+   "definition": "从反应底物分子上夺取1个原子(常见的是氢原子)，通常形成1个新的自由基中间体的反应。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "心理学名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "抽取出某些事物的若干共同属性，并将这些属性推广到一类事物，使之普遍化的思维过程。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.063",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通常指简化观察真实世界物体的一种方式。"
+  },
+  {
+   "cn": "抽象[化]",
+   "en": "abstraction",
+   "source": "数学名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "λ抽象",
+   "en": "λ-abstraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0921",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "λ演算中定义函数的方法。"
+  },
+  {
+   "cn": "文摘编制",
+   "en": "abstracting",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.868",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "为帮助研究者迅速确定该文章能否满足特定的信息需求，对作品主要内容进行客观、简短的描述的过程。"
+  },
+  {
+   "cn": "论文摘要",
+   "en": "abstract",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.056",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对论文主要内容的概括性介绍。"
+  },
+  {
+   "cn": "文摘",
+   "en": "abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.086",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "以提供文献内容梗概为目的，不加评论和补充解释，简明、确切地记述文献重要内容的短文。"
+  },
+  {
+   "cn": "勇气号火星巡视器",
+   "en": "Spirit",
+   "source": "天文学名词",
+   "wordNumber": "06.561",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "美国2003年6月发射的火星巡视器。2004年1月着陆在古谢夫撞击坑，持续工作到2011年。"
+  },
+  {
+   "cn": "醑剂",
+   "en": "spirit",
+   "source": "药学名词",
+   "wordNumber": "02.314",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "挥发性药物的浓乙醇溶液。"
+  },
+  {
+   "cn": "抽象层次",
+   "en": "level of abstraction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.601",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在用信息表征世界或建模时，人们会根据探究目的而提取及观测相关的信息并加以研究，在此过程中，聚焦于研究对象的不同部分、不同特征、不同的可观测层面以及不同的可观测变量，而忽视其他方面的信息，构建出自然系统"
+  },
+  {
+   "cn": "文摘质量评价",
+   "en": "evaluation of abstract",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.869",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_文摘",
+   "subjectName": "文摘",
+   "publishYear": "2019",
+   "definition": "依据一定标准，对文摘内容的准确性和完整性、扼要性和简明性进行的评判和测度。包括定性、定量或两者结合的评价方法。定性评价是测评文摘是否完整、准确地揭示了原文主题，定量评价是测评文摘中原文信息的占有率。"
+  },
+  {
+   "cn": "望神",
+   "en": "inspection of spirit",
+   "source": "中医药学名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "用视觉观察人体生命活动的整体外在表现和精神状态的诊断方法。"
+  },
+  {
+   "cn": "神",
+   "en": "spirit of pulse",
+   "source": "中医药学名词",
+   "wordNumber": "03.396",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "脉象有神，即柔和有力的脉象。"
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.653",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "忽略现实世界的非本质细节，用抽象的数据模型来统一描述、表征实际事物的特性，即把实际事物抽象为数据模型的方法。分类、集聚与概括是三种最常用的数据抽象方法。"
+  },
+  {
+   "cn": "科学抽象",
+   "en": "scientific abstraction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "从感性具体的对象中，通过分析、比较、综合，抽取对象的本质方面、特性、关系，概括形成对象的概念、规律。"
+  },
+  {
+   "cn": "抽象模型",
+   "en": "abstraction model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.181",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "用符号、图表、数字和概念等来抽象化描述客观事物的特征、性质和规律的模型。"
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "攫取[反应]",
+   "en": "abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象",
+   "en": "abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "酒精",
+   "en": "spirit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "醑剂",
+   "en": "spirit",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抽象层次",
+   "en": "level of abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动文摘",
+   "en": "automatic abstract\",\"automatic abstracting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内攫取[反应]",
+   "en": "internal abstraction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽象程度",
+   "en": "abstraction level",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据抽象",
+   "en": "data abstraction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文摘服务处",
+   "en": "abstracting service",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "化学文摘",
+   "en": "Chemical Abstracts",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抽象音乐",
+   "en": "abstract music",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象概念",
+   "en": "abstract concept",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象思维",
+   "en": "abstract thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽象世界",
+   "en": "abstract universe",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抽象符号",
+   "en": "abstract symbol",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "抽象方法",
+   "en": "abstract method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合作主义",
+   "en": "spirit of cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽象数据",
+   "en": "abstract data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浩然之气",
+   "en": "Noble Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国精神",
+   "en": "Chinese spirit",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "拼搏精神",
+   "en": "fighting spirit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "南泥湾精神",
+   "en": "the spirit of Nanniwan",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "西柏坡精神",
+   "en": "the spirit of Xibaipo",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吕梁精神",
+   "en": "the spirit of Lvliang",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大庆精神",
+   "en": "the spirit of Daqing",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塞罕坝精神",
+   "en": "the spirit of Saihanba",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爱国主义精神",
+   "en": "the spirit of patriotism",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "钉钉子精神",
+   "en": "the spirit of perseverance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "企业家精神",
+   "en": "the spirit of entrepreneurship",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小岗精神",
+   "en": "the spirit of Xiaogang",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工匠精神",
+   "en": "the spirit of craftsmanship",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "右玉精神",
+   "en": "the spirit of Youyu",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "延安精神",
+   "en": "the spirit of  Yan’an",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "井冈山精神",
+   "en": "the spirit of Jinggang Mountains",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "白求恩精神",
+   "en": "the spirit of Norman Bethune",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "张思德精神",
+   "en": "the spirit of Zhang Side",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "精神",
+   "en": "spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0186",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在改造世界的社会实践活动中产生的思维、意志、情感等意识活动和无意识活动及一般心理状态的总称。它是特殊物质人脑的机能和产物。精神不可能脱离物质，但又具有极大的能动性，通过实践，精神的东西可以转化为物"
+  },
+  {
+   "cn": "人民精神",
+   "en": "spirit of people",
+   "source": "马克思主义",
+   "wordNumber": "03.0145",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民精神即人民理性、人民意识、人民意志和人民的呼声，它是客观理性在人民身上的体现。“人民精神”是马克思在《莱茵报》期间经常使用的一个概念。当资产阶级政府和议会用军队的刺刀来反对人民意志的时候，它在人民"
+  },
+  {
+   "cn": "抽象社会",
+   "en": "abstract society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "一种与各种价值观念、信仰、情感和传统联系相脱离的、具有程序性、反思性和非人格化特征的现代科层制社会。社会学用以分析现代社会某些抽象特征的概念或视角。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "抽象的个人",
+   "en": "abstract individuall",
+   "source": "马克思主义",
+   "wordNumber": "01.0136",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“现实的个人”相对。指抽去了个人所处的现实历史条件和社会关系中的人类个体。近代欧洲思想家把摆脱了自然联系的、处于资本主义自由竞争社会中的单子式的个人,看成是符合人类天性的人类个体的理想状态。“抽象的"
+  },
+  {
+   "cn": "抽象劳动",
+   "en": "abstract labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0046",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "撇开劳动的具体形式无差别的一般人类劳动，即人类劳动力生理意义上（包括脑力和体力）的支出。抽象劳动是形成商品价值的惟一源泉，反映了商品生产者相互交换劳动的社会关系。"
+  },
+  {
+   "cn": "抽象民主",
+   "en": "abstract democracy",
+   "source": "马克思主义",
+   "wordNumber": "03.0529",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平一再批评的一种非马克思主义的民主观。其特点是否认民主的阶级性和社会性，要求照搬西方资本主义国家的民主制度。1983年10月党的十二届二中全会上，邓小平指出：宣传抽象的民主，把民主同党的领导对立起"
+  },
+  {
+   "cn": "企业家精神",
+   "en": "entrepreneur spirit",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.17",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "企业家能够从事“创新性破坏”工作所依赖的品质。包括建立自己拥有最高权威的私人王国的欲望、总是渴求胜利、以创造为喜悦、并具有坚强的意志等。由熊彼特(Joseph Schumpeter)提出。"
+  },
+  {
+   "cn": "绝对精神",
+   "en": "absolute spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0114",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "黑格尔哲学用语。绝对精神与广义的绝对理念互用，指万物的本原与本质。绝对理念经过逻辑学、自然哲学、精神哲学的否定之否定发展，最后返回自身达到绝对精神，即思与在的绝对同一。"
+  },
+  {
+   "cn": "客观精神",
+   "en": "objective spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0167",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观唯心主义的用语。是脱离物质、脱离现实个人而独立存在精神实体。客观唯心主义把它作为世界本原和万物的创造者。如朱熹的“理”，黑格尔的“绝对观念”。"
+  },
+  {
+   "cn": "党性",
+   "en": "party spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0263",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "政党的阶级本性最高最集中的表现。不同阶级的政党代表着各自的阶级利益、意志和要求，具有不同的党性。无产阶级政党代表无产阶级和广大劳动人民的利益、意志和要求，其党性是无产阶级阶级特性的集中表现，要求把党和"
+  },
+  {
+   "cn": "南泥湾精神",
+   "en": "Nanniwan spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0451",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争进入相持阶段后，国民党顽固派对陕甘宁边区进行军事包围和经济封锁，八路军三五九旅响应中共中央关于大生产运动的号召，进入南泥湾垦荒。他们自力更生、艰苦奋斗，自己动手、丰衣足食的革命精神被誉为南泥湾"
+  },
+  {
+   "cn": "民族精神",
+   "en": "national spirit",
+   "source": "马克思主义",
+   "wordNumber": "03.0636",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个民族在延续发展过程中所逐渐形成的，为本民族大多数成员所认同的，带有广泛性和普遍性的精神追求。一般说来，它是指民族性格中的优点部分，或民族道德与民族文化中的精华部分，是一个民族赖以生存和发展的精神支"
+  },
+  {
+   "cn": "校风",
+   "en": "school spirit",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校心理社会环境",
+   "subjectName": "学校心理社会环境",
+   "publishYear": "2025",
+   "definition": "学校师生在教育教学与管理实践中逐步积淀形成的相对稳定的校园文化氛围。"
+  },
+  {
+   "cn": "资本主义精神",
+   "en": "the spirit of capitalism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "促动资本主义经济发生的精神因素。包括生活的意义主要在于努力工作、永无止境地追逐利润、精于计算、讲求高效、进行精确记录、将利润用于再投资而非消费、珍惜时间等等。由马克斯•韦伯(Max Weber)提出。"
+  },
+  {
+   "cn": "艰苦奋斗精神",
+   "en": "spirit of hard struggle",
+   "source": "马克思主义",
+   "wordNumber": "03.0558",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党及其人民军队在长期革命斗争中倡导和培育的，以自力更生、奋发图强、不怕困难、不畏艰险以及生活上勤俭节约为主要内容的意识、行为和作风。"
+  },
+  {
+   "cn": "建党精神",
+   "en": "spirit of party building",
+   "source": "马克思主义",
+   "wordNumber": "03.0806",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在庆祝中国共产党成立100周年大会上的讲话中提出：一百年前，中国共产党的先驱们创建了中国共产党，形成了坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民的伟大建党精神"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "白酒",
+   "en": "baijiu, chinese spirit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.2.1",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以粮谷为主要原料，以大曲、小曲、麸曲、酶制剂及酵母等为糖化发酵剂，经蒸煮、糖化、发酵、蒸馏而成的蒸馏酒。"
+  },
+  {
+   "cn": "哲学的党性",
+   "en": "philosophical party spirit",
+   "source": "马克思主义",
+   "wordNumber": "01.0198",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "（1）哲学的派别性，即基于哲学基本问题的不同回答而形成的唯物主义和唯心主义这两条基本路线、两个基本派别。（2）哲学的阶级性。哲学作为一种社会意识形态，同其他社会意识形态一样，其性质也不能不为社会存在所"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,682 @@
+{
+ "key": "saw every young",
+ "term": "saw every young",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:19:57+00:00",
+ "status": "ok",
+ "note": "variant=saw every young; 审定公布名词库=1890; 海峡两岸名词对照库=587; 其他来源数据库=122; 预公布名词数据库=181; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "锯机",
+   "en": "saw",
+   "source": "冶金学名词",
+   "wordNumber": "09.1377",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "以锯片为工具，切断异型断面轧件，使其获得规定尺寸并能使其断面整齐的机械。"
+  },
+  {
+   "cn": "锯切",
+   "en": "saw cutting,sawing",
+   "source": "冶金学名词",
+   "wordNumber": "09.0744",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "用高速旋转的锯片，对型材进行横向切断的工艺。广泛用于异型材、管材等的锯切中。"
+  },
+  {
+   "cn": "锯削",
+   "en": "sawing",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.085",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法",
+   "subjectName": "切削加工方法",
+   "publishYear": "2021",
+   "definition": "锯切工具旋转或往复运动，把工件、半成品切断或把板材加工成所需形状的切削加工方法。"
+  },
+  {
+   "cn": "锯割",
+   "en": "sawing",
+   "source": "林学名词",
+   "wordNumber": "11.581",
+   "subjectFullName": "林学_木材科学与技术_家具与木制品",
+   "subjectName": "家具与木制品",
+   "publishYear": "2016",
+   "definition": "用锯具分割木材或木质材料的加工过程。"
+  },
+  {
+   "cn": "锯剖",
+   "en": "sawing",
+   "source": "林学名词",
+   "wordNumber": "11.189",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "主要指从原木加工成锯材的头道工序。包括锯剖基准面和纵向剖成毛方。"
+  },
+  {
+   "cn": "摆锯机",
+   "en": "swing saw,pendulum saw",
+   "source": "林学名词",
+   "wordNumber": "11.639",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "由圆锯转动，切削材固定、锯轴摆动的一种木材加工机械。"
+  },
+  {
+   "cn": "锯导板",
+   "en": "saw bar,saw blade",
+   "source": "林学名词",
+   "wordNumber": "10.239",
+   "subjectFullName": "林学_森林工程_林业机械与设备",
+   "subjectName": "林业机械与设备",
+   "publishYear": "2016",
+   "definition": "链锯的主体部分之一，用来张紧和支撑锯链，引导锯链沿着一定的方向运行，从而完成锯木工作。"
+  },
+  {
+   "cn": "幼贝",
+   "en": "young mollusk,young shellfish",
+   "source": "水产名词",
+   "wordNumber": "04.194",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "形态已与成贝相同，但性腺尚未成熟或尚未达到商品规格的贝类个体。"
+  },
+  {
+   "cn": "弦向下锯法",
+   "en": "plain sawing,flat sawing",
+   "source": "林学名词",
+   "wordNumber": "11.196",
+   "subjectFullName": "林学_木材科学与技术_木材加工",
+   "subjectName": "木材加工",
+   "publishYear": "2016",
+   "definition": "锯口沿着或接近沿着原木年轮切线方向的下锯法。"
+  },
+  {
+   "cn": "油锯",
+   "en": "chain saw",
+   "source": "风景园林名词",
+   "wordNumber": "08.1156",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "汽油链锯或汽油动力锯的统称。园林中常用于大型绿篱修剪、锯除粗干、园林木作建造等的设备。"
+  },
+  {
+   "cn": "高枝锯",
+   "en": "lopper saw",
+   "source": "风景园林名词",
+   "wordNumber": "08.1152",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "主要用于中大型乔木高位树枝的修除的常用的园林园艺修剪工具。"
+  },
+  {
+   "cn": "圆锯",
+   "en": "buzz saw",
+   "source": "兽医学名词",
+   "wordNumber": "18.087",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "常用的骨科切割工具。圆盘状，四周有锯齿。"
+  },
+  {
+   "cn": "线锯",
+   "en": "fret saw",
+   "source": "兽医学名词",
+   "wordNumber": "18.103",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "用于锯断组织或器官的线状细锯条。"
+  },
+  {
+   "cn": "手锯",
+   "en": "hand saw",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "16.037",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_钳工及装配工具_手工工具",
+   "subjectName": "手工工具",
+   "publishYear": "2021",
+   "definition": "手工锯削的工具。"
+  },
+  {
+   "cn": "气锯",
+   "en": "pneumatic saw",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "16.066",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_钳工及装配工具_气动工具",
+   "subjectName": "气动工具",
+   "publishYear": "2021",
+   "definition": "锯割木材、塑料等材料的气动工具。"
+  },
+  {
+   "cn": "飞锯机",
+   "en": "flying saw",
+   "source": "冶金学名词",
+   "wordNumber": "09.1379",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "主要装置在连续焊管机组上，对运动着的焊管材进行切断的锯机。"
+  },
+  {
+   "cn": "圆锯机",
+   "en": "circular saw",
+   "source": "林学名词",
+   "wordNumber": "11.638",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "一种由圆锯片、锯轴与切削材构成机械的主要部件的木材加工机械。分为锯轴固定，切削材移动，或者切削材固定、锯轴移动。锯片回转方向与送料方向有顺向逆向两种。"
+  },
+  {
+   "cn": "锯材原木",
+   "en": "saw log",
+   "source": "林学名词",
+   "wordNumber": "10.158",
+   "subjectFullName": "林学_森林工程_森林采运",
+   "subjectName": "森林采运",
+   "publishYear": "2016",
+   "definition": "规格尺寸、材质指标符合锯切标准的木材。径级规定为16 cm以上。"
+  },
+  {
+   "cn": "磨锯机",
+   "en": "saw sharpener",
+   "source": "林学名词",
+   "wordNumber": "11.654",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "依回转磨轮(砂轮)等实施各种锯条自动研磨的机械。"
+  },
+  {
+   "cn": "多片多轴圆锯机",
+   "en": "multiple saw",
+   "source": "林学名词",
+   "wordNumber": "11.644",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "装设多个圆锯片，由1根或2根圆锯轴同时锯断工件的木工锯机。另有装设罩片圆锯片的多锯轴的锯机。以圆锯片直径与片数及圆锯轴的有效长度、工件最大密度、最大厚度标定机械规格。"
+  },
+  {
+   "cn": "乐锯",
+   "en": "musical saw\",\"singing saw",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "日常世界",
+   "en": "every-day world",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "刀痕",
+   "en": "saw mark",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼冰",
+   "en": "young ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量",
+   "en": "Young modulus",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林分",
+   "en": "young stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄林",
+   "en": "young forest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期冰",
+   "en": "young ice",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "幼年土壤",
+   "en": "young soil",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扬，亚历山大",
+   "en": "Young\",\"Alexander(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "退刀痕",
+   "en": "saw exit mark",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "大仔对策",
+   "en": "large young strategy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模数",
+   "en": "Youngs modulus",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "杨氏模量，弹性模量",
+   "en": "Young's modulus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼龄期,未成熟期",
+   "en": "immature stage\",\"young stage",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "初期恒星体",
+   "en": "young stellar object\",\"YSO",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "幼期， 未成熟期",
+   "en": "young stage\",\"immature stage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "锯材",
+   "en": "sawed timber\",\"sawn timber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "扬，珀西",
+   "en": "Young\",\"Percy M(arshall)(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光纤杨氏模量",
+   "en": "Young's modulus for fiber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后生可畏",
+   "en": "Young People Should Be Highly Regarded.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下兴亡,匹夫有责",
+   "en": "Survival of a Nation Is the Responsibility of Every Individual.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尽最大可能控制疫情波及范围",
+   "en": "to make every possible effort to curb the spread of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体用",
+   "en": "Ti and Yong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贵宾",
+   "en": "very important person",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂涛",
+   "en": "very high sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "巨浪",
+   "en": "very rough sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "每天吸烟者",
+   "en": "every day smoker",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "至少吸过100支香烟且现在每天都吸烟的人。"
+  },
+  {
+   "cn": "志愿者",
+   "en": "young volunteer",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.101",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "不计物质报酬，自愿奉献时间和精力从事有助于他人和公益活动的人。"
+  },
+  {
+   "cn": "青年黑格尔派",
+   "en": "Young Hegelians",
+   "source": "马克思主义",
+   "wordNumber": "04.0299",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代黑格尔学派解体过程中产生的激进派别，代表人物有施特劳斯（D.F.Strauss）、鲍威尔（Bruno Bauer）、施蒂纳（Max Stirner）等。青年黑格尔派在19世纪30年代末"
+  },
+  {
+   "cn": "青年德意志派",
+   "en": "Young  German school",
+   "source": "马克思主义",
+   "wordNumber": "04.0292",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪30年代产生于德国的一个文学团体“青年德意志”的代表，海涅和白尔尼对这一团体有很大的影响。青年德意志派观点的特点是思想上不成熟和政治上不坚定。他们之中的大多数人很快就堕落成为庸俗的资产阶级自由"
+  },
+  {
+   "cn": "全联盟列宁共产主义青年团",
+   "en": "AllUnion Leninist Young Communist League",
+   "source": "马克思主义",
+   "wordNumber": "04.0435",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "该组织于1918年10月29日创立，时称“俄国共产主义青年团”，1926年3月改为该称，简称共青团。它是苏联青年群众性的社会政治组织，是苏联共产党的积极助手和后备军。其组织章程规定，凡年满14—28岁"
+  },
+  {
+   "cn": "青少年参与策略",
+   "en": "involvement of adolescents and young people",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "在健康促进过程中，青少年作为主体参与规划、实施、监测和评估，促进伙伴关系和建立开放的沟通渠道，促进实现共同目标的政策制定方法。"
+  },
+  {
+   "cn": "幼儿配方乳粉",
+   "en": "milk powder formula for young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "以乳类及乳蛋白制品和（或）大豆及大豆蛋白制品为主要蛋白来源，加入适量的维生素、矿物质和（或）其他原料，仅用物理方法生产加工制成的产品。适用于幼儿食用，其能量和营养成分能满足正常12~36 月龄幼儿的部"
+  },
+  {
+   "cn": "婴幼儿配方食品",
+   "en": "formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "适于正常婴幼儿食用，所含的能量及营养成分能满足其部分营养需要的配方食品。"
+  },
+  {
+   "cn": "婴幼儿辅食罐头",
+   "en": "canned infant and young child complementary food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.7",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "食品原料经处理、灌装、密封、杀菌或无菌罐装后达到商业无菌，可在常温下保存的适于6 月龄以上婴幼儿食用的罐藏食品。"
+  },
+  {
+   "cn": "针锋相对寸土必争",
+   "en": "give tit for tat and dispute every inch of ground",
+   "source": "马克思主义",
+   "wordNumber": "03.0442",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "解放战争时期针对国民党反动派对人民实行的寸权必夺、寸利必得方针，毛泽东于1945年在《抗日战争胜利后的时局与我们的方针》中提出的中国共产党对敌斗争的重要策略方针。"
+  },
+  {
+   "cn": "较大婴儿和幼儿配方辅助食品",
+   "en": "formulated complementary foods for older infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.8",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "仅适于婴儿断乳期食用，以及在幼儿期作为母乳替代或额外补充的配方食品，以避免可能出现的营养缺乏或不足。"
+  },
+  {
+   "cn": "婴幼儿专用食品接触材料及制品",
+   "en": "food contact material and article for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.22",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "专门用于婴幼儿食品的生产、加工、包装、运输、贮存、销售和使用过程中的食品接触材料及制品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方",
+   "en": "formula of milk powder formula products for infant and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.9",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "生产婴幼儿配方乳粉相应产品时使用的食品原料、食品添加剂及其使用量，以及其中营养成分的含量。"
+  },
+  {
+   "cn": "婴幼儿配方食品良好生产规范",
+   "en": "good manufacturing practice for formula foods for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "对婴幼儿配方食品生产过程中原料采购、加工、包装、贮存和运输等环节的场所、设施、人员的基本要求和管理准则等作出规定和要求，为保证婴幼儿配方食品能够按照审批的标准进行生产所制定的规范或指南。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册",
+   "en": "formula registration of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.10",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门依据相关法规的程序与要求，对申请注册的婴幼儿配方乳粉产品配方进行审评，并决定是否准予注册的行为。"
+  },
+  {
+   "cn": "可用于婴幼儿食品的菌种",
+   "en": "strains can be legally used in food for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.4",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "可用于婴幼儿食品中的一种或多种微生物（包括细菌、真菌和酵母），经发酵培养、分离、干燥或不干燥等工序制成的产品。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉生产许可",
+   "en": "production permission of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.15",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由食品安全监督管理部门颁发的允许有关企业进行婴幼儿配方乳粉产品生产的具有法律效力的证书。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方声称",
+   "en": "claims of formula of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用标准用语对婴幼儿配方乳粉产品适用月龄和/或配方中使用的原料来源进行描述和声明，并在食品标签上进行标注，但不得涉及疾病防治、保健益智等内容。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方注册证书",
+   "en": "formula registration certificate of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.14",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "经食品安全监督管理部门颁发的表明相关企业的婴幼儿配方乳粉产品配方符合相关要求并准予注册的法律文件。包括产品名称、产品配方、生产工艺等内容。"
+  },
+  {
+   "cn": "婴幼儿配方乳粉产品配方抽样检验",
+   "en": "sampling and testing of formulated milk powder products for infants and young children",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.3.13",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由具有法定资质的食品检验机构对申请方的.婴幼儿配方乳粉产品随机抽样并检验，以评价其是否符合法律法规及相应标准的要求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

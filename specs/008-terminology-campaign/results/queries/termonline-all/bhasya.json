@@ -1,0 +1,32 @@
+{
+ "key": "bhasya",
+ "term": "bhāṣya",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:25:41+00:00",
+ "status": "ok",
+ "note": "variant=bhāṣya; 审定公布名词库=1; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "BH结构域",
+   "en": "Bcl-2 homology domain;BH domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_信号转导_信号分子与受体",
+   "subjectName": "信号分子与受体",
+   "publishYear": "2024",
+   "definition": "Bcl-2家族促凋亡蛋白质和抗凋亡蛋白质所特有的结构域。按其结构与功能的不同分为BH1、BH2、BH3和BH4四种，分别介导蛋白质的同源或异源二聚化。"
+  },
+  {
+   "cn": "布伊亚人",
+   "en": "Bhuiya",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0024",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。人口数约为208.7 万  （2016 年）。主要分布在印度的奥利萨邦地区。有很多支系。属澳大利亚人种维达类型。操奥里雅语，属印欧语系印度语族。信仰上保留原始信仰，也一部分人信仰印度教。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

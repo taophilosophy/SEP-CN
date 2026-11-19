@@ -1,0 +1,802 @@
+{
+ "key": "assurance",
+ "term": "assurance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:21:48+00:00",
+ "status": "ok",
+ "note": "variant=assurance; 审定公布名词库=140; 海峡两岸名词对照库=144; 其他来源数据库=32; 预公布名词数据库=95; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "保证性",
+   "en": "assurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0572",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "员工的知识、礼貌、自信和可信的能力以及服务机构能胜任提供服务的能力。"
+  },
+  {
+   "cn": "保障等级",
+   "en": "assurance level",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0260",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在信息系统和产品的评估中，对评估对象所采用的安全措施的评级划分。"
+  },
+  {
+   "cn": "鉴证业务",
+   "en": "assurance engagement",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0430",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师对鉴证对象信息做出结论，以增强除责任方之外的预期使用者对鉴证对象信息信任程度的业务。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "08.207",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生产运行管理",
+   "subjectName": "生产运行管理",
+   "publishYear": "2024",
+   "definition": "为保障某一产品、过程或服务的质量达到要求所必需的全部有计划、有组织的活动。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "兽医学名词",
+   "wordNumber": "03.095",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "质量管理的一部分。使用户确信产品能满足规定的质量要求。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0259",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "保障和管理数字信息及数据的使用、处理、存储和传输风险的实践，以及达到保障和管理目的的系统和过程。"
+  },
+  {
+   "cn": "合理保证",
+   "en": "reasonable assurance",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0351",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师在财务报表审计中提供的一种高度但非绝对的保证。"
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "计量学名词",
+   "wordNumber": "01.161",
+   "subjectFullName": "计量学_计量学通用名词_法制计量",
+   "subjectName": "法制计量",
+   "publishYear": "2015",
+   "definition": "在法制计量中用于保证测量结果可信性的所有法规、技术手段和必要的活动。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射医学与防护名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "放射医学与防护_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "为使项目，过程或服务达到既定质量要求，并提供足够置信度而必须实行的所有计划的、系统的活动。已广泛地应用于各个领域和行业，但赋予不同的具体内涵。"
+  },
+  {
+   "cn": "地质可靠程度",
+   "en": "geological assurance",
+   "source": "资源科学技术名词",
+   "wordNumber": "16.058",
+   "subjectFullName": "资源科学技术_矿产资源学",
+   "subjectName": "矿产资源学",
+   "publishYear": "2008",
+   "definition": "反映矿产勘查阶段工作成果的不同精度，分为探明的、控制的、推断的和预测的四种。"
+  },
+  {
+   "cn": "计量保证",
+   "en": "metrological assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "15.009",
+   "subjectFullName": "航天科学技术_航天计量与测试",
+   "subjectName": "航天计量与测试",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "产品保证",
+   "en": "product assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.038",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.061",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "维修性保证",
+   "en": "maintainability assurance",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.218",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1038",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "阿苏尔杆组",
+   "en": "Assur group",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0036",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "自由度等于零并且不能再拆分的平面低副构件组。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance,QA",
+   "source": "医学影像技术学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "医学影像技术学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "确保一个组织、系统及其组成部分良好运行所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance,QA",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.577",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "为了提供足够的信任表明实体能够满足质量要求，而在质量体系中实施并根据需要进行证实的全部有计划和有系统的活动。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance,QA",
+   "source": "结核病学名词",
+   "wordNumber": "03.539",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_细菌学诊断",
+   "subjectName": "细菌学诊断",
+   "publishYear": "2019",
+   "definition": "提高实验室服务效率和可信度的体系。包括质量控制、室间质量评价和质量提高。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance,QA",
+   "source": "核医学名词",
+   "wordNumber": "03.0407",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "为维持、实现和确认某一产品、过程或服务所必需的质量所进行的有计划、有系统的全部措施和活动。"
+  },
+  {
+   "cn": "保险",
+   "en": "assurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保",
+   "en": "assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保险人",
+   "en": "assurer",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "保险单",
+   "en": "assurance policy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险公司",
+   "en": "assurance company",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保等级",
+   "en": "assurance level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "共同承保人",
+   "en": "co-assurer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "确保操作",
+   "en": "assured operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "灭菌保证水平",
+   "en": "sterility assurance level",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "软件质量保证",
+   "en": "software quality assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "QA （=quality assurance）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "确保数据传送",
+   "en": "assured data transfer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机辅助质量保证",
+   "en": "computer-aided quality assurance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "深度基准面保证率",
+   "en": "assuring rate of depth datum",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "保险",
+   "en": "insurance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "保险承诺书",
+   "en": "insurance binder",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保险代理人",
+   "en": "insurance agent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信任保障",
+   "en": "Trust Assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全保障",
+   "en": "security assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全保障",
+   "en": "big data security assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全方位信息保证认证",
+   "en": "overall information assurance and authentication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "两不愁三保障",
+   "en": "two assurances and three guarantees",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整杠铃位置",
+   "en": "assure the position of the bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30998-2014 信息技术 软件安全保障规范》",
+   "en": "GB/T 30998-2014 Information technology — Software safety assurance specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 30273-2013 信息安全技术 信息系统安全保障通用评估指南》",
+   "en": "GB/T 30273-2013 Information security technology — Common methodology for information systems security assurance evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 18336.3-2015 信息技术 安全技术 信息技术安全评估准则 第3部分：安全保障组件》",
+   "en": "GB/T 18336.3-2015 Information technology — Security techniques — Evaluation criteria for IT security — Part 3: Security assurance components",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/Z 29830.1-2013 信息技术 安全技术 信息技术安全保障框架 第1部分：综述和框架》",
+   "en": "GB/Z 29830.1-2013 Information technology — Security technology — A framework for IT security assurance — Part 1: Overview and framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 43.0.8-2017 设备和操作活动的信息保障 人与信息交互的人工智能 通用原则》",
+   "en": "GOST R 43.0.8-2017 Information assurance for equipment and operational activity ― Artificial intelligence of human-information interaction ― General principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27041-2016 信息技术 安全技术 确保事件调查方法的适用性和充分性的指南》",
+   "en": "EN ISO/IEC 27041:2016 Information technology — Security techniques — Guidance on assuring suitability and adequacy of incident investigative method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保证保险",
+   "en": "guaranteed insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物联网保险",
+   "en": "IoT insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网保险",
+   "en": "Internet insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "绿色保险",
+   "en": "green insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "巨灾保险",
+   "en": "catastrophe insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技保险",
+   "en": "technology insurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "物质保障",
+   "en": "material assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各级人民政府、相关部门和学校储备处理学校突发公共卫生事件的物资和能力，发生事件时，根据应急处理工作需要调用储备物资，并及时补充卫生应急储备物资的活动。"
+  },
+  {
+   "cn": "经费保障",
+   "en": "funding assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "用于支出突发公共卫生事件应急处理工作，保障突发公共卫生事件应急基础设施项目建设，以及按规定落实对突发公共卫生事件应急处理专业技术机构的财政补助政策和突发公共卫生事件应急处理的费用。"
+  },
+  {
+   "cn": "无菌保证期",
+   "en": "sterility assurance period",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.6",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "灭菌包装内的物品灭菌后可以保持无菌状态的时间。"
+  },
+  {
+   "cn": "合作机制保障",
+   "en": "cooperation mechanism assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门加强战略合作，共同完善信息共享、应急响应联动、应急资源共享、开展共训共练等方面的合作与交流，切实提高合作协同应急处置能力的工作机制。"
+  },
+  {
+   "cn": "人员保障",
+   "en": "human resources assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关部门按照“平战结合、因地制宜，分类管理、分级负责，统一管理、协调运转”的原则建立的突发公共卫生事件应急处理队伍，并加强管理和培训，支持应急处置工作的活动。"
+  },
+  {
+   "cn": "药品供应保障制度",
+   "en": "Pharmaceutical Supply Assurance Framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "根据国家法律法规，制定生产、流通、招采、使用和评审等各环节的制度，旨在保障药品安全有效、价格合理、供应充分。"
+  },
+  {
+   "cn": "社会保险",
+   "en": "social insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一般由政府依法主办，国家、社会、雇主和个人共同承担责任的一种社会和经济保障制度。强制将被保险人的部分收入按比例作为社会保险税（费）形成社会保险基金。在满足一定条件下，被保险人可获得固定收入或损失补偿。"
+  },
+  {
+   "cn": "养老保险",
+   "en": "endowment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.3.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_养老保险",
+   "subjectName": "养老保险",
+   "publishYear": "2025",
+   "definition": "国家或政府通过立法，以权利与义务一致性为原则，在社会成员在因年老而丧失劳动能力或达到法定解除劳动义务的劳动年龄界限后，保障其基本生活需求的一种社会经济制度安排。社会保险五大险种中最重要的险种之一。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "失业保险",
+   "en": "unemployment insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.5.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_失业保险",
+   "subjectName": "失业保险",
+   "publishYear": "2025",
+   "definition": "依据国家法规，在劳动者非自愿失业时给予失业金支付以保障其基本生活，并提供相关再就业服务的一种社会保险制度。通过国家、企事业单位和个人等渠道筹资建立失业保险基金。"
+  },
+  {
+   "cn": "生育保险",
+   "en": "maternity insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障",
+   "subjectName": "社会保障",
+   "publishYear": "2025",
+   "definition": "国家立法为处在怀孕或分娩期间的职业妇女提供物质帮助、生育津贴、医疗服务以及产假，以保障其基本生活，恢复其健康以及劳动能力的一项社会保险制度。"
+  },
+  {
+   "cn": "商业保险",
+   "en": "commercial insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.3.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_补充保障",
+   "subjectName": "补充保障",
+   "publishYear": "2025",
+   "definition": "保险机构依合同约定，向投保人收取保险费，建立保险基金，在被保险人死亡、伤残、患病、或达到约定的年龄期限以及其他合同约定的事故造成损失时，承担给付保险金责任的一种保险制度。是补充保障的重要组成部分。"
+  },
+  {
+   "cn": "医疗社会保险",
+   "en": "medical insurance",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.84",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "国家通过立法方式强制性地向法定范围的劳动者及其他社会成员征缴医疗保险基金，在劳动者（或公民）因患病、负伤、年老、生育、失业或其他原因收入中断需要医疗费用时，由国家或企业提供医疗和物质保障的一种社会保险"
+  },
+  {
+   "cn": "保险垄断",
+   "en": "insurance monopoly",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.3.4",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "卫生服务市场中保险机构作为服务供方通过药物目录、支付方式、定点政策等手段和控制权所形成的垄断性。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "medical insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过多方筹集资金建立基金池，对被保险人在因疾病或意外伤害所发生的医疗费用给予偿付的制度安排"
+  },
+  {
+   "cn": "共付保险",
+   "en": "co-insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "保险机构和被保险人按照一定比例共同支付医疗费用"
+  },
+  {
+   "cn": "保险因子",
+   "en": "insurance factor",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.2",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "健康保险赔付率（补偿比）对医疗服务利用、医疗费用变化的影响程度。"
+  },
+  {
+   "cn": "强制参保",
+   "en": "mandatory insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.2.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "按照强制性社会保险原则，医疗保险通过国家立法提出符合条件的单位和个人必须参加医疗保险的条款。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

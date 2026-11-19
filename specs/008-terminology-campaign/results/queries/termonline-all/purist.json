@@ -1,0 +1,742 @@
+{
+ "key": "purist",
+ "term": "Purist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:26:30+00:00",
+ "status": "ok",
+ "note": "variant=Purist; 审定公布名词库=620; 海峡两岸名词对照库=190; 其他来源数据库=25; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "纯粹主义",
+   "en": "purism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0358",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "20世纪20年代前后建筑师勒·柯布西耶(Le Corbusier)与画家奥赞方(Amédée Ozenfant)所提倡的艺术与建筑思想。针对当时的后期立体主义艺术，反对其装饰化倾向，提倡艺术应该反映“"
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "10.006",
+   "subjectFullName": "蛋白质与氨基酸及非产能物质代谢性疾病_脂质代谢异常及相关疾病",
+   "subjectName": "脂质代谢异常及相关疾病",
+   "publishYear": "2025",
+   "definition": "由咪唑环与嘧啶环稠合而成的一种含氮芳香杂环化合物。是核酸的组成成分。组成DNA和RNA的嘌呤有腺嘌呤和鸟嘌呤两种。自然界存在的重要嘌呤碱还有黄嘌呤、次黄嘌呤等。"
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.0005",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸化学组成_碱基和核糖",
+   "subjectName": "碱基和核糖",
+   "publishYear": "2024",
+   "definition": "由嘧啶环和咪唑环通过共用一个碳-碳双键合并形成的含氮杂环化合物。是核酸的组成成分。组成DNA和RNA的嘌呤有腺嘌呤和鸟嘌呤两种。自然界存在的重要嘌呤碱还有黄嘌呤、次黄嘌呤等。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity ",
+   "source": "草学名词",
+   "wordNumber": "4.0162",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "物理学名词",
+   "wordNumber": "08.0846",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "核医学名词",
+   "wordNumber": "06.0039",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "一种含氮的单环结构物。核苷酸的重要组成部分。有腺嘌呤鸟嘌呤两种。"
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "化学名词",
+   "wordNumber": "02.0377",
+   "subjectFullName": "化学_有机化学_有机化合物_杂环化合物类名",
+   "subjectName": "杂环化合物类名",
+   "publishYear": "2016",
+   "definition": "由咪唑和嘧啶两个单杂环通过共用1个碳-碳边键并合而成的并杂环化合物。具有类似于萘环的大π-键共轭体系的芳香性杂环。是多种天然生物碱的基本骨架结构。其结构式为：<img src='/root/syzx/"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "化学名词",
+   "wordNumber": "03.0810",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "主成分在一定化学物质中的质量百分数。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "计量学名词",
+   "wordNumber": "15.057",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质的主要组分在该物质中所占的分数。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "建筑学名词",
+   "wordNumber": "09.0451",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "色彩的强弱程度。其决定于物体含有的光波波长是单一性还是复合性。"
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "药学名词",
+   "wordNumber": "05.266",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "制品中含有单一型分子的程度。"
+  },
+  {
+   "cn": "祭司",
+   "en": "priest",
+   "source": "教育学名词",
+   "wordNumber": "04.004",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古代埃及寺庙中宗教礼仪的主持者。一般具有较高文化，善于书写，掌握各种知识，在社会中具有较高的地位。"
+  },
+  {
+   "cn": "沙岸",
+   "en": "hurst",
+   "source": "风景园林名词",
+   "wordNumber": "04.0099",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "由沙床、卵石形成的浅滩岸线或沙洲。"
+  },
+  {
+   "cn": "暴",
+   "en": "burst",
+   "source": "天文学名词",
+   "wordNumber": "04.276",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "一种剧烈的天体活动，释放大量能量，通常伴随该天体光度急速增强后又迅速衰弱的现象。"
+  },
+  {
+   "cn": "棱镜计划",
+   "en": "PRISM",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.129",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一项由美国国家安全局(NSA)自2007年起开始实施的绝密级电子监听计划。NSA从至少九个大的美国互联网服务商处收集数据。许可的监听对象包括任何在美国以外地区使用这些公司服务的客户，或是任何与国外人士"
+  },
+  {
+   "cn": "耻骨",
+   "en": "pubis",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤学基础_妇科解剖学_骨盆",
+   "subjectName": "骨盆",
+   "publishYear": "2022",
+   "definition": "髋骨的前下部。分为耻骨体、耻骨上支和耻骨下支三部分。耻骨体构成髋臼的前下部，向前下方延伸的细长骨条为耻骨上支，其内侧以锐角转折移行为耻骨下支。"
+  },
+  {
+   "cn": "耻骨",
+   "en": "pubis",
+   "source": "生殖医学名词",
+   "wordNumber": "2.115",
+   "subjectFullName": "生殖医学_生殖系统解剖_女性生殖系统解剖",
+   "subjectName": "女性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "髋骨的前下部。可分为耻骨体、耻骨上支和耻骨下支。"
+  },
+  {
+   "cn": "破裂",
+   "en": "burst",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0740",
+   "subjectFullName": "机械工程（一）_传动_液压传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "过高压力引起元件壳体和配管破坏导致流体流出的现象。"
+  },
+  {
+   "cn": "棱镜",
+   "en": "prism",
+   "source": "光学名词",
+   "wordNumber": "09.062",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "由两个或者两个以上的彼此不平行平面构成的折射元件。它通常有两个或者两个以上相交反射面或折射面(称工作面)，两工作面的交线称为棱，垂直于棱的截面称为主截面。在光路中利用它改变光波传播方向或色散，将它们组"
+  },
+  {
+   "cn": "腕",
+   "en": "wrist",
+   "source": "动物学名词",
+   "wordNumber": "6.0326",
+   "subjectFullName": "动物学_脊椎动物学_脊椎动物亚门_哺乳纲",
+   "subjectName": "哺乳纲",
+   "publishYear": "2021",
+   "definition": "前臂和掌之间的部分。"
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "嘌呤",
+   "en": "purine",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腕节",
+   "en": "carpopodite\",\"carpus\",\"wrist",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "耻骨",
+   "en": "pubis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腕",
+   "en": "wrist",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "小包袋",
+   "en": "purse",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "爆裂",
+   "en": "burst",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "暴",
+   "en": "burst",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜",
+   "en": "prism",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜",
+   "en": "prism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方晶，棱晶",
+   "en": "prism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腕",
+   "en": "arm\",\"brachiole (棘皮动物)\",\"wrist",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "骨膜",
+   "en": "periosteum\",\"periost",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "嘌呤[类]生物碱",
+   "en": "purine alkaloid",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观纯度",
+   "en": "apparent purity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对映体纯度",
+   "en": "enantiomeric purity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "放射化学纯度",
+   "en": "radiochemical purity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "腕",
+   "en": "palmeok\",\"wrist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未来法学家",
+   "en": "future jurist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摆上",
+   "en": "stem\",\"uprise",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "捷克式摆上",
+   "en": "Czech uprise\",\"Steinemannstemme",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抖腕传球",
+   "en": "wrist pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抖腕射门",
+   "en": "wrist shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手腕动作",
+   "en": "wrist action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步法规范",
+   "en": "purity of strides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "棱镜计划",
+   "en": "PRISM Surveillance Program",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "向前抖腕传球",
+   "en": "forward wrist pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "翻腕",
+   "en": "turn over the wrist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赏善罚恶",
+   "en": "Reward Good and Punish Evil",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "腕部交叉格挡",
+   "en": "cross block\",\"cross wrist block\",\"eotgeoreo makki",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯度",
+   "en": "purity",
+   "source": "消毒学",
+   "wordNumber": "6.1.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "主成分在一定化学物质中的质量百分数。可分为优级纯、分析纯和化学纯等。"
+  },
+  {
+   "cn": "卢里人",
+   "en": "Luris",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0074",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "伊朗民族之一。人口约为150 万（2011 年）。也是东非大湖地区的跨界民族之一。主要分布在伊朗的卢里斯坦省。刚果、伊拉克和乌干达等国也有分布。属欧罗巴人种地中海类型。操卢里语，属印欧语系伊朗语族，无"
+  },
+  {
+   "cn": "蒸汽纯度",
+   "en": "steam purity",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在一定温度和压力下，蒸汽中所含有的水分子的百分比。"
+  },
+  {
+   "cn": "天体运动",
+   "en": "nudist movement",
+   "source": "社会学名词",
+   "wordNumber": "3.3.7.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性伦理",
+   "subjectName": "性伦理",
+   "publishYear": "2025",
+   "definition": "提倡裸露身体、回归自然的运动。"
+  },
+  {
+   "cn": "旅游文化",
+   "en": "tourist culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.11",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "以调适人地关系为主轴、通过增加主客互动和沟通交流所形成的生活方式。这里的主客互动，包括了本土/异乡、土著/外人、接待者/参访团以及当地人/旅游者等类型的双向互动。"
+  },
+  {
+   "cn": "旅游文化",
+   "en": "tourist culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0198",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类固有文化在旅游活动中的具体体现，是与旅游活动有关的文化现象的总和。"
+  },
+  {
+   "cn": "游客凝视",
+   "en": "tourist gaze",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0204",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "旅游人类学中用以探讨旅游过程中包括游客、旅游地社会、当地人等在内的各主体及其相互间关系的概念。“游客凝视”这一概念出自英国社会学家厄利（John Urry）1990 年出版的《游客凝视》一书。厄利认为"
+  },
+  {
+   "cn": "纯度试验",
+   "en": "purity test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.21",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "检验油脂中品种单一性的试验，如桐油纯度试验。"
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0400",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月法国巴黎的无产阶级和革命群众举行反对资产阶级统治的武装起义并建立的无产阶级政府。1871年3月28日巴黎公社宣告成立。它是无产阶级专政的第一次尝试，实施了一系列带有社会主义性质的措施，但"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "教士宗教—先知宗教",
+   "en": "priest-prophet religion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.15",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "马克斯·韦伯从宗教领袖和组织等方面所做的区分。前者以一个中心化、组织化、精英化的官员为核心，具有稳定的传统的特色，后者则以宣称新的宗教教义或神旨的个体为领袖，能够带来社会的巨大变革。"
+  },
+  {
+   "cn": "洁净与危险",
+   "en": "Purity and Danger",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0608",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家玛丽·道格拉斯（Mary Douglas）在《洁净与危险》一书中提出的观点，她从圣经和日常生活中人们对于“洁净”与“肮脏”的理解入手，利用象征分析手法剖析人类的思维特点，并关注象征秩序与社"
+  },
+  {
+   "cn": "巴黎公社革命",
+   "en": "Paris Commune Revolution",
+   "source": "马克思主义",
+   "wordNumber": "04.0217",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月18日法国巴黎无产阶级推翻资产阶级、建立工人政权的第一次伟大尝试。起义者选举产生了巴黎公社委员会，采取了一系列社会主义性质的措施。由于种种原因革命失败。马克思在《法兰西内战》一书中系统地"
+  },
+  {
+   "cn": "高纯度二氧化氯",
+   "en": "high purity chlorine dioxide",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.4.6",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "二氧化氯发生器产生的纯度大于90%的二氧化氯。"
+  },
+  {
+   "cn": "核爆炸高度",
+   "en": "altitude of nuclear burst",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.43",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "核武器在地面(或水面)以上爆炸时,从爆心到地(水)面的垂直距离。"
+  },
+  {
+   "cn": "高纯锗探测器",
+   "en": "high purity germanium detector，HPGe",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.50",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "用纯度极高的锗单晶制成的半导体探测器。"
+  },
+  {
+   "cn": "党的纯洁性建设",
+   "en": "construction of the Partys purity",
+   "source": "马克思主义",
+   "wordNumber": "03.0788",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的纯洁性，体现在党的思想、政治、组织和作风各个方面。始终保持党的纯洁性，是由我们党的性质和宗旨决定的。纯洁性是先进性的前提和基础，先进性是纯洁性的体现和保证，二者在本质上是一致的。党的十八大把党的执"
+  },
+  {
+   "cn": "巴黎公社原则",
+   "en": "Principles of the Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0252",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年巴黎公社革命中工人阶级创造的、反映无产阶级革命运动中带有普遍意义的基本经验。马克思认为，巴黎公社的基本原则是无产阶级必须打碎资产阶级的国家机器，建立自己的革命专政。工人阶级不能简单地掌握现成"
+  },
+  {
+   "cn": "比高",
+   "en": "scaled height of nuclear burst",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.44",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "全称“比例爆高（scaled height of burst）”。不同爆炸方式的爆炸高度（m）与当量（kt）立方根的比值，其单位是m/（kt）1/3。"
+  },
+  {
+   "cn": "巴黎国际社会主义者代表大会",
+   "en": "International Socialist Workers Congress  in Paris",
+   "source": "马克思主义",
+   "wordNumber": "04.0485",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1889年7月14日(法国大革命攻占巴士底监狱一百周年纪念日)在巴黎举行的国际社会主义者代表大会。出席大会的有22个国家的393名代表，其中很多人是各国工人运动的活动家和领导人。恩格斯因为忙于《资本论"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

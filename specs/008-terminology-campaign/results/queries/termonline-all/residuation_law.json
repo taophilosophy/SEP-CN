@@ -1,0 +1,712 @@
+{
+ "key": "residuation law",
+ "term": "residuation law",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:18:27+00:00",
+ "status": "ok",
+ "note": "variant=residuation law; 审定公布名词库=3321; 海峡两岸名词对照库=982; 其他来源数据库=189; 预公布名词数据库=245; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "农学名词",
+   "wordNumber": "18.042",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农药与兽药等使用后，在一定时间内存留于动植物体内及土壤等环境中的现象。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0203",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "在过滤时沉淀在过滤介质上的固体或一定温度下灼烧后剩余的固体。"
+  },
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "兽医学名词",
+   "wordNumber": "11.083",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "外源化学物在生物体内或环境中，经过代谢、分解、聚合、缩合后，成为不再分解变化的代谢产物。如分解物、聚合物。毒理学中，主要指食品中含有的有毒有害物质。包括食品生产中使用的化学物以及食品在加工、烹调、包装"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0881",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "某物理量(如某震相的走时 )的观测值与理论值的差值。 "
+  },
+  {
+   "cn": "残留",
+   "en": "residue ",
+   "source": "草学名词",
+   "wordNumber": "7.0203",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "测绘学名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "测量值的估值与测量值之差。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "畜牧学名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "吞咽后口腔中残留的剩余物质。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "经济学名词",
+   "wordNumber": "10.092",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "回归所得的估计值与真值（实际值）之间的误差。"
+  },
+  {
+   "cn": "留数",
+   "en": "residue",
+   "source": "物理学名词",
+   "wordNumber": "01.0466",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "核医学名词",
+   "wordNumber": "03.0744",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "进行标准曲线质量分析时，通过数学模型拟合的标准曲线查获的值与实测值之间的偏差。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "化学名词",
+   "wordNumber": "03.0172",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在回归分析中，测定值<img src='/root/syzx/static/spz/huaxue2.03.0172.1.png'/>与按回归方程预测的值<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "化学名词",
+   "wordNumber": "03.0082",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "溶液蒸发后的残余物。残渣分为总残渣(总蒸发残渣)、总可滤性残渣(溶解性蒸发残渣)、总不可滤性残渣(悬浮物)三种。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0595",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "实际观察值与回归估计值的差。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "计量学名词",
+   "wordNumber": "15.302",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "试样在一定温度下蒸发、灼烧或经规定的溶剂提取后的残留物。"
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "药学名词",
+   "wordNumber": "05.035",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "在肽或蛋白质的序列中，氨基酸之间的氨基和羧基脱水成键，因此肽或蛋白质分子中的氨基酸已不是完整的氨基酸，被称为残基。"
+  },
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "水产名词",
+   "wordNumber": "08.465",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "农药、兽药、杀虫剂等施用后在一定时间内有微量成分存留在动植物体内外、土壤或水域中的现象。"
+  },
+  {
+   "cn": "残液",
+   "en": "residue",
+   "source": "化学工程名词",
+   "wordNumber": "03.394",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_蒸馏",
+   "subjectName": "蒸馏",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "数学名词",
+   "wordNumber": "010.0146",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "剩余",
+   "en": "residue",
+   "source": "数学名词",
+   "wordNumber": "04.0157",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "留数",
+   "en": "residue",
+   "source": "数学名词",
+   "wordNumber": "05.0401",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "剩余[值]",
+   "en": "residual",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渣油",
+   "en": "residue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "定律",
+   "en": "law",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "残遗腔",
+   "en": "residual lumen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "残余染色体",
+   "en": "residual chromosome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "残余体",
+   "en": "residual body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "多余胞质",
+   "en": "residual cytoplasm",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "残遗中心",
+   "en": "residue center",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剩余分生组织",
+   "en": "residual meristem",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "残留层",
+   "en": "residual layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剩余大气",
+   "en": "residual atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剩余环流",
+   "en": "residual circulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "残差分析",
+   "en": "residual analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "索洛剩余",
+   "en": "Solow residual",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法",
+   "en": "Law/ Dharma",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私法",
+   "en": "private law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律移植",
+   "en": "law transplant",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人法",
+   "en": "robot law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算法律",
+   "en": "computational law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生物安全法",
+   "en": "biosecurity law  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剩余信息保护",
+   "en": "residual information protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "摩尔定律",
+   "en": "Moore’s law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律",
+   "en": "law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度",
+   "subjectName": "社会制度",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的，由国家强制力保证实施的，旨在规定社会成员之间权利和义务，并具有普遍约束力的各种行为规范的总和。"
+  },
+  {
+   "cn": "规律",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "01.0033",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物发展过程中本身所固有的本质的、必然的、稳定的内在联系。规律具有不以人的意志为转移的客观实在性。"
+  },
+  {
+   "cn": "法",
+   "en": "law",
+   "source": "马克思主义",
+   "wordNumber": "04.0040",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家按照统治阶级的利益和意志制定或认可，并由国家强制力保证其实施的行为规范的总和。法是上层建筑的重要部分，由经济基础决定，为经济基础服务。法的目的在于维护有利于统治阶级的社会关系和社会秩序，是统治阶级"
+  },
+  {
+   "cn": "臭氧余量",
+   "en": "ozone residue",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.12",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "臭氧对空气和水进行消毒处理一定时间后残留的量。"
+  },
+  {
+   "cn": "余氯",
+   "en": "residual chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "水经氯化消毒一定时间后剩余的游离氯，是评价水质卫生质量的常用指标。"
+  },
+  {
+   "cn": "残余消毒剂",
+   "en": "residual disinfectant",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂与消毒对象作用一定时间后，仍残留的消毒剂。"
+  },
+  {
+   "cn": "残留量",
+   "en": "residual quantity",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "消毒剂使用后，其本体、衍生物、代谢物、降解物在环境中残存的量。"
+  },
+  {
+   "cn": "剩余辐射",
+   "en": "residual radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "有用射束穿过影像接收器、辐射测量装置或者放射治疗受照部位等衰减体以后的辐射，属于辐射被使用后的剩余部分。"
+  },
+  {
+   "cn": "放射性残留物",
+   "en": "radioactive residues",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "来自早期运行（包括过去的实践）和事故残留于环境中的放射性物质。"
+  },
+  {
+   "cn": "残留剂量",
+   "en": "residual dose",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "防护措施终止后（或决定不采取防护措施后）预计产生的剂量。适用于现有暴露情况或紧急暴露情况。"
+  },
+  {
+   "cn": "剩余型福利",
+   "en": "residual welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "基于家庭财产调查，对部分特定人群或家庭提供救助以满足最基本的需要。仅当家庭或市场的福利功能失灵，个人基本需要不能满足时，国家出面提供救助的最基本的安全网。具有临时、替代和标签污名化的特性。"
+  },
+  {
+   "cn": "残留标志物",
+   "en": "marker residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "动物用药后在靶组织中与总残留物有明确相关性的残留物，可以是药物原形、相关代谢物，也可以是原形与代谢物的加和，或者是可转为单一衍生物或药物分子片段的残留物总量。"
+  },
+  {
+   "cn": "农药残留物",
+   "en": "pesticide residues",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.9.2.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品污染",
+   "subjectName": "军队食品污染",
+   "publishYear": "2025",
+   "definition": "由于使用农药而在食品、农产品和动物饲料中出现的任何特定物质，包括被认为具有毒理学意义的农药衍生物，如农药转化物、代谢物、反应产物及杂质等。"
+  },
+  {
+   "cn": "残留消毒剂",
+   "en": "residual disinfectants",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.11",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "消毒剂使用后，残存在环境中的母体、衍生物、代谢物和降解物。"
+  },
+  {
+   "cn": "农药残留",
+   "en": "pesticide residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "使用农药后残存于食品或农产品中的农药母体、代谢物、反应产物及杂质等。"
+  },
+  {
+   "cn": "一般规律",
+   "en": "general law universal law",
+   "source": "马克思主义",
+   "wordNumber": "01.0034",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整个世界或一定范围内事物普遍具有的规律。由于事物存在和发展的无限性，一般规律和特殊规律的区分是相对的，在一定条件下为一般规律，而在另一条件下则可变为特殊规律，反之亦然。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "压制性法律",
+   "en": "repressive law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.1",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "制裁方式是惩罚性的法律。其目的是要损害当事人的财产、名誉、生命和自由，或者剥夺当事人所享用的某些事物，如刑法。"
+  },
+  {
+   "cn": "补偿性法律",
+   "en": "restorative law",
+   "source": "社会学名词",
+   "wordNumber": "3.7.3.2",
+   "subjectFullName": "社会学名词_分支社会学法律社会学",
+   "subjectName": "分支社会学法律社会学",
+   "publishYear": "2025",
+   "definition": "不具有惩罚性的法律。旨在恢复原有状态或重建正常状态与关系的法律。如民法、商业法、诉讼法等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

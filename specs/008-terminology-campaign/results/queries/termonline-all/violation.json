@@ -1,0 +1,802 @@
+{
+ "key": "violation",
+ "term": "violation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:15:41+00:00",
+ "status": "ok",
+ "note": "variant=violation; 审定公布名词库=726; 海峡两岸名词对照库=152; 其他来源数据库=23; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "违章行为",
+   "en": "violation",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.411",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "程序违法",
+   "en": "procedural violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "（1）行政机关或者法律、法规授权的组织在进行具体城乡规划管理过程中，违反城乡规划相关法律、法规、规章规定的程序规则。（2）公民、法人或者其他组织在进行具体城乡规划建设过程中，未履行相关程序性义务、获取"
+  },
+  {
+   "cn": "实体违法",
+   "en": "entity violation",
+   "source": "城乡规划学名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "城乡规划学_城乡规划管理_城乡规划监督检查与评估",
+   "subjectName": "城乡规划监督检查与评估",
+   "publishYear": "2021",
+   "definition": "公民、法人或者其他组织的建设行为，违反城乡规划及相关法律法规或者规划许可规定的相关实体要件。"
+  },
+  {
+   "cn": "宇称破坏",
+   "en": "parity violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1380",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "CP 破坏",
+   "en": "CP violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1308",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "标度无关性破坏",
+   "en": "scaling violation",
+   "source": "物理学名词",
+   "wordNumber": "09.1234",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "访问违例",
+   "en": "access violation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0547",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种程序访问内存时发生的访问无效现象。该内存单元已被释放或者内存指针尚未指到对应的对象。"
+  },
+  {
+   "cn": "交通违章",
+   "en": "traffic violation",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "广告违法行为",
+   "en": "advertising violations",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.316",
+   "subjectFullName": "新闻学与传播学_广告_广告法律法规",
+   "subjectName": "广告法律法规",
+   "publishYear": "2022",
+   "definition": "广告主、广告经营者、广告发布者在广告活动中违反广告管理法律法规和其他法律法规的规定，造成某种危害社会或国家行政管理秩序的有过错的行为。"
+  },
+  {
+   "cn": "交通违章者",
+   "en": "traffic violator",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.210",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "编码违例",
+   "en": "coded violation,CV",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.095",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "实际的数字组合规律与规定的标准规律不一致的现象。"
+  },
+  {
+   "cn": "破堤效应",
+   "en": "abstinence violation effect,AVE",
+   "source": "心理学名词",
+   "wordNumber": "10.121",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "因违反某些约束条例(如不抽烟或不喝酒)而产生的一种自我失控感。"
+  },
+  {
+   "cn": "期望违背论",
+   "en": "expectancy violations theory；EVT",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.113",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "关于人际沟通过程机制的一种理论。20世纪70年代末由美国传播学者朱迪·伯贡(Judee K.Burgoon)提出。一种用来分析和预测在特定交往语境中社会规范与期望意外遭到破坏时，人们如何根据现存的关系"
+  },
+  {
+   "cn": "非法排放",
+   "en": "discharge in violation of regulations",
+   "source": "船舶工程名词",
+   "wordNumber": "10.004",
+   "subjectFullName": "船舶工程_船舶防污染",
+   "subjectName": "船舶防污染",
+   "publishYear": "1998",
+   "definition": "未按国际防止船舶造成污染公约规定的排污地点和规定的排放标准，在海上排放油类、生活污水、垃圾等。"
+  },
+  {
+   "cn": "违反反兴奋剂规则的后果",
+   "en": "consequences of anti-doping rule violation",
+   "source": "运动医学名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "运动员或其他当事人违反反兴奋剂规则的行为可能导致一种或多种的后果。如①取消比赛成绩：运动员在某一特定比赛或赛事中的成绩无效，包括收回所有奖牌、积分和奖金；②禁赛：运动员或其他当事人在一段特定时间内被禁"
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "急救医学名词",
+   "wordNumber": "01.077",
+   "subjectFullName": "急救医学_急救概论_医疗急救_医院感染与洗消",
+   "subjectName": "医院感染与洗消",
+   "publishYear": "2025",
+   "definition": "采用各种方法、技术防止感染因子从患者和携带者传播给他人的一种措施。"
+  },
+  {
+   "cn": "黄化",
+   "en": "etiolation",
+   "source": "农学名词",
+   "wordNumber": "17.013",
+   "subjectFullName": "农产品贮运与加工_农产品贮运",
+   "subjectName": "农产品贮运",
+   "publishYear": "2025",
+   "definition": "成熟的农产品表面绿色逐渐消失，呈现黄色的现象。"
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "兽医学名词",
+   "wordNumber": "02.081",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "将患病动物和疑似感染动物控制在一个有利于防疫与生产管理的环境中进行单独饲养，以利于观察和防疫处理的做法。"
+  },
+  {
+   "cn": "震动",
+   "en": "vibration",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.169",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "物体的全部或一部分沿直线或曲线的往返颤动。有一定的时间规律和周期。广义是指描述系统状态的参数（如位移、电压）在其基准值上下交替变化的过程。狭义是指机械振动，即力学系统中的振动。平稳无震动较适宜睡眠。"
+  },
+  {
+   "cn": "黄化",
+   "en": "etiolation ",
+   "source": "草学名词",
+   "wordNumber": "4.0413",
+   "subjectFullName": "草学_种子和育种_草类植物育种",
+   "subjectName": "草类植物育种",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "违反",
+   "en": "violation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "违章者",
+   "en": "violator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事故变迁",
+   "en": "violation transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存取违例",
+   "en": "access violation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶违例",
+   "en": "parity violation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违背协议",
+   "en": "violation of agreement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反预期法",
+   "en": "violation of expectation method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "破堤效应",
+   "en": "abstinence violation effect\",\"AVE",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "违章排放",
+   "en": "discharge in violation of regulations",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短拍",
+   "en": "prolation",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "氧联",
+   "en": "oxolation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黄化",
+   "en": "etiolation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "人痘接种",
+   "en": "variolation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "隔离度",
+   "en": "isolation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "violation",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回场违例",
+   "en": "backcourt violation\",\"over and back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数码警察",
+   "en": "automatic e-camera for traffic violations",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "违背比赛连续性原则",
+   "en": "violation of the principle that play shall be continuous",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法立，有犯而必施；令出，唯行而不返",
+   "en": "Once enacted, a law must be enforced and anyone who violates it must be held to account.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "有法可依，有法必依，执法必严，违法必究",
+   "en": "ensure that laws are put in place, observed, and strictly enforced and that anyone who violates the law is held to account",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "震",
+   "en": "Zhen（Vibration）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据割据",
+   "en": "data isolation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞隔离",
+   "en": "vulnerability isolation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "病毒分离",
+   "en": "virus isolation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离病房",
+   "en": "isolation ward",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离区",
+   "en": "isolation unit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "攻击源定位隔离技术",
+   "en": "IP traceback and isolation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据隔离与交换系统",
+   "en": "data isolation and switching system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔离治疗",
+   "en": "to receive treatment in isolation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "库内对象备份隔离",
+   "en": "backup and isolation of repository objects",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感数据隔离交互层",
+   "en": "sensitive data isolation and interaction layer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.1.2",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护方法",
+   "subjectName": "内照射防护方法",
+   "publishYear": "2025",
+   "definition": "将非密封放射性物质和易受污染人员分开，避免和周围人群接触，以减少放射性物质扩散的措施。"
+  },
+  {
+   "cn": "振动",
+   "en": "vibration",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "质点或物体在外力作用下沿直线或弧线围绕平衡位置作来回往复或旋转运动。根据作用于人体的部位和传导方式，分为全身振动和局部振动。"
+  },
+  {
+   "cn": "隔离",
+   "en": "isolation",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.3",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "采取措施使受到生物战剂污染的区域或人员避免与外界接触，便于管理和后续医疗救治措施的实施。"
+  },
+  {
+   "cn": "接触隔离",
+   "en": "contact isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.3",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "避免接触传染源和传染源污染的环境、物品所采取的阻隔措施。"
+  },
+  {
+   "cn": "空气隔离",
+   "en": "air isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4.1",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对通过空气传播的感染性呼吸道颗粒引起疾病所采取的阻隔措施。包括佩戴医用防护口罩、提供专用隔离房间、限制患者活动范围等措施。"
+  },
+  {
+   "cn": "飞沫隔离",
+   "en": "droplet isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4.2",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对通过飞沫传播的感染性呼吸道颗粒引起疾病所采取的阻隔措施。包括佩戴医用外科口罩、减少患者转运、限制患者活动范围等措施。"
+  },
+  {
+   "cn": "床旁隔离",
+   "en": "bedside isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.6",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对感染同种病原体患者，在病室床旁所采取的措施。包括设置屏障、单独使用器械用具、限制人员流动等措施。"
+  },
+  {
+   "cn": "保护性隔离",
+   "en": "protective isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.7",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "对抵抗力低下极易被感染的患者所采取的阻隔措施。"
+  },
+  {
+   "cn": "隔离衣",
+   "en": "isolation gown",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于保护医疗卫生防疫人员避免受到血液、体液和其他感染性物质污染，或用于保护患者避免感染的防护装备。"
+  },
+  {
+   "cn": "三分开",
+   "en": "three isolation",
+   "source": "消毒学",
+   "wordNumber": "4.4.2.1",
+   "subjectFullName": "消毒学_消毒应用_疫源地消毒",
+   "subjectName": "疫源地消毒",
+   "publishYear": "2025",
+   "definition": "随时消毒应做到的分住室、分饮食、分生活用具的过程。"
+  },
+  {
+   "cn": "社会孤立",
+   "en": "social isolation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体在社会生活或活动中不愿不能或极少与外界个人、群体、社会发生联系和互动，处于某种与他者隔离的封闭状态。"
+  },
+  {
+   "cn": "振动防护",
+   "en": "vibration protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "通过控制振动源及振动传播，加强个人防护等手段以减少振动危害，保护和改善作业环境，保障作业人员健康的措施和方法。"
+  },
+  {
+   "cn": "社会隔离",
+   "en": "social isolation",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.5",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "个体处于与他人或社会孤立和脱离的状态，是个体社会关系的缺失。"
+  },
+  {
+   "cn": "呼吸道隔离",
+   "en": "respiratory tract isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.4",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对由患者飞沫和鼻咽分泌物经呼吸道传播疾病所采取的阻隔措施，包括飞沫隔离措施和空气隔离措施。"
+  },
+  {
+   "cn": "消化道隔离",
+   "en": "digestive tract isolation",
+   "source": "消毒学",
+   "wordNumber": "1.6.5",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "针对由患者排泄物直接或间接污染食物、食具经消化道传播疾病所采取的阻隔措施。包括加强手卫生、餐饮具清洁消毒、避免直接接触和间接接触等措施。"
+  },
+  {
+   "cn": "居家隔离",
+   "en": "isolation at home",
+   "source": "消毒学",
+   "wordNumber": "1.6.8",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "对传染源或相关高风险人群，限制在其居住场所内活动的阻隔措施。"
+  },
+  {
+   "cn": "振动健康危害",
+   "en": "vibration health hazard",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.6.4.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "长时间接触大强度的振动对健康造成的危害，可影响作业人员多个器官系统的生理功能，影响健康，导致作用效能降低。"
+  },
+  {
+   "cn": "分离培养",
+   "en": "isolation and culture",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.54",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "从含有多种微生物的样本中，将目的微生物个体分离出来，使其成为一个纯种培养物，并进行培养增殖的技术过程。 通常是将标本或培养物划线接种于固体培养基表面，因划线的分散作用，使许多原混杂的细菌在固体培养基表"
+  },
+  {
+   "cn": "病原体分离培养",
+   "en": "pathogen isolation and incubation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "将标本进行前处理后接种于培养基（固体或液体），以检测可引起人或动植物感染疾病的微生物(包括细菌、病毒、立克次体、真菌等)和寄生虫生长的一种方法"
+  },
+  {
+   "cn": "钳刮术",
+   "en": "dilation and curettage, D&C",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.3.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "用钳夹与负压吸引结合的方法人工终止妊娠10-14周的手术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

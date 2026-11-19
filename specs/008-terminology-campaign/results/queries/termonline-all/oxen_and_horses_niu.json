@@ -1,0 +1,812 @@
+{
+ "key": "oxen-and-horses' niu",
+ "term": "oxen-and-horses’ niú",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:26:37+00:00",
+ "status": "ok",
+ "note": "variant=oxen-and-horses’ niú; 审定公布名词库=10000; 海峡两岸名词对照库=2063; 其他来源数据库=1387; 预公布名词数据库=1078; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "断夹块",
+   "en": "horse",
+   "source": "地质学名词",
+   "wordNumber": "09.04.117",
+   "subjectFullName": "地质学_构造地质学_断裂构造",
+   "subjectName": "断裂构造",
+   "publishYear": "2026",
+   "definition": "双冲构造中被次级叠瓦状断层所围限的岩片。"
+  },
+  {
+   "cn": "挽用马",
+   "en": "draught horse,draft horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.280",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "适合拉车和拉犁的马。"
+  },
+  {
+   "cn": "夹石",
+   "en": "horse-stone",
+   "source": "地质学名词",
+   "wordNumber": "14.03.059",
+   "subjectFullName": "地质学_矿床学_矿体形态与矿石结构构造",
+   "subjectName": "矿体形态与矿石结构构造",
+   "publishYear": "2026",
+   "definition": "夹于矿体中或矿体间的非矿岩石。在煤层中常称矸石或夹矸。"
+  },
+  {
+   "cn": "套马杆",
+   "en": "horse pole ",
+   "source": "草学名词",
+   "wordNumber": "8.0045",
+   "subjectFullName": "草学_草原文化",
+   "subjectName": "草原文化",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "养马业",
+   "en": "horse industry",
+   "source": "畜牧学名词",
+   "wordNumber": "01.006",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "以马为生产资料，进行动物性生产的产业。"
+  },
+  {
+   "cn": "养马学",
+   "en": "horse science",
+   "source": "畜牧学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "畜牧学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "研究马的生物学特性与养马生产有关理论及技术的学科。"
+  },
+  {
+   "cn": "骑乘马",
+   "en": "riding horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.279",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "供竞赛、散步、旅行和狩猎等骑乘用的马。"
+  },
+  {
+   "cn": "重型马",
+   "en": "heavy horse",
+   "source": "畜牧学名词",
+   "wordNumber": "02.282",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马体宽大、背阔、四肢粗壮、肩部较直、长毛发达，适于挽用的马。其主要由“森林马”繁衍而来。"
+  },
+  {
+   "cn": "蒙古马",
+   "en": "Mongolian horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.420",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。我国数量最多、分布最广，以抗寒适应性强、耐粗饲、耐力强著称的地方马种。体质粗糙结实。毛色以青毛、骝毛、黑毛为多。体高120～132cm。分为乌珠穆沁马、百岔马、乌审马、阿巴嘎黑马等几个类群"
+  },
+  {
+   "cn": "锡尼河马",
+   "en": "Xinihe horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.421",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。体质结实。毛色以骝毛、栗毛、黑毛为主。体高134～150cm。产于内蒙古自治区鄂温克族自治旗的锡尼河、伊敏河流域。"
+  },
+  {
+   "cn": "鄂伦春马",
+   "en": "Elunchun horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.422",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "以对高寒山区适应性强、持久力好而闻名的乘驮兼用型地方马种。体质粗糙，体格较小，毛色以青毛最多，骝毛次之，体高124～135cm。产于内蒙古自治区鄂伦春自治旗。"
+  },
+  {
+   "cn": "河曲马",
+   "en": "Hequ horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.423",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "挽乘兼用型。体质结实干燥或显粗糙。毛色以黑毛、骝毛、青毛较多。体高129～150cm。产于甘肃省、四川省、青海省三省交界处的黄河第一弯曲部。"
+  },
+  {
+   "cn": "大通马",
+   "en": "Datong horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.424",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "分为挽乘和乘挽两种类型。以善走对侧步而著称。体质粗糙紧凑。毛色以骝毛为主，黑毛、栗毛、青毛次之。体高122～140cm。产于青海省海北藏族自治州大通河流域。"
+  },
+  {
+   "cn": "岔口驿马",
+   "en": "Chakouyi horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.425",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。以体质结实、体型方正、善走对侧步而闻名。毛色以骝毛为多。体高124～138cm。产于甘肃省、青海省交界的祁连山东段，中心产区是甘肃省天祝藏族自治县。"
+  },
+  {
+   "cn": "焉耆马",
+   "en": "Yanqi horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.426",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。分为山地型和盆地型两类。善于登山涉水、走对侧步。毛色以骝毛、栗毛、黑毛为主。体高129～146cm。产于新疆维吾尔自治区和静县、和硕县、焉耆回族自治县等。"
+  },
+  {
+   "cn": "哈萨克马",
+   "en": "Kazakh horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.427",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘挽兼用型。适于山路骑乘、体质结实粗糙。毛色以骝毛、栗毛、黑毛为主，青毛次之。体高130～145cm。产于新疆维吾尔自治区天山山脉北麓、准噶尔盆地以西和阿尔泰山脉西段。"
+  },
+  {
+   "cn": "巴里坤马",
+   "en": "Balikun horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.428",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘驮挽兼用型。体质粗糙结实。毛色以骝毛、栗毛为主。体高124～140cm。产于新疆维吾尔自治区巴里坤哈萨克自治县。"
+  },
+  {
+   "cn": "藏马",
+   "en": "Tibetan horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.429",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "乘驮兼用型。以适应海拔3000m以上青藏高原环境而著称。体质结实。毛色以骝毛较多，体高125cm左右。分为西藏马、甘孜马、中甸马等类群。产于西藏自治区。"
+  },
+  {
+   "cn": "建昌马",
+   "en": "Jianchang horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.430",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "驮乘及轻挽型。是适应山地环境的马。体质结实，体格短小。毛色以骝毛较多，其次为黑毛等。体高110～121cm。产于四川省凉山彝族自治州。"
+  },
+  {
+   "cn": "云南马",
+   "en": "Yunnan horse",
+   "source": "畜牧学名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "畜牧学_家畜家禽品种_马品种_地方马品种",
+   "subjectName": "地方马品种",
+   "publishYear": "2020",
+   "definition": "驮乘兼用型。体质结实，体格短小。毛色以骝毛、栗毛、黑毛、青毛较多。体高114cm左右。产于云南省滇西和滇东的乌蒙山区。"
+  },
+  {
+   "cn": "马纬度",
+   "en": "horse latitudes",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "马抗血清",
+   "en": "horse antiserum",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "副热带无风带",
+   "en": "horse latitude",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "特洛伊木马攻击",
+   "en": "Trojan horse attack",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单位轴马力制冷量",
+   "en": "refrigerating effect per brake horse power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "与门",
+   "en": "AND gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "与算符",
+   "en": "AND operator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头颈部",
+   "en": "head and neck",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "孢粉",
+   "en": "spore and pollen",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雨夹雪",
+   "en": "rain and snow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "油脂",
+   "en": "fats and oils",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "莫扎特和萨利耶里",
+   "en": "Mozart and Salieri",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rimsky-Korsakov, Nikolay  "
+  },
+  {
+   "cn": "考克斯与博克斯",
+   "en": "Cox and Box",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Sullivan, Arthur"
+  },
+  {
+   "cn": "亚伯拉罕与以撒",
+   "en": "Abraham and Isaac",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "鲁斯兰与柳德米拉",
+   "en": "Ruslan and Lyudmila",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Glinka, Mikhail (Ivanovich)"
+  },
+  {
+   "cn": "引子与快板",
+   "en": "Introduction and Allegro",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Elgar, Edward"
+  },
+  {
+   "cn": "战争与和平",
+   "en": "War and Peace",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Prokofiev, Sergey"
+  },
+  {
+   "cn": "金与银",
+   "en": "Gold and Silver",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Lehár, Franz"
+  },
+  {
+   "cn": "太阳神和潘神",
+   "en": "Phoebus and Pan",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bach, Johann Sebastian"
+  },
+  {
+   "cn": "仙女与牧羊人",
+   "en": "Nymphs and Shepherds",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Purcell, Henry"
+  },
+  {
+   "cn": "马",
+   "en": "horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马",
+   "en": "horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马项目",
+   "en": "horse\",\"vaulting horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "特洛伊木马",
+   "en": "Trojan Horse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马项目",
+   "en": "pommel horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马",
+   "en": "pommel horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用马匹",
+   "en": "extra horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盛装舞步赛马",
+   "en": "dressage horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹展览",
+   "en": "horse show",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阿拉伯马",
+   "en": "Arabian horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用马",
+   "en": "reserve horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "骑乘马",
+   "en": "saddle horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹名单",
+   "en": "list of horses",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳马",
+   "en": "horse vault\",\"vaulting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "种马",
+   "en": "entire horse\",\"stud",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白马非马",
+   "en": "A White Horse Is Not a Horse",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "马匹抽签",
+   "en": "draw of the horses",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马匹编号",
+   "en": "numbering of the horses",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "轻拍马匹",
+   "en": "rap a horse\",\"rapping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "茶马古道",
+   "en": "Tea and Horse Road",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0335",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "茶马古道是指存在于中国西南地区以马帮为主要交通工具的民间国际商贸通道，是中国西南民族经济文化交流的走廊。茶马古道源于古代西南边疆的茶马互市，兴于唐宋，盛于明清，二战中后期，最为兴盛。"
+  },
+  {
+   "cn": "马市",
+   "en": "Horse Market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0324",
+   "subjectFullName": "民族学与文化学_民族史_民族经济与地理",
+   "subjectName": "民族经济与地理",
+   "publishYear": "2025",
+   "definition": "中国历代王朝以金帛茶盐等与少数民族交换马匹的市场，一般设于边关。"
+  },
+  {
+   "cn": "赛马",
+   "en": "horse racing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0435",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人骑乘马匹或驾驭马车进行快跑比赛的运动，是中国蒙古族、藏族、回族、维吾尔族、哈萨克族、满族、水族、苗族、达斡尔族等少数民族喜爱的传统体育项目。多在盛大传统节日里进行，如蒙古族的那达慕大会等。"
+  },
+  {
+   "cn": "茶马互市",
+   "en": "tea-horse trade market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0171",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国古代西北部少数民族用马匹等牲畜和畜产品与内地换取茶叶、布匹、铁器等的贸易活动。始于唐代，盛于宋、明、清，长达千余年。"
+  },
+  {
+   "cn": "生长发育调查与评价",
+   "en": "growth and development investigation and appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用科学的方法对个体或群体儿童少年的生长发育状况进行观察、测量、分析和评价的过程。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "消杀",
+   "en": "disinfection and pesticide",
+   "source": "消毒学",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "全称消毒与杀虫，杀灭与清除有害微生物或媒介生物的处理。"
+  },
+  {
+   "cn": "检测与评价",
+   "en": "testing and evaluation",
+   "source": "消毒学",
+   "wordNumber": "6",
+   "subjectFullName": "消毒学_检测与评价",
+   "subjectName": "检测与评价",
+   "publishYear": "2025",
+   "definition": "利用物理、化学、微生物和动物实验的方法，将生产、科研、生活等各方面的有关信息通过检查与测量的方法，赋予定性或定量结果并判定是否合格的过程。"
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling and analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "采集有代表性的环境介质样品用物理或化学的方法进行分离、浓集、用适当的计数装置或谱仪测定其放射性活度的操作过程。"
+  },
+  {
+   "cn": "监督核查",
+   "en": "inspection and verification",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "卫生行政部门依法对可能产生职业病危害的建设项目的验收活动和验收结果进行的核查。"
+  },
+  {
+   "cn": "士大夫",
+   "en": "literati and officialdom",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "在中国古代封建制度下介乎庶人与卿大夫之间的一个阶级。其中一种是帮助卿大夫佐治政事的有官禄的小吏，另一种是无官禄的“士民”，与农工商同列“四民”。封建解体后，士阶层兴起，成为秦以后中国文化和知识主要担纲"
+  },
+  {
+   "cn": "公共与私人",
+   "en": "public and private",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义者进行社会批判的一个重要切入点，认为所谓男人与社会、政治、文化等公共领域相关而女人与家庭、情感、身体等私人领域相关的二元思维模式奠定了两性之间的等级制基础和性别统治的合理性。消除性别不平等"
+  },
+  {
+   "cn": "共同体与社会",
+   "en": "Gemeinschaft and Gesellschaft",
+   "source": "社会学名词",
+   "wordNumber": "3.4.1.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "德国社会学家滕尼斯(Ferdinand Tὂnnies）提出的两个概念。分别指人类的两种聚合形态以及与之相联的思维与行为方式。"
+  },
+  {
+   "cn": "狩猎—采集社会",
+   "en": "hunting and gathering",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.7",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "以采集生活地域上的植物、猎捕动物的办法获取食物的社会。据考证大约始于1万年前，是人类早期的生产与生活方式。随着农业与游牧的技术扩张与稳定逐渐走入绝境。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "分析和综合",
+   "en": "analysis and synthesis",
+   "source": "马克思主义",
+   "wordNumber": "01.0042",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "统一的辩证思维过程的两个不同方面和不同方法。分析是深入对象内部，对其各个部分、方面、因素和层次及发展阶段分别加以考察，以找出对象的各个方面和发展阶段的本质特征的思维过程；综合是在分析基础上，将分析揭示"
+  },
+  {
+   "cn": "个别与一般",
+   "en": "generality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0044",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "辩证法的一对范畴。个别，指单一事物的个体性、独特性，使事物彼此区别；一般，指一类事物或一切事物普遍具有的共性和本质。二者是辩证的统一。一般不能脱离个别而存在，个别总是同一般相联结，一般比个别深刻，个别"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  },
+  {
+   "cn": "普遍性与特殊性",
+   "en": "universality and particularity",
+   "source": "马克思主义",
+   "wordNumber": "01.0048",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "普遍性与特殊性的关系是共性与个性、一般与个别的关系，它们之间相互包含又相互转化。普遍性寓于矛盾的特殊性之中，并通过特殊性表现；任何普遍性都不能包括全部特殊性，特殊性比普遍性丰富、具体；二者的区分是相对"
+  },
+  {
+   "cn": "原因与结果",
+   "en": "cause and effect",
+   "source": "马克思主义",
+   "wordNumber": "01.0049",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原因是引起某种现象的现象，结果是被某种现象所引起的现象。原因与结果在一定条件下可以互相转化。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

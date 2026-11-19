@@ -1,0 +1,782 @@
+{
+ "key": "moderation in use",
+ "term": "Moderation in Use",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:26:23+00:00",
+ "status": "ok",
+ "note": "variant=Moderation in Use; 审定公布名词库=5677; 海峡两岸名词对照库=1134; 其他来源数据库=614; 预公布名词数据库=712; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "中度酒精使用障碍",
+   "en": "moderate alcohol use disorder",
+   "source": "肝病学名词",
+   "wordNumber": "4.2.2.1.3.3",
+   "subjectFullName": "肝病学_脂肪性肝病_酒精性肝病",
+   "subjectName": "酒精性肝病",
+   "publishYear": "2024",
+   "definition": "中等的酒精使用障碍严重程度分级。一般 指符合酒精使用障碍诊断标准11个条目中的4～5个。"
+  },
+  {
+   "cn": "使用质量",
+   "en": "quality in use",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0459",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "基于用户观点所看到的软件产品在用于指定的使用环境和条件时的质量。包括软件产品在特定环境中能达到的有效性、可靠性和安全性等。"
+  },
+  {
+   "cn": "在用车",
+   "en": "in-use vehicle",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.1025",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_试验和标准",
+   "subjectName": "试验和标准",
+   "publishYear": "2013",
+   "definition": "已投入使用的汽车。在我国系指已经取得牌照的汽车。"
+  },
+  {
+   "cn": "在用车",
+   "en": "in-use vehicle",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "01.002",
+   "subjectFullName": "机械工程_汽车_一般名词_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "已投入使用的汽车。在我国系指已经取得牌照的汽车。"
+  },
+  {
+   "cn": "在用汽车",
+   "en": "vehicle in use",
+   "source": "公路交通科技名词",
+   "wordNumber": "05.054",
+   "subjectFullName": "公路交通科学技术_汽车运用工程",
+   "subjectName": "汽车运用工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "电力名词",
+   "wordNumber": "17.062",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "热中子堆内用以降低快中子能量的材料。对其主要要求是:慢化能力强、中子吸收弱、与冷却剂和燃料棒包壳以及其他结构材料的相容性好、热和辐照稳定性好、易获取、价格便宜等。常用慢化剂材料有水、重水、石墨和铍等。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "物理学名词",
+   "wordNumber": "09.0610",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "会议监管人",
+   "en": "moderator",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0776",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "在计算机会议中，对提交的文章可以做出接收、修改或拒绝接收决定的人。"
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.364",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "反应堆中用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。通常选用石墨、重水、轻水和铍作为反应堆的慢化剂材料。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "林学名词",
+   "wordNumber": "02.200",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "粗腐殖质和细腐殖质的过渡类型。森林土壤表层同时具有未分解和细碎半分解的凋落物层的腐殖质组型。"
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "土壤学名词",
+   "wordNumber": "02.498",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "弱腐殖化的植物残体。"
+  },
+  {
+   "cn": "小儿中度烧伤",
+   "en": "pediatric moderate burn,moderate burn in children",
+   "source": "烧伤学名词",
+   "wordNumber": "04.131",
+   "subjectFullName": "烧伤学_特殊类型烧伤_小儿及老年烧伤",
+   "subjectName": "小儿及老年烧伤",
+   "publishYear": "2019",
+   "definition": "总面积在 5%~15%的Ⅱ度或 5%以下的Ⅲ度小儿烧伤。"
+  },
+  {
+   "cn": "土地使用权",
+   "en": "right in land use",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.047",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "民事主体依法取得土地的实际经营和利用权。它是我国土地使用制度在法律上的体现，是土地使用者依法对土地享有占有、使用和部分的收益和处分的权利。"
+  },
+  {
+   "cn": "草原使用权",
+   "en": "right in grassland use",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.077",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "集体或者个人依法享有对草原资源的经营、使用和收益的权利。依照《草原法》规定，集体或者个人可以承包使用国家和集体所有的草原。草原使用权由县级政府登记造册，核发草原使用证。"
+  },
+  {
+   "cn": "河道内用水",
+   "en": "in-stream water use",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.103",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "为维护生态环境和水力发电、航运等生产活动，要求河流、水库、湖泊保持一定的流量或水位所需的水量。"
+  },
+  {
+   "cn": "水下抓斗",
+   "en": "grab used in water",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "01.0125",
+   "subjectFullName": "机械工程_物料搬运机械_起重机械_机构和零部件",
+   "subjectName": "机构和零部件",
+   "publishYear": "2013",
+   "definition": "用于水中抓取物料的抓斗。"
+  },
+  {
+   "cn": "违章用电",
+   "en": "transgression in using electricity",
+   "source": "电力名词",
+   "wordNumber": "23.128",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "危害供用电安全,扰乱供用电秩序的用电行为。"
+  },
+  {
+   "cn": "使用",
+   "en": "use",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们根据器物的性能和用途，不损毁其形式或者不变更其性质，利用它实现其目的的过程。"
+  },
+  {
+   "cn": "利用",
+   "en": "use",
+   "source": "行为医学名词",
+   "wordNumber": "2.097",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "（1）使事物或人发挥作用。（2）使人或事物为自己服务，发挥效用。"
+  },
+  {
+   "cn": "使用",
+   "en": "use",
+   "source": "运动医学名词",
+   "wordNumber": "09.044",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "通过任何方式利用、应用、摄取、注射或消费任何禁用物质或禁用方法的行为。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderator",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "仲裁员",
+   "en": "moderator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半腐殖质",
+   "en": "moder",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调节效果",
+   "en": "moderation effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "节制索",
+   "en": "moderator band",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "慢化剂材料",
+   "en": "moderator materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "4级风，和风",
+   "en": "moderate breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中雨",
+   "en": "moderate rain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有仲裁的新闻组",
+   "en": "moderated newsgroup",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中度衰落",
+   "en": "moderate fading",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轻雾",
+   "en": "moderate fog",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中能见度（6级）",
+   "en": "visibility moderate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中涌",
+   "en": "moderate swell",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有效的",
+   "en": "useful",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有用的",
+   "en": "useful",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "判定使用",
+   "en": "predicate use\",\"p-use",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冬干温和[气候]",
+   "en": "winter dry moderate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冬温气候类",
+   "en": "winter moderate climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中浪",
+   "en": "moderate sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4级风",
+   "en": "moderate breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非法使用",
+   "en": "illegal use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "许可使用",
+   "en": "licensed use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特许使用",
+   "en": "franchised use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可感知有用性",
+   "en": "perceived usefulness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "把握好防疫管控的度",
+   "en": "Moderation is required in epidemic prevention and control.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成小康社会",
+   "en": "building a moderately prosperous society in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "使用价值",
+   "en": "value of use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "使用权共享",
+   "en": "use right sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "城乡用地增减挂钩",
+   "en": "linking the increase in land used for urban construction with the decrease in land used for rural construction",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成小康社会新的目标要求",
+   "en": "the goal of building a moderately prosperous society in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用价值",
+   "en": "use value of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "慢化剂",
+   "en": "moderator",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.4.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_中子辐射探测原理",
+   "subjectName": "中子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "用于降低中子能量的材料。高能中子通过与慢化剂原子核发生散射作用使其慢化，而无明显的中子俘获吸收。对反应堆，通常选用石墨、重水、轻水和铍作为该材料。"
+  },
+  {
+   "cn": "温和派",
+   "en": "moderates",
+   "source": "马克思主义",
+   "wordNumber": "04.0337",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初，俄国社会民主工党内出现的一个政治派别。1903年俄国社会民主工党第二次代表大会后，党内分裂为两派，一派以列宁为代表，称为布尔什维克，另一派以马尔托夫为代表，称孟什维克，孟什维克自称“温和派"
+  },
+  {
+   "cn": "中子慢化",
+   "en": "neutron moderation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.32",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与介质原子核碰撞，引起中子能量减少而减速的现象。是热中子反应堆内中子运动的基本过程之一。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderating variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "能够改变自变量对因变量的影响的变量。"
+  },
+  {
+   "cn": "中等毒",
+   "en": "moderately toxic",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.9.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "50mg/kg<经口LD50≤500mg/kg。"
+  },
+  {
+   "cn": "中度近视",
+   "en": "moderate myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "屈光度（等效球镜）>-6.00D 且≤-3.00D的近视程度。"
+  },
+  {
+   "cn": "使用中消毒剂监测",
+   "en": "monitoring of disinfectants in use",
+   "source": "消毒学",
+   "wordNumber": "4.6.25.8",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对医疗机构内使用中的消毒剂的有效浓度、微生物指标进行检测，以评价其是否达到相关要求的活动。"
+  },
+  {
+   "cn": "小康社会",
+   "en": "moderately prosperous society",
+   "source": "马克思主义",
+   "wordNumber": "03.0604",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末80年代初，邓小平在规划中国经济社会发展蓝图时提出“小康社会”的战略构想。“小康”是一个具有中国特色的概念，“小康社会”是介于温饱与富裕之间的一个特定发展阶段。"
+  },
+  {
+   "cn": "使用因子",
+   "en": "use factor",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.28",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "放射防护屏蔽计算中的一个因子，指辐射源入射到某一屏蔽墙的时间占辐射源总照射时间的份额。"
+  },
+  {
+   "cn": "使用价值",
+   "en": "use value",
+   "source": "马克思主义",
+   "wordNumber": "02.0032",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "对人类生存和发展有用的自然物品或人造物品，是构成财富的物质内容，也用来表示物和人之间的自然关系。使用价值是价值的物质承担者。"
+  },
+  {
+   "cn": "烟草使用",
+   "en": "tobacco use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "吸烟者抽吸、吸吮、咀嚼或鼻吸各类烟草制品的行为，烟草制品包括卷烟、雪茄烟、吸用烟丝和无烟气烟草制品。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "有用射束",
+   "en": "useful beam",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "由准直器限定的直接用于照射或测量目的的辐射束。"
+  },
+  {
+   "cn": "有用劳动",
+   "en": "useful labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0048",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "满足一定社会需要的有目的的生产使用价值的具体活动。"
+  },
+  {
+   "cn": "全面建设小康社会",
+   "en": "build a moderately prosperous society in all aspects",
+   "source": "马克思主义",
+   "wordNumber": "03.0642",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党第十六次全国代表大会提出的21世纪前二十年中国社会的发展目标。即“全面建设惠及十几亿人口的更高水平的小康社会，使经济更加发展、民主更加健全、科教更加进步、文化更加繁荣、社会更加和谐、人民生活"
+  },
+  {
+   "cn": "中等强度身体活动",
+   "en": "moderate-intensity physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "代谢当量在3～6左右的体力活动，包括快速健步走、骑自行车、打球、游泳、跳舞、扫地、拖地、搬运和割草等。"
+  },
+  {
+   "cn": "中等强度持续运动",
+   "en": "moderate intensity continuous training",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "40-59%储备心率、46-63%最大摄氧量或64-76%最大心率的运动强度下进行的长时间持续运动。是有氧运动的一种。"
+  },
+  {
+   "cn": "5岁以下儿童中重度贫血患病率",
+   "en": "prevalence of moderate or severe anemia in children under 5",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区6~59月龄儿童中重度贫血患病人数，与6~59月龄儿童血红蛋白检测人数之比。中重度贫血诊断标准为血红蛋白含量小于90克/升。"
+  },
+  {
+   "cn": "注射吸毒",
+   "en": "injection drug use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过注射给药的方式使用毒品的行为。"
+  },
+  {
+   "cn": "食品添加剂超限量使用",
+   "en": "food additive use exceeded maximum use level",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许的特定食品中超出使用限量添加食品添加剂"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

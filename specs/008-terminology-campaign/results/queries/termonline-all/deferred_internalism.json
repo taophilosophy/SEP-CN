@@ -1,0 +1,752 @@
+{
+ "key": "deferred internalism",
+ "term": "deferred internalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:27:25+00:00",
+ "status": "ok",
+ "note": "variant=deferred internalism; 审定公布名词库=1543; 海峡两岸名词对照库=807; 其他来源数据库=181; 预公布名词数据库=121; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "均轮",
+   "en": "deferent",
+   "source": "天文学名词",
+   "wordNumber": "05.180",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "古希腊天文学家阿波罗尼提出的用来解释地心体系的一种假想圆圈。本轮中心沿均轮绕地球运转。"
+  },
+  {
+   "cn": "第4类非计划停运",
+   "en": "deferred outage",
+   "source": "电力名词",
+   "wordNumber": "10.461",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "可以延迟至72h以后停运,但需在下一次计划停运前从可用状态退出的一种停运状态。"
+  },
+  {
+   "cn": "延期处理",
+   "en": "deferred processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0305",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种任务处理方式，事件或中断发生之后，不立即执行相应的处理程序，而是等到合适的时机才执行。"
+  },
+  {
+   "cn": "延迟着色",
+   "en": "deferred shading",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0754",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "为了降低着色过程的复杂度和增加绘制结果可控性，延迟着色算法将着色任务细分为多个子任务，将它们的结果缓存起来，用于最后的着色。"
+  },
+  {
+   "cn": "延期约束",
+   "en": "deferred constraint",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0216",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "将约束条件检查延期到一个特定事务（例如转账事务）提交时的一种约束。"
+  },
+  {
+   "cn": "递延年金",
+   "en": "deferred annuity",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0485",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "最初若干期没有收付款项的情况下，后面若干期等额的系列收付款项。"
+  },
+  {
+   "cn": "递延收益",
+   "en": "deferred income",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0195",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "企业确认的应在以后期间计入当期损益的尚未实现的收益。"
+  },
+  {
+   "cn": "延迟模仿",
+   "en": "deferred imitation",
+   "source": "心理学名词",
+   "wordNumber": "06.058",
+   "subjectFullName": "心理学_发展心理学",
+   "subjectName": "发展心理学",
+   "publishYear": "2014",
+   "definition": "在感知到被模仿者的某行为后经过一段时间的间隔才重复出现该行为的现象。"
+  },
+  {
+   "cn": "输精管",
+   "en": "deferent duct",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0730",
+   "subjectFullName": "人体解剖学_内脏学_泌尿生殖系统、乳腺与会阴",
+   "subjectName": "泌尿生殖系统、乳腺与会阴",
+   "publishYear": "2014",
+   "definition": "一条长约50cm的肌性管道，是附睾管的远端延续，将精液运送到射精管中。"
+  },
+  {
+   "cn": "推迟测量原理",
+   "en": "deferred measurement principle",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0035",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "对于一个用量子电路来描述的量子计算过程，中间的测量步骤总可以找到一种等价的方式移到线路的末端，而不影响测量结果的概率分布。如果中间过程中的测量结果被用于该电路的某些阶段，则在推迟测量操作的时候，经典的"
+  },
+  {
+   "cn": "延期薪酬计划",
+   "en": "deferred compensation program",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0726",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_薪酬管理",
+   "subjectName": "薪酬管理",
+   "publishYear": "2016",
+   "definition": "在开始支付低于其所值的工资，而在工作末期支付高于其所值的工资的安排。"
+  },
+  {
+   "cn": "递延所得税负债",
+   "en": "deferred tax liabilities",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据应纳税暂时性差异金额确认的负债。"
+  },
+  {
+   "cn": "递延所得税资产",
+   "en": "deferred tax assets",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0160",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据可抵扣暂时性差异金额确认的资产。"
+  },
+  {
+   "cn": "延迟约价期权",
+   "en": "deferred strike option",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0575",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "执行价格不是在交易开始时便确定，而是留待以后某个特定的时点，由购买方按届时基础资产的市价及双方预先商定的方式来确定执行价格的期权。"
+  },
+  {
+   "cn": "输精管探查术",
+   "en": "deferent duct exploration",
+   "source": "泌尿外科学名词",
+   "wordNumber": "11.279",
+   "subjectFullName": "泌尿外科学_泌尿、男性生殖系统手术",
+   "subjectName": "泌尿、男性生殖系统手术",
+   "publishYear": "2014",
+   "definition": "为鉴别梗阻性无精子症和睾丸生精功能障碍，确定梗阻部位、范围及梗阻原因而对输精管进行的探查手术。"
+  },
+  {
+   "cn": "输精管壶腹",
+   "en": "ampulla of deferent duct",
+   "source": "生殖医学名词",
+   "wordNumber": "2.209",
+   "subjectFullName": "生殖医学_生殖系统解剖_男性生殖系统解剖",
+   "subjectName": "男性生殖系统解剖",
+   "publishYear": "2022",
+   "definition": "两侧输精管走行至膀胱底的后面时逐渐接近并膨大的部分。其下端变细，与精囊的排出管会合成射精管。"
+  },
+  {
+   "cn": "输精管壶腹",
+   "en": "ampulla of deferent duct",
+   "source": "人体解剖学名词",
+   "wordNumber": "03.0731",
+   "subjectFullName": "人体解剖学_内脏学_泌尿生殖系统、乳腺与会阴",
+   "subjectName": "泌尿生殖系统、乳腺与会阴",
+   "publishYear": "2014",
+   "definition": "输精管走行在膀胱后面、管腔扩大的部分。"
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "04.0264",
+   "subjectFullName": "化工（三）_化学反应工程",
+   "subjectName": "化学反应工程",
+   "publishYear": "2019",
+   "definition": "流化床反应器等化工设备内安装的挡板（如横向挡板、纵向挡板、波纹挡板和其他构件）的总称。"
+  },
+  {
+   "cn": "内[部]构件",
+   "en": "internals",
+   "source": "化学工程名词",
+   "wordNumber": "04.275",
+   "subjectFullName": "化学工程_化学反应工程_反应器",
+   "subjectName": "反应器",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "8.0132",
+   "subjectFullName": "生物化学与分子生物学_生物膜与信号转导_生物膜_膜运输与膜转运",
+   "subjectName": "膜运输与膜转运",
+   "publishYear": "2024",
+   "definition": "细胞通过胞吞将某种外界大分子物质（液体和颗粒）摄入细胞或机体的过程。常由受体介导并经历膜融合与分裂等一系列步骤，形成内体和次级溶酶体。"
+  },
+  {
+   "cn": "均轮",
+   "en": "deferent",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "推迟",
+   "en": "deference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延迟模仿",
+   "en": "deferred imitation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "递延债券",
+   "en": "deferred bond",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "延期付款",
+   "en": "deferred payment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "延期交货",
+   "en": "deferred delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "延期处理",
+   "en": "deferred processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延付即期信用证",
+   "en": "deferred sight credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "延期回扣制",
+   "en": "deferred rebate system",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "输精管遗迹",
+   "en": "vestigial deferent duct",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "递延期限，延期期限",
+   "en": "term of deferment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内［部］构件",
+   "en": "internals",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内控者",
+   "en": "internals",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内[的]",
+   "en": "internal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "延期付款方式出口",
+   "en": "export on deferred payment basis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "塔内件",
+   "en": "column internals",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "缓缴税款",
+   "en": "deferment of taxes",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社保延缴",
+   "en": "(to allow) deferred social security contributions  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "内部创业",
+   "en": "internal entrepreneurship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准",
+   "en": "International Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际仲裁委员会",
+   "en": "international jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际级",
+   "en": "international class",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际劳工组织",
+   "en": "International Labour Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际海事组织",
+   "en": "International Maritime Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际电信联盟",
+   "en": "International Telecommunication Union",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际开发协会",
+   "en": "International Development Association",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际货币基金 组织",
+   "en": "International Monetary Fund",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际奥林匹克 委员会",
+   "en": "International Olympic Committee",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际能源署",
+   "en": "International Energy Agency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四个服从",
+   "en": "Four Principles of Deference",
+   "source": "马克思主义",
+   "wordNumber": "03.0812",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党员个人服从党的组织，少数服从多数，下级组织服从上级组织，全党各个组织和全体党员服从党的全国代表大会和中央委员会。"
+  },
+  {
+   "cn": "内化",
+   "en": "internalization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "个体经过一定形式的学习，将某些社会意识、道德规范等观念体系转化为个体心理结构的过程。是个体对外界文化的一种适应过程。法国社会学家涂尔干(Emile Durkheim)最早提出，指社会意识向个体意识的转"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "国际标准",
+   "en": "international standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）制定的标准，以及国际标准化组织确认并公布的其他国际组织制定的标准。"
+  },
+  {
+   "cn": "内在效度",
+   "en": "internal validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.81",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者从某一经验研究的结果中进行因果推论的信心。"
+  },
+  {
+   "cn": "内在本质",
+   "en": "internal essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0063",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在表现”相对。事物因内部矛盾的决定作用在发生、发展、变化过程中所表现的内部联系性和客观形式。"
+  },
+  {
+   "cn": "内在联系",
+   "en": "internal connection",
+   "source": "马克思主义",
+   "wordNumber": "01.0075",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“外在联系”相对。是事物之间存在固有的、本质的、必然性的关联，对事物性质具有决定作用。"
+  },
+  {
+   "cn": "内在对立",
+   "en": "internal opposition",
+   "source": "马克思主义",
+   "wordNumber": "01.0085",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "处于同一体中的矛盾双方相互排斥、相互反对、相互否定的属性。它体现着矛盾双方相互分离的趋势。"
+  },
+  {
+   "cn": "国际价值",
+   "en": "international value",
+   "source": "马克思主义",
+   "wordNumber": "02.0286",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "世界市场上商品的价格以国际价值为基础。商品的国际价值本质上也是无差别的人类劳动的凝结，商品的国际价值量是由世界范围的平均必要劳动决定的。"
+  },
+  {
+   "cn": "第一国际",
+   "en": "First International",
+   "source": "马克思主义",
+   "wordNumber": "04.0398",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "第一个无产阶级国际联合组织。1964年9月28日,为了抗议沙皇俄国对波兰人民起义的血腥镇压,英、法、德、意、波兰等国工人代表在伦敦圣马丁会堂举行国际工人会议，马克思应邀出席会议。第一国际当时的名称是国"
+  },
+  {
+   "cn": "第二国际",
+   "en": "Second International",
+   "source": "马克思主义",
+   "wordNumber": "04.0401",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "继第一国际之后建立的第二个世界无产阶级国际组织，是在19世纪80年代工人运动新高涨、马克思主义广泛传播和各国无产阶级政党普遍建立的形势下于1889年在巴黎建立的。第二国际成立初期与各国党内和国际内的无"
+  },
+  {
+   "cn": "第三国际",
+   "en": "Third International",
+   "source": "马克思主义",
+   "wordNumber": "04.0414",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战后出现了新的国际形势，需要建立一个新的国际来领导无产阶级革命。1919年3月2—6日，共产国际（第三国际）在莫斯科举行了第一次代表（成立）大会，大会通过了列宁起草的《共产国际宣言》、《共"
+  },
+  {
+   "cn": "第二半国际",
+   "en": "TwoandaHalf International",
+   "source": "马克思主义",
+   "wordNumber": "04.0416",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1919年伯尔尼国际和第三国际相继成立，未加入上述两个国际组织的英国独立工党、法国社会党、德国独立社会民主党等13个“中派”政党和集团于1921年2月22—27日在奥地利首都维也纳召开了国际社会党代表"
+  },
+  {
+   "cn": "第四国际",
+   "en": "Fourth international",
+   "source": "马克思主义",
+   "wordNumber": "04.0423",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1938年9月在列夫·托洛茨基亲自筹划下建立的托派国际性联合组织。主张实行“不断革命”和“世界革命”，建立“世界社会主义联邦”。“二战”期间曾遭受镇压，面临瓦解。20世纪60年代末70年代初达到鼎盛时"
+  },
+  {
+   "cn": "伯尔尼国际",
+   "en": "Berne International",
+   "source": "马克思主义",
+   "wordNumber": "04.0424",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在第一次世界大战中破产了的第二国际各国社会民主党右翼，于1919年2月3—10日在瑞士伯尔尼召开国际代表会议，会议作出了恢复第二国际的决议，通过了支持国际联盟的决议和反对无产阶级专政的决议。这个复活了"
+  },
+  {
+   "cn": "社会党国际",
+   "en": "Socialist International",
+   "source": "马克思主义",
+   "wordNumber": "04.0441",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "世界工党、社会党和社会民主党的国际联合组织。1951年6月30日在法兰克福召开第一次代表大会，宣告成立。大会通过纲领性宣言《民主社会主义的目标与任务》，宗旨是“加强成员党之间的联系，通过协商方式求得政"
+  },
+  {
+   "cn": "情境主义国际",
+   "en": "situationist international",
+   "source": "马克思主义",
+   "wordNumber": "05.0101",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪中后期欧洲一个社会文化的重要思潮，主张发动日常生活的革命来取代资本主义的景观社会，直接影响着消费社会理论与后现代主义激进哲学。代表人物有居伊·德波与鲁尔·瓦纳格姆。"
+  },
+  {
+   "cn": "关节内紊乱",
+   "en": "internal derangement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.11",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "关节局部疼痛、弹响、功能失调的病理现象。"
+  },
+  {
+   "cn": "内部审计",
+   "en": "internal audit",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.3",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "与“外部审计”相对，由医疗机构单位内部的独立机构和人员对本单位的财政财务收支等经济活动进行的事前和事后的审查和评价。"
+  },
+  {
+   "cn": "内部评价",
+   "en": "internal evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.2.4.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由系统或组织内部实施的评估活动，以获得可信和实用的证据，为计划改进、政策实施和决策提供支撑，并影响组织的学习和决策行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

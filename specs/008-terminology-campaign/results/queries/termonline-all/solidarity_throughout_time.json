@@ -1,0 +1,812 @@
+{
+ "key": "solidarity throughout time",
+ "term": "solidarity throughout time",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:30:16+00:00",
+ "status": "ok",
+ "note": "variant=solidarity throughout time; 审定公布名词库=3296; 海峡两岸名词对照库=1220; 其他来源数据库=284; 预公布名词数据库=90; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "团结",
+   "en": "solidarity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.216",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "人与人、人与群体以及群体与群体之间的联结关系。既可以建立在共有感情体验、共有道德情操和共有理想信念之上，也可以建立在因为生活需要、功能依赖而形成的相互依存关系之上。"
+  },
+  {
+   "cn": "团结工会",
+   "en": "Solidarity",
+   "source": "世界历史名词",
+   "wordNumber": "05.0613",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_东欧",
+   "subjectName": "东欧",
+   "publishYear": "2012",
+   "definition": "1980年9月，在波兰格但斯克成立的不接受官方领导的反对派组织。1989年6月取得议会选举胜利，其领导人瓦文萨于1990年12月当选波兰总统。"
+  },
+  {
+   "cn": "同等关系",
+   "en": "solidarity",
+   "source": "语言学名词",
+   "wordNumber": "12.093",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言语交际双方因具有共同点而存在的谐同关系。例如同学、同伴、弟兄之间的关系。"
+  },
+  {
+   "cn": "累积加注量",
+   "en": "accumulated filling throughout",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.201",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.100",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "为面对共同威胁，使群体、社区、国家或潜在的全球社区成为一个共同体的社会关系并采取合理性的集体行动，即支持尽量克服损害少数群体和受歧视群体的福利的行为的原则。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.060",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "描述客观事物变化的历史长度参量。康德、马克思等哲学家揭示，时间属于“主体认知方法”，而非“客体属性”。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "天文学名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "无释义"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "测绘学名词",
+   "wordNumber": "02.741",
+   "subjectFullName": "测绘学_大地测量学与导航定位",
+   "subjectName": "大地测量学与导航定位",
+   "publishYear": "2020",
+   "definition": "事件先后顺序或者持续性的度量。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "物理学名词",
+   "wordNumber": "01.0021",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "天文学名词",
+   "wordNumber": "02.183",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "通过观测确定某一天文现象发生的时刻。"
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "物理学名词",
+   "wordNumber": "01.0027",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "校时",
+   "en": "timing",
+   "source": "物理学名词",
+   "wordNumber": "01.0028",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时间模式",
+   "en": "timing",
+   "source": "生物物理学名词",
+   "wordNumber": "07.057",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "产生神经脉冲或膜电位变化出现的时间点，或一连串神经事件发生的模式。"
+  },
+  {
+   "cn": "定时",
+   "en": "timing",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "(1)以测时装置记录时间的操作。(2)使系统中各部分在时间上同步的操作。"
+  },
+  {
+   "cn": "定时",
+   "en": "timing",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.581",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "校正时",
+   "en": "timing",
+   "source": "船舶工程名词",
+   "wordNumber": "12.263",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "对喷油提前角、进气相位角、排气相位角或起动空气供气相位角等进行调整和测定的工艺操作。"
+  },
+  {
+   "cn": "定时",
+   "en": "timing",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0773",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "保温时间",
+   "en": "holding time,soaking time",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.097",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "工件在恒定温度下保持的时间。"
+  },
+  {
+   "cn": "返回时间",
+   "en": "return time,resetting time",
+   "source": "电力名词",
+   "wordNumber": "05.140",
+   "subjectFullName": "电力_继电保护与自动化",
+   "subjectName": "继电保护与自动化",
+   "publishYear": "2020",
+   "definition": "从输入量(激励量)产生规定变化(此变化将引起继电器返回)的瞬间起至继电器返回的瞬间止的时间间隔。"
+  },
+  {
+   "cn": "更新时间",
+   "en": "updating time,refresh time",
+   "source": "电力名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "从站中的状态变化到它在控制中心或主站被登录之间的时间。"
+  },
+  {
+   "cn": "时值",
+   "en": "time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时刻",
+   "en": "time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "定时，计时",
+   "en": "timing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干时间",
+   "en": "coherence time\",\"decorrelation time",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝固时间",
+   "en": "set time\",\"setting time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "停滞时间",
+   "en": "dead time\",\"detention time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "四四拍子",
+   "en": "common time\",\"perfect time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "时滞",
+   "en": "time lag\",\"time delay",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "运行时间",
+   "en": "run time\",\"running time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "回扫时间",
+   "en": "flyback time\",\"retrace time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节拍",
+   "en": "metre\",\"time",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "世代时间",
+   "en": "generation time",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化时间",
+   "en": "evolutionary time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态时间",
+   "en": "ecological time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "溯祖时间",
+   "en": "coalescence time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "停留时间（=滞留时间）",
+   "en": "residence time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质壁分离时间",
+   "en": "plasmolysis-time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在全社会弘扬真善美",
+   "en": "to promote high moral standards throughout society",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌握时机",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "调整",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会团结",
+   "en": "social solidarity",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "社会中个人与个人、个人与群体、群体与群体之间的相互协调、相互依存的关系状态。与“社会排斥”相对。"
+  },
+  {
+   "cn": "有机团结",
+   "en": "organic solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0521",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与机械团结相对，指建立在社会分工、社会成员异质性基础上的社会结合方式，突出体现在现代工业社会中。有机团结社会的特点是：①分工发达，人们"
+  },
+  {
+   "cn": "机械团结",
+   "en": "mechanical solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0522",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与有机团结相对，指建立在社会成员同质性基础上的社会结合方式，主要体现在不发达社会或初民社会中。机械团结社会的特点是：①个体间同质性较强"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "马克思主义",
+   "wordNumber": "01.0027",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的持续性、顺序性和间隔性，时间具有一维性，即不可逆性。"
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个体在面对不同时间点的收益或损失时，倾向于高估近期收益、低估远期收益的现状，适用于疾病经济负担评估中一些时间跨度长的评估。"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.19",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用辐照的方式进行消毒的作用时间。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  },
+  {
+   "cn": "崩解时间",
+   "en": "disintegration time",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "崩解试验时，固体消毒剂裂碎成细小颗粒且完全溶解所需的时间。"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "死时间",
+   "en": "dead time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，两个相继出现，并能被分辨开的脉冲或电离事件之间的最小时间间隔(τ)。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "时间防护",
+   "en": "time protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "缩短接触电离辐射的时间以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "加载时间",
+   "en": "loading time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.44",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "将阳极输入功率加于X射线管的时间。"
+  },
+  {
+   "cn": "照射时间",
+   "en": "irradiation time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.45",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "照射持续时间，通常是辐射量率超过某一规定水平的时间。"
+  },
+  {
+   "cn": "定时开关",
+   "en": "time switch",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "预置照射时间的一种装置。当照射到达预置时间时给出停止照射的信号并终止照射。"
+  },
+  {
+   "cn": "劳动时间",
+   "en": "labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0193",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "计量生产商品所耗费的劳动量的单位。劳动本身的量则用劳动的持续时间来计量。一定的时间单位，如小时、日是劳动时间的尺度。劳动时间有个别劳动时间和社会必要劳动时间之别。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

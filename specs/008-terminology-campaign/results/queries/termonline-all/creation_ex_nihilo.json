@@ -1,0 +1,692 @@
+{
+ "key": "creation ex nihilo",
+ "term": "creation ex nihilo",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:21:24+00:00",
+ "status": "ok",
+ "note": "variant=creation ex nihilo; 审定公布名词库=2045; 海峡两岸名词对照库=836; 其他来源数据库=38; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "创造",
+   "en": "creation",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.003",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "人们为实现某种目的并使用某种手段而把以前没有的事物创立或者制造出来的过程及其结果。具体包括发明、创建和创作等活动。"
+  },
+  {
+   "cn": "创作",
+   "en": "creation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.016",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "直接产生文学、艺术和科学作品的智力活动。"
+  },
+  {
+   "cn": "产生",
+   "en": "creation",
+   "source": "物理学名词",
+   "wordNumber": "06.0678",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "神创论",
+   "en": "creationism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "相信世界和人类是由神或者上帝创造出来的唯心主义思想观点。认为地球上一切生命，都是上帝或神设计创造的，或某种超自然力量干预产生的。"
+  },
+  {
+   "cn": "神创论",
+   "en": "Creationism",
+   "source": "世界历史名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "认为生物界的所有物种(包括人类)以及天体和大地都是由上帝创造出来的理论。"
+  },
+  {
+   "cn": "贸易创造",
+   "en": "trade creation",
+   "source": "农学名词",
+   "wordNumber": "19.144",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "贸易国之间因降低贸易障碍而扩大的贸易增量。"
+  },
+  {
+   "cn": "科学创造",
+   "en": "scientific creation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.203",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "在科学发现与发明过程中促进人类知识总量增加的创造性实践活动。"
+  },
+  {
+   "cn": "粒子创生",
+   "en": "particle creation",
+   "source": "天文学名词",
+   "wordNumber": "04.403",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "无质量粒子转变为有质量粒子的过程。"
+  },
+  {
+   "cn": "产生算符",
+   "en": "creation operator",
+   "source": "光学名词",
+   "wordNumber": "02.099",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "在场论的二次量子化中产生某个粒子的算符，或由此引申出的具有类似意义的算符。"
+  },
+  {
+   "cn": "贸易创造",
+   "en": "trade creation",
+   "source": "经济学名词",
+   "wordNumber": "13.013",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "由于国际经济一体化组织成员国之间相互取消了关税和与关税具有同等效力的其他措施，它们相互之间贸易规模扩大和福利水平提高。"
+  },
+  {
+   "cn": "产生算符",
+   "en": "creation operator",
+   "source": "物理学名词",
+   "wordNumber": "06.0680",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "文件创建",
+   "en": "file creation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0629",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "一种文件操作。在文件系统中为一个新文件分配所需的文件控制块数据结构和存储空间，并初始化数据结构。"
+  },
+  {
+   "cn": "知识创造",
+   "en": "knowledge creation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0407",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "围绕组织发展战略，在运用现有的先验知识的基础上，获取、消化、分享外部知识，并通过应用新知识实现价值增值的过程。"
+  },
+  {
+   "cn": "知识创造",
+   "en": "knowledge creation",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0407",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人类个体以自己在社会实践中获得的信息资源和前人创造的知识为原料，以大脑为加工和生产中心，运用归纳、综合、抽象和演绎等方法，产生新知识的过程。"
+  },
+  {
+   "cn": "信用创造",
+   "en": "credit creation",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0662",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "商业银行通过吸收活期存款、发放贷款，从而增加银行的资金来源、扩大社会货币供应量的行为。"
+  },
+  {
+   "cn": "建筑创作",
+   "en": "architectural creation",
+   "source": "建筑学名词",
+   "wordNumber": "01.0055",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "对建筑物或其群体的内部与外部的空间形态、空间组织及空间界面的造型，进行开拓性的构思和表达。"
+  },
+  {
+   "cn": "数据库创建",
+   "en": "database creation",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.425",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "完成数据库设计之后，利用数据库管理系统所提供的各种命令和实用程序，在系统中定义数据库的过程。"
+  },
+  {
+   "cn": "《天工开物》",
+   "en": "Heavenly Creations",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "明朝科学家宋应星撰著的世界上第一部关于农业技术和手工业生产技术的综合性著作。"
+  },
+  {
+   "cn": "工厂交货",
+   "en": "ex works,ex factory,ex mill",
+   "source": "航海科技名词",
+   "wordNumber": "11.0305",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "目的港码头交货",
+   "en": "ex quay,ex wharf,ex pier",
+   "source": "航海科技名词",
+   "wordNumber": "11.0312",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "创造论上帝创造的天地",
+   "en": "Creation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电子偶产生",
+   "en": "pair creation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "贸易开拓",
+   "en": "trade creation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生成日期",
+   "en": "creation date",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生成时间",
+   "en": "creation time",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库创建",
+   "en": "database creation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "创建日期",
+   "en": "creation date",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件创建",
+   "en": "file creation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "目的港码头交货",
+   "en": "ex pier\",\"ex wharf\",\"ex quay",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "神创论（=特创论）",
+   "en": "creationism\",\"theory of special creation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "特创论，神创论",
+   "en": "creationism\",\"theory of special creation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "交换局",
+   "en": "exchange\",\"EX",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衍生模式",
+   "en": "ex-type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "场外交易",
+   "en": "ex pit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "工厂交货价格",
+   "en": "ex works",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "机场交货价",
+   "en": "ex aerodrome",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "机上交货价",
+   "en": "ex plane",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "码头交货价",
+   "en": "ex pier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[目的港]船上交货",
+   "en": "ex ship",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[目的港]码头交货价",
+   "en": "ex quay",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值创造",
+   "en": "value creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用创造",
+   "en": "credit creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器创作",
+   "en": "machine creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场景力",
+   "en": "scenario creation capability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络二次创作",
+   "en": "online secondary creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗家三昧",
+   "en": "The Key to Poetic Creation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁想妙得",
+   "en": "Inspirational Creation Based on Association in Thinking",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "造神说",
+   "en": "Creationism",
+   "source": "马克思主义",
+   "wordNumber": "04.0334",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国宗教哲学思潮。产生和传播于1907—1910年斯托雷平时期的社会民主派知识分子中。旨在创立一种没有神的社会主义的“新宗教”。代表人物有卢那察尔斯基、巴扎罗夫等。造神说认为宗教是人类精神所必须的，具"
+  },
+  {
+   "cn": "创世神话",
+   "en": "creation myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0335",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "关于天地开辟、人类和万物起源的神话；是人类幼年时期用幻想的形式对自然、宇宙所作的幼稚解释与描述，反映出古代人对天地宇宙和人类由来的原始观念。这类神话大体可以分为由神来开辟天地、由巨人化生万物和自然演化"
+  },
+  {
+   "cn": "创世史诗",
+   "en": "creation epic",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0341",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以创世神话为基本内容，以天地、万物、人类、社会、文化之起源、演变、发展为内容的史诗。如彝族的《梅葛》、《查姆》、《阿细的先基》和《勒俄特依》，纳西族的《创世纪》，白族的《创世纪》，哈尼族的《十二奴局》"
+  },
+  {
+   "cn": "民族团结进步创建",
+   "en": "Creation of Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0101",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "在中国共产党领导下，由政府主导、各民族群众广泛参与、创造性地推进民族团结和各民族共同进步的社会活动。中国的民族团结进步创建，始于上世纪50 年代吉林省延边朝鲜族自治州的民族团结宣传月活动，现已成为中国"
+  },
+  {
+   "cn": "火葬",
+   "en": "cremation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0267",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，以火焚尸安葬死者，源于灵魂不灭而尸体必毁的宗教信念，或战争和游牧民族流动生活方式的需要。尸体焚烧后的骨灰通常放在坛、缸、瓮、盒等容器中，有的置于或撒在特定的地方。"
+  },
+  {
+   "cn": "火葬",
+   "en": "cremation",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.028",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "依照传统习俗用火焚尸并对骨灰加以处置的丧葬方式。"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "克罗地亚人",
+   "en": "Croatian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0262",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "欧洲现代民族，拥有克罗地亚共和国国籍和公民身份的人们共同体。使用克罗地亚-塞尔维亚语。多信奉天主教，部分人信仰伊斯兰教。"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗体或活化淋巴细胞不仅与其诱生抗原发生特异性结合，也可与其他非诱生抗原中相同或相似的表位发生特异性结合的现象。"
+  },
+  {
+   "cn": "光触媒反应",
+   "en": "photocatalytic reaction",
+   "source": "消毒学",
+   "wordNumber": "2.2.6.3",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在光催化剂作用下进行的化学反应。"
+  },
+  {
+   "cn": "核反应",
+   "en": "nuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.22",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "用粒子轰击原子核引起原子核的状态发生变化或形成新的原子核的过程。"
+  },
+  {
+   "cn": "光核反应",
+   "en": "photonuclear reaction",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.42",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子轰击靶核发生的核反应。均为吸热反应，典型的反应阈能约在10MeV。通常发射中子，是医用加速器防护中常考虑的问题。"
+  },
+  {
+   "cn": "放射反应",
+   "en": "radiation reaction",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "接触射线时间不长（一般几个月到2年），受照剂量不大或短期超剂量照射，机体出现某些无力型神经衰弱症状；自身对照白细胞数增加或减少，或波动幅度较大，分类可有嗜酸性或嗜碱性粒细胞增加，而又无其他原因可寻者，"
+  },
+  {
+   "cn": "危机反应",
+   "en": "crisis reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人处于需要超过寻常的能力才能应对的处境时作出的反应。"
+  },
+  {
+   "cn": "应激反应",
+   "en": "stress reaction",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "机体受到伤害性刺激时，以血液中促肾上腺皮质激素和糖皮质激素水平急剧升高为标志，引起的一系列生理、心理、行为等方面的非特异性适应性全身反应。"
+  },
+  {
+   "cn": "创意阶层",
+   "en": "creative class",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "从事知识密集型工作的社会阶层。由加拿大学者理查德·佛罗里达(Richard Florida）提出，主要涉及创造新理念、新科技、新内容工作的阶层，在后工业城市中是经济发展至关重要的推动力。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "交叉反应",
+   "en": "cross reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.21",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "抗原(或抗体)除与其相应抗体(或抗原)发生特异性反应外，还与其他抗体(或抗原)发生反应的现象。"
+  },
+  {
+   "cn": "阿蒂斯反应",
+   "en": "Arthus reaction",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.2.19",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "即向动物皮下多次注射相同的无毒性抗原，局部可出现炎症细胞浸润，并继发水肿、出血、坏死等剧烈炎症反应。抗原刺激机体产生大量抗体，后续注入的相同抗原由皮下向血管内渗透，而血流中相应抗体向血管外弥散，二者在"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

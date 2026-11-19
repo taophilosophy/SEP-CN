@@ -1,0 +1,682 @@
+{
+ "key": "domain conditions reading",
+ "term": "domain conditions reading",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:32:47+00:00",
+ "status": "ok",
+ "note": "variant=domain conditions reading; 审定公布名词库=4654; 海峡两岸名词对照库=1134; 其他来源数据库=133; 预公布名词数据库=225; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.055",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "文本接收者赋予文本意义的过程。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.001",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "读者从读物中获取信息，并进行加工，产生理解与情感效应的精神活动。"
+  },
+  {
+   "cn": "文章审读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.053",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过对样报样刊的通读，发现编校问题，提升报刊质量的编辑活动。"
+  },
+  {
+   "cn": "读数",
+   "en": "reading",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0046",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理观测技术",
+   "subjectName": "地球物理观测技术",
+   "publishYear": "2022",
+   "definition": "仪表、机器上，由指针或水银柱等指出的刻度的数目。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "一种从书面语言和其他书面符号中获得意义的社会行为、实践过程和心理过程。阅读能提高人们的社会文化素质，加强社会意识，促进思想交流，是促进社会健康发展的一项重要人类活动。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "遗传学名词",
+   "wordNumber": "03.461",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "蛋白质合成时密码子被译码为相应的氨基酸。"
+  },
+  {
+   "cn": "测序片段",
+   "en": "reads",
+   "source": "生物物理学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "高通量测序技术产生的短核苷酸序列。常为几十到数百个碱基。"
+  },
+  {
+   "cn": "读长",
+   "en": "reads",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0132",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "一次测序能够完成的DNA片段的核苷酸数。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0162",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "蛋白质或核酸分子中含有的、与特定功能相关的一些连续的或不连续的氨基酸或核苷酸残基形成的区域。分子结构未知时，根据功能而限定的蛋白质分子的一定区域。如催化区和跨膜区。在细胞膜内由脂质构成的特殊功能脂微区"
+  },
+  {
+   "cn": "结构域",
+   "en": "domain",
+   "source": "畜牧学名词",
+   "wordNumber": "07.438",
+   "subjectFullName": "畜牧学_饲料与营养_营养生理与生化_营养生化",
+   "subjectName": "营养生化",
+   "publishYear": "2020",
+   "definition": "生物大分子中具有特异结构和独立功能的区域。"
+  },
+  {
+   "cn": "畴",
+   "en": "domain",
+   "source": "物理学名词",
+   "wordNumber": "08.1980",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "生物物理学名词",
+   "wordNumber": "02.034",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质结构",
+   "subjectName": "蛋白质结构",
+   "publishYear": "2018",
+   "definition": "蛋白质多肽链内一段类似球形的结构和功能都具有相对独立性的折叠区。介于二级结构与三级结构之间的一个层次，是蛋白质三级结构的基本单位。"
+  },
+  {
+   "cn": "论域",
+   "en": "domain",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0890",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一个完全偏序集。它是代数的，并且它的紧致元素集是可数的。在指称语义中，程序的语义用论域中的元素表示。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0873",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "计算机网络的一部分，其资源和编址被一个特定的管理机构控制，划分方案可以基于地理位置或组织机构。"
+  },
+  {
+   "cn": "场域",
+   "en": "domain",
+   "source": "语言学名词",
+   "wordNumber": "12.099",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "受共同行为规则制约并由一组符合惯例的言语情景构成的活动领域。例如，中国居住在民族自治区域的少数民族在家庭领域内惯用少数民族语言，而在公共服务领域内则用汉语。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "细胞生物学名词",
+   "wordNumber": "02.016",
+   "subjectFullName": "细胞生物学_细胞化学",
+   "subjectName": "细胞化学",
+   "publishYear": "2009",
+   "definition": "多肽链内一段类似球形的结构和功能都具有相对独立性的折叠区。"
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "免疫学名词",
+   "wordNumber": "1.085",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "多肽链内一段类似球形的折叠区。多数结构域具有一定的一级结构和相应功能。"
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "通信科学技术名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "通信科学技术_通信网络",
+   "subjectName": "通信网络",
+   "publishYear": "2007",
+   "definition": "在因特网上，每一网络所涉及的范围。它是域名系统命名层次结构的一部分。例如：“.com(商业机构)”、“.edu(教育机构)”、“.gov(政府部门)”。最高层次的域通常为国名。例如“.cn(中国)”。"
+  },
+  {
+   "cn": "磁畴",
+   "en": "domain",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "10.071",
+   "subjectFullName": "机械工程_仪器仪表_仪器仪表材料_磁性材料(仪器仪表)",
+   "subjectName": "磁性材料(仪器仪表)",
+   "publishYear": "2003",
+   "definition": "磁性材料内自发磁化区域，在该区域内自发磁化强度在大小与方向上基本是均匀的。"
+  },
+  {
+   "cn": "定义域",
+   "en": "domain",
+   "source": "数学名词",
+   "wordNumber": "01.0101",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "读",
+   "en": "read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "领域",
+   "en": "domain",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]域",
+   "en": "domain",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "域",
+   "en": "domain",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性读出",
+   "en": "destructive reading\",\"destructive read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反读",
+   "en": "reverse read\",\"backward read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "免疫球蛋白结构域",
+   "en": "immunoglobulin domain， Ig domain",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "领域工程师",
+   "en": "domain engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户域",
+   "en": "user domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知控制域",
+   "en": "perceptual control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目标对象域",
+   "en": "target object domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资源交换域",
+   "en": "resource exchange domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "症候阅读法",
+   "en": "symptomatic reading",
+   "source": "马克思主义",
+   "wordNumber": "05.0066",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞（Louis Althusser）《读〈资本论〉》依据症候的阅读。依据文本表现出的各种“症候”，包括沉默、缺失、空白和严格性上的疏漏等，来揭示文本的深层结构，这一方法是阿尔都塞从精神分析"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0069",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与日本汉字读音的“训读”相对。指由古代中国直接或间接传入日本的基于汉语的汉字读音。如“木”读“もく”[moku]或“ぼく”[boko]。依汉字传入时间和地点的不同可分为古音、吴音、汉音、新汉音、唐音、"
+  },
+  {
+   "cn": "交叉参照",
+   "en": "read across",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据源化学物质的终点信息预测另一种结构相似的化学物质相同终点信息的方法。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "信息域",
+   "en": "domain of information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.189",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由D. 夏佩尔（D. Shapere）提出。指科学中一系列信息逐渐集合成的领域，具有如下特征：①集合依赖各信息间的内在联系；②信息域蕴含着人们关心的问题；③这些问题是重要的；④科学技术有解决该问题的能"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "anti-physicalism",
+ "term": "anti-physicalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:33:14+00:00",
+ "status": "ok",
+ "note": "variant=anti-physicalism; 审定公布名词库=1216; 海峡两岸名词对照库=407; 其他来源数据库=78; 预公布名词数据库=203; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "物理[学]",
+   "en": "physics",
+   "source": "物理学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "物理学_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "三抗措施",
+   "en": "3-anti-measurement,three-anti-therapy (anti-coagulation,anti-spasm,anti-infection)",
+   "source": "显微外科学名词",
+   "wordNumber": "01.141",
+   "subjectFullName": "显微外科学_总论_麻醉及围手术期处理",
+   "subjectName": "麻醉及围手术期处理",
+   "publishYear": "2016",
+   "definition": "抗凝血、抗血管痉挛和抗感染三者的统称，是显微血管吻合手术后必须处理的三项基本措施。"
+  },
+  {
+   "cn": "防霉",
+   "en": "anti-mildew,anti-mouldiness",
+   "source": "微生物学名词",
+   "wordNumber": "08.088",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "防止霉菌在各种器材或食品上大量生长引发变质的措施。"
+  },
+  {
+   "cn": "[震中]对跖点",
+   "en": "anti-epicenter; anti-center",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1972",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "震中所在地球直径另一端地球表面的对应点。 "
+  },
+  {
+   "cn": "物理归档",
+   "en": "physical filing；physical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.011",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "将电子文件通过网络或者脱机载体保存进电子文件管理系统的归档方式。电子文件的管理权限同步向档案部门移交。"
+  },
+  {
+   "cn": "物理双星",
+   "en": "physical double; physical pair",
+   "source": "天文学名词",
+   "wordNumber": "08.334",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "互绕公共质量中心做周期性轨道运动的两个恒星级天体系统。"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics,ocean physics",
+   "source": "海洋科技名词",
+   "wordNumber": "01.0004",
+   "subjectFullName": "海洋科学技术_总论_一级分支学科名词",
+   "subjectName": "一级分支学科名词",
+   "publishYear": "2007",
+   "definition": "研究海洋的声、光、电、磁学现象及其变化规律的学科。"
+  },
+  {
+   "cn": "震中对跖点",
+   "en": "anti-epicenter",
+   "source": "地质学名词",
+   "wordNumber": "11.02.009",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "与震中相对的、地球另一面的点。"
+  },
+  {
+   "cn": "反倾销",
+   "en": "anti-dumping",
+   "source": "农学名词",
+   "wordNumber": "19.157",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进口国对在本国市场上的倾销行为采取的惩罚措施。"
+  },
+  {
+   "cn": "反补贴",
+   "en": "anti-subsidy",
+   "source": "农学名词",
+   "wordNumber": "19.158",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进口国对因享受国外政府补贴而损害进口国产业的进口商品所采取的惩罚措施。"
+  },
+  {
+   "cn": "反实在论",
+   "en": "anti-realism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.010",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "科学哲学认为不可观测的实体都不真实存在，但通常承认可观察实体真实存在。"
+  },
+  {
+   "cn": "反还原论",
+   "en": "anti-reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "反对还原论的一套理论。认为一个系统中的所有性质并不是都能基于其组成部分及这些部分间的互动来做出说明的，从基础层次来理解系统层次是无效或不可能的。"
+  },
+  {
+   "cn": "反技术主义",
+   "en": "anti-technologicism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.154",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "怀疑和反对技术进步，主张技术是产生社会危机的根源，必须审视技术导致的社会问题，甚至摧毁、根除技术，回到没有技术的前工业社会中的理论。"
+  },
+  {
+   "cn": "反技术统治论",
+   "en": "anti-technocracy",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.159",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "20世纪后期形成的崇尚人本主义，批判崇尚理性、忽视人性的技术统治论。"
+  },
+  {
+   "cn": "抗-抗体",
+   "en": "anti-antibody",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0258",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "能够识别与结合另一种抗体的抗体。通常在注射另一种抗体后产生。"
+  },
+  {
+   "cn": "抗终止作用",
+   "en": "anti-termination",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0252",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "机体内大分子合成中的抑制机制。如转录过程中，某些抗终止因子作用于操纵子内存在的顺反子终止位点，使RNA聚合酶绕过终止位点，继续转录；硒蛋白翻译过程中抗终止作用。"
+  },
+  {
+   "cn": "防结块",
+   "en": "anti-caking",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0175",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "向固体肥料中加入某种物质或应用于固体肥料表面用来防止板结的措施。"
+  },
+  {
+   "cn": "抑癌基因",
+   "en": "anti oncogene",
+   "source": "兽医学名词",
+   "wordNumber": "11.080",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "能够抑制细胞癌基因活性的基因。其功能是抑制细胞周期，阻止细胞数目增多以及促使细胞死亡。"
+  },
+  {
+   "cn": "反硫化",
+   "en": "anti-reversion",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0539",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "硫化橡胶在高温下放置过长后出现的软化现象。硫化工艺中或实际应用时，（一般通过硫键连接的）硫化胶网络结构因承受不起高热而出现的断链（即大分子降解）现象。"
+  },
+  {
+   "cn": "抗起球性",
+   "en": "anti-pilling",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "4.0243",
+   "subjectFullName": "化工（七）_合成纤维_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "织物中的纤维在使用摩擦过程中不易滑出织物表面，并纠缠在一起形成球形颗粒的能力。"
+  },
+  {
+   "cn": "反",
+   "en": "anti",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "anti-bacterial\",\"anti-microbial",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "抗甲状腺球蛋白",
+   "en": "anti-thyroblobulin， anti-TG",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics\",\"ocean physics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "防积冰",
+   "en": "anti-icing",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗卷绕",
+   "en": "anti-windup",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反增塑作用",
+   "en": "anti-plasticization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反符合",
+   "en": "anti-coincidence",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抗降解剂",
+   "en": "anti-degradant",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拒食剂",
+   "en": "anti-feedant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反倾销",
+   "en": "anti-dumping",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "防污",
+   "en": "anti-fouling",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抗污染剂",
+   "en": "anti-pollutant",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反本质论",
+   "en": "anti-essentialism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逆向旅游,逆势观光",
+   "en": "anti-tourism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗-抗体, 第二抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗终止作用",
+   "en": "anti-termination",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反[蓄意]干扰",
+   "en": "anti-jamming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理数据",
+   "en": "physical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体场景",
+   "en": "physical scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "陆上训练",
+   "en": "physical training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体能教练员",
+   "en": "physical trainer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体格发育",
+   "en": "physical development, physical growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "人体外部形态、身体比例和体型等方面随年龄而发生变化的过程。"
+  },
+  {
+   "cn": "防爆",
+   "en": "anti-explosion",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品的生产和存储过程中，有效控制易燃易爆因素，防止爆炸发生的措施。如预防易燃易爆物质的泄露，尽量减少使用电火花的元器件等措施。"
+  },
+  {
+   "cn": "反文化",
+   "en": "anti-culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "一种与主流文化相对立的极端形态的文化。1920年代的“波西米亚”、1950年代的“垮掉青年”、1960年代的“嬉皮士”都是反文化的重要例证。"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "与社会工作专业价值取向相抵触的消极价值取向。其既可存在于社会工作者与案主的关系之中，又可存在于社会工作者与机构的关系之中，还可存在于社会工作者的相互关系之间。从理论形态而言，社会工作的反价值包括操纵和"
+  },
+  {
+   "cn": "抗抗体",
+   "en": "anti-antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.71",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "以抗体为抗原所产生的抗体。"
+  },
+  {
+   "cn": "反欺诈",
+   "en": "anti-fraud",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保险监管机构为保护保险消费者合法权益，维护保险市场秩序，促进保险行业健康发展，对各种欺诈骗保行为进行预防、识别、处理及管控的一系列制度和做法。"
+  },
+  {
+   "cn": "抗SSA/Ro抗体",
+   "en": "anti-SSA antibody, anti-SSA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.11",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSA/Ro是由Ro蛋白与非编码小RNA分子非共价结合的核糖核蛋白。抗SSA抗体在干燥综合征患者的阳性率约为40%-95%，常与腺体外表现相关；是诊断干燥综合征的血清学标志物，"
+  },
+  {
+   "cn": "抗SSB/La抗体",
+   "en": "anti-SSB antibody, anti-SSB",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.12",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "抗核抗体的一种，其靶抗原SSB/La蛋白是一种核糖核蛋白。抗SSB抗体是诊断干燥综合征的血清学标志物，并与腺体外受累密切相关；母源性的抗SSB/La抗体与新生儿狼疮、永久性窦性心动过缓、先天性心脏传导"
+  },
+  {
+   "cn": "抗甲状腺球蛋白抗体",
+   "en": "anti-thyroglobulin antibody,anti-TGAb",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.53",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种自身抗体。主要为IgG类，其与抗TPO抗体均可用于甲状腺炎的鉴别诊断。靶抗原是甲状腺滤泡中腺质的主要成分，为碘贮存及碘化甲状腺激素T3和T4合成所必需。"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用内置或外配记录仪对灭菌器压力、温度等物理参数进行的监测。"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用热、辐射、紫外线、静电等物理因子或过滤方式杀灭或清除有害微生物的消毒处理。"
+  },
+  {
+   "cn": "核物理学",
+   "en": "nuclear physics",
+   "source": "放射卫生学",
+   "wordNumber": "1.8",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "全称“原子核物理学”。研究原子核的相互作用和转化、原子核的组成和结构规律，射线束的获得、探测和分析技术，以及同核能、核技术应用有关的物理问题。是一门既有深刻理论意义又有重大实践意义的学科。"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "保护核材料或授权设施的措施，旨在防止未经授权获取或移除裂变材料或破坏保障措施。"
+  },
+  {
+   "cn": "物理去污",
+   "en": "physical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "利用机械方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "体力劳动",
+   "en": "physical labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0126",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“脑力劳动”相对。以消耗体力为主的劳动，脑力劳动在其中起辅助作用。体力劳动与脑力劳动的分离是历史的产物，随着生产力的发展，体力劳动和脑力劳动的对立差别将逐渐缩小、消除。"
+  },
+  {
+   "cn": "物理治疗",
+   "en": "physical therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "应用力、电、光、声、磁、冷、热、水等方法对疾病进行预防、治疗和康复的方法。是物理医学与康复的一个重要组成部分。通常分运动疗法和物理因子疗法。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "生理自我",
+   "en": "physical self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个人对自己身躯的认识。是自我意识最原始形态。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

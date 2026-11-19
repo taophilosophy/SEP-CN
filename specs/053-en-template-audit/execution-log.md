@@ -52,3 +52,13 @@
 ### 6. 教训
 
 ①**判据迭代须全库复跑**：单件转绿不等于族转绿（caption 修复只影响 1 件；希腊反斜杠影响 ~400）。②**首差窗口取尾段会误导**（前缀/后缀修剪的展示窗口曾把我引向错误族）。③**慢≠死**：首轮全库 ~12 分钟被误判为挂死，加逐件计时后确认为正常耗时；stderr 须 flush（管道缓冲致日志空）。
+
+## 2026-11-19 B3 运营化：EN 互转漂移巡检入 CI（用户“做成 GitHub ci，发现变动时提交变化 issue，每天定时三次”）
+
+**产物**：`.github/workflows/en-roundtrip.yml`（每日三次 UTC 01/09/17）＋`tools/roundtrip_drift.py`（基线差集对比器）。
+
+**语义（本轮裁定）**：B3.1 存已知残差（632/1872），故“变动”一律指**相对已提交基线扫描 `results/assembly-scan-all.json` 的差集**，不是“有失败”：③新残差（基线 ok→今 fail，需人审定四出口）／④转绿（基线 fail→今 ok，基线待更新）／⑤词条增删；另并入①en 钉漂移（divergence verify failures）与②I2 红灯（fidelity --gate）。基线更新仍是人工/本地会话动作（重跑 reassemble --all 并提交）。
+
+**只读原则**（同 catalog-drift，specs/054 §3）：不写 baseline、不改 en//yuanwen/、不提交内容文件；有变动开/更新 issue（`en-roundtrip-drift`；巡检自身失败 `en-roundtrip-broken`），报告与全量扫描入运行工件。
+
+**本地实测**：同件→changed=false；翻转一 ok→fail／一 fail→ok／删一条＋I2 红灯 → changed=true 且四族逐项报出（script/tmp 实测，产物未入库）。登记：`rules/05/ci-workflows.md` 工作流清单新增一行。

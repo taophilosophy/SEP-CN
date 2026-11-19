@@ -1,0 +1,802 @@
+{
+ "key": "unexperienced qualities",
+ "term": "unexperienced qualities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:33:28+00:00",
+ "status": "ok",
+ "note": "variant=unexperienced qualities; 审定公布名词库=878; 海峡两岸名词对照库=183; 其他来源数据库=30; 预公布名词数据库=81; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "农学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "一组固有特性满足要求的程度。"
+  },
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0535",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "一组固有特性满足要求的程度。"
+  },
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.058",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "品质",
+   "en": "quality",
+   "source": "电气工程名词",
+   "wordNumber": "28.001",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "质量认证",
+   "en": "quality authentication,quality certification",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.078",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "国际上通行的管理产品质量的有效方法。分为产品质量认证和质量体系认证两类。"
+  },
+  {
+   "cn": "质量监督",
+   "en": "quality superintendence,quality  surveillance",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1041",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "飞行品质",
+   "en": "flying qualities",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "为使飞机能安全、有效地完成所规定的各飞行阶段的飞行任务，飞机在稳定性和操纵性方面应具备的基本特性。"
+  },
+  {
+   "cn": "耐波性",
+   "en": "seakeeping qualities",
+   "source": "水产名词",
+   "wordNumber": "09.102",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "船舶在风浪中遭受由于外力干扰所产生的各种摇荡运动以及上浪、失速、飞车和波浪弯矩等，仍能维持一定航速在水面上安全航行的性能。"
+  },
+  {
+   "cn": "耐波性",
+   "en": "seakeeping qualities",
+   "source": "船舶工程名词",
+   "wordNumber": "03.314",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "船舶在风浪中的运动性能以及为船上的人员与各种系统、装备提供良好的船体运动环境条件的能力。"
+  },
+  {
+   "cn": "环境质量",
+   "en": "environmental quality",
+   "source": "地质学名词",
+   "wordNumber": "18.01.043",
+   "subjectFullName": "地质学_环境地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "环境要素的优劣程度。能用定性和定量方法加以描述的环境系统所处的状态，是指在一个具体的环境内，环境的总体或环境的某些要素对人类以及社会经济发展的适宜程度。"
+  },
+  {
+   "cn": "地下水质",
+   "en": "groundwater quality",
+   "source": "地质学名词",
+   "wordNumber": "16.04.030",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "地下水的物理、化学和生物性质的总称。"
+  },
+  {
+   "cn": "水体质量",
+   "en": "water quality",
+   "source": "风景园林名词",
+   "wordNumber": "08.1001",
+   "subjectFullName": "风景园林_风景园林工程_环境工程",
+   "subjectName": "环境工程",
+   "publishYear": "2025",
+   "definition": "水体的物理（如色度、浊度、臭味等）、化学（无机物和有机物的含量）和生物（细菌、微生物、浮游生物、底栖生物）的特性及其组成的状况。"
+  },
+  {
+   "cn": "质量评估",
+   "en": "quality evaluation",
+   "source": "风景园林名词",
+   "wordNumber": "03.0223",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "对一个工程的质量进行评价的过程，评估内容包括工程的具体情况、主要设计变更、主要质量控制措施、质量评估的主要依据、工程质量评估以及存在的主要问题等。"
+  },
+  {
+   "cn": "质量目标",
+   "en": "quality objective",
+   "source": "风景园林名词",
+   "wordNumber": "03.0221",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "在工程质量方面所追求的目的。从质量管理学的理论来说，质量目标的理论依据是行为科学和系统理论。"
+  },
+  {
+   "cn": "轧工质量",
+   "en": "preparation quality",
+   "source": "农学名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "加工皮棉的评价指标。包括皮棉的外观形态粗糙程度及所含疵点种类的多少。"
+  },
+  {
+   "cn": "光质",
+   "en": "light quality",
+   "source": "农学名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "太阳辐射光谱成分及其各波段所含的能量。波长较短的光所含的能量较高，波长较长的光所含的能量较低。长日性作物发育需要长波光（红橙光），短日性作物需要短波光（蓝紫光）。"
+  },
+  {
+   "cn": "烟叶品质",
+   "en": "tobacco quality",
+   "source": "农学名词",
+   "wordNumber": "04.160",
+   "subjectFullName": "经济作物_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "烟叶本身固有特性的优劣程度。包括感官、物理和化学品质等，受部位、颜色、成熟度、叶片结构、身份、油分、色度、残伤和破损等因素的影响。"
+  },
+  {
+   "cn": "骨质量",
+   "en": "bone quality",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "04.184",
+   "subjectFullName": "甲状旁腺与代谢性骨病_骨发育异常及代谢性骨病",
+   "subjectName": "骨发育异常及代谢性骨病",
+   "publishYear": "2025",
+   "definition": "骨密度和骨强度的统称。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "风景园林名词",
+   "wordNumber": "03.0222",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "为使人们确信某一物项或服务的质量满足规定要求而必须进行的有计划的系统化的活动。是质量管理的一部分。"
+  },
+  {
+   "cn": "音质",
+   "en": "voice quality",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.2.24",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈生理",
+   "subjectName": "咽喉–头颈生理",
+   "publishYear": "2025",
+   "definition": "声音频谱的知觉特性。"
+  },
+  {
+   "cn": "航海性能",
+   "en": "seagoing qualities",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量",
+   "en": "air quality",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "保证质量",
+   "en": "guaranteed quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量",
+   "en": "environmental quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大气质量",
+   "en": "air quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "进料质量",
+   "en": "feed quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "水质",
+   "en": "water quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "蒸汽品质",
+   "en": "steam quality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质量规格",
+   "en": "quality specification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量",
+   "en": "environmental quality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "立地质量",
+   "en": "site quality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水质",
+   "en": "water quality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量",
+   "en": "environmental quality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "水质",
+   "en": "water quality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质量模型定义",
+   "en": "quality model definition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高质量发展",
+   "en": "high-quality development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据质量评价",
+   "en": "scientific data quality evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GOST R 55387-2012 互联网接入服务质量 质量指标》",
+   "en": "GOST R 55387-2012 Quality of the Internet access service — Quality indices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全球质量溯源体系",
+   "en": "global quality tracking system (GQTS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程器",
+   "en": "Assessment of One's Overall Qualities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提高脱贫质量",
+   "en": "enhancing the quality of poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全国高质量发展样板区",
+   "en": "national pacesetter of high-quality development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情兼雅怨",
+   "en": "A Mixed Quality of Grace and Sorrow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境质量管理公共服务系统",
+   "en": "public service system for environmental quality management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《LY/T 2921-2017 林业数据质量 基本要素》",
+   "en": "LY/T 2921-2017 Forestry data quality — Base elements",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "the Strategy on Developing a Quality Workforce",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "提高救治水平",
+   "en": "to improve the quality of medical treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25000.12-2017 系统与软件工程 系统与软件质量要求和评价（SQuaRE） 第12部分：数据质量模型》",
+   "en": "GB/T 25000.12-2017 Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — Part 12: Data quality model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36344-2018 信息技术 数据质量评价指标》",
+   "en": "GB/T 36344-2018 Information technology — Evaluation indicators for data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足规定的质量要求所采取的技术措施和活动。"
+  },
+  {
+   "cn": "社会质量",
+   "en": "social quality",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "测量公民日常生活是否达到一个社会可接受水准的指标及标准，民众在提升福祉和个人潜能的条件下，能够参与社区经济社会生活的程度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "睡眠质量",
+   "en": "sleep quality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "评定睡眠过程及其效果的综合指标。主要包括睡眠时间、睡眠过程干扰、睡眠效果、对睡眠质量的整体感受等方面。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量管理”。又称“妇幼健康监测质量管理”。确定妇幼卫生监测、服务或项目的质量方针、目标和职责，并通过明确的质量控制和评价方法来实现对服务或流程中涉及效率、效果、绩效、问责、结果和其他"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "食品质量",
+   "en": "food quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品的一组固有特性满足要求的程度。固有特性为顾客合法期望与生产经营者须履行的，如感官和营养等；满足要求为明示的（食品标签和说明书）、隐含的（无缺陷、欺诈和掺假）和必须履行的（法律法规及强制性标准）。"
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.32",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "产品本身具有的满足顾客要求或技术要求的固有特征和特性"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在健康教育/健康促进计划实施的过程中，采用特定的方法和手段对健康教育/健康促进的实施过程进行监督，了解实施过程，保证实施效果等的活动。"
+  },
+  {
+   "cn": "四有新人",
+   "en": "youngsters withfour qualities",
+   "source": "马克思主义",
+   "wordNumber": "03.0524",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年5月邓小平给《中国少年报》和《辅导员》杂志的题词:“希望全国的小朋友，立志做有理想、有道德、有文化、有纪律的人，立志为人民作贡献，为祖国作贡献，为人类作贡献。”“四有”指有理想、有道德、有文"
+  },
+  {
+   "cn": "质量控制人员",
+   "en": "quality control personnel",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事质量控制的人员。"
+  },
+  {
+   "cn": "质量控制人员",
+   "en": "quality control people",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.4",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "经机构授权，从事质量控制的规划、质量管理体系的建立、实施和保持、质量改进和质量评价的专业技术和管理人员。"
+  },
+  {
+   "cn": "质量控制负责人",
+   "en": "quality control manager",
+   "source": "放射卫生学",
+   "wordNumber": "8.5.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射卫生技术服务机构",
+   "subjectName": "放射卫生技术服务机构",
+   "publishYear": "2025",
+   "definition": "由放射卫生技术服务机构任命，负责质量管理体系的建立、实施和维护，并组织对技术服务全过程质量控制和管理的人员。"
+  },
+  {
+   "cn": "素质教育",
+   "en": "quality-oriented education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "注重学生素质的全面发展，不局限于考试成绩优劣，以让学生能发挥个人潜能为目标的教育制度。与“应试教育”相对。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,542 @@
+{
+ "key": "intra-mathematical explanation",
+ "term": "intra-mathematical explanation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:23:22+00:00",
+ "status": "ok",
+ "note": "variant=intra-mathematical explanation; 审定公布名词库=420; 海峡两岸名词对照库=67; 其他来源数据库=23; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.100",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "寻找现象或事件的原因或机制。"
+  },
+  {
+   "cn": "训释",
+   "en": "explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "用语言来表述文献语言意义的工作。根据训释目的不同，可分为声训、形训和义训，根据训释的语言结构方式不同，可分为直训和义界。"
+  },
+  {
+   "cn": "解释",
+   "en": "explanation",
+   "source": "自动化名词",
+   "wordNumber": "05.105",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "结构说明",
+   "en": "structural explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.112",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "利用数学模型来说明物理世界中的特征，它显示被说明项如何反事实地依赖于模型的其他数学元素。"
+  },
+  {
+   "cn": "宏观说明",
+   "en": "macro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.114",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于大尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "微观说明",
+   "en": "micro-explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.115",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "基于小尺度因果机制的科学说明。"
+  },
+  {
+   "cn": "概率说明",
+   "en": "probabilistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.116",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "科学说明的一种方式。它的前提包含适当的初始条件加上统计规律。"
+  },
+  {
+   "cn": "近因说明",
+   "en": "proximate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.456",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当某个有待说明的现象出现时，若科学家的注意力是放在一系列环环相扣的因果链上，从而找出时空上先于并邻接且又造成该现象之发生的原因，此时科学家所给出的说明就是近因说明。"
+  },
+  {
+   "cn": "终极说明",
+   "en": "ultimate explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.457",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "当生物学家想要说明一个有意义的生物学事件、性状或是过程时，他们会把它看成一种适应，是经过随机变化、自然选择之后而有的适应环境的结果，即便生物学家对进化历史中的许多细节仍然不清楚，但他们把这样的适应现象"
+  },
+  {
+   "cn": "机制说明",
+   "en": "mechanistic explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "通过某种方式或途径，对动力系统元素之间的作用的关系及其功能进行描述，分析动力系统的工作原理、相互作用产生的原因以及产生的过程。"
+  },
+  {
+   "cn": "科学解释",
+   "en": "scientific explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.198",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "依据科学理论，对有关的各种经验事实及其内在联系进行解释，从而在整体上把握对象的活动。"
+  },
+  {
+   "cn": "说课",
+   "en": "lesson explanation",
+   "source": "教育学名词",
+   "wordNumber": "02.213",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师对同伴教师解释自己的教学设计的一种教研形式。"
+  },
+  {
+   "cn": "互训",
+   "en": "mutual explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "两个词互相训释的直训。例如“排，挤也”“挤，排也”。"
+  },
+  {
+   "cn": "集解",
+   "en": "assembly explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "语言学_训诂学_训诂体式",
+   "subjectName": "训诂体式",
+   "publishYear": "2011",
+   "definition": "①汇集各家对同一部经典的注释，有时也补充汇集者自己的阐释的训诂体式。其名称有集解、集注等。例如南朝宋代裴骃的《史记集解》、宋代朱熹的《四书集注》。②合经与传注兼而解之的编纂样式。例如晋代杜预的《春秋经"
+  },
+  {
+   "cn": "单训",
+   "en": "unilateral explanation",
+   "source": "语言学名词",
+   "wordNumber": "10.026",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "训释词与被训释词只是单向训释的直训。例如“璐，玉也”。"
+  },
+  {
+   "cn": "专书训释",
+   "en": "explanation compilated",
+   "source": "语言学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "语言学_训诂学_训释",
+   "subjectName": "训释",
+   "publishYear": "2011",
+   "definition": "脱离了典籍原文，按一定原则编排在专书中的训释。例如《说文解字》《方言》等专书中的训释。"
+  },
+  {
+   "cn": "内漂白",
+   "en": "intra-bleach",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "05.122",
+   "subjectFullName": "医学美学与美容医学_美容牙科学",
+   "subjectName": "美容牙科学",
+   "publishYear": "2015",
+   "definition": "将强氧化剂放入牙髓腔使其渗入牙本质小管，并与着色物质结合形成无色物质的牙齿漂白技术。"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学，地图投影学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数理语言学",
+   "en": "mathematical linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学发现",
+   "en": "mathematical discovery",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "说知",
+   "en": "Knowledge from Explanation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解释学习",
+   "en": "explanation-based learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党内民主",
+   "en": "intra-Party democracy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "关节腔注射",
+   "en": "intra-articular injection",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "在无菌技术操作下，用空针刺入关节腔，向关节内注射药物的治疗方法。用于治疗关节疾病。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "问题界定与分析解释",
+   "en": "problem definition, analysis and explanation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "通过对服务对象自身、外部环境以及服务对象的系统进行详细描述，以确定服务对象问题的发生原因与现状，并鉴定服务对象的优势与资源的专业活动。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "性与生殖健康综合咨询框架",
+   "en": "rapport-building, exploration, decision-making and implementing the decision framework",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.1.2.2.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_计划生育服务",
+   "subjectName": "计划生育服务",
+   "publishYear": "2025",
+   "definition": "生殖健康综合咨询的基本模式。包括四个环节：营造和谐的氛围，了解服务对象的个性化需求，让对象做出自主、自愿和可行的决定，以及制订执行决定具体执行计划。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

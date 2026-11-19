@@ -1,0 +1,752 @@
+{
+ "key": "residuation conditions",
+ "term": "residuation conditions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:17:32+00:00",
+ "status": "ok",
+ "note": "variant=residuation conditions; 审定公布名词库=1489; 海峡两岸名词对照库=382; 其他来源数据库=20; 预公布名词数据库=53; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "农学名词",
+   "wordNumber": "18.042",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "农药与兽药等使用后，在一定时间内存留于动植物体内及土壤等环境中的现象。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "02.0203",
+   "subjectFullName": "化工（九）_肥料",
+   "subjectName": "肥料",
+   "publishYear": "2023",
+   "definition": "在过滤时沉淀在过滤介质上的固体或一定温度下灼烧后剩余的固体。"
+  },
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "兽医学名词",
+   "wordNumber": "11.083",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "外源化学物在生物体内或环境中，经过代谢、分解、聚合、缩合后，成为不再分解变化的代谢产物。如分解物、聚合物。毒理学中，主要指食品中含有的有毒有害物质。包括食品生产中使用的化学物以及食品在加工、烹调、包装"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0881",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "某物理量(如某震相的走时 )的观测值与理论值的差值。 "
+  },
+  {
+   "cn": "残留",
+   "en": "residue ",
+   "source": "草学名词",
+   "wordNumber": "7.0203",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "测绘学名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "测绘学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "测量值的估值与测量值之差。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "畜牧学名词",
+   "wordNumber": "06.048",
+   "subjectFullName": "畜牧学_畜产品与加工_肉_肉的品质特性",
+   "subjectName": "肉的品质特性",
+   "publishYear": "2020",
+   "definition": "吞咽后口腔中残留的剩余物质。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "经济学名词",
+   "wordNumber": "10.092",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "回归所得的估计值与真值（实际值）之间的误差。"
+  },
+  {
+   "cn": "留数",
+   "en": "residue",
+   "source": "物理学名词",
+   "wordNumber": "01.0466",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "核医学名词",
+   "wordNumber": "03.0744",
+   "subjectFullName": "核医学_核医学设备与操作_非显像核医学技术_核医学体外分析",
+   "subjectName": "核医学体外分析",
+   "publishYear": "2018",
+   "definition": "进行标准曲线质量分析时，通过数学模型拟合的标准曲线查获的值与实测值之间的偏差。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "化学名词",
+   "wordNumber": "03.0172",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "在回归分析中，测定值<img src='/root/syzx/static/spz/huaxue2.03.0172.1.png'/>与按回归方程预测的值<img src='/root/syzx/sta"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "化学名词",
+   "wordNumber": "03.0082",
+   "subjectFullName": "化学_分析化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "溶液蒸发后的残余物。残渣分为总残渣(总蒸发残渣)、总可滤性残渣(溶解性蒸发残渣)、总不可滤性残渣(悬浮物)三种。"
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0595",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "实际观察值与回归估计值的差。"
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "计量学名词",
+   "wordNumber": "15.302",
+   "subjectFullName": "计量学_化学_化学测量过程",
+   "subjectName": "化学测量过程",
+   "publishYear": "2015",
+   "definition": "试样在一定温度下蒸发、灼烧或经规定的溶剂提取后的残留物。"
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "药学名词",
+   "wordNumber": "05.035",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "在肽或蛋白质的序列中，氨基酸之间的氨基和羧基脱水成键，因此肽或蛋白质分子中的氨基酸已不是完整的氨基酸，被称为残基。"
+  },
+  {
+   "cn": "残留",
+   "en": "residue",
+   "source": "水产名词",
+   "wordNumber": "08.465",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "农药、兽药、杀虫剂等施用后在一定时间内有微量成分存留在动植物体内外、土壤或水域中的现象。"
+  },
+  {
+   "cn": "残液",
+   "en": "residue",
+   "source": "化学工程名词",
+   "wordNumber": "03.394",
+   "subjectFullName": "化学工程_传递过程与单元操作_传质分离过程_蒸馏",
+   "subjectName": "蒸馏",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "数学名词",
+   "wordNumber": "010.0146",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "剩余",
+   "en": "residue",
+   "source": "数学名词",
+   "wordNumber": "04.0157",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "留数",
+   "en": "residue",
+   "source": "数学名词",
+   "wordNumber": "05.0401",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "剩余[值]",
+   "en": "residual",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渣油",
+   "en": "residue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "残差",
+   "en": "residual",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "残渣",
+   "en": "residue",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "残余物",
+   "en": "residue",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "残基",
+   "en": "residue",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "条件",
+   "en": "condition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回潮",
+   "en": "conditioning",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "整备",
+   "en": "conditioning",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "制约",
+   "en": "conditioning",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "条件化",
+   "en": "conditioning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最终条件",
+   "en": "final condition\",\"terminal condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角条件",
+   "en": "angle condition\",\"angular  condition",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "残遗腔",
+   "en": "residual lumen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "残余染色体",
+   "en": "residual chromosome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "残余体",
+   "en": "residual body",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "索洛剩余",
+   "en": "Solow residual",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "剩余信息保护",
+   "en": "residual information protection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症病区",
+   "en": "special ward (for patients with severe conditions)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宜水则水、宜山则山，宜粮则粮、宜农则农，宜工则工、宜商则商",
+   "en": "to make use of the water and mountain resources, grow crops, and develop agriculture, industry or business where conditions permit",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海尔COSMOPlat空调噪音大数据智能分析",
+   "en": "Haier COSMOPlat intelligent big data analysis of air conditioner noise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "臭氧余量",
+   "en": "ozone residue",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.12",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "臭氧对空气和水进行消毒处理一定时间后残留的量。"
+  },
+  {
+   "cn": "余氯",
+   "en": "residual chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.7",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "水经氯化消毒一定时间后剩余的游离氯，是评价水质卫生质量的常用指标。"
+  },
+  {
+   "cn": "残余消毒剂",
+   "en": "residual disinfectant",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒剂与消毒对象作用一定时间后，仍残留的消毒剂。"
+  },
+  {
+   "cn": "残留量",
+   "en": "residual quantity",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "消毒剂使用后，其本体、衍生物、代谢物、降解物在环境中残存的量。"
+  },
+  {
+   "cn": "剩余辐射",
+   "en": "residual radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "有用射束穿过影像接收器、辐射测量装置或者放射治疗受照部位等衰减体以后的辐射，属于辐射被使用后的剩余部分。"
+  },
+  {
+   "cn": "放射性残留物",
+   "en": "radioactive residues",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.7",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "来自早期运行（包括过去的实践）和事故残留于环境中的放射性物质。"
+  },
+  {
+   "cn": "残留剂量",
+   "en": "residual dose",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "防护措施终止后（或决定不采取防护措施后）预计产生的剂量。适用于现有暴露情况或紧急暴露情况。"
+  },
+  {
+   "cn": "剩余型福利",
+   "en": "residual welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_福利模式",
+   "subjectName": "福利模式",
+   "publishYear": "2025",
+   "definition": "基于家庭财产调查，对部分特定人群或家庭提供救助以满足最基本的需要。仅当家庭或市场的福利功能失灵，个人基本需要不能满足时，国家出面提供救助的最基本的安全网。具有临时、替代和标签污名化的特性。"
+  },
+  {
+   "cn": "残留标志物",
+   "en": "marker residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "动物用药后在靶组织中与总残留物有明确相关性的残留物，可以是药物原形、相关代谢物，也可以是原形与代谢物的加和，或者是可转为单一衍生物或药物分子片段的残留物总量。"
+  },
+  {
+   "cn": "农药残留物",
+   "en": "pesticide residues",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.9.2.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队食品污染",
+   "subjectName": "军队食品污染",
+   "publishYear": "2025",
+   "definition": "由于使用农药而在食品、农产品和动物饲料中出现的任何特定物质，包括被认为具有毒理学意义的农药衍生物，如农药转化物、代谢物、反应产物及杂质等。"
+  },
+  {
+   "cn": "残留消毒剂",
+   "en": "residual disinfectants",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.13.7.11",
+   "subjectFullName": "食品卫生学_食品_饮料",
+   "subjectName": "饮料",
+   "publishYear": "2025",
+   "definition": "消毒剂使用后，残存在环境中的母体、衍生物、代谢物和降解物。"
+  },
+  {
+   "cn": "农药残留",
+   "en": "pesticide residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.1",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "使用农药后残存于食品或农产品中的农药母体、代谢物、反应产物及杂质等。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "剩余核辐射",
+   "en": "residual nuclear radiation",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.60",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "放射性沾染的放射性物质释放出的核辐射。放射性物质污染人、物和环境后，在爆后相当长的时间内发射β、γ射线(包括极少量α射线)危害人员和物体。"
+  },
+  {
+   "cn": "残留最大能量",
+   "en": "residual maximum energy",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "在个人剂量监测中，参考剂量点处已进行散射和吸收修正后的β粒子能量谱的最大值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,792 @@
+{
+ "key": "moral thought pluralism",
+ "term": "moral thought pluralism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:28:29+00:00",
+ "status": "ok",
+ "note": "variant=moral thought pluralism; 审定公布名词库=987; 海峡两岸名词对照库=302; 其他来源数据库=92; 预公布名词数据库=122; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "多样性",
+   "en": "pluralism",
+   "source": "物理学名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多元主义",
+   "en": "pluralism",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "一种社会对抗国家的政治模式，强调社会先于或外在于国家，认为社会是一个区别于国家建制的、自主的活动领域，是一种与国家对等的力量。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "地理学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "有时表示一个社会中的文化多样性，有时表示现代社会中权力得到扩散和均衡的组织多元化。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "传媒多元化",
+   "en": "media pluralism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.143",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在政治学中，“多元化”一词强调权力的竞争、分散、参与与相互制衡。媒介多元化主张发挥民主、公共的特色以达成多元认同主体间的相互尊重，抗拒媒体单一化与集中化，为民众提供更多选择，反映社会差异，落实言论自由"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "source": "中医药学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "思考。"
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "地理学名词",
+   "wordNumber": "24.025",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "共存在同一政治单元中但宗教、文化、语言、思想方式却并不同的人类团体。"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought withdrawal,thought deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被拿走了或被某一外在的代理者挪用的一种精神病理状态。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思想被撤走的体验同时发生。"
+  },
+  {
+   "cn": "思维鸣响",
+   "en": "audible thought,voiced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被重复或在头脑里回响(自己并没有发声说出来)的一种精神病理状态。原本的思想及其回声之间通常只间隔几秒钟。重复出来的思想，虽然内容与原来的一样，但却可以感到性质上有轻微改变。是精神"
+  },
+  {
+   "cn": "设计构思",
+   "en": "design thought",
+   "source": "风景园林名词",
+   "wordNumber": "07.0076",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "针对有目标和计划的风景园林创作行为及活动作系统性的、有中心及层次的、物化的整体性思维活动。"
+  },
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "科学家在头脑中设计和构造出一套理想化的仪器设备和研究对象，进行纯粹理想化的实验操作和控制，发现和获取科学事实与自然规律的思维活动。"
+  },
+  {
+   "cn": "科学思想",
+   "en": "scientific thought",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.292",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "人类通过实践所形成的关于物质世界的系统化、规律性的科学知识的基本观念。反映了对物质世界整体图景和规律的综合认识，主要表现为科学的基本理论和学说。"
+  },
+  {
+   "cn": "思维脱轨",
+   "en": "thought derailment",
+   "source": "行为医学名词",
+   "wordNumber": "16.043",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思考历程不按条理及不合逻辑，从一个观念忽然转到另一个毫无关联观念的精神病理状态。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.051",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "感到自己头脑中有一些思想不属于自己、不是自己发动的一种思维形式障碍。"
+  },
+  {
+   "cn": "思维中断",
+   "en": "thought blocking",
+   "source": "行为医学名词",
+   "wordNumber": "16.052",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在无意识障碍，又无外界干扰等状况下，思维过程突然中断的精神病理状态。说话时突然停顿，片刻之后又重新说话，但所说内容不是原来的话题。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought deprivation",
+   "source": "行为医学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维被某种外力抽走的感觉。常与客观观察到的思维中断同时发生。"
+  },
+  {
+   "cn": "强迫思维",
+   "en": "obsessional thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.141",
+   "subjectFullName": "行为医学_其他神经行为障碍_强迫相关障碍",
+   "subjectName": "强迫相关障碍",
+   "publishYear": "2022",
+   "definition": "反复、持续地出现一些无法自控的观念和概念的精神病理现象。常伴有被强迫感和痛苦感。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维自主性出现异常的一种思维形式障碍。表现为受检者感到自己的一些思想不属于自己，不是自己发动的。他们体验到这些思想在脑海中自动地出现而没有内在的抵抗，为此感到异乎寻常和奇怪。虽然他们不能做出有意义的努"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德解离",
+   "en": "moral disengagement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德两难",
+   "en": "moral dilemma",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德焦虑",
+   "en": "moral anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织士气",
+   "en": "organizational morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "他律道德",
+   "en": "heteronomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诚意",
+   "en": "Be Sincere in Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平外交思想",
+   "en": "Xi Jinping Thought on Diplomacy",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习近平生态文明思想",
+   "en": "Xi Jinping Thought on Ecological Civilization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "文化多元主义",
+   "en": "cultural pluralism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "提倡不同文化之间的并存与相互尊重，反对文化同化、文化侵略、文化渗透等可能导致某种文化消失的任何文化过程。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "医学多样性",
+   "en": "medical pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0247",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一个社会或文化中多种医学体系并存现象的描述。在采集渔猎等小型部落社会，对疾病的病因解释及治疗常常是单一的；而在大规模的农业社会或工业化国家，医学体系则多呈现多元并存的现象。"
+  },
+  {
+   "cn": "法律多元论",
+   "en": "legal pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0128",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律一元论相对应的概念，即两种或者多种法律规范，法律体系或法律秩序共存于同一社会领域中的现象。"
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0014",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与作为思维活动的结果的理性认识同义，指人的意识对客观事物的本质和规律的反映。思想由社会存在决定，同时又对其有能动的反作用，具有相对独立性。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在不同历史阶段的社会生产和社会生活实践中所形成的种种社会观念、构想或理论体系。理论社会学范畴，涉及政治、经济、文化、宗教、艺术等各个方面。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "inversion",
+ "term": "inversion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:22:33+00:00",
+ "status": "ok",
+ "note": "variant=inversion; 审定公布名词库=1107; 海峡两岸名词对照库=359; 其他来源数据库=23; 预公布名词数据库=25; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "［染色体］倒位",
+   "en": "inversion",
+   "source": "兽医学名词",
+   "wordNumber": "10.431",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "同一条染色体发生两次断裂，产生的断片颠倒180°后的重新连接。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "血液学名词",
+   "wordNumber": "4.25",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "某一染色体发生两次断裂后，两个断裂点之间的片段旋转180°后重接，造成染色体上基因顺序重排的过程。有两种形式，臂内倒位和臂间倒位。前者两个断裂点在同一臂（长臂或短臂）内，后者两个断裂点在两臂之间。"
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1866",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "根据地震波场、地球自由振荡、地球电磁场、重力场及热流等地球物理观测数据反推地球内部的结构形态和物质成分，定量计算各种有关的物理参量的工作。 "
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "光学名词",
+   "wordNumber": "21.085",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "根据遥感器获得的信号，利用理论模型和先验知识来确定目标状态特性参数的过程，即根据观测信息和后向物理模型，求解或推算描述目标真实状况参数的过程。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.461",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种染色体结构变异。染色体发生两次断裂后，断裂点之间的片段旋转180重接而 成。"
+  },
+  {
+   "cn": "逆转现象",
+   "en": "inversion",
+   "source": "动物学名词",
+   "wordNumber": "5.0653",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "两囊幼虫具鞭毛的小细胞（动物极）陷入里面形成内层，而另一端大细胞（植物极）包在外边形成外层细胞，与其他多细胞动物原肠胚形成正好相反的现象。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "畜牧学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "畜牧学_遗传育种_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2020",
+   "definition": "染色体上两个断裂点间的片段，倒转180度后又重新连接。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "植物学名词",
+   "wordNumber": "10.0215",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "在同一染色体上同时出现两处断裂，其断裂段片倒转180°后又重新连接，造成该染色体上的基因顺序发生重排的现象。颠倒的片段包括着丝粒在内的倒位称“臂间倒位(pericentric inversion)”；"
+  },
+  {
+   "cn": "翻转作用",
+   "en": "inversion",
+   "source": "植物学名词",
+   "wordNumber": "04.0156",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "团藻生殖过程中皿状体发展为32个细胞时，细胞开始分化为营养细胞和生殖细胞，继续分裂形成有一个孔的球体，此时，球体内细胞的前端是向着群体中央的，需要经过一个球体从孔内外交换的过程，即细胞的前端翻转到群体"
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "物理学名词",
+   "wordNumber": "08.0136",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "倒反",
+   "en": "inversion",
+   "source": "化学名词",
+   "wordNumber": "04.1813",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "通过对称中心进行反演成像所完成的对称操作。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "放射医学与防护_放射生物学_放射遗传学",
+   "subjectName": "放射遗传学",
+   "publishYear": "2014",
+   "definition": "当某一染色体发生两处断裂，其中间节段颠倒180°后重接形成的染色体畸变。可分为臂间倒位和臂内倒位两种类型。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.066",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "染色体上两个断裂点间的断片，倒转180°后又重新连接的一种染色体结构变异。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "遗传学名词",
+   "wordNumber": "04.270",
+   "subjectFullName": "遗传学_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2007",
+   "definition": "染色体结构变异的一种。染色体上两个断裂点间的断片，倒转180o后又重新连接。"
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "地理学名词",
+   "wordNumber": "29.067",
+   "subjectFullName": "地理学_遥感应用",
+   "subjectName": "遥感应用",
+   "publishYear": "2006",
+   "definition": "根据由地物电磁波特征产生的遥感影像特征反推其形成过程中的电磁波状况的技术。"
+  },
+  {
+   "cn": "内翻",
+   "en": "inversion",
+   "source": "医学名词 第六分册",
+   "wordNumber": "08.295",
+   "subjectFullName": "医学_创伤学",
+   "subjectName": "创伤学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "石油名词",
+   "wordNumber": "03.0032",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "数学名词",
+   "wordNumber": "08.0092",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "回返",
+   "en": "inversion",
+   "source": "地质学名词",
+   "wordNumber": "03.370",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆变运行",
+   "en": "inverter operation,inversion",
+   "source": "电力名词",
+   "wordNumber": "21.106",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "换流器或高压直流换流站将电能从直流转换成交流的运行方式。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻转[作用]",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转位",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地面逆温",
+   "en": "surface inversion\",\"ground inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全反转",
+   "en": "total inversion\",\"complete inversion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆温层",
+   "en": "inversion layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆温层顶",
+   "en": "inversion lid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反转温度",
+   "en": "inversion temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "转化点",
+   "en": "inversion point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逆温层",
+   "en": "inversion layer",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逆温层",
+   "en": "inversion layer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "倒位多态现象",
+   "en": "inversion polymorphism",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位杂合子",
+   "en": "inversion heterozygote",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位环",
+   "en": "inversion loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "干扰",
+   "en": "invade\",\"invasion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模数转换",
+   "en": "analog-to-digital conversion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网协议第六版（IPv6）",
+   "en": "Internet Protocol version 6 (IPv6)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "皈依",
+   "en": "conversion",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.9",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "通过一定的思想道德、价值观的变化，以特定仪式完成的向上帝或神的转向或依归。"
+  },
+  {
+   "cn": "发明",
+   "en": "invention",
+   "source": "马克思主义",
+   "wordNumber": "04.0041",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类创造新的、前所未有的产品（包括物质的和精神的）的创造性探索活动。各国有关法律对发明都有明确的限定。发明既指人们的首创性活动（包括创造性的思维活动和能动的实践活动），也指这种首创性活动所获得的成果。"
+  },
+  {
+   "cn": "浸泡消毒",
+   "en": "immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "将污染物品浸没于消毒剂溶液中的处理。消毒过程应保持消毒剂的有效浓度和浸泡时间，根据消毒剂溶液的稳定程度和污染情况及时更换所用消毒液。"
+  },
+  {
+   "cn": "浸渍试验",
+   "en": "immersion test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于抗菌织物样片上，样片上浸出的抗菌物质和试验菌的作用，测定抗菌织物抗菌效果，评价溶出性抗菌织物抗菌效果的试验方法。"
+  },
+  {
+   "cn": "浸泡足",
+   "en": "immersion foot",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.6.4.3",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷损伤",
+   "subjectName": "冷损伤",
+   "publishYear": "2025",
+   "definition": "下肢长时间浸泡在0-10℃冷水或泥浆中静止不动或少动，局部血液循环障碍引起的非冻结性冷损伤。"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "浸油溶剂",
+   "en": "oil immersion solvents",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.3",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "浸出法制油工艺中用于对油料作物进行浸泡，以分离提取植物油的有机溶剂"
+  },
+  {
+   "cn": "流动浸泡消毒",
+   "en": "flowing immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "用流动的消毒液对污染物品进行浸泡的处理。"
+  },
+  {
+   "cn": "内转换电子",
+   "en": "internal conversion electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "激发态原子核把能量直接转给核外电子，使之获得动能，脱离原子形成的自由电子。"
+  },
+  {
+   "cn": "烟羽浸没照射",
+   "en": "plume immersion exposure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "当人员停留在烟羽中或在其下方所受到烟羽中放射性核素的β、γ照射。"
+  },
+  {
+   "cn": "放置后出血",
+   "en": "bleeding after insertion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.7.1.3.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "放置节育器后，由于节育器本身原因或使用者合并其他妇科疾病出现经期延长、经量增多、点滴出血、不规则出血、下腹疼痛、阴道分泌物增多等临床表现，常见于放置后最初3-6个月。"
+  },
+  {
+   "cn": "引水节",
+   "en": "Water Diversion Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0192",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于新疆塔什库尔干塔吉克自治县塔吉克族的农事节日，在塔吉克族春月（公历3 月22日至4 月22 日）间；是当春季来临之时，需要砸开冰块，引水入渠，灌溉耕地，为此而欢庆的节日。"
+  },
+  {
+   "cn": "食物转换因子",
+   "en": "food conversion factor",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.60",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "食物的可燃总能量（或理论最大能量）转换为食物成分中最终能被人体利用的能量的方程的输入系数。"
+  },
+  {
+   "cn": "海水浸泡伤害",
+   "en": "seawater immersion injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.1.4",
+   "subjectFullName": "军事预防医学_航海和潜水医学_航海医学",
+   "subjectName": "航海医学",
+   "publishYear": "2025",
+   "definition": "船员落入海水中，身体长时间受海水刺激，海水的温度、盐分和水中微生物等因素对落水人员机体造成的功能与结构的影响或损害。"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "载体浸泡杀菌试验",
+   "en": "carrier immersion germicidal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将附着于载体上的试验菌与消毒因子作用，以作用前后试验菌的减少数量评价杀灭效果的试验方法。"
+  },
+  {
+   "cn": "全浸腐蚀性试验",
+   "en": "full immersion corrosion test",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.7",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "用连续冲洗法或浸泡法测定常量喷雾、浸泡或冲洗消毒等方法对金属造成腐蚀程度的试验。"
+  },
+  {
+   "cn": "核材料转用",
+   "en": "diversion of nuclear material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "将处于保障监督下的核材料在有关核保障协定禁止的范围内的使用。"
+  },
+  {
+   "cn": "资产阶级思想的侵袭",
+   "en": "invasion of bourgeois ideology",
+   "source": "马克思主义",
+   "wordNumber": "03.0539",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "革命年代中国共产党就提出过。党执政后，党面临新的考验。邓小平指出：在改革开放的大潮中，一些人抵御不住资产阶级思想和生活方式的侵袭，在糖弹面前会打败仗。这个问题解决不好，我们党就会脱离群众、脱离实际，党"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

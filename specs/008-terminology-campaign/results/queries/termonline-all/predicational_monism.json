@@ -1,0 +1,502 @@
+{
+ "key": "predicational monism",
+ "term": "predicational monism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:33:46+00:00",
+ "status": "ok",
+ "note": "variant=predicational monism; 审定公布名词库=148; 海峡两岸名词对照库=51; 其他来源数据库=4; 预公布名词数据库=8; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "心理学名词",
+   "wordNumber": "04.008",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为世界只有一个本原的哲学学说。如唯心主义一元论认为世界的本原是精神，物质是派生的。"
+  },
+  {
+   "cn": "逻辑一元主义",
+   "en": "logical monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑只有一个。相对的立场是逻辑多元主义。"
+  },
+  {
+   "cn": "异常一元论",
+   "en": "anomalous monism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.568",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由D. 戴维森（D. Davidson）提出。旨在调和三个全然不相容的原理（互为因果作用原理、因果性的规律性原理、精神现象的异常论），断言一切事件都是物理的，即心理事件与物理事件同一，心理事件不可还原"
+  },
+  {
+   "cn": "谓语",
+   "en": "predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“主语”相对。句法成分之一。通常由谓词性成分充当，少数情况下也可由体词性成分充当。通常位于主语的后边，是对主语作出的陈述。例如，“花开了”“今天星期一”。"
+  },
+  {
+   "cn": "述语",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.190",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。可以指述宾短语的组成成分，由动词性成分充当，在述宾短语的前部，例如，“吃饭”；也可以指述补短语的组成成分，由动词或形容词性成分充当，在述补短语的前部，例如，“吃完”“好极了”。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicative",
+   "source": "语言学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“体词”相对。指主要充当谓语的词。动词、形容词等属于谓词。"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "直谓[的]",
+   "en": "predicative",
+   "source": "数学名词",
+   "wordNumber": "02.0307",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "递归谓词",
+   "en": "recursive predicate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0127",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "若一个谓词所确定的集合为递归集，则称它是一个递归谓词。"
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate transformer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0938",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由埃德斯加·迪杰斯特拉（Edsger Dijkstra）引进的描述程序语义的方法，把程序的执行看成是状态空间上的谓词转换。"
+  },
+  {
+   "cn": "包容谓词",
+   "en": "inclusive predicates",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0927",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "如果当谓词对递增序列（链）所有元素都成立（取值为真），它就对该序列的上确界也成立，那么该谓词是包容的。"
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0936",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑最基本的形式系统，在命题演算的基础上扩展引入了客体变元、量词、谓词和函数。其中，客体表示某一个物体或元素，量词（如全称或存在）限定客体数量，谓词描述客体的一种属性，函数代表抽象的计算。"
+  },
+  {
+   "cn": "谓词性宾语",
+   "en": "predicative object",
+   "source": "语言学名词",
+   "wordNumber": "04.192",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由谓词性成分充当的宾语。例如，“喜欢游泳”“觉得很好”。"
+  },
+  {
+   "cn": "体词性谓语",
+   "en": "nominal predicate",
+   "source": "语言学名词",
+   "wordNumber": "04.189",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由体词性成分充当的谓语。前边大多可以加上动词“是”（否定句用“不是”），变成动词性谓语。例如，“他（是）广东人”“今天（不是）星期一”“苹果才五十斤”。"
+  },
+  {
+   "cn": "谓词变元",
+   "en": "predicate variable",
+   "source": "数学名词",
+   "wordNumber": "02.0050",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算术谓词",
+   "en": "arithmetical predicate",
+   "source": "数学名词",
+   "wordNumber": "02.0249",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "自动化名词",
+   "wordNumber": "05.034",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "谓词/变迁系统",
+   "en": "predicate/transition system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0606",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "一种高级佩特里网，有向弧和标码都用一阶谓词加以标注。对谓词逻辑中的变量作不同的赋值，就得到网系统的不同运行。"
+  },
+  {
+   "cn": "谓词转换语义",
+   "en": "predicate transformer semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0908",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一种公理语义，它包含了有关语句执行前后变量值的断言。"
+  },
+  {
+   "cn": "谓词数据模型",
+   "en": "predicate data model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0062",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "用一阶谓词逻辑来描述数据对象、模式以及它们之间的关系和语义的一种数据模型。"
+  },
+  {
+   "cn": "一元论",
+   "en": "monism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词变量",
+   "en": "predicate variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词符号",
+   "en": "predicate symbol",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词转换器",
+   "en": "predicate converter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词-变迁系统",
+   "en": "predicate/transition system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "判定使用",
+   "en": "predicate use\",\"p-use",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多制式联运",
+   "en": "inter-modism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "铅丹",
+   "en": "minium",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "缄默症",
+   "en": "mutism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激动",
+   "en": "agonism",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生殖母细胞（=性原细胞）",
+   "en": "gonium\",\"gonocyte",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生殖原细胞（=性原细胞）",
+   "en": "gonium\",\"gonocyte",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性原细胞，生殖原细胞，生殖母细胞",
+   "en": "gonium\",\"gonocyte",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性原细胞",
+   "en": "gonocyte\",\"gonium",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "选择性缄默症",
+   "en": "selective mutism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "湿对流",
+   "en": "moist convection",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "湿绝热线",
+   "en": "moist adiabat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量刑预测",
+   "en": "sentencing predication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律一元论",
+   "en": "legal monism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律多元论相对应的概念，即以国家为根本立足点和基本价值取向来制定相应的法律，其核心判断是：法律是国家的附属物（或最多是伴生物），法产生于国家，法是实现国家职能的手段，没有国家就没有法。"
+  },
+  {
+   "cn": "整体观",
+   "en": "holism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "把一个文化视为有机整体的观点，又称“全貌观”。强调研究每一文化元素时，都应将其置于整个文化框架中，探讨它与其他文化元素以及各种外界条件之间的内在联系，由此建立一种全面而系统的认识。"
+  },
+  {
+   "cn": "整体论",
+   "en": "holism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0005",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。人类学观察人类社会文化的手段，主张对所观察的事物做通盘考虑，强调人类整体性的认识论，即将人类社会视为过去、现在和将来的动态的整体，作历时性和共时性双重考察，作生物和文化上"
+  },
+  {
+   "cn": "湿啰音",
+   "en": "moist rale",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.4",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "吸气时气体通过呼吸道内稀薄分泌物，如渗出液、血液和脓液等形成水泡并破裂所产生的声音；或由于小支气管壁因分泌物黏着而陷闭，吸气时突然张开重新充气所产生的爆裂音。也类似水煮沸时的冒泡音。"
+  },
+  {
+   "cn": "孟人",
+   "en": "Mons",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0102",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "缅甸民族之一。人口约为113.78 万（2016 年）。主要分布在缅甸东部的三角洲地带和泰国的中西部地区。属蒙古人种南亚类型。操孟语，属南亚语系孟高棉语族，有文字。孟人多信小乘佛教，也有一部分人信基督"
+  },
+  {
+   "cn": "湿热消毒",
+   "en": "moist heat disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用湿热使病原微生物蛋白质变性或凝固、酶失活、代谢障碍，进而死亡的消毒处理，包括煮沸消毒、巴氏消毒和蒸汽消毒。"
+  },
+  {
+   "cn": "儿童选择性缄默症",
+   "en": "selective mutism in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "具有正常或接近正常言语或语言能力的儿童经常在被期待发言的社交场合（如学校）无法发言的一种精神疾病，多见于年幼儿童。"
+  },
+  {
+   "cn": "民俗整体论",
+   "en": "theory of folklore holism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0494",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "视民俗为整体的解释理论，将选取的民俗事象与其他民俗进行系统考察，把人们的生产与生活作为一个包含着历史意义和现实存在的文化整体，在这个文化整体内观察民俗活动，研究民俗传承之间的互动，把握民俗生活与民俗传"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

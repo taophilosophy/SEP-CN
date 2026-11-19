@@ -1,0 +1,702 @@
+{
+ "key": "relativism of distance",
+ "term": "relativism of distance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:27:52+00:00",
+ "status": "ok",
+ "note": "variant=relativism of distance; 审定公布名词库=10000; 海峡两岸名词对照库=7610; 其他来源数据库=1894; 预公布名词数据库=2709; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.138",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "认为真与假、对与错、推理的标准以及辩护的程序是不同约定和评估框架的产物。它们的权威局限于产生它们的语境。"
+  },
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "心理学名词",
+   "wordNumber": "04.055",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "一种哲学观点。片面强调现实的变动性，夸大认识的主观性，认为心理学并不存在客观真理。"
+  },
+  {
+   "cn": "相对化",
+   "en": "relativization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0325",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "指有些带谕示的图灵机的结果可以推广到相对于任何谕示的图灵机的结果。"
+  },
+  {
+   "cn": "文化相对主义",
+   "en": "cultural relativism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.790",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "主张每一种文化都是独特的思想行为系统，反对不同文化之间有高低优劣之分，认为它们相互之间不可比较。任何对行为的解释都必须回到该行为所发生的社会和语境。"
+  },
+  {
+   "cn": "道德相对主义",
+   "en": "moral relativism",
+   "source": "教育学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "德育理论中一种具有历史性和相对性的观点，认为道德规范、道德观念不存在客观标准，是主观的和可变的。"
+  },
+  {
+   "cn": "相对化算术层谱",
+   "en": "relativized arithmetical hierarchy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0220",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A ，利用相对化的图灵机可类似地定义<img src='/root/syzx/static/spz/jsjkx3.02.0220.001.png'/>, 相对于 A 的算术层谱指<im"
+  },
+  {
+   "cn": "相对化停机问题",
+   "en": "relativized halting problem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0213",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定自然数集合 A ，相对于 A 的停机问题是如下集合：{< x,y >｜<img src='/root/syzx/static/spz/jsjkx3.02.0213.001.png'/>(y )↓}"
+  },
+  {
+   "cn": "相对化递归定理",
+   "en": "relativized recursion theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0210",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对谕示图灵机的不动点定理。"
+  },
+  {
+   "cn": "相对化枚举定理",
+   "en": "relativized enumeration theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "全体一元谕示图灵机可以由一个谕示图灵机来枚举。即存在一个 z ，使得对一切自然数集 A 和自然数 x,y ，<img src='/root/syzx/static/spz/jsjkx3.02.0208"
+  },
+  {
+   "cn": "相对化 s-m-n 定理",
+   "en": "relativized s-m-n theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0209",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "对谕示图灵机的 s-m-n 定理。"
+  },
+  {
+   "cn": "距离阻尼",
+   "en": "friction of distance",
+   "source": "地理学名词",
+   "wordNumber": "25.156",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "产生空间衰减的阻尼因子，表现为空间相互作用模型的参数。"
+  },
+  {
+   "cn": "距离摩擦",
+   "en": "friction of distance",
+   "source": "地理学名词",
+   "wordNumber": "19.162",
+   "subjectFullName": "地理学_城市地理学",
+   "subjectName": "城市地理学",
+   "publishYear": "2006",
+   "definition": "移动成本随距离的增加而增加，是相互作用中距离阻碍效应的一种度量。"
+  },
+  {
+   "cn": "人机操纵距离",
+   "en": "ergonomic distance,ergonomic component of distance",
+   "source": "电力名词",
+   "wordNumber": "20.259",
+   "subjectFullName": "电力_高电压技术",
+   "subjectName": "高电压技术",
+   "publishYear": "2020",
+   "definition": "考虑到在作业过程中无意识的移动和距离判断上误差的空气距离。"
+  },
+  {
+   "cn": "摆锤质心距",
+   "en": "distance of center of mass",
+   "source": "计量学名词",
+   "wordNumber": "04.113",
+   "subjectFullName": "计量学_力值、硬度_材料试验机",
+   "subjectName": "材料试验机",
+   "publishYear": "2015",
+   "definition": "摆锤质心到旋转轴线之间的距离。"
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.07",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通类型",
+   "subjectName": "人际沟通类型",
+   "publishYear": "2022",
+   "definition": "个体交往者之间为避免相互接触所保持的时间和物理空间的相隔。也用来描述尚未发生的交互活动。"
+  },
+  {
+   "cn": "明视距离",
+   "en": "distance of distinct vision",
+   "source": "物理学名词",
+   "wordNumber": "04.0389",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "最大有感距离",
+   "en": "maximum distance of perceptibility",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0149",
+   "subjectFullName": "地球物理学_地震科学_地震科学总论",
+   "subjectName": "地震科学总论",
+   "publishYear": "2022",
+   "definition": "地震时，有感范围的边界距震中最远处的距离。 "
+  },
+  {
+   "cn": "移距修形",
+   "en": "modification of moved distance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0314",
+   "subjectFullName": "机械工程（一）_传动_齿轮传动_摆线针轮行星齿轮传动",
+   "subjectName": "摆线针轮行星齿轮传动",
+   "publishYear": "2021",
+   "definition": "在摆线轮齿最后成形加工时，将切齿工具相对于轮坯中心沿径向移动一个微小的距离，从而对摆线的齿廓进行齿廓修形。"
+  },
+  {
+   "cn": "像片主距",
+   "en": "principal distance of photo",
+   "source": "测绘学名词",
+   "wordNumber": "03.036",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "物镜后节点至像平面的距离。"
+  },
+  {
+   "cn": "摄影机主距",
+   "en": "principal distance of camera",
+   "source": "测绘学名词",
+   "wordNumber": "03.035",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "摄影物镜后节点至承片框平面的距离。"
+  },
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相对化",
+   "en": "relativization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离摩擦",
+   "en": "friction of distance",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "遗传距离系数",
+   "en": "coefficient of genetic distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传距离系数",
+   "en": "coefficient of genetic distance",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "摄影机主距",
+   "en": "principal distance of camera",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "投影器主距",
+   "en": "principal distance of projector",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "像片主距",
+   "en": "principal distance of photo",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "距变率",
+   "en": "rate of distance variation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "间断传播",
+   "en": "distance dispersal\",\"distance dispersion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "斜距",
+   "en": "slope distance\",\"slant distance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "弥散强化质点间距",
+   "en": "distance of dispersion strengthening particle",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "倍经[横]距法",
+   "en": "method of double meridian distance",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表征距离",
+   "en": "phenetic distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离法",
+   "en": "distance method",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "图距",
+   "en": "map distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "极距",
+   "en": "polar distance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "日[地]距",
+   "en": "solar distance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天顶距",
+   "en": "zenith distance",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "距离",
+   "en": "distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全距离",
+   "en": "safe distance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控球距离",
+   "en": "playing distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击距离",
+   "en": "shooting distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短距离",
+   "en": "short distance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "在认识上认为不存在真与假的绝对标准或在道德上认为不存在正确与错误的绝对标准的学说。既然每个人和每个社会在判断事件是什么(实然判断)或应该是什么(应然判断)时是各不相同的，那么，这些判断对这些人或这些社"
+  },
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "马克思主义",
+   "wordNumber": "01.0208",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“绝对主义”相对。片面夸大事物和认识的相对性，否认事物和认识的绝对性，最终否定事物客观存在和可知性的学说。割裂事物的相对与绝对的辩证关系，认为相对中并无任何绝对的东西。它必然导致否认事物在一定界限内"
+  },
+  {
+   "cn": "相对主义",
+   "en": "relativism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.138",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为真与假、对与错、推理的标准以及辩护的程序是不同约定和评估框架的产物。它们的权威局限于产生它们的语境。"
+  },
+  {
+   "cn": "文化相对论主义",
+   "en": "cultural relativism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "主张每一种文化都有其自身的独特历史及价值体系，并演绎了自身的发展史的理论学派。以博厄斯(F.Boas）为首的学派在20世纪前半叶提出。"
+  },
+  {
+   "cn": "文化相对主义",
+   "en": "cultural relativism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0008",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。认为任何一个民族的文化都有其独创性和充分的价值，各民族没有优劣、高低之分，一切评判的标准都是相对的；但这种平等并不意味着放弃批评而赞成或接受某一人群的所思所为，而是将文化"
+  },
+  {
+   "cn": "伦理相对主义",
+   "en": "ethical relativism",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.153",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "认为道德现象的认识、理论和评价没有绝对的对与错，只有因立场不同、条件差异而相互对立的伦理学理论。在涉及伦理困境的境遇中，这种理论有一定的适用性。其实质是主观唯心主义的，不承认道德的历史继承性，最终会导"
+  },
+  {
+   "cn": "生长水平曲线",
+   "en": "distance curve of growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "儿童少年体格指标的平均水平随年龄在坐标上的变化。"
+  },
+  {
+   "cn": "距离比例",
+   "en": "distance scale",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以终点稀释法观察细胞病变时用来计算半数组织细胞感染量的数值。即大于50%的病变率与50的差值除以大于50%的病变率与小于50%病变率的差值。"
+  },
+  {
+   "cn": "距离防护",
+   "en": "distance protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "采取尽可能远离辐射源或散射体的方法以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "人际距离",
+   "en": "interpersonal distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "人与人之间面对面直接交往接触时所保持的相互间的客观距离。人类学家霍尔(Edward T.Hall）提出在空间关系学中提出。"
+  },
+  {
+   "cn": "社会距离",
+   "en": "social distance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "社会成员之间亲疏的程度。可分为横向与纵向两类。凡由于优越感和自卑感引起的为纵向;凡与优越感和自卑感无关的为横向。"
+  },
+  {
+   "cn": "焦点-皮肤距离",
+   "en": "focus-skin distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.33",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至受检者皮肤表面的最近距离。"
+  },
+  {
+   "cn": "应急计划距离",
+   "en": "emergency planning distance",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好有效采取预防性紧急防护行动、紧急防护行动和早期防护行动和其他响应行动的安排，以实现应急响应目标的区域。"
+  },
+  {
+   "cn": "焦点-影像接收器距离",
+   "en": "focus-image receptor distance",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "有效焦点中心至影像接收器表面的距离。"
+  },
+  {
+   "cn": "正常治疗距离",
+   "en": "normal treatment distance，NTD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "采用电子线治疗时，为沿着有用线束轴，从电子线窗沿辐射束轴至限束器末端或规定平面所测量的距离；采用X射线治疗时，为从靶的前表面沿辐射束轴至等中心所测量的距离；采用非等中心设备治疗时，则为至规定平面的距离"
+  },
+  {
+   "cn": "源轴距",
+   "en": "source-axis distance，SAD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.42",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "沿着辐射束轴测量的辐射源与机架旋转轴之间的距离。"
+  },
+  {
+   "cn": "源皮距",
+   "en": "source-surface distance，SSD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.43",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "沿着辐射束轴测量的辐射源与受照体表之间的距离。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

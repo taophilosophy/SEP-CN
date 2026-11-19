@@ -1,0 +1,92 @@
+{
+ "key": "elaborations",
+ "term": "elaborations",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:22:29+00:00",
+ "status": "ok",
+ "note": "variant=elaborations; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=1; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "精细加工策略",
+   "en": "elaboration strategy",
+   "source": "心理学名词",
+   "wordNumber": "09.082",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "利用已有的熟悉、生动经验，对要学习的新材料进行人为的、有意义的主动添加的一种学习策略。"
+  },
+  {
+   "cn": "局方发挥",
+   "en": "Jufang Fahui,Elaboration of Bureau Prescription",
+   "source": "中医药学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "中医药学_医史文献_医书",
+   "subjectName": "医书",
+   "publishYear": "2004",
+   "definition": "中医综合性著作，元代朱震亨撰。"
+  },
+  {
+   "cn": "玑衡抚辰仪",
+   "en": "elaborate equatorial armillary sphere; new armilla",
+   "source": "天文学名词",
+   "wordNumber": "05.247",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "清制八件大型天文测量仪器之一，结构与浑仪基本相同。乾隆年间由德国传教士戴进贤、斯洛文尼亚传教士刘松龄监制。"
+  },
+  {
+   "cn": "精密性",
+   "en": "elaboration",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精细加工策略",
+   "en": "elaboration strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "玑衡抚辰仪",
+   "en": "elaborate equatorial armillary sphere",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "繁缛",
+   "en": "Overly Elaborative",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "详析模式",
+   "en": "elaboration method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "一种确证两个变量间因果关系的统计分析策略。在详析分析中，先在两维的列联表上分析两个变量的关系，然后引入第三个变量进一步检验两个变量与第三个变量间的关系。是由拉扎斯菲尔德提出的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

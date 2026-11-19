@@ -1,0 +1,692 @@
+{
+ "key": "theorem of deductive correspondence",
+ "term": "Theorem of deductive correspondence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:18:09+00:00",
+ "status": "ok",
+ "note": "variant=Theorem of deductive correspondence; 审定公布名词库=10000; 海峡两岸名词对照库=8017; 其他来源数据库=1957; 预公布名词数据库=2859; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "source": "核医学名词",
+   "wordNumber": "03.0602",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "按设定原则和标准去除待处理数据中部分与分析目标无关数据的图像运算方法。如图像本底扣除。"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0433",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "保险合同有的规定损失在一定限度内不予理赔，免赔额是保险人不负赔偿责任的最高损失额度。"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "航海科技名词",
+   "wordNumber": "13.0192",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "对应",
+   "en": "correspondence",
+   "source": "数学名词",
+   "wordNumber": "01.0113",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻采访",
+   "subjectName": "新闻采访",
+   "publishYear": "2022",
+   "definition": "为新闻机构采写新闻、反映情况并按稿计酬的编外新闻报道者。"
+  },
+  {
+   "cn": "通讯员",
+   "en": "correspondent",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.018",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "报刊社聘请的经常为其反映情况、提供线索、撰写通讯报道的非专职新闻工作人员。"
+  },
+  {
+   "cn": "通讯委员会",
+   "en": "Committee of Correspondence",
+   "source": "世界历史名词",
+   "wordNumber": "03.0022",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_美国",
+   "subjectName": "美国",
+   "publishYear": "2012",
+   "definition": "1772年11月建立的北美殖民地宣传和协调反英活动的革命组织。"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "一种由一般到个别的论证方法。由一般原理出发推导出关于个别情况的结论，其前提和结论之间有必然联系。"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "source": "兽医学名词",
+   "wordNumber": "13.329",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "在检查患病动物所搜集的症状中分出主要症状和次要症状，所设想的疾病能够解释主要症状且又和多数次要症状不相矛盾时建立的诊断。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0102",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "从前提出发，运用逻辑规则推出结论的一种推理方法。"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "心理学名词",
+   "wordNumber": "02.644",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从一般原则得出关于具体事例的结论。其主要形式为三段论。"
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0051",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "将问题的所有子问题分层罗列，从最高层开始，并逐步向下扩展的一种逻辑分析方法。"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "source": "船舶工程名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "在一定航速下，船后螺旋桨发出的推力(T)与船被拖曳时的总阻力(RT)之差额。一般以ΔT表示：ΔT=T－RT"
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "物理学名词",
+   "wordNumber": "01.0141",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "数学名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "Π-定理",
+   "en": "Πtheorem",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "任何一个由n个有量纲的物理量参与的物理过程中的函数关系都可以转换成由n-k个这些物理量组成的无量纲量Πi之间的函数关系，其中k是具有独立量纲的物理量的数。由于这些无量纲量是以不同的Πi数来表示的，"
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.105",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π theorem",
+   "source": "土木工程名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "土木工程_土木工程检测_土木工程检测实验力学",
+   "subjectName": "土木工程检测实验力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "对应规则",
+   "en": "correspondence rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.219",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "包含理论术语和观察术语的语句。通过这些规则，可以在经验上间接地、部分地解释一个理论术语。"
+  },
+  {
+   "cn": "读者来信专栏",
+   "en": "correspondence column",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.107",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "刊登作者以第一人称反映现实生活中的新情况、新问题和新经验的一种报道形式栏目。"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性演绎",
+   "en": "linear deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎规则",
+   "en": "deduction rule",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动演绎",
+   "en": "automatic deduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定理",
+   "en": "theorem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "π定理",
+   "en": "π-theorem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险费用分担机制",
+   "subjectName": "健康保险费用分担机制",
+   "publishYear": "2025",
+   "definition": "被保险人在发生医疗费用后，先自付一定额度的医疗费用，其余费用全部或部分由医疗保险机构支付的保险设计"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.22",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从一般的概念或给定的规则中得出更具体的结论的推理程序。"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "通过分析由定性变量构成的交互汇总表来揭示变量间的联系，揭示同一变量的各个类别之间的差异，以及不同变量各个类别之间的对应关系的一种多元相依变量的统计分析技术。"
+  },
+  {
+   "cn": "置盐定理",
+   "en": "Okishio theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0131",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "置盐信雄（Nobuo Okishio）在1961年发表《技术变更与利润率》的论文中提出。认为在现行价格下，削减成本的技术创新，并没有引起新形成的均衡利润率的下降，从而否定了马克思经济学中的“利润率趋于"
+  },
+  {
+   "cn": "基本的马克思定理",
+   "en": "fundamental Marxian theorem",
+   "source": "马克思主义",
+   "wordNumber": "05.0130",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "1955年由日本置盐信雄最早证明，并由森岛通夫命名而首次为世界所知。这一定理用数学证明了剥削率为正值时平均利润率才为正值，即剩余价值是正的利润的存在条件。"
+  },
+  {
+   "cn": "犯罪功能论",
+   "en": "theory of functions of crime",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.053",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的关于犯罪作用的理论。他认为犯罪不仅是社会中的正常现象，而且也是社会所需要的现象。犯罪在社会中发挥着重要的功能，对社会的进步起着有益的作用，主要表"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.7",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "一种由多数人做决定的、将多数人的利益置于少数异议者的利益之上的政治统治形式，其制度性结果是对少数人之权利的侵害。美国学者乔•萨托利认为，多数专制存在于宪政结构、选举和一般社会三个不同的层面。"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "source": "马克思主义",
+   "wordNumber": "04.0212",
+   "subjectFullName": "马克思主义_其他部分_重要事件_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1848年，欧洲各国发生的资产阶级民主革命。革命从意大利西西里巴勒莫人民起义开始，席卷了法国、德国、匈牙利、捷克、波兰等国。巴黎工人的六月革命把这次革命推向高潮。由于资产阶级妥协、背叛，革命失败。马克"
+  },
+  {
+   "cn": "有机构成提高论",
+   "en": "theory of enhancement of organic composition of capital",
+   "source": "马克思主义",
+   "wordNumber": "05.0138",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "有机构成提高论立足于马克思主义的价值理论和有机构成理论，来考察有机构成提高与利润率下降、经济危机产生之间的联系。"
+  },
+  {
+   "cn": "生产资料私有制的社会主义改造理论",
+   "en": "theory of socialist transformation of private owership of means of production",
+   "source": "马克思主义",
+   "wordNumber": "02.0355",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的实现对农业、手工业和资本主义工商业社会主义改造的方针、政策、原则、形式、方法等的总称。我国从1953年至1956年底实施了这一私有制的改造。"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "为保护未成年人合法权益，促进未成年人健康成长和全面发展的法律法规。狭义指《中华人民共和国未成年人保护法》。"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "source": "马克思主义",
+   "wordNumber": "01.0220",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法最根本的规律，阐明矛盾包含着既互相联结、互相依存、互相渗透，又互相分离、互相排斥、互相否定的两个方面。矛盾着的对立面互相作用，又统一又斗争，构成一切事物的矛盾运动，推动着一切事物的变化和发展"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "source": "马克思主义",
+   "wordNumber": "03.0171",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "政府运用行政或政策手段将私有组织的生产资料的所有权及其派生权利转变（或收购）为国家所有的过程。是国家所有制经济形成过程中的一条重要途径。通常它指的是将私人财产国有化，但是有时它也指将私人财产市有化。由"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "source": "马克思主义",
+   "wordNumber": "05.0303",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1992年6月22日成立。该党自称是苏联时期吉尔吉斯坦苏维埃社会主义共和国共产党的继承党，其指导思想是马克思列宁主义。该党致力于恢复社会主义共和国。主张创造性地应用马克思列宁主义，建立以社会主义原则为"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "source": "马克思主义",
+   "wordNumber": "05.0306",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "1993年10月22日成立。该党宣称是苏联的摩尔达维亚苏维埃社会主义共和国共产党的继承党。该党以马克思、恩格斯、列宁、布哈林、葛兰西等理论家所阐释的马克思主义为指导思想。致力于恢复摩尔多瓦的经济、巩固"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "source": "马克思主义",
+   "wordNumber": "05.0310",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外共产党部分",
+   "subjectName": "国外共产党部分",
+   "publishYear": "2025",
+   "definition": "南斯拉夫社会主义时期执政党，前身为1919年成立的南斯拉夫共产党，1952年改称为“南斯拉夫共产主义者联盟”。在铁托领导下坚持社会主义自治制度和不结盟外交政策。1990年南共联盟宣告解散。"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.1",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员受伤部位划分的各部位伤伤员数占伤员总数的百分比。受伤部位常分为颇脑、颌面、颈、胸背、腰腹、阴臀、上肢、下肢、多部位、其他。可用以分析战术动作及工事情况等，为改进卫生装备提供依据。"
+  },
+  {
+   "cn": "伤类构成比",
+   "en": "proportion of types of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.2",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "按伤员致伤原因划分的各类伤员数占伤员总数的百分比。致伤原因常分为炸伤、枪伤、压挫伤、烧伤、冻伤、震荡伤、毒气伤、刀刃伤、混合伤,可用以评价武器效能。"
+  },
+  {
+   "cn": "神话阐释民俗",
+   "en": "interpretation of folklore of myth",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0438",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "神话是人类早期的精神产品，反映的是人们对周围世界和社会生活的认知，有时会成为特定地域特定群体的生存观、价值观或信仰等，可以作为阐释民俗的工具。这是因为民俗与神话元素或神话叙事具有相互依存性，民俗事象及"
+  },
+  {
+   "cn": "伤病员去向统计",
+   "en": "statistics of destination of patients",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "对伤病员的救治、康复和转归情况的统计分析，原始资料主要来自战斗伤员登记册和住院病员登记簿，主要统计指标包括归队率、后送率、留治率、残疾率等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

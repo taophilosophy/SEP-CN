@@ -1,0 +1,152 @@
+{
+ "key": "scientist",
+ "term": "scientist",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:31:15+00:00",
+ "status": "ok",
+ "note": "variant=scientist; 审定公布名词库=8; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "科学家共同体",
+   "en": "scientist community",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.078",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由从事科学研究的具有共同信念、共同价值观念的，遵从特定科学规范的科学家组成的正式或非正式的社会组织。具有科学交流、评价、承认、相互监督等重要功能。"
+  },
+  {
+   "cn": "情报学家",
+   "en": "information scientist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.188",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在情报学或情报事业领域造诣深厚，为情报理论和实践做出突出贡献，影响卓著的学科带头人或学科专家。"
+  },
+  {
+   "cn": "图书馆学家",
+   "en": "library scientist",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.187",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_图书情报职业",
+   "subjectName": "图书情报职业",
+   "publishYear": "2019",
+   "definition": "在图书馆学或图书馆事业领域造诣深厚，为图书馆理论和实践做出突出贡献，影响卓著的学科带头人或学科专家。"
+  },
+  {
+   "cn": "科学家的生产率",
+   "en": "productivity of scientists",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由美国学者A. J. 洛特卡（A. J. Lotka）于1926年率先提出。是指科学家（科研人员）在科学上表现出的能力和工作效率。通常用科学家生产的科学文献的数量来衡量。"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social role of scientist",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.067",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家在社会中扮演的角色和发挥的独特作用。不同时代、不同国家科学家的社会角色有所不同。在现代科学出现前，生产科学知识的往往是哲学家、数学家或技术工匠等。16、17世纪之后，随着科学研究的专业化、职业化"
+  },
+  {
+   "cn": "科学家的社会责任",
+   "en": "social responsibility of scientist",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.068",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "科学家在社会发展中应当履行的职责。科学家的基本责任是推进科学知识的进步，除科学研究外，科学家还应促进科学知识的传播，关注科学与社会的关系。一般来说，由于科学家具备专门知识，能够预见科学发展的风险与远景"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.054",
+   "subjectFullName": "自然辩证法_总论_科学观",
+   "subjectName": "科学观",
+   "publishYear": "2024",
+   "definition": "现代西方哲学和社会科学主要思潮之一。兴起于19世纪中期，与过度使用和信任科学有关，成为一种意识形态。其特征是一切唯科学，排斥其他认识与观点。"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "source": "心理学名词",
+   "wordNumber": "04.056",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于科学实证的心理学研究主张。"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据科学家",
+   "en": "data scientist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学家的矛盾心理",
+   "en": "ambivalence of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.5",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中奖励系统和规范系统之间产生的紧张和矛盾。具体表现为两种价值观的冲突：一方面，鼓励独创性价值使得科学家要求他人承认其研究发现的优先权；另一方面，鼓励要适当谦虚的价值则要求科学家不能过于强调自己"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social roles of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.10",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家作为知识分子在社会生活中所履行的不同社会角色。科学家具有不同的社会圈、社会地位以及承担着不同的功能。科学家的社会角色是伴随着科学体制化的过程发展的。"
+  },
+  {
+   "cn": "科学（家）共同体",
+   "en": "scientific community/community of scientists",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "对科学基本问题持有共同看法、并在科学实践中形成单一传统的科学家所组成的研究群体。"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "通常有两种含义：一是自然科学家或被认为属于自然科学家所持的典型的方法和态度；二是对自然科学方法之功效的过分依赖，即把科学的权威扩展到人们现在所承认的范围以外的尝试，把科学当作是唯一可能的理解方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

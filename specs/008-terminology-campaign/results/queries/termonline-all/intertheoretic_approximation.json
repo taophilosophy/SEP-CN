@@ -1,0 +1,452 @@
+{
+ "key": "intertheoretic approximation",
+ "term": "intertheoretic approximation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:31:12+00:00",
+ "status": "ok",
+ "note": "variant=intertheoretic approximation; 审定公布名词库=238; 海峡两岸名词对照库=61; 其他来源数据库=7; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "理论间还原",
+   "en": "intertheoretic reduction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "在两个理论的词汇表之间建立对应关系，使得一个理论能够从另一个理论中推导出来。"
+  },
+  {
+   "cn": "逼近",
+   "en": "approximation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0569",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "为某种图形表达寻找近似的表达方式的方法。其误差满足某种给定条件。"
+  },
+  {
+   "cn": "逼近",
+   "en": "approximation",
+   "source": "数学名词",
+   "wordNumber": "010.0078",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "近音",
+   "en": "approximant",
+   "source": "语言学名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "语言学_语音学_发音语音学",
+   "subjectName": "发音语音学",
+   "publishYear": "2011",
+   "definition": "根据发音方式不同而划分出来的一类辅音。发音时，主动调音器官和被动调音器官接近，但其接近程度还不足以产生可闻摩擦。近音虽然属于辅音，但其语音性质类似元音。"
+  },
+  {
+   "cn": "逼近式",
+   "en": "approximant",
+   "source": "数学名词",
+   "wordNumber": "010.0083",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可逼近性",
+   "en": "approximability",
+   "source": "数学名词",
+   "wordNumber": "010.0079",
+   "subjectFullName": "数学_数值分析_数值逼近",
+   "subjectName": "数值逼近",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "接合[术]",
+   "en": "conjugation,approximation",
+   "source": "显微外科学名词",
+   "wordNumber": "01.057",
+   "subjectFullName": "显微外科学_总论_基本手术技术",
+   "subjectName": "基本手术技术",
+   "publishYear": "2016",
+   "definition": "借助于缝合、黏合和机械固定等方法，在立体层面上将非管道样结构对接合拢在一起，恢复原有的组织解剖结构的外科手术技术。如皮肤、神经、肌腱和骨等的连接。"
+  },
+  {
+   "cn": "环甲接近术",
+   "en": "cricothyroid approximation",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "3.10.32.15",
+   "subjectFullName": "咽喉-头颈外科_咽喉–头颈治疗",
+   "subjectName": "咽喉–头颈治疗",
+   "publishYear": "2025",
+   "definition": "通过缝合缩短环状软骨和甲状软骨距离提高患者音调的手术方式。"
+  },
+  {
+   "cn": "流体力学近似",
+   "en": "magnetohydrodynamic approximation",
+   "source": "天文学名词",
+   "wordNumber": "09.298",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "流体(液体和气体)中运动物体的特征尺度远大于分子平均自由程时，可以将流体近似地看作连续介质，而不考虑其中的各个分子结构。"
+  },
+  {
+   "cn": "逼近法",
+   "en": "approximation method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.168",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "选择一客体与另一客体逼近，从而达到研究某一物体的内部结构、规律性或功能的方法。如数学中常用的逼近法。"
+  },
+  {
+   "cn": "等离心近似",
+   "en": "isocentrifugal approximation",
+   "source": "核科学技术名词",
+   "wordNumber": "1.074",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "在旋转体系中忽略轨道角动量变化的一种近似。轨道角动量的矢量可以用标量近似描‍述。"
+  },
+  {
+   "cn": "漂移近似",
+   "en": "drift approximation",
+   "source": "核科学技术名词",
+   "wordNumber": "3.229",
+   "subjectFullName": "核科学技术_核聚变_磁约束聚变",
+   "subjectName": "磁约束聚变",
+   "publishYear": "2024",
+   "definition": "处理带电粒子在磁场中运动的一种近似方法。用导向中心的运动描述粒子的运动，在回旋半径和回旋周期远小于电磁场时空变化的特征长度和时间以及电场很弱等条件下适‍用。"
+  },
+  {
+   "cn": "双曲近似",
+   "en": "parabolic approximation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0609",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "波动方程的一种近似。在双曲近似中，忽略了对全局射线方向的二阶导数。在波长远小于不均匀体的特征长度时成立。在此情形下，波动方程变成双曲线型方程。 "
+  },
+  {
+   "cn": "博恩近似",
+   "en": "Born approximation",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0926",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "迭代求解非齐次波动方程的微扰法。该方法将波分为满足齐次波动方程的初至波与小振幅的散射波。 "
+  },
+  {
+   "cn": "绝热近似",
+   "en": "adiabatic approximation",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0067",
+   "subjectFullName": "地球物理学_地热学_理论地热学",
+   "subjectName": "理论地热学",
+   "publishYear": "2022",
+   "definition": "普遍使用的、解包含电子与原子核的体系的量子力学方程的一种近似法。 "
+  },
+  {
+   "cn": "雷托夫近似",
+   "en": "Rytov approximation",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0397",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "地球物理学反演计算中地震数据波动方程叠前深度偏移成像和波场模拟中最为常用的一种近似方法。 "
+  },
+  {
+   "cn": "菲涅耳近似",
+   "en": "Fresnel approximation",
+   "source": "光学名词",
+   "wordNumber": "12.028",
+   "subjectFullName": "光学_光电检测与光学传感器",
+   "subjectName": "光电检测与光学传感器",
+   "publishYear": "2021",
+   "definition": "在研究大气中的电磁波传播时，认为湍流大气折射率的起伏不大且散射角较小的一种基本近似假设。"
+  },
+  {
+   "cn": "近轴近似",
+   "en": "paraxial approximation",
+   "source": "光学名词",
+   "wordNumber": "13.080",
+   "subjectFullName": "光学_一般光学系统与光学设计",
+   "subjectName": "一般光学系统与光学设计",
+   "publishYear": "2021",
+   "definition": "对光学系统进行分析时，以近轴光线为基础的一种近似分析方法。近轴光线高度和角度近似无穷小。"
+  },
+  {
+   "cn": "多边形近似",
+   "en": "polygonal approximation",
+   "source": "光学名词",
+   "wordNumber": "17.134",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "数字边界可以用多边形以任意精度来近似的方法。对于一条闭合边界，当多边形的边数等于边界上的点数时，这种近似会变得很精确，此时，每对相邻的点定义了多边形的一条边。多边形近似的目的是使用尽可能少的线段数来获"
+  },
+  {
+   "cn": "梯形[图]近似",
+   "en": "ladder approximation",
+   "source": "物理学名词",
+   "wordNumber": "09.1368",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "近似",
+   "en": "approximation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近似",
+   "en": "approximation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逼近",
+   "en": "approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布西内斯克近似",
+   "en": "Boussinesq approximation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "静力近似",
+   "en": "hydrostatic approximation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近似式",
+   "en": "approximation formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "斯托克斯近似法",
+   "en": "Stokes approximation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡近似",
+   "en": "equilibrium approximation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逐次逼近",
+   "en": "successive approximation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "连续体近似方法",
+   "en": "continuum approximation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "平衡近似",
+   "en": "equilibrium approximation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "静力近似",
+   "en": "hydrostatic approximation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "等涟漪逼近",
+   "en": "equirriple approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等温逼近",
+   "en": "isothermal approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格雷近似法",
+   "en": "Grey approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耗尽近似",
+   "en": "depletion approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法，逼近算法",
+   "en": "approximation algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲面逼近",
+   "en": "surface approximation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "β平面近似",
+   "en": "β-plane approximation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "近似法",
+   "en": "approximate method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法",
+   "en": "approximation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全局逼近定理",
+   "en": "universal approximation theorem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有限接近理论",
+   "en": "finite approximation theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子减速到静止所穿行的平均路径长度的近似值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

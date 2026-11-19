@@ -1,0 +1,732 @@
+{
+ "key": "apartness complement",
+ "term": "apartness complement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:23:04+00:00",
+ "status": "ok",
+ "note": "variant=apartness complement; 审定公布名词库=195; 海峡两岸名词对照库=86; 其他来源数据库=17; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "公寓",
+   "en": "apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0091",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "有完整的居住和厨卫设施布置，有统一的专人管理，以家庭使用为主的住宅。"
+  },
+  {
+   "cn": "公寓",
+   "en": "condominium,apartment",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.207",
+   "subjectFullName": "城乡规划学_城乡规划与设计_城市（镇）详细规划",
+   "subjectName": "城市（镇）详细规划",
+   "publishYear": "2021",
+   "definition": "在一幢建筑内以一个出入口并使用公共走廊和楼梯、电梯连接多个居住单元、供多户居住的住宅建筑。"
+  },
+  {
+   "cn": "单元式住宅",
+   "en": "apartment building",
+   "source": "建筑学名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "由几个住宅单元组合而成，每一个单元均设有楼梯或楼梯与电梯的住宅。"
+  },
+  {
+   "cn": "跃层住宅",
+   "en": "duplex apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0086",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "套内空间跨越两楼层及以上的住宅。"
+  },
+  {
+   "cn": "小套公寓",
+   "en": "efficiency apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0092",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "平均建筑面积25~45m²的公寓。"
+  },
+  {
+   "cn": "旅馆式公寓",
+   "en": "service apartment",
+   "source": "建筑学名词",
+   "wordNumber": "02.0093",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "提供旅馆式管理服务的住宅。"
+  },
+  {
+   "cn": "拉分",
+   "en": "pull-apart",
+   "source": "地质学名词",
+   "wordNumber": "03.308",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "拉分盆地",
+   "en": "pull-apart basin",
+   "source": "石油名词",
+   "wordNumber": "02.0148",
+   "subjectFullName": "石油_油气地质勘探_含油气盆地构造",
+   "subjectName": "含油气盆地构造",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "通廊式住宅",
+   "en": "corridor apartment,corridor house",
+   "source": "建筑学名词",
+   "wordNumber": "02.0089",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "由共用楼梯或共用楼梯、电梯通过内、外廊进入各套住房的住宅。"
+  },
+  {
+   "cn": "塔式住宅",
+   "en": "apartment of tower building",
+   "source": "建筑学名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "建筑学_建筑类型及组成_居住建筑",
+   "subjectName": "居住建筑",
+   "publishYear": "2014",
+   "definition": "以共用楼梯、电梯为核心布置多套住房的高层住宅。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0338",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一类存在于人和脊椎动物血清中协助免疫反应的一组血清蛋白质。可被抗原-抗体复合物或微生物所激活，导致病原微生物裂解或被吞噬。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.3.1.1",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "广泛存在于血清、组织液和细胞膜表面，具有调控机制的蛋白质反应系统。包括30余种组分。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "兽医学名词",
+   "wordNumber": "14.129",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "存在于正常动物和人血清中的一组不耐热酶原。活化后产生级联反应，在体内发挥重要的生物学效能。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "器官移植学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "器官移植学_器官移植免疫学",
+   "subjectName": "器官移植免疫学",
+   "publishYear": "2020",
+   "definition": "由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成，是一个具有精密调控机制的蛋白质反应系统。其可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、免疫"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "运动医学名词",
+   "wordNumber": "04.173",
+   "subjectFullName": "运动医学_运动生化_激素、免疫、细胞因子与运动",
+   "subjectName": "激素、免疫、细胞因子与运动",
+   "publishYear": "2019",
+   "definition": "一组具有酶活性的血清蛋白质。与抗体结合可使细菌或其他细胞溶解。其主要成分有：C1~C9、B因子、C1抑制因子和C4结合蛋白等，其中C1的活化可以引起其他成分的连续顺序性活化。其介导的生物学效应有：溶解"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "药学名词",
+   "wordNumber": "05.051",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "原指血清中引起免疫性细胞溶解的不耐热因子；现指至少由20种截然不同的血清蛋白组成的完整功能相关系统，该系统不仅是细胞性溶解的效应物，而且也是生物功能的效应物。"
+  },
+  {
+   "cn": "补语",
+   "en": "complement",
+   "source": "语言学名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分之一。是述补短语的组成成分，位于述语之后，主要由形容词和少数动词性成分充当，用来补充说明动作的结果、程度或状态。例如，“吃〈完〉”“洗〈干净〉”。个别副词也可以作补语，例如“好〈极〉了”。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "细胞生物学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "细胞生物学_细胞免疫",
+   "subjectName": "细胞免疫",
+   "publishYear": "2009",
+   "definition": "一类存在于人和脊椎动物血清中协助免疫反应的一组血清蛋白质。可被抗原-抗体复合物或微生物所激活，导致病原微生物裂解或被吞噬。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "免疫学名词",
+   "wordNumber": "2.357",
+   "subjectFullName": "免疫学_免疫系统_免疫分子",
+   "subjectName": "免疫分子",
+   "publishYear": "2007",
+   "definition": "由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成，是一个具有精密调控机制的蛋白质反应系统。该系统可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.319",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "住宅微气候",
+   "en": "apartment microclimate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拉张盆地",
+   "en": "pull-apart basin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "将船撑开",
+   "en": "breasting the ship apart",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补码",
+   "en": "complement",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船员定员",
+   "en": "complement",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补码器",
+   "en": "complementer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "互补作用",
+   "en": "complementation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "α互补",
+   "en": "alpha complemention\",\"α-complementation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体系统",
+   "en": "complement system",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "补体蛋白质",
+   "en": "complement protein",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体[固有]成分",
+   "en": "complement component",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体[系统]",
+   "en": "complement [system]",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体激活",
+   "en": "complement activation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体结合",
+   "en": "complement fixation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体偏离",
+   "en": "complement deviation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "补体受体",
+   "en": "complement receptor",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "山川异域，风月同天。",
+   "en": "While mountains and rivers separate us, we enjoy the same moonlight under the same sky.或Miles apart but close at heart.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "器材",
+   "en": "implement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装备",
+   "en": "implement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "状态感知",
+   "en": "status awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "态势感知",
+   "en": "situation awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "防范认知",
+   "en": "Security Awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络安全防护意识与能力",
+   "en": "cybersecurity awareness and ability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "掷出",
+   "en": "delivery of throwing implement\",\"release of throwing implement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融网络安全态势感知平台",
+   "en": "financial network security situation awareness platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子不器",
+   "en": "A Gentleman Is Not an Implement.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "做好工伤认定和待遇保障",
+   "en": "(to streamline/implement procedures) to identify and facilitate compensation for work-related infections",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统筹疫情防控与经济社会秩序恢复",
+   "en": "to implement epidemic prevention and control measures in parallel with those aimed at getting the economy and society back to normal ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“七个强化”",
+   "en": "the “Seven Strengthening” (strengthening theoretical competence, the sense of mission, responsibility, work in poverty alleviation, the awareness of development, honesty and self-discipline, and organizational construction)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "老年公寓",
+   "en": "apartment for the aged",
+   "source": "社会学名词",
+   "wordNumber": "3.15.7.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年社会服务",
+   "subjectName": "老年社会服务",
+   "publishYear": "2025",
+   "definition": "专供老年人集中居住，符合老年体能心态特征的公寓式住宅，具备餐饮、清洁卫生、文化娱乐、医疗保健服务体系，是综合管理的住宅类型。"
+  },
+  {
+   "cn": "补体",
+   "en": "complement",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.44",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "一个具有精密调控机制的蛋白质反应系统，由血浆补体成分、可溶性和膜型补体调节蛋白、补体受体等30余种糖蛋白组成。可通过3条既相对独立又相互联系的途径被激活，从而发挥调理吞噬、裂解细胞、介导炎症、免疫调节"
+  },
+  {
+   "cn": "原发性补体缺陷",
+   "en": "primary complement deficiency disease",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.15",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "由于先天性补体缺陷导致的疾病，大多数属常染色体隐性遗传。可出现反复感染，或伴发系统性红斑狼疮和慢性肾炎等。C1抑制剂缺陷患者表现为特有的遗传性血管神经性水肿。"
+  },
+  {
+   "cn": "自力更生为主争取外援为辅",
+   "en": "selfreliance is the core while seeking foreign aid is the complement",
+   "source": "马克思主义",
+   "wordNumber": "03.0499",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党领导革命和建设的一贯主张。既是新民主主义革命时期中国共产党领导革命斗争和开展根据地建设的战略和策略，也是社会主义经济建设以及外交工作的重要方针。"
+  },
+  {
+   "cn": "自我觉察",
+   "en": "self-awareness",
+   "source": "社会学名词",
+   "wordNumber": "4.1.4.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我认知",
+   "subjectName": "自我认知",
+   "publishYear": "2025",
+   "definition": "有两个不同含义：一是指个体对作为观察与分析客体的自我的知觉，包括身体感觉、动作及心理过程等；二是指个体对自己作为一个与他人相区隔，拥有一己知觉、情绪、情感、思想的独立个体的理解。"
+  },
+  {
+   "cn": "自我认知",
+   "en": "self-awareness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "理解自己的情绪、思想和价值观，及其如何在不同环境中影响自身行为的能力。"
+  },
+  {
+   "cn": "社会认知",
+   "en": "social awareness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "理解来自不同文化和背景的人及其观点的能力。"
+  },
+  {
+   "cn": "性意识",
+   "en": "sex awareness",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "对性的感觉、作用和地位的自我认识，是性心理活动的基础。"
+  },
+  {
+   "cn": "风险意识",
+   "en": "risk awareness",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对食品安全风险的感受、认识及由利益与风险之间的关系而产生的对风险的态度。"
+  },
+  {
+   "cn": "主管部门",
+   "en": "competent authority",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "法律授权的官方政府机构，通常指负责食品安全的主管部门"
+  },
+  {
+   "cn": "自我认知能力",
+   "en": "self-awareness skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "对自己的个性、优缺点和喜恶作出客观评价的能力。有助于个体建立自信心，与他人保持和发展良好的人际关系。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "免疫活性细胞",
+   "en": "immunological competent cell",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.14",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "参与免疫应答或与免疫应答有关的细胞统称为免疫活性细胞,包括淋巴细胞(T、B 细胞)、NK 细胞、单核/巨噬细胞、树突状细胞、粒细胞(中性粒细胞、嗜酸粒细胞、嗜碱粒细胞)、固有淋巴样细胞(IL,C)及其"
+  },
+  {
+   "cn": "性伴侣数量",
+   "en": "number of sexual partners",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有过性交关系的人数。"
+  },
+  {
+   "cn": "易受孕期知晓法",
+   "en": "fertility awareness-based method, FAB",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.9.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一系列通过女性使用者自行观察月经周期中变化特点，判断何时为易受孕期或不易受孕期，并在易受孕期避免阴道性交的自然避孕方法。"
+  },
+  {
+   "cn": "三讲教育活动",
+   "en": "education activities to stress study political awareness and integrity",
+   "source": "马克思主义",
+   "wordNumber": "04.0274",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1998年至2000年中共中央在全国县级以上党政领导班子、领导干部中开展以“讲学习、讲政治、讲正气”为主要内容的党性党风教育活动，是进一步贯彻党的十五大精神，推动深入学习邓小平理论，加强领导班子建设、"
+  },
+  {
+   "cn": "中国不能实行西方的多党制",
+   "en": "China cannot implement the system of western multiparty",
+   "source": "马克思主义",
+   "wordNumber": "04.0177",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党领导的多党合作的政党体制是国家的一项基本政治制度。中国之所以不能实行西方的多党制，是由中国社会主义的国家制度、政党制度和政治体制改革的基本原则所决定，其最根本的一条是没有任何其他政治力量能够"
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "strategy for making China strong by training competent personnel",
+   "source": "马克思主义",
+   "wordNumber": "03.0684",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依靠人才兴邦，走人才强国之路，大力提升国家核心竞争力和综合国力，是人才强国战略的核心要义。"
+  },
+  {
+   "cn": "归口包干",
+   "en": "budgets prepared by competent departments at central and local levels or to hold departments responsible for their finances",
+   "source": "马克思主义",
+   "wordNumber": "02.0393",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "财政预算归口管理、支出包干使用，是1954年邓小平任财政部长时，为了使国家财政建立在稳固的基础上，保证社会主义工业化建设和社会主义改造的需要而提出的财政工作方针。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

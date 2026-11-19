@@ -1,0 +1,141 @@
+name: 🔁 EN 互转漂移巡检（HTML ↔ markdown）
+
+# 每日三次核验「本地 HTML 目录（en/）↔ 英文 markdown（yuanwen/）」双向互转，
+# 相对已提交基线检测变动，有变动时开/更新 issue（specs/053 B3 系列运营化）。
+#
+#   正向 en→md：check_yuanwen_fidelity --gate（I2 重放等值，md ≡ convert(en)）
+#   反向 md→en：specs/053 bin/reassemble.py --all（B3.1 往返不动点 C(R(md))≡md）
+#   根因守卫：divergence.py verify（en/ 与原始钉逐字节一致）
+#
+# 「变动」口径＝相对基线扫描（results/assembly-scan-all.json）的**差集**，不是
+# 「有失败」：B3.1 存已知残差（规则闭合率约 66%），每次都有 fail 属正常。
+#
+# 原则（同 catalog-drift，specs/054 §3 单向波纹）：本工作流只读、只报告。
+#   不写 baseline、不改 en//yuanwen/、不提交任何内容文件；基线更新由人工/本地会话做。
+# 时间：UTC 01/09/17 点 = 北京时间 09:00 / 17:00 / 次日 01:00。
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1,9,17 * * *"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: en-roundtrip
+  cancel-in-progress: false
+
+jobs:
+  roundtrip:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: ① en 钉核验（en/ ↔ 原始钉）
+        id: divergence
+        continue-on-error: true
+        run: |
+          python tools/divergence.py verify > "$RUNNER_TEMP/divergence.json" 2>"$RUNNER_TEMP/divergence.err" || true
+          COUNT=$(python -c "import json;d=json.load(open('$RUNNER_TEMP/divergence.json',encoding='utf-8'));print(len(d.get('failures') or []))" 2>/dev/null || echo 0)
+          echo "failures=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: ② I2 正向重放（md ≡ convert(en)）
+        id: fidelity
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          if python tools/check_yuanwen_fidelity.py --gate 2>&1 | tee "$RUNNER_TEMP/fidelity.txt"; then
+            echo "code=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "code=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: ③ 逆向装配全库（B3.1 往返不动点，约 12–20 分钟）
+        id: assemble
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python -u specs/053-en-template-audit/bin/reassemble.py --all \
+            --out "$RUNNER_TEMP/assembly-scan.json" 2>&1 \
+            | tail -n 40 | tee "$RUNNER_TEMP/assembly.log" || true
+          test -f "$RUNNER_TEMP/assembly-scan.json" && echo "ok=1" >> "$GITHUB_OUTPUT" || echo "ok=0" >> "$GITHUB_OUTPUT"
+
+      - name: ④ 与基线对比（变动＝差集）
+        id: drift
+        if: always() && steps.assemble.outputs.ok == '1'
+        run: |
+          set -o pipefail
+          python tools/roundtrip_drift.py \
+            --fresh "$RUNNER_TEMP/assembly-scan.json" \
+            --baseline specs/053-en-template-audit/results/assembly-scan-all.json \
+            --divergence "$RUNNER_TEMP/divergence.json" \
+            --fidelity "${{ steps.fidelity.outputs.code }}" \
+            --json "$RUNNER_TEMP/drift.json" --md "$RUNNER_TEMP/drift.md" --quiet
+
+      - name: 归档报告
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: en-roundtrip-report
+          path: |
+            ${{ runner.temp }}/drift.json
+            ${{ runner.temp }}/drift.md
+            ${{ runner.temp }}/divergence.json
+            ${{ runner.temp }}/fidelity.txt
+            ${{ runner.temp }}/assembly.log
+            ${{ runner.temp }}/assembly-scan.json
+          if-no-files-found: ignore
+
+      - name: 有变动时创建或更新 Issue
+        if: always() && steps.drift.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TITLE="EN 互转漂移报告（HTML ↔ markdown）"
+          LABEL="en-roundtrip-drift"
+          gh label create "$LABEL" --color 0E8A16 \
+            --description "en/ 与 yuanwen/ 互转相对基线有变动" --force >/dev/null 2>&1 || true
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
+                 --json number --jq '.[0].number' 2>/dev/null || true)
+          {
+            echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+            echo "核验链：en 钉（divergence verify）→ I2 正向重放（fidelity --gate）→ B3.1 逆向装配（reassemble --all）"
+            echo
+            if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无对比报告）"; fi
+            echo
+            echo "**口径**：变动＝与 `specs/053-en-template-audit/results/assembly-scan-all.json`（基线）的差集；已知残差不重复报告。"
+            echo "**只读原则**：本工作流不写 baseline、不改 en//yuanwen/；落地由本地会话按 specs/053 W7–W12 与四出口处理。"
+          } > "$RUNNER_TEMP/issue-body.md"
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body-file "$RUNNER_TEMP/issue-body.md"
+            gh issue edit "$NUM" --add-label "$LABEL" >/dev/null
+          else
+            gh issue create --title "$TITLE" --body-file "$RUNNER_TEMP/issue-body.md" --label "$LABEL"
+          fi
+
+      - name: 巡检自身失败时另开问题
+        if: failure() || steps.assemble.outputs.ok != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TITLE="EN 互转漂移报告（HTML ↔ markdown）"
+          gh label create "en-roundtrip-broken" --color D93F0B \
+            --description "EN 互转巡检脚本/环境失败，需人工处理" --force >/dev/null 2>&1 || true
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
+                 --json number --jq '.[0].number' 2>/dev/null || true)
+          MSG="EN 互转巡检在运行中失败（run ${GITHUB_RUN_ID}）。请查看 [Actions 日志](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})。"
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body "$MSG"
+            gh issue edit "$NUM" --add-label "en-roundtrip-broken" >/dev/null
+          else
+            gh issue create --title "$TITLE" --body "$MSG" --label "en-roundtrip-broken"
+          fi

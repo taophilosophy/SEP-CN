@@ -1,0 +1,802 @@
+{
+ "key": "evidence sensitive",
+ "term": "Evidence sensitive",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:28:33+00:00",
+ "status": "ok",
+ "note": "variant=Evidence sensitive; 审定公布名词库=610; 海峡两岸名词对照库=221; 其他来源数据库=26; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "增感剂",
+   "en": "sensitizer",
+   "source": "精细化工名词",
+   "wordNumber": "08.1155",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "能提高感光乳剂的感光性能的物质。"
+  },
+  {
+   "cn": "敏化",
+   "en": "sensitized",
+   "source": "光学名词",
+   "wordNumber": "10.331",
+   "subjectFullName": "光学_光源",
+   "subjectName": "光源",
+   "publishYear": "2021",
+   "definition": "在晶体中掺入一种或多种能够吸收晶体被激活粒子的施主离子，从而提高激光器泵浦能量利用率的技术。"
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "冶金学名词",
+   "wordNumber": "02.0392",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "用来提高混合炸药的起爆或爆轰感度的物质。"
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "化学名词",
+   "wordNumber": "01.0771",
+   "subjectFullName": "化学_无机化学_无机固体化学",
+   "subjectName": "无机固体化学",
+   "publishYear": "2016",
+   "definition": "在发光材料的基质中掺入的能促进激活剂发光，使材料发光亮度增加的物质。"
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.257",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "用以提高混合炸药起爆感度的物质。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "地质学名词",
+   "wordNumber": "17.02.165",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "黏性土原状土样与重塑土样抗压强度的比值。"
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "农学名词",
+   "wordNumber": "13.215",
+   "subjectFullName": "农业气象_农业气象灾害",
+   "subjectName": "农业气象灾害",
+   "publishYear": "2025",
+   "definition": "农业生态系统中，在特定的时间和空间尺度上，承灾体对致灾因子响应的敏感程度。是承灾体固有的性质，也是脆弱性构成要素之一。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "农学名词",
+   "wordNumber": "18.016",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "测量系统的示值变化除以相应被测量值变化所得的商。"
+  },
+  {
+   "cn": "感光度",
+   "en": "sensitivity",
+   "source": "档案学名词",
+   "wordNumber": "05.04.015",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "感光材料感光快慢的程度，是感光材料的重要性质之一。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.131",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "通常指优化问题的解、目标函数值、约束可行性等对模型和数据的变化的响应。"
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏感化",
+   "en": "sensitization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "致敏性",
+   "en": "sensitization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "感光",
+   "en": "sensitization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏化",
+   "en": "sensitization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增敏",
+   "en": "sensitization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术性证据审查",
+   "en": "review of technical evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以明显优势获胜",
+   "en": "win by evident superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏感数据",
+   "en": "sensitive data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商业区块链存证",
+   "en": "blockchain-based evidence for business",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证取证技术",
+   "en": "technology for taking notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据交换技术",
+   "en": "technology for exchanging notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子合同区块链存证",
+   "en": "blockchain-based evidence for e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间敏感网络",
+   "en": "time-sensitive networking (TSN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国防敏感信息",
+   "en": "national defense sensitive information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "增敏剂",
+   "en": "sensitizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种不定期接触能够诱导免疫介导的超敏反应（包括过敏性光敏反应）的物质，并且再次接触该物质后超敏反应会更加明显。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "反映探测系统探测视野内所发生事件的能力。一般用很低活度的放射源进行测定，用单位活度的辐射源所产生的计数率表示。"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "循征系统评价",
+   "en": "evidence-based systematic review",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "全面收集所有相关、可靠的高质量临床研究并进行科学的定量合成(荟萃分析)从而得出综合可靠结论的过程"
+  },
+  {
+   "cn": "敏感人群",
+   "en": "sensitive population",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.129",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "因暴露而容易受到不良健康影响的人群，包括儿童、孕妇及老人等"
+  },
+  {
+   "cn": "敏感性检验",
+   "en": "sensitivity testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.10",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "按预先设定的评价基准，对样品的特性进行评定。用于选择或培训评价员，包括阈检验和稀释检验。"
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "某些电离辐射剂量计在辐照前后，表征辐射效应的某个量在光照（可见光或紫外光）作用下发生变化（增多或减少）的特性。这种特性多存在于一些无源剂量计，如热释光剂量计、化学剂量计等。"
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "以不足以使生物系统产生反应的少量刺激物作用于该系统，却能使其对特定的刺激物产生更为强大的生理响应的现象。如小剂量的脂质炎症因子提高炎细胞对炎症介质的敏感性，从而增强了炎性细胞的浸润和吞噬等功能。"
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体对无害物质产生过敏反应。"
+  },
+  {
+   "cn": "亚硫酸盐敏感",
+   "en": "sulfite sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5.4",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "亚硫酸盐是食品中常见的漂白剂、防腐剂和抗氧化剂，由于食用含有该物质的食物而出现哮喘、过敏或其他异常反应的疾病。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "排除某个研究后，重新估计合并效应量，并与未排除前的荟萃分析结果进行比较，并对合并效应量的影响程度及结果稳健性进行分析的过程。"
+  },
+  {
+   "cn": "放射敏感器官",
+   "en": "radiation sensitive organ",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "人体不同组织器官对放射的敏感性不同，通常骨髓、卵巢、睾丸、眼晶状体和甲状腺敏感，也是放射工作人员职业健康检查中重点关注的组织器官。"
+  },
+  {
+   "cn": "性别敏感政策",
+   "en": "gender-sensitive policies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "具有社会性别意识和敏感性的公共政策。认为不同性别的生存与发展是由社会性别关系、社会性别权力、社会性别地位等决定的，因而不同性别有着不同的需求以及可能相冲突的利益点，需要充分评估和考察每一项政策显性和隐"
+  },
+  {
+   "cn": "致敏淋巴细胞",
+   "en": "primed lymphocyte，sensitized lymphocyte",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.3.2.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫细胞",
+   "subjectName": "免疫细胞",
+   "publishYear": "2025",
+   "definition": "经抗原初次刺激而发生克隆扩增的特异性T细胞和B细胞。"
+  },
+  {
+   "cn": "核探测器灵敏体积",
+   "en": "sensitive volume of nuclear detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "核辐射探测器中对核辐射灵敏，并用于探测的那部分体积。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

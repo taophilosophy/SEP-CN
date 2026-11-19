@@ -1,0 +1,562 @@
+{
+ "key": "quantifier commitments",
+ "term": "quantifier commitments",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:32:07+00:00",
+ "status": "ok",
+ "note": "variant=quantifier commitments; 审定公布名词库=82; 海峡两岸名词对照库=41; 其他来源数据库=6; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0440",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "命题演算中使用的符号，用以指明该命题涉及的对象范围，包括存在(<img src='/root/syzx/static/spz/jsjkx3.02.0180.001.png'/>)量词（指存在一个满足该"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0055",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概率量词",
+   "en": "probabilistic quantifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0443",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "和存在(<img src='/root/syzx/static/spz/jsjkx3.02.0180.001.png'/>)及全称(<img src='/root/syzx/static/spz/js"
+  },
+  {
+   "cn": "受囿量词",
+   "en": "bounded quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0061",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0056",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0057",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代入量词",
+   "en": "substitutional quantifiers",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.264",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对量词的一种解释。认为，F(x)是真的，当且仅当把x换成某个专名a能使得F(a)真。一些哲学家比如蒯因认为，诉诸对存在量词的代入解释，存在量词就不会涉及指称、存在以及本体论的问题。"
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.151",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种通过文字或口头方式，同意相互约定的条件，以提升人际关系与互动质量与效率的沟通行为。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "细胞生物学名词",
+   "wordNumber": "06.222",
+   "subjectFullName": "细胞生物学_细胞分化与发育",
+   "subjectName": "细胞分化与发育",
+   "publishYear": "2009",
+   "definition": "细胞或组织尽管在表型上与未限定细胞没有差别，但其发育命运已经受到限制的状态。"
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "遗传学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "限定细胞按某一特定命运发育的过程。包括特化和决定这两个阶段。"
+  },
+  {
+   "cn": "提交",
+   "en": "commit",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0273",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "正常结束事务执行。"
+  },
+  {
+   "cn": "量词收缩定理",
+   "en": "quantifier contraction theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0185",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "定理如下：若存在一个可计算关系 R 使得<img src='/root/syzx/static/spz/jsjkx3.02.0185.001.png'/><img src='/root/syzx/st"
+  },
+  {
+   "cn": "非标准量词",
+   "en": "non-standard quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0058",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量词消去",
+   "en": "elimination of quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0090",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "定向复合物",
+   "en": "commitment complex",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0283",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "含有细胞核前体mRNA和U1 snRNP的复合物。协助U1 snRNP将其结合的内含子剪掉。"
+  },
+  {
+   "cn": "职业承诺",
+   "en": "occupational commitment",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.092",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播关系与文化",
+   "subjectName": "组织传播关系与文化",
+   "publishYear": "2022",
+   "definition": "组织成员对组织制度和实践的知觉与组织契约之间的一种认同与接受。它包括情感承诺、留任承诺和规范承诺。情感承诺是组织成员对组织的情绪依恋、认同感和卷入程度；留任承诺是指基于相关组织成员离开组织带来损失的一"
+  },
+  {
+   "cn": "剂量负担",
+   "en": "dose commitment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.173",
+   "subjectFullName": "医学影像技术学_X射线防护_常用的辐射量及其单位",
+   "subjectName": "常用的辐射量及其单位",
+   "publishYear": "2020",
+   "definition": "一个计算工具。用符号Ec表示。由于特定事件如一年计划排放的活度所致人均剂量率的无限时间积分。排放率在无限时间内为常数的情况下，特定人群将来人均所受最大年剂量率等于一年的实践剂量负担，不考虑居民人数的变"
+  },
+  {
+   "cn": "安全承诺",
+   "en": "safety commitment",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.032",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "在关注安全和追求安全绩效方面，由企业代表全体员工公开做出的具有稳定意愿及实践行动的明确表示。"
+  },
+  {
+   "cn": "智能体的承诺",
+   "en": "agent commitment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0169",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在某个状态下，一个智能体从多个愿望中选择一个作为意图，称该智能体对所选择的愿望做出了承诺。"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "定型，限定",
+   "en": "commitment",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "定型",
+   "en": "commitment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量化知识复杂度",
+   "en": "quantified knowledge complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯承诺",
+   "en": "career commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贷款承诺",
+   "en": "loan commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口承诺",
+   "en": "import commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资承诺，投资保证",
+   "en": "investment commitment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "束缚因子",
+   "en": "commitment factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "输出提交",
+   "en": "output commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位提交",
+   "en": "bit commitment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定向细胞",
+   "en": "committed cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "关键步骤",
+   "en": "committed step",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字合作承诺》",
+   "en": "Global Commitment for Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《全球数字信任与安全承诺》",
+   "en": "Global Commitment on Digital Trust and Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脱贫攻坚责任书",
+   "en": "the letter of commitment on poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多行不义必自毙",
+   "en": "He Who Repeatedly Commits Wrongdoing Will Come to No Good End.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“我将无我，不负人民。”",
+   "en": "I will work selflessly and live up to the expectations of the people. I will fully commit to my people and never fail the people. I am ready to set aside my own interests in service of the people. I will never seek my own good and never fail the people.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "承诺",
+   "en": "commitment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.09",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "就某事做出肯定性的应允，并保证尽力执行或表示一定努力使其实现的一种不可无故变更的道德允诺。"
+  },
+  {
+   "cn": "组织承诺",
+   "en": "organizational commitment",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "个体认同并参与某个组织的强度，包括三大要素一是高度信任与接受组织的目标与价值；二是愿意为组织付出努力；三是希望能继续留在组织中，可视为个人对组织的主动关系，即个人愿意努力付出，以协助组织成功，而不仅是"
+  },
+  {
+   "cn": "十四个坚持",
+   "en": "fourteen commitment",
+   "source": "马克思主义",
+   "wordNumber": "03.0809",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大报告提出，全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中全面准确贯彻落实，做到十四个坚持，即：一、坚持党对一切工作的领导；二、坚持以人民为中心；三、坚持全面深化改"
+  },
+  {
+   "cn": "待积剂量",
+   "en": "committed dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.24",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "待积有效剂量和待积当量剂量的统称。评价人体（包括辐照食品工作人员）所受内照射剂量的大小。"
+  },
+  {
+   "cn": "有效剂量负担",
+   "en": "effective dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.13",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人受到的有效剂量率在无限长时间内的积分，单位是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积当量剂量",
+   "en": "committed equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.8",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻器官或组织的当量剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "器官当量剂量负担",
+   "en": "organ equivalent dose commitment",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "由于某一决策或实践使特定的群体受到持续照射时，平均每人的某一器官或组织所受剂量当量率在无限长时间内的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "妇幼卫生项目政府承诺",
+   "en": "government commitment for woman and child health project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "政府就实现妇幼卫生项目目标和改善妇幼健康所作的公开政治诺言，并同时与项目部门签约落实。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "empirical negation",
+ "term": "empirical negation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:30:07+00:00",
+ "status": "ok",
+ "note": "variant=empirical negation; 审定公布名词库=993; 海峡两岸名词对照库=337; 其他来源数据库=30; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "否定[词]",
+   "en": "negation",
+   "source": "数学名词",
+   "wordNumber": "02.0034",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑差",
+   "en": "logical negation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.022",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“非”的运算。即从原检索范围A减去一部分B，以缩小检索范围，通常用算符“非”或“NOT”表示两个文件集逻辑差的关系。"
+  },
+  {
+   "cn": "否定要素",
+   "en": "negation element",
+   "source": "建筑学名词",
+   "wordNumber": "09.0437",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "否定图形符号原含义的符号要素。通常包括直杠和叉形两种形式。"
+  },
+  {
+   "cn": "否定副词",
+   "en": "negation adverb",
+   "source": "语言学名词",
+   "wordNumber": "04.090",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "表示否定的副词。例如“不”“没”“未必”。"
+  },
+  {
+   "cn": "失败即否定",
+   "en": "negation as failure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0059",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "为了消解不允许推出否定信息的限制，基思·克拉克（Keith Clark）于1978年提出的一种对原子公式的否定的非经典解释：对原子公式 p ,若缺少充分的条件证明 p ，则可以推得not（ p ），即"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "心理学名词",
+   "wordNumber": "10.150",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "患者坚信本人、其他人及某些物体已不复存在的妄想。常伴有心境极度低落。"
+  },
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据科学事实和经验知识而建立的模型。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "经验预见",
+   "en": "empirical prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "科学理论对经验事实的预见。包括对经验事实、经验规律的重复性预见以及对未知的新颖事实的预见。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "Empirical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.167",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "形成于20世纪初，以功能主义为主要理论指导，在传播研究中注重经验材料和实证考察。该学派以美国传播研究学者为主。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "经验延迟",
+   "en": "empirical delay",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "根据经验值设定扫描延迟时间的方法。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0757",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过数理统计处理实测数据，实现定量描述输入和输出变量之间关系的一种数学模型。"
+  },
+  {
+   "cn": "否定妄想",
+   "en": "delusion of negation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "非门",
+   "en": "negation gate\",\"NOT gate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验洪水公式",
+   "en": "empirical flood formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "实证效标计分法",
+   "en": "empirical criterion keying",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验杂波模式",
+   "en": "empirical clutter model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验正交函数",
+   "en": "empirical orthogonal function\",\"EOF",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半经验气候模式",
+   "en": "semi-empirical climate model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "工尺谱",
+   "en": "Gong-che Notation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "网络中心国家",
+   "en": "core nation in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "辩证否定",
+   "en": "dialectical negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0093",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“抽象否定”相对。是事物的自我否定，是事物发展和相互联系的环节，其实质是“扬弃”。辩证的否定是辩证法的批判的革命的实质所在。"
+  },
+  {
+   "cn": "抽象否定",
+   "en": "abstract negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0094",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“辩证否定”相对，是完全否定的形而上学观点。它割裂肯定和否定之间的辩证关系，在绝对不相容的对立中思维，把肯定和否定对立起来，也就是否定中完全不存在肯定。认为否定就是否定一切，或宣布某一物不存在，或用"
+  },
+  {
+   "cn": "否定之否定规律",
+   "en": "law of the negation of negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0222",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "唯物辩证法的基本规律之一。揭示了事物在发展的过程中，由肯定到否定，再由否定到否定之否定，经过两次否定达到更高阶段的规律。表明事物由于内部矛盾所引起的发展是螺旋式上升、波浪式前进。它指明新事物代替旧事物"
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "联系",
+   "en": "relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0031",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切现象、事物、过程之间及内部诸要素之间相互连结、相互依赖、相互影响、相互制约、相互渗透和相互转化的关系。它具有客观性、普遍性、多样性、复杂性。联系的观点是唯物辩证法的总特征之一。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "被认知为由共同历史、文化和共同祖先所连结起来的共同体。"
+  },
+  {
+   "cn": "民族",
+   "en": "nation",
+   "source": "马克思主义",
+   "wordNumber": "03.0115",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类社会发展的一定历史阶段形成的社会共同体之一。它是在共同语言、共同地域、共同经济生活、共同文化上的共同心理素质的稳定的共同体，是人类进入阶级社会的产物。在人类社会发展到共产主义后，各民族将融为一体"
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "负染",
+   "en": "negative staining",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于不透光液体标本镜检的染色方法。其染色处理过程并非针对菌体本身，生物膜可用此法进行目测观察。"
+  },
+  {
+   "cn": "普遍联系",
+   "en": "universal relation",
+   "source": "马克思主义",
+   "wordNumber": "01.0032",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一切事物、现象、过程之间以及事物内部诸要素、环节之间相互关联的范畴；整个世界是由无数具体事物及其过程所构成的相互联系的统一整体，世界上不存在任何孤立存在的事物、现象和过程，联系是普遍的，绝对的。普遍联"
+  },
+  {
+   "cn": "土地关系",
+   "en": "agrarian relation",
+   "source": "马克思主义",
+   "wordNumber": "03.0184",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "土地占有和利用中各阶级、阶层、社会团体和个人之间所发生的一种特殊的生产关系。主要内涵是地租关系。首先包含土地所有权即土地归谁所有的形式，它是任何社会的土地关系的基础。其次，还包含受制于土地所有制形式的"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "输卵管结扎术",
+   "en": "tube ligation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.10.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将输卵管切断或不切断后结扎，阻断输卵管，阻断卵子运送和精卵相遇结合，达到永久性避孕目的的一种手术方法。有多种手术方式，包括经腹、经阴道、腹腔镜下手术等。"
+  },
+  {
+   "cn": "民族关系",
+   "en": "ethnic relation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0008",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "民族之间政治、经济、文化等方面各种联系的总和，它是指民族间的整体性联系，而非各民族成员之间的个体关系。"
+  },
+  {
+   "cn": "关系取向",
+   "en": "relation orientation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0641",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "在梁漱溟“伦理本位”及“关系本位”概念基础上进一步发展而来，以此进一步突出中国人私人关系化的自我模式及组织特征，指中国人在日常生活中相互施报、彼此依赖的一种行为模式或心理倾向，强调儒家人伦意涵在私人“"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

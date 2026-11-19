@@ -1,0 +1,702 @@
+{
+ "key": "attentive absorption",
+ "term": "attentive absorption",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:33:31+00:00",
+ "status": "ok",
+ "note": "variant=attentive absorption; 审定公布名词库=1165; 海峡两岸名词对照库=440; 其他来源数据库=13; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.011",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "心理活动的指向性。心理活动或意识在某一时刻所处的状态，表现为对一定对象的指向和集中。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "生理学名词",
+   "wordNumber": "03.750",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "精神医学名词",
+   "wordNumber": "02.154",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.212",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "约束认知或心理加工过程，使其指向和集中于有关信息，以增进这些信息加工速度和准确性的过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "心理学名词",
+   "wordNumber": "02.464",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "心理活动的指向性。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.181",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "吸收[性]",
+   "en": "absorption,absorptivity",
+   "source": "地质学名词",
+   "wordNumber": "04.196",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "吸收性",
+   "en": "absorption;absorptivity",
+   "source": "地质学名词",
+   "wordNumber": "02.00.232",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体对入射光波吸收的性能。在偏光显微镜的单偏光下观察岩石薄片时，具有吸收性的非均质矿物的吸收性强弱可随方向而变化，即旋转物台时发生颜色深浅的改变。"
+  },
+  {
+   "cn": "眼球经济",
+   "en": "attention economy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.069",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济",
+   "subjectName": "传媒经济",
+   "publishYear": "2022",
+   "definition": "经营消费者的注意力，并把这种无形资产转换成有形的经济效益或广告价值、资本价值的配置过程。"
+  },
+  {
+   "cn": "不随意注意",
+   "en": "involuntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.012",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "由强烈、新颖或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "随意注意",
+   "en": "voluntary attention",
+   "source": "行为医学名词",
+   "wordNumber": "4.013",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "自觉的、有预定目的、需要一定意志努力的注意。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "生理学名词",
+   "wordNumber": "03.751",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "生理学名词",
+   "wordNumber": "03.752",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意锁定",
+   "en": "engaging attention",
+   "source": "生理学名词",
+   "wordNumber": "03.753",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "精神医学名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "精神医学_症状与体征_注意障碍症状",
+   "subjectName": "注意障碍症状",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "同一时间内个体能够清楚觉察或知觉的客体数量。"
+  },
+  {
+   "cn": "内隐注意",
+   "en": "covert attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.222",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且不伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "外显注意",
+   "en": "overt attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "将注意朝向特定的刺激且伴随头部或眼睛的运动。"
+  },
+  {
+   "cn": "内源性注意",
+   "en": "endogenous attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.216",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "在个体原有经验驱动下产生的注意。其需要个体的主观解释自主性、概念驱动的加工过 程。"
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.217",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体在同时呈现的两种以上的刺激中选择一种而忽略其他刺激的心理过程。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意阶段",
+   "en": "attentive stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意广度",
+   "en": "attention span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉注意",
+   "en": "auditory attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意力经济",
+   "en": "attention economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意注意,不随意注意",
+   "en": "involuntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分配性注意",
+   "en": "divided attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性注意",
+   "en": "selective attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有意注意,随意注意",
+   "en": "voluntary attention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择注意",
+   "en": "selective attention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "引起注意装置",
+   "en": "attention device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力聚焦",
+   "en": "attention focusing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意转移",
+   "en": "attentional shifting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "注意过程",
+   "en": "attentional process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "吸收[作用]",
+   "en": "absorption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吸收作用",
+   "en": "absorption",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "注意力",
+   "en": "attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注意力机制",
+   "en": "attention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意：淘汰！",
+   "en": "Attention: elimination!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立正！",
+   "en": "Attention! Charyeot!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "attention\",\"guard position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停足",
+   "en": "stand to attention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "风险损失吸收机制",
+   "en": "risk loss absorption mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "食必常饱，然后求美",
+   "en": "Attention to Refined Taste Comes Only After the Stomach Is Sated.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "从同时呈现的几个物体或思维序列中选择一个对象的过程。一般是指人们集中于某种特殊内、外环境刺激而不被其他刺激分散的能力。"
+  },
+  {
+   "cn": "注意",
+   "en": "attention",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.12",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体的精神活动集中地指向于一定对象的心理现象。不是一种独立的心理过程，与感知觉、记忆和思维等心理过程相互影响。"
+  },
+  {
+   "cn": "注意力发展",
+   "en": "attention development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "心理活动对一定对象有选择的集中能力随年龄增长的发展变化过程。注意力的发展与神经系统的发育以及心理活动的发展高度相关。"
+  },
+  {
+   "cn": "无意注意",
+   "en": "involuntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "由强烈的、新颖的或感兴趣的事物引发的无预定目的和意志努力的注意。"
+  },
+  {
+   "cn": "有意注意",
+   "en": "voluntary attention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "自觉的、因预定目的产生的，经过意志努力保持的注意。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.2.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "外源化学物从机体的接触部位透过生物膜屏障进入血液的过程。主要发生在胃肠道、呼吸道和皮肤。"
+  },
+  {
+   "cn": "吸收",
+   "en": "absorption",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物从机体的接触部位透过生物膜进入血液的过程。主要发生在胃肠道、呼吸道和皮肤"
+  },
+  {
+   "cn": "中子吸收",
+   "en": "neutron absorption",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.33",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与原子核反应后被吸收，不再作为自由中子存在的现象。"
+  },
+  {
+   "cn": "自吸收",
+   "en": "self-absorption",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.10",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "电离辐射被辐射体材料本身所吸收的一种现象。在放射源中称为源自吸收。在测量α或β放射源活度中，自吸收需要修正。如用4πβ计数管进行测量时，需要采用各种制源技术制成薄膜源，降低自吸收。"
+  },
+  {
+   "cn": "能量吸收",
+   "en": "energy absorption",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "入射辐射能量的全部或一部分传递给所穿过的物质的现象。伴随有能量损耗的散射（如康普顿散射和中子减速）也视为能量吸收。"
+  },
+  {
+   "cn": "阻吸收",
+   "en": "prevent absorption",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性核素内污染治疗中的一种医学处理方式，应用药物与放射性核素螯合、形成难溶性化合物或在胃肠道内壁形成保护膜，阻止胃肠道吸收。"
+  },
+  {
+   "cn": "吸收屏障",
+   "en": "absorption barrier",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.31",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "可以延缓外源化学物渗透到人体内速度的界面。包括皮肤、呼吸道内壁和胃肠道壁等。"
+  },
+  {
+   "cn": "吸收率",
+   "en": "absorption rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.30",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物被机体吸收的量与摄入总量的比值。"
+  },
+  {
+   "cn": "阻吸收药",
+   "en": "absorption inhibitor",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.6.7",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器损伤救治",
+   "subjectName": "核武器损伤救治",
+   "publishYear": "2025",
+   "definition": "能够有选择性地阻止或减少放射性核素（碘、锶、铯、钡、镭、氚等）吸收，减轻其进入机体组织器官后引起的急性内照射，降低对机体损害的药物。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "多发生于儿童时期的神经和精神障碍。主要表现为明显的与年龄不相符的注意力分散、行为冲动、活动过度等特征，常伴学习困难和社会适应能力下降。"
+  },
+  {
+   "cn": "注意缺陷多动障碍",
+   "en": "attention deficit hyperactivity disorder, ADHD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "多发于儿童期的一种神经和精神障碍。主要表现为注意力集中困难、注意广度缩小、不分场合的活动过度和行为冲动等特点，常伴有认知障碍和学习困难，往往其智力基本正常。"
+  },
+  {
+   "cn": "全吸收峰",
+   "en": "total absorption peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "对于X射线或γ射线，探测器吸收入射光子的全部能量后在能谱上所形成的峰。全吸收峰和光电峰的差别在于全吸收峰可以由康普顿效应和电子对效应引起。"
+  },
+  {
+   "cn": "原子吸收分光光度法",
+   "en": "atomic absorption spectrophotometry, AAS",
+   "source": "消毒学",
+   "wordNumber": "6.1.13.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于被测元素的基态原子对特征辐射的吸收程度进行定量分析的方法。"
+  },
+  {
+   "cn": "线能量吸收系数",
+   "en": "linear energy absorption coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "X、γ射线在物质中穿行单位长度时，光子能量向次级电子转移，且通过次级电子的电离、激发过程被物质吸收的份额。SI单位为每米，记作m-1。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

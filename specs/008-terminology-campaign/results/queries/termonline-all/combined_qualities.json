@@ -1,0 +1,782 @@
+{
+ "key": "combined qualities",
+ "term": "combined qualities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:22:48+00:00",
+ "status": "ok",
+ "note": "variant=combined qualities; 审定公布名词库=1595; 海峡两岸名词对照库=278; 其他来源数据库=69; 预公布名词数据库=119; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "联合收割机",
+   "en": "combine; combine harvester",
+   "source": "农学名词",
+   "wordNumber": "14.086",
+   "subjectFullName": "农业工程_农业机械化与装备",
+   "subjectName": "农业机械化与装备",
+   "publishYear": "2025",
+   "definition": "能够一次完成谷物收割、脱粒、分离和清选作业的收获联合作业机械。按行走和动力配置分为自走式、悬挂式和牵引式，按谷物喂入方式分为全喂入式和半喂入式。"
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.1054",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "对于无法取消而又必需的工序或动作，通过合并或将多人操作改进成单人或单台操作，以实现省时简化的方法研究分析原则。"
+  },
+  {
+   "cn": "组合化",
+   "en": "combination",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0741",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对不同的显性知识进行组织与加工的过程。比如撰写报告、构建模型等。"
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "微生物学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "由属名和一个或多个加词组成的属以下、种或种以下分类单元的名称。"
+  },
+  {
+   "cn": "搭配",
+   "en": "combination",
+   "source": "语言学名词",
+   "wordNumber": "04.260",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "指词项之间的习惯性同现。例如，“白”表示“雪或霜的颜色”时经常和实体搭配，而表示“没有效果”时经常和动作行为搭配，因此也可以说搭配体现了词的意义上的组合关系。"
+  },
+  {
+   "cn": "联合",
+   "en": "combination",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.036",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "数学名词",
+   "wordNumber": "03.0007",
+   "subjectFullName": "数学_组合学·一般数学系统_组合学",
+   "subjectName": "组合学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "农学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "农产品质量安全_农产品质量安全标准",
+   "subjectName": "农产品质量安全标准",
+   "publishYear": "2025",
+   "definition": "一组固有特性满足要求的程度。"
+  },
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0535",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "一组固有特性满足要求的程度。"
+  },
+  {
+   "cn": "质量",
+   "en": "quality",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.058",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "品质",
+   "en": "quality",
+   "source": "电气工程名词",
+   "wordNumber": "28.001",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "联合基础",
+   "en": "combined footing,combined foundation",
+   "source": "土木工程名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "土木工程_土力学与地基基础_浅基础",
+   "subjectName": "浅基础",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "混合性皱纹",
+   "en": "combination wrinkle;combination line",
+   "source": "整形外科名词",
+   "wordNumber": "14.113",
+   "subjectFullName": "整形外科_头颈部整形与美容_面颈部美容手术",
+   "subjectName": "面颈部美容手术",
+   "publishYear": "2026",
+   "definition": "皮肤组织松弛、表情肌收缩等多种原因引起的皱纹。机制复杂，如鼻唇沟皱纹、口周皱纹等。"
+  },
+  {
+   "cn": "转换接箍",
+   "en": "combination coupling,combination collar",
+   "source": "石油名词",
+   "wordNumber": "12.0659",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "质量认证",
+   "en": "quality authentication,quality certification",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.078",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "国际上通行的管理产品质量的有效方法。分为产品质量认证和质量体系认证两类。"
+  },
+  {
+   "cn": "质量监督",
+   "en": "quality superintendence,quality  surveillance",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.1041",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "普通外科学名词",
+   "wordNumber": "09.025",
+   "subjectFullName": "医学_普通外科学_创伤",
+   "subjectName": "创伤",
+   "publishYear": "2026",
+   "definition": "同时或相继遭受两种或两种以上的不同性质致伤因素作用而引起的损伤。"
+  },
+  {
+   "cn": "混合性失语症",
+   "en": "combined aphasia",
+   "source": "神经外科学名词",
+   "wordNumber": "4.071",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "既有感觉性失语，也有运动性失语的病理状态。"
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "整形外科名词",
+   "wordNumber": "2.034",
+   "subjectFullName": "整形外科_创伤修复_急性创伤",
+   "subjectName": "急性创伤",
+   "publishYear": "2026",
+   "definition": "两种以上致伤因素所致的损伤。如放射损伤复合烧伤、烧伤复合冲击伤等。通常将主要伤情放在首位。"
+  },
+  {
+   "cn": "混合流",
+   "en": "combined flow",
+   "source": "地质学名词",
+   "wordNumber": "16.03.037",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "地下水流在统一的运动场中，层流和紊流同时存在的水流。如在大孔隙或较宽的裂隙中地下水呈紊流状态；在细小的孔隙或裂隙中地下水呈层流状态。"
+  },
+  {
+   "cn": "组合器",
+   "en": "combiner",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combination",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共同授粉",
+   "en": "combined pollination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复合焊丝",
+   "en": "combined wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "合成星等",
+   "en": "combined magnitude",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "合并报价单",
+   "en": "combined quotation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合并订单",
+   "en": "combined order",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合并发盘",
+   "en": "combined offer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "联合免疫缺陷",
+   "en": "combined immunodeficiency",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "联合疫苗",
+   "en": "combined vaccine",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "联合平差",
+   "en": "combined adjustment",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "组合[磁]头",
+   "en": "combined head",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合策略",
+   "en": "combined strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合站",
+   "en": "combined station",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合指令",
+   "en": "combined command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合并舷灯",
+   "en": "combined lantern",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "配合力",
+   "en": "combining ability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "双名组合",
+   "en": "binary combination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "串级组合",
+   "en": "cascade combination",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "组合",
+   "en": "combine\",\"combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合拳",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配合",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "组合动作",
+   "en": "combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混合防守",
+   "en": "combined marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人旋转",
+   "en": "combined spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作组合",
+   "en": "complex combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "编排扣分",
+   "en": "combination fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双重障碍",
+   "en": "double combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭式多重障碍",
+   "en": "closed combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式多重障碍",
+   "en": "open combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "战术配合",
+   "en": "tactical combination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合并",
+   "en": "combination",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.1.2.5.4",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置",
+   "subjectName": "卫生资源配置",
+   "publishYear": "2025",
+   "definition": "通过资产收购或者合同订立等方式，实现两个或多个卫生服务机构合为一体的行为。"
+  },
+  {
+   "cn": "质",
+   "en": "quality",
+   "source": "马克思主义",
+   "wordNumber": "01.0076",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量”相对。一事物与其他事物相区别的内在规定性。事物的质是由事物内部的特殊矛盾决定的。质是认识事物的基础。"
+  },
+  {
+   "cn": "化合氯",
+   "en": "combined chlorine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "水中氯与氨的化合物，其中包括NH2Cl、NHCl2、NHCl3等。"
+  },
+  {
+   "cn": "复合伤",
+   "en": "combined injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继遭受两种或两种以上不同性质致伤因素的共同作用而引起的复合损伤。"
+  },
+  {
+   "cn": "复合效应",
+   "en": "combined effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "机体遭受两种或两种以上致伤因素的作用后所产生的损伤效应。单一伤之间可相互影响，使原单伤的表现不完全相同于单独发生的损伤。"
+  },
+  {
+   "cn": "联合免疫缺陷",
+   "en": "combined immunodeficiencies",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.5.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_免疫缺陷病",
+   "subjectName": "免疫缺陷病",
+   "publishYear": "2025",
+   "definition": "一组因淋巴细胞出现发育缺陷或Ｔ细胞、Ｂ细胞之间相互作用信号障碍，而引起的一类体液免疫与细胞免疫同时缺陷导致的疾病。患者通常为新生儿或婴幼儿。根据免疫缺陷致的病情严可分为严重联合免疫缺陷病和部分性联合免"
+  },
+  {
+   "cn": "品质因数",
+   "en": "quality factor",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "依据授予物质能量的带电粒子的相对生物学效应，对特定位置上软组织吸收剂量施加修正的一个权重。"
+  },
+  {
+   "cn": "品质指数",
+   "en": "quality index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.34",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "X辐射中，对10 cm×10 cm的辐射野，在体模内沿辐射束轴于20 cm深度处和10 cm深度处所测量的吸收剂量之比值。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "在质量方面的指挥和控制活动，通常包括制定质量方针和质量目标以及质量策划、质量控制、质量保证和质量改进。"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足质量要求所必需的计划和系统措施。"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.5.1.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "质量管理的一部分，为满足规定的质量要求所采取的技术措施和活动。"
+  },
+  {
+   "cn": "社会质量",
+   "en": "social quality",
+   "source": "社会学名词",
+   "wordNumber": "4.3.1.12",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策基础概念及问题",
+   "subjectName": "社会政策基础概念及问题",
+   "publishYear": "2025",
+   "definition": "测量公民日常生活是否达到一个社会可接受水准的指标及标准，民众在提升福祉和个人潜能的条件下，能够参与社区经济社会生活的程度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "睡眠质量",
+   "en": "sleep quality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "评定睡眠过程及其效果的综合指标。主要包括睡眠时间、睡眠过程干扰、睡眠效果、对睡眠质量的整体感受等方面。"
+  },
+  {
+   "cn": "质量管理",
+   "en": "quality management",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量管理”。又称“妇幼健康监测质量管理”。确定妇幼卫生监测、服务或项目的质量方针、目标和职责，并通过明确的质量控制和评价方法来实现对服务或流程中涉及效率、效果、绩效、问责、结果和其他"
+  },
+  {
+   "cn": "质量评价",
+   "en": "quality evaluation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "全称“妇幼卫生监测质量评价”。又称“妇幼健康监测质量评价”。应用数据质量指标对妇幼健康数据资料的真实性、完整性、准确性等进行评审和鉴定的过程。"
+  },
+  {
+   "cn": "职业素养",
+   "en": "professional quality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "从业人员所具有的职业品质，是从业人员对于职业活动的知、情、意、信和行的统一。包括职业知识和技能、职业思想道德、职业行为习惯等方面。"
+  },
+  {
+   "cn": "食品质量",
+   "en": "food quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.2",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品的一组固有特性满足要求的程度。固有特性为顾客合法期望与生产经营者须履行的，如感官和营养等；满足要求为明示的（食品标签和说明书）、隐含的（无缺陷、欺诈和掺假）和必须履行的（法律法规及强制性标准）。"
+  },
+  {
+   "cn": "产品质量",
+   "en": "product quality",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.32",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "产品本身具有的满足顾客要求或技术要求的固有特征和特性"
+  },
+  {
+   "cn": "质量控制",
+   "en": "quality control",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.3.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在健康教育/健康促进计划实施的过程中，采用特定的方法和手段对健康教育/健康促进的实施过程进行监督，了解实施过程，保证实施效果等的活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

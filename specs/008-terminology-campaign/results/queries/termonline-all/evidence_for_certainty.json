@@ -1,0 +1,802 @@
+{
+ "key": "evidence for certainty",
+ "term": "evidence for certainty",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:23:49+00:00",
+ "status": "ok",
+ "note": "variant=evidence for certainty; 审定公布名词库=5427; 海峡两岸名词对照库=1007; 其他来源数据库=804; 预公布名词数据库=615; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "确定性分析",
+   "en": "certainty analysis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.103",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在明确的技术条件、市场环境、投资数据、财税参数等基本假设条件下评价分析项目的净现值、内部收益率、净年金、净终值、投资回收期等常用指标，并进行多方案比较的各类分析。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "只存在一种完全确定的自然状态下的决策，即在已知未来可能发生的情况的条件下，根据每一个备选方案只能产生唯一的结果，从中选择最优方案。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "source": "经济学名词",
+   "wordNumber": "10.172",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "决策者对所要决策的问题具有必要和充分的信息，能够确知面临的状态，并且每个行动只导致唯一的结局时所做的决策。"
+  },
+  {
+   "cn": "证据",
+   "en": "evidence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.067",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "能够支撑假说可靠性的事实。"
+  },
+  {
+   "cn": "确定性因子方法",
+   "en": "certainty factor theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0112",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "最初为专家系统MYCIN开发的处理不确定性的数值方法。用确定性因子刻画证据为真的程度，或当规则前提为真时，其结论为真的程度。"
+  },
+  {
+   "cn": "电子证据",
+   "en": "electronic evidence",
+   "source": "档案学名词",
+   "wordNumber": "06.01.014",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "案件发生过程中形成的，以数字化形式存储、处理、传输的，能够证明案件事实的数据。经过科学管理的电子文件可以充当电子证据。"
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "证据生成者",
+   "en": "evidence creator",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.067",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在医疗信息系统集成规范中，创建已完成检查的附加影像、关键影像和相关文档，并发送至归档服务器的应用程序。"
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0114",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "它是一种不精确推理理论，满足比贝叶斯概率论更弱的条件，具有直接表达“不确定”和“不知道”的能力，以处理不确定信息。"
+  },
+  {
+   "cn": "审核证据",
+   "en": "audit evidence",
+   "source": "林学名词",
+   "wordNumber": "06.386",
+   "subjectFullName": "林学_森林经理_森林认证",
+   "subjectName": "森林认证",
+   "publishYear": "2016",
+   "definition": "与审核准则有关的并且能够证实的记录、事实陈述或其他信息。"
+  },
+  {
+   "cn": "客观证据",
+   "en": "objective evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0711",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "支持事物存在或其真实性的数据，可通过观察、测量、试验或其他手段获得。"
+  },
+  {
+   "cn": "审计证据",
+   "en": "audit evidence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0388",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师为了得出审计结论和形成审计意见而使用的信息，包括构成财务报表基础的会计记录所含有的信息和其他信息。"
+  },
+  {
+   "cn": "故障迹象",
+   "en": "fault evidence",
+   "source": "航空科学技术名词",
+   "wordNumber": "13.044",
+   "subjectFullName": "航空科学技术_航空器维修工程",
+   "subjectName": "航空器维修工程",
+   "publishYear": "2003",
+   "definition": "一种可以鉴别的偏差，通过它可以识别出功能故障或隐患故障的发生。"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "decision making under certainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0042",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者在决策所需信息都可获得的条件下做出的决策。即决策者确切知道有哪些方案，并且每种方案只有一个确定的结果。"
+  },
+  {
+   "cn": "凭证依据作用",
+   "en": "role of evidence",
+   "source": "档案学名词",
+   "wordNumber": "02.01.022",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "公文功能的具体表现形式之一。指其在日常工作中成为工作查考和凭证依据方面的作用。"
+  },
+  {
+   "cn": "循证营养学",
+   "en": "evidence-based nutrition",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0535",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "系统收集现有的最佳证据，结合专业知识在制定营养政策与营养实践中应用的一门学科。"
+  },
+  {
+   "cn": "证据分级",
+   "en": "levels of evidence",
+   "source": "计划生育名词",
+   "wordNumber": "05.010",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "从原来单纯的治疗性研究证据的分级逐渐发展到病因/危害、诊断、治疗、预防、预后、鉴别诊断、疾病流行病学调查和经济学与决策分析的标准。由原来的五级标准，逐渐细化，进而发展为九级分级标准，强调研究证据的级别"
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collect evidence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0411",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "在安全事件调查中，对计算机系统进行详细检查，以获取对嫌疑攻击者进行调查和起诉的相关可信证据。"
+  },
+  {
+   "cn": "循证临床指南",
+   "en": "evidence-based guideline",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.100",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "依据循证医学方法开发的临床指南。"
+  },
+  {
+   "cn": "确定因子",
+   "en": "certainty factor",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "确信度",
+   "en": "certainty factor\",\"CF",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "古气候证据",
+   "en": "paleoclimate evidence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轶事型证据",
+   "en": "anecdotal evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不确定证据",
+   "en": "uncertain evidence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证据理论",
+   "en": "evidence theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "确定证据",
+   "en": "conclusive evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "效标关联证据",
+   "en": "criterion related evidence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "初步证据",
+   "en": "prima facie evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鼠患检查",
+   "en": "inspection of rat evidence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "付现交易",
+   "en": "for cash",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现款交易",
+   "en": "for money",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "要求赔偿损失的诉讼",
+   "en": "action for compensation for loss",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口申报单",
+   "en": "declaration for exportation (=declaration for export)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口申报单",
+   "en": "declaration for importation (=declaration for import)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "四手联弹",
+   "en": "for four hands",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "胆囊窝",
+   "en": "fossa for gallbladder",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "腘肌沟",
+   "en": "groove for popliteus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "植入窗",
+   "en": "window for implantation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "致阵亡者",
+   "en": "For the Fallen",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Elgar, Edward"
+  },
+  {
+   "cn": "信息取证",
+   "en": "information collection for evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "商业区块链存证",
+   "en": "blockchain-based evidence for business",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证取证技术",
+   "en": "technology for taking notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据保全技术",
+   "en": "technology for preserving notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公证证据交换技术",
+   "en": "technology for exchanging notarized evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子证据",
+   "en": "e-evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字证据",
+   "en": "digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机证据",
+   "en": "computer evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链证据",
+   "en": "blockchain evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子合同区块链存证",
+   "en": "blockchain-based evidence for e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能证据摘录",
+   "en": "intelligent evidence excerpt",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据电文证据",
+   "en": "data message evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术性证据审查",
+   "en": "review of technical evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以明显优势获胜",
+   "en": "win by evident superiority",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "争夺",
+   "en": "contend for",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《EN ISO/IEC 27042-2016 信息技术 安全技术 数字证据分析和解释的指南》",
+   "en": "EN ISO/IEC 27042:2016 Information technology — Security techniques — Guidelines for the analysis and interpretation of digital evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道问学",
+   "en": "Quest for Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "证据的污染",
+   "en": "evidence contaminated",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "经验证据受到理论或非理论（如文化、社会、经济、政治）因素的干扰，而减弱甚至丧失其认识论上的权威性。"
+  },
+  {
+   "cn": "证据规则",
+   "en": "rules of evidence",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.21",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "理性学科的一个特征，其主要作用在于为评价某种特定研究或理性工作是否具有有效性和价值提供理性标准和依据。"
+  },
+  {
+   "cn": "四重证据法",
+   "en": "quadruple evidence method",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0236",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文学人类学研究的“四重证据法”以王国维提出的“二重证据法”为发端，经历了20 世纪“三重证据法”的探索，于21 世纪初形成“四重证据法”方法论。第一重证据指传世文献，第二重证据指地下文献（包括甲骨文、"
+  },
+  {
+   "cn": "证据权重",
+   "en": "weight of evidence, WOE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.32",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对获得的反映某一因素或状况引起生物、系统或（亚）人群健康不良作用的所有证据进行评估和加权的一种方法。"
+  },
+  {
+   "cn": "调查取证",
+   "en": "investigation and evidence collection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.1.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "有管辖权的行政机关对决定立案处理的违法案件，为查明案件的违法事实而依法进行的专门调查、获取证据和采取强制措施的活动。"
+  },
+  {
+   "cn": "二重证据法",
+   "en": "method of dual evidence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0071",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国近代学家王国维创立的一种文史研究方法，对20 世纪中国学术研究产生了巨大的影响，主要指“纸上之材料”与“地下之新材料”相互印证。"
+  },
+  {
+   "cn": "循征系统评价",
+   "en": "evidence-based systematic review",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "全面收集所有相关、可靠的高质量临床研究并进行科学的定量合成(荟萃分析)从而得出综合可靠结论的过程"
+  },
+  {
+   "cn": "特殊医学用途配方食品注册技术审评",
+   "en": "technical review for registration for food for special medical purposes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.2",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "审评机构根据申请材料、现场核查报告、抽样检验报告以及专家意见等，作出是否准予相应特殊医学用途配方食品注册的建议。"
+  },
+  {
+   "cn": "新法接生",
+   "en": "disinfection for delivery",
+   "source": "消毒学",
+   "wordNumber": "4.8.4",
+   "subjectFullName": "消毒学_消毒应用_居家消毒",
+   "subjectName": "居家消毒",
+   "publishYear": "2025",
+   "definition": "遵循分娩的规律，用科学的方法进行消毒的接生。"
+  },
+  {
+   "cn": "监督监测",
+   "en": "monitoring for inspection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_卫生监督",
+   "subjectName": "卫生监督",
+   "publishYear": "2025",
+   "definition": "放射卫生监督人员在监督过程中，对被监督对象开展的辐射剂量或潜在污染的抽样检测。"
+  },
+  {
+   "cn": "营利组织",
+   "en": "for-profit organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以谋取利润为目的、从事经济活动的经济组织。与“非营利组织”相对。"
+  },
+  {
+   "cn": "亲子制度",
+   "en": "institutions for parenthood",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.27",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "规范父母与子女间的权利义务关系的制度。包括父母子女关系如何发生、变更、消灭以及父母子女间的权利义务关系等。"
+  },
+  {
+   "cn": "生育制度",
+   "en": "institutions for reproduction",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.32",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "社会对包括求偶、结婚、抚育和性关系的制度性安排。在费孝通的同名著作里，他将婚姻、家庭、夫妇配合、亲子关系、代际传承、亲属制度都纳入了讨论，因为这种种制度安排均是为了完成抚育新生孩童的功能，最终目的乃是"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家为了实现伟大的科学发现或为了推进科学研究及发展，以获得相应声誉而持有的抱负。通常表现为科学家为此目的而希望在其事业和工作业绩方面有所成就。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "儿童个案工作",
+   "en": "casework for children",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "以儿童为对象的个案工作。这是儿童社会工作的重要方法之一，隶属于个案社会工作，同时又有其独特的涵义、要素和特点。以儿童（多指有问题的儿童）为服务对象，直接目标在于帮助儿童解决困难和问题，并预防产生新的困"
+  },
+  {
+   "cn": "生存斗争",
+   "en": "struggle for survival",
+   "source": "马克思主义",
+   "wordNumber": "03.0172",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文自然选择进化理论的核心概念，包括生物与自然条件之间的斗争，异种个体间的斗争；同种个体间的竞争等。每个生物在生存过程中必须跟自然环境作斗争、跟同一物种的生物作斗争、跟不同物种的生物作斗争，其中以同"
+  },
+  {
+   "cn": "爱国主义教育",
+   "en": "education for patriotism",
+   "source": "马克思主义",
+   "wordNumber": "03.0525",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "树立热爱祖国并为之献身的思想教育。爱国主义教育是思想道德建设的一个重要内容,它就是要帮助人们认清只有社会主义才能救中国,才能发展中国的真理,在全社会发扬自尊、自信、自强的民族精神和培养正确的国家观念。"
+  },
+  {
+   "cn": "营利性医院",
+   "en": "for-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "医疗服务所得收益可用于投资者经济回报的医院。"
+  },
+  {
+   "cn": "体育用地",
+   "en": "land for sports",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生",
+   "subjectName": "学校选址与用地卫生",
+   "publishYear": "2025",
+   "definition": "体操、田径、球类、武术项目及场地间专用通道等用地。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

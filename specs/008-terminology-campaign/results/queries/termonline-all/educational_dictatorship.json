@@ -1,0 +1,782 @@
+{
+ "key": "educational dictatorship",
+ "term": "educational dictatorship",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:21:56+00:00",
+ "status": "ok",
+ "note": "variant=educational dictatorship; 审定公布名词库=1030; 海峡两岸名词对照库=23; 其他来源数据库=43; 预公布名词数据库=193; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "粮食专卖",
+   "en": "Food dictatorship",
+   "source": "世界历史名词",
+   "wordNumber": "05.0347",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1918-1921年，苏维埃国家采取的一系列粮食购销措施(垄断粮食贸易、实行余粮收集制等)，是“战时共产主义”政策的一项重要内容。"
+  },
+  {
+   "cn": "阶级专政的机关报",
+   "en": "organ of class dictatorship",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.07",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "列宁关于苏维埃报刊政治性质的术语。1918年他批评报刊没有严肃揭露各种怠工行为时说，报刊“不像一个阶级实行专政的机关报”。"
+  },
+  {
+   "cn": "无产阶级专政",
+   "en": "dictatorship of the proletariat",
+   "source": "世界历史名词",
+   "wordNumber": "01.0092",
+   "subjectFullName": "世界历史_综合_国际共产主义运动",
+   "subjectName": "国际共产主义运动",
+   "publishYear": "2012",
+   "definition": "无产阶级领导的、以工农联盟为基础的社会主义国家政权。"
+  },
+  {
+   "cn": "学历",
+   "en": "education",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0444",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "在某种等级与类型的学校接受教育后肄业或毕业，获得某种学位或证书的经历。"
+  },
+  {
+   "cn": "教育学科",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "08.081",
+   "subjectFullName": "教育学_高等教育_系科、学科",
+   "subjectName": "系科、学科",
+   "publishYear": "2013",
+   "definition": "学科分类之一。包括教育学原理、教育史、比较教育、学前教育、高等教育、职业教育等学科。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "教育学名词",
+   "wordNumber": "07.174",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "（1）广义指一切有目的地影响人的身心发展的社会实践活动。（2）狭义指学校教育，即教育者根据一定的社会要求和受教育者的身心发展规律，有目的、有计划、有组织地对受教育者的身心施加影响，期望受教育者发生预期"
+  },
+  {
+   "cn": "教育者",
+   "en": "educator",
+   "source": "教育学名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "教育活动中直接对受教育者的知识、技能、思想、品德等方面起到影响作用的人。包括教师、家长等。其中教师作为教育活动的设计者、实施者和组织者，对学生身心发展的质量起着重要的制约作用。"
+  },
+  {
+   "cn": "可教性",
+   "en": "educability",
+   "source": "教育学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "个体在接受教育影响的过程中表现出来的敏感性、可塑性和多样性。"
+  },
+  {
+   "cn": "教育评价",
+   "en": "education evaluation,education appraisal,education assessment",
+   "source": "教育学名词",
+   "wordNumber": "15.070",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "按照一定的价值和标准，对各种教育活动的质量和水平及其满足社会与个体需要的程度做出判断，以改进教育质量的过程。"
+  },
+  {
+   "cn": "教育咨询",
+   "en": "educational advice,educational counseling",
+   "source": "教育学名词",
+   "wordNumber": "15.041",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "针对特定教育问题，向委托方提供分析和建议的活动。"
+  },
+  {
+   "cn": "专科",
+   "en": "vocational education,technical education",
+   "source": "教育学名词",
+   "wordNumber": "08.169",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等教育的基本层次之一。修业年限一般为2～3年，毕业后发专科毕业证书。"
+  },
+  {
+   "cn": "感觉教育",
+   "en": "sensorial education,sensory education",
+   "source": "教育学名词",
+   "wordNumber": "06.098",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "有目的、有计划地形成与发展幼儿的感知觉与观察力，培养幼儿正确运用感官认识周围环境，为幼儿思维活动的形成和发展奠定良好基础的教育活动。是学前儿童智育的重要组成部分。"
+  },
+  {
+   "cn": "报纸是无产阶级专政工具",
+   "en": "newspaper is instrument of proletarian dictatorship",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "2.09",
+   "subjectFullName": "新闻学与传播学_马克思主义新闻思想_术语观点",
+   "subjectName": "术语观点",
+   "publishYear": "2022",
+   "definition": "中国“文化大革命”时期关于报纸性质的认识。当时“两报一刊”编辑部文章指出：毛主席提出了一条完整的无产阶级新闻路线。按照这条路线，无产阶级要把报纸的领导权掌握在自己的手中，使之成为无产阶级专政的工具。"
+  },
+  {
+   "cn": "教育型花园",
+   "en": "educational garden",
+   "source": "风景园林名词",
+   "wordNumber": "05.0157",
+   "subjectFullName": "风景园林_风景园林规划_城乡绿地系统分类",
+   "subjectName": "城乡绿地系统分类",
+   "publishYear": "2025",
+   "definition": "以户外学习为目标导向，为儿童提供观察、发现、实验、探索等互动行为的景观场所，其空间中拥有能够激发儿童学习行为的要素。"
+  },
+  {
+   "cn": "教育费附加",
+   "en": "educational surtax",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.067",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "对缴纳消费税、增值税的单位和个人征收的用于教育的附加费，用于发展地方性教育事业，扩大地方教育经费的资金来源。"
+  },
+  {
+   "cn": "教育类图书",
+   "en": "educational book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.075",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "内容与教学活动相关的图书。"
+  },
+  {
+   "cn": "教育深化",
+   "en": "educational deepening",
+   "source": "经济学名词",
+   "wordNumber": "06.052",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "由受过较高程度教育的劳动者替代受过较低程度教育的劳动者的现象。由于发展中国家教育的个人成本与社会成本随教育程度提高差距急剧扩大，造成对教育，尤其是高等教育强烈的需求，使教育规模迅速扩大，受过教育的劳动"
+  },
+  {
+   "cn": "教育信息化",
+   "en": "educational informationization",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0144",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "在教育领域运用计算机、网络和多媒体技术，促进教育活动信息化的过程。"
+  },
+  {
+   "cn": "教育康复",
+   "en": "educational rehabilitation",
+   "source": "老年医学名词",
+   "wordNumber": "07.003",
+   "subjectFullName": "老年医学_老年康复医学",
+   "subjectName": "老年康复医学",
+   "publishYear": "2017",
+   "definition": "是特殊教育的一部分，按照教育对象的实际需要，制定教育方案，组织教育教学，实施个别训练，给予强化辅导的康复方法。"
+  },
+  {
+   "cn": "教育建筑",
+   "en": "educational building",
+   "source": "建筑学名词",
+   "wordNumber": "02.0154",
+   "subjectFullName": "建筑学_建筑类型及组成_教育建筑",
+   "subjectName": "教育建筑",
+   "publishYear": "2014",
+   "definition": "供人们开展教学活动所使用的各种建筑物统称。"
+  },
+  {
+   "cn": "教育测验",
+   "en": "educational testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育年龄",
+   "en": "educational age",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育心理学",
+   "en": "educational psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯教育",
+   "en": "career education",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理教育",
+   "en": "geographical education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "教育地图集",
+   "en": "education atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺培育， 胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "驯化T[淋巴]细胞",
+   "en": "educated T lymphocyte， educated T cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "teleeducation\",\"distance education",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教育地理学",
+   "en": "geography of education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "点播教育",
+   "en": "education on demand\",\"EOD",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教育与心理测验标准",
+   "en": "Standards for Educational and Psycholo gical Testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "production",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "active line",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "arithmetic unit, arithmetic section",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "VACTERAL综合征",
+   "en": "vertebral anal cardiac tracheoesophageal renal and limb syndrome\",\"VACTERAL syndrome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "均等分裂",
+   "en": "equational division",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数字独裁",
+   "en": "digital dictatorship",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "师法之化",
+   "en": "Enlightenment Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因材施教",
+   "en": "Audience-based Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文化",
+   "en": "Wenhua (Cultural Education)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融消费者教育",
+   "en": "financial consumer education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育扶贫",
+   "en": "poverty alleviation through education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧文教",
+   "en": "Smart Culture and Education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教育与培训2020（ET 2020）",
+   "en": "Education and Training 2020 (ET 2020)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有教无类",
+   "en": "Education for All Without Discrimination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教学为先",
+   "en": "Education Must Be Placed First.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "资产阶级专政",
+   "en": "dictatorship of bourgeois",
+   "source": "马克思主义",
+   "wordNumber": "03.0237",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义国家的阶级实质。它是资产阶级通过资产阶级革命,推翻封建制度建立起来的,对无产阶级和其他劳动人民的政治统治。其主要职能有镇压本国被统治阶级的反抗,调节本阶级内部的矛盾和维护加强资本主义剥削等。"
+  },
+  {
+   "cn": "人民民主专政",
+   "en": "peoples democratic dictatorship",
+   "source": "马克思主义",
+   "wordNumber": "03.0341",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级（经过共产党）领导的、以工农联盟为基础的、实行人民民主和人民专政的国家政权。毛泽东指出：“对人民内部的民主方面和对反动派的专政方面，互相结合起来，就是人民民主专政。”中华人民共和国成立后，人民"
+  },
+  {
+   "cn": "无产阶级专政",
+   "en": "dictatorship of the proletariat",
+   "source": "马克思主义",
+   "wordNumber": "03.0200",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级领导的，以工农联盟为基础的，以消灭一切阶级和实现共产主义为使命的，新型民主和新型专政相结合的政权。是社会主义国家的国体,是无产阶级消灭资本主义、建设社会主义、实现共产主义的根本手段和途径。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "斯大林无产阶级专政思想",
+   "en": "Stalins theory of proletarian dictatorship",
+   "source": "马克思主义",
+   "wordNumber": "04.0098",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林继承发展了马克思列宁主义关于无产阶级专政的理论，他在《论列宁主义基础》等著作中阐述了他的无产阶级专政思想。主要内容有：①无产阶级专政与资产阶级专政的区别，是多数人对少数人的统治，是公开的、群众的"
+  },
+  {
+   "cn": "教育民族志",
+   "en": "educational ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0139",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "运用民族志的调查技术与方法研究文化传播尤其是学校教育及其过程的一种研究方法或者一种文本叙述形式。"
+  },
+  {
+   "cn": "教育功能",
+   "en": "educational function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导最重要的功能。督导的过程是一个教育的过程，督导并不是简单地告诉被督导者做什么，而是要根据社会工作学习者的学习需要，通过教与学的互动，有计划、按步骤地引导被督导者的学习。"
+  },
+  {
+   "cn": "教育干预",
+   "en": "educational intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过普及安全知识影响人们行为的过程。"
+  },
+  {
+   "cn": "教育人类学",
+   "en": "educational anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0135",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "应用文化人类学（民族学）的概念、原理和方法来研究教育的一门新兴学科，倡导从人类发展的宏观高度来把握现代教育的本质，打破囿于教育本位、以教育论教育的状况。"
+  },
+  {
+   "cn": "教育价值观",
+   "en": "educational values",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0141",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对整个教育核心价值或基础价值的看法或观念，以及对其他的教育观念有直接或间接的影响作用，与其他的教育观念一起规范着、指导着或调节着人们的教育行为。"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

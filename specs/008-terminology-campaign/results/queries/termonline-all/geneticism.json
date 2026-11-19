@@ -1,0 +1,412 @@
+{
+ "key": "geneticism",
+ "term": "Geneticism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:33:42+00:00",
+ "status": "ok",
+ "note": "variant=Geneticism; 审定公布名词库=101; 海峡两岸名词对照库=43; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "遗传霉素",
+   "en": "geneticin",
+   "source": "植物学名词",
+   "wordNumber": "16.0363",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "一种氨基糖苷类抗生素。主要功能是阻断多肽链的合成和延伸，多用于细胞培养来筛选转化了新霉素抗性基因的真核细胞。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.146",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "研究基因的结构、功能、变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究生物遗传与变异的本质及其规律，探索基因的结构、功能、传递、表达及变异规律的学科。"
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "物理学名词",
+   "wordNumber": "11.0358",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "研究基因的结构、功能及其变异、传递和表达规律的学科。"
+  },
+  {
+   "cn": "法医遗传学",
+   "en": "medicolegal genetics,forensic  genetics",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.018",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "鱼类遗传学",
+   "en": "genetics of fishes,fish genetics",
+   "source": "水产名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "研究鱼类遗传与变异的学科。"
+  },
+  {
+   "cn": "作物遗传学",
+   "en": "crop genetics",
+   "source": "农学名词",
+   "wordNumber": "01.102",
+   "subjectFullName": "总论_农业科学",
+   "subjectName": "农业科学",
+   "publishYear": "2025",
+   "definition": "研究作物遗传和变异规律的学科。是作物育种学的基础。"
+  },
+  {
+   "cn": "遗传内分泌学",
+   "en": "endocrine genetics",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "总论_学科概述",
+   "subjectName": "学科概述",
+   "publishYear": "2025",
+   "definition": "研究遗传因素在内分泌疾病发生发展过程中所起作用的学科。"
+  },
+  {
+   "cn": "正向遗传学",
+   "en": "forward genetics",
+   "source": "农学名词",
+   "wordNumber": "15.027",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "遗传学上从性状入手研究决定该性状相关基因结构、定位、功能和遗传变异规律的研究方法。"
+  },
+  {
+   "cn": "反向遗传学",
+   "en": "reversed genetics",
+   "source": "农学名词",
+   "wordNumber": "15.028",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "对目的基因进行修饰和改造，观察所产生的生物学效应，从而确定基因功能的遗传学研究方法。"
+  },
+  {
+   "cn": "数量遗传学",
+   "en": "quantitative genetics",
+   "source": "农学名词",
+   "wordNumber": "15.029",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "研究生物群体数量性状遗传变异规律的遗传学分支学科。"
+  },
+  {
+   "cn": "群体遗传学",
+   "en": "population genetics",
+   "source": "农学名词",
+   "wordNumber": "15.030",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "以生物群体为对象，研究群体的遗传结构及群体内基因动态变化规律的遗传学分支学科。"
+  },
+  {
+   "cn": "辐射遗传学",
+   "en": "radiation genetics",
+   "source": "农学名词",
+   "wordNumber": "15.140",
+   "subjectFullName": "农业生物技术_细胞工程",
+   "subjectName": "细胞工程",
+   "publishYear": "2025",
+   "definition": "遗传学和辐射生物学交叉的有关辐射遗传效应研究的遗传学分支学科。阐明电离辐射诱发基因突变和染色体畸变的规律和机制，用于基因功能解析和诱变选育动植物与微生物优良品种。"
+  },
+  {
+   "cn": "群体遗传学",
+   "en": "population genetics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.443",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究群体的遗传结构及其变化规律的遗传学分支学科。"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0017",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "在分子水平上研究基因的结构与功能，以及遗传信息传递的学科。包括DNA的复制和转录、RNA的复制、翻译以及其调控等，是经典孟德尔遗传、细胞生物学、分子生物学、生物化学和生物技术等领域的融合。"
+  },
+  {
+   "cn": "行为遗传学",
+   "en": "behavioral genetics",
+   "source": "行为医学名词",
+   "wordNumber": "1.052",
+   "subjectFullName": "行为医学_总论_行为医学分支学科",
+   "subjectName": "行为医学分支学科",
+   "publishYear": "2022",
+   "definition": "研究遗传基因对行为的影响、行为形成过程中遗传和环境相互作用及作用规律的学科。"
+  },
+  {
+   "cn": "数量遗传学",
+   "en": "quantitative genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.149",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "采用生物统计学和数学分析方法研究生物体数量性状遗传规律的学科。是遗传学的一个分支。"
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.164",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "在分子水平上进行遗传学研究的遗传学分支学科。"
+  },
+  {
+   "cn": "运动遗传学",
+   "en": "sport genetics",
+   "source": "行为医学名词",
+   "wordNumber": "3.204",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "研究组成运动能力各种特定性状的遗传和变异规律的学科。遗传学分支学科之一。"
+  },
+  {
+   "cn": "遗传霉素",
+   "en": "geneticin",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传霉素",
+   "en": "geneticin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "遗传学",
+   "en": "genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反求遗传学,替代遗传学",
+   "en": "reverse genetics\",\"surrogate genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "法医遗传学,法医物证学",
+   "en": "medicolegal genetics\",\"forensic genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "plant genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "行为遗传学",
+   "en": "behavioral genetics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "种群遗传学",
+   "en": "population genetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态遗传学",
+   "en": "ecological genetics",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生统遗传学",
+   "en": "biometrical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临床遗传学",
+   "en": "clinical genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "植物遗传学",
+   "en": "plant genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "辐射遗传学",
+   "en": "radiation genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "毒理遗传学",
+   "en": "toxicological genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子遗传学",
+   "en": "molecular genetics",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人类遗传学",
+   "en": "human genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肿瘤遗传学",
+   "en": "cancer genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数量遗传学",
+   "en": "quantitative genetics",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

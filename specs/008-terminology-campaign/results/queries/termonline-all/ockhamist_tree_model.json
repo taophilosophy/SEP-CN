@@ -1,0 +1,732 @@
+{
+ "key": "ockhamist tree model",
+ "term": "Ockhamist tree model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:19:34+00:00",
+ "status": "ok",
+ "note": "variant=Ockhamist tree model; 审定公布名词库=5746; 海峡两岸名词对照库=1796; 其他来源数据库=323; 预公布名词数据库=309; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "林木结构–功能模型",
+   "en": "tree functionalstructural model",
+   "source": "林学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "能明确表征由生理过程和环境因子调控的植物三维结构生长和变化的一类模型。"
+  },
+  {
+   "cn": "树到树翻译模型",
+   "en": "tree-to-tree translation model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0555",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种统计机器翻译模型。考虑了源语言和目标语言两端的句法树结构，树到树模型大多基于同步上下文无关文法，首先对待译句子进行句法分析，并同步得到候选译文的句法树结构，最终经由统计模型选择出最佳译文。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电力名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "连接网络所有节点,又不形成回路的各支路的连通集。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": " n（n≥0）个节点的有限集。在任意一棵非空树中，有且仅有一个特定的称为根的节点；当n>1时，其余节点可分为m（m>0） 个互不相交的有限集，其中每个集合本身又是一棵树，并且称为根的子树。树中节点构成"
+  },
+  {
+   "cn": "树[木]",
+   "en": "tree",
+   "source": "林学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "林学_总论",
+   "subjectName": "总论",
+   "publishYear": "2016",
+   "definition": "具有木质化的树干、枝及叶作为同化与蒸腾作用器官的多年生木本植物的通称。"
+  },
+  {
+   "cn": "乔木",
+   "en": "tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0068",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "树干高大，主干与分枝区别明显的木本植物。"
+  },
+  {
+   "cn": "乔木",
+   "en": "tree",
+   "source": "生态学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "具有直立主干、树冠广阔、成熟植株在3 m以上的多年生木本植物，是描述植物和用于植物分类的主要概念之一。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电气工程名词",
+   "wordNumber": "01.463",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "数学名词",
+   "wordNumber": "03.0193",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电子学名词",
+   "wordNumber": "05.304",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零件特征树",
+   "en": "feature tree of part model",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0249",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "以树状图形式体现零件设计过程及其特征(例如点、线、面、体等)组成的表示方法。其反映模型特征间的相互逻辑关系。"
+  },
+  {
+   "cn": "装配结构树",
+   "en": "hierarchical tree of assembly model",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0278",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "体现装配模型层次关系的树状表达形式。"
+  },
+  {
+   "cn": "树到串翻译模型",
+   "en": "tree-to-string translation model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0554",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种统计机器翻译模型。充分考虑了源语言端的句法结构对其正确翻译的作用，依照树到串模型，待译句子通常首先需要进行句法分析，在句法树的指导下生成候选译文串，最终经由统计模型选择最佳译文。"
+  },
+  {
+   "cn": "进化系统树",
+   "en": "phylogenetic tree,evolutionary tree",
+   "source": "畜牧学名词",
+   "wordNumber": "04.318",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "用以描绘分类单元之间亲缘关系、由节点分枝构成的树状图。通常用来图解描述不同物种间的进化关系。"
+  },
+  {
+   "cn": "优树",
+   "en": "plus tree,superior tree",
+   "source": "林学名词",
+   "wordNumber": "04.051",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在相同的立地条件和接近同龄的林分中，生长和品质等表型性状上特别优良的单株树木。"
+  },
+  {
+   "cn": "对比树",
+   "en": "comparison tree,check tree",
+   "source": "林学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在候选树四周相似的立地上，选择的仅次于候选树的若干株同龄同种树木，作为候选树的对比标准。"
+  },
+  {
+   "cn": "亚优势木",
+   "en": "subdominant tree,codominant tree",
+   "source": "林学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "直径、树高仅次于优势木，树冠稍高于林冠层的平均高度，侧方稍受挤压的林木。"
+  },
+  {
+   "cn": "乔木层",
+   "en": "tree layer,tree stratum",
+   "source": "林学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分中乔木树冠层。"
+  },
+  {
+   "cn": "行道树",
+   "en": "avenue tree,street tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0081",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "沿道路或公路旁种植的乔木。"
+  },
+  {
+   "cn": "庭荫树",
+   "en": "courtyard tree,shady tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0082",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "植于庭园或公园以取其绿荫为主要目的的树种。一般多为夏季冠大荫浓而冬季人们需要阳光时落叶的落叶乔木。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乔木层",
+   "en": "tree layer\",\"tree stratum",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被压木",
+   "en": "suppressed tree\",\"overtopped tree",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "系统树",
+   "en": "genealogical tree\",\"phylogenetic tree",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系树",
+   "en": "dependency tree\",\"dependent tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化树（=系统[发育]树）",
+   "en": "evolutionary tree (=phylogenetic tree)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "检索树",
+   "en": "trie tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乔木",
+   "en": "tree\",\"arbor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸树",
+   "en": "respiratory tree",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "支气管树",
+   "en": "bronchial tree",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因树",
+   "en": "gene tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "落叶树",
+   "en": "deciduous tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树长",
+   "en": "tree length",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠",
+   "en": "tree crown",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无根树",
+   "en": "unrooted tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有根树",
+   "en": "rooted tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二叉树",
+   "en": "binary tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "树状图,树形图",
+   "en": "tree diagram",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "鞍架",
+   "en": "tree",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "遍历树",
+   "en": "tree traversal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分类树",
+   "en": "classification tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Merkle树",
+   "en": "Merkle tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "B树",
+   "en": "B-tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前缀树",
+   "en": "prefix tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "搜索树",
+   "en": "search tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "日志结构合并树",
+   "en": "log-structured merge-tree (LSM-tree)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "桅顶横桁",
+   "en": "cross-tree\",\"spreader",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决策树学习",
+   "en": "decision tree learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网种树",
+   "en": "online tree planting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "故障树",
+   "en": "fault tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定故障的树形图表说明。该树形图具有可选择的特性。"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.13",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定事件的树形图表说明。该树形图表具有可选择的特性。"
+  },
+  {
+   "cn": "家谱",
+   "en": "genealogical tree",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "以表谱形式记载一个血缘关系为主体的家族世系繁衍和重要人物事迹的特殊文献，是谱牒的一种形式。家谱以家族的世系为脉络，把包括名人和非名人的所有族众贯穿起来，注明他们之间的血缘关系。是一个家族的生命史，记录"
+  },
+  {
+   "cn": "树葬",
+   "en": "tree burial",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0271",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，指把死者尸体放置于深山或野外的大树上的传统丧葬习俗。古代树葬在中国东北和西南的少数民族地区颇为常见。现代树葬是生态殡葬的一种新形式，就是人们以认养绿地的办法，植一些树木，将亲人的骨灰撒在树下"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由起始事件、中间事件和最终事件组成的树形结构决策方法。起始事件表示最初的事件或条件，中间事件表示在起始事件后可能出现的事件路径，最终事件表示可能的结果。事件之间的关系通过连接不同节点来表示，并标注相应"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,412 @@
+{
+ "key": "helmholtz poincare",
+ "term": "Helmholtz Poincaré",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:35:14+00:00",
+ "status": "ok",
+ "note": "variant=Helmholtz Poincaré; 审定公布名词库=51; 海峡两岸名词对照库=25; 其他来源数据库=4; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "亥姆霍兹能",
+   "en": "Helmholtz energy",
+   "source": "冶金学名词",
+   "wordNumber": "04.0150",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "用F表示。体系的状态函数，等于体系的内能减去体系的熵与温度之积，即F≡U-TS。"
+  },
+  {
+   "cn": "亥姆霍兹线圈",
+   "en": "Helmholtz coils",
+   "source": "物理学名词",
+   "wordNumber": "03.0430",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹层",
+   "en": "Helmholtz layer",
+   "source": "化学名词",
+   "wordNumber": "04.0488",
+   "subjectFullName": "化学_物理化学_电化学",
+   "subjectName": "电化学",
+   "publishYear": "2016",
+   "definition": "双电层溶液一侧所排列的与电极表面电性相反的离子薄层。是早期的亥姆霍兹双电层模型中的术语。"
+  },
+  {
+   "cn": "亥姆霍兹线圈",
+   "en": "Helmholtz coil",
+   "source": "计量学名词",
+   "wordNumber": "10.288",
+   "subjectFullName": "计量学_电磁_磁学",
+   "subjectName": "磁学",
+   "publishYear": "2015",
+   "definition": "由半径相同，结构完全一样的两个圆线圈组成，线圈彼此平行且共轴，且轴心平面之间的距离等于其半径，其线圈常数可以准确计算，能产生均匀磁场的设备。"
+  },
+  {
+   "cn": "亥姆霍茨错觉",
+   "en": "Helmholtz illusion",
+   "source": "心理学名词",
+   "wordNumber": "02.452",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个在黑背景下的白色方块，和同样大小在白色背景下的黑色方块相比，人容易将前者知觉为较大的现象。"
+  },
+  {
+   "cn": "亥姆霍兹波",
+   "en": "Helmholtz wave",
+   "source": "大气科学名词",
+   "wordNumber": "05.256",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在密度不连续的分界面上产生的重力波。"
+  },
+  {
+   "cn": "亥姆霍兹不稳定",
+   "en": "Helmholtz instability",
+   "source": "大气科学名词",
+   "wordNumber": "05.257",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "相邻气层间界面两侧的风速不连续所伴有的一种动力不稳定。"
+  },
+  {
+   "cn": "亥姆霍兹定理",
+   "en": "Helmholtz theorem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹方程",
+   "en": "Helmholtz equation",
+   "source": "数学名词",
+   "wordNumber": "06.0700",
+   "subjectFullName": "数学_微分方程_积分方程_特殊函数",
+   "subjectName": "特殊函数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹收缩",
+   "en": "Kelvin-Helmholtz contraction",
+   "source": "天文学名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在自引力作用下的收缩过程。"
+  },
+  {
+   "cn": "亥姆霍兹分解",
+   "en": "Helmholtz decom-position",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0550",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "任意一个矢量都可以分解为一个标量势函数的梯度与一个无散 (散度为零)的矢量势函数的旋度之和。 "
+  },
+  {
+   "cn": "亥姆霍兹互易定理",
+   "en": "Helmholtz reciprocity theorem",
+   "source": "光学名词",
+   "wordNumber": "01.009",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "描述某点光源与其产生的衍射场中某观察点之间衍射特性的互逆对称性规律。它说明某点光源S经过衍射后在观察点P的衍射场与处于点P同等强度的点光源向相反方向的衍射在观察点S的衍射场是相同的。"
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "物理学名词",
+   "wordNumber": "05.0296",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹不稳定性",
+   "en": "Kelvin-Helmholtz instability",
+   "source": "物理学名词",
+   "wordNumber": "10.0278",
+   "subjectFullName": "物理学_等离子体物理学",
+   "subjectName": "等离子体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹-拉格朗日定理",
+   "en": "Helmholtz-Lagrange theorem",
+   "source": "物理学名词",
+   "wordNumber": "04.0354",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0068",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "恒温恒容且非体积功为零的条件下，判断过程自发性的状态函数。"
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "化学名词",
+   "wordNumber": "04.0087",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统的状态函数。其定义为：A=U-TS，式中U、S分别为系统的内能和熵，T为系统的热力学温度。"
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0170",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础",
+   "subjectName": "材料物理及化学基础",
+   "publishYear": "2011",
+   "definition": "反映可逆等温条件下体系做功本领的物理量。为一热力学系统的状态函数。"
+  },
+  {
+   "cn": "开尔文-亥姆霍兹波",
+   "en": "Kelvin-Helmholtz wave",
+   "source": "大气科学名词",
+   "wordNumber": "05.259",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在垂直风切变超过临界值的静力稳定层结大气中产生的波。"
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "化学工程名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹波",
+   "en": "Helmholtz wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹不稳定",
+   "en": "Helmholtz instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹错觉",
+   "en": "Helmholtz illusion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹收缩",
+   "en": "Helmholtz contraction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹方程",
+   "en": "Helmholtz equation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "K-H波状云，开尔文-亥姆霍兹大波",
+   "en": "Kelvin-Helmholtz billows",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹波",
+   "en": "Kelvin-Helmholtz wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹不稳定",
+   "en": "Kelvin-Helmholtz instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "［亥姆霍兹］自由能",
+   "en": "Helmholtz free energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹不稳定性",
+   "en": "Kelvin-Helmholtz instability",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹收缩",
+   "en": "Kelvin-Helmholtz contraction",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "亥姆霍兹自由能",
+   "en": "Helmholtz free energy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "黑尔姆霍尔茲",
+   "en": "Helmholtz\",\"Hermann von(德国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "开尔文-亥姆霍兹时标",
+   "en": "Kelvin-Helmholtz time scale",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "杨-亥姆霍兹颜色视觉说",
+   "en": "Young Helmholtz theory of color vision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱波",
+   "en": "Poincare wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱公式",
+   "en": "Poincare formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱波",
+   "en": "Poincare wave",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "庞加莱球",
+   "en": "Poincare sphere",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

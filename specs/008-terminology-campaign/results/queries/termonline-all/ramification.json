@@ -1,0 +1,432 @@
+{
+ "key": "ramification",
+ "term": "ramification",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:19:53+00:00",
+ "status": "ok",
+ "note": "variant=ramification; 审定公布名词库=96; 海峡两岸名词对照库=16; 其他来源数据库=4; 预公布名词数据库=4; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "分枝式",
+   "en": "ramification",
+   "source": "植物学名词",
+   "wordNumber": "03.0074",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "茎分枝的方式。"
+  },
+  {
+   "cn": "分歧指数",
+   "en": "ramification index",
+   "source": "数学名词",
+   "wordNumber": "04.0476",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分歧群",
+   "en": "ramification group",
+   "source": "数学名词",
+   "wordNumber": "04.0252",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分歧域",
+   "en": "ramification field",
+   "source": "数学名词",
+   "wordNumber": "04.0253",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "[分]支点",
+   "en": "branching point,ramification point",
+   "source": "数学名词",
+   "wordNumber": "05.0452",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "态射分歧指数",
+   "en": "ramification index of a morphism",
+   "source": "数学名词",
+   "wordNumber": "04.1214",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单流液力机械传动",
+   "en": "hydromechanical drive with inner  ramification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0994",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "双流液力机械传动",
+   "en": "hydromechanical drive with outer  ramification",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0995",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "农学名词",
+   "wordNumber": "09.117",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "动植物残体在微生物作用下，通过生物化学和化学作用，转化为腐殖质的过程。"
+  },
+  {
+   "cn": "腐殖化",
+   "en": "humification ",
+   "source": "草学名词",
+   "wordNumber": "6.0005",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "气化",
+   "en": "gasification",
+   "source": "物理学名词",
+   "wordNumber": "05.0045",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "艺术化",
+   "en": "artification",
+   "source": "语言学名词",
+   "wordNumber": "08.062",
+   "subjectFullName": "语言学_修辞学_修辞",
+   "subjectName": "修辞",
+   "publishYear": "2011",
+   "definition": "与“术语化”相对。一种修辞规范。在艺术语体话语中，需要出现相同概念时，千方百计地使用纷繁多样的同义或近义词语，以避免单调重复，使言语表达生动活泼。"
+  },
+  {
+   "cn": "提碱",
+   "en": "basification",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0474",
+   "subjectFullName": "材料科学技术_天然材料_皮革",
+   "subjectName": "皮革",
+   "publishYear": "2011",
+   "definition": "在鞣制过程中使用弱碱性物质提高浴液和在制品的pH值以促进鞣剂和胶原纤维之间结合的操作。"
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "生态学名词",
+   "wordNumber": "07.111",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "土壤有机质在微生物作用下，一些分解的中间产物重新合成复杂高分子聚合物的过程。"
+  },
+  {
+   "cn": "气化",
+   "en": "gasification",
+   "source": "土木工程名词",
+   "wordNumber": "12.020",
+   "subjectFullName": "土木工程_燃气与供热_燃气气源",
+   "subjectName": "燃气气源",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "红化[作用]",
+   "en": "rubification",
+   "source": "土壤学名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "土壤学_土壤发生、分类和制图",
+   "subjectName": "土壤发生、分类和制图",
+   "publishYear": "1998",
+   "definition": "土壤中非晶质氢氧化铁的消散和针铁矿、赤铁矿微晶的形成，充分分散于土壤基质内使土壤呈鲜艳红色的作用。"
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "土壤学名词",
+   "wordNumber": "05.154",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "动物、植物、微生物残体在微生物作用下，通过生化和化学作用而形成腐殖质的过程。"
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "石油名词",
+   "wordNumber": "02.0341",
+   "subjectFullName": "石油_油气地质勘探_油气成因",
+   "subjectName": "油气成因",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "气化",
+   "en": "gasification",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "气化率",
+   "en": "gasification rate,rate of gasification",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "04.535",
+   "subjectFullName": "化工（二）_工艺过程与设备_煤化工",
+   "subjectName": "煤化工",
+   "publishYear": "2019",
+   "definition": "单位质量燃料经气化后转变成煤气的标准体积。单位为Nm³/kg（燃料）。按照是否计入水分，分为湿煤气产率和干煤气产率。"
+  },
+  {
+   "cn": "分枝式",
+   "en": "ramification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分歧",
+   "en": "Ramifications",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ligeti, György "
+  },
+  {
+   "cn": "空间分化",
+   "en": "spatial ramification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "假分枝",
+   "en": "false branching\",\"false ramification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气化",
+   "en": "gasification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "提碱",
+   "en": "basification",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "腐殖化作用",
+   "en": "humification",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "煤气化",
+   "en": "coal gasification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气化过程",
+   "en": "gasification process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物质气化",
+   "en": "biomass gasification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气化技术",
+   "en": "gasification technology",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "煤气化过程",
+   "en": "coal gasification process",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "延迟满足",
+   "en": "delay of gratification",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "气化反应",
+   "en": "gasification reaction\",\"gasifying reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "游戏化设计",
+   "en": "gamification design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "气化",
+   "en": "gasification",
+   "source": "消毒学",
+   "wordNumber": "1.8.3",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "物质由固态转化为气态的过程。"
+  },
+  {
+   "cn": "气化消毒设备",
+   "en": "gasification disinfection equipment",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.3",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "利用物理、化学等方式将消毒剂转化为气体，悬浮在空气中，从而达到消毒效果的设备。"
+  },
+  {
+   "cn": "《平定准噶尔方略》",
+   "en": "Strategy for the pacification of Junggar",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0609",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "乾隆三十七年（1772）傅恒等奉敕编纂。分前、正、续三遍。书以事为纲，以年月日编次。凡有关策妄阿喇布坦、噶尔丹策零、策妄多尔济那木扎勒、喇嘛达尔扎、达瓦齐、阿睦尔撒纳、大小和卓等人情况的奏疏、训谕，均"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

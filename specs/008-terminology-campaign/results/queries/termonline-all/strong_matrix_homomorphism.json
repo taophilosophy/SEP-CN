@@ -1,0 +1,712 @@
+{
+ "key": "strong matrix homomorphism",
+ "term": "strong matrix homomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:18:31+00:00",
+ "status": "ok",
+ "note": "variant=strong matrix homomorphism; 审定公布名词库=2415; 海峡两岸名词对照库=645; 其他来源数据库=154; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "同形性",
+   "en": "homomorphism",
+   "source": "物理学名词",
+   "wordNumber": "08.0746",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "数学名词",
+   "wordNumber": "01.0117",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语言同态",
+   "en": "language homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0500",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的一种运算：若定义了字母表到另一个字母表Δ的串集合上的一个同态映射 h : Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>"
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0508",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的同态运算的反向操作：设 h :Σ→<img src='/root/syzx/static/spz/jsjkx3.02.0500.001.png'/>是一个同态，<img src='/root/s"
+  },
+  {
+   "cn": "格同态",
+   "en": "lattice homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0242",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对偶同态",
+   "en": "dual homomorphism",
+   "source": "数学名词",
+   "wordNumber": "03.0248",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群同态",
+   "en": "group homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1764",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算子同态",
+   "en": "operator homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1784",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自然同态",
+   "en": "natural homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0871",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "模同态",
+   "en": "module homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0873",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环同态",
+   "en": "ring homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1309",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单同态",
+   "en": "injective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1312",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "满同态",
+   "en": "surjective homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1313",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反同态",
+   "en": "anti-homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1317",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余模同态",
+   "en": "comodule homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0930",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代数同态",
+   "en": "algebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1397",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分次同态",
+   "en": "graded homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.0990",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "余代数同态",
+   "en": "coalgebra homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1468",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "若尔当同态",
+   "en": "Jordan homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1482",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "泛同态",
+   "en": "generic homomorphism",
+   "source": "数学名词",
+   "wordNumber": "04.1236",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同态",
+   "en": "homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆同态",
+   "en": "inverse homomorphism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同型叶，一型叶",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "一型叶（=同型叶）",
+   "en": "homomorphic leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同形染色体",
+   "en": "homomorphic chromosome",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同形二价体",
+   "en": "homomorphic bivalent",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同态处理",
+   "en": "homomorphic processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态去卷积",
+   "en": "Homomorphic deconvolution",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同态系统",
+   "en": "homomorphic system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "同型雄螨",
+   "en": "homomorphic male",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "6级风，强风",
+   "en": "strong breeze",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "9级风，烈风",
+   "en": "strong gale",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强电解质",
+   "en": "strong electrolyte",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "坚挺货币",
+   "en": "strong currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强启动子",
+   "en": "strong promoter",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "强反型",
+   "en": "strong inversion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强类型",
+   "en": "strong type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强一致性",
+   "en": "strong consistency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "6级风",
+   "en": "strong breeze",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "强关系",
+   "en": "strong ties",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "6级风",
+   "en": "strong breeze",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "9级风",
+   "en": "strong gale",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强侧",
+   "en": "strong side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐私同态加密",
+   "en": "privacy homomorphic encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "瘦硬",
+   "en": "Thin and Strong",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠理论",
+   "en": "strong reciprocity theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强互惠行为",
+   "en": "strong reciprocity behavior",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵分解",
+   "en": "matrix decomposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学知识社会学的强纲领",
+   "en": "“strong program”",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.11",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "爱丁堡学派代表人物布鲁尔(David Bloor）提出的科学知识社会学研究纲领。主张所有人类知识都是处于一定的社会建构过程中的信念，这些信念都是相对的、由社会因素决定的。科学知识的社会学研究应遵循四个"
+  },
+  {
+   "cn": "强声武器",
+   "en": "strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.4.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "通过压电或线圈等不同样式，发射出足以威慑或使人员失去行动能力，但对人员或环境不会造成长期危害的高强度声响的声波类武器。"
+  },
+  {
+   "cn": "清单矩阵",
+   "en": "checklist matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析某个主要的变量或通常感兴趣的领域的田野数据的一种表格形式。矩阵表格中包含了某个单一的、一致的变量的几个组成部分。"
+  },
+  {
+   "cn": "社会母体",
+   "en": "social matrix",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "孕育社会新生事物的社会基体或本原。"
+  },
+  {
+   "cn": "学科基质",
+   "en": "disciplinary matrix",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的理论中，学科基质由六个部分组成：①公式和符号表征；②仪器；③正误标准和实验可重复性；④形而上学预设；⑤问题研究域；⑥范例。"
+  },
+  {
+   "cn": "食品基质",
+   "en": "food matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.62",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "待测食品样品中除被分析物质之外的所有物质的总和"
+  },
+  {
+   "cn": "风险矩阵",
+   "en": "risk matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "表示各方案在不同自然状态下最终收益或损失结果的矩阵。"
+  },
+  {
+   "cn": "原强",
+   "en": "essence of strong nation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "通过提倡“群学”这一修齐治平之学，来培养和提高民众素质，建立良好社会基础，以达到国家富强的主张与做法。是严复主张的民本原则的体现。严复在《原强》一文中，强调强国保种在于培植民众在体、智、德三方面的潜力"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "概念聚类阵",
+   "en": "conceptually clustered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把同概念相关的术语汇集起来的行列交叉表格。其基本原则是概念的一致性。"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "基质金属蛋白酶",
+   "en": "matrix metalloproteinase， MMP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.28",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "水解细胞外基质的蛋白裂解酶。包括基质中以及整合于质膜中的各种胶原酶和弹性蛋白酶等。"
+  },
+  {
+   "cn": "基体标准物质",
+   "en": "matrix reference material",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有实际样品特性的标准物质"
+  },
+  {
+   "cn": "强声武器损伤",
+   "en": "injuries of strong sound weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.1.3.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "由超130 分贝(最高超180 分贝)定向发射装置构成，属“非致命性武器”。借大功率声波发生器产生高能声脉冲或高频声波，作用于人群可致听觉损伤、内脏紊乱、神经应激甚至行为失能。"
+  },
+  {
+   "cn": "卫生费用矩阵平衡核算",
+   "en": "national health accounts by matrix",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用棋盘式表格，按照一定顺序分别在行和列上体现不同核算维度，不仅使每个维度的账户在总额上平等，而且相互对应，各账户之间体现严密的数量衔接，综合反映卫生资金的循环流程及内在联系。"
+  },
+  {
+   "cn": "人才强国战略",
+   "en": "strategy for making China strong by training competent personnel",
+   "source": "马克思主义",
+   "wordNumber": "03.0684",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "依靠人才兴邦，走人才强国之路，大力提升国家核心竞争力和综合国力，是人才强国战略的核心要义。"
+  },
+  {
+   "cn": "科教兴国战略",
+   "en": "strategy for making China strong by developing science and education",
+   "source": "马克思主义",
+   "wordNumber": "03.0631",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "把科技和教育进步放在经济、社会发展的关键地位，使经济建设真正转到依靠科技进步和提高劳动者素质的轨道上来而制定的兴国战略，是我国现阶段的一项基本战略。"
+  },
+  {
+   "cn": "铸牢中华民族共同体意识",
+   "en": "forging a strong sense of community for the Chinese Nation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0108",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "就是要引导各族人民牢固树立休戚与共、荣辱与共、生死与共、命运与共的共同体理念，推动各民族树立正确的国家观、历史观、民族观、文化观、宗教观，增强国家意识、公民意识、法治意识，坚定对伟大祖国、中华民族、中"
+  },
+  {
+   "cn": "毛利人",
+   "en": "Maoris",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0449",
+   "subjectFullName": "民族学与文化学_世界民族_太平洋地区",
+   "subjectName": "太平洋地区",
+   "publishYear": "2025",
+   "definition": "新西兰土著（tangata whenua），该国六大族群之一。公元13 世纪从波利尼西亚来到这片大陆，并称其为“奥提罗亚”（Aotearoa）。人口约875 300，占新西兰总人口17.1% （202"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,642 @@
+{
+ "key": "steele stefansson",
+ "term": "Steele Stefánsson",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:27:18+00:00",
+ "status": "ok",
+ "note": "variant=Steele Stefánsson; 审定公布名词库=1435; 海峡两岸名词对照库=463; 其他来源数据库=78; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "冶金学名词",
+   "wordNumber": "01.0046",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "以Fe-C为主的(一般碳含量低于2.0%)并根据服役要求添加某些合金元素的铁基合金。"
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "以铁为主要元素，碳含量一般在2.0%以下并含有其他元素的金属材料。"
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.169",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "型钢",
+   "en": "section steel,structural steel,shaped steel",
+   "source": "建筑学名词",
+   "wordNumber": "12.0213",
+   "subjectFullName": "建筑学_建筑材料及制品_材料制品",
+   "subjectName": "材料制品",
+   "publishYear": "2014",
+   "definition": "用热轧方式或冷弯加工方式制成各种规定截面形状的钢材。"
+  },
+  {
+   "cn": "钢丝",
+   "en": "steel thread;steel wire;wire-steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1094",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "用热轧盘条经冷拉制成的钢产品。"
+  },
+  {
+   "cn": "钢号",
+   "en": "steel designation,steel grade",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "钢的牌号。是每一种具体钢铁产品的名称。我国的钢号一般采用汉语拼音字母、化学元素符号和阿拉伯数字相结合的方法表示。"
+  },
+  {
+   "cn": "石墨钢",
+   "en": "graphitic steel,graphitizable steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0368",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "有意加入石墨化元素硅铝等经石墨化退火后在其组织中存在一定量石墨的钢。钢水中加入孕育剂则可获得铸态石墨钢。"
+  },
+  {
+   "cn": "优质钢",
+   "en": "special steel,quality steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0212",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "特殊质量非合金钢、特殊质量低合金钢和特殊质量合金钢的总称。硫、磷等杂质、微量残存元素、非金属夹杂的含量的控制及碳含量的波动范围要求较严的钢。"
+  },
+  {
+   "cn": "沸腾钢",
+   "en": "rimming steel,rimmed steel",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0222",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料品种",
+   "subjectName": "钢铁材料品种",
+   "publishYear": "2011",
+   "definition": "未经脱氧或未充分脱氧，浇注时钢液中碳和氧会发生反应产生CO气体而发生沸腾现象的钢。"
+  },
+  {
+   "cn": "钢管",
+   "en": "steel pipe,steel tube",
+   "source": "土木工程名词",
+   "wordNumber": "01.195",
+   "subjectFullName": "土木工程_工程材料_管材",
+   "subjectName": "管材",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "斯蒂尔桥体",
+   "en": "Steele pontic",
+   "source": "医学名词 第二分册",
+   "wordNumber": "08.065",
+   "subjectFullName": "医学_口腔医学_固定义齿修复学",
+   "subjectName": "固定义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "斯蒂尔牙面",
+   "en": "Steele facing",
+   "source": "医学名词 第二分册",
+   "wordNumber": "08.084",
+   "subjectFullName": "医学_口腔医学_固定义齿修复学",
+   "subjectName": "固定义齿修复学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "槽钢",
+   "en": "channel steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1125",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "截面为凹槽形的长条钢材。"
+  },
+  {
+   "cn": "钢片增强板",
+   "en": "steel stiffener",
+   "source": "精细化工名词",
+   "wordNumber": "08.1084",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "支撑增强材料为钢片材料的增强板。"
+  },
+  {
+   "cn": "角钢",
+   "en": "angle steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1123",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "两边互相垂直成角形的长条钢材。有等边角钢和不等边角钢之分。"
+  },
+  {
+   "cn": "扁钢",
+   "en": "flat steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1124",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "宽12～300mm、厚4～60mm、截面为长方形并稍带钝边的钢材。"
+  },
+  {
+   "cn": "钢结构",
+   "en": "steel structure",
+   "source": "风景园林名词",
+   "wordNumber": "07.0064",
+   "subjectFullName": "风景园林_风景园林建筑_类型与结构选型",
+   "subjectName": "类型与结构选型",
+   "publishYear": "2025",
+   "definition": "由钢材为主要材料制作的结构，是建筑结构类型之一。主要由型钢和钢板等制成的梁钢、钢柱、钢桁架等构件组成，并采用硅烷化、纯锰磷化、水洗烘干、镀锌等除锈防锈工艺。各构件或部件之间通常采用焊缝、螺栓或铆钉连接"
+  },
+  {
+   "cn": "不锈钢",
+   "en": "stainless steel",
+   "source": "风景园林名词",
+   "wordNumber": "08.1092",
+   "subjectFullName": "风景园林_风景园林工程_风景园林材料",
+   "subjectName": "风景园林材料",
+   "publishYear": "2025",
+   "definition": "在空气中或化学腐蚀介质中能够抵抗腐蚀的一种高合金钢。代表性能的有13铬钢，18铬镍钢等高合金钢。"
+  },
+  {
+   "cn": "铸钢",
+   "en": "cast steel",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.042",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸造合金及熔炼、浇注",
+   "subjectName": "铸造合金及熔炼、浇注",
+   "publishYear": "2021",
+   "definition": "铸造合金的一种。以铁、碳为主要元素(碳质量分数为0～2%)的合金，在凝固过程中不经历共晶转变、用于生产铸件的铁基合金。"
+  },
+  {
+   "cn": "冷带",
+   "en": "steel belt",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1363",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "由不锈钢薄片材料制成，在其下表面有冷却水喷洒冷却、可回转运行的环形带。"
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优质钢",
+   "en": "quality steel\",\"special steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "带钢",
+   "en": "steel strip\",\"strip steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钢号",
+   "en": "steel designation\",\"steel grade",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "沸腾钢",
+   "en": "rimmed steel\",\"rimming steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "石墨钢",
+   "en": "graphitic steel\",\"graphitizable steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铬钢",
+   "en": "chrome steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强力玻璃",
+   "en": "steel glass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镇静钢",
+   "en": "killed steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢纤维",
+   "en": "steel fiber",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "软钢",
+   "en": "mild steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不锈钢",
+   "en": "stainless steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碳钢",
+   "en": "carbon steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "镍钢",
+   "en": "nickel steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "铸钢",
+   "en": "cast steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合金钢",
+   "en": "alloy steel",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢管",
+   "en": "steel pipe",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钢鼓乐队",
+   "en": "steel band",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "障碍赛",
+   "en": "steeple\",\"steeplechase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "越野障碍",
+   "en": "steeple\",\"steeplechase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "袖套",
+   "en": "sleeve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "钢",
+   "en": "steel",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.4",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "以铁为主要元素，碳含量一般在2.0%以下并含有其他元素的金属材料。X、γ射线屏蔽材料，密度为7.8g·cm-3。"
+  },
+  {
+   "cn": "不锈钢片载体",
+   "en": "stainless steel sheet carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的直径12mm、厚度0.5mm的不锈钢片作为试验微生物的支持物。多制成圆片，根据特定用途也可制成其他尺寸，常用于手术器械的消毒试验。"
+  },
+  {
+   "cn": "不锈钢针载体",
+   "en": "stainless steel needle carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的直径为 0.4mm，长度为20mm的不锈钢针作为试验微生物的支持物，常用于管腔类医疗器械的消毒试验。"
+  },
+  {
+   "cn": "不锈钢圆筒载体",
+   "en": "stainless steel cylinder carrier",
+   "source": "消毒学",
+   "wordNumber": "6.2.5.1.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "以经过脱脂处理的表面抛光，直径0.4mm、长度20mm、壁厚1mm±0.5mm的不锈钢圆筒作为试验微生物的支持物。常用于消毒剂消毒效果定性试验。"
+  },
+  {
+   "cn": "爨碑",
+   "en": "Cuan Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0314",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "《爨龙颜碑》与《爨宝子碑》之合称，均在云南曲靖市境内。前者立于南朝刘宋孝武帝大明二年（458）；后者立于东晋大亨四年（404 年）。魏晋南北朝时期，爨氏曾长期统治云南，碑文主要叙述其家族史及碑主生平事"
+  },
+  {
+   "cn": "铁勒",
+   "en": "Tiele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0073",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。北朝游牧部落的泛称。其众多部落中，回纥与薛延陀曾各自于漠北地区建立统一汗国。"
+  },
+  {
+   "cn": "鸿胪井刻石",
+   "en": "Honglu Well Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0311",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "唐代刻石。立于唐开元二年（714），唐玄宗时期鸿胪卿崔忻受命册封靺鞨首领大祚荣为渤海郡王后所作，是渤海归入大唐版图的历史见证。刻石原立于都里镇（今旅顺），后被日本人掠夺，现存于日本皇宫。"
+  },
+  {
+   "cn": "袁滋刻石",
+   "en": "Yuanzi Well Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0313",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古磨崖刻石。位于石门（今云南盐津县）。唐贞元十年（636），御史袁滋持节赴云南，册封南诏王异牟寻为云南王，途中撰文抒怀，叙述唐诏重归于好的史实，后人将该文刻写于石门西壁，成为民族团结的象征。"
+  },
+  {
+   "cn": "无菌物品",
+   "en": "sterile instrument",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "经灭菌处理后无存活微生物的物品。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "稳定性戊二醛",
+   "en": "stable glutaraldehyde",
+   "source": "消毒学",
+   "wordNumber": "2.1.8.2.3",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在2%～2.5% 戊二醛中加入适量表面活性剂和缓冲剂形成的pH值中性的戊二醛溶液。"
+  },
+  {
+   "cn": "灭菌内镜",
+   "en": "sterile endoscope",
+   "source": "消毒学",
+   "wordNumber": "4.6.23.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "进入组织或无菌腔道进行有创手术操作时经过灭菌处理的复用内镜。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "仅由碘的非放射性同位素（127I）组成的碘化合物。经常被用来作为甲状腺阻断剂。"
+  },
+  {
+   "cn": "稳定人口",
+   "en": "stable population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "在封闭人口系统中，人口的出生率和死亡率保持稳定，人口总数以固定的速率持续增加（或减少）的人口。稳定人口是较静止人口更接近现实的一种人口模型，现已成为人口数据分析和人口预测研究的必不可少的方法。"
+  },
+  {
+   "cn": "防喷嚏装置",
+   "en": "sneeze guard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.28",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "在食品自选区防止顾客咳嗽、打喷嚏、唾液污染食品而部分覆盖食品的清洁的固体屏障。"
+  },
+  {
+   "cn": "稳定就业",
+   "en": "stable employment",
+   "source": "社会医学名词",
+   "wordNumber": "3.13.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "就业",
+   "publishYear": "2025",
+   "definition": "建立长期劳动关系并达到一定年限，签订劳动合同且按时缴纳社会保险的就业状态。"
+  },
+  {
+   "cn": "稳定碘",
+   "en": "stable iodine",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.19",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "该同位素不具有放射性。与之相应的碘-131，具有放射性和不稳定性。其有多种存在形式，如碘酸钾、碘化钾等。"
+  },
+  {
+   "cn": "稳定期",
+   "en": "stable phase",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.97",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "微生物经过一段时间的生长，由于营养物质的消耗，代谢产物的积累限制菌体的高速度增殖，少数菌体开始死亡，新增殖菌体数和死亡菌数几乎相等，处于动态平航，菌体的生长速度趋向于零。"
+  },
+  {
+   "cn": "无菌灌装",
+   "en": "sterile filling",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.23",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "在无菌环境下用无菌机械装置将乳灌装到无菌或预灭菌包装中，然后以无菌方式封合包装的过程。"
+  },
+  {
+   "cn": "好太王碑",
+   "en": "Hao tai wang Stele",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0309",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "古代东北高句丽第19 代王谈德（374—413）的记功碑。由一块巨大天然角砾凝灰岩石柱略加修琢而成，碑体呈方柱型，高6.39 米，底宽1.34—1.97 米之间，环碑四面，阴刻碑文，楷、隶、篆三体兼备"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

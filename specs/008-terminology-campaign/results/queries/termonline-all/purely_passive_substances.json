@@ -1,0 +1,782 @@
+{
+ "key": "purely passive substances",
+ "term": "purely passive substances",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:32:33+00:00",
+ "status": "ok",
+ "note": "variant=purely passive substances; 审定公布名词库=1073; 海峡两岸名词对照库=348; 其他来源数据库=55; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "纯物质",
+   "en": "pure substance",
+   "source": "电力名词",
+   "wordNumber": "01.438",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "具有同一组成,且化学结构完全一致的物质。"
+  },
+  {
+   "cn": "纯物质标准态",
+   "en": "pure substance standard",
+   "source": "冶金学名词",
+   "wordNumber": "04.0174",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "活度为1，摩尔分数也为1，且该溶液符合拉乌尔定律的状态。"
+  },
+  {
+   "cn": "无源的",
+   "en": "passive",
+   "source": "电力名词",
+   "wordNumber": "01.181",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述电路元件或电路瞬时功率在初次对之供给电能之前的某一瞬间开始的任何时间间隔内的时间积分为非负的。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "精细化工名词",
+   "wordNumber": "05.0250",
+   "subjectFullName": "精细化工_涂料_涂装处理工艺",
+   "subjectName": "涂装处理工艺",
+   "publishYear": "2025",
+   "definition": "金属与氧化性介质作用，在金属表面生成一种薄而致密的钝化膜，使金属表面转化为不易被氧化的状态，延缓金属腐蚀速率的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.094",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_金属转化膜",
+   "subjectName": "金属转化膜",
+   "publishYear": "2021",
+   "definition": "在一定溶液中使金属阳极氧化超过一定数值后，金属溶解速率不但不增大，反而剧烈减小，这种使金属表面由活化态转变为钝态的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "06.097",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_表面工程_金属转化膜",
+   "subjectName": "金属转化膜",
+   "publishYear": "2021",
+   "definition": "为形成钝态所必需的化学试剂。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.001",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "由金属与氧化性介质作用，在金属表面生成一种非常薄的、致密的、覆盖性能良好的、能坚固地附在金属表面上的钝化膜，因钝化膜而使金属腐蚀速率降低的现象。包括自钝化、化学钝化和电化学钝化。"
+  },
+  {
+   "cn": "致钝",
+   "en": "passivating",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.022",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀防护及监测",
+   "subjectName": "腐蚀防护及监测",
+   "publishYear": "2021",
+   "definition": "人为地促使金属制件迅速产生电化学钝化且生成耐蚀性最佳的钝化膜的阳极保护首要过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0527",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_腐蚀类型",
+   "subjectName": "腐蚀类型",
+   "publishYear": "2021",
+   "definition": "因金属表面有腐蚀产物生成而出现的腐蚀速率明显降低的现象。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "电力名词",
+   "wordNumber": "09.486",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在经酸洗后的金属表面上用化学的方法进行流动清洗或浸泡清洗以形成一层致密的氧化铁保护膜的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "电力名词",
+   "wordNumber": "12.318",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "在一定条件下,能通过其作用在金属表面形成一层致密氧化膜(钝化膜),以增强金属的防腐能力的化学药剂。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "冶金学名词",
+   "wordNumber": "08.0146",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "导致钝化的化学试剂。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "冶金学名词",
+   "wordNumber": "08.0138",
+   "subjectFullName": "冶金学_金属材料_腐蚀",
+   "subjectName": "腐蚀",
+   "publishYear": "2019",
+   "definition": "因金属表面产生的钝化膜而造成的腐蚀速率的降低的现象。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.213",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "通过其作用在金属表面形成一层致密氧化膜(钝化膜)从而增强金属防腐能力的物质。"
+  },
+  {
+   "cn": "钝化作用",
+   "en": "passivation",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0150",
+   "subjectFullName": "化工（一）_加工工艺_催化裂化",
+   "subjectName": "催化裂化",
+   "publishYear": "2017",
+   "definition": "通过加入钝化剂或其他工艺手段，降低沉积于催化裂化催化剂上的镍、钒等重金属毒性的过程。"
+  },
+  {
+   "cn": "钝化剂",
+   "en": "passivator",
+   "source": "化学名词",
+   "wordNumber": "04.0745",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "用于对活性过高催化剂的表面进行改性使其活性回归到比较正常水平的操作所使用的物质。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "化学名词",
+   "wordNumber": "01.0388",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "金属经电化学或者化学方法处理后，在表面形成致密的氧化膜，使其性质由活性变为惰性的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivating",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "22.0505",
+   "subjectFullName": "机械工程_动力机械_锅炉_运行、维修和故障_维修",
+   "subjectName": "维修",
+   "publishYear": "2013",
+   "definition": "在经酸洗后的金属表面上用钝化液进行流动清洗或浸泡清洗以形成保护层的方法。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0761",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料环境行为",
+   "subjectName": "材料环境行为",
+   "publishYear": "2011",
+   "definition": "某些金属或合金经过某种化学处理或电化学处理后由受腐蚀的活化状态转化为不活泼态即钝态的过程。"
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.038",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "钝化",
+   "en": "passivation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纯组分",
+   "en": "pure component",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纯音",
+   "en": "pure tone",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "纯铁",
+   "en": "pure iron",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯铜",
+   "en": "pure copper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯林分",
+   "en": "pure stand",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纯利润",
+   "en": "pure profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯利息",
+   "en": "pure interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "纯系",
+   "en": "pure line",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纯网",
+   "en": "pure net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "毒性药品",
+   "en": "poisonous substances",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精神药品",
+   "en": "psychotropic substances",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分泌物",
+   "en": "secretion substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "虎斑物质",
+   "en": "tigroid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "间隙物质",
+   "en": "gap substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "黏液物质",
+   "en": "mucoid substance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "消极",
+   "en": "passivity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极！",
+   "en": "Passivity!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极比赛",
+   "en": "passive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极运动员",
+   "en": "passive wrestler",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动推挡",
+   "en": "passive block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "被动反击",
+   "en": "passive counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极比赛",
+   "en": "passive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极区",
+   "en": "passivity zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纯素",
+   "en": "Pure and Unadorned",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯线上模式",
+   "en": "pure online mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纯平台模式",
+   "en": "pure platform mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无源光纤网络",
+   "en": "passive optical network (PON)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "衔华佩实",
+   "en": "Harmony Between Substance and Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体",
+   "en": "substance",
+   "source": "马克思主义",
+   "wordNumber": "01.0009",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "古希腊哲学家亚里士多德（Aristotle）首创的范畴，指万物不变的本原，万物由它而生成，最后复归于它。马克思主义哲学吸取了以往哲学中关于实体的丰富思想，形成了物质范畴，以物质范畴扬弃了实体概念。"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "纯保费",
+   "en": "pure premium",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "保险中受益人预期支付等于其实际应付医疗费的保险费。是一个期望值，其值等于投保者因病治疗的平均成本。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对物质持续性或间歇性过度使用的状况。"
+  },
+  {
+   "cn": "限用物质",
+   "en": "restricted substance",
+   "source": "消毒学",
+   "wordNumber": "5.1.8.1.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在限定条件下可作为消毒剂原料的物质，在一定限定值以下使用。"
+  },
+  {
+   "cn": "标准物质",
+   "en": "standard substance",
+   "source": "消毒学",
+   "wordNumber": "6.1.6",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有一种或多种足够均匀和精确确定了特性值、用以校准设备、评价测量方法或给材料赋值的纯的或混合的气体、液体或固体物质。"
+  },
+  {
+   "cn": "物质滥用",
+   "en": "substance abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对烟草、酒精、毒品和其他违禁药物中任意一种的过度或不恰当使用的行为。"
+  },
+  {
+   "cn": "放射性物质",
+   "en": "radioactive substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.1",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "原子核能发生衰变，放出肉眼看不见也感觉不到，只能用专门的仪器才能探测到的射线的物质。如¹³¹I多见于奶制品的污染。"
+  },
+  {
+   "cn": "无源探测器",
+   "en": "passive detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.19",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "不需要外加电源的探测器。例如，热释光探测器和核乳胶探测器等。"
+  },
+  {
+   "cn": "非能动安全",
+   "en": "passive safety",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.25",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "不依赖外来的触发和动力源，而靠重力、蓄压势、设备承压能力等自然本性来实现安全功能的性能。"
+  },
+  {
+   "cn": "非能动部件",
+   "en": "passive components",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.26",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "无须依靠触发、机械运动或动力源等外部输入即能执行功能的部件。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体通过获得外源性免疫效应分子(如抗体等)或免疫效应细胞而获得的相应免疫。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫能力。它与主产生的自动免疫不同，其特点是效应快，不需经过潜伏期，一经输入，立即可获得免疫力。但维持时间短。。"
+  },
+  {
+   "cn": "被动性购买",
+   "en": "passive purchasing",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "卫生服务购买者依据预先设定的预算约束或实际发生的医疗费用向服务提供者支付的模式。"
+  },
+  {
+   "cn": "被动干预",
+   "en": "passive intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过外因改变（如改善外界环境因素）来影响人们的行为。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "由下级监测单位常规地向上级机构报告健康数据，而上级单位被动接受的一种监测方式。"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "直接给机体输入免疫效应分子或免疫细胞使之获得相应免疫力的过程。"
+  },
+  {
+   "cn": "被动健康",
+   "en": "passive health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体或群体缺乏主动预防和健康管理的意识，在健康问题发生后，依赖医疗系统进行干预或治疗的过程。"
+  },
+  {
+   "cn": "被动监测",
+   "en": "passive surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "基层机构或个体报告食源性疾病事件，上级单位接受报告资料"
+  },
+  {
+   "cn": "被动免疫",
+   "en": "passive immunity",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "机体被动接受抗体、致敏淋巴细胞或其产物所获得的特异性免疫力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

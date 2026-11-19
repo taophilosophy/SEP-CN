@@ -1,0 +1,302 @@
+{
+ "key": "episodicity",
+ "term": "episodicity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-19T03:24:07+00:00",
+ "status": "ok",
+ "note": "variant=episodicity; 审定公布名词库=33; 海峡两岸名词对照库=9; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "情景片段",
+   "en": "episode",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.018",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "运用言语进行描述与表现的一套连贯的插曲、篇章或叙事单位。"
+  },
+  {
+   "cn": "构造序幕",
+   "en": "tectonic episode",
+   "source": "地质学名词",
+   "wordNumber": "10.03.033",
+   "subjectFullName": "地质学_大地构造学_其他大地构造学说",
+   "subjectName": "其他大地构造学说",
+   "publishYear": "2026",
+   "definition": "同一构造运动包含不同发展阶段，每一阶段称为一个构造序幕。"
+  },
+  {
+   "cn": "抑郁发作",
+   "en": "depressive episode",
+   "source": "神经外科学名词",
+   "wordNumber": "10.123",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_精神障碍",
+   "subjectName": "精神障碍",
+   "publishYear": "2026",
+   "definition": "表现出抑郁特征如情绪低落、思维缓慢、语言动作减少和迟缓的状态。可根据症状的程度和数目分成轻度、中度和重度。"
+  },
+  {
+   "cn": "幕式变化",
+   "en": "episodic change",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1739",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "某种过程的阶段性特征随时间演变反复重现的现象。 "
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "生理学名词",
+   "wordNumber": "03.704",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混合发作",
+   "en": "mixed episode",
+   "source": "精神医学名词",
+   "wordNumber": "03.152",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "同时兼有抑郁和躁狂或轻躁狂表现的混合状态。"
+  },
+  {
+   "cn": "抑郁发作",
+   "en": "depressive episode",
+   "source": "精神医学名词",
+   "wordNumber": "03.150",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "表现出抑郁特征的状态。可根据症状的程度和数目分成轻度、中度和重度。"
+  },
+  {
+   "cn": "躁狂发作",
+   "en": "manic episode",
+   "source": "精神医学名词",
+   "wordNumber": "03.151",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "表现出躁狂特征的状态。以情绪高涨、思维奔逸和意志行为增强为特征。"
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "存储事件之发生时间、地点及关系等信息的记忆过程。与个人经历密切相关。对保持个体的经历、积累和储存直接经验至关重要。"
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "生物物理学名词",
+   "wordNumber": "04.253",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "可以被明确表达，是有关过去特定时间、地点、情感等有关事件或有关个人生活经验的记忆。"
+  },
+  {
+   "cn": "情景缓冲器",
+   "en": "episodic buffer",
+   "source": "生物物理学名词",
+   "wordNumber": "04.260",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "工作记忆模型中的一个子系统。用于保存不同信息加工结果的次级记忆系统，在中央执行系统的控制之下保持加工后的信息，支持后续的加工操作。"
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "心理学名词",
+   "wordNumber": "02.525",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以有关个体在特定时间、特定空间内经历的情景或事件以及与之相联系的信息为内容的记忆。"
+  },
+  {
+   "cn": "短促选择",
+   "en": "episodic selection",
+   "source": "微生物学名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "在新近被扰乱的生境中发生的强烈的定向选择。"
+  },
+  {
+   "cn": "变质阶段",
+   "en": "metamorphic episode",
+   "source": "地质学名词",
+   "wordNumber": "05.508",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无意识睡眠发作",
+   "en": "unintended sleep episode",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_症状与体征",
+   "subjectName": "症状与体征",
+   "publishYear": "2022",
+   "definition": "主要表现为白天有不可抗拒的短暂睡眠发作，常在起床后3～4小时发生，发作时虽力求保持清醒，但不能自制，很快即进入睡眠状态。睡眠一般持续数分钟，每日可发作多次。发作不择时间、地点及活动情况。虽然睡眠发作常"
+  },
+  {
+   "cn": "[胃食管]反流最长持续时间",
+   "en": "longest reflux episode",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.413",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "一种睡眠监测中记录胃食管反流的指标。为反流持续的最长时间，有直立位和仰卧位之分。"
+  },
+  {
+   "cn": "偶发自伤",
+   "en": "episodic self-injury",
+   "source": "行为医学名词",
+   "wordNumber": "13.008",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自伤行为",
+   "subjectName": "自伤行为",
+   "publishYear": "2022",
+   "definition": "个体在精神病态影响下偶然出现的自伤行为。一种精神病态的症状与合并症，一般不会承认有自我残害的习惯。常见于焦虑障碍、解离障碍、抑郁症和人格障碍等。"
+  },
+  {
+   "cn": "发作性共济失调",
+   "en": "episodic ataxia,EA",
+   "source": "神经病学名词",
+   "wordNumber": "10.021",
+   "subjectFullName": "神经病学_神经系统变性疾病",
+   "subjectName": "神经系统变性疾病",
+   "publishYear": "2020",
+   "definition": "一种常染色体显性遗传性共济失调。可因情绪、活动等因素诱发。常见两种亚型，1型曾称为发作性共济失调伴肌纤维颤搐，或艾萨克斯-默滕斯（Isaacs-Mertens）综合征。儿童早期或青少年期发病，发作持续"
+  },
+  {
+   "cn": "急性精神分裂症性发作",
+   "en": "acute schizophrenic episode",
+   "source": "精神医学名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "精神医学_诊断分类_精神病性障碍",
+   "subjectName": "精神病性障碍",
+   "publishYear": "2019",
+   "definition": "存在轻度意识混浊和恍惚的梦样状态的精神分裂症性障碍。外界事物、人和事件对受检者来说变得具有个人意义。可以出现牵连观念和情绪混乱。一般在数周或数月内自行缓解。"
+  },
+  {
+   "cn": "[胃食管]反流次数",
+   "en": "number of reflux episode",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.411",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_多导睡眠监测技术",
+   "subjectName": "多导睡眠监测技术",
+   "publishYear": "2022",
+   "definition": "睡眠监测中记录胃食管反流的发生次数。一般统计食管（pH＜4.0）发生的次数。"
+  },
+  {
+   "cn": "事件",
+   "en": "episode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "插句",
+   "en": "episode",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "插段",
+   "en": "episode",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情景失忆症",
+   "en": "episodic amnesia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "短期地壳运动",
+   "en": "episodic movement",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "阶段性沉降",
+   "en": "episodic subsidence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "情景记忆",
+   "en": "episodic memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时空插曲",
+   "en": "time-space episode",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}
