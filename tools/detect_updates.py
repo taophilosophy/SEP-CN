@@ -105,6 +105,51 @@ def parse_feed(text):
     return out
 
 
+def filter_synced(web_items, baseline):
+    """剔除已同步条目：baseline 的 fetched_at 日期 ≥ 事件日期 → 该变更已入钉存。
+
+    否则 90 天窗内每天都把已落地条目重报一遍（2026-11-19 issue #47 结案时暴露）。
+    """
+    idx = {e.get("slug"): e for e in baseline.get("entries", [])}
+    out, done = [], 0
+    for it in web_items:
+        b = idx.get(it["slug"])
+        when = it.get("when") or ""
+        fetched = str((b or {}).get("fetched_at") or "")[:10]
+        if b and when and fetched and fetched >= when:
+            done += 1
+            continue
+        out.append(it)
+    return out, done
+
+
+def verify_web_items(web_items, baseline, limit=120):
+    """逐条核内容钉：抓 index.html 与 baseline 的 main sha 比对，剔除「列表说改了、
+    实际与本地钉逐字节一致」的假阳性（2026-11-19 emotion-Christian-tradition 实证）。"""
+    import hashlib
+    idx = {e.get("slug"): e for e in baseline.get("entries", [])}
+    out, same = [], []
+    for it in web_items[:limit]:
+        b = idx.get(it["slug"])
+        pin = None
+        if b:
+            pin = next((f["sha256"] for f in b.get("files", []) if f.get("kind") == "main"), None)
+        if not pin:
+            out.append(it)
+            continue
+        st, data = fetch.get(fetch.BASE + "/entries/%s/" % it["slug"])
+        if st != 200:
+            out.append(it)
+            continue
+        cur = hashlib.sha256(data).hexdigest()
+        if cur == pin:
+            same.append(it["slug"])
+        else:
+            out.append(it)
+    out.extend(web_items[limit:])
+    return out, same
+
+
 def archinfo_drift(slugs, baseline, limit):
     """抓 archinfo.cgi 与 baseline 版次比对（slugs 去重、截断 limit）。"""
     base = {e["slug"]: e for e in baseline.get("entries", [])}
@@ -202,6 +247,8 @@ def main(argv=None):
     ap.add_argument("--only", nargs="*", default=None, help="限定 slug（archinfo 用）")
     ap.add_argument("--out", default="baseline/queue.json")
     ap.add_argument("--md", default=None, help="另写 Markdown 摘要（CI issue 正文用）")
+    ap.add_argument("--verify-web", action="store_true",
+                    help="抓 index.html 核内容钉，剔除 new.html 假阳性（列表标改、实际未变）")
     ap.add_argument("--no-write", action="store_true")
     ap.add_argument("--quiet", action="store_true")
     args = ap.parse_args(argv)
@@ -233,9 +280,14 @@ def main(argv=None):
         sources["feed"] = ("ok" if feed_items else
                            "unavailable:%s" % (st if st != 200 else "not-a-feed"))
 
+    baseline = load_json(repo_path("baseline", "entries.json"))
+    web_items, synced_skipped = filter_synced(web_items, baseline)
+    verified_same = []
+    if args.verify_web and web_items:
+        web_items, verified_same = verify_web_items(web_items, baseline)
+
     arch_items = []
     if args.archinfo:
-        baseline = load_json(repo_path("baseline", "entries.json"))
         slugs = args.only or [it["slug"] for it in web_items]
         arch_items = archinfo_drift(slugs, baseline, args.archinfo_max)
 
@@ -243,6 +295,7 @@ def main(argv=None):
     doc = {"generated_at": utcnow_iso(), "window_months": args.months,
            "sources": sources,
            "from_web": web_items, "from_web_undated": len(undated),
+           "synced_skipped": synced_skipped, "verified_same": verified_same,
            "from_rss": feed_items or [],
            "from_archinfo": arch_items,
            "queue": queue}

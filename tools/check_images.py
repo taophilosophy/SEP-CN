@@ -39,6 +39,10 @@ HTML_IMG = re.compile(r'<img[^>]*\bsrc=["\']([^"\']+)["\']', re.I)
 # 同一行的两种写法可能重复命中，scan() 按（文件, 引用）去重。
 LINK_IMG = re.compile(r'\]\(\s*([^)\s]+\.(?:png|jpe?g|gif|svg|webp|bmp))(?:\s|\))', re.I)
 REMOTE = re.compile(r'^(https?:|data:|mailto:|ftp:|//)', re.I)
+# 站点绝对路径（/xxx）：不是本仓相对引用（rules/01 要求 assets/ 相对路径），
+# 多来自抄录的上游/检索页 HTML（如 termonline 数据里的 <img src='/root/...'>）。
+# 单列为 absolute 告警，不计悬空（2026-11-19 specs/008 审计报告实测假阳性）。
+ABS_PATH = re.compile(r'^/')
 INLINE_CODE = re.compile(r'`[^`]*`')
 IMG_EXT = ('.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.bmp')
 
@@ -92,7 +96,7 @@ def case_hit(target):
 
 
 def scan(root):
-    dangling, case_bad, remote, readable = [], [], [], 0
+    dangling, case_bad, remote, absolute, readable = [], [], [], [], 0
     referenced = set()
     md_files = []
     for dirpath, dirnames, filenames in os.walk(root):
@@ -115,10 +119,13 @@ def scan(root):
             if kind == 'link':
                 # 图片文件作链接目标（放大图 / 译注里的外部图片链接）：
                 # 外部地址不属图片本地化范畴（外链检查归 links.yml），只核本地存在性
-                if REMOTE.match(ref) or ref.startswith('#'):
+                if REMOTE.match(ref) or ref.startswith('#') or ABS_PATH.match(ref):
                     continue
             elif REMOTE.match(ref) or ref.startswith('#'):
                 remote.append((rel, ref))
+                continue
+            elif ABS_PATH.match(ref):
+                absolute.append((rel, ref))
                 continue
             target = resolve(path, ref)
             if exact_exists(target):
@@ -147,15 +154,17 @@ def scan(root):
     return {
         'md_files': len(md_files), 'readable': readable,
         'dangling': dangling, 'case': case_bad, 'remote': remote,
-        'orphans': sorted(orphans),
+        'absolute': absolute, 'orphans': sorted(orphans),
     }
 
 
 def render(res):
     out = ['# 图片检查报告', '']
-    out.append('扫描 md %d 个；可解析本地引用 %d 条；悬空 %d、大小写不符 %d、外部地址 %d、未引用资产 %d。'
+    out.append('扫描 md %d 个；可解析本地引用 %d 条；悬空 %d、大小写不符 %d、外部地址 %d、'
+               '站点绝对路径 %d、未引用资产 %d。'
                % (res['md_files'], res['readable'], len(res['dangling']),
-                  len(res['case']), len(res['remote']), len(res['orphans'])))
+                  len(res['case']), len(res['remote']), len(res.get('absolute', [])),
+                  len(res['orphans'])))
     out.append('')
     if res['dangling']:
         out += ['## 悬空引用（引用的图片文件不存在）', '', '| 词条 | 引用 |', '| ---- | ---- |']
@@ -168,6 +177,10 @@ def render(res):
     if res['remote']:
         out += ['## 未本地化（外部地址）', '', '| 词条 | 引用 |', '| ---- | ---- |']
         out += ['| %s | `%s` |' % (a, b) for a, b in res['remote']]
+        out.append('')
+    if res.get('absolute'):
+        out += ['## 站点绝对路径（`/...`，非本仓相对引用，告警）', '', '| 文档 | 引用 |', '| ---- | ---- |']
+        out += ['| %s | `%s` |' % (a, b) for a, b in res['absolute']]
         out.append('')
     if res['orphans']:
         out += ['## 未引用资产（`assets/` 下无任何引用的图片）', '']
@@ -186,10 +199,11 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     res = scan(args.root)
-    total = len(res['dangling']) + len(res['case']) + len(res['remote']) + len(res['orphans'])
-    print('图片引用检查：md %d | 可解析 %d | 悬空 %d | 大小写 %d | 外链 %d | 未引用资产 %d'
+    total = (len(res['dangling']) + len(res['case']) + len(res['remote'])
+             + len(res['absolute']) + len(res['orphans']))
+    print('图片引用检查：md %d | 可解析 %d | 悬空 %d | 大小写 %d | 外链 %d | 绝对路径 %d | 未引用资产 %d'
           % (res['md_files'], res['readable'], len(res['dangling']), len(res['case']),
-             len(res['remote']), len(res['orphans'])))
+             len(res['remote']), len(res['absolute']), len(res['orphans'])))
     if total:
         os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
         with open(args.out, 'w', encoding='utf-8', newline='') as f:

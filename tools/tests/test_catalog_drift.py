@@ -81,6 +81,22 @@ NEW_FIXTURE = (
     '</ul>\n')
 
 
+class TestFilterSynced(unittest.TestCase):
+    def test_pin_newer_than_event(self):
+        """baseline.fetched_at ≥ 事件日期 → 已同步，剔出队列。"""
+        from tools.detect_updates import filter_synced
+        base = {"entries": [
+            {"slug": "done-one", "fetched_at": "2026-11-19T00:00:00Z"},
+            {"slug": "stale-one", "fetched_at": "2026-10-26T00:00:00Z"},
+        ]}
+        web = [{"slug": "done-one", "event": "revised", "when": "2026-11-17"},
+               {"slug": "stale-one", "event": "revised", "when": "2026-11-17"},
+               {"slug": "brand-new", "event": "new", "when": "2026-11-17"}]
+        kept, skipped = filter_synced(web, base)
+        self.assertEqual(skipped, 1)
+        self.assertEqual([w["slug"] for w in kept], ["stale-one", "brand-new"])
+
+
 class TestArchinfoPending(unittest.TestCase):
     def test_pending_archive_text(self):
         """冻结后修订：archinfo 只说「is not yet archived」，无 archive edition 行。"""

@@ -50,6 +50,17 @@ def ledger_main_sha(slug):
                 None)
 
 
+def ledger_files(slug):
+    """台账该词条 files[] 的 {path: sha256}；无登记返回 {}。"""
+    path = repo_path("baseline", "entries.json")
+    if not os.path.exists(path):
+        return {}
+    rec = next((r for r in load_json(path)["entries"] if r["slug"] == slug), None)
+    if not rec:
+        return {}
+    return {f["path"]: f["sha256"] for f in rec.get("files", [])}
+
+
 def has_active_divergence(slug):
     """该词条在分歧账有登记（ADR-0045）：上游变更时须先搬运再重抓。"""
     return any(d.get("slug") == slug
@@ -83,15 +94,14 @@ def fetch_one(slug, force, archive_edition=None):
     #   上游与原始钉一致 → 不写盘不动台账；有未搬运分歧而上游已变 → 拒抓待搬运。
     old_main_sha = ledger_main_sha(slug)
     new_main_sha = sha256_bytes(data)
-    if old_main_sha and old_main_sha == new_main_sha:
-        return {"slug": slug, "result": "unchanged",
-                "note": "上游与原始网页钉一致，未写盘未动台账（ADR-0045）"}
+    prev_files = ledger_files(slug)
+    index_same = bool(old_main_sha and old_main_sha == new_main_sha)
     if old_main_sha and old_main_sha != new_main_sha and not force \
             and has_active_divergence(slug):
         return {"slug": slug,
                 "error": "上游已变且该词条存在未搬运分歧（baseline/en-errata/divergences.json）："
                          "先 compare.py 差异裁定，divergence.py carry <path> --new <快照> 随迁，再重抓"}
-    if force or not os.path.exists(idx_path) or old_main_sha != new_main_sha:
+    if force or not os.path.exists(idx_path) or not index_same:
         with open(idx_path, "wb") as f:
             f.write(data)
     entry = parser.parse_entry(open(idx_path, "rb").read().decode("utf-8", "replace"))
@@ -105,7 +115,8 @@ def fetch_one(slug, force, archive_edition=None):
 
     def save(relpath, payload):
         path = os.path.join(edir, relpath.replace("/", os.sep))
-        if force or not os.path.exists(path):
+        same = (os.path.exists(path) and sha256_file(path) == sha256_bytes(payload))
+        if force or not same:
             with open(path, "wb") as f:
                 f.write(payload)
         return {"path": "en/%s/%s" % (slug, relpath), "sha256": sha256_file(path),
@@ -163,6 +174,14 @@ def fetch_one(slug, force, archive_edition=None):
 
     rec["files"] = files
     rec["missing"] = missing
+    if not force and prev_files:
+        changed = [f["path"] for f in files
+                   if prev_files.get(f["path"]) != f["sha256"]]
+        gone = [p for p in prev_files
+                if p not in {f["path"] for f in files} and not p.endswith("index.html")]
+        if not changed and not gone:
+            return {"slug": slug, "result": "unchanged",
+                    "note": "上游与原始网页钉一致（含脚注/附件），未写盘未动台账（ADR-0045）"}
     return rec
 
 

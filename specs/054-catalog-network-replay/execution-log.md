@@ -122,3 +122,10 @@ cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.ht
 
 ### 验收
 `check_all` 17 项中 16 绿；唯一红＝图片引用完整性，命中 `specs/008-terminology-campaign/results/audit-2026-11-19.md` 内嵌 `termonline` 数据带来的 `<img src='/root/syzx/...'>`（并行会话的生成报告，非本线产物，见其 term_audit 生成器需 sanitize）；目录四方门 G1–G4 全绿，装配 sha 全等（池 194）。
+
+### 结案附带的三处工具缺口（本轮一并修）
+1. **fetch_entry 假阴性**：索引 sha 相同即早退，脚注/补充材料/资产的上游改动不可见。改为全文件钉比对（`ledger_files`），`save()` 内容不同即写；仅当 files[] 全钉一致才报 unchanged。
+2. **detect_updates 队列虚高**：90 天窗按日期列，已同步条目日日重报。加 `filter_synced`（`fetched_at` ≥ 事件日即剔）＋ `--verify-web`（抓 index.html 与钉比 sha，剔除「列表说改、实际逐字节一致」假阳性——emotion-Christian-tradition 实证）。
+3. **check_images 假阳性**：`/root/...` 站点绝对路径被判悬空（源自抄录的上游 HTML）。单列 `absolute` 告警类，不计硬门；补单测。
+
+结案后复跑：队列 0（synced_skipped 88、verified_same 1）；`check_all` 17 项全绿。

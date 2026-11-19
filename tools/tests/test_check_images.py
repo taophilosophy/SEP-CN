@@ -53,7 +53,20 @@ class ScanTest(unittest.TestCase):
                    "`<img src=\"imageN.jpg\">` 示例\n\n```\n![](../assets/x/imageN.jpg)\n```\n")
         res = self.scan()
         self.assertEqual(res["dangling"], [])
-        self.assertEqual(res["remote"], [])
+
+    def test_absolute_site_path_warn_only(self):
+        """站点绝对路径（/...）单列告警，不计悬空、不拦门禁（2026-11-19 上游数据假阳性）。"""
+        self.write("specs/x/audit.md",
+                   "| 术语 | 依据 |\n| --- | --- |\n"
+                   "| x | termonline:<img src='/root/syzx/static/spz/a.png'/> |\n")
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            code = check_images.main(["--root", self.root, "--gate",
+                                      "--out", os.path.join(self.root, "state", "r.md")])
+        self.assertEqual(code, 0)
+        res = check_images.scan(self.root)
+        self.assertEqual(res["dangling"], [])
+        self.assertEqual([r for _, r in res["absolute"]], ["/root/syzx/static/spz/a.png"])
 
     def test_external_image_reported_external_link_not(self):
         self.write("a/x.md",
