@@ -174,7 +174,7 @@ def build_account(snap_path, out_path):
     """从快照产临时账（A3 跨时点装配用；不写 baseline/）。"""
     text = open(snap_path, "rb").read().decode("utf-8")
     full = parser.parse_catalog_full(text)
-    doc = {"fetched_at": None, "source": snap_path,
+    doc = {"fetched_at": None, "source": "en/_catalog/" + os.path.basename(snap_path),
            "items": sorted(full["items"], key=lambda x: x["slug"]),
            "alias_rows": sorted(full["alias_rows"], key=lambda x: x["doc_order"]),
            "cluster_mothers": sorted(full["cluster_mothers"], key=lambda x: x["doc_order"])}
@@ -204,15 +204,20 @@ def rebuild(account, skel_doc, resid_doc):
     return "\n".join(out)
 
 
+def _basename_any(text):
+    """双分隔符 basename（Windows 绝对路径在 Linux CI 上 os.path.basename 不切分）。"""
+    return os.path.basename(str(text).replace("\\", "/"))
+
+
 def compute(snap_path, account_path=None, skeleton_path=None, residual_path=None):
     """纯判定层：返回结果 dict（不打印、不写文件）；供 --check 与四向门 G1 复用。"""
     text = open(snap_path, "rb").read().decode("utf-8")
     account = load_json(repo_path(*account_path)) if account_path else \
         load_json(repo_path("baseline", "catalog.json"))
     if account.get("source") and \
-            os.path.basename(str(account["source"])) != os.path.basename(snap_path):
+            _basename_any(account["source"]) != os.path.basename(snap_path):
         return {"equal": False, "error": "账与快照不同时点",
-                "account_source": os.path.basename(str(account["source"])),
+                "account_source": _basename_any(account["source"]),
                 "snapshot": os.path.basename(snap_path)}
     skel_doc = load_json(repo_path(*skeleton_path)) if skeleton_path else \
         load_json(repo_path(*SKELETON_PATH))

@@ -59,7 +59,9 @@ def main(argv=None):
     full = parser.parse_catalog_full(data.decode("utf-8", "replace"))
     # items 保持旧账的 slug 排序（页序由 doc_order 字段承载，specs/054 A1）
     items = sorted(full["items"], key=lambda x: x["slug"])
-    catalog = {"fetched_at": fetched_at, "source": raw_path, "items": items,
+    catalog = {"fetched_at": fetched_at,
+               "source": "en/_catalog/" + __import__("os").path.basename(raw_path),
+               "items": items,
                "alias_rows": sorted(full["alias_rows"], key=lambda x: x["doc_order"]),
                "cluster_mothers": sorted(full["cluster_mothers"], key=lambda x: x["doc_order"])}
     write_json_verified(repo_path("baseline", "catalog.json"), catalog)

@@ -68,3 +68,11 @@
 链接改写：rules/02、03（内部相对引用）、04、06、08、09 的 `[05](05-ci-and-tools.md)` → `[05](05/index.md)`；`rules/README.md` 规则索引与两处快速判例；`AGENTS.md` 必读表；`.vitepress/README.md`；`.github/workflows/checks.yml` 注释。子文件内相对链接整体上移一级（`../0X-*.md`、`../adr/`、`../../.vitepress/`）。旧文件 `git rm`。
 
 验收：`check_doc_size` 达标（rules/ 全部回到限内）、`check_layout` L1–L4 全绿、`check_catalog_network --gate` 四门绿、全量 `check_all` 见下。
+
+## 2026-11-19 第三轮：CI 实红两处（均为本会话缺陷）＋修复
+
+1. **漏件提交（已推缺陷）**：`check_catalog_network.py` 调用 `R.compute()`，但 `compute()` 重构未随 `05fb857d0` 入提交（pathspec 漏 `tools/rebuild_catalog.py`），本地绿因工作区有新版 → CI 该门 AttributeError。修：补提交 `fa1c25d5e`。教训：提交后须以 `git show HEAD:<file>` 对照工作区核实关键调用面，不能只信本地门禁绿。
+2. **路径可移植性（真实二红）**：`baseline/catalog.json` 的 `source` 写 Windows 绝对路径，CI（Linux）上 `os.path.basename` 不切反斜杠 → G1 判“账与快照不同时点”。修：写账改相对路径（`en/_catalog/<名>`）＋比对端 `_basename_any` 双分隔符归一；旧账向后兼容。回归单测 `test_basename_any_cross_platform`。
+3. 另：`rules/05` 拆分批次被并行会话 `git add -A` 型 sweep 收编进其提交 `8fc52eb0d`；内容经 `git show HEAD:rules/05/*` 核实完整（8 份子文件＋旧文件已删），不重复提交。
+
+两处修复后：两时点 `--check` 仍 sha256 全等（`205a4fec…` / `9a230fc0…`）；`check_catalog_network --gate` 退出 0；单测全绿。

@@ -39,6 +39,16 @@ def account_from_fixture():
 
 
 class TestStripVariants(unittest.TestCase):
+    def test_basename_any_cross_platform(self):
+        """账内 source 曾写 Windows 绝对路径，Linux CI 上 os.path.basename 不切分 →
+        误判“账与快照不同时点”（2026-11-19 CI 实红）。双分隔符归一须成立。"""
+        from tools.rebuild_catalog import _basename_any
+        win = "C:\\Users\\x\\SEP-CN\\en\\_catalog\\20261114T231750Z-contents.html"
+        posix = "en/_catalog/20261114T231750Z-contents.html"
+        want = "20261114T231750Z-contents.html"
+        self.assertEqual(_basename_any(win), want)
+        self.assertEqual(_basename_any(posix), want)
+
     def test_exact(self):
         self.assertEqual(strip_variants("<li> x </li>", "<li> x </li>"), ())
 
